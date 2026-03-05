@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "orhanfevzigmrkolu_5a868a3f",
+    "title": "Orhan Fevzi Gümrükçüoğlu",
+    "url": "https://tr.wikipedia.org/wiki/Orhan_Fevzi_G%C3%BCmr%C3%BCk%C3%A7%C3%BCo%C4%9Flu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:11.619134",
+    "content": "Orhan Fevzi Gümrükçüoğlu, (7 Ocak 1952, Akçaabat, Trabzon), eski Sağlık Bakanlığı müsteşarı. 2009-2019 yılları arasında Trabzon belediye başkanlığı yapmış olan Türk siyasetçi. Görevini 2019 Türkiye yerel seçimlerini kazanan Murat Zorluoğlu'na devretmiştir. == Yaşamı == 7 Ocak 1952 tarihinde Trabzon'un Akçaabat ilçesinde doğdu. 1996 yılında dönemin cumhurbaşkanı Süleyman Demirel'e karşı silahlı saldırıda bulunduğu iddia edilen İbrahim Gümrükçüoğlu'nun kardeşidir. İlk ve orta eğitimini Trabzon'da tamamladı. K.T.Ü Yer Bilimleri Fakültesi Jeoloji Mühendisliği'ni 1975 yılında bitirerek, Etibank Maden Aramaları Daire Başkanlığı'nda maden mühendisi olarak çalışmaya başladı. 1979 yılında bu görevden istifa ederek, Atatürk Üniversitesi Tıp Fakültesi’nde tıp eğitimi almaya başladı. Buradan mezun olunca, Trabzon'un birçok yerinde sağlık ocağı hekimi olarak çalıştı. Yurdun çeşitli yerlerinde sağlık sektöründe değişik görevlerde bulundu. 2004 yılında İlaç ve Eczacılık Genel Müdürlüğü'ne başkan vekili olarak atandı. 2005'ten itibaren Sağlık Bakanlığı'nda müsteşar yardımcısı ve 2007 den itibaren sağlık bakanlığı müsteşarı olarak çalışan Gümrükçüoğlu, 2009 yerel seçimleri öncesi AK Parti Trabzon belediye başkan adayı olarak, seçmenlerin karşısına çıktı. 30 Mart sabahı seçimin galibi olarak, Trabzon Belediye Başkanlığı'na seçildi. === Seçim süreci === Seçim öncesi Sağlık Bakanlığı'ndaki görevinden istifa ederek; 2009 Yerel seçimleri öncesinde Trabzon'dan AK Parti aday adayı olan Gümrükçüoğlu, daha sonra parti tarafından resmen aday gösterildi. Seçim sürecinin başında en büyük rakibi, zamanın CHP Trabzon Belediye Başkanı Volkan Canalioğlu'nun gerisinde göründü. Ancak sürecin ilerleyen kısmında; özellikle Gümrükçüoğlu'nun yapacağını açıkladığı \"61 Proje\" ve bu projelerin içinde bulunan Trabzonspor'un geleceği olarak görülen Akyazı Kent Stadı Projesi'nin de halk nabzında büyük ilgi görmesiyle; Gümrükçüoğlu öne geçti. 29 Mart'ta -seçim günü geldiğinde- seçimin başa baş geçmesi bekleniyordu. MHP seçmenlerinin tamamına yakınının CHP adayı Canalioğlu'nu desteklemesine rağmen seçim Gümrükçüoğlu'nun üstünlüğüyle tamamlandı.2014 yılında yapılan yerel seçimlerde yine rakibi olan Volkan Canalioğlu'nu %59,4 ile geçerek Trabzon'un ilk Büyükşehir Belediye Başkanı seçilmiştir ve bu görevini 2019 yılına kadar sürdürmüştür. İyi derecede İngilizce bilmektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 297,
+      "char_count": 2381,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.046948",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 257,
+      "content": "Orhan Fevzi Gümrükçüoğlu, (7 Ocak 1952, Akçaabat, Trabzon), eski Sağlık Bakanlığı müsteşarı. 2009-2019 yılları arasında Trabzon belediye başkanlığı yapmış olan Türk siyasetçi. Görevini 2019 Türkiye yerel seçimlerini kazanan Murat Zorluoğlu'na devretmiştir.",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 257,
+      "end_char": 1257,
+      "content": "== Yaşamı == 7 Ocak 1952 tarihinde Trabzon'un Akçaabat ilçesinde doğdu. 1996 yılında dönemin cumhurbaşkanı Süleyman Demirel'e karşı silahlı saldırıda bulunduğu iddia edilen İbrahim Gümrükçüoğlu'nun kardeşidir. İlk ve orta eğitimini Trabzon'da tamamladı. K.T.Ü Yer Bilimleri Fakültesi Jeoloji Mühendisliği'ni 1975 yılında bitirerek, Etibank Maden Aramaları Daire Başkanlığı'nda maden mühendisi olarak çalışmaya başladı. 1979 yılında bu görevden istifa ederek, Atatürk Üniversitesi Tıp Fakültesi’nde tıp eğitimi almaya başladı. Buradan mezun olunca, Trabzon'un birçok yerinde sağlık ocağı hekimi olarak çalıştı. Yurdun çeşitli yerlerinde sağlık sektöründe değişik görevlerde bulundu. 2004 yılında İlaç ve Eczacılık Genel Müdürlüğü'ne başkan vekili olarak atandı. 2005'ten itibaren Sağlık Bakanlığı'nda müsteşar yardımcısı ve 2007 den itibaren sağlık bakanlığı müsteşarı olarak çalışan Gümrükçüoğlu, 2009 yerel seçimleri öncesi AK Parti Trabzon belediye başkan adayı olarak, seçmenlerin karşısına çıktı.",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1057,
+      "end_char": 1335,
+      "content": "müsteşar yardımcısı ve 2007 den itibaren sağlık bakanlığı müsteşarı olarak çalışan Gümrükçüoğlu, 2009 yerel seçimleri öncesi AK Parti Trabzon belediye başkan adayı olarak, seçmenlerin karşısına çıktı. 30 Mart sabahı seçimin galibi olarak, Trabzon Belediye Başkanlığı'na seçildi.",
+      "char_count": 278,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0003",
+      "section": "=== Seçim süreci ===",
+      "heading_path": "=== Seçim süreci ===",
+      "start_char": 1336,
+      "end_char": 2336,
+      "content": "=== Seçim süreci === Seçim öncesi Sağlık Bakanlığı'ndaki görevinden istifa ederek; 2009 Yerel seçimleri öncesinde Trabzon'dan AK Parti aday adayı olan Gümrükçüoğlu, daha sonra parti tarafından resmen aday gösterildi. Seçim sürecinin başında en büyük rakibi, zamanın CHP Trabzon Belediye Başkanı Volkan Canalioğlu'nun gerisinde göründü. Ancak sürecin ilerleyen kısmında; özellikle Gümrükçüoğlu'nun yapacağını açıkladığı \"61 Proje\" ve bu projelerin içinde bulunan Trabzonspor'un geleceği olarak görülen Akyazı Kent Stadı Projesi'nin de halk nabzında büyük ilgi görmesiyle; Gümrükçüoğlu öne geçti. 29 Mart'ta -seçim günü geldiğinde- seçimin başa baş geçmesi bekleniyordu. MHP seçmenlerinin tamamına yakınının CHP adayı Canalioğlu'nu desteklemesine rağmen seçim Gümrükçüoğlu'nun üstünlüğüyle tamamlandı.2014 yılında yapılan yerel seçimlerde yine rakibi olan Volkan Canalioğlu'nu %59,4 ile geçerek Trabzon'un ilk Büyükşehir Belediye Başkanı seçilmiştir ve bu görevini 2019 yılına kadar sürdürmüştür. İyi d",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "=== Seçim süreci ===",
+      "heading_path": "=== Seçim süreci ===",
+      "start_char": 2136,
+      "end_char": 2366,
+      "content": "014 yılında yapılan yerel seçimlerde yine rakibi olan Volkan Canalioğlu'nu %59,4 ile geçerek Trabzon'un ilk Büyükşehir Belediye Başkanı seçilmiştir ve bu görevini 2019 yılına kadar sürdürmüştür. İyi derecede İngilizce bilmektedir.",
+      "char_count": 230,
+      "token_estimate": 57
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gümrükçüoğlu, ilk ve orta eğitimini nerede tamamlamıştır?",
+        "answer": "Trabzon'da.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Orhan Fevzi Gümrükçüoğlu'nun Sağlık Bakanlığı'ndaki görevinden Trabzon belediye başkanlığına geçiş süreci nasıl gerçekleşmiştir?",
+        "answer": "Orhan Fevzi Gümrükçüoğlu, 2005 yılından itibaren Sağlık Bakanlığı'nda müsteşar yardımcısı olarak görev yaptı ve 2007'den itibaren Sağlık Bakanlığı müsteşarı olarak çalıştı. Bu görevinin ardından, 2009 yerel seçimleri öncesinde AK Parti'nin Trabzon belediye başkan adayı oldu ve 2009-2019 yılları arasında Trabzon belediye başkanlığı görevini yürüttü.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

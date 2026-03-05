@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "arcnet_0ce87633",
+    "title": "ARCNET",
+    "url": "https://tr.wikipedia.org/wiki/ARCNET",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:31.679302",
+    "content": "ARCnet (benzeşik bilgisayarlar ağının bir kısaltması), bir yerel alan ağı protokolüdür. Amaç bakımından Ethernet ve Token Ring'e benzemektedir. ARCnet mikrobilgisayarlar için yaygın olarak kullanılabilen ilk ağ sistemidir ve 1980'lerde ofis otomasyonu için popüler hale gelmiştir. O zamandan beri, protokolün bazı özelliklerinin özellikle yararlı olduğu gömülü sistemler pazarında değer kazanmıştır. == Tanımı == ARCnet ister pasif ister aktif hub olsun yıldız topolojisinde 93 (ohm) özdirençli RG-62/U kabloyu kullandı. En çok tercih edilen zamanlarında olması Ethernet'e göre büyük bir avantajdı. Yıldız ağının yapılması ve genişletilmesi doğrusal olmayan ağdan daha kolaydı. Birbiriyle ilişkili ağlar topolojisi tüm internet ağını kapatmadan düğüm ekleyip çıkarmayı ve karmaşık lan'lar içindeki hataları tanımlamayı ve ayıklamayı daha kolay hale getirdi. ARCnet'in Ethernet üzerindeki bir başka faydası da kablo mesafesiydi. ARCnet kablosunun uzunluğu aktif hublar arasında ya da aktif bir hub ve son düğüm arasında 610 m'ye kadar çıkabilirdi. Fakat o zamanlar en çok kullanılan 50 dirençlik RG 58'lik ince Ethernet kablosu sadece 1880 m uzunluğa sahipti. İnce Ethernet kablosu düğümlerin doğrusal kablo boyunca her yerde olmasına izin verirken ARCnet, eğer ağda birden fazla düğüm varsa ister aktif ister pasif olsun düğümler arasında hub oluşturma avantajına sahipti. Bununla birlikte ARCnet pasif hub'la çok pahalı değildi. Küçük, basit ve güçsüz dört portlu bir kutuydu. Bundan dolayı çok tercih edilirdi. Pasif hublar düğüm ile 30 metreye varan aktif hub arasındaki mesafeyi azaltır. Pasif bir hub doğrudan bir başka pasif hub'a bağlanamaz. Hub'ların her iki tarafındaki kullanılmayan hub'lar özel bir ayırıcı ile etkisiz hale getirilmelidir. Fiyattan tasarruf için, geniş bir alanı kapsamasına rağmen, her biri 60 m mesafeyi geçmeyecek bir kapsama sağlayan birbirleriyle bağlantılı bir ya da daha fazla aktif hub'la deneme yapılmalıdır. Kablo aktif hubların her bir portundan 30 m mesafeyi geçmeyecek farklı bir yere uzatılır. Daha sonra pasif hub kablonun sonuna eklenir ve kablolar pasif hub'dan yerden 3 tane düğüm bağlanmasına izin verecek şekilde uzatılır. Bu şekilde bir adet 8 portlu aktif hub çap olarak 120 metreyi aşmayacak bir alan üzerinde 24 adet cihaz İnternete bağlanabilmek için kullanılabilir. ARCnet bir ağ için sadece 255 düğüme izin verir. Düğüm kimliği ağ için LAN istasyonları tipik olarak kurulur. Ağ arabirim kartları üzerinde DIP anahtarları tarafından daha geniş ağlar daha küçük çapta ağlara ayrıştırılmalıdır ve köprülenmelidir. Olası düğümlerin küçük bir miktarı ve kimliklerin el ile yapılandırılması gereksinimi Ethernet ile karşılaştırıldığına, özellikle de geniş şirket ağları yaygınlaştıkça ARCnet için bir dezavantajdır. Ağ erişimine aracılık etmek için ARCnet, Token Ring, işaret geçişi zamanı kullanır. Ethernet ise CSMA\\CD şemasını kullanır. Eşler aktif değilken, tek bir adet \"işaret\" mesajı makineden makineye gezdirilir ve hiçbir eşin ağ yolunu kullanmasına izin verilmez, eğer işarete sahip değilse. Eğer belli bir eş mesaj göndermek isterse, işaretli alana kadar bekler, kendi mesajını gönderir ve sonra işareti diğer istasyona geçirir. ARCnet dağıtıcı olarak kullanıldığından, işaretleri makineden makineye aktarılmaz. Onun yerine yeni bir düğüm eklenir ve eklendiğinde tekrar tanımlama meydana gelir. Her düğüm yerini öğrenir. Düğümler arası iletişim sağlanmış olur. == Kaynakça Listesi ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 479,
+      "char_count": 3443,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.694507",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 400,
+      "content": "ARCnet (benzeşik bilgisayarlar ağının bir kısaltması), bir yerel alan ağı protokolüdür. Amaç bakımından Ethernet ve Token Ring'e benzemektedir. ARCnet mikrobilgisayarlar için yaygın olarak kullanılabilen ilk ağ sistemidir ve 1980'lerde ofis otomasyonu için popüler hale gelmiştir. O zamandan beri, protokolün bazı özelliklerinin özellikle yararlı olduğu gömülü sistemler pazarında değer kazanmıştır.",
+      "char_count": 399,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0001",
+      "section": "== Tanımı ==",
+      "heading_path": "== Tanımı ==",
+      "start_char": 400,
+      "end_char": 1400,
+      "content": "== Tanımı == ARCnet ister pasif ister aktif hub olsun yıldız topolojisinde 93 (ohm) özdirençli RG-62/U kabloyu kullandı. En çok tercih edilen zamanlarında olması Ethernet'e göre büyük bir avantajdı. Yıldız ağının yapılması ve genişletilmesi doğrusal olmayan ağdan daha kolaydı. Birbiriyle ilişkili ağlar topolojisi tüm internet ağını kapatmadan düğüm ekleyip çıkarmayı ve karmaşık lan'lar içindeki hataları tanımlamayı ve ayıklamayı daha kolay hale getirdi. ARCnet'in Ethernet üzerindeki bir başka faydası da kablo mesafesiydi. ARCnet kablosunun uzunluğu aktif hublar arasında ya da aktif bir hub ve son düğüm arasında 610 m'ye kadar çıkabilirdi. Fakat o zamanlar en çok kullanılan 50 dirençlik RG 58'lik ince Ethernet kablosu sadece 1880 m uzunluğa sahipti. İnce Ethernet kablosu düğümlerin doğrusal kablo boyunca her yerde olmasına izin verirken ARCnet, eğer ağda birden fazla düğüm varsa ister aktif ister pasif olsun düğümler arasında hub oluşturma avantajına sahipti. Bununla birlikte ARCnet pas",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tanımı ==",
+      "heading_path": "== Tanımı ==",
+      "start_char": 1200,
+      "end_char": 2200,
+      "content": " kablo boyunca her yerde olmasına izin verirken ARCnet, eğer ağda birden fazla düğüm varsa ister aktif ister pasif olsun düğümler arasında hub oluşturma avantajına sahipti. Bununla birlikte ARCnet pasif hub'la çok pahalı değildi. Küçük, basit ve güçsüz dört portlu bir kutuydu. Bundan dolayı çok tercih edilirdi. Pasif hublar düğüm ile 30 metreye varan aktif hub arasındaki mesafeyi azaltır. Pasif bir hub doğrudan bir başka pasif hub'a bağlanamaz. Hub'ların her iki tarafındaki kullanılmayan hub'lar özel bir ayırıcı ile etkisiz hale getirilmelidir. Fiyattan tasarruf için, geniş bir alanı kapsamasına rağmen, her biri 60 m mesafeyi geçmeyecek bir kapsama sağlayan birbirleriyle bağlantılı bir ya da daha fazla aktif hub'la deneme yapılmalıdır. Kablo aktif hubların her bir portundan 30 m mesafeyi geçmeyecek farklı bir yere uzatılır. Daha sonra pasif hub kablonun sonuna eklenir ve kablolar pasif hub'dan yerden 3 tane düğüm bağlanmasına izin verecek şekilde uzatılır. Bu şekilde bir adet 8 portlu ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tanımı ==",
+      "heading_path": "== Tanımı ==",
+      "start_char": 2000,
+      "end_char": 3000,
+      "content": "eçmeyecek farklı bir yere uzatılır. Daha sonra pasif hub kablonun sonuna eklenir ve kablolar pasif hub'dan yerden 3 tane düğüm bağlanmasına izin verecek şekilde uzatılır. Bu şekilde bir adet 8 portlu aktif hub çap olarak 120 metreyi aşmayacak bir alan üzerinde 24 adet cihaz İnternete bağlanabilmek için kullanılabilir. ARCnet bir ağ için sadece 255 düğüme izin verir. Düğüm kimliği ağ için LAN istasyonları tipik olarak kurulur. Ağ arabirim kartları üzerinde DIP anahtarları tarafından daha geniş ağlar daha küçük çapta ağlara ayrıştırılmalıdır ve köprülenmelidir. Olası düğümlerin küçük bir miktarı ve kimliklerin el ile yapılandırılması gereksinimi Ethernet ile karşılaştırıldığına, özellikle de geniş şirket ağları yaygınlaştıkça ARCnet için bir dezavantajdır. Ağ erişimine aracılık etmek için ARCnet, Token Ring, işaret geçişi zamanı kullanır. Ethernet ise CSMA\\CD şemasını kullanır. Eşler aktif değilken, tek bir adet \"işaret\" mesajı makineden makineye gezdirilir ve hiçbir eşin ağ yolunu kulla",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Tanımı ==",
+      "heading_path": "== Tanımı ==",
+      "start_char": 2800,
+      "end_char": 3420,
+      "content": "Cnet, Token Ring, işaret geçişi zamanı kullanır. Ethernet ise CSMA\\CD şemasını kullanır. Eşler aktif değilken, tek bir adet \"işaret\" mesajı makineden makineye gezdirilir ve hiçbir eşin ağ yolunu kullanmasına izin verilmez, eğer işarete sahip değilse. Eğer belli bir eş mesaj göndermek isterse, işaretli alana kadar bekler, kendi mesajını gönderir ve sonra işareti diğer istasyona geçirir. ARCnet dağıtıcı olarak kullanıldığından, işaretleri makineden makineye aktarılmaz. Onun yerine yeni bir düğüm eklenir ve eklendiğinde tekrar tanımlama meydana gelir. Her düğüm yerini öğrenir. Düğümler arası iletişim sağlanmış olur.",
+      "char_count": 620,
+      "token_estimate": 155
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "ARCnet, yıldız topolojisinde hangi özdirençli ve tipte kabloyu kullandı?",
+        "answer": "ARCnet, yıldız topolojisinde 93 ohm özdirençli RG-62/U kabloyu kullandı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "ARCnet'in yıldız topolojisi ve hub kullanımı gibi mimari özellikleri, Ethernet'e kıyasla ağ kurulumu ve yönetiminde nasıl avantajlar sağlamıştır ve pasif hub uygulamasının temel faydası neydi?",
+        "answer": "ARCnet, Ethernet gibi bir yerel alan ağı protokolü olup, yıldız topolojisini aktif veya pasif hub'larla kullanarak ağ kurulumu ve genişletilmesini doğrusal olmayan ağlardan daha kolay hale getirmiştir. Bu topoloji, tüm ağı kapatmaya gerek kalmadan düğüm eklemeyi veya çıkarmayı, karmaşık LAN'lardaki hataları tanımlamayı ve ayıklamayı kolaylaştırmıştır. Ayrıca, ince Ethernet kablosu düğümlerin doğrusal kablo boyunca her yerde olmasına izin verirken, ARCnet'in birden fazla düğüm olduğunda düğümler arasında hub oluşturma avantajı vardı. Pasif hub'ların temel faydası, küçük, basit, güçsüz ve çok pahalı olmamalarıydı, bu da onları oldukça tercih edilir kılıyordu ve aktif hub'lar arasında 30 metreye kadar mesafedeki düğümleri bağlayarak ağ kapsamını uygun maliyetle genişletmeye yardımcı oluyordu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

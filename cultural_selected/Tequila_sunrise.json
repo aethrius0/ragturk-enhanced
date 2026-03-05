@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "tequilasunrise_fa743d24",
+    "title": "Tequila sunrise",
+    "url": "https://tr.wikipedia.org/wiki/Tequila_sunrise",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:22.087753",
+    "content": "Tequila sunrise, tekila, portakal suyu ve grenadine şurubu ile yapılan bir kokteyldir. İçecek uzun bir bardakta, karıştırılmadan servis edilir. Modern içecek, 1930'larda Phoenix, Arizona'da yaratılan daha eski bir versiyonun ardından, 1970'lerin başında Kaliforniya, Sausalito'da ortaya çıkmıştır. Kokteyl, servis edildiğinde ters bir gün doğumunu andıran renk tonlamasına sahip olduğu için bu ismi almıştır. == Tarihçe == 1930 veya 1940'larda Arizona Biltmore Oteli'nde Gene Sulit tarafından yaratılan orijinal tarif tekila, crème de cassis, misket limonu suyu ve soda içeriyordu. Kokteylin daha popüler olan modern versiyonu, tekila, portakal suyu ve grenadine içerir. Bobby Lozoff ve Billy Rice tarafından 1970'lerin başında San Francisco'nun kuzeyindeki Sausalito'daki The Trident adlı restoranda yaratılmıştır. Bill Graham'ın Rolling Stones'un 1972 Amerika turnesinin başlangıcı için Trident'te düzenlediği bir partide Mick Jagger kokteyllerden birini içip beğenmiş ve arkadaşlarıyla birlikte içmeye başlamıştır. Daha sonra bu kokteyli Amerika'nın her yerinde sipariş ettiler, hatta turun adını da \"kokain ve tequila sunrise turu\" koymuşlardır. Lozoff'a göre Trident, o dönemde ABD'deki en büyük tekila satış noktasıydı. 1973 yılında Jose Cuervo bu yeni içeceği bir pazarlama fırsatı olarak gördü ve tarifini tekila şişelerinin arkasına koydu ve başka şekillerde de tanıttı. Aynı yılın ilerleyen zamanlarında Eagles, içkinin popülaritesi artarken Desperado albümleri için \"Tequila Sunrise\" adlı bir şarkı kaydetti. 1988 yılında Michelle Pfeiffer, Mel Gibson ve Kurt Russell'ın başrollerini paylaştığı ve Robert Towne'ın yönettiği Tequila Sunrise adlı başarılı bir film gösterime girdi. 25 Haziran 2023'te Marin Tarih Müzesi, Rolling Stones partisinin ve tequila sunrise'ın yeniden yorumlanmasının anısına Trident restorana bir tarihi işaret levhası koymuştur. == Hazırlanışı ve servisi == Tequila sunrise bir \"long drink\" olarak kabul edilir ve genellikle collins veya highball bardakta servis edilir. Kokteyl, buz dolu bardağa önce tekila, ardından portakal suyu ve en son grenadine şurubu eklenerek hazırlanır. İçeceğin ikonik görüntüsü, grenadine'in diğer malzemelerle karışmasına izin vermeden eklenmesiyle elde edilir. Şurup, eklenirken içeceğe karışmaması için bir kaşık yardımıyla bardağın kenarından en alt katmana doğru yönlendirilebilir. == Ayrıca bakınız == Kokteyl listesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 318,
+      "char_count": 2404,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.345642",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 409,
+      "content": "Tequila sunrise, tekila, portakal suyu ve grenadine şurubu ile yapılan bir kokteyldir. İçecek uzun bir bardakta, karıştırılmadan servis edilir. Modern içecek, 1930'larda Phoenix, Arizona'da yaratılan daha eski bir versiyonun ardından, 1970'lerin başında Kaliforniya, Sausalito'da ortaya çıkmıştır. Kokteyl, servis edildiğinde ters bir gün doğumunu andıran renk tonlamasına sahip olduğu için bu ismi almıştır.",
+      "char_count": 408,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 409,
+      "end_char": 1409,
+      "content": "== Tarihçe == 1930 veya 1940'larda Arizona Biltmore Oteli'nde Gene Sulit tarafından yaratılan orijinal tarif tekila, crème de cassis, misket limonu suyu ve soda içeriyordu. Kokteylin daha popüler olan modern versiyonu, tekila, portakal suyu ve grenadine içerir. Bobby Lozoff ve Billy Rice tarafından 1970'lerin başında San Francisco'nun kuzeyindeki Sausalito'daki The Trident adlı restoranda yaratılmıştır. Bill Graham'ın Rolling Stones'un 1972 Amerika turnesinin başlangıcı için Trident'te düzenlediği bir partide Mick Jagger kokteyllerden birini içip beğenmiş ve arkadaşlarıyla birlikte içmeye başlamıştır. Daha sonra bu kokteyli Amerika'nın her yerinde sipariş ettiler, hatta turun adını da \"kokain ve tequila sunrise turu\" koymuşlardır. Lozoff'a göre Trident, o dönemde ABD'deki en büyük tekila satış noktasıydı. 1973 yılında Jose Cuervo bu yeni içeceği bir pazarlama fırsatı olarak gördü ve tarifini tekila şişelerinin arkasına koydu ve başka şekillerde de tanıttı. Aynı yılın ilerleyen zamanlar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1209,
+      "end_char": 1864,
+      "content": "atış noktasıydı. 1973 yılında Jose Cuervo bu yeni içeceği bir pazarlama fırsatı olarak gördü ve tarifini tekila şişelerinin arkasına koydu ve başka şekillerde de tanıttı. Aynı yılın ilerleyen zamanlarında Eagles, içkinin popülaritesi artarken Desperado albümleri için \"Tequila Sunrise\" adlı bir şarkı kaydetti. 1988 yılında Michelle Pfeiffer, Mel Gibson ve Kurt Russell'ın başrollerini paylaştığı ve Robert Towne'ın yönettiği Tequila Sunrise adlı başarılı bir film gösterime girdi. 25 Haziran 2023'te Marin Tarih Müzesi, Rolling Stones partisinin ve tequila sunrise'ın yeniden yorumlanmasının anısına Trident restorana bir tarihi işaret levhası koymuştur.",
+      "char_count": 655,
+      "token_estimate": 163
+    },
+    {
+      "id": "c0003",
+      "section": "== Hazırlanışı ve servisi ==",
+      "heading_path": "== Hazırlanışı ve servisi ==",
+      "start_char": 1865,
+      "end_char": 2353,
+      "content": "== Hazırlanışı ve servisi == Tequila sunrise bir \"long drink\" olarak kabul edilir ve genellikle collins veya highball bardakta servis edilir. Kokteyl, buz dolu bardağa önce tekila, ardından portakal suyu ve en son grenadine şurubu eklenerek hazırlanır. İçeceğin ikonik görüntüsü, grenadine'in diğer malzemelerle karışmasına izin vermeden eklenmesiyle elde edilir. Şurup, eklenirken içeceğe karışmaması için bir kaşık yardımıyla bardağın kenarından en alt katmana doğru yönlendirilebilir.",
+      "char_count": 487,
+      "token_estimate": 121
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2353,
+      "end_char": 2390,
+      "content": "== Ayrıca bakınız == Kokteyl listesi",
+      "char_count": 36,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Modern Tequila Sunrise kokteylinin yaratıcıları kimlerdir?",
+        "answer": "Bobby Lozoff ve Billy Rice.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tequila Sunrise kokteylinin orijinal ve modern versiyonları arasındaki temel farklar nelerdir ve modern versiyonun geniş çapta popülerleşmesinde hangi faktörler etkili olmuştur?",
+        "answer": "Orijinal Tequila Sunrise, 1930'lar veya 1940'larda Gene Sulit tarafından Arizona Biltmore Oteli'nde tekila, crème de cassis, misket limonu suyu ve soda ile yaratılmıştır. Modern versiyon ise 1970'lerin başında Bobby Lozoff ve Billy Rice tarafından Sausalito'daki The Trident adlı restoranda tekila, portakal suyu ve grenadine şurubu kullanılarak yapılmıştır. Modern versiyonun popülerleşmesinde, 1972'deki Rolling Stones turnesi sırasında Mick Jagger'ın içeceği beğenip yaygınlaştırması, 1973'te Jose Cuervo'nun tarifi şişelerinin arkasına ekleyerek pazarlaması, Eagles'ın aynı yıl \"Tequila Sunrise\" adlı bir şarkı kaydetmesi ve 1988'de aynı adlı bir filmin gösterime girmesi gibi faktörler etkili olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "albigeoishalseferi_df9ba54e",
+    "title": "Albigeois Haçlı Seferi",
+    "url": "https://tr.wikipedia.org/wiki/Albigeois_Ha%C3%A7l%C4%B1_Seferi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:22.142727",
+    "content": "Albigeois Haçlı seferi, Albililer'e (Katharlar) yönelik yapılmıştır. 1209 yılında Kuzey Avrupa'dan 30.000 kişilik şövalyeler ve piyadelerden oluşan bir Haçlı Ordusu, şimdiki Güney Fransa olarak bilinen Pirene dağlarının eteklerine indiler. Yapılan savaşta bütün topraklar ele geçirildi, ekinler yok edildi, kasaba ve şehirler yağmalandı, tüm ahali kılıçtan geçirildi. Bazı tarihçiler tarafından bu olay Avrupa tarihinde ilk soykırım olduğu ileri sürülmüştü. Sadece Beziers kasabasında 15.000 kadın erkek ve çocuk katledildi. Katliamların çoğu da kiliselerde yapıldı. Papalık temsilcisi Papa II. İnnocentius'a yazdığı mektubunda, \"Kadın erkek çocuk ayrımı yapılmadan herkes öldürüldü. Tanrı hangisinin günahkar olduğunu kendi seçsin!\" diyor. Beziers'ten sonra, tüm Languedoc bölgesi işgal edildi. Perpignan, Narbonne, Carcassonne, Toulouse düştü. Bu saldırı, Papa'nın emridir ve saldırıların urbalarında Haç işareti vardır. Ganimet elde etme ve günahlarından kurtulma amacıyla yola çıkan orduyu güneyin zenginlikleri kışkırtmıştı. Onlar Kathar kökenli bölgeyi günahkar buluyorlardı. == Bölgenin özellikleri == Saldırı yapılan bölge, kültürel, bilimsel, ekonomik olarak Yukarı Fransa'ya benzemiyordu. Bölgede Yunanca, İbranice ve Arapça ders olarak okutuluyor ve Endülüslerle senkronize hareket ediliyordu. Kuzeydeki asiller isimlerini yazamazken buradakiler edebiyat ile uğraşıyorlardı. == Katliamdan sonra == Bölge harap edildi, on binlerce insan kılıçtan geçirildi, canlarını kurtaranlar daha sonra Engizisyonda yargılanıp yakıldı. Avrupa üç yüzyıl daha geriye gitti. == Popüler kültür == Iron Maiden'ın Dance of Death adlı albümünde yer alan Montsegur adlı şarkı, bu sefer sırasında yapılan katliamdan bahseder. == Notlar == == Ayrıca bakınız == Katharizm Haçlı Seferleri == Dış bağlantılar == Roquebert, Michel (2002) Histoire Cathares Paris:Perrin ISBN 2-262-01894-4 (Fransızca). Oldenbourg, Zoe (2003) Le bûcher de Montségur - 16 mars 1244, Paris:Galimard ISBN 2-07-032507-9 (Fransizca).",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 254,
+      "char_count": 1992,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.160779",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Albigeois Haçlı seferi, Albililer'e (Katharlar) yönelik yapılmıştır. 1209 yılında Kuzey Avrupa'dan 30.000 kişilik şövalyeler ve piyadelerden oluşan bir Haçlı Ordusu, şimdiki Güney Fransa olarak bilinen Pirene dağlarının eteklerine indiler. Yapılan savaşta bütün topraklar ele geçirildi, ekinler yok edildi, kasaba ve şehirler yağmalandı, tüm ahali kılıçtan geçirildi. Bazı tarihçiler tarafından bu olay Avrupa tarihinde ilk soykırım olduğu ileri sürülmüştü. Sadece Beziers kasabasında 15.000 kadın erkek ve çocuk katledildi. Katliamların çoğu da kiliselerde yapıldı. Papalık temsilcisi Papa II. İnnocentius'a yazdığı mektubunda, \"Kadın erkek çocuk ayrımı yapılmadan herkes öldürüldü. Tanrı hangisinin günahkar olduğunu kendi seçsin!\" diyor. Beziers'ten sonra, tüm Languedoc bölgesi işgal edildi. Perpignan, Narbonne, Carcassonne, Toulouse düştü. Bu saldırı, Papa'nın emridir ve saldırıların urbalarında Haç işareti vardır. Ganimet elde etme ve günahlarından kurtulma amacıyla yola çıkan orduyu güneyi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1081,
+      "content": "ignan, Narbonne, Carcassonne, Toulouse düştü. Bu saldırı, Papa'nın emridir ve saldırıların urbalarında Haç işareti vardır. Ganimet elde etme ve günahlarından kurtulma amacıyla yola çıkan orduyu güneyin zenginlikleri kışkırtmıştı. Onlar Kathar kökenli bölgeyi günahkar buluyorlardı.",
+      "char_count": 281,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0002",
+      "section": "== Bölgenin özellikleri ==",
+      "heading_path": "== Bölgenin özellikleri ==",
+      "start_char": 1082,
+      "end_char": 1386,
+      "content": "== Bölgenin özellikleri == Saldırı yapılan bölge, kültürel, bilimsel, ekonomik olarak Yukarı Fransa'ya benzemiyordu. Bölgede Yunanca, İbranice ve Arapça ders olarak okutuluyor ve Endülüslerle senkronize hareket ediliyordu. Kuzeydeki asiller isimlerini yazamazken buradakiler edebiyat ile uğraşıyorlardı.",
+      "char_count": 303,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0003",
+      "section": "== Katliamdan sonra ==",
+      "heading_path": "== Katliamdan sonra ==",
+      "start_char": 1386,
+      "end_char": 1569,
+      "content": "== Katliamdan sonra == Bölge harap edildi, on binlerce insan kılıçtan geçirildi, canlarını kurtaranlar daha sonra Engizisyonda yargılanıp yakıldı. Avrupa üç yüzyıl daha geriye gitti.",
+      "char_count": 182,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0004",
+      "section": "== Popüler kültür ==",
+      "heading_path": "== Popüler kültür ==",
+      "start_char": 1569,
+      "end_char": 1714,
+      "content": "== Popüler kültür == Iron Maiden'ın Dance of Death adlı albümünde yer alan Montsegur adlı şarkı, bu sefer sırasında yapılan katliamdan bahseder.",
+      "char_count": 144,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1727,
+      "end_char": 1774,
+      "content": "== Ayrıca bakınız == Katharizm Haçlı Seferleri",
+      "char_count": 46,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1774,
+      "end_char": 1992,
+      "content": "== Dış bağlantılar == Roquebert, Michel (2002) Histoire Cathares Paris:Perrin ISBN 2-262-01894-4 (Fransızca). Oldenbourg, Zoe (2003) Le bûcher de Montségur - 16 mars 1244, Paris:Galimard ISBN 2-07-032507-9 (Fransizca).",
+      "char_count": 218,
+      "token_estimate": 54
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Albigeois Haçlı Seferi sırasında Beziers kasabasında kaç kadın, erkek ve çocuk katledilmiştir?",
+        "answer": "15.000 kadın, erkek ve çocuk.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Albigeois Haçlı Seferi'nin arkasındaki başlıca motivasyonlar nelerdi?",
+        "answer": "Saldırı Papa'nın emriyle yapılmış, Haçlılar günahlarından kurtulma, ganimet elde etme ve güneyin zenginlikleriyle kışkırtılmışlardı. Ayrıca, Kathar kökenli bölgeyi günahkar buluyorlardı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "lehesreklilii_e221f190",
+    "title": "Lehçe sürekliliği",
+    "url": "https://tr.wikipedia.org/wiki/Leh%C3%A7e_s%C3%BCreklili%C4%9Fi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:33.699376",
+    "content": "Lehçe sürekliliği veya diyalekt sürekliliği (İngilizce: Dialect continuum), coğrafî olarak yakın değişkelerin birbiri arasında az fark ve yüksek oranda karşılıklı anlaşılabilirlik gösterdiği, uzaklık arttıkça anlaşmanın azaldığı bir değişkeler grubudur. Lehçe sürekliliği, geniş bir alana yayılmış diller ve dil ailelerinde yaygın görülen, tipik bir olaydır. Bazı önemli sürekliliklere sahip dil ve bölgeler arasında; Hindistan'ın büyük bir kısmı (Hint-Aryan dilleri), İran, Afganistan ve Tacikistan (Fars dili), Arap dünyası (Arapça değişkeleri), Portekiz, İspanya, Fransa, Valonya ve Güney İtalya (Batı Romen dilleri), Flandre'den, Almanya ve Avusturya'ya devam eden bölge (Almanca lehçeleri), Çin'deki Çin dilleri veya lehçeleri ve Avrupa'daki Slav dillerinden bazıları yer alır. Lehçe sürekliliği tipik olarak uzun süredir yerleşik hayata geçmiş olan tarım halklarında ortaya çıkar, çünkü bu toplumlarda yenilikler çeşitli menşe noktalarından dalgalar halinde yayılır. Bu durumda, çeşitlerin hiyerarşik sınıflandırmaları pratik değildir. Bunun yerine, diyalektologlar bir lehçe sürekliliği boyunca çeşitli dil özelliklerinin varyasyonunu haritalar, bazı özelliklere göre farklılık gösteren alanlar arasında izoglos adı verilen çizgiler çizer. Bir lehçe sürekliliği içindeki bir değişke, bir standart dil olarak geliştirilebilir ve sürekliliğin bulunduğu coğrafyanın bir kısmında, örneğin belirli bir siyasi veya kültürel alanda otorite görevi görebilir. 20. yüzyılın başlarından beri, ulus devletlerin ve standart dillerinin artan hakimiyeti, diyalekt sürekliliği içeresinde yer alan standart dışı lehçeleri ortadan kaldırmakta ve sınırları daha sarp ve tanımlanmış hale getirmektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 213,
+      "char_count": 1704,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.351859",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Lehçe sürekliliği veya diyalekt sürekliliği (İngilizce: Dialect continuum), coğrafî olarak yakın değişkelerin birbiri arasında az fark ve yüksek oranda karşılıklı anlaşılabilirlik gösterdiği, uzaklık arttıkça anlaşmanın azaldığı bir değişkeler grubudur. Lehçe sürekliliği, geniş bir alana yayılmış diller ve dil ailelerinde yaygın görülen, tipik bir olaydır. Bazı önemli sürekliliklere sahip dil ve bölgeler arasında; Hindistan'ın büyük bir kısmı (Hint-Aryan dilleri), İran, Afganistan ve Tacikistan (Fars dili), Arap dünyası (Arapça değişkeleri), Portekiz, İspanya, Fransa, Valonya ve Güney İtalya (Batı Romen dilleri), Flandre'den, Almanya ve Avusturya'ya devam eden bölge (Almanca lehçeleri), Çin'deki Çin dilleri veya lehçeleri ve Avrupa'daki Slav dillerinden bazıları yer alır. Lehçe sürekliliği tipik olarak uzun süredir yerleşik hayata geçmiş olan tarım halklarında ortaya çıkar, çünkü bu toplumlarda yenilikler çeşitli menşe noktalarından dalgalar halinde yayılır. Bu durumda, çeşitlerin hiye",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1689,
+      "content": " tipik olarak uzun süredir yerleşik hayata geçmiş olan tarım halklarında ortaya çıkar, çünkü bu toplumlarda yenilikler çeşitli menşe noktalarından dalgalar halinde yayılır. Bu durumda, çeşitlerin hiyerarşik sınıflandırmaları pratik değildir. Bunun yerine, diyalektologlar bir lehçe sürekliliği boyunca çeşitli dil özelliklerinin varyasyonunu haritalar, bazı özelliklere göre farklılık gösteren alanlar arasında izoglos adı verilen çizgiler çizer. Bir lehçe sürekliliği içindeki bir değişke, bir standart dil olarak geliştirilebilir ve sürekliliğin bulunduğu coğrafyanın bir kısmında, örneğin belirli bir siyasi veya kültürel alanda otorite görevi görebilir. 20. yüzyılın başlarından beri, ulus devletlerin ve standart dillerinin artan hakimiyeti, diyalekt sürekliliği içeresinde yer alan standart dışı lehçeleri ortadan kaldırmakta ve sınırları daha sarp ve tanımlanmış hale getirmektedir.",
+      "char_count": 889,
+      "token_estimate": 222
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Lehçe sürekliliği hangi tür halklarda tipik olarak ortaya çıkar?",
+        "answer": "Uzun süredir yerleşik hayata geçmiş olan tarım halklarında.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Lehçe sürekliliği tipik olarak hangi koşullar altında ortaya çıkar ve 20. yüzyılın başlarından itibaren bu sürekliliklerin geleneksel yapısını etkileyen modern faktörler nelerdir?",
+        "answer": "Lehçe sürekliliği, yeniliklerin çeşitli menşe noktalarından dalgalar halinde yayıldığı, uzun süredir yerleşik hayata geçmiş tarım halklarında ortaya çıkar. 20. yüzyılın başlarından itibaren, ulus devletlerin ve standart dillerinin artan hakimiyeti, bu sürekliliklerin geleneksel yapısını değiştirerek standart dışı lehçeleri ortadan kaldırmakta ve sınırları daha sarp ve tanımlanmış hale getirmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

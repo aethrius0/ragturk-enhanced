@@ -1,0 +1,343 @@
+{
+  "article": {
+    "id": "saldrtespitsistemler_712b9714",
+    "title": "Saldırı tespit sistemleri",
+    "url": "https://tr.wikipedia.org/wiki/Sald%C4%B1r%C4%B1_tespit_sistemleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:16.387816",
+    "content": "Saldırı Tespit Sistemleri (STS) (İngilizce: Intrusion Detection Systems (IDS)), ağlara veya sistemlere karşı yapılan kötü niyetli aktiviteleri ya da politika ihlallerini izlemeye yarayan cihaz ya da yazılımlardır. Tespit edilen herhangi bir aktivite veya ihlal, ya bir yöneticiye bildirilir ya da bir güvenlik bilgi ve olay yönetimi (SIEM) sistemi kullanılarak merkezi olarak toplanır. SIEM sistemi, çeşitli kaynaklardan gelen çıktıları birleştirir ve kötü niyetli alarmı yanlış alarmlardan ayırmak için alarm filtreleme teknikleri kullanır. Antivirüs yazılımından bütün ana omurga ağının trafiğini izleyen hiyerarşik sistemlere kadar çeşitleri olan geniş bir STS yelpazesi vardır. En yaygın sınıflandırmalar, ağ saldırı tespit sistemleri (NIDS) ve bilgisayar tabanlı saldırı tespit sistemleri (HIDS) 'dir. Önemli işletim sistemi dosyalarını izleyen sistem, bir HIDS örneğiyken gelen ağ trafiğini analiz eden sistem, bir NIDS örneğidir. STS'yi tespit etme yaklaşımına göre sınıflandırmak da mümkündür: En iyi bilinen çeşitleri, imza tabanlı yaklaşım (kötü modelleri tanıma, örnek zararlı yazılım) ve anomali tabanlı yaklaşım (\"iyi\" trafik modellerinden sapmaları tespit etmek, makine öğrenmeye bağlıdır). Bazı STS'lerin tespit edilen saldırılara cevap verme yeteneği vardır. Yanıt verme özellikli sistemler genelde bir saldırı önleme sistemi (İngilizce: Intrusion Prevention Systems (IPS)) olarak adlandırılır. Bu sistemin temel görevi kötü niyetli aktiviteleri belirlemek ve saldırının türünü rapor etmektir. Saldırı Tespit Sistemleriyle (Intrusion Detection Systems) Saldırı Engelleme Sistemleri (Intrusion Prevention Systems) arasındaki temel fark; saldırı tespit sistemlerinin, saldırıları sadece tespit edip raporlamasına karşılık saldırı engelleme sistemlerinin, yapılan saldırıları önleme yeteneğine sahip olmasıdır. == Güvenlik Duvarı ile Karşılaştırma == İkisi de ağ güvenliği ile ilgili olmasına rağmen saldırı tespit sistemi güvenlik duvarından farklıdır çünkü bir güvenlik duvarı saldırıları durdurmak için dışarıya bakar. Güvenlik duvarları, saldırıları önlemek için ağlar arasındaki erişimi sınırlar ve ağın iç tarafından gelen bir saldırı sinyali vermez. STS, şüphelenilen bir saldırı olur olmaz değerlendirir ve bir alarm sinyali verir. STS ayrıca, bir sistemin orijinalinden gelen saldırıları da izler. Bu geleneksel olarak, ağ trafiğini inceleyerek, bilgisayar saldırılarının buluşsal yöntemlerini ve modellerini (genellikle imzalar olarak bilinir) tanımlayarak ve operatörleri uyarmak için aksiyon alarak gerçekleştirilir. Bağlantıları kesen sistem, saldırı engelleme sistemi olarak adlandırılır ve uygulama katmanlı güvenlik duvarının başka bir formudur. == Sınıflandırma == Saldırı Tespit Sistemleri; saldırıları tespit ettikleri ortama ve tespit yöntemlerine göre sınıflandırılabilir. === Ortam === ==== Ağ Tabanlı Saldırı Tespit Sistemi ==== Ağ saldırı tespit sistemleri (NIDS), ağdaki tüm aygıtlardan gelen trafiği izlemek için ağ içindeki stratejik bir noktaya veya noktalara yerleştirilir. Alt ağın tamamında geçen trafiği analiz eder ve alt ağlarda geçirilen trafiği bilinen atakların kütüphanesiyle eşleştirir. Bir saldırı tespit edilir edilmez veya anormal bir davranış algılanırsa, yöneticiye uyarı gönderilebilir. İdeal olarak, gelen ve giden tüm trafiği tarar, ancak bunu yapmak ağın genel hızını bozan bir tıkanıklık oluşturabilir. OPNET ve NetSim, simülasyon ağı saldırı tespit sistemleri için yaygın olarak kullanılan araçlardır. Sisteme etki özelliğine göre ağ tabanlı saldırı tespit sistemi tasarımı sınıflandırıldığında iki tür vardır: çevrimiçi ve çevrimdışı ağ tabanlı saldırı tespit sistemi, sırasıyla inline ve tap modu olarak adlandırılır. Çevrimiçi ağ tabanlı saldırı tespit sistemi, ağ ile gerçek zamanlı ilgilenir. Bir saldırı olup olmadığına karar vermek için Ethernet paketlerini analiz eder ve bazı kurallar uygular. Çevrimdışı ağ tabanlı saldırı tespit sistemi, depolanan verileri ele alır ve bir saldırı olup olmadığına karar vermek için bazı işlemlerden geçirir. Bilgisayar Tabanlı Saldırı Tespit Sistemi Bilgisayar tabanlı saldırı tespit sistemi (HIDS), ağdaki tek tek makinelerde veya cihazlarda çalışır. Bir bilgisayar tabanlı saldırı tespit sistemi, gelen ve giden paketleri yalnızca üzerinde çalıştığı izler ve şüpheli durum algılanırsa kullanıcıyı veya yöneticiyi uyarır. Sistemde bulunan dosyaların anlık görüntüsünü alır ve onu önceki anlık görüntü ile eşleştirir. Kritik sistem dosyaları değiştirilmiş veya silinmişse, araştırmak için yöneticiye bir uyarı gönderilir. Bilgisayar tabanlı ağ saldırı tespit sisteminin kullanımına bir örnek olarak bunu kritik makinelerde görmek mümkündür; bu makinelerin yapılandırmalarını değiştirmesi beklenmemektedir. Saldırı tespit sistemleri, özel araçlar ve balküpü kullanılarak sisteme özgü hale getirilebilir. === Tespit Yöntemi === İmza Tabanlı İmza tabanlı saldırı tespit sistemi, ağ trafiğinde örneğin bayt dizileri veya kötü amaçlı yazılım tarafından kullanılan kötü amaçlı komut dizileri gibi belirli modeller aramak amacıyla saldırıların tespit edilmesi anlamına gelir. Bu terminoloji, tespit edilen modelleri imza olarak ifade eden anti-virüs yazılımından kaynaklanmaktadır. İmza tabanlı saldırı tesit sistemi bilinen saldırıları kolayca tespit edebilmesine rağmen, mevcut modeli olmayan yeni saldırıları tespit etmesi imkânsızdır. Anomali Tabanlı Anormalliğe tabanlı saldırı tespit sistemleri, kötü niyetli yazılımların hızla gelişmesi nedeniyle bilinmeyen saldırıları tespit etmek için tasarlandı. Temel yaklaşım makine dilini kullanarak güvenilir öğrenme modeli oluşturmak daha sonra yeni davranışları bu modelle karşılaştırmaktır. Bu yaklaşım daha önce bilinmeyen saldırıların tespit edilmesine olanak tanımasına rağmen, yanlış alarmlar üretebilir: önceden bilinmeyen yasal etkinlik de kötü alarm olarak sınıflandırılabilir. Anomali tabanlı saldırı tespit sistemleri olarak adlandırılabilecek yeni türler, Gartner tarafından Kullanıcı ve Varlık Davranış Analizi (UEBA)(kullanıcı davranışı analiz kategorisinin bir gelişimi) ve ağ trafiği analizi (NTA) olarak görülüyor. Özellikle NTA, bir kullanıcı makinesini veya hesabı tehlikeye atan hedefli harici saldırıların yanı sıra kötü niyetli içerikleri de ele alır. Gartner, bazı kuruluşların NTA'yı daha geleneksel saldırı tespit sistemlerine tercih ettiğini belirtti. == Saldırı Önleme Sistemi == Bazı sistemler bir saldırı girişimi durdurmaya çalışabilir ancak bu bir izleme sistemi için ne zorunlu ne de gereklidir. Saldırı tespit ve önleme sistemleri (IDPS) öncelikli olarak olası olayların tespiti, bunlarla ilgili bilgileri kaydetme ve girişimleri raporlama üzerine odaklanmıştır. Buna ek olarak kuruluşlar, güvenlik ilkeleri ile ilgili sorunları belirlemek, mevcut tehditleri belgelemek ve kişilerin güvenlik politikalarını ihlal etmekten alıkoymak gibi diğer amaçlarla saldırı tespit ve önleme sistemlerini kullanmaktadır. Saldırı tespit ve önleme sistemleri gözlenen olaylarla ilgili bilgileri kaydeder, güvenlik yöneticilerine önemli gözlemlenen olayları bildirir ve raporlar üretir. Birçok saldırı tespit ve önleme sistemi, kendisinin başarılı olmasını önlemeye çalışan bir tehdide yanıt verebilir. Saldırı tespit ve önleme sistemleri saldırıyı kendisi durdurması, güvenlik ortamının değiştirilmesi (örneğin bir güvenlik duvarının yeniden yapılandırılması) veya saldırının içeriğini değiştirmesini içeren çeşitli yanıt teknikleri kullanır. Saldırı tespit ve önleme sistemleri olarak da bilinen saldırı önleme sistemleri (IPS), ağ veya sistem faaliyetlerini kötü niyetli etkinlikler için izleyen ağ güvenliği aygıtlarıdır. İzinsiz giriş önleme sistemlerinin başlıca işlevleri, kötü amaçlı etkinliği saptamak, bu etkinlikle ilgili bilgileri günlüğe kaydetmek, raporlamak ve bunları engellemek veya durdurmaktır. Saldırı önleme sistemleri, saldırı tespit sistemlerinin uzantıları olarak kabul edilir, çünkü hem ağ trafiğini ve / veya kötü amaçlı etkinlik için sistem faaliyetlerini izlerler. Temel farklılıklar, saldırı tespit sistemlerinin aksine, izinsiz giriş önleme sistemlerinin sıraya yerleştirildiğini ve tespit edilen müdahaleleri aktif bir şekilde önleyebildiğini veya engelleyebildiğini göstermektedir. Saldırı önleme sistemleri, alarm gönderilmesi, algılanan kötü niyetli paketlerin bırakılması, bağlantıyı sıfırlama veya trafik akışını rahatsız edici IP adresinden engelleme gibi eylemleri gerçekleştirebilir. Bir saldırı önleme sistemi ayrıca, CRC hatalarını düzeltebilir, paket akışlarını birleştirebilir, TCP sıralama sorunlarını azaltabilir ve istenmeyen aktarım ve ağ katmanı seçeneklerini temizleyebilir. Sınıflandırma Saldırı önleme sistemleri dört farklı türe ayrılabilir: Ağ Tabanlı Saldırı Tespit Sistemi (NIPS): Protokol etkinliğini analiz ederek şüpheli trafik için tüm ağı izler. Kablosuz Saldırı Önleme Sistemleri (WIPS): Kablosuz ağ protokollerini analiz ederek şüpheli trafik için kablosuz bir ağ izleyebilirsiniz. Ağ Davranış Analizi (NBA): Dağıtılmış hizmet engellemesi (DDoS) saldırıları, belirli kötü amaçlı yazılım şekilleri ve politika ihlalleri gibi alışılmadık trafik akışı üreten tehditleri tanımlamak için ağ trafiğini inceler. Bilgisayar Tabanlı Saldırı Önleme Sistemleri (HIPS): Bu yöntem, gözlemlenen olayları, \"iyi huylu etkinlik tanımlarının önceden belirlenmiş profilleri\" ile karşılaştırarak protokol devletlerinin sapmalarını tanımlar. Tespit Yöntemleri Saldırı Tespit Sistemlerinin çoğunluğu, üç algılama yönteminden birini kullanır: imza tabanlı, istatistiksel anormalliğe dayalı ve durum tabanlı protokol analizi. İmza Tabanlı Tespit: İmza tabanlı saldırı tespit sistemi, Ağdaki paketleri izler ve imzalar olarak bilinen önceden yapılandırılmış ve önceden belirlenmiş saldırı düzenleri ile karşılaştırır. Statik Anomali Tabanlı Tespit: Anomali temelli bir saldırı tespit sistemi, ağ trafiğini izleyecek ve kurulu bir taban çizgiye karşı karşılaştıracaktır. Temel olarak, o ağ için \"normal\" olan neyse o tanımlanacaktır - hangi bant genişliği genellikle kullanılır ve hangi protokol kullanılır. Ancak, temelii akıllıca yapılandırılmadıysa, bant genişliğinin meşru kullanımı için yanlış bir alarm verebilir. Durum Protokolü Analiz Tespiti: Bu yöntem, gözlemlenen olayları, \"iyi huylu etkinlik tanımlarının önceden belirlenmiş profilleri\" ile karşılaştırarak protokol devletlerinin sapmalarını tanımlar. == Sınırlamalar == Gürültü, bir saldırı tespit sisteminin etkinliğini ciddi bir şekilde sınırlandırabilir. Yazılım hatalarından, bozuk DNS verilerinden ve kaçmış yerel paketlerden üretilen kötü paketler, hatalı alarm oranı önemli ölçüde yüksek olabilir. Gerçek saldırılar sayısının yanlış alarmların sayısının çok altında olması nadir değildir. Gerçek saldırılar, gerçek saldırıların sık sık kaçırıldığı veya yok sayıldığı yanlış alarmların sayısının çok altındadır. Çoğu saldırı, genel olarak güncel olmayan belli yazılım sürümleri için tasarlanmış. Tehditleri hafifletmek için sürekli değişen imzalar kütüphanesi gerekiyor. Eski tarihli veritabanları saldırı tespit sistemleri yeni stratejilere açık hale getirebilir. İmza tabanlı saldırı tespit sistemleri için, yeni bir tehdit keşfi ve saldırı tespit sisteminde uygulanan imzası arasında gecikme olacaktır. Bu gecikme süresi boyunca, saldırı tespit sistemi tehdidi tanımlayamayacaktır. Zayıf kimlik doğrulama mekanizmalarını veya ağ protokollerindeki zayıflıkları telafi edemez. Zayıf kimlik doğrulama mekanizması nedeniyle bir saldırgan erişim kazanırsa, saldırı tespit sistemi düşmana herhangi bir hatalı uygulamadan engel olamaz. Şifreli paketler, saldırı tespit cihazlarının çoğu tarafından işlenmez. Bu nedenle, şifreli paket daha önemli ağ saldırıları oluşana kadar keşfedilmemiş bir ağa izin verebilir. İzinsiz giriş tespit yazılımı, ağa gönderilen IP paketiyle ilişkili ağ adresini temel alan bilgiler sağlar. IP paketinde bulunan ağ adresi doğruysa, bu yararlıdır. Ancak, IP paketinde bulunan adres sahte veya şifreli olabilir. Ağ tabanlı saldırı tespit sistemlerinin yapısı ve protokolleri yakalandıkça analiz etmeleri gereği nedeniyle, ağ tabanlı saldırı tespit sistemleri, ağ ana bilgisayarlarının savunmasız olabilecekleri aynı protokol tabanlı saldırılara karşı hassastır. Geçersiz veri ve TCP / IP yığını saldırıları, bir ağ tabanlı saldırı tespit sistemlerinin çökmesine neden olabilir. == Atlatma Teknikleri == Saldırganların kullandığı bir takım teknikler vardır, bunlardan bazıları saldırı tespit sisteminden kaçmak için uygulanabilecek 'basit' önlemlerdir: Parçalanma: Parçalanmış paket göndererek saldırgan radarın altında olacak ve algılama sisteminin saldırı imzasını algılama yeteneğini kolayca atlayabilir. Varsayılanları kullanmaktan kaçınma: Bir protokol tarafından kullanılan TCP portu, taşınan protokole her zaman bir gösterge sağlamaz. Örneğin, bir saldırı tespit sistemi, 12345 numaralı bağlantı noktasında bir trojan tespit etmeyi bekleyebilir. Bir saldırgan, onu farklı bir bağlantı noktası kullanacak şekilde yeniden yapılandırdıysa, saldırı tespit sistemi, trojan varlığını algılayamayabilir. Koordine edilmiş, düşük bant genişliği saldırılar: Birçok saldırgan (veya aracılar) arasında bir taramayı koordine etmek ve farklı saldırganlara farklı portlar veya bilgisayarlar tahsis etmek, saldırı tespit sisteminin yakalanan paketleri ilişkilendirmesini ve bir ağ taramasının devam ettiğini çıkarmasını zorlaştırıyor. Adres sızdırma / vekil sunucu oluşturma: saldırganlar, bir saldırıyı geri çevrelemek için güvenliği düşük veya yanlış yapılandırılmış vekil sunucuları kullanarak Güvenlik Yöneticilerinin saldırının kaynağını belirleme yeteneğini güçlendirebilir. Kaynak bir sunucu tarafından taklit edilip geri çevrilirse, saldırının kaynağını bulması çok zor olur. Desen değişikliği kaçırma: Saldırı tespit sistemleri genellikle bir saldırıyı tespit etmek için 'desen eşleştirme' yöntemine güvenirler. Saldırıda kullanılan verileri biraz değiştirerek algılamayı atlatmak mümkün olabilir. Örneğin, bir İnternet Mesaj Erişim Protokolü (IMAP) sunucusu bir arabellek taşmasına karşı savunmasız olabilir ve bir saldırı tespit sistemleri, 10 ortak saldırı aracının saldırı imzasını algılayabilir. Araç tarafından gönderilenler, saldırı tespit sisteminin beklediği verilere benzemekten kaçının, tespiti yapmaktan kaçınmak mümkün olabilir. == Gelişim Süreci == İlk erken saldırı tespit sistemi konsepti, 1980 yılında Ulusal Güvenlik Ajansı'ndaki James Anderson tarafından tanımlandı ve yöneticilerin denetim izlerini gözden geçirmesine yardımcı olmak için tasarlanmış bir takım araçlardan oluşuyordu. Kullanıcı erişim günlükleri, dosya erişim günlükleri ve sistem olay günlükleri denetim izlerine örnektir. Fred Cohen 1987'de her davada bir saldırı tespit etmek mümkün olmadığını ve saldırıları tespit etmek için gerekli olan kaynakların kullanım miktarı ile birlikte büyüdüğünü belirtti. Dorothy E. Denning, Peter G. Neumann'ın yardımıyla, bugün birçok sistemin temelini oluşturan bir saldırı tespit sistem modelini 1986'da yayınladı. Modeli, anomalilik tespiti için istatistikler kullandı ve SRI International'da, Sun iş istasyonlarında çalışan ve hem kullanıcı hem de ağ düzeyinde verileri göz önüne alabilen Intrusion Detection Expert System (IDES) adlı erken bir saldırı tespit sistemi ile sonuçlandı. IDES, bilinen saldırı tiplerini tespit etmek için kural tabanlı bir Uzman Sistem ve kullanıcının, bilgisayar sistemlerinin ve hedef sistemlerin profillerine dayalı istatistiksel bir anomalilik tespit bileşeni bulunan ikili bir yaklaşıma sahiptir. Lunt, üçüncü bir bileşen olarak yapay sinir ağı eklemeyi önerdi. Her üç bileşenin de bir çözümleyiciye rapor verebileceğini söyledi. SRI, 1993 yılında IDES'i, Yeni Nesil İzinsiz Giriş Algılama Uzman Sistemi (NIDES) ile takip etti. P-BEST ve Lisp kullanan uzman bir sistem olan Multics saldırı tespit ve uyarı sistemi (MIDAS), Denning ve Neumann'ın çalışmalarına dayanılarak 1988'de geliştirildi. Haystack, aynı zamanda denetim yollarını azaltmak için istatistikler kullanarak o yıl geliştirildi. 1986'da Ulusal Güvenlik Ajansı, Rebecca Bace bünyesinde bir saldırı tespit sistemi araştırma transfer programını başlattı. Bace, daha sonra 2000 yılında saldırı tespit konusundaki metni yayınladı. Wisdom & Sense (Wisdom & Sense), 1989'da Los Alamos Ulusal Laboratuvarı'nda geliştirilen, istatistiğe dayalı bir anormallik dedektörüdür. W & S, istatistiksel analize dayalı kurallar yarattıktan sonra anomali tespiti için bu kuralları kullandı. 1990'da, Zamana Dayalı Endüktif Makine (TIM), VAX 3500 bir bilgisayarda Common Lisp'de sıralı kullanıcı modellerinin endüktif öğrenmesini kullanarak anomali tespit etmiştir. Ağ Güvenlik İzleme (NSM), bir Sun-3/50 iş istasyonunda anomallik tespiti için erişim matrisleri üzerinde maskeleme gerçekleştirdi. Bilgi Güvenliği Görevlisi Asistanı (ISOA), istatistikler, profil denetleyici ve uzman sistem gibi çeşitli stratejileri göz önüne alan 1990 yılındaki bir prototipdi. AT & T Bell Laboratuvarlarındaki Bilgisayarİzleme, denetim verileri azaltma ve saldırı tespiti için istatistik ve kurallar kullandı. Sonra, 1991'de California Üniversitesi'ndeki araştırmacılar Davis, aynı zamanda uzman bir sistem olan bir prototip Dağıtık Saldırı Tespit Sistemi (DIDS) oluşturdu. 1991'de Ağ Anomali Tespiti ve Saldırı Reporter (NADIR), Los Alamos Ulusal Laboratuvarında Integrated Computing Network (ICN) 'de geliştirilen bir prototip saldırı tespit sistemiydi ve Denning ve Lunt'un çalışmalarından büyük ölçüde etkilendi. NADIR istatistik tabanlı bir anomallik detektörü ve bir uzman sistem kullandı. Lawrence Berkeley Ulusal Laboratuvarı, libpcap verilerinden paket analizinde kendi kural dilini kullanan 1998'de Bro'yu ilan etti. 1999'da Ağ Uçuş Kaydedici (NFR) da libpcap'ı kullandı. APE, aynı zamanda Kasım 1998'de libpcap kullanan bir paket dinleyicisi olarak geliştirildi ve bir ay sonra Snort olarak değiştirildi. APE, o zamandan beri 300.000'den fazla aktif kullanıcısıyla dünyanın en çok kullanılan saldırı tespit ve önleme sistemi haline geldi. 2001'de Denetim Veri Analizi ve Madenciliği (ADAM) saldırı tespit sistemi sınıflandırmaları için kuralların profillerini oluşturmak için tcpdump kullandı. 2003 yılında Yongguang Zhang ve Wenke Lee mobil düğümleri olan ağlarda saldırı tespit sisteminin önemini tartışmaktadır. 2015 yılında Viegas ve arkadaşları, örneğin Nesnelerin İnterneti (IoT) uygulamaları için anomali tabanlı bir saldırı tespit motoru önerdi. Teklif, Atom CPU'da bir Karar Ağacı, Naive-Bayes ve k-Nearest Neighbors sınıflandırıcılarının uygulanması için enerji verimliliği sağlayan bir anomallik tespiti ve bir FPGA'deki donanım dostu uygulama için makine öğrenimini uygular. Literatürde, her sınıflandırıcıyı yazılım ve donanımda eşdeğer olarak uygulayan ilk çalışma bu ve her ikisinde de enerji tüketimini ölçen bir çalışmaydı. Buna ek olarak, yazılım ve donanımda uygulanan ağ paket sınıflandırmasını yapmak için kullanılan her bir özelliği ayıklamak için enerji tüketiminin ölçülmesi ilk kez gerçekleştirildi. == Ücretsiz Açık Kaynak Sistemleri == ACARM-ng AIDE Bro NIDS Fail2ban OSSEC HIDS Prelude Hybrid IDS Samhain Snort Suricata == Ayrıca bakınız == Yapay bağışıklık sistemi Bypass anahtarı Hizmeti engelleme saldırısı DNS analizi Saldırı Tespiti Mesaj Değişim Formatı Protokol tabanlı saldırı tespit sistemi (PIDS) Gerçek zamanlı uygulanabilir güvenlik Güvenlik Yönetimi Yazılım tanımlı koruma == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 2421,
+      "char_count": 19320,
+      "num_chunks": 29,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.324944",
+    "total_chunks": 29,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Saldırı Tespit Sistemleri (STS) (İngilizce: Intrusion Detection Systems (IDS)), ağlara veya sistemlere karşı yapılan kötü niyetli aktiviteleri ya da politika ihlallerini izlemeye yarayan cihaz ya da yazılımlardır. Tespit edilen herhangi bir aktivite veya ihlal, ya bir yöneticiye bildirilir ya da bir güvenlik bilgi ve olay yönetimi (SIEM) sistemi kullanılarak merkezi olarak toplanır. SIEM sistemi, çeşitli kaynaklardan gelen çıktıları birleştirir ve kötü niyetli alarmı yanlış alarmlardan ayırmak için alarm filtreleme teknikleri kullanır. Antivirüs yazılımından bütün ana omurga ağının trafiğini izleyen hiyerarşik sistemlere kadar çeşitleri olan geniş bir STS yelpazesi vardır. En yaygın sınıflandırmalar, ağ saldırı tespit sistemleri (NIDS) ve bilgisayar tabanlı saldırı tespit sistemleri (HIDS) 'dir. Önemli işletim sistemi dosyalarını izleyen sistem, bir HIDS örneğiyken gelen ağ trafiğini analiz eden sistem, bir NIDS örneğidir. STS'yi tespit etme yaklaşımına göre sınıflandırmak da mümkündür",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": " 'dir. Önemli işletim sistemi dosyalarını izleyen sistem, bir HIDS örneğiyken gelen ağ trafiğini analiz eden sistem, bir NIDS örneğidir. STS'yi tespit etme yaklaşımına göre sınıflandırmak da mümkündür: En iyi bilinen çeşitleri, imza tabanlı yaklaşım (kötü modelleri tanıma, örnek zararlı yazılım) ve anomali tabanlı yaklaşım (\"iyi\" trafik modellerinden sapmaları tespit etmek, makine öğrenmeye bağlıdır). Bazı STS'lerin tespit edilen saldırılara cevap verme yeteneği vardır. Yanıt verme özellikli sistemler genelde bir saldırı önleme sistemi (İngilizce: Intrusion Prevention Systems (IPS)) olarak adlandırılır. Bu sistemin temel görevi kötü niyetli aktiviteleri belirlemek ve saldırının türünü rapor etmektir. Saldırı Tespit Sistemleriyle (Intrusion Detection Systems) Saldırı Engelleme Sistemleri (Intrusion Prevention Systems) arasındaki temel fark; saldırı tespit sistemlerinin, saldırıları sadece tespit edip raporlamasına karşılık saldırı engelleme sistemlerinin, yapılan saldırıları önleme yete",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1823,
+      "content": "ntrusion Prevention Systems) arasındaki temel fark; saldırı tespit sistemlerinin, saldırıları sadece tespit edip raporlamasına karşılık saldırı engelleme sistemlerinin, yapılan saldırıları önleme yeteneğine sahip olmasıdır.",
+      "char_count": 223,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0003",
+      "section": "== Güvenlik Duvarı ile Karşılaştırma ==",
+      "heading_path": "== Güvenlik Duvarı ile Karşılaştırma ==",
+      "start_char": 1824,
+      "end_char": 2675,
+      "content": "== Güvenlik Duvarı ile Karşılaştırma == İkisi de ağ güvenliği ile ilgili olmasına rağmen saldırı tespit sistemi güvenlik duvarından farklıdır çünkü bir güvenlik duvarı saldırıları durdurmak için dışarıya bakar. Güvenlik duvarları, saldırıları önlemek için ağlar arasındaki erişimi sınırlar ve ağın iç tarafından gelen bir saldırı sinyali vermez. STS, şüphelenilen bir saldırı olur olmaz değerlendirir ve bir alarm sinyali verir. STS ayrıca, bir sistemin orijinalinden gelen saldırıları da izler. Bu geleneksel olarak, ağ trafiğini inceleyerek, bilgisayar saldırılarının buluşsal yöntemlerini ve modellerini (genellikle imzalar olarak bilinir) tanımlayarak ve operatörleri uyarmak için aksiyon alarak gerçekleştirilir. Bağlantıları kesen sistem, saldırı engelleme sistemi olarak adlandırılır ve uygulama katmanlı güvenlik duvarının başka bir formudur.",
+      "char_count": 850,
+      "token_estimate": 212
+    },
+    {
+      "id": "c0004",
+      "section": "== Sınıflandırma ==",
+      "heading_path": "== Sınıflandırma ==",
+      "start_char": 2675,
+      "end_char": 2807,
+      "content": "== Sınıflandırma == Saldırı Tespit Sistemleri; saldırıları tespit ettikleri ortama ve tespit yöntemlerine göre sınıflandırılabilir.",
+      "char_count": 131,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0005",
+      "section": "==== Ağ Tabanlı Saldırı Tespit Sistemi ====",
+      "heading_path": "==== Ağ Tabanlı Saldırı Tespit Sistemi ====",
+      "start_char": 2821,
+      "end_char": 3821,
+      "content": "==== Ağ Tabanlı Saldırı Tespit Sistemi ==== Ağ saldırı tespit sistemleri (NIDS), ağdaki tüm aygıtlardan gelen trafiği izlemek için ağ içindeki stratejik bir noktaya veya noktalara yerleştirilir. Alt ağın tamamında geçen trafiği analiz eder ve alt ağlarda geçirilen trafiği bilinen atakların kütüphanesiyle eşleştirir. Bir saldırı tespit edilir edilmez veya anormal bir davranış algılanırsa, yöneticiye uyarı gönderilebilir. İdeal olarak, gelen ve giden tüm trafiği tarar, ancak bunu yapmak ağın genel hızını bozan bir tıkanıklık oluşturabilir. OPNET ve NetSim, simülasyon ağı saldırı tespit sistemleri için yaygın olarak kullanılan araçlardır. Sisteme etki özelliğine göre ağ tabanlı saldırı tespit sistemi tasarımı sınıflandırıldığında iki tür vardır: çevrimiçi ve çevrimdışı ağ tabanlı saldırı tespit sistemi, sırasıyla inline ve tap modu olarak adlandırılır. Çevrimiçi ağ tabanlı saldırı tespit sistemi, ağ ile gerçek zamanlı ilgilenir. Bir saldırı olup olmadığına karar vermek için Ethernet paket",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "==== Ağ Tabanlı Saldırı Tespit Sistemi ====",
+      "heading_path": "==== Ağ Tabanlı Saldırı Tespit Sistemi ====",
+      "start_char": 3621,
+      "end_char": 4621,
+      "content": "it sistemi, sırasıyla inline ve tap modu olarak adlandırılır. Çevrimiçi ağ tabanlı saldırı tespit sistemi, ağ ile gerçek zamanlı ilgilenir. Bir saldırı olup olmadığına karar vermek için Ethernet paketlerini analiz eder ve bazı kurallar uygular. Çevrimdışı ağ tabanlı saldırı tespit sistemi, depolanan verileri ele alır ve bir saldırı olup olmadığına karar vermek için bazı işlemlerden geçirir. Bilgisayar Tabanlı Saldırı Tespit Sistemi Bilgisayar tabanlı saldırı tespit sistemi (HIDS), ağdaki tek tek makinelerde veya cihazlarda çalışır. Bir bilgisayar tabanlı saldırı tespit sistemi, gelen ve giden paketleri yalnızca üzerinde çalıştığı izler ve şüpheli durum algılanırsa kullanıcıyı veya yöneticiyi uyarır. Sistemde bulunan dosyaların anlık görüntüsünü alır ve onu önceki anlık görüntü ile eşleştirir. Kritik sistem dosyaları değiştirilmiş veya silinmişse, araştırmak için yöneticiye bir uyarı gönderilir. Bilgisayar tabanlı ağ saldırı tespit sisteminin kullanımına bir örnek olarak bunu kritik mak",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "==== Ağ Tabanlı Saldırı Tespit Sistemi ====",
+      "heading_path": "==== Ağ Tabanlı Saldırı Tespit Sistemi ====",
+      "start_char": 4421,
+      "end_char": 4809,
+      "content": "ir. Kritik sistem dosyaları değiştirilmiş veya silinmişse, araştırmak için yöneticiye bir uyarı gönderilir. Bilgisayar tabanlı ağ saldırı tespit sisteminin kullanımına bir örnek olarak bunu kritik makinelerde görmek mümkündür; bu makinelerin yapılandırmalarını değiştirmesi beklenmemektedir. Saldırı tespit sistemleri, özel araçlar ve balküpü kullanılarak sisteme özgü hale getirilebilir.",
+      "char_count": 388,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0008",
+      "section": "=== Tespit Yöntemi ===",
+      "heading_path": "=== Tespit Yöntemi ===",
+      "start_char": 4810,
+      "end_char": 5810,
+      "content": "=== Tespit Yöntemi === İmza Tabanlı İmza tabanlı saldırı tespit sistemi, ağ trafiğinde örneğin bayt dizileri veya kötü amaçlı yazılım tarafından kullanılan kötü amaçlı komut dizileri gibi belirli modeller aramak amacıyla saldırıların tespit edilmesi anlamına gelir. Bu terminoloji, tespit edilen modelleri imza olarak ifade eden anti-virüs yazılımından kaynaklanmaktadır. İmza tabanlı saldırı tesit sistemi bilinen saldırıları kolayca tespit edebilmesine rağmen, mevcut modeli olmayan yeni saldırıları tespit etmesi imkânsızdır. Anomali Tabanlı Anormalliğe tabanlı saldırı tespit sistemleri, kötü niyetli yazılımların hızla gelişmesi nedeniyle bilinmeyen saldırıları tespit etmek için tasarlandı. Temel yaklaşım makine dilini kullanarak güvenilir öğrenme modeli oluşturmak daha sonra yeni davranışları bu modelle karşılaştırmaktır. Bu yaklaşım daha önce bilinmeyen saldırıların tespit edilmesine olanak tanımasına rağmen, yanlış alarmlar üretebilir: önceden bilinmeyen yasal etkinlik de kötü alarm ol",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0009",
+      "section": "=== Tespit Yöntemi ===",
+      "heading_path": "=== Tespit Yöntemi ===",
+      "start_char": 5610,
+      "end_char": 6326,
+      "content": "ı bu modelle karşılaştırmaktır. Bu yaklaşım daha önce bilinmeyen saldırıların tespit edilmesine olanak tanımasına rağmen, yanlış alarmlar üretebilir: önceden bilinmeyen yasal etkinlik de kötü alarm olarak sınıflandırılabilir. Anomali tabanlı saldırı tespit sistemleri olarak adlandırılabilecek yeni türler, Gartner tarafından Kullanıcı ve Varlık Davranış Analizi (UEBA)(kullanıcı davranışı analiz kategorisinin bir gelişimi) ve ağ trafiği analizi (NTA) olarak görülüyor. Özellikle NTA, bir kullanıcı makinesini veya hesabı tehlikeye atan hedefli harici saldırıların yanı sıra kötü niyetli içerikleri de ele alır. Gartner, bazı kuruluşların NTA'yı daha geleneksel saldırı tespit sistemlerine tercih ettiğini belirtti.",
+      "char_count": 716,
+      "token_estimate": 179
+    },
+    {
+      "id": "c0010",
+      "section": "== Saldırı Önleme Sistemi ==",
+      "heading_path": "== Saldırı Önleme Sistemi ==",
+      "start_char": 6327,
+      "end_char": 7327,
+      "content": "== Saldırı Önleme Sistemi == Bazı sistemler bir saldırı girişimi durdurmaya çalışabilir ancak bu bir izleme sistemi için ne zorunlu ne de gereklidir. Saldırı tespit ve önleme sistemleri (IDPS) öncelikli olarak olası olayların tespiti, bunlarla ilgili bilgileri kaydetme ve girişimleri raporlama üzerine odaklanmıştır. Buna ek olarak kuruluşlar, güvenlik ilkeleri ile ilgili sorunları belirlemek, mevcut tehditleri belgelemek ve kişilerin güvenlik politikalarını ihlal etmekten alıkoymak gibi diğer amaçlarla saldırı tespit ve önleme sistemlerini kullanmaktadır. Saldırı tespit ve önleme sistemleri gözlenen olaylarla ilgili bilgileri kaydeder, güvenlik yöneticilerine önemli gözlemlenen olayları bildirir ve raporlar üretir. Birçok saldırı tespit ve önleme sistemi, kendisinin başarılı olmasını önlemeye çalışan bir tehdide yanıt verebilir. Saldırı tespit ve önleme sistemleri saldırıyı kendisi durdurması, güvenlik ortamının değiştirilmesi (örneğin bir güvenlik duvarının yeniden yapılandırılması) v",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0011",
+      "section": "== Saldırı Önleme Sistemi ==",
+      "heading_path": "== Saldırı Önleme Sistemi ==",
+      "start_char": 7127,
+      "end_char": 8127,
+      "content": "eye çalışan bir tehdide yanıt verebilir. Saldırı tespit ve önleme sistemleri saldırıyı kendisi durdurması, güvenlik ortamının değiştirilmesi (örneğin bir güvenlik duvarının yeniden yapılandırılması) veya saldırının içeriğini değiştirmesini içeren çeşitli yanıt teknikleri kullanır. Saldırı tespit ve önleme sistemleri olarak da bilinen saldırı önleme sistemleri (IPS), ağ veya sistem faaliyetlerini kötü niyetli etkinlikler için izleyen ağ güvenliği aygıtlarıdır. İzinsiz giriş önleme sistemlerinin başlıca işlevleri, kötü amaçlı etkinliği saptamak, bu etkinlikle ilgili bilgileri günlüğe kaydetmek, raporlamak ve bunları engellemek veya durdurmaktır. Saldırı önleme sistemleri, saldırı tespit sistemlerinin uzantıları olarak kabul edilir, çünkü hem ağ trafiğini ve / veya kötü amaçlı etkinlik için sistem faaliyetlerini izlerler. Temel farklılıklar, saldırı tespit sistemlerinin aksine, izinsiz giriş önleme sistemlerinin sıraya yerleştirildiğini ve tespit edilen müdahaleleri aktif bir şekilde önle",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0012",
+      "section": "== Saldırı Önleme Sistemi ==",
+      "heading_path": "== Saldırı Önleme Sistemi ==",
+      "start_char": 7927,
+      "end_char": 8927,
+      "content": "istem faaliyetlerini izlerler. Temel farklılıklar, saldırı tespit sistemlerinin aksine, izinsiz giriş önleme sistemlerinin sıraya yerleştirildiğini ve tespit edilen müdahaleleri aktif bir şekilde önleyebildiğini veya engelleyebildiğini göstermektedir. Saldırı önleme sistemleri, alarm gönderilmesi, algılanan kötü niyetli paketlerin bırakılması, bağlantıyı sıfırlama veya trafik akışını rahatsız edici IP adresinden engelleme gibi eylemleri gerçekleştirebilir. Bir saldırı önleme sistemi ayrıca, CRC hatalarını düzeltebilir, paket akışlarını birleştirebilir, TCP sıralama sorunlarını azaltabilir ve istenmeyen aktarım ve ağ katmanı seçeneklerini temizleyebilir. Sınıflandırma Saldırı önleme sistemleri dört farklı türe ayrılabilir: Ağ Tabanlı Saldırı Tespit Sistemi (NIPS): Protokol etkinliğini analiz ederek şüpheli trafik için tüm ağı izler. Kablosuz Saldırı Önleme Sistemleri (WIPS): Kablosuz ağ protokollerini analiz ederek şüpheli trafik için kablosuz bir ağ izleyebilirsiniz. Ağ Davranış Analiz",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0013",
+      "section": "== Saldırı Önleme Sistemi ==",
+      "heading_path": "== Saldırı Önleme Sistemi ==",
+      "start_char": 8727,
+      "end_char": 9727,
+      "content": "z ederek şüpheli trafik için tüm ağı izler. Kablosuz Saldırı Önleme Sistemleri (WIPS): Kablosuz ağ protokollerini analiz ederek şüpheli trafik için kablosuz bir ağ izleyebilirsiniz. Ağ Davranış Analizi (NBA): Dağıtılmış hizmet engellemesi (DDoS) saldırıları, belirli kötü amaçlı yazılım şekilleri ve politika ihlalleri gibi alışılmadık trafik akışı üreten tehditleri tanımlamak için ağ trafiğini inceler. Bilgisayar Tabanlı Saldırı Önleme Sistemleri (HIPS): Bu yöntem, gözlemlenen olayları, \"iyi huylu etkinlik tanımlarının önceden belirlenmiş profilleri\" ile karşılaştırarak protokol devletlerinin sapmalarını tanımlar. Tespit Yöntemleri Saldırı Tespit Sistemlerinin çoğunluğu, üç algılama yönteminden birini kullanır: imza tabanlı, istatistiksel anormalliğe dayalı ve durum tabanlı protokol analizi. İmza Tabanlı Tespit: İmza tabanlı saldırı tespit sistemi, Ağdaki paketleri izler ve imzalar olarak bilinen önceden yapılandırılmış ve önceden belirlenmiş saldırı düzenleri ile karşılaştırır. Statik ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0014",
+      "section": "== Saldırı Önleme Sistemi ==",
+      "heading_path": "== Saldırı Önleme Sistemi ==",
+      "start_char": 9527,
+      "end_char": 10315,
+      "content": ". İmza Tabanlı Tespit: İmza tabanlı saldırı tespit sistemi, Ağdaki paketleri izler ve imzalar olarak bilinen önceden yapılandırılmış ve önceden belirlenmiş saldırı düzenleri ile karşılaştırır. Statik Anomali Tabanlı Tespit: Anomali temelli bir saldırı tespit sistemi, ağ trafiğini izleyecek ve kurulu bir taban çizgiye karşı karşılaştıracaktır. Temel olarak, o ağ için \"normal\" olan neyse o tanımlanacaktır - hangi bant genişliği genellikle kullanılır ve hangi protokol kullanılır. Ancak, temelii akıllıca yapılandırılmadıysa, bant genişliğinin meşru kullanımı için yanlış bir alarm verebilir. Durum Protokolü Analiz Tespiti: Bu yöntem, gözlemlenen olayları, \"iyi huylu etkinlik tanımlarının önceden belirlenmiş profilleri\" ile karşılaştırarak protokol devletlerinin sapmalarını tanımlar.",
+      "char_count": 788,
+      "token_estimate": 197
+    },
+    {
+      "id": "c0015",
+      "section": "== Sınırlamalar ==",
+      "heading_path": "== Sınırlamalar ==",
+      "start_char": 10316,
+      "end_char": 11316,
+      "content": "== Sınırlamalar == Gürültü, bir saldırı tespit sisteminin etkinliğini ciddi bir şekilde sınırlandırabilir. Yazılım hatalarından, bozuk DNS verilerinden ve kaçmış yerel paketlerden üretilen kötü paketler, hatalı alarm oranı önemli ölçüde yüksek olabilir. Gerçek saldırılar sayısının yanlış alarmların sayısının çok altında olması nadir değildir. Gerçek saldırılar, gerçek saldırıların sık sık kaçırıldığı veya yok sayıldığı yanlış alarmların sayısının çok altındadır. Çoğu saldırı, genel olarak güncel olmayan belli yazılım sürümleri için tasarlanmış. Tehditleri hafifletmek için sürekli değişen imzalar kütüphanesi gerekiyor. Eski tarihli veritabanları saldırı tespit sistemleri yeni stratejilere açık hale getirebilir. İmza tabanlı saldırı tespit sistemleri için, yeni bir tehdit keşfi ve saldırı tespit sisteminde uygulanan imzası arasında gecikme olacaktır. Bu gecikme süresi boyunca, saldırı tespit sistemi tehdidi tanımlayamayacaktır. Zayıf kimlik doğrulama mekanizmalarını veya ağ protokollerin",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0016",
+      "section": "== Sınırlamalar ==",
+      "heading_path": "== Sınırlamalar ==",
+      "start_char": 11116,
+      "end_char": 12116,
+      "content": "spit sisteminde uygulanan imzası arasında gecikme olacaktır. Bu gecikme süresi boyunca, saldırı tespit sistemi tehdidi tanımlayamayacaktır. Zayıf kimlik doğrulama mekanizmalarını veya ağ protokollerindeki zayıflıkları telafi edemez. Zayıf kimlik doğrulama mekanizması nedeniyle bir saldırgan erişim kazanırsa, saldırı tespit sistemi düşmana herhangi bir hatalı uygulamadan engel olamaz. Şifreli paketler, saldırı tespit cihazlarının çoğu tarafından işlenmez. Bu nedenle, şifreli paket daha önemli ağ saldırıları oluşana kadar keşfedilmemiş bir ağa izin verebilir. İzinsiz giriş tespit yazılımı, ağa gönderilen IP paketiyle ilişkili ağ adresini temel alan bilgiler sağlar. IP paketinde bulunan ağ adresi doğruysa, bu yararlıdır. Ancak, IP paketinde bulunan adres sahte veya şifreli olabilir. Ağ tabanlı saldırı tespit sistemlerinin yapısı ve protokolleri yakalandıkça analiz etmeleri gereği nedeniyle, ağ tabanlı saldırı tespit sistemleri, ağ ana bilgisayarlarının savunmasız olabilecekleri aynı proto",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0017",
+      "section": "== Sınırlamalar ==",
+      "heading_path": "== Sınırlamalar ==",
+      "start_char": 11916,
+      "end_char": 12272,
+      "content": "ı saldırı tespit sistemlerinin yapısı ve protokolleri yakalandıkça analiz etmeleri gereği nedeniyle, ağ tabanlı saldırı tespit sistemleri, ağ ana bilgisayarlarının savunmasız olabilecekleri aynı protokol tabanlı saldırılara karşı hassastır. Geçersiz veri ve TCP / IP yığını saldırıları, bir ağ tabanlı saldırı tespit sistemlerinin çökmesine neden olabilir.",
+      "char_count": 356,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0018",
+      "section": "== Atlatma Teknikleri ==",
+      "heading_path": "== Atlatma Teknikleri ==",
+      "start_char": 12273,
+      "end_char": 13273,
+      "content": "== Atlatma Teknikleri == Saldırganların kullandığı bir takım teknikler vardır, bunlardan bazıları saldırı tespit sisteminden kaçmak için uygulanabilecek 'basit' önlemlerdir: Parçalanma: Parçalanmış paket göndererek saldırgan radarın altında olacak ve algılama sisteminin saldırı imzasını algılama yeteneğini kolayca atlayabilir. Varsayılanları kullanmaktan kaçınma: Bir protokol tarafından kullanılan TCP portu, taşınan protokole her zaman bir gösterge sağlamaz. Örneğin, bir saldırı tespit sistemi, 12345 numaralı bağlantı noktasında bir trojan tespit etmeyi bekleyebilir. Bir saldırgan, onu farklı bir bağlantı noktası kullanacak şekilde yeniden yapılandırdıysa, saldırı tespit sistemi, trojan varlığını algılayamayabilir. Koordine edilmiş, düşük bant genişliği saldırılar: Birçok saldırgan (veya aracılar) arasında bir taramayı koordine etmek ve farklı saldırganlara farklı portlar veya bilgisayarlar tahsis etmek, saldırı tespit sisteminin yakalanan paketleri ilişkilendirmesini ve bir ağ taramas",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0019",
+      "section": "== Atlatma Teknikleri ==",
+      "heading_path": "== Atlatma Teknikleri ==",
+      "start_char": 13073,
+      "end_char": 14073,
+      "content": "racılar) arasında bir taramayı koordine etmek ve farklı saldırganlara farklı portlar veya bilgisayarlar tahsis etmek, saldırı tespit sisteminin yakalanan paketleri ilişkilendirmesini ve bir ağ taramasının devam ettiğini çıkarmasını zorlaştırıyor. Adres sızdırma / vekil sunucu oluşturma: saldırganlar, bir saldırıyı geri çevrelemek için güvenliği düşük veya yanlış yapılandırılmış vekil sunucuları kullanarak Güvenlik Yöneticilerinin saldırının kaynağını belirleme yeteneğini güçlendirebilir. Kaynak bir sunucu tarafından taklit edilip geri çevrilirse, saldırının kaynağını bulması çok zor olur. Desen değişikliği kaçırma: Saldırı tespit sistemleri genellikle bir saldırıyı tespit etmek için 'desen eşleştirme' yöntemine güvenirler. Saldırıda kullanılan verileri biraz değiştirerek algılamayı atlatmak mümkün olabilir. Örneğin, bir İnternet Mesaj Erişim Protokolü (IMAP) sunucusu bir arabellek taşmasına karşı savunmasız olabilir ve bir saldırı tespit sistemleri, 10 ortak saldırı aracının saldırı im",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0020",
+      "section": "== Atlatma Teknikleri ==",
+      "heading_path": "== Atlatma Teknikleri ==",
+      "start_char": 13873,
+      "end_char": 14235,
+      "content": "k mümkün olabilir. Örneğin, bir İnternet Mesaj Erişim Protokolü (IMAP) sunucusu bir arabellek taşmasına karşı savunmasız olabilir ve bir saldırı tespit sistemleri, 10 ortak saldırı aracının saldırı imzasını algılayabilir. Araç tarafından gönderilenler, saldırı tespit sisteminin beklediği verilere benzemekten kaçının, tespiti yapmaktan kaçınmak mümkün olabilir.",
+      "char_count": 362,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0021",
+      "section": "== Gelişim Süreci ==",
+      "heading_path": "== Gelişim Süreci ==",
+      "start_char": 14236,
+      "end_char": 15236,
+      "content": "== Gelişim Süreci == İlk erken saldırı tespit sistemi konsepti, 1980 yılında Ulusal Güvenlik Ajansı'ndaki James Anderson tarafından tanımlandı ve yöneticilerin denetim izlerini gözden geçirmesine yardımcı olmak için tasarlanmış bir takım araçlardan oluşuyordu. Kullanıcı erişim günlükleri, dosya erişim günlükleri ve sistem olay günlükleri denetim izlerine örnektir. Fred Cohen 1987'de her davada bir saldırı tespit etmek mümkün olmadığını ve saldırıları tespit etmek için gerekli olan kaynakların kullanım miktarı ile birlikte büyüdüğünü belirtti. Dorothy E. Denning, Peter G. Neumann'ın yardımıyla, bugün birçok sistemin temelini oluşturan bir saldırı tespit sistem modelini 1986'da yayınladı. Modeli, anomalilik tespiti için istatistikler kullandı ve SRI International'da, Sun iş istasyonlarında çalışan ve hem kullanıcı hem de ağ düzeyinde verileri göz önüne alabilen Intrusion Detection Expert System (IDES) adlı erken bir saldırı tespit sistemi ile sonuçlandı. IDES, bilinen saldırı tiplerini t",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0022",
+      "section": "== Gelişim Süreci ==",
+      "heading_path": "== Gelişim Süreci ==",
+      "start_char": 15036,
+      "end_char": 16036,
+      "content": "alışan ve hem kullanıcı hem de ağ düzeyinde verileri göz önüne alabilen Intrusion Detection Expert System (IDES) adlı erken bir saldırı tespit sistemi ile sonuçlandı. IDES, bilinen saldırı tiplerini tespit etmek için kural tabanlı bir Uzman Sistem ve kullanıcının, bilgisayar sistemlerinin ve hedef sistemlerin profillerine dayalı istatistiksel bir anomalilik tespit bileşeni bulunan ikili bir yaklaşıma sahiptir. Lunt, üçüncü bir bileşen olarak yapay sinir ağı eklemeyi önerdi. Her üç bileşenin de bir çözümleyiciye rapor verebileceğini söyledi. SRI, 1993 yılında IDES'i, Yeni Nesil İzinsiz Giriş Algılama Uzman Sistemi (NIDES) ile takip etti. P-BEST ve Lisp kullanan uzman bir sistem olan Multics saldırı tespit ve uyarı sistemi (MIDAS), Denning ve Neumann'ın çalışmalarına dayanılarak 1988'de geliştirildi. Haystack, aynı zamanda denetim yollarını azaltmak için istatistikler kullanarak o yıl geliştirildi. 1986'da Ulusal Güvenlik Ajansı, Rebecca Bace bünyesinde bir saldırı tespit sistemi araştır",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0023",
+      "section": "== Gelişim Süreci ==",
+      "heading_path": "== Gelişim Süreci ==",
+      "start_char": 15836,
+      "end_char": 16836,
+      "content": "ştirildi. Haystack, aynı zamanda denetim yollarını azaltmak için istatistikler kullanarak o yıl geliştirildi. 1986'da Ulusal Güvenlik Ajansı, Rebecca Bace bünyesinde bir saldırı tespit sistemi araştırma transfer programını başlattı. Bace, daha sonra 2000 yılında saldırı tespit konusundaki metni yayınladı. Wisdom & Sense (Wisdom & Sense), 1989'da Los Alamos Ulusal Laboratuvarı'nda geliştirilen, istatistiğe dayalı bir anormallik dedektörüdür. W & S, istatistiksel analize dayalı kurallar yarattıktan sonra anomali tespiti için bu kuralları kullandı. 1990'da, Zamana Dayalı Endüktif Makine (TIM), VAX 3500 bir bilgisayarda Common Lisp'de sıralı kullanıcı modellerinin endüktif öğrenmesini kullanarak anomali tespit etmiştir. Ağ Güvenlik İzleme (NSM), bir Sun-3/50 iş istasyonunda anomallik tespiti için erişim matrisleri üzerinde maskeleme gerçekleştirdi. Bilgi Güvenliği Görevlisi Asistanı (ISOA), istatistikler, profil denetleyici ve uzman sistem gibi çeşitli stratejileri göz önüne alan 1990 yılı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0024",
+      "section": "== Gelişim Süreci ==",
+      "heading_path": "== Gelişim Süreci ==",
+      "start_char": 16636,
+      "end_char": 17636,
+      "content": "çin erişim matrisleri üzerinde maskeleme gerçekleştirdi. Bilgi Güvenliği Görevlisi Asistanı (ISOA), istatistikler, profil denetleyici ve uzman sistem gibi çeşitli stratejileri göz önüne alan 1990 yılındaki bir prototipdi. AT & T Bell Laboratuvarlarındaki Bilgisayarİzleme, denetim verileri azaltma ve saldırı tespiti için istatistik ve kurallar kullandı. Sonra, 1991'de California Üniversitesi'ndeki araştırmacılar Davis, aynı zamanda uzman bir sistem olan bir prototip Dağıtık Saldırı Tespit Sistemi (DIDS) oluşturdu. 1991'de Ağ Anomali Tespiti ve Saldırı Reporter (NADIR), Los Alamos Ulusal Laboratuvarında Integrated Computing Network (ICN) 'de geliştirilen bir prototip saldırı tespit sistemiydi ve Denning ve Lunt'un çalışmalarından büyük ölçüde etkilendi. NADIR istatistik tabanlı bir anomallik detektörü ve bir uzman sistem kullandı. Lawrence Berkeley Ulusal Laboratuvarı, libpcap verilerinden paket analizinde kendi kural dilini kullanan 1998'de Bro'yu ilan etti. 1999'da Ağ Uçuş Kaydedici (N",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0025",
+      "section": "== Gelişim Süreci ==",
+      "heading_path": "== Gelişim Süreci ==",
+      "start_char": 17436,
+      "end_char": 18436,
+      "content": " detektörü ve bir uzman sistem kullandı. Lawrence Berkeley Ulusal Laboratuvarı, libpcap verilerinden paket analizinde kendi kural dilini kullanan 1998'de Bro'yu ilan etti. 1999'da Ağ Uçuş Kaydedici (NFR) da libpcap'ı kullandı. APE, aynı zamanda Kasım 1998'de libpcap kullanan bir paket dinleyicisi olarak geliştirildi ve bir ay sonra Snort olarak değiştirildi. APE, o zamandan beri 300.000'den fazla aktif kullanıcısıyla dünyanın en çok kullanılan saldırı tespit ve önleme sistemi haline geldi. 2001'de Denetim Veri Analizi ve Madenciliği (ADAM) saldırı tespit sistemi sınıflandırmaları için kuralların profillerini oluşturmak için tcpdump kullandı. 2003 yılında Yongguang Zhang ve Wenke Lee mobil düğümleri olan ağlarda saldırı tespit sisteminin önemini tartışmaktadır. 2015 yılında Viegas ve arkadaşları, örneğin Nesnelerin İnterneti (IoT) uygulamaları için anomali tabanlı bir saldırı tespit motoru önerdi. Teklif, Atom CPU'da bir Karar Ağacı, Naive-Bayes ve k-Nearest Neighbors sınıflandırıcıları",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0026",
+      "section": "== Gelişim Süreci ==",
+      "heading_path": "== Gelişim Süreci ==",
+      "start_char": 18236,
+      "end_char": 18916,
+      "content": "şları, örneğin Nesnelerin İnterneti (IoT) uygulamaları için anomali tabanlı bir saldırı tespit motoru önerdi. Teklif, Atom CPU'da bir Karar Ağacı, Naive-Bayes ve k-Nearest Neighbors sınıflandırıcılarının uygulanması için enerji verimliliği sağlayan bir anomallik tespiti ve bir FPGA'deki donanım dostu uygulama için makine öğrenimini uygular. Literatürde, her sınıflandırıcıyı yazılım ve donanımda eşdeğer olarak uygulayan ilk çalışma bu ve her ikisinde de enerji tüketimini ölçen bir çalışmaydı. Buna ek olarak, yazılım ve donanımda uygulanan ağ paket sınıflandırmasını yapmak için kullanılan her bir özelliği ayıklamak için enerji tüketiminin ölçülmesi ilk kez gerçekleştirildi.",
+      "char_count": 680,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0027",
+      "section": "== Ücretsiz Açık Kaynak Sistemleri ==",
+      "heading_path": "== Ücretsiz Açık Kaynak Sistemleri ==",
+      "start_char": 18917,
+      "end_char": 19040,
+      "content": "== Ücretsiz Açık Kaynak Sistemleri == ACARM-ng AIDE Bro NIDS Fail2ban OSSEC HIDS Prelude Hybrid IDS Samhain Snort Suricata",
+      "char_count": 122,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0028",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 19040,
+      "end_char": 19306,
+      "content": "== Ayrıca bakınız == Yapay bağışıklık sistemi Bypass anahtarı Hizmeti engelleme saldırısı DNS analizi Saldırı Tespiti Mesaj Değişim Formatı Protokol tabanlı saldırı tespit sistemi (PIDS) Gerçek zamanlı uygulanabilir güvenlik Güvenlik Yönetimi Yazılım tanımlı koruma",
+      "char_count": 265,
+      "token_estimate": 66
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Saldırı Tespit Sistemleri (STS) için en yaygın iki sınıflandırma nedir?",
+        "answer": "Ağ saldırı tespit sistemleri (NIDS) ve bilgisayar tabanlı saldırı tespit sistemleri (HIDS)'dir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Saldırı Tespit Sistemleri (STS) ile Saldırı Engelleme Sistemleri (SES) arasındaki temel fark nedir?",
+        "answer": "Saldırı Tespit Sistemleri (STS) saldırıları sadece tespit edip raporlarken, Saldırı Engelleme Sistemleri (SES) kötü niyetli aktiviteleri belirleyip raporlamanın yanı sıra yapılan saldırıları önleme yeteneğine de sahiptir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

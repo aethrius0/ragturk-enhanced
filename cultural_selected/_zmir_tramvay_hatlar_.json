@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "zmirtramvayhatlar_c79a43ce",
+    "title": "İzmir tramvay hatları",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0zmir_tramvay_hatlar%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:20.467400",
+    "content": "İzmir tramvay hatları, Türkiye'nin üçüncü büyük şehri İzmir'deki toplu ulaşım araçlarından birisidir. == Tarihçe == İzmir'de ilk tramvay 1 Nisan 1880'de faaliyete geçti. Bu hat Alsancak Garı ile Pasaport Vapur İskelesi arasında, Kordon'a yük taşımacılığı yapmak üzere hizmete giren atlı tramvay hattıydı. O yıllarda İzmir Limanı bu bölgede bulunmaktaydı. Ayrıca bu hatta Alsancak Garı'na gidecek demiryolu yolcuları da taşınmaktaydı. 1901 yılında, bu hat yeni inşa edilen Konak Meydanı'na kadar uzatıldı. Şehirdeki ikinci tramvay hattı ise Karşıyaka İskelesi ile Karşıyaka Tren İstasyonu arasında inşa edildi ve 1906 yılında hizmete girdi. 1907 yılında Karşıyaka'daki tramvay hattına Karşıyaka Vapur İskelesi - Alaybey ve Karşıyaka Vapur İskelesi - Bostanlı arasında inşa edilen hatlar da eklendi. Alsancak ve Karşıyaka'daki hatlara ek olarak Göztepe - Konak arasında da atlı tramvay hattı bulunmaktaydı. 18 Ekim 1928'de Göztepe - Konak hattı elektrikli hâle getirildi. 31 Ekim 1928'de ise şehirdeki atlı tramvay seferleri son buldu. Yeni pembe boyalı tramvaylar hizmete girdi ve 1927 ile 1939 arasında İzmir tramvayları zirvede idi. Otomobilin yükselişi ile otobüsler daha popüler hale geldi ve İzmir'de tramvay kullanımı gerilemeye başladı. İlk kapatılan tramvay hatları Karşıyaka'daki üç hat oldu. Karşıyaka Belediyesi, 1 Ekim 1939'da Karşıyaka'daki tüm tramvay hatlarını seferden kaldırdı. Konak-Göztepe hattı 1950'de kapatıldı ve İzmir'de hizmet veren tek tramvay hattı olarak Konak-Alsancak hattı kaldı. Konak-Alsancak hattının önce Pasaport-Alsancak bölümü kapatıldı. 7 Haziran 1954'te ise İzmir'deki tramvaylar tamamen kaldırıldı. Nisan 2015'te yapımına başlanan 8,8 km uzunluğundaki 14 duraklı T1 Karşıyaka tramvayı, Nisan 2017'de hizmete girdi. İnşaatı Temmuz 2015'te başlayan 12,8 km uzunluğundaki 19 duraklı T2 Konak tramvayı ise Mart 2018'de açıldı. İnşaatı 6 Şubat 2021'de başlanan 12 km uzunluğunda ve 14 istasyonu olan T3 Çiğli Tramvayı ise 27 Ocak 2024'te hizmete girdi. Girne'ye ise 4,4 km uzunluğunda ve on duraklı yeni bir hat yapılması planlanmaktadır. == Hatlar == === Eski hatlar === T1 Alsancak Garı – Konak Meydanı Tramvay Hattı T2 Karşıyaka Vapur İskelesi – Karşıyaka Tren İstasyonu Tramvay Hattı T3 Göztepe – Konak Tramvay Hattı T4 Karşıyaka Vapur İskelesi – Bostanlı hattı === İşletmedeki hatlar === T1 (Alaybey – Flamingo & Mavişehir – Ataşehir) Tramvay Hattı / Karşıyaka Tramvayı T2 (Fahrettin Altay – Halkapınar) Tramvay Hattı / Konak Tramvayı T3 (Flamingo – Çiğli) Ring Tramvay Hattı / Çiğli Tramvayı == Ayrıca bakınız == İstanbul ilinde toplu ulaşım == Kaynakça == == Dış bağlantılar == Tram İzmir resmî sitesi 28 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 391,
+      "char_count": 2704,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.778112",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 102,
+      "content": "İzmir tramvay hatları, Türkiye'nin üçüncü büyük şehri İzmir'deki toplu ulaşım araçlarından birisidir.",
+      "char_count": 101,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 102,
+      "end_char": 1102,
+      "content": "== Tarihçe == İzmir'de ilk tramvay 1 Nisan 1880'de faaliyete geçti. Bu hat Alsancak Garı ile Pasaport Vapur İskelesi arasında, Kordon'a yük taşımacılığı yapmak üzere hizmete giren atlı tramvay hattıydı. O yıllarda İzmir Limanı bu bölgede bulunmaktaydı. Ayrıca bu hatta Alsancak Garı'na gidecek demiryolu yolcuları da taşınmaktaydı. 1901 yılında, bu hat yeni inşa edilen Konak Meydanı'na kadar uzatıldı. Şehirdeki ikinci tramvay hattı ise Karşıyaka İskelesi ile Karşıyaka Tren İstasyonu arasında inşa edildi ve 1906 yılında hizmete girdi. 1907 yılında Karşıyaka'daki tramvay hattına Karşıyaka Vapur İskelesi - Alaybey ve Karşıyaka Vapur İskelesi - Bostanlı arasında inşa edilen hatlar da eklendi. Alsancak ve Karşıyaka'daki hatlara ek olarak Göztepe - Konak arasında da atlı tramvay hattı bulunmaktaydı. 18 Ekim 1928'de Göztepe - Konak hattı elektrikli hâle getirildi. 31 Ekim 1928'de ise şehirdeki atlı tramvay seferleri son buldu. Yeni pembe boyalı tramvaylar hizmete girdi ve 1927 ile 1939 arasında",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 902,
+      "end_char": 1902,
+      "content": "ı. 18 Ekim 1928'de Göztepe - Konak hattı elektrikli hâle getirildi. 31 Ekim 1928'de ise şehirdeki atlı tramvay seferleri son buldu. Yeni pembe boyalı tramvaylar hizmete girdi ve 1927 ile 1939 arasında İzmir tramvayları zirvede idi. Otomobilin yükselişi ile otobüsler daha popüler hale geldi ve İzmir'de tramvay kullanımı gerilemeye başladı. İlk kapatılan tramvay hatları Karşıyaka'daki üç hat oldu. Karşıyaka Belediyesi, 1 Ekim 1939'da Karşıyaka'daki tüm tramvay hatlarını seferden kaldırdı. Konak-Göztepe hattı 1950'de kapatıldı ve İzmir'de hizmet veren tek tramvay hattı olarak Konak-Alsancak hattı kaldı. Konak-Alsancak hattının önce Pasaport-Alsancak bölümü kapatıldı. 7 Haziran 1954'te ise İzmir'deki tramvaylar tamamen kaldırıldı. Nisan 2015'te yapımına başlanan 8,8 km uzunluğundaki 14 duraklı T1 Karşıyaka tramvayı, Nisan 2017'de hizmete girdi. İnşaatı Temmuz 2015'te başlayan 12,8 km uzunluğundaki 19 duraklı T2 Konak tramvayı ise Mart 2018'de açıldı. İnşaatı 6 Şubat 2021'de başlanan 12 km ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1702,
+      "end_char": 2073,
+      "content": " T1 Karşıyaka tramvayı, Nisan 2017'de hizmete girdi. İnşaatı Temmuz 2015'te başlayan 12,8 km uzunluğundaki 19 duraklı T2 Konak tramvayı ise Mart 2018'de açıldı. İnşaatı 6 Şubat 2021'de başlanan 12 km uzunluğunda ve 14 istasyonu olan T3 Çiğli Tramvayı ise 27 Ocak 2024'te hizmete girdi. Girne'ye ise 4,4 km uzunluğunda ve on duraklı yeni bir hat yapılması planlanmaktadır.",
+      "char_count": 371,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0004",
+      "section": "=== Eski hatlar ===",
+      "heading_path": "=== Eski hatlar ===",
+      "start_char": 2087,
+      "end_char": 2301,
+      "content": "=== Eski hatlar === T1 Alsancak Garı – Konak Meydanı Tramvay Hattı T2 Karşıyaka Vapur İskelesi – Karşıyaka Tren İstasyonu Tramvay Hattı T3 Göztepe – Konak Tramvay Hattı T4 Karşıyaka Vapur İskelesi – Bostanlı hattı",
+      "char_count": 213,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0005",
+      "section": "=== İşletmedeki hatlar ===",
+      "heading_path": "=== İşletmedeki hatlar ===",
+      "start_char": 2301,
+      "end_char": 2533,
+      "content": "=== İşletmedeki hatlar === T1 (Alaybey – Flamingo & Mavişehir – Ataşehir) Tramvay Hattı / Karşıyaka Tramvayı T2 (Fahrettin Altay – Halkapınar) Tramvay Hattı / Konak Tramvayı T3 (Flamingo – Çiğli) Ring Tramvay Hattı / Çiğli Tramvayı",
+      "char_count": 231,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0006",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2533,
+      "end_char": 2583,
+      "content": "== Ayrıca bakınız == İstanbul ilinde toplu ulaşım",
+      "char_count": 49,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2598,
+      "end_char": 2704,
+      "content": "== Dış bağlantılar == Tram İzmir resmî sitesi 28 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 106,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İzmir'deki atlı tramvay seferleri ne zaman sona erdi?",
+        "answer": "31 Ekim 1928",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İzmir'deki tramvay hatları, ilk hizmete girmesinden günümüzdeki durumuna kadar hangi önemli aşamalardan geçmiştir?",
+        "answer": "İzmir'deki tramvay hatları, 1880'de Alsancak Garı ile Pasaport Vapur İskelesi arasında atlı tramvay hattı olarak hizmete girmiş, ardından şehir içinde farklı hatlar eklenerek genişlemiştir. 1928'de atlı tramvay seferleri son bulmuş ve hatlar elektrikli hale getirilerek 1927-1939 yılları arasında zirve dönemini yaşamıştır. Ancak otomobillerin ve otobüslerin popülerleşmesiyle kullanımları gerilemiş, ilk olarak Karşıyaka'daki hatlar 1939'da kaldırılmış, ardından diğer hatlar da kapatılarak 7 Haziran 1954'te İzmir'deki tramvay seferleri tamamen sonlandırılmıştır. Günümüzde ise T1 Karşıyaka (Nisan 2017) ve T2 Konak (Mart 2018) tramvay hatlarının açılmasıyla yeniden toplu ulaşım aracı olarak hizmet vermeye başlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

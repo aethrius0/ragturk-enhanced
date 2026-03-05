@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "mi_cf928f99",
+    "title": "Đỗ Mười",
+    "url": "https://tr.wikipedia.org/wiki/%C4%90%E1%BB%97_M%C6%B0%E1%BB%9Di",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:19.145430",
+    "content": "Đỗ Mười (2 Şubat 1917 - 1 Ekim 2018), Vietnamlı komünist siyasetçidir. 27 Haziran 1991-29 Aralık 1997 tarihleri arasında Vietnam Komünist Partisi Merkez Komitesi Genel Sekreteri olarak görev yaptı. Muoi, 2 Şubat 1917'de Dong Phu, Thanh Tri, Hanoi'de “Nguyen Duy Cong” adıyla doğdu. 100'üncü yaş gününü 2017'de kutladı. == Kariyeri == Vietnam Komünist Partisi Genel Sekreteri ve Vietnam Başbakanı olarak görev aldı. Ekim 2018'de ölene kadar kadar Dünya'daki en yaşlı Vietnamlı siyasetçilerden birisiydi. == Ölümü == Vietnamlı siyasetçi ve devlet adamı Đỗ Mười, 12 Nisan 2018'de artan sağlık sorunları endeniyle Hanoi'deki Merkez Askeri Hastanesi'ne kaldırılarak tedavi altına alındı. Ancak iyileşemeyerek 1 Ekim 2018'de burada 101 yaşında öldü. == Kaynakça == == Dış bağlantılar == Abuza, Zachary (December 1998). \"Leadership Transition in Vietnam since the Eighth Party Congress: The Unfinished Congress\". Asian Survey. 38 (12). University of California Press. ss. 1105-1121. 2 Ekim 2015 tarihinde kaynağından arşivlendi2 Ekim 2018. Abuza, Zachary (April 2002). \"The Lessons of Le Kha Phieu: Changing Rules in Vietnamese politics\" (PDF). Contemporary Southeast Asia. 24 (1). Institute of Southeast Asian Studies. ss. 121-145. 4 Mart 2016 tarihinde kaynağından (PDF) arşivlendi2 Ekim 2018. Abrami, Regina (25–26 May 2007). Vietnam through Chinese Eyes: Comparing Vertical and Horizontal Accountability in Single-Party Regimes (PDF). Harvard Business School. Abrami, Regina; Malesky, Edmund; Zheng, Yu (2008). Accountability and Inequality in Single-Party Regimes: A Comparative Analysis of Vietnam and China (PDF). Harvard Business School. 6 Haziran 2012 tarihinde kaynağından arşivlendi (PDF). Erişim tarihi: 2 Ekim 2018. KB1 bakım: Birden fazla ad: yazar listesi (link)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 250,
+      "char_count": 1770,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.228650",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 319,
+      "content": "Đỗ Mười (2 Şubat 1917 - 1 Ekim 2018), Vietnamlı komünist siyasetçidir. 27 Haziran 1991-29 Aralık 1997 tarihleri arasında Vietnam Komünist Partisi Merkez Komitesi Genel Sekreteri olarak görev yaptı. Muoi, 2 Şubat 1917'de Dong Phu, Thanh Tri, Hanoi'de “Nguyen Duy Cong” adıyla doğdu. 100'üncü yaş gününü 2017'de kutladı.",
+      "char_count": 318,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 319,
+      "end_char": 503,
+      "content": "== Kariyeri == Vietnam Komünist Partisi Genel Sekreteri ve Vietnam Başbakanı olarak görev aldı. Ekim 2018'de ölene kadar kadar Dünya'daki en yaşlı Vietnamlı siyasetçilerden birisiydi.",
+      "char_count": 183,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 503,
+      "end_char": 744,
+      "content": "== Ölümü == Vietnamlı siyasetçi ve devlet adamı Đỗ Mười, 12 Nisan 2018'de artan sağlık sorunları endeniyle Hanoi'deki Merkez Askeri Hastanesi'ne kaldırılarak tedavi altına alındı. Ancak iyileşemeyerek 1 Ekim 2018'de burada 101 yaşında öldü.",
+      "char_count": 240,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 759,
+      "end_char": 1759,
+      "content": "== Dış bağlantılar == Abuza, Zachary (December 1998). \"Leadership Transition in Vietnam since the Eighth Party Congress: The Unfinished Congress\". Asian Survey. 38 (12). University of California Press. ss. 1105-1121. 2 Ekim 2015 tarihinde kaynağından arşivlendi2 Ekim 2018. Abuza, Zachary (April 2002). \"The Lessons of Le Kha Phieu: Changing Rules in Vietnamese politics\" (PDF). Contemporary Southeast Asia. 24 (1). Institute of Southeast Asian Studies. ss. 121-145. 4 Mart 2016 tarihinde kaynağından (PDF) arşivlendi2 Ekim 2018. Abrami, Regina (25–26 May 2007). Vietnam through Chinese Eyes: Comparing Vertical and Horizontal Accountability in Single-Party Regimes (PDF). Harvard Business School. Abrami, Regina; Malesky, Edmund; Zheng, Yu (2008). Accountability and Inequality in Single-Party Regimes: A Comparative Analysis of Vietnam and China (PDF). Harvard Business School. 6 Haziran 2012 tarihinde kaynağından arşivlendi (PDF). Erişim tarihi: 2 Ekim 2018. KB1 bakım: Birden fazla ad: yazar lis",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1559,
+      "end_char": 1770,
+      "content": "es: A Comparative Analysis of Vietnam and China (PDF). Harvard Business School. 6 Haziran 2012 tarihinde kaynağından arşivlendi (PDF). Erişim tarihi: 2 Ekim 2018. KB1 bakım: Birden fazla ad: yazar listesi (link)",
+      "char_count": 211,
+      "token_estimate": 52
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Zachary Abuza'nın Asian Survey dergisinde Aralık 1998'de yayımlanan makalesinin başlığı nedir?",
+        "answer": "Leadership Transition in Vietnam since the Eighth Party Congress: The Unfinished Congress",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Đỗ Mười'nin doğum ve ölüm tarihleri göz önüne alındığında, onun Vietnam siyasetindeki konumunun, ölümüne kadar Dünya'daki en yaşlı Vietnamlı siyasetçilerden biri olarak nasıl şekillendiğini açıklayın.",
+        "answer": "Đỗ Mười, 2 Şubat 1917'de doğup 1 Ekim 2018'de vefat etmesiyle 100 yaşını aşmış bir ömür sürmüştür. Bu uzun yaşam süresi, onun Ekim 2018'deki ölümüne kadar Dünya'daki en yaşlı Vietnamlı siyasetçilerden biri olarak kabul edilmesini sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

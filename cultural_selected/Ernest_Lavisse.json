@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "ernestlavisse_ccfeca33",
+    "title": "Ernest Lavisse",
+    "url": "https://tr.wikipedia.org/wiki/Ernest_Lavisse",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:12.713477",
+    "content": "Ernest Lavisse (d. 17 Aralık 1842 – ö. 18 Ağustos 1922), Fransız tarihçidir. == Yaşamı == Fransa Aisne'de doğdu. 1865'te bir tarihçi olarak akademik çalışmalarına başladı. 1875'te edebiyat doktoru oldu. 1876'da École Normale Supérieure’e atandı. 1888’de Sorbonne' da çağdaş tarih profesörü oldu. Konuşma yeteneğinin yüksek olması ve genç öğrencilere yönelik özverili gayretleri ile bilindi. 1871’den sonra Fransa’da yüksek öğrenimin canlandırılmasında emeği geçen önemli bir kişi oldu. Öğrenimde berrak ve açık bir yönteme sahip olduğundan kanıtlama ve kavrama üzerine teknikleri kamuya açık konferanslarında, az sayıda öğrenciye verdiği özel derslerde, kitaplarında, makalelerinde ilgi konusu oldu. Prusya’nın zaferi ile sonuçlanan Fransa-Prusya Savaşı'ndan sonra Prusya'nın gelişimi üzerine çalışmalar yapmaya yöneldi ve 1879’da tarih doktorluğu tezini ve Etudes sur l'Histoire de la Prusse yazdı. Kutsal Roma Cermen İmparatorluğu ve çöküşü üzerine yaptığı çalışmaları ile bağlantılı olan makaleleri Revue des Deux Mondes isimli dergide yayımlandı. Çağdaş Alman İmparatorluğu ve güçlenmesi üzerindeki çalışmalarını Trois empereurs d'Allemagne (1888), La Jeunesse du grand Frédéric (1891) ve Frédéric II. avant son avènement (1893) isimli eserlerinde topladı. 7. cildinin tamamı XIV. Louis dönemini içeren Histoire de France depuis les origines jusqu'à la Révolution isimli eserde çok sayıda asistanı ile birlikte çalıştı. 7. cilt çalışmanın en dikkat çekici yerlerinden olmakla birlikte ele aldığı dönemi ilk defa bütün dilimleri ile aynı hassasiyet ve derinlikle inceleyen bir çalışma oldu. 1892’de Académie Française ‘a profesör olarak kabul edildi ve daha sonra Revue de Paris isimli derginin editörlüğüne getirildi. == Kaynakça == Chisholm, Hugh, ed. (1911). \"Lavisse, Ernest\". Encyclopædia Britannica (11th ed.). Cambridge University Press.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 249,
+      "char_count": 1847,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.745552",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 77,
+      "content": "Ernest Lavisse (d. 17 Aralık 1842 – ö. 18 Ağustos 1922), Fransız tarihçidir.",
+      "char_count": 76,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 77,
+      "end_char": 1077,
+      "content": "== Yaşamı == Fransa Aisne'de doğdu. 1865'te bir tarihçi olarak akademik çalışmalarına başladı. 1875'te edebiyat doktoru oldu. 1876'da École Normale Supérieure’e atandı. 1888’de Sorbonne' da çağdaş tarih profesörü oldu. Konuşma yeteneğinin yüksek olması ve genç öğrencilere yönelik özverili gayretleri ile bilindi. 1871’den sonra Fransa’da yüksek öğrenimin canlandırılmasında emeği geçen önemli bir kişi oldu. Öğrenimde berrak ve açık bir yönteme sahip olduğundan kanıtlama ve kavrama üzerine teknikleri kamuya açık konferanslarında, az sayıda öğrenciye verdiği özel derslerde, kitaplarında, makalelerinde ilgi konusu oldu. Prusya’nın zaferi ile sonuçlanan Fransa-Prusya Savaşı'ndan sonra Prusya'nın gelişimi üzerine çalışmalar yapmaya yöneldi ve 1879’da tarih doktorluğu tezini ve Etudes sur l'Histoire de la Prusse yazdı. Kutsal Roma Cermen İmparatorluğu ve çöküşü üzerine yaptığı çalışmaları ile bağlantılı olan makaleleri Revue des Deux Mondes isimli dergide yayımlandı. Çağdaş Alman İmparatorluğu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 877,
+      "end_char": 1721,
+      "content": "re de la Prusse yazdı. Kutsal Roma Cermen İmparatorluğu ve çöküşü üzerine yaptığı çalışmaları ile bağlantılı olan makaleleri Revue des Deux Mondes isimli dergide yayımlandı. Çağdaş Alman İmparatorluğu ve güçlenmesi üzerindeki çalışmalarını Trois empereurs d'Allemagne (1888), La Jeunesse du grand Frédéric (1891) ve Frédéric II. avant son avènement (1893) isimli eserlerinde topladı. 7. cildinin tamamı XIV. Louis dönemini içeren Histoire de France depuis les origines jusqu'à la Révolution isimli eserde çok sayıda asistanı ile birlikte çalıştı. 7. cilt çalışmanın en dikkat çekici yerlerinden olmakla birlikte ele aldığı dönemi ilk defa bütün dilimleri ile aynı hassasiyet ve derinlikle inceleyen bir çalışma oldu. 1892’de Académie Française ‘a profesör olarak kabul edildi ve daha sonra Revue de Paris isimli derginin editörlüğüne getirildi.",
+      "char_count": 844,
+      "token_estimate": 211
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1722,
+      "end_char": 1847,
+      "content": "== Kaynakça == Chisholm, Hugh, ed. (1911). \"Lavisse, Ernest\". Encyclopædia Britannica (11th ed.). Cambridge University Press.",
+      "char_count": 125,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ne zaman Sorbonne'da çağdaş tarih profesörü oldu?",
+        "answer": "1888",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ernest Lavisse'in akademik kariyeri nasıl ilerlemiştir, Fransa-Prusya Savaşı'nın ardından tarihi araştırmalarındaki yönelimi ne olmuştur ve bu süreçte kaleme aldığı önemli eserler ve elde ettiği başlıca profesyonel başarılar nelerdir?",
+        "answer": "Ernest Lavisse, 1865'te tarihçi olarak akademik çalışmalarına başlamış, 1875'te edebiyat doktoru olmuş, 1876'da École Normale Supérieure'e atanmış ve 1888'de Sorbonne'da çağdaş tarih profesörü olmuştur. Fransa-Prusya Savaşı'ndan sonra Prusya'nın gelişimi üzerine çalışmaya yönelmiş ve 1879'da tarih doktorluğu tezini ve 'Etudes sur l'Histoire de la Prusse'u yazmıştır. Ayrıca 'Trois empereurs d'Allemagne', 'La Jeunesse du grand Frédéric' ve 'Frédéric II. avant son avènement' gibi eserlerde Çağdaş Alman İmparatorluğu'nu incelemiştir. Çok sayıda asistanıyla 'Histoire de France depuis les origines jusqu'à la Révolution' adlı eserde çalışmış, özellikle 7. cildi XIV. Louis dönemine ayırmıştır. Yüksek öğrenimin canlandırılmasında önemli rol oynamış, 1892'de Académie Française'a kabul edilmiş ve Revue de Paris dergisinin editörlüğünü yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

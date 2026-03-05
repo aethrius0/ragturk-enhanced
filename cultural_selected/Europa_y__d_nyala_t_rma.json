@@ -1,0 +1,163 @@
+{
+  "article": {
+    "id": "europaydnyalatrma_e5afa650",
+    "title": "Europa'yı dünyalaştırma",
+    "url": "https://tr.wikipedia.org/wiki/Europa%27y%C4%B1_d%C3%BCnyala%C5%9Ft%C4%B1rma",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:27.644491",
+    "content": "Europa'yı dünyalaştırma Europa uydusunun iklimini insanların yaşaması için uygun hale getirmek için olan varsayımsal süreçtir. Jüpiter'in etrafında çok büyük bir radyasyon kemeri var ancak uzay teknolojisi ile bunun üstesinden gelinebileceği öne sürülüyor. Europa'yı dünyalaştırmak için büyük değişimler gerekecektir: Bir ozon tabakası ultraviyole radyasyon emer ve yüzeye ulaşan zararlı radyasyon miktarını azalır. Manyetik alan kurulması gerekir. Oksijenin yüzdesinin uygun olması gerekir (Dünya'da atmosferin yaklaşık %21 dir). Atmosferik basınçın artması gerekir. Fazla yüzey suyunun veya buzun çıkarılması gerekir. == Nedenler == Astronomlar üç milyar yıl sonra Güneş'in %33 daha aydınlık olacağını tahmin ediyor. Güneş'in ısınması ve artan güneş radyasyonu Dünya'nın okyanuslarının buharlaşmasına neden olur. Yaşanabilir bölge Güneş'te daha uzağa taşınır. Europa Jüpiter gibi aynı yerçekimsel kinetik ve elektromanyetik enerjiyi aldığında bile, Güneş Europa'nın yaşanabilir olması için uzak gelecekte yeterince büyük olacaktır. == Avantajlar == Suyun Europa'nın alt bölümünde bulunabileceği ileri sürülmüştür. Su gerçekten yüzeyinin altında mevcut değilse, donmuş olsa bile, hayat sadece basit olabilir, ancak aynı zamanda, derin suda hayat gelişebilir. Süngerler, tarak, salyangoz, balık ve birçok mikroorganizma soğuk koşullara rağmen, New Harbor Antarktika bölgesinde buzun altında gelişmişlerdir. == Gerekli değişiklikler == Europa'da Dünya'ya göre ince ve daha az basınca sahip atmosfer vardır. === Atmosfer inşası === Pratikte daha yüksek bir toplam basınç gerekli olmasına rağmen bir oksijen için en az 0.2 bar basınç insan solunumu için gereklidir. ==== Amonyak göndermek ==== Bir başka, daha karmaşık bir yöntem ise güçlü bir sera gazı olan amonyak kullanmak. Amonyak büyük miktarda Güneş Sistemindeki Gezegenlerde mevcut olabilir. Sürekli küçük etki de, atmosferin sıcaklığı ve kütle artışına katkıda bulunacaktır. ==== Metan göndermek ==== Bu gazlar suyun ve CO2 in üretimi için, bitkilerin fotosentez işlemini başlatmak için kullanılabilir. === Uyduyu ısıtma olarak kullanma === Uyduyu Isıtma aracı olarak kullanmak yüzeydeki buzu eriterek sıvı haline getirebilir. ==== Bombardıman ==== Bombardıman ile Europa yüzeyine amonyağın, sera gazının, yukarıda belirtilenlerin ve tohumun yönlendirilmesi sağlanabilir. == Manyetik alan ve Jüpiter radyasyon kuşakları == Europa günde yaklaşık 540 rem alır (500 zaten potansiyel olarak ölümcüldür)canlılar için bir sağlık tehdidi oluşturur. Buna rağmen, UV radyasyonu bloke edilebilir. Üst atmosferik bileşenler koruma sağlayabilir. == Ayrıca bakınız == Terraforming Mars'ı dünyalaştırma Venüs'ü dünyalaştırma == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 351,
+      "char_count": 2681,
+      "num_chunks": 11,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.926127",
+    "total_chunks": 11,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 620,
+      "content": "Europa'yı dünyalaştırma Europa uydusunun iklimini insanların yaşaması için uygun hale getirmek için olan varsayımsal süreçtir. Jüpiter'in etrafında çok büyük bir radyasyon kemeri var ancak uzay teknolojisi ile bunun üstesinden gelinebileceği öne sürülüyor. Europa'yı dünyalaştırmak için büyük değişimler gerekecektir: Bir ozon tabakası ultraviyole radyasyon emer ve yüzeye ulaşan zararlı radyasyon miktarını azalır. Manyetik alan kurulması gerekir. Oksijenin yüzdesinin uygun olması gerekir (Dünya'da atmosferin yaklaşık %21 dir). Atmosferik basınçın artması gerekir. Fazla yüzey suyunun veya buzun çıkarılması gerekir.",
+      "char_count": 619,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0001",
+      "section": "== Nedenler ==",
+      "heading_path": "== Nedenler ==",
+      "start_char": 620,
+      "end_char": 1034,
+      "content": "== Nedenler == Astronomlar üç milyar yıl sonra Güneş'in %33 daha aydınlık olacağını tahmin ediyor. Güneş'in ısınması ve artan güneş radyasyonu Dünya'nın okyanuslarının buharlaşmasına neden olur. Yaşanabilir bölge Güneş'te daha uzağa taşınır. Europa Jüpiter gibi aynı yerçekimsel kinetik ve elektromanyetik enerjiyi aldığında bile, Güneş Europa'nın yaşanabilir olması için uzak gelecekte yeterince büyük olacaktır.",
+      "char_count": 413,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0002",
+      "section": "== Avantajlar ==",
+      "heading_path": "== Avantajlar ==",
+      "start_char": 1034,
+      "end_char": 1407,
+      "content": "== Avantajlar == Suyun Europa'nın alt bölümünde bulunabileceği ileri sürülmüştür. Su gerçekten yüzeyinin altında mevcut değilse, donmuş olsa bile, hayat sadece basit olabilir, ancak aynı zamanda, derin suda hayat gelişebilir. Süngerler, tarak, salyangoz, balık ve birçok mikroorganizma soğuk koşullara rağmen, New Harbor Antarktika bölgesinde buzun altında gelişmişlerdir.",
+      "char_count": 372,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0003",
+      "section": "== Gerekli değişiklikler ==",
+      "heading_path": "== Gerekli değişiklikler ==",
+      "start_char": 1407,
+      "end_char": 1506,
+      "content": "== Gerekli değişiklikler == Europa'da Dünya'ya göre ince ve daha az basınca sahip atmosfer vardır.",
+      "char_count": 98,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0004",
+      "section": "=== Atmosfer inşası ===",
+      "heading_path": "=== Atmosfer inşası ===",
+      "start_char": 1506,
+      "end_char": 1663,
+      "content": "=== Atmosfer inşası === Pratikte daha yüksek bir toplam basınç gerekli olmasına rağmen bir oksijen için en az 0.2 bar basınç insan solunumu için gereklidir.",
+      "char_count": 156,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0005",
+      "section": "==== Amonyak göndermek ====",
+      "heading_path": "==== Amonyak göndermek ====",
+      "start_char": 1663,
+      "end_char": 1931,
+      "content": "==== Amonyak göndermek ==== Bir başka, daha karmaşık bir yöntem ise güçlü bir sera gazı olan amonyak kullanmak. Amonyak büyük miktarda Güneş Sistemindeki Gezegenlerde mevcut olabilir. Sürekli küçük etki de, atmosferin sıcaklığı ve kütle artışına katkıda bulunacaktır.",
+      "char_count": 267,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0006",
+      "section": "==== Metan göndermek ====",
+      "heading_path": "==== Metan göndermek ====",
+      "start_char": 1931,
+      "end_char": 2059,
+      "content": "==== Metan göndermek ==== Bu gazlar suyun ve CO2 in üretimi için, bitkilerin fotosentez işlemini başlatmak için kullanılabilir.",
+      "char_count": 127,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0007",
+      "section": "=== Uyduyu ısıtma olarak kullanma ===",
+      "heading_path": "=== Uyduyu ısıtma olarak kullanma ===",
+      "start_char": 2059,
+      "end_char": 2183,
+      "content": "=== Uyduyu ısıtma olarak kullanma === Uyduyu Isıtma aracı olarak kullanmak yüzeydeki buzu eriterek sıvı haline getirebilir.",
+      "char_count": 123,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0008",
+      "section": "==== Bombardıman ====",
+      "heading_path": "==== Bombardıman ====",
+      "start_char": 2183,
+      "end_char": 2328,
+      "content": "==== Bombardıman ==== Bombardıman ile Europa yüzeyine amonyağın, sera gazının, yukarıda belirtilenlerin ve tohumun yönlendirilmesi sağlanabilir.",
+      "char_count": 144,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0009",
+      "section": "== Manyetik alan ve Jüpiter radyasyon kuşakları ==",
+      "heading_path": "== Manyetik alan ve Jüpiter radyasyon kuşakları ==",
+      "start_char": 2328,
+      "end_char": 2590,
+      "content": "== Manyetik alan ve Jüpiter radyasyon kuşakları == Europa günde yaklaşık 540 rem alır (500 zaten potansiyel olarak ölümcüldür)canlılar için bir sağlık tehdidi oluşturur. Buna rağmen, UV radyasyonu bloke edilebilir. Üst atmosferik bileşenler koruma sağlayabilir.",
+      "char_count": 261,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0010",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2590,
+      "end_char": 2667,
+      "content": "== Ayrıca bakınız == Terraforming Mars'ı dünyalaştırma Venüs'ü dünyalaştırma",
+      "char_count": 76,
+      "token_estimate": 19
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Europa'yı dünyalaştırma ne anlama gelmektedir?",
+        "answer": "Europa uydusunun iklimini insanların yaşaması için uygun hale getirmek için olan varsayımsal süreçtir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Güneş'in gelecekteki durumu göz önüne alındığında, Europa'nın yaşanabilir hale getirilmesinin neden düşünüldüğü ve bu dünyalaştırma sürecinde hangi büyük değişimlerin gerekli olduğu açıklanmaktadır?",
+        "answer": "Gelecekte, üç milyar yıl sonra Güneş'in %33 daha aydınlık hale gelerek Dünya'nın okyanuslarının buharlaşmasına neden olması ve yaşanabilir bölgenin Güneş'ten daha uzağa kayması beklenmektedir; bu da Europa'nın uzak gelecekte yaşanabilir bir aday haline gelmesinin nedenidir. Europa'yı dünyalaştırmak için ise bir ozon tabakası oluşturulması, manyetik alan kurulması, oksijen yüzdesinin uygun hale getirilmesi, atmosferik basıncın artırılması ve fazla yüzey suyunun veya buzun çıkarılması gibi büyük değişimler gerekmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

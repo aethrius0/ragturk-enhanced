@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "nurigkaan_9cd3c9f1",
+    "title": "Nuri Gökaşan",
+    "url": "https://tr.wikipedia.org/wiki/Nuri_G%C3%B6ka%C5%9Fan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:41.042696",
+    "content": "Nuri Gökaşan (d. 20 Haziran 1950, Ankara), Türk tiyatro ve sinema oyuncusu, seslendirme sanatçısıdır. Ankara Sanat Tiyatrosu'nda (AST), Dormen Tiyatrosu'nda çalışmış, Athol Fugard'ın Ada oyunuyla 1989 yılında Türk Sanat Kurumunun En İyi Erkek Sanatçı Ödülü'nü almıştır. Dizi, sinema ve tiyatro oyuncusu olarak tanıdığımız Gökaşan aynı zamanda seslendirme sanatçısıdır. Birçok projede sesi ile yer almıştır. 20 Haziran 1950 yılında Ankara'da dünyaya gelen Gökaşan, Ankara İktisadi Ticari ilimler Akademisi Gazetecilik ve Halkla İlişkiler Okulunda Radyo ve TV alanından mezun olmuştur. == Filmografisi == === Dizileri === 2023 - Yeşil Deniz: Milenyum 2020 - Gönül Dağı 2016 - Kertenkele 2014 - Yeşil Deniz 2013 - Ben Onu Çok Sevdim 2011 - Keşanlı Ali Destanı 2008 - Serçe 2007 - Kod Adı Kaos 2006 - Kod Adı 2005 - Savcının Karısı 2002 - Pembe Patikler 2002 - Baldız Geliyorum Demez 2000 - Samyeli 2000 - Gazeteci Yazarını Arıyor 2000 - Acemiler İş Başında 1997 - Sevda Rüzgarı 1997 - Neşeli Günler 1990 - Hayırlı Bir Konu 1984 - Sessiz Film 1983 - Yazıyor === Filmleri === 2018 - Hadi be Oğlum 2015 - Son Mektup 2011 - Seni Kalbime Gömdüm 2010 - Şenlikname: Bir İstanbul Masalı 2005 - Organize İşler 2003 - Vizontele Tuuba 2000 - Hoş Geldin Cumhuriyet 1998 - Cumhuriyet === Oyun seslendirmeleri === 2011 - Crysis 2 == Kaynakça == == Dış bağlantılar == IMDb'de Nuri Gökaşan",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 226,
+      "char_count": 1370,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.818856",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 584,
+      "content": "Nuri Gökaşan (d. 20 Haziran 1950, Ankara), Türk tiyatro ve sinema oyuncusu, seslendirme sanatçısıdır. Ankara Sanat Tiyatrosu'nda (AST), Dormen Tiyatrosu'nda çalışmış, Athol Fugard'ın Ada oyunuyla 1989 yılında Türk Sanat Kurumunun En İyi Erkek Sanatçı Ödülü'nü almıştır. Dizi, sinema ve tiyatro oyuncusu olarak tanıdığımız Gökaşan aynı zamanda seslendirme sanatçısıdır. Birçok projede sesi ile yer almıştır. 20 Haziran 1950 yılında Ankara'da dünyaya gelen Gökaşan, Ankara İktisadi Ticari ilimler Akademisi Gazetecilik ve Halkla İlişkiler Okulunda Radyo ve TV alanından mezun olmuştur.",
+      "char_count": 583,
+      "token_estimate": 145
+    },
+    {
+      "id": "c0001",
+      "section": "=== Dizileri ===",
+      "heading_path": "=== Dizileri ===",
+      "start_char": 603,
+      "end_char": 1054,
+      "content": "=== Dizileri === 2023 - Yeşil Deniz: Milenyum 2020 - Gönül Dağı 2016 - Kertenkele 2014 - Yeşil Deniz 2013 - Ben Onu Çok Sevdim 2011 - Keşanlı Ali Destanı 2008 - Serçe 2007 - Kod Adı Kaos 2006 - Kod Adı 2005 - Savcının Karısı 2002 - Pembe Patikler 2002 - Baldız Geliyorum Demez 2000 - Samyeli 2000 - Gazeteci Yazarını Arıyor 2000 - Acemiler İş Başında 1997 - Sevda Rüzgarı 1997 - Neşeli Günler 1990 - Hayırlı Bir Konu 1984 - Sessiz Film 1983 - Yazıyor",
+      "char_count": 450,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0002",
+      "section": "=== Filmleri ===",
+      "heading_path": "=== Filmleri ===",
+      "start_char": 1054,
+      "end_char": 1268,
+      "content": "=== Filmleri === 2018 - Hadi be Oğlum 2015 - Son Mektup 2011 - Seni Kalbime Gömdüm 2010 - Şenlikname: Bir İstanbul Masalı 2005 - Organize İşler 2003 - Vizontele Tuuba 2000 - Hoş Geldin Cumhuriyet 1998 - Cumhuriyet",
+      "char_count": 213,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0003",
+      "section": "=== Oyun seslendirmeleri ===",
+      "heading_path": "=== Oyun seslendirmeleri ===",
+      "start_char": 1268,
+      "end_char": 1313,
+      "content": "=== Oyun seslendirmeleri === 2011 - Crysis 2",
+      "char_count": 44,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1328,
+      "end_char": 1370,
+      "content": "== Dış bağlantılar == IMDb'de Nuri Gökaşan",
+      "char_count": 42,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Nuri Gökaşan, hangi oyunla 1989 yılında Türk Sanat Kurumunun En İyi Erkek Sanatçı Ödülü'nü almıştır?",
+        "answer": "Athol Fugard'ın Ada oyunuyla.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Nuri Gökaşan'ın biyografisinde belirtilen mesleki unvanları, kariyeri boyunca yer aldığı diziler listesiyle nasıl desteklenmektedir?",
+        "answer": "Nuri Gökaşan'ın biyografisi kendisini \"dizi, sinema ve tiyatro oyuncusu\" olarak tanımlamaktadır. Sağlanan diziler listesi, sanatçının 1983'ten 2023'e kadar birçok televizyon dizisinde rol alarak bu alandaki aktif ve uzun soluklu kariyerini açıkça göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

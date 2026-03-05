@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "advent_96ee941f",
+    "title": "Advent",
+    "url": "https://tr.wikipedia.org/wiki/Advent",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:44.546922",
+    "content": "Advent (Latince: adventus \"varış\"), Hristiyanlıkta İsa'nın doğumuna ve dolayısıyla Noel'e kadar günlerin geri sayıldığı kısa dönem. Katoliklik ve Protestanlıkta 30 Kasım'a en yakın pazar günü (27 Kasım - 3 Aralık) başlayan ve Noel arifesine kadar süren dört haftadır. Ortodokslukta ise 27 Kasım ile 7 Ocak arasındaki 40 günlük dönemdir. == Gelenekler == Günümüzde Advent, Noel bayramının beklenildiği son dört hafta özellikle çocukları sevindiren geleneklerle süslenmiştir. Advent çelenginde bulunan dört mum, her pazar günü bir tane olmak üzere teker teker yakılır. Advent takvimi denen çok bölmeli kutuların 24 kapağının (kapısının) arkasında küçük sürprizler ve şekerlemeler bulunur ve her gün bir kapısı açılır. == Dört Pazar == === Roma Katolik Kilisesi === Katolik Kilisesi'nin Roma Ayininde, Advent Pazar günlerindeki ayin okumalarının belirgin temaları vardır: Advent'in İlk Pazarı: İlk Pazar (Advent Pazarı) günü, Mesih'in İkinci Gelişi dört gözle beklenir. İkinci Advent Pazarı: İkinci Pazar günü İncil okuması, \"Rabbin yolunu hazırlamak\" için gelen Vaftizci Yahya'nın vaazını hatırlatır; diğer okumaların da ilişkili temaları vardır. Advent'in Üçüncü Pazarı: Üçüncü Pazar (\"Gaudete Pazarı\") günü, İncil okuması yine Vaftizci Yahya ile ilgilidir, diğer okumalar Kurtarıcı'nın gelişiyle ilişkili sevinçle ilgilidir. Advent'in Dördüncü Pazar Günü: Dördüncü Pazar günü İncil'in okuma kısmı, İsa'nın doğumuna doğrudan yol açan Meryem ve Yusuf'la ilgili olaylarla ilgilidir; diğer okumalar ise bunlarla ilgilidir. == Ayrıca bakınız == Advent takvimi Advent mumu Noel Epifani Advent Pazarı == Kaynakça == == Dış bağlantılar == Wikimedia Commons'ta Advent ile ilgili çoklu ortam belgeleri bulunur.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 235,
+      "char_count": 1700,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.831990",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 337,
+      "content": "Advent (Latince: adventus \"varış\"), Hristiyanlıkta İsa'nın doğumuna ve dolayısıyla Noel'e kadar günlerin geri sayıldığı kısa dönem. Katoliklik ve Protestanlıkta 30 Kasım'a en yakın pazar günü (27 Kasım - 3 Aralık) başlayan ve Noel arifesine kadar süren dört haftadır. Ortodokslukta ise 27 Kasım ile 7 Ocak arasındaki 40 günlük dönemdir.",
+      "char_count": 336,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0001",
+      "section": "== Gelenekler ==",
+      "heading_path": "== Gelenekler ==",
+      "start_char": 337,
+      "end_char": 716,
+      "content": "== Gelenekler == Günümüzde Advent, Noel bayramının beklenildiği son dört hafta özellikle çocukları sevindiren geleneklerle süslenmiştir. Advent çelenginde bulunan dört mum, her pazar günü bir tane olmak üzere teker teker yakılır. Advent takvimi denen çok bölmeli kutuların 24 kapağının (kapısının) arkasında küçük sürprizler ve şekerlemeler bulunur ve her gün bir kapısı açılır.",
+      "char_count": 378,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0002",
+      "section": "=== Roma Katolik Kilisesi ===",
+      "heading_path": "=== Roma Katolik Kilisesi ===",
+      "start_char": 733,
+      "end_char": 1519,
+      "content": "=== Roma Katolik Kilisesi === Katolik Kilisesi'nin Roma Ayininde, Advent Pazar günlerindeki ayin okumalarının belirgin temaları vardır: Advent'in İlk Pazarı: İlk Pazar (Advent Pazarı) günü, Mesih'in İkinci Gelişi dört gözle beklenir. İkinci Advent Pazarı: İkinci Pazar günü İncil okuması, \"Rabbin yolunu hazırlamak\" için gelen Vaftizci Yahya'nın vaazını hatırlatır; diğer okumaların da ilişkili temaları vardır. Advent'in Üçüncü Pazarı: Üçüncü Pazar (\"Gaudete Pazarı\") günü, İncil okuması yine Vaftizci Yahya ile ilgilidir, diğer okumalar Kurtarıcı'nın gelişiyle ilişkili sevinçle ilgilidir. Advent'in Dördüncü Pazar Günü: Dördüncü Pazar günü İncil'in okuma kısmı, İsa'nın doğumuna doğrudan yol açan Meryem ve Yusuf'la ilgili olaylarla ilgilidir; diğer okumalar ise bunlarla ilgilidir.",
+      "char_count": 785,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1519,
+      "end_char": 1594,
+      "content": "== Ayrıca bakınız == Advent takvimi Advent mumu Noel Epifani Advent Pazarı",
+      "char_count": 74,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1609,
+      "end_char": 1700,
+      "content": "== Dış bağlantılar == Wikimedia Commons'ta Advent ile ilgili çoklu ortam belgeleri bulunur.",
+      "char_count": 91,
+      "token_estimate": 22
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Katolik Kilisesi'nin Roma Ayininde, Advent'in Üçüncü Pazarı hangi isimle anılır ve İncil okuması kiminle ilgilidir?",
+        "answer": "Advent'in Üçüncü Pazarı \"Gaudete Pazarı\" olarak anılır ve İncil okuması Vaftizci Yahya ile ilgilidir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hristiyanlıkta Advent dönemi boyunca uygulanan gelenekler ve Roma Katolik Kilisesi'ndeki Pazar günleri okumalarının temaları, bu dönemin İsa'nın doğumuna hazırlık ve bekleyiş amacına nasıl katkıda bulunur?",
+        "answer": "Advent, İsa'nın doğuşuna ve Noel'e kadar geri sayım yapılan kısa bir dönemdir. Bu bekleyiş, özellikle çocuklar için, her pazar bir mum yakılan Advent çelengi ve her gün bir sürprizin açıldığı Advent takvimi gibi geleneklerle somutlaştırılır. Roma Katolik Kilisesi'nde ise Pazar ayin okumaları, Mesih'in İkinci Gelişi'nden Vaftizci Yahya'nın yolu hazırlama vaazına ve İsa'nın doğumuna doğrudan yol açan Meryem ve Yusuf ile ilgili olaylara kadar uzanan temalarla inananları ruhsal olarak bu hazırlığa yönlendirir. Bu gelenekler ve temalar, Advent'in genel amacını, yani Noel için beklenti ve hazırlık sürecini derinleştirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "hermannlang_d996f2fd",
+    "title": "Hermann Lang",
+    "url": "https://tr.wikipedia.org/wiki/Hermann_Lang",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:45.346786",
+    "content": "Hermann Lang, Almanya'nın en ünlü motor sporları sürücülerinden biridir ve özellikle 1930'lu yıllarda otomobil yarışlarının önemli figürlerinden biri olarak tanınır. Lang, 1909 yılında Almanya'nın Cannstatt şehrinde doğmuş ve genç yaşlardan itibaren hız ve otomobillere olan ilgisini keşfetmiştir. === Erken Yılları ve Kariyer Başlangıcı === Hermann Lang, otomobillerle ilgili kariyerine genç yaşta başlamıştır. 1930'ların sonlarına doğru, motor sporlarına olan ilgisi onu, dönemin en ünlü yarış ekiplerinden biri olan Mercedes-Benz'in dikkatini çekmiştir. Mercedes-Benz, Lang'ın yeteneklerini fark ederek onu, markanın yarış takımına katılmaya davet etmiştir. Lang, Mercedes-Benz için yarışmaya başladıktan sonra hızla başarılar elde etmeye başlamıştır. === Mercedes-Benz ile Büyük Başarılar === Lang, özellikle Mercedes-Benz'in \"W154\" ve \"W165\" gibi Formula 1 araçlarıyla büyük başarılara imza atmıştır. En dikkat çeken başarılarından biri, 1939 yılında Monaco Grand Prix'sinde gösterdiği performanstır. Lang, bu yarışta rakiplerini geride bırakarak Mercedes-Benz'in zaferine katkıda bulunmuştur. Bu zafer, onun kariyerinin dönüm noktalarından biri olmuştur. === İkinci Dünya Savaşı ve Sonrası === İkinci Dünya Savaşı'nın ardından Lang, yarış kariyerine devam etse de savaşın etkisiyle motorsporları dünyası büyük değişimlere uğramıştır. Hermann Lang, savaş sonrası dönemde de formda kalmayı başarmış ve çeşitli yarışlarda başarılar elde etmiştir. === Lang'ın Başarılarının Özeti === Lang, kariyerinde birçok zafer kazanmış ve motor sporlarının gelişimine önemli katkılarda bulunmuştur. 1930'ların sonları ve 1940'ların başlarında, Mercedes-Benz takımının lider pilotlarından biri olarak, motorsporları dünyasında saygı kazanmıştır. En bilinen başarılarından bazıları Monaco Grand Prix ve diğer Avrupa yarışlarında elde ettiği şampiyonluklardır. Lang, sadece bir yarışçı olarak değil, aynı zamanda teknolojik yeniliklere olan katkılarıyla da tanınmıştır. Mercedes-Benz için yaptığı test sürüşleri ve geliştirdiği araçlarla, markanın mühendislik başarısına da önemli katkılarda bulunmuştur. === Sonuç === Hermann Lang, motorsporları tarihine adını altın harflerle yazdırmış bir isimdir. Yarış kariyerindeki başarıları, sadece hız ve stratejiyle değil, aynı zamanda otomobil mühendisliğine olan katkılarıyla da hatırlanmaktadır. Onun yaşamı, azim, yetenek ve mühendislik becerilerinin birleşimiyle, modern motor sporlarının şekillenmesinde önemli bir rol oynamıştır. Lang, motorsporları tarihinin önemli figürlerinden biri olarak tarihe geçmiştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 314,
+      "char_count": 2562,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.125873",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 298,
+      "content": "Hermann Lang, Almanya'nın en ünlü motor sporları sürücülerinden biridir ve özellikle 1930'lu yıllarda otomobil yarışlarının önemli figürlerinden biri olarak tanınır. Lang, 1909 yılında Almanya'nın Cannstatt şehrinde doğmuş ve genç yaşlardan itibaren hız ve otomobillere olan ilgisini keşfetmiştir.",
+      "char_count": 297,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0001",
+      "section": "=== Erken Yılları ve Kariyer Başlangıcı ===",
+      "heading_path": "=== Erken Yılları ve Kariyer Başlangıcı ===",
+      "start_char": 298,
+      "end_char": 755,
+      "content": "=== Erken Yılları ve Kariyer Başlangıcı === Hermann Lang, otomobillerle ilgili kariyerine genç yaşta başlamıştır. 1930'ların sonlarına doğru, motor sporlarına olan ilgisi onu, dönemin en ünlü yarış ekiplerinden biri olan Mercedes-Benz'in dikkatini çekmiştir. Mercedes-Benz, Lang'ın yeteneklerini fark ederek onu, markanın yarış takımına katılmaya davet etmiştir. Lang, Mercedes-Benz için yarışmaya başladıktan sonra hızla başarılar elde etmeye başlamıştır.",
+      "char_count": 456,
+      "token_estimate": 114
+    },
+    {
+      "id": "c0002",
+      "section": "=== Mercedes-Benz ile Büyük Başarılar ===",
+      "heading_path": "=== Mercedes-Benz ile Büyük Başarılar ===",
+      "start_char": 755,
+      "end_char": 1161,
+      "content": "=== Mercedes-Benz ile Büyük Başarılar === Lang, özellikle Mercedes-Benz'in \"W154\" ve \"W165\" gibi Formula 1 araçlarıyla büyük başarılara imza atmıştır. En dikkat çeken başarılarından biri, 1939 yılında Monaco Grand Prix'sinde gösterdiği performanstır. Lang, bu yarışta rakiplerini geride bırakarak Mercedes-Benz'in zaferine katkıda bulunmuştur. Bu zafer, onun kariyerinin dönüm noktalarından biri olmuştur.",
+      "char_count": 405,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0003",
+      "section": "=== İkinci Dünya Savaşı ve Sonrası ===",
+      "heading_path": "=== İkinci Dünya Savaşı ve Sonrası ===",
+      "start_char": 1161,
+      "end_char": 1450,
+      "content": "=== İkinci Dünya Savaşı ve Sonrası === İkinci Dünya Savaşı'nın ardından Lang, yarış kariyerine devam etse de savaşın etkisiyle motorsporları dünyası büyük değişimlere uğramıştır. Hermann Lang, savaş sonrası dönemde de formda kalmayı başarmış ve çeşitli yarışlarda başarılar elde etmiştir.",
+      "char_count": 288,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0004",
+      "section": "=== Lang'ın Başarılarının Özeti ===",
+      "heading_path": "=== Lang'ın Başarılarının Özeti ===",
+      "start_char": 1450,
+      "end_char": 2092,
+      "content": "=== Lang'ın Başarılarının Özeti === Lang, kariyerinde birçok zafer kazanmış ve motor sporlarının gelişimine önemli katkılarda bulunmuştur. 1930'ların sonları ve 1940'ların başlarında, Mercedes-Benz takımının lider pilotlarından biri olarak, motorsporları dünyasında saygı kazanmıştır. En bilinen başarılarından bazıları Monaco Grand Prix ve diğer Avrupa yarışlarında elde ettiği şampiyonluklardır. Lang, sadece bir yarışçı olarak değil, aynı zamanda teknolojik yeniliklere olan katkılarıyla da tanınmıştır. Mercedes-Benz için yaptığı test sürüşleri ve geliştirdiği araçlarla, markanın mühendislik başarısına da önemli katkılarda bulunmuştur.",
+      "char_count": 641,
+      "token_estimate": 160
+    },
+    {
+      "id": "c0005",
+      "section": "=== Sonuç ===",
+      "heading_path": "=== Sonuç ===",
+      "start_char": 2092,
+      "end_char": 2548,
+      "content": "=== Sonuç === Hermann Lang, motorsporları tarihine adını altın harflerle yazdırmış bir isimdir. Yarış kariyerindeki başarıları, sadece hız ve stratejiyle değil, aynı zamanda otomobil mühendisliğine olan katkılarıyla da hatırlanmaktadır. Onun yaşamı, azim, yetenek ve mühendislik becerilerinin birleşimiyle, modern motor sporlarının şekillenmesinde önemli bir rol oynamıştır. Lang, motorsporları tarihinin önemli figürlerinden biri olarak tarihe geçmiştir.",
+      "char_count": 455,
+      "token_estimate": 113
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1930'ların sonları ve 1940'ların başlarında Lang, hangi takımın lider pilotlarından biri olarak motorsporları dünyasında saygı kazanmıştır?",
+        "answer": "Mercedes-Benz",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hermann Lang'ın genç yaşlardaki ilgi alanları ve kariyer başlangıcı, Mercedes-Benz ile olan birleşmesine ve ardından gelen başarılarına nasıl katkıda bulunmuştur?",
+        "answer": "Hermann Lang, genç yaşlardan itibaren hız ve otomobillere ilgi duymasıyla otomobillerle ilgili kariyerine erken yaşta başlamıştır. 1930'ların sonlarına doğru motor sporlarına olan bu ilgisi ve yeteneği, dönemin en ünlü yarış ekiplerinden biri olan Mercedes-Benz'in dikkatini çekmiş ve marka onu yarış takımına davet etmiştir. Lang, Mercedes-Benz için yarışmaya başladıktan sonra hızla başarılar elde etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

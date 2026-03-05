@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "erkiniskilisesi_ec2c8ee7",
+    "title": "Erkinis Kilisesi",
+    "url": "https://tr.wikipedia.org/wiki/Erkinis_Kilisesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:10.086815",
+    "content": "Erkinis Kilisesi (Gürcüce: ერკინისის ეკლესია), tarihsel Tao bölgesinde, günümüzde Yusufeli ilçesine bağlı ve eski adı Erkinis olan Demirkent köyünde Orta Çağ'dan kalma Gürcü kilisesidir. Kilisenin bulunduğu mezranın adından dolayı İtik Kilisesi, Erkinis köyünün yeni adında dolayı da Demirkent Kilisesi olarak bilinir. == Tarihçe == Erkinis Kilisesi ve İtik Kilisesi'nin bulunduğu Tao bölgesi, tarihsel Gürcistan'ın bir parçasıydı. Nitekim Osmanlılar bu bölgeyi 16. yüzyılın ortalarında Gürcülerden ele geçirmiştir. Osmanlı idaresinin 1595 tarihinde gerçekleştirdiği tahrirde köyün nüfusu 64 haneden oluşuyordu. Bu tarihte sadece 4 hane Müslüman olmuştu. Ayrı bir köy olarak yer almadığına göre İtik (bugün Sarıerik) mezrasının da bu köyün bir parçası olduğu söylenebilir. Köyün Hristiyan nüfusunun kiliselerinden biri olan İtik Kilisesi, yapı tarzı ve malzemeleri açısından 10. yüzyıla tarihlenmiştir. Köyün halkının Müslüman olmasıyla kilisenin cemaatini ve işlevini yitirdiği, zaman içinde harabeye döndüğü anlaşılmaktadır. == Mimari == Etik Kilisesi veya Erkinis Kilisesi, İtik mezrasının batısındaki yamaçta yer alır. Tek nefli yapı, küçük ebatlı kesme taşlarla dolgu duvar tekniğiyle inşa edilmiştir. Çatı örtüsü çökmüş ve duvarları büyük ölçüde yıkılmıştır. Günümüze ulaşan batı ve kuzey duvarlarının önemli bölümü toprak altında kalmıştır. Güney ve doğu duvarlarının mevcut kısmını yüksekliği 3-4 metreyi bulur. Kilise, dıştan serbest haç, içten dört kollu (tetrakonkhos) planlı bir yapıdır. Merkezdeki kare planlı mekânın dört yönüne yerleştirilmiş eksedralar dıştan düz duvarla sınırlandırılmıştır. Bugüne kalan izlerden kilisede duvar resimleri olduğu anlaşılmaktadır. Kiliseye ait ve üzerinde fresk ile Gürcüce yazı bulunan bir taşın köydeki bir evin duvarında bulunması, kilisenin insan eliyle yıkılıp taşlarının başka yapılarda kullanıldığını göstermektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 246,
+      "char_count": 1887,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.723289",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 319,
+      "content": "Erkinis Kilisesi (Gürcüce: ერკინისის ეკლესია), tarihsel Tao bölgesinde, günümüzde Yusufeli ilçesine bağlı ve eski adı Erkinis olan Demirkent köyünde Orta Çağ'dan kalma Gürcü kilisesidir. Kilisenin bulunduğu mezranın adından dolayı İtik Kilisesi, Erkinis köyünün yeni adında dolayı da Demirkent Kilisesi olarak bilinir.",
+      "char_count": 318,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 319,
+      "end_char": 1027,
+      "content": "== Tarihçe == Erkinis Kilisesi ve İtik Kilisesi'nin bulunduğu Tao bölgesi, tarihsel Gürcistan'ın bir parçasıydı. Nitekim Osmanlılar bu bölgeyi 16. yüzyılın ortalarında Gürcülerden ele geçirmiştir. Osmanlı idaresinin 1595 tarihinde gerçekleştirdiği tahrirde köyün nüfusu 64 haneden oluşuyordu. Bu tarihte sadece 4 hane Müslüman olmuştu. Ayrı bir köy olarak yer almadığına göre İtik (bugün Sarıerik) mezrasının da bu köyün bir parçası olduğu söylenebilir. Köyün Hristiyan nüfusunun kiliselerinden biri olan İtik Kilisesi, yapı tarzı ve malzemeleri açısından 10. yüzyıla tarihlenmiştir. Köyün halkının Müslüman olmasıyla kilisenin cemaatini ve işlevini yitirdiği, zaman içinde harabeye döndüğü anlaşılmaktadır.",
+      "char_count": 707,
+      "token_estimate": 176
+    },
+    {
+      "id": "c0002",
+      "section": "== Mimari ==",
+      "heading_path": "== Mimari ==",
+      "start_char": 1027,
+      "end_char": 1873,
+      "content": "== Mimari == Etik Kilisesi veya Erkinis Kilisesi, İtik mezrasının batısındaki yamaçta yer alır. Tek nefli yapı, küçük ebatlı kesme taşlarla dolgu duvar tekniğiyle inşa edilmiştir. Çatı örtüsü çökmüş ve duvarları büyük ölçüde yıkılmıştır. Günümüze ulaşan batı ve kuzey duvarlarının önemli bölümü toprak altında kalmıştır. Güney ve doğu duvarlarının mevcut kısmını yüksekliği 3-4 metreyi bulur. Kilise, dıştan serbest haç, içten dört kollu (tetrakonkhos) planlı bir yapıdır. Merkezdeki kare planlı mekânın dört yönüne yerleştirilmiş eksedralar dıştan düz duvarla sınırlandırılmıştır. Bugüne kalan izlerden kilisede duvar resimleri olduğu anlaşılmaktadır. Kiliseye ait ve üzerinde fresk ile Gürcüce yazı bulunan bir taşın köydeki bir evin duvarında bulunması, kilisenin insan eliyle yıkılıp taşlarının başka yapılarda kullanıldığını göstermektedir.",
+      "char_count": 845,
+      "token_estimate": 211
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Etik Kilisesi veya Erkinis Kilisesi nerede konumlanmıştır?",
+        "answer": "Etik Kilisesi veya Erkinis Kilisesi, İtik mezrasının batısındaki yamaçta yer almaktadır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Erkinis Kilisesi'nin (İtik Kilisesi olarak da bilinen) tarihi Gürcistan'a aidiyetinden, Osmanlı fethine ve yerel nüfusun değişmesine kadar olan süreç, kilisenin bugünkü harabe durumuna nasıl yol açmış ve mimari kanıtlar bu durumu nasıl desteklemektedir?",
+        "answer": "Erkinis Kilisesi (İtik Kilisesi olarak da bilinir) tarihi Gürcistan'ın bir parçası olan Tao bölgesinde yer alıyordu. 16. yüzyılın ortalarında Osmanlıların bölgeyi ele geçirmesi ve ardından yerel nüfusun zamanla Müslümanlaşması, 10. yüzyıla tarihlenen bu kilisenin cemaatini ve işlevini kaybetmesine neden olarak zaman içinde harabeye dönüşmesine yol açmıştır. Yapısal olarak, tek nefli kilisenin çatısı çökmüş, duvarları büyük ölçüde yıkılmış ve batı ile kuzey duvarlarının önemli kısmı toprak altında kalmıştır. Kiliseden alınan, üzerinde fresk ve Gürcüce yazı bulunan taşların köydeki evlerin duvarlarında bulunması, kilisenin insan eliyle yıkılıp malzemelerinin başka yapılarda kullanıldığını gösteren mimari kanıtlardandır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

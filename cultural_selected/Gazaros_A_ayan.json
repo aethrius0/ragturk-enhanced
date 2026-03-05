@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "gazarosaayan_d225f34f",
+    "title": "Gazaros Ağayan",
+    "url": "https://tr.wikipedia.org/wiki/Gazaros_A%C4%9Fayan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:40.395938",
+    "content": "Gazaros Ağayan (Ermenice: Ղազարոս Աղայեան) Ermeni yazar, eğitimci, dilbilimci ve tarihçi. == Biyografi == Ağayan günümüzde Gürcistan'da yer alan Bolnisi köyünde doğdu. İlköğretim düzeyinde eğitimini Bolnisi'de aldı ve on üç yaşında Tiflis'teki Nersisyan Okulu'na girdi. Ailesinin maddi sorunları nedeniyle bir yıl sonra okulu bıraktı. Ağayan, Tiflis, Moskova ve Sankt-Petersburg arasında seyahat etti. Moskova'da Hyusisapayl dergisi için Stepanos Nazaryan ile işbirliği yaptı ve mürettip olarak görev aldı. Hayatı boyunca birçok meslek ve hobiyle ilgilenmiştir. 19. yüzyılın Ermeni kültürel ve entelektüel canlanma döneminde yazar arkadaşı Mikael Nalbandyan'a katılmadan önce avcılık, fabrika işçiliği ve tarım işçiliği yapıyordu. 1867'de Kafkasya'ya döndü, Eçmiyazin yayınevinin müdürü ve Kutsal Eçmiadzin Ana Makamı'nın (1869-1870) aylık “Ararat” dergisinin editörü olarak çalıştı. 1870'te Tiflis'e döndü ve kendisini öğretmenliğe adadı. Ahıska, Gümrü, Erivan ve Şuşa'da öğretmenlik yaptı ve Gürcistan'daki Ermeni ilahiyat okullarında çalıştı. Öğretmen olarak eğitimin demokratikleşmesini destekledi ve okulların din adamlarının etkisinden temizlenmesini talep etti. Ermeni okulları için ders kitapları yazmış ve eğitim üzerine çalışmalar yapmıştır. Ayrıca, çocuklar için aylık resimli \"Ağbyur\" yayınında da işbirliği yaptı. 1895'te Hınçak Partisi'ne üye olma suçundan tutuklandı, Nahçıvan'a ve ardından Kırım'a (1898 - 1900) sürüldü. Daha sonra hayatının sonuna kadar çarlık jandarmasının kontrolü altındaydı. 1902 Mayıs'ta Ağayan edebiyat faaliyetinin 40. yılını kutladı. 1905'te Tiflis'teki Ekim mitingine katıldı ve çarın devrilmesi çağrısında bulundu. Çocuk edebiyatı alanında büyük popülerlik kazandı. Alexandr Puşkin ve İvan Krılov'un eserlerini tercüme etmiştir. 71 yaşındayken Tiflis'te ölmüştür. == Eserleri == 1867 - \"Arutiyun ve Manvel 16 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi.\" (otobiyografik roman) 1872 - \"İki Kız Kardeş \" (sosyal roman) 1888 - \"Tork Angeğ\" (şiirler) 1893 - \"Hayatımdaki Başlıca Olaylar\" (anı) 1881 - \"Anahit\" (masal) 1887 - \"Aregnazan\" (peri masalı) 1904 - \"Büyükanne Gülnaz'ın Masalları\" 1908 - \"Arevik\" (eğitim kitabı) == Kaynakça == == Dış bağlantılar == Biyografi 18 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. «Քառասուն տարի» Հ․ Թումանյան 27 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. «Ղ. Աղայանց (Քառասունամյակի օրը)» Հ․ Թումանյան 7 Şubat 2009 tarihinde Wayback Machine sitesinde arşivlendi. «Տխուր հիշողություն (Ղազարի մահվան տարեդարձին)» Հ․ Թումանյան 21 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. Ghazaros Aghayan.Biography 4 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 349,
+      "char_count": 2691,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.022441",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 90,
+      "content": "Gazaros Ağayan (Ermenice: Ղազարոս Աղայեան) Ermeni yazar, eğitimci, dilbilimci ve tarihçi.",
+      "char_count": 89,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 90,
+      "end_char": 1090,
+      "content": "== Biyografi == Ağayan günümüzde Gürcistan'da yer alan Bolnisi köyünde doğdu. İlköğretim düzeyinde eğitimini Bolnisi'de aldı ve on üç yaşında Tiflis'teki Nersisyan Okulu'na girdi. Ailesinin maddi sorunları nedeniyle bir yıl sonra okulu bıraktı. Ağayan, Tiflis, Moskova ve Sankt-Petersburg arasında seyahat etti. Moskova'da Hyusisapayl dergisi için Stepanos Nazaryan ile işbirliği yaptı ve mürettip olarak görev aldı. Hayatı boyunca birçok meslek ve hobiyle ilgilenmiştir. 19. yüzyılın Ermeni kültürel ve entelektüel canlanma döneminde yazar arkadaşı Mikael Nalbandyan'a katılmadan önce avcılık, fabrika işçiliği ve tarım işçiliği yapıyordu. 1867'de Kafkasya'ya döndü, Eçmiyazin yayınevinin müdürü ve Kutsal Eçmiadzin Ana Makamı'nın (1869-1870) aylık “Ararat” dergisinin editörü olarak çalıştı. 1870'te Tiflis'e döndü ve kendisini öğretmenliğe adadı. Ahıska, Gümrü, Erivan ve Şuşa'da öğretmenlik yaptı ve Gürcistan'daki Ermeni ilahiyat okullarında çalıştı. Öğretmen olarak eğitimin demokratikleşmesini",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 890,
+      "end_char": 1807,
+      "content": "e Tiflis'e döndü ve kendisini öğretmenliğe adadı. Ahıska, Gümrü, Erivan ve Şuşa'da öğretmenlik yaptı ve Gürcistan'daki Ermeni ilahiyat okullarında çalıştı. Öğretmen olarak eğitimin demokratikleşmesini destekledi ve okulların din adamlarının etkisinden temizlenmesini talep etti. Ermeni okulları için ders kitapları yazmış ve eğitim üzerine çalışmalar yapmıştır. Ayrıca, çocuklar için aylık resimli \"Ağbyur\" yayınında da işbirliği yaptı. 1895'te Hınçak Partisi'ne üye olma suçundan tutuklandı, Nahçıvan'a ve ardından Kırım'a (1898 - 1900) sürüldü. Daha sonra hayatının sonuna kadar çarlık jandarmasının kontrolü altındaydı. 1902 Mayıs'ta Ağayan edebiyat faaliyetinin 40. yılını kutladı. 1905'te Tiflis'teki Ekim mitingine katıldı ve çarın devrilmesi çağrısında bulundu. Çocuk edebiyatı alanında büyük popülerlik kazandı. Alexandr Puşkin ve İvan Krılov'un eserlerini tercüme etmiştir. 71 yaşındayken Tiflis'te ölmüştür.",
+      "char_count": 917,
+      "token_estimate": 229
+    },
+    {
+      "id": "c0003",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1808,
+      "end_char": 2176,
+      "content": "== Eserleri == 1867 - \"Arutiyun ve Manvel 16 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi.\" (otobiyografik roman) 1872 - \"İki Kız Kardeş \" (sosyal roman) 1888 - \"Tork Angeğ\" (şiirler) 1893 - \"Hayatımdaki Başlıca Olaylar\" (anı) 1881 - \"Anahit\" (masal) 1887 - \"Aregnazan\" (peri masalı) 1904 - \"Büyükanne Gülnaz'ın Masalları\" 1908 - \"Arevik\" (eğitim kitabı)",
+      "char_count": 367,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2191,
+      "end_char": 2691,
+      "content": "== Dış bağlantılar == Biyografi 18 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. «Քառասուն տարի» Հ․ Թումանյան 27 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. «Ղ. Աղայանց (Քառասունամյակի օրը)» Հ․ Թումանյան 7 Şubat 2009 tarihinde Wayback Machine sitesinde arşivlendi. «Տխուր հիշողություն (Ղազարի մահվան տարեդարձին)» Հ․ Թումանյան 21 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. Ghazaros Aghayan.Biography 4 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 500,
+      "token_estimate": 125
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ağayan nerede doğmuştur?",
+        "answer": "Günümüzde Gürcistan'da yer alan Bolnisi köyünde doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gazaros Ağayan'ın genel tanımlamasının ötesinde, hayatı boyunca üstlendiği çeşitli rolleri ve karşılaştığı önemli zorlukları açıklayınız.",
+        "answer": "Gazaros Ağayan, bir yazar, eğitimci, dilbilimci ve tarihçi olmasının yanı sıra, hayatı boyunca avcılık, fabrika işçiliği ve tarım işçiliği gibi çeşitli mesleklerle ilgilenmiş, 'Hyusisapayl' dergisi için mürettiplik yapmış, Eçmiyazin yayınevinin müdürü ve 'Ararat' dergisinin editörü olarak görev almıştır. Ayrıca çocuk edebiyatı alanında popülerlik kazanmış, Ermeni okulları için ders kitapları yazmış, 'Ağbyur' yayınında işbirliği yapmış ve Alexandr Puşkin ile İvan Krılov'un eserlerini tercüme etmiştir. Karşılaştığı zorluklar arasında ailesinin maddi sorunları nedeniyle okulu bırakmak zorunda kalması, Hınçak Partisi'ne üye olma suçundan tutuklanıp sürgün edilmesi ve hayatının sonuna kadar çarlık jandarmasının kontrolünde kalması yer almaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

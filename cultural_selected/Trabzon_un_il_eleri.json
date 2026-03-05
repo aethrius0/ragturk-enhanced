@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "trabzonunileleri_c127f299",
+    "title": "Trabzon'un ilçeleri",
+    "url": "https://tr.wikipedia.org/wiki/Trabzon%27un_il%C3%A7eleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:11.917419",
+    "content": "Trabzon'un 18 ilçesi bulunmaktadır. == Kaymakamlar == Görevde olan vali ve kaymakamlar aşağıdaki tabloda gösterilmiştir. (Mayıs 2025) == Belediyeler == === Belediye Başkanları === 31 mart 2024 Yerel seçimleri sonucu seçilerek göreve başlayan Büyükşehir ve ilçe belediye başkanlıklarının bilgileri aşağıdadır. Yomra İlçesinin İYİ Partiden seçilen Belediye başkanı Mustafa Bıyık, 12 kasım 2024 tarihinde CHP'ye katılmıştır. Seçimlerde Bağımsız seçilen Vakfıkebir Belediye başkanı Fuat Koçal ve Yeniden Refah Partisi'nden seçilen Arsin Belediye Başkanı Hamza Bilgin 9 Ekim 2024 tarihinde AK Parti'ye katılmışlardır. === Belediye Meclisleri === Büyükşehir Belediye Meclisi, ilçelerin meclis üyelerinin bir kısmından oluşur. Bu sayılar genel toplama eklenmez. İlçe belediye başkanları ve seçecekleri kontenjan adayları, büyükşehir meclisinin bir kısmını oluşturur. Diğerleri ilçe nüfusu ve partinin aldığı oy oranına göre belirlenir. Trabzon Büyükşehir Belediye Meclisi üye sayısı 71, İlçe belediyelerinin toplam üye sayısı 270'dir. == Nüfus == Güncel Nüfus Değerleri (TÜİK 6 Şubat 2025 verileri) Trabzon il nüfusu: 822.270 (2024 sonu). İlin yüzölçümü 4.628 km2dir. İlde km2ye 178 kişi düşmektedir. (Yoğunluğun en fazla olduğu ilçe: 1.408 kişi ile Ortahisar'dır.) İlde yıllık nüfus -%0,25 oranında azalmıştır. Nüfus artış oranı en yüksek ve en düşük ilçeler: Ortahisar (%2,52) - Hayrat (-%15,22) 06 Şubat 2025 TÜİK verilerine göre 18 ilçe ve belediye, bu belediyelerde toplam 716 mahalle bulunmaktadır. === Yıllara göre ilçe nüfusları === ^a Trabzon'un büyükşehir statüsü alması nedeniyle 2012 yılında merkez ilçenin ismi Ortahisar olarak değiştirilmiştir. == Konum == == Ayrıca bakınız == Trabzon ilindeki yerleşim yerleri listesi == Kaynakça == == Dış bağlantılar == Trabzon Valiliği",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 245,
+      "char_count": 1780,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.763736",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 36,
+      "content": "Trabzon'un 18 ilçesi bulunmaktadır.",
+      "char_count": 35,
+      "token_estimate": 8
+    },
+    {
+      "id": "c0001",
+      "section": "== Kaymakamlar ==",
+      "heading_path": "== Kaymakamlar ==",
+      "start_char": 36,
+      "end_char": 134,
+      "content": "== Kaymakamlar == Görevde olan vali ve kaymakamlar aşağıdaki tabloda gösterilmiştir. (Mayıs 2025)",
+      "char_count": 97,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0002",
+      "section": "=== Belediye Başkanları ===",
+      "heading_path": "=== Belediye Başkanları ===",
+      "start_char": 152,
+      "end_char": 613,
+      "content": "=== Belediye Başkanları === 31 mart 2024 Yerel seçimleri sonucu seçilerek göreve başlayan Büyükşehir ve ilçe belediye başkanlıklarının bilgileri aşağıdadır. Yomra İlçesinin İYİ Partiden seçilen Belediye başkanı Mustafa Bıyık, 12 kasım 2024 tarihinde CHP'ye katılmıştır. Seçimlerde Bağımsız seçilen Vakfıkebir Belediye başkanı Fuat Koçal ve Yeniden Refah Partisi'nden seçilen Arsin Belediye Başkanı Hamza Bilgin 9 Ekim 2024 tarihinde AK Parti'ye katılmışlardır.",
+      "char_count": 460,
+      "token_estimate": 115
+    },
+    {
+      "id": "c0003",
+      "section": "=== Belediye Meclisleri ===",
+      "heading_path": "=== Belediye Meclisleri ===",
+      "start_char": 613,
+      "end_char": 1028,
+      "content": "=== Belediye Meclisleri === Büyükşehir Belediye Meclisi, ilçelerin meclis üyelerinin bir kısmından oluşur. Bu sayılar genel toplama eklenmez. İlçe belediye başkanları ve seçecekleri kontenjan adayları, büyükşehir meclisinin bir kısmını oluşturur. Diğerleri ilçe nüfusu ve partinin aldığı oy oranına göre belirlenir. Trabzon Büyükşehir Belediye Meclisi üye sayısı 71, İlçe belediyelerinin toplam üye sayısı 270'dir.",
+      "char_count": 414,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0004",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 1028,
+      "end_char": 1498,
+      "content": "== Nüfus == Güncel Nüfus Değerleri (TÜİK 6 Şubat 2025 verileri) Trabzon il nüfusu: 822.270 (2024 sonu). İlin yüzölçümü 4.628 km2dir. İlde km2ye 178 kişi düşmektedir. (Yoğunluğun en fazla olduğu ilçe: 1.408 kişi ile Ortahisar'dır.) İlde yıllık nüfus -%0,25 oranında azalmıştır. Nüfus artış oranı en yüksek ve en düşük ilçeler: Ortahisar (%2,52) - Hayrat (-%15,22) 06 Şubat 2025 TÜİK verilerine göre 18 ilçe ve belediye, bu belediyelerde toplam 716 mahalle bulunmaktadır.",
+      "char_count": 469,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0005",
+      "section": "=== Yıllara göre ilçe nüfusları ===",
+      "heading_path": "=== Yıllara göre ilçe nüfusları ===",
+      "start_char": 1498,
+      "end_char": 1652,
+      "content": "=== Yıllara göre ilçe nüfusları === ^a Trabzon'un büyükşehir statüsü alması nedeniyle 2012 yılında merkez ilçenin ismi Ortahisar olarak değiştirilmiştir.",
+      "char_count": 153,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0006",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1664,
+      "end_char": 1727,
+      "content": "== Ayrıca bakınız == Trabzon ilindeki yerleşim yerleri listesi",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1742,
+      "end_char": 1780,
+      "content": "== Dış bağlantılar == Trabzon Valiliği",
+      "char_count": 38,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2024 sonu itibarıyla Trabzon ilinin nüfusu kaçtır?",
+        "answer": "822.270",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Trabzon'daki ilçelerin sayısına göre kaç kaymakamın görev yapması beklenir?",
+        "answer": "Trabzon'un 18 ilçesi bulunduğu için 18 kaymakamın görev yapması beklenir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

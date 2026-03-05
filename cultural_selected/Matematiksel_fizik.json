@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "matematikselfizik_c32e1e00",
+    "title": "Matematiksel fizik",
+    "url": "https://tr.wikipedia.org/wiki/Matematiksel_fizik",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:28.613513",
+    "content": "Matematiksel fizik, matematik ve fizik arasındaki alakayla ilgilinen bilimsel disiplindir. Matematiksel fiziğin neyi içerip içermediği ile ilgili tam bir mutabakat yoktur. Ancak Journal of Mathematical Physics konuyla ilgili bir tanım yapar: Matematiğin fiziksel sorunlara uygulanması ve fiziksel kuramlar için matematiksel yöntemlerin uygunluğunun geliştirilmesi. == Kapsam == Orada matematiksel fiziğin birkaç farklı dalları vardır ve bu kabaca belirli tarihsel dönemlere karşılık gelmektedir. === Klasik mekaniğin geometrik olarak gelişmiş formülasyonları === Newton mekaniğinin, Lagrange mekaniği ve Hamilton mekaniği bile kısıtlamalar varlığında titiz soyut ve yeniden formülasyonunun geliştirilmesidir. Her iki formülasyon analitik mekaniği içinde gömülüdür. En temel formülasyon belirtilen dinamik evrimi sırasında, içinde simetri ve korunmuş miktarda bu kavramının derin etkileşimi keşfetmek için Noether teoremidir. Bu yaklaşımlar ve fikirler, aslında, istatistiksel mekanik, sürekli ortam mekaniği, klasik alan teorisi ve kuantum alan teorisi gibi fiziğin diğer alanlarında genişletilmiştir. Ayrıca diferansiyel geometri (örneğin vektör demetleri ve çeşitli kavramlar simplektik geometri teorisi) için birkaç örnek ve temel fikirler sağladı. === Kısmi diferansiyel denklemler === Kısmi diferansiyel denklem teorisinin (Varyasyonlar hesabı, Fourier analizi, potansiyel teorisi ve vektör analizi ile ilgili alanlarda) matematiksel fizik ile ilişkilidir. Euler ve Lagrange |Bu on sekizinci yüzyılın ikinci yarısından 1930'lara kadar (örneğin; [D' Alembert] Jean le Rond d' Alembert, tarafından yoğun şekilde geliştirilmiştir). Bu gelişmelerin fiziksel uygulamaları hidrodinamik, gök mekaniği, sürekli ortam mekaniği, elastisite teorisi , akustik, termodinamik , elektrik , manyetizma ve aerodinamik içerir. === Kuantum teorisi === atom spektrumları teorisi (ve daha sonra, kuantum mekaniği) ve lineer cebir matematiksel alanları ile neredeyse eşzamanlı olarak geliştirilen, operatörleri'nin spektral teorisi ve daha geniş operatör cebiri, fonksiyonel analiz . göreli olmayan kuantum mekaniği'nin Schrödinger operatörlerini içerir ve atom ve molekül fiziği ile bağlantıları vardır. Kuantum bilgi teorisi başka bir yandaldır. === Görelilik ve Kuantum Göreli Teorileri === özel ve genel görelilik teorileri oldukça farklı bir tür Matematik gerektirir. kuantum alan teorisi ve diferansiyel geometri 'nde grup teorisi önemli bir rol oynamıştır Bu, ancak topoloji ve fonksiyonel analiz, yavaş yavaş desteklenen kozmolojik ve matematiksel tanımı hem de kuantum alan teorisi olaylarıdır. === İstatistiksel mekanik === İstatistiksel mekanik teorisi faz geçişleri içeren ayrı bir alan oluşturur. Bu Hamilton mekaniği (ya da kuantum sürümü) dayanır ve yakından ilişkili olduğu daha matematiksel ergodic teorisi ve bazı bölgelerinde olasılık teorisi . Kombinatorik ve fizik, özellikle istatistiksel fizik arasındaki etkileşimleri vardır artmaktadır. == Dış bağlantılar == Mathematical Methods for Physicists 7th ed. (2013), George B. Arfken, Hans J. Weber, Frank E. Harris, 1206 sayfa, archive.org Solutions for Mathematical Methods for Physicists (7th ed.) archive.org",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 405,
+      "char_count": 3164,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.342043",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 365,
+      "content": "Matematiksel fizik, matematik ve fizik arasındaki alakayla ilgilinen bilimsel disiplindir. Matematiksel fiziğin neyi içerip içermediği ile ilgili tam bir mutabakat yoktur. Ancak Journal of Mathematical Physics konuyla ilgili bir tanım yapar: Matematiğin fiziksel sorunlara uygulanması ve fiziksel kuramlar için matematiksel yöntemlerin uygunluğunun geliştirilmesi.",
+      "char_count": 364,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0001",
+      "section": "== Kapsam ==",
+      "heading_path": "== Kapsam ==",
+      "start_char": 365,
+      "end_char": 496,
+      "content": "== Kapsam == Orada matematiksel fiziğin birkaç farklı dalları vardır ve bu kabaca belirli tarihsel dönemlere karşılık gelmektedir.",
+      "char_count": 130,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0002",
+      "section": "=== Klasik mekaniğin geometrik olarak gelişmiş formülasyonları ===",
+      "heading_path": "=== Klasik mekaniğin geometrik olarak gelişmiş formülasyonları ===",
+      "start_char": 496,
+      "end_char": 1252,
+      "content": "=== Klasik mekaniğin geometrik olarak gelişmiş formülasyonları === Newton mekaniğinin, Lagrange mekaniği ve Hamilton mekaniği bile kısıtlamalar varlığında titiz soyut ve yeniden formülasyonunun geliştirilmesidir. Her iki formülasyon analitik mekaniği içinde gömülüdür. En temel formülasyon belirtilen dinamik evrimi sırasında, içinde simetri ve korunmuş miktarda bu kavramının derin etkileşimi keşfetmek için Noether teoremidir. Bu yaklaşımlar ve fikirler, aslında, istatistiksel mekanik, sürekli ortam mekaniği, klasik alan teorisi ve kuantum alan teorisi gibi fiziğin diğer alanlarında genişletilmiştir. Ayrıca diferansiyel geometri (örneğin vektör demetleri ve çeşitli kavramlar simplektik geometri teorisi) için birkaç örnek ve temel fikirler sağladı.",
+      "char_count": 755,
+      "token_estimate": 188
+    },
+    {
+      "id": "c0003",
+      "section": "=== Kısmi diferansiyel denklemler ===",
+      "heading_path": "=== Kısmi diferansiyel denklemler ===",
+      "start_char": 1252,
+      "end_char": 1814,
+      "content": "=== Kısmi diferansiyel denklemler === Kısmi diferansiyel denklem teorisinin (Varyasyonlar hesabı, Fourier analizi, potansiyel teorisi ve vektör analizi ile ilgili alanlarda) matematiksel fizik ile ilişkilidir. Euler ve Lagrange |Bu on sekizinci yüzyılın ikinci yarısından 1930'lara kadar (örneğin; [D' Alembert] Jean le Rond d' Alembert, tarafından yoğun şekilde geliştirilmiştir). Bu gelişmelerin fiziksel uygulamaları hidrodinamik, gök mekaniği, sürekli ortam mekaniği, elastisite teorisi , akustik, termodinamik , elektrik , manyetizma ve aerodinamik içerir.",
+      "char_count": 561,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0004",
+      "section": "=== Kuantum teorisi ===",
+      "heading_path": "=== Kuantum teorisi ===",
+      "start_char": 1814,
+      "end_char": 2231,
+      "content": "=== Kuantum teorisi === atom spektrumları teorisi (ve daha sonra, kuantum mekaniği) ve lineer cebir matematiksel alanları ile neredeyse eşzamanlı olarak geliştirilen, operatörleri'nin spektral teorisi ve daha geniş operatör cebiri, fonksiyonel analiz . göreli olmayan kuantum mekaniği'nin Schrödinger operatörlerini içerir ve atom ve molekül fiziği ile bağlantıları vardır. Kuantum bilgi teorisi başka bir yandaldır.",
+      "char_count": 416,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0005",
+      "section": "=== Görelilik ve Kuantum Göreli Teorileri ===",
+      "heading_path": "=== Görelilik ve Kuantum Göreli Teorileri ===",
+      "start_char": 2231,
+      "end_char": 2587,
+      "content": "=== Görelilik ve Kuantum Göreli Teorileri === özel ve genel görelilik teorileri oldukça farklı bir tür Matematik gerektirir. kuantum alan teorisi ve diferansiyel geometri 'nde grup teorisi önemli bir rol oynamıştır Bu, ancak topoloji ve fonksiyonel analiz, yavaş yavaş desteklenen kozmolojik ve matematiksel tanımı hem de kuantum alan teorisi olaylarıdır.",
+      "char_count": 355,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0006",
+      "section": "=== İstatistiksel mekanik ===",
+      "heading_path": "=== İstatistiksel mekanik ===",
+      "start_char": 2587,
+      "end_char": 2945,
+      "content": "=== İstatistiksel mekanik === İstatistiksel mekanik teorisi faz geçişleri içeren ayrı bir alan oluşturur. Bu Hamilton mekaniği (ya da kuantum sürümü) dayanır ve yakından ilişkili olduğu daha matematiksel ergodic teorisi ve bazı bölgelerinde olasılık teorisi . Kombinatorik ve fizik, özellikle istatistiksel fizik arasındaki etkileşimleri vardır artmaktadır.",
+      "char_count": 357,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2945,
+      "end_char": 3164,
+      "content": "== Dış bağlantılar == Mathematical Methods for Physicists 7th ed. (2013), George B. Arfken, Hans J. Weber, Frank E. Harris, 1206 sayfa, archive.org Solutions for Mathematical Methods for Physicists (7th ed.) archive.org",
+      "char_count": 219,
+      "token_estimate": 54
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Klasik mekaniğin geometrik olarak gelişmiş formülasyonlarında, dinamik evrim sırasında simetri ve korunmuş miktar kavramının derin etkileşimini keşfetmek için en temel formülasyon nedir?",
+        "answer": "Noether teoremi.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Matematiksel fiziğin tanımlanmış kapsamı ve dalları bağlamında, klasik mekaniğin geometrik olarak gelişmiş formülasyonları disipline nasıl katkı sağlar ve etkisi hangi alanlara yayılır?",
+        "answer": "Matematiksel fiziğin, fiziğin problemlerine matematiği uygulayan ve kuramlar için matematiksel yöntemler geliştiren bir disiplin olduğu göz önüne alındığında, klasik mekaniğin geometrik formülasyonları (Lagrange ve Hamilton mekaniği gibi), Newton mekaniğinin soyut ve titiz bir yeniden formülasyonunu sağlayarak bu alana katkıda bulunur. Bu formülasyonlar, dinamik evrimdeki simetri ve korunmuş miktarların derin etkileşimini Noether teoremi aracılığıyla keşfeder. Elde edilen yaklaşımlar ve fikirler, istatistiksel mekanik, sürekli ortam mekaniği, klasik alan teorisi ve kuantum alan teorisi gibi fiziğin diğer alanlarına genişletilmiş ve diferansiyel geometriye (vektör demetleri ve simplektik geometri gibi) temel fikirler sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

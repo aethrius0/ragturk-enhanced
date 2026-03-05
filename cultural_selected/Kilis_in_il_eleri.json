@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "kilisinileleri_943b7579",
+    "title": "Kilis'in ilçeleri",
+    "url": "https://tr.wikipedia.org/wiki/Kilis%27in_il%C3%A7eleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:00.631980",
+    "content": "Kilis iline bağlı 4 ilçe bulunmaktadır: Kilis (İl merkezi) Elbeyli Musabeyli Polateli == Kaymakamlar == Görevde olan vali ve kaymakamlar aşağıdaki tabloda gösterilmiştir. (Temmuz 2024) == Belediyeler == === Belediye Başkanları === 31 Mart 2024 Yerel seçimleri sonucu seçilerek göreve başlayan ilçe belediye başkanlıklarının bilgileri aşağıdadır. === Belediye Meclisleri === Kilis İl Genel Meclisi üye sayısı 11'dir. Kilis Belediyesi meclisi üye sayısı 31'dir. İlçe belediyelerinin toplam üye sayısı 58'dir. Belediye Meclis üyelerinin sayıları ilçenin son nüfus sayımına göre 9 ile 55 üye, İl genel meclisi üye sayıları 100.000 nüfusa kadar 2 ile 5 üye olarak belirlenir. İl genel meclisi ve belediye meclisi üyelikleri için yapılan seçimlerde, onda birlik baraj uygulamalı nispi temsil sistemi, belediye başkanlığı seçiminde ise çoğunluk sistemi uygulanır İl genel meclisi ve belediye meclisi üye sayıları ilçe nüfusuna göre, kontenjandan kalan sayıların partilere dağılımı ise D'Hondt Sistemine göre belirlenir (Kanun:2972-Madde:23) == Nüfus == Güncel Nüfus Değerleri (TÜİK 6 Şubat 2025 verileri) Kilis ili nüfusu: 155.179'dur. Bu nüfusun %78,49'u şehirlerde yaşamaktadır (2024 sonu). İlin yüzölçümü 1.412 km²dir. İlde km²ye 110 kişi düşmektedir. (Bu sayı merkezde 214'tür.) İlde yıllık nüfus artış oranı %1,01 olmuştur. Nüfus artış oranı en yüksek ve en düşük ilçeler: Merkez ilçe (%1,96) - Elbeyli: %-6,75 (Bu ilçenin nüfusu 2023 yılında %11,12 oranında artmıştı) 06 Şubat 2025 TÜİK verilerine göre merkez ilçeyle beraber 4 ilçe, 4 belediye, bu belediyelerde 89 mahalle ve ayrıca 140 köy vardır. === Yıllara göre ilçe nüfusları === == Konum == == Ayrıca bakınız == Kilis ilindeki yerleşim yerleri listesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 250,
+      "char_count": 1722,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.401749",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 86,
+      "content": "Kilis iline bağlı 4 ilçe bulunmaktadır: Kilis (İl merkezi) Elbeyli Musabeyli Polateli",
+      "char_count": 85,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0001",
+      "section": "== Kaymakamlar ==",
+      "heading_path": "== Kaymakamlar ==",
+      "start_char": 86,
+      "end_char": 185,
+      "content": "== Kaymakamlar == Görevde olan vali ve kaymakamlar aşağıdaki tabloda gösterilmiştir. (Temmuz 2024)",
+      "char_count": 98,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0002",
+      "section": "=== Belediye Başkanları ===",
+      "heading_path": "=== Belediye Başkanları ===",
+      "start_char": 203,
+      "end_char": 346,
+      "content": "=== Belediye Başkanları === 31 Mart 2024 Yerel seçimleri sonucu seçilerek göreve başlayan ilçe belediye başkanlıklarının bilgileri aşağıdadır.",
+      "char_count": 142,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0003",
+      "section": "=== Belediye Meclisleri ===",
+      "heading_path": "=== Belediye Meclisleri ===",
+      "start_char": 346,
+      "end_char": 1034,
+      "content": "=== Belediye Meclisleri === Kilis İl Genel Meclisi üye sayısı 11'dir. Kilis Belediyesi meclisi üye sayısı 31'dir. İlçe belediyelerinin toplam üye sayısı 58'dir. Belediye Meclis üyelerinin sayıları ilçenin son nüfus sayımına göre 9 ile 55 üye, İl genel meclisi üye sayıları 100.000 nüfusa kadar 2 ile 5 üye olarak belirlenir. İl genel meclisi ve belediye meclisi üyelikleri için yapılan seçimlerde, onda birlik baraj uygulamalı nispi temsil sistemi, belediye başkanlığı seçiminde ise çoğunluk sistemi uygulanır İl genel meclisi ve belediye meclisi üye sayıları ilçe nüfusuna göre, kontenjandan kalan sayıların partilere dağılımı ise D'Hondt Sistemine göre belirlenir (Kanun:2972-Madde:23)",
+      "char_count": 687,
+      "token_estimate": 171
+    },
+    {
+      "id": "c0004",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 1034,
+      "end_char": 1599,
+      "content": "== Nüfus == Güncel Nüfus Değerleri (TÜİK 6 Şubat 2025 verileri) Kilis ili nüfusu: 155.179'dur. Bu nüfusun %78,49'u şehirlerde yaşamaktadır (2024 sonu). İlin yüzölçümü 1.412 km²dir. İlde km²ye 110 kişi düşmektedir. (Bu sayı merkezde 214'tür.) İlde yıllık nüfus artış oranı %1,01 olmuştur. Nüfus artış oranı en yüksek ve en düşük ilçeler: Merkez ilçe (%1,96) - Elbeyli: %-6,75 (Bu ilçenin nüfusu 2023 yılında %11,12 oranında artmıştı) 06 Şubat 2025 TÜİK verilerine göre merkez ilçeyle beraber 4 ilçe, 4 belediye, bu belediyelerde 89 mahalle ve ayrıca 140 köy vardır.",
+      "char_count": 564,
+      "token_estimate": 141
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1647,
+      "end_char": 1708,
+      "content": "== Ayrıca bakınız == Kilis ilindeki yerleşim yerleri listesi",
+      "char_count": 60,
+      "token_estimate": 15
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kilis İl Genel Meclisi'nin üye sayısı kaçtır?",
+        "answer": "Kilis İl Genel Meclisi'nin üye sayısı 11'dir.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kilis ilinin hangi ilçeleri için Temmuz 2024 tarihi itibarıyla görevde olan kaymakamların bilgileri sunulmuştur?",
+        "answer": "Kilis (İl merkezi), Elbeyli, Musabeyli ve Polateli ilçeleri için görevde olan kaymakamların bilgileri sunulmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

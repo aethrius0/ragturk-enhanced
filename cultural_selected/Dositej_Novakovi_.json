@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "dositejnovakovi_1639bd7a",
+    "title": "Dositej Novaković",
+    "url": "https://tr.wikipedia.org/wiki/Dositej_Novakovi%C4%87",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:50.458232",
+    "content": "Dositej Novaković (c. 1774-1854), 1834'ten 1854'e kadar Timok'un bir Sırp rahip ve Ortodoks piskoposuydu. Otuzlu yaşlarında, 1804'ten 1813'e kadar Karađorđe'nin Sırbistan'ına devrimci olarak katıldı. == Biyografi == Novaković, 1774 civarında Prilep yakınlarındaki küçük Dabnica köyünde doğdu. Genç bir adam olarak, yakındaki Treskavac manastırının kardeşliğine katıldı. Kısa bir süre sonra Treskavac'tan Kutsal Athos Dağı'na ve keşiş olduğu Zoographou manastırına gitti. Döndüğünde Prilep kuzeye kaçmaya karar verdiği ve hayatından endişe ettiği için, bölgedeki Müslümanlarla çatışmaya girdi. İlk olarak Pirot şehrine ve ardından Niş şehrine giderek piskopos Melentije yardım etti. Mayıs 1821'de, Sırpların Yunan Kurtuluş Savaşı'ndan esinlenerek silahlanacaklarından korkan Osmanlılar, diğer birkaç din adamıyla birlikte piskopos Melentije'yi öldürdü. Novaković Sırbistan Prensliği'ne kaçmayı başardı ve burada iyi karşılanır ve önce Sveta Petka manastırının, daha sonra da Gornjak manastırının başrahibi olarak atandı. 1833'te Timočka Krajina bölgesi Osmanlılardan kurtarıldıktan ve Sırbistan Prensliği'nin bir parçası olduktan sonra, Prens Miloš Obrenović bölge için yeni bir piskoposluk kurmaya karar verdi. Sırbistan Metropoliti, prensliğin diğer iki piskoposuna danıştıktan sonra, 1834'te Dositej'i sonraki yirmi yıl boyunca sürdüreceği Timok'un ilk piskoposu olarak atamaya karar verdi. Piskoposluğun merkezi ilk olarak Zaječar'daydı, ancak kısa süre sonra Negotin'e transfer edildi (bugün bir kez daha Zaječar'da). Piskopos Dositej, özellikle kendi piskoposluğundan Belgrad'da eğitimlerine devam eden öğrencilere yardım etmeye hevesli olan kibar ve yardımsever bir adam olarak hatırlanır. 1846'da Novaković, günümüz Sırp Bilim ve Sanat Akademisi'nin öncüsü olan Sırp Aydınlar Cemiyeti'nin bir üyesi oldu. 1851'deki bir olayda, Negotin'de doğmuş ve uzun süredir ikamet eden zengin bir Roman (Çingene) adam oğlunu fakir bir Sırp kızıyla evlendirmeye çalıştı ve devlet yasası ve kilise kanunları buna açıkça izin veriyordu, ancak bu oldukça alışılmadık bir durumdu ve yerel halk, iktidar rejimine karşı çıkan siyasi muhalifler tarafından buna karşı çıkmaya teşvik edildi. Piskopos Dositheus, birkaç kamusal konuşmada ve devlet yetkililerine ve Belgrad Metropoliti'ne planlanan düğünün yasal olduğunu kamuoyuna açıklamaları için yazılı taleplerde bulunarak onları ikna etmeye çalıştı. Tüm Ortodoks Hristiyanların \"yasa ve Tanrı gözünde eşit\" olduğunu defalarca vurguladı, ancak piskopos tarafından piskoposluk kilisesinde yaklaşan evliliğin duyurulması da dahil olmak üzere haftalarca süren planlamanın ardından, planlanan düğün günü isyan eden bir kalabalık piskoposun sarayına daldı ve Dositheus'u birkaç saat rehin tuttu, böylece düğüne katılamamıştı. Aynı şey bir protopresbiteros (mahalle rahibi) için de yapıldı ve düğün iptal edildi. Piskopos Dositej 2 Nisan 1854'te öldü. Mütevazı mezarı başlangıçta Negotin'deki eski kilisenin kilise bahçesinde dururken, daha sonra içine taşındı. . == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 387,
+      "char_count": 3009,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.794045",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 200,
+      "content": "Dositej Novaković (c. 1774-1854), 1834'ten 1854'e kadar Timok'un bir Sırp rahip ve Ortodoks piskoposuydu. Otuzlu yaşlarında, 1804'ten 1813'e kadar Karađorđe'nin Sırbistan'ına devrimci olarak katıldı.",
+      "char_count": 199,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 200,
+      "end_char": 1200,
+      "content": "== Biyografi == Novaković, 1774 civarında Prilep yakınlarındaki küçük Dabnica köyünde doğdu. Genç bir adam olarak, yakındaki Treskavac manastırının kardeşliğine katıldı. Kısa bir süre sonra Treskavac'tan Kutsal Athos Dağı'na ve keşiş olduğu Zoographou manastırına gitti. Döndüğünde Prilep kuzeye kaçmaya karar verdiği ve hayatından endişe ettiği için, bölgedeki Müslümanlarla çatışmaya girdi. İlk olarak Pirot şehrine ve ardından Niş şehrine giderek piskopos Melentije yardım etti. Mayıs 1821'de, Sırpların Yunan Kurtuluş Savaşı'ndan esinlenerek silahlanacaklarından korkan Osmanlılar, diğer birkaç din adamıyla birlikte piskopos Melentije'yi öldürdü. Novaković Sırbistan Prensliği'ne kaçmayı başardı ve burada iyi karşılanır ve önce Sveta Petka manastırının, daha sonra da Gornjak manastırının başrahibi olarak atandı. 1833'te Timočka Krajina bölgesi Osmanlılardan kurtarıldıktan ve Sırbistan Prensliği'nin bir parçası olduktan sonra, Prens Miloš Obrenović bölge için yeni bir piskoposluk kurmaya ka",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 1000,
+      "end_char": 2000,
+      "content": "hibi olarak atandı. 1833'te Timočka Krajina bölgesi Osmanlılardan kurtarıldıktan ve Sırbistan Prensliği'nin bir parçası olduktan sonra, Prens Miloš Obrenović bölge için yeni bir piskoposluk kurmaya karar verdi. Sırbistan Metropoliti, prensliğin diğer iki piskoposuna danıştıktan sonra, 1834'te Dositej'i sonraki yirmi yıl boyunca sürdüreceği Timok'un ilk piskoposu olarak atamaya karar verdi. Piskoposluğun merkezi ilk olarak Zaječar'daydı, ancak kısa süre sonra Negotin'e transfer edildi (bugün bir kez daha Zaječar'da). Piskopos Dositej, özellikle kendi piskoposluğundan Belgrad'da eğitimlerine devam eden öğrencilere yardım etmeye hevesli olan kibar ve yardımsever bir adam olarak hatırlanır. 1846'da Novaković, günümüz Sırp Bilim ve Sanat Akademisi'nin öncüsü olan Sırp Aydınlar Cemiyeti'nin bir üyesi oldu. 1851'deki bir olayda, Negotin'de doğmuş ve uzun süredir ikamet eden zengin bir Roman (Çingene) adam oğlunu fakir bir Sırp kızıyla evlendirmeye çalıştı ve devlet yasası ve kilise kanunları ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 1800,
+      "end_char": 2800,
+      "content": "üyesi oldu. 1851'deki bir olayda, Negotin'de doğmuş ve uzun süredir ikamet eden zengin bir Roman (Çingene) adam oğlunu fakir bir Sırp kızıyla evlendirmeye çalıştı ve devlet yasası ve kilise kanunları buna açıkça izin veriyordu, ancak bu oldukça alışılmadık bir durumdu ve yerel halk, iktidar rejimine karşı çıkan siyasi muhalifler tarafından buna karşı çıkmaya teşvik edildi. Piskopos Dositheus, birkaç kamusal konuşmada ve devlet yetkililerine ve Belgrad Metropoliti'ne planlanan düğünün yasal olduğunu kamuoyuna açıklamaları için yazılı taleplerde bulunarak onları ikna etmeye çalıştı. Tüm Ortodoks Hristiyanların \"yasa ve Tanrı gözünde eşit\" olduğunu defalarca vurguladı, ancak piskopos tarafından piskoposluk kilisesinde yaklaşan evliliğin duyurulması da dahil olmak üzere haftalarca süren planlamanın ardından, planlanan düğün günü isyan eden bir kalabalık piskoposun sarayına daldı ve Dositheus'u birkaç saat rehin tuttu, böylece düğüne katılamamıştı. Aynı şey bir protopresbiteros (mahalle rah",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 2600,
+      "end_char": 2994,
+      "content": "manın ardından, planlanan düğün günü isyan eden bir kalabalık piskoposun sarayına daldı ve Dositheus'u birkaç saat rehin tuttu, böylece düğüne katılamamıştı. Aynı şey bir protopresbiteros (mahalle rahibi) için de yapıldı ve düğün iptal edildi. Piskopos Dositej 2 Nisan 1854'te öldü. Mütevazı mezarı başlangıçta Negotin'deki eski kilisenin kilise bahçesinde dururken, daha sonra içine taşındı. .",
+      "char_count": 394,
+      "token_estimate": 98
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Novaković ne zaman ve nerede doğdu?",
+        "answer": "Novaković, 1774 civarında Prilep yakınlarındaki küçük Dabnica köyünde doğdu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dositej Novaković'in Osmanlı kontrolündeki bölgelerden kaçarak Sırbistan Prensliği'nde Timok Piskoposu olarak önemli bir dini lider konumuna yükselişinin ardındaki olaylar ve dönüm noktaları nelerdi?",
+        "answer": "Dositej Novaković, Prilep yakınlarındaki Dabnica'da doğduktan sonra Treskavac ve Zoographou manastırlarında keşiş oldu. Bölgedeki Müslümanlarla çatışmaya girmesi ve hayatından endişe etmesi üzerine Prilep'ten kaçtı. Niş'te yardım aldığı piskopos Melentije'nin Osmanlılar tarafından öldürülmesinin ardından Sırbistan Prensliği'ne sığınmayı başardı. Burada iyi karşılandı ve önce Sveta Petka, daha sonra da Gornjak manastırlarının başrahibi olarak atandı. 1833'te Timočka Krajina bölgesi Osmanlılardan kurtarılıp Sırbistan Prensliği'nin bir parçası olduktan sonra, Prens Miloš Obrenović bölge için yeni bir piskoposluk kurmaya karar verdi ve Dositej 1834'te Timok'un ilk piskoposu olarak atandı, bu görevi yirmi yıl boyunca sürdürdü.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

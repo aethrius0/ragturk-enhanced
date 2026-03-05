@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "kevorktrker_87ca449a",
+    "title": "Kevork Türker",
+    "url": "https://tr.wikipedia.org/wiki/Kevork_T%C3%BCrker",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:54.992584",
+    "content": "Kevork Türker (d. 1 Eylül 1957, İstanbul), Ermeni asıllı Türk oyuncudur. İstanbul Devlet Mühendislik ve Mimarlık Akademisi'nde öğrenciyken amatör olarak tiyatro çalışmalarına ağırlık vermiş kısa sürede profesyonel oyunculuk kariyerine adım atmıştır. Nişantaşı Işık Lisesini bitirmiş ve Yıldız Teknik Üniversitesi Makine Mühendisliği Bölümünden mezun olmuştur. == Filmografisi == === Diziler === Uzak Şehir - 2025- (Hakim) Adsız Aşıklar - 2025 (Mişel) Kül Masalı - 2024 Gibi - 2021 (Ercan) Yeşilçam - 2021 (Chef) Kuzgun - 2019 (Emin) Ufak Tefek Cinayetler - 2018 Söz - 2017 Dayan Yüreğim - 2017 Şehrin Melekleri - 2015 Aşkın Bedeli - 2013-2015 (Mümtaz Haznedar) Alev Alev - 2012 İnsan Aldandı - 2011 Sensiz Olmaz - 2011 Mavi Kelebekler - 2011 Bir Günah Gibi - 2011 (Hakkı Aydemir) Alemin Kıralı - 2011 Geniş Aile - 2011 - Mazhar Arka Sokaklar - 2011 (Terörist) 5. sezon Muhteşem Yüzyıl - 2011 (Manolis) Yahşi Cazibe - 2010 (Muzaffer) Öyle Bir Geçer Zaman ki - 2010 (Tarık) Kızım Nerede? - 2010 (Emniyet Müdürü) Kılıç Günü - 2010 (Uğur Akdeniz) Akasya Durağı - 2009 (Arap Şeyhi) Tek Türkiye - 2009 (Temo) Aşk Bir Hayal - 2009 Süper Babaanne - 2008 (Bahri) Limon Ağacı - 2008 (Fikret) Küçük Kadınlar - 2008-2010 (Sami Deviren) Aşk Yakar - 2008 Tutsak - 2007 (Hasan) Mahşer-Nabucco'nun Zehri - 2007 Kurtlar Vadisi Pusu - 2007 (gazeteci) Hakkını Helal Et - 2007 (Osman Kara) Affedilmeyen - 2007 (Bedri) Eksi 18 - 2006-2007 (Hızır Amir) Şöhret - 2005-2006 Beşinci Boyut - 2005 (Faruk) Büyük Yalan - 2004 (İbrahim Dinçer) Sırlar Dünyası - 2002 Kınalı Kar - 2002 (Kaymakam) Ruhsar - 1999 === Sinema filmleri === Rüzgara Bırak - 2025 (Korkmaz) Seni Görüyorum - 2023 Neden Tarkovski Olamıyorum? - 2014 (Yapımcı) Sağ Salim - 2012 (Ramiz) Av Mevsimi - 2010 (Ceylan'ın doktoru) Araf - 2006 (Cenk'in babası) Yolda/Rüzgâr Geri Getirirse - 2005 (Hilmi) == Tiyatro oyunları == Guguk Kuşu - 2014 Sonbaharı Beklerken - 2012 Aşkın Yaşı Yoktur Hisse-i Şayia - 2003 == Dış bağlantılar == SinemaTürk'te Kevork Türker IMDb'de Kevork Türker Beyazperde'de Kevork Türker == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 337,
+      "char_count": 2058,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.332162",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 360,
+      "content": "Kevork Türker (d. 1 Eylül 1957, İstanbul), Ermeni asıllı Türk oyuncudur. İstanbul Devlet Mühendislik ve Mimarlık Akademisi'nde öğrenciyken amatör olarak tiyatro çalışmalarına ağırlık vermiş kısa sürede profesyonel oyunculuk kariyerine adım atmıştır. Nişantaşı Işık Lisesini bitirmiş ve Yıldız Teknik Üniversitesi Makine Mühendisliği Bölümünden mezun olmuştur.",
+      "char_count": 359,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0001",
+      "section": "=== Diziler ===",
+      "heading_path": "=== Diziler ===",
+      "start_char": 379,
+      "end_char": 1379,
+      "content": "=== Diziler === Uzak Şehir - 2025- (Hakim) Adsız Aşıklar - 2025 (Mişel) Kül Masalı - 2024 Gibi - 2021 (Ercan) Yeşilçam - 2021 (Chef) Kuzgun - 2019 (Emin) Ufak Tefek Cinayetler - 2018 Söz - 2017 Dayan Yüreğim - 2017 Şehrin Melekleri - 2015 Aşkın Bedeli - 2013-2015 (Mümtaz Haznedar) Alev Alev - 2012 İnsan Aldandı - 2011 Sensiz Olmaz - 2011 Mavi Kelebekler - 2011 Bir Günah Gibi - 2011 (Hakkı Aydemir) Alemin Kıralı - 2011 Geniş Aile - 2011 - Mazhar Arka Sokaklar - 2011 (Terörist) 5. sezon Muhteşem Yüzyıl - 2011 (Manolis) Yahşi Cazibe - 2010 (Muzaffer) Öyle Bir Geçer Zaman ki - 2010 (Tarık) Kızım Nerede? - 2010 (Emniyet Müdürü) Kılıç Günü - 2010 (Uğur Akdeniz) Akasya Durağı - 2009 (Arap Şeyhi) Tek Türkiye - 2009 (Temo) Aşk Bir Hayal - 2009 Süper Babaanne - 2008 (Bahri) Limon Ağacı - 2008 (Fikret) Küçük Kadınlar - 2008-2010 (Sami Deviren) Aşk Yakar - 2008 Tutsak - 2007 (Hasan) Mahşer-Nabucco'nun Zehri - 2007 Kurtlar Vadisi Pusu - 2007 (gazeteci) Hakkını Helal Et - 2007 (Osman Kara) Affedilme",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "=== Diziler ===",
+      "heading_path": "=== Diziler ===",
+      "start_char": 1179,
+      "end_char": 1579,
+      "content": "t) Küçük Kadınlar - 2008-2010 (Sami Deviren) Aşk Yakar - 2008 Tutsak - 2007 (Hasan) Mahşer-Nabucco'nun Zehri - 2007 Kurtlar Vadisi Pusu - 2007 (gazeteci) Hakkını Helal Et - 2007 (Osman Kara) Affedilmeyen - 2007 (Bedri) Eksi 18 - 2006-2007 (Hızır Amir) Şöhret - 2005-2006 Beşinci Boyut - 2005 (Faruk) Büyük Yalan - 2004 (İbrahim Dinçer) Sırlar Dünyası - 2002 Kınalı Kar - 2002 (Kaymakam) Ruhsar - 1999",
+      "char_count": 400,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0003",
+      "section": "=== Sinema filmleri ===",
+      "heading_path": "=== Sinema filmleri ===",
+      "start_char": 1580,
+      "end_char": 1837,
+      "content": "=== Sinema filmleri === Rüzgara Bırak - 2025 (Korkmaz) Seni Görüyorum - 2023 Neden Tarkovski Olamıyorum? - 2014 (Yapımcı) Sağ Salim - 2012 (Ramiz) Av Mevsimi - 2010 (Ceylan'ın doktoru) Araf - 2006 (Cenk'in babası) Yolda/Rüzgâr Geri Getirirse - 2005 (Hilmi)",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0004",
+      "section": "== Tiyatro oyunları ==",
+      "heading_path": "== Tiyatro oyunları ==",
+      "start_char": 1837,
+      "end_char": 1944,
+      "content": "== Tiyatro oyunları == Guguk Kuşu - 2014 Sonbaharı Beklerken - 2012 Aşkın Yaşı Yoktur Hisse-i Şayia - 2003",
+      "char_count": 106,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1944,
+      "end_char": 2044,
+      "content": "== Dış bağlantılar == SinemaTürk'te Kevork Türker IMDb'de Kevork Türker Beyazperde'de Kevork Türker",
+      "char_count": 99,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kül Masalı dizisi hangi yıl yayınlanmıştır?",
+        "answer": "2024",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kevork Türker'in mühendislik eğitimine rağmen profesyonel oyunculuk kariyerine nasıl yöneldiği, kariyerindeki hangi detaylarla ilişkilidir?",
+        "answer": "Kevork Türker, Yıldız Teknik Üniversitesi Makine Mühendisliği Bölümünden mezun olmasına ve İstanbul Devlet Mühendislik ve Mimarlık Akademisi'nde öğrenciyken amatör tiyatroya başlamış olmasına rağmen, kariyerine 2007'den itibaren çok sayıda dizide (örneğin Tutsak, Kurtlar Vadisi Pusu, Kül Masalı, Adsız Aşıklar) rol alarak profesyonel bir oyuncu olarak devam etmiştir. Bu durum, akademik geçmişiyle doğrudan ilişkili olmayan bir alanda geniş bir kariyere sahip olduğunu göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

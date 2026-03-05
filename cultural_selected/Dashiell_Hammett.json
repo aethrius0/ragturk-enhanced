@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "dashiellhammett_666987d8",
+    "title": "Dashiell Hammett",
+    "url": "https://tr.wikipedia.org/wiki/Dashiell_Hammett",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:41.598166",
+    "content": "Samuel Dashiell Hammett (27 Mayıs 1894, St. Mary's ilçesi, Maryland - 10 Ocak 1961, New York), dedektif romanları ve kısa öyküleri ile tanınan Amerikalı polisiye yazarıdır. == Yaşamı == Dashiell Hammett 1894 yılında Maryland, St. Mary'de doğdu. Genç yaşlarında gazete satıcılığı, tezgahtarlık ve hamallık yaptı. Daha sonra, 1915-1921 yılları arasında Pinkerton Dedektiflik Bürosu'nda özel dedektif olarak çalıştı. Büronun grev kırıcılığında kullanılması Hammett'i rahatsız ettiği için bürodaki görevinden ayrıldı. Daha sonra çeşitli dergilere macera ve dedektif öyküleri yazmaya başlayan Hammett, ilk iki romanını 1929'da yayınladı. 1930'da en bilinen eseri The Maltese Falcon (Malta Şahini) yayınlandı. Bu roman, 1941'de aynı isimle John Huston tarafından sinemaya uyarlandı. Filmde Sam Spade rolünde Humphrey Bogart oynadı. 1934'ten sonra daha çok siyasetle ilgilenmeye başlayan Hammett, insan hakları savunuculuğu yaptı ve gönüllü olarak II. Dünya Savaşı'na katıldı. Başkanı olduğu Medeni Haklar Kongresi'ne bağışta bulunanların adlarını açıklamayı reddettiği için 1951 yılında hapse girdi ve 6 ay süreyle hapis yattı. McCarthy döneminin Cadı Avı uygulamaları sırasında Komünist Parti'ye üye olduğu gerekçesi ile Amerika'ya Karşı Faaliyetler Komitesi'nce 26 Mart 1953 tarihinde sorguya çekildi. Komite ile işbirliğine girmeyi redderek kara listeye alındı. 1961 yılında New York'ta akciğer kanserinden öldü. == Polisiye ve Hammett == Hammett'a gelene kadar Amerikan polisiyeleri İngiliz polisiyelerini taklit ediyordu. Hammett, polisiye roman mekanlarını malikanelerden, kibar salonlardan barlara, sokaklara, batakhanelere taşıdı. İdealleştirilmiş kahramanlar yerine, suçlullar ve katiller kadar çıkarcı, zorba, duygusallıktan uzak dedektif tipleri yarattı. Eserlerinde argoyla karışık günlük konuşma diline yer vererek polisiye diline önemli yenilikler getirdi. Time dergisinin 1923-2005 yılları arasında İngilizce yazılmış en iyi 100 roman listesine Kızıl Hasat romanı ile girdi. == Edebiyatta ve sinemada Hammett == 1975 yılında John Gores'un romanı Hammett yayınlandı.Roman aynı adla Wim Wenders tarafından 1982'de sinemaya da uyarlandı. Hammett rolünü Frederic Forrest oynadı. Laurie R. King'in romanı Locked Rooms'da ise, Hammett bir roman kahramanı olarak Sherlock Holmes ve Marry Russel'a Russel'ın çocukluğu ile ilgili bir sırrı çözmekte yardım etmektedir. == Eserleri == === Kitapları === Red Harvest (1929) The Dain Curse (1929) The Maltese Falcon (1930) The Glass Key (1931) The Thin Man (1932) Adventures of Sam Spade (1944) Continental Operator (1945) The Big Knockover (1966) === Türkçeye çevrilen eserleri === Kan Dalgası Ajan Q (Red Harvest, 1929) Başak Yayınevi, 1968 ·Çeviren : Gülten SUVEREN Kanlı Hasat - (Red Harvest, 1929) çev. Sinan Fişek; Milliyet Y., 1972 Kızıl Hasat (Red Harvest, 1929),, Metis Y., 1993, Everest, 2011 Lanet (The Dain Curse, 1929), Altın Y., 1979 Sırça Anahtar (The Glass Key, 1931), E Yayın, 1986 İnce Adam (The Thin Man, 1932), Mitos Y., 1992 == Kaynakça == Özel Genel https://www.cinairoman.com/book_prints/search?utf8=%E2%9C%93&k_kitap_adi=&k_yazar_adi=Dashiell+Hammett&k_yayinevi=&k_tanimi=&action=",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 420,
+      "char_count": 3149,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.212848",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 173,
+      "content": "Samuel Dashiell Hammett (27 Mayıs 1894, St. Mary's ilçesi, Maryland - 10 Ocak 1961, New York), dedektif romanları ve kısa öyküleri ile tanınan Amerikalı polisiye yazarıdır.",
+      "char_count": 172,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 173,
+      "end_char": 1173,
+      "content": "== Yaşamı == Dashiell Hammett 1894 yılında Maryland, St. Mary'de doğdu. Genç yaşlarında gazete satıcılığı, tezgahtarlık ve hamallık yaptı. Daha sonra, 1915-1921 yılları arasında Pinkerton Dedektiflik Bürosu'nda özel dedektif olarak çalıştı. Büronun grev kırıcılığında kullanılması Hammett'i rahatsız ettiği için bürodaki görevinden ayrıldı. Daha sonra çeşitli dergilere macera ve dedektif öyküleri yazmaya başlayan Hammett, ilk iki romanını 1929'da yayınladı. 1930'da en bilinen eseri The Maltese Falcon (Malta Şahini) yayınlandı. Bu roman, 1941'de aynı isimle John Huston tarafından sinemaya uyarlandı. Filmde Sam Spade rolünde Humphrey Bogart oynadı. 1934'ten sonra daha çok siyasetle ilgilenmeye başlayan Hammett, insan hakları savunuculuğu yaptı ve gönüllü olarak II. Dünya Savaşı'na katıldı. Başkanı olduğu Medeni Haklar Kongresi'ne bağışta bulunanların adlarını açıklamayı reddettiği için 1951 yılında hapse girdi ve 6 ay süreyle hapis yattı. McCarthy döneminin Cadı Avı uygulamaları sırasında ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 973,
+      "end_char": 1409,
+      "content": "kanı olduğu Medeni Haklar Kongresi'ne bağışta bulunanların adlarını açıklamayı reddettiği için 1951 yılında hapse girdi ve 6 ay süreyle hapis yattı. McCarthy döneminin Cadı Avı uygulamaları sırasında Komünist Parti'ye üye olduğu gerekçesi ile Amerika'ya Karşı Faaliyetler Komitesi'nce 26 Mart 1953 tarihinde sorguya çekildi. Komite ile işbirliğine girmeyi redderek kara listeye alındı. 1961 yılında New York'ta akciğer kanserinden öldü.",
+      "char_count": 436,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0003",
+      "section": "== Polisiye ve Hammett ==",
+      "heading_path": "== Polisiye ve Hammett ==",
+      "start_char": 1410,
+      "end_char": 1984,
+      "content": "== Polisiye ve Hammett == Hammett'a gelene kadar Amerikan polisiyeleri İngiliz polisiyelerini taklit ediyordu. Hammett, polisiye roman mekanlarını malikanelerden, kibar salonlardan barlara, sokaklara, batakhanelere taşıdı. İdealleştirilmiş kahramanlar yerine, suçlullar ve katiller kadar çıkarcı, zorba, duygusallıktan uzak dedektif tipleri yarattı. Eserlerinde argoyla karışık günlük konuşma diline yer vererek polisiye diline önemli yenilikler getirdi. Time dergisinin 1923-2005 yılları arasında İngilizce yazılmış en iyi 100 roman listesine Kızıl Hasat romanı ile girdi.",
+      "char_count": 573,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0004",
+      "section": "== Edebiyatta ve sinemada Hammett ==",
+      "heading_path": "== Edebiyatta ve sinemada Hammett ==",
+      "start_char": 1984,
+      "end_char": 2368,
+      "content": "== Edebiyatta ve sinemada Hammett == 1975 yılında John Gores'un romanı Hammett yayınlandı.Roman aynı adla Wim Wenders tarafından 1982'de sinemaya da uyarlandı. Hammett rolünü Frederic Forrest oynadı. Laurie R. King'in romanı Locked Rooms'da ise, Hammett bir roman kahramanı olarak Sherlock Holmes ve Marry Russel'a Russel'ın çocukluğu ile ilgili bir sırrı çözmekte yardım etmektedir.",
+      "char_count": 383,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0005",
+      "section": "=== Kitapları ===",
+      "heading_path": "=== Kitapları ===",
+      "start_char": 2383,
+      "end_char": 2593,
+      "content": "=== Kitapları === Red Harvest (1929) The Dain Curse (1929) The Maltese Falcon (1930) The Glass Key (1931) The Thin Man (1932) Adventures of Sam Spade (1944) Continental Operator (1945) The Big Knockover (1966)",
+      "char_count": 209,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0006",
+      "section": "=== Türkçeye çevrilen eserleri ===",
+      "heading_path": "=== Türkçeye çevrilen eserleri ===",
+      "start_char": 2593,
+      "end_char": 2991,
+      "content": "=== Türkçeye çevrilen eserleri === Kan Dalgası Ajan Q (Red Harvest, 1929) Başak Yayınevi, 1968 ·Çeviren : Gülten SUVEREN Kanlı Hasat - (Red Harvest, 1929) çev. Sinan Fişek; Milliyet Y., 1972 Kızıl Hasat (Red Harvest, 1929),, Metis Y., 1993, Everest, 2011 Lanet (The Dain Curse, 1929), Altın Y., 1979 Sırça Anahtar (The Glass Key, 1931), E Yayın, 1986 İnce Adam (The Thin Man, 1932), Mitos Y., 1992",
+      "char_count": 397,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0007",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2991,
+      "end_char": 3067,
+      "content": "== Kaynakça == Özel Genel https://www.cinairoman.com/book_prints/search?utf8",
+      "char_count": 76,
+      "token_estimate": 19
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dashiell Hammett'in en bilinen eseri hangisidir?",
+        "answer": "The Maltese Falcon (Malta Şahini).",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Samuel Dashiell Hammett'in dedektif romanları ve kısa öyküleri yazarı olarak ünlenmesinde, hayatının erken dönemlerindeki hangi mesleki deneyiminin katkısı olduğu söylenebilir?",
+        "answer": "Samuel Dashiell Hammett'in 1915-1921 yılları arasında Pinkerton Dedektiflik Bürosu'nda özel dedektif olarak çalışmış olması, polisiye yazarlığı kariyerine önemli bir temel sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

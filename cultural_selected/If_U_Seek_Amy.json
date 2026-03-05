@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "ifuseekamy_135e8187",
+    "title": "If U Seek Amy",
+    "url": "https://tr.wikipedia.org/wiki/If_U_Seek_Amy",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:54.365685",
+    "content": "\"If U Seek Amy\", Amerikalı pop şarkıcısı Britney Spears'ın bir şarkısı ve altıncı stüdyo albümü Circus'dan yayınlanan üçüncü tekli. 7 Ocak 2009 tarihinde, Spears'in resmî internet sitesinde, parçanın tekli olarak yayınlanacağı açıklanmıştır. Şarkının yazarı ve yapımcısı, daha önce Oops!... I Did It Again ve \"...Baby One More Time\" gibi birçok Britney Spears şarkısının da yazarlığını yapmış olan Max Martin'dir. Ayrıca bu şarkı FIFA 09'un soundtrackinde kullanılmıştır. == Genel == Şarkı, BritneySpears.com tarafından düzenlenen bir anket sonucu, oyların %26'sını alarak Circus albümünden çıkacak üçüncü tekli olarak seçilmiştir. == Eleştiriler == Bazı ebeveynler, şarkının adı olan \"If U Seek Amy\"nin hızlıca ve yüksek sesle söylendiğinde kulağa \"F-U-C-K Me\" (\"S-İ-K BENİ\") şeklinde geldiğini düşünmektedir. Bunun üzerine bazı örgütler şarkının klibinin televizyon kanallarında yayınının yasaklanmasını istemiştir. Bu tepkilerden dolayı, şarkı ABD radyolarına \"If U See Amy\" olarak yeniden düzenlenerek gönderilmiştir. Fakat bu değişiklik sadece ABD'de geçerli olacaktır. Şarkının klibi ve uluslararası radyo teklisi \"If U Seek Amy\" olarak kalacaktır. == Müzik videosu == Şarkının müzik videosunun çekimlerine 10 Şubat 2009 günü başlanması planlanmış, fakat çekimler 7 Ocak 2009'da başlamıştır. People dergisinin haberine göre, şarkıcı 50'lerden kalma çekici bir ev hanımını canlandırmaktadır. Müzik videosu dünyada ilk kez 12 Mart Perşembe günü saat 11.00'da (ET, TSİ 17.00), Virgin Mobile sponsorluğunda Britney.com2 Mayıs 2015 tarihinde Wayback Machine sitesinde arşivlendi., BritneySpears.com24 Mayıs 2012 tarihinde Wayback Machine sitesinde arşivlendi. ve VirginMobileUSA.com21 Aralık 2013 tarihinde Wayback Machine sitesinde arşivlendi. adreslerinde yayınlanmıştır. == Listeler == == Kaynakça == == Dış bağlantılar == Britney.com (Türkçe) Britney Spears İnternet Sayfası24 Mayıs 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 254,
+      "char_count": 1940,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.767867",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 472,
+      "content": "\"If U Seek Amy\", Amerikalı pop şarkıcısı Britney Spears'ın bir şarkısı ve altıncı stüdyo albümü Circus'dan yayınlanan üçüncü tekli. 7 Ocak 2009 tarihinde, Spears'in resmî internet sitesinde, parçanın tekli olarak yayınlanacağı açıklanmıştır. Şarkının yazarı ve yapımcısı, daha önce Oops!... I Did It Again ve \"...Baby One More Time\" gibi birçok Britney Spears şarkısının da yazarlığını yapmış olan Max Martin'dir. Ayrıca bu şarkı FIFA 09'un soundtrackinde kullanılmıştır.",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0001",
+      "section": "== Genel ==",
+      "heading_path": "== Genel ==",
+      "start_char": 472,
+      "end_char": 632,
+      "content": "== Genel == Şarkı, BritneySpears.com tarafından düzenlenen bir anket sonucu, oyların %26'sını alarak Circus albümünden çıkacak üçüncü tekli olarak seçilmiştir.",
+      "char_count": 159,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0002",
+      "section": "== Eleştiriler ==",
+      "heading_path": "== Eleştiriler ==",
+      "start_char": 632,
+      "end_char": 1155,
+      "content": "== Eleştiriler == Bazı ebeveynler, şarkının adı olan \"If U Seek Amy\"nin hızlıca ve yüksek sesle söylendiğinde kulağa \"F-U-C-K Me\" (\"S-İ-K BENİ\") şeklinde geldiğini düşünmektedir. Bunun üzerine bazı örgütler şarkının klibinin televizyon kanallarında yayınının yasaklanmasını istemiştir. Bu tepkilerden dolayı, şarkı ABD radyolarına \"If U See Amy\" olarak yeniden düzenlenerek gönderilmiştir. Fakat bu değişiklik sadece ABD'de geçerli olacaktır. Şarkının klibi ve uluslararası radyo teklisi \"If U Seek Amy\" olarak kalacaktır.",
+      "char_count": 522,
+      "token_estimate": 130
+    },
+    {
+      "id": "c0003",
+      "section": "== Müzik videosu ==",
+      "heading_path": "== Müzik videosu ==",
+      "start_char": 1155,
+      "end_char": 1775,
+      "content": "== Müzik videosu == Şarkının müzik videosunun çekimlerine 10 Şubat 2009 günü başlanması planlanmış, fakat çekimler 7 Ocak 2009'da başlamıştır. People dergisinin haberine göre, şarkıcı 50'lerden kalma çekici bir ev hanımını canlandırmaktadır. Müzik videosu dünyada ilk kez 12 Mart Perşembe günü saat 11.00'da (ET, TSİ 17.00), Virgin Mobile sponsorluğunda Britney.com2 Mayıs 2015 tarihinde Wayback Machine sitesinde arşivlendi., BritneySpears.com24 Mayıs 2012 tarihinde Wayback Machine sitesinde arşivlendi. ve VirginMobileUSA.com21 Aralık 2013 tarihinde Wayback Machine sitesinde arşivlendi. adreslerinde yayınlanmıştır.",
+      "char_count": 619,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1805,
+      "end_char": 1940,
+      "content": "== Dış bağlantılar == Britney.com (Türkçe) Britney Spears İnternet Sayfası24 Mayıs 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 135,
+      "token_estimate": 33
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Müzik videosunun çekimlerine ne zaman başlanmıştır?",
+        "answer": "7 Ocak 2009'da.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Britney Spears'ın \"If U Seek Amy\" şarkısı, Circus albümünün üçüncü teklisi olarak nasıl belirlendi ve bu adlandırma hangi eleştirilere yol açtı?",
+        "answer": "Şarkı, BritneySpears.com'da yapılan bir anket sonucunda oyların %26'sını alarak üçüncü tekli olarak seçildi. Adı hızlıca söylendiğinde \"F-U-C-K Me\" şeklinde duyulduğu için bazı ebeveynler tarafından eleştirildi ve klibinin televizyon kanallarında yayınının yasaklanması istendi. Bu tepkiler nedeniyle şarkı, ABD radyoları için \"If U See Amy\" olarak yeniden düzenlendi, ancak klibi ve uluslararası radyo teklisi orijinal adıyla kaldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

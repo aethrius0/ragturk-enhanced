@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "mamuka_eae714a5",
+    "title": "Mamuka",
+    "url": "https://tr.wikipedia.org/wiki/Mamuka",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:56.279100",
+    "content": "Mamuka (Gürcüce: მამუკა; 1719 – 1769), Gürcistan'ın batısındaki bir krallık olan İmereti'den Bagrationi Hanedanı'nın bir üyesiydi. 1746'dan 1749'da tahttan indirilinceye kadar V. Aleksandre'ye rakip bir kral olarak tahta çıktı. == Yaşamı == Mamuka, Kral VII. Giorgi ve Kartli kralı XI. Giorgi'nin kızı eşi Kraliçe Rodam'ın oğludur. İmereti tacını kardeşi V. Aleksandre'den iki kez ele geçirmeye çalıştı. Aralık 1732'de, kayınbiraderi Megrelya Prensi Otia Dadiani, Zurab Abaşidze, Raça Dükü Grigol ve İmeretili soylularla ile ittifak kurarak Aleksandre'yi Mamuka lehine tahttan devirmeye çalıştı. İmereti'nin başkenti Kutaisi'yi ablukaya aldılar ancak Osmanlı İmparatorluğu'nun tepkisinden korktukları için kaleye saldırmaya cesaret edemediler ve geri çekildiler. Kısa süre sonra taarruza geri döndüler ve tekrar krala karşı yürüdüler. IV. Mamia Gurieli tarafından desteklenen Aleksandre, Çihori Muharebesi'nde Dadiani'yi esir alarak bir zafer kazandı ancak Osmanlı baskısı altında kral onu Megrelya'da yeniden prens ilan etmek ve Saçilao ve Samikelao bölgelerini arasının iyi olmadığı kardeşi Mamuka'ya valilik olarak vermek zorunda kaldı. Daha sonra Mamuka, Çicavadze ailesinden Sebeka kalesini ve diğer mülkleri ele geçirmeyi başardı. 1741 yılında Mamuka, İmereti tahtı Osmanlı destekli bir darbeyle kendi üvey kardeşi IX. Giorgi tarafından ele geçirildiği zaman Kartli'ye sürgününde Aleksandre'yi takip etti. Mamuka kısa süre sonra Kartli'deki kargaşadan İmereti'ye kaçtı ve Aleksandre aynı yıl saltanatına devam edebildi. 1746'da İmereti soyluları yeniden ayaklandılar ve Mamuka'yı İmereti tahtına çıkardılar. 1749'da Ahaltsihe'nin Osmanlı paşasının yardımıyla Aleksandre tahtını geri aldı. Aleksandre 1752'de öldü ve tahtını 17 yaşındaki oğlu I. Solomon'a bıraktı. Mamuka, yeğeninin tahta çıkmasına karşı çıkan grubun bir üyesiydi. Solomon saltanatını güvence altına aldıktan sonra, Mamuka Ahaltsihe'ye kaçtı ve paşa tarafından Solomon'un ajanı sanılarak tutuklandı. İmereti'de huzursuzluk devam etti, ancak Kral Solomon 1757 yılında Hresili Muharebesi'nde Osmanlıları ve İmeretili müttefiklerini kararlı bir şekilde yendi. 1766'da nihayet Mamuka'nın oğlu Teimuraz'ı İmereti tahtına geçirmeyi başardılar ancak Solomon 1768'de tahtı yeniden aldı. Teimuraz, kardeşiyle birlikte hapse atıldı ve bir daha hiç görülmedi. == Ailesi == Mamuka, 1732'de Megrelya Prensi Bejan Dadiani'nin kızı Darecan Dadiani ile evlendi. İki oğlu vardı: Teimuraz (ö. 1768), İmereti kralı (1766-1768); Giorgi (fl. 1768). == Kaynakça == საქართველოს მეფეები [Kings of Georgia] (Gürcüce). Tiflis: Nekeri. 2000. Edge of Empires: A History of Georgia. Londra: Reaktion Books. 2012. ISBN 978-1780230306.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 350,
+      "char_count": 2676,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.989036",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 228,
+      "content": "Mamuka (Gürcüce: მამუკა; 1719 – 1769), Gürcistan'ın batısındaki bir krallık olan İmereti'den Bagrationi Hanedanı'nın bir üyesiydi. 1746'dan 1749'da tahttan indirilinceye kadar V. Aleksandre'ye rakip bir kral olarak tahta çıktı.",
+      "char_count": 227,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 228,
+      "end_char": 1228,
+      "content": "== Yaşamı == Mamuka, Kral VII. Giorgi ve Kartli kralı XI. Giorgi'nin kızı eşi Kraliçe Rodam'ın oğludur. İmereti tacını kardeşi V. Aleksandre'den iki kez ele geçirmeye çalıştı. Aralık 1732'de, kayınbiraderi Megrelya Prensi Otia Dadiani, Zurab Abaşidze, Raça Dükü Grigol ve İmeretili soylularla ile ittifak kurarak Aleksandre'yi Mamuka lehine tahttan devirmeye çalıştı. İmereti'nin başkenti Kutaisi'yi ablukaya aldılar ancak Osmanlı İmparatorluğu'nun tepkisinden korktukları için kaleye saldırmaya cesaret edemediler ve geri çekildiler. Kısa süre sonra taarruza geri döndüler ve tekrar krala karşı yürüdüler. IV. Mamia Gurieli tarafından desteklenen Aleksandre, Çihori Muharebesi'nde Dadiani'yi esir alarak bir zafer kazandı ancak Osmanlı baskısı altında kral onu Megrelya'da yeniden prens ilan etmek ve Saçilao ve Samikelao bölgelerini arasının iyi olmadığı kardeşi Mamuka'ya valilik olarak vermek zorunda kaldı. Daha sonra Mamuka, Çicavadze ailesinden Sebeka kalesini ve diğer mülkleri ele geçirmeyi ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1028,
+      "end_char": 2028,
+      "content": "e Saçilao ve Samikelao bölgelerini arasının iyi olmadığı kardeşi Mamuka'ya valilik olarak vermek zorunda kaldı. Daha sonra Mamuka, Çicavadze ailesinden Sebeka kalesini ve diğer mülkleri ele geçirmeyi başardı. 1741 yılında Mamuka, İmereti tahtı Osmanlı destekli bir darbeyle kendi üvey kardeşi IX. Giorgi tarafından ele geçirildiği zaman Kartli'ye sürgününde Aleksandre'yi takip etti. Mamuka kısa süre sonra Kartli'deki kargaşadan İmereti'ye kaçtı ve Aleksandre aynı yıl saltanatına devam edebildi. 1746'da İmereti soyluları yeniden ayaklandılar ve Mamuka'yı İmereti tahtına çıkardılar. 1749'da Ahaltsihe'nin Osmanlı paşasının yardımıyla Aleksandre tahtını geri aldı. Aleksandre 1752'de öldü ve tahtını 17 yaşındaki oğlu I. Solomon'a bıraktı. Mamuka, yeğeninin tahta çıkmasına karşı çıkan grubun bir üyesiydi. Solomon saltanatını güvence altına aldıktan sonra, Mamuka Ahaltsihe'ye kaçtı ve paşa tarafından Solomon'un ajanı sanılarak tutuklandı. İmereti'de huzursuzluk devam etti, ancak Kral Solomon 17",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1828,
+      "end_char": 2320,
+      "content": "yesiydi. Solomon saltanatını güvence altına aldıktan sonra, Mamuka Ahaltsihe'ye kaçtı ve paşa tarafından Solomon'un ajanı sanılarak tutuklandı. İmereti'de huzursuzluk devam etti, ancak Kral Solomon 1757 yılında Hresili Muharebesi'nde Osmanlıları ve İmeretili müttefiklerini kararlı bir şekilde yendi. 1766'da nihayet Mamuka'nın oğlu Teimuraz'ı İmereti tahtına geçirmeyi başardılar ancak Solomon 1768'de tahtı yeniden aldı. Teimuraz, kardeşiyle birlikte hapse atıldı ve bir daha hiç görülmedi.",
+      "char_count": 492,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0004",
+      "section": "== Ailesi ==",
+      "heading_path": "== Ailesi ==",
+      "start_char": 2321,
+      "end_char": 2500,
+      "content": "== Ailesi == Mamuka, 1732'de Megrelya Prensi Bejan Dadiani'nin kızı Darecan Dadiani ile evlendi. İki oğlu vardı: Teimuraz (ö. 1768), İmereti kralı (1766-1768); Giorgi (fl. 1768).",
+      "char_count": 178,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0005",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2500,
+      "end_char": 2676,
+      "content": "== Kaynakça == საქართველოს მეფეები [Kings of Georgia] (Gürcüce). Tiflis: Nekeri. 2000. Edge of Empires: A History of Georgia. Londra: Reaktion Books. 2012. ISBN 978-1780230306.",
+      "char_count": 176,
+      "token_estimate": 44
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mamuka'nın ebeveynleri kimlerdi?",
+        "answer": "Kral VII. Giorgi ve Kraliçe Rodam.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mamuka'nın İmereti tahtı için V. Aleksandre'ye karşı olan mücadelesini ve daha sonra I. Solomon'a muhalefetini özetleyiniz.",
+        "answer": "Mamuka, kardeşi V. Aleksandre'den İmereti tacını iki kez ele geçirmeye çalıştı. İlk olarak 1732'de soylularla ittifak kurarak Kutaisi'yi kuşattı ve başarısız oldu, ancak daha sonra Osmanlı baskısıyla Saçilao ve Samikelao bölgelerinin valiliğini aldı. 1741'de, IX. Giorgi'nin darbesi sırasında Aleksandre'yi Kartli'ye sürgünde takip etti ve Aleksandre aynı yıl geri döndü. 1746'da İmeretili soylular tarafından Aleksandre'ye rakip bir kral olarak tahta çıkarıldı, ancak 1749'da Aleksandre Osmanlı yardımıyla tahtını geri aldı. Aleksandre'nin 1752'de ölümünden sonra Mamuka, yeğeni I. Solomon'un tahta çıkmasına karşı çıkan grubun bir parçasıydı ve Solomon saltanatını güvence altına aldıktan sonra Ahaltsihe'ye kaçtı ve burada Solomon'un ajanı sanılarak tutuklandı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

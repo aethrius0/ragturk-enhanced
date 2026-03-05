@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "franszkongosu_5b80a346",
+    "title": "Fransız Kongosu",
+    "url": "https://tr.wikipedia.org/wiki/Frans%C4%B1z_Kongosu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:50.104819",
+    "content": "Fransız Kongosu (Fransızca: Congo français) ya da Orta Kongo (Fransızca: Moyen-Congo) Bir zamanlar Kongo Cumhuriyeti'nin bugünkü bölgesini ve Gabon'un bazı kısımlarını ve Orta Afrika Cumhuriyeti'ni kapsayan bir Fransız kolonisiydi. 1910'da, daha büyük Fransız Ekvatoral Afrikası'sının bir parçası haline geldi. Modern Kongo Cumhuriyeti, neredeyse aynı sınırlara sahip olan ve 1950'lerin sonlarında Fransız Ekvator Afrika'sının dağılmasıyla Fransa'dan egemenlik ve bağımsızlık haklarına sahip olan Fransız Kongo'nun halefi olarak kabul edilir. == Tarih == Fransız Kongosu, Kongo Nehri'nin kuzey kıyısındaki Bateke halkı üzerinde Pierre Savorgnan de Brazza'nın keşif gezisi sırasında 10 Eylül 1880'de bir himaye olarak Brazzaville'de başladı, 30 Kasım 1882'de Fransız Kongosu olarak resmen kuruldu ve 1884-1885 Berlin Kongresi'de onaylandı. Cabinda, Kamerun ve Kongo Bağımsız Devleti ile sınırları, önümüzdeki on yıl içinde yapılan anlaşmalarla oluşturuldu. Koloniyi geliştirme planı, otuz kadar Fransız şirketine devasa tavizler vermekti. Bunlara, geliştirilecekleri vaadiyle geniş toprak parçaları verildi. Bu gelişme sınırlıydı ve çoğunlukla fildişi, kauçuk ve kerestenin çıkarılmasıyla gerçekleşti. Bu operasyonlar genellikle büyük bir gaddarlık ve yerel halkın neredeyse köleleştirilmesini içeriyordu. Bu önlemlerle bile şirketlerin çoğu para kaybetti. Yalnızca yaklaşık on tanesi kazanç elde etti. Şirketlerin büyük holdinglerinin çoğu, Afrika'da neredeyse hiç varlığı olmadan yalnızca kağıt üzerinde bulunuyordu. Fransız Kongosu bazen Gabon-Kongo olarak biliniyordu. Resmi olarak Gabon'u 1891'de ekledi, resmi olarak 1903'te Orta Kongo (Fransızca: Moyen-Congo) olarak yeniden adlandırıldı, 1906'da Gabon'dan geçici olarak ayrıldı ve daha sonra Fransız Batı Afrikası'nın göreceli başarısı ile 1910'da Fransız Ekvatoral Afrikası olarak yeniden bir araya geldi. Bir 1906 çalışması Fransızca: L'Expansion coloniale au Congo français, Marsilya'daki Fransız Sömürge Sergisi ile birlikte yayınlandı. 1925'te Afrikalı-Amerikalı tarihçi, sosyolog ve Pan-Afrikalı yazar W.E.B.D Du Bois, yazdığı \"Batouala kitabı bunu dile getirir. Fransız Kongo'nun derinliklerinde, Belçika Kongosu veya Britanya Batı Afrikası'dakiler ile aynı siyah halk sömürüsü görülür.\" == Yüksek komiserler listesi == Koloni, Orta Kongo'da yeniden düzenlenmeden önce dört Yüksek komiser (Fransızca: commissionaires généraux) altında idare edildi. Pierre Savorgnan de Brazza (Ocak 1883 – 1897) Louis Albert Grodet (1897–1898) Henri Félix de Lamothe (1898–1901) Emile Gentil (1901–1903) == Ayrıca bakınız == Raphaël Etifier Fransız Ekvatoral Afrikası Fransız sömürge imparatorluğu Belçika Kongosu == Kaynakça == == Konuyla ilgili yayınlar == Petringa, Maria. Brazza, A Life for Africa. Bloomington, IN: AuthorHouse, 2006. 978-1-4259-1198-0. Describes Pierre Savorgnan de Brazza's extensive explorations of what became French Congo, and later, French Equatorial Africa. == Dış bağlantılar == Wikimedia Commons'ta Fransız Kongosu ile ilgili çoklu ortam belgeleri bulunur",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 385,
+      "char_count": 3032,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.570566",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 543,
+      "content": "Fransız Kongosu (Fransızca: Congo français) ya da Orta Kongo (Fransızca: Moyen-Congo) Bir zamanlar Kongo Cumhuriyeti'nin bugünkü bölgesini ve Gabon'un bazı kısımlarını ve Orta Afrika Cumhuriyeti'ni kapsayan bir Fransız kolonisiydi. 1910'da, daha büyük Fransız Ekvatoral Afrikası'sının bir parçası haline geldi. Modern Kongo Cumhuriyeti, neredeyse aynı sınırlara sahip olan ve 1950'lerin sonlarında Fransız Ekvator Afrika'sının dağılmasıyla Fransa'dan egemenlik ve bağımsızlık haklarına sahip olan Fransız Kongo'nun halefi olarak kabul edilir.",
+      "char_count": 542,
+      "token_estimate": 135
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 543,
+      "end_char": 1543,
+      "content": "== Tarih == Fransız Kongosu, Kongo Nehri'nin kuzey kıyısındaki Bateke halkı üzerinde Pierre Savorgnan de Brazza'nın keşif gezisi sırasında 10 Eylül 1880'de bir himaye olarak Brazzaville'de başladı, 30 Kasım 1882'de Fransız Kongosu olarak resmen kuruldu ve 1884-1885 Berlin Kongresi'de onaylandı. Cabinda, Kamerun ve Kongo Bağımsız Devleti ile sınırları, önümüzdeki on yıl içinde yapılan anlaşmalarla oluşturuldu. Koloniyi geliştirme planı, otuz kadar Fransız şirketine devasa tavizler vermekti. Bunlara, geliştirilecekleri vaadiyle geniş toprak parçaları verildi. Bu gelişme sınırlıydı ve çoğunlukla fildişi, kauçuk ve kerestenin çıkarılmasıyla gerçekleşti. Bu operasyonlar genellikle büyük bir gaddarlık ve yerel halkın neredeyse köleleştirilmesini içeriyordu. Bu önlemlerle bile şirketlerin çoğu para kaybetti. Yalnızca yaklaşık on tanesi kazanç elde etti. Şirketlerin büyük holdinglerinin çoğu, Afrika'da neredeyse hiç varlığı olmadan yalnızca kağıt üzerinde bulunuyordu. Fransız Kongosu bazen Gab",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1343,
+      "end_char": 2251,
+      "content": "ra kaybetti. Yalnızca yaklaşık on tanesi kazanç elde etti. Şirketlerin büyük holdinglerinin çoğu, Afrika'da neredeyse hiç varlığı olmadan yalnızca kağıt üzerinde bulunuyordu. Fransız Kongosu bazen Gabon-Kongo olarak biliniyordu. Resmi olarak Gabon'u 1891'de ekledi, resmi olarak 1903'te Orta Kongo (Fransızca: Moyen-Congo) olarak yeniden adlandırıldı, 1906'da Gabon'dan geçici olarak ayrıldı ve daha sonra Fransız Batı Afrikası'nın göreceli başarısı ile 1910'da Fransız Ekvatoral Afrikası olarak yeniden bir araya geldi. Bir 1906 çalışması Fransızca: L'Expansion coloniale au Congo français, Marsilya'daki Fransız Sömürge Sergisi ile birlikte yayınlandı. 1925'te Afrikalı-Amerikalı tarihçi, sosyolog ve Pan-Afrikalı yazar W.E.B.D Du Bois, yazdığı \"Batouala kitabı bunu dile getirir. Fransız Kongo'nun derinliklerinde, Belçika Kongosu veya Britanya Batı Afrikası'dakiler ile aynı siyah halk sömürüsü görülür.\"",
+      "char_count": 908,
+      "token_estimate": 227
+    },
+    {
+      "id": "c0003",
+      "section": "== Yüksek komiserler listesi ==",
+      "heading_path": "== Yüksek komiserler listesi ==",
+      "start_char": 2252,
+      "end_char": 2551,
+      "content": "== Yüksek komiserler listesi == Koloni, Orta Kongo'da yeniden düzenlenmeden önce dört Yüksek komiser (Fransızca: commissionaires généraux) altında idare edildi. Pierre Savorgnan de Brazza (Ocak 1883 – 1897) Louis Albert Grodet (1897–1898) Henri Félix de Lamothe (1898–1901) Emile Gentil (1901–1903)",
+      "char_count": 298,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2551,
+      "end_char": 2661,
+      "content": "== Ayrıca bakınız == Raphaël Etifier Fransız Ekvatoral Afrikası Fransız sömürge imparatorluğu Belçika Kongosu",
+      "char_count": 109,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0005",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 2676,
+      "end_char": 2933,
+      "content": "== Konuyla ilgili yayınlar == Petringa, Maria. Brazza, A Life for Africa. Bloomington, IN: AuthorHouse, 2006. 978-1-4259-1198-0. Describes Pierre Savorgnan de Brazza's extensive explorations of what became French Congo, and later, French Equatorial Africa.",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2933,
+      "end_char": 3032,
+      "content": "== Dış bağlantılar == Wikimedia Commons'ta Fransız Kongosu ile ilgili çoklu ortam belgeleri bulunur",
+      "char_count": 99,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Fransız Kongosu ne zaman resmen kuruldu?",
+        "answer": "30 Kasım 1882'de.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fransız Kongosu'nun kuruluşundan Fransız Ekvatoral Afrikası'na entegrasyonuna kadar geçen süreçte, bölgenin idari adlandırması nasıl değişti ve bu dönemdeki ekonomik faaliyetler ne gibi özellikler taşıyordu?",
+        "answer": "Fransız Kongosu, başlangıçta Brazzaville'de bir himaye olarak başladı ve 1882'de resmi olarak Fransız Kongosu olarak kuruldu. Zaman zaman Gabon-Kongo olarak da anıldı ve 1891'de Gabon'u resmi olarak bünyesine kattı. 1903'te resmi olarak Orta Kongo olarak yeniden adlandırıldı ve son olarak 1910'da daha büyük Fransız Ekvatoral Afrikası'nın bir parçası haline geldi. Bu dönemdeki ekonomik faaliyetler, otuz kadar Fransız şirketine verilen devasa tavizlerle şekillendi. Bu şirketler, ağırlıklı olarak fildişi, kauçuk ve kereste çıkarımına odaklandı; ancak gelişim sınırlı kaldı. Bu operasyonlar genellikle yerel halka karşı büyük bir gaddarlık ve neredeyse köleleştirme ile yürütüldü ve çoğu şirket para kaybetse de, W.E.B. Du Bois'un gözlemlediği gibi, siyah halkın sömürüsü yaygındı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

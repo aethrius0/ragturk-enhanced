@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "cd_cb59558a",
+    "title": "CD",
+    "url": "https://tr.wikipedia.org/wiki/CD",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:44.193575",
+    "content": "Compact Disc ya da Yoğun Disk (İngilizce: Compact Disc, CD), Philips ve Sony ortaklığı ile geliştirilmiş sayısal optik veri saklama ortamıdır. 1982'de Sony şirketinde çalışan Norio Ogha tarafından icat edilmiş ve aynı yıl 1 Ekim 1982'de satışa çıkan ilk disk ve yürütücü sırasıyla Billy Joel'in 52nd Street'i ve Sony'nin CDP-101'i idi. CD'ler bu tarihten sonra ticari olarak günümüze kadar satılmaya devam edilmiştir. CD-DA, CD-ROM, CD-R, CD-RW, 5.1 Music Disc, SACD, Photo CD, CD Video (CDV), Video CD (Video CD), Super Video CD, CD+G, CD-Text, CD-ROM XA, CD-i, MIL-CD, Mini CD gibi türleri bulunuyor. Standard CD'ler 120 milimetrelik çapa sahiptirler. Standard bir CD 80 dakikaya kadar sıkıştırılmamış ses verisini saklayabilir (700 MB). Mini CD'lerin çapları 60 ile 80 mm arasında değişebilir. Mini CD'ler yaklaşık 24 dakikalık ses verisi depolayabilirler (200 MB). CD-ROM'lar ve CD'ler bilgisayar sektoründe çok yaygın bir biçimde kullanılan teknolojiler olarak yerlerini korumuşlardır. 2004 yılında, Dünya çapında satılan CD sayısı yaklaşık olarak 30 milyara yükselmiştir. 2007'ye kadar bu rakam Dünya çapında 200 milyara ulaşmıştır. == Fiziksel detaylar == CD, 1,2 mm kalınlığında, 15-20 gram ağırlığında ve polikarbonat plastikten yapılmıştır. İçten dışa doğru sırasıyla merkezî delik (15 mm), ilk-geçiş bölgesi, sıkma alanı, ikinci geçiş bölgesi (ayna grubu), program (veri) alanı ve çerçeveden oluşur. İçerideki program alanı 25 ilâ 58 mm arasında bir yarıçapı kaplar. == Başlıca türleri == Blu-ray CD-ROM CD-RW DVD İlk Aşama: Öncelikle temiz bir ortamda yaklaşık 130 mm çapında, pürüzsüz, dairesel, fotoresist katmanla kaplı, cam hazırlanır. Kaynak materyal bilgisayar kontrolündeki bir makine yardımıyla belirli bir formatta yakılır. Böylece ana cam oluşturulur. Nikel plazma formuna getirilerek cama ince film olarak tutturulur. Kalıp Hazırlama Aşaması: Daha sonra ana cam elektro (electroforming) kaplama tekniği ile 0,3 mm (300 µm) kalınlığında nikel ile kaplanarak, damga kalıp (stamper) üretimi gerçekleştirilir. Baskılama Aşaması: Her bir damga kalıp bir plastik enjeksiyon makinesinde CD kalıplarına monte edilir. Erimiş polikarbon CD kalıbı içine enjekte edilir ve damga kalıp üzerindeki izler polikarbon materyale aktarılırken yoğun disk de üretilmiş olur. Bu aşamada üretilen yoğun disk şeffaftır ve okuyucularda damga kalıptan aktarılan izlerin okunabilmesi için yansıtıcı alüminyum film ile kaplanır. Son olarak da koruyucu vernik spin kaplama (yüksek hızda çevirerek) tekniği ile alüminyum filmin üzerine uygulanır. == Ayrıca bakınız == CD Transport CD Sürücü Sega Mega-CD CD Çalar (Windows) CD ripper CD single Canlı CD HDCD SACD DualDisc Single XRCD Veri kayıt ortamı Dijital ortam == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 389,
+      "char_count": 2722,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.175988",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Compact Disc ya da Yoğun Disk (İngilizce: Compact Disc, CD), Philips ve Sony ortaklığı ile geliştirilmiş sayısal optik veri saklama ortamıdır. 1982'de Sony şirketinde çalışan Norio Ogha tarafından icat edilmiş ve aynı yıl 1 Ekim 1982'de satışa çıkan ilk disk ve yürütücü sırasıyla Billy Joel'in 52nd Street'i ve Sony'nin CDP-101'i idi. CD'ler bu tarihten sonra ticari olarak günümüze kadar satılmaya devam edilmiştir. CD-DA, CD-ROM, CD-R, CD-RW, 5.1 Music Disc, SACD, Photo CD, CD Video (CDV), Video CD (Video CD), Super Video CD, CD+G, CD-Text, CD-ROM XA, CD-i, MIL-CD, Mini CD gibi türleri bulunuyor. Standard CD'ler 120 milimetrelik çapa sahiptirler. Standard bir CD 80 dakikaya kadar sıkıştırılmamış ses verisini saklayabilir (700 MB). Mini CD'lerin çapları 60 ile 80 mm arasında değişebilir. Mini CD'ler yaklaşık 24 dakikalık ses verisi depolayabilirler (200 MB). CD-ROM'lar ve CD'ler bilgisayar sektoründe çok yaygın bir biçimde kullanılan teknolojiler olarak yerlerini korumuşlardır. 2004 yılı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1138,
+      "content": "i CD'ler yaklaşık 24 dakikalık ses verisi depolayabilirler (200 MB). CD-ROM'lar ve CD'ler bilgisayar sektoründe çok yaygın bir biçimde kullanılan teknolojiler olarak yerlerini korumuşlardır. 2004 yılında, Dünya çapında satılan CD sayısı yaklaşık olarak 30 milyara yükselmiştir. 2007'ye kadar bu rakam Dünya çapında 200 milyara ulaşmıştır.",
+      "char_count": 338,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0002",
+      "section": "== Fiziksel detaylar ==",
+      "heading_path": "== Fiziksel detaylar ==",
+      "start_char": 1139,
+      "end_char": 1478,
+      "content": "== Fiziksel detaylar == CD, 1,2 mm kalınlığında, 15-20 gram ağırlığında ve polikarbonat plastikten yapılmıştır. İçten dışa doğru sırasıyla merkezî delik (15 mm), ilk-geçiş bölgesi, sıkma alanı, ikinci geçiş bölgesi (ayna grubu), program (veri) alanı ve çerçeveden oluşur. İçerideki program alanı 25 ilâ 58 mm arasında bir yarıçapı kaplar.",
+      "char_count": 338,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0003",
+      "section": "== Başlıca türleri ==",
+      "heading_path": "== Başlıca türleri ==",
+      "start_char": 1478,
+      "end_char": 2478,
+      "content": "== Başlıca türleri == Blu-ray CD-ROM CD-RW DVD İlk Aşama: Öncelikle temiz bir ortamda yaklaşık 130 mm çapında, pürüzsüz, dairesel, fotoresist katmanla kaplı, cam hazırlanır. Kaynak materyal bilgisayar kontrolündeki bir makine yardımıyla belirli bir formatta yakılır. Böylece ana cam oluşturulur. Nikel plazma formuna getirilerek cama ince film olarak tutturulur. Kalıp Hazırlama Aşaması: Daha sonra ana cam elektro (electroforming) kaplama tekniği ile 0,3 mm (300 µm) kalınlığında nikel ile kaplanarak, damga kalıp (stamper) üretimi gerçekleştirilir. Baskılama Aşaması: Her bir damga kalıp bir plastik enjeksiyon makinesinde CD kalıplarına monte edilir. Erimiş polikarbon CD kalıbı içine enjekte edilir ve damga kalıp üzerindeki izler polikarbon materyale aktarılırken yoğun disk de üretilmiş olur. Bu aşamada üretilen yoğun disk şeffaftır ve okuyucularda damga kalıptan aktarılan izlerin okunabilmesi için yansıtıcı alüminyum film ile kaplanır. Son olarak da koruyucu vernik spin kaplama (yüksek hız",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Başlıca türleri ==",
+      "heading_path": "== Başlıca türleri ==",
+      "start_char": 2278,
+      "end_char": 2539,
+      "content": "u aşamada üretilen yoğun disk şeffaftır ve okuyucularda damga kalıptan aktarılan izlerin okunabilmesi için yansıtıcı alüminyum film ile kaplanır. Son olarak da koruyucu vernik spin kaplama (yüksek hızda çevirerek) tekniği ile alüminyum filmin üzerine uygulanır.",
+      "char_count": 261,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2540,
+      "end_char": 2708,
+      "content": "== Ayrıca bakınız == CD Transport CD Sürücü Sega Mega-CD CD Çalar (Windows) CD ripper CD single Canlı CD HDCD SACD DualDisc Single XRCD Veri kayıt ortamı Dijital ortam",
+      "char_count": 167,
+      "token_estimate": 41
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Compact Disc (CD) kimlerin ortaklığı ile geliştirilmiştir?",
+        "answer": "Philips ve Sony ortaklığı ile.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kompakt Diskin 1982'deki ilk tanıtımından sonra ticari başarısı ve çeşitli sektörlerdeki yaygın kullanımı nasıl bir gelişim göstermiştir?",
+        "answer": "1 Ekim 1982'de piyasaya sürülmesinden sonra, Kompakt Diskler ve CD-ROM'lar bilgisayar sektöründe çok yaygın bir biçimde kullanılan teknolojiler olarak yerlerini korumuşlardır. Bu durum, 2004 yılında dünya çapında satılan CD sayısının yaklaşık 30 milyara ulaşması ve bu rakamın 2007'ye kadar 200 milyara yükselmesiyle büyük bir ticari başarıya dönüşmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

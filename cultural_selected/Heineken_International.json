@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "heinekeninternationa_8ac9e12e",
+    "title": "Heineken International",
+    "url": "https://tr.wikipedia.org/wiki/Heineken_International",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:40.070750",
+    "content": "Heineken International, 1864 yılında Gerard Adriaan Heineken tarafından Amsterdam'da kurulan Hollandalı bira şirketidir. 2007 bilgilerine göre 65 ülkede 54,004 çalışana 119'u aşkın bira fabrikasına sahiptir. Heineken International, Cruzcampo, Tiger Beer, Żywiec, Starobrno, Zagorka, Birra Moretti, Ochota, Murphy’s, Star ve tabii ki Heineken Pilsener başta olmak üzere 170 yerel, bölgesel ve uluslararası şirkete sahiptir. Heineken, 139.2 milyon hektolitre ile Anheuser-Busch InBev ve SABMiller'dan sonra dünyanın en fazla bira üreten şirketidir. == Markalar == Heineken bazı büyük markaları şunlardır: 33 Export, Fransa Affligem, Belçika Almaza, Lübnan Amstel, Hollanda Bintang, Endonezya Birra Moretti, İtalya Birra Ichnusa, İtalya Bralima, Demokratik Kongo Cumhuriyeti Brand, Hollanda Cruzcampo, İspanya Calanda, İsviçre Dos daha, Meksika Desperados, Fransa Dreher, İtalya (Trieste) ve Macaristan (Budapeşte) Eichhof, İsviçre Foster, Avustralya (Avrupa'nın çoğu bölgesinde) Gosser, Avusturya (Steiermark) Hacker-Pschorr, Almanya (Münih) Heineken, Hollanda Hoepfner, Almanya (Karlsruhe) Kaiser, Avusturya (Aşağı Avusturya) Karlovačko, Hırvatistan Kingfisher, Hindistan Kulmbacher, Almanya (Kulmbach) Lapin Kulta, Finlandiya Murphy, İrlanda Newcastle Brown Ale, İngiltere Paulaner, Almanya (Münih) Sagres, Portekiz Sol, Meksika Soproni, Macaristan Schwechat, Avusturya (Aşağı Avusturya) Starobrno, Çek Cumhuriyeti Strongbow (elma şarabı), İngiltere Zipfer, Avusturya (Yukarı Avusturya) Zlatý Bažant, Slovakya Zywiec, Polonya == Kaynakça == == Dış bağlantılar == Resmî site Heineken Experience 21 Haziran 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1657,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.083616",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 547,
+      "content": "Heineken International, 1864 yılında Gerard Adriaan Heineken tarafından Amsterdam'da kurulan Hollandalı bira şirketidir. 2007 bilgilerine göre 65 ülkede 54,004 çalışana 119'u aşkın bira fabrikasına sahiptir. Heineken International, Cruzcampo, Tiger Beer, Żywiec, Starobrno, Zagorka, Birra Moretti, Ochota, Murphy’s, Star ve tabii ki Heineken Pilsener başta olmak üzere 170 yerel, bölgesel ve uluslararası şirkete sahiptir. Heineken, 139.2 milyon hektolitre ile Anheuser-Busch InBev ve SABMiller'dan sonra dünyanın en fazla bira üreten şirketidir.",
+      "char_count": 546,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0001",
+      "section": "== Markalar ==",
+      "heading_path": "== Markalar ==",
+      "start_char": 547,
+      "end_char": 1526,
+      "content": "== Markalar == Heineken bazı büyük markaları şunlardır: 33 Export, Fransa Affligem, Belçika Almaza, Lübnan Amstel, Hollanda Bintang, Endonezya Birra Moretti, İtalya Birra Ichnusa, İtalya Bralima, Demokratik Kongo Cumhuriyeti Brand, Hollanda Cruzcampo, İspanya Calanda, İsviçre Dos daha, Meksika Desperados, Fransa Dreher, İtalya (Trieste) ve Macaristan (Budapeşte) Eichhof, İsviçre Foster, Avustralya (Avrupa'nın çoğu bölgesinde) Gosser, Avusturya (Steiermark) Hacker-Pschorr, Almanya (Münih) Heineken, Hollanda Hoepfner, Almanya (Karlsruhe) Kaiser, Avusturya (Aşağı Avusturya) Karlovačko, Hırvatistan Kingfisher, Hindistan Kulmbacher, Almanya (Kulmbach) Lapin Kulta, Finlandiya Murphy, İrlanda Newcastle Brown Ale, İngiltere Paulaner, Almanya (Münih) Sagres, Portekiz Sol, Meksika Soproni, Macaristan Schwechat, Avusturya (Aşağı Avusturya) Starobrno, Çek Cumhuriyeti Strongbow (elma şarabı), İngiltere Zipfer, Avusturya (Yukarı Avusturya) Zlatý Bažant, Slovakya Zywiec, Polonya",
+      "char_count": 978,
+      "token_estimate": 244
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1541,
+      "end_char": 1657,
+      "content": "== Dış bağlantılar == Resmî site Heineken Experience 21 Haziran 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 116,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Heineken'in Hollanda'daki markaları hangileridir?",
+        "answer": "Amstel ve Brand.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Heineken International'ın çeşitli markaları aracılığıyla sahip olduğu uluslararası yayılımı, farklı coğrafyalardan örnekler vererek açıklayınız.",
+        "answer": "Heineken International, 170'ten fazla yerel, bölgesel ve uluslararası şirkete sahiptir. Bu yayılım, İtalya'dan Birra Moretti, İspanya'dan Cruzcampo, Meksika'dan Dos Equis ve Sol, Hollanda'dan Amstel, Lübnan'dan Almaza, Endonezya'dan Bintang ve Hindistan'dan Kingfisher gibi birçok markası aracılığıyla farklı coğrafyalarda görülmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

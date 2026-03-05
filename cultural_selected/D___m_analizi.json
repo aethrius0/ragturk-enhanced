@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "dmanalizi_84be6947",
+    "title": "Düğüm analizi",
+    "url": "https://tr.wikipedia.org/wiki/D%C3%BC%C4%9F%C3%BCm_analizi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:20.572893",
+    "content": "Elektrik mühendisliğinde, düğüm analizi, düğüm-voltaj analizi veya kol akımlar metodu bir elektrik devresinde kolların birbirine bağlandığı düğümler arasındaki gerilimleri belirleyen bir yöntemdir. Bir devrede her biri birbirine bağlı olan herhangi bir noktadaki akım veya gerilimleri çözmek için Kirchhoff kanunları (KCL ve KVL) kullanılır. Bu, çoğu farklı devre elemanlarını modellemede çok kullanışlı bir yöntemdir. işlemsel yükselteçler gibi aktif devre elemanları bu analize eklenebilir. Bu elemanlar basit veya istenildiği kadar karmaşık olabilir. Örneğin; Farklı sayıda transistör modelleri düğüm analizinde kullanılabilir. Elemanların sadece lineer olması yeterlidir. == Yöntem == Devredeki bütün düğümlerin numaralandır. (örn; 1, 2, 3...gibi) ve bir \"referans düğümü\" seç. En uygun düğüm en çok bağlantının olduğu nokta seçilebilir. Numaralandırılmış her bir düğümdeki voltajı belirlemek için bir değişken tayin et. (örn. V1, V2, V3...). Hesaplanan bu değişkenlerin değerleri düğüm noktasıyla ilişkilendirilecektir (örn. Referans düğüm 0V olacak). Eğer herhangi bir düğüm ve referans noktası arasında bir gerilim kaynağı varsa Kirşof gerilim kanununa göre düğümdeki gerilim voltaj kaynağınkine eşittir. Örneğin, eğer düğüm 1 ve referans noktası arasında 40V bir gerilim kaynağı varsa V1 = 40 V'dur . İki düğüm arasındaki her gerilim kaynağını kaydet. Bu iki düğüm formu a süperdüğümdür. Kirşof gerilim kanununa göre bu iki düğümdeki gerilim farkı voltaj kaynağınınkine eşittir. Örneğin, düğüm 1 ve düğüm 2 arasında eğer 60 V'luk bir kaynak varsa V1 − V2 = 60 V'dur. Kalan bütün düğümler için Kirşof akım kanununu uygula ve kalan her düğüm için akım denklemleri yaz, using the terminal eşitlikleri kullanarak circuit elements to relate circuit elements to currents. Örneğin, düğüm 2 ve düğüm 3 arasında 10 Ω'luk bir direnç varsa, düğüm 2 ve 4 arasında bir 1 A'lik akım kaynağı (kalan düğüm 2), düğüm 2 ve 5 arasında 20 Ω'luk bir direnç, KCL eşitliğinden (V2 − V3)/10 + 1 + (V2 − V5)/20 = 0 A'dir. süperdüğüm formundaki bütüm düğümleri ayarlanması için geri kalan süperdüğümün bitin akımları için son alarak bir KCL eşitliği yaz. örn;süperdüğümün geri kalan bütün akımlarının toplamı. Örneğin; düğüm 1 ve 2 arasında 60 V'luk bir kaynak varsa, düğüm 1 ve 2 süperdüğüm formundadır. Eğer düğüm 1 ve referans noktası arasında 40 Ω'luk bir direnç varsa, düğüm 1 ve 3 arasında (kalan düğüm 3) bir 2 A'lik akım kaynağı ve düğüm 2 ve 4 arasında bir 30 Ω'luk direnç, KCL eşitliğinden (V1 − 0)/40 + (−2) + (V2 − V4)/30 = 0 A'dir. KCL ve KVL eşitlikleri eşzamanlı denklemlerin bir formundadır ve her düğümdeki gerilim bulunabilir.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 398,
+      "char_count": 2626,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.049715",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 676,
+      "content": "Elektrik mühendisliğinde, düğüm analizi, düğüm-voltaj analizi veya kol akımlar metodu bir elektrik devresinde kolların birbirine bağlandığı düğümler arasındaki gerilimleri belirleyen bir yöntemdir. Bir devrede her biri birbirine bağlı olan herhangi bir noktadaki akım veya gerilimleri çözmek için Kirchhoff kanunları (KCL ve KVL) kullanılır. Bu, çoğu farklı devre elemanlarını modellemede çok kullanışlı bir yöntemdir. işlemsel yükselteçler gibi aktif devre elemanları bu analize eklenebilir. Bu elemanlar basit veya istenildiği kadar karmaşık olabilir. Örneğin; Farklı sayıda transistör modelleri düğüm analizinde kullanılabilir. Elemanların sadece lineer olması yeterlidir.",
+      "char_count": 675,
+      "token_estimate": 168
+    },
+    {
+      "id": "c0001",
+      "section": "== Yöntem ==",
+      "heading_path": "== Yöntem ==",
+      "start_char": 676,
+      "end_char": 1296,
+      "content": "== Yöntem == Devredeki bütün düğümlerin numaralandır. (örn; 1, 2, 3...gibi) ve bir \"referans düğümü\" seç. En uygun düğüm en çok bağlantının olduğu nokta seçilebilir. Numaralandırılmış her bir düğümdeki voltajı belirlemek için bir değişken tayin et. (örn. V1, V2, V3...). Hesaplanan bu değişkenlerin değerleri düğüm noktasıyla ilişkilendirilecektir (örn. Referans düğüm 0V olacak). Eğer herhangi bir düğüm ve referans noktası arasında bir gerilim kaynağı varsa Kirşof gerilim kanununa göre düğümdeki gerilim voltaj kaynağınkine eşittir. Örneğin, eğer düğüm 1 ve referans noktası arasında 40V bir gerilim kaynağı varsa V1",
+      "char_count": 619,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0002",
+      "section": "= 40 V'dur . İki düğüm arasındaki her gerilim kaynağını kaydet. Bu iki düğüm formu a süperdüğümdür. Kirşof gerilim kanununa göre bu iki düğümdeki gerilim farkı voltaj kaynağınınkine eşittir. Örneğin, düğüm 1 ve düğüm 2 arasında eğer 60 V'luk bir kaynak varsa V1 − V2 =",
+      "heading_path": "= 40 V'dur . İki düğüm arasındaki her gerilim kaynağını kaydet. Bu iki düğüm formu a süperdüğümdür. Kirşof gerilim kanununa göre bu iki düğümdeki gerilim farkı voltaj kaynağınınkine eşittir. Örneğin, düğüm 1 ve düğüm 2 arasında eğer 60 V'luk bir kaynak varsa V1 − V2 =",
+      "start_char": 1296,
+      "end_char": 1994,
+      "content": "= 40 V'dur . İki düğüm arasındaki her gerilim kaynağını kaydet. Bu iki düğüm formu a süperdüğümdür. Kirşof gerilim kanununa göre bu iki düğümdeki gerilim farkı voltaj kaynağınınkine eşittir. Örneğin, düğüm 1 ve düğüm 2 arasında eğer 60 V'luk bir kaynak varsa V1 − V2 = 60 V'dur. Kalan bütün düğümler için Kirşof akım kanununu uygula ve kalan her düğüm için akım denklemleri yaz, using the terminal eşitlikleri kullanarak circuit elements to relate circuit elements to currents. Örneğin, düğüm 2 ve düğüm 3 arasında 10 Ω'luk bir direnç varsa, düğüm 2 ve 4 arasında bir 1 A'lik akım kaynağı (kalan düğüm 2), düğüm 2 ve 5 arasında 20 Ω'luk bir direnç, KCL eşitliğinden (V2 − V3)/10 + 1 + (V2 − V5)/20",
+      "char_count": 697,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0003",
+      "section": "= 0 A'dir. süperdüğüm formundaki bütüm düğümleri ayarlanması için geri kalan süperdüğümün bitin akımları için son alarak bir KCL eşitliği yaz. örn;süperdüğümün geri kalan bütün akımlarının toplamı. Örneğin; düğüm 1 ve 2 arasında 60 V'luk bir kaynak varsa, düğüm 1 ve 2 süperdüğüm formundadır. Eğer düğüm 1 ve referans noktası arasında 40 Ω'luk bir direnç varsa, düğüm 1 ve 3 arasında (kalan düğüm 3) bir 2 A'lik akım kaynağı ve düğüm 2 ve 4 arasında bir 30 Ω'luk direnç, KCL eşitliğinden (V1 − 0)/40 + (−2) + (V2 − V4)/30 =",
+      "heading_path": "= 0 A'dir. süperdüğüm formundaki bütüm düğümleri ayarlanması için geri kalan süperdüğümün bitin akımları için son alarak bir KCL eşitliği yaz. örn;süperdüğümün geri kalan bütün akımlarının toplamı. Örneğin; düğüm 1 ve 2 arasında 60 V'luk bir kaynak varsa, düğüm 1 ve 2 süperdüğüm formundadır. Eğer düğüm 1 ve referans noktası arasında 40 Ω'luk bir direnç varsa, düğüm 1 ve 3 arasında (kalan düğüm 3) bir 2 A'lik akım kaynağı ve düğüm 2 ve 4 arasında bir 30 Ω'luk direnç, KCL eşitliğinden (V1 − 0)/40 + (−2) + (V2 − V4)/30 =",
+      "start_char": 1994,
+      "end_char": 2626,
+      "content": "= 0 A'dir. süperdüğüm formundaki bütüm düğümleri ayarlanması için geri kalan süperdüğümün bitin akımları için son alarak bir KCL eşitliği yaz. örn;süperdüğümün geri kalan bütün akımlarının toplamı. Örneğin; düğüm 1 ve 2 arasında 60 V'luk bir kaynak varsa, düğüm 1 ve 2 süperdüğüm formundadır. Eğer düğüm 1 ve referans noktası arasında 40 Ω'luk bir direnç varsa, düğüm 1 ve 3 arasında (kalan düğüm 3) bir 2 A'lik akım kaynağı ve düğüm 2 ve 4 arasında bir 30 Ω'luk direnç, KCL eşitliğinden (V1 − 0)/40 + (−2) + (V2 − V4)/30 = 0 A'dir. KCL ve KVL eşitlikleri eşzamanlı denklemlerin bir formundadır ve her düğümdeki gerilim bulunabilir.",
+      "char_count": 632,
+      "token_estimate": 158
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Düğüm 1 ve düğüm 2 arasında 60 V'luk bir kaynak varsa, V1 − V2 değeri ne olur?",
+        "answer": "V1 − V2 = 60 V'dur.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Düğüm analizinde, Kirşof gerilim kanunu (KVL), bir gerilim kaynağının referans düğümüne mi yoksa iki referans dışı düğüm arasına mı bağlandığına bağlı olarak nasıl farklı uygulanır?",
+        "answer": "Düğüm analizi yöntemi, Kirşof gerilim kanununu (KVL) farklı şekillerde kullanır. Eğer bir gerilim kaynağı, numaralandırılmış bir düğüm ile referans düğümü arasına bağlıysa, o düğümdeki gerilim doğrudan gerilim kaynağının değerine eşit olur. Ancak, bir gerilim kaynağı iki referans dışı düğüm arasına bağlıysa, bu iki düğüm bir süperdüğüm oluşturur ve Kirşof gerilim kanununa göre bu iki düğüm arasındaki gerilim farkı gerilim kaynağının değerine eşitlenir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

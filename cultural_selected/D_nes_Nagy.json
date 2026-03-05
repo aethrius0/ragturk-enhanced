@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "dnesnagy_47c4f188",
+    "title": "Dénes Nagy",
+    "url": "https://tr.wikipedia.org/wiki/D%C3%A9nes_Nagy",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:18.871529",
+    "content": "Dénes Nagy (d. 1980, Budapeşte), Macar film yönetmeni, editör ve senaristtir. İlk uzun metrajlı filmi \"Doğal ışık\" (Természetes fény), 2021'de En İyi Yönetmen dalında Gümüş Ayı ödülüne layık görüldü. == Yaşam ve kariyeri == 2009 yılında Budapeşte'de bulunan \"Budapeşte Tiyatro ve Film Sanatları Üniversitesi\" film yönetmenliği bölümünden mezun oldu. Bir yıl süreyle \"Berlin Deutsche Film- und Fernsehakademie Berlin\"'e katıldı. Kısa filmlerinden bazıları uluslararası festivallerde gösterildi. 2006 yılında kısa filmi Kovács Éva Tampere Film Festivali'ne davet edildi, Russian Playground 2009'da Cannes Eleştirmenler Haftası'nda gösterildi, kısa filmi Együtt en iyi kısa film dalında Macar Film Eleştirmenleri Ödülü'nü aldı ve 38. Macar Film Haftası (Magyar Filmszemle) en iyi kısa film yönetmeni ödülünü kazandı. Lágy eső adlı çalışması 2013 yılında Portekiz Curtas Vila do Conde film festivalinde Kurgu Büyük Ödülü'nü kazandı. 2021 yılında ilk uzun metrajlı filmi \"Doğal ışık\" (Természetes fény) Berlin Uluslararası Film Festivali'nde En İyi Yönetmen dalında Gümüş Ayı ödülünü aldı. == Filmleri == 2004 - 2003 November (kısa film) 2006 - Együtt (kısa film) 2006 - Vakáció (kısa film) (yardımcı yönetmen) 2008 - Russian Playground (kısa belgesel) 2009 - Cinetrain: Where Does Europe End? (belgesel) 2009 - Berlinskaya Fuga (kısa film) 2010 - Riport (kısa film) 2013 - Lágy eső (kısa film) 2013 - Másik Magyarország (belgesel) 2015 - Seb (belgesel) 2021 - Doğal ışık (uzun metrajlı film) == Kaynakça == == Dış bağlantılar == IMDb'de Dénes Nagy Dénes Nagy • Doğal Işık filmi yönetmeni (video röportajı) 10 Mart 2021 tarihinde Wayback Machine sitesinde arşivlendi., Cineuropa",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 245,
+      "char_count": 1673,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.039470",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 200,
+      "content": "Dénes Nagy (d. 1980, Budapeşte), Macar film yönetmeni, editör ve senaristtir. İlk uzun metrajlı filmi \"Doğal ışık\" (Természetes fény), 2021'de En İyi Yönetmen dalında Gümüş Ayı ödülüne layık görüldü.",
+      "char_count": 199,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşam ve kariyeri ==",
+      "heading_path": "== Yaşam ve kariyeri ==",
+      "start_char": 200,
+      "end_char": 1085,
+      "content": "== Yaşam ve kariyeri == 2009 yılında Budapeşte'de bulunan \"Budapeşte Tiyatro ve Film Sanatları Üniversitesi\" film yönetmenliği bölümünden mezun oldu. Bir yıl süreyle \"Berlin Deutsche Film- und Fernsehakademie Berlin\"'e katıldı. Kısa filmlerinden bazıları uluslararası festivallerde gösterildi. 2006 yılında kısa filmi Kovács Éva Tampere Film Festivali'ne davet edildi, Russian Playground 2009'da Cannes Eleştirmenler Haftası'nda gösterildi, kısa filmi Együtt en iyi kısa film dalında Macar Film Eleştirmenleri Ödülü'nü aldı ve 38. Macar Film Haftası (Magyar Filmszemle) en iyi kısa film yönetmeni ödülünü kazandı. Lágy eső adlı çalışması 2013 yılında Portekiz Curtas Vila do Conde film festivalinde Kurgu Büyük Ödülü'nü kazandı. 2021 yılında ilk uzun metrajlı filmi \"Doğal ışık\" (Természetes fény) Berlin Uluslararası Film Festivali'nde En İyi Yönetmen dalında Gümüş Ayı ödülünü aldı.",
+      "char_count": 884,
+      "token_estimate": 221
+    },
+    {
+      "id": "c0002",
+      "section": "== Filmleri ==",
+      "heading_path": "== Filmleri ==",
+      "start_char": 1085,
+      "end_char": 1488,
+      "content": "== Filmleri == 2004 - 2003 November (kısa film) 2006 - Együtt (kısa film) 2006 - Vakáció (kısa film) (yardımcı yönetmen) 2008 - Russian Playground (kısa belgesel) 2009 - Cinetrain: Where Does Europe End? (belgesel) 2009 - Berlinskaya Fuga (kısa film) 2010 - Riport (kısa film) 2013 - Lágy eső (kısa film) 2013 - Másik Magyarország (belgesel) 2015 - Seb (belgesel) 2021 - Doğal ışık (uzun metrajlı film)",
+      "char_count": 402,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1503,
+      "end_char": 1673,
+      "content": "== Dış bağlantılar == IMDb'de Dénes Nagy Dénes Nagy • Doğal Işık filmi yönetmeni (video röportajı) 10 Mart 2021 tarihinde Wayback Machine sitesinde arşivlendi., Cineuropa",
+      "char_count": 170,
+      "token_estimate": 42
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İlk uzun metrajlı filmi \"Doğal ışık\" (Természetes fény) ile hangi yıl Gümüş Ayı ödülünü kazandı?",
+        "answer": "2021 yılında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dénes Nagy'nin \"Doğal ışık\" filmiyle kazandığı Gümüş Ayı ödülüne kadar olan kariyerinde hangi önemli başarılar yer almaktadır?",
+        "answer": "Dénes Nagy, kariyerine 2009'da Budapeşte Tiyatro ve Film Sanatları Üniversitesi'nden film yönetmenliği bölümünden mezun olarak ve bir yıl süreyle Berlin Deutsche Film- und Fernsehakademie Berlin'e katılarak başlamıştır. Kısa filmleriyle uluslararası festivallerde tanınmıştır; 2006'da kısa filmi Kovács Éva Tampere Film Festivali'ne davet edilmiş, 2009'da Russian Playground Cannes Eleştirmenler Haftası'nda gösterilmiş, kısa filmi Együtt en iyi kısa film dalında Macar Film Eleştirmenleri Ödülü'nü ve 38. Macar Film Haftası'nda en iyi kısa film yönetmeni ödülünü almıştır. Ayrıca, Lágy eső adlı çalışması 2013'te Portekiz Curtas Vila do Conde film festivalinde Kurgu Büyük Ödülü'nü kazanmıştır. Bu başarıların ardından, ilk uzun metrajlı filmi \"Doğal ışık\" (Természetes fény) ile 2021'de Berlin Uluslararası Film Festivali'nde En İyi Yönetmen dalında Gümüş Ayı ödülünü almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

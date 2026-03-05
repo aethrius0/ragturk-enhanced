@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "yafur_5b0ff00b",
+    "title": "Ya'fur",
+    "url": "https://tr.wikipedia.org/wiki/Ya%27fur",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:25.373837",
+    "content": "Yağfur, İslam peygamberi Muhammed'in özellikle Şii kaynaklarda efsanevi anlatımlara konu olmuş bineği. Arapça'da geyik anlamına gelir. Bu binek koşum takımı olmadan bindiği söylenen bir eşekti. Bu eşeğe ilişkin pek çok hikâye vardır ancak en yaygın olanı, eşeğin 628 ile 632 (H. 8-11) yılları arasında Mısır'ın Bizans valisi tarafından bir hediye olduğunun kaydedilmesidir. Şii İslami geleneğine göre, konuşma gücüne sahipti ve Muhammed'e, peygamberlerin bindiği eşekler dizisinin sonuncusu olduğunu ve İsa'nın Kudüs'e zaferle girişinde bindiği eşeğin soyundan geldiğini söylüyordu. Gelenek, Ya'fūr'un Muhammed öldükten sonra kendisini bir kuyuya atarak çaresizlik içinde öldüğünü rivayet eder, ancak bu rivayetlerin hadis araştırmalarında güvenilmez olduğu kabul edilir. Muhammed'in ölümünden sonraki yüzyıllarda eşeğin adı ve sembolizmi, İslami dini şahsiyetler ve yöneticiler tarafından benimsendi. == Yağfur'un hediye edilmesi == Yaʽfūr, Muhammed'in bindiği birkaç hayvandan biriydi; diğerleri arasında Murtacaz adında kır atı, Sakb (\"Hızlı\") adında siyah bir at, Düldül (\"Kararsız\") adında bir katır ve peygamberin ölümünden sonra başını bir duvara çarparak kazara ölen Kasva (\"Yarık Kulaklar\") adında bir deve vardı. 11. yüzyıldan kalma anonim bir eser olan Hediyeler ve Gariplikler Kitabı'na (Kitab'ül-Hedaya ve'l-Tuhaf) göre, Yaʽfūr, Mısır'ın Bizans valisi Mukavkıs tarafından O zamanın İskenderiye Patriği olan İskenderiye Patriği (muhtemelen Kiros) zamanında Muhammed'e hediye edildi. Muhammed, Mukavkıs'a kendisini İslam'a geçmeye davet eden bir mektup göndermişti. Bunun karşılığında Mukavkıs, eşek, katır Düldül, dört cariye, bir hadım, bir at, 1000 miskal altın ve bir miktar Mısır malı ve eşyası gönderdi. Köle kızlardan biri olan Kıpti Hristiyan Maria al-Qibtiyya, Muhammed tarafından kendisine bırakıldı ve ona İbrahim adında kısa ömürlü bir oğul doğurdu. Mısır eşekleri güzellikleriyle bilindiğinden ve zengin tüccarlar tarafından ulaşım aracı olarak kullanıldığından, eşek değerli bir hediyeydi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 266,
+      "char_count": 2029,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.925881",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 902,
+      "content": "Yağfur, İslam peygamberi Muhammed'in özellikle Şii kaynaklarda efsanevi anlatımlara konu olmuş bineği. Arapça'da geyik anlamına gelir. Bu binek koşum takımı olmadan bindiği söylenen bir eşekti. Bu eşeğe ilişkin pek çok hikâye vardır ancak en yaygın olanı, eşeğin 628 ile 632 (H. 8-11) yılları arasında Mısır'ın Bizans valisi tarafından bir hediye olduğunun kaydedilmesidir. Şii İslami geleneğine göre, konuşma gücüne sahipti ve Muhammed'e, peygamberlerin bindiği eşekler dizisinin sonuncusu olduğunu ve İsa'nın Kudüs'e zaferle girişinde bindiği eşeğin soyundan geldiğini söylüyordu. Gelenek, Ya'fūr'un Muhammed öldükten sonra kendisini bir kuyuya atarak çaresizlik içinde öldüğünü rivayet eder, ancak bu rivayetlerin hadis araştırmalarında güvenilmez olduğu kabul edilir. Muhammed'in ölümünden sonraki yüzyıllarda eşeğin adı ve sembolizmi, İslami dini şahsiyetler ve yöneticiler tarafından benimsendi.",
+      "char_count": 901,
+      "token_estimate": 225
+    },
+    {
+      "id": "c0001",
+      "section": "== Yağfur'un hediye edilmesi ==",
+      "heading_path": "== Yağfur'un hediye edilmesi ==",
+      "start_char": 902,
+      "end_char": 1902,
+      "content": "== Yağfur'un hediye edilmesi == Yaʽfūr, Muhammed'in bindiği birkaç hayvandan biriydi; diğerleri arasında Murtacaz adında kır atı, Sakb (\"Hızlı\") adında siyah bir at, Düldül (\"Kararsız\") adında bir katır ve peygamberin ölümünden sonra başını bir duvara çarparak kazara ölen Kasva (\"Yarık Kulaklar\") adında bir deve vardı. 11. yüzyıldan kalma anonim bir eser olan Hediyeler ve Gariplikler Kitabı'na (Kitab'ül-Hedaya ve'l-Tuhaf) göre, Yaʽfūr, Mısır'ın Bizans valisi Mukavkıs tarafından O zamanın İskenderiye Patriği olan İskenderiye Patriği (muhtemelen Kiros) zamanında Muhammed'e hediye edildi. Muhammed, Mukavkıs'a kendisini İslam'a geçmeye davet eden bir mektup göndermişti. Bunun karşılığında Mukavkıs, eşek, katır Düldül, dört cariye, bir hadım, bir at, 1000 miskal altın ve bir miktar Mısır malı ve eşyası gönderdi. Köle kızlardan biri olan Kıpti Hristiyan Maria al-Qibtiyya, Muhammed tarafından kendisine bırakıldı ve ona İbrahim adında kısa ömürlü bir oğul doğurdu. Mısır eşekleri güzellikleriyl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yağfur'un hediye edilmesi ==",
+      "heading_path": "== Yağfur'un hediye edilmesi ==",
+      "start_char": 1702,
+      "end_char": 2014,
+      "content": "e eşyası gönderdi. Köle kızlardan biri olan Kıpti Hristiyan Maria al-Qibtiyya, Muhammed tarafından kendisine bırakıldı ve ona İbrahim adında kısa ömürlü bir oğul doğurdu. Mısır eşekleri güzellikleriyle bilindiğinden ve zengin tüccarlar tarafından ulaşım aracı olarak kullanıldığından, eşek değerli bir hediyeydi.",
+      "char_count": 312,
+      "token_estimate": 78
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yaʽfūr'u Muhammed'e kim hediye etti?",
+        "answer": "Mısır'ın Bizans valisi Mukavkıs.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İslam peygamberi Muhammed'e Mısır'ın Bizans valisi tarafından hediye edilen Yağfur adlı eşeğin içinde bulunduğu hediye paketi, hangi bağlamda ve hangi diğer eşyalarla birlikte gönderilmiştir?",
+        "answer": "Yağfur, Muhammed'in Mısır'ın Bizans valisi Mukavkıs'ı İslam'a geçmeye davet eden bir mektup göndermesine karşılık olarak hediye edilmiştir. Bu hediye paketi eşek Yağfur'un yanı sıra Düldül adlı bir katırı, dört cariyeyi, bir hadımı, bir atı, 1000 miskal altını ve bir miktar Mısır malı ve eşyasını içeriyordu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

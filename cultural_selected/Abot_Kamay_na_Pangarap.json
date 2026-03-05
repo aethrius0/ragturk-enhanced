@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "abotkamaynapangarap_5c738610",
+    "title": "Abot-Kamay na Pangarap",
+    "url": "https://tr.wikipedia.org/wiki/Abot-Kamay_na_Pangarap",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:26.879607",
+    "content": "Abot-Kamay na Pangarap, 2022'den beri GMA Network'te yayınlanan bir Filipin televizyon dizisidir. == Oyuncular == === Ana oyuncular === Carmina Villarroel - Lyneth Santos-Tanyag Jillian Ward - Analyn Santos Tanyag === Yardımcı oyuncular === Richard Yap - Robert Jose \"RJ\" Obeng Tanyag Dominic Ochoa - Michael Lobrin Pinky Amador - Moira Barretto Andre Paras - Luke Antonio Wilma Doesnt - Josaline \"Josa\" Enriquez-Valencia Kazel Kinouchi - Zoey Barretto Benitez Jeff Moses - Reagan Tibayan Dexter Doria - Susana \"Susan\" Burgos Chuckie Dreyfus - Raymund \"Ray\" Meneses Ariel Villasanta - Cromwell \"Croms\" Valencia === Tekrarlayan oyuncular === Denise Barbacena - Eulalia \"Eula\" Sarmiento Patricia Coma - Grace Villar Alexandra Mendez - Jhoanne Lery H. Dizon John Vic De Guzman - Kenneth \"Ken\" Prado Che Ramos-Cosio as Katherine \"Katie\" Enriquez Eunice Lagusad - Karen Elise G. Caudal Alchris Galura - Evan Andrew L. Nicolas Anya Gonzalez Almario - Joyce \"Joy\" Cruz Leo Martinez - Joselito \"Pepe\" Tanyag Dianne dela Fuente - Patricia Menor Allen Dizon - Carlos Benitez Dina Bonnevie - Giselle Marie Tanyag Ken Chan - Lyndon Javier Prince Clemente - Neskrist \"Krist\" Ilustre Chanel Latorre - Luningning \"Ning\" Sandoval Sam Pinto - Denise Evangelista == Kaynakça == == Dış bağlantılar == Resmî sitesi 4 Temmuz 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 211,
+      "char_count": 1356,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.654426",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 98,
+      "content": "Abot-Kamay na Pangarap, 2022'den beri GMA Network'te yayınlanan bir Filipin televizyon dizisidir.",
+      "char_count": 97,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0001",
+      "section": "=== Ana oyuncular ===",
+      "heading_path": "=== Ana oyuncular ===",
+      "start_char": 114,
+      "end_char": 214,
+      "content": "=== Ana oyuncular === Carmina Villarroel - Lyneth Santos-Tanyag Jillian Ward - Analyn Santos Tanyag",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0002",
+      "section": "=== Yardımcı oyuncular ===",
+      "heading_path": "=== Yardımcı oyuncular ===",
+      "start_char": 214,
+      "end_char": 611,
+      "content": "=== Yardımcı oyuncular === Richard Yap - Robert Jose \"RJ\" Obeng Tanyag Dominic Ochoa - Michael Lobrin Pinky Amador - Moira Barretto Andre Paras - Luke Antonio Wilma Doesnt - Josaline \"Josa\" Enriquez-Valencia Kazel Kinouchi - Zoey Barretto Benitez Jeff Moses - Reagan Tibayan Dexter Doria - Susana \"Susan\" Burgos Chuckie Dreyfus - Raymund \"Ray\" Meneses Ariel Villasanta - Cromwell \"Croms\" Valencia",
+      "char_count": 396,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0003",
+      "section": "=== Tekrarlayan oyuncular ===",
+      "heading_path": "=== Tekrarlayan oyuncular ===",
+      "start_char": 611,
+      "end_char": 1245,
+      "content": "=== Tekrarlayan oyuncular === Denise Barbacena - Eulalia \"Eula\" Sarmiento Patricia Coma - Grace Villar Alexandra Mendez - Jhoanne Lery H. Dizon John Vic De Guzman - Kenneth \"Ken\" Prado Che Ramos-Cosio as Katherine \"Katie\" Enriquez Eunice Lagusad - Karen Elise G. Caudal Alchris Galura - Evan Andrew L. Nicolas Anya Gonzalez Almario - Joyce \"Joy\" Cruz Leo Martinez - Joselito \"Pepe\" Tanyag Dianne dela Fuente - Patricia Menor Allen Dizon - Carlos Benitez Dina Bonnevie - Giselle Marie Tanyag Ken Chan - Lyndon Javier Prince Clemente - Neskrist \"Krist\" Ilustre Chanel Latorre - Luningning \"Ning\" Sandoval Sam Pinto - Denise Evangelista",
+      "char_count": 633,
+      "token_estimate": 158
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1260,
+      "end_char": 1356,
+      "content": "== Dış bağlantılar == Resmî sitesi 4 Temmuz 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 96,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Patricia Coma hangi karakteri canlandırmaktadır?",
+        "answer": "Grace Villar.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "2022'den beri GMA Network'te yayınlanan Filipin televizyon dizisi Abot-Kamay na Pangarap'ın ana oyuncuları kimlerdir?",
+        "answer": "Dizinin ana oyuncuları Carmina Villarroel (Lyneth Santos-Tanyag rolünde) ve Jillian Ward (Analyn Santos Tanyag rolünde)'dir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

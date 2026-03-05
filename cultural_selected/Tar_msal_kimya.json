@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "tarmsalkimya_040ae82b",
+    "title": "Tarımsal kimya",
+    "url": "https://tr.wikipedia.org/wiki/Tar%C4%B1msal_kimya",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:57.404693",
+    "content": "Tarımsal kimya, tarımsal üretimde, ham ürünlerin yiyecek ve içeceklerde işlenmesinde ve çevresel izleme ve iyileştirmede önemli olan hem kimya hem de biyokimyanın dahil olarak incelenmesidir. Bu çalışmalar, bitkiler, hayvanlar, bakteri ve çevreleri arasındaki ilişkileri vurgular. Bitkisel ve hayvansal üretim, koruma ve kullanımda rol oynayan kimyasal kompozisyonlar ve değişimleri inceleyen bir bilim dalıdır. Temel bir bilim olarak, test tüpü kimyasına ek olarak, insanların kendileri için yiyecek ve lif elde ettikleri ve hayvanları için beslendikleri tüm yaşam süreçlerini kapsar. Uygulamalı bir bilim veya teknoloji olarak, verimi artırmak, kaliteyi artırmak ve maliyetleri azaltmak için bu işlemlerin kontrolüne yönlendirilir. Önemli bir dalı olan kemürji, temel olarak tarımsal ürünlerin kimyasal hammadde olarak kullanılmasıyla ilgilidir. == Bilimler == Tarım kimyasının amacı, bitki ve hayvansal büyüme ile ilgili biyokimyasal reaksiyonların nedenlerini ve etkilerini anlama, bu reaksiyonları kontrol etme fırsatlarını ortaya koyma ve istenen yardımı veya kontrolü sağlayacak kimyasal ürünler geliştirmektir. Tarımsal ilerlemeye katkıda bulunan her bilimsel disiplin, bir şekilde kimyaya bağlıdır. Bu nedenle, tarımsal kimya ayrı bir disiplin değil, genetiği, fizyolojiyi, mikrobiyolojiyi, entomolojiyi ve tarımı etkileyen birçok bilimi birbirine bağlayan ortak bir konudur. Gıda, yem ve lif üretimine yardımcı olmak için geliştirilen kimyasal maddeler arasında herbisit, böcek ilacı, mantar ilacı ve diğer pestisitler, bitki büyüme düzenleyicileri, gübreler ve hayvan yemi takviyeleri bulunmaktadır. Ticari bakış açısına göre bu gruplar arasındaki şef, üretilen gübreler, sentetik böcek ilaçları (herbisitler dahil) ve yemler için takviyelerdir. İkincisi, hem besin takviyelerini (örneğin mineral besinleri) hem de hastalığın önlenmesi veya kontrolü için tıbbi bileşikleri içerir. Tarımsal kimya genellikle toprağın verimliliğini korumayı veya arttırmayı, tarımsal verimi korumayı veya iyileştirmeyi ve mahsulün kalitesini artırmayı amaçlar. Tarım, ekoloji ile ele alındığında, bir operasyonun sürdürülebilirliği göz önünde bulundurulur. Modern zirai ilaç endüstrisi, sürdürülebilir ve ekolojik olarak uygulanabilir tarımsal ilkeleri ihlal ederken, karı maksimize etme konusunda ün kazanmıştır. Ötrofikasyon, genetiği değiştirilmiş ürünlerin prevalansı ve gıda zincirinde artan kimyasal madde konsantrasyonu (örneğin kalıcı organik kirleticiler), naif endüstriyel tarımın sadece birkaç sonucudur. == Tarihçe == 1761'de Johan Gottschalk Wallerius, öncü eseri Agriculturae fundamenta chemica'yı (Åkerbrukets chemiska grunder) yayınladı. 1815 yılında Humphry Davy, Tarım kimyasının unsurları'nı yayınladı. 1842'de Justus von Liebig, Fizyoloji ve Patoloji alanındaki uygulamalarında Hayvansal Kimya veya Organik Kimya'yı yayınladı. Jöns Jacob Berzelius,Traité de chimie minérale, végétale et animal'i yayınladı (6 cilt., 1845-1850). Jean-Baptiste Boussingault, Agronomie, chimie agricole, et physiologie (5 vol., 1860-1874; 2. baskı, 1884) yayınladı. 1868'de Samuel William Johnson, Bitkilerin Nasıl Büyüyeceğini yayınladı. 1870 yılında SW Johnson, Bitkiler nasıl beslenir: Tarım bitkilerinin beslenmesiyle ilgili olarak atmosfer ve toprak üzerine bir inceleme'yi yayınladı. 1872'de Karl Heinrich Ritthausen, Tahıl, baklagil ve keten tohumunda protein organlarını yayınladı. Tohumculuk, beslenme ve yem için tohum fizyolojisi'ne katkıda bulundu. == Ayrıca bakınız == Tarla tarımı Gübre == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 435,
+      "char_count": 3507,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.156881",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 848,
+      "content": "Tarımsal kimya, tarımsal üretimde, ham ürünlerin yiyecek ve içeceklerde işlenmesinde ve çevresel izleme ve iyileştirmede önemli olan hem kimya hem de biyokimyanın dahil olarak incelenmesidir. Bu çalışmalar, bitkiler, hayvanlar, bakteri ve çevreleri arasındaki ilişkileri vurgular. Bitkisel ve hayvansal üretim, koruma ve kullanımda rol oynayan kimyasal kompozisyonlar ve değişimleri inceleyen bir bilim dalıdır. Temel bir bilim olarak, test tüpü kimyasına ek olarak, insanların kendileri için yiyecek ve lif elde ettikleri ve hayvanları için beslendikleri tüm yaşam süreçlerini kapsar. Uygulamalı bir bilim veya teknoloji olarak, verimi artırmak, kaliteyi artırmak ve maliyetleri azaltmak için bu işlemlerin kontrolüne yönlendirilir. Önemli bir dalı olan kemürji, temel olarak tarımsal ürünlerin kimyasal hammadde olarak kullanılmasıyla ilgilidir.",
+      "char_count": 847,
+      "token_estimate": 211
+    },
+    {
+      "id": "c0001",
+      "section": "== Bilimler ==",
+      "heading_path": "== Bilimler ==",
+      "start_char": 848,
+      "end_char": 1848,
+      "content": "== Bilimler == Tarım kimyasının amacı, bitki ve hayvansal büyüme ile ilgili biyokimyasal reaksiyonların nedenlerini ve etkilerini anlama, bu reaksiyonları kontrol etme fırsatlarını ortaya koyma ve istenen yardımı veya kontrolü sağlayacak kimyasal ürünler geliştirmektir. Tarımsal ilerlemeye katkıda bulunan her bilimsel disiplin, bir şekilde kimyaya bağlıdır. Bu nedenle, tarımsal kimya ayrı bir disiplin değil, genetiği, fizyolojiyi, mikrobiyolojiyi, entomolojiyi ve tarımı etkileyen birçok bilimi birbirine bağlayan ortak bir konudur. Gıda, yem ve lif üretimine yardımcı olmak için geliştirilen kimyasal maddeler arasında herbisit, böcek ilacı, mantar ilacı ve diğer pestisitler, bitki büyüme düzenleyicileri, gübreler ve hayvan yemi takviyeleri bulunmaktadır. Ticari bakış açısına göre bu gruplar arasındaki şef, üretilen gübreler, sentetik böcek ilaçları (herbisitler dahil) ve yemler için takviyelerdir. İkincisi, hem besin takviyelerini (örneğin mineral besinleri) hem de hastalığın önlenmesi v",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Bilimler ==",
+      "heading_path": "== Bilimler ==",
+      "start_char": 1648,
+      "end_char": 2507,
+      "content": "arasındaki şef, üretilen gübreler, sentetik böcek ilaçları (herbisitler dahil) ve yemler için takviyelerdir. İkincisi, hem besin takviyelerini (örneğin mineral besinleri) hem de hastalığın önlenmesi veya kontrolü için tıbbi bileşikleri içerir. Tarımsal kimya genellikle toprağın verimliliğini korumayı veya arttırmayı, tarımsal verimi korumayı veya iyileştirmeyi ve mahsulün kalitesini artırmayı amaçlar. Tarım, ekoloji ile ele alındığında, bir operasyonun sürdürülebilirliği göz önünde bulundurulur. Modern zirai ilaç endüstrisi, sürdürülebilir ve ekolojik olarak uygulanabilir tarımsal ilkeleri ihlal ederken, karı maksimize etme konusunda ün kazanmıştır. Ötrofikasyon, genetiği değiştirilmiş ürünlerin prevalansı ve gıda zincirinde artan kimyasal madde konsantrasyonu (örneğin kalıcı organik kirleticiler), naif endüstriyel tarımın sadece birkaç sonucudur.",
+      "char_count": 859,
+      "token_estimate": 214
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 2508,
+      "end_char": 3453,
+      "content": "== Tarihçe == 1761'de Johan Gottschalk Wallerius, öncü eseri Agriculturae fundamenta chemica'yı (Åkerbrukets chemiska grunder) yayınladı. 1815 yılında Humphry Davy, Tarım kimyasının unsurları'nı yayınladı. 1842'de Justus von Liebig, Fizyoloji ve Patoloji alanındaki uygulamalarında Hayvansal Kimya veya Organik Kimya'yı yayınladı. Jöns Jacob Berzelius,Traité de chimie minérale, végétale et animal'i yayınladı (6 cilt., 1845-1850). Jean-Baptiste Boussingault, Agronomie, chimie agricole, et physiologie (5 vol., 1860-1874; 2. baskı, 1884) yayınladı. 1868'de Samuel William Johnson, Bitkilerin Nasıl Büyüyeceğini yayınladı. 1870 yılında SW Johnson, Bitkiler nasıl beslenir: Tarım bitkilerinin beslenmesiyle ilgili olarak atmosfer ve toprak üzerine bir inceleme'yi yayınladı. 1872'de Karl Heinrich Ritthausen, Tahıl, baklagil ve keten tohumunda protein organlarını yayınladı. Tohumculuk, beslenme ve yem için tohum fizyolojisi'ne katkıda bulundu.",
+      "char_count": 944,
+      "token_estimate": 236
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 3453,
+      "end_char": 3493,
+      "content": "== Ayrıca bakınız == Tarla tarımı Gübre",
+      "char_count": 39,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gıda, yem ve lif üretimine yardımcı olmak için geliştirilen kimyasal maddelerden bazıları nelerdir?",
+        "answer": "Herbisit, böcek ilacı, mantar ilacı ve diğer pestisitler, bitki büyüme düzenleyicileri, gübreler ve hayvan yemi takviyeleri.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tarımsal kimyanın bitkisel ve hayvansal üretimi iyileştirme gibi genel amaçlarına rağmen, modern zirai ilaç endüstrisinin uygulamaları hangi olumsuz sonuçlara yol açmaktadır?",
+        "answer": "Tarımsal kimyanın temel amaçları arasında verimi artırmak, kaliteyi yükseltmek ve maliyetleri azaltmak yer alırken, modern zirai ilaç endüstrisi sürdürülebilir ve ekolojik olarak uygulanabilir tarımsal ilkeleri ihlal ederek karı maksimize etme konusunda ün kazanmıştır. Bu durumun yol açtığı olumsuz sonuçlar arasında ötrofikasyon, genetiği değiştirilmiş ürünlerin yaygınlaşması ve gıda zincirinde kalıcı organik kirleticiler gibi kimyasal madde konsantrasyonlarının artması bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

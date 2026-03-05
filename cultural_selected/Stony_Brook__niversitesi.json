@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "stonybrookniversites_8f3b1f79",
+    "title": "Stony Brook Üniversitesi",
+    "url": "https://tr.wikipedia.org/wiki/Stony_Brook_%C3%9Cniversitesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:37.672709",
+    "content": "State University of New York at Stony Brook ya da daha yaygın bilinen adıyla Stony Brook Üniversitesi, Stony Brook, New York, ABD'de (Long Island'ın kuzey kesiminde Manhattan'ın doğusuna yaklaşık olarak 89 km uzaklıkta) bulunan devlet araştırma üniversitesidir. Stony Brook, New York Eyalet Üniversitesi (SUNY) sisteminde bulunan dört üniversiteden biridir ve 22.000'den fazla öğrencisi vardır. SUNY'nin iki ileri araştırma merkezi (Institute for Theoretical Physics ve Marine Sciences Research Center) bu üniversite bünyesinde çalıştırılır. Stony Brook ayrıca Birleşik Devletler Enerji Departmanı sözleşmesi ile Brookhaven National Labs'ı da işletir. Stony Brook Üniversitesi Kuzey Amerika'nın en önde gelen araştırma üniversitelerinden biridir ve 2001 yılında Amerikan Üniversiteler Derneği'ne katılmıştır. AAU'de sadece 62 üniversite vardır. Amerika Birleşik Devletleri'nde ise yaklaşık olarak 4.000 üniversite vardır. Amerika Birleşik Devletleri'nde, Stony Brook Üniversitesi en iyi 40 halk üniversitelerinden birisidir Amerika kaynaklı \"Best Buy\" adıyla anılan the U.S. Fiske Guide to Colleges'e göre. The Wall Street Journal Stony Brook'u en iyi 8 vakıf üniversitesi arasında göstermiştir. Üniversite aynı zamanda The Institute for Higher Education in Shanghai tarafından dünyadaki en iyi 152 üniversite arasında gösterilmiştir. == Tarihçe == Üniversite 1957 yılında, the State University College olarak Long Island'da kurulmuştur. İlk kurulduğunda 140 öğrencisi vardı. == Bölümler == == Spor == Stony Brook Üniversitesi'nin spor takımı Stony Brook Seawolves olarak bilinir. == Kaynakça == == Dış bağlantılar == Resmî site The State University of New York (system) website23 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 233,
+      "char_count": 1740,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.452190",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "State University of New York at Stony Brook ya da daha yaygın bilinen adıyla Stony Brook Üniversitesi, Stony Brook, New York, ABD'de (Long Island'ın kuzey kesiminde Manhattan'ın doğusuna yaklaşık olarak 89 km uzaklıkta) bulunan devlet araştırma üniversitesidir. Stony Brook, New York Eyalet Üniversitesi (SUNY) sisteminde bulunan dört üniversiteden biridir ve 22.000'den fazla öğrencisi vardır. SUNY'nin iki ileri araştırma merkezi (Institute for Theoretical Physics ve Marine Sciences Research Center) bu üniversite bünyesinde çalıştırılır. Stony Brook ayrıca Birleşik Devletler Enerji Departmanı sözleşmesi ile Brookhaven National Labs'ı da işletir. Stony Brook Üniversitesi Kuzey Amerika'nın en önde gelen araştırma üniversitelerinden biridir ve 2001 yılında Amerikan Üniversiteler Derneği'ne katılmıştır. AAU'de sadece 62 üniversite vardır. Amerika Birleşik Devletleri'nde ise yaklaşık olarak 4.000 üniversite vardır. Amerika Birleşik Devletleri'nde, Stony Brook Üniversitesi en iyi 40 halk ünive",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1334,
+      "content": "lmıştır. AAU'de sadece 62 üniversite vardır. Amerika Birleşik Devletleri'nde ise yaklaşık olarak 4.000 üniversite vardır. Amerika Birleşik Devletleri'nde, Stony Brook Üniversitesi en iyi 40 halk üniversitelerinden birisidir Amerika kaynaklı \"Best Buy\" adıyla anılan the U.S. Fiske Guide to Colleges'e göre. The Wall Street Journal Stony Brook'u en iyi 8 vakıf üniversitesi arasında göstermiştir. Üniversite aynı zamanda The Institute for Higher Education in Shanghai tarafından dünyadaki en iyi 152 üniversite arasında gösterilmiştir.",
+      "char_count": 534,
+      "token_estimate": 133
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1335,
+      "end_char": 1476,
+      "content": "== Tarihçe == Üniversite 1957 yılında, the State University College olarak Long Island'da kurulmuştur. İlk kurulduğunda 140 öğrencisi vardı.",
+      "char_count": 140,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0003",
+      "section": "== Spor ==",
+      "heading_path": "== Spor ==",
+      "start_char": 1491,
+      "end_char": 1581,
+      "content": "== Spor == Stony Brook Üniversitesi'nin spor takımı Stony Brook Seawolves olarak bilinir.",
+      "char_count": 89,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1596,
+      "end_char": 1740,
+      "content": "== Dış bağlantılar == Resmî site The State University of New York (system) website23 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 144,
+      "token_estimate": 36
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Stony Brook Üniversitesi hangi şehir ve eyalette bulunmaktadır?",
+        "answer": "Stony Brook, New York, ABD.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Stony Brook Üniversitesi'nin Kuzey Amerika'nın önde gelen araştırma üniversitelerinden biri olarak kabul edilmesini destekleyen çeşitli başarılar ve sıralamalar nelerdir?",
+        "answer": "Stony Brook Üniversitesi, 2001 yılında Amerikan Üniversiteler Derneği'ne (AAU) katılarak ve Birleşik Devletler Enerji Departmanı sözleşmesi ile Brookhaven Ulusal Laboratuvarları'nı işleterek Kuzey Amerika'nın önde gelen araştırma üniversitelerinden biri olarak kabul edilmektedir. Amerika Birleşik Devletleri'nde en iyi 40 halk üniversitesinden biri olarak listelenmekte, The Wall Street Journal tarafından en iyi 8 vakıf üniversitesi arasında gösterilmekte ve Şanghay Yüksek Öğrenim Enstitüsü tarafından dünyadaki en iyi 152 üniversite arasında yer almaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "article": {
+    "id": "tokyoniversitesi_a96a54fe",
+    "title": "Tokyo Üniversitesi",
+    "url": "https://tr.wikipedia.org/wiki/Tokyo_%C3%9Cniversitesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:02.256562",
+    "content": "Tokyo Üniversitesi, Japonya'daki öncü araştırma üniversitelerinden biridir. Üniversite 10 fakülte ve 30.000 öğrenciye sahiptir. 30.000 öğrencinin 2100 kadarı yabancı uyrukludur. Üniversitenin Hongō, Komaba, Kashiwa, Shirokane ve Nakano adlı 5 yerleşkesi vardır. Uluslararası Araştırma Üniversiteleri Birliği üyesidir. Japonya'nın en seçkin ve prestijli üniversitesi olarak kabul edilir. 2021 itibarıyla, Tokyo Üniversitesi mezunları, öğretim üyeleri ve araştırmacıları arasında on yedi başbakan, 18 Nobel Ödülü sahibi, dört Pritzker ödüllü, beş astronot ve bir Fields Madalyası sahibi vardır. == Fakülteler == === Hukuk Fakültesi === 1. Tip(genel hukuk dersleri) 2. Tip(hukuk meslek dersleri) 3. Tip(siyaset dersleri) === Tıp Fakültesi === Tıp Bölümü Genel Sağlık Bilimleri Bölümü === Mühendislik Fakültesi === Altyapı Bölümü Mimarlık Bölümü Şehir Mühendisliği Bölümü Makine Mühendisliği Bölümü Makine-Bilgisayar Mühendisliği Bölümü Havacılık ve Uzay Mühendisliği Bölümü Hassas Cihaz Mühendisliği Bölümü Elektronik İstihbarat Mühendisliği Bölümü Elektrik-Elektronik Mühendisliği Bölümü Fizik Mühendisliği Bölümü Matematik Mühendisliği Bölümü Malzeme Mühendisliği Bölümü Uygulamalı Kimya Bölümü Kimya Mühendisliği Kimya-Biyoteknoloji Bölümü Malzeme Bilimi Bölümü === Edebiyat Fakültesi === Kültür-Medeniyet Bölümü === Fen Fakültesi === Matematik Bölümü Bilgisayar Bilimleri Bölümü Fizik Bölümü Astronomi Bölümü Jeofizik-Gezegen Fiziği Bölümü Yer ve Gezegen Çevre Bilimi Bölümü Kimya Bölümü Biyokimya Bölümü Biyoloji Bölümü Biyobilişim Bölümü === Agronomi Fakültesi === Uygulamalı Yaşam Bilimleri Çevre-Kaynak Bilimleri Veterinerlik === İktisadi Bilimler Fakültesi === Ekonomi Bölümü İşletme Bölümü Maliye Bölümü === Genel Kültür Fakültesi === Genel Kültür Bölümü Dallararası Bilim Bölüm Doğa Bilimleri Bölümü === Eğitim Fakültesi === Genel Eğitim Bilimleri Bölümü === Eczacılık Fakültesi === İlaç Bilimi Bölümü Eczacılık Bölümü == Kampüs == === Hongo kampüsü === Ana Hongo kampüsü, Maeda ailesinin, Edo dönemi Kaga Vilayeti'nin feodal lordlarının eski malikanesindedir. Üniversitenin en bilinen yerlerinden biri olan Akamon (Kırmızı Kapı), bu dönemin bir kalıntısıdır. Üniversitenin sembolü, bölgede bulunan ağaçlardan ginkgo yaprağıdır. Hongo kampüsü ayrıca Tokyo Üniversitesi'nin yıllık Mayıs Festivali'ne de ev sahipliği yapar. == Dış bağlantılar == Tokyo Üniversitesi 11 Aralık 2020 tarihinde Wayback Machine sitesinde arşivlendi., Ana sayfa == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 312,
+      "char_count": 2459,
+      "num_chunks": 13,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.665241",
+    "total_chunks": 13,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 593,
+      "content": "Tokyo Üniversitesi, Japonya'daki öncü araştırma üniversitelerinden biridir. Üniversite 10 fakülte ve 30.000 öğrenciye sahiptir. 30.000 öğrencinin 2100 kadarı yabancı uyrukludur. Üniversitenin Hongō, Komaba, Kashiwa, Shirokane ve Nakano adlı 5 yerleşkesi vardır. Uluslararası Araştırma Üniversiteleri Birliği üyesidir. Japonya'nın en seçkin ve prestijli üniversitesi olarak kabul edilir. 2021 itibarıyla, Tokyo Üniversitesi mezunları, öğretim üyeleri ve araştırmacıları arasında on yedi başbakan, 18 Nobel Ödülü sahibi, dört Pritzker ödüllü, beş astronot ve bir Fields Madalyası sahibi vardır.",
+      "char_count": 592,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0001",
+      "section": "=== Hukuk Fakültesi ===",
+      "heading_path": "=== Hukuk Fakültesi ===",
+      "start_char": 610,
+      "end_char": 718,
+      "content": "=== Hukuk Fakültesi === 1. Tip(genel hukuk dersleri) 2. Tip(hukuk meslek dersleri) 3. Tip(siyaset dersleri)",
+      "char_count": 107,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0002",
+      "section": "=== Tıp Fakültesi ===",
+      "heading_path": "=== Tıp Fakültesi ===",
+      "start_char": 718,
+      "end_char": 781,
+      "content": "=== Tıp Fakültesi === Tıp Bölümü Genel Sağlık Bilimleri Bölümü",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0003",
+      "section": "=== Mühendislik Fakültesi ===",
+      "heading_path": "=== Mühendislik Fakültesi ===",
+      "start_char": 781,
+      "end_char": 1262,
+      "content": "=== Mühendislik Fakültesi === Altyapı Bölümü Mimarlık Bölümü Şehir Mühendisliği Bölümü Makine Mühendisliği Bölümü Makine-Bilgisayar Mühendisliği Bölümü Havacılık ve Uzay Mühendisliği Bölümü Hassas Cihaz Mühendisliği Bölümü Elektronik İstihbarat Mühendisliği Bölümü Elektrik-Elektronik Mühendisliği Bölümü Fizik Mühendisliği Bölümü Matematik Mühendisliği Bölümü Malzeme Mühendisliği Bölümü Uygulamalı Kimya Bölümü Kimya Mühendisliği Kimya-Biyoteknoloji Bölümü Malzeme Bilimi Bölümü",
+      "char_count": 480,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0004",
+      "section": "=== Edebiyat Fakültesi ===",
+      "heading_path": "=== Edebiyat Fakültesi ===",
+      "start_char": 1262,
+      "end_char": 1313,
+      "content": "=== Edebiyat Fakültesi === Kültür-Medeniyet Bölümü",
+      "char_count": 50,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0005",
+      "section": "=== Fen Fakültesi ===",
+      "heading_path": "=== Fen Fakültesi ===",
+      "start_char": 1313,
+      "end_char": 1541,
+      "content": "=== Fen Fakültesi === Matematik Bölümü Bilgisayar Bilimleri Bölümü Fizik Bölümü Astronomi Bölümü Jeofizik-Gezegen Fiziği Bölümü Yer ve Gezegen Çevre Bilimi Bölümü Kimya Bölümü Biyokimya Bölümü Biyoloji Bölümü Biyobilişim Bölümü",
+      "char_count": 227,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0006",
+      "section": "=== Agronomi Fakültesi ===",
+      "heading_path": "=== Agronomi Fakültesi ===",
+      "start_char": 1541,
+      "end_char": 1631,
+      "content": "=== Agronomi Fakültesi === Uygulamalı Yaşam Bilimleri Çevre-Kaynak Bilimleri Veterinerlik",
+      "char_count": 89,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0007",
+      "section": "=== İktisadi Bilimler Fakültesi ===",
+      "heading_path": "=== İktisadi Bilimler Fakültesi ===",
+      "start_char": 1631,
+      "end_char": 1711,
+      "content": "=== İktisadi Bilimler Fakültesi === Ekonomi Bölümü İşletme Bölümü Maliye Bölümü",
+      "char_count": 79,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0008",
+      "section": "=== Genel Kültür Fakültesi ===",
+      "heading_path": "=== Genel Kültür Fakültesi ===",
+      "start_char": 1711,
+      "end_char": 1808,
+      "content": "=== Genel Kültür Fakültesi === Genel Kültür Bölümü Dallararası Bilim Bölüm Doğa Bilimleri Bölümü",
+      "char_count": 96,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0009",
+      "section": "=== Eğitim Fakültesi ===",
+      "heading_path": "=== Eğitim Fakültesi ===",
+      "start_char": 1808,
+      "end_char": 1863,
+      "content": "=== Eğitim Fakültesi === Genel Eğitim Bilimleri Bölümü",
+      "char_count": 54,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0010",
+      "section": "=== Eczacılık Fakültesi ===",
+      "heading_path": "=== Eczacılık Fakültesi ===",
+      "start_char": 1863,
+      "end_char": 1927,
+      "content": "=== Eczacılık Fakültesi === İlaç Bilimi Bölümü Eczacılık Bölümü",
+      "char_count": 63,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0011",
+      "section": "=== Hongo kampüsü ===",
+      "heading_path": "=== Hongo kampüsü ===",
+      "start_char": 1940,
+      "end_char": 2330,
+      "content": "=== Hongo kampüsü === Ana Hongo kampüsü, Maeda ailesinin, Edo dönemi Kaga Vilayeti'nin feodal lordlarının eski malikanesindedir. Üniversitenin en bilinen yerlerinden biri olan Akamon (Kırmızı Kapı), bu dönemin bir kalıntısıdır. Üniversitenin sembolü, bölgede bulunan ağaçlardan ginkgo yaprağıdır. Hongo kampüsü ayrıca Tokyo Üniversitesi'nin yıllık Mayıs Festivali'ne de ev sahipliği yapar.",
+      "char_count": 389,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0012",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2330,
+      "end_char": 2445,
+      "content": "== Dış bağlantılar == Tokyo Üniversitesi 11 Aralık 2020 tarihinde Wayback Machine sitesinde arşivlendi., Ana sayfa",
+      "char_count": 114,
+      "token_estimate": 28
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tokyo Üniversitesi'nin kaç fakültesi ve toplam öğrenci sayısı bulunmaktadır?",
+        "answer": "Tokyo Üniversitesi'nin 10 fakültesi ve 30.000 öğrencisi bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tokyo Üniversitesi'nin genel akademik yapısı bağlamında, Hukuk Fakültesi'nin sunduğu başlıca ders türleri üniversitenin eğitim yelpazesinde nasıl bir yer tutmaktadır?",
+        "answer": "Tokyo Üniversitesi 10 fakülteye sahiptir ve Hukuk Fakültesi bu fakültelerden biridir. Hukuk Fakültesi, genel hukuk dersleri, hukuk meslek dersleri ve siyaset dersleri olmak üzere üç ana ders türü sunarak üniversitenin eğitim yelpazesini hukuk ve siyaset alanlarında genişletmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

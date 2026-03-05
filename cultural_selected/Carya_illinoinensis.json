@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "caryaillinoinensis_19ee03fe",
+    "title": "Carya illinoinensis",
+    "url": "https://tr.wikipedia.org/wiki/Carya_illinoinensis",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:00.785811",
+    "content": "Carya illinoinensis (Pekan cevizi), Amerika kökenli bir bitki türüdür. == IUCN Kırmızı listesi == Carya illinoinensis ağacı büyüktür ve hem Amerika Birleşik Devletleri hem de Meksika'ya özgüdür. Tür, 3 milyon km2'yi aşan bir oluşum alanı (EOO) ile geniş bir coğrafi alana sahiptir. Türler boldur ve ayrıca ceviz üretimi (tarım) için ekilir. Türe yönelik önemli bir tehdit yoktur ve dağılımındaki her iki ülkede de tehdit altında olmadığı değerlendirilmektedir. Tür küresel olarak En Az Endişe Veren olarak değerlendirilir. Türlerin iklim değişikliğine tepkisini kontrol etmek için izleme gereklidir. == Coğrafi dağılım bilgileri == Bu türün anavatanı Amerika Birleşik Devletleri ve Meksika'dır. ABD'de bu tür, dağılımın kuzeyindeki Illinois'den güneyde Texas ve Mississippi'ye kadar güneybatı ve güney eyaletlerinde bulunur. Meksika'da, türler eşit derecede yaygındır, Chihuahua ve Coahuila'dan Veracruz ve Oaxaca'ya kadar mevcuttur. (Villaseñor 2016). Bu tür, 2.363.995 km²'lik bir yayılış alanına (EOO) sahiptir. Türler, cevizler için doğal dağılımının dışında yetiştirilmektedir. == Nüfus bilgileri == Bu türün popülasyonunun geniş dağılımı, geniş herbaryum kaydı ve bildirilen tehditlerin olmaması nedeniyle büyük ve istikrarlı olduğu varsayılmaktadır. Bu tür, Potter ve diğerleri tarafından modellenen iklim değişikliğine yanıt olarak 'korunabilirlik sınıfı C - yüksek güvenlik açığı, potansiyel kalıcılık' içinde yer almaktadır. Bu nedenle, gelecekte nüfus, iklim değişikliğinin ardından düşüşe maruz kalabilir. == Habitat ve Ekoloji bilgileri == Pekan ağaçları 30 ila 45 m yüksekliğe kadar büyüyebilir. Tür, genellikle nehir diplerine yakın zengin, iyi drene edilmiş, alüvyonlu topraklarda yetişir, ancak uzun süreli su baskınlarının yaşandığı yerlerde değil Gölgeye tahammülü olmayan ve diğer birçok Kuzey Amerika ağaç türüyle birlikte karışık yaprak döken ormanlık alanlarda görülen bir yarıklimaks türüdür. == Tehdit bilgileri == Bu tür bazı küçük zararlılardan ve hastalıklardan etkilenebilir. Gelecekte, tür, iklim değişikliğinin bir sonucu olarak azalma ve habitat değişimi nedeniyle potansiyel olarak risk altındadır. == Kullanım ve Ticaret bilgileri == Bu tür en çok, türe ortak adını veren cevizi için kullanılır ve yetiştirilir. Bu kuruyemişler yemek pişirmede, genellikle tatlı yapmak için kullanılır. Cevizden üretilen yağ ayrıca yemek pişirmek veya kozmetik için de kullanılabilir. Ağacın kendisi de döşeme, mobilya, panel ve tarım aletleri üretiminde kullanılan kereste için hasat edilebilir. Ağaç, gölgelik ve hayvancılık için bir besin kaynağı olarak tarım arazilerine dikilebilir. Yerli Amerikalılar ayrıca bu bitkiyi saçkıran ve tüberkülozu tedavi etmek için tıbbi olarak kullanırlar. == Koruma İşlemleri bilgileri == Bu tür en az 91 botanik bahçesinde (BGCI 2018) bulunur ve yaygın olarak yetiştirilir. Bu tür ABD için NatureServe (2018) ve Least Concern in Mexican Cloud Forest (González-Espinosa et al. 2011) için G5- Secure olarak değerlendirilmiştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 407,
+      "char_count": 2995,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.294424",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 71,
+      "content": "Carya illinoinensis (Pekan cevizi), Amerika kökenli bir bitki türüdür.",
+      "char_count": 70,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0001",
+      "section": "== IUCN Kırmızı listesi ==",
+      "heading_path": "== IUCN Kırmızı listesi ==",
+      "start_char": 71,
+      "end_char": 600,
+      "content": "== IUCN Kırmızı listesi == Carya illinoinensis ağacı büyüktür ve hem Amerika Birleşik Devletleri hem de Meksika'ya özgüdür. Tür, 3 milyon km2'yi aşan bir oluşum alanı (EOO) ile geniş bir coğrafi alana sahiptir. Türler boldur ve ayrıca ceviz üretimi (tarım) için ekilir. Türe yönelik önemli bir tehdit yoktur ve dağılımındaki her iki ülkede de tehdit altında olmadığı değerlendirilmektedir. Tür küresel olarak En Az Endişe Veren olarak değerlendirilir. Türlerin iklim değişikliğine tepkisini kontrol etmek için izleme gereklidir.",
+      "char_count": 528,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafi dağılım bilgileri ==",
+      "heading_path": "== Coğrafi dağılım bilgileri ==",
+      "start_char": 600,
+      "end_char": 1083,
+      "content": "== Coğrafi dağılım bilgileri == Bu türün anavatanı Amerika Birleşik Devletleri ve Meksika'dır. ABD'de bu tür, dağılımın kuzeyindeki Illinois'den güneyde Texas ve Mississippi'ye kadar güneybatı ve güney eyaletlerinde bulunur. Meksika'da, türler eşit derecede yaygındır, Chihuahua ve Coahuila'dan Veracruz ve Oaxaca'ya kadar mevcuttur. (Villaseñor 2016). Bu tür, 2.363.995 km²'lik bir yayılış alanına (EOO) sahiptir. Türler, cevizler için doğal dağılımının dışında yetiştirilmektedir.",
+      "char_count": 482,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0003",
+      "section": "== Nüfus bilgileri ==",
+      "heading_path": "== Nüfus bilgileri ==",
+      "start_char": 1083,
+      "end_char": 1518,
+      "content": "== Nüfus bilgileri == Bu türün popülasyonunun geniş dağılımı, geniş herbaryum kaydı ve bildirilen tehditlerin olmaması nedeniyle büyük ve istikrarlı olduğu varsayılmaktadır. Bu tür, Potter ve diğerleri tarafından modellenen iklim değişikliğine yanıt olarak 'korunabilirlik sınıfı C - yüksek güvenlik açığı, potansiyel kalıcılık' içinde yer almaktadır. Bu nedenle, gelecekte nüfus, iklim değişikliğinin ardından düşüşe maruz kalabilir.",
+      "char_count": 434,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0004",
+      "section": "== Habitat ve Ekoloji bilgileri ==",
+      "heading_path": "== Habitat ve Ekoloji bilgileri ==",
+      "start_char": 1518,
+      "end_char": 1917,
+      "content": "== Habitat ve Ekoloji bilgileri == Pekan ağaçları 30 ila 45 m yüksekliğe kadar büyüyebilir. Tür, genellikle nehir diplerine yakın zengin, iyi drene edilmiş, alüvyonlu topraklarda yetişir, ancak uzun süreli su baskınlarının yaşandığı yerlerde değil Gölgeye tahammülü olmayan ve diğer birçok Kuzey Amerika ağaç türüyle birlikte karışık yaprak döken ormanlık alanlarda görülen bir yarıklimaks türüdür.",
+      "char_count": 398,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0005",
+      "section": "== Tehdit bilgileri ==",
+      "heading_path": "== Tehdit bilgileri ==",
+      "start_char": 1917,
+      "end_char": 2132,
+      "content": "== Tehdit bilgileri == Bu tür bazı küçük zararlılardan ve hastalıklardan etkilenebilir. Gelecekte, tür, iklim değişikliğinin bir sonucu olarak azalma ve habitat değişimi nedeniyle potansiyel olarak risk altındadır.",
+      "char_count": 214,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0006",
+      "section": "== Kullanım ve Ticaret bilgileri ==",
+      "heading_path": "== Kullanım ve Ticaret bilgileri ==",
+      "start_char": 2132,
+      "end_char": 2710,
+      "content": "== Kullanım ve Ticaret bilgileri == Bu tür en çok, türe ortak adını veren cevizi için kullanılır ve yetiştirilir. Bu kuruyemişler yemek pişirmede, genellikle tatlı yapmak için kullanılır. Cevizden üretilen yağ ayrıca yemek pişirmek veya kozmetik için de kullanılabilir. Ağacın kendisi de döşeme, mobilya, panel ve tarım aletleri üretiminde kullanılan kereste için hasat edilebilir. Ağaç, gölgelik ve hayvancılık için bir besin kaynağı olarak tarım arazilerine dikilebilir. Yerli Amerikalılar ayrıca bu bitkiyi saçkıran ve tüberkülozu tedavi etmek için tıbbi olarak kullanırlar.",
+      "char_count": 577,
+      "token_estimate": 144
+    },
+    {
+      "id": "c0007",
+      "section": "== Koruma İşlemleri bilgileri ==",
+      "heading_path": "== Koruma İşlemleri bilgileri ==",
+      "start_char": 2710,
+      "end_char": 2981,
+      "content": "== Koruma İşlemleri bilgileri == Bu tür en az 91 botanik bahçesinde (BGCI 2018) bulunur ve yaygın olarak yetiştirilir. Bu tür ABD için NatureServe (2018) ve Least Concern in Mexican Cloud Forest (González-Espinosa et al. 2011) için G5- Secure olarak değerlendirilmiştir.",
+      "char_count": 270,
+      "token_estimate": 67
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yerli Amerikalılar ceviz bitkisini tıbbi olarak hangi hastalıkları tedavi etmek için kullanırlar?",
+        "answer": "Saçkıran ve tüberkülozu tedavi etmek için kullanırlar.",
+        "related_chunk_ids": [
+          "c0006"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Carya illinoinensis'in Amerika kökenli bir bitki türü olduğu göz önüne alındığında, IUCN Kırmızı Listesi'ne göre mevcut küresel koruma durumu nedir ve bu durum nasıl açıklanmaktadır?",
+        "answer": "Carya illinoinensis, küresel olarak En Az Endişe Veren olarak değerlendirilmektedir. Bu durum, türün hem Amerika Birleşik Devletleri hem de Meksika'ya özgü olması, 3 milyon km2'yi aşan geniş bir oluşum alanına sahip olması, bol bulunması ve dağılımındaki her iki ülkede de tehdit altında olmamasıyla açıklanmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

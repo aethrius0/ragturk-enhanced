@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "sameref_9ea907ed",
+    "title": "İsam Şeref",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0sam_%C5%9Eeref",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:55.021495",
+    "content": "İsam Abdülaziz Şeref (d. 1952), 3 Mart 2011 - 7 Aralık 2011 tarihleri arası Mısır Başbakanı olan mühendis ve Mısırlı bir profesördür. Daha önce de 2004-2005 yılları arası Ulaştırma Bakanı oldu. == Gençliği ve eğitimi == 1952 yılında Mısır'ın Gize şehrinde doğdu. 1975 yılında Kahire Üniversitesi'nde inşaat mühendisliği Lisansını aldıktan sonra Yüksek Lisans için 1980'de Purdue Üniversitesi'ne giderek çalışmalarına devam etti ve 1984 yılında doktora aldı. == Politik ve akademik kariyeri == Kahire Üniversitesi'nde, ertesi yıl da Karayolu ve Trafik Mühendisliğinde doçent olmadan önce 1984 yılında Purdue Üniversitesi'nde misafir asistan profesör olarak görev aldı. 1990 yılında Suudi Arabistan'da Kral Suud Üniversitesi İnşaat Mühendisliği Bölümü'nden Yardımcı Doçent oldu. 1991 yılında Kahire Üniversitesi'ne döndü. Suudi Arabistan'da Cidde'de Zuhair Fayez Ortaklığı'ndaki Nakliyat & Havacılık Bölümü'nde (ZFP) üst düzey danışman olarak çalışırken 1996 yılında Karayolu Mühendisliği profesörü oldu. Şeref 1999 yılında Mısır Ulaştırma Bakanı ve 2003 yılında Birleşik Arap Emirlikleri'nde Al Ain belediyesi Kıdemli Teknik Danışman oldu. 13 Temmuz 2004 ile 31 Aralık 2005'te Mısır Ulaştırma Bakanı olarak görev yaptı. Daha sonra devlet başkanı Hüsnü Mübarek tarafından atanan Başbakan Ahmed Nazif arasındaki farklılıklar nedeniyle istifa etti. Bu süre zarfında aynı zamanda Dubai Yolları ve Ulaşım Otoritesi'nde bir danışman olarak görev yaptı ve Muhammed el-Baradey, Ahmed Zevail ve diğer Mısırlı bilim adamları ile birlikte Mısır Bilimsel Derneği'ni kurdu. Ahmed Şefik'in istifasından sonrasında 3 Mart 2011 tarihinde Mısır'ın askerî yönetim konseyi tarafından bir hükûmet kurması istenerek başbakan olarak atandı. == Ödülleri == 1987 ve 1997 yılında Bilimsel Araştırma ve Teknoloji Akademisi Mühendislik Bilimleri Devlet Encouragemental Ödülü 1995 yılında Mısır'da Hüsnü Mübarek ile Cumhurbaşkanı tarafından Mükemmellik First Class Madalyası 1997 yılında Mühendisliği Bilimsel Mükemmellik Kahire Üniversitesi Teşvik Ödülü Mühendislik Bilimleri, 1997 yılında Mısır Devlet Ödülü 2005 yılında Purdue Üniversitesi, Amerika'dan Mühendisliği Mükemmeliyet Ödülü 2006 yılında Yılın Ödülü (Refik Hariri Ödülü) 2007 yılında İngiltere'de Lojistik ve Ulaştırma Chartered Institute of Üyesi 1988 ve 1998 yılında bilim adamları Günü kutlamasında Kahire Üniversitesi'nden Başarı Sertifikası == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 318,
+      "char_count": 2394,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.527650",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 194,
+      "content": "İsam Abdülaziz Şeref (d. 1952), 3 Mart 2011 - 7 Aralık 2011 tarihleri arası Mısır Başbakanı olan mühendis ve Mısırlı bir profesördür. Daha önce de 2004-2005 yılları arası Ulaştırma Bakanı oldu.",
+      "char_count": 193,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0001",
+      "section": "== Gençliği ve eğitimi ==",
+      "heading_path": "== Gençliği ve eğitimi ==",
+      "start_char": 194,
+      "end_char": 458,
+      "content": "== Gençliği ve eğitimi == 1952 yılında Mısır'ın Gize şehrinde doğdu. 1975 yılında Kahire Üniversitesi'nde inşaat mühendisliği Lisansını aldıktan sonra Yüksek Lisans için 1980'de Purdue Üniversitesi'ne giderek çalışmalarına devam etti ve 1984 yılında doktora aldı.",
+      "char_count": 263,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0002",
+      "section": "== Politik ve akademik kariyeri ==",
+      "heading_path": "== Politik ve akademik kariyeri ==",
+      "start_char": 458,
+      "end_char": 1458,
+      "content": "== Politik ve akademik kariyeri == Kahire Üniversitesi'nde, ertesi yıl da Karayolu ve Trafik Mühendisliğinde doçent olmadan önce 1984 yılında Purdue Üniversitesi'nde misafir asistan profesör olarak görev aldı. 1990 yılında Suudi Arabistan'da Kral Suud Üniversitesi İnşaat Mühendisliği Bölümü'nden Yardımcı Doçent oldu. 1991 yılında Kahire Üniversitesi'ne döndü. Suudi Arabistan'da Cidde'de Zuhair Fayez Ortaklığı'ndaki Nakliyat & Havacılık Bölümü'nde (ZFP) üst düzey danışman olarak çalışırken 1996 yılında Karayolu Mühendisliği profesörü oldu. Şeref 1999 yılında Mısır Ulaştırma Bakanı ve 2003 yılında Birleşik Arap Emirlikleri'nde Al Ain belediyesi Kıdemli Teknik Danışman oldu. 13 Temmuz 2004 ile 31 Aralık 2005'te Mısır Ulaştırma Bakanı olarak görev yaptı. Daha sonra devlet başkanı Hüsnü Mübarek tarafından atanan Başbakan Ahmed Nazif arasındaki farklılıklar nedeniyle istifa etti. Bu süre zarfında aynı zamanda Dubai Yolları ve Ulaşım Otoritesi'nde bir danışman olarak görev yaptı ve Muhammed e",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Politik ve akademik kariyeri ==",
+      "heading_path": "== Politik ve akademik kariyeri ==",
+      "start_char": 1258,
+      "end_char": 1717,
+      "content": " tarafından atanan Başbakan Ahmed Nazif arasındaki farklılıklar nedeniyle istifa etti. Bu süre zarfında aynı zamanda Dubai Yolları ve Ulaşım Otoritesi'nde bir danışman olarak görev yaptı ve Muhammed el-Baradey, Ahmed Zevail ve diğer Mısırlı bilim adamları ile birlikte Mısır Bilimsel Derneği'ni kurdu. Ahmed Şefik'in istifasından sonrasında 3 Mart 2011 tarihinde Mısır'ın askerî yönetim konseyi tarafından bir hükûmet kurması istenerek başbakan olarak atandı.",
+      "char_count": 459,
+      "token_estimate": 114
+    },
+    {
+      "id": "c0004",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1718,
+      "end_char": 2380,
+      "content": "== Ödülleri == 1987 ve 1997 yılında Bilimsel Araştırma ve Teknoloji Akademisi Mühendislik Bilimleri Devlet Encouragemental Ödülü 1995 yılında Mısır'da Hüsnü Mübarek ile Cumhurbaşkanı tarafından Mükemmellik First Class Madalyası 1997 yılında Mühendisliği Bilimsel Mükemmellik Kahire Üniversitesi Teşvik Ödülü Mühendislik Bilimleri, 1997 yılında Mısır Devlet Ödülü 2005 yılında Purdue Üniversitesi, Amerika'dan Mühendisliği Mükemmeliyet Ödülü 2006 yılında Yılın Ödülü (Refik Hariri Ödülü) 2007 yılında İngiltere'de Lojistik ve Ulaştırma Chartered Institute of Üyesi 1988 ve 1998 yılında bilim adamları Günü kutlamasında Kahire Üniversitesi'nden Başarı Sertifikası",
+      "char_count": 661,
+      "token_estimate": 165
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Şeref, Suudi Arabistan'da Zuhair Fayez Ortaklığı'ndaki Nakliyat & Havacılık Bölümü'nde üst düzey danışman olarak çalışırken hangi yıl Karayolu Mühendisliği profesörü oldu?",
+        "answer": "1996 yılında.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İsam Abdülaziz Şeref'in inşaat mühendisliği eğitimi ve Karayolu ve Trafik Mühendisliği profesörü olarak akademik geçmişi, Mısır Ulaştırma Bakanı olarak iki farklı dönemdeki görevleriyle nasıl bir bağlantı taşımaktadır?",
+        "answer": "İsam Abdülaziz Şeref, Kahire Üniversitesi'nden inşaat mühendisliği lisansı ve Purdue Üniversitesi'nden doktora derecesi alarak bu alanda uzmanlaşmıştır. Daha sonra Karayolu ve Trafik Mühendisliği alanında doçent ve profesör olarak görev yapması, 1999'da ve 2004-2005 yılları arasında Mısır Ulaştırma Bakanı olarak yaptığı görevlerle doğrudan ilişkilidir ve uzmanlığını bu rollere yansıtmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

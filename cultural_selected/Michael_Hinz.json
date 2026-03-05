@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "michaelhinz_3f098236",
+    "title": "Michael Hinz",
+    "url": "https://tr.wikipedia.org/wiki/Michael_Hinz",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:45:17.431604",
+    "content": "Michael Hinz (28 Aralık 1939 - 6 Kasım 2008), Alman oyuncu. == Tiyatro == Geronimo und die Räuber (1966) Leben wie die Fürsten (1966) Oblomows Liebe (1976) Die Traumfrau (1978) Die Kette (1977) == Filmografi (seçme) == 1959: Die Brücke 1960: Geständnis einer Sechzehnjährigen 1960: Lampenfieber 1960: Das Erbe von Björndal (Film) 1960: Gustav Adolfs Page (Film) 1961: …und sowas nennt sich Leben 1961: Kriegsgesetz (Legge di guerra) 1961: Toller Hecht auf krummer Tour 1962: Der längste Tag (The Longest Day) 1962: Ich bin auch nur eine Frau 1962: Das Feuerschiff (1962) 1963: Es war mir ein Vergnügen 1964: Lana – Königin der Amazonen 1965: Tante Frieda – Neue Lausbubengeschichten 1966: Onkel Filser – Allerneueste Lausbubengeschichten 1966: Katz und Maus (Film) 1968: The Last Escape (ABD: 1970) 1972: Vier Mal heute Nacht (Quante volte… quella notte) 1973: Geh, zieh dein Dirndl aus 1973: Tod eines Fremden 1974: Das Gewissen Touch Me Not 1974: Magdalena – vom Teufel besessen 1976: Derrick - (Bölüm 19: Tote Vögel singen nicht) 1977: Die Kette 1983: Tod des Mario Ricci == Televizyon == Hauptstraße Glück Das Kriminalmuseum – Die Ansichtskarte, 1965; Wer klingelt schon zur Fernsehzeit, 1970 Der Kommissar Der König Die merkwürdige Lebensgeschichte des Friedrich Freiherrn von der Trenck, 1972 Famous Five Ein Fall für zwei Derrick SOKO 5113 Der letzte Zeuge Forsthaus Falkenau Eichholz und Söhne Happy Holiday Wildbach Der Millionenbauer Die glückliche Familie Heidi und Erni Der Landarzt Unser Charly Fünf Sterne Fußballtrainer Wulff, 1972 == Dış bağlantılar == IMDb'de Michael Hinz \"Die Brücke\" machte ihn über Nacht zum Star11 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi. – Nachruf von Peter Zander in der Welt, 8. November 2008, Ausg. 263/2008, S. 26",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 280,
+      "char_count": 1775,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.686833",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 60,
+      "content": "Michael Hinz (28 Aralık 1939 - 6 Kasım 2008), Alman oyuncu.",
+      "char_count": 59,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0001",
+      "section": "== Tiyatro ==",
+      "heading_path": "== Tiyatro ==",
+      "start_char": 60,
+      "end_char": 194,
+      "content": "== Tiyatro == Geronimo und die Räuber (1966) Leben wie die Fürsten (1966) Oblomows Liebe (1976) Die Traumfrau (1978) Die Kette (1977)",
+      "char_count": 133,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0002",
+      "section": "== Filmografi (seçme) ==",
+      "heading_path": "== Filmografi (seçme) ==",
+      "start_char": 194,
+      "end_char": 1075,
+      "content": "== Filmografi (seçme) == 1959: Die Brücke 1960: Geständnis einer Sechzehnjährigen 1960: Lampenfieber 1960: Das Erbe von Björndal (Film) 1960: Gustav Adolfs Page (Film) 1961: …und sowas nennt sich Leben 1961: Kriegsgesetz (Legge di guerra) 1961: Toller Hecht auf krummer Tour 1962: Der längste Tag (The Longest Day) 1962: Ich bin auch nur eine Frau 1962: Das Feuerschiff (1962) 1963: Es war mir ein Vergnügen 1964: Lana – Königin der Amazonen 1965: Tante Frieda – Neue Lausbubengeschichten 1966: Onkel Filser – Allerneueste Lausbubengeschichten 1966: Katz und Maus (Film) 1968: The Last Escape (ABD: 1970) 1972: Vier Mal heute Nacht (Quante volte… quella notte) 1973: Geh, zieh dein Dirndl aus 1973: Tod eines Fremden 1974: Das Gewissen Touch Me Not 1974: Magdalena – vom Teufel besessen 1976: Derrick - (Bölüm 19: Tote Vögel singen nicht) 1977: Die Kette 1983: Tod des Mario Ricci",
+      "char_count": 880,
+      "token_estimate": 220
+    },
+    {
+      "id": "c0003",
+      "section": "== Televizyon ==",
+      "heading_path": "== Televizyon ==",
+      "start_char": 1075,
+      "end_char": 1547,
+      "content": "== Televizyon == Hauptstraße Glück Das Kriminalmuseum – Die Ansichtskarte, 1965; Wer klingelt schon zur Fernsehzeit, 1970 Der Kommissar Der König Die merkwürdige Lebensgeschichte des Friedrich Freiherrn von der Trenck, 1972 Famous Five Ein Fall für zwei Derrick SOKO 5113 Der letzte Zeuge Forsthaus Falkenau Eichholz und Söhne Happy Holiday Wildbach Der Millionenbauer Die glückliche Familie Heidi und Erni Der Landarzt Unser Charly Fünf Sterne Fußballtrainer Wulff, 1972",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1547,
+      "end_char": 1775,
+      "content": "== Dış bağlantılar == IMDb'de Michael Hinz \"Die Brücke\" machte ihn über Nacht zum Star11 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi. – Nachruf von Peter Zander in der Welt, 8. November 2008, Ausg. 263/2008, S. 26",
+      "char_count": 228,
+      "token_estimate": 57
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1959 yılında 'Filmografi (seçme)' listesinde hangi film yer almaktadır?",
+        "answer": "Die Brücke",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Michael Hinz'in bilinen film ve tiyatro çalışmalarına göre oyunculuk kariyeri hangi yıllar arasında kaydedilmiştir?",
+        "answer": "Michael Hinz'in bilinen oyunculuk kariyeri, en erken filmi olan \"Die Brücke\"nin yayımlandığı 1959 yılından, en son filmi \"Tod des Mario Ricci\"nin yayımlandığı 1983 yılına kadar uzanmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

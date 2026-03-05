@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "earlmonroe_6567cfba",
+    "title": "Earl Monroe",
+    "url": "https://tr.wikipedia.org/wiki/Earl_Monroe",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:10.448899",
+    "content": "Vernon Earl Monroe (d.21 Kasım 1944), Amerikalı eski profesyonel basketbolcudur. Ulusal Basketbol Birliği'nde (NBA) kariyeri boyunca Washington Wizards ve New York Knicks olmak iki takım forması giydi. Her iki takım da Monroe'nun forma numarasını emekli etmiştir. Sahadaki başarısı ve gösterişli oyun tarzı nedeniyle Monroe'ya \"Black Jesus\" ve \"Earl the Pearl\" takma adları verildi. Monroe, 1990 yılında Naismith Memorial Basketbol Onur Listesi'ne dahil edildi. == İlk Yılları == Güney Philadelphia bölgesinde büyüyen Monroe, başlangıçta futbol ve beyzbol'a basketboldan daha çok ilgi gösteriyordu. 14 yaşına geldiğinde, Monroe 192 cm\" idi ve basketbola olan ilgisi büyüdü. John Bartram Lisesi'nden mezun olduktan sonra Monroe, Temple Üniversitesi'ne bağlı bir üniversitede Hazırlık Okuluna katıldı. Philadelphia'daki Leon Whitley Rekreasyon merkezinde sık sık basketbol oynarken bir fabrikada nakliye memuru olarak çalıştı. == Kişisel Hayatı == Monroe'nun Rodney adında bir oğlu ve Maya adında bir kızı vardır. Rodney Monroe, North Carolina Eyaletinde muhteşem bir kariyerin ardından Atlanta Hawks takımı için forma giydi ve Maya, lise ve üniversitede koçluk yaptı. Monroe, 1985'te Amerika Birleşik Devletleri Basketbol Ligi'nin komisyon üyesi seçildi. 2012'de Earl Monroe yeni bir şeker şirketi kurdu: NBA Candy Store Son yıllarda Madison Square Garden'da yorumcu olarak ve New Jersey Urban Development Corporation'da komisyon üyesi olarak görev yapıyor. Ekim 2005'te Monroe, New York'ta \"Earl Monroe Restaurant & Pearl Club\" adlı bir restoran açtı. Bununla birlikte, Monroe o zamandan beri isminin lisans haklarını iptal etti ve restoran artık The River Room olarak adlandırılıyor. Monroe, erkek kardeşi ve kız kardeşine diyabet teşhisi kondu. Monroe New York'ta kendi plak şirketi Reverse Spin Records'un sahibi ve işletmecisidir.Şu anda pop/dans sanatçısı Ciara Corr ile pop, dans, hip-hop ve R&B müzikleri yapmaktadır. Monroe ayrıca Groove Phi Groove üyesidir. == Onur Tablosu == 1977'de Monroe, CIAA (Central Intercollegiate Athletic Association) Onur Listesi'ne alındı. Monroe'nun 15 numaralı forması 1 Mart 1986'da New York Knicks tarafından emekliye ayrıldı. 1990'da Naismith Memorial Basketbol Onur Listesi'nde yer aldı. Monroe, 1996 yılında NBA tarihinin en iyi 50 oyuncusundan biri seçildi. 2006'da Monroe, Kolej Basketbol Onur Listesi'ne alındı. 1 Aralık 2007'de Washington Wizards, Monroe'nun 10 numaralı formasını emekli etti.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 337,
+      "char_count": 2442,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.984209",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 462,
+      "content": "Vernon Earl Monroe (d.21 Kasım 1944), Amerikalı eski profesyonel basketbolcudur. Ulusal Basketbol Birliği'nde (NBA) kariyeri boyunca Washington Wizards ve New York Knicks olmak iki takım forması giydi. Her iki takım da Monroe'nun forma numarasını emekli etmiştir. Sahadaki başarısı ve gösterişli oyun tarzı nedeniyle Monroe'ya \"Black Jesus\" ve \"Earl the Pearl\" takma adları verildi. Monroe, 1990 yılında Naismith Memorial Basketbol Onur Listesi'ne dahil edildi.",
+      "char_count": 461,
+      "token_estimate": 115
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk Yılları ==",
+      "heading_path": "== İlk Yılları ==",
+      "start_char": 462,
+      "end_char": 925,
+      "content": "== İlk Yılları == Güney Philadelphia bölgesinde büyüyen Monroe, başlangıçta futbol ve beyzbol'a basketboldan daha çok ilgi gösteriyordu. 14 yaşına geldiğinde, Monroe 192 cm\" idi ve basketbola olan ilgisi büyüdü. John Bartram Lisesi'nden mezun olduktan sonra Monroe, Temple Üniversitesi'ne bağlı bir üniversitede Hazırlık Okuluna katıldı. Philadelphia'daki Leon Whitley Rekreasyon merkezinde sık sık basketbol oynarken bir fabrikada nakliye memuru olarak çalıştı.",
+      "char_count": 462,
+      "token_estimate": 115
+    },
+    {
+      "id": "c0002",
+      "section": "== Kişisel Hayatı ==",
+      "heading_path": "== Kişisel Hayatı ==",
+      "start_char": 925,
+      "end_char": 1925,
+      "content": "== Kişisel Hayatı == Monroe'nun Rodney adında bir oğlu ve Maya adında bir kızı vardır. Rodney Monroe, North Carolina Eyaletinde muhteşem bir kariyerin ardından Atlanta Hawks takımı için forma giydi ve Maya, lise ve üniversitede koçluk yaptı. Monroe, 1985'te Amerika Birleşik Devletleri Basketbol Ligi'nin komisyon üyesi seçildi. 2012'de Earl Monroe yeni bir şeker şirketi kurdu: NBA Candy Store Son yıllarda Madison Square Garden'da yorumcu olarak ve New Jersey Urban Development Corporation'da komisyon üyesi olarak görev yapıyor. Ekim 2005'te Monroe, New York'ta \"Earl Monroe Restaurant & Pearl Club\" adlı bir restoran açtı. Bununla birlikte, Monroe o zamandan beri isminin lisans haklarını iptal etti ve restoran artık The River Room olarak adlandırılıyor. Monroe, erkek kardeşi ve kız kardeşine diyabet teşhisi kondu. Monroe New York'ta kendi plak şirketi Reverse Spin Records'un sahibi ve işletmecisidir.Şu anda pop/dans sanatçısı Ciara Corr ile pop, dans, hip-hop ve R&B müzikleri yapmaktadır. ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kişisel Hayatı ==",
+      "heading_path": "== Kişisel Hayatı ==",
+      "start_char": 1725,
+      "end_char": 1966,
+      "content": "iyabet teşhisi kondu. Monroe New York'ta kendi plak şirketi Reverse Spin Records'un sahibi ve işletmecisidir.Şu anda pop/dans sanatçısı Ciara Corr ile pop, dans, hip-hop ve R&B müzikleri yapmaktadır. Monroe ayrıca Groove Phi Groove üyesidir.",
+      "char_count": 241,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0004",
+      "section": "== Onur Tablosu ==",
+      "heading_path": "== Onur Tablosu ==",
+      "start_char": 1967,
+      "end_char": 2442,
+      "content": "== Onur Tablosu == 1977'de Monroe, CIAA (Central Intercollegiate Athletic Association) Onur Listesi'ne alındı. Monroe'nun 15 numaralı forması 1 Mart 1986'da New York Knicks tarafından emekliye ayrıldı. 1990'da Naismith Memorial Basketbol Onur Listesi'nde yer aldı. Monroe, 1996 yılında NBA tarihinin en iyi 50 oyuncusundan biri seçildi. 2006'da Monroe, Kolej Basketbol Onur Listesi'ne alındı. 1 Aralık 2007'de Washington Wizards, Monroe'nun 10 numaralı formasını emekli etti.",
+      "char_count": 475,
+      "token_estimate": 118
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Monroe'nun çocuklarının isimleri nelerdir?",
+        "answer": "Rodney ve Maya.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Vernon Earl Monroe'nun gençlik yıllarındaki spor tercihleri ile profesyonel basketbol kariyeri ve kariyer sonrası yaşamı arasında nasıl bir ilişki kurulabilir?",
+        "answer": "Monroe gençlik yıllarında başlangıçta futbol ve beyzbola ilgi duysa da, 14 yaşına geldiğinde basketbola olan ilgisinin artmasıyla profesyonel NBA kariyerine adım atmıştır. Bu kariyerinde Washington Wizards ve New York Knicks'te oynayarak 'Earl the Pearl' gibi takma adlar kazanmıştır. Profesyonel basketbol geçmişi, kariyer sonrası hayatında Amerika Birleşik Devletleri Basketbol Ligi'nde komisyon üyeliği yapması, Madison Square Garden'da yorumcu olarak görev alması ve hatta oğlu Rodney'nin de profesyonel basketbol oynaması gibi sporla bağlantılı rollere devam etmesini sağlamıştır. Bunun yanı sıra, kendi adını taşıyan restoran ve plak şirketi gibi farklı iş girişimlerine de yönelmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

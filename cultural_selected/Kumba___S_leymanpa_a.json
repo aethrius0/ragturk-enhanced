@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "kumbasleymanpaa_60ef05fa",
+    "title": "Kumbağ, Süleymanpaşa",
+    "url": "https://tr.wikipedia.org/wiki/Kumba%C4%9F%2C_S%C3%BCleymanpa%C5%9Fa",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:54.681623",
+    "content": "Kumbağ, Tekirdağ ilinin Süleymanpaşa ilçesine bağlı bir mahalledir. 12 Kasım 2012 tarihinde TBMM'de kabul edilen 6360 sayılı kanun ile Tekirdağ merkez ilçesinin kaldırılması sonucu Belde statüsünden çıkartılarak Süleymanpaşa ilçesine bağlı olan bir mahalle olmuştur. == Tarihçe == Edirne Vilayet Matbaası Müdürü Şevket Dağdeviren'in yazdığı 1892 tarihli salnameye göre; Edirne Vilayeti Tekfurdağı Sancağı'nın merkez kazasının Naip nahiyesine bağlı olan bu köyde yılda 30.000 metreküp şarap üretilir. Köyde bir un fabrikası bulunur ve yarım saatlik mesafede deniz kıyısında Aya Nikola, bir saatlik mesafede de Panayır adlı manastırlar vardır. Burada 580 ev 3 türlü kükürtlü su bulunmaktadır. Eski bir Rum balıkçı köyü olduğu bilinmektedir. Ganos Dağlarının marmara'ya bakan eteklerinde kurulmuş olan Kumbağ'ın eski adı Kumbos'tur. Kumbağ, eskiden Barbaros bucağına bağlı bir köyken, 7 Mart 1992 tarihinde beldeye çevrilmiş, ancak 6 Mart 2008 tarihinde kabul edilen nüfusu 2000 kişinin altındaki beldelerin belediyelerinin kapatılarak köye dönüştürülmesine dair kanun kapsamında Kumbağ belediyesi kapatılarak belde yeniden köye çevrilmiştir. 2012 yılında çıkan yasayla birlikte köy Süleymanpaşa ilçesine bağlanmış ve bir mahalle haline gelmiştir. == Coğrafya == Tekirdağ merkezine sahil yolundan 14.5 kilometre uzaklıktadır. == Nüfus == Beldeye ait nüfus verileri tablodaki gibidir. Yazlık bir mahalle olması sebebiyle Kumbağ nüfusu yaz sezonunda yazlıkçıların ve tatilcilerin gelmesi ile daha da artmaktadır. Özellikle uzun süreli bayram tatillerinde bu nüfus 50 bin ilâ 150 bin kişiye kadar çıkabilmektedir. == Kaynakça == == Dış bağlantılar == Yerelnet22 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 231,
+      "char_count": 1715,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.002707",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 267,
+      "content": "Kumbağ, Tekirdağ ilinin Süleymanpaşa ilçesine bağlı bir mahalledir. 12 Kasım 2012 tarihinde TBMM'de kabul edilen 6360 sayılı kanun ile Tekirdağ merkez ilçesinin kaldırılması sonucu Belde statüsünden çıkartılarak Süleymanpaşa ilçesine bağlı olan bir mahalle olmuştur.",
+      "char_count": 266,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 267,
+      "end_char": 1245,
+      "content": "== Tarihçe == Edirne Vilayet Matbaası Müdürü Şevket Dağdeviren'in yazdığı 1892 tarihli salnameye göre; Edirne Vilayeti Tekfurdağı Sancağı'nın merkez kazasının Naip nahiyesine bağlı olan bu köyde yılda 30.000 metreküp şarap üretilir. Köyde bir un fabrikası bulunur ve yarım saatlik mesafede deniz kıyısında Aya Nikola, bir saatlik mesafede de Panayır adlı manastırlar vardır. Burada 580 ev 3 türlü kükürtlü su bulunmaktadır. Eski bir Rum balıkçı köyü olduğu bilinmektedir. Ganos Dağlarının marmara'ya bakan eteklerinde kurulmuş olan Kumbağ'ın eski adı Kumbos'tur. Kumbağ, eskiden Barbaros bucağına bağlı bir köyken, 7 Mart 1992 tarihinde beldeye çevrilmiş, ancak 6 Mart 2008 tarihinde kabul edilen nüfusu 2000 kişinin altındaki beldelerin belediyelerinin kapatılarak köye dönüştürülmesine dair kanun kapsamında Kumbağ belediyesi kapatılarak belde yeniden köye çevrilmiştir. 2012 yılında çıkan yasayla birlikte köy Süleymanpaşa ilçesine bağlanmış ve bir mahalle haline gelmiştir.",
+      "char_count": 977,
+      "token_estimate": 244
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 1245,
+      "end_char": 1323,
+      "content": "== Coğrafya == Tekirdağ merkezine sahil yolundan 14.5 kilometre uzaklıktadır.",
+      "char_count": 77,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0003",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 1323,
+      "end_char": 1608,
+      "content": "== Nüfus == Beldeye ait nüfus verileri tablodaki gibidir. Yazlık bir mahalle olması sebebiyle Kumbağ nüfusu yaz sezonunda yazlıkçıların ve tatilcilerin gelmesi ile daha da artmaktadır. Özellikle uzun süreli bayram tatillerinde bu nüfus 50 bin ilâ 150 bin kişiye kadar çıkabilmektedir.",
+      "char_count": 284,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1623,
+      "end_char": 1715,
+      "content": "== Dış bağlantılar == Yerelnet22 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 92,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kumbağ hangi tarihte belde statüsünden tekrar köye dönüştürülmüştür?",
+        "answer": "6 Mart 2008 tarihinde.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kumbağ'ın idari statüsü zaman içinde nasıl bir değişim göstermiş ve güncel olarak hangi idari yapıya dahildir?",
+        "answer": "Kumbağ, başlangıçta Barbaros bucağına bağlı bir köy iken 7 Mart 1992 tarihinde beldeye çevrilmiştir. Ancak 6 Mart 2008 tarihinde, nüfusu 2000 kişinin altındaki beldelerin belediyelerinin kapatılması yasası kapsamında tekrar köye dönüştürülmüştür. Son olarak, 12 Kasım 2012 tarihinde kabul edilen 6360 sayılı kanun ile belde statüsünden çıkartılarak Tekirdağ ilinin Süleymanpaşa ilçesine bağlı bir mahalle haline gelmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

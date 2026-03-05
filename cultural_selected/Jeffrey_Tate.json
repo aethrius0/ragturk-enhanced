@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "jeffreytate_722dd7ef",
+    "title": "Jeffrey Tate",
+    "url": "https://tr.wikipedia.org/wiki/Jeffrey_Tate",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:41.473549",
+    "content": "Sir Jeffrey Philip Tate CBE (d. 28 Nisan 1943, Salisbury - ö. 2 Haziran 2017, Bergamo), İngiliz orkestra şefidir. == Hayatı == Tate Salisbury, Wiltshire'da doğdu. Doğduğundan beri spina bifida hastasıydı. Orkestra şefi Tate, Surrey Farnham'da büyümüştür. Cambridge Üniversitesi'nde ve Cambridge'deki Christ's Koleji'nde eğitim görmüştür. Tate 1979'da New York'ta bulunan Büyükşehir Operası'nın uluslararası organizasyonları düzenleyen yönetmeniydi. 1985'te İngiliz Oda Orkestrası'nın ana şefliği, 1986 Eylül'ünde Kraliyet Opera Binası'nın baş idarecisi ve Covent Garden'ın başkanlığı görevlerinde bulundu. En son göreviyle House'un tarihindeki bu unvana sahip ilk kişi olmuştur. 1991-1995 yılları arasında Rotterdam Filarmoni Orkestrası'nın ana şefliğini yaptı. 2005 yılında Napoli San Carlo Tiyatrosu'nun müzik direktörlüğüne atandı ve 2010 yılına kadar görevde bulundu. Tate cinsel tercih olarak açıkça eşcinsel olduğunu belli etmiştir. 2017'de ölümüne kadar Alman doktor Klaus Kuhlemann ile eşcinsel birliktelik yaşamışlardır. Tate, yurtdışındaki İngiliz müzik severlere yapacağı 2017'de yılbaşı konserleri esnasında kazanmış olduğu Şövalyelik Nişanı ile hazır bulunmuştur. İngiliz orkestra şefi Jeffrey Tate, 2 Haziran 2017'de Lombardiya'nın Bergamo şehrinde bir performans konseri esnasında geçirdiği kalp krizinden 74 yaşında öldü. == Kaynakça == == Dış bağlantılar == Biography from Hamburg Symphony (State: 2011)8 Ağustos 2016 tarihinde Wayback Machine sitesinde arşivlendi. Biography from allmusic Theatre San Carlo17 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. Pieces, 2002 (article in Christ's College newsletter) \"Jeffrey Tate: 'You can't terrify people any more; you have to do it with love'\". The Guardian podcast with Christopher Cook, 13 October 201126 Temmuz 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1843,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.080013",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 114,
+      "content": "Sir Jeffrey Philip Tate CBE (d. 28 Nisan 1943, Salisbury - ö. 2 Haziran 2017, Bergamo), İngiliz orkestra şefidir.",
+      "char_count": 113,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 114,
+      "end_char": 1114,
+      "content": "== Hayatı == Tate Salisbury, Wiltshire'da doğdu. Doğduğundan beri spina bifida hastasıydı. Orkestra şefi Tate, Surrey Farnham'da büyümüştür. Cambridge Üniversitesi'nde ve Cambridge'deki Christ's Koleji'nde eğitim görmüştür. Tate 1979'da New York'ta bulunan Büyükşehir Operası'nın uluslararası organizasyonları düzenleyen yönetmeniydi. 1985'te İngiliz Oda Orkestrası'nın ana şefliği, 1986 Eylül'ünde Kraliyet Opera Binası'nın baş idarecisi ve Covent Garden'ın başkanlığı görevlerinde bulundu. En son göreviyle House'un tarihindeki bu unvana sahip ilk kişi olmuştur. 1991-1995 yılları arasında Rotterdam Filarmoni Orkestrası'nın ana şefliğini yaptı. 2005 yılında Napoli San Carlo Tiyatrosu'nun müzik direktörlüğüne atandı ve 2010 yılına kadar görevde bulundu. Tate cinsel tercih olarak açıkça eşcinsel olduğunu belli etmiştir. 2017'de ölümüne kadar Alman doktor Klaus Kuhlemann ile eşcinsel birliktelik yaşamışlardır. Tate, yurtdışındaki İngiliz müzik severlere yapacağı 2017'de yılbaşı konserleri esna",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 914,
+      "end_char": 1337,
+      "content": "olduğunu belli etmiştir. 2017'de ölümüne kadar Alman doktor Klaus Kuhlemann ile eşcinsel birliktelik yaşamışlardır. Tate, yurtdışındaki İngiliz müzik severlere yapacağı 2017'de yılbaşı konserleri esnasında kazanmış olduğu Şövalyelik Nişanı ile hazır bulunmuştur. İngiliz orkestra şefi Jeffrey Tate, 2 Haziran 2017'de Lombardiya'nın Bergamo şehrinde bir performans konseri esnasında geçirdiği kalp krizinden 74 yaşında öldü.",
+      "char_count": 423,
+      "token_estimate": 105
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1353,
+      "end_char": 1843,
+      "content": "== Dış bağlantılar == Biography from Hamburg Symphony (State: 2011)8 Ağustos 2016 tarihinde Wayback Machine sitesinde arşivlendi. Biography from allmusic Theatre San Carlo17 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. Pieces, 2002 (article in Christ's College newsletter) \"Jeffrey Tate: 'You can't terrify people any more; you have to do it with love'\". The Guardian podcast with Christopher Cook, 13 October 201126 Temmuz 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 490,
+      "token_estimate": 122
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tate Salisbury nerede doğdu?",
+        "answer": "Wiltshire, Salisbury'de doğdu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sir Jeffrey Philip Tate'in hem profesyonel kariyeri hem de kişisel yaşamıyla ilgili öne çıkan yönleri nelerdir?",
+        "answer": "Sir Jeffrey Philip Tate, 1943'te doğup 2017'de vefat eden İngiliz bir orkestra şefidir. Spina bifida hastası olarak dünyaya gelmiş, Cambridge Üniversitesi'nde eğitim görmüş ve kariyeri boyunca New York'taki Büyükşehir Operası'nın uluslararası organizasyonları düzenleyen yönetmenliği, İngiliz Oda Orkestrası'nın ana şefliği ve Rotterdam Filarmoni Orkestrası'nın ana şefliği gibi önemli görevlerde bulunmuştur. Aynı zamanda Kraliyet Opera Binası'nın baş idarecisi ve Covent Garden'ın başkanı unvanına sahip ilk kişi olmuştur. Açıkça eşcinsel kimliğini yaşamış ve Alman doktor Klaus Kuhlemann ile birlikteliği olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

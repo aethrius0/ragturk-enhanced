@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "nahimovmadalyas_3b56e06e",
+    "title": "Nahimov Madalyası",
+    "url": "https://tr.wikipedia.org/wiki/Nahimov_Madalyas%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:48.015814",
+    "content": "Nahimov Madalyası (Rusça: Медаль Нахимова), SSCB ve Rusya vatandaşlarına verilen askeri bir madalyadır. == Tarihi == Nahimov Madalyası, 3 Mart 1944'te SSCB Yüksek Sovyeti kararıyla yaratılan bir Sovyet askeri ödülü idi. Sosyalist vatanın savunmasındaki ayrıcalığı ödüllendirmek ve gemilerde, Deniz Kuvvetleri birliklerinde veya Sınır Muhafız birliklerinde başarılı muharip misyonlarını aktif olarak tanımak için verildi. Rus deniz tarihinin en ünlü amirallerinden biri olan Rus amirali Pavel Nahimov'un onuruna verildi. Sovyetler Birliği'nin 1991'de dağılmasından sonra, ödül 2 Mart 1992'de Rusya Federasyonu Yüksek Sovyet Konseyi'nin 2424-1 no'lu Kararı ile potansiyel olarak ve yalnızca geçici olarak muhafaza edildi. Hiçbir zaman Rusya Federasyonu tarafından verilmedi ve nihayet 2 Mart 1994 tarihli Rusya Federasyonu Başkanı'nın kararı ile Devlet ödülleri listesinden çıkarılır. == Ödül Tüzüğü == Nahimov Madalyası, denizciler, askerler, küçük subaylar ve astsubaylar, Sovyet Deniz Kuvvetleri, Deniz Piyadeleri, Bahriye kolordusu ve KGB Sınır muhafızı Askerî birliklerince cesaret ve kahramanlığa göre memurlar ve emniyet görevlilerine verildi. Askeri görevlerde SSCB'nin deniz sınırlarını koruyarak, deniz tiyatrolarında Sovyetler Birliği savunması sırasında gösterildi. Nahimov madalyaları, 1944'te kurulmasından, 1994'te kaldırılmasına kadar 14.020 kez verildi. Nahimov Madalyası göğsün sol tarafında giyildi ve Sovyetler Birliği'nin diğer Emirleri ve madalyalarının eşliğinde Askeri Başarı Madalyası'nın hemen ardından yer aldı. Rusya Federasyonu Emirleri veya madalyaları eşliğinde giyilirse, bu madalya önceliklidir == Ödül Tanıtımı == Nahimov Madalyası, 36mm çapında dairesel bronz madalyayla yükseltilmiş bir jantt idi. Ön yüzde orta kısımdan amiral Nahimov'un tüm madalya çevresi boyunca küçük boncuklarla çevrili profil büstleri vardı. Gövdenin her iki yanındaki üst yarısında da, \"ADMIRAL NAKHIMOV\" (Rusça: «АДМИРАЛ НАХИМО») kabartması yazısı, alt yarısında, defne ağalarıyla ilgili beş yıldızlı bir yıldızdır. Tersi, tüm çevresi boyunca aynı küçük boncuğu taşıyordu. Merkezde yuvarlak bir zincir ile birbirine bağlanmış çapraz deniz ankrajları üzerinden ip halatı ile çevrili yelkenli bir gemi taşıyan bir madalyon var idi. Madalya, standart bir Sovyet beşgen çerçevesinden süspansiyon halkası boyunca bir halka ile askıya alındı. Çerçeve, 24mm genişliğinde ipek moiré mavi bir şerit ve 2 mm aralıklarla yerleştirilmiş üç orta 3 mm genişliğinde beyaz şerit ile örtülmüşdür. == Kaynakça == == Ayrıca bakınız == Sovyetler Birliği'nin madalya ve nişanları Nahimov Nişanı Pavel Nahimov",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 339,
+      "char_count": 2597,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.427242",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 104,
+      "content": "Nahimov Madalyası (Rusça: Медаль Нахимова), SSCB ve Rusya vatandaşlarına verilen askeri bir madalyadır.",
+      "char_count": 103,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 104,
+      "end_char": 883,
+      "content": "== Tarihi == Nahimov Madalyası, 3 Mart 1944'te SSCB Yüksek Sovyeti kararıyla yaratılan bir Sovyet askeri ödülü idi. Sosyalist vatanın savunmasındaki ayrıcalığı ödüllendirmek ve gemilerde, Deniz Kuvvetleri birliklerinde veya Sınır Muhafız birliklerinde başarılı muharip misyonlarını aktif olarak tanımak için verildi. Rus deniz tarihinin en ünlü amirallerinden biri olan Rus amirali Pavel Nahimov'un onuruna verildi. Sovyetler Birliği'nin 1991'de dağılmasından sonra, ödül 2 Mart 1992'de Rusya Federasyonu Yüksek Sovyet Konseyi'nin 2424-1 no'lu Kararı ile potansiyel olarak ve yalnızca geçici olarak muhafaza edildi. Hiçbir zaman Rusya Federasyonu tarafından verilmedi ve nihayet 2 Mart 1994 tarihli Rusya Federasyonu Başkanı'nın kararı ile Devlet ödülleri listesinden çıkarılır.",
+      "char_count": 778,
+      "token_estimate": 194
+    },
+    {
+      "id": "c0002",
+      "section": "== Ödül Tüzüğü ==",
+      "heading_path": "== Ödül Tüzüğü ==",
+      "start_char": 883,
+      "end_char": 1626,
+      "content": "== Ödül Tüzüğü == Nahimov Madalyası, denizciler, askerler, küçük subaylar ve astsubaylar, Sovyet Deniz Kuvvetleri, Deniz Piyadeleri, Bahriye kolordusu ve KGB Sınır muhafızı Askerî birliklerince cesaret ve kahramanlığa göre memurlar ve emniyet görevlilerine verildi. Askeri görevlerde SSCB'nin deniz sınırlarını koruyarak, deniz tiyatrolarında Sovyetler Birliği savunması sırasında gösterildi. Nahimov madalyaları, 1944'te kurulmasından, 1994'te kaldırılmasına kadar 14.020 kez verildi. Nahimov Madalyası göğsün sol tarafında giyildi ve Sovyetler Birliği'nin diğer Emirleri ve madalyalarının eşliğinde Askeri Başarı Madalyası'nın hemen ardından yer aldı. Rusya Federasyonu Emirleri veya madalyaları eşliğinde giyilirse, bu madalya önceliklidir",
+      "char_count": 742,
+      "token_estimate": 185
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödül Tanıtımı ==",
+      "heading_path": "== Ödül Tanıtımı ==",
+      "start_char": 1626,
+      "end_char": 2490,
+      "content": "== Ödül Tanıtımı == Nahimov Madalyası, 36mm çapında dairesel bronz madalyayla yükseltilmiş bir jantt idi. Ön yüzde orta kısımdan amiral Nahimov'un tüm madalya çevresi boyunca küçük boncuklarla çevrili profil büstleri vardı. Gövdenin her iki yanındaki üst yarısında da, \"ADMIRAL NAKHIMOV\" (Rusça: «АДМИРАЛ НАХИМО») kabartması yazısı, alt yarısında, defne ağalarıyla ilgili beş yıldızlı bir yıldızdır. Tersi, tüm çevresi boyunca aynı küçük boncuğu taşıyordu. Merkezde yuvarlak bir zincir ile birbirine bağlanmış çapraz deniz ankrajları üzerinden ip halatı ile çevrili yelkenli bir gemi taşıyan bir madalyon var idi. Madalya, standart bir Sovyet beşgen çerçevesinden süspansiyon halkası boyunca bir halka ile askıya alındı. Çerçeve, 24mm genişliğinde ipek moiré mavi bir şerit ve 2 mm aralıklarla yerleştirilmiş üç orta 3 mm genişliğinde beyaz şerit ile örtülmüşdür.",
+      "char_count": 863,
+      "token_estimate": 215
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2505,
+      "end_char": 2597,
+      "content": "== Ayrıca bakınız == Sovyetler Birliği'nin madalya ve nişanları Nahimov Nişanı Pavel Nahimov",
+      "char_count": 92,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Nahimov Madalyası'nın çapı ne kadardır?",
+        "answer": "Nahimov Madalyası 36mm çapındadır.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Nahimov Madalyası'nın SSCB'den Rusya Federasyonu'na geçişindeki amacı, alıcıları ve nihai durumu nasıl bir gelişim göstermiştir?",
+        "answer": "Nahimov Madalyası, 3 Mart 1944'te SSCB Yüksek Sovyeti tarafından Sosyalist vatanın savunmasında ayrıcalığı ödüllendirmek ve gemilerde, Deniz Kuvvetleri veya Sınır Muhafız birliklerinde başarılı muharip misyonları tanımak için oluşturulan bir Sovyet askeri ödülüydü. Denizciler, askerler, küçük subaylar ve astsubaylar ile Sovyet Deniz Kuvvetleri, Deniz Piyadeleri, Bahriye kolordusu ve KGB Sınır muhafızı Askerî birliklerinin memurlarına ve emniyet görevlilerine, SSCB'nin deniz sınırlarını koruyarak ve deniz tiyatrolarında Sovyetler Birliği savunması sırasında gösterilen cesaret ve kahramanlığa göre verildi. Madalya, 1944'te kuruluşundan 1994'te kaldırılmasına kadar 14.020 kez verildi. Sovyetler Birliği'nin 1991'de dağılmasından sonra, 2 Mart 1992'de Rusya Federasyonu tarafından potansiyel olarak geçici olarak muhafaza edildi ancak hiçbir zaman Rusya Federasyonu tarafından verilmedi ve nihayet 2 Mart 1994'te Devlet ödülleri listesinden çıkarıldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

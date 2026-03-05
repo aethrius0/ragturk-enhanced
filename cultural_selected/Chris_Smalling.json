@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "chrissmalling_48a93313",
+    "title": "Chris Smalling",
+    "url": "https://tr.wikipedia.org/wiki/Chris_Smalling",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:28.055432",
+    "content": "Christopher Lloyd \"Chris\" Smalling (d. 22 Kasım 1989, Greenwich), İngiliz futbolcudur. == Kariyeri == === Kulüp kariyeri === 2007 yılında Maidstone United FC takımında profesyonel olan Smalling, kariyerindeki ilk maçına 11 Aralık 2007 tarihinde 1-1 biten maçta Harlow Town FC karşısında çıktı ve sahada 90 dakika kaldı. İlk golünü ise 24 Mart 2008 tarihinde 4-2 kazandıkları maçta East Thurrock United FC karşısında attı. Smalling, Haziran 2008 tarihinde Fulham FC'a 10 bin £ karşılığında transfer oldu. Fulham forması altındaki ilk maçına 24 Mayıs 2009 tarihinde 2-0 kaybettikleri maçta Everton FC karşısında çıktı. Avrupa kupalarındaki ilk maçına 17 Eylül 2009 tarihinde 1-1 biten maçta CSKA Sofya karşısında çıktı. Ancak Fulham formasıyla golü yoktur. Smalling, 27 Ocak 2010 tarihinde Manchester United takımına transfer oldu. Smalling, Manchester United forması altındaki ilk maçına 8 Ağustos 2010 tarihinde 3-1 kazandıkları maçta Chelsea karşısında çıktı. İlk Şampiyonlar Ligi maçına ise 0-0 biten maçta Rangers karşısında çıktı ve sahada 90 dakika kaldı. Şu an Manchester United formasıyla hiç golü yoktur. 2010-11 sezonunda takımıyla Premier League şampiyonluğu yaşadı. 8 Temmuz 2011 tarihinde takımıyla sözleşmesini 5 yıla kadar uzattı. === Millî takım kariyeri === Smalling, İngiltere U-21 forması altındaki ilk maçına 11 Ağustos 2009 tarihinde 0-0 biten maçta Hollanda U-21 karşısında çıktı. İlk golünü ise 8 Ekim 2010 tarihinde 2-1 kazandıkları maçta Romanya U-21 karşısında attı. Smalling, şu ana kadar İngiltere U-20 formasını bir kez, İngiltere U-21 formasını ise 14 kez giydi ve bir gol attı. == İstatistikleri == === Kulüp === 22 Mayıs 2011 itibarıyla == Başarıları == === Kulüp === Manchester United Premier League: 2010-11, 2012-13 FA Community Shield: 2010, 2011, 2013 Roma UEFA Konferans Ligi: 2021-22 == Not == == Kaynakça == == Dış bağlantılar == Transfermarkt'ta Chris Smalling National-Football-Teams.com'da Chris Smalling Soccerbase'te Chris Smalling Manchester United FC profili16 Ocak 2011 tarihinde Wayback Machine sitesinde arşivlendi. Premier League profili19 Ağustos 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 309,
+      "char_count": 2150,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.548459",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 87,
+      "content": "Christopher Lloyd \"Chris\" Smalling (d. 22 Kasım 1989, Greenwich), İngiliz futbolcudur.",
+      "char_count": 86,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kulüp kariyeri ===",
+      "heading_path": "=== Kulüp kariyeri ===",
+      "start_char": 102,
+      "end_char": 1102,
+      "content": "=== Kulüp kariyeri === 2007 yılında Maidstone United FC takımında profesyonel olan Smalling, kariyerindeki ilk maçına 11 Aralık 2007 tarihinde 1-1 biten maçta Harlow Town FC karşısında çıktı ve sahada 90 dakika kaldı. İlk golünü ise 24 Mart 2008 tarihinde 4-2 kazandıkları maçta East Thurrock United FC karşısında attı. Smalling, Haziran 2008 tarihinde Fulham FC'a 10 bin £ karşılığında transfer oldu. Fulham forması altındaki ilk maçına 24 Mayıs 2009 tarihinde 2-0 kaybettikleri maçta Everton FC karşısında çıktı. Avrupa kupalarındaki ilk maçına 17 Eylül 2009 tarihinde 1-1 biten maçta CSKA Sofya karşısında çıktı. Ancak Fulham formasıyla golü yoktur. Smalling, 27 Ocak 2010 tarihinde Manchester United takımına transfer oldu. Smalling, Manchester United forması altındaki ilk maçına 8 Ağustos 2010 tarihinde 3-1 kazandıkları maçta Chelsea karşısında çıktı. İlk Şampiyonlar Ligi maçına ise 0-0 biten maçta Rangers karşısında çıktı ve sahada 90 dakika kaldı. Şu an Manchester United formasıyla hiç go",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "=== Kulüp kariyeri ===",
+      "heading_path": "=== Kulüp kariyeri ===",
+      "start_char": 902,
+      "end_char": 1244,
+      "content": "tarihinde 3-1 kazandıkları maçta Chelsea karşısında çıktı. İlk Şampiyonlar Ligi maçına ise 0-0 biten maçta Rangers karşısında çıktı ve sahada 90 dakika kaldı. Şu an Manchester United formasıyla hiç golü yoktur. 2010-11 sezonunda takımıyla Premier League şampiyonluğu yaşadı. 8 Temmuz 2011 tarihinde takımıyla sözleşmesini 5 yıla kadar uzattı.",
+      "char_count": 342,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0003",
+      "section": "=== Millî takım kariyeri ===",
+      "heading_path": "=== Millî takım kariyeri ===",
+      "start_char": 1245,
+      "end_char": 1608,
+      "content": "=== Millî takım kariyeri === Smalling, İngiltere U-21 forması altındaki ilk maçına 11 Ağustos 2009 tarihinde 0-0 biten maçta Hollanda U-21 karşısında çıktı. İlk golünü ise 8 Ekim 2010 tarihinde 2-1 kazandıkları maçta Romanya U-21 karşısında attı. Smalling, şu ana kadar İngiltere U-20 formasını bir kez, İngiltere U-21 formasını ise 14 kez giydi ve bir gol attı.",
+      "char_count": 362,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0004",
+      "section": "=== Kulüp ===",
+      "heading_path": "=== Kulüp ===",
+      "start_char": 1629,
+      "end_char": 1668,
+      "content": "=== Kulüp === 22 Mayıs 2011 itibarıyla",
+      "char_count": 38,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0005",
+      "section": "=== Kulüp ===",
+      "heading_path": "=== Kulüp ===",
+      "start_char": 1685,
+      "end_char": 1822,
+      "content": "=== Kulüp === Manchester United Premier League: 2010-11, 2012-13 FA Community Shield: 2010, 2011, 2013 Roma UEFA Konferans Ligi: 2021-22",
+      "char_count": 136,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1847,
+      "end_char": 2150,
+      "content": "== Dış bağlantılar == Transfermarkt'ta Chris Smalling National-Football-Teams.com'da Chris Smalling Soccerbase'te Chris Smalling Manchester United FC profili16 Ocak 2011 tarihinde Wayback Machine sitesinde arşivlendi. Premier League profili19 Ağustos 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 303,
+      "token_estimate": 75
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Smalling, Haziran 2008'de kaç £ karşılığında Fulham FC'a transfer oldu?",
+        "answer": "10 bin £",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Christopher Lloyd \"Chris\" Smalling'in doğum tarihi ve profesyonel kariyerindeki ilk maçına çıktığı tarih dikkate alındığında, Maidstone United FC için oynadığı ilk profesyonel maçında yaklaşık olarak kaç yaşındaydı?",
+        "answer": "Chris Smalling, Maidstone United FC formasıyla ilk profesyonel maçına çıktığında yaklaşık 18 yaşındaydı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

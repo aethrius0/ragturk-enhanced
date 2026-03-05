@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "jrghaider_ad04d4b7",
+    "title": "Jörg Haider",
+    "url": "https://tr.wikipedia.org/wiki/J%C3%B6rg_Haider",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:08.797382",
+    "content": "Jörg Haider (26 Ocak 1950; Bad Goisern, Yukarı Avusturya - 11 Ekim 2008; Köttmannsdorf, Karintiya), Avusturyalı bir politikacı. Haider'in ebeveynleri Avusturya Nazi Partisi'nin (DNSAP, NSDAP, Alman Nazi Partisi Avusturya iştiraki) üyesi olmuştu. Haider'in babası Robert Haider, bir ayakkabıcıydı. Annesi Dorothea Rupp, Linz genel hastanesinde, hekim ve jinekoloji servisi başkanının kızıydı. Babası Robert Haider. Adolf Hitler'in Almanya'da iktidara gelmesinden dört yıl önce, henüz on beş yaşında bir çocuk olarak 1929 yılında Nazi Partisine katıldı. Nazi Partisi Avusturya'da yasaklanmasından sonra bile partinin bir üyesi olarak kaldı. 1933 yılında, Haider Bavyera'ya taşındı ama Avusturya hükûmetini devirme çabasında başarısız olan Nazilerden sonra ertesi yıl Avusturya'ya döndü. Haider Tutuklandı ve Almanya'ya geri dönmeyi seçti. Avusturya Lejyonunun, Sturmabteilung bölümüne katıldı. Babası Haider Almanya'da iki yıllık askerlik görevini tamamladı ve Nazi Almanyası'nın Avusturya'yı ilhak edildikten (Anschluss) sonra 1938 yılında Avusturya'ya döndü. 1940 yılından itibaren, II. Dünya Savaşı sırasında Avrupa'da Batı ve Doğu Cepheleri bir subay olarak savaştı. Birkaç kez yaralandı, teğmen rütbesiyle Wehrmacht'da taburcu edildi. 1945 yılında, Bund Deutscher Mädel (BDM) lideri olan, Dorothea Rupp ile evlendi. Savaşın sona ermesinin ardından, Robert Haider bir ayakkabı fabrikasında iş buldu. Bir öğretmen olan annesi Dorothea Haider'in savaşın sona ermesinin ardından birkaç yıl öğretmenlik yapması yasaklanmıştır. == Eğitimi == Jörg Haider 1969 yılında askerlikten terhis olduktan sonra Viyana'ya taşındı ve Viyana Üniversitesi'nde hukuk ve siyaset bilimi eğitimi almaya başladı. 1974 yılında anayasa hukuku bölümünde Viyana Üniversitesi hukuk fakültesinde çalışmaya başladı. == Siyasi kariyeri == Evli ve iki kız çocuğu babası olan Jörg Haider 14 yıl parti genelbaşkanı olarak görev aldı. Jörg Haider'ın önderliğinde FPÖ sürekli bir çıkış yaptı. FPÖ'den ayrıldıktan sonra partideki arkadaşları ve hükûmetteki kadrosuyla BZÖ partisini kurdu. Jörg Haider 2005'ten 2006'ya kadar ve 2008'de BZÖ genelbaşkanıydı. 1999'dan beri Karintiya landeshauptmannı olarak görev yapmaktaydı. Karintiya bölgesinin ekonomik ve sosyal gelişimine büyük katkı sağladı. Jörg Haider, nazi dönemini öven, sağcı popülist söylemleriyle bilinmektedir. == Ölümü == 11 Ekim 2008 tarihinde, Klagenfurt şehri yakınlarında kendi kullandığı arabanın takla atması sonucu başından ve göğsünden yaralanarak öldü. Cenazesi Avusturya'nın çeşitli eyaletlerinde düzenlenen törenler ile kaldırıldı. Kız kardeşi Ursula Haubner'dir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 339,
+      "char_count": 2615,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.875173",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Jörg Haider (26 Ocak 1950; Bad Goisern, Yukarı Avusturya - 11 Ekim 2008; Köttmannsdorf, Karintiya), Avusturyalı bir politikacı. Haider'in ebeveynleri Avusturya Nazi Partisi'nin (DNSAP, NSDAP, Alman Nazi Partisi Avusturya iştiraki) üyesi olmuştu. Haider'in babası Robert Haider, bir ayakkabıcıydı. Annesi Dorothea Rupp, Linz genel hastanesinde, hekim ve jinekoloji servisi başkanının kızıydı. Babası Robert Haider. Adolf Hitler'in Almanya'da iktidara gelmesinden dört yıl önce, henüz on beş yaşında bir çocuk olarak 1929 yılında Nazi Partisine katıldı. Nazi Partisi Avusturya'da yasaklanmasından sonra bile partinin bir üyesi olarak kaldı. 1933 yılında, Haider Bavyera'ya taşındı ama Avusturya hükûmetini devirme çabasında başarısız olan Nazilerden sonra ertesi yıl Avusturya'ya döndü. Haider Tutuklandı ve Almanya'ya geri dönmeyi seçti. Avusturya Lejyonunun, Sturmabteilung bölümüne katıldı. Babası Haider Almanya'da iki yıllık askerlik görevini tamamladı ve Nazi Almanyası'nın Avusturya'yı ilhak edi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1524,
+      "content": "dı ve Almanya'ya geri dönmeyi seçti. Avusturya Lejyonunun, Sturmabteilung bölümüne katıldı. Babası Haider Almanya'da iki yıllık askerlik görevini tamamladı ve Nazi Almanyası'nın Avusturya'yı ilhak edildikten (Anschluss) sonra 1938 yılında Avusturya'ya döndü. 1940 yılından itibaren, II. Dünya Savaşı sırasında Avrupa'da Batı ve Doğu Cepheleri bir subay olarak savaştı. Birkaç kez yaralandı, teğmen rütbesiyle Wehrmacht'da taburcu edildi. 1945 yılında, Bund Deutscher Mädel (BDM) lideri olan, Dorothea Rupp ile evlendi. Savaşın sona ermesinin ardından, Robert Haider bir ayakkabı fabrikasında iş buldu. Bir öğretmen olan annesi Dorothea Haider'in savaşın sona ermesinin ardından birkaç yıl öğretmenlik yapması yasaklanmıştır.",
+      "char_count": 724,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0002",
+      "section": "== Eğitimi ==",
+      "heading_path": "== Eğitimi ==",
+      "start_char": 1525,
+      "end_char": 1787,
+      "content": "== Eğitimi == Jörg Haider 1969 yılında askerlikten terhis olduktan sonra Viyana'ya taşındı ve Viyana Üniversitesi'nde hukuk ve siyaset bilimi eğitimi almaya başladı. 1974 yılında anayasa hukuku bölümünde Viyana Üniversitesi hukuk fakültesinde çalışmaya başladı.",
+      "char_count": 261,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0003",
+      "section": "== Siyasi kariyeri ==",
+      "heading_path": "== Siyasi kariyeri ==",
+      "start_char": 1787,
+      "end_char": 2336,
+      "content": "== Siyasi kariyeri == Evli ve iki kız çocuğu babası olan Jörg Haider 14 yıl parti genelbaşkanı olarak görev aldı. Jörg Haider'ın önderliğinde FPÖ sürekli bir çıkış yaptı. FPÖ'den ayrıldıktan sonra partideki arkadaşları ve hükûmetteki kadrosuyla BZÖ partisini kurdu. Jörg Haider 2005'ten 2006'ya kadar ve 2008'de BZÖ genelbaşkanıydı. 1999'dan beri Karintiya landeshauptmannı olarak görev yapmaktaydı. Karintiya bölgesinin ekonomik ve sosyal gelişimine büyük katkı sağladı. Jörg Haider, nazi dönemini öven, sağcı popülist söylemleriyle bilinmektedir.",
+      "char_count": 548,
+      "token_estimate": 137
+    },
+    {
+      "id": "c0004",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 2336,
+      "end_char": 2601,
+      "content": "== Ölümü == 11 Ekim 2008 tarihinde, Klagenfurt şehri yakınlarında kendi kullandığı arabanın takla atması sonucu başından ve göğsünden yaralanarak öldü. Cenazesi Avusturya'nın çeşitli eyaletlerinde düzenlenen törenler ile kaldırıldı. Kız kardeşi Ursula Haubner'dir.",
+      "char_count": 264,
+      "token_estimate": 66
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Avusturyalı politikacı Jörg Haider ne zaman doğdu ve ne zaman vefat etti?",
+        "answer": "Jörg Haider 26 Ocak 1950'de doğdu ve 11 Ekim 2008'de vefat etti.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jörg Haider'in ebeveynleri Robert Haider ve Dorothea Rupp'un Nazi örgütleriyle olan bağlantıları, savaş sırasında ve sonrasında hayatlarında ne gibi etkiler yarattı?",
+        "answer": "Robert Haider, henüz 15 yaşındayken 1929'da Nazi Partisi'ne katıldı, partinin Avusturya'da yasaklanmasına rağmen üye kalmaya devam etti ve Avusturya Lejyonunun Sturmabteilung bölümünde yer aldı. Almanya'da iki yıllık askerlik görevini tamamladıktan sonra, II. Dünya Savaşı sırasında 1940'tan itibaren bir subay olarak savaştı, birkaç kez yaralandı ve teğmen rütbesiyle Wehrmacht'tan terhis edildi. Dorothea Rupp ise Bund Deutscher Mädel (BDM) lideriydi ve Robert ile 1945'te evlendi. Savaş sona erdikten sonra Robert bir ayakkabı fabrikasında iş bulurken, bir öğretmen olan Dorothea'nın savaş sonrası birkaç yıl öğretmenlik yapması yasaklandı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

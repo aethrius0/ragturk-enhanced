@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "tourdefrancedalarkla_73f9d4db",
+    "title": "Tour de France dağlar klasmanı",
+    "url": "https://tr.wikipedia.org/wiki/Tour_de_France_da%C4%9Flar_klasman%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:11.240798",
+    "content": "Benekli mayo, Tour de France'ta en iyi tırmanıcı bisikletçinin giydiği mayo. Fransa Bisiklet Turu'nda sarı mayo'dan sonra en değerli 2. kategoridir. Dağlarda elde edilen puanlar sonucunda oluşan sıralamada 1. olan bisikletçi Dağların Kralı olarak adlandırılır ve 1975'ten bu yana beyaz üzerine kırmızı noktalar bulunan, kırmızı puantiyeli mayoyu giyer. == Tarihçe == 1905 yılından bu yana turu organize ede gazetelerden birisi olan, Fransız gazetesi l'Auto, Tour de France 'ta yarışan bir bisikletçiyi meilleur grimpeur, yani en iyi tırmanıcı ilan etti. 1933'te Vicente Trueba bu kategoride üstünlük sağlayan isim oldu. Fakat Trueba, zayıf bir destekçiydi, bu yüzden zirvelere ilk sırada ulaşmanın ona kattığı pek bir şey olmadı. Tour de France başkanı Henri Desgrange, zirvelere ilk ulaşan bisikletçilere bonuslar verilmesine karar verdi. 1934'ten bu yana, zirveye önce ulaşan 1. ve 2. bisikletçi arasındaki fark, zirveye ilk ulaşan bisikletçiye bonus zaman olarak verildi. Bu zaman bonusları zamanla kaldırıldı, fakat Dağların Kralı tabiri her zaman kullanıldı. En iyi tırmanıcı seçilmesine 1933'te karar verilmiş olmasına rağmen, 1975 yılına kadar bu kategori için özel bir mayo öngörülmedi. Mayonun rengi sponsorlar tarafından kararlaştırıldı. Poulain Chocolate ya da Chocolat Poulain adlı çikolata şirketinin, kırmızı puantiyeli çikolata paketleri nedeniyle böyle bir seçim yapıldı. 1993'ten beri mayonun sponsorluğunu Carrefour süpermarketleri yapmaktadır. Başlangçta sponsoruğu Champion alt markası yapmaktayken, 2009 yılındaki Tour de France'tan beri sponsorluğu asıl firma olan Carrefour yapmaya başlamıştır. Tur'un mayo renkleri aynı zamanda diğer bisiklet turları tarafından da benimsenmiştir. Büyük Britanya Bisiklet Turu'nda da benekli mayo mevcuttur. 2013 yılında Fransa Bisiklet Turu'nun 100. yıldönümünde en iyi tırmanışçının giymiş olduğu bu mayoyu Kolombiyalı bisikletçi Nairo Quintana kazanmıştır. Benekli mayo sahibi Quintana, genel klasmanda lider Chris Froome'un ardından Tur'u 2. sırada bitirmiş ve genç bisikletçi kategorisinde zirveyi elde etmiştir. == Kazananlar == === Meilleurs grimpeurs === Bu liste, L'Auto gazetesi tarafından meilleur grimpeur seçilen bisikletçileri gösterir. L'Auto Tour de France'ı düzenlese de, meilleur grimpeur unvanı tur organizasyonu tarafından verilmemişti, bu yüzden liste gayri resmidir. Ancak, daha sonra Dağların Kralı unvanının doğrudan bir öncüsüdür. === Dağlar klasmanı === === Çoklu kazananlar === === Ülkelere göre === === Genel klasman ve dağlar klasmanını aynı yıl kazananlar === 1969'da, Eddy Merckx, sadece Tour de France genel klasman ve dağlar klasmanını kazanmakla kalmadı, aynı zamanda Tour de France puan klasmanını da kazandı. Genel klasman ve dağlar klasmanı 12 kez 8 farklı bisikletçi tarafından aynı yıl kazanıldı: 1938: Gino Bartali 1939: Sylvère Maes 1948: Gino Bartali 1949: Fausto Coppi 1952: Fausto Coppi 1959: Federico Bahamontes 1969: Eddy Merckx 1970: Eddy Merckx 2008: Carlos Sastre 2015: Chris Froome 2020: Tadej Pogačar 2021: Tadej Pogačar 2022: Jonas Vingegaard == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 423,
+      "char_count": 3066,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.748024",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 353,
+      "content": "Benekli mayo, Tour de France'ta en iyi tırmanıcı bisikletçinin giydiği mayo. Fransa Bisiklet Turu'nda sarı mayo'dan sonra en değerli 2. kategoridir. Dağlarda elde edilen puanlar sonucunda oluşan sıralamada 1. olan bisikletçi Dağların Kralı olarak adlandırılır ve 1975'ten bu yana beyaz üzerine kırmızı noktalar bulunan, kırmızı puantiyeli mayoyu giyer.",
+      "char_count": 352,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 353,
+      "end_char": 1353,
+      "content": "== Tarihçe == 1905 yılından bu yana turu organize ede gazetelerden birisi olan, Fransız gazetesi l'Auto, Tour de France 'ta yarışan bir bisikletçiyi meilleur grimpeur, yani en iyi tırmanıcı ilan etti. 1933'te Vicente Trueba bu kategoride üstünlük sağlayan isim oldu. Fakat Trueba, zayıf bir destekçiydi, bu yüzden zirvelere ilk sırada ulaşmanın ona kattığı pek bir şey olmadı. Tour de France başkanı Henri Desgrange, zirvelere ilk ulaşan bisikletçilere bonuslar verilmesine karar verdi. 1934'ten bu yana, zirveye önce ulaşan 1. ve 2. bisikletçi arasındaki fark, zirveye ilk ulaşan bisikletçiye bonus zaman olarak verildi. Bu zaman bonusları zamanla kaldırıldı, fakat Dağların Kralı tabiri her zaman kullanıldı. En iyi tırmanıcı seçilmesine 1933'te karar verilmiş olmasına rağmen, 1975 yılına kadar bu kategori için özel bir mayo öngörülmedi. Mayonun rengi sponsorlar tarafından kararlaştırıldı. Poulain Chocolate ya da Chocolat Poulain adlı çikolata şirketinin, kırmızı puantiyeli çikolata paketleri ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1153,
+      "end_char": 2074,
+      "content": " kategori için özel bir mayo öngörülmedi. Mayonun rengi sponsorlar tarafından kararlaştırıldı. Poulain Chocolate ya da Chocolat Poulain adlı çikolata şirketinin, kırmızı puantiyeli çikolata paketleri nedeniyle böyle bir seçim yapıldı. 1993'ten beri mayonun sponsorluğunu Carrefour süpermarketleri yapmaktadır. Başlangçta sponsoruğu Champion alt markası yapmaktayken, 2009 yılındaki Tour de France'tan beri sponsorluğu asıl firma olan Carrefour yapmaya başlamıştır. Tur'un mayo renkleri aynı zamanda diğer bisiklet turları tarafından da benimsenmiştir. Büyük Britanya Bisiklet Turu'nda da benekli mayo mevcuttur. 2013 yılında Fransa Bisiklet Turu'nun 100. yıldönümünde en iyi tırmanışçının giymiş olduğu bu mayoyu Kolombiyalı bisikletçi Nairo Quintana kazanmıştır. Benekli mayo sahibi Quintana, genel klasmanda lider Chris Froome'un ardından Tur'u 2. sırada bitirmiş ve genç bisikletçi kategorisinde zirveyi elde etmiştir.",
+      "char_count": 921,
+      "token_estimate": 230
+    },
+    {
+      "id": "c0003",
+      "section": "=== Meilleurs grimpeurs ===",
+      "heading_path": "=== Meilleurs grimpeurs ===",
+      "start_char": 2092,
+      "end_char": 2413,
+      "content": "=== Meilleurs grimpeurs === Bu liste, L'Auto gazetesi tarafından meilleur grimpeur seçilen bisikletçileri gösterir. L'Auto Tour de France'ı düzenlese de, meilleur grimpeur unvanı tur organizasyonu tarafından verilmemişti, bu yüzden liste gayri resmidir. Ancak, daha sonra Dağların Kralı unvanının doğrudan bir öncüsüdür.",
+      "char_count": 320,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0004",
+      "section": "=== Genel klasman ve dağlar klasmanını aynı yıl kazananlar ===",
+      "heading_path": "=== Genel klasman ve dağlar klasmanını aynı yıl kazananlar ===",
+      "start_char": 2484,
+      "end_char": 3052,
+      "content": "=== Genel klasman ve dağlar klasmanını aynı yıl kazananlar === 1969'da, Eddy Merckx, sadece Tour de France genel klasman ve dağlar klasmanını kazanmakla kalmadı, aynı zamanda Tour de France puan klasmanını da kazandı. Genel klasman ve dağlar klasmanı 12 kez 8 farklı bisikletçi tarafından aynı yıl kazanıldı: 1938: Gino Bartali 1939: Sylvère Maes 1948: Gino Bartali 1949: Fausto Coppi 1952: Fausto Coppi 1959: Federico Bahamontes 1969: Eddy Merckx 1970: Eddy Merckx 2008: Carlos Sastre 2015: Chris Froome 2020: Tadej Pogačar 2021: Tadej Pogačar 2022: Jonas Vingegaard",
+      "char_count": 567,
+      "token_estimate": 141
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tour de France'ta en iyi tırmanıcı kategorisi için özel bir mayo hangi yıla kadar öngörülmemiştir?",
+        "answer": "1975 yılına kadar.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tour de France'taki Benekli Mayo nedir ve en iyi tırmanıcıyı tanıma konsepti ile mayonun özgün tasarımının tarihsel gelişimi nasıl olmuştur?",
+        "answer": "Benekli Mayo, Tour de France'ta \"Dağların Kralı\" olarak adlandırılan en iyi tırmanıcı bisikletçinin giydiği, sarı mayodan sonraki en değerli ikinci kategoridir. En iyi tırmanıcıyı (\"meilleur grimpeur\") tanıma fikri 1905 yılında l'Auto gazetesi tarafından başlatılmış ve 1933'te bu kategoride bir seçim yapılmasına karar verilmiş olsa da, özel bir mayo 1975 yılına kadar öngörülmemiştir. Mayonun rengi ve deseni, o dönemki sponsorlardan Poulain Chocolate (Chocolat Poulain) adlı çikolata şirketinin kırmızı puantiyeli çikolata paketlerinden esinlenerek belirlenmiştir. Daha sonra, 1993 yılından itibaren mayonun sponsorluğunu Carrefour süpermarketleri üstlenmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "hrszpolis_2f31eaf4",
+    "title": "Hırsız Polis",
+    "url": "https://tr.wikipedia.org/wiki/H%C4%B1rs%C4%B1z_Polis",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:44.396063",
+    "content": "Hırsız Polis, Türk yapımı polisiye televizyon dizisi. TMC Film prodüksiyonu dizi, 2005-2007 yılları arasında iki sezon, 50 bölüm halinde Kanal D'de yayımlandı. İstanbul'daki bir araba hırsızlığı çetesinin üyesi olan Mavi, bu çeteyi yakalamaya uğraşan bir polis olan Çınar ve hırsızlık çetesinin lideri olan ve Mavi'yi çocukluğundan itibaren hırsız olarsk yetiştirmiş olan Aksak arasındaki aşk üçgeni konu edilmiştir. Yardımcı karakterlerde ise Mavi'nin abisi Ali Rıza, kızkardeşi Ümit, üst kat komşusu Fulya, Aksak'ın çete üyeleri Arsen Lüpen, Jilet ve Kaporta Yakup bulunmaktadır. Dizinin jenerik müziği Orient Expressions tarafından yapılmıştır. Dizideki en sevilen diyalogların, yönetmen ve oyuncularla röportajların, set fotoğraflarının olduğu bir kitap, \"HIRSIZ POLİS: Aşkın kanunu olmaz\" adıyla, C Blok yayınları tarafından kitap olarak yayınlanmıştır. == Oyuncu kadrosu ve karakterler == Uğur Yücel - Aksak - Nadir Özkurt Timuçin Esen - Komiser Çınar Özlem Düvencioğlu - Mavi - Zeynep Yılmaz Erol Günaydın - Dursun Serkan Keskin - Komiser Bünyamin Rasim Öztekin - Başkomiser Selahattin Ahmet Saraçoğlu - Arsen Lüpen - Osman Hakan Boyav - Kaporta Yakup Vahide Perçin - Fulya Hanım Cansu Koç - Ümit Yılmaz Murat Daltaban - Arıza - Ali Rıza Yılmaz Yasemin Çonka - Ayşegül Dağhan Külegeç - Jilet Tansu Biçer - Koray Ozan Güven - Kibar Necmi İpek Bilgin - Maide Hanım Reyhan Asena Keskinci - Kiraz Ezgi Mola - Gülay == Yayın takvimi == == Bölümler == == Diğer ülkelerde gösterimi == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 228,
+      "char_count": 1499,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.552506",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 859,
+      "content": "Hırsız Polis, Türk yapımı polisiye televizyon dizisi. TMC Film prodüksiyonu dizi, 2005-2007 yılları arasında iki sezon, 50 bölüm halinde Kanal D'de yayımlandı. İstanbul'daki bir araba hırsızlığı çetesinin üyesi olan Mavi, bu çeteyi yakalamaya uğraşan bir polis olan Çınar ve hırsızlık çetesinin lideri olan ve Mavi'yi çocukluğundan itibaren hırsız olarsk yetiştirmiş olan Aksak arasındaki aşk üçgeni konu edilmiştir. Yardımcı karakterlerde ise Mavi'nin abisi Ali Rıza, kızkardeşi Ümit, üst kat komşusu Fulya, Aksak'ın çete üyeleri Arsen Lüpen, Jilet ve Kaporta Yakup bulunmaktadır. Dizinin jenerik müziği Orient Expressions tarafından yapılmıştır. Dizideki en sevilen diyalogların, yönetmen ve oyuncularla röportajların, set fotoğraflarının olduğu bir kitap, \"HIRSIZ POLİS: Aşkın kanunu olmaz\" adıyla, C Blok yayınları tarafından kitap olarak yayınlanmıştır.",
+      "char_count": 858,
+      "token_estimate": 214
+    },
+    {
+      "id": "c0001",
+      "section": "== Oyuncu kadrosu ve karakterler ==",
+      "heading_path": "== Oyuncu kadrosu ve karakterler ==",
+      "start_char": 859,
+      "end_char": 1418,
+      "content": "== Oyuncu kadrosu ve karakterler == Uğur Yücel - Aksak - Nadir Özkurt Timuçin Esen - Komiser Çınar Özlem Düvencioğlu - Mavi - Zeynep Yılmaz Erol Günaydın - Dursun Serkan Keskin - Komiser Bünyamin Rasim Öztekin - Başkomiser Selahattin Ahmet Saraçoğlu - Arsen Lüpen - Osman Hakan Boyav - Kaporta Yakup Vahide Perçin - Fulya Hanım Cansu Koç - Ümit Yılmaz Murat Daltaban - Arıza - Ali Rıza Yılmaz Yasemin Çonka - Ayşegül Dağhan Külegeç - Jilet Tansu Biçer - Koray Ozan Güven - Kibar Necmi İpek Bilgin - Maide Hanım Reyhan Asena Keskinci - Kiraz Ezgi Mola - Gülay",
+      "char_count": 558,
+      "token_estimate": 139
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hırsız Polis dizisi hangi yıllar arasında Kanal D'de yayımlanmıştır?",
+        "answer": "2005-2007 yılları arasında.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hırsız Polis dizisindeki aşk üçgenini oluşturan karakterler kimlerdir ve bu karakterleri canlandıran oyuncular ile karakterlerin tam isimleri nelerdir?",
+        "answer": "Hırsız Polis dizisindeki aşk üçgenini, araba hırsızlığı çetesinin üyesi Mavi (Özlem Düvencioğlu - Zeynep Yılmaz), bu çeteyi yakalamaya çalışan polis Çınar (Timuçin Esen - Komiser Çınar) ve hırsızlık çetesinin lideri Aksak (Uğur Yücel - Nadir Özkurt) karakterleri oluşturmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "danimarkahalkpartisi_f74379cb",
+    "title": "Danimarka Halk Partisi",
+    "url": "https://tr.wikipedia.org/wiki/Danimarka_Halk_Partisi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:47.934760",
+    "content": "Danimarka Halk Partisi (Danca: Dansk Folkeparti, DF), Danimarka'da muhafazakâr bir siyasi partidir. Parti genellikle akademisyenler tarafından sağ kanat popülist, uluslararası medyada ise aşırı sağ olarak tanımlanmaktadır. Ayrıca akademik çevrelerde ve medyada milliyetçi ve göçmen karşıtı bir parti olarak da tanımlanmıştır. Parti ise kendisini merkez sağ ve popülist bir parti olarak tanımlamaktadır. 2001'den bu yana hükûmette bulunan liberal ve muhafazakâr partileri desteklemektedir. Kabinenin bir parçası olmamakla birlikle pek çok konuda hükûmet ile yakın işbirliği içerisindedir. 2015 genel seçimlerinde yüzde 21,1 oy oranı ile ikinci parti oldu. Buna karşın koalisyon görüşmeleri başarısızlıkla sonuçlanınca hükûmette yer almadı. 2015 yılında kurulan Yeni Sağ ve 2022 yılında kurulan Danimarka Demokratları partiye oy veren seçmen ve üyelerin büyük bölümünün taraf değiştirmesine neden olmuştur. 2022 genel seçimlerinden sonra Yeni Sağ partisindeki yönetim krizi nedeniyle 2 sandalye kazanmıştır. == Politikalar == Göç konusunda; 3. dünya ülkelerinden gelen göçü azaltmak İslamlaşmaya karşıt olmakla beraber, göçmenlerin kültürel asimilasyona uğramasını desteklemektedir. Diğer İç Konularda; Yaşlı ve engellilerin durumlarının geliştirilmesi Suça karşı daha katı cezaların verilmesi Hayvan refahının artırılması Savunma gücünün artırılması Ulusal kilisenin mevcut durumunun korunması Dış politika; Danimarka kronunun kaldırılmaması, Euro'ya geçilmemesi Türkiye'nin AB üyeliğine karşıtlık Özellikle komünist ve İslamcı rejimler gibi totaliter rejimlerin sert bir biçimde eleştirilmesi == Seçim sonuçları == === Parlamento === === Belediye seçimleri === === Bölgesel seçimler === === Avrupa Parlamentosu === == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 220,
+      "char_count": 1729,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.249008",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Danimarka Halk Partisi (Danca: Dansk Folkeparti, DF), Danimarka'da muhafazakâr bir siyasi partidir. Parti genellikle akademisyenler tarafından sağ kanat popülist, uluslararası medyada ise aşırı sağ olarak tanımlanmaktadır. Ayrıca akademik çevrelerde ve medyada milliyetçi ve göçmen karşıtı bir parti olarak da tanımlanmıştır. Parti ise kendisini merkez sağ ve popülist bir parti olarak tanımlamaktadır. 2001'den bu yana hükûmette bulunan liberal ve muhafazakâr partileri desteklemektedir. Kabinenin bir parçası olmamakla birlikle pek çok konuda hükûmet ile yakın işbirliği içerisindedir. 2015 genel seçimlerinde yüzde 21,1 oy oranı ile ikinci parti oldu. Buna karşın koalisyon görüşmeleri başarısızlıkla sonuçlanınca hükûmette yer almadı. 2015 yılında kurulan Yeni Sağ ve 2022 yılında kurulan Danimarka Demokratları partiye oy veren seçmen ve üyelerin büyük bölümünün taraf değiştirmesine neden olmuştur. 2022 genel seçimlerinden sonra Yeni Sağ partisindeki yönetim krizi nedeniyle 2 sandalye kazanmı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1005,
+      "content": "ka Demokratları partiye oy veren seçmen ve üyelerin büyük bölümünün taraf değiştirmesine neden olmuştur. 2022 genel seçimlerinden sonra Yeni Sağ partisindeki yönetim krizi nedeniyle 2 sandalye kazanmıştır.",
+      "char_count": 205,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0002",
+      "section": "== Politikalar ==",
+      "heading_path": "== Politikalar ==",
+      "start_char": 1006,
+      "end_char": 1593,
+      "content": "== Politikalar == Göç konusunda; 3. dünya ülkelerinden gelen göçü azaltmak İslamlaşmaya karşıt olmakla beraber, göçmenlerin kültürel asimilasyona uğramasını desteklemektedir. Diğer İç Konularda; Yaşlı ve engellilerin durumlarının geliştirilmesi Suça karşı daha katı cezaların verilmesi Hayvan refahının artırılması Savunma gücünün artırılması Ulusal kilisenin mevcut durumunun korunması Dış politika; Danimarka kronunun kaldırılmaması, Euro'ya geçilmemesi Türkiye'nin AB üyeliğine karşıtlık Özellikle komünist ve İslamcı rejimler gibi totaliter rejimlerin sert bir biçimde eleştirilmesi",
+      "char_count": 586,
+      "token_estimate": 146
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Danimarka Halk Partisi, 2015 genel seçimlerinde yüzde kaç oy oranı alarak ikinci parti olmuştur?",
+        "answer": "Yüzde 21,1",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Danimarka Halk Partisi (DF), siyasi tanımlamaları, ana politika hedefleri ve son yıllardaki seçim performansı göz önüne alındığında, Danimarka siyasetindeki genel profilini nasıl özetlersiniz?",
+        "answer": "Danimarka Halk Partisi (DF), akademik çevreler tarafından sağ kanat popülist, uluslararası medyada aşırı sağ, milliyetçi ve göçmen karşıtı olarak tanımlanmaktadır. Parti, 3. dünya ülkelerinden gelen göçü azaltma, İslamlaşmaya karşıt olma ve göçmenlerin kültürel asimilasyonunu destekleme gibi göç politikalarına sahiptir. Diğer iç konular arasında yaşlı ve engellilerin durumlarının geliştirilmesi, suça karşı daha katı cezalar, hayvan refahının artırılması, savunma gücünün artırılması ve ulusal kilisenin korunması yer alır. Dış politikada Danimarka kronunun kaldırılmaması, Euro'ya geçilmemesi, Türkiye'nin AB üyeliğine karşıtlık ve totaliter rejimlerin sert bir biçimde eleştirilmesi gibi duruşları vardır. 2015 genel seçimlerinde yüzde 21,1 oy oranı ile ikinci parti olmasına rağmen koalisyon görüşmelerinin başarısızlıkla sonuçlanması nedeniyle hükûmette yer almamış; 2015 yılında kurulan Yeni Sağ ve 2022 yılında kurulan Danimarka Demokratları partileri ise DF'ye oy veren seçmen ve üyelerin büyük bölümünün taraf değiştirmesine neden olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

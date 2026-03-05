@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "esraz_63901f25",
+    "title": "Esra İçöz",
+    "url": "https://tr.wikipedia.org/wiki/Esra_%C4%B0%C3%A7%C3%B6z",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:21.119235",
+    "content": "Esra Akdoğan İçöz (d. 9 Ocak 1978, İstanbul), Türk Sanat Müziği şarkıcısı. == Hayatı ve Eğitimi == İlk ve orta eğitiminden sonra lise eğitimini Burhan Felek Lisesi'nde tamamladı. 1994'te Üsküdar Musiki Cemiyeti'ne girdi. 5 yıl süreyle burada repertuvar, usul ve nazariyat dersleri aldı. 1996'da İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuvarı sınavlarına girerek iki bölümde okumaya hak kazandı. == Ses Eğitimi == Ses eğitimi bölümünde eğitimine başladı. Alâeddin Yavaşça, Tülun Korman, Çetin Körükçü, Selahattin İçli, Rahmi Sönmezocak gibi değerli hocalardan ders aldı. Aynı yıl TRT İstanbul Radyosu'nun açmış olduğu amatör ses yarışmasında Marmara bölge birincisi seçildi. 1997'de yine TRT İstanbul Radyosu'nun yetişmiş ses sanatçı sınavını kazanarak bu kurumda görev yapmaya başladı. TRT'de birçok konser ve etkinliklerde yer aldı. 2001'de İTÜ Devlet Konservatuvarı Ses Eğitimi Bölümü'nden birincilikle mezun oldu, bir yıl müzik öğretmenliği yaptı. == Cemal Reşit Rey İstanbul Türk Müziği Topluluğu == Türkiye'nin birçok yerinde bulunan Musiki Dernekleri'nin düzenlediği konserlere konuk sanatçı olarak davet edildi. 2004 yılında bestekâr Esma Karamancı'nın eserlerinden oluşan Yaşamın Sesi adlı albüm çalışmasında solist olarak yer aldı. 2005 yılında kurulan Cemal Reşit Rey İstanbul Türk Müziği Topluluğu'na katıldı. Hâlen bu topluluktaki çalışmalarına devam etmektedir. == Kaynakça == 2. https://www.haberler.com/esra-icoz-kimdir-nereli-kac-yasinda-meslegi-ne-14013007-haberi/ 24 Mart 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1560,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.797093",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 75,
+      "content": "Esra Akdoğan İçöz (d. 9 Ocak 1978, İstanbul), Türk Sanat Müziği şarkıcısı.",
+      "char_count": 74,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ve Eğitimi ==",
+      "heading_path": "== Hayatı ve Eğitimi ==",
+      "start_char": 75,
+      "end_char": 413,
+      "content": "== Hayatı ve Eğitimi == İlk ve orta eğitiminden sonra lise eğitimini Burhan Felek Lisesi'nde tamamladı. 1994'te Üsküdar Musiki Cemiyeti'ne girdi. 5 yıl süreyle burada repertuvar, usul ve nazariyat dersleri aldı. 1996'da İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuvarı sınavlarına girerek iki bölümde okumaya hak kazandı.",
+      "char_count": 337,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0002",
+      "section": "== Ses Eğitimi ==",
+      "heading_path": "== Ses Eğitimi ==",
+      "start_char": 413,
+      "end_char": 969,
+      "content": "== Ses Eğitimi == Ses eğitimi bölümünde eğitimine başladı. Alâeddin Yavaşça, Tülun Korman, Çetin Körükçü, Selahattin İçli, Rahmi Sönmezocak gibi değerli hocalardan ders aldı. Aynı yıl TRT İstanbul Radyosu'nun açmış olduğu amatör ses yarışmasında Marmara bölge birincisi seçildi. 1997'de yine TRT İstanbul Radyosu'nun yetişmiş ses sanatçı sınavını kazanarak bu kurumda görev yapmaya başladı. TRT'de birçok konser ve etkinliklerde yer aldı. 2001'de İTÜ Devlet Konservatuvarı Ses Eğitimi Bölümü'nden birincilikle mezun oldu, bir yıl müzik öğretmenliği yaptı.",
+      "char_count": 555,
+      "token_estimate": 138
+    },
+    {
+      "id": "c0003",
+      "section": "== Cemal Reşit Rey İstanbul Türk Müziği Topluluğu ==",
+      "heading_path": "== Cemal Reşit Rey İstanbul Türk Müziği Topluluğu ==",
+      "start_char": 969,
+      "end_char": 1393,
+      "content": "== Cemal Reşit Rey İstanbul Türk Müziği Topluluğu == Türkiye'nin birçok yerinde bulunan Musiki Dernekleri'nin düzenlediği konserlere konuk sanatçı olarak davet edildi. 2004 yılında bestekâr Esma Karamancı'nın eserlerinden oluşan Yaşamın Sesi adlı albüm çalışmasında solist olarak yer aldı. 2005 yılında kurulan Cemal Reşit Rey İstanbul Türk Müziği Topluluğu'na katıldı. Hâlen bu topluluktaki çalışmalarına devam etmektedir.",
+      "char_count": 423,
+      "token_estimate": 105
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1393,
+      "end_char": 1560,
+      "content": "== Kaynakça == 2. https://www.haberler.com/esra-icoz-kimdir-nereli-kac-yasinda-meslegi-ne-14013007-haberi/ 24 Mart 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 167,
+      "token_estimate": 41
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "TRT İstanbul Radyosu'nda ne zaman göreve başladı?",
+        "answer": "1997 yılında",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Esra Akdoğan İçöz'ün Türk Sanat Müziği şarkıcısı olma yolundaki eğitim ve erken kariyerine ilişkin temel adımlar nelerdir?",
+        "answer": "Esra Akdoğan İçöz, 1994'te Üsküdar Musiki Cemiyeti'ne girerek 5 yıl repertuvar, usul ve nazariyat dersleri aldı. 1996'da İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuvarı Ses Eğitimi bölümüne kabul edildi ve Alâeddin Yavaşça gibi değerli hocalardan dersler aldı. Aynı yıl TRT İstanbul Radyosu'nun amatör ses yarışmasında Marmara bölge birincisi seçildi. 1997'de TRT İstanbul Radyosu'nun yetişmiş ses sanatçısı sınavını kazanarak bu kurumda görev yapmaya başladı ve 2001'de İTÜ Devlet Konservatuvarı Ses Eğitimi Bölümü'nden birincilikle mezun oldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

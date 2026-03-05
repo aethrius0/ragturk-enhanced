@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "halkfilm_1fd7188b",
+    "title": "Halk (film)",
+    "url": "https://tr.wikipedia.org/wiki/Halk_%28film%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:00.849315",
+    "content": "Halk (İngilizce: The Crowd), 1989 yılında Kongre Kütüphanesi tarafından \"kültürel, tarihi ve estetik olarak önemli\" filmler arasına seçilerek ABD Ulusal Film Arşivi'nde muhafaza edilmesine karar verilmiştir. == Konu == 20. yüzyılın başında 1900 yılında 4 Temmuz günü dünyaya gelen John Simes on iki yaşında babasını kaybeder gençliğinde bir şirkette işe başlar. Bert isimli arkadaşının tanıştırdığı Mary ile evlenirler. Beş yıl sonra iki çocuklu bir aile olurlar fakat küçük çocuğunu kaybeden aile devrin en büyük sorunlarından biri olan işsizlikle tanışır. Kalabalık anlamına gelen Crowd, John Simes'ın 1929 yılının ekonomik krizinde geçirdiği büyük bunalım psikolojisini, Amerikalı naif insanların yaşantısı açısından gözler önüne serer. İşini kaybeden John uzun süre iş bulamaz ve öğrenilmiş bir çaresizlik yaşar. Bu yüzden karısını kaybetmenin eşiğine de gelir. Ayrıca devrin Amerika'sın da en büyük problemin aslında nüfus yoğunluğu olduğuna işaret eder. Filmde çiftin yaşadığı sıkıntılar hep insanların yoğun bulunduğu yerlerde meydana gelir. Özellikle ilk çocuğunun ölmek üzere olduğu sekansta koca bir kalabalığa çaresizce derdini anlatmaya çalışan John'un durumu oldukça hüzünlüdür. == Kast == Eleanor Boardman, Mary rolünde James Murray, John 'Johnny' Sims rolünde Bert Roach, Bert rolünde Estelle Clark, Jane rolünde Daniel G. Tomlinson, Jim rolünde Dell Henderson, Dick rolünde Lucy Beaumont, Mary'nin annesi rolünde Freddie Burke Frederick, 'Junior' rolünde Alice Mildred Puter, Daughter rolünde == Ödüller == Adaylıklar Akademi Ödülleri: -En İyi Yönetmen, Dramatik Film, (King Vidor) -En İyi Film, Benzersiz ve Sanatsal Prodüksiyon Diğer ödüller 1989- ABD Ulusal Film Arşivi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 237,
+      "char_count": 1703,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.721294",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 208,
+      "content": "Halk (İngilizce: The Crowd), 1989 yılında Kongre Kütüphanesi tarafından \"kültürel, tarihi ve estetik olarak önemli\" filmler arasına seçilerek ABD Ulusal Film Arşivi'nde muhafaza edilmesine karar verilmiştir.",
+      "char_count": 207,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0001",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 208,
+      "end_char": 1192,
+      "content": "== Konu == 20. yüzyılın başında 1900 yılında 4 Temmuz günü dünyaya gelen John Simes on iki yaşında babasını kaybeder gençliğinde bir şirkette işe başlar. Bert isimli arkadaşının tanıştırdığı Mary ile evlenirler. Beş yıl sonra iki çocuklu bir aile olurlar fakat küçük çocuğunu kaybeden aile devrin en büyük sorunlarından biri olan işsizlikle tanışır. Kalabalık anlamına gelen Crowd, John Simes'ın 1929 yılının ekonomik krizinde geçirdiği büyük bunalım psikolojisini, Amerikalı naif insanların yaşantısı açısından gözler önüne serer. İşini kaybeden John uzun süre iş bulamaz ve öğrenilmiş bir çaresizlik yaşar. Bu yüzden karısını kaybetmenin eşiğine de gelir. Ayrıca devrin Amerika'sın da en büyük problemin aslında nüfus yoğunluğu olduğuna işaret eder. Filmde çiftin yaşadığı sıkıntılar hep insanların yoğun bulunduğu yerlerde meydana gelir. Özellikle ilk çocuğunun ölmek üzere olduğu sekansta koca bir kalabalığa çaresizce derdini anlatmaya çalışan John'un durumu oldukça hüzünlüdür.",
+      "char_count": 983,
+      "token_estimate": 245
+    },
+    {
+      "id": "c0002",
+      "section": "== Kast ==",
+      "heading_path": "== Kast ==",
+      "start_char": 1192,
+      "end_char": 1509,
+      "content": "== Kast == Eleanor Boardman, Mary rolünde James Murray, John 'Johnny' Sims rolünde Bert Roach, Bert rolünde Estelle Clark, Jane rolünde Daniel G. Tomlinson, Jim rolünde Dell Henderson, Dick rolünde Lucy Beaumont, Mary'nin annesi rolünde Freddie Burke Frederick, 'Junior' rolünde Alice Mildred Puter, Daughter rolünde",
+      "char_count": 316,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 1509,
+      "end_char": 1689,
+      "content": "== Ödüller == Adaylıklar Akademi Ödülleri: -En İyi Yönetmen, Dramatik Film, (King Vidor) -En İyi Film, Benzersiz ve Sanatsal Prodüksiyon Diğer ödüller 1989- ABD Ulusal Film Arşivi",
+      "char_count": 179,
+      "token_estimate": 44
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "John Simes ne zaman doğmuştur?",
+        "answer": "John Simes, 20. yüzyılın başında 1900 yılının 4 Temmuz günü dünyaya gelmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Halk (The Crowd) filminin ABD Ulusal Film Arşivi'ne dahil edilmesinin altında yatan kültürel, tarihsel ve estetik önemi, filmin konusundaki hangi unsurlarla ilişkilidir?",
+        "answer": "Film, John Simes'ın 1929 ekonomik krizi sırasında yaşadığı işsizlik, ailevi kayıplar ve büyük bunalım psikolojisi gibi sorunları Amerikalı naif insanların yaşantısı üzerinden gözler önüne sererken, aynı zamanda dönemin Amerika'sının nüfus yoğunluğu sorununa da işaret eder. Bu gerçekçi ve duygusal derinlikteki anlatım, filmin kültürel, tarihsel ve estetik önemini oluşturarak Ulusal Film Arşivi'nde muhafaza edilmesini sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

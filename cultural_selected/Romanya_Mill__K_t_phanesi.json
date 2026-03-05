@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "romanyamillktphanesi_a4238ed4",
+    "title": "Romanya Millî Kütüphanesi",
+    "url": "https://tr.wikipedia.org/wiki/Romanya_Mill%C3%AE_K%C3%BCt%C3%BCphanesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:24.061364",
+    "content": "Romanya Millî Kütüphanesi (Rumence: Biblioteca Națională a României) Romanya'nın millî kütüphanesidir. Romanya'da yayınlanan her şeyin deposu olması amaçlanmıştır. İnşaat maliyeti 110 milyon Euro'dur. == Tarihçe == Kütüphanenin kökleri Aziz Sava Koleji kütüphanesinde bulunabilir. Aziz Sava Koleji kütüphanesi 1859 yılında 1000 Fransızca cildin arşivlenmesiyle açılmıştır. 1859 Birliği'nden sonra kütüphane resmi olarak millî kütüphane (Biblioteca Națională, daha sonra Biblioteca Centrală - sırasıyla Ulusal ve Merkezi kütüphane) haline getirildi. 1864 yılında kütüphanenin adı Devlet Merkez Kütüphanesi (Biblioteca Centrală a Statului) olarak değiştirildi. 1901 yılında tüm koleksiyonlar Romanya Akademisi Kütüphanesine devredildi. Sonuç olarak, 1901'den 1955'e kadar Romanya Akademi Kütüphanesi ulusal kütüphaneydi. 1955 yılında, millî bir kütüphane niteliğine sahip olan Devlet Merkez Kütüphanesi kuruldu. 1989 yılında, komünist rejimin çöküşünden sonra, Devlet Merkez Kütüphanesi bir kez daha Biblioteca Națională a României olarak yeniden adlandırıldı. Kütüphane 1949'dan 2008'e kadar Bükreş Ticaret Odası Sarayı'nda hizmet vermiştir. == Yeni bina == 1986 yılında kütüphane için Piața Unirii ve Nerva Traian arasında yeni ve daha büyük bir yer inşa edilmeye başlandı. İlk baş mimar Cezar Lăzărescu'ydu ve bina tamamlanmadan 1986 yılında öldü. 1989'dan kısa bir süre sonra, binanın bazı bölümleri bitmiş veya ileri bir durumda olmasına rağmen, finansman eksikliği nedeniyle inşaat birkaç yıl durdu. 2009 yılında proje yeniden Kültür Bakanlığına devredilmiş, Bakanlık da inşaatı 2011 yılında tamamlamış ve resmi açılış tarihini 2012 olarak belirlemiştir. == Misyon == Millî Kütüphane, Kültür Bakanlığının denetimi altında bir kültür kurumudur. Amacı, belgeleri satın alıp muhafaza ederek ve bunları araştırma veya kişisel çalışma için halkın kullanımına sunarak ulusal yayın mirasını yönetmektir. == Koleksiyonlar == Aralarında çeşitli özel koleksiyonlar da bulunmaktadır: Bibliofilie (Nadir kitaplar); Manuscrise (El yazmaları); Alba Julia'daki Batthyani Kütüphanesinde muhafaza edilen Lorsch'un Codex Aureus'u dahil; Arhiva Istorică (Tarih Arşivi); Periodice românești vechi (Eski Romanya gazeteleri); Stampe (Baskılar); Fotografii (Fotoğraflar); Cartografie (Haritalar); Audio-Vizua (Görsel-İşitsel). == İstatistik == 13.000.000 öğe; 162 incunabula; 20.054 Rumence ve yabancı eski kitap; 10.964 Rumen ve yabancı nadir kitap; 29.350 görsel-işitsel belge; 36.759 eski ve modern el yazması; 47.745 seri yayın; 800'ün üzerinde baskı; 70.000 orijinal fotoğraf. == Kaynakça == == Dış bağlantılar == Resmî site (Rumence)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 336,
+      "char_count": 2620,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.565934",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 201,
+      "content": "Romanya Millî Kütüphanesi (Rumence: Biblioteca Națională a României) Romanya'nın millî kütüphanesidir. Romanya'da yayınlanan her şeyin deposu olması amaçlanmıştır. İnşaat maliyeti 110 milyon Euro'dur.",
+      "char_count": 200,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 201,
+      "end_char": 1141,
+      "content": "== Tarihçe == Kütüphanenin kökleri Aziz Sava Koleji kütüphanesinde bulunabilir. Aziz Sava Koleji kütüphanesi 1859 yılında 1000 Fransızca cildin arşivlenmesiyle açılmıştır. 1859 Birliği'nden sonra kütüphane resmi olarak millî kütüphane (Biblioteca Națională, daha sonra Biblioteca Centrală - sırasıyla Ulusal ve Merkezi kütüphane) haline getirildi. 1864 yılında kütüphanenin adı Devlet Merkez Kütüphanesi (Biblioteca Centrală a Statului) olarak değiştirildi. 1901 yılında tüm koleksiyonlar Romanya Akademisi Kütüphanesine devredildi. Sonuç olarak, 1901'den 1955'e kadar Romanya Akademi Kütüphanesi ulusal kütüphaneydi. 1955 yılında, millî bir kütüphane niteliğine sahip olan Devlet Merkez Kütüphanesi kuruldu. 1989 yılında, komünist rejimin çöküşünden sonra, Devlet Merkez Kütüphanesi bir kez daha Biblioteca Națională a României olarak yeniden adlandırıldı. Kütüphane 1949'dan 2008'e kadar Bükreş Ticaret Odası Sarayı'nda hizmet vermiştir.",
+      "char_count": 939,
+      "token_estimate": 234
+    },
+    {
+      "id": "c0002",
+      "section": "== Yeni bina ==",
+      "heading_path": "== Yeni bina ==",
+      "start_char": 1141,
+      "end_char": 1659,
+      "content": "== Yeni bina == 1986 yılında kütüphane için Piața Unirii ve Nerva Traian arasında yeni ve daha büyük bir yer inşa edilmeye başlandı. İlk baş mimar Cezar Lăzărescu'ydu ve bina tamamlanmadan 1986 yılında öldü. 1989'dan kısa bir süre sonra, binanın bazı bölümleri bitmiş veya ileri bir durumda olmasına rağmen, finansman eksikliği nedeniyle inşaat birkaç yıl durdu. 2009 yılında proje yeniden Kültür Bakanlığına devredilmiş, Bakanlık da inşaatı 2011 yılında tamamlamış ve resmi açılış tarihini 2012 olarak belirlemiştir.",
+      "char_count": 517,
+      "token_estimate": 129
+    },
+    {
+      "id": "c0003",
+      "section": "== Misyon ==",
+      "heading_path": "== Misyon ==",
+      "start_char": 1659,
+      "end_char": 1901,
+      "content": "== Misyon == Millî Kütüphane, Kültür Bakanlığının denetimi altında bir kültür kurumudur. Amacı, belgeleri satın alıp muhafaza ederek ve bunları araştırma veya kişisel çalışma için halkın kullanımına sunarak ulusal yayın mirasını yönetmektir.",
+      "char_count": 241,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0004",
+      "section": "== Koleksiyonlar ==",
+      "heading_path": "== Koleksiyonlar ==",
+      "start_char": 1901,
+      "end_char": 2308,
+      "content": "== Koleksiyonlar == Aralarında çeşitli özel koleksiyonlar da bulunmaktadır: Bibliofilie (Nadir kitaplar); Manuscrise (El yazmaları); Alba Julia'daki Batthyani Kütüphanesinde muhafaza edilen Lorsch'un Codex Aureus'u dahil; Arhiva Istorică (Tarih Arşivi); Periodice românești vechi (Eski Romanya gazeteleri); Stampe (Baskılar); Fotografii (Fotoğraflar); Cartografie (Haritalar); Audio-Vizua (Görsel-İşitsel).",
+      "char_count": 406,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0005",
+      "section": "== İstatistik ==",
+      "heading_path": "== İstatistik ==",
+      "start_char": 2308,
+      "end_char": 2563,
+      "content": "== İstatistik == 13.000.000 öğe; 162 incunabula; 20.054 Rumence ve yabancı eski kitap; 10.964 Rumen ve yabancı nadir kitap; 29.350 görsel-işitsel belge; 36.759 eski ve modern el yazması; 47.745 seri yayın; 800'ün üzerinde baskı; 70.000 orijinal fotoğraf.",
+      "char_count": 254,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2578,
+      "end_char": 2620,
+      "content": "== Dış bağlantılar == Resmî site (Rumence)",
+      "char_count": 42,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kütüphane 1949'dan 2008'e kadar hangi binada hizmet vermiştir?",
+        "answer": "Bükreş Ticaret Odası Sarayı",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Romanya Millî Kütüphanesi'nin adlandırma ve yer değişiklikleri ile karakterize edilen uzun geçmişi, kütüphanenin kalıcı yeni binasının inşası ve resmi olarak Romanya'da yayınlanan her şeyin deposu olma misyonu ile nasıl bir bütünlük arz etmektedir?",
+        "answer": "Romanya Millî Kütüphanesi'nin geçmişi, 1859'da Aziz Sava Koleji kütüphanesi olarak başlamış ve Ulusal, Merkezi ve Devlet Merkez Kütüphanesi gibi çeşitli adlandırmalardan geçerek evrilmiştir. Ayrıca, 1949'dan 2008'e kadar Bükreş Ticaret Odası Sarayı gibi geçici yerlerde hizmet vermiştir. Bu uzun ve değişken tarihin ardından, 1986'da başlanan ve finansman eksikliği nedeniyle 1989 sonrası duraklamasına rağmen 2011'de tamamlanan 110 milyon Euro'luk yeni bina projesi, kütüphanenin nihayet kalıcı ve uygun bir merkeze sahip olmasını sağlamıştır. Bu yeni ve büyük bina, Romanya'da yayınlanan her şeyin deposu olma misyonunu tam olarak yerine getirebilmesi için istikrarlı bir ev sunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

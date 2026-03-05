@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "taozmuhrip_59780ff2",
+    "title": "Taşoz (muhrip)",
+    "url": "https://tr.wikipedia.org/wiki/Ta%C5%9Foz_%28muhrip%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:39.886150",
+    "content": "Taşoz, Osmanlı Devleti'nde Donanma Cemiyeti tarafından 1907 yılında Fransa'dan satın alınan dört Durandal sınıfı muhripten biridir. 27 Ekim 1914'teki Sivastopol Baskını'na katıldı. 1932'de hizmet dışına çıkarıldı. == Tasarım == Schneider & Cie tarafından Nantes'da inşa edilen Taşoz dikler arasında 56,3 metre, tam boyda ise 58,2 metre uzunluğundaydı. 6,3 metre genişliğindeki geminin su çekimi 2,8 metreydi. Gövdesi çelikten yapılmıştı. Geminin deplasmanı 284 tondu. 1907'de inşa edildiği haliyle 7 subay ve 60 bahriyeliden oluşan mürettebatı, I. Dünya Savaşı esnasında 1915 itibarıyla 74 Türk ve 17 Almandan oluşuyordu. Gemi gücünü SA Chantiers et Ateliers de la Gironde yapımı iki su borulu kazanın buharla beslediği iki adet dikey üçlü genleşmeli buhar motorundan alıyordu. Motorlar 5.950 indike beygir gücüne sahipti ve gemiyi 1907'de saatte 28 deniz mili hıza ulaştırabiliyordu. Geminin hızı 1912'de 20 deniz mili, 1915'te ise 17 deniz miline düşmüştü. Gemi 60 ton kömür taşıyabiliyordu. Gemi inşa edildiği haliyle 1 adet 65 mm L/50 seri ateşli Creusot top ve 300 mermi, 6 adet 47 mm L/50 seri ateşli Creusot top ve 1.200 mermi ile 2 adet 450 mm torpido tüpü ve 6 torpido taşıyordu. == Kaynakça == Özel Genel Şanlı Bahriye, Nejat Gülen Gardiner, Robert (1985). Conway's All the World's Fighting Ships, 1906–1921. Londra: Conway Maritime Press. ISBN 978-0-87021-907-8. 22 Kasım 2020 tarihinde kaynağından arşivlendi. Erişim tarihi: 22 Ocak 2021. Langensiepen, Bernd; Güleryüz, Ahmet (1995). The Ottoman Steam Navy 1828–1923 (İngilizce). Londra: Conway Maritime Press. ISBN 978-0-85177-610-1.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 233,
+      "char_count": 1596,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.982438",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 214,
+      "content": "Taşoz, Osmanlı Devleti'nde Donanma Cemiyeti tarafından 1907 yılında Fransa'dan satın alınan dört Durandal sınıfı muhripten biridir. 27 Ekim 1914'teki Sivastopol Baskını'na katıldı. 1932'de hizmet dışına çıkarıldı.",
+      "char_count": 213,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0001",
+      "section": "== Tasarım ==",
+      "heading_path": "== Tasarım ==",
+      "start_char": 214,
+      "end_char": 1189,
+      "content": "== Tasarım == Schneider & Cie tarafından Nantes'da inşa edilen Taşoz dikler arasında 56,3 metre, tam boyda ise 58,2 metre uzunluğundaydı. 6,3 metre genişliğindeki geminin su çekimi 2,8 metreydi. Gövdesi çelikten yapılmıştı. Geminin deplasmanı 284 tondu. 1907'de inşa edildiği haliyle 7 subay ve 60 bahriyeliden oluşan mürettebatı, I. Dünya Savaşı esnasında 1915 itibarıyla 74 Türk ve 17 Almandan oluşuyordu. Gemi gücünü SA Chantiers et Ateliers de la Gironde yapımı iki su borulu kazanın buharla beslediği iki adet dikey üçlü genleşmeli buhar motorundan alıyordu. Motorlar 5.950 indike beygir gücüne sahipti ve gemiyi 1907'de saatte 28 deniz mili hıza ulaştırabiliyordu. Geminin hızı 1912'de 20 deniz mili, 1915'te ise 17 deniz miline düşmüştü. Gemi 60 ton kömür taşıyabiliyordu. Gemi inşa edildiği haliyle 1 adet 65 mm L/50 seri ateşli Creusot top ve 300 mermi, 6 adet 47 mm L/50 seri ateşli Creusot top ve 1.200 mermi ile 2 adet 450 mm torpido tüpü ve 6 torpido taşıyordu.",
+      "char_count": 974,
+      "token_estimate": 243
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1189,
+      "end_char": 1596,
+      "content": "== Kaynakça == Özel Genel Şanlı Bahriye, Nejat Gülen Gardiner, Robert (1985). Conway's All the World's Fighting Ships, 1906–1921. Londra: Conway Maritime Press. ISBN 978-0-87021-907-8. 22 Kasım 2020 tarihinde kaynağından arşivlendi. Erişim tarihi: 22 Ocak 2021. Langensiepen, Bernd; Güleryüz, Ahmet (1995). The Ottoman Steam Navy 1828–1923 (İngilizce). Londra: Conway Maritime Press. ISBN 978-0-85177-610-1.",
+      "char_count": 407,
+      "token_estimate": 101
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Taşoz gemisinin deplasmanı kaç tondu?",
+        "answer": "Taşoz gemisinin deplasmanı 284 tondu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Osmanlı Devleti'nin 1907 yılında satın aldığı Taşoz muhribi, başlangıçtaki tasarım özelliklerine kıyasla I. Dünya Savaşı sırasındaki hizmet ömrü boyunca mürettebatı ve hızı açısından nasıl bir değişim gösterdi?",
+        "answer": "Başlangıçta, 1907 yılında saatte 28 deniz mili hıza sahip olan ve 7 subay ile 60 bahriyeliden oluşan mürettebatı bulunan Taşoz'un hızı, 1912'de 20 deniz miline, 1915'te ise 17 deniz miline düştü. Mürettebatı ise I. Dünya Savaşı esnasında, 1915 itibarıyla 74 Türk ve 17 Almandan oluşuyordu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

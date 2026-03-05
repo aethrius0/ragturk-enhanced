@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "daeteiyusufeli_0e8726e3",
+    "title": "Dağeteği, Yusufeli",
+    "url": "https://tr.wikipedia.org/wiki/Da%C4%9Fete%C4%9Fi%2C_Yusufeli",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:33.576019",
+    "content": "Dağeteği, Artvin ilinin Yusufeli ilçesine bağlı bir köydür. == Tarihçe == Dağeteği köyünün eski adı Vaşkan veya Vaşkani'dir. Köyün yer aldığı Tao bölgesi Gürcülerden ele geçirildiği için bu yer adı Türkçeye Gürcüce Vaşkani'den (ვაშკანი) girmiş olabilir. Çünkü bazı kaynaklarda köyün adı Vaşgan olarak da geçer. Köyün adı 1928 tarihli Osmanlıca köy listesine de Vaşkan veya Vaşgan (واشکان) biçiminde yazılmıştır. Tarihsel Tao bölgesinde yer alan Vaşkan, 1549'da Gürcistan seferinde Osmanlı Devleti tarafından ele geçirilmiştir. Başkan veya Vaşkani, 1574 tarihli Osmanlı mufassal defterinde Oltu livasının Anzavi nahiyesine bağlıydı. Nüfusu 40 haneden oluşuyordu. Bu nüfus içinde 1 hane Müslüman olmuş, 39 hane Hristiyan olarak kalmıştı. Vergi tahsil etme ve askere alma amacıyla Osmanlı idaresinin 1835 tarihinde yaptığı nüfus tespitinde köyde 9 hane ve 22 erkek kaydedilmiştir. Erkek nüfusu kadar kadın nüfusu da eklenince, köyde yaklaşık 44 kişinin yaşadığı ortaya çıkar. Vaşkan, 1928 tarihli Osmanlıca köy listesinde Artvin vilayetinin Yusufeli kazasının Erkinis nahiyesine bağlı bir köydü. 1935 genel nüfus sayımında Erzurum vilayeti içinde aynı idari konuma sahip olan köyün nüfusu 150 kişiden oluşuyordu. Vaşkan ya da Vaşgan adı \"yabancı kökten geldiği\" için 1959 yılında 7267 sayılı kanunla Dağeteği olarak değiştirildi. Bununla birlikte köyün eski adı, bir süre daha yeni adıyla birlikte \"Dağeteği (Vaşkan)\" biçiminde resmî kayıtlarda kullanıldı. Dağeteği köyünde eskiden bir yeraltı sığınağı veya deposu olduğu bilinmektedir. Ancak bu yapı tamamen çökmüştür. == Coğrafya == Artvin il merkezine 125 km, Yusufeli ilçesine 40 km uzaklıktadır. == Nüfus == == Kaynakça == == Dış bağlantılar == Dağeteği, Yusufeli için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 250,
+      "char_count": 1771,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.173765",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 60,
+      "content": "Dağeteği, Artvin ilinin Yusufeli ilçesine bağlı bir köydür.",
+      "char_count": 59,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 60,
+      "end_char": 1060,
+      "content": "== Tarihçe == Dağeteği köyünün eski adı Vaşkan veya Vaşkani'dir. Köyün yer aldığı Tao bölgesi Gürcülerden ele geçirildiği için bu yer adı Türkçeye Gürcüce Vaşkani'den (ვაშკანი) girmiş olabilir. Çünkü bazı kaynaklarda köyün adı Vaşgan olarak da geçer. Köyün adı 1928 tarihli Osmanlıca köy listesine de Vaşkan veya Vaşgan (واشکان) biçiminde yazılmıştır. Tarihsel Tao bölgesinde yer alan Vaşkan, 1549'da Gürcistan seferinde Osmanlı Devleti tarafından ele geçirilmiştir. Başkan veya Vaşkani, 1574 tarihli Osmanlı mufassal defterinde Oltu livasının Anzavi nahiyesine bağlıydı. Nüfusu 40 haneden oluşuyordu. Bu nüfus içinde 1 hane Müslüman olmuş, 39 hane Hristiyan olarak kalmıştı. Vergi tahsil etme ve askere alma amacıyla Osmanlı idaresinin 1835 tarihinde yaptığı nüfus tespitinde köyde 9 hane ve 22 erkek kaydedilmiştir. Erkek nüfusu kadar kadın nüfusu da eklenince, köyde yaklaşık 44 kişinin yaşadığı ortaya çıkar. Vaşkan, 1928 tarihli Osmanlıca köy listesinde Artvin vilayetinin Yusufeli kazasının Erk",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 860,
+      "end_char": 1566,
+      "content": "k kaydedilmiştir. Erkek nüfusu kadar kadın nüfusu da eklenince, köyde yaklaşık 44 kişinin yaşadığı ortaya çıkar. Vaşkan, 1928 tarihli Osmanlıca köy listesinde Artvin vilayetinin Yusufeli kazasının Erkinis nahiyesine bağlı bir köydü. 1935 genel nüfus sayımında Erzurum vilayeti içinde aynı idari konuma sahip olan köyün nüfusu 150 kişiden oluşuyordu. Vaşkan ya da Vaşgan adı \"yabancı kökten geldiği\" için 1959 yılında 7267 sayılı kanunla Dağeteği olarak değiştirildi. Bununla birlikte köyün eski adı, bir süre daha yeni adıyla birlikte \"Dağeteği (Vaşkan)\" biçiminde resmî kayıtlarda kullanıldı. Dağeteği köyünde eskiden bir yeraltı sığınağı veya deposu olduğu bilinmektedir. Ancak bu yapı tamamen çökmüştür.",
+      "char_count": 706,
+      "token_estimate": 176
+    },
+    {
+      "id": "c0003",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 1567,
+      "end_char": 1648,
+      "content": "== Coğrafya == Artvin il merkezine 125 km, Yusufeli ilçesine 40 km uzaklıktadır.",
+      "char_count": 80,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1675,
+      "end_char": 1771,
+      "content": "== Dış bağlantılar == Dağeteği, Yusufeli için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+      "char_count": 96,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dağeteği köyünün eski adı olan Vaşkan, Osmanlı Devleti tarafından hangi yıl ele geçirilmiştir?",
+        "answer": "1549 yılında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dağeteği köyünün tarihsel süreçteki adı ve bu adın Türkçe'ye geçişiyle ilgili olarak ne gibi bir açıklama yapılmıştır? Ayrıca, köyün adı hangi yasal düzenleme ile ve hangi gerekçeyle şimdiki adına çevrilmiştir?",
+        "answer": "Dağeteği köyünün eski adı Vaşkan veya Vaşkani'dir. Köyün yer aldığı Tao bölgesinin Gürcülerden ele geçirilmesi nedeniyle bu yer adının Gürcüce Vaşkani'den Türkçeye girmiş olabileceği düşünülmektedir. Köyün adı, 1959 yılında 7267 sayılı kanunla Dağeteği olarak değiştirilmiştir, çünkü Vaşkan ya da Vaşgan adının \"yabancı kökten geldiği\" belirtilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

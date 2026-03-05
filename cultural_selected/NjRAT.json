@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "njrat_988256cf",
+    "title": "NjRAT",
+    "url": "https://tr.wikipedia.org/wiki/NjRAT",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:27.539054",
+    "content": "njRAT, aynı zamanda Bladabindi olarak da bilinir, program bilgisayar korsanının diğer hedeflerin bilgisayarını izinsiz kontrol etmesini sağlayan, kullanıcı arabirimi veya trojan içeren bir uzaktan erişim aracıdır. Haziran 2013'te bir grup bilgisayar korsanı tarafından geliştirildi. M38dHhM adlı bir gruba mensup farklı ülkelerden bir araya gelen bilgisayar korsanları tarafından yapıldı ve genellikle Orta Doğu'daki hedeflere karşı kullanıldı. Çoğu zaman zararsız gibi görünen dosyalar aracılığıyla kurbanlara gönderilir bu yüzden Truva atı olarak bilinir. Bugüne kadar, virüsün en ünlü varyantı njRAT Gold Edition olmuştur. Açık kaynak kodlu olduğundan herkes tarafından değiştirilip geliştirilebilir. == Özellikler == Aşağıdaki özellikler listesi kapsamlı değildir, ancak NjRat'ın yeteneklerini anlamak için kritik öneme sahiptir. Varsayılan Özellikler Dosyaları düzenleme CMD ile hedef bilgisayarda komut yürütme Görev yöneticisini gizlice çalıştırma Kayıt defterini düzenleme/silme Bilgisayarın kamerasını ve mikrofonunu kaydetme Klavye dinleme sistemi (keylogger) Uzak masaüstü bağlantısı Web tarayıcılarında veya diğer uygulamalarda depolanan parolaları ele geçirme Green Edition Özellikleri Oluşturulan virüsün ikonunu değiştirme \"Eğlence\" bölümünde bazı komik işlevlerle hedefi kızdırma Golden Edition Özellikleri Bağlantı noktası (port) sorgulama Bağlantı protokolünü seçme (TCP veya UDP) Danger Edition Özellikleri Hedef bilgisayara şifre belirleme Windows 10 ve üzeri hedeflerde yeni pencere komutu yürütme Virüs dosya boyutunu yapay olarak arttırma Belirlenen işlemleri yasaklama, sabote etme Hedefin DNS adresini değiştirebilme == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 203,
+      "char_count": 1656,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.717011",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 704,
+      "content": "njRAT, aynı zamanda Bladabindi olarak da bilinir, program bilgisayar korsanının diğer hedeflerin bilgisayarını izinsiz kontrol etmesini sağlayan, kullanıcı arabirimi veya trojan içeren bir uzaktan erişim aracıdır. Haziran 2013'te bir grup bilgisayar korsanı tarafından geliştirildi. M38dHhM adlı bir gruba mensup farklı ülkelerden bir araya gelen bilgisayar korsanları tarafından yapıldı ve genellikle Orta Doğu'daki hedeflere karşı kullanıldı. Çoğu zaman zararsız gibi görünen dosyalar aracılığıyla kurbanlara gönderilir bu yüzden Truva atı olarak bilinir. Bugüne kadar, virüsün en ünlü varyantı njRAT Gold Edition olmuştur. Açık kaynak kodlu olduğundan herkes tarafından değiştirilip geliştirilebilir.",
+      "char_count": 703,
+      "token_estimate": 175
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikler ==",
+      "heading_path": "== Özellikler ==",
+      "start_char": 704,
+      "end_char": 1642,
+      "content": "== Özellikler == Aşağıdaki özellikler listesi kapsamlı değildir, ancak NjRat'ın yeteneklerini anlamak için kritik öneme sahiptir. Varsayılan Özellikler Dosyaları düzenleme CMD ile hedef bilgisayarda komut yürütme Görev yöneticisini gizlice çalıştırma Kayıt defterini düzenleme/silme Bilgisayarın kamerasını ve mikrofonunu kaydetme Klavye dinleme sistemi (keylogger) Uzak masaüstü bağlantısı Web tarayıcılarında veya diğer uygulamalarda depolanan parolaları ele geçirme Green Edition Özellikleri Oluşturulan virüsün ikonunu değiştirme \"Eğlence\" bölümünde bazı komik işlevlerle hedefi kızdırma Golden Edition Özellikleri Bağlantı noktası (port) sorgulama Bağlantı protokolünü seçme (TCP veya UDP) Danger Edition Özellikleri Hedef bilgisayara şifre belirleme Windows 10 ve üzeri hedeflerde yeni pencere komutu yürütme Virüs dosya boyutunu yapay olarak arttırma Belirlenen işlemleri yasaklama, sabote etme Hedefin DNS adresini değiştirebilme",
+      "char_count": 937,
+      "token_estimate": 234
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "NjRat'ın Green Edition sürümü hangi özellikleri sunar?",
+        "answer": "NjRat'ın Green Edition sürümü, oluşturulan virüsün ikonunu değiştirebilme ve \"Eğlence\" bölümünde bazı komik işlevlerle hedefi kızdırma özelliklerini sunar.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "njRAT'ın c0000 parçasında uzaktan erişim aracı ve Truva atı olarak tanımlanması göz önüne alındığında, c0001 parçasında listelenen özelliklerinden hangileri bu rollerini desteklemektedir ve özellikle Altın Sürümü'nün katkıları nelerdir?",
+        "answer": "njRAT'ın bir uzaktan erişim aracı olarak rolü, hedef bilgisayarda dosyaları düzenleme, CMD komutları yürütme, görev yöneticisini gizlice çalıştırma, kayıt defterini düzenleme/silme, kamera ve mikrofon kaydı yapma, klavye dinleme ve uzak masaüstü bağlantısı kurma gibi varsayılan özellikleriyle desteklenir. Bir Truva atı olarak da, web tarayıcısı parolalarını ele geçirme ve virüsün ikonunu değiştirme gibi özellikleriyle kendini belli eder. Özellikle Altın Sürümü'nün bağlantı noktası sorgulama ve bağlantı protokolünü seçme yetenekleri, uzaktan erişim için ağ bağlantılarını optimize etmesine yardımcı olur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

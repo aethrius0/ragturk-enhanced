@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "fzero_8f6b87d2",
+    "title": "F-Zero",
+    "url": "https://tr.wikipedia.org/wiki/F-Zero",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:48.239027",
+    "content": "F-Zero (Japonca: エフゼロ, romanize: Efu Zero), Nintendo tarafından geliştirilen bir futuristik yarış video oyunu serisidir. Serinin ilk oyunu olan F-Zero 1990'da Super Nintendo Entertainment System için piyasaya sürüldü ve yakaladığı başarı sayesinde Nintendo'nun sonraki oyun konsollarında birden fazla oyunu daha yayınlandı. Seri, yüksek hızlı yarış, benzersiz karakterler ve ayarlar, zor oyun ve orijinal müzik ile bilinir ve aynı zamanda teknolojik sınırları en hızlı yarış oyunlarından biri olmaya zorlar. Orijinal oyun, Daytona USA ve Wipeout serisi gibi oyunların yaratılmasına ilham verdi. F-Zero serisi, 2004'te sadece Japonya'da sürülen F-Zero Climax oyununun piyasaya sürülmesinden bu yana uykuda kaldı. Serinin unsurları, Super Smash Bros. Geçmişteki oyunlar, Virtual Console servisi ile birden fazla Nintendo konsolunda var oldu. Orijinal F-Zero, Super NES Classic Edition'da öykünülmüş seçilmiş oyunlardan biridir. 4 Eylül 2019'da bir Nintendo Direct sunumu sırasında F-Zero, Super Nintendo Entertainment System: Nintendo Switch Online koleksiyonunun çıkışlarından biri olarak ilan edildi. Koleksiyon ertesi gün 5 Eylül 2019 tarihinde piyasaya sürüldü. Ashi Productions tarafından hazırlanan F-Zero: GP Legend (F-ZERO ファルコン伝説, Efu Zero Farukon Densetsu), adlı bir anime televizyon serisi uyarlaması Ekim 2003-Eylül 2004 tarihleri arasında yayınlandı. == Oyunlar == F-Zero (1990, Super Nintendo Entertainment System) F-Zero X (1998, Nintendo 64) F-Zero: Maximum Velocity (2001, Game Boy Advance) F-Zero GX (2003, Nintendo GameCube) F-Zero AX (2003, arcade) F-Zero: GP Legend (2003, Game Boy Advance) (aynı adlı animeye dayanmaktadır) F-Zero Climax (2004, Game Boy Advance, sadece Japonya'da) F-Zero 99 (2023, Nintendo Switch) == Kaynakça == == Dış bağlantılar == History of F-Zero at IGN IMDb'de F-Zero: GP Legend F-Zero Climax 26 Eylül 2019 tarihinde Wayback Machine sitesinde arşivlendi. at Nintendo.co.jp",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 260,
+      "char_count": 1917,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.059084",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "F-Zero (Japonca: エフゼロ, romanize: Efu Zero), Nintendo tarafından geliştirilen bir futuristik yarış video oyunu serisidir. Serinin ilk oyunu olan F-Zero 1990'da Super Nintendo Entertainment System için piyasaya sürüldü ve yakaladığı başarı sayesinde Nintendo'nun sonraki oyun konsollarında birden fazla oyunu daha yayınlandı. Seri, yüksek hızlı yarış, benzersiz karakterler ve ayarlar, zor oyun ve orijinal müzik ile bilinir ve aynı zamanda teknolojik sınırları en hızlı yarış oyunlarından biri olmaya zorlar. Orijinal oyun, Daytona USA ve Wipeout serisi gibi oyunların yaratılmasına ilham verdi. F-Zero serisi, 2004'te sadece Japonya'da sürülen F-Zero Climax oyununun piyasaya sürülmesinden bu yana uykuda kaldı. Serinin unsurları, Super Smash Bros. Geçmişteki oyunlar, Virtual Console servisi ile birden fazla Nintendo konsolunda var oldu. Orijinal F-Zero, Super NES Classic Edition'da öykünülmüş seçilmiş oyunlardan biridir. 4 Eylül 2019'da bir Nintendo Direct sunumu sırasında F-Zero, Super Nintend",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1361,
+      "content": "den fazla Nintendo konsolunda var oldu. Orijinal F-Zero, Super NES Classic Edition'da öykünülmüş seçilmiş oyunlardan biridir. 4 Eylül 2019'da bir Nintendo Direct sunumu sırasında F-Zero, Super Nintendo Entertainment System: Nintendo Switch Online koleksiyonunun çıkışlarından biri olarak ilan edildi. Koleksiyon ertesi gün 5 Eylül 2019 tarihinde piyasaya sürüldü. Ashi Productions tarafından hazırlanan F-Zero: GP Legend (F-ZERO ファルコン伝説, Efu Zero Farukon Densetsu), adlı bir anime televizyon serisi uyarlaması Ekim 2003-Eylül 2004 tarihleri arasında yayınlandı.",
+      "char_count": 561,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyunlar ==",
+      "heading_path": "== Oyunlar ==",
+      "start_char": 1362,
+      "end_char": 1736,
+      "content": "== Oyunlar == F-Zero (1990, Super Nintendo Entertainment System) F-Zero X (1998, Nintendo 64) F-Zero: Maximum Velocity (2001, Game Boy Advance) F-Zero GX (2003, Nintendo GameCube) F-Zero AX (2003, arcade) F-Zero: GP Legend (2003, Game Boy Advance) (aynı adlı animeye dayanmaktadır) F-Zero Climax (2004, Game Boy Advance, sadece Japonya'da) F-Zero 99 (2023, Nintendo Switch)",
+      "char_count": 373,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1751,
+      "end_char": 1917,
+      "content": "== Dış bağlantılar == History of F-Zero at IGN IMDb'de F-Zero: GP Legend F-Zero Climax 26 Eylül 2019 tarihinde Wayback Machine sitesinde arşivlendi. at Nintendo.co.jp",
+      "char_count": 166,
+      "token_estimate": 41
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "F-Zero serisinin ilk oyunu hangi yıl piyasaya sürüldü?",
+        "answer": "1990",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "F-Zero oyun serisinin \"uykuda\" kalmaya başlaması ile F-Zero: GP Legend anime uyarlamasının yayın dönemi arasındaki zamanlama açısından nasıl bir ilişki bulunmaktadır?",
+        "answer": "F-Zero oyun serisi, 2004 yılında yalnızca Japonya'da yayımlanan F-Zero Climax oyununun piyasaya sürülmesinin ardından uykuda kalmıştır. Buna karşılık, F-Zero: GP Legend adlı anime serisi Ekim 2003'te başlayıp Eylül 2004'te sona ermiştir. Bu durum, oyun serisinin uykuda kalmaya başlamasının, anime uyarlamasının yayınlanmasının sona erdiği dönemle yaklaşık olarak aynı zamana denk geldiğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

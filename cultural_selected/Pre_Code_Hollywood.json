@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "precodehollywood_5c044300",
+    "title": "Pre-Code Hollywood",
+    "url": "https://tr.wikipedia.org/wiki/Pre-Code_Hollywood",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:59.096222",
+    "content": "Pre-Code Hollywood ya da Yasa öncesi dönem Hollywood Amerikan sineması’nda, 1929'da sesin yaygın bir şekilde filmlerde kullanımının benimsenmesiyle başlayan ve 1934’de \"Hays Code\" olarak bilinen Film Üretim Yasası sansür yönergelerinin uygulanması arasında kalan kısa dönemdi. Kanun 1930'da kabul edilmiş olmasına rağmen, denetim zayıftı ve 1 Temmuz 1934'te Amerikan Sinema Filmleri Derneği’nin (PCA) kurulmasına kadar katı bir şekilde uygulanmadı. Bu tarihten önce film içeriği, Hollywood film yapımcıları tarafından genellikle göz ardı edilen Hays Code'a sıkı sıkıya bağlı olmaktan ziyade yerel yasalar, Stüdyo İlişkileri Komitesi (SRC) ile büyük stüdyolar arasındaki müzakereler ve popüler görüşler tarafından kısıtlandı. Sonuç olarak, 1920'lerin sonlarında ve 1930'ların başlarında bazı filmler Cinsel imalar, beyaz ve siyah insanlar arasında romantik ve cinsel ilişkiler, hafif küfür, yasadışı uyuşturucu kullanımı, hafifmeşreplik, fuhuş, aldatma, kürtaj, yoğun şiddet ve eşcinsellik tasvir etti. Nefret dolu karakterlerin, bazı durumlarda önemli sonuçları olmaksızın, kötü eylemlerinden yararlandığı görüldü. Örneğin Halk Düşmanı, Küçük Sezar ve Yaralı Yüz gibi filmlerdeki gangsterler, birçok kişi tarafından kötüden çok kahraman olarak görülüyordu. Güçlü kadın karakterler, Female, Baby Face ve Red-Headed Woman gibi yasa öncesi filmlerde her yerde mevcuttu. Filmler, daha güçlü kadın karakterlere yer vermenin yanı sıra, on yıllar sonra bile ABD filmlerinde yeniden ele alınmayacak olan kadın konularını inceledi. Clark Gable, Bette Davis, Barbara Stanwyck, Joan Blondell ve Edward G. Robinson gibi Hollywood'un en büyük yıldızlarının çoğu bu çağa başladılar. Bununla birlikte, Ruth Chatterton (İngiltere'ye gitti) ve Warren William (\"Pre-Code kralı\" olarak adlandırılan) gibi bu dönemde tanınan diğer yıldızlar, bir nesil içinde genel halk tarafından unutulacaktı. 1933'ün sonlarında başlayan ve 1934'ün ilk yarısı boyunca güçlenen Amerikan Roma Katolikleri, Amerikan sinemasının ahlaksızlığı olarak gördükleri şeye karşı bir kampanya başlattılar. Buna ek olarak, hükûmetin film sansürünü devralması ve ahlaksız olduğu görülen filmlerin kötü davranışları teşvik edebileceğini gösteren sosyal araştırmalar, stüdyoları daha fazla gözetime boyun eğmeye zorlamak için yeterli baskıyı yarattı. == Kaynaklar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 300,
+      "char_count": 2314,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.893871",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Pre-Code Hollywood ya da Yasa öncesi dönem Hollywood Amerikan sineması’nda, 1929'da sesin yaygın bir şekilde filmlerde kullanımının benimsenmesiyle başlayan ve 1934’de \"Hays Code\" olarak bilinen Film Üretim Yasası sansür yönergelerinin uygulanması arasında kalan kısa dönemdi. Kanun 1930'da kabul edilmiş olmasına rağmen, denetim zayıftı ve 1 Temmuz 1934'te Amerikan Sinema Filmleri Derneği’nin (PCA) kurulmasına kadar katı bir şekilde uygulanmadı. Bu tarihten önce film içeriği, Hollywood film yapımcıları tarafından genellikle göz ardı edilen Hays Code'a sıkı sıkıya bağlı olmaktan ziyade yerel yasalar, Stüdyo İlişkileri Komitesi (SRC) ile büyük stüdyolar arasındaki müzakereler ve popüler görüşler tarafından kısıtlandı. Sonuç olarak, 1920'lerin sonlarında ve 1930'ların başlarında bazı filmler Cinsel imalar, beyaz ve siyah insanlar arasında romantik ve cinsel ilişkiler, hafif küfür, yasadışı uyuşturucu kullanımı, hafifmeşreplik, fuhuş, aldatma, kürtaj, yoğun şiddet ve eşcinsellik tasvir etti",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "insel imalar, beyaz ve siyah insanlar arasında romantik ve cinsel ilişkiler, hafif küfür, yasadışı uyuşturucu kullanımı, hafifmeşreplik, fuhuş, aldatma, kürtaj, yoğun şiddet ve eşcinsellik tasvir etti. Nefret dolu karakterlerin, bazı durumlarda önemli sonuçları olmaksızın, kötü eylemlerinden yararlandığı görüldü. Örneğin Halk Düşmanı, Küçük Sezar ve Yaralı Yüz gibi filmlerdeki gangsterler, birçok kişi tarafından kötüden çok kahraman olarak görülüyordu. Güçlü kadın karakterler, Female, Baby Face ve Red-Headed Woman gibi yasa öncesi filmlerde her yerde mevcuttu. Filmler, daha güçlü kadın karakterlere yer vermenin yanı sıra, on yıllar sonra bile ABD filmlerinde yeniden ele alınmayacak olan kadın konularını inceledi. Clark Gable, Bette Davis, Barbara Stanwyck, Joan Blondell ve Edward G. Robinson gibi Hollywood'un en büyük yıldızlarının çoğu bu çağa başladılar. Bununla birlikte, Ruth Chatterton (İngiltere'ye gitti) ve Warren William (\"Pre-Code kralı\" olarak adlandırılan) gibi bu dönemde tan",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2298,
+      "content": "on gibi Hollywood'un en büyük yıldızlarının çoğu bu çağa başladılar. Bununla birlikte, Ruth Chatterton (İngiltere'ye gitti) ve Warren William (\"Pre-Code kralı\" olarak adlandırılan) gibi bu dönemde tanınan diğer yıldızlar, bir nesil içinde genel halk tarafından unutulacaktı. 1933'ün sonlarında başlayan ve 1934'ün ilk yarısı boyunca güçlenen Amerikan Roma Katolikleri, Amerikan sinemasının ahlaksızlığı olarak gördükleri şeye karşı bir kampanya başlattılar. Buna ek olarak, hükûmetin film sansürünü devralması ve ahlaksız olduğu görülen filmlerin kötü davranışları teşvik edebileceğini gösteren sosyal araştırmalar, stüdyoları daha fazla gözetime boyun eğmeye zorlamak için yeterli baskıyı yarattı.",
+      "char_count": 698,
+      "token_estimate": 174
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Pre-Code Hollywood dönemi hangi yıllar arasını kapsamaktadır?",
+        "answer": "Pre-Code Hollywood dönemi, 1929'da sesin filmlerde yaygın bir şekilde kullanımının benimsenmesiyle başlayan ve 1934'te Film Üretim Yasası sansür yönergelerinin uygulanması arasında kalan kısa dönemdir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Pre-Code Hollywood döneminde filmlerin içeriklerine uygulanan sansürün sıkılaşmasına ve dönemin sona ermesine yol açan başlıca faktörler nelerdi?",
+        "answer": "Pre-Code Hollywood döneminde, 1934'e kadar gevşek bir şekilde uygulanan sansürün sıkılaşması ve dönemin sona ermesi, Amerikan Roma Katoliklerinin 1933'ün sonlarında başlattığı ve 1934'ün ilk yarısında güçlenen \"ahlaksızlık\" kampanyasıyla tetiklendi. Buna ek olarak, hükûmetin film sansürünü devralması yönündeki baskılar ve ahlaksız filmlerin kötü davranışları teşvik edebileceğini gösteren sosyal araştırmalar, stüdyoları daha fazla denetime boyun eğmeye zorlayan yeterli baskıyı yarattı. Bu durum, 1 Temmuz 1934'te Amerikan Sinema Filmleri Derneği'nin (PCA) kurulması ve Hays Kodu'nun katı bir şekilde uygulanmasıyla sonuçlandı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

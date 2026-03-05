@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "robertmetcalfe_a5b27d55",
+    "title": "Robert Metcalfe",
+    "url": "https://tr.wikipedia.org/wiki/Robert_Metcalfe",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:10.651582",
+    "content": "Robert Melancton Metcalfe (d. 7 Nisan 1946), 1970'lerde internetin gelişimine katkıda bulunan Amerikalı bir mühendis ve girişimcidir. Ethernet'i icat etti, 3Com'u kurdu ve bir telekomünikasyon ağının etkisini açıklayan Metcalfe yasasını formüle etti. Metcalfe ayrıca, 1990'larda internetin sona ereceğini tahmin etmek de dahil olmak üzere, gerçekleşemeyen birkaç tahminde bulundu. Metcalfe, Ethernet teknolojisini geliştirme çalışmaları nedeniyle IEEE Onur Madalyası ve Ulusal Teknoloji ve Yenilik Madalyası dahil olmak üzere çeşitli ödüller aldı. 2023 yılında bilgisayar bilimlerindeki en yüksek ayrım olan Turing Ödülü'nü aldı. 2011'den 2021'e kadar Austin Texas Üniversitesi'nde inovasyon ve girişimcilik profesörüydü. == Erken yaşam ve aile == Robert Metcalfe, 1946'da Brooklyn, New York'ta doğdu. Babası, jiroskoplar konusunda uzmanlaşmış bir test teknisyeniydi. Annesi, daha sonra Bay Shore Lisesi'nde sekreter olan bir ev hanımıydı. Metcalfe bu okuldan 1964 yılında mezun oldu. Metcalfe, Massachusetts Institute of Technology'den 1969'da elektrik mühendisliği ve endüstriyel yönetim alanlarında iki Lisans derecesi alarak mezun oldu. Daha sonra Harvard Üniversitesi'ne girdi ve 1970'te uygulamalı matematik alanında Master of Science ve 1973'te bilgisayar bilimlerinde doktora derecesi aldı. Metcalfe ve eşi Robyn'in iki çocuğu var. == Kariyeri == 2011'den 2021'e kadar Austin Texas Üniversitesi'nde'deki Cockrell School of Engineering'de inovasyon inisiyatiflerinde uzmanlaşmış bir profesördü. Metcalfe, 2016 Geleceğin Bilim ve Teknoloji Liderleri Kongresi'nde açılış konuşmacısıydı ve 2019'da Güney Afrika'da Bernard Price Anma Konferansı'nı sundu. Haziran 2022'de Metcalfe, Bilgisayar Bilimi ve Yapay Zeka Laboratuvarı'na araştırma görevlisi ve hesaplama mühendisi olarak katılarak MIT Julia Lab ile birlikte çalışarak Massachusetts Institute of Technology'e geri döndü. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 241,
+      "char_count": 1895,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.471093",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 722,
+      "content": "Robert Melancton Metcalfe (d. 7 Nisan 1946), 1970'lerde internetin gelişimine katkıda bulunan Amerikalı bir mühendis ve girişimcidir. Ethernet'i icat etti, 3Com'u kurdu ve bir telekomünikasyon ağının etkisini açıklayan Metcalfe yasasını formüle etti. Metcalfe ayrıca, 1990'larda internetin sona ereceğini tahmin etmek de dahil olmak üzere, gerçekleşemeyen birkaç tahminde bulundu. Metcalfe, Ethernet teknolojisini geliştirme çalışmaları nedeniyle IEEE Onur Madalyası ve Ulusal Teknoloji ve Yenilik Madalyası dahil olmak üzere çeşitli ödüller aldı. 2023 yılında bilgisayar bilimlerindeki en yüksek ayrım olan Turing Ödülü'nü aldı. 2011'den 2021'e kadar Austin Texas Üniversitesi'nde inovasyon ve girişimcilik profesörüydü.",
+      "char_count": 721,
+      "token_estimate": 180
+    },
+    {
+      "id": "c0001",
+      "section": "== Erken yaşam ve aile ==",
+      "heading_path": "== Erken yaşam ve aile ==",
+      "start_char": 722,
+      "end_char": 1340,
+      "content": "== Erken yaşam ve aile == Robert Metcalfe, 1946'da Brooklyn, New York'ta doğdu. Babası, jiroskoplar konusunda uzmanlaşmış bir test teknisyeniydi. Annesi, daha sonra Bay Shore Lisesi'nde sekreter olan bir ev hanımıydı. Metcalfe bu okuldan 1964 yılında mezun oldu. Metcalfe, Massachusetts Institute of Technology'den 1969'da elektrik mühendisliği ve endüstriyel yönetim alanlarında iki Lisans derecesi alarak mezun oldu. Daha sonra Harvard Üniversitesi'ne girdi ve 1970'te uygulamalı matematik alanında Master of Science ve 1973'te bilgisayar bilimlerinde doktora derecesi aldı. Metcalfe ve eşi Robyn'in iki çocuğu var.",
+      "char_count": 617,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1340,
+      "end_char": 1881,
+      "content": "== Kariyeri == 2011'den 2021'e kadar Austin Texas Üniversitesi'nde'deki Cockrell School of Engineering'de inovasyon inisiyatiflerinde uzmanlaşmış bir profesördü. Metcalfe, 2016 Geleceğin Bilim ve Teknoloji Liderleri Kongresi'nde açılış konuşmacısıydı ve 2019'da Güney Afrika'da Bernard Price Anma Konferansı'nı sundu. Haziran 2022'de Metcalfe, Bilgisayar Bilimi ve Yapay Zeka Laboratuvarı'na araştırma görevlisi ve hesaplama mühendisi olarak katılarak MIT Julia Lab ile birlikte çalışarak Massachusetts Institute of Technology'e geri döndü.",
+      "char_count": 540,
+      "token_estimate": 135
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Robert Metcalfe, 2023 yılında bilgisayar bilimlerindeki en yüksek ayrım olan hangi ödülü almıştır?",
+        "answer": "Turing Ödülü",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Robert Metcalfe'nin eğitim hayatından başlayarak kariyerindeki farklı kurumlarla olan bağları ve bu bağların kariyer yolculuğundaki rolü nasıl açıklanabilir?",
+        "answer": "Robert Metcalfe, kariyerine Massachusetts Institute of Technology'den (MIT) iki lisans derecesi alarak başlamış ve daha sonra Harvard Üniversitesi'nde yüksek lisans ve doktora eğitimini tamamlamıştır. Profesyonel yaşamının ilerleyen dönemlerinde, 2011'den 2021'e kadar Austin Texas Üniversitesi'nde inovasyon ve girişimcilik profesörü olarak görev yapmıştır. Bu akademik pozisyonun ardından, Haziran 2022'de bir araştırma görevlisi ve hesaplama mühendisi olarak MIT'ye geri dönerek ilk eğitim aldığı kuruma tekrar bağlanmıştır. Bu durum, Metcalfe'nin kariyer yolculuğunun önde gelen eğitim ve araştırma kurumlarıyla sürekli bir etkileşim içinde olduğunu göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

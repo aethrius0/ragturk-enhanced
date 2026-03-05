@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "arletamzisyen_3fef1a62",
+    "title": "Arleta (müzisyen)",
+    "url": "https://tr.wikipedia.org/wiki/Arleta_%28m%C3%BCzisyen%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:02.362759",
+    "content": "Arleta (Grekçe: Yunanca: Αρλέτα; gerçek adı: Yunanca: Αριάδνη Νικολέτα Τσάπρα Ariadne Nicoleta Tsapra 3 Mart 1945; Atina – 8 Ağustos 2017; Atina, Yunanistan), Yunan müzisyen, şarkıcı, yazar ve kitap desinatörüdür. == Yaşamı == Arleta 1945'te Atina'da doğdu. Atina Güzel Sanatlar Okulu'nda okudu. 1960'ta kendi ilk albümü olan (Ένα Καπέλο με Τραγούδια, A hat with songs) sözlerini kendisi yazmıştır. Kariyerinin başlangıcında Giannis Spanos, Manos Hatzidakis ve Mikis Theodorakis gibi tanınmış birçok Yunan besteciyle çalıştı. İlk büyük başarıları, müziği Lakis Papadopoulos tarafından yazılmış ve Marianina Kriezi'nin şarkı sözleri ile geldi. Atina boîte sahnesinde çok başarılı bir performans sergiledi. 1997'de, kendi illüstrasyonlarını içeren bir kitap olan Από πού πάνε για την Άνοιξη (Whereto does one go to get to Spring) kaleme alıp yayınlamıştır. 11 Şubat 2008'de, Volos'daki planlı bir performans öncesinden birkaç dakika önce Arleta'ya bir inme gelmiştir. Hasta 6 ay boyunca hastanede kalmasına ve bir yıl boyunca ayakta duramamasına rağmen kısmen felce uğradığı anlaşılmış elinde kritik istikrarlı bir ameliyat geçirmiştir. == Ölümü == Ocak 2017'de tekrar bir felçe maruz kalan şarkıcı ve müzisyen Arleta hastanede kaldırılmış burada gördüğü tüm tedaviye karşın 8 Ağustos 2017'de 72 yaşında ölmüştür. == Diskografi == Τραγουδά η Αρλέτα (Lyra, 1966) - Arleta sings Αρλέτα Νο2 (Lyra, 1967) - Arleta No.2 Στο Ρυθμό του Αγέρα (Lyra, 1968) - In the rhythm of the wind 12+1 Τραγούδια του Μάνου Χατζιδάκι (Lyra, 1969) - 12+1 Songs of Manos Hatzidakis Έξη Μέρες (Lyra, 1970) - Six Days Ταξιδεύοντας (Lyra, 1976) - Travelling Romancero Gitano (Lyra, 1978) Ένα Καπέλο με Τραγούδια (Lyra, 1981) - A hat with songs Περίπου (Lyra, 1984) - Almost Τσάι Γιασεμιού (CBS, 1985) - Jasmine Tee Ζητάτε Να Σας Πω (CBS, 1987) - You ask me to say to you Δέκα και μία νύχτες (CBS, 1989) - Ten and one nights Εκτός Έδρας (CBS, 1989) - Away Άσε τα Κρυφά Κρυμμένα (Columbia, 1991) - Let secrets remain hidden Μετά Τιμής (Portrait, 1993) - With Honour Έμπορος Ονείρων (Ακτή, 1995) - Trader of Dreams Και Πάλι Χαίρετε (Legend, 2009) - Hello to You again Demo (Lyra, 2010) == Çizimleri == Bertolt Brecht «Ο Μπαρμπα-Έντε» (Uncle Eddie's Moustache) – Çocuk Kitabı (Οδυσσέας Editions, 1979; in Greek) Vladimir Mayakovsky «Το Αλογάκι-Φωτιά» (The Fire Horse) – Çocuk Kitabı (Οδυσσέας Editions, 1986; in Greek) == Ayrıca bakınız == Horse Stories Keti Chomata Mariza Koch Rena Koumioti == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 386,
+      "char_count": 2473,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.973118",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 214,
+      "content": "Arleta (Grekçe: Yunanca: Αρλέτα; gerçek adı: Yunanca: Αριάδνη Νικολέτα Τσάπρα Ariadne Nicoleta Tsapra 3 Mart 1945; Atina – 8 Ağustos 2017; Atina, Yunanistan), Yunan müzisyen, şarkıcı, yazar ve kitap desinatörüdür.",
+      "char_count": 213,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 214,
+      "end_char": 1135,
+      "content": "== Yaşamı == Arleta 1945'te Atina'da doğdu. Atina Güzel Sanatlar Okulu'nda okudu. 1960'ta kendi ilk albümü olan (Ένα Καπέλο με Τραγούδια, A hat with songs) sözlerini kendisi yazmıştır. Kariyerinin başlangıcında Giannis Spanos, Manos Hatzidakis ve Mikis Theodorakis gibi tanınmış birçok Yunan besteciyle çalıştı. İlk büyük başarıları, müziği Lakis Papadopoulos tarafından yazılmış ve Marianina Kriezi'nin şarkı sözleri ile geldi. Atina boîte sahnesinde çok başarılı bir performans sergiledi. 1997'de, kendi illüstrasyonlarını içeren bir kitap olan Από πού πάνε για την Άνοιξη (Whereto does one go to get to Spring) kaleme alıp yayınlamıştır. 11 Şubat 2008'de, Volos'daki planlı bir performans öncesinden birkaç dakika önce Arleta'ya bir inme gelmiştir. Hasta 6 ay boyunca hastanede kalmasına ve bir yıl boyunca ayakta duramamasına rağmen kısmen felce uğradığı anlaşılmış elinde kritik istikrarlı bir ameliyat geçirmiştir.",
+      "char_count": 920,
+      "token_estimate": 230
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 1135,
+      "end_char": 1312,
+      "content": "== Ölümü == Ocak 2017'de tekrar bir felçe maruz kalan şarkıcı ve müzisyen Arleta hastanede kaldırılmış burada gördüğü tüm tedaviye karşın 8 Ağustos 2017'de 72 yaşında ölmüştür.",
+      "char_count": 176,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0003",
+      "section": "== Diskografi ==",
+      "heading_path": "== Diskografi ==",
+      "start_char": 1312,
+      "end_char": 2153,
+      "content": "== Diskografi == Τραγουδά η Αρλέτα (Lyra, 1966) - Arleta sings Αρλέτα Νο2 (Lyra, 1967) - Arleta No.2 Στο Ρυθμό του Αγέρα (Lyra, 1968) - In the rhythm of the wind 12+1 Τραγούδια του Μάνου Χατζιδάκι (Lyra, 1969) - 12+1 Songs of Manos Hatzidakis Έξη Μέρες (Lyra, 1970) - Six Days Ταξιδεύοντας (Lyra, 1976) - Travelling Romancero Gitano (Lyra, 1978) Ένα Καπέλο με Τραγούδια (Lyra, 1981) - A hat with songs Περίπου (Lyra, 1984) - Almost Τσάι Γιασεμιού (CBS, 1985) - Jasmine Tee Ζητάτε Να Σας Πω (CBS, 1987) - You ask me to say to you Δέκα και μία νύχτες (CBS, 1989) - Ten and one nights Εκτός Έδρας (CBS, 1989) - Away Άσε τα Κρυφά Κρυμμένα (Columbia, 1991) - Let secrets remain hidden Μετά Τιμής (Portrait, 1993) - With Honour Έμπορος Ονείρων (Ακτή, 1995) - Trader of Dreams Και Πάλι Χαίρετε (Legend, 2009) - Hello to You again Demo (Lyra, 2010)",
+      "char_count": 840,
+      "token_estimate": 210
+    },
+    {
+      "id": "c0004",
+      "section": "== Çizimleri ==",
+      "heading_path": "== Çizimleri ==",
+      "start_char": 2153,
+      "end_char": 2385,
+      "content": "== Çizimleri == Bertolt Brecht «Ο Μπαρμπα-Έντε» (Uncle Eddie's Moustache) – Çocuk Kitabı (Οδυσσέας Editions, 1979; in Greek) Vladimir Mayakovsky «Το Αλογάκι-Φωτιά» (The Fire Horse) – Çocuk Kitabı (Οδυσσέας Editions, 1986; in Greek)",
+      "char_count": 231,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2385,
+      "end_char": 2459,
+      "content": "== Ayrıca bakınız == Horse Stories Keti Chomata Mariza Koch Rena Koumioti",
+      "char_count": 73,
+      "token_estimate": 18
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Arleta ne zaman inme geçirdi?",
+        "answer": "11 Şubat 2008",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Arleta'nın müzisyenlik ve şarkıcılık kariyeriyle yazarlık ve kitap desinatörlüğü kimlikleri hayatı boyunca nasıl birleşmiştir?",
+        "answer": "Arleta, müzisyen ve şarkıcı kimliğiyle 1960'larda kendi şarkı sözlerini yazdığı ilk albümünü yayınlayarak kariyerine başlamış ve tanınmış bestecilerle çalışmıştır. Aynı zamanda yazar ve kitap desinatörü olarak da faaliyet göstermiş, 1997 yılında kendi illüstrasyonlarını içeren 'Από πού πάνε για την Άνοιξη' (Bahar'a nereden gidilir) adlı bir kitap kaleme alıp yayınlamıştır. Böylece sanatının farklı yönlerini birleştirerek çok yönlü bir sanatçı kimliği sergilemiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

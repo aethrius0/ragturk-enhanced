@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "gvenliteslimatoperas_685496ec",
+    "title": "Güvenli Teslimat Operasyonu",
+    "url": "https://tr.wikipedia.org/wiki/G%C3%BCvenli_Teslimat_Operasyonu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:15.047597",
+    "content": "Güvenli Teslimat Operasyonu (İngilizce: Operation Assured Delivery) 2008 Rus-Gürcü Savaşı'nın ardından ABD Silahlı Kuvvetleri tarafından Gürcistan'daki insani yardım çabalarına lojistik destek için başlatıldı. Operasyon, Gürcistan'ın sivil nüfusu için tıbbi malzeme, barınak, yiyecek ve kişisel hijyen malzemeleri sağlamıştır. == ABD kuvvetlerinin konuşlandırılması == === Amerika Birleşik Devletleri Hava Kuvvetleri === 27 Ağustos 2008 tarihinde Amerika Birleşik Devletleri Hava Kuvvetleri 13 Ağustos'tan bu yana yaklaşık 882.000 kilogram erzak taşıyan 55 adet yardım uçağı gönderdi. === Amerika Birleşik Devletleri Donanması === 27 Ağustos 2008 tarihinde Amerika Birleşik Devletleri Donanması destroyeri USS McFaul, Batum limanına yaklaşık 70.300 kilogram insani yardım malzemesi teslim etmiştir. Ek olarak, komuta gemisi USS Mount Whitney, ek malzemelerle 5 Eylül günü Poti limanına gitmiştir. === Amerika Birleşik Devletleri Sahil Güvenlik Teşkilatı === 27 Ağustos 2008 tarihinde Amerika Birleşik Devletleri Sahil Güvenlik Teşkilatı, USCGC Dallas vasıtasıyla yerlerinden edilmiş kişilere yaklaşık 34.500 kilogram yardım ulaştırmıştır. == Rusya'nın tepkisi == Rusya Devlet Başkanı Dmitri Medvedev, Amerika Birleşik Devletleri'ni Gürcistan'a askerî destek sağlamak için Assured Delivery Operasyonu'nu kullanmakla suçladı. Medyada çıkan haberlere göre USS McFaul, o sırada Ruslar'ın kontrolüne geçen Poti limanı yerine Gürcistan kontrolündeki Batum limanına demirlenmişti. USS Mount Whitney Poti'ye demirlenmiş olsa da Rus yetkililer, geminin boyutu ve ağırlığı göz önünde bulundurulduğunda söz konusu geminin insani yardım getirmediğinin açık olduğunu ve insani yardım yerine önemli miktarda silah getirildiğini öne sürerek geminin gelişiyle ilgili endişelerini dile getirdiler. Ayrıca Mount Whitney'in Karadeniz'deki bir grup NATO gemisini koordine eden bir kontrol gemisi olduğu belirtilmiştir. == Ayrıca bakınız == NATO-Gürcistan ilişkileri == Kaynakça == == Dış bağlantılar == Operation Assured Delivery",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 255,
+      "char_count": 2009,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.743747",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 327,
+      "content": "Güvenli Teslimat Operasyonu (İngilizce: Operation Assured Delivery) 2008 Rus-Gürcü Savaşı'nın ardından ABD Silahlı Kuvvetleri tarafından Gürcistan'daki insani yardım çabalarına lojistik destek için başlatıldı. Operasyon, Gürcistan'ın sivil nüfusu için tıbbi malzeme, barınak, yiyecek ve kişisel hijyen malzemeleri sağlamıştır.",
+      "char_count": 326,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0001",
+      "section": "=== Amerika Birleşik Devletleri Hava Kuvvetleri ===",
+      "heading_path": "=== Amerika Birleşik Devletleri Hava Kuvvetleri ===",
+      "start_char": 369,
+      "end_char": 585,
+      "content": "=== Amerika Birleşik Devletleri Hava Kuvvetleri === 27 Ağustos 2008 tarihinde Amerika Birleşik Devletleri Hava Kuvvetleri 13 Ağustos'tan bu yana yaklaşık 882.000 kilogram erzak taşıyan 55 adet yardım uçağı gönderdi.",
+      "char_count": 215,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0002",
+      "section": "=== Amerika Birleşik Devletleri Donanması ===",
+      "heading_path": "=== Amerika Birleşik Devletleri Donanması ===",
+      "start_char": 585,
+      "end_char": 897,
+      "content": "=== Amerika Birleşik Devletleri Donanması === 27 Ağustos 2008 tarihinde Amerika Birleşik Devletleri Donanması destroyeri USS McFaul, Batum limanına yaklaşık 70.300 kilogram insani yardım malzemesi teslim etmiştir. Ek olarak, komuta gemisi USS Mount Whitney, ek malzemelerle 5 Eylül günü Poti limanına gitmiştir.",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0003",
+      "section": "=== Amerika Birleşik Devletleri Sahil Güvenlik Teşkilatı ===",
+      "heading_path": "=== Amerika Birleşik Devletleri Sahil Güvenlik Teşkilatı ===",
+      "start_char": 897,
+      "end_char": 1139,
+      "content": "=== Amerika Birleşik Devletleri Sahil Güvenlik Teşkilatı === 27 Ağustos 2008 tarihinde Amerika Birleşik Devletleri Sahil Güvenlik Teşkilatı, USCGC Dallas vasıtasıyla yerlerinden edilmiş kişilere yaklaşık 34.500 kilogram yardım ulaştırmıştır.",
+      "char_count": 241,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0004",
+      "section": "== Rusya'nın tepkisi ==",
+      "heading_path": "== Rusya'nın tepkisi ==",
+      "start_char": 1139,
+      "end_char": 1899,
+      "content": "== Rusya'nın tepkisi == Rusya Devlet Başkanı Dmitri Medvedev, Amerika Birleşik Devletleri'ni Gürcistan'a askerî destek sağlamak için Assured Delivery Operasyonu'nu kullanmakla suçladı. Medyada çıkan haberlere göre USS McFaul, o sırada Ruslar'ın kontrolüne geçen Poti limanı yerine Gürcistan kontrolündeki Batum limanına demirlenmişti. USS Mount Whitney Poti'ye demirlenmiş olsa da Rus yetkililer, geminin boyutu ve ağırlığı göz önünde bulundurulduğunda söz konusu geminin insani yardım getirmediğinin açık olduğunu ve insani yardım yerine önemli miktarda silah getirildiğini öne sürerek geminin gelişiyle ilgili endişelerini dile getirdiler. Ayrıca Mount Whitney'in Karadeniz'deki bir grup NATO gemisini koordine eden bir kontrol gemisi olduğu belirtilmiştir.",
+      "char_count": 759,
+      "token_estimate": 189
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1899,
+      "end_char": 1946,
+      "content": "== Ayrıca bakınız == NATO-Gürcistan ilişkileri",
+      "char_count": 46,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1961,
+      "end_char": 2009,
+      "content": "== Dış bağlantılar == Operation Assured Delivery",
+      "char_count": 48,
+      "token_estimate": 12
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rusya Devlet Başkanı Dmitri Medvedev, Amerika Birleşik Devletleri'ni ne yapmakla suçladı?",
+        "answer": "Gürcistan'a askerî destek sağlamak için Assured Delivery Operasyonu'nu kullanmakla.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "2008 Rus-Gürcü Savaşı'nın ardından başlatılan Güvenli Teslimat Operasyonu'na Amerika Birleşik Devletleri Hava Kuvvetleri nasıl katkıda bulunmuştur?",
+        "answer": "Amerika Birleşik Devletleri Hava Kuvvetleri, Güvenli Teslimat Operasyonu kapsamında 13 Ağustos'tan itibaren 55 adet yardım uçağı göndererek ve yaklaşık 882.000 kilogram erzak taşıyarak Gürcistan'daki insani yardım çabalarına lojistik destek sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

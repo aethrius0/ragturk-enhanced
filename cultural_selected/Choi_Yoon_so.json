@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "choiyoonso_71118d23",
+    "title": "Choi Yoon-so",
+    "url": "https://tr.wikipedia.org/wiki/Choi_Yoon-so",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:26.912897",
+    "content": "Choi Yoon-so (d. 29 Kasım 1984, Jeonju) Güney Koreli aktris. Günlük dram dizisi Unknown Woman'da kötü ve acımasız Goo Hae-joo'yu canlandırmasıyla dikkat çekti. == Kariyeri == Filmler ve diziler arasında gidip geldi, çoğunlukla destekleyici roller oynadı. 2016 yılında, aktör Park Si-hoo'nun oynadığı OCN draması Local Hero'da destekleyici bir rol oynadı ve ardından 2017 draması Unknown Woman'da ilk başrolünü aldı. Rol aldığı diziler arasında Unknown Woman ve The Lady in Dignity'nin çakışan yayın dönemleri vardı ve dizide oynadığı roller taban tabana zıt olduğu için iki diziyi aynı anda izleyenlerin kafası biraz karıştı. Bunun nedeni, Unknown Woman'daki Goo Hae-joo rolünün kötü kadınlar arasında bir kötü karakter olması, ancak klas bir kız rolünü oynayan Heo Jin-hee'nin çok parlak ve iyi bir karakter olmasıdır. Daha sonra 2019'da KBS1'in Smile Again'den dokuz yıl sonra ilk günlük pembe dizisinde yer aldı ve her şeye tutkuyla bağlı bir gelin rolünü oynadı. Yayınlanmadan önce, daha önce kötü adam karakteri performansı nedeniyle birçok endişe vardı, ancak yayından sonra oyunculuk becerileri bu endişeleri ortadan kaldıracak kadar önemli ölçüde gelişti ve karakter de iyi karşılandı. == Filmografi == === Sinema === === Televizyon dizileri === === İnternet dizileri === === Eğlence programları === === Müzik videolar === == Ödüller ve adaylıklar == == Kaynakça == == Dış bağlantılar == HanCinema'da Choi Yoon-so Korean Movie Database'te Choi Yoon-so IMDb'de Choi Yoon-so Instagram'da Choi Yoon-so",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 222,
+      "char_count": 1506,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.545837",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 160,
+      "content": "Choi Yoon-so (d. 29 Kasım 1984, Jeonju) Güney Koreli aktris. Günlük dram dizisi Unknown Woman'da kötü ve acımasız Goo Hae-joo'yu canlandırmasıyla dikkat çekti.",
+      "char_count": 159,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 160,
+      "end_char": 1160,
+      "content": "== Kariyeri == Filmler ve diziler arasında gidip geldi, çoğunlukla destekleyici roller oynadı. 2016 yılında, aktör Park Si-hoo'nun oynadığı OCN draması Local Hero'da destekleyici bir rol oynadı ve ardından 2017 draması Unknown Woman'da ilk başrolünü aldı. Rol aldığı diziler arasında Unknown Woman ve The Lady in Dignity'nin çakışan yayın dönemleri vardı ve dizide oynadığı roller taban tabana zıt olduğu için iki diziyi aynı anda izleyenlerin kafası biraz karıştı. Bunun nedeni, Unknown Woman'daki Goo Hae-joo rolünün kötü kadınlar arasında bir kötü karakter olması, ancak klas bir kız rolünü oynayan Heo Jin-hee'nin çok parlak ve iyi bir karakter olmasıdır. Daha sonra 2019'da KBS1'in Smile Again'den dokuz yıl sonra ilk günlük pembe dizisinde yer aldı ve her şeye tutkuyla bağlı bir gelin rolünü oynadı. Yayınlanmadan önce, daha önce kötü adam karakteri performansı nedeniyle birçok endişe vardı, ancak yayından sonra oyunculuk becerileri bu endişeleri ortadan kaldıracak kadar önemli ölçüde geliş",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 960,
+      "end_char": 1193,
+      "content": "ynadı. Yayınlanmadan önce, daha önce kötü adam karakteri performansı nedeniyle birçok endişe vardı, ancak yayından sonra oyunculuk becerileri bu endişeleri ortadan kaldıracak kadar önemli ölçüde gelişti ve karakter de iyi karşılandı.",
+      "char_count": 233,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1374,
+      "end_char": 1506,
+      "content": "== Dış bağlantılar == HanCinema'da Choi Yoon-so Korean Movie Database'te Choi Yoon-so IMDb'de Choi Yoon-so Instagram'da Choi Yoon-so",
+      "char_count": 132,
+      "token_estimate": 33
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hangi dizide ilk başrolünü aldı?",
+        "answer": "Unknown Woman",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Choi Yoon-so'nun \"Unknown Woman\" dizisindeki Goo Hae-joo rolü, hem nasıl dikkat çekmesini sağladı hem de izleyiciler arasında nasıl bir kafa karışıklığına yol açtı?",
+        "answer": "Choi Yoon-so, günlük dram dizisi \"Unknown Woman\"da kötü ve acımasız Goo Hae-joo karakterini canlandırmasıyla dikkat çekti ve bu rol onun ilk başrolüydü. Ancak, aynı zamanda \"The Lady in Dignity\" dizisindeki Heo Jin-hee rolüyle eşzamanlı yayın dönemlerinin çakışması ve iki karakterin taban tabana zıt olması nedeniyle, aynı anda her iki diziyi izleyen izleyiciler arasında kafa karışıklığına yol açtı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "andreastaka_75b11db5",
+    "title": "Andrea Staka",
+    "url": "https://tr.wikipedia.org/wiki/Andrea_Staka",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:17.384113",
+    "content": "Andrea Štaka (1973, Lucerne, İsviçre doğumlu) Bosna-Hırvat kökenli İsviçreli bir film yönetmeni ve senaristtir. == Biyografi == Andrea Staka, İsviçre'nin Luzern kentinde Boşnak-Hırvat ebeveynlerin çocuğu olarak dünyaya geldi. Farklı kültürleri görerek büyüdüğü çocukluğu, onun aidiyet ve kimlik kavramlarına ilgi duymasını sağladı. London College of Printing'de Medya Çalışmaları Temel Kursu'na katıldı, ardından Hochschule für Gestaltung und Kunst Zürich'in film ve video bölümüne kaydoldu. Bitirme eseri olan Hotel Belgrad ile birçok ödül kazandı. İlk uzun metrajlı filmi Das Fräulein, Locarno Festivali'nde Altın Leopar ödülünü kazandı. Bu başarısı sayesinde Andrea Staka, İsviçreli film yapımcıları arasında kendine yer buldu ve ismini duyurmayı başardı. 2018 yılında Thomas Imbach'ın yönettiği Glaubenberg filminin yapımcılığını üstlendi. 2020 yılında ise Mare isimli filminde, küçük bir sahil kasabasında yaşayan bir kadının hayatını özgürlük temasına odaklanarak anlattı. Andrea Staka, günümüzde İsviçre'de yaşamaya devam ediyor. == Filmografi == Hotel Belgrad (kısa film, 1998) Yugodivas (belgesel, 2000) Das Fräulein (2006) Cure – The Life of Another (2014) Mare (2020) == Ödüller == Altın Leopar (Pardo d’Oro) – Locarno Uluslararası Film Festivali (2006) → Das Fräulein filmiyle festivalin en büyük ödülünü kazanarak uluslararası alanda büyük takdir topladı. En İyi Uzun Metraj Film – Sarajevo Film Festivali (2006) → Das Fräulein filmi, Yugoslavya sonrası göçmen kadınların özgün portresini başarıyla yansıttığı için ödüllendirildi. İsviçre Film Ödülleri (En İyi Uzun Metraj Film Adaylığı) (2007) → Das Fräulein, İsviçre ulusal sinemasında büyük yankı uyandırarak birçok kategoride aday gösterildi.. == Kanynakça == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 236,
+      "char_count": 1741,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.630505",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 112,
+      "content": "Andrea Štaka (1973, Lucerne, İsviçre doğumlu) Bosna-Hırvat kökenli İsviçreli bir film yönetmeni ve senaristtir.",
+      "char_count": 111,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 112,
+      "end_char": 1037,
+      "content": "== Biyografi == Andrea Staka, İsviçre'nin Luzern kentinde Boşnak-Hırvat ebeveynlerin çocuğu olarak dünyaya geldi. Farklı kültürleri görerek büyüdüğü çocukluğu, onun aidiyet ve kimlik kavramlarına ilgi duymasını sağladı. London College of Printing'de Medya Çalışmaları Temel Kursu'na katıldı, ardından Hochschule für Gestaltung und Kunst Zürich'in film ve video bölümüne kaydoldu. Bitirme eseri olan Hotel Belgrad ile birçok ödül kazandı. İlk uzun metrajlı filmi Das Fräulein, Locarno Festivali'nde Altın Leopar ödülünü kazandı. Bu başarısı sayesinde Andrea Staka, İsviçreli film yapımcıları arasında kendine yer buldu ve ismini duyurmayı başardı. 2018 yılında Thomas Imbach'ın yönettiği Glaubenberg filminin yapımcılığını üstlendi. 2020 yılında ise Mare isimli filminde, küçük bir sahil kasabasında yaşayan bir kadının hayatını özgürlük temasına odaklanarak anlattı. Andrea Staka, günümüzde İsviçre'de yaşamaya devam ediyor.",
+      "char_count": 924,
+      "token_estimate": 231
+    },
+    {
+      "id": "c0002",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 1037,
+      "end_char": 1179,
+      "content": "== Filmografi == Hotel Belgrad (kısa film, 1998) Yugodivas (belgesel, 2000) Das Fräulein (2006) Cure – The Life of Another (2014) Mare (2020)",
+      "char_count": 141,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 1179,
+      "end_char": 1711,
+      "content": "== Ödüller == Altın Leopar (Pardo d’Oro) – Locarno Uluslararası Film Festivali (2006) → Das Fräulein filmiyle festivalin en büyük ödülünü kazanarak uluslararası alanda büyük takdir topladı. En İyi Uzun Metraj Film – Sarajevo Film Festivali (2006) → Das Fräulein filmi, Yugoslavya sonrası göçmen kadınların özgün portresini başarıyla yansıttığı için ödüllendirildi. İsviçre Film Ödülleri (En İyi Uzun Metraj Film Adaylığı) (2007) → Das Fräulein, İsviçre ulusal sinemasında büyük yankı uyandırarak birçok kategoride aday gösterildi..",
+      "char_count": 531,
+      "token_estimate": 132
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Andrea Staka'nın ilk uzun metrajlı filmi hangisidir?",
+        "answer": "Das Fräulein.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Andrea Štaka'nın Bosna-Hırvat kökenli İsviçreli kimliği ve farklı kültürleri görerek büyüdüğü çocukluğu, sanatsal ilgi alanlarını nasıl şekillendirmiştir?",
+        "answer": "Andrea Štaka'nın Bosna-Hırvat kökenli İsviçreli bir film yönetmeni ve senarist olması, farklı kültürleri görerek büyüdüğü çocukluğu nedeniyle aidiyet ve kimlik kavramlarına ilgi duymasını sağlamış ve bu durum onun sanatsal çalışmalarına yansımıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

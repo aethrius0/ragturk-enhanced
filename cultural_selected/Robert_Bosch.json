@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "robertbosch_d499e6f7",
+    "title": "Robert Bosch",
+    "url": "https://tr.wikipedia.org/wiki/Robert_Bosch",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:10.229369",
+    "content": "Robert Bosch (d. 23 Eylül 1861 – ö. 12 Mart 1942, Stuttgart), Alman sanayici, mühendis, mucit ve Robert Bosch GmbH'in kurucusu. == Hayatı == Bosch, Almanya'nın güneyinde bulunan Ulm kentinin kuzeydoğusunda, Albeck'de doğdu. On iki çocuklu ailesinin onbirinci çocuğuydu. Ailesi bölgede iyi konumda olan, çiftçi bir sınıftan geliyordu. Babası, bir Masondu ve çocukların iyi bir eğitim almasına özel bir önem vermiştir. 1869-1876 yıllarında, Ulm Realschule'ye (orta-teknik okul) gitti ve daha sonra bir hassas mekaniker olarak çıraklık eğitimi aldı. Okul eğitiminden sonra Almanya'da, Amerika Birleşik Devletleri'nde (New York'ta Thomas Edison için) ve İngiltere'de (Alman firması Siemens için) çeşitli şirketlerde çalışarak daha yedi yıl geçirdi. 15 Kasım 1886 tarihinde Stuttgart'ta kendi 'Hassas Mekanik ve Elektroteknik Atölyesi'ni açtı. Bir yıl sonra motor üreticisi Deutz tarafından yapılan bir patentsiz manyeto ateşleme cihazına kesin bir iyileştirme yaptı. Bu onun ilk iş başarısıydı. Cihazın amacı, sabit bir motorda, hava / yakıt karışımını ateşlemek için bir elektrik kıvılcımını oluşturmaktı. 1897'de ilk kez araba motoruna manyetoyu uyarladı. 1902 yılında Bosch'un mühendisi Gottlob Honold tarafından manyeto tabanlı ateşleme sisteminin bir parçası olarak ilk ticari amaçlı buji icat edildi. Bu içten yanmalı motorlar için bir dönüm noktası oldu. 19. yüzyıl sona ermeden, Bosch, Almanya ötesinde operasyonlarını genişletti. Şirket, 1898 yılında İngiltere'de bir satış ofisi kurdu ve kısa bir süre sonra diğer Avrupa ülkelerinde de ofislerini açtı. ABD'de ilk satış ofisi ve ilk fabrika, sırasıyla 1906 ve 1910 yılında açılmıştır. 1913 itibarıyla, şirketin, Amerika, Asya, Afrika ve Avustralya'da şubeleri vardı ve Almanya dışındaki satışlarının % 88'i bu ülkelerde gerçekleşti. I. Dünya Savaşı'nı takip eden yıllarda, 1927 yılında dizel yakıt enjeksiyonu dahil olmak üzere, motorlu araç için yenilikler başlattı. Bosch, başından beri büyük ölçüde mesleki eğitimi teşvik konusunda endişeliydi. Sosyal sorumluluk bilinci taşıyarak, Almanya'da sekiz saatlik iş gününü gerçekleştiren ilk sanayicilerinden biri oldu. Robert Bosch, Birinci Dünya Savaşı sırasında yaptığı şirkete verilen silah sözleşmelerinden kar istemiyordu. Bunun yerine, hayır amacıyla birkaç milyon Alman markı bağışladı. 1940 yılında, Stuttgart şehrinde bir hastane açtı. 1920'lerde ve 1930'larda, Robert Bosch politik olarak aktif oldu. Liberal bir iş adamı olarak, ekonomik komitelere katıldı. Almanya'da Nazi (Nasyonal Sosyalist) rejiminin baskılarıyla, Şirket, savaş sırasında silah sözleşmeleri ve zorunlu işçi istihdamını kabul etti. Robert Bosch, tarımsal konulara çok yakından ilgilendi ve Münih'in güneyinde bir çiftlik sahibi oldu. Ayrıca tutkulu bir avcıydı. 1942 yılında öldüğünde, yaptığı iki evlilikten dört çocuğu vardı. İlk evliliğinden bir oğlu, uzun süren bir hastalık sonrasında 1921 yılında ölmüştür. 1937'de şirketini limited şirket olarak yeniden yapılandırdı. == Kaynakça == == Ayrıca bakınız == Robert Bosch GmbH",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 410,
+      "char_count": 3013,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.467747",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 128,
+      "content": "Robert Bosch (d. 23 Eylül 1861 – ö. 12 Mart 1942, Stuttgart), Alman sanayici, mühendis, mucit ve Robert Bosch GmbH'in kurucusu.",
+      "char_count": 127,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 128,
+      "end_char": 1128,
+      "content": "== Hayatı == Bosch, Almanya'nın güneyinde bulunan Ulm kentinin kuzeydoğusunda, Albeck'de doğdu. On iki çocuklu ailesinin onbirinci çocuğuydu. Ailesi bölgede iyi konumda olan, çiftçi bir sınıftan geliyordu. Babası, bir Masondu ve çocukların iyi bir eğitim almasına özel bir önem vermiştir. 1869-1876 yıllarında, Ulm Realschule'ye (orta-teknik okul) gitti ve daha sonra bir hassas mekaniker olarak çıraklık eğitimi aldı. Okul eğitiminden sonra Almanya'da, Amerika Birleşik Devletleri'nde (New York'ta Thomas Edison için) ve İngiltere'de (Alman firması Siemens için) çeşitli şirketlerde çalışarak daha yedi yıl geçirdi. 15 Kasım 1886 tarihinde Stuttgart'ta kendi 'Hassas Mekanik ve Elektroteknik Atölyesi'ni açtı. Bir yıl sonra motor üreticisi Deutz tarafından yapılan bir patentsiz manyeto ateşleme cihazına kesin bir iyileştirme yaptı. Bu onun ilk iş başarısıydı. Cihazın amacı, sabit bir motorda, hava / yakıt karışımını ateşlemek için bir elektrik kıvılcımını oluşturmaktı. 1897'de ilk kez araba mot",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 928,
+      "end_char": 1928,
+      "content": "azına kesin bir iyileştirme yaptı. Bu onun ilk iş başarısıydı. Cihazın amacı, sabit bir motorda, hava / yakıt karışımını ateşlemek için bir elektrik kıvılcımını oluşturmaktı. 1897'de ilk kez araba motoruna manyetoyu uyarladı. 1902 yılında Bosch'un mühendisi Gottlob Honold tarafından manyeto tabanlı ateşleme sisteminin bir parçası olarak ilk ticari amaçlı buji icat edildi. Bu içten yanmalı motorlar için bir dönüm noktası oldu. 19. yüzyıl sona ermeden, Bosch, Almanya ötesinde operasyonlarını genişletti. Şirket, 1898 yılında İngiltere'de bir satış ofisi kurdu ve kısa bir süre sonra diğer Avrupa ülkelerinde de ofislerini açtı. ABD'de ilk satış ofisi ve ilk fabrika, sırasıyla 1906 ve 1910 yılında açılmıştır. 1913 itibarıyla, şirketin, Amerika, Asya, Afrika ve Avustralya'da şubeleri vardı ve Almanya dışındaki satışlarının % 88'i bu ülkelerde gerçekleşti. I. Dünya Savaşı'nı takip eden yıllarda, 1927 yılında dizel yakıt enjeksiyonu dahil olmak üzere, motorlu araç için yenilikler başlattı. Bosc",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1728,
+      "end_char": 2728,
+      "content": "anya dışındaki satışlarının % 88'i bu ülkelerde gerçekleşti. I. Dünya Savaşı'nı takip eden yıllarda, 1927 yılında dizel yakıt enjeksiyonu dahil olmak üzere, motorlu araç için yenilikler başlattı. Bosch, başından beri büyük ölçüde mesleki eğitimi teşvik konusunda endişeliydi. Sosyal sorumluluk bilinci taşıyarak, Almanya'da sekiz saatlik iş gününü gerçekleştiren ilk sanayicilerinden biri oldu. Robert Bosch, Birinci Dünya Savaşı sırasında yaptığı şirkete verilen silah sözleşmelerinden kar istemiyordu. Bunun yerine, hayır amacıyla birkaç milyon Alman markı bağışladı. 1940 yılında, Stuttgart şehrinde bir hastane açtı. 1920'lerde ve 1930'larda, Robert Bosch politik olarak aktif oldu. Liberal bir iş adamı olarak, ekonomik komitelere katıldı. Almanya'da Nazi (Nasyonal Sosyalist) rejiminin baskılarıyla, Şirket, savaş sırasında silah sözleşmeleri ve zorunlu işçi istihdamını kabul etti. Robert Bosch, tarımsal konulara çok yakından ilgilendi ve Münih'in güneyinde bir çiftlik sahibi oldu. Ayrıca tu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 2528,
+      "end_char": 2959,
+      "content": "ıyla, Şirket, savaş sırasında silah sözleşmeleri ve zorunlu işçi istihdamını kabul etti. Robert Bosch, tarımsal konulara çok yakından ilgilendi ve Münih'in güneyinde bir çiftlik sahibi oldu. Ayrıca tutkulu bir avcıydı. 1942 yılında öldüğünde, yaptığı iki evlilikten dört çocuğu vardı. İlk evliliğinden bir oğlu, uzun süren bir hastalık sonrasında 1921 yılında ölmüştür. 1937'de şirketini limited şirket olarak yeniden yapılandırdı.",
+      "char_count": 431,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2975,
+      "end_char": 3013,
+      "content": "== Ayrıca bakınız == Robert Bosch GmbH",
+      "char_count": 38,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bosch, kendi 'Hassas Mekanik ve Elektroteknik Atölyesi'ni nerede ve ne zaman açtı?",
+        "answer": "Bosch, kendi 'Hassas Mekanik ve Elektroteknik Atölyesi'ni 15 Kasım 1886 tarihinde Stuttgart'ta açtı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Robert Bosch'un mühendislik geçmişi ve erken icadı, kurucusu olduğu şirketin uluslararası başarısına ve motorlu araç teknolojisindeki yeniliklerine nasıl zemin hazırladı?",
+        "answer": "Robert Bosch'un mühendislik eğitimi ve hassas mekaniker olarak çıraklık deneyimi, 1886'da kendi 'Hassas Mekanik ve Elektroteknik Atölyesi'ni kurmasının temelini oluşturdu. Burada, 1887'de manyeto ateşleme cihazında yaptığı ilk önemli iyileştirme, motor üreticileri için bir dönüm noktası oldu. Bu başarının ardından, manyetoyu 1897'de araba motorlarına uyarlaması ve 1902'de mühendisi Gottlob Honold tarafından bujinin icat edilmesiyle içten yanmalı motor teknolojisinde devrim yarattı. Kurduğu Robert Bosch GmbH bu yenilikler sayesinde 19. yüzyıl sonunda uluslararası alana açılarak Avrupa, Amerika, Asya, Afrika ve Avustralya'da şubeler kurdu ve 1913 itibarıyla satışlarının büyük çoğunluğunu Almanya dışından sağladı, motorlu araçlar için dizel yakıt enjeksiyonu gibi ek yeniliklerle endüstrideki liderliğini sürdürdü.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

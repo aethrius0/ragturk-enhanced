@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "rosemarietong_dd099e82",
+    "title": "Rosemarie Tong",
+    "url": "https://tr.wikipedia.org/wiki/Rosemarie_Tong",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:28.246879",
+    "content": "Rosemarie \"Rosie\" Tong, Amerikalı bir feminist filozoftur . 1998'de Feminist Düşünce: Daha Kapsamlı Bir Giriş, feminist teorinin belli başlı geleneklerine genel bir bakış kitabının yazarı, Charlotte North Carolina Üniversitesi Felsefe Bölümü'nde sağlık bakımı etiği alanında fahri seçkin profesördür. Tong'un araştırması, uzun süreli bakım, bilişsel güçlendirme ve genetik alanındaki etik konulara odaklanmıştır. Biyoetik, sağlık reformu, genetik ve üreme teknolojisine katkıları ve öncelikle kadınlar tarafından üstlenilen bir rol olan ebeveynler ve çocuklar için bakım vermenin etkileri ile tanınmaktadır. == Eğitim == == Kariyer ve üyelikler == Tong, Williams Koleji ve Lafayette Koleji’nde profesörlük yaptı. North Carolina Üniversitesi'nde profesörlüğe başladığı 1999 yılına kadar Davidson Kolej’de Tıbbi Beşeri Bilimler alanında Thatcher Profesörüydü. 2003-2007 yılları arasında Amerikan Felsefe Derneği'nin Kadının Statüsü Komitesine başkanlık etti. 13 kitap ve 100'den fazla makale yazdı ve Rowman ve Littlefield Press'ten Point/Counterpoint serisinin ve New Feminist Perspectives serisinin editörlüğünü yaptı. Feminist Düşünce'de Tong, kesişimselliği ve bunun feminizmin küreselleşmesi için önemini açıklar. Tong, feminizmin yıllar içinde ortaya çıkan farklı bölümlerini açıklıyor. Tong, kesişimselliğin, kültürden bağımsız olarak, kadınların ve küresel feministlerin “feminist düşüncenin kapsamını genişletme” taahhüdünü temsil ettiğini öne sürüyor. Küresel feminizm, kadınların cinsel sorunları ve cinsiyet ayrımcılığı ile tanımlansa da, kişisel bükümü siyasi ve ekonomik eşitsizliklerden kaynaklanmaktadır. \"Üçüncü Dünya\" kadınları, onları imtiyazlı baskıcılarından ayıran ikinci eşitsizliklerle çok daha fazla ilgileniyor. Batı dünyasının siyasi gündeminin, dünyanın geri kalanının, yani \"batı-olmayan\"ın küreselleşmesi üzerinde doğrudan etkileri vardır. == Kısmi kaynakça == === Yazar === Sağlık Hizmetleri Etiğinde Yeni Perspektifler: Disiplinlerarası ve Kültürlerarası Bir Yaklaşım (Temel Etik Eylemde), Westview Press, 3 Mart 2006 Biyoetiğe Feminist Yaklaşımlar: Teorik Yansımalar ve Pratik Uygulamalar, Westview Press, 27 Aralık 1996 Kadınsı ve Feminist Etik, Westview Press 1 Mart 1993 Feminist Düşünce: Daha Kapsamlı Bir Giriş, Westview Press, 1998 Women, Sex, and the Law (New Feminist Perspectives), 27 Aralık 1989 Politika Analizinde Etik (Occupational Ethics Series), Prentice-Hall, Ocak 1986 === Ortak yazar ve ortak editör === Küreselleşen Feminist Biyoetik (Aida Santos ve Gwen Anderson ile birlikte yazılmıştır) Feminist Felsefe: Teori, Yeniden Yorumlama ve Uygulamada Temel Okumalar' (Nancy Tuana ile birlikte düzenlendi) Westview, 1994, Feminist Felsefeler: Sorunlar, Teoriler ve Uygulamalar (James Sterba ve Janet Kourany ile birlikte düzenlendi) Prentice-Hall, 1991. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 352,
+      "char_count": 2813,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.602818",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 608,
+      "content": "Rosemarie \"Rosie\" Tong, Amerikalı bir feminist filozoftur . 1998'de Feminist Düşünce: Daha Kapsamlı Bir Giriş, feminist teorinin belli başlı geleneklerine genel bir bakış kitabının yazarı, Charlotte North Carolina Üniversitesi Felsefe Bölümü'nde sağlık bakımı etiği alanında fahri seçkin profesördür. Tong'un araştırması, uzun süreli bakım, bilişsel güçlendirme ve genetik alanındaki etik konulara odaklanmıştır. Biyoetik, sağlık reformu, genetik ve üreme teknolojisine katkıları ve öncelikle kadınlar tarafından üstlenilen bir rol olan ebeveynler ve çocuklar için bakım vermenin etkileri ile tanınmaktadır.",
+      "char_count": 607,
+      "token_estimate": 151
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyer ve üyelikler ==",
+      "heading_path": "== Kariyer ve üyelikler ==",
+      "start_char": 621,
+      "end_char": 1621,
+      "content": "== Kariyer ve üyelikler == Tong, Williams Koleji ve Lafayette Koleji’nde profesörlük yaptı. North Carolina Üniversitesi'nde profesörlüğe başladığı 1999 yılına kadar Davidson Kolej’de Tıbbi Beşeri Bilimler alanında Thatcher Profesörüydü. 2003-2007 yılları arasında Amerikan Felsefe Derneği'nin Kadının Statüsü Komitesine başkanlık etti. 13 kitap ve 100'den fazla makale yazdı ve Rowman ve Littlefield Press'ten Point/Counterpoint serisinin ve New Feminist Perspectives serisinin editörlüğünü yaptı. Feminist Düşünce'de Tong, kesişimselliği ve bunun feminizmin küreselleşmesi için önemini açıklar. Tong, feminizmin yıllar içinde ortaya çıkan farklı bölümlerini açıklıyor. Tong, kesişimselliğin, kültürden bağımsız olarak, kadınların ve küresel feministlerin “feminist düşüncenin kapsamını genişletme” taahhüdünü temsil ettiğini öne sürüyor. Küresel feminizm, kadınların cinsel sorunları ve cinsiyet ayrımcılığı ile tanımlansa da, kişisel bükümü siyasi ve ekonomik eşitsizliklerden kaynaklanmaktadır. \"Ü",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyer ve üyelikler ==",
+      "heading_path": "== Kariyer ve üyelikler ==",
+      "start_char": 1421,
+      "end_char": 1867,
+      "content": "aahhüdünü temsil ettiğini öne sürüyor. Küresel feminizm, kadınların cinsel sorunları ve cinsiyet ayrımcılığı ile tanımlansa da, kişisel bükümü siyasi ve ekonomik eşitsizliklerden kaynaklanmaktadır. \"Üçüncü Dünya\" kadınları, onları imtiyazlı baskıcılarından ayıran ikinci eşitsizliklerle çok daha fazla ilgileniyor. Batı dünyasının siyasi gündeminin, dünyanın geri kalanının, yani \"batı-olmayan\"ın küreselleşmesi üzerinde doğrudan etkileri vardır.",
+      "char_count": 446,
+      "token_estimate": 111
+    },
+    {
+      "id": "c0003",
+      "section": "=== Yazar ===",
+      "heading_path": "=== Yazar ===",
+      "start_char": 1889,
+      "end_char": 2417,
+      "content": "=== Yazar === Sağlık Hizmetleri Etiğinde Yeni Perspektifler: Disiplinlerarası ve Kültürlerarası Bir Yaklaşım (Temel Etik Eylemde), Westview Press, 3 Mart 2006 Biyoetiğe Feminist Yaklaşımlar: Teorik Yansımalar ve Pratik Uygulamalar, Westview Press, 27 Aralık 1996 Kadınsı ve Feminist Etik, Westview Press 1 Mart 1993 Feminist Düşünce: Daha Kapsamlı Bir Giriş, Westview Press, 1998 Women, Sex, and the Law (New Feminist Perspectives), 27 Aralık 1989 Politika Analizinde Etik (Occupational Ethics Series), Prentice-Hall, Ocak 1986",
+      "char_count": 527,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0004",
+      "section": "=== Ortak yazar ve ortak editör ===",
+      "heading_path": "=== Ortak yazar ve ortak editör ===",
+      "start_char": 2417,
+      "end_char": 2799,
+      "content": "=== Ortak yazar ve ortak editör === Küreselleşen Feminist Biyoetik (Aida Santos ve Gwen Anderson ile birlikte yazılmıştır) Feminist Felsefe: Teori, Yeniden Yorumlama ve Uygulamada Temel Okumalar' (Nancy Tuana ile birlikte düzenlendi) Westview, 1994, Feminist Felsefeler: Sorunlar, Teoriler ve Uygulamalar (James Sterba ve Janet Kourany ile birlikte düzenlendi) Prentice-Hall, 1991.",
+      "char_count": 381,
+      "token_estimate": 95
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tong, hangi yıllar arasında Amerikan Felsefe Derneği'nin Kadının Statüsü Komitesine başkanlık etti?",
+        "answer": "Tong, 2003-2007 yılları arasında Amerikan Felsefe Derneği'nin Kadının Statüsü Komitesine başkanlık etti.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rosemarie Tong'un 'Feminist Düşünce: Daha Kapsamlı Bir Giriş' adlı eserinde ele aldığı kesişimsellik ve küresel feminizm kavramları, feminist filozof kimliği ve kadınların üstlendiği rollere ilişkin çalışmalarıyla nasıl bir bağlantı içindedir?",
+        "answer": "Rosemarie Tong, bir feminist filozof olarak, 'Feminist Düşünce' adlı kitabında kesişimselliği ve küresel feminizmi açıklayarak feminist düşüncenin kapsamını genişletmeyi amaçlar. Bu yaklaşım, kadınların cinsel sorunları ve cinsiyet ayrımcılığının yanı sıra kişisel bükülmenin siyasi ve ekonomik eşitsizliklerden kaynaklandığına vurgu yapan küresel feminizm aracılığıyla, kendisinin özellikle kadınlar tarafından üstlenilen ebeveyn ve çocuk bakımı gibi rollerin etkilerine yaptığı katkılarla tutarlıdır. Kesişimsellik, küresel feministlerin \"feminist düşüncenin kapsamını genişletme\" taahhüdünü temsil ederek onun feminist felsefeci kimliğiyle örtüşmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "danielrisch_3438a7fa",
+    "title": "Daniel Risch",
+    "url": "https://tr.wikipedia.org/wiki/Daniel_Risch",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:35.236922",
+    "content": "Daniel Risch (d. 5 Mart 1978), Lihtenştaynlı politikacı ve Lihtenştayn'ın 25 Mart 2021 – 10 Nisan 2025 tarihleri arası eski başbakanıdır. Daha önce Adrian Hasler Hükûmeti'nde 2017-2021 yılları arasında başbakan yardımcısı ve Altyapı, Ekonomi ve Spor Bakanı olarak görev yaptı. == Kariyeri == Risch, daha önce 1990'dan 1998'e kadar Vaduz'daki Liechtenstein Dilbilgisi Okulu'ndan bir işletme bakaloryası aldı. Daha sonra 1999'dan 2003'e kadar İsviçre'de, St. Gallen ve Zürih üniversitelerinde ve Münih'teki Ludwig-Maximilian Üniversitesi'nde işletme okudu. Risch daha sonra 2004 yılında Freiburg Üniversitesi'nde işletme bilişimi alanında doktora çalışmalarına başladı ve 2006 ile 2007 yılları arasında, araştırma ziyaretinin bir parçası olarak Melbourne Üniversitesi'nde misafir akademisyen olarak bulundu. Bu süre zarfında, Kuzeybatı İsviçre Uygulamalı Bilimler Üniversitesi'nde öğretim görevlisi olarak çalıştı. 2007 yılında Freiburg'da eğitimini tamamladı ve ekonomi alanında doktora yaptı (dr. Rer. Pol.). 2007'den itibaren Zürih ve Bern'de bir e-ticaret danışmanlık şirketi olan Unic AG'de Proje Müdürü, Satış Başkanı ve Pazarlama Direktörü olarak görev yaptı. 2015'ten 2017'de hükûmete girene kadar Liechtensteinische Post'ta Pazarlama Direktörü olarak çalıştı. 2015'ten 2017'ye kadar, bilgi ve iletişim teknolojisi için bir Liechtensteiner forumunda (IKT Forum Liechtenstein) yönetim kurulu üyeliği yaptı. == Siyasî kariyeri == Risch, 2016'dan beri liberal-muhafazakâr Yurtseverler Birliği'nin (VU) başkanlık üyesidir. 2017 Liechtenstein genel seçimlerinin ardından, ulusal muhafazakâr İlerici Vatandaşlar Partisi (FBP) ile koalisyon hükûmetinde başbakan yardımcısı olarak aday gösterildi. Başbakan yardımcısı olarak aynı zamanda Altyapı, Ekonomik İşler ve Spor Bakanı olarak görev yaptı. Sonunda 2021 genel seçimlerinin ardından başbakan oldu ve FBP'den Sabine Monauni ile yeni bir koalisyon hükûmetine başkanlık etti. == Özel hayatı == Risch, 2009'dan beri Schaan'daki FL1.LIFE festivalinin Kurucu Komitesi, Organizasyon Komitesi ve Patronaj Organı üyesidir. 20 Ekim 1974 doğumlu Jasmin Schädler ile evli ve iki çocuğu var. == Kaynakça == == Dış bağlantılar == Daniel Risch 24 Ocak 2021 tarihinde Wayback Machine sitesinde arşivlendi. Liechtenstein hükûmetinin resmi web sitesinde.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 296,
+      "char_count": 2289,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.184347",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 277,
+      "content": "Daniel Risch (d. 5 Mart 1978), Lihtenştaynlı politikacı ve Lihtenştayn'ın 25 Mart 2021 – 10 Nisan 2025 tarihleri arası eski başbakanıdır. Daha önce Adrian Hasler Hükûmeti'nde 2017-2021 yılları arasında başbakan yardımcısı ve Altyapı, Ekonomi ve Spor Bakanı olarak görev yaptı.",
+      "char_count": 276,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 277,
+      "end_char": 1277,
+      "content": "== Kariyeri == Risch, daha önce 1990'dan 1998'e kadar Vaduz'daki Liechtenstein Dilbilgisi Okulu'ndan bir işletme bakaloryası aldı. Daha sonra 1999'dan 2003'e kadar İsviçre'de, St. Gallen ve Zürih üniversitelerinde ve Münih'teki Ludwig-Maximilian Üniversitesi'nde işletme okudu. Risch daha sonra 2004 yılında Freiburg Üniversitesi'nde işletme bilişimi alanında doktora çalışmalarına başladı ve 2006 ile 2007 yılları arasında, araştırma ziyaretinin bir parçası olarak Melbourne Üniversitesi'nde misafir akademisyen olarak bulundu. Bu süre zarfında, Kuzeybatı İsviçre Uygulamalı Bilimler Üniversitesi'nde öğretim görevlisi olarak çalıştı. 2007 yılında Freiburg'da eğitimini tamamladı ve ekonomi alanında doktora yaptı (dr. Rer. Pol.). 2007'den itibaren Zürih ve Bern'de bir e-ticaret danışmanlık şirketi olan Unic AG'de Proje Müdürü, Satış Başkanı ve Pazarlama Direktörü olarak görev yaptı. 2015'ten 2017'de hükûmete girene kadar Liechtensteinische Post'ta Pazarlama Direktörü olarak çalıştı. 2015'ten 2",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1077,
+      "end_char": 1411,
+      "content": " olan Unic AG'de Proje Müdürü, Satış Başkanı ve Pazarlama Direktörü olarak görev yaptı. 2015'ten 2017'de hükûmete girene kadar Liechtensteinische Post'ta Pazarlama Direktörü olarak çalıştı. 2015'ten 2017'ye kadar, bilgi ve iletişim teknolojisi için bir Liechtensteiner forumunda (IKT Forum Liechtenstein) yönetim kurulu üyeliği yaptı.",
+      "char_count": 334,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0003",
+      "section": "== Siyasî kariyeri ==",
+      "heading_path": "== Siyasî kariyeri ==",
+      "start_char": 1412,
+      "end_char": 1926,
+      "content": "== Siyasî kariyeri == Risch, 2016'dan beri liberal-muhafazakâr Yurtseverler Birliği'nin (VU) başkanlık üyesidir. 2017 Liechtenstein genel seçimlerinin ardından, ulusal muhafazakâr İlerici Vatandaşlar Partisi (FBP) ile koalisyon hükûmetinde başbakan yardımcısı olarak aday gösterildi. Başbakan yardımcısı olarak aynı zamanda Altyapı, Ekonomik İşler ve Spor Bakanı olarak görev yaptı. Sonunda 2021 genel seçimlerinin ardından başbakan oldu ve FBP'den Sabine Monauni ile yeni bir koalisyon hükûmetine başkanlık etti.",
+      "char_count": 513,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0004",
+      "section": "== Özel hayatı ==",
+      "heading_path": "== Özel hayatı ==",
+      "start_char": 1926,
+      "end_char": 2132,
+      "content": "== Özel hayatı == Risch, 2009'dan beri Schaan'daki FL1.LIFE festivalinin Kurucu Komitesi, Organizasyon Komitesi ve Patronaj Organı üyesidir. 20 Ekim 1974 doğumlu Jasmin Schädler ile evli ve iki çocuğu var.",
+      "char_count": 205,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2147,
+      "end_char": 2289,
+      "content": "== Dış bağlantılar == Daniel Risch 24 Ocak 2021 tarihinde Wayback Machine sitesinde arşivlendi. Liechtenstein hükûmetinin resmi web sitesinde.",
+      "char_count": 142,
+      "token_estimate": 35
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Risch, 2007 yılında Freiburg'da eğitimini tamamladığında hangi alanda doktora derecesi aldı?",
+        "answer": "Ekonomi (dr. Rer. Pol.)",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Daniel Risch'in akademik ve profesyonel kariyeri, Adrian Hasler Hükûmeti'ndeki bakanlık görevlerine nasıl bir zemin hazırlamıştır?",
+        "answer": "Daniel Risch, Vaduz'daki Liechtenstein Dilbilgisi Okulu'ndan işletme bakaloryası aldıktan sonra İsviçre ve Almanya'da işletme okuyarak ekonomi alanında doktora yapmıştır. Ardından, bir e-ticaret danışmanlık şirketinde proje müdürü, satış başkanı ve pazarlama direktörü olarak çalışmış, son olarak da Liechtensteinische Post'ta pazarlama direktörü olarak görev almıştır. Bu eğitim ve profesyonel geçmişi, onun Adrian Hasler Hükûmeti'nde başbakan yardımcısı ve Altyapı, Ekonomi ve Spor Bakanı olarak görev yapmasına zemin hazırlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

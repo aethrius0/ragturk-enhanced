@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "musenationaldartmode_e2cf7fb5",
+    "title": "Musée National d'Art Moderne",
+    "url": "https://tr.wikipedia.org/wiki/Mus%C3%A9e_National_d%27Art_Moderne",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:24.659956",
+    "content": "Musée National d'Art Moderne (Fransızca telaffuz: [myze nasjɔnal daʁ mɔdɛʁn], National Museum of Modern Art) Fransa'daki bir modern sanat müzesidir. Müze Paris'teki Centre Pompidou'da, 4.arrondissement'ında bulunur. 1947 yılında aslen Palais de Tokyo'da kurulmuştur ama 1977 yılında müze şu anki yerine taşınmıştır. Müze dünyadaki çağdaş ve modern sanat müzelerindeki ikinci en büyük koleksiyona sahiptir. En büyük modern ve çağdaş sanat koleksiyonu ise New York'ta bulunan MoMa'dadır. Müzenin koleksiyonunda 70,000'den fazla sanat eseri vardır. Bu koleksiyon resim, mimari, fotoğrafçılık, sinema, yeni medya, heykel ve tasarım gibi birçok alandaki eserlerin derlenmesi sonucu oluşmuştur. Bu koleksiyonun bir kısmı iki kattan oluşan 14,000 metre karelik bir alanda sergilenmektedir. Bu sergi alanı Centre Pompidou'nun 4. ve 5. katlarında bulunur. Bu iki kattan biri modern sanat(1905'ten 1960'a kadar, 5. kat)'a ayrılmıştır. Diğerinde ise çağdaş sanat(1960'tan beri, 4.kat) eserleri yer alır. Koleksiyonda yer alan daha değerli çağdaş ve modern sanat eserleri ise binanın 6.katında sergilenir. == Koleksiyonlar == === Modern Sanat (1905-1960) === Birçok modern sanat stili, Fauvism, Expresyonizm, Kübizm, Dada, Absürdizm, Sürrealizm gibi ve Matisse, André Derain, Maurice de Vlaminck, Raoul Dufy, Albert Marquet, Le Douanier Rousseau, Paul Signac, Georges Braque, Pablo Picasso, Fernand Léger, Juan Gris, Ernst Ludwig Kirchner, August Macke, Alexej von Jawlensky, Emil Nolde, Oskar Kokoschka, Otto Dix, George Grosz, Kurt Schwitters, Marcel Duchamp, Francis Picabia, Carlo Carrà, Umberto Boccioni, Giacomo Balla, Gino Severini, Marc Chagall, Natalia Gontcharova, Mikhail Larionov, Alexander Rodchenko, František Kupka, Piet Mondrian, Theo Van Doesburg, Paul Klee, Vasiliy Kandinskiy, Kasimir Malevich, Jacques Villon, Robert ve Sonia Delaunay, Georges Rouault, Balthus, Max Beckmann, Brancusi and Calder, Soutine, Marc Chagall, Amadeo Modigliani, Kees Van Dongen, Jean Arp, Giorgio de Chirico, André Breton, Salvador Dalí, Magritte, Max Ernst, Miro, Man Ray, Alberto Giacometti, René Iché, Nicolas de Staël, André Masson, Tanguy, Jean Tinguely, Yves Klein, Pollock, Mark Rothko, Barnett Newman, Willem de Kooning ve Francis Bacon'ın eserleri. === Çağdaş Sanat (1960'tan beri) === Pop Art, Yeni realizm, Konsepsiyonelizm gibi akımlar; Andy Warhol, Rauschenberg, Arman, César, Niki de Saint-Phalle, Agam, Vasarely, Beuys, Dubuffet, Nam June Paik, Wolf Vostell ve Louise Bourgeois sanatçılar tarafından temsil ediliyor.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 341,
+      "char_count": 2516,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.244825",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Musée National d'Art Moderne (Fransızca telaffuz: [myze nasjɔnal daʁ mɔdɛʁn], National Museum of Modern Art) Fransa'daki bir modern sanat müzesidir. Müze Paris'teki Centre Pompidou'da, 4.arrondissement'ında bulunur. 1947 yılında aslen Palais de Tokyo'da kurulmuştur ama 1977 yılında müze şu anki yerine taşınmıştır. Müze dünyadaki çağdaş ve modern sanat müzelerindeki ikinci en büyük koleksiyona sahiptir. En büyük modern ve çağdaş sanat koleksiyonu ise New York'ta bulunan MoMa'dadır. Müzenin koleksiyonunda 70,000'den fazla sanat eseri vardır. Bu koleksiyon resim, mimari, fotoğrafçılık, sinema, yeni medya, heykel ve tasarım gibi birçok alandaki eserlerin derlenmesi sonucu oluşmuştur. Bu koleksiyonun bir kısmı iki kattan oluşan 14,000 metre karelik bir alanda sergilenmektedir. Bu sergi alanı Centre Pompidou'nun 4. ve 5. katlarında bulunur. Bu iki kattan biri modern sanat(1905'ten 1960'a kadar, 5. kat)'a ayrılmıştır. Diğerinde ise çağdaş sanat(1960'tan beri, 4.kat) eserleri yer alır. Koleksi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1093,
+      "content": "ntre Pompidou'nun 4. ve 5. katlarında bulunur. Bu iki kattan biri modern sanat(1905'ten 1960'a kadar, 5. kat)'a ayrılmıştır. Diğerinde ise çağdaş sanat(1960'tan beri, 4.kat) eserleri yer alır. Koleksiyonda yer alan daha değerli çağdaş ve modern sanat eserleri ise binanın 6.katında sergilenir.",
+      "char_count": 293,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0002",
+      "section": "=== Modern Sanat (1905-1960) ===",
+      "heading_path": "=== Modern Sanat (1905-1960) ===",
+      "start_char": 1114,
+      "end_char": 2114,
+      "content": "=== Modern Sanat (1905-1960) === Birçok modern sanat stili, Fauvism, Expresyonizm, Kübizm, Dada, Absürdizm, Sürrealizm gibi ve Matisse, André Derain, Maurice de Vlaminck, Raoul Dufy, Albert Marquet, Le Douanier Rousseau, Paul Signac, Georges Braque, Pablo Picasso, Fernand Léger, Juan Gris, Ernst Ludwig Kirchner, August Macke, Alexej von Jawlensky, Emil Nolde, Oskar Kokoschka, Otto Dix, George Grosz, Kurt Schwitters, Marcel Duchamp, Francis Picabia, Carlo Carrà, Umberto Boccioni, Giacomo Balla, Gino Severini, Marc Chagall, Natalia Gontcharova, Mikhail Larionov, Alexander Rodchenko, František Kupka, Piet Mondrian, Theo Van Doesburg, Paul Klee, Vasiliy Kandinskiy, Kasimir Malevich, Jacques Villon, Robert ve Sonia Delaunay, Georges Rouault, Balthus, Max Beckmann, Brancusi and Calder, Soutine, Marc Chagall, Amadeo Modigliani, Kees Van Dongen, Jean Arp, Giorgio de Chirico, André Breton, Salvador Dalí, Magritte, Max Ernst, Miro, Man Ray, Alberto Giacometti, René Iché, Nicolas de Staël, André ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Modern Sanat (1905-1960) ===",
+      "heading_path": "=== Modern Sanat (1905-1960) ===",
+      "start_char": 1914,
+      "end_char": 2242,
+      "content": "Marc Chagall, Amadeo Modigliani, Kees Van Dongen, Jean Arp, Giorgio de Chirico, André Breton, Salvador Dalí, Magritte, Max Ernst, Miro, Man Ray, Alberto Giacometti, René Iché, Nicolas de Staël, André Masson, Tanguy, Jean Tinguely, Yves Klein, Pollock, Mark Rothko, Barnett Newman, Willem de Kooning ve Francis Bacon'ın eserleri.",
+      "char_count": 328,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0004",
+      "section": "=== Çağdaş Sanat (1960'tan beri) ===",
+      "heading_path": "=== Çağdaş Sanat (1960'tan beri) ===",
+      "start_char": 2243,
+      "end_char": 2516,
+      "content": "=== Çağdaş Sanat (1960'tan beri) === Pop Art, Yeni realizm, Konsepsiyonelizm gibi akımlar; Andy Warhol, Rauschenberg, Arman, César, Niki de Saint-Phalle, Agam, Vasarely, Beuys, Dubuffet, Nam June Paik, Wolf Vostell ve Louise Bourgeois sanatçılar tarafından temsil ediliyor.",
+      "char_count": 273,
+      "token_estimate": 68
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Musée National d'Art Moderne nerede bulunur?",
+        "answer": "Musée National d'Art Moderne, Paris'teki Centre Pompidou'da, 4.arrondissement'ında bulunur.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Musée National d'Art Moderne, koleksiyonunu sanat dönemlerine göre nasıl sınıflandırmaktadır ve müzenin modern sanat bölümünde sergilenen 1905-1960 dönemine ait bazı önemli stiller ve sanatçılar nelerdir?",
+        "answer": "Musée National d'Art Moderne, koleksiyonunu modern sanat (1905-1960 arası, 5. kat) ve çağdaş sanat (1960'tan sonrası, 4. kat) olarak iki ana döneme ayırmaktadır. Daha değerli çağdaş ve modern sanat eserleri ise binanın 6. katında sergilenmektedir. Modern sanat döneminde sergilenen önemli stiller arasında Fauvism, Ekspresyonizm, Kübizm, Dada, Absürdizm ve Sürrealizm bulunmaktadır. Bu dönemin temsilcisi olan bazı sanatçılar arasında Matisse, Pablo Picasso, Marcel Duchamp, Salvador Dalí ve Piet Mondrian sayılabilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

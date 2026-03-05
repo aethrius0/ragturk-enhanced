@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "bulleogier_de03c363",
+    "title": "Bulle Ogier",
+    "url": "https://tr.wikipedia.org/wiki/Bulle_Ogier",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:28.489525",
+    "content": "Bulle Ogier (doğum adı : Marie-France Thiellandd. 9 Ağustos 1939; Boulogne-Billancourt) , Fransız oyuncu. == Filmografi == 1968: Pierre et Paul 1969: L’amour fou 1971/90: Out 1 – Noli me tangere 1971/74: Out 1 – Spectre 1971: Rendez-vous à Bray 1971: Paulina s’en va 1971: La salamandre 1972: Le charme discret de la bourgeoisie 1974: La Vallée – Obscured by Clouds 1973: Le gang des otages 1973: Projection privée 1974: La Paloma 1974: Céline et Julie vont en bâteau 1974: Mariage 1975: Jamais plus toujours 1975/76: Flocons d’or 1976: (Des journées entières dans les arbres 1976: Maîtresse 1976: Duelle 1979: Die dritte Generation 1981: Le pont du Nord 1981: Seuls 1983: Tricheurs 1985: L’énigme blanche 1986: La terre étrangère 1986: Mon cas 1988: Candy Mountain 1988: La bande des quatre 1988: Les dossiers de L’Inspecteur Lavardin: Le diable en ville 1989: Les grandes familles 1993: Personne ne m'aime 1993: Regarde les hommes tomber 1995: N’oublie pas que tu vas mourir 1996: Irma Vep 1999: Venus beauté 1999: Au cœur du mensonge 2002: Toutes ces belles promesses 2006: Belle toujours 2006: Ne touchez pas la hache 2007: Faut que ça danse! 2008: Passe-passe 2008: Un autre homme 2008: Nuit de chien 2010: La grande villa 2010: Chantrapas 2010: Les petits ruisseaux 2010: Vital désir (TV) 2012: Rêve d’automne (TV) 2012: Un peu plus (TV) 2013: Les déferlantes, TV) 2015: Imagine == Dış bağlantılar == IMDb'de Bulle Ogier Bulle Ogier11 Nisan 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 245,
+      "char_count": 1499,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.038240",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 106,
+      "content": "Bulle Ogier (doğum adı : Marie-France Thiellandd. 9 Ağustos 1939; Boulogne-Billancourt) , Fransız oyuncu.",
+      "char_count": 105,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0001",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 106,
+      "end_char": 1106,
+      "content": "== Filmografi == 1968: Pierre et Paul 1969: L’amour fou 1971/90: Out 1 – Noli me tangere 1971/74: Out 1 – Spectre 1971: Rendez-vous à Bray 1971: Paulina s’en va 1971: La salamandre 1972: Le charme discret de la bourgeoisie 1974: La Vallée – Obscured by Clouds 1973: Le gang des otages 1973: Projection privée 1974: La Paloma 1974: Céline et Julie vont en bâteau 1974: Mariage 1975: Jamais plus toujours 1975/76: Flocons d’or 1976: (Des journées entières dans les arbres 1976: Maîtresse 1976: Duelle 1979: Die dritte Generation 1981: Le pont du Nord 1981: Seuls 1983: Tricheurs 1985: L’énigme blanche 1986: La terre étrangère 1986: Mon cas 1988: Candy Mountain 1988: La bande des quatre 1988: Les dossiers de L’Inspecteur Lavardin: Le diable en ville 1989: Les grandes familles 1993: Personne ne m'aime 1993: Regarde les hommes tomber 1995: N’oublie pas que tu vas mourir 1996: Irma Vep 1999: Venus beauté 1999: Au cœur du mensonge 2002: Toutes ces belles promesses 2006: Belle toujours 2006: Ne touch",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 906,
+      "end_char": 1384,
+      "content": "e 1993: Regarde les hommes tomber 1995: N’oublie pas que tu vas mourir 1996: Irma Vep 1999: Venus beauté 1999: Au cœur du mensonge 2002: Toutes ces belles promesses 2006: Belle toujours 2006: Ne touchez pas la hache 2007: Faut que ça danse! 2008: Passe-passe 2008: Un autre homme 2008: Nuit de chien 2010: La grande villa 2010: Chantrapas 2010: Les petits ruisseaux 2010: Vital désir (TV) 2012: Rêve d’automne (TV) 2012: Un peu plus (TV) 2013: Les déferlantes, TV) 2015: Imagine",
+      "char_count": 478,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1385,
+      "end_char": 1499,
+      "content": "== Dış bağlantılar == IMDb'de Bulle Ogier Bulle Ogier11 Nisan 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 114,
+      "token_estimate": 28
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1968 yılında yayınlanan filmin adı nedir?",
+        "answer": "Pierre et Paul",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bulle Ogier'in filmografisindeki ilk filminden hareketle, oyunculuk kariyerine hangi yıl başlamıştır?",
+        "answer": "Bulle Ogier, filmografisindeki ilk film olan 'Pierre et Paul' (1968) ile oyunculuk kariyerine 1968 yılında başlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

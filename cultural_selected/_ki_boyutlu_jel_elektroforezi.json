@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "kiboyutlujelelektrof_6fe456f2",
+    "title": "İki boyutlu jel elektroforezi",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0ki_boyutlu_jel_elektroforezi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:25.794106",
+    "content": "2-DE veya 2-D elektroforez olarak kısaltılan iki boyutlu jel elektroforezi, proteinleri analiz etmek için yaygın olarak kullanılan bir jel elektroforezi biçimidir. Protein karışımları, 2D jellerde iki boyutta iki özellik ile ayrılır. 2-DE ilk olarak 1975 yılında O'Farrell ve Klose tarafından bağımsız olarak rapor edildi. == Ayrılma temeli == 2-D elektroforez, birinci boyutta elektroforez ile başlar ve daha sonra molekülleri birinci boyuttan dik olarak ayırarak ikinci boyutta bir elektroferogram oluşturur. Birinci boyuttaki elektroforezde moleküller izoelektrik noktalarına göre doğrusal olarak ayrılırlar. İkinci boyutta moleküller ilk elektroferogramdan 90 derecede moleküler kütleye göre ayrılır. İki molekülün iki farklı özellikte benzer olması olası olmadığından, moleküller 2-D elektroforezde 1-D elektroforezden daha etkili bir şekilde ayrılır. Proteinlerin bu teknik kullanılarak ayrıldığı iki boyut, izoelektrik nokta ve doğal durumda olan protein kompleks kütlesi veya protein kütlesi olabilir. Proteinlerin izoelektrik nokta ile ayrılmasına izoelektrik odaklanma (IEF) denir. Bir jele bir pH gradyanı ve jel boyunca bir elektrik potansiyeli uygulanır, bu da bir ucu diğerinden daha pozitif hale getirir. İzoelektrik noktaları dışındaki tüm pH değerlerinde proteinler yüklü halde olacaklardır. Pozitif yüklenirlerse, jelin daha negatif ucuna doğru çekileceklerdir ve negatif yüklü olmaları durumunda ise jelin daha pozitif ucuna çekileceklerdir. İlk boyutta uygulanan proteinler jel boyunca hareket edecek ve izoelektrik noktalarında -yani, protein üzerindeki toplam yükün 0 olduğu nokta (nötr yük)- birikeceklerdir. Bir hücredeki proteinlerin işleyişinin analizi için, işbirliklerinin bilgisi çok önemlidir. Çoğu zaman proteinler, tamamen işlevsel olmak için kompleksler halinde birlikte hareket eder. Hücrenin bu alt organel organizasyonunun analizi, protein komplekslerinin doğal durumunu koruyan teknikler gerektirir. Doğal poliakrilamid jel elektroforezinde (doğal PAGE), proteinler doğal hallerinde kalırlar ve sırasıyla kütlelerini ve komplekslerinin kütlesini takiben elektrik alanında ayrılırlar. Net yüke göre değil boyuta göre bir ayırım elde etmek için, IEF'de olduğu gibi, Coomassie veya lityum dodesil sülfat kullanılarak proteinlere ek bir yük aktarılır. Birinci boyutun tamamlanmasından sonra, kompleksleri oluşturan proteinlerin kütlelerine göre ayrıldığı ikinci boyutta denatüre edici SDS-PAGE uygulanarak kompleksler yok edilir. Proteinleri kütleye göre ayırmadan önce, diğer reaktiflerle (1-D'de SDS-PAGE) birlikte sodyum dodesil sülfat (SDS) ile muamele edilirler. Bu, proteinleri denatüre eder (yani, onları uzun, düz moleküller halinde açar) ve kabaca proteinin uzunluğuyla orantılı bir dizi SDS molekülünü bağlar. Bir proteinin uzunluğu (açıldığında) kabaca kütlesiyle orantılı olduğundan, bu, proteinin kütlesiyle kabaca orantılı bir dizi SDS molekülünü bağladığını söylemeye eşdeğerdir. SDS molekülleri negatif yüklü olduğundan, bunun sonucu, tüm proteinlerin birbirleriyle yaklaşık olarak aynı kütle-yük oranına sahip olmasıdır. Ek olarak, proteinler yüksüz olduklarında (izoelektrik odaklanma aşamasının bir sonucu olarak) göç etmeyeceklerdir, bu nedenle proteinin SDS'de (negatif yüklü) kaplanması, proteinlerin ikinci boyutta göç etmesine izin verir. İkinci boyutta, yine bir elektrik potansiyeli uygulanır, ancak ilk alandan 90 derecelik bir açıyla. Proteinler, kütle-yük oranlarıyla orantılı olarak jelin daha pozitif tarafına (SDS negatif yüklü olduğu için) çekilecektir. Daha önce açıklandığı gibi, bu oran tüm proteinler için hemen hemen aynı olacaktır. Proteinlerin ilerlemesi sürtünme kuvvetleri tarafından yavaşlatılacaktır. Bu nedenle jel, akım uygulandığında moleküler bir elek gibi davranır, daha büyük proteinlerin jelde daha yüksekte tutulması ve daha küçük proteinlerin elekten geçip jelin alt bölgelerine ulaşabilmesini sağlayarak moleküler ağırlıklarına göre proteinleri ayırır. == Kaynakça == == Dış bağlantılar == JVirGel 4 Mayıs 2020 tarihinde Wayback Machine sitesinde arşivlendi. Sekans verilerinden sanal 2-D Jeller oluşturun. Gel IQ 2D jel görüntü analizi verilerinin kalitesini değerlendirmek için ücretsiz olarak indirilebilen bir yazılım aracı. 2-D Elektroforez Prensipleri ve Yöntemleri El Kitabı 5 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 545,
+      "char_count": 4330,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.281000",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 323,
+      "content": "2-DE veya 2-D elektroforez olarak kısaltılan iki boyutlu jel elektroforezi, proteinleri analiz etmek için yaygın olarak kullanılan bir jel elektroforezi biçimidir. Protein karışımları, 2D jellerde iki boyutta iki özellik ile ayrılır. 2-DE ilk olarak 1975 yılında O'Farrell ve Klose tarafından bağımsız olarak rapor edildi.",
+      "char_count": 322,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0001",
+      "section": "== Ayrılma temeli ==",
+      "heading_path": "== Ayrılma temeli ==",
+      "start_char": 323,
+      "end_char": 1323,
+      "content": "== Ayrılma temeli == 2-D elektroforez, birinci boyutta elektroforez ile başlar ve daha sonra molekülleri birinci boyuttan dik olarak ayırarak ikinci boyutta bir elektroferogram oluşturur. Birinci boyuttaki elektroforezde moleküller izoelektrik noktalarına göre doğrusal olarak ayrılırlar. İkinci boyutta moleküller ilk elektroferogramdan 90 derecede moleküler kütleye göre ayrılır. İki molekülün iki farklı özellikte benzer olması olası olmadığından, moleküller 2-D elektroforezde 1-D elektroforezden daha etkili bir şekilde ayrılır. Proteinlerin bu teknik kullanılarak ayrıldığı iki boyut, izoelektrik nokta ve doğal durumda olan protein kompleks kütlesi veya protein kütlesi olabilir. Proteinlerin izoelektrik nokta ile ayrılmasına izoelektrik odaklanma (IEF) denir. Bir jele bir pH gradyanı ve jel boyunca bir elektrik potansiyeli uygulanır, bu da bir ucu diğerinden daha pozitif hale getirir. İzoelektrik noktaları dışındaki tüm pH değerlerinde proteinler yüklü halde olacaklardır. Pozitif yüklen",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Ayrılma temeli ==",
+      "heading_path": "== Ayrılma temeli ==",
+      "start_char": 1123,
+      "end_char": 2123,
+      "content": " boyunca bir elektrik potansiyeli uygulanır, bu da bir ucu diğerinden daha pozitif hale getirir. İzoelektrik noktaları dışındaki tüm pH değerlerinde proteinler yüklü halde olacaklardır. Pozitif yüklenirlerse, jelin daha negatif ucuna doğru çekileceklerdir ve negatif yüklü olmaları durumunda ise jelin daha pozitif ucuna çekileceklerdir. İlk boyutta uygulanan proteinler jel boyunca hareket edecek ve izoelektrik noktalarında -yani, protein üzerindeki toplam yükün 0 olduğu nokta (nötr yük)- birikeceklerdir. Bir hücredeki proteinlerin işleyişinin analizi için, işbirliklerinin bilgisi çok önemlidir. Çoğu zaman proteinler, tamamen işlevsel olmak için kompleksler halinde birlikte hareket eder. Hücrenin bu alt organel organizasyonunun analizi, protein komplekslerinin doğal durumunu koruyan teknikler gerektirir. Doğal poliakrilamid jel elektroforezinde (doğal PAGE), proteinler doğal hallerinde kalırlar ve sırasıyla kütlelerini ve komplekslerinin kütlesini takiben elektrik alanında ayrılırlar. Ne",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrılma temeli ==",
+      "heading_path": "== Ayrılma temeli ==",
+      "start_char": 1923,
+      "end_char": 2923,
+      "content": "r gerektirir. Doğal poliakrilamid jel elektroforezinde (doğal PAGE), proteinler doğal hallerinde kalırlar ve sırasıyla kütlelerini ve komplekslerinin kütlesini takiben elektrik alanında ayrılırlar. Net yüke göre değil boyuta göre bir ayırım elde etmek için, IEF'de olduğu gibi, Coomassie veya lityum dodesil sülfat kullanılarak proteinlere ek bir yük aktarılır. Birinci boyutun tamamlanmasından sonra, kompleksleri oluşturan proteinlerin kütlelerine göre ayrıldığı ikinci boyutta denatüre edici SDS-PAGE uygulanarak kompleksler yok edilir. Proteinleri kütleye göre ayırmadan önce, diğer reaktiflerle (1-D'de SDS-PAGE) birlikte sodyum dodesil sülfat (SDS) ile muamele edilirler. Bu, proteinleri denatüre eder (yani, onları uzun, düz moleküller halinde açar) ve kabaca proteinin uzunluğuyla orantılı bir dizi SDS molekülünü bağlar. Bir proteinin uzunluğu (açıldığında) kabaca kütlesiyle orantılı olduğundan, bu, proteinin kütlesiyle kabaca orantılı bir dizi SDS molekülünü bağladığını söylemeye eşdeğer",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrılma temeli ==",
+      "heading_path": "== Ayrılma temeli ==",
+      "start_char": 2723,
+      "end_char": 3723,
+      "content": "r dizi SDS molekülünü bağlar. Bir proteinin uzunluğu (açıldığında) kabaca kütlesiyle orantılı olduğundan, bu, proteinin kütlesiyle kabaca orantılı bir dizi SDS molekülünü bağladığını söylemeye eşdeğerdir. SDS molekülleri negatif yüklü olduğundan, bunun sonucu, tüm proteinlerin birbirleriyle yaklaşık olarak aynı kütle-yük oranına sahip olmasıdır. Ek olarak, proteinler yüksüz olduklarında (izoelektrik odaklanma aşamasının bir sonucu olarak) göç etmeyeceklerdir, bu nedenle proteinin SDS'de (negatif yüklü) kaplanması, proteinlerin ikinci boyutta göç etmesine izin verir. İkinci boyutta, yine bir elektrik potansiyeli uygulanır, ancak ilk alandan 90 derecelik bir açıyla. Proteinler, kütle-yük oranlarıyla orantılı olarak jelin daha pozitif tarafına (SDS negatif yüklü olduğu için) çekilecektir. Daha önce açıklandığı gibi, bu oran tüm proteinler için hemen hemen aynı olacaktır. Proteinlerin ilerlemesi sürtünme kuvvetleri tarafından yavaşlatılacaktır. Bu nedenle jel, akım uygulandığında moleküler",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrılma temeli ==",
+      "heading_path": "== Ayrılma temeli ==",
+      "start_char": 3523,
+      "end_char": 3939,
+      "content": "a önce açıklandığı gibi, bu oran tüm proteinler için hemen hemen aynı olacaktır. Proteinlerin ilerlemesi sürtünme kuvvetleri tarafından yavaşlatılacaktır. Bu nedenle jel, akım uygulandığında moleküler bir elek gibi davranır, daha büyük proteinlerin jelde daha yüksekte tutulması ve daha küçük proteinlerin elekten geçip jelin alt bölgelerine ulaşabilmesini sağlayarak moleküler ağırlıklarına göre proteinleri ayırır.",
+      "char_count": 416,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3955,
+      "end_char": 4330,
+      "content": "== Dış bağlantılar == JVirGel 4 Mayıs 2020 tarihinde Wayback Machine sitesinde arşivlendi. Sekans verilerinden sanal 2-D Jeller oluşturun. Gel IQ 2D jel görüntü analizi verilerinin kalitesini değerlendirmek için ücretsiz olarak indirilebilen bir yazılım aracı. 2-D Elektroforez Prensipleri ve Yöntemleri El Kitabı 5 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 375,
+      "token_estimate": 93
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2-D elektroforezde moleküller birinci boyutta neye göre ayrılır?",
+        "answer": "Moleküller izoelektrik noktalarına göre ayrılır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İki boyutlu jel elektroforezi (2-DE) tek boyutlu elektroforeze kıyasla proteinleri neden daha etkili bir şekilde ayırır ve bu ayrım için hangi iki temel özelliği kullanır, ayrıca protein komplekslerini doğal hallerinde analiz etmek için hangi boyutun kullanıldığına dair bir bağlantı vardır?",
+        "answer": "2-D elektroforez, proteinleri tek boyutlu elektroforezden daha etkili bir şekilde ayırır çünkü molekülleri iki farklı özellikle ayırır, bu da iki molekülün iki farklı özellikte benzer olma olasılığını azaltır. Ayrım için kullanılan iki boyut genellikle izoelektrik nokta ve moleküler kütle veya protein kompleksinin doğal durumdaki kütlesidir. Proteinlerin doğal haldeki kompleks kütlesi ile ayrılması, protein komplekslerinin tamamen işlevsel olmak için birlikte hareket ettiği durumların analizine olanak tanır ve bu, hücredeki proteinlerin işleyişini anlamak için kritik öneme sahiptir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

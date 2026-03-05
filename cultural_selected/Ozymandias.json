@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "ozymandias_48b71cce",
+    "title": "Ozymandias",
+    "url": "https://tr.wikipedia.org/wiki/Ozymandias",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:32.126106",
+    "content": "\"Ozymandias\", İngiliz şair Percy Bysshe Shelley'in bir şiiri. İlk olarak, Londra'da, The Examiner'ın 11 Ocak 1818 tarihli sayısında yayınlanmıştır. Aynı zamanda bir yıl sonra, Shelly'in şiirlerini derlediği \"Rosalind and Helen, A Modern Eclogue; with Other Poems\"ta ve 1826'da yayınlanan bir başka şiir derlemesinde de görülür. Ozymandias, Shelly'in en bilinen ve önemli kabul edilen eserlerinden biridir. Ozymandias, M.Ö. 1279'dan M.Ö. 1213'e kadar Mısır'a hükmetmiş İkinci Ramses'in Yunanca adıdır. == Şiir == İngilizce I met a traveller from an antique land Who said: Two vast and trunkless legs of stone Stand in the desert... near them, on the sand, Half sunk, a shattered visage lies, whose frown, And wrinkled lip, and sneer of cold command, Tell that its sculptor well those passions read Which yet survive, stamped on these lifeless things, The hand that mocked them and the heart that fed: And on the pedestal these words appear: 'My name is Ozymandias, king of kings: Look on my works, ye Mighty, and despair!' Nothing beside remains. Round the decay Of that colossal wreck, boundless and bare The lone and level sands stretch far away. Türkçe Antik diyarlardan bir gezgine rastladım. İki büyük ve çıplak taş bacak, dedi; Duruyor çölün ortasında dikili. Hemen yanında, kumların üzerinde, Yarısı yere gömülmüş bir çehre; O çatık kaşları ve soğuk dudakları Belli ki, onu çok iyi resmetmiş heykeltıraşı. Öykünen bir el ve besleyen bir yürek ile, Öyle bir damgalamış ki tutkuları o cansız şeylere, Dayanabilmeyi başarmış ta bu güne. Kaidesinde ise şu sözler yazılı: \"Benim adım Ozymandias, kralların kralı; Eserlerime bak ki, bilesin haddini.\" Fakat hiçbir şey kalmamış geri. Ve o yok olmakta olan harabenin dört bir yanında, Yalnız ve dümdüz kumlar uzanıyor uzaklara. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 280,
+      "char_count": 1790,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.242587",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 501,
+      "content": "\"Ozymandias\", İngiliz şair Percy Bysshe Shelley'in bir şiiri. İlk olarak, Londra'da, The Examiner'ın 11 Ocak 1818 tarihli sayısında yayınlanmıştır. Aynı zamanda bir yıl sonra, Shelly'in şiirlerini derlediği \"Rosalind and Helen, A Modern Eclogue; with Other Poems\"ta ve 1826'da yayınlanan bir başka şiir derlemesinde de görülür. Ozymandias, Shelly'in en bilinen ve önemli kabul edilen eserlerinden biridir. Ozymandias, M.Ö. 1279'dan M.Ö. 1213'e kadar Mısır'a hükmetmiş İkinci Ramses'in Yunanca adıdır.",
+      "char_count": 500,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0001",
+      "section": "== Şiir ==",
+      "heading_path": "== Şiir ==",
+      "start_char": 501,
+      "end_char": 1501,
+      "content": "== Şiir == İngilizce I met a traveller from an antique land Who said: Two vast and trunkless legs of stone Stand in the desert... near them, on the sand, Half sunk, a shattered visage lies, whose frown, And wrinkled lip, and sneer of cold command, Tell that its sculptor well those passions read Which yet survive, stamped on these lifeless things, The hand that mocked them and the heart that fed: And on the pedestal these words appear: 'My name is Ozymandias, king of kings: Look on my works, ye Mighty, and despair!' Nothing beside remains. Round the decay Of that colossal wreck, boundless and bare The lone and level sands stretch far away. Türkçe Antik diyarlardan bir gezgine rastladım. İki büyük ve çıplak taş bacak, dedi; Duruyor çölün ortasında dikili. Hemen yanında, kumların üzerinde, Yarısı yere gömülmüş bir çehre; O çatık kaşları ve soğuk dudakları Belli ki, onu çok iyi resmetmiş heykeltıraşı. Öykünen bir el ve besleyen bir yürek ile, Öyle bir damgalamış ki tutkuları o cansız şeyle",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Şiir ==",
+      "heading_path": "== Şiir ==",
+      "start_char": 1301,
+      "end_char": 1775,
+      "content": "rısı yere gömülmüş bir çehre; O çatık kaşları ve soğuk dudakları Belli ki, onu çok iyi resmetmiş heykeltıraşı. Öykünen bir el ve besleyen bir yürek ile, Öyle bir damgalamış ki tutkuları o cansız şeylere, Dayanabilmeyi başarmış ta bu güne. Kaidesinde ise şu sözler yazılı: \"Benim adım Ozymandias, kralların kralı; Eserlerime bak ki, bilesin haddini.\" Fakat hiçbir şey kalmamış geri. Ve o yok olmakta olan harabenin dört bir yanında, Yalnız ve dümdüz kumlar uzanıyor uzaklara.",
+      "char_count": 474,
+      "token_estimate": 118
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Heykelin kaidesinde hangi sözler yazmaktadır?",
+        "answer": "'Benim adım Ozymandias, kralların kralı: Eserlerime bakın, ey Kudretliler, ve umutsuzluğa kapılın!'",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İngiliz şair Percy Bysshe Shelley'in \"Ozymandias\" şiiri, Mısır'a hükmetmiş İkinci Ramses'in (Ozymandias) mirasını nasıl tasvir etmektedir?",
+        "answer": "Şiir, kendini \"kralların kralı\" olarak tanıtan Ozymandias'ın bir zamanlar sahip olduğu ihtişam ve gücün, zamanla yıkılmış ve çölün ortasında unutulmuş devasa bir heykel kalıntısından ibaret kaldığını anlatarak, onun mirasının geçiciliğini ve fani doğasını vurgulamaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "saffetarkan_95505d29",
+    "title": "Saffet Arıkan",
+    "url": "https://tr.wikipedia.org/wiki/Saffet_Ar%C4%B1kan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:08.920771",
+    "content": "Saffet Arıkan (1888, Erzincan - 26 Kasım 1947, İstanbul), Türk siyasetçi ve askerdir. == Hayatı == 1907 yılında Harp Okulunu bitirdi. 1910 yılında da Harp Akademisinden kurmay yüzbaşı olarak çıktı. Askeri görevlerle Yemen ve Bağdat'ta bulundu. Çanakkale'de Kerevizdere savaşlarına katıldı. Binbaşılığa yükselince staj için Almanya'ya gönderildi. Dönüşte Bakü seferine katıldı. Sadrazam ve Harbiye Nazırı Ahmed İzzet Paşa'nın başyaverliğini yaptı. İstanbul'un işgali'ne kadar Birinci Ordu Müfettişliği kurmayında çalıştı. İşgalden (16 Mart 1920) hemen sonra İsmet Bey'le birlikte Anadolu'ya geçti. Türk Kurtuluş Savaşı sırasında Anzavur Ayaklanması'nın bastırılmasında önemli rol oynadı. Mart 1921 tarihinde Mehmet Nuri Bey'le birlikte Almanya'ya silah alımına yollandı. Haziran 1921 tarihinde Garp Cephesi kurmay başkanlığına getirildi, aynı yıl sonlarında Moskova Ataşemiliterliğine atandı. 1923 yılında Ankara'ya döndü, kurmay albayken ordudan ayrıldı. Kocaeli'nden milletvekili oldu. 1947'ye değin Kocaeli (II. Dönem), Erzincan (III., IV.., V., VI., VIII. dönemler), Konya (VII. Dönem) milletvekilliği yaptı. 1925-1931 yılları arasında Cumhuriyet Halk Partisi (CHP) genel sekreterliği görevini yürüttü. Bu görevi sırasında CHP'nin tek parti iktidarı yerleşti, parti ile devletin özdeşleşmesinin temelleri güçlendi. 1927'de Fransa'daki sosyalistler tarafından düzenlenen Radikal-Sosyalist Antant’ının Karlsruhe'de düzenlenen ikinci kongresine gözlemci olarak CHF'nin genel sekreteri (Kâtib-i Umumi) sıfatıyla katıldı. Aynı yıl, Sovyet Devrimi'nin Moskova'daki onuncu yıl kutlamalarına Türkiye Cumhuriyeti'ni temsilen katıldı. 26 Eylül 1934 tarihinde İstanbul Radyosu'ndaki Dil Bayramı konferansı sırasında kullandığı \"Büyük önderimiz ata türk\" ifadesi çok iddialı bulunsa da Mustafa Kemal tarafından çok beğenildi ve 24 Kasım 1934 tarihinde Mustafa Kemal'e soyadı olarak verildi. 1935-1938 yılları arasında Millî Eğitim Bakanlığı yaptı. Cumhuriyet Halk Partisi'nin 1935 yılında gerçekleşen 4. Kurultayında, devlet eliyle başlatılan planlı endüstrileşme hareketine koşut olarak, planlı köyleri kalkındırma hareketinin başlatılması kararlaştırılmıştı. Bakanlığı sırasında bu hareket doğrultusunda köyler için bir eğitim sistemi geliştirdi; eğitmen uygulamasına geçildi ve daha sonra köy enstitülerine dönüştürülecek olan köy öğretmen okulları kuruldu. İsmet İnönü'nün Cumhurbaşkanı seçilmesinden 1,5 ay sonra, yeni kurulan Celâl Bayar kabinesinde yine Millî Eğitim Bakanı olmasına rağmen sağlık nedenlerinden dolayı bakanlıktan ayrıldı. 1940 yılında Köy Enstitüleri Kanunu'nun çıkartılmasında öncülük etti. 1940-1941 yılları arasında Millî Savunma Bakanlığı yaptı. 1942 yılında atandığı Berlin Büyükelçiliğinde 1944 yılına kadar kaldı. Bu son görevi sırasında, Türkiye'nin tarafsızlık siyasetini uygulamak için çaba gösterdi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 348,
+      "char_count": 2840,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.271989",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 86,
+      "content": "Saffet Arıkan (1888, Erzincan - 26 Kasım 1947, İstanbul), Türk siyasetçi ve askerdir.",
+      "char_count": 85,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 86,
+      "end_char": 1086,
+      "content": "== Hayatı == 1907 yılında Harp Okulunu bitirdi. 1910 yılında da Harp Akademisinden kurmay yüzbaşı olarak çıktı. Askeri görevlerle Yemen ve Bağdat'ta bulundu. Çanakkale'de Kerevizdere savaşlarına katıldı. Binbaşılığa yükselince staj için Almanya'ya gönderildi. Dönüşte Bakü seferine katıldı. Sadrazam ve Harbiye Nazırı Ahmed İzzet Paşa'nın başyaverliğini yaptı. İstanbul'un işgali'ne kadar Birinci Ordu Müfettişliği kurmayında çalıştı. İşgalden (16 Mart 1920) hemen sonra İsmet Bey'le birlikte Anadolu'ya geçti. Türk Kurtuluş Savaşı sırasında Anzavur Ayaklanması'nın bastırılmasında önemli rol oynadı. Mart 1921 tarihinde Mehmet Nuri Bey'le birlikte Almanya'ya silah alımına yollandı. Haziran 1921 tarihinde Garp Cephesi kurmay başkanlığına getirildi, aynı yıl sonlarında Moskova Ataşemiliterliğine atandı. 1923 yılında Ankara'ya döndü, kurmay albayken ordudan ayrıldı. Kocaeli'nden milletvekili oldu. 1947'ye değin Kocaeli (II. Dönem), Erzincan (III., IV.., V., VI., VIII. dönemler), Konya (VII. Döne",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 886,
+      "end_char": 1886,
+      "content": "andı. 1923 yılında Ankara'ya döndü, kurmay albayken ordudan ayrıldı. Kocaeli'nden milletvekili oldu. 1947'ye değin Kocaeli (II. Dönem), Erzincan (III., IV.., V., VI., VIII. dönemler), Konya (VII. Dönem) milletvekilliği yaptı. 1925-1931 yılları arasında Cumhuriyet Halk Partisi (CHP) genel sekreterliği görevini yürüttü. Bu görevi sırasında CHP'nin tek parti iktidarı yerleşti, parti ile devletin özdeşleşmesinin temelleri güçlendi. 1927'de Fransa'daki sosyalistler tarafından düzenlenen Radikal-Sosyalist Antant’ının Karlsruhe'de düzenlenen ikinci kongresine gözlemci olarak CHF'nin genel sekreteri (Kâtib-i Umumi) sıfatıyla katıldı. Aynı yıl, Sovyet Devrimi'nin Moskova'daki onuncu yıl kutlamalarına Türkiye Cumhuriyeti'ni temsilen katıldı. 26 Eylül 1934 tarihinde İstanbul Radyosu'ndaki Dil Bayramı konferansı sırasında kullandığı \"Büyük önderimiz ata türk\" ifadesi çok iddialı bulunsa da Mustafa Kemal tarafından çok beğenildi ve 24 Kasım 1934 tarihinde Mustafa Kemal'e soyadı olarak verildi. 1935",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1686,
+      "end_char": 2686,
+      "content": " konferansı sırasında kullandığı \"Büyük önderimiz ata türk\" ifadesi çok iddialı bulunsa da Mustafa Kemal tarafından çok beğenildi ve 24 Kasım 1934 tarihinde Mustafa Kemal'e soyadı olarak verildi. 1935-1938 yılları arasında Millî Eğitim Bakanlığı yaptı. Cumhuriyet Halk Partisi'nin 1935 yılında gerçekleşen 4. Kurultayında, devlet eliyle başlatılan planlı endüstrileşme hareketine koşut olarak, planlı köyleri kalkındırma hareketinin başlatılması kararlaştırılmıştı. Bakanlığı sırasında bu hareket doğrultusunda köyler için bir eğitim sistemi geliştirdi; eğitmen uygulamasına geçildi ve daha sonra köy enstitülerine dönüştürülecek olan köy öğretmen okulları kuruldu. İsmet İnönü'nün Cumhurbaşkanı seçilmesinden 1,5 ay sonra, yeni kurulan Celâl Bayar kabinesinde yine Millî Eğitim Bakanı olmasına rağmen sağlık nedenlerinden dolayı bakanlıktan ayrıldı. 1940 yılında Köy Enstitüleri Kanunu'nun çıkartılmasında öncülük etti. 1940-1941 yılları arasında Millî Savunma Bakanlığı yaptı. 1942 yılında atandığı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 2486,
+      "end_char": 2825,
+      "content": "n sağlık nedenlerinden dolayı bakanlıktan ayrıldı. 1940 yılında Köy Enstitüleri Kanunu'nun çıkartılmasında öncülük etti. 1940-1941 yılları arasında Millî Savunma Bakanlığı yaptı. 1942 yılında atandığı Berlin Büyükelçiliğinde 1944 yılına kadar kaldı. Bu son görevi sırasında, Türkiye'nin tarafsızlık siyasetini uygulamak için çaba gösterdi.",
+      "char_count": 339,
+      "token_estimate": 84
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Harp Akademisi'nden kurmay yüzbaşı olarak ne zaman mezun oldu?",
+        "answer": "1910 yılında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Saffet Arıkan'ın hem askeri hem de siyasi kariyerindeki önemli dönüm noktaları ve bu rollerdeki temel katkıları nelerdir?",
+        "answer": "Saffet Arıkan, askeri kariyerine 1907'de Harp Okulu'nu bitirerek ve 1910'da Harp Akademisi'nden kurmay yüzbaşı olarak mezun olarak başlamıştır. Yemen, Bağdat ve Çanakkale'de (Kerevizdere savaşları) askeri görevlerde bulunmuş, Binbaşılığa yükselince Almanya'ya staja gönderilmiş ve Bakü seferine katılmıştır. Türk Kurtuluş Savaşı sırasında Anzavur Ayaklanması'nın bastırılmasında önemli rol oynamış ve Garp Cephesi kurmay başkanlığına getirilmiştir. 1923 yılında kurmay albay rütbesiyle ordudan ayrıldıktan sonra Kocaeli, Erzincan ve Konya'dan milletvekilliği yaparak siyasi kariyere adım atmıştır. 1925-1931 yılları arasında Cumhuriyet Halk Partisi genel sekreterliği görevini üstlenmiş, bu süreçte partinin tek parti iktidarının yerleşmesine ve parti ile devletin özdeşleşmesinin temellerinin güçlenmesine katkıda bulunmuştur. Ayrıca, 1934'te Dil Bayramı konferansında kullandığı \"Büyük önderimiz ata türk\" ifadesiyle Mustafa Kemal'e \"Atatürk\" soyadının verilmesine ilham kaynağı olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

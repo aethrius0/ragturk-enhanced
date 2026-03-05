@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "leventpiritina_d6a62042",
+    "title": "Levent Piriştina",
+    "url": "https://tr.wikipedia.org/wiki/Levent_Piri%C5%9Ftina",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:44.056139",
+    "content": "Levent Piriştina (d. 20 Haziran 1978, Buca, İzmir), Türk siyasetçi. == İlk Yılları == 20 Haziran 1978'de İzmir'de doğdu. II. Dünya Savaşı sonrasında Kosova'dan göç etmiş Arnavut kökenli bir ailenin çocuğu ve İzmir'in Büyükşehir Belediye Başkanlarından Ahmet Piriştina'nın oğludur. İstanbul Bilgi Üniversitesi İktisadi ve İdari Bilimler Fakültesi Uluslararası İlişkiler Bölümünü mezunudur. İyi derecede İngilizce bilen Piriştina iki kız çocuğu sahibidir. == Siyasi Yaşamı == Askerlik döneminin ardından gıda sektöründe depolama, ithalat – ihracat çalışmalarında bulunan Levent Piriştina daha sonra organizasyon ve hizmet sektörlerinde faaliyetlerini sürdürdü. Ege Genç İşadamları Derneği, İzmir Sanayici ve İşadamları Derneği ve KTK yönetimlerinde görev alan Piriştina 2011 Türkiye genel seçimlerinde Cumhuriyet Halk Partisi'nden İzmir 2. Bölge 10. sıra milletvekili adayı oldu. 2011 genel seçimi sonrasında siyasi kariyerini yerel yönetim çalışmalarına yönlendiren Levent Piriştina, 2014 Türkiye yerel seçimlerinde Buca Belediye Başkanlığına aday oldu ve Bucalıların yüzde 43,1 oyunu alarak Buca Belediye Başkanı seçildi. == Buca Belediye Başkanlığı == Levent Piriştina'nın sosyal projeleri: Çocuklara ücretsiz geçici bakım hizmeti, Annelerin günlük yaşamlarını kolaylaştıran ve Türkiye'de bir ilk olma özelliği taşıyan Pırlanta Merkezleri, Annelerin toplumsal yaşama katılımlarını sağlayan Anneler Kulübü, Online eğitim, İhtiyaç sahibi vatandaşlara yönelik Ocaklar Sönmesin Tencereler Kaynasın, Engelsiz Hobi Bahçeleri Kültürel projeleri; “Kültüre Hayat Her Mahallede Sanat” ile Buca'nın mahallelerini tiyatro ile buluşturdu. Kentin dört bir yanında açılan kurslarla ilk yıl 5 bin, ikinci yılda da 7 bin 500 çocuk yüzme öğrendi. Aktif hale getirilen Buca Tenis Kulüp'te de yüzlerce çocuk ve genç tenisle tanıştı. Tarık Akan Gençlik Merkezi'ni kurdu. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 246,
+      "char_count": 1865,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.407715",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 68,
+      "content": "Levent Piriştina (d. 20 Haziran 1978, Buca, İzmir), Türk siyasetçi.",
+      "char_count": 67,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk Yılları ==",
+      "heading_path": "== İlk Yılları ==",
+      "start_char": 68,
+      "end_char": 454,
+      "content": "== İlk Yılları == 20 Haziran 1978'de İzmir'de doğdu. II. Dünya Savaşı sonrasında Kosova'dan göç etmiş Arnavut kökenli bir ailenin çocuğu ve İzmir'in Büyükşehir Belediye Başkanlarından Ahmet Piriştina'nın oğludur. İstanbul Bilgi Üniversitesi İktisadi ve İdari Bilimler Fakültesi Uluslararası İlişkiler Bölümünü mezunudur. İyi derecede İngilizce bilen Piriştina iki kız çocuğu sahibidir.",
+      "char_count": 385,
+      "token_estimate": 96
+    },
+    {
+      "id": "c0002",
+      "section": "== Siyasi Yaşamı ==",
+      "heading_path": "== Siyasi Yaşamı ==",
+      "start_char": 454,
+      "end_char": 1122,
+      "content": "== Siyasi Yaşamı == Askerlik döneminin ardından gıda sektöründe depolama, ithalat – ihracat çalışmalarında bulunan Levent Piriştina daha sonra organizasyon ve hizmet sektörlerinde faaliyetlerini sürdürdü. Ege Genç İşadamları Derneği, İzmir Sanayici ve İşadamları Derneği ve KTK yönetimlerinde görev alan Piriştina 2011 Türkiye genel seçimlerinde Cumhuriyet Halk Partisi'nden İzmir 2. Bölge 10. sıra milletvekili adayı oldu. 2011 genel seçimi sonrasında siyasi kariyerini yerel yönetim çalışmalarına yönlendiren Levent Piriştina, 2014 Türkiye yerel seçimlerinde Buca Belediye Başkanlığına aday oldu ve Bucalıların yüzde 43,1 oyunu alarak Buca Belediye Başkanı seçildi.",
+      "char_count": 667,
+      "token_estimate": 166
+    },
+    {
+      "id": "c0003",
+      "section": "== Buca Belediye Başkanlığı ==",
+      "heading_path": "== Buca Belediye Başkanlığı ==",
+      "start_char": 1122,
+      "end_char": 1851,
+      "content": "== Buca Belediye Başkanlığı == Levent Piriştina'nın sosyal projeleri: Çocuklara ücretsiz geçici bakım hizmeti, Annelerin günlük yaşamlarını kolaylaştıran ve Türkiye'de bir ilk olma özelliği taşıyan Pırlanta Merkezleri, Annelerin toplumsal yaşama katılımlarını sağlayan Anneler Kulübü, Online eğitim, İhtiyaç sahibi vatandaşlara yönelik Ocaklar Sönmesin Tencereler Kaynasın, Engelsiz Hobi Bahçeleri Kültürel projeleri; “Kültüre Hayat Her Mahallede Sanat” ile Buca'nın mahallelerini tiyatro ile buluşturdu. Kentin dört bir yanında açılan kurslarla ilk yıl 5 bin, ikinci yılda da 7 bin 500 çocuk yüzme öğrendi. Aktif hale getirilen Buca Tenis Kulüp'te de yüzlerce çocuk ve genç tenisle tanıştı. Tarık Akan Gençlik Merkezi'ni kurdu.",
+      "char_count": 728,
+      "token_estimate": 182
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Levent Piriştina'nın sosyal projelerinden Pırlanta Merkezlerinin Türkiye'deki özelliği nedir?",
+        "answer": "Türkiye'de bir ilk olma özelliği taşımaktadır.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Levent Piriştina'nın doğum yeri ve aile geçmişi, onun siyasi kariyerinde Buca Belediye Başkanı olmasına yönelik gidişatını nasıl etkilemiştir?",
+        "answer": "Levent Piriştina'nın İzmir'in Buca ilçesinde doğmuş olması ve İzmir Büyükşehir Belediye Başkanlarından Ahmet Piriştina'nın oğlu olması, onun siyasi yaşama olan ilgisini ve özellikle yerel yönetimlerde, doğum yeri Buca'ya yönelik kariyer hedefini şekillendirmiştir. İş dünyasından siyasete geçişinin ardından Buca Belediye Başkanlığına aday olup bu göreve seçilmesi, hem kişisel kökleriyle hem de ailevi siyasi mirasıyla bir bağ kurmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

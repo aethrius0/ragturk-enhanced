@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "mersonleo_79e13838",
+    "title": "Émerson Leão",
+    "url": "https://tr.wikipedia.org/wiki/%C3%89merson_Le%C3%A3o",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:46.013658",
+    "content": "Émerson Leão (d. 11 Temmuz 1949, Ribeirão Preto), Brezilya doğumlu eski millî futbolcudur. Etkin olduğu dönemde kaleci olarak görev yapmıştır. Futbol yaşantısından sonra teknik direktör olarak yaşantısına devam etmiştir. == Kulüp kariyeri: São José'den Palmeiras'a ve ötesine == Leão, profesyonel kariyerine 1968 yılında São José ile başladı. Comercial ve Vasco da Gama'da kısa bir süre çalıştıktan sonra 1973'te Palmeiras'a katıldı ve önemli başarılar elde etti. Palmeiras ile 1972 ve 1973'te iki kez Campeonato Brasileiro Série A'yı kazandı. Daha sonra Grêmio, Corinthians ve Sport Recife için oynadı ve çok yönlülüğünü ve liderlik becerilerini gösterdi. == Uluslararası Zafer ve Dört Dünya Kupası == Leão, Brezilya milli takımı için ilk maçına 1970 yılında çıktı ve bu yıl kariyerinde bir dönüm noktası oldu. Brezilya'nın ilk kalecisi olarak, 1970 FIFA Dünya Kupası'nda zafer kazanmalarına yardımcı oldu. Brezilya'yı üç Dünya Kupası'nda (1974, 1978 ve 1986) ve iki Copa América turnuvasında (1979 ve 1983) temsil etmeye devam etti ve toplam 80 kez forma giydi. 1978 Dünya Kupası'nda Brezilya onun liderliğinde üçüncü oldu. == Koçluk Kariyeri: Brezilya'dan Orta Doğu'ya == Oyuncu olarak emekli olduktan sonra, Leão başarılı bir koçluk kariyerine başladı. Brezilya milli takımı da dahil olmak üzere Brezilya, Japonya ve Katar'da takımlar yönetti. Onun rehberliğinde Brezilya, 1986 FIFA Dünya Kupası'nda çeyrek finale yükseldi. == Miras ve İstatistikler == Emerson Leão'nun olağanüstü atletizmi, liderliği ve stratejik yeteneği onu futbolda saygı duyulan bir figür haline getirdi. Brezilya formasıyla 80 resmi maça çıktı ve 49 gol yerken, 45 maçta gol yemedi. Bir koç olarak %56'lık olağanüstü kazanma oranı, hem oyun hem de koçluk alemlerinde en iyilerden biri olarak mirasını daha da pekiştirdi. == Kaynakça == == Dış bağlantılar == National-Football-Teams.com'da Émerson Leão Sambafoot – Leão teknik direktör profili4 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 285,
+      "char_count": 1979,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.899604",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 221,
+      "content": "Émerson Leão (d. 11 Temmuz 1949, Ribeirão Preto), Brezilya doğumlu eski millî futbolcudur. Etkin olduğu dönemde kaleci olarak görev yapmıştır. Futbol yaşantısından sonra teknik direktör olarak yaşantısına devam etmiştir.",
+      "char_count": 220,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0001",
+      "section": "== Kulüp kariyeri: São José'den Palmeiras'a ve ötesine ==",
+      "heading_path": "== Kulüp kariyeri: São José'den Palmeiras'a ve ötesine ==",
+      "start_char": 221,
+      "end_char": 657,
+      "content": "== Kulüp kariyeri: São José'den Palmeiras'a ve ötesine == Leão, profesyonel kariyerine 1968 yılında São José ile başladı. Comercial ve Vasco da Gama'da kısa bir süre çalıştıktan sonra 1973'te Palmeiras'a katıldı ve önemli başarılar elde etti. Palmeiras ile 1972 ve 1973'te iki kez Campeonato Brasileiro Série A'yı kazandı. Daha sonra Grêmio, Corinthians ve Sport Recife için oynadı ve çok yönlülüğünü ve liderlik becerilerini gösterdi.",
+      "char_count": 435,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0002",
+      "section": "== Uluslararası Zafer ve Dört Dünya Kupası ==",
+      "heading_path": "== Uluslararası Zafer ve Dört Dünya Kupası ==",
+      "start_char": 657,
+      "end_char": 1126,
+      "content": "== Uluslararası Zafer ve Dört Dünya Kupası == Leão, Brezilya milli takımı için ilk maçına 1970 yılında çıktı ve bu yıl kariyerinde bir dönüm noktası oldu. Brezilya'nın ilk kalecisi olarak, 1970 FIFA Dünya Kupası'nda zafer kazanmalarına yardımcı oldu. Brezilya'yı üç Dünya Kupası'nda (1974, 1978 ve 1986) ve iki Copa América turnuvasında (1979 ve 1983) temsil etmeye devam etti ve toplam 80 kez forma giydi. 1978 Dünya Kupası'nda Brezilya onun liderliğinde üçüncü oldu.",
+      "char_count": 468,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0003",
+      "section": "== Koçluk Kariyeri: Brezilya'dan Orta Doğu'ya ==",
+      "heading_path": "== Koçluk Kariyeri: Brezilya'dan Orta Doğu'ya ==",
+      "start_char": 1126,
+      "end_char": 1428,
+      "content": "== Koçluk Kariyeri: Brezilya'dan Orta Doğu'ya == Oyuncu olarak emekli olduktan sonra, Leão başarılı bir koçluk kariyerine başladı. Brezilya milli takımı da dahil olmak üzere Brezilya, Japonya ve Katar'da takımlar yönetti. Onun rehberliğinde Brezilya, 1986 FIFA Dünya Kupası'nda çeyrek finale yükseldi.",
+      "char_count": 301,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0004",
+      "section": "== Miras ve İstatistikler ==",
+      "heading_path": "== Miras ve İstatistikler ==",
+      "start_char": 1428,
+      "end_char": 1798,
+      "content": "== Miras ve İstatistikler == Emerson Leão'nun olağanüstü atletizmi, liderliği ve stratejik yeteneği onu futbolda saygı duyulan bir figür haline getirdi. Brezilya formasıyla 80 resmi maça çıktı ve 49 gol yerken, 45 maçta gol yemedi. Bir koç olarak %56'lık olağanüstü kazanma oranı, hem oyun hem de koçluk alemlerinde en iyilerden biri olarak mirasını daha da pekiştirdi.",
+      "char_count": 369,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1813,
+      "end_char": 1979,
+      "content": "== Dış bağlantılar == National-Football-Teams.com'da Émerson Leão Sambafoot – Leão teknik direktör profili4 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 166,
+      "token_estimate": 41
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Leão Brezilya milli takımı için ilk maçına hangi yıl çıktı?",
+        "answer": "1970",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Émerson Leão'nun profesyonel futbol kariyeri ne zaman başladı ve saha içindeki birincil görevi neydi?",
+        "answer": "Profesyonel kariyerine 1968 yılında São José ile başladı ve kaleci olarak görev yaptı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

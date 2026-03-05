@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "ajansalt_bed171d3",
+    "title": "Ajan Salt",
+    "url": "https://tr.wikipedia.org/wiki/Ajan_Salt",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:04.271040",
+    "content": "Salt, başrollerini Oscar ödüllü Angelina Jolie ve Liev Schreiber'in oynadığı ve Phillip Noyce'un yönetmenliğini üstlendiği Amerikalı aksiyon-gerilim filmidir. Angelina Jolie'nin Rus casusu olmakla suçlanan bir CIA ajanını canlandırdığı filmde, ilk başta boşrol için Tom Cruise düşünülmüş ama senaryo daha sonra Jolie için yeniden yazılmıştır. Film Türkiye'de 'Ajan Salt adıyla 6 Ağustos 2010'da vizyona girmiştir. Aksiyon sahneleri öncelikle pratik dublörlerle gerçekleştirildi, bilgisayar tarafından oluşturulan görüntüler çoğunlukla dijital ortamlar oluşturmak için kullanıldı. Ajan Salt, dünya çapındaki gişede 294 milyon dolar hasılat elde etti ve genel olarak olumlu eleştiriler aldı, aksiyon sahneleri ve Jolie'nin performansı övgüler aldı, ancak eleştirmenlerden olay örgüsünü mantıksız ve dolambaçlı bulmasıyla üzerine eleştiriler aldı. DVD ve Blu-ray disk 21 Aralık 2010'da gösterime sokuldu ve film için farklı sonlar sağlayan iki alternatif kesim içeriyordu. Salt, 83. Akademi Ödülleri'nde En İyi Ses Miksajı dalında aday gösterildi. == Konu == CIA ajanı Evelyn Salt (Jolie), başkana suikast yapan bir Rus casusu olmaktan dolayı suçlanır.Salt başka birinin suikast düzenlediğini ve kendi suçsuzluğunu kanıtlaması gerekmektedir. == Oyuncular == Angelina Jolie - KGB için çifte ajan olmakla suçlanan bir CIA ajanı olan Evelyn Salt Liev Schreiber - Theodore \"Ted\" Winter / Nikolai Tarkovsky, hayali CIA Rusya Evi'nin yozlaşmış başkanı Chiwetel Ejiofor, Salt'ın peşinde olan ONCIX ajanı Darryl Peabody rolünde Daniel Olbrychski - Oleg Vassily Orlov, Rus kaçak ve casusluk şefi Daniel Pearce - geçmişe dönüşlerde Orlov'un daha genç hali August Diehl - Mike Krause, Salt'ın kocası Tika Sumpter - Ön Büro Kadını Olek Krupa - Rusya Devlet Başkanı Boris Matveyev Hunt Block - Howard Lewis, Amerika Birleşik Devletleri Başkanı Corey Stoll - Orlov tarafından ölüme gönderilen Rus intihar bombacısı Shnaider Andre Braugher - Savunma Bakanı == Prodüksiyon == Filmin bölümleri 23 Nisan'dan 4 Mayıs'a kadar New York'ta çekilmiştir. Çekimler Downtown Albany'da da geçmiştir. == Dış bağlantılar == Salt IMDb'de Ajan Salt AllMovie'de Salt Rotten Tomatoes'ta Salt Box Office Mojo'da Salt == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 308,
+      "char_count": 2194,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.990600",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Salt, başrollerini Oscar ödüllü Angelina Jolie ve Liev Schreiber'in oynadığı ve Phillip Noyce'un yönetmenliğini üstlendiği Amerikalı aksiyon-gerilim filmidir. Angelina Jolie'nin Rus casusu olmakla suçlanan bir CIA ajanını canlandırdığı filmde, ilk başta boşrol için Tom Cruise düşünülmüş ama senaryo daha sonra Jolie için yeniden yazılmıştır. Film Türkiye'de 'Ajan Salt adıyla 6 Ağustos 2010'da vizyona girmiştir. Aksiyon sahneleri öncelikle pratik dublörlerle gerçekleştirildi, bilgisayar tarafından oluşturulan görüntüler çoğunlukla dijital ortamlar oluşturmak için kullanıldı. Ajan Salt, dünya çapındaki gişede 294 milyon dolar hasılat elde etti ve genel olarak olumlu eleştiriler aldı, aksiyon sahneleri ve Jolie'nin performansı övgüler aldı, ancak eleştirmenlerden olay örgüsünü mantıksız ve dolambaçlı bulmasıyla üzerine eleştiriler aldı. DVD ve Blu-ray disk 21 Aralık 2010'da gösterime sokuldu ve film için farklı sonlar sağlayan iki alternatif kesim içeriyordu. Salt, 83. Akademi Ödülleri'nde",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1044,
+      "content": "ambaçlı bulmasıyla üzerine eleştiriler aldı. DVD ve Blu-ray disk 21 Aralık 2010'da gösterime sokuldu ve film için farklı sonlar sağlayan iki alternatif kesim içeriyordu. Salt, 83. Akademi Ödülleri'nde En İyi Ses Miksajı dalında aday gösterildi.",
+      "char_count": 244,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0002",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 1045,
+      "end_char": 1239,
+      "content": "== Konu == CIA ajanı Evelyn Salt (Jolie), başkana suikast yapan bir Rus casusu olmaktan dolayı suçlanır.Salt başka birinin suikast düzenlediğini ve kendi suçsuzluğunu kanıtlaması gerekmektedir.",
+      "char_count": 193,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0003",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 1239,
+      "end_char": 1939,
+      "content": "== Oyuncular == Angelina Jolie - KGB için çifte ajan olmakla suçlanan bir CIA ajanı olan Evelyn Salt Liev Schreiber - Theodore \"Ted\" Winter / Nikolai Tarkovsky, hayali CIA Rusya Evi'nin yozlaşmış başkanı Chiwetel Ejiofor, Salt'ın peşinde olan ONCIX ajanı Darryl Peabody rolünde Daniel Olbrychski - Oleg Vassily Orlov, Rus kaçak ve casusluk şefi Daniel Pearce - geçmişe dönüşlerde Orlov'un daha genç hali August Diehl - Mike Krause, Salt'ın kocası Tika Sumpter - Ön Büro Kadını Olek Krupa - Rusya Devlet Başkanı Boris Matveyev Hunt Block - Howard Lewis, Amerika Birleşik Devletleri Başkanı Corey Stoll - Orlov tarafından ölüme gönderilen Rus intihar bombacısı Shnaider Andre Braugher - Savunma Bakanı",
+      "char_count": 699,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0004",
+      "section": "== Prodüksiyon ==",
+      "heading_path": "== Prodüksiyon ==",
+      "start_char": 1939,
+      "end_char": 2070,
+      "content": "== Prodüksiyon == Filmin bölümleri 23 Nisan'dan 4 Mayıs'a kadar New York'ta çekilmiştir. Çekimler Downtown Albany'da da geçmiştir.",
+      "char_count": 130,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2070,
+      "end_char": 2180,
+      "content": "== Dış bağlantılar == Salt IMDb'de Ajan Salt AllMovie'de Salt Rotten Tomatoes'ta Salt Box Office Mojo'da Salt",
+      "char_count": 109,
+      "token_estimate": 27
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Salt filmi Türkiye'de hangi adla ve ne zaman vizyona girmiştir?",
+        "answer": "Film Türkiye'de 'Ajan Salt' adıyla 6 Ağustos 2010'da vizyona girmiştir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Eleştirmenler tarafından olay örgüsünün mantıksız ve dolambaçlı bulunmasına rağmen, 'Salt' filmi hangi Akademi Ödülü'ne aday gösterilmiştir ve ev sineması için hangi ek içerik sunulmuştur?",
+        "answer": "'Salt' filmi, 83. Akademi Ödülleri'nde En İyi Ses Miksajı dalında aday gösterilmiştir. Ev sineması için DVD ve Blu-ray disk olarak piyasaya sürülen film, farklı sonlar sunan iki alternatif kesim içermekteydi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

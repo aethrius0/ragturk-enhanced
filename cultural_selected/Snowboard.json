@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "snowboard_8232d00b",
+    "title": "Snowboard",
+    "url": "https://tr.wikipedia.org/wiki/Snowboard",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:58.837039",
+    "content": "Snowboard, snowboard tahtası ile karda yapılan bir spor dalıdır. Surfboard ve Kaykay'dan tek farkı, karda yapılıyor olmasıdır. Snowboard tahtalarının genelde uzunluğu 140–165 cm, genişliği ise 24–27 cm arasında değişmektedir ayrıca boy ve kilo ile orantılı olarak bu uzunluk ve genişlik değişir. == Tarihi == 1960'lı yıllarda küçük ski tipinde ucunda ip ve ayakta durulan bölümde ortadan arkaya kadar kaymayı önleyici pütürlü bölümü olan ve kızaklara benzer şekliyle snowboard'ın ilk temelleri atılmıştır. Bu fikrin aslında ilk sahibi Sherman Poppin'di. 1970'li yılların başlarında Bob Webber, Tom Sims, Jake Burton Carpenter, Chuck Barfoot ve Dimitrijie Milovich'ten oluşan sörf tahtası dizayn eden grup tarafından düşünülmüş ve prototipleri oluşturulmuştur. İçlerinden Bob Webber 1972 yılında Snowboard'un patentini alarak ilk resmi Snowboard'u üretmiştir. Önceleri Snowboard yarışmalarına katılan üniversite öğrencisi Burton, daha sonra bunu geliştirmeyi kafasına koymuştur. Snowboard ile önceden ilgilenenler bu soyadların bazılarını çoktan duymuşlardır. Özellikle Bob Webber'den 1990 yılında patenti alan Jake Burton Carpenter'in kurduğu Burton Firması günümüzde de Snowboard sektörünün en gözde markalarındandır. İlk tasarlanmaya başlandığında kızak tarzında dizayn edilen Snowboard'a daha sonraları bağlamalar eklenerek kullanım rahatlığı sağlanmış ve bu da Snowboard'un popülerliğini arttırmıştır. Günümüzde Snowboard, kayağın pabucunu dama atma seviyesine gelmiştir. Özellikle giysilerinin günlük giysilere yakın tarzda tasarlanması, Snowboardçu'nun yan ve esnek duruşu bilhassa gençler arasında bir anda Snowboard'u bir tutku haline getirmiştir. Kayak kökenli insanlar içinde hızla Snowboard öğrenme isteği doğmuş, üşenenlerde ise Snowboard'a karşı karalama kampanyası başlatmaktadır. == Kaynakça == == Ayrıca bakınız == Lazboard Halfpipe",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 234,
+      "char_count": 1848,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.168272",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 296,
+      "content": "Snowboard, snowboard tahtası ile karda yapılan bir spor dalıdır. Surfboard ve Kaykay'dan tek farkı, karda yapılıyor olmasıdır. Snowboard tahtalarının genelde uzunluğu 140–165 cm, genişliği ise 24–27 cm arasında değişmektedir ayrıca boy ve kilo ile orantılı olarak bu uzunluk ve genişlik değişir.",
+      "char_count": 295,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 296,
+      "end_char": 1296,
+      "content": "== Tarihi == 1960'lı yıllarda küçük ski tipinde ucunda ip ve ayakta durulan bölümde ortadan arkaya kadar kaymayı önleyici pütürlü bölümü olan ve kızaklara benzer şekliyle snowboard'ın ilk temelleri atılmıştır. Bu fikrin aslında ilk sahibi Sherman Poppin'di. 1970'li yılların başlarında Bob Webber, Tom Sims, Jake Burton Carpenter, Chuck Barfoot ve Dimitrijie Milovich'ten oluşan sörf tahtası dizayn eden grup tarafından düşünülmüş ve prototipleri oluşturulmuştur. İçlerinden Bob Webber 1972 yılında Snowboard'un patentini alarak ilk resmi Snowboard'u üretmiştir. Önceleri Snowboard yarışmalarına katılan üniversite öğrencisi Burton, daha sonra bunu geliştirmeyi kafasına koymuştur. Snowboard ile önceden ilgilenenler bu soyadların bazılarını çoktan duymuşlardır. Özellikle Bob Webber'den 1990 yılında patenti alan Jake Burton Carpenter'in kurduğu Burton Firması günümüzde de Snowboard sektörünün en gözde markalarındandır. İlk tasarlanmaya başlandığında kızak tarzında dizayn edilen Snowboard'a daha ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1096,
+      "end_char": 1794,
+      "content": " patenti alan Jake Burton Carpenter'in kurduğu Burton Firması günümüzde de Snowboard sektörünün en gözde markalarındandır. İlk tasarlanmaya başlandığında kızak tarzında dizayn edilen Snowboard'a daha sonraları bağlamalar eklenerek kullanım rahatlığı sağlanmış ve bu da Snowboard'un popülerliğini arttırmıştır. Günümüzde Snowboard, kayağın pabucunu dama atma seviyesine gelmiştir. Özellikle giysilerinin günlük giysilere yakın tarzda tasarlanması, Snowboardçu'nun yan ve esnek duruşu bilhassa gençler arasında bir anda Snowboard'u bir tutku haline getirmiştir. Kayak kökenli insanlar içinde hızla Snowboard öğrenme isteği doğmuş, üşenenlerde ise Snowboard'a karşı karalama kampanyası başlatmaktadır.",
+      "char_count": 698,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1810,
+      "end_char": 1848,
+      "content": "== Ayrıca bakınız == Lazboard Halfpipe",
+      "char_count": 38,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bob Webber, Snowboard'un patentini hangi yıl almıştır?",
+        "answer": "1972 yılında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Snowboard'ın ilk tasarımları nasıl evrilmiş ve bu sporun günümüzde popülerleşmesinde hangi faktörler etkili olmuştur?",
+        "answer": "Snowboard'ın ilk temelleri 1960'lı yıllarda kızaklara benzer bir şekilde atılmıştır. Başlangıçta kızak tarzında dizayn edilen bu spor aracına daha sonraları bağlamalar eklenerek kullanım rahatlığı sağlanmış ve bu da popülerliğini artırmıştır. Günümüzde özel boyutlara (140-165 cm uzunluk, 24-27 cm genişlik) sahip bir tahta ile karda yapılan bir spor dalıdır. Giysilerinin günlük giysilere yakın tarzda tasarlanması ve snowboardçu'nun yan ve esnek duruşu, özellikle gençler arasında bu sporu bir tutku haline getirerek popülerleşmesinde etkili olan faktörlerdendir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

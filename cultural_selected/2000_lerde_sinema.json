@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "2000lerdesinema_a3125a11",
+    "title": "2000'lerde sinema",
+    "url": "https://tr.wikipedia.org/wiki/2000%27lerde_sinema",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:19:32.003069",
+    "content": "Bu liste 2000'lerde yapılan filmleri içeren kapsamlı bir listedir. == En yüksek hasılatı yapan filmler listesi == Bu liste en çok hasılat yapan filmleri listelemektedir. === Yıllara göre en yüksek hasılat yapan filmler === == Onyılda en çok beğenilen filmler == Metacritic'in verilerine göre 2000'li yıllarda en çok beğenilen filmler aşağıda verilmiştir. 1 - There Will Be Blood 2 - Eternal Sunshine of the Spotless Mind 3 - Mulholland Çıkmazı 4 - No Country For Old Men 5 - Yüzüklerin Efendisi: Kralın Dönüşü 6 - Yüzüklerin Efendisi: İki Kule 7 - Spirited Away 8 - 4 Months, 3 Weeks and 2 Days 9 - Yüzüklerin Efendisi: Yüzük Kardeşliği 10 - The Dark Knight 11 - Amelie 12 - Children of Men 13 - Memento 14 - Pan's Labyrinth 15 - United 93 16 - Wall-E 17 - Almost Famous 18 - Brokeback Mountain 19 - Far from Heaven 20 - Lost in Translation As well as this, the ten films released in the 2000s which got the highest average critic scores according to Metacritic are 1 - Pan's Labyrinth 2 - 4 months, 3 weeks and 2 days 3 - Ratatouille 4 - Spirited Away 5 - The Hurt Locker 6 - Yüzüklerin Efendisi: Kralın Dönüşü 7 - Sideways 8 - Wall-E 9 - Crouching Tiger, Hidden Dragon 10 - 35 Shots of Rum == Filmlerin listesi == == Kaynakça == En yüksek hasılat yapan filmler == Ayrıca bakınız == Sinema Sinema tarihi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 243,
+      "char_count": 1304,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:42.567466",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 67,
+      "content": "Bu liste 2000'lerde yapılan filmleri içeren kapsamlı bir listedir.",
+      "char_count": 66,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0001",
+      "section": "== En yüksek hasılatı yapan filmler listesi ==",
+      "heading_path": "== En yüksek hasılatı yapan filmler listesi ==",
+      "start_char": 67,
+      "end_char": 170,
+      "content": "== En yüksek hasılatı yapan filmler listesi == Bu liste en çok hasılat yapan filmleri listelemektedir.",
+      "char_count": 102,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0002",
+      "section": "== Onyılda en çok beğenilen filmler ==",
+      "heading_path": "== Onyılda en çok beğenilen filmler ==",
+      "start_char": 223,
+      "end_char": 1192,
+      "content": "== Onyılda en çok beğenilen filmler == Metacritic'in verilerine göre 2000'li yıllarda en çok beğenilen filmler aşağıda verilmiştir. 1 - There Will Be Blood 2 - Eternal Sunshine of the Spotless Mind 3 - Mulholland Çıkmazı 4 - No Country For Old Men 5 - Yüzüklerin Efendisi: Kralın Dönüşü 6 - Yüzüklerin Efendisi: İki Kule 7 - Spirited Away 8 - 4 Months, 3 Weeks and 2 Days 9 - Yüzüklerin Efendisi: Yüzük Kardeşliği 10 - The Dark Knight 11 - Amelie 12 - Children of Men 13 - Memento 14 - Pan's Labyrinth 15 - United 93 16 - Wall-E 17 - Almost Famous 18 - Brokeback Mountain 19 - Far from Heaven 20 - Lost in Translation As well as this, the ten films released in the 2000s which got the highest average critic scores according to Metacritic are 1 - Pan's Labyrinth 2 - 4 months, 3 weeks and 2 days 3 - Ratatouille 4 - Spirited Away 5 - The Hurt Locker 6 - Yüzüklerin Efendisi: Kralın Dönüşü 7 - Sideways 8 - Wall-E 9 - Crouching Tiger, Hidden Dragon 10 - 35 Shots of Rum",
+      "char_count": 968,
+      "token_estimate": 242
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1216,
+      "end_char": 1263,
+      "content": "== Kaynakça == En yüksek hasılat yapan filmler",
+      "char_count": 46,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1263,
+      "end_char": 1304,
+      "content": "== Ayrıca bakınız == Sinema Sinema tarihi",
+      "char_count": 41,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Metacritic'in verilerine göre 2000'li yıllarda en çok beğenilen filmler listesinde dördüncü sırada hangi film yer almaktadır?",
+        "answer": "No Country For Old Men",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Metinde 2000'li yıllara ait filmlerle ilgili olarak hangi farklı listelerden bahsedilmektedir?",
+        "answer": "Metinde, 2000'lerde yapılan filmleri içeren kapsamlı bir liste, en yüksek hasılat yapan filmlerin listesi ve Metacritic verilerine göre 2000'li yıllarda en çok beğenilen filmlerin listesi bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

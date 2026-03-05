@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "hzlandrlmmobilsayfal_b04779aa",
+    "title": "Hızlandırılmış Mobil Sayfalar",
+    "url": "https://tr.wikipedia.org/wiki/H%C4%B1zland%C4%B1r%C4%B1lm%C4%B1%C5%9F_Mobil_Sayfalar",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:43.388671",
+    "content": "Hızlandırılmış mobil sayfalar açık kaynaklı bir kod yazılımı olup, interneti daha güzel bir yer haline getirmeyi amaçlamaktadır. Hızlandırılmış mobil sayfalar yapısı ile oluşturulan sayfaları yüksek performanslarla telefonlarda erişim imkânı tanımaktadır. Yüksek performans ve katılım ile kullanıcılara kaliteli internet deneyimi yaşatmak içi neredeyse sayfa yükleme oranlarını ortadan kaldırmaktadır. Mobil ve masaüstü uygulamalarında yüksek katılımlara ulaşmaktadır. == Uygulama Alanları == Hızlandırılmış mobil sayfalar şimdiden dünyaca tanınmış CNN, ABC ve Milliyet gibi birçok haber ajansı tarafından kullanılmaya başlamıştır. Ayrıca blog ve iş sitelerinde de kullanımı yaygınlaşmıştır. Son kullanıcılar tarafından dünyanın en çok kullanılan platformu WordPress içinde popüler eklentiler artmaktadır. == Önbellek == Google hızlandırılmış mobil sayfalar için önbellek hizmeti sunmaktadır. Bu özelliğe sahip bütün sayfalar için proksi tabanlı içerik dağıtım sistemi sunmaktadır. Bu sayfalarda tarama işlemini gerçekleştirdikten sonra, önbelleğe alarak otomatik performans arttırımı sağlamaktadır. Hızlandırılmış mobil sayfa yapısında kullanılan JS, HTML ve HTTP verileri maksimum verimlilikte kullanılmaktadır. == JavaScript == Hızlandırılmış mobil sayfalar JavaScript gücünü kullanmak ile birlikte, hiçbir sayfasında kullanıcı tarafından kütüphanesi dışında yazılmış JavaScript kodunu kabul etmemektedir. Sayfa yüklenme hızını maksimum seviyeye çıkarma için, eş zamansız JavaScript yüklemesi gerçekleştirmektedir. Bu yüzden yazılan her kod performansı etkilememesi için dikkatlice yazılmaktadır. == Dış Kaynaklar == İmaj, video, iframe gibi dış kaynakların pixel değerleri önceden bildirilerek, sayfa yüklemesi gerçekleştirmeden önce hızlandırılmış mobil sayfa sistemi tarafından bilinmesini sağlamaktadır. Bu sayede hiçbir dış kaynak beklemeden bütün kaynakları sayfaya indirebilmektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 226,
+      "char_count": 1908,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.549343",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 469,
+      "content": "Hızlandırılmış mobil sayfalar açık kaynaklı bir kod yazılımı olup, interneti daha güzel bir yer haline getirmeyi amaçlamaktadır. Hızlandırılmış mobil sayfalar yapısı ile oluşturulan sayfaları yüksek performanslarla telefonlarda erişim imkânı tanımaktadır. Yüksek performans ve katılım ile kullanıcılara kaliteli internet deneyimi yaşatmak içi neredeyse sayfa yükleme oranlarını ortadan kaldırmaktadır. Mobil ve masaüstü uygulamalarında yüksek katılımlara ulaşmaktadır.",
+      "char_count": 468,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0001",
+      "section": "== Uygulama Alanları ==",
+      "heading_path": "== Uygulama Alanları ==",
+      "start_char": 469,
+      "end_char": 806,
+      "content": "== Uygulama Alanları == Hızlandırılmış mobil sayfalar şimdiden dünyaca tanınmış CNN, ABC ve Milliyet gibi birçok haber ajansı tarafından kullanılmaya başlamıştır. Ayrıca blog ve iş sitelerinde de kullanımı yaygınlaşmıştır. Son kullanıcılar tarafından dünyanın en çok kullanılan platformu WordPress içinde popüler eklentiler artmaktadır.",
+      "char_count": 336,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0002",
+      "section": "== Önbellek ==",
+      "heading_path": "== Önbellek ==",
+      "start_char": 806,
+      "end_char": 1214,
+      "content": "== Önbellek == Google hızlandırılmış mobil sayfalar için önbellek hizmeti sunmaktadır. Bu özelliğe sahip bütün sayfalar için proksi tabanlı içerik dağıtım sistemi sunmaktadır. Bu sayfalarda tarama işlemini gerçekleştirdikten sonra, önbelleğe alarak otomatik performans arttırımı sağlamaktadır. Hızlandırılmış mobil sayfa yapısında kullanılan JS, HTML ve HTTP verileri maksimum verimlilikte kullanılmaktadır.",
+      "char_count": 407,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0003",
+      "section": "== JavaScript ==",
+      "heading_path": "== JavaScript ==",
+      "start_char": 1214,
+      "end_char": 1600,
+      "content": "== JavaScript == Hızlandırılmış mobil sayfalar JavaScript gücünü kullanmak ile birlikte, hiçbir sayfasında kullanıcı tarafından kütüphanesi dışında yazılmış JavaScript kodunu kabul etmemektedir. Sayfa yüklenme hızını maksimum seviyeye çıkarma için, eş zamansız JavaScript yüklemesi gerçekleştirmektedir. Bu yüzden yazılan her kod performansı etkilememesi için dikkatlice yazılmaktadır.",
+      "char_count": 385,
+      "token_estimate": 96
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış Kaynaklar ==",
+      "heading_path": "== Dış Kaynaklar ==",
+      "start_char": 1600,
+      "end_char": 1894,
+      "content": "== Dış Kaynaklar == İmaj, video, iframe gibi dış kaynakların pixel değerleri önceden bildirilerek, sayfa yüklemesi gerçekleştirmeden önce hızlandırılmış mobil sayfa sistemi tarafından bilinmesini sağlamaktadır. Bu sayede hiçbir dış kaynak beklemeden bütün kaynakları sayfaya indirebilmektedir.",
+      "char_count": 293,
+      "token_estimate": 73
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hızlandırılmış mobil sayfalar (AMP) ne amaçlamaktadır?",
+        "answer": "Hızlandırılmış mobil sayfalar, interneti daha güzel bir yer haline getirmeyi amaçlamaktadır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hızlandırılmış mobil sayfaların temel amacı ve sağladığı performans faydaları, bu teknolojinin hangi tür platformlarda yaygın olarak benimsenmesine yol açmıştır?",
+        "answer": "Hızlandırılmış mobil sayfaların temel amacı, yüksek performans sunarak ve sayfa yükleme oranlarını neredeyse ortadan kaldırarak kullanıcılara kaliteli bir internet deneyimi yaşatmaktır. Bu faydalar sayesinde, dünyaca tanınmış CNN, ABC ve Milliyet gibi haber ajansları, bloglar, iş siteleri ve WordPress gibi platformlar tarafından yaygın olarak benimsenmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

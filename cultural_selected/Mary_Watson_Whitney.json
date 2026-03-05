@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "marywatsonwhitney_265d7524",
+    "title": "Mary Watson Whitney",
+    "url": "https://tr.wikipedia.org/wiki/Mary_Watson_Whitney",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:27.438869",
+    "content": "Mary Watson Whitney (11 Eylül 1847 - 20 Ocak 1921), Amerikalı bir astronomdur. Vassar College Gözlemevi'nin başkanlığını yapmıştır ve başkanlığı sırasında 102 bilimsel makale yayınlanmıştır. == Hayatı ve eğitimi == 11 Eylül 1847'de; Waltham'da, doğdu. 1863'te, devlet lisesinden mezun oldu. 1865'te, Vassar College'de eğitim görmeye başladı ve burada, astronom Maria Mitchell ile tanıştı. Vassar College'de okuduğu sırada babası öldü ve erkek kardeşi denizde kayboldu. 1868'de diplomasını aldı. 1869'dan 1870'e kadar, Benjamin Peirce'dan (Harvard profesörü) kuaternionlar ve gök mekaniği hakkında dersler aldı. Dönem itibarıyla; kadınlar, Harvard'a kabul edilmiyordu bu nedenle misafir olarak katıldı. 1872'de Vassar College'de yüksek lisans derecesi aldı. Ardından; Zürih'e giderek 3 yıl matematik ve gök mekaniği okudu. 20 Ocak 1921'de, Waltham'da, zatürreden öldü. == Kariyeri == ABD'ye döndüğünde, Waltham'da bir lisede öğretmenlik yaptı. Daha sonra, Vassar College'de Maria Mitchell'in asistanlığı yaptı. 1888'de Mitchell'in emekli olmasıyla profesör oldu ve 1915'te sağlık sorunları nedeniyle emekli olana kadar Vassar College Gözlemevi'nin başkanlığını yaptı. Kariyeri boyunca çift yıldızlar, değişen yıldızlar, asteroitler, kuyruklu yıldızlar ve fotoğraf plakaları ile ilgili konulara odaklandı. Gözlemevindeki başkanlığı altında, 102 makale yayınlandı. 1902'de, Nantucket'de, Maria Mitchell Derneği kurulduğunda derneğin ilk başkanı Mary Watson Whitney oldu. 1908'de Nantucket'te bir gözlemevi inşa edildiğinde, Whitney bir kadın araştırma görevlisine yardım amaçlı para topladı. Vasiyetinde, kadınların araştırmalarını desteklemek için Vassar'a 5.000 dolar miras bıraktı. == Kaynakça == == Dış bağlantılar == Whitneygen.org",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 220,
+      "char_count": 1733,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.301394",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 191,
+      "content": "Mary Watson Whitney (11 Eylül 1847 - 20 Ocak 1921), Amerikalı bir astronomdur. Vassar College Gözlemevi'nin başkanlığını yapmıştır ve başkanlığı sırasında 102 bilimsel makale yayınlanmıştır.",
+      "char_count": 190,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ve eğitimi ==",
+      "heading_path": "== Hayatı ve eğitimi ==",
+      "start_char": 191,
+      "end_char": 868,
+      "content": "== Hayatı ve eğitimi == 11 Eylül 1847'de; Waltham'da, doğdu. 1863'te, devlet lisesinden mezun oldu. 1865'te, Vassar College'de eğitim görmeye başladı ve burada, astronom Maria Mitchell ile tanıştı. Vassar College'de okuduğu sırada babası öldü ve erkek kardeşi denizde kayboldu. 1868'de diplomasını aldı. 1869'dan 1870'e kadar, Benjamin Peirce'dan (Harvard profesörü) kuaternionlar ve gök mekaniği hakkında dersler aldı. Dönem itibarıyla; kadınlar, Harvard'a kabul edilmiyordu bu nedenle misafir olarak katıldı. 1872'de Vassar College'de yüksek lisans derecesi aldı. Ardından; Zürih'e giderek 3 yıl matematik ve gök mekaniği okudu. 20 Ocak 1921'de, Waltham'da, zatürreden öldü.",
+      "char_count": 676,
+      "token_estimate": 169
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 868,
+      "end_char": 1682,
+      "content": "== Kariyeri == ABD'ye döndüğünde, Waltham'da bir lisede öğretmenlik yaptı. Daha sonra, Vassar College'de Maria Mitchell'in asistanlığı yaptı. 1888'de Mitchell'in emekli olmasıyla profesör oldu ve 1915'te sağlık sorunları nedeniyle emekli olana kadar Vassar College Gözlemevi'nin başkanlığını yaptı. Kariyeri boyunca çift yıldızlar, değişen yıldızlar, asteroitler, kuyruklu yıldızlar ve fotoğraf plakaları ile ilgili konulara odaklandı. Gözlemevindeki başkanlığı altında, 102 makale yayınlandı. 1902'de, Nantucket'de, Maria Mitchell Derneği kurulduğunda derneğin ilk başkanı Mary Watson Whitney oldu. 1908'de Nantucket'te bir gözlemevi inşa edildiğinde, Whitney bir kadın araştırma görevlisine yardım amaçlı para topladı. Vasiyetinde, kadınların araştırmalarını desteklemek için Vassar'a 5.000 dolar miras bıraktı.",
+      "char_count": 813,
+      "token_estimate": 203
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1697,
+      "end_char": 1733,
+      "content": "== Dış bağlantılar == Whitneygen.org",
+      "char_count": 36,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mary Watson Whitney'nin Vassar College Gözlemevi'ndeki başkanlığı altında kaç makale yayınlandı?",
+        "answer": "102 makale.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mary Watson Whitney'nin Vassar College'deki ilk öğreniminden itibaren Maria Mitchell ile olan ilişkisi, Vassar College Gözlemevi'nin başkanlığına yükselişini ve kariyerindeki kadın araştırmacılara yönelik mirasını nasıl şekillendirmiştir?",
+        "answer": "Mary Watson Whitney, 1865'te Vassar College'de eğitim görmeye başladığında astronom Maria Mitchell ile tanıştı. Eğitimini tamamladıktan sonra, Mitchell'in Vassar College'deki asistanlığını yaptı. Mitchell'in 1888'de emekli olmasıyla, Whitney profesör oldu ve Vassar College Gözlemevi'nin başkanlığını üstlendi. Başkanlığı sırasında 102 bilimsel makale yayımlandı. Ayrıca, 1902'de kurulan Maria Mitchell Derneği'nin ilk başkanı oldu ve 1908'de bir kadın araştırma görevlisine yardım etmek amacıyla para topladı. Vasiyetinde de kadınların araştırmalarını desteklemek için Vassar'a 5.000 dolar miras bırakarak, Mitchell ile başlayan ilişkisinin ve kariyerinin bir parçası olarak kadın bilim insanlarına olan desteğini sürdürmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

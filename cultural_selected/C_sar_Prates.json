@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "csarprates_05faa714",
+    "title": "César Prates",
+    "url": "https://tr.wikipedia.org/wiki/C%C3%A9sar_Prates",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:40.725587",
+    "content": "César Luís Prates (d. 8 Şubat 1975, Aratiba, Brezilya) Brezilyalı eski futbolcudur. Sağ bek mevkiinde forma giyen Prates, 2010 yılında futbolu bıraktı. Etkili frikik vuruşları, sert şutları ve uzun taç atışları ile bilinir. 2003-2004 yılları arasında Galatasaray'da top koşturmuştur. == Kariyeri == Prates, futbol kariyerine altyapısında yetiştiği Internacional'de başladı. Buradaki performansıyla Real Madrid'in dikkatini çekmeyi başaran Prates, İspanyol kulübüne transfer oldu. Fakat A takımda oynama şansı bulamadı. İlk sezonunda Real Madrid'in rezerv takımı olan Real Madrid Castilla'da maçlara çıkan Prates, bundan sonraki sezonlarda Brezilya takımlarında kiralık olarak oynadı. 1999 yılında Portekiz kulübü Sporting'e transfer oldu. Buradaki ilk yılında Sporting takımı 18 yıldan sonra ilk kez Primeira Liga'yı şampiyon tamamladı. Burada başarılı 3 sezonun ardından 2003-2004 sezonu öncesi Galatasaray'a transfer oldu. Kötü bir sezon geçiren Galatasaray'daki teknik direktör değişiminin ardından yeni sezonda Gheorghe Hagi'nin takımda yer vermeyi düşünmediği Prates, buradan ayrılarak tekrar Brezilya'ya döndü. Botafogo'da gösterdiği performansla bir kez daha dikkatleri üzerine çekmeyi başardı ve Livorno'ya transfer olarak tekrar Avrupa'ya döndü. Serie A'yı 6. bitiren takım sonraki sezon için UEFA Kupası'na da katılmaya hak kazandı. Fakat Livorno'daki 1.5 sezonun ardından buradan ayrılan Prates sezon sonuna kadar ChievoVerona'da oynadı ve bir kez daha ülkesine döndü. 2010 yılında alt liglerde oynayan Prates, 2010 yılı sonunda futbol hayatına son noktayı koydu. == Başarıları == Rio Grande do Sul Eyalet Ligi: 1994 Brezilya Série A: 1997, 1999 Primeira Liga: 1999-2000, 2001-02 Taça de Portugal: 2001-02 Supertaça Cândido de Oliveira: 2000, 2002 Santa Catarina Eyalet Ligi: 2008 == Dış bağlantılar == Mackolik'te César Prates TFF.org'da César Prates CBF profili (Portekizce) GloboEsporte profili10 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. (Portekizce) Futpedia profili7 Aralık 2009 tarihinde Wayback Machine sitesinde arşivlendi. (Portekizce) L'Équipe profili1 Mart 2010 tarihinde Wayback Machine sitesinde arşivlendi. (Fransızca) Zerozero profili (İngilizce) Transfermarkt'ta César Prates National-Football-Teams.com'da César Prates (Almanca) BDFutbol profili18 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 304,
+      "char_count": 2364,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.142434",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 284,
+      "content": "César Luís Prates (d. 8 Şubat 1975, Aratiba, Brezilya) Brezilyalı eski futbolcudur. Sağ bek mevkiinde forma giyen Prates, 2010 yılında futbolu bıraktı. Etkili frikik vuruşları, sert şutları ve uzun taç atışları ile bilinir. 2003-2004 yılları arasında Galatasaray'da top koşturmuştur.",
+      "char_count": 283,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 284,
+      "end_char": 1284,
+      "content": "== Kariyeri == Prates, futbol kariyerine altyapısında yetiştiği Internacional'de başladı. Buradaki performansıyla Real Madrid'in dikkatini çekmeyi başaran Prates, İspanyol kulübüne transfer oldu. Fakat A takımda oynama şansı bulamadı. İlk sezonunda Real Madrid'in rezerv takımı olan Real Madrid Castilla'da maçlara çıkan Prates, bundan sonraki sezonlarda Brezilya takımlarında kiralık olarak oynadı. 1999 yılında Portekiz kulübü Sporting'e transfer oldu. Buradaki ilk yılında Sporting takımı 18 yıldan sonra ilk kez Primeira Liga'yı şampiyon tamamladı. Burada başarılı 3 sezonun ardından 2003-2004 sezonu öncesi Galatasaray'a transfer oldu. Kötü bir sezon geçiren Galatasaray'daki teknik direktör değişiminin ardından yeni sezonda Gheorghe Hagi'nin takımda yer vermeyi düşünmediği Prates, buradan ayrılarak tekrar Brezilya'ya döndü. Botafogo'da gösterdiği performansla bir kez daha dikkatleri üzerine çekmeyi başardı ve Livorno'ya transfer olarak tekrar Avrupa'ya döndü. Serie A'yı 6. bitiren takım s",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1084,
+      "end_char": 1574,
+      "content": "ılarak tekrar Brezilya'ya döndü. Botafogo'da gösterdiği performansla bir kez daha dikkatleri üzerine çekmeyi başardı ve Livorno'ya transfer olarak tekrar Avrupa'ya döndü. Serie A'yı 6. bitiren takım sonraki sezon için UEFA Kupası'na da katılmaya hak kazandı. Fakat Livorno'daki 1.5 sezonun ardından buradan ayrılan Prates sezon sonuna kadar ChievoVerona'da oynadı ve bir kez daha ülkesine döndü. 2010 yılında alt liglerde oynayan Prates, 2010 yılı sonunda futbol hayatına son noktayı koydu.",
+      "char_count": 490,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0003",
+      "section": "== Başarıları ==",
+      "heading_path": "== Başarıları ==",
+      "start_char": 1575,
+      "end_char": 1792,
+      "content": "== Başarıları == Rio Grande do Sul Eyalet Ligi: 1994 Brezilya Série A: 1997, 1999 Primeira Liga: 1999-2000, 2001-02 Taça de Portugal: 2001-02 Supertaça Cândido de Oliveira: 2000, 2002 Santa Catarina Eyalet Ligi: 2008",
+      "char_count": 216,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1792,
+      "end_char": 2364,
+      "content": "== Dış bağlantılar == Mackolik'te César Prates TFF.org'da César Prates CBF profili (Portekizce) GloboEsporte profili10 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. (Portekizce) Futpedia profili7 Aralık 2009 tarihinde Wayback Machine sitesinde arşivlendi. (Portekizce) L'Équipe profili1 Mart 2010 tarihinde Wayback Machine sitesinde arşivlendi. (Fransızca) Zerozero profili (İngilizce) Transfermarkt'ta César Prates National-Football-Teams.com'da César Prates (Almanca) BDFutbol profili18 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+      "char_count": 572,
+      "token_estimate": 143
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Prates, hangi yıl Portekiz kulübü Sporting'e transfer oldu?",
+        "answer": "1999",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "César Luís Prates'in Galatasaray'daki kariyeri hangi dönemde gerçekleşti ve takımdan ayrılışının temel nedenleri nelerdi?",
+        "answer": "César Luís Prates, 2003-2004 sezonu öncesi Galatasaray'a transfer oldu ve bu dönemde takımda yer aldı. Galatasaray'ın kötü bir sezon geçirmesi ve ardından gerçekleşen teknik direktör değişikliği sonucunda, yeni teknik direktör Gheorghe Hagi'nin kendisini kadroda düşünmemesi Prates'in takımdan ayrılarak Brezilya'ya dönmesine neden oldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

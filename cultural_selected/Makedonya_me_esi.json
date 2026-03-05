@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "makedonyameesi_f827f449",
+    "title": "Makedonya meşesi",
+    "url": "https://tr.wikipedia.org/wiki/Makedonya_me%C5%9Fesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:50.706451",
+    "content": "Makedonya meşesi (Quercus trojana), kayıngiller (Fagaceae) familyasından bir meşe türü. Güney İtalya, Anadolu ve Balkanlar'da yayılış yapar. Buralardan Avrupa'ya da götürülmüştür. 15–20 m'de fazla boylanmaz. Gövde 0,6 m çapındadır. Tacı önceleri konik sonradan kubbeli bir yapı kazanır. 3-9 x 2–5 cm boyutundaki yarı her dem yeşil yapraklar yumurtamsı mızrak biçiminde kayışımsı yapılı, ucu sivri, tabanı yuvarlak ya da yarı yürek biçimindendir. Yaprak kenarı 6-12 kadar dikensi uçludur. Yaprak ayasının her iki yanı tüysüz ve hafif mavimsi-yeşildir. Yaprak sapı 0,2-0,5 cm uzunluğunda seyrek tüylüdür. Palamut 2,7-4,5 cm uzunlukta, 1,8–2 cm çapında ucu kesik, yassı durumdadır. Kadeh sapsız ya da çok az saplı 2,5 cm çapında uzunca, geniş pullarla örtülü, tohumun 2/3'nü kapatır. Tohum 2 yılda olgunlaşır. Kabuk gri kahverengi, kırışıkdır. Dallar kahverengi yeşil, bazen az sayıda yıldız tüylüdür. Sonradan yeşil kahverengiye döner. Tomurcuklar küçük, 2 mm uzunluktadır. Tomurcuk ucunun çevresinde kalıcı kulakçıklar bulunur. Son derece dayanıklı, bütün toprak tiplerinde yetişen, hızlı gelişen bir türdür. === Alt türler === Quercus trojana subsp yaltirikii, tip türden yaprakları daha küçüktür. Yaprak ve dalların her iki tarafında yıldız tüyler yer alır. Türkiye'nin güneyinde yetişen endemik bir alt türdür. Quercus trojana subsp euboica, çalı yapısında bodur kalan bir alt türdür. Yunanistan'da yayılış yapar. Quercus trojana subsp trojana == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1460,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.951946",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Makedonya meşesi (Quercus trojana), kayıngiller (Fagaceae) familyasından bir meşe türü. Güney İtalya, Anadolu ve Balkanlar'da yayılış yapar. Buralardan Avrupa'ya da götürülmüştür. 15–20 m'de fazla boylanmaz. Gövde 0,6 m çapındadır. Tacı önceleri konik sonradan kubbeli bir yapı kazanır. 3-9 x 2–5 cm boyutundaki yarı her dem yeşil yapraklar yumurtamsı mızrak biçiminde kayışımsı yapılı, ucu sivri, tabanı yuvarlak ya da yarı yürek biçimindendir. Yaprak kenarı 6-12 kadar dikensi uçludur. Yaprak ayasının her iki yanı tüysüz ve hafif mavimsi-yeşildir. Yaprak sapı 0,2-0,5 cm uzunluğunda seyrek tüylüdür. Palamut 2,7-4,5 cm uzunlukta, 1,8–2 cm çapında ucu kesik, yassı durumdadır. Kadeh sapsız ya da çok az saplı 2,5 cm çapında uzunca, geniş pullarla örtülü, tohumun 2/3'nü kapatır. Tohum 2 yılda olgunlaşır. Kabuk gri kahverengi, kırışıkdır. Dallar kahverengi yeşil, bazen az sayıda yıldız tüylüdür. Sonradan yeşil kahverengiye döner. Tomurcuklar küçük, 2 mm uzunluktadır. Tomurcuk ucunun çevresinde k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1107,
+      "content": "laşır. Kabuk gri kahverengi, kırışıkdır. Dallar kahverengi yeşil, bazen az sayıda yıldız tüylüdür. Sonradan yeşil kahverengiye döner. Tomurcuklar küçük, 2 mm uzunluktadır. Tomurcuk ucunun çevresinde kalıcı kulakçıklar bulunur. Son derece dayanıklı, bütün toprak tiplerinde yetişen, hızlı gelişen bir türdür.",
+      "char_count": 307,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0002",
+      "section": "=== Alt türler ===",
+      "heading_path": "=== Alt türler ===",
+      "start_char": 1108,
+      "end_char": 1446,
+      "content": "=== Alt türler === Quercus trojana subsp yaltirikii, tip türden yaprakları daha küçüktür. Yaprak ve dalların her iki tarafında yıldız tüyler yer alır. Türkiye'nin güneyinde yetişen endemik bir alt türdür. Quercus trojana subsp euboica, çalı yapısında bodur kalan bir alt türdür. Yunanistan'da yayılış yapar. Quercus trojana subsp trojana",
+      "char_count": 337,
+      "token_estimate": 84
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Makedonya meşesi (Quercus trojana) hangi familyadan bir meşe türüdür?",
+        "answer": "Kayıngiller (Fagaceae) familyasından.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Makedonya meşesinin morfolojik özellikleri ve çevresel uyum yetenekleri genel olarak nasıl tanımlanmaktadır?",
+        "answer": "Makedonya meşesi, 15-20 metre boylanabilen, yarı her dem yeşil yapraklara ve önceleri konik olan bir taca sahip, gri kahverengi kırışık kabuklu bir türdür. Çevresel olarak ise son derece dayanıklı olup, bütün toprak tiplerinde yetişebilen ve hızlı gelişen bir ağaçtır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

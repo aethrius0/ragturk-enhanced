@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "nokia3410_1fcb239d",
+    "title": "Nokia 3410",
+    "url": "https://tr.wikipedia.org/wiki/Nokia_3410",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:29.334379",
+    "content": "Nokia 3410, Nokia'nın 2002'de satışa sunduğu cep telefonudur. . 12 Mart 2002'de CEBIT'de ilan edildi. Nokia 3310 modelinin ardılı, Nokia 3510, Nokia 3600/Nokia 3650, Nokia 2100 modellerin öncülüdür. 3410, Nokia'nın ilk Java telefonu oldu. Ayrıca, Japonya dışındaki en eski cep telefonlarından biri olan 3D grafikler ve görüntü editörü idi. == Özellikler == Nokia 3410 kompakt, ancak 825mAh çıkarılabilir Li-Ion batarya ile 114 gram ağırlığındadır. Menüde gezinmeye yardımcı olmak için yukarı ve aşağı tuşlarına sahiptir ve telefonun üstünde sert bir siyah düğme, profilleri açmak ve kapatmak için bir anahtar görevi görür. Ekranı, selefinin 96 × 65 pikselle (3310'da 84 × 48'in aksine) daha yüksek bir tanıma sahiptir. Ayrıca bir WAP 1.1 Tarayıcısı ve bir hesap makinesi, alarm saati, durdurma saati ve geri sayım sayacı gibi temel araçlar ile birlikte geldi. Ayrıca hatırlatıcı olarak 10 nota kadar saklayabilir ve özelleştirilebilir ve indirilebilir profillere sahip olabilir. Eğlence tarafında beş oyun (Snake II, Bumper, Space Impact, Bantumi, Link5) ve temel bir SMS messenger ile birlikte geliyor. Nokia 3410, mobil 3D grafikler (özellikle canlandırılan ekran koruyucusu ve Munkiki's Castles mobil oyun) için Japonya dışında piyasaya sürülen ilk cep telefonlarından biriydi. Tek renkli monitör ve 96 × 65 ekran çözünürlüğüne rağmen, neredeyse OpenGL ES 1.0'ın tüm oluşturma özelliklerini içerir. Cep telefonu, 3D grafiklerin baseband işlemcisi (Texas Instruments MAD2WDI C GSM Ana İşlemcisi) aracılığıyla görüntülenmesi için tescilli bir API kullanır. Bununla birlikte, bu aygıt üzerinde görüntü oluşturma yalnızca daha düşük çokgen sayısında görüntülenir ve 3B grafikleri destekleyen diğer cep telefonlarından daha yavaş çalışır. == Galeri == == Kaynakça == == Dış bağlantılar == Nokia 341018 Ocak 2018 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 265,
+      "char_count": 1857,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.723551",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 340,
+      "content": "Nokia 3410, Nokia'nın 2002'de satışa sunduğu cep telefonudur. . 12 Mart 2002'de CEBIT'de ilan edildi. Nokia 3310 modelinin ardılı, Nokia 3510, Nokia 3600/Nokia 3650, Nokia 2100 modellerin öncülüdür. 3410, Nokia'nın ilk Java telefonu oldu. Ayrıca, Japonya dışındaki en eski cep telefonlarından biri olan 3D grafikler ve görüntü editörü idi.",
+      "char_count": 339,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikler ==",
+      "heading_path": "== Özellikler ==",
+      "start_char": 340,
+      "end_char": 1340,
+      "content": "== Özellikler == Nokia 3410 kompakt, ancak 825mAh çıkarılabilir Li-Ion batarya ile 114 gram ağırlığındadır. Menüde gezinmeye yardımcı olmak için yukarı ve aşağı tuşlarına sahiptir ve telefonun üstünde sert bir siyah düğme, profilleri açmak ve kapatmak için bir anahtar görevi görür. Ekranı, selefinin 96 × 65 pikselle (3310'da 84 × 48'in aksine) daha yüksek bir tanıma sahiptir. Ayrıca bir WAP 1.1 Tarayıcısı ve bir hesap makinesi, alarm saati, durdurma saati ve geri sayım sayacı gibi temel araçlar ile birlikte geldi. Ayrıca hatırlatıcı olarak 10 nota kadar saklayabilir ve özelleştirilebilir ve indirilebilir profillere sahip olabilir. Eğlence tarafında beş oyun (Snake II, Bumper, Space Impact, Bantumi, Link5) ve temel bir SMS messenger ile birlikte geliyor. Nokia 3410, mobil 3D grafikler (özellikle canlandırılan ekran koruyucusu ve Munkiki's Castles mobil oyun) için Japonya dışında piyasaya sürülen ilk cep telefonlarından biriydi. Tek renkli monitör ve 96 × 65 ekran çözünürlüğüne rağmen, n",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Özellikler ==",
+      "heading_path": "== Özellikler ==",
+      "start_char": 1140,
+      "end_char": 1736,
+      "content": "likle canlandırılan ekran koruyucusu ve Munkiki's Castles mobil oyun) için Japonya dışında piyasaya sürülen ilk cep telefonlarından biriydi. Tek renkli monitör ve 96 × 65 ekran çözünürlüğüne rağmen, neredeyse OpenGL ES 1.0'ın tüm oluşturma özelliklerini içerir. Cep telefonu, 3D grafiklerin baseband işlemcisi (Texas Instruments MAD2WDI C GSM Ana İşlemcisi) aracılığıyla görüntülenmesi için tescilli bir API kullanır. Bununla birlikte, bu aygıt üzerinde görüntü oluşturma yalnızca daha düşük çokgen sayısında görüntülenir ve 3B grafikleri destekleyen diğer cep telefonlarından daha yavaş çalışır.",
+      "char_count": 596,
+      "token_estimate": 149
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1765,
+      "end_char": 1857,
+      "content": "== Dış bağlantılar == Nokia 341018 Ocak 2018 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 92,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Nokia 3410'un ekran çözünürlüğü nedir?",
+        "answer": "Nokia 3410'un ekran çözünürlüğü 96 × 65 pikseldir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Nokia 3410, Nokia'nın ilk Java telefonu olmasına ve tek renkli bir ekrana sahip olmasına rağmen 3D grafikleri nasıl görüntüleyebildi ve bu yaklaşımlarının performans üzerindeki etkileri nelerdi?",
+        "answer": "Nokia 3410, ilk Java telefonu ve 96x65 piksellik tek renkli bir ekrana sahip olmasına rağmen, Japonya dışında mobil 3D grafikleri destekleyen ilk telefonlardan biriydi. Neredeyse tüm OpenGL ES 1.0 oluşturma özelliklerini içeriyordu ve 3D grafikleri baseband işlemcisi (Texas Instruments MAD2WDI C GSM Ana İşlemcisi) aracılığıyla tescilli bir API kullanarak görüntülüyordu. Ancak, bu aygıtta görüntü oluşturma daha düşük çokgen sayısında gerçekleşiyordu ve 3B grafikleri destekleyen diğer cep telefonlarından daha yavaş çalışıyordu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

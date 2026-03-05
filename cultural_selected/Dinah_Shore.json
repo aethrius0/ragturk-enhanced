@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "dinahshore_ecfb7aa0",
+    "title": "Dinah Shore",
+    "url": "https://tr.wikipedia.org/wiki/Dinah_Shore",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:26.442064",
+    "content": "Dinah Shore (doğum adıyla: Frances Rose Shore, d. 1 Mart 1916 - ö. 24 Şubat 1994) Amerikalı şarkıcı, oyuncu ve televizyon programı sunucusu. == Filmografi == Thank Your Lucky Stars (1943) - Kendisi Up in Arms (1944) - Virginia Follow the Boys (1944) - Kendisi Belle of the Yukon (1944) - Lettie Candless Make Mine Music (1946) - Anlatıcı (seslendirme) Till the Clouds Roll By (1946) - Julia Sanderson / Dinah Shore Fun and Fancy Free (1947) - Anlatıcı (seslendirme) Bongo (1947) (short subject) - Anlatıcı (seslendirme) Aaron Slick from Punkin Crick (1952) - Josie Berry A Great New Star (1952) (short subject) Screen Snapshots: Hollywood Stars on Parade (1954) (short subject) Screen Snapshots: Hollywood Small Fry (1956) (short subject) Premier Khrushchev in the USA (1959) (belgesel) Oh, God! (1977) - Kendisi (cameo) Health (1980) - Kendisi (cameo) == Televizyon == The Dinah Shore Chevy Show (11/27/1951 – 7/18/1957) 15 minutes The Dinah Shore Chevy Show (10/5/1956 – 6/14/1957) 60-minute monthly specials The Dinah Shore Chevy Show (10/20/1957 – 6/26/1961) 60 minutes Danny Thomas Show (bölüm: \"The Dinah Shore Show\", 10/28/1957; \"Dinah Shore and Danny are Rivals\", 12/8/1958) The Dinah Shore Special (10/6/1961 – 5/12/1963) 60 minute monthly specials The Dinah Shore Special (2/15/1965) The Dinah Shore Special: Like Hep (4/13/1969) Dinah's Place (8/3/1970 – 7/26/1974) Rowan & Martin's Laugh-In (Season 4 bölüm 21 air date (02/08/1971) konuk olarak - Kendisi) Dinah in Search of the Ideal Man (11/18/1973) Hold That Pose (1971) (one week pilot for series) Dinah Shore: In Search of the Ideal Man (1973) Dinah! (9/9/1974 – 9/7/1979) Dinah and Friends (9/10/1979 – 9/5/1980) Mary Hartman, Mary Hartman (April 1976; konuk olarak - Kendisi) Dinah and Her New Best Friends (6/5/1976 – 7/31/1976 summer series) The Carol Burnett Show (Konuk yıldız, aired: November 13, 1976) Alice (bölüm: \"Mel's in the Kitchen with Dinah\"; release date 11/18/1979, konuk olarak - Kendisi) Pee-wee's Playhouse Christmas Special (konuk yıldız 1988) Murder, She Wrote (bölüm: \"Alma Murder\"; 1989) (as Emily Dyers) (final television appearance) Conversations with Dinah (1989–1991) == Radyo çalışmaları == == Kaynakça == == Dış bağlantılar == IMDb'de Dinah Shore Dinah Shore biography, museum.televizyon Dinah Shore biography, parabrisas.com Dinah Shore File 5 Ağustos 2018 tarihinde Wayback Machine sitesinde arşivlendi. at FBI Records: The Vault Dinah Vegas 5 Ağustos 2018 tarihinde Wayback Machine sitesinde arşivlendi., dinahshoreweekend.com Find a Grave'de Dinah Shore – Hillside Memorial Park Cemetery Find a Grave'de Dinah Shore – Forest Lawn Cemetery (Cathedral City)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 407,
+      "char_count": 2657,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.571437",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 141,
+      "content": "Dinah Shore (doğum adıyla: Frances Rose Shore, d. 1 Mart 1916 - ö. 24 Şubat 1994) Amerikalı şarkıcı, oyuncu ve televizyon programı sunucusu.",
+      "char_count": 140,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0001",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 141,
+      "end_char": 853,
+      "content": "== Filmografi == Thank Your Lucky Stars (1943) - Kendisi Up in Arms (1944) - Virginia Follow the Boys (1944) - Kendisi Belle of the Yukon (1944) - Lettie Candless Make Mine Music (1946) - Anlatıcı (seslendirme) Till the Clouds Roll By (1946) - Julia Sanderson / Dinah Shore Fun and Fancy Free (1947) - Anlatıcı (seslendirme) Bongo (1947) (short subject) - Anlatıcı (seslendirme) Aaron Slick from Punkin Crick (1952) - Josie Berry A Great New Star (1952) (short subject) Screen Snapshots: Hollywood Stars on Parade (1954) (short subject) Screen Snapshots: Hollywood Small Fry (1956) (short subject) Premier Khrushchev in the USA (1959) (belgesel) Oh, God! (1977) - Kendisi (cameo) Health (1980) - Kendisi (cameo)",
+      "char_count": 711,
+      "token_estimate": 177
+    },
+    {
+      "id": "c0002",
+      "section": "== Televizyon ==",
+      "heading_path": "== Televizyon ==",
+      "start_char": 853,
+      "end_char": 1853,
+      "content": "== Televizyon == The Dinah Shore Chevy Show (11/27/1951 – 7/18/1957) 15 minutes The Dinah Shore Chevy Show (10/5/1956 – 6/14/1957) 60-minute monthly specials The Dinah Shore Chevy Show (10/20/1957 – 6/26/1961) 60 minutes Danny Thomas Show (bölüm: \"The Dinah Shore Show\", 10/28/1957; \"Dinah Shore and Danny are Rivals\", 12/8/1958) The Dinah Shore Special (10/6/1961 – 5/12/1963) 60 minute monthly specials The Dinah Shore Special (2/15/1965) The Dinah Shore Special: Like Hep (4/13/1969) Dinah's Place (8/3/1970 – 7/26/1974) Rowan & Martin's Laugh-In (Season 4 bölüm 21 air date (02/08/1971) konuk olarak - Kendisi) Dinah in Search of the Ideal Man (11/18/1973) Hold That Pose (1971) (one week pilot for series) Dinah Shore: In Search of the Ideal Man (1973) Dinah! (9/9/1974 – 9/7/1979) Dinah and Friends (9/10/1979 – 9/5/1980) Mary Hartman, Mary Hartman (April 1976; konuk olarak - Kendisi) Dinah and Her New Best Friends (6/5/1976 – 7/31/1976 summer series) The Carol Burnett Show (Konuk yıldız, ai",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Televizyon ==",
+      "heading_path": "== Televizyon ==",
+      "start_char": 1653,
+      "end_char": 2163,
+      "content": "ends (9/10/1979 – 9/5/1980) Mary Hartman, Mary Hartman (April 1976; konuk olarak - Kendisi) Dinah and Her New Best Friends (6/5/1976 – 7/31/1976 summer series) The Carol Burnett Show (Konuk yıldız, aired: November 13, 1976) Alice (bölüm: \"Mel's in the Kitchen with Dinah\"; release date 11/18/1979, konuk olarak - Kendisi) Pee-wee's Playhouse Christmas Special (konuk yıldız 1988) Murder, She Wrote (bölüm: \"Alma Murder\"; 1989) (as Emily Dyers) (final television appearance) Conversations with Dinah (1989–1991)",
+      "char_count": 510,
+      "token_estimate": 127
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2203,
+      "end_char": 2657,
+      "content": "== Dış bağlantılar == IMDb'de Dinah Shore Dinah Shore biography, museum.televizyon Dinah Shore biography, parabrisas.com Dinah Shore File 5 Ağustos 2018 tarihinde Wayback Machine sitesinde arşivlendi. at FBI Records: The Vault Dinah Vegas 5 Ağustos 2018 tarihinde Wayback Machine sitesinde arşivlendi., dinahshoreweekend.com Find a Grave'de Dinah Shore – Hillside Memorial Park Cemetery Find a Grave'de Dinah Shore – Forest Lawn Cemetery (Cathedral City)",
+      "char_count": 454,
+      "token_estimate": 113
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dinah's Place hangi tarihler arasında yayımlanmıştır?",
+        "answer": "3 Ağustos 1970 ile 26 Temmuz 1974 tarihleri arasında yayımlanmıştır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dinah Shore'un filmografi ve televizyon programlarındaki rolleri, onun biyografisinde belirtilen oyunculuk ve televizyon programı sunuculuğu kimliklerini nasıl yansıtmaktadır?",
+        "answer": "Dinah Shore'un filmografisi, onun \"Up in Arms\", \"Belle of the Yukon\" ve \"Aaron Slick from Punkin Crick\" gibi filmlerdeki oyunculuk rolleri ve \"Make Mine Music\" ile \"Fun and Fancy Free\" filmlerindeki anlatıcılık görevleri ile oyunculuk kimliğini sergilemektedir. Televizyon alanındaki çalışmaları ise \"The Dinah Shore Chevy Show\", \"Dinah's Place\" ve \"Dinah!\" gibi programlarda sunuculuk yaparak onun televizyon programı sunucusu kimliğini ortaya koymaktadır. Ayrıca hem filmlerde hem de televizyon programlarında kendisi olarak da yer almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "queenelizabethulusal_a49c5ac8",
+    "title": "Queen Elizabeth Ulusal Parkı",
+    "url": "https://tr.wikipedia.org/wiki/Queen_Elizabeth_Ulusal_Park%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:18.265726",
+    "content": "Queen Elizabeth Ulusal Parkı, kısaca QENP, Uganda'nın en çok ziyaret edilen millî parkıdır. Park birçok memeli ve kuş türünün doğal yaşam alanıdır. == Konumu == QENP, Kasese, Kamwenge, Rubirizi ve Rukungiri bölgelerini kapsayan, Uganda'nın Batı Bölgesi'ndedir. Park, Uganda'nın başkenti ve en büyük şehri olan Kampala'nın güneybatısında, yaklaşık 400 kilometre (250 mi) uzaklıktadır. Kasese kasabası, parkın kuzeydoğu kenarının hemen dışındadır, Rubirizi kasabası ise parkın Güneydoğu sınırlarının hemen dışındadır. Park, Maramagambo Ormanı'nı içerisinde barındırır ve Kigezi Koruma Alanı, Kyambura Koruma Alanı, Uganda'daki Kibale Ulusal Parkı ve Kongo Demokratik Cumhuriyeti'ndeki Virunga Ulusal Parkı ile sınır komşusudur. == Tarihçe == Park, 1952'de Kazinga Ulusal Parkı adıyla kuruldu. İki yıl sonra, II. Elizabeth'in ziyareti anısına yeniden adlandırıldı. == Genel bakış == Queen Elizabeth Ulusal Parkı, tahmini 1.978 kilometrekare (764 sq mi) bir alanı içerisinde barındırmaktadır. Park, kuzeydoğudaki George Gölü'nden güney batıdaki Edward Gölü'ne kadar uzanır ve iki gölü birbirine bağlayan Kazinga Kanalı'nı içerir. Queen Elizabeth Ulusal Parkı, Afrika mandası, Uganda kobu, su aygırı, Nil timsahı, Afrika savan fili, Afrika parsı, aslan ve şempanze gibi çeşitli vahşi hayvanları içerisinde barındıran vahşi doğasıyla ünlüdür. 95 memeli ve 500'den fazla kuş türüne ev sahipliği yapmaktadır. Rukungiri Bölgesi'nde İshasha çevresindeki alan, siyah yelelere sahip, ağaçlara tırmanan erkek aslanlarıyla ünlüdür. Kaçak avcılar, 2015 yılında parkta altı fili öldürdüler ve Uganda koruma topluluğu tarafından tepki aldılar. Queen Elizabeth Ulusal Parkı, bitişiğindeki Virunga Millî Parkı ile birlikte bir Aslan Koruma Birimi'dir. Bölge, eğer kaçak avlanma engellenir ve av türleri kurtarılırsa, Orta Afrika'da potansiyel bir aslan kalesi olarak kabul edilir. Park aynı zamanda volkanik koniler ve derin kraterler de dahil olmak üzere volkanik özellikleri ile ünlüdür. Katwe kraterlerinde, tuzun çıkarıldığı krater göllere sahiptir. == Ayrıca bakınız == == Kaynakça == == Dış bağlantılar == BirdLife International. \"Important Bird Areas factsheet: Queen Elizabeth Ulusal Parkı ve George Gölü\". 13 Kasım 2018 tarihinde kaynağından arşivlendi. Erişim tarihi: 25 Ekim 2019. (İngilizce) QENP Map 15 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Uganda Dept of Lands and Surveys, 1961 (İngilizce) Queen Elizabeth National Park 5 Kasım 2019 tarihinde Wayback Machine sitesinde arşivlendi. Official Tourism Website of Queen Elizabeth National Park. (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 345,
+      "char_count": 2570,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.042936",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 148,
+      "content": "Queen Elizabeth Ulusal Parkı, kısaca QENP, Uganda'nın en çok ziyaret edilen millî parkıdır. Park birçok memeli ve kuş türünün doğal yaşam alanıdır.",
+      "char_count": 147,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0001",
+      "section": "== Konumu ==",
+      "heading_path": "== Konumu ==",
+      "start_char": 148,
+      "end_char": 726,
+      "content": "== Konumu == QENP, Kasese, Kamwenge, Rubirizi ve Rukungiri bölgelerini kapsayan, Uganda'nın Batı Bölgesi'ndedir. Park, Uganda'nın başkenti ve en büyük şehri olan Kampala'nın güneybatısında, yaklaşık 400 kilometre (250 mi) uzaklıktadır. Kasese kasabası, parkın kuzeydoğu kenarının hemen dışındadır, Rubirizi kasabası ise parkın Güneydoğu sınırlarının hemen dışındadır. Park, Maramagambo Ormanı'nı içerisinde barındırır ve Kigezi Koruma Alanı, Kyambura Koruma Alanı, Uganda'daki Kibale Ulusal Parkı ve Kongo Demokratik Cumhuriyeti'ndeki Virunga Ulusal Parkı ile sınır komşusudur.",
+      "char_count": 577,
+      "token_estimate": 144
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 726,
+      "end_char": 862,
+      "content": "== Tarihçe == Park, 1952'de Kazinga Ulusal Parkı adıyla kuruldu. İki yıl sonra, II. Elizabeth'in ziyareti anısına yeniden adlandırıldı.",
+      "char_count": 135,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0003",
+      "section": "== Genel bakış ==",
+      "heading_path": "== Genel bakış ==",
+      "start_char": 862,
+      "end_char": 1862,
+      "content": "== Genel bakış == Queen Elizabeth Ulusal Parkı, tahmini 1.978 kilometrekare (764 sq mi) bir alanı içerisinde barındırmaktadır. Park, kuzeydoğudaki George Gölü'nden güney batıdaki Edward Gölü'ne kadar uzanır ve iki gölü birbirine bağlayan Kazinga Kanalı'nı içerir. Queen Elizabeth Ulusal Parkı, Afrika mandası, Uganda kobu, su aygırı, Nil timsahı, Afrika savan fili, Afrika parsı, aslan ve şempanze gibi çeşitli vahşi hayvanları içerisinde barındıran vahşi doğasıyla ünlüdür. 95 memeli ve 500'den fazla kuş türüne ev sahipliği yapmaktadır. Rukungiri Bölgesi'nde İshasha çevresindeki alan, siyah yelelere sahip, ağaçlara tırmanan erkek aslanlarıyla ünlüdür. Kaçak avcılar, 2015 yılında parkta altı fili öldürdüler ve Uganda koruma topluluğu tarafından tepki aldılar. Queen Elizabeth Ulusal Parkı, bitişiğindeki Virunga Millî Parkı ile birlikte bir Aslan Koruma Birimi'dir. Bölge, eğer kaçak avlanma engellenir ve av türleri kurtarılırsa, Orta Afrika'da potansiyel bir aslan kalesi olarak kabul edilir. ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Genel bakış ==",
+      "heading_path": "== Genel bakış ==",
+      "start_char": 1662,
+      "end_char": 2034,
+      "content": "iğindeki Virunga Millî Parkı ile birlikte bir Aslan Koruma Birimi'dir. Bölge, eğer kaçak avlanma engellenir ve av türleri kurtarılırsa, Orta Afrika'da potansiyel bir aslan kalesi olarak kabul edilir. Park aynı zamanda volkanik koniler ve derin kraterler de dahil olmak üzere volkanik özellikleri ile ünlüdür. Katwe kraterlerinde, tuzun çıkarıldığı krater göllere sahiptir.",
+      "char_count": 372,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2071,
+      "end_char": 2570,
+      "content": "== Dış bağlantılar == BirdLife International. \"Important Bird Areas factsheet: Queen Elizabeth Ulusal Parkı ve George Gölü\". 13 Kasım 2018 tarihinde kaynağından arşivlendi. Erişim tarihi: 25 Ekim 2019. (İngilizce) QENP Map 15 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Uganda Dept of Lands and Surveys, 1961 (İngilizce) Queen Elizabeth National Park 5 Kasım 2019 tarihinde Wayback Machine sitesinde arşivlendi. Official Tourism Website of Queen Elizabeth National Park. (İngilizce)",
+      "char_count": 499,
+      "token_estimate": 124
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Queen Elizabeth Ulusal Parkı tahmini olarak kaç kilometrekarelik bir alanı kapsamaktadır?",
+        "answer": "Tahmini 1.978 kilometrekarelik bir alanı kapsamaktadır.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Uganda'nın en çok ziyaret edilen milli parkı olan Queen Elizabeth Ulusal Parkı hangi bölgeleri kapsar ve hangi diğer koruma alanlarıyla sınır komşusudur?",
+        "answer": "Uganda'nın Batı Bölgesi'nde yer alan Queen Elizabeth Ulusal Parkı, Kasese, Kamwenge, Rubirizi ve Rukungiri bölgelerini kapsar. Ayrıca, Maramagambo Ormanı'nı içerisinde barındırır ve Kigezi Koruma Alanı, Kyambura Koruma Alanı, Uganda'daki Kibale Ulusal Parkı ve Kongo Demokratik Cumhuriyeti'ndeki Virunga Ulusal Parkı ile sınır komşusudur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

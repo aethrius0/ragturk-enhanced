@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "sharpesrevenge_083f10c1",
+    "title": "Sharpe's Revenge",
+    "url": "https://tr.wikipedia.org/wiki/Sharpe%27s_Revenge",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:24.333032",
+    "content": "Sharpe's Revenge, Bernard Cornwell'in aynı adlı roman dizisinden televizyona uyarlanan Sharpe adlı film dizisinin onikinci bölümüdür. İngiliz ITV kanalında ilk olarak 1997 yılında gösterilen filmde Sean Bean ve Daragh O'Malley başrollerdedir. == Konusu == Yarımada Savaşının sonuna gelinmiştir. Birleşik Krallık Ordusunun önünde son bir engel olarak Toulouse kenti kalmıştır. Binbaşı Sharpe (Sean Bean) son muharebede ölme ihtimaline karşı tüm mal varlığını olan 10 bin ginelik servetini eşi Jane'e (Abigail Cruttenden) bırakan bir vekâletname hazırlar. Eşi ise Sharpe'dan bunun son savaşı olacağına dair bir söz alır, muharebeden sonra Sharpe Lord Wellington ile konuşacak ve İngiltere'ye geri gönderilmeyi talep edecektir. Sharpe zorlu geçen Toulouse Muharebesine katılır. Karşı tarafta Fransız General Calvet (John Benfield) ve Sharpe'ın azılı düşmanı Binbaşı Ducos (Feodor Atkine) yer alır. Ducos aynı zamanda Napolyon Bonapart'ın hazinesinin güvenliğinden sorumludur. Muharebeyi İngilizler kazanır ve Fransa işgal edilir. Napolyon savaşı kaybeder ve sürgüne gönderilir. Muharebenin hemen sonunda Sharpe, bir İngiliz subayı tarafından eşiyle ilgili olarak hakarete uğrayınca eşine verdiği sözü unutarak kampa dönmez ve subayı düelloya davet eder. Ertesi gün sabah karşı yapılan düelloda subayı yaralar ancak kampa döndüğünde eşini bulamaz. Muharebeden sonra dönmeyen eşinin öldüğünü zanneden Jane, Sharpe'ın düello için kampa dönmediğini öğrenince onu cezalandırmak için bir plan kurar. Arkadaşı Lady Molly Spindacre'ın (Connie Hyde) da desteğiyle Londra’ya kaçacaklar ve kocasının tüm parasını bankadan çekerek harcayacaklardır. Londra’da arkadaşıyla gününü gün eden Jane, genç Lord Rossendale’e (Alexis Denisof) aşık olunca olaylar karmaşıklaşır. Jane yeni sevgilisinin kumar borçlarını ödeyip, gereksiz harcamalara devam edince paralar bitecek ve arkadaşı Molly onu terk edecektir. Bu sırada yenilgiye uğrayan General Calvet, imparatorluk hazinesinin Paris’e götürülmesi için Binbaşı Ducos’ya emir verir. Ducos hazineyi teslim etmektense kendi muhafızlarını öldürerek suçu Sharpe’ın üzerine atacak bir tezgâh kurar. Olaydan haberi olmayan Sharpe, yakalanarak askeri mahkemeye çıkartılır. Davada en önemli tanık muhafızların komutanı Albay Maillot (Stephane Cornicard) ise ortalıkta yoktur. Gerçekte Maillot, Ducos’nun hazineyi paylaşma teklifini reddetmiş ve savaş da bittiği için üzgün bir şekilde Normandiya’daki evine dönmüştür. Dava süresince hapse atılan Sharpe, başta Başçavuş Harper (Daragh O'Malley) olmak üzere kendine bağlı askerleri tarafından kurtarılır ve masumiyetini ispatlamak için Albay Maillot’u bulmak için Normandiya’ya doğru yola koyulur. Ancak Ducos onlardan önce davranmış ve Maillot’u öldürmüştür bile. Maillot’un evine giren Sharpe, Maillot’un kardeşi Madam Lucille DuBert (Cécile Paoli) tarafından kardeşinin katili sanılınca saldırıya uğrar ve yaralanır. Sharpe iyileşirken aralarında duygusal bir yakınlaşma başlar. == Oyuncular == == Dış bağlantılar == IMDb'de Sharpe's Revenge",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 390,
+      "char_count": 3013,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.893634",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 243,
+      "content": "Sharpe's Revenge, Bernard Cornwell'in aynı adlı roman dizisinden televizyona uyarlanan Sharpe adlı film dizisinin onikinci bölümüdür. İngiliz ITV kanalında ilk olarak 1997 yılında gösterilen filmde Sean Bean ve Daragh O'Malley başrollerdedir.",
+      "char_count": 242,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 243,
+      "end_char": 1243,
+      "content": "== Konusu == Yarımada Savaşının sonuna gelinmiştir. Birleşik Krallık Ordusunun önünde son bir engel olarak Toulouse kenti kalmıştır. Binbaşı Sharpe (Sean Bean) son muharebede ölme ihtimaline karşı tüm mal varlığını olan 10 bin ginelik servetini eşi Jane'e (Abigail Cruttenden) bırakan bir vekâletname hazırlar. Eşi ise Sharpe'dan bunun son savaşı olacağına dair bir söz alır, muharebeden sonra Sharpe Lord Wellington ile konuşacak ve İngiltere'ye geri gönderilmeyi talep edecektir. Sharpe zorlu geçen Toulouse Muharebesine katılır. Karşı tarafta Fransız General Calvet (John Benfield) ve Sharpe'ın azılı düşmanı Binbaşı Ducos (Feodor Atkine) yer alır. Ducos aynı zamanda Napolyon Bonapart'ın hazinesinin güvenliğinden sorumludur. Muharebeyi İngilizler kazanır ve Fransa işgal edilir. Napolyon savaşı kaybeder ve sürgüne gönderilir. Muharebenin hemen sonunda Sharpe, bir İngiliz subayı tarafından eşiyle ilgili olarak hakarete uğrayınca eşine verdiği sözü unutarak kampa dönmez ve subayı düelloya dave",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 1043,
+      "end_char": 2043,
+      "content": "kaybeder ve sürgüne gönderilir. Muharebenin hemen sonunda Sharpe, bir İngiliz subayı tarafından eşiyle ilgili olarak hakarete uğrayınca eşine verdiği sözü unutarak kampa dönmez ve subayı düelloya davet eder. Ertesi gün sabah karşı yapılan düelloda subayı yaralar ancak kampa döndüğünde eşini bulamaz. Muharebeden sonra dönmeyen eşinin öldüğünü zanneden Jane, Sharpe'ın düello için kampa dönmediğini öğrenince onu cezalandırmak için bir plan kurar. Arkadaşı Lady Molly Spindacre'ın (Connie Hyde) da desteğiyle Londra’ya kaçacaklar ve kocasının tüm parasını bankadan çekerek harcayacaklardır. Londra’da arkadaşıyla gününü gün eden Jane, genç Lord Rossendale’e (Alexis Denisof) aşık olunca olaylar karmaşıklaşır. Jane yeni sevgilisinin kumar borçlarını ödeyip, gereksiz harcamalara devam edince paralar bitecek ve arkadaşı Molly onu terk edecektir. Bu sırada yenilgiye uğrayan General Calvet, imparatorluk hazinesinin Paris’e götürülmesi için Binbaşı Ducos’ya emir verir. Ducos hazineyi teslim etmektens",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 1843,
+      "end_char": 2843,
+      "content": "bitecek ve arkadaşı Molly onu terk edecektir. Bu sırada yenilgiye uğrayan General Calvet, imparatorluk hazinesinin Paris’e götürülmesi için Binbaşı Ducos’ya emir verir. Ducos hazineyi teslim etmektense kendi muhafızlarını öldürerek suçu Sharpe’ın üzerine atacak bir tezgâh kurar. Olaydan haberi olmayan Sharpe, yakalanarak askeri mahkemeye çıkartılır. Davada en önemli tanık muhafızların komutanı Albay Maillot (Stephane Cornicard) ise ortalıkta yoktur. Gerçekte Maillot, Ducos’nun hazineyi paylaşma teklifini reddetmiş ve savaş da bittiği için üzgün bir şekilde Normandiya’daki evine dönmüştür. Dava süresince hapse atılan Sharpe, başta Başçavuş Harper (Daragh O'Malley) olmak üzere kendine bağlı askerleri tarafından kurtarılır ve masumiyetini ispatlamak için Albay Maillot’u bulmak için Normandiya’ya doğru yola koyulur. Ancak Ducos onlardan önce davranmış ve Maillot’u öldürmüştür bile. Maillot’un evine giren Sharpe, Maillot’un kardeşi Madam Lucille DuBert (Cécile Paoli) tarafından kardeşinin k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 2643,
+      "end_char": 2950,
+      "content": "’ya doğru yola koyulur. Ancak Ducos onlardan önce davranmış ve Maillot’u öldürmüştür bile. Maillot’un evine giren Sharpe, Maillot’un kardeşi Madam Lucille DuBert (Cécile Paoli) tarafından kardeşinin katili sanılınca saldırıya uğrar ve yaralanır. Sharpe iyileşirken aralarında duygusal bir yakınlaşma başlar.",
+      "char_count": 307,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2967,
+      "end_char": 3013,
+      "content": "== Dış bağlantılar == IMDb'de Sharpe's Revenge",
+      "char_count": 46,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Binbaşı Sharpe, muharebede ölme ihtimaline karşı eşi Jane'e ne kadar servet bırakmıştır?",
+        "answer": "On bin ginelik servetini",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bernard Cornwell'in roman dizisinden uyarlanan \"Sharpe's Revenge\" filminde, Yarımada Savaşı'nın sonundaki Toulouse Muharebesi'nin ardından Binbaşı Sharpe'ın karısı Jane'in eylemleri hikayeyi nasıl karmaşıklaştırır ve General Calvet ile Binbaşı Ducos gibi düşmanların olaylardaki rolünü nasıl etkiler?",
+        "answer": "Bernard Cornwell'in roman dizisinden uyarlanan \"Sharpe's Revenge\" filminde, Yarımada Savaşı'nın sonuna denk gelen zorlu Toulouse Muharebesi'nin ardından Binbaşı Sharpe, eşi Jane'e verdiği sözü unutarak bir düelloya karışır. Sharpe'ın muharebe sonrası kampa dönmemesi üzerine, onun öldüğünü düşünen ve daha sonra düello yaptığını öğrenen Jane, kocasını cezalandırmak için bir plan yapar. Bu plan dahilinde Londra'ya kaçarak Sharpe'ın tüm mal varlığını bankadan çeker ve genç Lord Rossendale ile olan aşk ilişkisi de dahil olmak üzere savurgan harcamalarla parayı tüketir. Bu durum, Sharpe için kişisel bir intikam ve finansal kayıp hikayesi başlatırken, General Calvet'in yenilgisi sonrası Binbaşı Ducos'a imparatorluk hazinesini Paris'e götürme emri vermesiyle düşmanların eylemleri de hikayenin içine çekilir. Jane'in parayı harcaması, Sharpe'ın dikkatini hem kişisel intikamına hem de finansal durumuna çevirerek, Binbaşı Ducos'un imparatorluk hazinesini teslim etme konusundaki isteksizliğiyle bağlantılı daha geniş bir olay örgüsüne zemin hazırlar ve düşmanların planlarını karmaşık bir şekilde Sharpe'ın kişisel arayışıyla birleştirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "kbalmesih_16dee268",
+    "title": "İkbal Mesih",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0kbal_Mesih",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:25.335004",
+    "content": "İkbal Mesih (Pencap, Urduca: اقبال مسیح; d. 1982, - ö. 16 Nisan 1995), gelişmekte olan ülkelerde çocuk emeği istismarı sembolü olmuş Pakistanlı bir çocuk. == Çocukluğu == İkbal Mesih 1982 yılında Lahor'un çevresindeki bir sanayi şehri olan Muridke'de doğdu. Dört yaşında ailesi tarafından çalıştırılmak için satıldı. İkbal'in ailesi bir halıcıdan aldığı 600 rupilik (7,42 ABD Doları) aldığı borcu ödeyememesi yüzünden, İkbali borçların kapanması için esir olarak çalışmaya gönderdi. 27 kg ağırlığına 1,21 metre boyuna düşen İkbal, haftanın yedi günü, günde yarım saat mola ile 14 saat çalıştırıldı ve borcuna karşılık günde 3 ABD Senti kapatıldı. == Kaçışı ve aktivizmi == İkbal 10 yaşında, Pakistan Yüce Mahkemesinin esir çalıştırmanın yasak olduğunu ilan ettiğini öğrendikten sonra çalıştırıldığı yerden kaçtı. Buna rağmen polis tarafından yakalandı ve çalıştığı yere geri gönderildi, polis tarafından kaçmaması için bağlanması önerildi. İkbal tekrar kaçtı ve Pakistan Esir Emekçiler Kurtuluş Cephesi'ne katıldı. Tüm dünyada çocuk işçileriyle ilgili konuşmalar yaptı. İkbal bu dönemde okula gitmeye karar verdi ve 4 senelik okulunu 2 senede tamamladı. == Ölümü == İkbal, 16 Nisan 1995'te ABD dönüşü suikaste uğradı, vuran kişinin esir işçi çalıştıran bir çiftçi olduğu iddia edildi. Cenazesine 800'e yakın kişi katıldı. == Kaynakça == == Dış bağlantılar == \"Who Was Iqbal Masih?\"14 Ağustos 2017 tarihinde Wayback Machine sitesinde arşivlendi. mirrorimage.com. Gannon, Kathy (31 Mayıs 1995). \"Young Activist's Death Hits Pakistani Carpet Sales\". Los Angeles Times. 24 Aralık 2018 tarihinde kaynağından arşivlendi. Erişim tarihi: 4 Ekim 2015.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 235,
+      "char_count": 1642,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.273409",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 155,
+      "content": "İkbal Mesih (Pencap, Urduca: اقبال مسیح; d. 1982, - ö. 16 Nisan 1995), gelişmekte olan ülkelerde çocuk emeği istismarı sembolü olmuş Pakistanlı bir çocuk.",
+      "char_count": 154,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0001",
+      "section": "== Çocukluğu ==",
+      "heading_path": "== Çocukluğu ==",
+      "start_char": 155,
+      "end_char": 647,
+      "content": "== Çocukluğu == İkbal Mesih 1982 yılında Lahor'un çevresindeki bir sanayi şehri olan Muridke'de doğdu. Dört yaşında ailesi tarafından çalıştırılmak için satıldı. İkbal'in ailesi bir halıcıdan aldığı 600 rupilik (7,42 ABD Doları) aldığı borcu ödeyememesi yüzünden, İkbali borçların kapanması için esir olarak çalışmaya gönderdi. 27 kg ağırlığına 1,21 metre boyuna düşen İkbal, haftanın yedi günü, günde yarım saat mola ile 14 saat çalıştırıldı ve borcuna karşılık günde 3 ABD Senti kapatıldı.",
+      "char_count": 491,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaçışı ve aktivizmi ==",
+      "heading_path": "== Kaçışı ve aktivizmi ==",
+      "start_char": 647,
+      "end_char": 1154,
+      "content": "== Kaçışı ve aktivizmi == İkbal 10 yaşında, Pakistan Yüce Mahkemesinin esir çalıştırmanın yasak olduğunu ilan ettiğini öğrendikten sonra çalıştırıldığı yerden kaçtı. Buna rağmen polis tarafından yakalandı ve çalıştığı yere geri gönderildi, polis tarafından kaçmaması için bağlanması önerildi. İkbal tekrar kaçtı ve Pakistan Esir Emekçiler Kurtuluş Cephesi'ne katıldı. Tüm dünyada çocuk işçileriyle ilgili konuşmalar yaptı. İkbal bu dönemde okula gitmeye karar verdi ve 4 senelik okulunu 2 senede tamamladı.",
+      "char_count": 506,
+      "token_estimate": 126
+    },
+    {
+      "id": "c0003",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 1154,
+      "end_char": 1322,
+      "content": "== Ölümü == İkbal, 16 Nisan 1995'te ABD dönüşü suikaste uğradı, vuran kişinin esir işçi çalıştıran bir çiftçi olduğu iddia edildi. Cenazesine 800'e yakın kişi katıldı.",
+      "char_count": 167,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1337,
+      "end_char": 1642,
+      "content": "== Dış bağlantılar == \"Who Was Iqbal Masih?\"14 Ağustos 2017 tarihinde Wayback Machine sitesinde arşivlendi. mirrorimage.com. Gannon, Kathy (31 Mayıs 1995). \"Young Activist's Death Hits Pakistani Carpet Sales\". Los Angeles Times. 24 Aralık 2018 tarihinde kaynağından arşivlendi. Erişim tarihi: 4 Ekim 2015.",
+      "char_count": 305,
+      "token_estimate": 76
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İkbal ilk olarak kaç yaşında çalıştırıldığı yerden kaçtı?",
+        "answer": "10 yaşında.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İkbal Mesih'in çocuk yaşta borç kölesi olarak çalışmaya başlamasından, uluslararası alanda çocuk emeği istismarının bir sembolü haline gelmesine kadar olan süreci nasıl açıklarsınız?",
+        "answer": "İkbal Mesih, 1982'de Muridke'de doğdu. Dört yaşındayken ailesinin 600 rupilik borcunu ödemek için bir halıcıya satıldı ve günde yarım saat mola ile 14 saat çalışmaya zorlandı. On yaşında, borç köleliğinin yasak olduğunu öğrendikten sonra çalıştığı yerden kaçtı. Daha sonra Pakistan Esir Emekçiler Kurtuluş Cephesi'ne katıldı, tüm dünyada çocuk işçiliği hakkında konuşmalar yaptı ve okula giderek dört yıllık eğitimi iki yılda tamamladı. Bu deneyimler ve aktivizmi onu gelişmekte olan ülkelerde çocuk emeği istismarının bir sembolü haline getirdi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

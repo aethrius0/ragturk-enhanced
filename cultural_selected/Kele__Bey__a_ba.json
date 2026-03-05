@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "kelebeyaba_d8fc0483",
+    "title": "Keleş Bey Çaçba",
+    "url": "https://tr.wikipedia.org/wiki/Kele%C5%9F_Bey_%C3%87a%C3%A7ba",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:41.839171",
+    "content": "Keleş Bey (Keleş Ahmed-Bey) Çaçba (1747-1808), Çaçba hanedanından Abhazya prensi. == Biyografi == Manuçar Şervaşidze'nin oğlu olan Keleş Bey çocukken İstanbul'da rehin alındı ve burada Müslüman oldu. 1770'lerde memleketinde iktidarı ele geçirmek amacıyla Abhazya'ya döndü. Türk birliklerinin yardımıyla Keleş-Bey, amcası Zurab Şervaşidze'yi devirmeyi ve Abhazya'daki prens tahtını ele geçirmeyi başardı. Keleş Bey, devlet gücünü güçlendirmeye yönelik aktif girişimleri ve doğuda Abhazya'nın sınır komşusu olan Megrelya prensliğine karşı mücadelesiyle tanınıyordu. 1802'de Türkiye'nin desteğiyle Karadeniz kıyısındaki Megrel kalesi Anaklia'yı ele geçirdi. Megrelya 1803'te Rus İmparatorluğu'nun bir parçası olduktan sonra, Keleş Bey Rusya ile de daha yakın ilişkiler kurmaya çalıştı ve bu da Abhazya'nın Osmanlı'dan uzaklaşmasına yol açtı. Abhazya'nın Rusya ile yakınlaşmasından endişe duyan Türk yönetimi, Keleş Bey'i güç kullanarak iktidardan uzaklaştırmaya çalıştı ancak başarısız oldu. Nihayetinde Türkler, 2 Mayıs 1808'de söylentilere göre babasını zehirleyerek Abhazya'nın yeni hükümdarı olan oğlu Aslan Bey ile anlaşma yaparak Keleş Bey'i devirdi. George Hewitt bunu bir Rus uydurması olarak görüyor ve Sefer Bey'i, Nino Dadiani'yi ve Rus askerî yönetimini suikastle suçluyor. == Aile == Keleş Bey, Sultan I. Abdülmecid'in eşi Gülüstü Hanım ve Sultan IV. Mehmed'in annesinin büyük babasıydı. Farklı evliliklerden birçok çocuğu vardı. İlk eşi Prenses Meryem Dzepş-ipa, ikincisi Prenses Rabia Marşan, üçüncüsü Katuala İnal-ipa idi, ayrıca gayri meşru çocukları da vardı. Oğulları: Aslan Bey, Sefer Ali Bey, Mehmed Bey, Hasan Bey, Batal Bey, Tahir Bey, Rüstem Bey, Zekir Bey, Süleyman Bey, Halil Bey. Kızları: Naftanna Hanım, Selmagina Hanım, Gamedina Hanım, Rabia Hanım, Rosta Hanım, Nazife Hanım. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 244,
+      "char_count": 1816,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.251591",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 82,
+      "content": "Keleş Bey (Keleş Ahmed-Bey) Çaçba (1747-1808), Çaçba hanedanından Abhazya prensi.",
+      "char_count": 81,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 82,
+      "end_char": 1082,
+      "content": "== Biyografi == Manuçar Şervaşidze'nin oğlu olan Keleş Bey çocukken İstanbul'da rehin alındı ve burada Müslüman oldu. 1770'lerde memleketinde iktidarı ele geçirmek amacıyla Abhazya'ya döndü. Türk birliklerinin yardımıyla Keleş-Bey, amcası Zurab Şervaşidze'yi devirmeyi ve Abhazya'daki prens tahtını ele geçirmeyi başardı. Keleş Bey, devlet gücünü güçlendirmeye yönelik aktif girişimleri ve doğuda Abhazya'nın sınır komşusu olan Megrelya prensliğine karşı mücadelesiyle tanınıyordu. 1802'de Türkiye'nin desteğiyle Karadeniz kıyısındaki Megrel kalesi Anaklia'yı ele geçirdi. Megrelya 1803'te Rus İmparatorluğu'nun bir parçası olduktan sonra, Keleş Bey Rusya ile de daha yakın ilişkiler kurmaya çalıştı ve bu da Abhazya'nın Osmanlı'dan uzaklaşmasına yol açtı. Abhazya'nın Rusya ile yakınlaşmasından endişe duyan Türk yönetimi, Keleş Bey'i güç kullanarak iktidardan uzaklaştırmaya çalıştı ancak başarısız oldu. Nihayetinde Türkler, 2 Mayıs 1808'de söylentilere göre babasını zehirleyerek Abhazya'nın yeni",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 882,
+      "end_char": 1282,
+      "content": "şe duyan Türk yönetimi, Keleş Bey'i güç kullanarak iktidardan uzaklaştırmaya çalıştı ancak başarısız oldu. Nihayetinde Türkler, 2 Mayıs 1808'de söylentilere göre babasını zehirleyerek Abhazya'nın yeni hükümdarı olan oğlu Aslan Bey ile anlaşma yaparak Keleş Bey'i devirdi. George Hewitt bunu bir Rus uydurması olarak görüyor ve Sefer Bey'i, Nino Dadiani'yi ve Rus askerî yönetimini suikastle suçluyor.",
+      "char_count": 400,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0003",
+      "section": "== Aile ==",
+      "heading_path": "== Aile ==",
+      "start_char": 1283,
+      "end_char": 1802,
+      "content": "== Aile == Keleş Bey, Sultan I. Abdülmecid'in eşi Gülüstü Hanım ve Sultan IV. Mehmed'in annesinin büyük babasıydı. Farklı evliliklerden birçok çocuğu vardı. İlk eşi Prenses Meryem Dzepş-ipa, ikincisi Prenses Rabia Marşan, üçüncüsü Katuala İnal-ipa idi, ayrıca gayri meşru çocukları da vardı. Oğulları: Aslan Bey, Sefer Ali Bey, Mehmed Bey, Hasan Bey, Batal Bey, Tahir Bey, Rüstem Bey, Zekir Bey, Süleyman Bey, Halil Bey. Kızları: Naftanna Hanım, Selmagina Hanım, Gamedina Hanım, Rabia Hanım, Rosta Hanım, Nazife Hanım.",
+      "char_count": 518,
+      "token_estimate": 129
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Keleş Bey, Abhazya'da iktidarı ne zaman ele geçirdi?",
+        "answer": "1770'lerde",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Keleş Bey'in yaşam süresi ne kadardı ve Türk yönetimi, Abhazya'daki iktidara gelmesinden ölümüne kadar hangi rollerde bulundu?",
+        "answer": "Keleş Bey 1747'den 1808'e kadar yaşamıştır. Türk yönetimi, iktidarı ele geçirmesi için amcasını devirmesine yardımcı olarak ve 1802'de Anaklia kalesini ele geçirmesinde destekleyerek başlangıçta onu destekledi. Ancak, Keleş Bey'in Rusya ile yakınlaşması nedeniyle Türkler endişelendi ve onu güç kullanarak iktidardan uzaklaştırmaya çalıştı, sonunda 2 Mayıs 1808'de söylentilere göre zehirleyerek ölümüne neden oldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

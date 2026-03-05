@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "gompa_fc0dcfce",
+    "title": "Gompa",
+    "url": "https://tr.wikipedia.org/wiki/Gompa",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:16.987090",
+    "content": "Gompalar veya Gönpalar (Tibetçe: དགོན་པ།, Wylie: dgon pa \"uzak yer\", Sanskritçe araṇya), ling (Wylie: gling) olarak da bilinir, Çin, Hindistan, Nepal, Ladakh ve Bhutan'ın bölümleri de dahil olmak üzere tarihi Tibet bölgelerinde yaygın olan Tibet Budizmi ile ilişkili öğreti, nesil ve sādhanānın birleşimi olarak algılanabilecek bir tahkimat, bir vihara ve üniversitedir. Bhutan Dzong mimarisi, geleneksel gompa tasarımının bir alt kümesidir. Bir gompa, uygulayıcıların meditasyon yaptığı ve öğretileri dinlediği bir meditasyon odasıdır. Tasarım ve iç detaylar bölgeden bölgeye değişir; ancak hepsi bir murti veya thangka içeren merkezi bir ibadethanenin genel bir tasarımını, rahiplerin veya rahibelerin dua veya meditasyon yapmaları için banklar ve ekli oturma yerinin genel tasarımı takip eder. Gompa veya ling'e herhangi bir sayıda stupa da eşlik edebilir. Pratik amaçlar için 'Gompa', Tibet bölgelerinde seyahat eden batılılar tarafından, genellikle bir kilise olarak tanımlanabilecek, ancak küçük tapınak binaları ve diğer ibadethaneleri veya dini öğrenimi içeren çeşitli dini binalara atıfta bulunmak için kullanılan kesin olmayan bir terimdir. == Kaynakça == == Dış bağlantılar == Rangan Datta'nın Likir & Alchi Gompa makalesi 13 Mayıs 2020 tarihinde Wayback Machine sitesinde arşivlendi. Rangan Datta tarafından Tashiding Gompa, Sikkim üzerine makale1 Şubat 2009 tarihinde Wayback Machine sitesinde arşivlendi. Rangan Datta tarafından Batı Sikkim Gompaları hakkında Seyahat Makalesi1 Şubat 2009 tarihinde Wayback Machine sitesinde arşivlendi. Rangan Datta'nın Ana Sayfası WanderingScapes: Bir gezginin Ladakh ve Gompas hikayesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 219,
+      "char_count": 1635,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.283544",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Gompalar veya Gönpalar (Tibetçe: དགོན་པ།, Wylie: dgon pa \"uzak yer\", Sanskritçe araṇya), ling (Wylie: gling) olarak da bilinir, Çin, Hindistan, Nepal, Ladakh ve Bhutan'ın bölümleri de dahil olmak üzere tarihi Tibet bölgelerinde yaygın olan Tibet Budizmi ile ilişkili öğreti, nesil ve sādhanānın birleşimi olarak algılanabilecek bir tahkimat, bir vihara ve üniversitedir. Bhutan Dzong mimarisi, geleneksel gompa tasarımının bir alt kümesidir. Bir gompa, uygulayıcıların meditasyon yaptığı ve öğretileri dinlediği bir meditasyon odasıdır. Tasarım ve iç detaylar bölgeden bölgeye değişir; ancak hepsi bir murti veya thangka içeren merkezi bir ibadethanenin genel bir tasarımını, rahiplerin veya rahibelerin dua veya meditasyon yapmaları için banklar ve ekli oturma yerinin genel tasarımı takip eder. Gompa veya ling'e herhangi bir sayıda stupa da eşlik edebilir. Pratik amaçlar için 'Gompa', Tibet bölgelerinde seyahat eden batılılar tarafından, genellikle bir kilise olarak tanımlanabilecek, ancak küçü",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1150,
+      "content": "pa veya ling'e herhangi bir sayıda stupa da eşlik edebilir. Pratik amaçlar için 'Gompa', Tibet bölgelerinde seyahat eden batılılar tarafından, genellikle bir kilise olarak tanımlanabilecek, ancak küçük tapınak binaları ve diğer ibadethaneleri veya dini öğrenimi içeren çeşitli dini binalara atıfta bulunmak için kullanılan kesin olmayan bir terimdir.",
+      "char_count": 350,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1166,
+      "end_char": 1635,
+      "content": "== Dış bağlantılar == Rangan Datta'nın Likir & Alchi Gompa makalesi 13 Mayıs 2020 tarihinde Wayback Machine sitesinde arşivlendi. Rangan Datta tarafından Tashiding Gompa, Sikkim üzerine makale1 Şubat 2009 tarihinde Wayback Machine sitesinde arşivlendi. Rangan Datta tarafından Batı Sikkim Gompaları hakkında Seyahat Makalesi1 Şubat 2009 tarihinde Wayback Machine sitesinde arşivlendi. Rangan Datta'nın Ana Sayfası WanderingScapes: Bir gezginin Ladakh ve Gompas hikayesi",
+      "char_count": 469,
+      "token_estimate": 117
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gompa kelimesinin Tibetçe'deki anlamı nedir?",
+        "answer": "\"Uzak yer\" anlamına gelir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gompaların resmi tanımı ve işlevleri, Tibet bölgelerini ziyaret eden Batılılar tarafından bu terimin nasıl algılandığıyla nasıl bir karşıtlık veya örtüşme göstermektedir?",
+        "answer": "Resmi olarak Gompalar, Tibet Budizmi ile ilişkili öğreti, nesil ve sādhanā birleşimi olarak algılanan tahkimatlar, viharalar ve üniversitelerdir; ayrıca uygulayıcıların meditasyon yaptığı ve öğretileri dinlediği meditasyon odalarıdır ve merkezi bir ibadethane ile rahip/rahibe oturma yerleri içerir. Batılılar için ise bu terim, genellikle bir kilise olarak tanımlanabilecek ancak küçük tapınak binalarını ve diğer ibadethaneleri veya dini öğrenim yerlerini de içeren çeşitli dini binalara atıfta bulunan kesin olmayan bir terimdir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

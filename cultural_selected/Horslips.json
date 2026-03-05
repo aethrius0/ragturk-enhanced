@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "horslips_d88ba59c",
+    "title": "Horslips",
+    "url": "https://tr.wikipedia.org/wiki/Horslips",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:11.705214",
+    "content": "Horslips, genellikle geleneksel İrlanda havası, jig ve makaralarından ilham alan şarkılar besteleyen, düzenleyen ve icra eden bir İrlandalı Kelt rock grubudur. Grup, geleneksel İrlanda müziği ile rock müziği birleştirmeleri nedeniyle 'Celtic rock'ın kurucu babaları' olarak görülüyor ve birçok yerel ve uluslararası eyleme ilham kaynağı oldu. 1970'te kuruldular ve 1980'de uzun bir süre için 'emekli oldular'. İsim, Mahşerin Dört Atlısı'ndaki \"The Four Poxmen of The Horselypse\" haline gelen bir kaşıkçılıktan geliyordu. Grup 70'lerde çalarken sınırlı bir ticari başarıya sahip olsa da Horslips, 1990'ların sonunda müziklerine olan ilgide bir canlanma oldu ve Kelt rock türünün belirleyici gruplarından biri olarak kabul edilmeye başlandı. O zamandan beri, The Late Late Show ve RTÉ'nin Other Voices'ndeki gösteriler de dahil olmak üzere küçük ölçekli buluşmalar oldu. Grup, 2009'un sonunda Belfast'taki Odyssey Arena'da ve Dublin'deki 3Arena'da iki İrlanda şovu için reform yaptı ve o zamandan beri şovlar yapmaya devam etti. == Diskografi == === Stüdyo albümleri === Happy to Meet – Sorry to Part (1972) The Táin (1973) Dancehall Sweethearts (1974) The Unfortunate Cup of Tea (1975) Drive the Cold Winter Away (1975) The Book of Invasions (1976) UK No. 39 Aliens (1977) U.S. No. 98 The Man Who Built America (1978) U.S. No. 155 Short Stories/Tall Tales (1979) Roll Back (2004) === Derleme albümleri === Tracks from the Vaults (1977) The Horslips Story - Straight from the Horse's Mouth (1989) Treasury (2009) Biography (2013) === Canlı albümleri === Horslips Live (1976) The Belfast Gigs (1980) Live at the O2 (2010) Live with the Ulster Orchestra (2011) === Kutu setleri === More Than You Can Chew (2023) === Kitaplar === Tall Tales (2013) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 269,
+      "char_count": 1757,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.327752",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Horslips, genellikle geleneksel İrlanda havası, jig ve makaralarından ilham alan şarkılar besteleyen, düzenleyen ve icra eden bir İrlandalı Kelt rock grubudur. Grup, geleneksel İrlanda müziği ile rock müziği birleştirmeleri nedeniyle 'Celtic rock'ın kurucu babaları' olarak görülüyor ve birçok yerel ve uluslararası eyleme ilham kaynağı oldu. 1970'te kuruldular ve 1980'de uzun bir süre için 'emekli oldular'. İsim, Mahşerin Dört Atlısı'ndaki \"The Four Poxmen of The Horselypse\" haline gelen bir kaşıkçılıktan geliyordu. Grup 70'lerde çalarken sınırlı bir ticari başarıya sahip olsa da Horslips, 1990'ların sonunda müziklerine olan ilgide bir canlanma oldu ve Kelt rock türünün belirleyici gruplarından biri olarak kabul edilmeye başlandı. O zamandan beri, The Late Late Show ve RTÉ'nin Other Voices'ndeki gösteriler de dahil olmak üzere küçük ölçekli buluşmalar oldu. Grup, 2009'un sonunda Belfast'taki Odyssey Arena'da ve Dublin'deki 3Arena'da iki İrlanda şovu için reform yaptı ve o zamandan beri ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1026,
+      "content": "ndeki gösteriler de dahil olmak üzere küçük ölçekli buluşmalar oldu. Grup, 2009'un sonunda Belfast'taki Odyssey Arena'da ve Dublin'deki 3Arena'da iki İrlanda şovu için reform yaptı ve o zamandan beri şovlar yapmaya devam etti.",
+      "char_count": 226,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0002",
+      "section": "=== Stüdyo albümleri ===",
+      "heading_path": "=== Stüdyo albümleri ===",
+      "start_char": 1044,
+      "end_char": 1379,
+      "content": "=== Stüdyo albümleri === Happy to Meet – Sorry to Part (1972) The Táin (1973) Dancehall Sweethearts (1974) The Unfortunate Cup of Tea (1975) Drive the Cold Winter Away (1975) The Book of Invasions (1976) UK No. 39 Aliens (1977) U.S. No. 98 The Man Who Built America (1978) U.S. No. 155 Short Stories/Tall Tales (1979) Roll Back (2004)",
+      "char_count": 334,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0003",
+      "section": "=== Derleme albümleri ===",
+      "heading_path": "=== Derleme albümleri ===",
+      "start_char": 1379,
+      "end_char": 1528,
+      "content": "=== Derleme albümleri === Tracks from the Vaults (1977) The Horslips Story - Straight from the Horse's Mouth (1989) Treasury (2009) Biography (2013)",
+      "char_count": 148,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0004",
+      "section": "=== Canlı albümleri ===",
+      "heading_path": "=== Canlı albümleri ===",
+      "start_char": 1528,
+      "end_char": 1657,
+      "content": "=== Canlı albümleri === Horslips Live (1976) The Belfast Gigs (1980) Live at the O2 (2010) Live with the Ulster Orchestra (2011)",
+      "char_count": 128,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0005",
+      "section": "=== Kutu setleri ===",
+      "heading_path": "=== Kutu setleri ===",
+      "start_char": 1657,
+      "end_char": 1708,
+      "content": "=== Kutu setleri === More Than You Can Chew (2023)",
+      "char_count": 50,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0006",
+      "section": "=== Kitaplar ===",
+      "heading_path": "=== Kitaplar ===",
+      "start_char": 1708,
+      "end_char": 1743,
+      "content": "=== Kitaplar === Tall Tales (2013)",
+      "char_count": 34,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Horslips grubu ne zaman kuruldu?",
+        "answer": "1970'te.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Horslips, 1980'deki ilk 'emekliliklerinin' ardından ne zaman ve nasıl sahneye geri döndü?",
+        "answer": "1990'ların sonunda müziklerine olan ilgideki canlanmayla birlikte küçük ölçekli buluşmalar gerçekleştirdiler. Ardından, 2009'un sonunda Belfast'taki Odyssey Arena ve Dublin'deki 3Arena'da iki İrlanda şovu için reform yaptılar ve o zamandan beri gösteriler yapmaya devam ettiler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "sherylcrow_92d1c577",
+    "title": "Sheryl Crow",
+    "url": "https://tr.wikipedia.org/wiki/Sheryl_Crow",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:19.081021",
+    "content": "Sheryl Suzanne Crow (d. 11 Şubat 1962, Kenneth, Missouri), Amerikalı rock ve pop şarkıcısı, gitarist, piyanist ve şarkı sözü yazarı. Bir süre piyano öğretmenliği de yapan Crow, 9 kez Grammy kazanmıştır. The Rolling Stones ile de sahneye çıkmış olan Crow'un Sting, Mick Jagger, Michael Jackson ve Kid Rock ile düetleri bulunmaktadır. Ayrıca Michael Jackson ile 1987-89 yılında dünya turnesine katılmıştır. Crow'un birçok film müziğinde de imzası bulunmaktadır. Arabalar, Erin Brockovich, Point Break, Home of the Brave, Shallow Hal, The X-Files, Home of the Brave, Stone Cold, Big Daddy ve Tomorrow Never Dies başlıcalarıdır. Crow ayrıca McDonald's ve Toyota firmalarının resmi cıngıllarını yapmıştır. == Ödülleri == Grammy Ödülleri: 9 Amerikan Müzik Ödülleri: 3 Orwille H. Gibson Ödülleri: 2 TEC Ödülleri: 2 BRIT Ödülleri: 1 BMI Ödülleri: 1 BMI Kazanan Şarkılar: 8 ASCAP Ödülleri: 1 People's Choice Ödülleri: 1 BMG Music Club En Çok Satan Albüm Plak: 2 == Albümleri == == Videografi == Live from London (1997) Rockin' the Globe (1999) The Very Best of Sheryl Crow: The Videos (2003) C'mon America 2003 (2003) Wildflower Tour Live from New York (2006) == Tek şarkılar (single) == == Kaynakça == == Dış bağlantılar == Resmi web sitesi16 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi. Sheryl Crow'un kariyeri ve diskografisi IMDb'de Sheryl Crow",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 210,
+      "char_count": 1353,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.857905",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 701,
+      "content": "Sheryl Suzanne Crow (d. 11 Şubat 1962, Kenneth, Missouri), Amerikalı rock ve pop şarkıcısı, gitarist, piyanist ve şarkı sözü yazarı. Bir süre piyano öğretmenliği de yapan Crow, 9 kez Grammy kazanmıştır. The Rolling Stones ile de sahneye çıkmış olan Crow'un Sting, Mick Jagger, Michael Jackson ve Kid Rock ile düetleri bulunmaktadır. Ayrıca Michael Jackson ile 1987-89 yılında dünya turnesine katılmıştır. Crow'un birçok film müziğinde de imzası bulunmaktadır. Arabalar, Erin Brockovich, Point Break, Home of the Brave, Shallow Hal, The X-Files, Home of the Brave, Stone Cold, Big Daddy ve Tomorrow Never Dies başlıcalarıdır. Crow ayrıca McDonald's ve Toyota firmalarının resmi cıngıllarını yapmıştır.",
+      "char_count": 700,
+      "token_estimate": 175
+    },
+    {
+      "id": "c0001",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 701,
+      "end_char": 953,
+      "content": "== Ödülleri == Grammy Ödülleri: 9 Amerikan Müzik Ödülleri: 3 Orwille H. Gibson Ödülleri: 2 TEC Ödülleri: 2 BRIT Ödülleri: 1 BMI Ödülleri: 1 BMI Kazanan Şarkılar: 8 ASCAP Ödülleri: 1 People's Choice Ödülleri: 1 BMG Music Club En Çok Satan Albüm Plak: 2",
+      "char_count": 251,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0002",
+      "section": "== Videografi ==",
+      "heading_path": "== Videografi ==",
+      "start_char": 969,
+      "end_char": 1151,
+      "content": "== Videografi == Live from London (1997) Rockin' the Globe (1999) The Very Best of Sheryl Crow: The Videos (2003) C'mon America 2003 (2003) Wildflower Tour Live from New York (2006)",
+      "char_count": 181,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1194,
+      "end_char": 1353,
+      "content": "== Dış bağlantılar == Resmi web sitesi16 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi. Sheryl Crow'un kariyeri ve diskografisi IMDb'de Sheryl Crow",
+      "char_count": 159,
+      "token_estimate": 39
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sheryl Crow kaç kez Grammy kazanmıştır?",
+        "answer": "9 kez.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sheryl Crow'un kariyerinde kazandığı ödüller arasında Grammy Ödülleri'nin özel bir yeri olduğunu gösteren bilgiler nelerdir?",
+        "answer": "Sheryl Crow'un biyografik özetinde önemli bir başarı olarak Grammy Ödülleri'nin özellikle belirtilmesi ve aldığı ödüllerin detaylı listesinde Grammy kategorisinde dokuz ödül kazanarak diğer ödül kategorileri arasında en yüksek sayıya ulaşması, Grammy Ödülleri'nin kariyerindeki özel yerini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

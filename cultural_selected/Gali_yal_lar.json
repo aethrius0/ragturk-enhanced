@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "galiyallar_0f642ffc",
+    "title": "Galiçyalılar",
+    "url": "https://tr.wikipedia.org/wiki/Gali%C3%A7yal%C4%B1lar",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:24.836365",
+    "content": "Galiçyalılar (Galiçyaca: Galegos), İberya'nın kuzeybatısında bulunan Galiçya bölgesinde yaşayan bir halk. Galiçyalılar, tarihî, kültürel ve dilsel açıdan kendine özgü bir kimlik geliştirmiştir. Galiçyaca, İspanyolca ve Portekizce ile yakın akrabalık taşır. == Tarih == Galiçyalıların tarihi, Antik Roma dönemine kadar uzanmaktadır. Roma İmparatorluğu döneminde, Galiçya bölgesi Gallaecia adıyla bilinmekteydi ve Roma etkisi altında önemli bir kültürel merkez hâline gelmiştir. Roma İmparatorluğu'nun yıkılmasının ardından, Galiçya, İber Yarımadası'nın kuzeybatısında önemli bir bağımsız krallık kurmuştur. Bu krallık, Galiçyalıların kültürel kimliğinin korunmasında önemli bir rol oynamıştır. == Dil == Galiçyalıların ana dili olan Galiçyaca, Latin dillerinden türemiştir. İber Yarımadası'nda konuşulan Portekizce ile yakın bir ilişkisi vardır. Orta Çağ'da Galiçyaca, bölgedeki en yaygın dil olmasına rağmen, 15. yüzyıldan itibaren Kastilya'nın etkisiyle yerini yavaşça İspanyolcaya bırakmaya başlamıştır. == Kültür == Galiçyalılar, zengin bir folklor mirasına sahiptir. Galiçya'nın müzikleri, özellikle gaita (Galiçya gaydası) ve alalás (bir tür geleneksel şarkı) ile tanınır. Ayrıca Galiçya mutfağı, özellikle deniz ürünleri ve mısır ekmeği gibi yemeklerle öne çıkar. == Demografi == Galiçya'nın nüfusu, büyük ölçüde kırsal alanlarda yoğunlaşmıştır. Ancak 20. yüzyılda Galiçyalıların önemli bir kısmı, ekonomik nedenlerle başta İspanya'nın diğer bölgeleri ve Latin Amerika'ya olmak üzere göç etmiştir. Özellikle Arjantin ve Küba, önemli sayıda Galiçya kökenli nüfusa ev sahipliği yapmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1609,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.871879",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 257,
+      "content": "Galiçyalılar (Galiçyaca: Galegos), İberya'nın kuzeybatısında bulunan Galiçya bölgesinde yaşayan bir halk. Galiçyalılar, tarihî, kültürel ve dilsel açıdan kendine özgü bir kimlik geliştirmiştir. Galiçyaca, İspanyolca ve Portekizce ile yakın akrabalık taşır.",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 257,
+      "end_char": 693,
+      "content": "== Tarih == Galiçyalıların tarihi, Antik Roma dönemine kadar uzanmaktadır. Roma İmparatorluğu döneminde, Galiçya bölgesi Gallaecia adıyla bilinmekteydi ve Roma etkisi altında önemli bir kültürel merkez hâline gelmiştir. Roma İmparatorluğu'nun yıkılmasının ardından, Galiçya, İber Yarımadası'nın kuzeybatısında önemli bir bağımsız krallık kurmuştur. Bu krallık, Galiçyalıların kültürel kimliğinin korunmasında önemli bir rol oynamıştır.",
+      "char_count": 435,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0002",
+      "section": "== Dil ==",
+      "heading_path": "== Dil ==",
+      "start_char": 693,
+      "end_char": 1006,
+      "content": "== Dil == Galiçyalıların ana dili olan Galiçyaca, Latin dillerinden türemiştir. İber Yarımadası'nda konuşulan Portekizce ile yakın bir ilişkisi vardır. Orta Çağ'da Galiçyaca, bölgedeki en yaygın dil olmasına rağmen, 15. yüzyıldan itibaren Kastilya'nın etkisiyle yerini yavaşça İspanyolcaya bırakmaya başlamıştır.",
+      "char_count": 312,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0003",
+      "section": "== Kültür ==",
+      "heading_path": "== Kültür ==",
+      "start_char": 1006,
+      "end_char": 1270,
+      "content": "== Kültür == Galiçyalılar, zengin bir folklor mirasına sahiptir. Galiçya'nın müzikleri, özellikle gaita (Galiçya gaydası) ve alalás (bir tür geleneksel şarkı) ile tanınır. Ayrıca Galiçya mutfağı, özellikle deniz ürünleri ve mısır ekmeği gibi yemeklerle öne çıkar.",
+      "char_count": 263,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0004",
+      "section": "== Demografi ==",
+      "heading_path": "== Demografi ==",
+      "start_char": 1270,
+      "end_char": 1595,
+      "content": "== Demografi == Galiçya'nın nüfusu, büyük ölçüde kırsal alanlarda yoğunlaşmıştır. Ancak 20. yüzyılda Galiçyalıların önemli bir kısmı, ekonomik nedenlerle başta İspanya'nın diğer bölgeleri ve Latin Amerika'ya olmak üzere göç etmiştir. Özellikle Arjantin ve Küba, önemli sayıda Galiçya kökenli nüfusa ev sahipliği yapmaktadır.",
+      "char_count": 324,
+      "token_estimate": 81
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Roma İmparatorluğu döneminde Galiçya bölgesi hangi adla bilinmekteydi?",
+        "answer": "Gallaecia",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Galiçyalıların kendine özgü kültürel kimliğinin oluşumunda tarihsel gelişimleri nasıl bir rol oynamıştır?",
+        "answer": "Galiçyalıların kendine özgü kültürel kimliği, Antik Roma döneminde Gallaecia bölgesinin Roma etkisiyle önemli bir kültürel merkez hâline gelmesiyle kök salmıştır. Roma İmparatorluğu'nun yıkılmasının ardından kurulan bağımsız Galiçya krallığı, bu kültürel kimliğin korunmasında kritik bir rol oynamış ve günümüzdeki tarihî, kültürel ve dilsel özelliklerinin temelini oluşturmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

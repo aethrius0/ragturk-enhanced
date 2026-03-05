@@ -1,0 +1,183 @@
+{
+  "article": {
+    "id": "granadacf_7e695d49",
+    "title": "Granada CF",
+    "url": "https://tr.wikipedia.org/wiki/Granada_CF",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:17.710450",
+    "content": "Granada Club de Fútbol, Granada merkezli, Endülüs özerk bölgesinde bulunan İspanyol futbol kulübü. 1931 yılında kurulan kulüp, La Liga'da mücadele etmektedir. Maçlarını 22.524 koltuk kapasiteli Yeni Los Cármenes Stadyumu'nda oynamaktadır. == Sezonlar == 18 sezon La Liga'da, 31 sezon Segunda Divisiónda, 22 sezon Segunda División B'de, 5 sezon Tercera División'da (1977-1978'den önce üçüncü düzeyde bulunmaktaydı), 2 sezon Regional'da. == Oyuncular == === Takım kadrosu === 11 Şubat 2025 itibarıyla. Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler. === Kiralık gidenler === Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler. == Başarılar == === Ulusal === Segunda División: 1940-41, 1956-57, 1967-68, 2022-23 Segunda División B: 2009-10, 1982-83, 1999-2000 Tercera División: 1933-34, 2003-04, 2005-06 === Ulusal turnuva başarıları === Copa del Rey: Finalist: 1958-59 En iyi La Liga pozisyonu: 6. 1971-72, 1973-74 La Liga tüm zamanların lig tablosu: 26. === Bölgesel === Copa de Andalucía: 1932-33 === Dostluk === Antonio Puerta Ödülü: 2010 === Bireysel başarılar === ==== Pichichi Ödülü ==== La Liga: Enrique Porta (1971-72) Segunda División: Miguel (1964-65), Rafa (1955-56) == Endülüs Derbisi == Doğu Endülüs Derbisi (Derbi Andaluz, Derbi Oriental), İspanya'nın Doğu Endülüs bölgesinde Malaga ve Granada takımları arasında oynanan maçlara verilen isimdir. == Stadyum == Takım kurulduğu 1931 tarihinden itibaren Campo de Las Tablas stadyumunda maçlarını oynamaya başladı. Bu stadın yetersiz olması nedeniyle 23 Aralık 1934 tarihinde yeni bir stadyum yapıldı; Estadio Los Cármenes. Kulüp, 1995 yılına kadar maçlarını bu stadyumda oynadı. 16 Mayıs 1995 tarihinde 16.212 koltuk kapasiteli Estadio Nuevo Los Cármenes adında yeni bir stadyum yapıldı. Kulüp 2011 yılının yaz aylarında La Liga'ya yükselmesinden sonra stadyum kapasitesini 22.524 koltuğa kadar genişletti. Boyutlar: 105x68 metre. Adres: C/ Pintor Manuel Maldonado s/n. Açılış tarihi: 16 Mayıs 1995, Real Madrid-Bayer Leverkusen (1-0) Granada CF takımının ilk maçı: 22 Ağustos 1995, Granada-Real Betis (4-1) XXIII Granada Trophy == Forma sponsorları ve üreticileri == == Efsane oyuncular == == Efsane teknik direktörler == Marcel Domingo Jenő Kalmár Francisco Bru Paco Chaparro Miguel Muñoz Joaquín Peiró Manuel Ruiz Sosa == Dış bağlantılar == Resmi websitesi11 Ağustos 2015 tarihinde Wayback Machine sitesinde arşivlendi. (İspanyolca) Futbolme takım profili 3 Ekim 2012 tarihinde Wayback Machine sitesinde arşivlendi. (İspanyolca) Resmi olmayan website 1 Ekim 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İspanyolca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 387,
+      "char_count": 2805,
+      "num_chunks": 13,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.285783",
+    "total_chunks": 13,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 239,
+      "content": "Granada Club de Fútbol, Granada merkezli, Endülüs özerk bölgesinde bulunan İspanyol futbol kulübü. 1931 yılında kurulan kulüp, La Liga'da mücadele etmektedir. Maçlarını 22.524 koltuk kapasiteli Yeni Los Cármenes Stadyumu'nda oynamaktadır.",
+      "char_count": 238,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0001",
+      "section": "== Sezonlar ==",
+      "heading_path": "== Sezonlar ==",
+      "start_char": 239,
+      "end_char": 436,
+      "content": "== Sezonlar == 18 sezon La Liga'da, 31 sezon Segunda Divisiónda, 22 sezon Segunda División B'de, 5 sezon Tercera División'da (1977-1978'den önce üçüncü düzeyde bulunmaktaydı), 2 sezon Regional'da.",
+      "char_count": 196,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0002",
+      "section": "=== Takım kadrosu ===",
+      "heading_path": "=== Takım kadrosu ===",
+      "start_char": 452,
+      "end_char": 660,
+      "content": "=== Takım kadrosu === 11 Şubat 2025 itibarıyla. Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler.",
+      "char_count": 207,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0003",
+      "section": "=== Kiralık gidenler ===",
+      "heading_path": "=== Kiralık gidenler ===",
+      "start_char": 660,
+      "end_char": 845,
+      "content": "=== Kiralık gidenler === Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler.",
+      "char_count": 184,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0004",
+      "section": "=== Ulusal ===",
+      "heading_path": "=== Ulusal ===",
+      "start_char": 861,
+      "end_char": 1021,
+      "content": "=== Ulusal === Segunda División: 1940-41, 1956-57, 1967-68, 2022-23 Segunda División B: 2009-10, 1982-83, 1999-2000 Tercera División: 1933-34, 2003-04, 2005-06",
+      "char_count": 159,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0005",
+      "section": "=== Ulusal turnuva başarıları ===",
+      "heading_path": "=== Ulusal turnuva başarıları ===",
+      "start_char": 1021,
+      "end_char": 1173,
+      "content": "=== Ulusal turnuva başarıları === Copa del Rey: Finalist: 1958-59 En iyi La Liga pozisyonu: 6. 1971-72, 1973-74 La Liga tüm zamanların lig tablosu: 26.",
+      "char_count": 151,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0006",
+      "section": "=== Bölgesel ===",
+      "heading_path": "=== Bölgesel ===",
+      "start_char": 1173,
+      "end_char": 1217,
+      "content": "=== Bölgesel === Copa de Andalucía: 1932-33",
+      "char_count": 43,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0007",
+      "section": "=== Dostluk ===",
+      "heading_path": "=== Dostluk ===",
+      "start_char": 1217,
+      "end_char": 1260,
+      "content": "=== Dostluk === Antonio Puerta Ödülü: 2010",
+      "char_count": 42,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0008",
+      "section": "==== Pichichi Ödülü ====",
+      "heading_path": "==== Pichichi Ödülü ====",
+      "start_char": 1287,
+      "end_char": 1396,
+      "content": "==== Pichichi Ödülü ==== La Liga: Enrique Porta (1971-72) Segunda División: Miguel (1964-65), Rafa (1955-56)",
+      "char_count": 108,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0009",
+      "section": "== Endülüs Derbisi ==",
+      "heading_path": "== Endülüs Derbisi ==",
+      "start_char": 1396,
+      "end_char": 1578,
+      "content": "== Endülüs Derbisi == Doğu Endülüs Derbisi (Derbi Andaluz, Derbi Oriental), İspanya'nın Doğu Endülüs bölgesinde Malaga ve Granada takımları arasında oynanan maçlara verilen isimdir.",
+      "char_count": 181,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0010",
+      "section": "== Stadyum ==",
+      "heading_path": "== Stadyum ==",
+      "start_char": 1578,
+      "end_char": 2308,
+      "content": "== Stadyum == Takım kurulduğu 1931 tarihinden itibaren Campo de Las Tablas stadyumunda maçlarını oynamaya başladı. Bu stadın yetersiz olması nedeniyle 23 Aralık 1934 tarihinde yeni bir stadyum yapıldı; Estadio Los Cármenes. Kulüp, 1995 yılına kadar maçlarını bu stadyumda oynadı. 16 Mayıs 1995 tarihinde 16.212 koltuk kapasiteli Estadio Nuevo Los Cármenes adında yeni bir stadyum yapıldı. Kulüp 2011 yılının yaz aylarında La Liga'ya yükselmesinden sonra stadyum kapasitesini 22.524 koltuğa kadar genişletti. Boyutlar: 105x68 metre. Adres: C/ Pintor Manuel Maldonado s/n. Açılış tarihi: 16 Mayıs 1995, Real Madrid-Bayer Leverkusen (1-0) Granada CF takımının ilk maçı: 22 Ağustos 1995, Granada-Real Betis (4-1) XXIII Granada Trophy",
+      "char_count": 729,
+      "token_estimate": 182
+    },
+    {
+      "id": "c0011",
+      "section": "== Efsane teknik direktörler ==",
+      "heading_path": "== Efsane teknik direktörler ==",
+      "start_char": 2370,
+      "end_char": 2501,
+      "content": "== Efsane teknik direktörler == Marcel Domingo Jenő Kalmár Francisco Bru Paco Chaparro Miguel Muñoz Joaquín Peiró Manuel Ruiz Sosa",
+      "char_count": 130,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0012",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2501,
+      "end_char": 2805,
+      "content": "== Dış bağlantılar == Resmi websitesi11 Ağustos 2015 tarihinde Wayback Machine sitesinde arşivlendi. (İspanyolca) Futbolme takım profili 3 Ekim 2012 tarihinde Wayback Machine sitesinde arşivlendi. (İspanyolca) Resmi olmayan website 1 Ekim 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İspanyolca)",
+      "char_count": 304,
+      "token_estimate": 76
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Estadio Nuevo Los Cármenes'in açılış tarihi nedir?",
+        "answer": "16 Mayıs 1995",
+        "related_chunk_ids": [
+          "c0010"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Granada Club de Fútbol, mevcut durumda La Liga'da mücadele etmesine rağmen, kulübün İspanyol futbol liglerindeki tarihsel varlığı boyunca en çok zaman geçirdiği ligler ve sezon sayıları nelerdir?",
+        "answer": "Granada Club de Fútbol, tarihinde en çok zamanı Segunda División'da 31 sezon ve Segunda División B'de 22 sezon geçirmiştir. La Liga'da 18 sezon, Tercera División'da 5 sezon ve Regional'da ise 2 sezon mücadele etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

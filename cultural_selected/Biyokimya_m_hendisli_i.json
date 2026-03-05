@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "biyokimyamhendislii_6915093c",
+    "title": "Biyokimya mühendisliği",
+    "url": "https://tr.wikipedia.org/wiki/Biyokimya_m%C3%BChendisli%C4%9Fi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:54.200308",
+    "content": "Biyokimya mühendisliği, biyolojik ve biyokimyasal olaylara dayalı süreç ve ürünleri tasarlamak, geliştirmek veya kullanmak için mühendislik ilkelerinin benimsenerek uygulanmasıdır. Biyoproses mühendisliği olarak da bilinen ve biyolojik olayları kimyasal prensiplerle araştıran, analiz eden bir mühendislik dalıdır. Canlı bir organizmada meydana gelen kimyasal olayların incelenmesi ile başlayan biyokimya araştırmaları günümüzde başta tıp olmak üzere tarım, beslenme ve ilaç endüstrisinde de uygulama alanı bulan bir bilim dalı haline gelmiştir. Biyoloji ve kimya temel bilimlerinin bir çalışma alanı olan biyokimya, temel mühendislik prensipleriyle birçok çalışmanın gelişmesine öncülük etmiştir. == Tarihçe == Biyolojik organizmaların kimyasal reaksiyonlarıyla ilgili yürütülen çalışmalar yüzlerce yıldır devam etmektedir. 1800'lü yılların ortalarında Louis Pasteur, fermantasyonu araştırırken bu organizmaların rolüne bakan ilk insanlardan biriydi. Pasteur'un çalışmaları günümüzde hala kullanmaya devam ettiğimiz pastörizasyon yöntemine katkıda bulundu. Friedrich Wöhler 1828 yılında inorganik bir bileşik olan amonyum siyanatı ısıtarak organik bir bileşik olan üreyi elde etti. Esas olarak sadece canlı organizmalarda bulunan organik bileşiklerin inorganik maddelerden elde edilebileceği ilk defa bu deneyle gösterilmiş oldu. 1900'lü yılların başında, mikroorganizmalar endüstriyel ürünlerin yapımında ilk defa kullanılmaya başlandı. Bu noktaya kadar biyokimya mühendisliği bir alan olarak henüz gelişmemişti. Alexander Fleming'in 1928'de penisilini keşfettikten sonra yaşanan yeni gelişmeler biyokimya mühendisliğinin önünü açmıştır. Günümüzde biyokimya mühendisleri gıda endüstrisinden, tıp, ilaç, kozmetik endüstrisine kadar çeşitli birçok alanda çalışmaktadır. == Biyokimya mühendisliğinin uygulama alanları == Biyokimya mühendisliği biyoteknolojinin bir alt dalı olarak kabul edilir ve birbirleriyle yakın ilişkilidir. Biyokimya mühendislerinin çalıştığı ilaç, yapay organlar, biyomedikal cihazlar, kimyasal sensörler gibi alanlar biyoteknolojinin de odak noktasıdır. Biyokimya mühendisleri, insan sağlığına katkı sağlayacak somut ürünler geliştirmek için biyolojik sistemlerde meydana gelen kimyasal süreçlerden yararlanırlar. Biyolojik sistemlerin, kimyasal süreçleri ve aralarındaki ilişki bu mühendislik dalının biyoproses mühendisliği olarak da adlandırılmasını sağlamıştır. Belirli çalışma alanlarından olan metabolik, enzim ve doku mühendisliği, hücre kültürlerinin incelenmesi, doğal yakıtların geliştirilmesinde, ilaç ve farmasötik proseslerin üretiminde verimliliğin arttırılması gibi birçok uygulama biyokimya mühendisliğinde ve biyoteknolojide yaygın olarak kullanılmaktadır. Biyokimya mühendisliğinin biyoteknoloji içindeki diğer tıbbi uygulamaları genetik testler ve farmakogenetik uygulamalardır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 322,
+      "char_count": 2836,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.749349",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 698,
+      "content": "Biyokimya mühendisliği, biyolojik ve biyokimyasal olaylara dayalı süreç ve ürünleri tasarlamak, geliştirmek veya kullanmak için mühendislik ilkelerinin benimsenerek uygulanmasıdır. Biyoproses mühendisliği olarak da bilinen ve biyolojik olayları kimyasal prensiplerle araştıran, analiz eden bir mühendislik dalıdır. Canlı bir organizmada meydana gelen kimyasal olayların incelenmesi ile başlayan biyokimya araştırmaları günümüzde başta tıp olmak üzere tarım, beslenme ve ilaç endüstrisinde de uygulama alanı bulan bir bilim dalı haline gelmiştir. Biyoloji ve kimya temel bilimlerinin bir çalışma alanı olan biyokimya, temel mühendislik prensipleriyle birçok çalışmanın gelişmesine öncülük etmiştir.",
+      "char_count": 697,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 698,
+      "end_char": 1698,
+      "content": "== Tarihçe == Biyolojik organizmaların kimyasal reaksiyonlarıyla ilgili yürütülen çalışmalar yüzlerce yıldır devam etmektedir. 1800'lü yılların ortalarında Louis Pasteur, fermantasyonu araştırırken bu organizmaların rolüne bakan ilk insanlardan biriydi. Pasteur'un çalışmaları günümüzde hala kullanmaya devam ettiğimiz pastörizasyon yöntemine katkıda bulundu. Friedrich Wöhler 1828 yılında inorganik bir bileşik olan amonyum siyanatı ısıtarak organik bir bileşik olan üreyi elde etti. Esas olarak sadece canlı organizmalarda bulunan organik bileşiklerin inorganik maddelerden elde edilebileceği ilk defa bu deneyle gösterilmiş oldu. 1900'lü yılların başında, mikroorganizmalar endüstriyel ürünlerin yapımında ilk defa kullanılmaya başlandı. Bu noktaya kadar biyokimya mühendisliği bir alan olarak henüz gelişmemişti. Alexander Fleming'in 1928'de penisilini keşfettikten sonra yaşanan yeni gelişmeler biyokimya mühendisliğinin önünü açmıştır. Günümüzde biyokimya mühendisleri gıda endüstrisinden, tıp,",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1498,
+      "end_char": 1769,
+      "content": "üz gelişmemişti. Alexander Fleming'in 1928'de penisilini keşfettikten sonra yaşanan yeni gelişmeler biyokimya mühendisliğinin önünü açmıştır. Günümüzde biyokimya mühendisleri gıda endüstrisinden, tıp, ilaç, kozmetik endüstrisine kadar çeşitli birçok alanda çalışmaktadır.",
+      "char_count": 271,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0003",
+      "section": "== Biyokimya mühendisliğinin uygulama alanları ==",
+      "heading_path": "== Biyokimya mühendisliğinin uygulama alanları ==",
+      "start_char": 1770,
+      "end_char": 2770,
+      "content": "== Biyokimya mühendisliğinin uygulama alanları == Biyokimya mühendisliği biyoteknolojinin bir alt dalı olarak kabul edilir ve birbirleriyle yakın ilişkilidir. Biyokimya mühendislerinin çalıştığı ilaç, yapay organlar, biyomedikal cihazlar, kimyasal sensörler gibi alanlar biyoteknolojinin de odak noktasıdır. Biyokimya mühendisleri, insan sağlığına katkı sağlayacak somut ürünler geliştirmek için biyolojik sistemlerde meydana gelen kimyasal süreçlerden yararlanırlar. Biyolojik sistemlerin, kimyasal süreçleri ve aralarındaki ilişki bu mühendislik dalının biyoproses mühendisliği olarak da adlandırılmasını sağlamıştır. Belirli çalışma alanlarından olan metabolik, enzim ve doku mühendisliği, hücre kültürlerinin incelenmesi, doğal yakıtların geliştirilmesinde, ilaç ve farmasötik proseslerin üretiminde verimliliğin arttırılması gibi birçok uygulama biyokimya mühendisliğinde ve biyoteknolojide yaygın olarak kullanılmaktadır. Biyokimya mühendisliğinin biyoteknoloji içindeki diğer tıbbi uygulamalar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Biyokimya mühendisliğinin uygulama alanları ==",
+      "heading_path": "== Biyokimya mühendisliğinin uygulama alanları ==",
+      "start_char": 2570,
+      "end_char": 2821,
+      "content": "nde verimliliğin arttırılması gibi birçok uygulama biyokimya mühendisliğinde ve biyoteknolojide yaygın olarak kullanılmaktadır. Biyokimya mühendisliğinin biyoteknoloji içindeki diğer tıbbi uygulamaları genetik testler ve farmakogenetik uygulamalardır.",
+      "char_count": 251,
+      "token_estimate": 62
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Louis Pasteur, fermantasyonu araştırırken hangi yöntemin geliştirilmesine katkıda bulunmuştur?",
+        "answer": "Pastörizasyon",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Biyokimya mühendisliğinin tanımlanan prensiplerini ve günümüzdeki geniş uygulama alanlarını şekillendiren tarihsel bilimsel gelişmeler nelerdir?",
+        "answer": "Biyokimya mühendisliği, biyolojik ve biyokimyasal olaylara dayalı süreç ve ürünleri tasarlamak için mühendislik ilkelerini benimser ve başta tıp, tarım, beslenme ve ilaç endüstrisi olmak üzere geniş bir uygulama yelpazesine sahiptir. Bu alandaki gelişimin temelini atan önemli adımlar arasında, Friedrich Wöhler'in 1828'de inorganik bir bileşikten organik üre sentezlemesiyle organik maddelerin canlı dışı sentezinin mümkün olduğunun gösterilmesi ve Louis Pasteur'ün fermantasyonda mikroorganizmaların rolünü araştırması yer alır. Ancak biyokimya mühendisliğinin bağımsız bir alan olarak ilerlemesinin önünü açan en kritik gelişme, Alexander Fleming'in 1928'deki penisilin keşfinin ardından biyolojik olaylara dayalı endüstriyel ürün ve süreç geliştirme potansiyelinin netleşmesidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

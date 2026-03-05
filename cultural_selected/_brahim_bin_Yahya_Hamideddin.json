@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "brahimbinyahyahamide_8b2c6df1",
+    "title": "İbrahim bin Yahya Hamideddin",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0brahim_bin_Yahya_Hamideddin",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:22.646893",
+    "content": "Seyfülisam İbrahim bin Yahya Hamideddin (Arapça: سيف الإسلام إبراهيم بن يحيى حميد الدين romanize:Säyf'ûlislam İbrahim bin Yahya Hemideddin) Yemenli devrimci ve vezirdir. İmam Yahya'nın sekizinci ve kardeşi İsmail bin Yahya ile en sevmediği çocuğuydu. Babasına karşı 1948'de yapılan Yemen Meşrutiyet Devrimi'ne katıldı. Yönetimi ele geçirmiş Abdullah el-Vezir tarafından 1 günlüğüne Yemen veziri oldu. Darbe'nin ardından aşiret destekli Ahmed bin Yahya'nın karşılığıyla darbe başarısız oldu ve İbrahim bin Yahya zehirlenene kadar 2 ay boyunca gözaltında kaldı. == Hayatı == İbrahim bin Yahya 1915 yılında doğdu. İmam Yahya ondan memnun değildi. En çok azarladığı çocuğuydu. Kardeşi İsmail bin Yahya ile birlikte Sana'a kentindeki Edebiyat Evi'ne yerleştirildi. İbrahim babasının küçükken ona tavırları yüzünden her zaman ondan nefret etti ve her seferinde babasının yönetimini eleştirerek tahtı ele geçirebilmek için fırsatları bekledi. Babası San'a'nın kuzeyindeki el-Ravda şehrinde hastalandığında birkaç komutan ve aşiret lideriyle temasa geçerek, Sana'a şehrindeki Dârü'l-Hacer, el-Salalah Sarayı gibi önemli noktaları ele geçirip babası ve kardeşi Ali bin Yahya'yı tutuklamayı iktidarı ele geçirmeyi planladı. Planını Şair Ahmed bin Muhammed el-Şami gibi güvendiği kişilere gösterdi fakat kimse onu desteklemedi. Planının babasına gideceğinden korktuğu için Yemen'den kaçabilmek için hasta taklidi yapmaya başladı. Sara nöbetleri geçirdiğini ve delirdiği söylentilerini çıkarttı. Deli taklidi çok inandırıcı olduğu ve doktorlarda çözüm bulamadığı için doktorlar babasına tedavi görmesi için Etiopya'ya gönderilmesini tavsiye etti. Tercüman olması için iyi derecede İngilizce bilen Profesör Ahmed el-Burak ile tedavi için seyahate çıktılar. Bir süre Asmara'da kaldıktan sonra Aden şehrine gittiler ve İbrahim babasının yönetimine karşı kurulmuş olan Ahrar Partisi'ne katıldı. === Yemen Meşrutiyet Devrimi === 17 Şubat 1948 Salı günü öğleden sonra İmam Yahya Sana'a'nın Haziz bölgesinde pusuya düşürüldü ve çatışmada öldü. İmam Yahya öldürüldükten sonraki gün Ghamdan Sarayı'nın önünde şeyhlerin ve devlet büyüklerinin de olduğu bir kalabalık toplandı. Kalabalık Abdullah el-Vezirî'yi meşru imam olarak atamaya karar verdikleri bir toplantı yaptılar. İbrahim bu olaydan sonra Sana'a şehrine döndü ve el-Vezirî onu vezir olarak atadı. Yeni imam ve meşrutiyet sistemi 19 Şubat 1948 Perşembe günü Sana'a Radyosunda yayımlandı. Ahmed bin Yahya askerleri ile Sana'daki askerleri dağıttıktan sonra darbe başarısız oldu. Darbeci birkaç lideri onu tutukladı ve Hacca şehrindeki el-Muayyed Evi olarak adlandırılan hücre hapsine yerleştirildi. İbrahim, devrimin başarısızlığından iki ay sonra zehirlenene kadar gözaltında kaldı. Cesedi Hacca şehrine gömüldü. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 367,
+      "char_count": 2765,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.257721",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 560,
+      "content": "Seyfülisam İbrahim bin Yahya Hamideddin (Arapça: سيف الإسلام إبراهيم بن يحيى حميد الدين romanize:Säyf'ûlislam İbrahim bin Yahya Hemideddin) Yemenli devrimci ve vezirdir. İmam Yahya'nın sekizinci ve kardeşi İsmail bin Yahya ile en sevmediği çocuğuydu. Babasına karşı 1948'de yapılan Yemen Meşrutiyet Devrimi'ne katıldı. Yönetimi ele geçirmiş Abdullah el-Vezir tarafından 1 günlüğüne Yemen veziri oldu. Darbe'nin ardından aşiret destekli Ahmed bin Yahya'nın karşılığıyla darbe başarısız oldu ve İbrahim bin Yahya zehirlenene kadar 2 ay boyunca gözaltında kaldı.",
+      "char_count": 559,
+      "token_estimate": 139
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 560,
+      "end_char": 1560,
+      "content": "== Hayatı == İbrahim bin Yahya 1915 yılında doğdu. İmam Yahya ondan memnun değildi. En çok azarladığı çocuğuydu. Kardeşi İsmail bin Yahya ile birlikte Sana'a kentindeki Edebiyat Evi'ne yerleştirildi. İbrahim babasının küçükken ona tavırları yüzünden her zaman ondan nefret etti ve her seferinde babasının yönetimini eleştirerek tahtı ele geçirebilmek için fırsatları bekledi. Babası San'a'nın kuzeyindeki el-Ravda şehrinde hastalandığında birkaç komutan ve aşiret lideriyle temasa geçerek, Sana'a şehrindeki Dârü'l-Hacer, el-Salalah Sarayı gibi önemli noktaları ele geçirip babası ve kardeşi Ali bin Yahya'yı tutuklamayı iktidarı ele geçirmeyi planladı. Planını Şair Ahmed bin Muhammed el-Şami gibi güvendiği kişilere gösterdi fakat kimse onu desteklemedi. Planının babasına gideceğinden korktuğu için Yemen'den kaçabilmek için hasta taklidi yapmaya başladı. Sara nöbetleri geçirdiğini ve delirdiği söylentilerini çıkarttı. Deli taklidi çok inandırıcı olduğu ve doktorlarda çözüm bulamadığı için dokt",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1360,
+      "end_char": 1878,
+      "content": "n Yemen'den kaçabilmek için hasta taklidi yapmaya başladı. Sara nöbetleri geçirdiğini ve delirdiği söylentilerini çıkarttı. Deli taklidi çok inandırıcı olduğu ve doktorlarda çözüm bulamadığı için doktorlar babasına tedavi görmesi için Etiopya'ya gönderilmesini tavsiye etti. Tercüman olması için iyi derecede İngilizce bilen Profesör Ahmed el-Burak ile tedavi için seyahate çıktılar. Bir süre Asmara'da kaldıktan sonra Aden şehrine gittiler ve İbrahim babasının yönetimine karşı kurulmuş olan Ahrar Partisi'ne katıldı.",
+      "char_count": 518,
+      "token_estimate": 129
+    },
+    {
+      "id": "c0003",
+      "section": "=== Yemen Meşrutiyet Devrimi ===",
+      "heading_path": "=== Yemen Meşrutiyet Devrimi ===",
+      "start_char": 1879,
+      "end_char": 2751,
+      "content": "=== Yemen Meşrutiyet Devrimi === 17 Şubat 1948 Salı günü öğleden sonra İmam Yahya Sana'a'nın Haziz bölgesinde pusuya düşürüldü ve çatışmada öldü. İmam Yahya öldürüldükten sonraki gün Ghamdan Sarayı'nın önünde şeyhlerin ve devlet büyüklerinin de olduğu bir kalabalık toplandı. Kalabalık Abdullah el-Vezirî'yi meşru imam olarak atamaya karar verdikleri bir toplantı yaptılar. İbrahim bu olaydan sonra Sana'a şehrine döndü ve el-Vezirî onu vezir olarak atadı. Yeni imam ve meşrutiyet sistemi 19 Şubat 1948 Perşembe günü Sana'a Radyosunda yayımlandı. Ahmed bin Yahya askerleri ile Sana'daki askerleri dağıttıktan sonra darbe başarısız oldu. Darbeci birkaç lideri onu tutukladı ve Hacca şehrindeki el-Muayyed Evi olarak adlandırılan hücre hapsine yerleştirildi. İbrahim, devrimin başarısızlığından iki ay sonra zehirlenene kadar gözaltında kaldı. Cesedi Hacca şehrine gömüldü.",
+      "char_count": 871,
+      "token_estimate": 217
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İbrahim bin Yahya hangi yıl doğdu?",
+        "answer": "1915 yılında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İbrahim bin Yahya'nın babası İmam Yahya'ya karşı duyduğu kişisel nefret ve iktidarı ele geçirme arzusu, 1948 Yemen Meşrutiyet Devrimi'ne katılımını nasıl etkiledi?",
+        "answer": "İbrahim bin Yahya, babası İmam Yahya'nın ona karşı sergilediği tutumlar ve azarlamaları nedeniyle babasından nefret ediyordu ve onun yönetimini sürekli eleştiriyordu. Bu durum, tahtı ele geçirmek için fırsatlar kollamasına neden oldu. Babasının iktidarını ele geçirme planları yapmış, hatta planının ortaya çıkmasından korktuğu için hasta taklidi yaparak Yemen'den kaçmış ve babasının yönetimine karşı kurulan Ahrar Partisi'ne katılmıştı. Bu uzun süreli kişisel memnuniyetsizlik, babasının yönetimine karşı çıkan bu devrime katılımının temel motivasyonlarından biri haline geldi ve nihayet 1948 Yemen Meşrutiyet Devrimi'nde yer alarak bir günlüğüne vezir oldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

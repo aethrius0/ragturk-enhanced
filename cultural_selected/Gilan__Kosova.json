@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "gilankosova_0508cec0",
+    "title": "Gilan, Kosova",
+    "url": "https://tr.wikipedia.org/wiki/Gilan%2C_Kosova",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:04.517680",
+    "content": "Gilan (Arnavutça: Gjilani veya Gjilan; Sırpça: Гњилане / Gnjilane; Osmanlıca: Gölhan, Gülhan veya Külhan), Kosova'nın doğusunda bir şehir. De facto olarak Kosova’nın Gilan ilinde; de jure olarak Sırbistan’a bağlı Kosova ve Metohiya Özerk Bölgesi’nin Kosovskopomoravski Okrug’unda yer alır. Ayrıca de jure olarak Birleşmiş Milletler Kosova Geçici Yönetim Misyonu’nun Gilan Bölgesi’nde (District of Gnjilane) bulunur. Koordinatları, 42.27° Kuzey ve 21.28° Doğu şeklindedir. == Tarih == Gilan isminin kökeni hakkında tartışmalar vardır. Arnavut kaynaklar şehrin geç Orta Çağ döneminde Balkanlar’ın merkezî yerlerinden olan Nobırda'dan gelen Ginay Ailesinden Bahti Beg Ginoli tarafından 1772'de kurulduğunu iddia ederler. Ginay Ailesi fikri, geç dönemi işaret ettiği için, pek geçerli görünmemektedir. Sırp kaynaklar ise bu ismin Sırpçada \"rezil\" anlamına gelen Gnjidav'dan geldiğini ve 14. yüzyıldan beri kullanıldığını iddia ederler. Osmanlı devri haritalarının bazılarına ve bazı telaffuzlara dayanılarak “Gilan” şeklinin, Gülhan olduğuna dair fikirler vardır. Eski devirlere ait bazı Osmanlıca Kosova haritalarında Türkçe, “Gülhan” imlasına rastlanır. == Coğrafya == Gilan şehri ve Gilan ili, Kosova'nın güneydoğu kesiminde yer alır. Gilan ilinin sınırları içinde sırpça adıyla bilinen Binaçka Morava Arnavutça adıyla Morava e Binçes nehri akmaktadır. Konum olarak Sırbistan'a ve biraz daha uzaktan da Makedonya'ya yakındır. Sırbistan ile iki anasınır kapısı vardir. Kameniçe (Kamenisa) kasabasına yakın olan Dheu Bardh (Beyaz Toprak) adıyla bilinen sınırkapısı Gilan - Bujanovcë (Buyanovsa) yol güzergâhındadır. Diğer sınırkapısı ise Gilan - Preşova güzergâhında olan Muçi Baba sınırkapısıdır. Bu iki sınırkapısı Kosova ile Sırbistan'ın önemli sınırkapılarıdır. Gilan ilinin biraz daha güney doğusuna bakıldığında ise Zhegër (Jegra) ilçesine bağlı olan, hâlen yol ve sınırkapsı inşası devam etmektedir. Bellanoc - Stançiç sınırkapısı Kosova ve Makedonya'yı çizen sınırkapısı olacaktır. Gilan ile Kumanova'yı birleştirecek olan bu sınırkapısı iki şehir için hem ekonomi açısından, hem de ulaşım açısından çok büyük kolaylık sağlanacağı düşünülüyor. == Nüfus == 1991 yılında nüfusu 103.675 kişidir. Bu rakamın yaklaşık %88'ini Arnavutlar, gene yaklaşık %12'sini Türkler ve Sırplar oluşturur. Gilan'ın Türk nüfusundaki azlık, son süreçlerdeki dış göçün sonucudur. Gilan, Türkiye'ye büyük oranda göç vermiş bir bölgedir. Bölgeden Türkiye'ye göçen aileler arasında Gilan, Gelan, Geylan soyadları yaygınca kullanılır. 2011 nüfus sayımında Gilan nüfusu 90.015 olarak sonuçlanmıştır. == Kültürel Yapı == Gilan Belediyesi sınırları içinde Arnavutça, Sırpça ve Türkçe şehirdeki resmî diller arasında yer almaktadır. Gilan'a bağlı Doburçan köyü de Türk yerleşimi açısından ön plandadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 369,
+      "char_count": 2791,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.178610",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 472,
+      "content": "Gilan (Arnavutça: Gjilani veya Gjilan; Sırpça: Гњилане / Gnjilane; Osmanlıca: Gölhan, Gülhan veya Külhan), Kosova'nın doğusunda bir şehir. De facto olarak Kosova’nın Gilan ilinde; de jure olarak Sırbistan’a bağlı Kosova ve Metohiya Özerk Bölgesi’nin Kosovskopomoravski Okrug’unda yer alır. Ayrıca de jure olarak Birleşmiş Milletler Kosova Geçici Yönetim Misyonu’nun Gilan Bölgesi’nde (District of Gnjilane) bulunur. Koordinatları, 42.27° Kuzey ve 21.28° Doğu şeklindedir.",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 472,
+      "end_char": 1152,
+      "content": "== Tarih == Gilan isminin kökeni hakkında tartışmalar vardır. Arnavut kaynaklar şehrin geç Orta Çağ döneminde Balkanlar’ın merkezî yerlerinden olan Nobırda'dan gelen Ginay Ailesinden Bahti Beg Ginoli tarafından 1772'de kurulduğunu iddia ederler. Ginay Ailesi fikri, geç dönemi işaret ettiği için, pek geçerli görünmemektedir. Sırp kaynaklar ise bu ismin Sırpçada \"rezil\" anlamına gelen Gnjidav'dan geldiğini ve 14. yüzyıldan beri kullanıldığını iddia ederler. Osmanlı devri haritalarının bazılarına ve bazı telaffuzlara dayanılarak “Gilan” şeklinin, Gülhan olduğuna dair fikirler vardır. Eski devirlere ait bazı Osmanlıca Kosova haritalarında Türkçe, “Gülhan” imlasına rastlanır.",
+      "char_count": 679,
+      "token_estimate": 169
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 1152,
+      "end_char": 2149,
+      "content": "== Coğrafya == Gilan şehri ve Gilan ili, Kosova'nın güneydoğu kesiminde yer alır. Gilan ilinin sınırları içinde sırpça adıyla bilinen Binaçka Morava Arnavutça adıyla Morava e Binçes nehri akmaktadır. Konum olarak Sırbistan'a ve biraz daha uzaktan da Makedonya'ya yakındır. Sırbistan ile iki anasınır kapısı vardir. Kameniçe (Kamenisa) kasabasına yakın olan Dheu Bardh (Beyaz Toprak) adıyla bilinen sınırkapısı Gilan - Bujanovcë (Buyanovsa) yol güzergâhındadır. Diğer sınırkapısı ise Gilan - Preşova güzergâhında olan Muçi Baba sınırkapısıdır. Bu iki sınırkapısı Kosova ile Sırbistan'ın önemli sınırkapılarıdır. Gilan ilinin biraz daha güney doğusuna bakıldığında ise Zhegër (Jegra) ilçesine bağlı olan, hâlen yol ve sınırkapsı inşası devam etmektedir. Bellanoc - Stançiç sınırkapısı Kosova ve Makedonya'yı çizen sınırkapısı olacaktır. Gilan ile Kumanova'yı birleştirecek olan bu sınırkapısı iki şehir için hem ekonomi açısından, hem de ulaşım açısından çok büyük kolaylık sağlanacağı düşünülüyor.",
+      "char_count": 996,
+      "token_estimate": 249
+    },
+    {
+      "id": "c0003",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 2149,
+      "end_char": 2577,
+      "content": "== Nüfus == 1991 yılında nüfusu 103.675 kişidir. Bu rakamın yaklaşık %88'ini Arnavutlar, gene yaklaşık %12'sini Türkler ve Sırplar oluşturur. Gilan'ın Türk nüfusundaki azlık, son süreçlerdeki dış göçün sonucudur. Gilan, Türkiye'ye büyük oranda göç vermiş bir bölgedir. Bölgeden Türkiye'ye göçen aileler arasında Gilan, Gelan, Geylan soyadları yaygınca kullanılır. 2011 nüfus sayımında Gilan nüfusu 90.015 olarak sonuçlanmıştır.",
+      "char_count": 427,
+      "token_estimate": 106
+    },
+    {
+      "id": "c0004",
+      "section": "== Kültürel Yapı ==",
+      "heading_path": "== Kültürel Yapı ==",
+      "start_char": 2577,
+      "end_char": 2777,
+      "content": "== Kültürel Yapı == Gilan Belediyesi sınırları içinde Arnavutça, Sırpça ve Türkçe şehirdeki resmî diller arasında yer almaktadır. Gilan'a bağlı Doburçan köyü de Türk yerleşimi açısından ön plandadır.",
+      "char_count": 199,
+      "token_estimate": 49
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gilan şehri ve Gilan ili, Kosova'nın hangi kesiminde yer almaktadır?",
+        "answer": "Kosova'nın güneydoğu kesiminde yer almaktadır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gilan'ın adının kökenine dair tarihi tartışmalar ve farklı dillerdeki isimlendirmeleri, şehrin birden fazla idari yapıya bağlılığını ve stratejik coğrafi konumunu nasıl yansıtmaktadır?",
+        "answer": "Gilan'ın isminin kökeni hakkında Arnavut kaynaklarından 1772'de Ginay Ailesi tarafından kurulduğu iddiaları, Sırp kaynaklarının 14. yüzyıldan beri 'rezil' anlamına gelen Gnjidav'dan geldiğini öne sürmesi ve Osmanlı devri haritalarında 'Gülhan' olarak geçmesi gibi farklı görüşler, şehrin zengin ve tartışmalı tarihini gözler önüne sermektedir. Bu çok katmanlı isimlendirme ve köken tartışmaları, şehrin de facto olarak Kosova'nın Gilan ilinde, de jure olarak Sırbistan'a bağlı Kosova ve Metohiya Özerk Bölgesi'nin Kosovskopomoravski Okrug'unda ve Birleşmiş Milletler Kosova Geçici Yönetim Misyonu'nun Gilan Bölgesi'nde yer alması gibi birden fazla idari yapıya tabi oluşuyla bir paralellik göstermektedir. Ayrıca, şehrin Kosova'nın güneydoğu kesiminde, Sırbistan ve Makedonya'ya yakın bir konumda olması ve önemli sınır kapılarına ev sahipliği yapması (Dheu Bardh, Muçi Baba ve gelecekteki Bellanoc - Stançiç sınır kapıları gibi), hem tarihi hem de modern dönemdeki stratejik önemini vurgulayarak bu idari ve isimlendirme karmaşıklığının nedenlerini açıkça ortaya koymaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "potsdamgn_0872ef8b",
+    "title": "Potsdam Günü",
+    "url": "https://tr.wikipedia.org/wiki/Potsdam_G%C3%BCn%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:55.208215",
+    "content": "Potsdam Günü (Almanca: Tag von Potsdam) veya Potsdam Kutlaması, 21 Mart 1933'te Reichstag yangınını takiben, Mart 1933'teki Alman federal seçimlerinden sonra yeni Reichstag'ın açılış töreniydi. Adolf Hitler ve Joseph Goebbels, burayı eski Büyük Friedrich'in Prusya Krallığı'nın ve Otto von Bismarck'ın İkinci Reich'ının merkezi olduğu için seçti. Tarih olarak 21 Mart 1871'de İmparatorluk Almanya'sının ilk Reichstag'ını açıldığı için bu tarihte seçildi. Katılımcılar arasında Hohenzollern hanedanının onur konuğu ve temsilcisi Veliaht Prens Wilhelm ve hayatta kalan üç erkek kardeşi Prens Eitel Friedrich ve Prens Oskar, her ikisi de Der Stahlhelm ve SA'dan Oberführer Prens August Wilhelm vardı. Prens Adalbert törene katılmayan tek kardeşti. Bütünüyle radyoda yayınlanan şenlikler dini ayinler ile başladı. Reichstag'ın Protestan üyeleri, aralarında meclis başkanı Hermann Göring'in de bulunduğu, Otto Dibelius'un başkanlık ettiği Aziz Nikola Kilisesi'nde ayinler düzenlediler. Katolikler, Peter ve Paul Kilisesi'nde ayin yaptılar. Ne Hitler ne de Goebbels bu dini törenlere katılmadı, ancak daha sonra Garnizon Kilisesi'ndeki bir devlet törenine katıldılar. Konuşmalar cumhurbaşkanı Paul von Hindenburg ve yeni Reichskanzler (Adolf Hitler) tarafından yapıldı, ardından ikisi \"eski ihtişam ve yeni gücün evliliğini\" sembolize eden ciddi bir şekilde tokalaştılar. Hindenburg, Büyük Friedrich'in mezarına bir çelenk koydu. Daha sonra Reichswehr, SA, SS, Stahlhelm ve diğerleri tarafından geçit törenleri düzenlendi. Reichstag binası yangında kullanılamaz hale getirildiği için nihayet milletvekilleri Kroll Opera Binası'nda yeni Reichstag'ı topladı. O akşam kutlamalar, bir meşale ışığı geçidi ve Hitler'in de katılımıyla Berlin Devlet Operası'nda Richard Wagner'in Die Meistersinger von Nürnberg performansıyla sona erdi. Bir yıl sonra, kiliseyi ve \"21 März 1933\" tarihini gösteren iki ve beş Reichsmark sikkeleri basıldı. Nadir değildirler, ancak her iki mezhepten daha fazla sayıda 1934-5'te anma tarihi olmaksızın yayınlanmıştır. == Ayrıca bakınız == Reichstag Yangını Adolf Hitler'in iktidara yükselişi Gleichschaltung Yetki Kanunu == Kaynakça == == Dış bağlantılar == Der Tag von Potsdam. 21. März 1933 12 Mart 2017 tarihinde Wayback Machine sitesinde arşivlendi. propaganda belgeseli ABD Holokost Müzesi 'nde mevcuttur.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 308,
+      "char_count": 2327,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.863948",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Potsdam Günü (Almanca: Tag von Potsdam) veya Potsdam Kutlaması, 21 Mart 1933'te Reichstag yangınını takiben, Mart 1933'teki Alman federal seçimlerinden sonra yeni Reichstag'ın açılış töreniydi. Adolf Hitler ve Joseph Goebbels, burayı eski Büyük Friedrich'in Prusya Krallığı'nın ve Otto von Bismarck'ın İkinci Reich'ının merkezi olduğu için seçti. Tarih olarak 21 Mart 1871'de İmparatorluk Almanya'sının ilk Reichstag'ını açıldığı için bu tarihte seçildi. Katılımcılar arasında Hohenzollern hanedanının onur konuğu ve temsilcisi Veliaht Prens Wilhelm ve hayatta kalan üç erkek kardeşi Prens Eitel Friedrich ve Prens Oskar, her ikisi de Der Stahlhelm ve SA'dan Oberführer Prens August Wilhelm vardı. Prens Adalbert törene katılmayan tek kardeşti. Bütünüyle radyoda yayınlanan şenlikler dini ayinler ile başladı. Reichstag'ın Protestan üyeleri, aralarında meclis başkanı Hermann Göring'in de bulunduğu, Otto Dibelius'un başkanlık ettiği Aziz Nikola Kilisesi'nde ayinler düzenlediler. Katolikler, Peter v",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": " başladı. Reichstag'ın Protestan üyeleri, aralarında meclis başkanı Hermann Göring'in de bulunduğu, Otto Dibelius'un başkanlık ettiği Aziz Nikola Kilisesi'nde ayinler düzenlediler. Katolikler, Peter ve Paul Kilisesi'nde ayin yaptılar. Ne Hitler ne de Goebbels bu dini törenlere katılmadı, ancak daha sonra Garnizon Kilisesi'ndeki bir devlet törenine katıldılar. Konuşmalar cumhurbaşkanı Paul von Hindenburg ve yeni Reichskanzler (Adolf Hitler) tarafından yapıldı, ardından ikisi \"eski ihtişam ve yeni gücün evliliğini\" sembolize eden ciddi bir şekilde tokalaştılar. Hindenburg, Büyük Friedrich'in mezarına bir çelenk koydu. Daha sonra Reichswehr, SA, SS, Stahlhelm ve diğerleri tarafından geçit törenleri düzenlendi. Reichstag binası yangında kullanılamaz hale getirildiği için nihayet milletvekilleri Kroll Opera Binası'nda yeni Reichstag'ı topladı. O akşam kutlamalar, bir meşale ışığı geçidi ve Hitler'in de katılımıyla Berlin Devlet Operası'nda Richard Wagner'in Die Meistersinger von Nürnberg pe",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2034,
+      "content": "i Kroll Opera Binası'nda yeni Reichstag'ı topladı. O akşam kutlamalar, bir meşale ışığı geçidi ve Hitler'in de katılımıyla Berlin Devlet Operası'nda Richard Wagner'in Die Meistersinger von Nürnberg performansıyla sona erdi. Bir yıl sonra, kiliseyi ve \"21 März 1933\" tarihini gösteren iki ve beş Reichsmark sikkeleri basıldı. Nadir değildirler, ancak her iki mezhepten daha fazla sayıda 1934-5'te anma tarihi olmaksızın yayınlanmıştır.",
+      "char_count": 434,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2035,
+      "end_char": 2138,
+      "content": "== Ayrıca bakınız == Reichstag Yangını Adolf Hitler'in iktidara yükselişi Gleichschaltung Yetki Kanunu",
+      "char_count": 102,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2153,
+      "end_char": 2327,
+      "content": "== Dış bağlantılar == Der Tag von Potsdam. 21. März 1933 12 Mart 2017 tarihinde Wayback Machine sitesinde arşivlendi. propaganda belgeseli ABD Holokost Müzesi 'nde mevcuttur.",
+      "char_count": 174,
+      "token_estimate": 43
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Potsdam Günü veya Potsdam Kutlaması neyin açılış töreniydi?",
+        "answer": "Mart 1933'teki Alman federal seçimlerinden sonra yeni Reichstag'ın açılış töreniydi.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Potsdam Günü'nün düzenleyicileri, yeni Reichstag'ın açılışında eski Prusya ve İkinci Reich'ın tarihi ihtişamını ve otoritesini yeni rejimle nasıl birleştirmeye çalıştılar?",
+        "answer": "Potsdam Günü'nün düzenleyicileri, Büyük Friedrich'in Prusya Krallığı'nın ve Bismarck'ın İkinci Reich'ının merkezi olduğu için Potsdam'ı, İmparatorluk Almanya'sının ilk Reichstag'ının açıldığı tarih olan 21 Mart'ı ise etkinlik tarihi olarak seçti. Bu tarihi bağlantı, Cumhurbaşkanı Paul von Hindenburg ve Adolf Hitler'in eski ihtişam ve yeni gücün evliliğini sembolize eden tokalaşması, Hindenburg'un Büyük Friedrich'in mezarına çelenk koyması ve Reichswehr, SA, SS ve Stahlhelm gibi çeşitli grupların katıldığı geçit törenleri gibi olaylarla pekiştirildi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

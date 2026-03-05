@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "jeanroyer_7b841d35",
+    "title": "Jean Royer",
+    "url": "https://tr.wikipedia.org/wiki/Jean_Royer",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:45.276360",
+    "content": "Jean Royer (d. 31 Ekim 1920, Nevers (Nièvre) - ö. 25 Mart 2011, Chambray-lès-Tours (Indre-et-Loire)) Fransız muhafazakâr sağ siyasetçi, eski bakan. İlk kez 1958 yılında milletvekili seçilmiş ve 1993 yılına kadar hiçbir meclis grubuna üye olmamıştır. 1959-1995 yıllarında Tours belediye başkanlığı görevinde bulunmuştur. 1973 yılında Ticaret Bakanı olarak atanmış ardından, 1974 yılında kurulan yeni hükûmette Posta ve Telekomünikasyon Bakanı olmuş, Georges Pompidou'nun ölümünün ardından 11 Nisan 1974 tarihinde bakanlıktan istifa ederek cumhurbaşkanı adayı olmuştur. Ancak seçimlerde %3,17 oy almıştır. Ara seçimlerle beraber 9 Mayıs 1976'da tekrar milletvekili seçilmiş ve 1997'ye değin milletvekilliği görevini sürdürmüştür. 30 Nisan 1993 - 21 Nisan 1997 tarihlerinde Cumhuriyet ve Özgürlük grubunun üyesi olarak milletvekilliğini yürütmüştür. 1999 Avrupa Parlamentosu seçimlerinde milli egemenlikçi Philippe de Villiers'nin listesini desteklemiş, 2002 Fransa cumhurbaşkanlığı seçimlerinde ise Jean-Pierre Chevènement'a destek vermiştir. == Görevleri == Yerel Yönetimler Mart 1959 - Haziran 1995: Tours belediye başkanı Meclis 9 Aralık 1958 - 5 Mayıs 1973: Indre-et-Loire 1. seçim çevresi milletvekili 11 Mayıs 1976 - 1 Nisan 1986: Indre-et-Loire 1. seçim çevresi milletvekili 2 Nisan 1986 - 14 Mayıs 1988: Indre-et-Loire milletvekili 23 Haziran 1988 - 21 Nisan 1997: Indre-et-Loire 1. seçim çevresi milletvekili 30 Nisan 1993 - 21 Nisan 1997: Cumhuriyet ve Özgürlük grup başkanı Hükûmet 5 Nisan 1973 - 27 Şubat 1974: Ticaret ve Zanaat Bakanı 1 Mart 1974 - 11 Nisan 1974: Posta ve Telekomünikasyon Bakanı",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 224,
+      "char_count": 1607,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.111798",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Jean Royer (d. 31 Ekim 1920, Nevers (Nièvre) - ö. 25 Mart 2011, Chambray-lès-Tours (Indre-et-Loire)) Fransız muhafazakâr sağ siyasetçi, eski bakan. İlk kez 1958 yılında milletvekili seçilmiş ve 1993 yılına kadar hiçbir meclis grubuna üye olmamıştır. 1959-1995 yıllarında Tours belediye başkanlığı görevinde bulunmuştur. 1973 yılında Ticaret Bakanı olarak atanmış ardından, 1974 yılında kurulan yeni hükûmette Posta ve Telekomünikasyon Bakanı olmuş, Georges Pompidou'nun ölümünün ardından 11 Nisan 1974 tarihinde bakanlıktan istifa ederek cumhurbaşkanı adayı olmuştur. Ancak seçimlerde %3,17 oy almıştır. Ara seçimlerle beraber 9 Mayıs 1976'da tekrar milletvekili seçilmiş ve 1997'ye değin milletvekilliği görevini sürdürmüştür. 30 Nisan 1993 - 21 Nisan 1997 tarihlerinde Cumhuriyet ve Özgürlük grubunun üyesi olarak milletvekilliğini yürütmüştür. 1999 Avrupa Parlamentosu seçimlerinde milli egemenlikçi Philippe de Villiers'nin listesini desteklemiş, 2002 Fransa cumhurbaşkanlığı seçimlerinde ise Jea",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1040,
+      "content": "un üyesi olarak milletvekilliğini yürütmüştür. 1999 Avrupa Parlamentosu seçimlerinde milli egemenlikçi Philippe de Villiers'nin listesini desteklemiş, 2002 Fransa cumhurbaşkanlığı seçimlerinde ise Jean-Pierre Chevènement'a destek vermiştir.",
+      "char_count": 240,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0002",
+      "section": "== Görevleri ==",
+      "heading_path": "== Görevleri ==",
+      "start_char": 1041,
+      "end_char": 1607,
+      "content": "== Görevleri == Yerel Yönetimler Mart 1959 - Haziran 1995: Tours belediye başkanı Meclis 9 Aralık 1958 - 5 Mayıs 1973: Indre-et-Loire 1. seçim çevresi milletvekili 11 Mayıs 1976 - 1 Nisan 1986: Indre-et-Loire 1. seçim çevresi milletvekili 2 Nisan 1986 - 14 Mayıs 1988: Indre-et-Loire milletvekili 23 Haziran 1988 - 21 Nisan 1997: Indre-et-Loire 1. seçim çevresi milletvekili 30 Nisan 1993 - 21 Nisan 1997: Cumhuriyet ve Özgürlük grup başkanı Hükûmet 5 Nisan 1973 - 27 Şubat 1974: Ticaret ve Zanaat Bakanı 1 Mart 1974 - 11 Nisan 1974: Posta ve Telekomünikasyon Bakanı",
+      "char_count": 566,
+      "token_estimate": 141
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Jean Royer ne zaman ve nerede doğmuştur?",
+        "answer": "Jean Royer, 31 Ekim 1920 tarihinde Nevers (Nièvre) şehrinde doğmuştur.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jean Royer'nin parlamentodaki bağımsız duruşu hangi yıl sona ermiş ve daha sonraki yıllarda hangi siyasi figürlerin seçim listelerini desteklemiştir?",
+        "answer": "Jean Royer'nin bağımsız duruşu 1993 yılında Cumhuriyet ve Özgürlük grubuna üye olmasıyla sona ermiştir. Daha sonra 1999 Avrupa Parlamentosu seçimlerinde milli egemenlikçi Philippe de Villiers'nin listesini ve 2002 Fransa cumhurbaşkanlığı seçimlerinde Jean-Pierre Chevènement'ı desteklemiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "strangehorizons_0ce9af7c",
+    "title": "Strange Horizons",
+    "url": "https://tr.wikipedia.org/wiki/Strange_Horizons",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:39.252070",
+    "content": "Strange Horizons, çevrimiçi olarak yayımlanan bir spekülatif kurgu dergisidir. Dergide incelemeler, denemeler, röportajlar ve tartışmalar yer alır. == Tarihi ve Yayın Profili == Strange Horizons dergisi yayın hayatına Eylül 2000 tarihinde başlamıştır. Senenin 51 haftasında \"yeni, yeterince temsil edilmeyen ve küresel seslere\" yer vererek kurgu, makale, inceleme, şiir ve çizim türündeki eserler yayımlamaktadır. Derginin kurucusu yazar ve editör Mary Anne Mohanraj'dır. Yaklaşık 60 gönüllüden oluşan bir kadrosu vardır. Tamamen bağışlarla yürüyen yapısı, profesyonel yayın yapan spekülatif kurgu dergileri arasında alışılmadık bir durumdur. == Ödüller == Strange Horizons Genel Yayın Yönetmeni Susan Marie Groppi 2010 yılında Dünya Fantezi Ödülü'nde editör olarak ödüle layık görüldü. Dergi 2005'te En İyi Web Sitesi Hugo Ödülü'ne aday gösterildi. 2013'ten 2021'e kadar her yıl En İyi Semiprozine Hugo Ödülü'nde finalist olmayı başardı. Benjamin Rosenbaum'un 2006 yılında dergide yayınlanan “The House Beyond Your Sky” adlı kısa öyküsü, 2007 Hugo En İyi Kısa Öykü Ödülü'ne aday gösterildi. Sofia Samatar'ın \"Selkie Stories are for Losers \" öyküsü 2014 yılında En İyi Kısa Öykü dalında Hugo Ödülü'ne aday oldu. Strange Horizons'ta yayımlanan birçok başka hikâye de Nebula dahil çeşitli ödüllere aday gösterildi. Dergide yer alan üç öykü ise Theodore Sturgeon Ödülü'nü kazanmayı bildi. == Genel Yayın Yönetmenleri == Mary Anne Mohanraj (2000-2003) Susan Marie Groppi (2004–2010) Niall Harrison (2010–2017) Jane Crowley ve Kate Dollarhyde (2017–2019) Vanessa Rose Phin (2019–2021) Gautam Bhatia (2021'den günümüze) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 226,
+      "char_count": 1628,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.464727",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 148,
+      "content": "Strange Horizons, çevrimiçi olarak yayımlanan bir spekülatif kurgu dergisidir. Dergide incelemeler, denemeler, röportajlar ve tartışmalar yer alır.",
+      "char_count": 147,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ve Yayın Profili ==",
+      "heading_path": "== Tarihi ve Yayın Profili ==",
+      "start_char": 148,
+      "end_char": 643,
+      "content": "== Tarihi ve Yayın Profili == Strange Horizons dergisi yayın hayatına Eylül 2000 tarihinde başlamıştır. Senenin 51 haftasında \"yeni, yeterince temsil edilmeyen ve küresel seslere\" yer vererek kurgu, makale, inceleme, şiir ve çizim türündeki eserler yayımlamaktadır. Derginin kurucusu yazar ve editör Mary Anne Mohanraj'dır. Yaklaşık 60 gönüllüden oluşan bir kadrosu vardır. Tamamen bağışlarla yürüyen yapısı, profesyonel yayın yapan spekülatif kurgu dergileri arasında alışılmadık bir durumdur.",
+      "char_count": 494,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0002",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 643,
+      "end_char": 1386,
+      "content": "== Ödüller == Strange Horizons Genel Yayın Yönetmeni Susan Marie Groppi 2010 yılında Dünya Fantezi Ödülü'nde editör olarak ödüle layık görüldü. Dergi 2005'te En İyi Web Sitesi Hugo Ödülü'ne aday gösterildi. 2013'ten 2021'e kadar her yıl En İyi Semiprozine Hugo Ödülü'nde finalist olmayı başardı. Benjamin Rosenbaum'un 2006 yılında dergide yayınlanan “The House Beyond Your Sky” adlı kısa öyküsü, 2007 Hugo En İyi Kısa Öykü Ödülü'ne aday gösterildi. Sofia Samatar'ın \"Selkie Stories are for Losers \" öyküsü 2014 yılında En İyi Kısa Öykü dalında Hugo Ödülü'ne aday oldu. Strange Horizons'ta yayımlanan birçok başka hikâye de Nebula dahil çeşitli ödüllere aday gösterildi. Dergide yer alan üç öykü ise Theodore Sturgeon Ödülü'nü kazanmayı bildi.",
+      "char_count": 742,
+      "token_estimate": 185
+    },
+    {
+      "id": "c0003",
+      "section": "== Genel Yayın Yönetmenleri ==",
+      "heading_path": "== Genel Yayın Yönetmenleri ==",
+      "start_char": 1386,
+      "end_char": 1614,
+      "content": "== Genel Yayın Yönetmenleri == Mary Anne Mohanraj (2000-2003) Susan Marie Groppi (2004–2010) Niall Harrison (2010–2017) Jane Crowley ve Kate Dollarhyde (2017–2019) Vanessa Rose Phin (2019–2021) Gautam Bhatia (2021'den günümüze)",
+      "char_count": 227,
+      "token_estimate": 56
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Strange Horizons Genel Yayın Yönetmeni Susan Marie Groppi, 2010 yılında hangi ödülü kazandı?",
+        "answer": "Dünya Fantezi Ödülü",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Strange Horizons dergisinin tamamen bağışlarla yürümesi ve \"yeni, yeterince temsil edilmeyen ve küresel seslere\" odaklanması gibi benzersiz özellikleri, derginin aldığı ödül ve adaylıklarla nasıl bir ilişki içindedir?",
+        "answer": "Eylül 2000'de çevrimiçi bir spekülatif kurgu dergisi olarak yayın hayatına başlayan Strange Horizons, yaklaşık 60 gönüllüden oluşan kadrosuyla tamamen bağışlarla yürüyen alışılmadık bir yapıya sahiptir. Senenin 51 haftasında \"yeni, yeterince temsil edilmeyen ve küresel seslere\" yer verme odaklı bu editoryal yaklaşım, derginin Genel Yayın Yönetmeni Susan Marie Groppi'nin Dünya Fantezi Ödülü alması, derginin En İyi Web Sitesi ve En İyi Semiprozine Hugo Ödülü'ne defalarca aday gösterilmesi, Benjamin Rosenbaum ve Sofia Samatar gibi yazarların öykülerinin Hugo Ödülü'ne aday olması ve üç öyküsünün Theodore Sturgeon Ödülü'nü kazanması gibi önemli başarılarla ve ödüllerle sonuçlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

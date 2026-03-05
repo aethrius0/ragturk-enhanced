@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "parley_75b0d665",
+    "title": "Parley",
+    "url": "https://tr.wikipedia.org/wiki/Parley",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:58.455904",
+    "content": ". Müzakerenin, uluslararası hukuk ve askeri diplomasi de özel bir türü olan Parley (Fransızca: pourparler(s) (isim) ve ayrıca Fransızca: parler (fiil) - \"konuşmak\"), özellikle iki grup insan arasındaki bir tartışmayı veya düşmanlığı sona erdirmek için tasarlanmış bir tartışma veya konferans anlamına gelir. Terim hem geçmiş hem de şimdiki zamanda kullanılabilir; şimdiki zamanda terim parleying olarak adlandırılır. Bazı durumlarda, karşıt taraflar beyaz bayrak kullanarak parley çağrısı yapma niyetlerini belirtirler, ancak parley çağrısı yapmak veya talep etmek için beyaz bayrak kullanımı zorunlu kabul edilmez. Parley terimi, Batı Almanya'nın statüsünü belirlemek üzere 1954 yılında düzenlenen Londra ve Paris Konferansları da dahil olmak üzere, 20. yüzyılın birçok yüksek profilli toplantısına atıfta bulunmak için kullanılmıştır. Özellikle 17. ve 19. yüzyıllar arasında, bir \"Parley\" (müzakere) sırasında düşmana saldırmak savaş kurallarını çiğnemenin çok ciddi bir yolu olarak görülüyordu. Mesela İngiliz Ordusu, Amerikan Bağımsızlık Savaşı sırasında, özellikle de Parley sırasında Amerikan Kıta Ordusu mensuplarını tutuklayarak, defalarca görüşme şartlarını ihlal etmekle suçlanmıştır. == Popüler kültürde == Aşağıdaki filmlerde bir parley müzakere'nin olay örgüsünün önemli bir unsuru olduğu bazı örnekler verilmiştir. The Last of the Mohicans, Fort William Henry kuşatmasının sonunda bir müzakereyi tasvir eden bir sahne içerir. Karayip Korsanları serisi'nde, müzakere ilk film olan Karayip Korsanları: Siyah İnci'nin Laneti (2003)'nde tanıtılan bir olay örgüsü aracıdır. Kaptan Barbossa, Elizabeth'in (filmin başrol oyuncusu) varsaydığı gibi, parley'in bir kural olmadığını, sadece korsanlar tarafından uyulan bir \"kılavuz\" olduğunu açıkladı. 2013 yapımı Riddick filminde, Riddick ve paralı askerler, her iki tarafın da yaklaşan bir fırtınadan kaçabilmesi için bir anlaşmaya varmak üzere görüşmek zorunda kalırlar. Paralı askerler Riddick'i yakalayıp köpeğini öldürerek Parley anlaşma ruhunu ihlal ederler. 2017 tarihli Fear the Walking Dead bölümünde, \"The Unveiling\" bölümünde, Jake Otto ve Şef Qaletaqa Walker, toprak konusunda tırmanan kan davalarında kan dökülmesini önlemek için görüşmeyi kabul eder. Ancak Madison Clark, Troy Otto'yu, Alicia'yı Siyah Şapka rezervasyonundan çıkarmak için gizlice bir \"kurtarma görevine\" liderlik ederek anlaşma kurallarını ihlal etmeye teşvik eder. Kurtarıcılar fark edilir, kan dökülür ve geçici ateşkes bozulur. 2019 yapımı John Wick 3: Parabellum filminde doruk noktası, ana karakterler arasında olay örgüsündeki kan davasının nasıl çözüleceğine dair bir müzakeredir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 345,
+      "char_count": 2637,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.467073",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": ". Müzakerenin, uluslararası hukuk ve askeri diplomasi de özel bir türü olan Parley (Fransızca: pourparler(s) (isim) ve ayrıca Fransızca: parler (fiil) - \"konuşmak\"), özellikle iki grup insan arasındaki bir tartışmayı veya düşmanlığı sona erdirmek için tasarlanmış bir tartışma veya konferans anlamına gelir. Terim hem geçmiş hem de şimdiki zamanda kullanılabilir; şimdiki zamanda terim parleying olarak adlandırılır. Bazı durumlarda, karşıt taraflar beyaz bayrak kullanarak parley çağrısı yapma niyetlerini belirtirler, ancak parley çağrısı yapmak veya talep etmek için beyaz bayrak kullanımı zorunlu kabul edilmez. Parley terimi, Batı Almanya'nın statüsünü belirlemek üzere 1954 yılında düzenlenen Londra ve Paris Konferansları da dahil olmak üzere, 20. yüzyılın birçok yüksek profilli toplantısına atıfta bulunmak için kullanılmıştır. Özellikle 17. ve 19. yüzyıllar arasında, bir \"Parley\" (müzakere) sırasında düşmana saldırmak savaş kurallarını çiğnemenin çok ciddi bir yolu olarak görülüyordu. Me",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1194,
+      "content": "atıfta bulunmak için kullanılmıştır. Özellikle 17. ve 19. yüzyıllar arasında, bir \"Parley\" (müzakere) sırasında düşmana saldırmak savaş kurallarını çiğnemenin çok ciddi bir yolu olarak görülüyordu. Mesela İngiliz Ordusu, Amerikan Bağımsızlık Savaşı sırasında, özellikle de Parley sırasında Amerikan Kıta Ordusu mensuplarını tutuklayarak, defalarca görüşme şartlarını ihlal etmekle suçlanmıştır.",
+      "char_count": 394,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0002",
+      "section": "== Popüler kültürde ==",
+      "heading_path": "== Popüler kültürde ==",
+      "start_char": 1195,
+      "end_char": 2195,
+      "content": "== Popüler kültürde == Aşağıdaki filmlerde bir parley müzakere'nin olay örgüsünün önemli bir unsuru olduğu bazı örnekler verilmiştir. The Last of the Mohicans, Fort William Henry kuşatmasının sonunda bir müzakereyi tasvir eden bir sahne içerir. Karayip Korsanları serisi'nde, müzakere ilk film olan Karayip Korsanları: Siyah İnci'nin Laneti (2003)'nde tanıtılan bir olay örgüsü aracıdır. Kaptan Barbossa, Elizabeth'in (filmin başrol oyuncusu) varsaydığı gibi, parley'in bir kural olmadığını, sadece korsanlar tarafından uyulan bir \"kılavuz\" olduğunu açıkladı. 2013 yapımı Riddick filminde, Riddick ve paralı askerler, her iki tarafın da yaklaşan bir fırtınadan kaçabilmesi için bir anlaşmaya varmak üzere görüşmek zorunda kalırlar. Paralı askerler Riddick'i yakalayıp köpeğini öldürerek Parley anlaşma ruhunu ihlal ederler. 2017 tarihli Fear the Walking Dead bölümünde, \"The Unveiling\" bölümünde, Jake Otto ve Şef Qaletaqa Walker, toprak konusunda tırmanan kan davalarında kan dökülmesini önlemek içi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Popüler kültürde ==",
+      "heading_path": "== Popüler kültürde ==",
+      "start_char": 1995,
+      "end_char": 2622,
+      "content": "a ruhunu ihlal ederler. 2017 tarihli Fear the Walking Dead bölümünde, \"The Unveiling\" bölümünde, Jake Otto ve Şef Qaletaqa Walker, toprak konusunda tırmanan kan davalarında kan dökülmesini önlemek için görüşmeyi kabul eder. Ancak Madison Clark, Troy Otto'yu, Alicia'yı Siyah Şapka rezervasyonundan çıkarmak için gizlice bir \"kurtarma görevine\" liderlik ederek anlaşma kurallarını ihlal etmeye teşvik eder. Kurtarıcılar fark edilir, kan dökülür ve geçici ateşkes bozulur. 2019 yapımı John Wick 3: Parabellum filminde doruk noktası, ana karakterler arasında olay örgüsündeki kan davasının nasıl çözüleceğine dair bir müzakeredir.",
+      "char_count": 627,
+      "token_estimate": 156
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Parley terimi ne anlama gelir?",
+        "answer": "Parley, özellikle iki grup insan arasındaki bir tartışmayı veya düşmanlığı sona erdirmek için tasarlanmış bir tartışma veya konferans anlamına gelir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Parley'in tarihsel ve askeri diplomasi bağlamındaki ciddiyeti ile popüler kültürdeki tasvirleri ve kuralları arasında ne gibi farklar vardır?",
+        "answer": "Tarihsel olarak ve askeri diplomaside, parley 17. ve 19. yüzyıllar arasında savaş kurallarının ihlalinin çok ciddi bir yolu olarak görülüyordu ve düşmana saldırmak kabul edilemezdi; Amerikan Bağımsızlık Savaşı sırasında İngiliz Ordusu'nun görüşme şartlarını ihlal ettiği suçlamaları buna örnek teşkil eder. Buna karşılık, popüler kültürde, Karayip Korsanları serisinde Kaptan Barbossa'nın belirttiği gibi, parley korsanlar için katı bir kuraldan ziyade bir 'kılavuz' olarak tasvir edilmiştir, ancak Riddick filminde olduğu gibi kurgusal senaryolarda da parley anlaşmalarının ruhunun ihlal edildiği görülmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

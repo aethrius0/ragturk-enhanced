@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "mehedardehal_ff011da7",
+    "title": "Meşhed Ardehal",
+    "url": "https://tr.wikipedia.org/wiki/Me%C5%9Fhed_Ardehal",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:41.069286",
+    "content": "Maşhed Ardehal (Farsça: مشهداردهال,), İran'ın İsfahan eyaletine bağlı Kaşan şehrinin Niyaser ilçesinde bulunan Niasar kırsal bölgesinde yer alan bir şehirdir. 2017 yılındaki verilere göre nüfusu yaklaşık 2.000 kişidir. Kaşan şehrinin batısında 40-45 kilometre uzaklıkta, Kaşan'ın batısındaki en yüksek zirve olan Ardehal dağının doğu eteklerinde yer alır. Şehir, beşinci İmam Muhammed el-Bakır'ın oğlu Sultan Ali'nin türbesi ve tanınmış modern Fars şairi ve ressam Sohrab Sepehri'nin mezarlığı ile bilinir. Ayrıca, her yıl düzenlenen Halı Yıkama Töreni ile de ünlüdür. Sohrab Sepehri'nin mezarı, yüksek bir tepenin yamacında bulunan Sultan Ali Türbesi'nin doğu kanadında yer alır. Türbenin iki avlusu, birkaç balkonu ve çini ile süslü minareleri vardır. Tüm yapı kompleksi Selçuklu mimarisine aittir. == Halı Yıkama Töreni == Şii mezhebinin en ilgi çekici dini törenlerinden biri olan Halı Yıkama (Galişuyan) Töreni, Meşhed Ardehal'da gerçekleştirilir. Bu tören, geleneksel/dini/tarihi bir yas tutma törenidir. Törenin kökeni, 12 asır önce Meşhed Ardehal'a davet edilen Sultan Ali'nin şehit edilmesine dayanmaktadır. Sultan Ali'nin taraftarları kendisine yardım etmek için geldiklerinde çoktan şehit edilmiş olduğunu görürler. Vücudunu bir halıya sararak yaklaşık 150 metre uzaklıktaki bir derede yıkadıktan sonra toprağa verirler. O günden bu yana, yüzlerce yıldır hem yakın çevreden hem de daha uzak bölgelerden binlerce kişi her yıl İran takviminin Mehr ayınının (Ekim ayı başı) ikinci Cuma günü Sultan Ali'nin şehadet yıldönümünde Meşhed Ardehal'a akın eder. Hatta bazı hacılar kilometrelerce uzaklıktaki yerlerden yürüyerek türbeye gelirler. Tören sırasında kalabalık, Sultan Ali'nin naaşını sarmak için kullanılan kutsal halının artıklarını omuzlarına alarak türbeden çıkarır. Yas tutarken, sembolik olarak uzun sopalarla halı artıklarını dövererek Sultan Ali'nin düşmanlarına olan nefreti ve şehadetinin intikamını gösterirler. Aynı zamanda bu hareket halının temizlenmesini de sembolize eder. Tören boyunca kimse halının artıklarına dokunma hakkına sahip değildir. Hacılar siyah giysiler giyer, dini şarkılar söyler, göğüslerini döverek (keder ve yasın işareti olarak) ağıt yakar, sopaları havaya kaldırır ve halıyı türbenin avlusunda döndürürler. Daha sonra halıyı türbenin yakınındaki özel bir su kaynağında yıkarlar. İnanışa göre su böylece kutsallaşır ve birçok hacı bu suyu vücutlarına sürer, hatta şişeleyerek evlerine götürür. Son olarak halıyı tekrar türbeye götürürler. Öğlen vakti yas tutma sona erer ve binlerce kişinin ücretsiz olarak yemek yediği büyük bir ziyafet verilir. Ardından hacılar evlerine geri dönerler. 2009 yılında Meşhed Ardehal'daki Halı Yıkama Töreni'ne katılan ziyaretçi sayısının 200.000'e ulaştığı belirtiliyor. == Ayrıca bakınız == Aşure günü == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 375,
+      "char_count": 2798,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.428617",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 801,
+      "content": "Maşhed Ardehal (Farsça: مشهداردهال,), İran'ın İsfahan eyaletine bağlı Kaşan şehrinin Niyaser ilçesinde bulunan Niasar kırsal bölgesinde yer alan bir şehirdir. 2017 yılındaki verilere göre nüfusu yaklaşık 2.000 kişidir. Kaşan şehrinin batısında 40-45 kilometre uzaklıkta, Kaşan'ın batısındaki en yüksek zirve olan Ardehal dağının doğu eteklerinde yer alır. Şehir, beşinci İmam Muhammed el-Bakır'ın oğlu Sultan Ali'nin türbesi ve tanınmış modern Fars şairi ve ressam Sohrab Sepehri'nin mezarlığı ile bilinir. Ayrıca, her yıl düzenlenen Halı Yıkama Töreni ile de ünlüdür. Sohrab Sepehri'nin mezarı, yüksek bir tepenin yamacında bulunan Sultan Ali Türbesi'nin doğu kanadında yer alır. Türbenin iki avlusu, birkaç balkonu ve çini ile süslü minareleri vardır. Tüm yapı kompleksi Selçuklu mimarisine aittir.",
+      "char_count": 800,
+      "token_estimate": 200
+    },
+    {
+      "id": "c0001",
+      "section": "== Halı Yıkama Töreni ==",
+      "heading_path": "== Halı Yıkama Töreni ==",
+      "start_char": 801,
+      "end_char": 1801,
+      "content": "== Halı Yıkama Töreni == Şii mezhebinin en ilgi çekici dini törenlerinden biri olan Halı Yıkama (Galişuyan) Töreni, Meşhed Ardehal'da gerçekleştirilir. Bu tören, geleneksel/dini/tarihi bir yas tutma törenidir. Törenin kökeni, 12 asır önce Meşhed Ardehal'a davet edilen Sultan Ali'nin şehit edilmesine dayanmaktadır. Sultan Ali'nin taraftarları kendisine yardım etmek için geldiklerinde çoktan şehit edilmiş olduğunu görürler. Vücudunu bir halıya sararak yaklaşık 150 metre uzaklıktaki bir derede yıkadıktan sonra toprağa verirler. O günden bu yana, yüzlerce yıldır hem yakın çevreden hem de daha uzak bölgelerden binlerce kişi her yıl İran takviminin Mehr ayınının (Ekim ayı başı) ikinci Cuma günü Sultan Ali'nin şehadet yıldönümünde Meşhed Ardehal'a akın eder. Hatta bazı hacılar kilometrelerce uzaklıktaki yerlerden yürüyerek türbeye gelirler. Tören sırasında kalabalık, Sultan Ali'nin naaşını sarmak için kullanılan kutsal halının artıklarını omuzlarına alarak türbeden çıkarır. Yas tutarken, semb",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Halı Yıkama Töreni ==",
+      "heading_path": "== Halı Yıkama Töreni ==",
+      "start_char": 1601,
+      "end_char": 2601,
+      "content": "lıktaki yerlerden yürüyerek türbeye gelirler. Tören sırasında kalabalık, Sultan Ali'nin naaşını sarmak için kullanılan kutsal halının artıklarını omuzlarına alarak türbeden çıkarır. Yas tutarken, sembolik olarak uzun sopalarla halı artıklarını dövererek Sultan Ali'nin düşmanlarına olan nefreti ve şehadetinin intikamını gösterirler. Aynı zamanda bu hareket halının temizlenmesini de sembolize eder. Tören boyunca kimse halının artıklarına dokunma hakkına sahip değildir. Hacılar siyah giysiler giyer, dini şarkılar söyler, göğüslerini döverek (keder ve yasın işareti olarak) ağıt yakar, sopaları havaya kaldırır ve halıyı türbenin avlusunda döndürürler. Daha sonra halıyı türbenin yakınındaki özel bir su kaynağında yıkarlar. İnanışa göre su böylece kutsallaşır ve birçok hacı bu suyu vücutlarına sürer, hatta şişeleyerek evlerine götürür. Son olarak halıyı tekrar türbeye götürürler. Öğlen vakti yas tutma sona erer ve binlerce kişinin ücretsiz olarak yemek yediği büyük bir ziyafet verilir. Ardınd",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Halı Yıkama Töreni ==",
+      "heading_path": "== Halı Yıkama Töreni ==",
+      "start_char": 2401,
+      "end_char": 2751,
+      "content": "rer, hatta şişeleyerek evlerine götürür. Son olarak halıyı tekrar türbeye götürürler. Öğlen vakti yas tutma sona erer ve binlerce kişinin ücretsiz olarak yemek yediği büyük bir ziyafet verilir. Ardından hacılar evlerine geri dönerler. 2009 yılında Meşhed Ardehal'daki Halı Yıkama Töreni'ne katılan ziyaretçi sayısının 200.000'e ulaştığı belirtiliyor.",
+      "char_count": 350,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2752,
+      "end_char": 2784,
+      "content": "== Ayrıca bakınız == Aşure günü",
+      "char_count": 31,
+      "token_estimate": 7
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Halı Yıkama (Galişuyan) Töreni nerede gerçekleştirilir?",
+        "answer": "Meşhed Ardehal'da",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Maşhed Ardehal şehrinin önemi, özellikle Sultan Ali'nin türbesine ev sahipliği yapması, her yıl düzenlenen Halı Yıkama Töreni'nin kökeni ve ritüelleriyle nasıl ilişkilidir?",
+        "answer": "Maşhed Ardehal şehri, beşinci İmam Muhammed el-Bakır'ın oğlu Sultan Ali'nin türbesine ev sahipliği yapmasıyla bilinir. Halı Yıkama Töreni'nin kökeni, 12 asır önce tam da bu şehirde şehit edilen Sultan Ali'nin anısına dayanmaktadır. Tören, Sultan Ali'nin naaşının bir halıya sarılıp yaklaşık 150 metre uzaklıktaki bir derede yıkandıktan sonra toprağa verilmesi olayını sembolize eder. Bu nedenle, her yıl binlerce kişi Sultan Ali'nin şehadet yıldönümünde, türbesinin bulunduğu Maşhed Ardehal'a akın ederek, kutsal halının kalıntılarını türbeden çıkarıp uzun sopalarla döverek Sultan Ali'nin düşmanlarına olan nefreti ve intikamı gösteren ritüelleri, türbenin yakınındaki özel bir su kaynağında halıyı yıkayarak bu kutsal mekanda gerçekleştirir. Tören, şehrin tarihi ve dini kimliğini Sultan Ali'nin şehadetiyle doğrudan ilişkilendirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

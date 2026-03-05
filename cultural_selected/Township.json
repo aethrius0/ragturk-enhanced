@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "township_4b3f8615",
+    "title": "Township",
+    "url": "https://tr.wikipedia.org/wiki/Township",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:09.764170",
+    "content": "Township, amacı şehir kurma ve yönetme olan mobil video oyunu. Google Play'de, 100 milyondan fazla kişi tarafından indirilmiştir. == İçeriği == Free to Play olan oyun, kendi şehrinizi istediğiniz gibi kurmanızı sağlar. Şehrinizi dekore edebilir; ev, topluluk binası, fabrika inşa ederek şehrinizi geliştirebilirsiniz. == Yapılar == === Topluluk binaları === Topluluk binaları, şehrin maksimum nüfusunu belirler. Ne kadar fazla topluluk binası inşa ederseniz; o kadar fazla konut inşa edebilirsiniz. === Evler === Evler, şehrin nüfusunu belirler. Ne kadar fazla ev inşa ederseniz, o kadar fazla helikopterle görev tamamlayabilirsiniz. === Çiftçilik binaları === Çiftçilik binaları, fabrikalardaki malzemeleri üretmek için kesinlikle gereklidir. Tavuk kümesi, inek ve koyun ahırı, tarla bunlara örnektir. ==== Tarla ==== Oyunun en önemli yapılarından olan tarla, nüfus sayısına göre yapılır. Nüfusunuz belli bir seviyenin altındaysa tarla yapamazsınız. Tarlada buğday, mısır, havuç, çilek, domates, kako gibi birçok ürün yetiştirilir. === Fabrikalar === Fabrikalar; uçakla, trenle gelen ve helikopterle yapılan görevlerde istenilen malzemeleri üretmenizi sağlar. Fabtikalarda üretilen tüm malzemeler, tarla ve çiftçilik binalarında üretilen ürünler sayesinde elde edilir. === Özel === Özel binalarda oyun size; şans oyunu, şehir marketi, laboratuvar gibi farklı küçük oyunlar sunar. == Kaynakça == == Dış bağlantılar == Oyunun resmî sitesi 3 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Instagram'da Township",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 205,
+      "char_count": 1522,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.734229",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 130,
+      "content": "Township, amacı şehir kurma ve yönetme olan mobil video oyunu. Google Play'de, 100 milyondan fazla kişi tarafından indirilmiştir.",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0001",
+      "section": "== İçeriği ==",
+      "heading_path": "== İçeriği ==",
+      "start_char": 130,
+      "end_char": 318,
+      "content": "== İçeriği == Free to Play olan oyun, kendi şehrinizi istediğiniz gibi kurmanızı sağlar. Şehrinizi dekore edebilir; ev, topluluk binası, fabrika inşa ederek şehrinizi geliştirebilirsiniz.",
+      "char_count": 187,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0002",
+      "section": "=== Topluluk binaları ===",
+      "heading_path": "=== Topluluk binaları ===",
+      "start_char": 332,
+      "end_char": 499,
+      "content": "=== Topluluk binaları === Topluluk binaları, şehrin maksimum nüfusunu belirler. Ne kadar fazla topluluk binası inşa ederseniz; o kadar fazla konut inşa edebilirsiniz.",
+      "char_count": 166,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0003",
+      "section": "=== Evler ===",
+      "heading_path": "=== Evler ===",
+      "start_char": 499,
+      "end_char": 634,
+      "content": "=== Evler === Evler, şehrin nüfusunu belirler. Ne kadar fazla ev inşa ederseniz, o kadar fazla helikopterle görev tamamlayabilirsiniz.",
+      "char_count": 134,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0004",
+      "section": "=== Çiftçilik binaları ===",
+      "heading_path": "=== Çiftçilik binaları ===",
+      "start_char": 634,
+      "end_char": 803,
+      "content": "=== Çiftçilik binaları === Çiftçilik binaları, fabrikalardaki malzemeleri üretmek için kesinlikle gereklidir. Tavuk kümesi, inek ve koyun ahırı, tarla bunlara örnektir.",
+      "char_count": 168,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0005",
+      "section": "==== Tarla ====",
+      "heading_path": "==== Tarla ====",
+      "start_char": 803,
+      "end_char": 1033,
+      "content": "==== Tarla ==== Oyunun en önemli yapılarından olan tarla, nüfus sayısına göre yapılır. Nüfusunuz belli bir seviyenin altındaysa tarla yapamazsınız. Tarlada buğday, mısır, havuç, çilek, domates, kako gibi birçok ürün yetiştirilir.",
+      "char_count": 229,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0006",
+      "section": "=== Fabrikalar ===",
+      "heading_path": "=== Fabrikalar ===",
+      "start_char": 1033,
+      "end_char": 1270,
+      "content": "=== Fabrikalar === Fabrikalar; uçakla, trenle gelen ve helikopterle yapılan görevlerde istenilen malzemeleri üretmenizi sağlar. Fabtikalarda üretilen tüm malzemeler, tarla ve çiftçilik binalarında üretilen ürünler sayesinde elde edilir.",
+      "char_count": 236,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0007",
+      "section": "=== Özel ===",
+      "heading_path": "=== Özel ===",
+      "start_char": 1270,
+      "end_char": 1381,
+      "content": "=== Özel === Özel binalarda oyun size; şans oyunu, şehir marketi, laboratuvar gibi farklı küçük oyunlar sunar.",
+      "char_count": 110,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1396,
+      "end_char": 1522,
+      "content": "== Dış bağlantılar == Oyunun resmî sitesi 3 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Instagram'da Township",
+      "char_count": 126,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Fabrikalar hangi görevlerde istenilen malzemeleri üretmenizi sağlar?",
+        "answer": "Uçakla, trenle gelen ve helikopterle yapılan görevlerde istenilen malzemeleri üretmenizi sağlar.",
+        "related_chunk_ids": [
+          "c0006"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Township oyunu, şehir kurma ve yönetme amacına nasıl ulaşmaktadır ve küresel popülerliğini gösteren nedir?",
+        "answer": "Township, \"Free to Play\" bir oyun olarak oyuncuların kendi şehirlerini istedikleri gibi kurmalarına, dekore etmelerine, evler, topluluk binaları ve fabrikalar inşa etmelerine olanak tanır. Oyunun küresel popülerliği Google Play'de 100 milyondan fazla indirilmiş olmasıyla gösterilmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

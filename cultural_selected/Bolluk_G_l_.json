@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "bollukgl_bc49d34f",
+    "title": "Bolluk Gölü",
+    "url": "https://tr.wikipedia.org/wiki/Bolluk_G%C3%B6l%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:07.966324",
+    "content": "Bolluk Gölü (Bulak Gölü), Konya ilinde Tuz gölünün batısında yer alan tektonik oluşumlu göldür. Alanı 11.50 km2, denizden yüksekliği 950 m'dir. Suyunda bol miktarda sodyum sülfat bulunduğundan suları tuzludur. Göl Tuz Gölü'nün uydu gölü sayılarak, ekolojik alanı içinde kabul edilir. Çevre nesli tehlikede olan bazı endemik türleri barındırdığı için ÖDA (Önemli Doğa Alanı) kabul edilir. Alanda tuzcul bozkırlar, sulak çayırlar, nesli tehlikede olan bitkilerden Saponaria halophila (Tuzcul sabun otu), Silene salsuginea (Tuzcul salkım çiçeği) yaygındır. Alanda kuluçkaya yatan kuş türleri şunlardır: ince gagalı martı, Akdeniz martısı, gülen sumru. Ayrıca; büyük cılıbıt, kaşıkcı, uzunbacak, kılıçgaga alanda görülen diğer kuş türleridir. Flamingolar büyük gruplar oluşturur. Gölden sodyum sülfat elde edilir, alanda bulunan rafineride işlenir. Konya çevresinde yeraltı sularının plansız kullanımı sonucu seviye düşmesi oluşmuş, bu tüm sulak alanlar gibi Bolluk Gölü'nü de olumsuz etkilemiştir. Bazı yıllarda göl tamamen kurumaktadır. Göl 1992'de Doğal sit alanı ilan edilmiştir. Alanda 1992-2005 yılları arasında Akdeniz martısının izlenmesi ve halkalanması amacıyla uluslararası çalışma yapılmıştır. == Traverten konileri == Göl çevresinde 55 adet traverten konisi tespit edilmiştir. Konilerin çapları 3–500 m, yükseklikleri 50 cm-15 m, ağız genişliği 3–75 m, ağız iç derinliği 50 cm-19 m arasındadır. 17 tanesi 100 m'den geniş, 10 tanesi 10 m'den yüksektir. Bazıları düzleşmeye başlayan konilerin büyük çoğunluğu daireseldir, bir kısmı elipsoittir. Çevre halkının Hitit su yolu adını verdiği traverten kanalı oluşumu görülür. 1 km uzunluk, 1,5 m yüksekliğe sahip doğal traverten kanalı insanlar tarafından doğal su kanalı olarak bahçe sulamasında kullanılmıştır. == Ayrıca bakınız == Oluşumlarına göre Türkiye'nin gölleri listesi Türkiye'deki göller == Kaynakça == == Dış bağlantılar == Uzaydan görünüm",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 258,
+      "char_count": 1905,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.846616",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Bolluk Gölü (Bulak Gölü), Konya ilinde Tuz gölünün batısında yer alan tektonik oluşumlu göldür. Alanı 11.50 km2, denizden yüksekliği 950 m'dir. Suyunda bol miktarda sodyum sülfat bulunduğundan suları tuzludur. Göl Tuz Gölü'nün uydu gölü sayılarak, ekolojik alanı içinde kabul edilir. Çevre nesli tehlikede olan bazı endemik türleri barındırdığı için ÖDA (Önemli Doğa Alanı) kabul edilir. Alanda tuzcul bozkırlar, sulak çayırlar, nesli tehlikede olan bitkilerden Saponaria halophila (Tuzcul sabun otu), Silene salsuginea (Tuzcul salkım çiçeği) yaygındır. Alanda kuluçkaya yatan kuş türleri şunlardır: ince gagalı martı, Akdeniz martısı, gülen sumru. Ayrıca; büyük cılıbıt, kaşıkcı, uzunbacak, kılıçgaga alanda görülen diğer kuş türleridir. Flamingolar büyük gruplar oluşturur. Gölden sodyum sülfat elde edilir, alanda bulunan rafineride işlenir. Konya çevresinde yeraltı sularının plansız kullanımı sonucu seviye düşmesi oluşmuş, bu tüm sulak alanlar gibi Bolluk Gölü'nü de olumsuz etkilemiştir. Bazı ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1201,
+      "content": "e edilir, alanda bulunan rafineride işlenir. Konya çevresinde yeraltı sularının plansız kullanımı sonucu seviye düşmesi oluşmuş, bu tüm sulak alanlar gibi Bolluk Gölü'nü de olumsuz etkilemiştir. Bazı yıllarda göl tamamen kurumaktadır. Göl 1992'de Doğal sit alanı ilan edilmiştir. Alanda 1992-2005 yılları arasında Akdeniz martısının izlenmesi ve halkalanması amacıyla uluslararası çalışma yapılmıştır.",
+      "char_count": 401,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0002",
+      "section": "== Traverten konileri ==",
+      "heading_path": "== Traverten konileri ==",
+      "start_char": 1202,
+      "end_char": 1766,
+      "content": "== Traverten konileri == Göl çevresinde 55 adet traverten konisi tespit edilmiştir. Konilerin çapları 3–500 m, yükseklikleri 50 cm-15 m, ağız genişliği 3–75 m, ağız iç derinliği 50 cm-19 m arasındadır. 17 tanesi 100 m'den geniş, 10 tanesi 10 m'den yüksektir. Bazıları düzleşmeye başlayan konilerin büyük çoğunluğu daireseldir, bir kısmı elipsoittir. Çevre halkının Hitit su yolu adını verdiği traverten kanalı oluşumu görülür. 1 km uzunluk, 1,5 m yüksekliğe sahip doğal traverten kanalı insanlar tarafından doğal su kanalı olarak bahçe sulamasında kullanılmıştır.",
+      "char_count": 563,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1766,
+      "end_char": 1853,
+      "content": "== Ayrıca bakınız == Oluşumlarına göre Türkiye'nin gölleri listesi Türkiye'deki göller",
+      "char_count": 86,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1868,
+      "end_char": 1905,
+      "content": "== Dış bağlantılar == Uzaydan görünüm",
+      "char_count": 37,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bolluk Gölü (Bulak Gölü) nerede yer almaktadır?",
+        "answer": "Konya ilinde Tuz Gölü'nün batısında yer alan tektonik oluşumlu bir göldür.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bolluk Gölü ve çevresi, ekolojik önemi, jeolojik özellikleri ve insan etkileşimleri göz önüne alındığında neden önemli bir bölge olarak kabul edilmektedir?",
+        "answer": "Bolluk Gölü bölgesi, ekolojik açıdan Önemli Doğa Alanı (ÖDA) olarak kabul edilir çünkü tuzlu sularında sodyum sülfat bulundurur, nesli tehlikede olan Saponaria halophila ve Silene salsuginea gibi endemik bitki türlerine ve ince gagalı martı, Akdeniz martısı gibi kuluçkaya yatan kuş türlerine ev sahipliği yapar. Ayrıca 1992'de Doğal sit alanı ilan edilerek korunmuştur ve Akdeniz martısının izlenmesi için uluslararası çalışmalar yapılmıştır. Jeolojik olarak, göl çevresinde 55 adet traverten konisi ve 'Hitit su yolu' olarak bilinen doğal bir traverten kanalı gibi benzersiz oluşumlar mevcuttur. Bu kanal geçmişte bahçe sulamasında kullanılmıştır. Ancak, yeraltı sularının plansız kullanımı nedeniyle gölün su seviyesi düşmekte ve bazı yıllarda tamamen kurumaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

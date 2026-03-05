@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "muallazbek_5cec9af0",
+    "title": "Mualla Özbek",
+    "url": "https://tr.wikipedia.org/wiki/Mualla_%C3%96zbek",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:14.149065",
+    "content": "Mualla Özbek (1914, İstanbul- 25 Ekim 1990, İstanbul), Türk terzi, modacı, iş insanı, film yapımcısı. 1950'lerde Türkiye'de moda alanında öncülük etmiştir. \"Terzilerin Kraliçesi\" olarak anılırdı. Bir dönem film yapımcılığı da yaptı. == Yaşamı == 1914 yılında doğdu. Annesini doğumda kaybetti. Babası Vicdani Bey, askeri doktor idi. Teyzesi İhsane Hanım tarafından büyütüldü. Uzun yıllar Heybeliada'da yaşadı. İlk evliliği sırasında eşinin işi nedeniyle yaşadığı Almanya'da terzi kursuna giderek terziliği öğrendi. Bu evlilikten olan kızı Ayça'yı menenjitten kaybettikten sonra ilk evliliği sona erdi. İkinci evliliğini tütün tüccarı Şükrü Yaka ile yaptı. Bu evlilikten kızı Canan (d. 1949) ve Ayşe dünyaya geldi. Eşinin iflas etmesi ve arkasından kansere yakalanması üzerine eşine destek olmak için evinin bir bölümünü terzi atölyesi haline getirdi. Devrin önemli modacılarının atölyelerinin orada bulunması nedeniyle ikinci atölyesini İstiklal Caddesi'ndeki Mısır Apartmanı'nın dördüncü katındaki dairede açtı ve İstanbul'daki en tanınmış terzilerden birisi oldu. \"Terzilerin Kraliçesi\" olarak anılırdı. Ajda Pekkan, Behiye Aksoy, Gönül Yazar, Müzeyyen Senar gibi ünlü sahne sanatçılarının sahne kostümlerini dikti. Çevresi, zamanının en ünlü sahne ve sinema sanatçıları, işadamları ve politikacıları ve politikacı eşlerinden oluşuyordu. 1960 İhtilali'nden sonra müşterilerini kaybedebileceğini düşünerek hazır giyime yöneldi ve Harbiye'de Mualla Butik adlı hazır giyim dükkanını açtı. 1961'den itibaren defileler düzenledi. Melek ve Fitaş sinemalarında filmden önce küçük defileler düzenleyen Özbek, zamanla daha büyük defileler gerçekleştirdi. Modacılığın yanı sıra film yapımcılığı ile uğraştı. Efes Film adlı bir film şirketi kuran Özbek, 1965-1970 arasında on film yaptı. Filmlerinden altısında Yılmaz Güney başrolde oynamıştır. Özbek, Beyoğlu'nun trafiğe kapanmasından sonra atölyesini Nişantaşı'ya taşıdı ve işini kızını Canan Yaka'ya devretti. Kendisi giyim fabrikası kurdu, Türkiye'de konfeksiyon alanında öncü bir girişimci oldu. 1990'larda yayımlanan bir istihbarat raporunda yeraltı dünyası ile ilişkileri ile gündeme geldi. == Filmografisi == 1965 - Son Kuşlar 1965 - Ben Öldükçe Yaşarım 1966 - Nuhun Gemisi 1967 - Kuduz Recep 1967 - At Hırsızı Banuş 1967 - Her Zaman Kalbimdesin 1967 - Seni Affedemem 1967 - Ya Sev Ya Öldür 1967 - Yanık Kalpler 1970 - Sürtük == Dış bağlantılar == IMDb'de Mualla Özbek Sinemalar.com'te Mualla Özbek SinemaTürk'te Mualla Özbek TSA'da Mualla Özbek == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 341,
+      "char_count": 2508,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.159430",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 233,
+      "content": "Mualla Özbek (1914, İstanbul- 25 Ekim 1990, İstanbul), Türk terzi, modacı, iş insanı, film yapımcısı. 1950'lerde Türkiye'de moda alanında öncülük etmiştir. \"Terzilerin Kraliçesi\" olarak anılırdı. Bir dönem film yapımcılığı da yaptı.",
+      "char_count": 232,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 233,
+      "end_char": 1233,
+      "content": "== Yaşamı == 1914 yılında doğdu. Annesini doğumda kaybetti. Babası Vicdani Bey, askeri doktor idi. Teyzesi İhsane Hanım tarafından büyütüldü. Uzun yıllar Heybeliada'da yaşadı. İlk evliliği sırasında eşinin işi nedeniyle yaşadığı Almanya'da terzi kursuna giderek terziliği öğrendi. Bu evlilikten olan kızı Ayça'yı menenjitten kaybettikten sonra ilk evliliği sona erdi. İkinci evliliğini tütün tüccarı Şükrü Yaka ile yaptı. Bu evlilikten kızı Canan (d. 1949) ve Ayşe dünyaya geldi. Eşinin iflas etmesi ve arkasından kansere yakalanması üzerine eşine destek olmak için evinin bir bölümünü terzi atölyesi haline getirdi. Devrin önemli modacılarının atölyelerinin orada bulunması nedeniyle ikinci atölyesini İstiklal Caddesi'ndeki Mısır Apartmanı'nın dördüncü katındaki dairede açtı ve İstanbul'daki en tanınmış terzilerden birisi oldu. \"Terzilerin Kraliçesi\" olarak anılırdı. Ajda Pekkan, Behiye Aksoy, Gönül Yazar, Müzeyyen Senar gibi ünlü sahne sanatçılarının sahne kostümlerini dikti. Çevresi, zamanın",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1033,
+      "end_char": 2033,
+      "content": "nınmış terzilerden birisi oldu. \"Terzilerin Kraliçesi\" olarak anılırdı. Ajda Pekkan, Behiye Aksoy, Gönül Yazar, Müzeyyen Senar gibi ünlü sahne sanatçılarının sahne kostümlerini dikti. Çevresi, zamanının en ünlü sahne ve sinema sanatçıları, işadamları ve politikacıları ve politikacı eşlerinden oluşuyordu. 1960 İhtilali'nden sonra müşterilerini kaybedebileceğini düşünerek hazır giyime yöneldi ve Harbiye'de Mualla Butik adlı hazır giyim dükkanını açtı. 1961'den itibaren defileler düzenledi. Melek ve Fitaş sinemalarında filmden önce küçük defileler düzenleyen Özbek, zamanla daha büyük defileler gerçekleştirdi. Modacılığın yanı sıra film yapımcılığı ile uğraştı. Efes Film adlı bir film şirketi kuran Özbek, 1965-1970 arasında on film yaptı. Filmlerinden altısında Yılmaz Güney başrolde oynamıştır. Özbek, Beyoğlu'nun trafiğe kapanmasından sonra atölyesini Nişantaşı'ya taşıdı ve işini kızını Canan Yaka'ya devretti. Kendisi giyim fabrikası kurdu, Türkiye'de konfeksiyon alanında öncü bir girişimc",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1833,
+      "end_char": 2137,
+      "content": ". Özbek, Beyoğlu'nun trafiğe kapanmasından sonra atölyesini Nişantaşı'ya taşıdı ve işini kızını Canan Yaka'ya devretti. Kendisi giyim fabrikası kurdu, Türkiye'de konfeksiyon alanında öncü bir girişimci oldu. 1990'larda yayımlanan bir istihbarat raporunda yeraltı dünyası ile ilişkileri ile gündeme geldi.",
+      "char_count": 304,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0004",
+      "section": "== Filmografisi ==",
+      "heading_path": "== Filmografisi ==",
+      "start_char": 2138,
+      "end_char": 2374,
+      "content": "== Filmografisi == 1965 - Son Kuşlar 1965 - Ben Öldükçe Yaşarım 1966 - Nuhun Gemisi 1967 - Kuduz Recep 1967 - At Hırsızı Banuş 1967 - Her Zaman Kalbimdesin 1967 - Seni Affedemem 1967 - Ya Sev Ya Öldür 1967 - Yanık Kalpler 1970 - Sürtük",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2374,
+      "end_char": 2494,
+      "content": "== Dış bağlantılar == IMDb'de Mualla Özbek Sinemalar.com'te Mualla Özbek SinemaTürk'te Mualla Özbek TSA'da Mualla Özbek",
+      "char_count": 119,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mesleğinde ne olarak anılıyordu?",
+        "answer": "\"Terzilerin Kraliçesi\"",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mualla Özbek'in Türkiye'deki moda ve giyim sektöründeki öncü rolü kariyeri boyunca nasıl bir gelişim göstermiştir?",
+        "answer": "Mualla Özbek'in Türkiye'deki moda ve giyim sektöründeki öncü rolü, haute couture terziliğinden hazır giyime ve ardından konfeksiyon üretimine doğru evrilmiştir. 1950'lerde \"Terzilerin Kraliçesi\" olarak anılan Özbek, Almanya'da öğrendiği terzilikle İstanbul'da tanınmış bir modacı olarak öne çıkmıştır. 1960 İhtilali sonrası müşterilerini kaybetme endişesiyle hazır giyim sektörüne geçiş yapmış, Mualla Butik'i kurarak ve defileler düzenleyerek bu alanda da öncülük etmiştir. Daha sonra giyim fabrikası kurarak Türkiye'de konfeksiyon alanında önemli bir girişimci haline gelmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

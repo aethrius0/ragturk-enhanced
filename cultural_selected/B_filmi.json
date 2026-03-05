@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "bfilmi_8c9786c2",
+    "title": "B filmi",
+    "url": "https://tr.wikipedia.org/wiki/B_filmi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:14.235708",
+    "content": "B filmi ya da ikinci film, Hollywood'un Altın Çağı döneminde ardı ardına İki Film Birden olarak gösterilen filmlerin ikincisine verilen isimdir. Bu filmler genellikle düşük bütçeli, \"yıldız oyuncu\" barındırmayan filmlerdir. Bu tür alt-filmler yapma geleneğinin 1950'lerin sonlarına doğru terk edilmiş olmasına karşın, B filmi terimi; ne sanat filmi ne de porno film olarak adlandırılabilecek herhangi bir düşük bütçeli ticari sinema filmini ifade edecek şekilde, daha geniş bir anlamda kullanılmaya devam etmiştir. Terimin Hollywood'un Altın Dönemi sonrası kullanımında, türün sanat filmine mi; yoksa porno filme mi daha yakın olduğu konusunda bir anlam belirsizliği söz konusudur. Bir yandan birçok B filmi yüksek derecede ustalık ve estetik yaratıcılık sergilerken; diğer yandan birçok ucuz sömürü filminin başlıca konusu şehvettir. Bazı filmler için her iki durum da geçerlidir. Terimin her iki kullanımı için de geçerli olan bir durum, çoğu B filminin belirli bir film türünü yansıtmasıdır. Holywood'un Altın Dönemi'nde B filmleri için tercih edilen başlıca film türü Western iken, 1950'li yıllarda düşük bütçeli bilimkurgu ve korku filmleri daha popüler hale gelmiştir. İlk B filmleri sıklıkla yıldız oyuncunun sürekli olarak aynı karakteri canlandırdığı bir film serisinin bölümlerini oluştururdu. B filmleri, neredeyse her zaman için birlikte gösterildikleri asıl filmden daha kısaydı, birçoğu 70 dakika ya da daha az sürerdi. B filmi adlandırması, bu tür filmlerin yüksek bütçeli filmlere göre ikinci derece olduğu konusundaki genel algılamayı ifade etmekteydi; bağımsız B filmleri sıklıkla eleştirmenler tarafından göz ardı edilirdi. Yakın zamanlı B filmlerinin de bazen devam filmleri çekilebilmektedir, fakat eskiye oranla film serileri pek yaygın değildir. A sınıfı filmlerin ortalama gösterim süresi uzadıkça, B filmlerinin gösterim süreleri de uzamıştır. Günümüzdeki kullanımında, B filmi teriminin bir şekilde birbiriyle çelişen başlıca iki anlamı vardır: Belirli bir film bu şekilde adlandırılıyorsa, söz konusu filmin; (a) minimal sanatsal kaygılarla yapılmış bir tür filmi ya da (b) daha pahalı filmler için dayatılan kısıtlamalara ve \"ciddi\" kabul edilen bağımsız filmlerin yapılış geleneklerine bağımlı olmaksızın serbestçe yapılan canlı, dinamik bir film olduğu ifade edilmektedir. Başlangıcından günümüze B filmleri, mesleğe yeni başlayanlar ve kariyerleri sönmekte olanlar için birtakım olanaklar sağlamıştır. Anthony Mann ve Jonathan Demme gibi ünlü film yapımcıları, B filmleri çekerek ustalık kazanmışlardır. John Wayne ve Jack Nicholson gibi aktörler B filmleri aracılığıyla kendilerini tanıtma olanağı bulmuştur; ayrıca B filmleri Vincent Price ve Karen Black gibi eski A sınıfı film oyuncuları için de çalışma olanağı sağlamıştır. Béla Lugosi ve Pam Grier gibi bazı aktörler, kariyerlerinin büyük bölümünde B filmlerinde çalışmışlardır. == Ayrıca bakınız == C filmi == Kaynaklar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 402,
+      "char_count": 2910,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.808028",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "B filmi ya da ikinci film, Hollywood'un Altın Çağı döneminde ardı ardına İki Film Birden olarak gösterilen filmlerin ikincisine verilen isimdir. Bu filmler genellikle düşük bütçeli, \"yıldız oyuncu\" barındırmayan filmlerdir. Bu tür alt-filmler yapma geleneğinin 1950'lerin sonlarına doğru terk edilmiş olmasına karşın, B filmi terimi; ne sanat filmi ne de porno film olarak adlandırılabilecek herhangi bir düşük bütçeli ticari sinema filmini ifade edecek şekilde, daha geniş bir anlamda kullanılmaya devam etmiştir. Terimin Hollywood'un Altın Dönemi sonrası kullanımında, türün sanat filmine mi; yoksa porno filme mi daha yakın olduğu konusunda bir anlam belirsizliği söz konusudur. Bir yandan birçok B filmi yüksek derecede ustalık ve estetik yaratıcılık sergilerken; diğer yandan birçok ucuz sömürü filminin başlıca konusu şehvettir. Bazı filmler için her iki durum da geçerlidir. Terimin her iki kullanımı için de geçerli olan bir durum, çoğu B filminin belirli bir film türünü yansıtmasıdır. Holyw",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "filminin başlıca konusu şehvettir. Bazı filmler için her iki durum da geçerlidir. Terimin her iki kullanımı için de geçerli olan bir durum, çoğu B filminin belirli bir film türünü yansıtmasıdır. Holywood'un Altın Dönemi'nde B filmleri için tercih edilen başlıca film türü Western iken, 1950'li yıllarda düşük bütçeli bilimkurgu ve korku filmleri daha popüler hale gelmiştir. İlk B filmleri sıklıkla yıldız oyuncunun sürekli olarak aynı karakteri canlandırdığı bir film serisinin bölümlerini oluştururdu. B filmleri, neredeyse her zaman için birlikte gösterildikleri asıl filmden daha kısaydı, birçoğu 70 dakika ya da daha az sürerdi. B filmi adlandırması, bu tür filmlerin yüksek bütçeli filmlere göre ikinci derece olduğu konusundaki genel algılamayı ifade etmekteydi; bağımsız B filmleri sıklıkla eleştirmenler tarafından göz ardı edilirdi. Yakın zamanlı B filmlerinin de bazen devam filmleri çekilebilmektedir, fakat eskiye oranla film serileri pek yaygın değildir. A sınıfı filmlerin ortalama gös",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2600,
+      "content": "leştirmenler tarafından göz ardı edilirdi. Yakın zamanlı B filmlerinin de bazen devam filmleri çekilebilmektedir, fakat eskiye oranla film serileri pek yaygın değildir. A sınıfı filmlerin ortalama gösterim süresi uzadıkça, B filmlerinin gösterim süreleri de uzamıştır. Günümüzdeki kullanımında, B filmi teriminin bir şekilde birbiriyle çelişen başlıca iki anlamı vardır: Belirli bir film bu şekilde adlandırılıyorsa, söz konusu filmin; (a) minimal sanatsal kaygılarla yapılmış bir tür filmi ya da (b) daha pahalı filmler için dayatılan kısıtlamalara ve \"ciddi\" kabul edilen bağımsız filmlerin yapılış geleneklerine bağımlı olmaksızın serbestçe yapılan canlı, dinamik bir film olduğu ifade edilmektedir. Başlangıcından günümüze B filmleri, mesleğe yeni başlayanlar ve kariyerleri sönmekte olanlar için birtakım olanaklar sağlamıştır. Anthony Mann ve Jonathan Demme gibi ünlü film yapımcıları, B filmleri çekerek ustalık kazanmışlardır. John Wayne ve Jack Nicholson gibi aktörler B filmleri aracılığıyl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 2400,
+      "end_char": 2865,
+      "content": " birtakım olanaklar sağlamıştır. Anthony Mann ve Jonathan Demme gibi ünlü film yapımcıları, B filmleri çekerek ustalık kazanmışlardır. John Wayne ve Jack Nicholson gibi aktörler B filmleri aracılığıyla kendilerini tanıtma olanağı bulmuştur; ayrıca B filmleri Vincent Price ve Karen Black gibi eski A sınıfı film oyuncuları için de çalışma olanağı sağlamıştır. Béla Lugosi ve Pam Grier gibi bazı aktörler, kariyerlerinin büyük bölümünde B filmlerinde çalışmışlardır.",
+      "char_count": 465,
+      "token_estimate": 116
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2866,
+      "end_char": 2895,
+      "content": "== Ayrıca bakınız == C filmi",
+      "char_count": 28,
+      "token_estimate": 7
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hollywood'un Altın Çağı döneminde B filmleri genellikle hangi özelliklere sahipti?",
+        "answer": "Bu filmler genellikle düşük bütçeli ve 'yıldız oyuncu' barındırmayan filmlerdi.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "B filmlerinin kavramı ve özellikleri Hollywood'un Altın Çağı'ndan günümüze kadar nasıl bir evrim geçirmiştir? Bu evrimi sınıflandırma, tür popülaritesi ve gösterim süresi açısından açıklayın.",
+        "answer": "Hollywood'un Altın Çağı'nda B filmleri, çift seanslı gösterimlerdeki ikinci, düşük bütçeli, yıldız oyuncusuz filmler olarak tanımlanırdı, genellikle Western türündeydi ve 70 dakika veya daha kısa sürerdi. Bu filmler genellikle ikincil görülür ve eleştirmenler tarafından göz ardı edilirdi. 1950'li yıllara gelindiğinde bilimkurgu ve korku filmleri popülerleşti ve terim, sanat filmi ya da porno film olmayan herhangi bir düşük bütçeli ticari sinema filmini kapsayacak şekilde genişledi, bu da sanatsal yaratıcılık ile sömürü filmi arasındaki belirsizliğe yol açtı. Günümüzdeki kullanımında ise B filmlerinin gösterim süreleri uzamış ve terim iki zıt anlam taşımaktadır: ya minimal sanatsal kaygılarla yapılmış bir tür filmi ya da pahalı filmlerin kısıtlamalarından bağımsız, canlı ve dinamik bir yapım. Tarihi boyunca B filmleri, sektöre yeni başlayanlar ve kariyerleri düşüşte olanlar için önemli fırsatlar sunmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "iftynlaynaoyun_0c0216e2",
+    "title": "Çift Yönlü Ayna (oyun)",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87ift_Y%C3%B6nl%C3%BC_Ayna_%28oyun%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:35.027413",
+    "content": "Çift Yönlü Ayna, Arthur Miller'in orijinal adı Two Way Mirror olan tiyatro oyunu. Türkçeye Çift Yönlü Ayna olarak çevirilmiştir. Oyun, orijinal adı Elegy For A Lady olan Bir Bayana Ağıt ve orijinal adı Some Kind Of Love Story olan Bir Tür Sevda Öyküsü adlı iki kısa oyunundan oluşmaktadır. Türkiye'de ilk defa 2004 yılında 14. Uluslararası İstanbul Tiyatro Festivali kapsamında Tiyatro Stüdyosu tarafından sahnelenmiştir. == Oyunun Konusu == Oyunun içindeki iki oyunda birbiri ile ilintili değildir. Ancak, ayrı yollardan da olsa, iki yapıtta da yanılsama maskeleri arasından son, keskin bir gerçeğe doğru uzanan tutkulu yolculuklar vardır. Bir Tür Sevda Öyküsü'nde hayallerle yaşayan bir kadının bir yandan gizleyip bir yandan açığa çıkardığı, bir toplumsal gerçek ile adaletin çürümüşlüğüdür. Bir Bayana Ağıt'taki arayış, sevgililerden birinin olası ölümü ile yaklaşan sona erecek olan bir cinsel ilşkinin biçimine ve anlamına yöneliktir. İkisinde de \"gerçek olmayan\" öylesine acıdır ki, onunla hem baş etmeye çalışılır, hem de yaşamın bir koşulu olarak kabullenilir. == Bir Bayana Ağıt == Yazan: Arthur Miller Yöneten: Özgür Erkekli Çeviren: Ahmet Levendoğlu Sahne Tasarımı: Hakan Dündar Işık Tasarımı: Kemal Yiğitcan Teknik Sorumlu: Tuğrul Laleli Yönetmen Yardımcıları: Özgür Bolkan/Duygu Akşen Oyuncular: Mağaza Sahibesi: Derya Alabora Adam: Mehmet Ali Kaptanlar == Bir Tür Sevda Öyküsü == Yazan: Arthur Miller Yöneten: Ahmet Levendoğlu Çeviri: Ahmet Levendoğlu Sahne Tasarımı: Hakan Dündar Işık Tasarımı: Kemal Yiğitcan Teknik Sorumlu: Tuğrul Laleli Yönetmen Yardımcıları: Özgür Bolkan/Duygu Akşen Oyuncular Angela: Derya Alabora Tom O'Toole",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 233,
+      "char_count": 1647,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.811640",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 422,
+      "content": "Çift Yönlü Ayna, Arthur Miller'in orijinal adı Two Way Mirror olan tiyatro oyunu. Türkçeye Çift Yönlü Ayna olarak çevirilmiştir. Oyun, orijinal adı Elegy For A Lady olan Bir Bayana Ağıt ve orijinal adı Some Kind Of Love Story olan Bir Tür Sevda Öyküsü adlı iki kısa oyunundan oluşmaktadır. Türkiye'de ilk defa 2004 yılında 14. Uluslararası İstanbul Tiyatro Festivali kapsamında Tiyatro Stüdyosu tarafından sahnelenmiştir.",
+      "char_count": 421,
+      "token_estimate": 105
+    },
+    {
+      "id": "c0001",
+      "section": "== Oyunun Konusu ==",
+      "heading_path": "== Oyunun Konusu ==",
+      "start_char": 422,
+      "end_char": 1070,
+      "content": "== Oyunun Konusu == Oyunun içindeki iki oyunda birbiri ile ilintili değildir. Ancak, ayrı yollardan da olsa, iki yapıtta da yanılsama maskeleri arasından son, keskin bir gerçeğe doğru uzanan tutkulu yolculuklar vardır. Bir Tür Sevda Öyküsü'nde hayallerle yaşayan bir kadının bir yandan gizleyip bir yandan açığa çıkardığı, bir toplumsal gerçek ile adaletin çürümüşlüğüdür. Bir Bayana Ağıt'taki arayış, sevgililerden birinin olası ölümü ile yaklaşan sona erecek olan bir cinsel ilşkinin biçimine ve anlamına yöneliktir. İkisinde de \"gerçek olmayan\" öylesine acıdır ki, onunla hem baş etmeye çalışılır, hem de yaşamın bir koşulu olarak kabullenilir.",
+      "char_count": 647,
+      "token_estimate": 161
+    },
+    {
+      "id": "c0002",
+      "section": "== Bir Bayana Ağıt ==",
+      "heading_path": "== Bir Bayana Ağıt ==",
+      "start_char": 1070,
+      "end_char": 1368,
+      "content": "== Bir Bayana Ağıt == Yazan: Arthur Miller Yöneten: Özgür Erkekli Çeviren: Ahmet Levendoğlu Sahne Tasarımı: Hakan Dündar Işık Tasarımı: Kemal Yiğitcan Teknik Sorumlu: Tuğrul Laleli Yönetmen Yardımcıları: Özgür Bolkan/Duygu Akşen Oyuncular: Mağaza Sahibesi: Derya Alabora Adam: Mehmet Ali Kaptanlar",
+      "char_count": 297,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0003",
+      "section": "== Bir Tür Sevda Öyküsü ==",
+      "heading_path": "== Bir Tür Sevda Öyküsü ==",
+      "start_char": 1368,
+      "end_char": 1647,
+      "content": "== Bir Tür Sevda Öyküsü == Yazan: Arthur Miller Yöneten: Ahmet Levendoğlu Çeviri: Ahmet Levendoğlu Sahne Tasarımı: Hakan Dündar Işık Tasarımı: Kemal Yiğitcan Teknik Sorumlu: Tuğrul Laleli Yönetmen Yardımcıları: Özgür Bolkan/Duygu Akşen Oyuncular Angela: Derya Alabora Tom O'Toole",
+      "char_count": 279,
+      "token_estimate": 69
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bir Tür Sevda Öyküsü'nde, hayallerle yaşayan bir kadının gizleyip açığa çıkardığı temel konular nelerdir?",
+        "answer": "Bir toplumsal gerçek ile adaletin çürümüşlüğüdür.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Arthur Miller'ın Çift Yönlü Ayna adlı oyununu oluşturan iki kısa oyunun, konuları birbirinden farklı olmasına rağmen, hangi ortak tematik yolculuk veya kabul ile birbirine bağlandığı belirtilmektedir?",
+        "answer": "Her iki yapıtta da yanılsama maskeleri arasından son, keskin bir gerçeğe doğru uzanan tutkulu yolculuklar bulunur ve 'gerçek olmayan'ın acısına hem karşı konulmaya çalışılır hem de yaşamın bir koşulu olarak kabullenilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

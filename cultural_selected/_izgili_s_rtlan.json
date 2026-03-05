@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "izgilisrtlan_51daceb3",
+    "title": "Çizgili sırtlan",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87izgili_s%C4%B1rtlan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:40.174805",
+    "content": "Çizgili sırtlan (Hyaena hyaena) ya da Andık, sırtlangiller (Hyaenidae) familyasına ait, familyanın diğer üyelerinden daha küçük olan bir sırtlan türü. Yalnızca Afrika'da bulunan diğer sırtlan türlerinden farklı olarak bu tür Asya'da ve hatta Türkiye'de de yaşar. == Özellikleri == Çizgili sırtlan diğer sırtlanlardan (örneğin benekli sırtlan) daha zarif bir vücut yapısına sahiptir. Vücutları 110 cm'nin üstünde uzunluğa ve 40–50 kg ağırlığa ulaşabilir – kuyrukları ortalama 45 santimetredir. Sırtından bir sırada büyüyen kıllarını korkutmak için havaya dikebilir; böylece asıl olduğundan daha büyük gözükür. Rengi gridir ve tüm vücudunda belirgin siyah çizgileri vardır. == Dağılımı == Çizgili sırtlan Afrika kıtasının kuzey yarısında, Asya'nın batısında (Anadolu dahil), Arap Yarımadasında ve Hindistan'da bulunur. Yaşam alanı yarı çöl ve kurak bölgelerdir. == Yaşam Şekli == Çizgili sırtlanin yaşam şekli benekli sırtlanınkinden çok farklıdır. Yalnız yaşamayı tercih eder. Çok nadiren, aile fertlerinden oluşan ufak gruplar kurabilir. Diğer sırtlan türleri gülermiş gibi sesler çıkarırken, çizgili sırtlan sessiz bir hırlamadan başka ses çıkaramaz. Kendine ait bölgesine çok önem verir ve bu bölgeyi savunur. Büyük hayvanları avlayamaz. Genelde leş ile beslenir. Bunun yanı sıra küçük kemiricileri, kuşları, kertenkeleleri, bazen keçi, koyun ya da köpek avlayabilir. İnsandan korkar, zor duruma düşürülmediği sürece saldırmazlar. Genellikle oyuklarda yaşarlar. == Korunma == Doğada düşük yoğunlukta bulunmaları, iyi gizlenmeleri ve yalnız yaşamaları sebebi ile vahşi yaşamda görülmeleri çok zordur. Günümüzde Anadolu'nun belirli bölgelerinde Çevre ve Orman Bakanlığı Doğa Koruma ve Milli Parklar Müdürlüğü tarafından fotokapanlarla takip edilmektedir. Ayrıca 2007 yılında Güneydoğu Anadolu Bölgesi'nde Doğa Derneği gönüllüleri tarafından üç adet çizgili sırtlan yuvası belirlenmiş ve bu yuvalardan birini kullanan bir çift çizgili sırtlan görüntülenmiştir. Bölge koruma altına alınmış ve fotokapanlarla izlenilmektedir. Anadolu'da sayısı az olmakla birlikte, avlanılması kesinlikle yasaktır. Zira Eylül 2010'da Çevre ve Orman Bakanlığı ile Merkez Av Komisyonu tarafından çıkarılan kanuna göre, Anadolu çizgili sırtlanın Türkiye sınırları dahilinde herhangi bir şekilde avlanması, 15.000 TL para cezasından başlayan yaptırımların yolunu açmaktadır. Dünyada 5000 ila 10.000 ferdi kalmıştır. Çizgili sırtlanların Türkiye popülasyonunu korumak için Güneydoğu Anadolu bölgesinin dışında, Altınözü Hatay'da 38.811 hektarlık bir alan yaban hayatı geliştirme sahası olarak ayrılmıştır. == Kitap == Hayvanlar Ansiklopedisi. Parıltı Yayıncılık. 2013. s. 168. ISBN 978-605-100-090-9. == Kaynakça == == Dış bağlantılar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 354,
+      "char_count": 2712,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.864444",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 263,
+      "content": "Çizgili sırtlan (Hyaena hyaena) ya da Andık, sırtlangiller (Hyaenidae) familyasına ait, familyanın diğer üyelerinden daha küçük olan bir sırtlan türü. Yalnızca Afrika'da bulunan diğer sırtlan türlerinden farklı olarak bu tür Asya'da ve hatta Türkiye'de de yaşar.",
+      "char_count": 262,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 263,
+      "end_char": 672,
+      "content": "== Özellikleri == Çizgili sırtlan diğer sırtlanlardan (örneğin benekli sırtlan) daha zarif bir vücut yapısına sahiptir. Vücutları 110 cm'nin üstünde uzunluğa ve 40–50 kg ağırlığa ulaşabilir – kuyrukları ortalama 45 santimetredir. Sırtından bir sırada büyüyen kıllarını korkutmak için havaya dikebilir; böylece asıl olduğundan daha büyük gözükür. Rengi gridir ve tüm vücudunda belirgin siyah çizgileri vardır.",
+      "char_count": 408,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0002",
+      "section": "== Dağılımı ==",
+      "heading_path": "== Dağılımı ==",
+      "start_char": 672,
+      "end_char": 860,
+      "content": "== Dağılımı == Çizgili sırtlan Afrika kıtasının kuzey yarısında, Asya'nın batısında (Anadolu dahil), Arap Yarımadasında ve Hindistan'da bulunur. Yaşam alanı yarı çöl ve kurak bölgelerdir.",
+      "char_count": 187,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0003",
+      "section": "== Yaşam Şekli ==",
+      "heading_path": "== Yaşam Şekli ==",
+      "start_char": 860,
+      "end_char": 1464,
+      "content": "== Yaşam Şekli == Çizgili sırtlanin yaşam şekli benekli sırtlanınkinden çok farklıdır. Yalnız yaşamayı tercih eder. Çok nadiren, aile fertlerinden oluşan ufak gruplar kurabilir. Diğer sırtlan türleri gülermiş gibi sesler çıkarırken, çizgili sırtlan sessiz bir hırlamadan başka ses çıkaramaz. Kendine ait bölgesine çok önem verir ve bu bölgeyi savunur. Büyük hayvanları avlayamaz. Genelde leş ile beslenir. Bunun yanı sıra küçük kemiricileri, kuşları, kertenkeleleri, bazen keçi, koyun ya da köpek avlayabilir. İnsandan korkar, zor duruma düşürülmediği sürece saldırmazlar. Genellikle oyuklarda yaşarlar.",
+      "char_count": 603,
+      "token_estimate": 150
+    },
+    {
+      "id": "c0004",
+      "section": "== Korunma ==",
+      "heading_path": "== Korunma ==",
+      "start_char": 1464,
+      "end_char": 2464,
+      "content": "== Korunma == Doğada düşük yoğunlukta bulunmaları, iyi gizlenmeleri ve yalnız yaşamaları sebebi ile vahşi yaşamda görülmeleri çok zordur. Günümüzde Anadolu'nun belirli bölgelerinde Çevre ve Orman Bakanlığı Doğa Koruma ve Milli Parklar Müdürlüğü tarafından fotokapanlarla takip edilmektedir. Ayrıca 2007 yılında Güneydoğu Anadolu Bölgesi'nde Doğa Derneği gönüllüleri tarafından üç adet çizgili sırtlan yuvası belirlenmiş ve bu yuvalardan birini kullanan bir çift çizgili sırtlan görüntülenmiştir. Bölge koruma altına alınmış ve fotokapanlarla izlenilmektedir. Anadolu'da sayısı az olmakla birlikte, avlanılması kesinlikle yasaktır. Zira Eylül 2010'da Çevre ve Orman Bakanlığı ile Merkez Av Komisyonu tarafından çıkarılan kanuna göre, Anadolu çizgili sırtlanın Türkiye sınırları dahilinde herhangi bir şekilde avlanması, 15.000 TL para cezasından başlayan yaptırımların yolunu açmaktadır. Dünyada 5000 ila 10.000 ferdi kalmıştır. Çizgili sırtlanların Türkiye popülasyonunu korumak için Güneydoğu Anadol",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Korunma ==",
+      "heading_path": "== Korunma ==",
+      "start_char": 2264,
+      "end_char": 2580,
+      "content": "şekilde avlanması, 15.000 TL para cezasından başlayan yaptırımların yolunu açmaktadır. Dünyada 5000 ila 10.000 ferdi kalmıştır. Çizgili sırtlanların Türkiye popülasyonunu korumak için Güneydoğu Anadolu bölgesinin dışında, Altınözü Hatay'da 38.811 hektarlık bir alan yaban hayatı geliştirme sahası olarak ayrılmıştır.",
+      "char_count": 316,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0006",
+      "section": "== Kitap ==",
+      "heading_path": "== Kitap ==",
+      "start_char": 2581,
+      "end_char": 2676,
+      "content": "== Kitap == Hayvanlar Ansiklopedisi. Parıltı Yayıncılık. 2013. s. 168. ISBN 978-605-100-090-9.",
+      "char_count": 94,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Anadolu çizgili sırtlanını Türkiye sınırları dahilinde avlamanın kanuni yaptırımı nedir?",
+        "answer": "15.000 TL para cezasından başlayan yaptırımlar uygulanmaktadır.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Çizgili sırtlanın diğer sırtlan türlerinden temel farklılıkları nelerdir?",
+        "answer": "Çizgili sırtlan, familyasının diğer üyelerinden daha küçük ve daha zarif bir vücut yapısına sahiptir. Ayrıca, yalnızca Afrika'da bulunan diğer sırtlan türlerinden farklı olarak Asya'da ve Türkiye'de de yaşar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

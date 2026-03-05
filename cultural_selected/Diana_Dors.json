@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "dianadors_11f10f8d",
+    "title": "Diana Dors",
+    "url": "https://tr.wikipedia.org/wiki/Diana_Dors",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:09.955115",
+    "content": "Diana Dors (doğum adı: Diana Mary Fluck, d. 23 Ekim 1931 – ö. 4 Mayıs 1984), İngiliz aktris. == Yaşamı ve kariyeri == Dors, 23 Ekim 1931'de Swindon, Wiltshire, İngiltere'de doğdu. Londra Müzik ve Oyunculuk Sanatları Akademisi'nden mezun oldu. 1947'de başladığı oyunculuk kariyerini 1984 yılına kadar sürdürdü. Yer aldığı yapımlar arasında; A Weekend in Paris, Death Takes a Holiday, Oliver Twist, The Shop at Sly Corner, The Love Specialist ve Berserk sayılabilir. == Özel yaşamı ve ölümü == Üç kez evlenmiş üç çocuğu bulunan Dors, 4 Mayıs 1984'te Windsor, Berkshire, İngiltere'de rahim kanseri nedeniyle ölmüş cenazesi Sunningdale Katolik Mezarlığı'nda icra olmuştur. == Filmografi == === Sinema === 1948: Oliver Twist 1948: Penny and the Pownall Case 1949: A Boy, a Girl and a Bike 1949: Diamond City 1950: Dance Hall 1951: Worm's Eye View 1952: My Wife's Lodger 1953: Is Your Honeymoon Really Necessary 1953: The Great Game 1953: It's a Grand Life 1954: Young and Willing 1955: As Long as They're Happy 1955: An Alligator Named Daisy 1955: A Kid for Two Farthings 1955: Dead by Morning 1955: Value for Money 1956: Blonde Sinner 1957: The Long Haul 1957: The Unholy Wife 1958: The Love Specialist 1958: I Married a Woman 1958: Tread Softly Stranger 1958: Room 43 1961: King of the Roaring 20's: The Story of Arnold Rothstein 1962: Encontra a Mallorca 1962: Mrs. Gibbons' Boys 1963: West 11 1967: Berserk 1968: Hammerhead 1969: Baby Love 1972: Every Afternoon 1973: Nothing But the Night 1973: Steptoe and Son Ride Again 1974: Craze 1974: From Beyond the Grave 1975: The Amorous Milkman 1975: Bedtime with Rosie 1976: Adventures of a Taxi Driver 1977: Adventures of a Private Eye 1979: Confessions from the David Galaxy Affair 1985: Steaming === TV filmleri === 1947: Stump the Stars 1956: Midlands News 1959: Phillies Jackpot Bowling 1959: The Diana Dors Show 1961: De Rudi Carell Show 1963: Fractured Flickers 1963: Picture This 1965: Aquí el segundo programa 1966: Luces en la noche 1968: Will the Real Mike Yarwood Stand Up? 1970: Queenie's Castle 1970: Looks Familiar 1972: Shut That Door! 1972: The Movie Quiz 1973: All Our Saturdays 1973: The Sound of Petula 1974: Just a Nimmo 1975: Husband of the Year 1976: Just William 1978: Winner Takes All 1980: Open Dors === TV dizileri === 1951: Face to Face 1959: Keep in Step 1966: One-Eyed Jacks Are Wild 1968: Mike and Liberace 1976: The Norman Gunston Show 1980: Dr. Jekyll and Mr. Hyde 1990: Dors: The Other Diana 2004: The Madness of Prince Charming === Video filmler === 1981: Adam and the Ants: Prince Charming == Kaynakça == == Dış bağlantılar == Discogs'ta Diana Dors diskografisi IMDb'de Diana Dors Diana Dors – memorial site Diana Dors 5 Eylül 2022 tarihinde Wayback Machine sitesinde arşivlendi. at Screen Online Diana Dors 15 Şubat 2019 tarihinde Wayback Machine sitesinde arşivlendi. A Life in Pictures – photo gallery at BBC Wiltshire 28 Haziran 2009 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 493,
+      "char_count": 2965,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.432446",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 93,
+      "content": "Diana Dors (doğum adı: Diana Mary Fluck, d. 23 Ekim 1931 – ö. 4 Mayıs 1984), İngiliz aktris.",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 93,
+      "end_char": 465,
+      "content": "== Yaşamı ve kariyeri == Dors, 23 Ekim 1931'de Swindon, Wiltshire, İngiltere'de doğdu. Londra Müzik ve Oyunculuk Sanatları Akademisi'nden mezun oldu. 1947'de başladığı oyunculuk kariyerini 1984 yılına kadar sürdürdü. Yer aldığı yapımlar arasında; A Weekend in Paris, Death Takes a Holiday, Oliver Twist, The Shop at Sly Corner, The Love Specialist ve Berserk sayılabilir.",
+      "char_count": 371,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0002",
+      "section": "== Özel yaşamı ve ölümü ==",
+      "heading_path": "== Özel yaşamı ve ölümü ==",
+      "start_char": 465,
+      "end_char": 669,
+      "content": "== Özel yaşamı ve ölümü == Üç kez evlenmiş üç çocuğu bulunan Dors, 4 Mayıs 1984'te Windsor, Berkshire, İngiltere'de rahim kanseri nedeniyle ölmüş cenazesi Sunningdale Katolik Mezarlığı'nda icra olmuştur.",
+      "char_count": 203,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0003",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 686,
+      "end_char": 1686,
+      "content": "=== Sinema === 1948: Oliver Twist 1948: Penny and the Pownall Case 1949: A Boy, a Girl and a Bike 1949: Diamond City 1950: Dance Hall 1951: Worm's Eye View 1952: My Wife's Lodger 1953: Is Your Honeymoon Really Necessary 1953: The Great Game 1953: It's a Grand Life 1954: Young and Willing 1955: As Long as They're Happy 1955: An Alligator Named Daisy 1955: A Kid for Two Farthings 1955: Dead by Morning 1955: Value for Money 1956: Blonde Sinner 1957: The Long Haul 1957: The Unholy Wife 1958: The Love Specialist 1958: I Married a Woman 1958: Tread Softly Stranger 1958: Room 43 1961: King of the Roaring 20's: The Story of Arnold Rothstein 1962: Encontra a Mallorca 1962: Mrs. Gibbons' Boys 1963: West 11 1967: Berserk 1968: Hammerhead 1969: Baby Love 1972: Every Afternoon 1973: Nothing But the Night 1973: Steptoe and Son Ride Again 1974: Craze 1974: From Beyond the Grave 1975: The Amorous Milkman 1975: Bedtime with Rosie 1976: Adventures of a Taxi Driver 1977: Adventures of a Private Eye 1979:",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 1486,
+      "end_char": 1742,
+      "content": "ht 1973: Steptoe and Son Ride Again 1974: Craze 1974: From Beyond the Grave 1975: The Amorous Milkman 1975: Bedtime with Rosie 1976: Adventures of a Taxi Driver 1977: Adventures of a Private Eye 1979: Confessions from the David Galaxy Affair 1985: Steaming",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0005",
+      "section": "=== TV filmleri ===",
+      "heading_path": "=== TV filmleri ===",
+      "start_char": 1743,
+      "end_char": 2270,
+      "content": "=== TV filmleri === 1947: Stump the Stars 1956: Midlands News 1959: Phillies Jackpot Bowling 1959: The Diana Dors Show 1961: De Rudi Carell Show 1963: Fractured Flickers 1963: Picture This 1965: Aquí el segundo programa 1966: Luces en la noche 1968: Will the Real Mike Yarwood Stand Up? 1970: Queenie's Castle 1970: Looks Familiar 1972: Shut That Door! 1972: The Movie Quiz 1973: All Our Saturdays 1973: The Sound of Petula 1974: Just a Nimmo 1975: Husband of the Year 1976: Just William 1978: Winner Takes All 1980: Open Dors",
+      "char_count": 526,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0006",
+      "section": "=== TV dizileri ===",
+      "heading_path": "=== TV dizileri ===",
+      "start_char": 2270,
+      "end_char": 2507,
+      "content": "=== TV dizileri === 1951: Face to Face 1959: Keep in Step 1966: One-Eyed Jacks Are Wild 1968: Mike and Liberace 1976: The Norman Gunston Show 1980: Dr. Jekyll and Mr. Hyde 1990: Dors: The Other Diana 2004: The Madness of Prince Charming",
+      "char_count": 236,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0007",
+      "section": "=== Video filmler ===",
+      "heading_path": "=== Video filmler ===",
+      "start_char": 2507,
+      "end_char": 2570,
+      "content": "=== Video filmler === 1981: Adam and the Ants: Prince Charming",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2585,
+      "end_char": 2965,
+      "content": "== Dış bağlantılar == Discogs'ta Diana Dors diskografisi IMDb'de Diana Dors Diana Dors – memorial site Diana Dors 5 Eylül 2022 tarihinde Wayback Machine sitesinde arşivlendi. at Screen Online Diana Dors 15 Şubat 2019 tarihinde Wayback Machine sitesinde arşivlendi. A Life in Pictures – photo gallery at BBC Wiltshire 28 Haziran 2009 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 380,
+      "token_estimate": 95
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1948 yılında hangi filmler yayınlanmıştır?",
+        "answer": "Oliver Twist, Penny and the Pownall Case",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Diana Dors'un oyunculuk kariyerini sonlandırdığı yıl ile vefat ettiği yıl arasında nasıl bir zamanlama ilişkisi bulunmaktadır?",
+        "answer": "Diana Dors'un oyunculuk kariyeri 1984 yılında sona ermiş ve aynı yıl, 4 Mayıs 1984'te vefat etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

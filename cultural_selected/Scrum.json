@@ -1,0 +1,443 @@
+{
+  "article": {
+    "id": "scrum_a29929ed",
+    "title": "Scrum",
+    "url": "https://tr.wikipedia.org/wiki/Scrum",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:49.627800",
+    "content": "Scrum (İngilizce: \"itişip kakışma“), yazılım geliştirme ve yazılım Mühendisliği'nde bir uygulama geliştirme çerçevesidir. Proje yönetimi'nde karmaşık bir ortamda ürünleri geliştirmek, sunmak ve sürdürmek için Çevik yazılım geliştirme felsefesini benimseyen bir çerçevedir. \"Hamleci yaklaşım\" şeklinde bir çeviri önerilmiştir. Bu geliştirme çerçevesinin temel özelliği gözlemci, geliştirmeci ve tekrara dayalı olmasıdır. Birçok modern yazılım projesinin oldukça karmaşık olduğu ve en baştan tümünü planlamanın zor olacağı şeklindeki bir varsayımdan hareket eder. Bu karmaşıklığı üç ilke ile azaltmaya çalışır. Şeffaflık: Projedeki ilerlemeler ve sorunlar günlük olarak tutulur ve herkes tarafından izlenebilir olması sağlanır. Gözlem: Ürünün parçaları ya da fonksiyonları düzenli aralıklarla teslim edilir ve değerlendirilir. Uyumlanma: Ürün için gereksinimler en baştan bir defalığına belirlenmez, bilakis her teslimat tekrar değerlendirilir ve duruma göre uyarlamalar yapılır. Amaç başlangıçta hayal edilen ve tasarlanana uyan bir ürünün, hızlı, ucuz ve kaliteli şekilde üretilmesidir. Tasarlanan ürünün gerçekleştirilmesi, müşteri/kullanıcı tarafından mümkün olduğunca detaylı şekilde hazırlanmış bir talepler listesinin aşama aşama gerçekleştirilmesi biçiminde yapılmaz. Bunun yerine müşteri/kullanıcı tarafından istenilen ve tanımlanan işlevler, iki ya da dört haftalık \"Sprint\" adı verilen dönemler içerisinde geliştirilir ve yeniden gözden geçirilir. Bu kullanıcı bazlı gereksinim tanımı Kullanıcı Hikayesi olarak nitelenir ve özellikler defterinde yer alır. Her Sprint sonunda yazılımın fonksiyonel bir parçası bitmiş ve müşteriye teslim edilebilir bir durumda olur. Scrum Çevik yazılım geliştirme prensiplerini hayata geçiren bir yöntemdir. Scrum karmaşık projelerin yönetimi için bir çatıdır (Çatı anlayışı bitmiş bir program değil, yazılımın bir çerçevesidir). == Tarihsel Temelleri == Scrum Ken Schwaber ve Jeff Sutherland tarafından 1990'ların başında geliştirildi ve temel fikirleri Schwaber (Schwaber 2004) tarafından ortaya konmuştur. Scrum proje rolleri: Ürün Sahibi (Product Owner) Takım (Team) Scrum Ustası (ScrumMaster) ve özellikle \"geleneksel\" \"proje yöneticisi\" rolü bulunmaz. Proje rollerinin görevlerine ek olarak Scrum proje akışını Sprint (en fazla dört hafta süren) anlayışıyla düzenler. Ken Schwaber, Jeff Sutherland ve diğerleri tarafından formüle edilen Çevik manifesto (Agile 2001) çevik yazılım geliştirme değerleri Scrumda vücut bulur: Çevik Yazılım Geliştirme Manifestosu'na göre; 1) Süreçler ve araçlardan ziyade, bireyler ve etkileşimler, 2) Kapsamlı dokümantasyondan ziyade, çalışan yazılım, 3) Sözleşme pazarlıklarından ziyade, müşteri ile işbirliği, 4) Bir plana bağlı kalmaktan ziyade, değişime cevap vermek, daha değerlidir... == Roller == Scrum Süreç-Modeli net olarak üç çeşit rolü tanır: Ürün Sahibi, Takım ve Scrum Master. === Etkileşim === Scrum Ustası: Takımı korumak ve yardımcı olmak. Ürün sahibine yardımcı olmak. Ürün Sahibi: Kullanıcı hikâyelerinin ayrıntılarını takım ile konuşmak. Dış rollerdekiler ile \"Kullanıcı Hikâyeleri\"ni belirlemek. Geliştiriciler: Gereksinimlerin nasıl yapılacağını belirlemek ve standart kalite çerçevesinde (Bitti Tanımı) geliştirmek. === Ürün Sahibi (Product Owner) === Ürün Sahibi stratejik ürün geliştirmeden sorumludur. Sorumluluğu net bir ürün vizyonunun Tasarımı, iletişimi, özelliklerin tanımı ve önceliklendirme, teslim edilen sprintin işlevselliği ve kabul edilebilir olup olmadığına karar verme ve şirketin ekonomik faydasına uygun ürün tasarımı ve ana amaçları belirler. Yalnızca o teslimat, işlevsellik ve maliyet gibi kararlardan sorumludur. Ürün Sahibi ürün özelliklerinin tanımlaması işlemini Ürün Gereksinimini (Product Backlog) kullanır ve yazılım Takımı ile birlikte çalışarak kullanıcı hikâyelerini (User Stories) taşır ve kullanıcı bazlı işlevsellikleri ifade eder. Aldığı kararlar bağlayıcıdır ve iptal edilemez. Ürün Sahibi ya da proje sorumlusu son kullanıcının bakış açısını üstlenir ve yazılım gelişimini kontrol edip yazılımcılar için hazır bulunur. XP metodunun tersine projenin tek sorumlusudur 'yolculuk nereye' (Pichler 2008). Görevleri: Gereksinim Yönetimi, Yayın Yönetimi (Release) ve iletişim. === Geliştirme Takımı === Yazılım ekibinin görevi ürün sahibinin taleplerine ve sıralamasına uygun ürünün işlevselliğini sağlamak ve belirlenen kalite standartlarına uymak koşuluyla ürünü teslim etmektir. Ne kadar ve hangi işlevlerin sprinte dahil olacağına kendileri karar verirler. Scrumda geliştirme takımı bir ekip olarak algılanır ve iyi ya da kötü sonuçlar takım elemanlarına çıkartılmaz bilakis takımı bir birim olarak algılar. Bir takım 5-9 kişiden oluşur. Ek olarak yazılım takımı kullanıcı hikâyelerinin çerçevesini tahmin edebilir ama kural olarak da bir günü geçmemelidir. Scrum takım içinde rol dağılımıyla ilgilenmez. Belirtildiği gibi Scrum bir yönetim metodudur. Tabii ki bütün roller ya da daha doğrusu yetenekler başarılı bir proje gelişimi için hazır olmak zorundadır. Bir takımda olması gereken özellikleri iki başlık altında ifade edebiliriz: 1) Kendi kendine organize ve küçük 2) Multidisipliner ve özerk === Scrum Yöneticisi (Scrum Master) === Scrum Ustası Scrum'un başarılı olmasını sağlamaktan sorumludur. Bunu başarmak için Yazılım Takımı ile birlikte çalışır ama takıma tabii olmaz. Scrum kurallarını bildirir, uyumu kontrol eder ve toplantı moderatörlüğünü yapıp Scrum sürecindeki düzensizlikler ile ilgilenir. İş aracı olarak engel-birikimini (Impediment Backlog) takımın önündeki engelleri kaldırmak için kullanır ve bu anlamda sorumluluk taşır. Olası engeller: Takım içindeki iletişim eksikliği, kişisel çelişkiler, takım ve ürün sahibi arasındaki iletişim, dış kaynaklı rahatsızlıkların (ek işlevler gibi) giderilmesi. Scrum ustası yazılım takımına karşı yürütme yetkisi vardır ancak şeflik yetkisi yoktur bu anlamda ne hüküm verebilir ne de disiplin kovuşturması yapabilir (Servant Leaders > Hizmetkar Liderlik). Scrum ustasının kim olacağının belirlenmesinin en ideal yolu yazılım takımı tarafından seçilmesidir. Pratikte bu pek mümkün olmayabilir. Çünkü iş yapan firmalar Scrum takımının Scrum metodolojisine tam uyum sağlamaları için Scrum konusunda deneyimli bir personeli proje başında belirleyebilir. Eğer Scrum birinci etabını geçtikten sonra, Scrum ustasının rolü değişiklik yöneticisi (Change-Manager) olarak algılanır. Özet olarak Scrum ustası (Change Agent): Süreçten sorumlu, takımın arkadaşı ve yardımcısı, sürecin doğruluğunun denetleyicisi, takım ile birebir bağlantılı ve Takımın yanında çalışır. Görevi: ) Scrumu uygulamak ve ürün sahibi ile yazılım takımına destek olmak. ) Engelleri kaldırmak (örnek; rol sahipleri arasındaki çelişkiler) ve süreçteki sapmaları düzenlemek. ) Takıma hizmet etmek ve meslektaş bir yönetim tarzı ile yönetmek. === Kullanıcı (User) === Kullanıcı ilerideki yazılımın/ürünün kullanıcısıdır. Ürünün nasıl bir perspektif ile kullanılacağı konusunda fikir verir ve gerçek hedef kitlesidir. Kullanıcı Sprint başlangıcı ve sonucunda ürünü test etme amaçlı yer alır ve geri bilgi akışı (Feedback) sağlar. ) Kullanılabilirlik (Usability) konusunda takıma değerli ipuçları verir ) Takım ve ürün sahibi kullanıcı bilgileri doğrultusunda Sprint-planını uyarlar ve son durum tekrar kullanıcı tarafından test edilir. === Yönetici (Management) === Yönetici de kullanıcı ve müşteri gibi Scrum ekibine az oranda tabiidir. Ama scrumun yapısal çerçevesini yönetici belirler. Ek olarak da kaynaklar (Ressourcen) oluşturur (yer, alet vs.). Scrum ustasına destek olur ve mesleki personel organizesi sağlar ve Scrum ekibini dış taleplerden korumak gibi bir sorumluluğu vardır. Görevi: Projenin çerçevesi ile ilgilenir ve Scrum ustasının proje alanı içerisindeki belirlediği problemlerin çözümü ile ilgilenir. === Takım ve Etkileşim === Rol dağılımında takım kendi kendini organize eder. Ne Scrum ustası ne de ürün sahibinin takım içinde kimin neyi ne zaman kiminle yapacaklarına dair bir yaptırımı olmaz. Scrum ustasının vazifesi yalnızca takımın farklı etkenlerle rahatsız edilmemesine dikkat etmektir. === Rollerin istismar riski === Scrum'da klasik \"Proje Yöneticisi'nin olmayışı, özellikle deneyimsiz bir Scrum ekibinde, Scrum ustası ya da ürün sahibinin (Product Owner) bu rolü üstlenmesi tehlike yaratır ve takımın Özerklik statüsüne zarar vererek, Scrumda sapmalara yol açar. Bu tehlikeyi azaltmanın yolu Scrum-ustası ve ürün sahibinin bir Scrum-Expert'inden yardım almasıyla sağlanabilir. == Toplantılar == === Sprint Planlama Toplantısı 1 === Bu toplantıda ürün sahibi kendi yazılım takımına ürün içeriğinde (Product Backlog) kararlaştırılan kullanıcı hikayelerini (User Stories) öncelik sırasına göre belirtir ve gereksinimler takım tarafından netleştirilip yazılı olarak kaydedilir. Kullanıcı da işlevsellik konusunda önemli bilgiler verebilir. Bunun dışında ürün sahibi ve takım sprint içinde olması gereken işlevler ve kriterler üzerinde anlaşırlar (bkz. Definition of Done). Amaç kullanılabilir yazılım elde etmektir: test edilmiş, entegre olmuş ve kullanıcıya açılmış olmalıdır. Sprint'in kabul şartları kabul kriterleri (test, işlev, performans) ile etkileşimlidir. Bu tarz kararlar sprint sonucunda net şekilde belirlenir ve belirtilen fonksiyonların gerçekten içerdiklerine bakılır ve incelenir. Açıklamalar yapıldıktan sonra Scrum ustası takımına gelecek sprint de kaç adet kullanıcı hikayesi olacağını sorar ve tek tek değerlendirilip dış baskı olmadan erişilebilirliğine bakılır.  Süre: 60 dakika Sprint (haftalık) === Sprint Planlama Toplantısı 2 === Sprint-plan 1 de \"NE?\" ön planda iken, burada \"NASIL?\" sorusu ön plana çıkar. Yazılım takımı hangi kullanıcı hikâyelerinin Sprint'e dahil olduğunu bilir ve uygulamanın (teorik) teknik boyutu açıklanır. Toplantı Takım'ın kendi sorumluluğunda organize edilir. Genellikle küçük gruplar oluşturulup yapı, test, açık gibi konulara açıklık verilir. Burada beklenen sonuç görevlerin bir günlük süreyi aşmayacak şekilde bitirilmesini kapsar. Görevler belirlenen kullanıcı hikâyelerinden hareketle duvara ya da beyaz tahtaya (Taskboard) asılır bu sayede hangisinin işlemde ya da sırada olduğu bilinir. Süre: 60 dakika her Sprint (haftalık) de. Sprint-plan 1 ve 2 aynı gün içerisinde yapılmalıdır. === Günlük Scrum (Daily Scrum) === Her iş günü başlamadan evvel 15 dakikalık bilgi paylaşımı için günlük Scrum toplantısı yapılır. Bu görüşmede herhangi bir problem değerlendirilmez, yalnızca 3 tema işlenir: dün ne yaptım, bugün ne yapacağım, beni ne engelliyor. Eğer belirtilen görev bir günde bitmesi mümkün değil ise, görev parçalanıp takıma dağıtılır. Eğer 15 dakika içinde bazı sorular cevap bulamadığı durumlarda Scrum ustası not alıp bir sonraki toplantıya taşır ya da kendisi çözüm üretir. === Sprint Değerlendirmesi (Sprint Review) === Değerlendirme Sprint'in sonunda takım tarafından yapılır ve başlangıçta belirlenen hedeflerin kapsamında olup olmadığı Ürün sahibi tarafından değerlendirilir. Eğer teslim edilen işlevde eksiklik (test olmamış ise) var ise o kullanıcı hikâyesi yeniden, ürün sahibi tarafından ürün içeriğine (Product Backlog) gönderilir ve öncelik sırası verilir. Değerlendirmeye kullanıcının (User) katılımı da işlevin testi, ürün tasarımı ve kullanıcı bakışı açısından çok önemlidir. Kullanıcı Hıkayelerin de bir eksiklik var ise Scrum ustası tarafından not alınıp, ürün sahibi tarafından ürün içeriğine aktarılır. Süre olarak 1 ayda biten Sprint in değerlendirmesi en fazla 4 saat sürmeli, az süren sprintlerde süre uyarlanır. === Sprint Retrospektif (Geçmişe Bakış) === Geçmişe bakış toplantıları, Sprint Değerlendirme toplantılarından sonra ve Sprint Planlama toplantılarından önce yapılırlar ve geçmiş sprint'teki tecrübeler masaya yatırılarak iyileştirmeler belirlenir. Scrum yönteminin en önemli özelliklerinden birisi bu süreçte suçlu/suçsuz eleştirilerinin yapılmamasıdır. == Sprint == Sprint'de ürün geliştirilir. Yukarıda belirtilen her 2 Sprint planlama, her Sprint başlangıcında yer alır. Planlamada belirtilen ürün işlevleri, Sprint'in sonunda teslim edilir. Geliştirme ekibinin çalışmaları, görev panosuna (Taskboard) dayanır ve Kullanıcı hikayeleri önceliklerine göre ele alınıp, tüm takım bir hikâye üzerinde birlikte çalışır, böylelikle katılımcılar hangi işlev'in geliştirildiğini bilir ve karşılıklı katkılarda bulunur: Yazılımcı, testçi ile birlikte testi başlatır. işyeri analisti kullanıcılara işlev'in parçalarını tanıtır. Ürün geliştirmedeki gerekli kriterler (Testi, Kabulü) işlev'de mevcut ise, yazılım takımı yeni işlev üzerinde çalışmasına başlar. Sprint süreci, birçok işlev üzerinde çalışılmış ancak teslim edilecek işlevin olmamasını engeller. Sprint süreci'nde, belirlenen hedefe erişim ve sorumluluk yalnızca yazılım takımındadır, bu yüzden takım her türlü rahatsız edici durumlardan kesinlikle korunmalıdır. Dışarıdan gelebilecek ekstra görev ya da taleplerden (takım elemanını ilgilendirse bile) ve takımı hedeften şaşırtıcı, her türlü engelin kaldırılmasında Scrum ustası sorumludur. Geliştirme ekipleri içinde olası problemler: kurallara uyulmaması ya da görev in tamamlanmaması gibi durumlarda Scrum-ustası müdahale etmelidir. Talimat verme şeklinde değil anlaşma ve sonuçları kapsayan öneri ve hatırlatmalarda bulunmalıdır. Sprint'in uygulama zamanı her zaman ayni olmalı ve uzatılmamalıdır. Bir Sprint en az bir hafta ve en fazla 4 hafta sürmelidir. Eğer hedeflenen sonuca Scrum sürecinde erişim mümkün değilse örneğin takım içerisinde çelişkilerin olması ya da taleplerin yanlış anlaşılması durumunda takım ya da ürün sahibi tarafından durdurulabilir. Sprint'in durdurulması durumunda inceleme yapılmaz retrospektif yapılır ve gelecek Sprint'in planlanması yapılır. == Yapı Taşları == === Ürün İçeriği (Product Backlog) === Ürün İçeriği (Product Backlog) taleplerin oluşturulması ve yönetilmesi için merkezi belgedir ve teslim edilecek işlevsel elementler yönetilir. Toparlanan kullanıcı hikâyeleri ürün sahibi tarafından önceliklerine göre düzenlenir ve gerçekleştirilme zamanı takımın yardımı ile tahmin edilir. Ürün içeriği, geliştirilmekte olan ürünün önceliklere göre sıralanmış işlevleri kapsar. Değişim taleplerinin alındığı tek yerdir ve ekleme, çıkarma, öncelikler gibi işlemler ürün sahibi tarafından yapılır. Ürün içeriği hiçbir zaman eksiksiz değildir ve böyle bir iddiası da olmaz, tanımlanmış, iyi anlaşılmış gereksinimleri içerir, öncelikler ise ekonomik fayda, risk gibi faktörlerle değerlendirilip uygulanır. Ürün içeriği'ne eklenen talepler teknik olarak değil, mesleki ve kullanıcı odaklı olmalıdır. İyi bir kullanıcı hikâyesi üç soruya cevap vermelidir: Kullanıcı olarak (kim?) bu işlevi (neyi?) şu faydalar (neden?) için istiyorum. === Sprint İçeriği === Sprint içeriği halledilmesi gereken görevleri gösterir. Bu amaç için dört sütunlu bir görev tahtası kullanılır: 1. sütun'da Sprint'de bulunan İş Parçacıkları (\"Stories\") 2. sütun'da görevler (\"ToDo\") 3. sütun'da çalışma (\"In Progress\") ve 4.sütun'da teslime hazır (\"Done\") olan iş parçacıkları bulunur. Yazılım takımı elemanları günlük Scrum'da önceki gün hangi görev üzerinde çalıştığını ve bitip bitmediği hakkında bilgi verir. Bir günde bitmeyen görevler ise kırmızı bir nokta ile işaretlenir. Böylelikle engeller kolayca tespit edilir. === İş Bitim Grafikleri (Burndown-Charts) === İş bitim grafikleri yapılmış ve geri kalan çalışmayı görselleştirmek için kullanılır. Bir Sprint yanık grafiği, x-ekseninde günlük zamanı, y-ekseninde bitirilmemiş görevleri gösterir. Bu grafik, Sprint'in belirtilen zaman birimi içinde daha iyi tahmin edilmesini sağlar. Seçili kullanıcı hikâyelerini izlemek içinde hikâye-iş bitim-grafiği kullanılır. Burada eksik kalan görevler değil eksik hikâyeler gösterilir. Her hikâye eşit büyüklükte olmayacağından, büyüklük bilgisi noktalarla sağlanır. Kalan hikâyelerin toplamı y-ekseninde belirtilir, x-ekseni de Sprint süresini gösterir. Grafik eğilimleri merdiven şeklindedir. Her azalma değeri bir hikeynin bittiğini gösterir (örnek. 8 noktalı bir hikâye, 8 azalma verir). Tüm projeyi göstermek için devir (Release)-iş bitim-grafiği kullanılır. Bu durumda y-eksenine bütün ürün içeriğinde belirlenen bitmemis kullanıcı hikâyeleri ve hikâye noktalarının toplanmış sekli gösterilir. Böylelikle proje bitimine kadar kaç tane teslimat yapılacağı anlaşılır. === Engel İçeriği (Impediment Backlog) === Engel İçeriği (belirlenen tüm engeller) Scrum ustası tarafından, kısa bir problem tanımı ve tarih etiketiyle oluşturulur. Ek olarak günlük Scrum sonunda, Scrum ustası karşılaşılan engelleri ekler. === Bitti Tanımı (Definition of Done) === Bitti tanımı, bir kullanıcı hikâyesinin uygulanmasına ait ve yazılıma nüfus eden etkinliklerin kontrol listesidir. Ek belgeler olarak: yorum yazmak, birim testleri ve tasarım belgeleri. Bitti tanımı proje başlangıcında katılımcılar tarafından kararlaştırılır, ayrıca geliştirme sürecindede uyarlanabilir. Sprint'in başlangıcında görevlerin sayısı ve kapsamı hakkında yardımcı olur ve tüm hikâyelerde uygulanmak zorunda değildir. Bitti tanımı Sprint'in sonunda belirli bir hikâyenin ayrıntılı taleplerini belirttiğinden, Sprint'in kabul edilmesine de hizmet eder. == Scrum'ın sınırları == === Öğrenilen dersler ve değerlendirme === Scrum kullanımında, kişi özgün tahminlerini (alt/üst) kalıcı ve süreklileştirir. Scrum ilk günden itibaren ürün geliştirmesinde olması gerekendeki sapmaları gösterir: hızlı, iyi, uygun fiyatlı ya da yüksek kalitede olması takımın kazandığı deneyimlere bağlıdır. === Takım bileşimini engelleyen faktörler === Scrum'ın uygulanmasını çeşitli faktörler engelleyebilir. Geliştirme takımı hiyerarşik yapılanmanın tersine, kendi kendini yönetme ilkesiyle şekillenir. Geliştirme takımı içindeki önceki konumlarından vazgeçmek istemeyen üyelerin olması çelişkilere yol açabileceğinden hareketle iç disiplinin bilince çıkarılması, görevlerin dış destek olmadan yapılması için önemlidir. Scrum'da proje ekibi sprint'deki tüm görevler üzerinde birlikte çalışırlar, böylelikle testci, yazılımcı, tasarımcı uyumu takıma yansır. Ancak deneyimli bir takım dezavantajları telafi edebilir. == Scrum Nerelerde Uygulanır == === Yeni ya da var olan bir projede === Scrum yeni bir Projede ya da klasik yöntemlerle başlamış bir projeyi kurtarmaya uygundur. Scrum uyglanmadan önce yeteri kadar ürün içeriği (Product Backlog) mevcut olmalı ve hangi teknolojik bir çatının kullanılacağıda kararlaştırılmalı ve uygulanmalıdır. Müşteriye verilen birinci fonksiyonalite olayın ciddiyetini ifade edeceğinden önemlidir. Klasik projelerde, çalışan uygulama nın çok zaman alması ya da hiç çalışır bir duruma gelmemesi Müşteri ile takım arasındaki güveni zedeler bu yüzden birinci Sprint (ö. 30 günde) önemlidir ve takım da çalışır durumda uygulama sunarak kendini kanıtlamış olur === Büyük ya da birbirine bağımlı projelerde === Scrum takımı 5-8 kişiden oluşturulduğundan büyük projelerde aynı zamanda birden fazla Scrum takımı (katman) uluşturulur ve Sprint aynı anda başlar ve sonuçlar Sprint değerlendirme toplantısında sunulur. Takım koordinasyonunu sağlamak için, her takım haftada 1/2 toplantı yapar (Scrum of Scrums), Scrum kurucularında Jeff Sutherland bir Scrum projesinde 800 kişinin çalışabileceğini belirtir. === Scrum ve XP === Scrum temelde yazılım geliştirme yönetim olarak görülür ancak diğer metotlarla da basit kombine yapılabilir, bu XP (Extreme Programming) metodu ile denendi ve birbirlerine iyi uyum gösterdiği görüldü. XP@Scrum'ı Ken Schwaber ve Martin Fowler Trans Canada Pipeline Ltd. başarıyla uygulamıştır. == Özet == Scrum hafif ağırlıkta bir yönetim sürecidir, çeşitli boyutlardaki projelerde uygulanabilir. Scrum'ın temel özellikleri: Küçük takımları iletişim ve bilgi değişimine teşvik eder. Teknolojik değişimleri ve kullanıcı gereksinimleri için uyarlanabilirlik sağlar. Sık yaratılan ürün sürümlerinde, teftiş edilmiş, uyarlamış ve test edilmişler dokümante edilebilir. Yapılacak iş'in küçük parçalara dağılımı ve mümkün oldukça birbirinden bağımsız alt görevleri. Her zaman bitmiş olarak bir proje bildirim mümkünatı, olası o süre nedeniyle mali, teknik rekabet ya da diğer. == Araçlar == Scrum'ın uygulanması ve sürecin kolaylaştırılması için araçlar: Agilo, Pangoscrum, AgileZen, Tinypm, ThoughtWorks Studios, Greenhopper, VersionOne, ScrumWorks Pro, Banana Scrum ve ScrumTable. == Kaynakça == Bori s Gloger: Scrum-Produkte zuverlässig und schnell entwickeln. 3. Auflage. Hanser Verlag, 2011, ISBN 978-3446425248 Boris Gloger: Scrum: Der Paradigmenwechsel im Projekt- und Produktmanagement. Eine Einführung. In: Informatik Spektrum, Vol. 33, No. 2. 2010. Arndt Hengstler: Gestaltung der Leistungs- und Vertragsbeziehung bei Scrum-Projekten. In: ITRB 2012, 113-116. Holger Koschek: Geschichten vom Scrum: Von Sprints, Retrospektiven und agilen Werten. dpunkt.verlag, 2009, ISBN 978-3-89864-640-6 Ken Schwaber: Scrum Development Process, Advanced Development Methods, 131 Middlesex Turnpike Burlington, MA01803 == Dipnotlar == 0. Scrum Guide : https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Turkish-2.0.pdf 14 Ağustos 2021 tarihinde Wayback Machine sitesinde arşivlendi. 1 Kitap: Scrum mit User Stories, Ralf Wirdemann, ISBN 978-3-446-42660 2 Kitap: Agile Prozesse: Von XP über Scrum bis MAP, Eckhart Hanser, Yayıncı: Springer, ISBN 978-3-642-12312-2 3 Script : https://web.archive.org/web/20120609232045/http://jeffsutherland.com/scrumhandbook.pdf 4 Scrip: Seminar Software Engineering : (Universität Zürich - Prof. Dr. Martin Glinz) 5 Link: https://files.ifi.uzh.ch/rerg/amadeus/teaching/seminars/seminar_ws0304/07_Schweitzer_Scrum_Ausarbeitung.pdf2 Ekim 2013 tarihinde Wayback Machine sitesinde arşivlendi. == Ayrıca bakınız == Uyarlanabilir yazılım geliştirme Azure DevOps Server Kanban",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 2755,
+      "char_count": 21680,
+      "num_chunks": 39,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.609013",
+    "total_chunks": 39,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Scrum (İngilizce: \"itişip kakışma“), yazılım geliştirme ve yazılım Mühendisliği'nde bir uygulama geliştirme çerçevesidir. Proje yönetimi'nde karmaşık bir ortamda ürünleri geliştirmek, sunmak ve sürdürmek için Çevik yazılım geliştirme felsefesini benimseyen bir çerçevedir. \"Hamleci yaklaşım\" şeklinde bir çeviri önerilmiştir. Bu geliştirme çerçevesinin temel özelliği gözlemci, geliştirmeci ve tekrara dayalı olmasıdır. Birçok modern yazılım projesinin oldukça karmaşık olduğu ve en baştan tümünü planlamanın zor olacağı şeklindeki bir varsayımdan hareket eder. Bu karmaşıklığı üç ilke ile azaltmaya çalışır. Şeffaflık: Projedeki ilerlemeler ve sorunlar günlük olarak tutulur ve herkes tarafından izlenebilir olması sağlanır. Gözlem: Ürünün parçaları ya da fonksiyonları düzenli aralıklarla teslim edilir ve değerlendirilir. Uyumlanma: Ürün için gereksinimler en baştan bir defalığına belirlenmez, bilakis her teslimat tekrar değerlendirilir ve duruma göre uyarlamalar yapılır. Amaç başlangıçta hayal",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "ilir ve değerlendirilir. Uyumlanma: Ürün için gereksinimler en baştan bir defalığına belirlenmez, bilakis her teslimat tekrar değerlendirilir ve duruma göre uyarlamalar yapılır. Amaç başlangıçta hayal edilen ve tasarlanana uyan bir ürünün, hızlı, ucuz ve kaliteli şekilde üretilmesidir. Tasarlanan ürünün gerçekleştirilmesi, müşteri/kullanıcı tarafından mümkün olduğunca detaylı şekilde hazırlanmış bir talepler listesinin aşama aşama gerçekleştirilmesi biçiminde yapılmaz. Bunun yerine müşteri/kullanıcı tarafından istenilen ve tanımlanan işlevler, iki ya da dört haftalık \"Sprint\" adı verilen dönemler içerisinde geliştirilir ve yeniden gözden geçirilir. Bu kullanıcı bazlı gereksinim tanımı Kullanıcı Hikayesi olarak nitelenir ve özellikler defterinde yer alır. Her Sprint sonunda yazılımın fonksiyonel bir parçası bitmiş ve müşteriye teslim edilebilir bir durumda olur. Scrum Çevik yazılım geliştirme prensiplerini hayata geçiren bir yöntemdir. Scrum karmaşık projelerin yönetimi için bir çatıdır",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1870,
+      "content": "yonel bir parçası bitmiş ve müşteriye teslim edilebilir bir durumda olur. Scrum Çevik yazılım geliştirme prensiplerini hayata geçiren bir yöntemdir. Scrum karmaşık projelerin yönetimi için bir çatıdır (Çatı anlayışı bitmiş bir program değil, yazılımın bir çerçevesidir).",
+      "char_count": 270,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihsel Temelleri ==",
+      "heading_path": "== Tarihsel Temelleri ==",
+      "start_char": 1871,
+      "end_char": 2768,
+      "content": "== Tarihsel Temelleri == Scrum Ken Schwaber ve Jeff Sutherland tarafından 1990'ların başında geliştirildi ve temel fikirleri Schwaber (Schwaber 2004) tarafından ortaya konmuştur. Scrum proje rolleri: Ürün Sahibi (Product Owner) Takım (Team) Scrum Ustası (ScrumMaster) ve özellikle \"geleneksel\" \"proje yöneticisi\" rolü bulunmaz. Proje rollerinin görevlerine ek olarak Scrum proje akışını Sprint (en fazla dört hafta süren) anlayışıyla düzenler. Ken Schwaber, Jeff Sutherland ve diğerleri tarafından formüle edilen Çevik manifesto (Agile 2001) çevik yazılım geliştirme değerleri Scrumda vücut bulur: Çevik Yazılım Geliştirme Manifestosu'na göre; 1) Süreçler ve araçlardan ziyade, bireyler ve etkileşimler, 2) Kapsamlı dokümantasyondan ziyade, çalışan yazılım, 3) Sözleşme pazarlıklarından ziyade, müşteri ile işbirliği, 4) Bir plana bağlı kalmaktan ziyade, değişime cevap vermek, daha değerlidir...",
+      "char_count": 896,
+      "token_estimate": 224
+    },
+    {
+      "id": "c0004",
+      "section": "== Roller ==",
+      "heading_path": "== Roller ==",
+      "start_char": 2768,
+      "end_char": 2868,
+      "content": "== Roller == Scrum Süreç-Modeli net olarak üç çeşit rolü tanır: Ürün Sahibi, Takım ve Scrum Master.",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0005",
+      "section": "=== Etkileşim ===",
+      "heading_path": "=== Etkileşim ===",
+      "start_char": 2868,
+      "end_char": 3216,
+      "content": "=== Etkileşim === Scrum Ustası: Takımı korumak ve yardımcı olmak. Ürün sahibine yardımcı olmak. Ürün Sahibi: Kullanıcı hikâyelerinin ayrıntılarını takım ile konuşmak. Dış rollerdekiler ile \"Kullanıcı Hikâyeleri\"ni belirlemek. Geliştiriciler: Gereksinimlerin nasıl yapılacağını belirlemek ve standart kalite çerçevesinde (Bitti Tanımı) geliştirmek.",
+      "char_count": 347,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0006",
+      "section": "=== Ürün Sahibi (Product Owner) ===",
+      "heading_path": "=== Ürün Sahibi (Product Owner) ===",
+      "start_char": 3216,
+      "end_char": 4208,
+      "content": "=== Ürün Sahibi (Product Owner) === Ürün Sahibi stratejik ürün geliştirmeden sorumludur. Sorumluluğu net bir ürün vizyonunun Tasarımı, iletişimi, özelliklerin tanımı ve önceliklendirme, teslim edilen sprintin işlevselliği ve kabul edilebilir olup olmadığına karar verme ve şirketin ekonomik faydasına uygun ürün tasarımı ve ana amaçları belirler. Yalnızca o teslimat, işlevsellik ve maliyet gibi kararlardan sorumludur. Ürün Sahibi ürün özelliklerinin tanımlaması işlemini Ürün Gereksinimini (Product Backlog) kullanır ve yazılım Takımı ile birlikte çalışarak kullanıcı hikâyelerini (User Stories) taşır ve kullanıcı bazlı işlevsellikleri ifade eder. Aldığı kararlar bağlayıcıdır ve iptal edilemez. Ürün Sahibi ya da proje sorumlusu son kullanıcının bakış açısını üstlenir ve yazılım gelişimini kontrol edip yazılımcılar için hazır bulunur. XP metodunun tersine projenin tek sorumlusudur 'yolculuk nereye' (Pichler 2008). Görevleri: Gereksinim Yönetimi, Yayın Yönetimi (Release) ve iletişim.",
+      "char_count": 991,
+      "token_estimate": 247
+    },
+    {
+      "id": "c0007",
+      "section": "=== Geliştirme Takımı ===",
+      "heading_path": "=== Geliştirme Takımı ===",
+      "start_char": 4208,
+      "end_char": 5135,
+      "content": "=== Geliştirme Takımı === Yazılım ekibinin görevi ürün sahibinin taleplerine ve sıralamasına uygun ürünün işlevselliğini sağlamak ve belirlenen kalite standartlarına uymak koşuluyla ürünü teslim etmektir. Ne kadar ve hangi işlevlerin sprinte dahil olacağına kendileri karar verirler. Scrumda geliştirme takımı bir ekip olarak algılanır ve iyi ya da kötü sonuçlar takım elemanlarına çıkartılmaz bilakis takımı bir birim olarak algılar. Bir takım 5-9 kişiden oluşur. Ek olarak yazılım takımı kullanıcı hikâyelerinin çerçevesini tahmin edebilir ama kural olarak da bir günü geçmemelidir. Scrum takım içinde rol dağılımıyla ilgilenmez. Belirtildiği gibi Scrum bir yönetim metodudur. Tabii ki bütün roller ya da daha doğrusu yetenekler başarılı bir proje gelişimi için hazır olmak zorundadır. Bir takımda olması gereken özellikleri iki başlık altında ifade edebiliriz: 1) Kendi kendine organize ve küçük 2) Multidisipliner ve özerk",
+      "char_count": 926,
+      "token_estimate": 231
+    },
+    {
+      "id": "c0008",
+      "section": "=== Scrum Yöneticisi (Scrum Master) ===",
+      "heading_path": "=== Scrum Yöneticisi (Scrum Master) ===",
+      "start_char": 5135,
+      "end_char": 6135,
+      "content": "=== Scrum Yöneticisi (Scrum Master) === Scrum Ustası Scrum'un başarılı olmasını sağlamaktan sorumludur. Bunu başarmak için Yazılım Takımı ile birlikte çalışır ama takıma tabii olmaz. Scrum kurallarını bildirir, uyumu kontrol eder ve toplantı moderatörlüğünü yapıp Scrum sürecindeki düzensizlikler ile ilgilenir. İş aracı olarak engel-birikimini (Impediment Backlog) takımın önündeki engelleri kaldırmak için kullanır ve bu anlamda sorumluluk taşır. Olası engeller: Takım içindeki iletişim eksikliği, kişisel çelişkiler, takım ve ürün sahibi arasındaki iletişim, dış kaynaklı rahatsızlıkların (ek işlevler gibi) giderilmesi. Scrum ustası yazılım takımına karşı yürütme yetkisi vardır ancak şeflik yetkisi yoktur bu anlamda ne hüküm verebilir ne de disiplin kovuşturması yapabilir (Servant Leaders > Hizmetkar Liderlik). Scrum ustasının kim olacağının belirlenmesinin en ideal yolu yazılım takımı tarafından seçilmesidir. Pratikte bu pek mümkün olmayabilir. Çünkü iş yapan firmalar Scrum takımının Scru",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0009",
+      "section": "=== Scrum Yöneticisi (Scrum Master) ===",
+      "heading_path": "=== Scrum Yöneticisi (Scrum Master) ===",
+      "start_char": 5935,
+      "end_char": 6799,
+      "content": "zmetkar Liderlik). Scrum ustasının kim olacağının belirlenmesinin en ideal yolu yazılım takımı tarafından seçilmesidir. Pratikte bu pek mümkün olmayabilir. Çünkü iş yapan firmalar Scrum takımının Scrum metodolojisine tam uyum sağlamaları için Scrum konusunda deneyimli bir personeli proje başında belirleyebilir. Eğer Scrum birinci etabını geçtikten sonra, Scrum ustasının rolü değişiklik yöneticisi (Change-Manager) olarak algılanır. Özet olarak Scrum ustası (Change Agent): Süreçten sorumlu, takımın arkadaşı ve yardımcısı, sürecin doğruluğunun denetleyicisi, takım ile birebir bağlantılı ve Takımın yanında çalışır. Görevi: ) Scrumu uygulamak ve ürün sahibi ile yazılım takımına destek olmak. ) Engelleri kaldırmak (örnek; rol sahipleri arasındaki çelişkiler) ve süreçteki sapmaları düzenlemek. ) Takıma hizmet etmek ve meslektaş bir yönetim tarzı ile yönetmek.",
+      "char_count": 864,
+      "token_estimate": 216
+    },
+    {
+      "id": "c0010",
+      "section": "=== Kullanıcı (User) ===",
+      "heading_path": "=== Kullanıcı (User) ===",
+      "start_char": 6800,
+      "end_char": 7292,
+      "content": "=== Kullanıcı (User) === Kullanıcı ilerideki yazılımın/ürünün kullanıcısıdır. Ürünün nasıl bir perspektif ile kullanılacağı konusunda fikir verir ve gerçek hedef kitlesidir. Kullanıcı Sprint başlangıcı ve sonucunda ürünü test etme amaçlı yer alır ve geri bilgi akışı (Feedback) sağlar. ) Kullanılabilirlik (Usability) konusunda takıma değerli ipuçları verir ) Takım ve ürün sahibi kullanıcı bilgileri doğrultusunda Sprint-planını uyarlar ve son durum tekrar kullanıcı tarafından test edilir.",
+      "char_count": 491,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0011",
+      "section": "=== Yönetici (Management) ===",
+      "heading_path": "=== Yönetici (Management) ===",
+      "start_char": 7292,
+      "end_char": 7775,
+      "content": "=== Yönetici (Management) === Yönetici de kullanıcı ve müşteri gibi Scrum ekibine az oranda tabiidir. Ama scrumun yapısal çerçevesini yönetici belirler. Ek olarak da kaynaklar (Ressourcen) oluşturur (yer, alet vs.). Scrum ustasına destek olur ve mesleki personel organizesi sağlar ve Scrum ekibini dış taleplerden korumak gibi bir sorumluluğu vardır. Görevi: Projenin çerçevesi ile ilgilenir ve Scrum ustasının proje alanı içerisindeki belirlediği problemlerin çözümü ile ilgilenir.",
+      "char_count": 482,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0012",
+      "section": "=== Takım ve Etkileşim ===",
+      "heading_path": "=== Takım ve Etkileşim ===",
+      "start_char": 7775,
+      "end_char": 8070,
+      "content": "=== Takım ve Etkileşim === Rol dağılımında takım kendi kendini organize eder. Ne Scrum ustası ne de ürün sahibinin takım içinde kimin neyi ne zaman kiminle yapacaklarına dair bir yaptırımı olmaz. Scrum ustasının vazifesi yalnızca takımın farklı etkenlerle rahatsız edilmemesine dikkat etmektir.",
+      "char_count": 294,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0013",
+      "section": "=== Rollerin istismar riski ===",
+      "heading_path": "=== Rollerin istismar riski ===",
+      "start_char": 8070,
+      "end_char": 8463,
+      "content": "=== Rollerin istismar riski === Scrum'da klasik \"Proje Yöneticisi'nin olmayışı, özellikle deneyimsiz bir Scrum ekibinde, Scrum ustası ya da ürün sahibinin (Product Owner) bu rolü üstlenmesi tehlike yaratır ve takımın Özerklik statüsüne zarar vererek, Scrumda sapmalara yol açar. Bu tehlikeyi azaltmanın yolu Scrum-ustası ve ürün sahibinin bir Scrum-Expert'inden yardım almasıyla sağlanabilir.",
+      "char_count": 392,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0014",
+      "section": "=== Sprint Planlama Toplantısı 1 ===",
+      "heading_path": "=== Sprint Planlama Toplantısı 1 ===",
+      "start_char": 8481,
+      "end_char": 9481,
+      "content": "=== Sprint Planlama Toplantısı 1 === Bu toplantıda ürün sahibi kendi yazılım takımına ürün içeriğinde (Product Backlog) kararlaştırılan kullanıcı hikayelerini (User Stories) öncelik sırasına göre belirtir ve gereksinimler takım tarafından netleştirilip yazılı olarak kaydedilir. Kullanıcı da işlevsellik konusunda önemli bilgiler verebilir. Bunun dışında ürün sahibi ve takım sprint içinde olması gereken işlevler ve kriterler üzerinde anlaşırlar (bkz. Definition of Done). Amaç kullanılabilir yazılım elde etmektir: test edilmiş, entegre olmuş ve kullanıcıya açılmış olmalıdır. Sprint'in kabul şartları kabul kriterleri (test, işlev, performans) ile etkileşimlidir. Bu tarz kararlar sprint sonucunda net şekilde belirlenir ve belirtilen fonksiyonların gerçekten içerdiklerine bakılır ve incelenir. Açıklamalar yapıldıktan sonra Scrum ustası takımına gelecek sprint de kaç adet kullanıcı hikayesi olacağını sorar ve tek tek değerlendirilip dış baskı olmadan erişilebilirliğine bakılır.  Süre: 60 daki",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0015",
+      "section": "=== Sprint Planlama Toplantısı 1 ===",
+      "heading_path": "=== Sprint Planlama Toplantısı 1 ===",
+      "start_char": 9281,
+      "end_char": 9501,
+      "content": "çıklamalar yapıldıktan sonra Scrum ustası takımına gelecek sprint de kaç adet kullanıcı hikayesi olacağını sorar ve tek tek değerlendirilip dış baskı olmadan erişilebilirliğine bakılır.  Süre: 60 dakika Sprint (haftalık)",
+      "char_count": 220,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0016",
+      "section": "=== Sprint Planlama Toplantısı 2 ===",
+      "heading_path": "=== Sprint Planlama Toplantısı 2 ===",
+      "start_char": 9502,
+      "end_char": 10227,
+      "content": "=== Sprint Planlama Toplantısı 2 === Sprint-plan 1 de \"NE?\" ön planda iken, burada \"NASIL?\" sorusu ön plana çıkar. Yazılım takımı hangi kullanıcı hikâyelerinin Sprint'e dahil olduğunu bilir ve uygulamanın (teorik) teknik boyutu açıklanır. Toplantı Takım'ın kendi sorumluluğunda organize edilir. Genellikle küçük gruplar oluşturulup yapı, test, açık gibi konulara açıklık verilir. Burada beklenen sonuç görevlerin bir günlük süreyi aşmayacak şekilde bitirilmesini kapsar. Görevler belirlenen kullanıcı hikâyelerinden hareketle duvara ya da beyaz tahtaya (Taskboard) asılır bu sayede hangisinin işlemde ya da sırada olduğu bilinir. Süre: 60 dakika her Sprint (haftalık) de. Sprint-plan 1 ve 2 aynı gün içerisinde yapılmalıdır.",
+      "char_count": 724,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0017",
+      "section": "=== Günlük Scrum (Daily Scrum) ===",
+      "heading_path": "=== Günlük Scrum (Daily Scrum) ===",
+      "start_char": 10227,
+      "end_char": 10725,
+      "content": "=== Günlük Scrum (Daily Scrum) === Her iş günü başlamadan evvel 15 dakikalık bilgi paylaşımı için günlük Scrum toplantısı yapılır. Bu görüşmede herhangi bir problem değerlendirilmez, yalnızca 3 tema işlenir: dün ne yaptım, bugün ne yapacağım, beni ne engelliyor. Eğer belirtilen görev bir günde bitmesi mümkün değil ise, görev parçalanıp takıma dağıtılır. Eğer 15 dakika içinde bazı sorular cevap bulamadığı durumlarda Scrum ustası not alıp bir sonraki toplantıya taşır ya da kendisi çözüm üretir.",
+      "char_count": 497,
+      "token_estimate": 124
+    },
+    {
+      "id": "c0018",
+      "section": "=== Sprint Değerlendirmesi (Sprint Review) ===",
+      "heading_path": "=== Sprint Değerlendirmesi (Sprint Review) ===",
+      "start_char": 10725,
+      "end_char": 11484,
+      "content": "=== Sprint Değerlendirmesi (Sprint Review) === Değerlendirme Sprint'in sonunda takım tarafından yapılır ve başlangıçta belirlenen hedeflerin kapsamında olup olmadığı Ürün sahibi tarafından değerlendirilir. Eğer teslim edilen işlevde eksiklik (test olmamış ise) var ise o kullanıcı hikâyesi yeniden, ürün sahibi tarafından ürün içeriğine (Product Backlog) gönderilir ve öncelik sırası verilir. Değerlendirmeye kullanıcının (User) katılımı da işlevin testi, ürün tasarımı ve kullanıcı bakışı açısından çok önemlidir. Kullanıcı Hıkayelerin de bir eksiklik var ise Scrum ustası tarafından not alınıp, ürün sahibi tarafından ürün içeriğine aktarılır. Süre olarak 1 ayda biten Sprint in değerlendirmesi en fazla 4 saat sürmeli, az süren sprintlerde süre uyarlanır.",
+      "char_count": 758,
+      "token_estimate": 189
+    },
+    {
+      "id": "c0019",
+      "section": "=== Sprint Retrospektif (Geçmişe Bakış) ===",
+      "heading_path": "=== Sprint Retrospektif (Geçmişe Bakış) ===",
+      "start_char": 11484,
+      "end_char": 11837,
+      "content": "=== Sprint Retrospektif (Geçmişe Bakış) === Geçmişe bakış toplantıları, Sprint Değerlendirme toplantılarından sonra ve Sprint Planlama toplantılarından önce yapılırlar ve geçmiş sprint'teki tecrübeler masaya yatırılarak iyileştirmeler belirlenir. Scrum yönteminin en önemli özelliklerinden birisi bu süreçte suçlu/suçsuz eleştirilerinin yapılmamasıdır.",
+      "char_count": 352,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0020",
+      "section": "== Sprint ==",
+      "heading_path": "== Sprint ==",
+      "start_char": 11837,
+      "end_char": 12837,
+      "content": "== Sprint == Sprint'de ürün geliştirilir. Yukarıda belirtilen her 2 Sprint planlama, her Sprint başlangıcında yer alır. Planlamada belirtilen ürün işlevleri, Sprint'in sonunda teslim edilir. Geliştirme ekibinin çalışmaları, görev panosuna (Taskboard) dayanır ve Kullanıcı hikayeleri önceliklerine göre ele alınıp, tüm takım bir hikâye üzerinde birlikte çalışır, böylelikle katılımcılar hangi işlev'in geliştirildiğini bilir ve karşılıklı katkılarda bulunur: Yazılımcı, testçi ile birlikte testi başlatır. işyeri analisti kullanıcılara işlev'in parçalarını tanıtır. Ürün geliştirmedeki gerekli kriterler (Testi, Kabulü) işlev'de mevcut ise, yazılım takımı yeni işlev üzerinde çalışmasına başlar. Sprint süreci, birçok işlev üzerinde çalışılmış ancak teslim edilecek işlevin olmamasını engeller. Sprint süreci'nde, belirlenen hedefe erişim ve sorumluluk yalnızca yazılım takımındadır, bu yüzden takım her türlü rahatsız edici durumlardan kesinlikle korunmalıdır. Dışarıdan gelebilecek ekstra görev ya d",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0021",
+      "section": "== Sprint ==",
+      "heading_path": "== Sprint ==",
+      "start_char": 12637,
+      "end_char": 13637,
+      "content": " süreci'nde, belirlenen hedefe erişim ve sorumluluk yalnızca yazılım takımındadır, bu yüzden takım her türlü rahatsız edici durumlardan kesinlikle korunmalıdır. Dışarıdan gelebilecek ekstra görev ya da taleplerden (takım elemanını ilgilendirse bile) ve takımı hedeften şaşırtıcı, her türlü engelin kaldırılmasında Scrum ustası sorumludur. Geliştirme ekipleri içinde olası problemler: kurallara uyulmaması ya da görev in tamamlanmaması gibi durumlarda Scrum-ustası müdahale etmelidir. Talimat verme şeklinde değil anlaşma ve sonuçları kapsayan öneri ve hatırlatmalarda bulunmalıdır. Sprint'in uygulama zamanı her zaman ayni olmalı ve uzatılmamalıdır. Bir Sprint en az bir hafta ve en fazla 4 hafta sürmelidir. Eğer hedeflenen sonuca Scrum sürecinde erişim mümkün değilse örneğin takım içerisinde çelişkilerin olması ya da taleplerin yanlış anlaşılması durumunda takım ya da ürün sahibi tarafından durdurulabilir. Sprint'in durdurulması durumunda inceleme yapılmaz retrospektif yapılır ve gelecek Sprin",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0022",
+      "section": "== Sprint ==",
+      "heading_path": "== Sprint ==",
+      "start_char": 13437,
+      "end_char": 13662,
+      "content": "kilerin olması ya da taleplerin yanlış anlaşılması durumunda takım ya da ürün sahibi tarafından durdurulabilir. Sprint'in durdurulması durumunda inceleme yapılmaz retrospektif yapılır ve gelecek Sprint'in planlanması yapılır.",
+      "char_count": 225,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0023",
+      "section": "=== Ürün İçeriği (Product Backlog) ===",
+      "heading_path": "=== Ürün İçeriği (Product Backlog) ===",
+      "start_char": 13682,
+      "end_char": 14650,
+      "content": "=== Ürün İçeriği (Product Backlog) === Ürün İçeriği (Product Backlog) taleplerin oluşturulması ve yönetilmesi için merkezi belgedir ve teslim edilecek işlevsel elementler yönetilir. Toparlanan kullanıcı hikâyeleri ürün sahibi tarafından önceliklerine göre düzenlenir ve gerçekleştirilme zamanı takımın yardımı ile tahmin edilir. Ürün içeriği, geliştirilmekte olan ürünün önceliklere göre sıralanmış işlevleri kapsar. Değişim taleplerinin alındığı tek yerdir ve ekleme, çıkarma, öncelikler gibi işlemler ürün sahibi tarafından yapılır. Ürün içeriği hiçbir zaman eksiksiz değildir ve böyle bir iddiası da olmaz, tanımlanmış, iyi anlaşılmış gereksinimleri içerir, öncelikler ise ekonomik fayda, risk gibi faktörlerle değerlendirilip uygulanır. Ürün içeriği'ne eklenen talepler teknik olarak değil, mesleki ve kullanıcı odaklı olmalıdır. İyi bir kullanıcı hikâyesi üç soruya cevap vermelidir: Kullanıcı olarak (kim?) bu işlevi (neyi?) şu faydalar (neden?) için istiyorum.",
+      "char_count": 967,
+      "token_estimate": 241
+    },
+    {
+      "id": "c0024",
+      "section": "=== Sprint İçeriği ===",
+      "heading_path": "=== Sprint İçeriği ===",
+      "start_char": 14650,
+      "end_char": 15213,
+      "content": "=== Sprint İçeriği === Sprint içeriği halledilmesi gereken görevleri gösterir. Bu amaç için dört sütunlu bir görev tahtası kullanılır: 1. sütun'da Sprint'de bulunan İş Parçacıkları (\"Stories\") 2. sütun'da görevler (\"ToDo\") 3. sütun'da çalışma (\"In Progress\") ve 4.sütun'da teslime hazır (\"Done\") olan iş parçacıkları bulunur. Yazılım takımı elemanları günlük Scrum'da önceki gün hangi görev üzerinde çalıştığını ve bitip bitmediği hakkında bilgi verir. Bir günde bitmeyen görevler ise kırmızı bir nokta ile işaretlenir. Böylelikle engeller kolayca tespit edilir.",
+      "char_count": 562,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0025",
+      "section": "=== İş Bitim Grafikleri (Burndown-Charts) ===",
+      "heading_path": "=== İş Bitim Grafikleri (Burndown-Charts) ===",
+      "start_char": 15213,
+      "end_char": 16213,
+      "content": "=== İş Bitim Grafikleri (Burndown-Charts) === İş bitim grafikleri yapılmış ve geri kalan çalışmayı görselleştirmek için kullanılır. Bir Sprint yanık grafiği, x-ekseninde günlük zamanı, y-ekseninde bitirilmemiş görevleri gösterir. Bu grafik, Sprint'in belirtilen zaman birimi içinde daha iyi tahmin edilmesini sağlar. Seçili kullanıcı hikâyelerini izlemek içinde hikâye-iş bitim-grafiği kullanılır. Burada eksik kalan görevler değil eksik hikâyeler gösterilir. Her hikâye eşit büyüklükte olmayacağından, büyüklük bilgisi noktalarla sağlanır. Kalan hikâyelerin toplamı y-ekseninde belirtilir, x-ekseni de Sprint süresini gösterir. Grafik eğilimleri merdiven şeklindedir. Her azalma değeri bir hikeynin bittiğini gösterir (örnek. 8 noktalı bir hikâye, 8 azalma verir). Tüm projeyi göstermek için devir (Release)-iş bitim-grafiği kullanılır. Bu durumda y-eksenine bütün ürün içeriğinde belirlenen bitmemis kullanıcı hikâyeleri ve hikâye noktalarının toplanmış sekli gösterilir. Böylelikle proje bitimine ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0026",
+      "section": "=== İş Bitim Grafikleri (Burndown-Charts) ===",
+      "heading_path": "=== İş Bitim Grafikleri (Burndown-Charts) ===",
+      "start_char": 16013,
+      "end_char": 16258,
+      "content": "Release)-iş bitim-grafiği kullanılır. Bu durumda y-eksenine bütün ürün içeriğinde belirlenen bitmemis kullanıcı hikâyeleri ve hikâye noktalarının toplanmış sekli gösterilir. Böylelikle proje bitimine kadar kaç tane teslimat yapılacağı anlaşılır.",
+      "char_count": 245,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0027",
+      "section": "=== Engel İçeriği (Impediment Backlog) ===",
+      "heading_path": "=== Engel İçeriği (Impediment Backlog) ===",
+      "start_char": 16259,
+      "end_char": 16499,
+      "content": "=== Engel İçeriği (Impediment Backlog) === Engel İçeriği (belirlenen tüm engeller) Scrum ustası tarafından, kısa bir problem tanımı ve tarih etiketiyle oluşturulur. Ek olarak günlük Scrum sonunda, Scrum ustası karşılaşılan engelleri ekler.",
+      "char_count": 239,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0028",
+      "section": "=== Bitti Tanımı (Definition of Done) ===",
+      "heading_path": "=== Bitti Tanımı (Definition of Done) ===",
+      "start_char": 16499,
+      "end_char": 17104,
+      "content": "=== Bitti Tanımı (Definition of Done) === Bitti tanımı, bir kullanıcı hikâyesinin uygulanmasına ait ve yazılıma nüfus eden etkinliklerin kontrol listesidir. Ek belgeler olarak: yorum yazmak, birim testleri ve tasarım belgeleri. Bitti tanımı proje başlangıcında katılımcılar tarafından kararlaştırılır, ayrıca geliştirme sürecindede uyarlanabilir. Sprint'in başlangıcında görevlerin sayısı ve kapsamı hakkında yardımcı olur ve tüm hikâyelerde uygulanmak zorunda değildir. Bitti tanımı Sprint'in sonunda belirli bir hikâyenin ayrıntılı taleplerini belirttiğinden, Sprint'in kabul edilmesine de hizmet eder.",
+      "char_count": 604,
+      "token_estimate": 151
+    },
+    {
+      "id": "c0029",
+      "section": "=== Öğrenilen dersler ve değerlendirme ===",
+      "heading_path": "=== Öğrenilen dersler ve değerlendirme ===",
+      "start_char": 17129,
+      "end_char": 17434,
+      "content": "=== Öğrenilen dersler ve değerlendirme === Scrum kullanımında, kişi özgün tahminlerini (alt/üst) kalıcı ve süreklileştirir. Scrum ilk günden itibaren ürün geliştirmesinde olması gerekendeki sapmaları gösterir: hızlı, iyi, uygun fiyatlı ya da yüksek kalitede olması takımın kazandığı deneyimlere bağlıdır.",
+      "char_count": 304,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0030",
+      "section": "=== Takım bileşimini engelleyen faktörler ===",
+      "heading_path": "=== Takım bileşimini engelleyen faktörler ===",
+      "start_char": 17434,
+      "end_char": 18044,
+      "content": "=== Takım bileşimini engelleyen faktörler === Scrum'ın uygulanmasını çeşitli faktörler engelleyebilir. Geliştirme takımı hiyerarşik yapılanmanın tersine, kendi kendini yönetme ilkesiyle şekillenir. Geliştirme takımı içindeki önceki konumlarından vazgeçmek istemeyen üyelerin olması çelişkilere yol açabileceğinden hareketle iç disiplinin bilince çıkarılması, görevlerin dış destek olmadan yapılması için önemlidir. Scrum'da proje ekibi sprint'deki tüm görevler üzerinde birlikte çalışırlar, böylelikle testci, yazılımcı, tasarımcı uyumu takıma yansır. Ancak deneyimli bir takım dezavantajları telafi edebilir.",
+      "char_count": 609,
+      "token_estimate": 152
+    },
+    {
+      "id": "c0031",
+      "section": "=== Yeni ya da var olan bir projede ===",
+      "heading_path": "=== Yeni ya da var olan bir projede ===",
+      "start_char": 18076,
+      "end_char": 18719,
+      "content": "=== Yeni ya da var olan bir projede === Scrum yeni bir Projede ya da klasik yöntemlerle başlamış bir projeyi kurtarmaya uygundur. Scrum uyglanmadan önce yeteri kadar ürün içeriği (Product Backlog) mevcut olmalı ve hangi teknolojik bir çatının kullanılacağıda kararlaştırılmalı ve uygulanmalıdır. Müşteriye verilen birinci fonksiyonalite olayın ciddiyetini ifade edeceğinden önemlidir. Klasik projelerde, çalışan uygulama nın çok zaman alması ya da hiç çalışır bir duruma gelmemesi Müşteri ile takım arasındaki güveni zedeler bu yüzden birinci Sprint (ö. 30 günde) önemlidir ve takım da çalışır durumda uygulama sunarak kendini kanıtlamış olur",
+      "char_count": 642,
+      "token_estimate": 160
+    },
+    {
+      "id": "c0032",
+      "section": "=== Büyük ya da birbirine bağımlı projelerde ===",
+      "heading_path": "=== Büyük ya da birbirine bağımlı projelerde ===",
+      "start_char": 18719,
+      "end_char": 19160,
+      "content": "=== Büyük ya da birbirine bağımlı projelerde === Scrum takımı 5-8 kişiden oluşturulduğundan büyük projelerde aynı zamanda birden fazla Scrum takımı (katman) uluşturulur ve Sprint aynı anda başlar ve sonuçlar Sprint değerlendirme toplantısında sunulur. Takım koordinasyonunu sağlamak için, her takım haftada 1/2 toplantı yapar (Scrum of Scrums), Scrum kurucularında Jeff Sutherland bir Scrum projesinde 800 kişinin çalışabileceğini belirtir.",
+      "char_count": 440,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0033",
+      "section": "=== Scrum ve XP ===",
+      "heading_path": "=== Scrum ve XP ===",
+      "start_char": 19160,
+      "end_char": 19473,
+      "content": "=== Scrum ve XP === Scrum temelde yazılım geliştirme yönetim olarak görülür ancak diğer metotlarla da basit kombine yapılabilir, bu XP (Extreme Programming) metodu ile denendi ve birbirlerine iyi uyum gösterdiği görüldü. XP@Scrum'ı Ken Schwaber ve Martin Fowler Trans Canada Pipeline Ltd. başarıyla uygulamıştır.",
+      "char_count": 312,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0034",
+      "section": "== Özet ==",
+      "heading_path": "== Özet ==",
+      "start_char": 19473,
+      "end_char": 20049,
+      "content": "== Özet == Scrum hafif ağırlıkta bir yönetim sürecidir, çeşitli boyutlardaki projelerde uygulanabilir. Scrum'ın temel özellikleri: Küçük takımları iletişim ve bilgi değişimine teşvik eder. Teknolojik değişimleri ve kullanıcı gereksinimleri için uyarlanabilirlik sağlar. Sık yaratılan ürün sürümlerinde, teftiş edilmiş, uyarlamış ve test edilmişler dokümante edilebilir. Yapılacak iş'in küçük parçalara dağılımı ve mümkün oldukça birbirinden bağımsız alt görevleri. Her zaman bitmiş olarak bir proje bildirim mümkünatı, olası o süre nedeniyle mali, teknik rekabet ya da diğer.",
+      "char_count": 575,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0035",
+      "section": "== Araçlar ==",
+      "heading_path": "== Araçlar ==",
+      "start_char": 20049,
+      "end_char": 20255,
+      "content": "== Araçlar == Scrum'ın uygulanması ve sürecin kolaylaştırılması için araçlar: Agilo, Pangoscrum, AgileZen, Tinypm, ThoughtWorks Studios, Greenhopper, VersionOne, ScrumWorks Pro, Banana Scrum ve ScrumTable.",
+      "char_count": 205,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0036",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 20255,
+      "end_char": 20885,
+      "content": "== Kaynakça == Bori s Gloger: Scrum-Produkte zuverlässig und schnell entwickeln. 3. Auflage. Hanser Verlag, 2011, ISBN 978-3446425248 Boris Gloger: Scrum: Der Paradigmenwechsel im Projekt- und Produktmanagement. Eine Einführung. In: Informatik Spektrum, Vol. 33, No. 2. 2010. Arndt Hengstler: Gestaltung der Leistungs- und Vertragsbeziehung bei Scrum-Projekten. In: ITRB 2012, 113-116. Holger Koschek: Geschichten vom Scrum: Von Sprints, Retrospektiven und agilen Werten. dpunkt.verlag, 2009, ISBN 978-3-89864-640-6 Ken Schwaber: Scrum Development Process, Advanced Development Methods, 131 Middlesex Turnpike Burlington, MA01803",
+      "char_count": 629,
+      "token_estimate": 157
+    },
+    {
+      "id": "c0037",
+      "section": "== Dipnotlar ==",
+      "heading_path": "== Dipnotlar ==",
+      "start_char": 20885,
+      "end_char": 21600,
+      "content": "== Dipnotlar == 0. Scrum Guide : https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Turkish-2.0.pdf 14 Ağustos 2021 tarihinde Wayback Machine sitesinde arşivlendi. 1 Kitap: Scrum mit User Stories, Ralf Wirdemann, ISBN 978-3-446-42660 2 Kitap: Agile Prozesse: Von XP über Scrum bis MAP, Eckhart Hanser, Yayıncı: Springer, ISBN 978-3-642-12312-2 3 Script : https://web.archive.org/web/20120609232045/http://jeffsutherland.com/scrumhandbook.pdf 4 Scrip: Seminar Software Engineering : (Universität Zürich - Prof. Dr. Martin Glinz) 5 Link: https://files.ifi.uzh.ch/rerg/amadeus/teaching/seminars/seminar_ws0304/07_Schweitzer_Scrum_Ausarbeitung.pdf2 Ekim 2013 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 714,
+      "token_estimate": 178
+    },
+    {
+      "id": "c0038",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 21600,
+      "end_char": 21680,
+      "content": "== Ayrıca bakınız == Uyarlanabilir yazılım geliştirme Azure DevOps Server Kanban",
+      "char_count": 80,
+      "token_estimate": 20
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Scrum, yazılım projelerindeki karmaşıklığı azaltmak için hangi üç ilkeyi kullanır?",
+        "answer": "Şeffaflık, Gözlem ve Uyumlanma.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Scrum, modern yazılım projelerinin karmaşıklığını nasıl ele alır ve Çevik prensiplere uyum sağlamak için hangi belirli uygulamaları kullanır?",
+        "answer": "Scrum, modern yazılım projelerinin karmaşıklığını en baştan tümünü planlamanın zor olacağı varsayımından hareketle Şeffaflık, Gözlem ve Uyumlanma ilkeleriyle azaltmaya çalışır. Bu Çevik yazılım geliştirme prensiplerini hayata geçirmek için Scrum, müşteri/kullanıcı tarafından istenen ve tanımlanan işlevleri iki ila dört haftalık \"Sprint\" adı verilen dönemler içerisinde geliştirir ve yeniden gözden geçirir. Her Sprint sonunda yazılımın fonksiyonel bir parçası bitmiş ve teslim edilebilir durumda olurken, gereksinimler de Kullanıcı Hikayeleri olarak tanımlanır ve her teslimat sonrası uyarlamalar yapılır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

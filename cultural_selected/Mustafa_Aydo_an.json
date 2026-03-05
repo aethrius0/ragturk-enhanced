@@ -1,0 +1,164 @@
+{
+  "article": {
+    "id": "mustafaaydoan_4bfe754f",
+    "title": "Mustafa Aydoğan",
+    "url": "https://tr.wikipedia.org/wiki/Mustafa_Aydo%C4%9Fan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:30.321698",
+    "content": "Mustafa Aydoğan (1 Haziran 1964, Kahramanmaraş), Türk şair ve yazardır. == Hayatı == 1975 yılında Karamanlı İlkokulunu, 1982 yılında ise Kahramanmaraş İmam-Hatip Lisesini bitirdi. Üniversite eğitimini Ankara'da yaptı. Gazi Üniversitesi İİBF İşletme Bölümünden 1989 yılında mezun oldu. 1990 yılında Maliye Bakanlığına Muhasebat Stajyer Kontrolörü olarak girdi. 1993 yılında Muhasebat Kontrolörü, 2000 yılında da Muhasebat Başkontrolörü oldu. Halen aynı bakanlıkta çalışmaya devam ediyor. 1981 yılında arkadaşlarıyla birlikte Esra Yazıları adlı bir edebiyat dergisi çıkardı. İlk şiir ve yazıları bu dergide yayımlandı. Aynı yıllarda Kahramanmaraş'ta çıkan bazı yerel gazetelerin sanat sayfalarında yazdı. 1981 yılında Cahit Zarifoğlu ile mektuplaştı ve ona şiirlerini gönderdi. Gönderdiği ilk şiirlerden biri 1982 yılında Mavera dergisinde yayımlandı ve Zarifoğlu'ndan övgü dolu mektuplar aldı. 1984 yılından itibaren Ankara'da yaşamaya başladı. Birçok edebiyat dergisinde şiirleri ve yazıları yayımlandı. Mavera, Yedi İklim, Dergâh, Hece gibi döneminin önemli edebiyat dergilerinde göründü. 1997 yılında Edebiyat Ortamı dergisinin kuruluşuna katıldı. Dergi, bir yıllık yayını sonunda yayınına ara verdi. 2008 yılının Mart ayında Edebiyat Ortamı dergisini yeniden çıkarmaya başladı ve yayın yönetmeni oldu. 2010 yılında derginin eki olarak verilmek üzere Edebiyat Ortamı Şiir Yıllığı'nı çıkardı. Bu yıllığı beş yıl süreyle hazırladı. Edebiyat Ortamı Öykü Yıllığı'nın hazırlanmasına önderlik etti ve yıllığı 2011'den itibaren derginin eki olarak yayımlattı. 2015 yılının başlarında derginin yayın yönetmenliğinden ayrıldı. 2013 yılından itibaren başladığı konferanslarını dergiden ayrılmasıyla birlikte daha da yoğunlaştırdı ve bugüne değin yüzden fazla konferans verdi. Modern edebiyat, şiir poetikası, metafizik, tasavvuf şiiri, edebiyatın Türkiye tarihi içindeki önemi, edebi şahsiyetlerin Türkiye siyasetine ve geleneğine etkileri gibi konularda konuşmalar yaptı. 2006 yılında bir müddet Yeni Şafak gazetesinin kitap ekinde incelemeler yayımladı. Yeni Söz ve Milat gazetelerinde kısa süreli köşe yazarlığı yaptı. İlk şiir kitabı Kendini Aynalarda Çoğaltan Şehir 1997 yılında yayımlandı. == Bibliyografya == === Şiir === Kendini Aynalarda Çoğaltan Şehir (1997) Bir Dolu Bakır Yaz (1999) Bahar Köpüğü (2004) Az Önce (2012) Bugün Konuştuklarımız (2012) Güneşin Ayak İzini Takip Et (2014) === Deneme === Yazma Sevinci (2014) Kitabın Kimliği (2015) === Düşünce === Yüzdeki Leke (2014) Aşk Yolcuları (2015) === Biyografi === Yalnızlık Mahşeri Alaeddin Özdenören (2015) İnancın Parıltısı Nuri Pakdil (2018) === Seçki === Kırk Şairden 40 Aşk Şiiri (2016) === Yayına hazırladıkları === Şiir Beni Korkutmuştur- Alâeddin Özdenören'in Söyleşileri (2017) == Konuyla ilgili yayınlar == Gedikli, Özgür (2018). Mustafa Aydoğan'ın Poetikası13 Haziran 2020 tarihinde Wayback Machine sitesinde arşivlendi.. 1 Haziran 2020 tarihinde erişildi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 388,
+      "char_count": 2938,
+      "num_chunks": 11,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.297885",
+    "total_chunks": 11,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 72,
+      "content": "Mustafa Aydoğan (1 Haziran 1964, Kahramanmaraş), Türk şair ve yazardır.",
+      "char_count": 71,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 72,
+      "end_char": 1072,
+      "content": "== Hayatı == 1975 yılında Karamanlı İlkokulunu, 1982 yılında ise Kahramanmaraş İmam-Hatip Lisesini bitirdi. Üniversite eğitimini Ankara'da yaptı. Gazi Üniversitesi İİBF İşletme Bölümünden 1989 yılında mezun oldu. 1990 yılında Maliye Bakanlığına Muhasebat Stajyer Kontrolörü olarak girdi. 1993 yılında Muhasebat Kontrolörü, 2000 yılında da Muhasebat Başkontrolörü oldu. Halen aynı bakanlıkta çalışmaya devam ediyor. 1981 yılında arkadaşlarıyla birlikte Esra Yazıları adlı bir edebiyat dergisi çıkardı. İlk şiir ve yazıları bu dergide yayımlandı. Aynı yıllarda Kahramanmaraş'ta çıkan bazı yerel gazetelerin sanat sayfalarında yazdı. 1981 yılında Cahit Zarifoğlu ile mektuplaştı ve ona şiirlerini gönderdi. Gönderdiği ilk şiirlerden biri 1982 yılında Mavera dergisinde yayımlandı ve Zarifoğlu'ndan övgü dolu mektuplar aldı. 1984 yılından itibaren Ankara'da yaşamaya başladı. Birçok edebiyat dergisinde şiirleri ve yazıları yayımlandı. Mavera, Yedi İklim, Dergâh, Hece gibi döneminin önemli edebiyat derg",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 872,
+      "end_char": 1872,
+      "content": "dolu mektuplar aldı. 1984 yılından itibaren Ankara'da yaşamaya başladı. Birçok edebiyat dergisinde şiirleri ve yazıları yayımlandı. Mavera, Yedi İklim, Dergâh, Hece gibi döneminin önemli edebiyat dergilerinde göründü. 1997 yılında Edebiyat Ortamı dergisinin kuruluşuna katıldı. Dergi, bir yıllık yayını sonunda yayınına ara verdi. 2008 yılının Mart ayında Edebiyat Ortamı dergisini yeniden çıkarmaya başladı ve yayın yönetmeni oldu. 2010 yılında derginin eki olarak verilmek üzere Edebiyat Ortamı Şiir Yıllığı'nı çıkardı. Bu yıllığı beş yıl süreyle hazırladı. Edebiyat Ortamı Öykü Yıllığı'nın hazırlanmasına önderlik etti ve yıllığı 2011'den itibaren derginin eki olarak yayımlattı. 2015 yılının başlarında derginin yayın yönetmenliğinden ayrıldı. 2013 yılından itibaren başladığı konferanslarını dergiden ayrılmasıyla birlikte daha da yoğunlaştırdı ve bugüne değin yüzden fazla konferans verdi. Modern edebiyat, şiir poetikası, metafizik, tasavvuf şiiri, edebiyatın Türkiye tarihi içindeki önemi, ed",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1672,
+      "end_char": 2187,
+      "content": "giden ayrılmasıyla birlikte daha da yoğunlaştırdı ve bugüne değin yüzden fazla konferans verdi. Modern edebiyat, şiir poetikası, metafizik, tasavvuf şiiri, edebiyatın Türkiye tarihi içindeki önemi, edebi şahsiyetlerin Türkiye siyasetine ve geleneğine etkileri gibi konularda konuşmalar yaptı. 2006 yılında bir müddet Yeni Şafak gazetesinin kitap ekinde incelemeler yayımladı. Yeni Söz ve Milat gazetelerinde kısa süreli köşe yazarlığı yaptı. İlk şiir kitabı Kendini Aynalarda Çoğaltan Şehir 1997 yılında yayımlandı.",
+      "char_count": 515,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0004",
+      "section": "=== Şiir ===",
+      "heading_path": "=== Şiir ===",
+      "start_char": 2208,
+      "end_char": 2386,
+      "content": "=== Şiir === Kendini Aynalarda Çoğaltan Şehir (1997) Bir Dolu Bakır Yaz (1999) Bahar Köpüğü (2004) Az Önce (2012) Bugün Konuştuklarımız (2012) Güneşin Ayak İzini Takip Et (2014)",
+      "char_count": 177,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0005",
+      "section": "=== Deneme ===",
+      "heading_path": "=== Deneme ===",
+      "start_char": 2386,
+      "end_char": 2445,
+      "content": "=== Deneme === Yazma Sevinci (2014) Kitabın Kimliği (2015)",
+      "char_count": 58,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0006",
+      "section": "=== Düşünce ===",
+      "heading_path": "=== Düşünce ===",
+      "start_char": 2445,
+      "end_char": 2502,
+      "content": "=== Düşünce === Yüzdeki Leke (2014) Aşk Yolcuları (2015)",
+      "char_count": 56,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0007",
+      "section": "=== Biyografi ===",
+      "heading_path": "=== Biyografi ===",
+      "start_char": 2502,
+      "end_char": 2601,
+      "content": "=== Biyografi === Yalnızlık Mahşeri Alaeddin Özdenören (2015) İnancın Parıltısı Nuri Pakdil (2018)",
+      "char_count": 98,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0008",
+      "section": "=== Seçki ===",
+      "heading_path": "=== Seçki ===",
+      "start_char": 2601,
+      "end_char": 2648,
+      "content": "=== Seçki === Kırk Şairden 40 Aşk Şiiri (2016)",
+      "char_count": 46,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0009",
+      "section": "=== Yayına hazırladıkları ===",
+      "heading_path": "=== Yayına hazırladıkları ===",
+      "start_char": 2648,
+      "end_char": 2743,
+      "content": "=== Yayına hazırladıkları === Şiir Beni Korkutmuştur- Alâeddin Özdenören'in Söyleşileri (2017)",
+      "char_count": 94,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0010",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 2743,
+      "end_char": 2924,
+      "content": "== Konuyla ilgili yayınlar == Gedikli, Özgür (2018). Mustafa Aydoğan'ın Poetikası13 Haziran 2020 tarihinde Wayback Machine sitesinde arşivlendi.. 1 Haziran 2020 tarihinde erişildi.",
+      "char_count": 180,
+      "token_estimate": 45
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yazar, üniversite eğitimini hangi bölümde tamamlamıştır?",
+        "answer": "Gazi Üniversitesi İİBF İşletme Bölümü'nden mezun olmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mustafa Aydoğan'ın Maliye Bakanlığı'ndaki resmi kariyeriyle şair ve yazar kimliğinin gelişimi arasındaki ilişkiyi ve edebi faaliyetlerinin zaman içinde nasıl genişlediğini açıklayınız.",
+        "answer": "Mustafa Aydoğan, 1989'da Gazi Üniversitesi İşletme Bölümü'nden mezun olduktan sonra 1990 yılında Maliye Bakanlığı'nda Muhasebat Stajyer Kontrolörü olarak resmi kariyerine başlamış ve Muhasebat Başkontrolörü rütbesine yükselmiştir. Bu resmi görevinin yanı sıra, edebiyata olan ilgisi çok daha erken yaşlarda başlamıştır; 1981'de arkadaşlarıyla Esra Yazıları adlı bir edebiyat dergisi çıkarmış, aynı yıl Cahit Zarifoğlu ile mektuplaşmış ve ilk şiirlerinden biri 1982'de Mavera dergisinde yayımlanmıştır. Ankara'ya taşındığı 1984 yılından itibaren Mavera, Yedi İklim, Dergâh, Hece gibi döneminin önemli edebiyat dergilerinde şiir ve yazılarını yayımlayarak edebi faaliyetlerini sürdürmüştür. 1997'de Edebiyat Ortamı dergisinin kuruluşuna katılmış, 2008'de bu derginin yayın yönetmenliğini üstlenerek Edebiyat Ortamı Şiir Yıllığı ve Öykü Yıllığı gibi yayınları da hazırlatmıştır. Dergiden ayrılmasıyla birlikte 2013 yılından itibaren modern edebiyat, şiir poetikası, metafizik ve tasavvuf şiiri gibi geniş bir yelpazede yüzden fazla konferans vermeye başlayarak edebi ilgi alanlarını daha da çeşitlendirip derinleştirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

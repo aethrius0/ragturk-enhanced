@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "earlwilbursutherland_cb7789b8",
+    "title": "Earl Wilbur Sutherland",
+    "url": "https://tr.wikipedia.org/wiki/Earl_Wilbur_Sutherland",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:07.556162",
+    "content": "Earl Wilbur Sutherland Jr. (d. 19 Kasım 1915 - ö. 9 Mart 1974), Amerikalı farmakolog ve biyokimyacı. 1971 yılında Nobel Fizyoloji veya Tıp Ödülü'nü hormonların etki mekanizması ile ilgili keşifleri nedeniyle kazanmıştır. Özellikle epinefrin ve ikincil mesajcılar (siklik adenozin monofosfat; cAMP) ile ilgili çalışmalarıyla bilinir. == Kariyeri == Sutherland, 1937 yılında Kansas'taki Washburn Üniversitesi'nden kimya lisans derecesini aldı ve 1942 yılında da Washington Üniversitesi'nden tıp lisans derecesini aldı. II. Dünya Savaşında doktor olarak görev yaptıktan sonra Washington Üniversitesi'nde Nobel ödüllü Carl Ferdinand Cori'nin farmakoloji laboratuvarında araştırmacı olarak çalışmaya başladı. == Kaynakça == Shampo, M A (Haziran 2000). \"Earl Sutherland--Nobel Prize for Hormone Research\". Mayo Clin. Proc. 75 (6). ABD. s. 552. ISSN 0025-6196. PMID 10852412. Raju, T N (Eylül 1999). \"The Nobel chronicles. 1971: Earl Wilbur Sutherland, Jr. (1915-74)\". Lancet. 354 (9182). İngiltere. s. 961. ISSN 0140-6736. PMID 10489991. Butcher, R W (Mart 1975). \"An appreciation of Earl Sutherland\". Metab. Clin. Exp. 24 (3). ABD. ss. 237-40. doi:10.1016/0026-0495(75)90104-3. PMID 1092953. Ho, R J (Mart 1975). \"The last conversation with Dr. Earl W. Sutherland, Jr: the feedback regulation of cyclic nucleotides\". Metab. Clin. Exp. 24 (3). ABD. ss. 257-64. doi:10.1016/0026-0495(75)90107-9. PMID 165349. \"Dr. Sutherland, AHA career investigator, dies in Miami\". Circ. Res. 34 (5). ABD. Mayıs 1974. s. 743. ISSN 0009-7330. PMID 4597081. Oye, I (Kasım 1971). \"[The Nobel Prize in Medicine to Earl W. Sutherland Jr]\". Tidsskr. Nor. Laegeforen. 91 (31). Norveç. ss. 2270-1. ISSN 0029-2001. PMID 4332258. \"[Nobel prize for Medicine and Physiology 1972]\". Münchener medizinische Wochenschrift (1950). 113 (45). Almanya. Kasım 1971. ss. Suppl 45:1. ISSN 0027-2973. PMID 4942165. Kampmeier, R H (Kasım 1971). \"Cycl AMP--and the Nobel Prize\". South. Med. J. 64 (11). ABD. ss. 1413-4. ISSN 0038-4348. PMID 4331313. \"[Nobel prize for medicine 1971]\". Dtsch. Med. Wochenschr. 96 (44). Almanya. Ekim 1971. s. 1735. ISSN 0012-0472. PMID 4939258. \"Nobel prize\". Br Med J. 4 (5781). İngiltere. Ekim 1971. s. 188. ISSN 0007-1447. PMC 1799218 . PMID 4329929. \"1971 Nobel Prize for physiology and medicine\". Triangle; the Sandoz journal of medical science. 10 (4). İsviçre. 1971. ss. 173-4. ISSN 0041-2597. PMID 4337412. Ishikawa, E (Nisan 1969). \"[Profile of Professor Earl W. Sutherland Jr]\". Nippon Rinsho. 27 (4). Japonya. ss. 1301-4. ISSN 0047-1852. PMID 4896683. == Kaynakça == == Dış bağlantılar == Nobel link2 Kasım 2005 tarihinde Wayback Machine sitesinde arşivlendi. Lasker link NAS link Case-Western link Earl Sutherland profile at NNDB 5 Ocak 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 402,
+      "char_count": 2786,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.928589",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 333,
+      "content": "Earl Wilbur Sutherland Jr. (d. 19 Kasım 1915 - ö. 9 Mart 1974), Amerikalı farmakolog ve biyokimyacı. 1971 yılında Nobel Fizyoloji veya Tıp Ödülü'nü hormonların etki mekanizması ile ilgili keşifleri nedeniyle kazanmıştır. Özellikle epinefrin ve ikincil mesajcılar (siklik adenozin monofosfat; cAMP) ile ilgili çalışmalarıyla bilinir.",
+      "char_count": 332,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 333,
+      "end_char": 704,
+      "content": "== Kariyeri == Sutherland, 1937 yılında Kansas'taki Washburn Üniversitesi'nden kimya lisans derecesini aldı ve 1942 yılında da Washington Üniversitesi'nden tıp lisans derecesini aldı. II. Dünya Savaşında doktor olarak görev yaptıktan sonra Washington Üniversitesi'nde Nobel ödüllü Carl Ferdinand Cori'nin farmakoloji laboratuvarında araştırmacı olarak çalışmaya başladı.",
+      "char_count": 370,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 704,
+      "end_char": 1704,
+      "content": "== Kaynakça == Shampo, M A (Haziran 2000). \"Earl Sutherland--Nobel Prize for Hormone Research\". Mayo Clin. Proc. 75 (6). ABD. s. 552. ISSN 0025-6196. PMID 10852412. Raju, T N (Eylül 1999). \"The Nobel chronicles. 1971: Earl Wilbur Sutherland, Jr. (1915-74)\". Lancet. 354 (9182). İngiltere. s. 961. ISSN 0140-6736. PMID 10489991. Butcher, R W (Mart 1975). \"An appreciation of Earl Sutherland\". Metab. Clin. Exp. 24 (3). ABD. ss. 237-40. doi:10.1016/0026-0495(75)90104-3. PMID 1092953. Ho, R J (Mart 1975). \"The last conversation with Dr. Earl W. Sutherland, Jr: the feedback regulation of cyclic nucleotides\". Metab. Clin. Exp. 24 (3). ABD. ss. 257-64. doi:10.1016/0026-0495(75)90107-9. PMID 165349. \"Dr. Sutherland, AHA career investigator, dies in Miami\". Circ. Res. 34 (5). ABD. Mayıs 1974. s. 743. ISSN 0009-7330. PMID 4597081. Oye, I (Kasım 1971). \"[The Nobel Prize in Medicine to Earl W. Sutherland Jr]\". Tidsskr. Nor. Laegeforen. 91 (31). Norveç. ss. 2270-1. ISSN 0029-2001. PMID 4332258. \"[Nobe",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1504,
+      "end_char": 2504,
+      "content": "ISSN 0009-7330. PMID 4597081. Oye, I (Kasım 1971). \"[The Nobel Prize in Medicine to Earl W. Sutherland Jr]\". Tidsskr. Nor. Laegeforen. 91 (31). Norveç. ss. 2270-1. ISSN 0029-2001. PMID 4332258. \"[Nobel prize for Medicine and Physiology 1972]\". Münchener medizinische Wochenschrift (1950). 113 (45). Almanya. Kasım 1971. ss. Suppl 45:1. ISSN 0027-2973. PMID 4942165. Kampmeier, R H (Kasım 1971). \"Cycl AMP--and the Nobel Prize\". South. Med. J. 64 (11). ABD. ss. 1413-4. ISSN 0038-4348. PMID 4331313. \"[Nobel prize for medicine 1971]\". Dtsch. Med. Wochenschr. 96 (44). Almanya. Ekim 1971. s. 1735. ISSN 0012-0472. PMID 4939258. \"Nobel prize\". Br Med J. 4 (5781). İngiltere. Ekim 1971. s. 188. ISSN 0007-1447. PMC 1799218 . PMID 4329929. \"1971 Nobel Prize for physiology and medicine\". Triangle; the Sandoz journal of medical science. 10 (4). İsviçre. 1971. ss. 173-4. ISSN 0041-2597. PMID 4337412. Ishikawa, E (Nisan 1969). \"[Profile of Professor Earl W. Sutherland Jr]\". Nippon Rinsho. 27 (4). Japonya",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2304,
+      "end_char": 2547,
+      "content": "doz journal of medical science. 10 (4). İsviçre. 1971. ss. 173-4. ISSN 0041-2597. PMID 4337412. Ishikawa, E (Nisan 1969). \"[Profile of Professor Earl W. Sutherland Jr]\". Nippon Rinsho. 27 (4). Japonya. ss. 1301-4. ISSN 0047-1852. PMID 4896683.",
+      "char_count": 243,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2563,
+      "end_char": 2786,
+      "content": "== Dış bağlantılar == Nobel link2 Kasım 2005 tarihinde Wayback Machine sitesinde arşivlendi. Lasker link NAS link Case-Western link Earl Sutherland profile at NNDB 5 Ocak 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 223,
+      "token_estimate": 55
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "M. A. Shampo'nun \"Earl Sutherland--Nobel Prize for Hormone Research\" başlıklı makalesi hangi yıl yayımlanmıştır?",
+        "answer": "2000",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Earl Wilbur Sutherland Jr.'ın Nobel ödüllü keşifleri için temel araştırmalarını hangi ortamda gerçekleştirdiği ve bu ortamın onun kariyeri üzerindeki potansiyel etkisi neydi?",
+        "answer": "Earl Wilbur Sutherland Jr., 1971 yılında kazandığı Nobel Fizyoloji veya Tıp Ödülü'ne yol açan hormonların etki mekanizmasıyla ilgili temel araştırmalarına, kendisi de Nobel ödüllü olan Carl Ferdinand Cori'nin Washington Üniversitesi'ndeki farmakoloji laboratuvarında başlamıştır. Bu ortam, onun bilimsel kariyerinin şekillenmesinde ve çığır açan çalışmalarına zemin hazırlamada önemli bir rol oynamış olabilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

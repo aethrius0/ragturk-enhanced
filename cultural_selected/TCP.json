@@ -1,0 +1,193 @@
+{
+  "article": {
+    "id": "tcp_5ab987bc",
+    "title": "TCP",
+    "url": "https://tr.wikipedia.org/wiki/TCP",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:32.998211",
+    "content": "TCP (Transmission Control Protocol), TCP/IP protokol takımının taşıma katmanı protokollerinden birisidir. İlk ağ implementasyonunda, İnternet Protokolü (IP) ile birlikte çalışarak TCP ortaya çıkmıştır. Bu nedenle, tüm takım genellikle TCP/IP olarak adlandırılır. TCP, IP ağı üzerinden iletişim kuran uygulamalar arasında bir dizi oktetin (baytların) güvenilir, sıralı ve hata kontrolü yapılmış bir şekilde iletimini sağlar. Dünya Çapında Ağ (WWW), e-posta, uzak yönetim, dosya transferi ve akış medyası gibi büyük internet uygulamaları, TCP'yi kullanır; bu protokol, TCP/IP takımının taşıma katmanının bir parçasıdır. SSL/TLS sıklıkla TCP'nin üstünde çalışır. Bugün TCP, çoğu İnternet iletişimi için temel bir protokol olarak kalmakta ve farklı ağlar arasında güvenilir veri aktarımını sağlamaktadır. Son güncellemesi Ağustos 2022 tarihi itibarıyla RFC 9293 içerisinde tanımlanmıştır. Gelişmiş bilgisayar ağlarında paket anahtarlamalı bilgisayar iletişiminde kayıpsız veri gönderimi sağlayabilmek için TCP protokolü yazılmıştır. HTTP, HTTPS, POP3, SSH, SMTP, Telnet ve FTP gibi internetin kullanıcı açısından en popüler protokollerinin veri iletimi TCP vasıtasıyla yapılır. TCP, bağlantı odaklıdır, yani gönderici ve alıcı, ilk olarak bağlantıyı kurmak için üzerinde anlaşılmış parametrelere dayanarak bir bağlantı kurmak zorundadır; bunu üç aşamalı el sıkışma (3-way handshake) prosedürüyle yaparlar. Sunucu, bağlantı talepleri için dinlemede olmalı (pasif açılış) ve bir bağlantı kurulmadan önce istemciden gelen talepleri beklemelidir. Üç aşamalı el sıkışma (aktif açılış), veri iletimi yeniden gönderimi ve hata tespiti güvenilirliği artırır, ancak gecikmeyi uzatır. Güvenilir veri akışı servisi gerektirmeyen uygulamalar, zaman öncelikli olup güvenilirlikten ödün veren Bağlantısız Datagram Protokolü (UDP) kullanabilirler. TCP, ağ tıkanıklığını önlemeyi de içerir. Ancak, TCP'nin bazı güvenlik açıkları vardır; bunlar arasında hizmeti engelleme (Denial of Service), bağlantı kaçırma, TCP veto ve sıfırlama saldırıları yer alır. == Tarihçe == İlk olarak 1974 Mayıs ayında Elektrik ve Elektronik Mühendisleri Enstitüsü (IEEE) tarafından “A Protocol for Packet Network Intercommunication” başlıklı bir makale yayınlandı. Makalenin yazarları bu yazıda; Vint Cerf ve Bob Kahn bir ağ üzerinde yer alan uçlar (nodes) arasında kaynak paylaşımını sağlamak amacıyla \"packet-switching\" yöntemini kullanan bir ağ protokolü tanımladılar. Bu protokol modelini paket anahtarlamalı olarak nitelendirdiler ve TCP‘nin temelleri atılmış oldu. TCP/IP ilk olarak Amerika Savunma Bakanlığı'nın (DoD) veri iletişimi ihtiyacını karşılamak amacıyla tasarlanmıştır. 1960'lı yılların sonunda Amerika Savunma Bakanlığı'na bağlı olarak çalışan Advanced Research Projects Agency (ARPA), ABD'de bulunan üniversitelerle, ağ üzerinden veri alışverişinde bulunmak amacıyla, üretici markasından bağımsız bir protokol bulmak amacıyla çalışmaya başladı. Katılımcılar bu çalışmalar sonucunda ARPANET'i kurdular. ARPANET internet tarihindeki ilk paket anahtarlamalı ağ oldu. ARPANET ilk olarak 1969 yılının sonlarında dört adet uçla (node) çalışmaya başladı. Bu çalışmanın başarılı olmasının sonucunda \"ARPA Internet (ARPANET)\" adındaki ilk geniş alan ağı kurulmuş oldu. == Çalışma Esasları == TCP'nin çalışma esası üç faz altında incelenebilir: 1) Öncelikle hedefle bir bağlantı gerçekleşir. 2) Bağlantı gerçekleştikten sonra veri transferi yapılır. 3) Veri transferi yapıldıktan sonra da bağlantı sona erdirilir. TCP'de bu üç fazın gerçekleşmesi için bazı ara durumlar (state) tanımlanmıştır. Bu durumlar aşağıdaki gibidir: LISTEN (sunucu) İstemci tarafından bir TCP bağlantı isteğinin beklenildiği durum SYN-SENT (istemci) Karşı tarafa TCP bağlantısı isteği gönderildikten sonra karşı taraftan bağlantı isteğine cevap beklenilen durum SYN-RECEIVED (sunucu) İstemci tarafından SYN bayrağı ile yapılan bağlantı isteğine sunucunun SYN-ACK bayrağı ile cevap vermesinden sonraki bekleme durum ESTABLISHED (sunucu ve istemci) Bağlantı kurulduktan sonraki veri transferinin yapıldığı durum FIN-WAIT-1 (sunucu ve istemci) FIN-WAIT-2 (sunucu ve istemci) karşı taraftan TCP bağlantısının bitirilme isteğinin beklendiği durum CLOSE-WAIT (sunucu ve istemci) CLOSING (sunucu ve istemci) Karşı tarafa bağlantının bitirilmesine dair bir ACK bayrağı gönderildikten sonra bağlantının bitmesini bekleme durumu LAST-ACK (sunucu ve istemci) TIME-WAIT (sunucu ve istemci) CLOSED (sunucu ve istemci) TCP bağlantısının tamamen bittiği durum === TCP bağlantısı nasıl kurulur? === A bilgisayarı B bilgisayarına TCP yoluyla bağlanmak istediğinde şu yol izlenir: A bilgisayarı B bilgisayarına TCP SYNchronize mesajı yollar B bilgisayarı A bilgisayarının isteğini aldığına dair bir TCP SYN+ACKnowledgement mesajı yollar A bilgisayarı B bilgisayarına TCP ACK mesajı yollar B bilgisayarı bir ACK \"TCP connection is ESTABLISHED\" mesajı alır Üç zamanlı el sıkışma adı verilen bu yöntem sonucunda TCP bağlantısı açılmış olur. === Veri iletimi === TCP'de veri iletimi çift yönlüdür. Yani her iki taraf da birbirlerine aynı bağlantı içerisinde veri gönderebilmektedir. Bağlantı oluşturulduktan sonra, B bilgisayarı A bilgisayarından paketler almaya başlar. B, her aldığı paketten sonra bir süre bekledikten sonra en son düzgün olarak aldığı paket grubunu A'ya bildirir. Gelen bildirimlere göre A, daha sonra hangi paketleri yollaması gerektiğine karar verir ve yollar. === TCP bağlantısının sona erdirilmesi === Veri iletişimi bitince bilgisayarlardan herhangi biri diğerine TCP kapatma mesajı yollar. Diğer bilgisayar, kapatmayı teyit etme paketi ve kapatma isteği yollar. Son olarak, diğer bilgisayar da kapatma teyidini yollar ve bağlantı kapatılmış olur. Bu işlemin adımları tam olarak şöyledir: A bilgisayarı B bilgisayarına bağlantıyı sonlandırmak istediğine dair TCP FIN mesajı yollar. B bilgisayarı A bilgisayarına bağlantı sonlandırma isteğini aldığına dair TCP ACK mesajı yollar. B bilgisayarı A bilgisayarına bağlantıyı sonlandırmak istediğine dair TCP FIN mesajı yollar. A bilgisayarı B bilgisayarına bağlantı sonlandırma isteğini aldığına dair TCP ACK mesajı yollar. Bu işlemlerin sonunda TCP bağlantısı sonlandırılmış olur. Buna 4 zamanlı el sıkışma denir. Görüldüğü üzere, bağlantının kurulmasından farklı olarak bağlantı her cihaz için ayrıca kapatılmaktadır. Bunun nedeni, istenildiğinde bağlantının tek yönlü olarak açık tutulabilmesini sağlamaktır. Bunun için tek tarafın bağlantı kapama adımlarını gerçekleştirmesi gerekir. == TCP Segmenti == TCP bağlantı tabanlı (connection-oriented) bir protokoldür. TCP bağlantı tabanlı bir protokol olduğu için iki bilgisayar, üçlü el sıkışma (3-way handshaking) yaptıktan sonra veri alışverişi yapmaya başlar. TCP, taşıma katmanında alt katmandan gelen verilere bir başlık bilgisi ekler. Başlık bilgisiyle birlikte bu veriye 'TCP Segmenti' denir. Kaynak Port (Source Port): Veriyi gönderen bilgisayarın kullandığı TCP portudur. Hedef Port (Destination Port): Hedef bilgisayarın TCP portudur. Sıra Numarası (Sequence Number): TCP'nin verinin böldüğü her bir segmentine verdiği numaradır. Onay Numarası (ACK Number): Alınan bir SYN paketine karşılık olan onay mesajı ACK biti ile gönderilir. Başlık Uzunluğu (Header Length/Data Offset): TCP başlığının uzunluğunu gösterir. Rezerve Edilmiş (Reserved): İleride kullanılmak üzere saklı tutulur. Kod Bitleri ya da Bayraklar (Code Bits or Flags): Segment ile ilgili kontrol bilgilerini taşır. Pencere (Window): Akış denetimi için kullanılır. Hata Kontrol Bitleri (Checksum): Segmentin hatalı ulaşıp ulaşmadığını kontrol etmek için kullanılır. Acil İşaretçisi (Urgent Pointer): Bir verinin acil olarak iletilmek istendiği durumlarda kullanılır. Seçenek (Option): TCP segmentinin maksimum boyutunun bilgisini taşır. Veri (Data):Verinin bulunduğu kısım. == RFC Versiyonları == RFC 675 – Specification of Internet Transmission Control Program, December 1974 Version RFC 793 – TCP v4 RFC 1122 – includes some error corrections for TCP RFC 1323 – TCP Extensions for High Performance [Obsoleted by RFC 7323] RFC 1379 – Extending TCP for Transactions-Concepts [Obsoleted by RFC 6247] RFC 1948 – Defending Against Sequence Number Attacks RFC 2018 – TCP Selective Acknowledgment Options RFC 5681 – TCP Congestion Control RFC 6247 – Moving the Undeployed TCP Extensions RFC 1072, 1106, 1110, 1145, 1146, 1379, 1644 and 1693 to Historic Status RFC 6298 – Computing TCP's Retransmission Timer RFC 6824 – TCP Extensions for Multipath Operation with Multiple Addresses RFC 7323 – TCP Extensions for High Performance RFC 7414 – A Roadmap for TCP Specification Documents RFC 9293 – Transmission Control Protocol (TCP) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 1145,
+      "char_count": 8652,
+      "num_chunks": 14,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.924948",
+    "total_chunks": 14,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "TCP (Transmission Control Protocol), TCP/IP protokol takımının taşıma katmanı protokollerinden birisidir. İlk ağ implementasyonunda, İnternet Protokolü (IP) ile birlikte çalışarak TCP ortaya çıkmıştır. Bu nedenle, tüm takım genellikle TCP/IP olarak adlandırılır. TCP, IP ağı üzerinden iletişim kuran uygulamalar arasında bir dizi oktetin (baytların) güvenilir, sıralı ve hata kontrolü yapılmış bir şekilde iletimini sağlar. Dünya Çapında Ağ (WWW), e-posta, uzak yönetim, dosya transferi ve akış medyası gibi büyük internet uygulamaları, TCP'yi kullanır; bu protokol, TCP/IP takımının taşıma katmanının bir parçasıdır. SSL/TLS sıklıkla TCP'nin üstünde çalışır. Bugün TCP, çoğu İnternet iletişimi için temel bir protokol olarak kalmakta ve farklı ağlar arasında güvenilir veri aktarımını sağlamaktadır. Son güncellemesi Ağustos 2022 tarihi itibarıyla RFC 9293 içerisinde tanımlanmıştır. Gelişmiş bilgisayar ağlarında paket anahtarlamalı bilgisayar iletişiminde kayıpsız veri gönderimi sağlayabilmek içi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": " Son güncellemesi Ağustos 2022 tarihi itibarıyla RFC 9293 içerisinde tanımlanmıştır. Gelişmiş bilgisayar ağlarında paket anahtarlamalı bilgisayar iletişiminde kayıpsız veri gönderimi sağlayabilmek için TCP protokolü yazılmıştır. HTTP, HTTPS, POP3, SSH, SMTP, Telnet ve FTP gibi internetin kullanıcı açısından en popüler protokollerinin veri iletimi TCP vasıtasıyla yapılır. TCP, bağlantı odaklıdır, yani gönderici ve alıcı, ilk olarak bağlantıyı kurmak için üzerinde anlaşılmış parametrelere dayanarak bir bağlantı kurmak zorundadır; bunu üç aşamalı el sıkışma (3-way handshake) prosedürüyle yaparlar. Sunucu, bağlantı talepleri için dinlemede olmalı (pasif açılış) ve bir bağlantı kurulmadan önce istemciden gelen talepleri beklemelidir. Üç aşamalı el sıkışma (aktif açılış), veri iletimi yeniden gönderimi ve hata tespiti güvenilirliği artırır, ancak gecikmeyi uzatır. Güvenilir veri akışı servisi gerektirmeyen uygulamalar, zaman öncelikli olup güvenilirlikten ödün veren Bağlantısız Datagram Prot",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2033,
+      "content": "nderimi ve hata tespiti güvenilirliği artırır, ancak gecikmeyi uzatır. Güvenilir veri akışı servisi gerektirmeyen uygulamalar, zaman öncelikli olup güvenilirlikten ödün veren Bağlantısız Datagram Protokolü (UDP) kullanabilirler. TCP, ağ tıkanıklığını önlemeyi de içerir. Ancak, TCP'nin bazı güvenlik açıkları vardır; bunlar arasında hizmeti engelleme (Denial of Service), bağlantı kaçırma, TCP veto ve sıfırlama saldırıları yer alır.",
+      "char_count": 433,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 2034,
+      "end_char": 3034,
+      "content": "== Tarihçe == İlk olarak 1974 Mayıs ayında Elektrik ve Elektronik Mühendisleri Enstitüsü (IEEE) tarafından “A Protocol for Packet Network Intercommunication” başlıklı bir makale yayınlandı. Makalenin yazarları bu yazıda; Vint Cerf ve Bob Kahn bir ağ üzerinde yer alan uçlar (nodes) arasında kaynak paylaşımını sağlamak amacıyla \"packet-switching\" yöntemini kullanan bir ağ protokolü tanımladılar. Bu protokol modelini paket anahtarlamalı olarak nitelendirdiler ve TCP‘nin temelleri atılmış oldu. TCP/IP ilk olarak Amerika Savunma Bakanlığı'nın (DoD) veri iletişimi ihtiyacını karşılamak amacıyla tasarlanmıştır. 1960'lı yılların sonunda Amerika Savunma Bakanlığı'na bağlı olarak çalışan Advanced Research Projects Agency (ARPA), ABD'de bulunan üniversitelerle, ağ üzerinden veri alışverişinde bulunmak amacıyla, üretici markasından bağımsız bir protokol bulmak amacıyla çalışmaya başladı. Katılımcılar bu çalışmalar sonucunda ARPANET'i kurdular. ARPANET internet tarihindeki ilk paket anahtarlamalı a",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 2834,
+      "end_char": 3237,
+      "content": "k amacıyla, üretici markasından bağımsız bir protokol bulmak amacıyla çalışmaya başladı. Katılımcılar bu çalışmalar sonucunda ARPANET'i kurdular. ARPANET internet tarihindeki ilk paket anahtarlamalı ağ oldu. ARPANET ilk olarak 1969 yılının sonlarında dört adet uçla (node) çalışmaya başladı. Bu çalışmanın başarılı olmasının sonucunda \"ARPA Internet (ARPANET)\" adındaki ilk geniş alan ağı kurulmuş oldu.",
+      "char_count": 403,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0005",
+      "section": "== Çalışma Esasları ==",
+      "heading_path": "== Çalışma Esasları ==",
+      "start_char": 3238,
+      "end_char": 4238,
+      "content": "== Çalışma Esasları == TCP'nin çalışma esası üç faz altında incelenebilir: 1) Öncelikle hedefle bir bağlantı gerçekleşir. 2) Bağlantı gerçekleştikten sonra veri transferi yapılır. 3) Veri transferi yapıldıktan sonra da bağlantı sona erdirilir. TCP'de bu üç fazın gerçekleşmesi için bazı ara durumlar (state) tanımlanmıştır. Bu durumlar aşağıdaki gibidir: LISTEN (sunucu) İstemci tarafından bir TCP bağlantı isteğinin beklenildiği durum SYN-SENT (istemci) Karşı tarafa TCP bağlantısı isteği gönderildikten sonra karşı taraftan bağlantı isteğine cevap beklenilen durum SYN-RECEIVED (sunucu) İstemci tarafından SYN bayrağı ile yapılan bağlantı isteğine sunucunun SYN-ACK bayrağı ile cevap vermesinden sonraki bekleme durum ESTABLISHED (sunucu ve istemci) Bağlantı kurulduktan sonraki veri transferinin yapıldığı durum FIN-WAIT-1 (sunucu ve istemci) FIN-WAIT-2 (sunucu ve istemci) karşı taraftan TCP bağlantısının bitirilme isteğinin beklendiği durum CLOSE-WAIT (sunucu ve istemci) CLOSING (sunucu ve ist",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "== Çalışma Esasları ==",
+      "heading_path": "== Çalışma Esasları ==",
+      "start_char": 4038,
+      "end_char": 4487,
+      "content": "apıldığı durum FIN-WAIT-1 (sunucu ve istemci) FIN-WAIT-2 (sunucu ve istemci) karşı taraftan TCP bağlantısının bitirilme isteğinin beklendiği durum CLOSE-WAIT (sunucu ve istemci) CLOSING (sunucu ve istemci) Karşı tarafa bağlantının bitirilmesine dair bir ACK bayrağı gönderildikten sonra bağlantının bitmesini bekleme durumu LAST-ACK (sunucu ve istemci) TIME-WAIT (sunucu ve istemci) CLOSED (sunucu ve istemci) TCP bağlantısının tamamen bittiği durum",
+      "char_count": 449,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0007",
+      "section": "=== TCP bağlantısı nasıl kurulur? ===",
+      "heading_path": "=== TCP bağlantısı nasıl kurulur? ===",
+      "start_char": 4488,
+      "end_char": 4963,
+      "content": "=== TCP bağlantısı nasıl kurulur? === A bilgisayarı B bilgisayarına TCP yoluyla bağlanmak istediğinde şu yol izlenir: A bilgisayarı B bilgisayarına TCP SYNchronize mesajı yollar B bilgisayarı A bilgisayarının isteğini aldığına dair bir TCP SYN+ACKnowledgement mesajı yollar A bilgisayarı B bilgisayarına TCP ACK mesajı yollar B bilgisayarı bir ACK \"TCP connection is ESTABLISHED\" mesajı alır Üç zamanlı el sıkışma adı verilen bu yöntem sonucunda TCP bağlantısı açılmış olur.",
+      "char_count": 474,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0008",
+      "section": "=== Veri iletimi ===",
+      "heading_path": "=== Veri iletimi ===",
+      "start_char": 4963,
+      "end_char": 5404,
+      "content": "=== Veri iletimi === TCP'de veri iletimi çift yönlüdür. Yani her iki taraf da birbirlerine aynı bağlantı içerisinde veri gönderebilmektedir. Bağlantı oluşturulduktan sonra, B bilgisayarı A bilgisayarından paketler almaya başlar. B, her aldığı paketten sonra bir süre bekledikten sonra en son düzgün olarak aldığı paket grubunu A'ya bildirir. Gelen bildirimlere göre A, daha sonra hangi paketleri yollaması gerektiğine karar verir ve yollar.",
+      "char_count": 440,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0009",
+      "section": "=== TCP bağlantısının sona erdirilmesi ===",
+      "heading_path": "=== TCP bağlantısının sona erdirilmesi ===",
+      "start_char": 5404,
+      "end_char": 6404,
+      "content": "=== TCP bağlantısının sona erdirilmesi === Veri iletişimi bitince bilgisayarlardan herhangi biri diğerine TCP kapatma mesajı yollar. Diğer bilgisayar, kapatmayı teyit etme paketi ve kapatma isteği yollar. Son olarak, diğer bilgisayar da kapatma teyidini yollar ve bağlantı kapatılmış olur. Bu işlemin adımları tam olarak şöyledir: A bilgisayarı B bilgisayarına bağlantıyı sonlandırmak istediğine dair TCP FIN mesajı yollar. B bilgisayarı A bilgisayarına bağlantı sonlandırma isteğini aldığına dair TCP ACK mesajı yollar. B bilgisayarı A bilgisayarına bağlantıyı sonlandırmak istediğine dair TCP FIN mesajı yollar. A bilgisayarı B bilgisayarına bağlantı sonlandırma isteğini aldığına dair TCP ACK mesajı yollar. Bu işlemlerin sonunda TCP bağlantısı sonlandırılmış olur. Buna 4 zamanlı el sıkışma denir. Görüldüğü üzere, bağlantının kurulmasından farklı olarak bağlantı her cihaz için ayrıca kapatılmaktadır. Bunun nedeni, istenildiğinde bağlantının tek yönlü olarak açık tutulabilmesini sağlamaktır. B",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0010",
+      "section": "=== TCP bağlantısının sona erdirilmesi ===",
+      "heading_path": "=== TCP bağlantısının sona erdirilmesi ===",
+      "start_char": 6204,
+      "end_char": 6478,
+      "content": ". Görüldüğü üzere, bağlantının kurulmasından farklı olarak bağlantı her cihaz için ayrıca kapatılmaktadır. Bunun nedeni, istenildiğinde bağlantının tek yönlü olarak açık tutulabilmesini sağlamaktır. Bunun için tek tarafın bağlantı kapama adımlarını gerçekleştirmesi gerekir.",
+      "char_count": 274,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0011",
+      "section": "== TCP Segmenti ==",
+      "heading_path": "== TCP Segmenti ==",
+      "start_char": 6479,
+      "end_char": 7479,
+      "content": "== TCP Segmenti == TCP bağlantı tabanlı (connection-oriented) bir protokoldür. TCP bağlantı tabanlı bir protokol olduğu için iki bilgisayar, üçlü el sıkışma (3-way handshaking) yaptıktan sonra veri alışverişi yapmaya başlar. TCP, taşıma katmanında alt katmandan gelen verilere bir başlık bilgisi ekler. Başlık bilgisiyle birlikte bu veriye 'TCP Segmenti' denir. Kaynak Port (Source Port): Veriyi gönderen bilgisayarın kullandığı TCP portudur. Hedef Port (Destination Port): Hedef bilgisayarın TCP portudur. Sıra Numarası (Sequence Number): TCP'nin verinin böldüğü her bir segmentine verdiği numaradır. Onay Numarası (ACK Number): Alınan bir SYN paketine karşılık olan onay mesajı ACK biti ile gönderilir. Başlık Uzunluğu (Header Length/Data Offset): TCP başlığının uzunluğunu gösterir. Rezerve Edilmiş (Reserved): İleride kullanılmak üzere saklı tutulur. Kod Bitleri ya da Bayraklar (Code Bits or Flags): Segment ile ilgili kontrol bilgilerini taşır. Pencere (Window): Akış denetimi için kullanılır. ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0012",
+      "section": "== TCP Segmenti ==",
+      "heading_path": "== TCP Segmenti ==",
+      "start_char": 7279,
+      "end_char": 7787,
+      "content": "ş (Reserved): İleride kullanılmak üzere saklı tutulur. Kod Bitleri ya da Bayraklar (Code Bits or Flags): Segment ile ilgili kontrol bilgilerini taşır. Pencere (Window): Akış denetimi için kullanılır. Hata Kontrol Bitleri (Checksum): Segmentin hatalı ulaşıp ulaşmadığını kontrol etmek için kullanılır. Acil İşaretçisi (Urgent Pointer): Bir verinin acil olarak iletilmek istendiği durumlarda kullanılır. Seçenek (Option): TCP segmentinin maksimum boyutunun bilgisini taşır. Veri (Data):Verinin bulunduğu kısım.",
+      "char_count": 508,
+      "token_estimate": 127
+    },
+    {
+      "id": "c0013",
+      "section": "== RFC Versiyonları ==",
+      "heading_path": "== RFC Versiyonları ==",
+      "start_char": 7788,
+      "end_char": 8638,
+      "content": "== RFC Versiyonları == RFC 675 – Specification of Internet Transmission Control Program, December 1974 Version RFC 793 – TCP v4 RFC 1122 – includes some error corrections for TCP RFC 1323 – TCP Extensions for High Performance [Obsoleted by RFC 7323] RFC 1379 – Extending TCP for Transactions-Concepts [Obsoleted by RFC 6247] RFC 1948 – Defending Against Sequence Number Attacks RFC 2018 – TCP Selective Acknowledgment Options RFC 5681 – TCP Congestion Control RFC 6247 – Moving the Undeployed TCP Extensions RFC 1072, 1106, 1110, 1145, 1146, 1379, 1644 and 1693 to Historic Status RFC 6298 – Computing TCP's Retransmission Timer RFC 6824 – TCP Extensions for Multipath Operation with Multiple Addresses RFC 7323 – TCP Extensions for High Performance RFC 7414 – A Roadmap for TCP Specification Documents RFC 9293 – Transmission Control Protocol (TCP)",
+      "char_count": 849,
+      "token_estimate": 212
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ağustos 2022 itibarıyla TCP'yi tanımlayan en son RFC hangisidir?",
+        "answer": "RFC 9293",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "TCP'nin farklı ağlar arasında güvenilir veri aktarımını sağladığı belirtilirken, bu güvenilirliği hangi temel mekanizmalar aracılığıyla gerçekleştirmektedir?",
+        "answer": "TCP, güvenilir veri aktarımını, gönderici ve alıcı arasında bağlantı kurmayı gerektiren bağlantı odaklı yapısı, üç aşamalı el sıkışma prosedürü, veri iletimi yeniden gönderimi ve hata tespiti gibi mekanizmalar aracılığıyla gerçekleştirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

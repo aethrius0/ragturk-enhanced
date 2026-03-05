@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "markocar_3d379f37",
+    "title": "Marko Car",
+    "url": "https://tr.wikipedia.org/wiki/Marko_Car",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:17.756423",
+    "content": "Marko Car (Sırp Kiril:Марко Цар ; 30 Ağustos 1859, Herceg-Novi - 1 Aralık 1953, Belgrad,) Sırp yazar, edebiyat tarihçisi, gezi yazarı, eleştirmen, denemeci ve siyasetçi. Marko Car 30 Ağustos 1859 tarihinde, o zamanlar Avusturya İmparatorluğu'nun Dalmaçya Krallığı eyaletinin bir parçası olan Kotor Körfezi'ndeki Herceg -Novi kasabasında İvan Car ve Frana Car'ın oğlu olarak doğdu. İlkokulu memleketinde, liseyi ise 1879 yılında Kotor'da bitirdi. Aynı yıl Dalmaçya eyaletin başkenti Zadar'a taşındı ve Sırp halkının ulusal çıkarlarını korumak için mücadele eden Sava Bjelanović'in Sırp Halk Partisi'ne katılarak siyasi hayata girdi. 1884 yılından 1918 yılına kadar Dalmaçya bölgesel meclisi olan Dalmaçya Diyeti'nde görev yaptı. Luko Zore, Antun Fabris, Pero Budmani, Medo Pucić, Niko Pucić, Ivan Stojanović ve Dubrovnik'teki Sırp-Katolik hareketinin üyeleri onun arkadaşları ve meslektaşlarıydı. 1884 yılında yayın hayatına başlayan, en etkili süreli yayınlardan biri olan Vuk (Kurt) adlı Zadar dergisinin editörlüğünü yaptı. Venedik (1888), Umbria ve Toskana (1892), Bosna, Sırbistan ve Bulgaristan'ı gezdi ve bu geziler hakkında gezi yazıları yazdı. 5 Ekim 1897'de 92 kilometrelik Belgrad-Semendire-Belgrad (92 km) güzergahında düzenlenen Birinci Sırbistan Şampiyonası'na dokuz bisikletçiyle birlikte katıldı. Marko Car, Sırp, Hırvat ve Sloven Krallığı kuruluşundan sonra, 1919 yılında yeni monarşinin başkenti Belgrad'a taşındı. Burada 1921 yılında emekli olana kadar Yugoslavya Eğitim Bakanlığı'nda Sanatçı bölümünün Müfettişi olarak çalıştı. Belgrad'da Sırp Yazarlar Derneği'nin kurdu ve bu derneğin ilk başkanı oldu, daha sonra Sırbistan Bilim ve Sanat Akademisi olarak anılacak olan Sırp Kraliyet Akademisi üyeliğine seçildi. Ayrıca Novi Sad'daki kültürel-bilimsel alanda çalışmalar yapan bir sivil toplum kuruluşu olan Matica srpska’ya üye oldu. 1937 yılından 1941 yılına kadar Sırp Edebiyat Derneği'nin başkanlığını yaptı. 2. Dünya Savaşında Nazilerin Yugoslav Krallığını işgal etmesinden sonra Zadar üzerinden İtalya'ya kaçtı. 1945'te savaş bittikten sonra Belgrad'a döndü ve hayatının geri kalan kısmını burada geçirdi. 1883'te yazdığı Za kišljive dnevi (Yağmurlu Günlerde) adlı eseriyle yazar olarak tanındı. 1910 yılında Dubrovnik'te Matica Srpska için çalıştı, o yıl Sırp Dubrovnik Matbaası tarafından basılan \"Naše Primorije\"yi yayınladı. İtalyanca ve Fransızcadan Sırp-Hırvatçaya çeviriler yaptı. Eserleri Almanca, Fransızca, Macarca, İngilizce, İtalyanca ve Çekçeye çevrildi. Eserlerini genellikle yalnızca baş harflerle veya takma adlarla imzaladı. 1 Aralık 1953'te Yugoslavya'nın başkenti Belgrad’da öldü. Cenazesi, kendi isteği üzerine doğum yeri olan Karadağ'ın Hersek Novi şehrindeki Savina Sırp Ortodoks Manastırı'na gömüldü. Herceg Novi'nin eski kentindeki bir caddeye onun adı verildi. Ayrıca Marko Car'ın ölümünden kısa bir süre sonra heykeltıraş Peter Pallavicini tarafından onun onuruna yapılan bir büstü burada bulunmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 389,
+      "char_count": 2969,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.168494",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Marko Car (Sırp Kiril:Марко Цар ; 30 Ağustos 1859, Herceg-Novi - 1 Aralık 1953, Belgrad,) Sırp yazar, edebiyat tarihçisi, gezi yazarı, eleştirmen, denemeci ve siyasetçi. Marko Car 30 Ağustos 1859 tarihinde, o zamanlar Avusturya İmparatorluğu'nun Dalmaçya Krallığı eyaletinin bir parçası olan Kotor Körfezi'ndeki Herceg -Novi kasabasında İvan Car ve Frana Car'ın oğlu olarak doğdu. İlkokulu memleketinde, liseyi ise 1879 yılında Kotor'da bitirdi. Aynı yıl Dalmaçya eyaletin başkenti Zadar'a taşındı ve Sırp halkının ulusal çıkarlarını korumak için mücadele eden Sava Bjelanović'in Sırp Halk Partisi'ne katılarak siyasi hayata girdi. 1884 yılından 1918 yılına kadar Dalmaçya bölgesel meclisi olan Dalmaçya Diyeti'nde görev yaptı. Luko Zore, Antun Fabris, Pero Budmani, Medo Pucić, Niko Pucić, Ivan Stojanović ve Dubrovnik'teki Sırp-Katolik hareketinin üyeleri onun arkadaşları ve meslektaşlarıydı. 1884 yılında yayın hayatına başlayan, en etkili süreli yayınlardan biri olan Vuk (Kurt) adlı Zadar dergi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "anović ve Dubrovnik'teki Sırp-Katolik hareketinin üyeleri onun arkadaşları ve meslektaşlarıydı. 1884 yılında yayın hayatına başlayan, en etkili süreli yayınlardan biri olan Vuk (Kurt) adlı Zadar dergisinin editörlüğünü yaptı. Venedik (1888), Umbria ve Toskana (1892), Bosna, Sırbistan ve Bulgaristan'ı gezdi ve bu geziler hakkında gezi yazıları yazdı. 5 Ekim 1897'de 92 kilometrelik Belgrad-Semendire-Belgrad (92 km) güzergahında düzenlenen Birinci Sırbistan Şampiyonası'na dokuz bisikletçiyle birlikte katıldı. Marko Car, Sırp, Hırvat ve Sloven Krallığı kuruluşundan sonra, 1919 yılında yeni monarşinin başkenti Belgrad'a taşındı. Burada 1921 yılında emekli olana kadar Yugoslavya Eğitim Bakanlığı'nda Sanatçı bölümünün Müfettişi olarak çalıştı. Belgrad'da Sırp Yazarlar Derneği'nin kurdu ve bu derneğin ilk başkanı oldu, daha sonra Sırbistan Bilim ve Sanat Akademisi olarak anılacak olan Sırp Kraliyet Akademisi üyeliğine seçildi. Ayrıca Novi Sad'daki kültürel-bilimsel alanda çalışmalar yapan bir ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2600,
+      "content": "eğin ilk başkanı oldu, daha sonra Sırbistan Bilim ve Sanat Akademisi olarak anılacak olan Sırp Kraliyet Akademisi üyeliğine seçildi. Ayrıca Novi Sad'daki kültürel-bilimsel alanda çalışmalar yapan bir sivil toplum kuruluşu olan Matica srpska’ya üye oldu. 1937 yılından 1941 yılına kadar Sırp Edebiyat Derneği'nin başkanlığını yaptı. 2. Dünya Savaşında Nazilerin Yugoslav Krallığını işgal etmesinden sonra Zadar üzerinden İtalya'ya kaçtı. 1945'te savaş bittikten sonra Belgrad'a döndü ve hayatının geri kalan kısmını burada geçirdi. 1883'te yazdığı Za kišljive dnevi (Yağmurlu Günlerde) adlı eseriyle yazar olarak tanındı. 1910 yılında Dubrovnik'te Matica Srpska için çalıştı, o yıl Sırp Dubrovnik Matbaası tarafından basılan \"Naše Primorije\"yi yayınladı. İtalyanca ve Fransızcadan Sırp-Hırvatçaya çeviriler yaptı. Eserleri Almanca, Fransızca, Macarca, İngilizce, İtalyanca ve Çekçeye çevrildi. Eserlerini genellikle yalnızca baş harflerle veya takma adlarla imzaladı. 1 Aralık 1953'te Yugoslavya'nın b",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 2400,
+      "end_char": 2954,
+      "content": "riler yaptı. Eserleri Almanca, Fransızca, Macarca, İngilizce, İtalyanca ve Çekçeye çevrildi. Eserlerini genellikle yalnızca baş harflerle veya takma adlarla imzaladı. 1 Aralık 1953'te Yugoslavya'nın başkenti Belgrad’da öldü. Cenazesi, kendi isteği üzerine doğum yeri olan Karadağ'ın Hersek Novi şehrindeki Savina Sırp Ortodoks Manastırı'na gömüldü. Herceg Novi'nin eski kentindeki bir caddeye onun adı verildi. Ayrıca Marko Car'ın ölümünden kısa bir süre sonra heykeltıraş Peter Pallavicini tarafından onun onuruna yapılan bir büstü burada bulunmaktadır.",
+      "char_count": 554,
+      "token_estimate": 138
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Marko Car hangi tarihte doğmuştur?",
+        "answer": "30 Ağustos 1859",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Marko Car'ın yaşamı boyunca siyasi ve kültürel kurumlardaki katılımı nasıl bir gelişim göstermiş ve farklı coğrafi konumlarda hangi önemli rolleri üstlenmiştir?",
+        "answer": "Marko Car, siyasi kariyerine 1879'da Zadar'a taşınarak Sava Bjelanović'in Sırp Halk Partisi'ne katılarak ve 1884'ten 1918'e kadar Dalmaçya Diyeti'nde görev yaparak başladı. Ayrıca 1884'te Zadar'daki Vuk dergisinin editörlüğünü yaptı. 1919'da Belgrad'a taşındıktan sonra, 1921'deki emekliliğine kadar Yugoslavya Eğitim Bakanlığı'nda Sanatçı bölümünün Müfettişi olarak çalıştı. Belgrad'da Sırp Yazarlar Derneği'ni kurdu ve ilk başkanı oldu, Sırp Kraliyet Akademisi'ne (daha sonra Sırbistan Bilim ve Sanat Akademisi) üye seçildi ve Matica srpska'ya katıldı. Ayrıca 1937'den 1941'e kadar Sırp Edebiyat Derneği'nin başkanlığını yaptı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "ribonkleaz_e4a9b3f7",
+    "title": "Ribonükleaz",
+    "url": "https://tr.wikipedia.org/wiki/Ribon%C3%BCkleaz",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:58.835481",
+    "content": "Ribonükleaz (genellikle RNase olarak kısaltılır), RNA'nın daha küçük bileşenlere parçalanmasını katalize eden bir nükleaz türüdür. Ribonükleazlar, endoribonükleazlar ve ekzoribonükleazlar adlı iki gruba ayrılabilir ve EC 2.7 (fosforolitik enzimler için) ve 3.1 (hidrolitik enzimler için) enzim sınıfları dahilinde çeşitli alt sınıfları içerir. == Fonksiyon == İncelenen tüm organizmalar, iki farklı sınıftan birçok RNase içerir, bu da RNA bozunmasının çok eski ve önemli bir süreç olduğunu gösterir. Artık gerekmeyen hücresel RNA'nın temizlenmesinin yanı sıra, RNase, hem protein yapmak için genetik materyal taşıyan mesajcı RNA'lar hem de çeşitli hücresel süreçlerde işlev gören kodlamayan RNA'lar olmak üzere tüm RNA moleküllerinin olgunlaşmasında önemli roller oynar. Ek olarak, aktif RNA bozunma sistemleri, RNA virüslerine karşı ilk savunmadır ve RNAi gibi daha gelişmiş hücresel bağışıklık stratejilerinin temelini oluşturan mekanizmayı sağlar. Bazı hücreler ayrıca A ve T1 gibi çok miktarda spesifik olmayan RNase salgılar. Bu nedenle RNase son derece yaygındır ve korumalı bir ortamda olmayan herhangi bir RNA için çok kısa ömürlere neden olur. Tüm hücre içi RNA'ların, 5 'ucuna başlık eklenmesi, 3' ucu poliadenilasyonu ve bir RNA protein kompleksi (ribonükleoprotein partikülü veya RNP) dahilinde katlanma dahil olmak üzere bir dizi strateji ile RNaz aktivitesinden korunduğunu belirtmek gerekir. Başka bir koruma mekanizması, bazı hücre tiplerinde nispeten büyük bir hücresel protein fraksiyonu (~% 0.1) oluşturan ve herhangi bir protein-protein etkileşiminin en yüksek afinitesi ile belirli ribonükleazlara bağlanan ribonükleaz inhibitörüdür (RI); RI-RNase A kompleksi için ayrışma sabiti fizyolojik koşullar altında -20 fM'dir. RI, numunelerini çevresel RNase'den bozulmaya karşı korumak için RNA üzerinde çalışan çoğu laboratuvarda kullanılır. Çift sarmallı DNA'nın oldukça spesifik dizilerini parçalayan restriksiyon enzimlerine benzer şekilde, tek sarmallı RNA'nın özgün dizilerini tanıyan ve bölen çeşitli endoribonükleazlar yakın zamanda sınıflandırılmıştır. RNase, anjiyogenez ve çiçekli bitkilerde (anjiyospermler) kendi kendine uyumsuzluk dahil olmak üzere birçok biyolojik süreçte kritik bir rol oynar. Prokaryotik toksin-antitoksin sistemlerinin birçok stres tepkisi toksininin RNaz aktivitesine ve homolojisine sahip olduğu gösterilmiştir. == Kaynakça == == Kaynaklar == D'Alessio G and Riordan JF, eds. (1997) Ribonucleases: Structures and Functions, Academic Press. Gerdes K, Christensen SK and Lobner-Olesen A (2005). \"Prokaryotic toxin-antitoxin stress response loci\". Nat. Rev. Microbiol. (3) 371–382. == Dış bağlantılar == IUBMB Enzyme Database for EC 3.1 3 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. Integrated Enzyme Database for EC 3.1 16 Nisan 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 372,
+      "char_count": 2845,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.396578",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 344,
+      "content": "Ribonükleaz (genellikle RNase olarak kısaltılır), RNA'nın daha küçük bileşenlere parçalanmasını katalize eden bir nükleaz türüdür. Ribonükleazlar, endoribonükleazlar ve ekzoribonükleazlar adlı iki gruba ayrılabilir ve EC 2.7 (fosforolitik enzimler için) ve 3.1 (hidrolitik enzimler için) enzim sınıfları dahilinde çeşitli alt sınıfları içerir.",
+      "char_count": 343,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0001",
+      "section": "== Fonksiyon ==",
+      "heading_path": "== Fonksiyon ==",
+      "start_char": 344,
+      "end_char": 1344,
+      "content": "== Fonksiyon == İncelenen tüm organizmalar, iki farklı sınıftan birçok RNase içerir, bu da RNA bozunmasının çok eski ve önemli bir süreç olduğunu gösterir. Artık gerekmeyen hücresel RNA'nın temizlenmesinin yanı sıra, RNase, hem protein yapmak için genetik materyal taşıyan mesajcı RNA'lar hem de çeşitli hücresel süreçlerde işlev gören kodlamayan RNA'lar olmak üzere tüm RNA moleküllerinin olgunlaşmasında önemli roller oynar. Ek olarak, aktif RNA bozunma sistemleri, RNA virüslerine karşı ilk savunmadır ve RNAi gibi daha gelişmiş hücresel bağışıklık stratejilerinin temelini oluşturan mekanizmayı sağlar. Bazı hücreler ayrıca A ve T1 gibi çok miktarda spesifik olmayan RNase salgılar. Bu nedenle RNase son derece yaygındır ve korumalı bir ortamda olmayan herhangi bir RNA için çok kısa ömürlere neden olur. Tüm hücre içi RNA'ların, 5 'ucuna başlık eklenmesi, 3' ucu poliadenilasyonu ve bir RNA protein kompleksi (ribonükleoprotein partikülü veya RNP) dahilinde katlanma dahil olmak üzere bir dizi s",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Fonksiyon ==",
+      "heading_path": "== Fonksiyon ==",
+      "start_char": 1144,
+      "end_char": 2144,
+      "content": "en olur. Tüm hücre içi RNA'ların, 5 'ucuna başlık eklenmesi, 3' ucu poliadenilasyonu ve bir RNA protein kompleksi (ribonükleoprotein partikülü veya RNP) dahilinde katlanma dahil olmak üzere bir dizi strateji ile RNaz aktivitesinden korunduğunu belirtmek gerekir. Başka bir koruma mekanizması, bazı hücre tiplerinde nispeten büyük bir hücresel protein fraksiyonu (~% 0.1) oluşturan ve herhangi bir protein-protein etkileşiminin en yüksek afinitesi ile belirli ribonükleazlara bağlanan ribonükleaz inhibitörüdür (RI); RI-RNase A kompleksi için ayrışma sabiti fizyolojik koşullar altında -20 fM'dir. RI, numunelerini çevresel RNase'den bozulmaya karşı korumak için RNA üzerinde çalışan çoğu laboratuvarda kullanılır. Çift sarmallı DNA'nın oldukça spesifik dizilerini parçalayan restriksiyon enzimlerine benzer şekilde, tek sarmallı RNA'nın özgün dizilerini tanıyan ve bölen çeşitli endoribonükleazlar yakın zamanda sınıflandırılmıştır. RNase, anjiyogenez ve çiçekli bitkilerde (anjiyospermler) kendi ken",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Fonksiyon ==",
+      "heading_path": "== Fonksiyon ==",
+      "start_char": 1944,
+      "end_char": 2363,
+      "content": "benzer şekilde, tek sarmallı RNA'nın özgün dizilerini tanıyan ve bölen çeşitli endoribonükleazlar yakın zamanda sınıflandırılmıştır. RNase, anjiyogenez ve çiçekli bitkilerde (anjiyospermler) kendi kendine uyumsuzluk dahil olmak üzere birçok biyolojik süreçte kritik bir rol oynar. Prokaryotik toksin-antitoksin sistemlerinin birçok stres tepkisi toksininin RNaz aktivitesine ve homolojisine sahip olduğu gösterilmiştir.",
+      "char_count": 419,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynaklar ==",
+      "heading_path": "== Kaynaklar ==",
+      "start_char": 2379,
+      "end_char": 2631,
+      "content": "== Kaynaklar == D'Alessio G and Riordan JF, eds. (1997) Ribonucleases: Structures and Functions, Academic Press. Gerdes K, Christensen SK and Lobner-Olesen A (2005). \"Prokaryotic toxin-antitoxin stress response loci\". Nat. Rev. Microbiol. (3) 371–382.",
+      "char_count": 251,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2631,
+      "end_char": 2845,
+      "content": "== Dış bağlantılar == IUBMB Enzyme Database for EC 3.1 3 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. Integrated Enzyme Database for EC 3.1 16 Nisan 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 214,
+      "token_estimate": 53
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İncelenen organizmalar kaç farklı sınıftan RNase içerir?",
+        "answer": "İki farklı sınıftan.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ribonükleazların (RNase) yaygın varlığı ve RNA bozunmasındaki kritik rolleri göz önüne alındığında, hücreler kendi temel RNA moleküllerini bu enzimlerin erken yıkımından nasıl korur?",
+        "answer": "Hücreler, temel RNA moleküllerini RNase aktivitesinden korumak için çeşitli stratejiler kullanır. Bu stratejiler arasında, hücre içi RNA'ların 5' ucuna başlık eklenmesi ve 3' ucunun poliadenilasyonu yer alır. Ayrıca, RNA molekülleri bir ribonükleoprotein partikülü (RNP) içinde katlanır. Başka bir koruma mekanizması ise, belirli ribonükleazlara yüksek afinite ile bağlanan ribonükleaz inhibitörü (RI) adı verilen hücresel bir proteindir; RI-RNaz A kompleksi için ayrışma sabiti fizyolojik koşullar altında -20 fM'dir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

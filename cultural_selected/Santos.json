@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "santos_31ed030e",
+    "title": "Santos",
+    "url": "https://tr.wikipedia.org/wiki/Santos",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:32.278573",
+    "content": "Santos, Brezilya'da, São Paulo'nun ana deniz geçidi olan São Paulo eyaletinin bir parçası olan bir liman şehri ve belediyesidir. São Paulo'nun Mesoregion Aglomerasyonunun ve Baixada Santista'nın kentsel aglomerasyonunun bir parçası. Santos'un ekonomik ve istatistiksel mikro bölgesine dahildir. Nüfus 2007 yılında 418.288 kişidir. 280.300 km²'lik bir alanı kaplar. Nüfus yoğunluğu 1492.3 kişi / km²'dir. Santos'ta, Brezilya'nın en ünlü futbol kulüplerinden biri olan Vila Belmiro stadyumunda Santos oynuyor. == Tarih == Şehir 1546 yılında Portekizliler tarafından Brac Kubac (Brás Cubas) tarafından kurulmuştur. 20. yüzyılın ortalarına kadar Santos, Brezilya'nın en büyük kahve ticaret merkezlerinden biriydi. Bugün müzayedenin yapıldığı binada Kahve Müzesi bulunmaktadır. == İstatistikler == Gayri safi yurtiçi hasıla için 2005'te R$8.765.520.860,00 (Veri: Brezilya Coğrafya ve İstatistik Enstitüsü). 2005 yılı için kişi başına gayri safi yurtiçi hasıla R$20.954,30 (Veri: Brezilya Coğrafya ve İstatistik Enstitüsü). İnsani Gelişme Endeksi için 2000'de 0,871 (Veri: Birleşmiş Milletler Kalkınma Programı). == Coğrafya == Kısmen Santos kenti ve kenti hem içerdiği São Vicente adasında bulunan Sao Vicente ve kısmen anakarada. Küçük Cubatao nehrinin havzasında bulunur. Yerel iklim: tropikal. Köppen iklim sınıflandırmasına göre iklim Af olarak sınıflandırılır. == Ekonomi == Kent ekonomisinde en önemli rolü 2007 yılında ülke deniz ticaretinin %27'sini sağlayan Santos limanı oynuyor. Ağırlıklı olarak kahve ve soya fasulyesinin yanı sıra tropikal meyveler ve bunlardan ürünler ihraç etti. Kahve ihracatının ilk zirvesi 1909 yılına kadar düşmüş ve fazla üretim nedeniyle ilk rekoru ancak 2006 yılında engelleyebilmiştir. == Önemli kişiler == Valdemar Estevez da Cuna, 1920 - 2013, Kral Momo Brezilya'da. Jose Masia (Pepe), Brezilyalı futbolcu ve teknik direktör. Gilmar dos Santos Neves, Brezilyalı bir futbolcudur. == Notlar == Bolsa Oficial de Café Coffee Müzesi Arşivlenen de 31 Aralık 2013 Wayback Machine Vaat edilen ülke 9 Ağustos 2021 tarihinde Wayback Machine sitesinde arşivlendi. // The Economist. - 2007 .-- 14 Nisan. Santos'un İkiz Şehirleri (liman) . Erişim tarihi: 8 Temmuz 2012. Arşivlendi 27 Ağustos 2012. Santos: Santos e Fernando de la Mora serão cidades-irmãs (liman) (25 Ekim 2011). 22 Kasım 2011 18 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi. . Lugansk'ın ikiz kardeşleri Yeni Yılı nasıl kutluyorlar: Erivan - lüks bir Noel ağacı olan Lublin ile - bir doğum sahnesi ile 9 Ağustos 2021 tarihinde Wayback Machine sitesinde arşivlendi. . Vgorode.ua. (27 Aralık 2012) Novo Milênio: Tempo de Carnaval (5-b) 28 Eylül 2015 tarihinde Wayback Machine sitesinde arşivlendi. == Bağlantılar == Santos: turistik yerler, plaj",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 386,
+      "char_count": 2749,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.471208",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 508,
+      "content": "Santos, Brezilya'da, São Paulo'nun ana deniz geçidi olan São Paulo eyaletinin bir parçası olan bir liman şehri ve belediyesidir. São Paulo'nun Mesoregion Aglomerasyonunun ve Baixada Santista'nın kentsel aglomerasyonunun bir parçası. Santos'un ekonomik ve istatistiksel mikro bölgesine dahildir. Nüfus 2007 yılında 418.288 kişidir. 280.300 km²'lik bir alanı kaplar. Nüfus yoğunluğu 1492.3 kişi / km²'dir. Santos'ta, Brezilya'nın en ünlü futbol kulüplerinden biri olan Vila Belmiro stadyumunda Santos oynuyor.",
+      "char_count": 507,
+      "token_estimate": 126
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 508,
+      "end_char": 773,
+      "content": "== Tarih == Şehir 1546 yılında Portekizliler tarafından Brac Kubac (Brás Cubas) tarafından kurulmuştur. 20. yüzyılın ortalarına kadar Santos, Brezilya'nın en büyük kahve ticaret merkezlerinden biriydi. Bugün müzayedenin yapıldığı binada Kahve Müzesi bulunmaktadır.",
+      "char_count": 264,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0002",
+      "section": "== İstatistikler ==",
+      "heading_path": "== İstatistikler ==",
+      "start_char": 773,
+      "end_char": 1107,
+      "content": "== İstatistikler == Gayri safi yurtiçi hasıla için 2005'te R$8.765.520.860,00 (Veri: Brezilya Coğrafya ve İstatistik Enstitüsü). 2005 yılı için kişi başına gayri safi yurtiçi hasıla R$20.954,30 (Veri: Brezilya Coğrafya ve İstatistik Enstitüsü). İnsani Gelişme Endeksi için 2000'de 0,871 (Veri: Birleşmiş Milletler Kalkınma Programı).",
+      "char_count": 333,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0003",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 1107,
+      "end_char": 1361,
+      "content": "== Coğrafya == Kısmen Santos kenti ve kenti hem içerdiği São Vicente adasında bulunan Sao Vicente ve kısmen anakarada. Küçük Cubatao nehrinin havzasında bulunur. Yerel iklim: tropikal. Köppen iklim sınıflandırmasına göre iklim Af olarak sınıflandırılır.",
+      "char_count": 253,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0004",
+      "section": "== Ekonomi ==",
+      "heading_path": "== Ekonomi ==",
+      "start_char": 1361,
+      "end_char": 1721,
+      "content": "== Ekonomi == Kent ekonomisinde en önemli rolü 2007 yılında ülke deniz ticaretinin %27'sini sağlayan Santos limanı oynuyor. Ağırlıklı olarak kahve ve soya fasulyesinin yanı sıra tropikal meyveler ve bunlardan ürünler ihraç etti. Kahve ihracatının ilk zirvesi 1909 yılına kadar düşmüş ve fazla üretim nedeniyle ilk rekoru ancak 2006 yılında engelleyebilmiştir.",
+      "char_count": 359,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0005",
+      "section": "== Önemli kişiler ==",
+      "heading_path": "== Önemli kişiler ==",
+      "start_char": 1721,
+      "end_char": 1916,
+      "content": "== Önemli kişiler == Valdemar Estevez da Cuna, 1920 - 2013, Kral Momo Brezilya'da. Jose Masia (Pepe), Brezilyalı futbolcu ve teknik direktör. Gilmar dos Santos Neves, Brezilyalı bir futbolcudur.",
+      "char_count": 194,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0006",
+      "section": "== Notlar ==",
+      "heading_path": "== Notlar ==",
+      "start_char": 1916,
+      "end_char": 2702,
+      "content": "== Notlar == Bolsa Oficial de Café Coffee Müzesi Arşivlenen de 31 Aralık 2013 Wayback Machine Vaat edilen ülke 9 Ağustos 2021 tarihinde Wayback Machine sitesinde arşivlendi. // The Economist. - 2007 .-- 14 Nisan. Santos'un İkiz Şehirleri (liman) . Erişim tarihi: 8 Temmuz 2012. Arşivlendi 27 Ağustos 2012. Santos: Santos e Fernando de la Mora serão cidades-irmãs (liman) (25 Ekim 2011). 22 Kasım 2011 18 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi. . Lugansk'ın ikiz kardeşleri Yeni Yılı nasıl kutluyorlar: Erivan - lüks bir Noel ağacı olan Lublin ile - bir doğum sahnesi ile 9 Ağustos 2021 tarihinde Wayback Machine sitesinde arşivlendi. . Vgorode.ua. (27 Aralık 2012) Novo Milênio: Tempo de Carnaval (5-b) 28 Eylül 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 785,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0007",
+      "section": "== Bağlantılar ==",
+      "heading_path": "== Bağlantılar ==",
+      "start_char": 2702,
+      "end_char": 2749,
+      "content": "== Bağlantılar == Santos: turistik yerler, plaj",
+      "char_count": 47,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bolsa Oficial de Café Coffee Müzesi hangi tarihte arşivlenmiştir?",
+        "answer": "31 Aralık 2013 tarihinde",
+        "related_chunk_ids": [
+          "c0006"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Santos'un bir liman şehri olarak coğrafi konumu ile kahve ticareti merkezi olarak tarihi ekonomik rolü arasında nasıl bir bağlantı kurulabilir?",
+        "answer": "1546 yılında kurulan Santos, São Paulo'nun ana deniz geçidi ve bir liman şehri olması sayesinde, 20. yüzyılın ortalarına kadar Brezilya'nın en büyük kahve ticaret merkezlerinden biri olmuştur. Bu tarihi ekonomik önemi günümüzde Kahve Müzesi ile anılmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

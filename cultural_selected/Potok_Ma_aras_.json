@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "potokmaaras_ee347bb5",
+    "title": "Potok Mağarası",
+    "url": "https://tr.wikipedia.org/wiki/Potok_Ma%C4%9Faras%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:53.339294",
+    "content": "Potok Mağarası (Slovence: Potočka zijalka ya da Potočka zijavka), Slovenya'nın kuzeyinde yer alan ve Üst Paleolitik dönem boyunca Orinyasiyen kültürünün anatomik olarak modern insanları tarafından yaklaşık 35.000 yıl GÖ (günümüzden önce) iskan edilen yüksek rakımlı bir arkeolojik ve paleontolojik bölge ilan edilen bir mağaradır. Mağara adını Podolševa'daki Potok Çiftliği'nden almıştır. Slovence zijalka veya zijavka kelimeleri, uçurumun yüzünde ağzı açık düz tabanlı mağara anlamına gelir. 1928'den 1935'e kadar Sloven arkeolog Srečko Brodar tarafından sistematik kazılar yapıldı. == Konum == Mağara, Slovenya'nın kuzeyindeki doğu Karawanks'ta, Solčava'nın üzerindeki Olševa Dağı'nın güney yamacında, Triyas kireçtaşı oluşumnda 1.675 m (5.495 ft) yükseklikte yer almaktadır. 115 m (377 ft) uzunluğundadır ve ağızda 17 m (56 ft) ve iç kısımda 40 m (130 ft) genişliğindedir. Mağaranın ağzı güneye bakmaktadır. == İşlevi == Mağaranın işlevi hakkında çeşitli açıklamalar bulunmaktadır. Orijinal açıklamaya göre mağara bir av merkeziydi. Yeni açıklamalara göre, bir ritüel alanıydı. == Kazılar == Avusturya'dan bir tıp öğrencisi olan Josef Gross tarafından yapılan amatör kazılardan sonra, bölge Celje Müze Topluluğu tarafından satın alındı. Arkeolog Srečko Brodar tarafından 1928'de başlayıp 1935'e kadar devam eden sistematik kazılar yapıldı. Mağarada ortaya çıkarılan sekiz katmandan elde edilen buluntular arasında mağara ayısı, kurt, Alp marmotu, yabani tavşan, kızıl tilki, gelincik, vaşak, kızıl geyik, engel boynuzlu dağ keçisi ve özellikle de misk sığırına ait kemikler; 123 ok başı, tartışmalı bir kemik flütü ve dünyanın en eski dikiş iğnelerinden biri gösterilebilir. == Sergiler == Mağara yakınlarındaki bir köyde, Logar Vadisi'ndeki Firšt Inn ve Müzesi'nde turistler için kalıcı bir sergi bulunmaktadır. Diğer buluntular Celje Bölge Müzesi'nde görülebilir. Koleksiyonun çoğu II. Dünya Savaşı sırasında, 1945'te Müttefik bombalama baskınları sırasında yok edildi. == Kaynakça == == Dış bağlantılar == Wikimedia Commons'ta Potok Mağarası ile ilgili çoklu ortam belgeleri bulunur",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 282,
+      "char_count": 2088,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.857947",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 584,
+      "content": "Potok Mağarası (Slovence: Potočka zijalka ya da Potočka zijavka), Slovenya'nın kuzeyinde yer alan ve Üst Paleolitik dönem boyunca Orinyasiyen kültürünün anatomik olarak modern insanları tarafından yaklaşık 35.000 yıl GÖ (günümüzden önce) iskan edilen yüksek rakımlı bir arkeolojik ve paleontolojik bölge ilan edilen bir mağaradır. Mağara adını Podolševa'daki Potok Çiftliği'nden almıştır. Slovence zijalka veya zijavka kelimeleri, uçurumun yüzünde ağzı açık düz tabanlı mağara anlamına gelir. 1928'den 1935'e kadar Sloven arkeolog Srečko Brodar tarafından sistematik kazılar yapıldı.",
+      "char_count": 583,
+      "token_estimate": 145
+    },
+    {
+      "id": "c0001",
+      "section": "== Konum ==",
+      "heading_path": "== Konum ==",
+      "start_char": 584,
+      "end_char": 911,
+      "content": "== Konum == Mağara, Slovenya'nın kuzeyindeki doğu Karawanks'ta, Solčava'nın üzerindeki Olševa Dağı'nın güney yamacında, Triyas kireçtaşı oluşumnda 1.675 m (5.495 ft) yükseklikte yer almaktadır. 115 m (377 ft) uzunluğundadır ve ağızda 17 m (56 ft) ve iç kısımda 40 m (130 ft) genişliğindedir. Mağaranın ağzı güneye bakmaktadır.",
+      "char_count": 326,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0002",
+      "section": "== İşlevi ==",
+      "heading_path": "== İşlevi ==",
+      "start_char": 911,
+      "end_char": 1081,
+      "content": "== İşlevi == Mağaranın işlevi hakkında çeşitli açıklamalar bulunmaktadır. Orijinal açıklamaya göre mağara bir av merkeziydi. Yeni açıklamalara göre, bir ritüel alanıydı.",
+      "char_count": 169,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0003",
+      "section": "== Kazılar ==",
+      "heading_path": "== Kazılar ==",
+      "start_char": 1081,
+      "end_char": 1678,
+      "content": "== Kazılar == Avusturya'dan bir tıp öğrencisi olan Josef Gross tarafından yapılan amatör kazılardan sonra, bölge Celje Müze Topluluğu tarafından satın alındı. Arkeolog Srečko Brodar tarafından 1928'de başlayıp 1935'e kadar devam eden sistematik kazılar yapıldı. Mağarada ortaya çıkarılan sekiz katmandan elde edilen buluntular arasında mağara ayısı, kurt, Alp marmotu, yabani tavşan, kızıl tilki, gelincik, vaşak, kızıl geyik, engel boynuzlu dağ keçisi ve özellikle de misk sığırına ait kemikler; 123 ok başı, tartışmalı bir kemik flütü ve dünyanın en eski dikiş iğnelerinden biri gösterilebilir.",
+      "char_count": 596,
+      "token_estimate": 149
+    },
+    {
+      "id": "c0004",
+      "section": "== Sergiler ==",
+      "heading_path": "== Sergiler ==",
+      "start_char": 1678,
+      "end_char": 1975,
+      "content": "== Sergiler == Mağara yakınlarındaki bir köyde, Logar Vadisi'ndeki Firšt Inn ve Müzesi'nde turistler için kalıcı bir sergi bulunmaktadır. Diğer buluntular Celje Bölge Müzesi'nde görülebilir. Koleksiyonun çoğu II. Dünya Savaşı sırasında, 1945'te Müttefik bombalama baskınları sırasında yok edildi.",
+      "char_count": 296,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1990,
+      "end_char": 2088,
+      "content": "== Dış bağlantılar == Wikimedia Commons'ta Potok Mağarası ile ilgili çoklu ortam belgeleri bulunur",
+      "char_count": 98,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Celje Müze Topluluğu tarafından satın alınan bölgede sistematik kazılar hangi yıllar arasında yapılmıştır?",
+        "answer": "1928'den 1935'e kadar.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Potok Mağarası'nın Slovenya'nın kuzeyindeki özel coğrafi konumu, onun Üst Paleolitik dönemde anatomik olarak modern insanlar tarafından iskan edilmiş bir arkeolojik ve paleontolojik alan olarak tanımlanmasında hangi bilgileri sağlar?",
+        "answer": "Potok Mağarası, Slovenya'nın kuzeyindeki doğu Karawanks'ta, Olševa Dağı'nın güney yamacında 1.675 m yükseklikte bir Triyas kireçtaşı oluşumunda yer almaktadır. Bu yüksek rakımlı konumu, yaklaşık 35.000 yıl GÖ Orinyasiyen kültürü döneminde anatomik olarak modern insanlar tarafından iskan edilen yüksek rakımlı bir arkeolojik ve paleontolojik bölge olarak tanımlanmasına katkıda bulunur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

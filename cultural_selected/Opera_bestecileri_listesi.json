@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "operabestecilerilist_dc67593b",
+    "title": "Opera bestecileri listesi",
+    "url": "https://tr.wikipedia.org/wiki/Opera_bestecileri_listesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:08.149995",
+    "content": "Opera bestecileri listesi, opera bestecileri hakkında bilgi sağlamak hedefiyle hazırlanmıştır. Opera konusunda otoriter yazarlar tarafından seçilmiş olan Operalar listesi'nin içeriğine alınan opera eserlerinin opera bestecileri alınıp, bunların sınıflandırılmasından ortaya çıkmıştır. Bu listede bulunan opera bestecileri doğum tarihlerine göre sıralanmışlardır. Bu listedeki her madde opera bestecisinin adını, doğum ve ölüm tarihini, doğumda ve sonraki milliyetini ve önemli eserlerinin prömiyer (veya ilk temsil) tarihlerini ve adlarını vermektedir. Bu liste ancak önde gelen bir grup opera bestecisini kapsamaktadır. Her bir besteci için her eserinin ismi de bu listede bulunmamaktadır. Çok sayıda çok tanınmış opera eseri yazan birkaç önemli opera bestecisinin tüm eserleri veya sadece opera eserleri için özel liste bulunmakta ve bu listenin kullanılması önerilmektedir. Bu listede genellikle opera-evleri tarafından temsil edilen opera janrları bulunmaktadır. Oratoryolar, müzikli oyunlar, müzikli komediler, müzikaller, rock müzikalleri vb müzik içeren diğer görsel sanat eseri bestecileri bu listeye dahil edilmemiştir. Listedeki besteciler doğum yılına göre sıralanmışlardır. Milliyet girdisi karmaşık olduğu hallerde bir dipnotu konulmuştur. Önemli eserlerde önce prömiyer veya ilk temsil yılı; sonra orijinal dildeki adı verilmektedir. Daha sonra gerekirse Türkçeye çeviri adı verilir. Prensip olarak bu maddede fazla eser ismi verilmekten kaçınılmıştır. == 1699 ve daha önce doğumlular == == 1700–1799 arası doğumlular == == 1800–1899 arası doğumlular == == 1900 ve sonra doğumlular == == Milliyetine göre opera bestecileri == == Ölüm yılına göre opera bestecileri == == Ayrıca bakınız == Opera Operalar listesi Opera bestecileri zaman tablosu == Dipnotlar == == Dış bağlantılar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1794,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.044643",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Opera bestecileri listesi, opera bestecileri hakkında bilgi sağlamak hedefiyle hazırlanmıştır. Opera konusunda otoriter yazarlar tarafından seçilmiş olan Operalar listesi'nin içeriğine alınan opera eserlerinin opera bestecileri alınıp, bunların sınıflandırılmasından ortaya çıkmıştır. Bu listede bulunan opera bestecileri doğum tarihlerine göre sıralanmışlardır. Bu listedeki her madde opera bestecisinin adını, doğum ve ölüm tarihini, doğumda ve sonraki milliyetini ve önemli eserlerinin prömiyer (veya ilk temsil) tarihlerini ve adlarını vermektedir. Bu liste ancak önde gelen bir grup opera bestecisini kapsamaktadır. Her bir besteci için her eserinin ismi de bu listede bulunmamaktadır. Çok sayıda çok tanınmış opera eseri yazan birkaç önemli opera bestecisinin tüm eserleri veya sadece opera eserleri için özel liste bulunmakta ve bu listenin kullanılması önerilmektedir. Bu listede genellikle opera-evleri tarafından temsil edilen opera janrları bulunmaktadır. Oratoryolar, müzikli oyunlar, müz",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1466,
+      "content": "rleri için özel liste bulunmakta ve bu listenin kullanılması önerilmektedir. Bu listede genellikle opera-evleri tarafından temsil edilen opera janrları bulunmaktadır. Oratoryolar, müzikli oyunlar, müzikli komediler, müzikaller, rock müzikalleri vb müzik içeren diğer görsel sanat eseri bestecileri bu listeye dahil edilmemiştir. Listedeki besteciler doğum yılına göre sıralanmışlardır. Milliyet girdisi karmaşık olduğu hallerde bir dipnotu konulmuştur. Önemli eserlerde önce prömiyer veya ilk temsil yılı; sonra orijinal dildeki adı verilmektedir. Daha sonra gerekirse Türkçeye çeviri adı verilir. Prensip olarak bu maddede fazla eser ismi verilmekten kaçınılmıştır.",
+      "char_count": 666,
+      "token_estimate": 166
+    },
+    {
+      "id": "c0002",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1681,
+      "end_char": 1757,
+      "content": "== Ayrıca bakınız == Opera Operalar listesi Opera bestecileri zaman tablosu",
+      "char_count": 75,
+      "token_estimate": 18
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Opera bestecileri listesi hangi kritere göre sıralanmıştır?",
+        "answer": "Opera bestecileri doğum tarihlerine göre sıralanmıştır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Opera bestecileri listesine hangi janrlardaki eserlerin bestecileri dahil edilir ve hangi janrlardaki eserlerin bestecileri bu listeye dahil edilmez?",
+        "answer": "Bu listeye genellikle opera-evleri tarafından temsil edilen opera janrlarındaki eserlerin bestecileri dahil edilirken; oratoryolar, müzikli oyunlar, müzikli komediler, müzikaller ve rock müzikalleri gibi müzik içeren diğer görsel sanat eserlerinin bestecileri dahil edilmez.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

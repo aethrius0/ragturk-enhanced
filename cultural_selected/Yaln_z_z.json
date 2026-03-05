@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "yalnzz_81985de4",
+    "title": "Yalnızız",
+    "url": "https://tr.wikipedia.org/wiki/Yaln%C4%B1z%C4%B1z",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:35.173888",
+    "content": "Yalnızız, Peyami Safa'nın Doğu-Batı sentezini konu aldığı romanıdır. İlk olarak Yeni İstanbul gazetesinde 11 Eylül 1950-20 Aralık 1950 tarihleri arasında 286-385 numaralı sayılarda tefrika edildikten sonra 1951 yılında Nebioğlu Yayınevi tarafından 343 sayfa hâlinde yayımlanır. Romanın ilk baskısında \"Prolog\" adlı bir bölüm de bulunur. Daha sonra yazarın isteği doğrultusunda bu bölüm çıkarılır. Roman, doğu-batı, madde-mânâ, ruh-beden, idealizm-materyalizm gibi ikilemler üzerinde durur. == Konusu == Roman, İstanbul'un Yeşilköy semtindeki bir köşkte yaşayan bir ailenin ve çevresindeki karakterlerin hikayesi etrafında şekillenir. Romanın merkezinde yer alan karakter Samim, bilgili, kültürlü ve idealist bir karakterdir; ancak çevresindeki insanların çelişkileri ve modern dünyanın kaosu karşısında yalnızdır. Samim'in hayali ülkesi Simeranya, romanda bir üstkurmaca unsuru olarak öne çıkar. Simeranya, sınıfsız bir toplum, sınırlı mülkiyet ve bireylerin iç huzuru bulduğu bir ütopya olarak tasvir edilir. Bu hayal, Samim'in gerçek dünyadaki huzursuzluklara karşı bir kaçış noktasıdır. == Karakterler == Samim: Orta yaşlı, aydın, kültürlü ve idealist bir bankacı. Simeranya adını verdiği bir ütopyası vardır. Meral ile gönül ilişkileri vardır. Mefharet: Samim ve Besim'in kız kardeşidir. Duygusal, meraklı ve hassas bir kadındır. Besim: Samim'in kardeşi. Yeme-içmeye ve uykuya düşkün, rahatına önem veren bir karakterdir. Selmin: Mefharet'in kızı, özgürlüğüne düşkün bir genç kız. Ferhat ile nişanlıdır. Meral: Selmin'in arkadaşı, Samim'in sevgilisi. Kararsız, maddiyata düşkün ve Paris hayaliyle yaşayan bir genç kadındır. Necile: Meral'in annesi. Ferhat: Selmin'in nişanlısı, Meral'in abisi. Renginaz: Ailenin dadısı. Doğaüstü önsezileri vardır. Nail Bey: Meral ve Ferhat'ın babası. Feriha: Meral'in arkadaşı. Yaşlı ve zengin bir adamla evlenerek Paris'e gittiği için ayıplanmış ve toplumdan dışlanmıştır. == Dizi Uyarlaması == 1992 yılında TRT'de yayınlanan ve kadrosunda Fulden Uras ve Ekrem Bora gibi oyuncuların da bulunduğu bir dizi uyarlaması yapılmıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 273,
+      "char_count": 2082,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.981155",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 490,
+      "content": "Yalnızız, Peyami Safa'nın Doğu-Batı sentezini konu aldığı romanıdır. İlk olarak Yeni İstanbul gazetesinde 11 Eylül 1950-20 Aralık 1950 tarihleri arasında 286-385 numaralı sayılarda tefrika edildikten sonra 1951 yılında Nebioğlu Yayınevi tarafından 343 sayfa hâlinde yayımlanır. Romanın ilk baskısında \"Prolog\" adlı bir bölüm de bulunur. Daha sonra yazarın isteği doğrultusunda bu bölüm çıkarılır. Roman, doğu-batı, madde-mânâ, ruh-beden, idealizm-materyalizm gibi ikilemler üzerinde durur.",
+      "char_count": 489,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 490,
+      "end_char": 1090,
+      "content": "== Konusu == Roman, İstanbul'un Yeşilköy semtindeki bir köşkte yaşayan bir ailenin ve çevresindeki karakterlerin hikayesi etrafında şekillenir. Romanın merkezinde yer alan karakter Samim, bilgili, kültürlü ve idealist bir karakterdir; ancak çevresindeki insanların çelişkileri ve modern dünyanın kaosu karşısında yalnızdır. Samim'in hayali ülkesi Simeranya, romanda bir üstkurmaca unsuru olarak öne çıkar. Simeranya, sınıfsız bir toplum, sınırlı mülkiyet ve bireylerin iç huzuru bulduğu bir ütopya olarak tasvir edilir. Bu hayal, Samim'in gerçek dünyadaki huzursuzluklara karşı bir kaçış noktasıdır.",
+      "char_count": 599,
+      "token_estimate": 149
+    },
+    {
+      "id": "c0002",
+      "section": "== Karakterler ==",
+      "heading_path": "== Karakterler ==",
+      "start_char": 1090,
+      "end_char": 1912,
+      "content": "== Karakterler == Samim: Orta yaşlı, aydın, kültürlü ve idealist bir bankacı. Simeranya adını verdiği bir ütopyası vardır. Meral ile gönül ilişkileri vardır. Mefharet: Samim ve Besim'in kız kardeşidir. Duygusal, meraklı ve hassas bir kadındır. Besim: Samim'in kardeşi. Yeme-içmeye ve uykuya düşkün, rahatına önem veren bir karakterdir. Selmin: Mefharet'in kızı, özgürlüğüne düşkün bir genç kız. Ferhat ile nişanlıdır. Meral: Selmin'in arkadaşı, Samim'in sevgilisi. Kararsız, maddiyata düşkün ve Paris hayaliyle yaşayan bir genç kadındır. Necile: Meral'in annesi. Ferhat: Selmin'in nişanlısı, Meral'in abisi. Renginaz: Ailenin dadısı. Doğaüstü önsezileri vardır. Nail Bey: Meral ve Ferhat'ın babası. Feriha: Meral'in arkadaşı. Yaşlı ve zengin bir adamla evlenerek Paris'e gittiği için ayıplanmış ve toplumdan dışlanmıştır.",
+      "char_count": 821,
+      "token_estimate": 205
+    },
+    {
+      "id": "c0003",
+      "section": "== Dizi Uyarlaması ==",
+      "heading_path": "== Dizi Uyarlaması ==",
+      "start_char": 1912,
+      "end_char": 2068,
+      "content": "== Dizi Uyarlaması == 1992 yılında TRT'de yayınlanan ve kadrosunda Fulden Uras ve Ekrem Bora gibi oyuncuların da bulunduğu bir dizi uyarlaması yapılmıştır.",
+      "char_count": 155,
+      "token_estimate": 38
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Simeranya adını verdiği bir ütopyası olan karakter kimdir?",
+        "answer": "Samim",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Peyami Safa'nın \"Yalnızız\" romanında Doğu-Batı sentezi, madde-mânâ ve idealizm-materyalizm gibi ikilemler, romanın ana karakteri Samim ile çevresindeki diğer karakterler arasında nasıl bir ilişkiyle ortaya konulur?",
+        "answer": "Peyami Safa'nın \"Yalnızız\" romanında Doğu-Batı sentezi, madde-mânâ ve idealizm-materyalizm gibi ikilemler, romanın merkezindeki idealist karakter Samim ve onun ütopyası Simeranya ile çevresindeki karakterlerin zıt özellikleri üzerinden ortaya konulur. Samim, bilgili ve kültürlü bir bankacı olarak idealizmi ve iç huzuru temsil ederken, hayali ülkesi Simeranya ile modern dünyanın kaosuna ve çevresindeki insanların çelişkilerine karşı bir kaçış sunar. Buna karşılık, Samim'in sevgilisi Meral'in kararsızlığı, maddiyata düşkünlüğü ve Paris hayali ile kardeşi Besim'in yeme-içmeye ve rahatına düşkünlüğü, bu ikilemlerin materyalist ve Batılı yönlerini somutlaştırarak, Samim'in yalnızlığını ve idealizminin çevresel çelişkilerle mücadelesini vurgular.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

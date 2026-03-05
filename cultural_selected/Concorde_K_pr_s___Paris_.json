@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "concordekprsparis_0a7dd778",
+    "title": "Concorde Köprüsü (Paris)",
+    "url": "https://tr.wikipedia.org/wiki/Concorde_K%C3%B6pr%C3%BCs%C3%BC_%28Paris%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:56.003183",
+    "content": "Pont de la Concorde, Paris'teki Sen Nehri üzerindeki Concorde Meydanı'ndaki (Rive Droite'deki) Quai des Tuileries'i ve Quai d'Orsay'ı (Rive Gauche'deki) birbirine bağlayan kemerli bir köprüdür. Bourbon Restorasyonu (1814) sırasında daha önce \"Pont Louis XVI\", \"Pont de la Révolution\", \"Pont de la Concorde\", \"Pont Louis XVI\" olarak biliniyordu; 1830 yılında adı tekrar Pont de la Concorde olarak değiştirildi ve isim, bu güne kadar korundu. Köprüye, Assemblée Nationale ve Concorde metro istasyonları hizmet vermektedir. == Yeri == Köprü, Paris'in 7. ve 8. bölgeleri arasındaki sınırda yer almaktadır. Pont Alexandre III ile Passerelle Léopold-Sédar-Senghor köprüleri arasında yer alır. == Tarihi == === Yapı === Mimar Jean-Rodolphe Perronet, 1787 yılında bu yeni köprüyü yapması için görevlendirildi. Bu noktada nehri geçen feribotun yerine \"Louis XV Yeri\"nin (şimdiki adı \"Place de la Concorde\") inşaatının başladığı 1755 yılından beri planlanmıştı. İnşaat, Fransız Devrimi'nin kargaşasının ortasında, yıkılan Bastille'den (14 Temmuz 1789'da zorla alınan) alınan kesme taş duvar işçiliği için kullanılmasıyla devam etti ve 1791'de tamamlandı. === 19. yüzyıl === 1810'da Napolyon Bonapart, Birinci Fransız İmparatorluğu'nun seferleri sırasında savaşta öldürülen sekiz Fransız generalinin heykellerini köprünün kenarlarına yerleştirdi. Bourbon Restorasyonu'nda bunların yerini dört \"büyük bakan\" (Suger, Sully, Richelieu, Colbert), dört kraliyet generali (Du Guesclin, Bayard, Condé, Turenne) ve dört denizci (Duguay- Trouin, Duquesne, Suffren, Tourville) içeren on iki anıtsal mermer heykel aldı. Ancak bu heykel koleksiyonunun köprü için çok ağır olduğu ortaya çıktı ve Louis-Philippe onları kaldırıp Versay Sarayı'na naklettirdi. === 20. - 21. yüzyıllar === Köprüdeki trafik çok sıkışık hale geldi ve 1930 ile 1932 yılları arasında köprünün her iki taraftan da genişletilmesi gerekti, orijinal köprünün genişliği iki katına çıkarıldı. Mühendisler Deval ve Malet yine de orijinalin neoklasik mimarisini korumaya özen gösterdiler. 1983 yılında son kez yenilenmiştir. Bugün bu köprü, Paris'in karayolu trafiğinin yükünü taşımaktadır (Periphérique Bulvarı hariç). == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 292,
+      "char_count": 2177,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.757228",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 521,
+      "content": "Pont de la Concorde, Paris'teki Sen Nehri üzerindeki Concorde Meydanı'ndaki (Rive Droite'deki) Quai des Tuileries'i ve Quai d'Orsay'ı (Rive Gauche'deki) birbirine bağlayan kemerli bir köprüdür. Bourbon Restorasyonu (1814) sırasında daha önce \"Pont Louis XVI\", \"Pont de la Révolution\", \"Pont de la Concorde\", \"Pont Louis XVI\" olarak biliniyordu; 1830 yılında adı tekrar Pont de la Concorde olarak değiştirildi ve isim, bu güne kadar korundu. Köprüye, Assemblée Nationale ve Concorde metro istasyonları hizmet vermektedir.",
+      "char_count": 520,
+      "token_estimate": 130
+    },
+    {
+      "id": "c0001",
+      "section": "== Yeri ==",
+      "heading_path": "== Yeri ==",
+      "start_char": 521,
+      "end_char": 687,
+      "content": "== Yeri == Köprü, Paris'in 7. ve 8. bölgeleri arasındaki sınırda yer almaktadır. Pont Alexandre III ile Passerelle Léopold-Sédar-Senghor köprüleri arasında yer alır.",
+      "char_count": 165,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0002",
+      "section": "=== Yapı ===",
+      "heading_path": "=== Yapı ===",
+      "start_char": 700,
+      "end_char": 1145,
+      "content": "=== Yapı === Mimar Jean-Rodolphe Perronet, 1787 yılında bu yeni köprüyü yapması için görevlendirildi. Bu noktada nehri geçen feribotun yerine \"Louis XV Yeri\"nin (şimdiki adı \"Place de la Concorde\") inşaatının başladığı 1755 yılından beri planlanmıştı. İnşaat, Fransız Devrimi'nin kargaşasının ortasında, yıkılan Bastille'den (14 Temmuz 1789'da zorla alınan) alınan kesme taş duvar işçiliği için kullanılmasıyla devam etti ve 1791'de tamamlandı.",
+      "char_count": 444,
+      "token_estimate": 111
+    },
+    {
+      "id": "c0003",
+      "section": "=== 19. yüzyıl ===",
+      "heading_path": "=== 19. yüzyıl ===",
+      "start_char": 1145,
+      "end_char": 1733,
+      "content": "=== 19. yüzyıl === 1810'da Napolyon Bonapart, Birinci Fransız İmparatorluğu'nun seferleri sırasında savaşta öldürülen sekiz Fransız generalinin heykellerini köprünün kenarlarına yerleştirdi. Bourbon Restorasyonu'nda bunların yerini dört \"büyük bakan\" (Suger, Sully, Richelieu, Colbert), dört kraliyet generali (Du Guesclin, Bayard, Condé, Turenne) ve dört denizci (Duguay- Trouin, Duquesne, Suffren, Tourville) içeren on iki anıtsal mermer heykel aldı. Ancak bu heykel koleksiyonunun köprü için çok ağır olduğu ortaya çıktı ve Louis-Philippe onları kaldırıp Versay Sarayı'na naklettirdi.",
+      "char_count": 587,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0004",
+      "section": "=== 20. - 21. yüzyıllar ===",
+      "heading_path": "=== 20. - 21. yüzyıllar ===",
+      "start_char": 1733,
+      "end_char": 2163,
+      "content": "=== 20. - 21. yüzyıllar === Köprüdeki trafik çok sıkışık hale geldi ve 1930 ile 1932 yılları arasında köprünün her iki taraftan da genişletilmesi gerekti, orijinal köprünün genişliği iki katına çıkarıldı. Mühendisler Deval ve Malet yine de orijinalin neoklasik mimarisini korumaya özen gösterdiler. 1983 yılında son kez yenilenmiştir. Bugün bu köprü, Paris'in karayolu trafiğinin yükünü taşımaktadır (Periphérique Bulvarı hariç).",
+      "char_count": 429,
+      "token_estimate": 107
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bourbon Restorasyonu sırasında Napolyon Bonapart'ın heykellerinin yerini ne aldı?",
+        "answer": "Dört büyük bakan (Suger, Sully, Richelieu, Colbert), dört kraliyet generali (Du Guesclin, Bayard, Condé, Turenne) ve dört denizci (Duguay-Trouin, Duquesne, Suffren, Tourville) içeren on iki anıtsal mermer heykel.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Pont de la Concorde, Paris'in hangi idari bölgeleri arasındaki sınırı oluşturur ve şehirde belirli quaisleri hangi meydanda birbirine bağlar?",
+        "answer": "Pont de la Concorde, Paris'in 7. ve 8. bölgeleri arasındaki sınırda yer alır ve Concorde Meydanı'ndaki Quai des Tuileries'i (Rive Droite) ile Quai d'Orsay'ı (Rive Gauche) birbirine bağlar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

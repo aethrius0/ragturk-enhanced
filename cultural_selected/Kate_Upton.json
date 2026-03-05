@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "kateupton_4474abbe",
+    "title": "Kate Upton",
+    "url": "https://tr.wikipedia.org/wiki/Kate_Upton",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:28.046957",
+    "content": "Katherine Elizabeth Upton (doğum 10 Haziran 1992), Alman asıllı Amerikalı model ve oyuncudur. Magazin dünyasında ilk kez 2011'de Sports Illustrated Swimsuit Issue dergisinde ortaya çıktı. Yine bu derginin 2012, 2013 ve 2017 sayılarında kapak modeli oldu. Ayrıca Vanity Fair dergisinin 100. yıl dönümünde kapak olmayı da başardı. Upton, oyuncu olarak ise Tower Heist (2011), The Other Woman (2014) ve The Layover (2017) filmlerinde yer aldı. == Kişisel hayatı == Kate Upton, 10 Haziran 1992 tarihinde St. Joseph, Michigan, Amerika Birleşik Devletleri'nde doğdu. Doğum adı Katherine Elizabeth Upton'dır. İkizler burcudur. Dini Hristiyanlık'tır. Hristiyanlığın ve tanrı inancının kendisi için önemli bir yere sahip olduğunu söyler. Öyle ki; bir fotoğraf çekiminde, kendisine \"Sanki çok inançlıymış gibi neden bir haç takıyorsun?\" şeklinde şakayla takılıp boynundan haç kolyesini çıkaran ve çekimini bu şekilde tamamlayan fotoğrafçı için \"Bu olaydan çok etkilendim. Tüm bu olanlar bana, yanımda her zaman bir haç taşımak istediğimi fark ettirdi.\" demiştir. Bu olay sonucunda ise Upton, orta parmağının işaret parmağına bakan iç kısmına küçük bir haç dövmesi yaptırmıştır. Babası Jefferson Upton, annesi Shelley Upton'dır. Annesi eski bir tenisçidir. Babası ise bir lisede spor öğretmenidir. 3 kardeşi vardır. Büyükbabası Frederick Upton, Whirlpool Corporation'ın kurucularındandır. Amcası olan Fred Upton, ABD, Michigan 6. kongre bölge temsilcisidir. 2014 yılının Eylül ayında, Upton ve birkaç ünlü kadının, çıplak fotoğrafları yasadışı olarak (hack) ele geçirildi ve internete servis edildi. 2014'ün başlarında Detroit Tigers takımında beyzbol oyuncusu olan Justin Verlander ile aşk yaşamaya başladı. 2016'da nişanlandılar. 4 Kasım 2017'de Toskana, İtalya'da evlendiler. 7 Kasım 2018 tarihinde Genevieve isminde bir kızları olmuştur. 2020'den itibaren ise Harley adını verdiği Boksör cinsi bir köpeği vardır. Küçük yaşlardan beri ileride bir model olacağına emin olan Upton'ın biniciliği ve atları çok sevdiği de biliniyor. El bileğinde küçük bir at nalı dövmesi ve binicilik yarışmalarında dereceleri vardır. == Galeri == == Kariyeri == 2008 yılında, Miami Elite Model Management ile anlaşma imzaladı. Daha sonra New York'a taşınan Upton, IMG Models'e katıldı. İlk mankenliklerini Garage ve Dooney & Bourke‘de yaptı. 2010′da Guess‘in yeni yüzü oldu. 2011 yılında Sports Illustrated Swimsuit Issue dergisinde yılın çaylağı seçildi ve daha sonra 2012′de derginin kapak kızı oldu. O günden günümüze Beach Bunny ve Victoria's Secret için mankenlik yapmaya başladı. Ayrıca Haziran 2011′de Esquire dergisi tarafından “Yazın Kadını” seçildi. 2011 Nisan ayında yayınlanan bir internet videosu (Dougie) ile birden popülaritesini artırdı. 30 Nisan 2012′de Terry Richardson'un Cat Daddy adlı videosunda yer alıp büyük ilgi topladı. == Filmografi == === Film === === Televizyon === === Müzik videoları === == Kaynakça == == Dış bağlantılar == Resmî site IMDb'de Kate Upton Gribilge.com'da Kate Upton 30 Haziran 2012 tarihinde Wayback Machine sitesinde arşivlendi. adlı yazı Fashion Model Directory'de Kate Upton (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 438,
+      "char_count": 3109,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.127580",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 441,
+      "content": "Katherine Elizabeth Upton (doğum 10 Haziran 1992), Alman asıllı Amerikalı model ve oyuncudur. Magazin dünyasında ilk kez 2011'de Sports Illustrated Swimsuit Issue dergisinde ortaya çıktı. Yine bu derginin 2012, 2013 ve 2017 sayılarında kapak modeli oldu. Ayrıca Vanity Fair dergisinin 100. yıl dönümünde kapak olmayı da başardı. Upton, oyuncu olarak ise Tower Heist (2011), The Other Woman (2014) ve The Layover (2017) filmlerinde yer aldı.",
+      "char_count": 440,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0001",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 441,
+      "end_char": 1441,
+      "content": "== Kişisel hayatı == Kate Upton, 10 Haziran 1992 tarihinde St. Joseph, Michigan, Amerika Birleşik Devletleri'nde doğdu. Doğum adı Katherine Elizabeth Upton'dır. İkizler burcudur. Dini Hristiyanlık'tır. Hristiyanlığın ve tanrı inancının kendisi için önemli bir yere sahip olduğunu söyler. Öyle ki; bir fotoğraf çekiminde, kendisine \"Sanki çok inançlıymış gibi neden bir haç takıyorsun?\" şeklinde şakayla takılıp boynundan haç kolyesini çıkaran ve çekimini bu şekilde tamamlayan fotoğrafçı için \"Bu olaydan çok etkilendim. Tüm bu olanlar bana, yanımda her zaman bir haç taşımak istediğimi fark ettirdi.\" demiştir. Bu olay sonucunda ise Upton, orta parmağının işaret parmağına bakan iç kısmına küçük bir haç dövmesi yaptırmıştır. Babası Jefferson Upton, annesi Shelley Upton'dır. Annesi eski bir tenisçidir. Babası ise bir lisede spor öğretmenidir. 3 kardeşi vardır. Büyükbabası Frederick Upton, Whirlpool Corporation'ın kurucularındandır. Amcası olan Fred Upton, ABD, Michigan 6. kongre bölge temsilcis",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 1241,
+      "end_char": 2106,
+      "content": "dir. Babası ise bir lisede spor öğretmenidir. 3 kardeşi vardır. Büyükbabası Frederick Upton, Whirlpool Corporation'ın kurucularındandır. Amcası olan Fred Upton, ABD, Michigan 6. kongre bölge temsilcisidir. 2014 yılının Eylül ayında, Upton ve birkaç ünlü kadının, çıplak fotoğrafları yasadışı olarak (hack) ele geçirildi ve internete servis edildi. 2014'ün başlarında Detroit Tigers takımında beyzbol oyuncusu olan Justin Verlander ile aşk yaşamaya başladı. 2016'da nişanlandılar. 4 Kasım 2017'de Toskana, İtalya'da evlendiler. 7 Kasım 2018 tarihinde Genevieve isminde bir kızları olmuştur. 2020'den itibaren ise Harley adını verdiği Boksör cinsi bir köpeği vardır. Küçük yaşlardan beri ileride bir model olacağına emin olan Upton'ın biniciliği ve atları çok sevdiği de biliniyor. El bileğinde küçük bir at nalı dövmesi ve binicilik yarışmalarında dereceleri vardır.",
+      "char_count": 865,
+      "token_estimate": 216
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 2120,
+      "end_char": 2819,
+      "content": "== Kariyeri == 2008 yılında, Miami Elite Model Management ile anlaşma imzaladı. Daha sonra New York'a taşınan Upton, IMG Models'e katıldı. İlk mankenliklerini Garage ve Dooney & Bourke‘de yaptı. 2010′da Guess‘in yeni yüzü oldu. 2011 yılında Sports Illustrated Swimsuit Issue dergisinde yılın çaylağı seçildi ve daha sonra 2012′de derginin kapak kızı oldu. O günden günümüze Beach Bunny ve Victoria's Secret için mankenlik yapmaya başladı. Ayrıca Haziran 2011′de Esquire dergisi tarafından “Yazın Kadını” seçildi. 2011 Nisan ayında yayınlanan bir internet videosu (Dougie) ile birden popülaritesini artırdı. 30 Nisan 2012′de Terry Richardson'un Cat Daddy adlı videosunda yer alıp büyük ilgi topladı.",
+      "char_count": 698,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2907,
+      "end_char": 3109,
+      "content": "== Dış bağlantılar == Resmî site IMDb'de Kate Upton Gribilge.com'da Kate Upton 30 Haziran 2012 tarihinde Wayback Machine sitesinde arşivlendi. adlı yazı Fashion Model Directory'de Kate Upton (İngilizce)",
+      "char_count": 202,
+      "token_estimate": 50
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kate Upton'ın doğum tarihi ve yeri nedir?",
+        "answer": "10 Haziran 1992 tarihinde St. Joseph, Michigan, Amerika Birleşik Devletleri'nde doğdu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kate Upton'ın kamuoyundaki imajını ve kişisel yaşamını şekillendiren temel özellikler ve deneyimler nelerdir?",
+        "answer": "Kate Upton, Sports Illustrated ve Vanity Fair gibi dergilerin kapak modeli olması ve Tower Heist, The Other Woman gibi filmlerde rol almasıyla tanınan bir model ve oyuncudur. Kişisel hayatında, Hristiyanlık inancının kendisi için önemli bir yere sahip olduğunu belirtir ve bunu bir haç dövmesiyle sembolize eder. Ayrıca, ailesi içinde Whirlpool Corporation'ın kurucularından büyükbabası ve ABD kongre bölge temsilcisi olan amcası gibi tanınmış kişiler bulunmaktadır. Beyzbol oyuncusu Justin Verlander ile evli olup bir kız çocuk annesidir. Atlara ve biniciliğe olan düşkünlüğü bir at nalı dövmesiyle gösterilmiştir ve 2014 yılında fotoğraflarının yasadışı olarak ele geçirilmesi gibi zorlu deneyimler de yaşamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

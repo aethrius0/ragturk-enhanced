@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "rosalindchao_64e7d904",
+    "title": "Rosalind Chao",
+    "url": "https://tr.wikipedia.org/wiki/Rosalind_Chao",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:26.439188",
+    "content": "Rosalind Chao (Çince (basitleştirilmiş): 赵家玲; Çince (geleneksel): 趙家玲; pinyin: Zhào Jiālíng, d. 23 Eylül 1957), Çin asıllı Amerikalı oyuncudur. M*A*S*H ve Uzay Yolu gibi dizilerde aldığı rollerle bilinir. Güney Kaliforniya Üniversitesi mezunudur. == Filmografi == === Televizyon === Mysterious Island of Beautiful Women (1979) Diff'rent Strokes (1982) Moonlight (1982) AfterMASH (1983-1985) Şahin Tepesi (1986) American Playhouse (1986) - Uzay Yolu: Yeni Nesil (1991-1992) Uzay Yolu: Derin Uzay Dokuz (1993-1999) Acil Servis (1999) Citizen Baines (2001) The O.C. (2003) Tell Me You Love Me (2007) Don't Trust the B---- in Apartment 23 (2012) Bones (2012) === Sinema === The Ultimate Imposter (1979) Büyük Kavga (1980) Göze Göz (1981) The Harlem Globetrotters on Gilligan's Island (1981) Twirl (1981) The Terry Fox Story (1983) Slam Dance (1987) White Ghost (1988) Denial (1991) A Thousand Pieces of Gold (1991) Intruders (1992) Görünmeyen Adamın Maceraları (1992) The Joy Luck Club (1993) Web of Deception (1994) Love Affair (1994) North (1994) To Love, Honor and Deceive (1996) The End of Violence (1997) Aşkın Gücü (1998) Three Blind Mice (2001) Enemies of Laughter (2000) Benim Adım Sam (2001) Çılgın Cuma (2003) Life of the Party (2005) Cennet Gibi (2005) Nanking (2007) The Rising Tide (2009) Stockholm, Pennsylvania (2015) Tragedy Girls (2017) Plus One (2019) The Laundromat (2019) Mulan (2020) Magic Camp (2020) == Kaynakça == == Dış bağlantılar == IMDb'de Rosalind Chao",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 225,
+      "char_count": 1477,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.590157",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 247,
+      "content": "Rosalind Chao (Çince (basitleştirilmiş): 赵家玲; Çince (geleneksel): 趙家玲; pinyin: Zhào Jiālíng, d. 23 Eylül 1957), Çin asıllı Amerikalı oyuncudur. M*A*S*H ve Uzay Yolu gibi dizilerde aldığı rollerle bilinir. Güney Kaliforniya Üniversitesi mezunudur.",
+      "char_count": 246,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0001",
+      "section": "=== Televizyon ===",
+      "heading_path": "=== Televizyon ===",
+      "start_char": 264,
+      "end_char": 655,
+      "content": "=== Televizyon === Mysterious Island of Beautiful Women (1979) Diff'rent Strokes (1982) Moonlight (1982) AfterMASH (1983-1985) Şahin Tepesi (1986) American Playhouse (1986) - Uzay Yolu: Yeni Nesil (1991-1992) Uzay Yolu: Derin Uzay Dokuz (1993-1999) Acil Servis (1999) Citizen Baines (2001) The O.C. (2003) Tell Me You Love Me (2007) Don't Trust the B---- in Apartment 23 (2012) Bones (2012)",
+      "char_count": 390,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0002",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 655,
+      "end_char": 1419,
+      "content": "=== Sinema === The Ultimate Imposter (1979) Büyük Kavga (1980) Göze Göz (1981) The Harlem Globetrotters on Gilligan's Island (1981) Twirl (1981) The Terry Fox Story (1983) Slam Dance (1987) White Ghost (1988) Denial (1991) A Thousand Pieces of Gold (1991) Intruders (1992) Görünmeyen Adamın Maceraları (1992) The Joy Luck Club (1993) Web of Deception (1994) Love Affair (1994) North (1994) To Love, Honor and Deceive (1996) The End of Violence (1997) Aşkın Gücü (1998) Three Blind Mice (2001) Enemies of Laughter (2000) Benim Adım Sam (2001) Çılgın Cuma (2003) Life of the Party (2005) Cennet Gibi (2005) Nanking (2007) The Rising Tide (2009) Stockholm, Pennsylvania (2015) Tragedy Girls (2017) Plus One (2019) The Laundromat (2019) Mulan (2020) Magic Camp (2020)",
+      "char_count": 763,
+      "token_estimate": 190
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1434,
+      "end_char": 1477,
+      "content": "== Dış bağlantılar == IMDb'de Rosalind Chao",
+      "char_count": 43,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "The Ultimate Imposter filmi hangi yıl gösterime girmiştir?",
+        "answer": "1979",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rosalind Chao'nun televizyon ve sinema alanlarındaki kariyerinde öne çıkan bazı yapımlar hangileridir?",
+        "answer": "Rosalind Chao, televizyon kariyerinde özellikle M*A*S*H dizisi ve Uzay Yolu: Yeni Nesil ile Uzay Yolu: Derin Uzay Dokuz gibi Uzay Yolu serilerindeki rolleriyle tanınır. Sinema alanında ise Büyük Kavga, The Joy Luck Club, Benim Adım Sam ve Mulan gibi filmlerde rol almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

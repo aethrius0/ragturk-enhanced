@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "josipbelui_2b16b2da",
+    "title": "Josip Belušić",
+    "url": "https://tr.wikipedia.org/wiki/Josip_Belu%C5%A1i%C4%87",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:10.552033",
+    "content": "Josip Belušić (12 Mart 1847, Labin - 8 Ocak 1905, Trieste), Avusturya İmparatorluğu'nda doğmuş bir Hırvat mucit ve fizik ve matematik profesörüdür. Avusturya İmparatorluğu döneminde şu anki Hırvatistan topraklarında doğan Belušić, Pazin ve Koper arasında eğitim gördü. Doğa bilimlerine olan yeteneğini ilk fark edenler Pazin'in pastörleri oldu. Öğrenimini Viyana'da tamamladı ve Trieste yakınlarındaki Koper ve Castelnuovo'da öğretmenlik yaptı. Belušić, 1887 ve 1889'da Istria ve Trieste arasında iki deney gerçekleştirdikten sonra, 1888'de patenti aldığı ve 1889'da Paris'teki Evrensel Sergi sırasında dünyaya sunduğu hızölçeri icat etmesiyle hatırlanıyor. Belušić'in buluşu aynı zamanda tarihteki ilk izleme cihazıydı ve bugün kamyonlarda, otobüslerde ve taksilerde kullanılan izleme cihazlarının öncüsü oldu. Bu nedenle, Belušić aynı zamanda modern izleme gözetim cihazlarının babası olarak kabul edilir. == Biyografi == Belušić, Istria'da Labin yakınlarında doğdu ve eski Avusturya İmparatorluğu'nun sınırında bir köy olan küçük Županići kasabasında büyüdü. İmparatorluk Okulu'nda Koper'de ve daha sonra Viyana'da öğretmendi. Belušić, buluşunu Eyfel Kulesi'nin sunulduğu 1889 Paris'teki Evrensel Sergide sundu. Belušić cihazına orijinal olarak \"Hız Göstergesi\" adını verdi. Bununla birlikte, Paris'te sunduğu zaman \"Controllore automatico per vetture\" adını verdi. Paris'teki Evrensel Sergi yılında, Fransız başkenti komünü, yerel ulaşım hizmetlerini izlemek için en iyi cihazın seçimi için bir yarışma duyurdu ve Belušić'in hız göstergesi, en doğru cihaz olduğu için seçildi. Haziran 1890'da Fransız Mucitler Akademisi, Belušić'i övdü ve ona bir diploma ve altın madalya verdi ve aynı zamanda onu onursal üye ilan etti. Belušić'in cihazı hızı, yolculuk süresini, yolcu sayısını ve yolcuların kalkış ve varış saatlerini ölçtü. 8 Ocak 1905'te Trieste'de ölen mucide ne olduğu bilinmemektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 253,
+      "char_count": 1910,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.320658",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 908,
+      "content": "Josip Belušić (12 Mart 1847, Labin - 8 Ocak 1905, Trieste), Avusturya İmparatorluğu'nda doğmuş bir Hırvat mucit ve fizik ve matematik profesörüdür. Avusturya İmparatorluğu döneminde şu anki Hırvatistan topraklarında doğan Belušić, Pazin ve Koper arasında eğitim gördü. Doğa bilimlerine olan yeteneğini ilk fark edenler Pazin'in pastörleri oldu. Öğrenimini Viyana'da tamamladı ve Trieste yakınlarındaki Koper ve Castelnuovo'da öğretmenlik yaptı. Belušić, 1887 ve 1889'da Istria ve Trieste arasında iki deney gerçekleştirdikten sonra, 1888'de patenti aldığı ve 1889'da Paris'teki Evrensel Sergi sırasında dünyaya sunduğu hızölçeri icat etmesiyle hatırlanıyor. Belušić'in buluşu aynı zamanda tarihteki ilk izleme cihazıydı ve bugün kamyonlarda, otobüslerde ve taksilerde kullanılan izleme cihazlarının öncüsü oldu. Bu nedenle, Belušić aynı zamanda modern izleme gözetim cihazlarının babası olarak kabul edilir.",
+      "char_count": 907,
+      "token_estimate": 226
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 908,
+      "end_char": 1896,
+      "content": "== Biyografi == Belušić, Istria'da Labin yakınlarında doğdu ve eski Avusturya İmparatorluğu'nun sınırında bir köy olan küçük Županići kasabasında büyüdü. İmparatorluk Okulu'nda Koper'de ve daha sonra Viyana'da öğretmendi. Belušić, buluşunu Eyfel Kulesi'nin sunulduğu 1889 Paris'teki Evrensel Sergide sundu. Belušić cihazına orijinal olarak \"Hız Göstergesi\" adını verdi. Bununla birlikte, Paris'te sunduğu zaman \"Controllore automatico per vetture\" adını verdi. Paris'teki Evrensel Sergi yılında, Fransız başkenti komünü, yerel ulaşım hizmetlerini izlemek için en iyi cihazın seçimi için bir yarışma duyurdu ve Belušić'in hız göstergesi, en doğru cihaz olduğu için seçildi. Haziran 1890'da Fransız Mucitler Akademisi, Belušić'i övdü ve ona bir diploma ve altın madalya verdi ve aynı zamanda onu onursal üye ilan etti. Belušić'in cihazı hızı, yolculuk süresini, yolcu sayısını ve yolcuların kalkış ve varış saatlerini ölçtü. 8 Ocak 1905'te Trieste'de ölen mucide ne olduğu bilinmemektedir.",
+      "char_count": 987,
+      "token_estimate": 246
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Belušić, icat ettiği cihaza başlangıçta ne ad verdi?",
+        "answer": "Hız Göstergesi",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Josip Belušić'in 1889 Paris Evrensel Sergisi'nde tanıttığı cihazın aldığı uluslararası tanınma, onun modern izleme cihazlarının babası olarak kabul edilmesinde nasıl bir rol oynamıştır?",
+        "answer": "Belušić'in cihazı, Paris komünü tarafından yerel ulaşım hizmetlerini izlemek için en doğru cihaz olarak seçilmiş ve Fransız Mucitler Akademisi ona bir diploma ve altın madalya vererek onu onursal üye ilan etmiştir. Bu uluslararası tanınma, hız, yolculuk süresi, yolcu sayısı ve kalkış/varış saatleri gibi bilgileri ölçen bu buluşun tarihteki ilk izleme cihazı olarak kabul edilmesini sağlamış ve onu modern izleme gözetim cihazlarının öncüsü yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

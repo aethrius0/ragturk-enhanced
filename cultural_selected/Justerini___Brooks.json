@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "justerinibrooks_5844897f",
+    "title": "Justerini & Brooks",
+    "url": "https://tr.wikipedia.org/wiki/Justerini_%26_Brooks",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:14.435679",
+    "content": "Justerini & Brooks Ltd., 1749'da St. James'de kurulan kaliteli bir şarap ve içki ticarethanesidir ve başlangıçta Londra'nın aristokrat hanelerine şarap ve içki sağlamak için kurulmuştur. Şirket, Kral George III'ün 1761'deki taç giyme töreninden bu yana İngiliz monarşisine tedarikçi olmuştur. Birleşik Krallık genelindeki özel koleksiyonculara, otellere ve restoranlara satış yapmaktadır. Justerini & Brooks, çok uluslu Diageo'ya aittir. == Tarihçe == Justerini ve Brooks, 1749 yılında bir damıtıcının oğlu olan Bologna'lı Giacomo Justerini ve İngiliz yatırımcı George Johnson tarafından kuruldu. Birlikte, şarap ticarethanesi Johnson & Justerini'yi kurdular. 1760 yılında Justerini, işi Johnson'a sattıktan sonra memleketine döndü. Johnson, torunu Augustus'u ortak olarak Bordeaux, Cadiz, Mayence, Reims, Cenova, Dijon ve Palermo'dan gelen Avrupalı tedarikçilerle ilişkiler kurarak işi büyütmeye devam etti. Şirket, ertesi yıl Kral III. George'dan ilk Kraliyet Emrini aldı. 1831'de Johnson ailesi işletmedeki hissesini Alfred Brooks'a sattı. Şirket Justerini & Brooks olarak yeniden adlandırıldı ve genel merkezi Regent's Park'ta kuruldu. New York ofisi 1866'da açıldı. Bugün şirketin dört ofisi var: St James's Street'teki merkez ofis, Londra'nın Golden Square'indeki başka bir ofis ve Edinburgh ve Hong Kong'daki satış ofisleri. Justerini & Brooks ayrıca Wiltshire'daki dev, otuz dönümlük yüksek güvenlikli bir mahzen olan Octavian Vaults'un da ana kullanıcısıdır. Şirket, Bordeaux, Hong Kong ve Hertfordshire'da üç mahzen deposu daha işletmektedir. == Şarap ve alkollü içkiler == Justerini & Brooks, Burgonya, Barolo ve Almanya'dan gelen kaliteli şarap seçkileriyle tanınır. Ayrıca, tek malt Knockando, Auchroisk ve Glen Spey dahil olmak üzere kırk iki malt ve tahıl viskisinin bir karışımı olan J&B Rare viskileriyle de tanınırlar. == Popüler kültürde == 1970'ler boyunca, J&B viski şişeleri, İtalyan poliziotteschi, commedia sexy all'italiana ve özellikle giallo filmlerinde sofistikelik ve erkekliğin bir göstergesi olarak dikkat çekici bir düzenlilikle ortaya çıktı; muhtemelen markanın İtalyan-Amerikan ünlüler Frank Sinatra ve Dean Martin arasındaki popülerliğinden etkilenmişti. J&B viskisi, 1982 yapımı John Carpenter filmi The Thing'de Kurt Russell tarafından canlandırılan R.J. Mac Ready'nin tercih ettiği içkidir ve film boyunca birkaç kez içerken gösterilir. 1987 yapımı Moonstruck filminde Ronny, Loretta'nın kendisinden bir bardak viski istemesinin ardından, Loretta ile evinde bir şişe J&B viskisi paylaşır. Bret Easton Ellis'in yazdığı Amerikan Sapığı adlı romanda, başkarakter Patrick Bateman, J&B'nin alışkanlık haline gelmiş bir içicisidir. == Ayrıca bakınız == Diageo Harman viski Resmi web sitesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 365,
+      "char_count": 2736,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.349726",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 438,
+      "content": "Justerini & Brooks Ltd., 1749'da St. James'de kurulan kaliteli bir şarap ve içki ticarethanesidir ve başlangıçta Londra'nın aristokrat hanelerine şarap ve içki sağlamak için kurulmuştur. Şirket, Kral George III'ün 1761'deki taç giyme töreninden bu yana İngiliz monarşisine tedarikçi olmuştur. Birleşik Krallık genelindeki özel koleksiyonculara, otellere ve restoranlara satış yapmaktadır. Justerini & Brooks, çok uluslu Diageo'ya aittir.",
+      "char_count": 437,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 438,
+      "end_char": 1438,
+      "content": "== Tarihçe == Justerini ve Brooks, 1749 yılında bir damıtıcının oğlu olan Bologna'lı Giacomo Justerini ve İngiliz yatırımcı George Johnson tarafından kuruldu. Birlikte, şarap ticarethanesi Johnson & Justerini'yi kurdular. 1760 yılında Justerini, işi Johnson'a sattıktan sonra memleketine döndü. Johnson, torunu Augustus'u ortak olarak Bordeaux, Cadiz, Mayence, Reims, Cenova, Dijon ve Palermo'dan gelen Avrupalı tedarikçilerle ilişkiler kurarak işi büyütmeye devam etti. Şirket, ertesi yıl Kral III. George'dan ilk Kraliyet Emrini aldı. 1831'de Johnson ailesi işletmedeki hissesini Alfred Brooks'a sattı. Şirket Justerini & Brooks olarak yeniden adlandırıldı ve genel merkezi Regent's Park'ta kuruldu. New York ofisi 1866'da açıldı. Bugün şirketin dört ofisi var: St James's Street'teki merkez ofis, Londra'nın Golden Square'indeki başka bir ofis ve Edinburgh ve Hong Kong'daki satış ofisleri. Justerini & Brooks ayrıca Wiltshire'daki dev, otuz dönümlük yüksek güvenlikli bir mahzen olan Octavian Vau",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1238,
+      "end_char": 1552,
+      "content": "Londra'nın Golden Square'indeki başka bir ofis ve Edinburgh ve Hong Kong'daki satış ofisleri. Justerini & Brooks ayrıca Wiltshire'daki dev, otuz dönümlük yüksek güvenlikli bir mahzen olan Octavian Vaults'un da ana kullanıcısıdır. Şirket, Bordeaux, Hong Kong ve Hertfordshire'da üç mahzen deposu daha işletmektedir.",
+      "char_count": 314,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0003",
+      "section": "== Şarap ve alkollü içkiler ==",
+      "heading_path": "== Şarap ve alkollü içkiler ==",
+      "start_char": 1553,
+      "end_char": 1837,
+      "content": "== Şarap ve alkollü içkiler == Justerini & Brooks, Burgonya, Barolo ve Almanya'dan gelen kaliteli şarap seçkileriyle tanınır. Ayrıca, tek malt Knockando, Auchroisk ve Glen Spey dahil olmak üzere kırk iki malt ve tahıl viskisinin bir karışımı olan J&B Rare viskileriyle de tanınırlar.",
+      "char_count": 283,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0004",
+      "section": "== Popüler kültürde ==",
+      "heading_path": "== Popüler kültürde ==",
+      "start_char": 1837,
+      "end_char": 2664,
+      "content": "== Popüler kültürde == 1970'ler boyunca, J&B viski şişeleri, İtalyan poliziotteschi, commedia sexy all'italiana ve özellikle giallo filmlerinde sofistikelik ve erkekliğin bir göstergesi olarak dikkat çekici bir düzenlilikle ortaya çıktı; muhtemelen markanın İtalyan-Amerikan ünlüler Frank Sinatra ve Dean Martin arasındaki popülerliğinden etkilenmişti. J&B viskisi, 1982 yapımı John Carpenter filmi The Thing'de Kurt Russell tarafından canlandırılan R.J. Mac Ready'nin tercih ettiği içkidir ve film boyunca birkaç kez içerken gösterilir. 1987 yapımı Moonstruck filminde Ronny, Loretta'nın kendisinden bir bardak viski istemesinin ardından, Loretta ile evinde bir şişe J&B viskisi paylaşır. Bret Easton Ellis'in yazdığı Amerikan Sapığı adlı romanda, başkarakter Patrick Bateman, J&B'nin alışkanlık haline gelmiş bir içicisidir.",
+      "char_count": 826,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2664,
+      "end_char": 2722,
+      "content": "== Ayrıca bakınız == Diageo Harman viski Resmi web sitesi",
+      "char_count": 57,
+      "token_estimate": 14
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Justerini ve Brooks şirketi hangi yıl kuruldu?",
+        "answer": "1749 yılında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Justerini & Brooks'un ilk kuruluşundan Kraliyet Emri alana ve bugünkü adını alana kadar geçen süreçte şirket ismi ve kraliyetle olan ilişkisi nasıl değişmiştir?",
+        "answer": "Justerini & Brooks, 1749 yılında Giacomo Justerini ve George Johnson tarafından Johnson & Justerini adıyla kurulmuştur. Şirket, Kral III. George'dan ilk Kraliyet Emrini 1761'deki taç giyme töreninden sonra alarak İngiliz monarşisinin tedarikçisi olmuştur. 1831 yılında Johnson ailesi hisselerini Alfred Brooks'a sattığında, şirketin adı Justerini & Brooks olarak yeniden adlandırılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

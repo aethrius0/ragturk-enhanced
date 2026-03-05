@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "sibernetik_398e7f53",
+    "title": "Sibernetik",
+    "url": "https://tr.wikipedia.org/wiki/Sibernetik",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:27.377986",
+    "content": "Sibernetik (Yunanca kybernétes: \"dümenci\") veya güdüm bilimi; canlı ve cansız tüm karmaşık sistemlerin denetlenmesi ve yönetilmesini inceleyen bilim dalıdır. Sibernetik, düzenli sistemlerin, bu sistemlerin yapılarının, limitlerinin ve sistemin imkânlarının araştırılmasına ilişkin disiplinlerarası bir yaklaşımı içerir. Sibernetiğin konu aldığı sistemler mekanik, fiziksel, biyolojik, düşünsel ve sosyal olabilir. Sibernetik yaklaşım eylemin çevresinde yol açtığı değişimlerin sistem içinde geribildirim yolu ile yansıtıldığı, kapalı sinyal döngüsü içeren sistemlere uygulanır. Sibernetik sistemlerin geribildirimler sayesinde değişime uğraması, “dairesel nedensellik” ilişkisi olarak tanımlanır. Sibernetiğin ele aldığı kavramlar arasında öğrenme, bilişsellik, sosyal kontrol, belirme, iletişim, verimlilik ve tesir yer almaktadır. Çeşitli bilim alanlarından farklı olarak, sibernetik bu kavramları özgün organizma ya da cihaz bağlamında soyutlayarak ele alır. Sibernetiğin etkilediği ya da sibernetikten etkilenen çalışma alanları arasında oyun teorisi, sistem teorisi (sibernetiğin matematiksel karşılığı), algısal kontrol teorisi, sosyoloji, psikoloji (özellikle nöropsikoloji, davranışsal psikoloji, bilişsel psikoloji alanlarında), felsefe ve mimarlık yer almaktadır. Sibernetik terimi ilk olarak Fransız matematikçi ve fizikçi André-Marie Ampère tarafından kullanılmıştır. Terim, Amperè'nin 1834 yılında yönetim bilimlerini konu alan Fransızca: Essai sur la philosophie isimli eserinde yer almıştır. Terim güncel anlamını Norbert Wiener’in 1948 tarihli Sibernetik ya da hayvan ve makinelerde kontrol ve iletişim isimli kitabı ile edinmiştir. Modern sibernetiğin kurucuları arasında gösterilen Amerikalı matematikçi ve felsefeci Norbert Wiener, sibernetiği insan ve hayvanlarda kontrol ve iletişimi konu alan çalışma alanı olarak tanımlamıştır. == Sibernetik ve El Cezeri == 12. yüzyılda Cizre'li fizikçi, robot ve matris ustası bilim insanı El-Cezeri, sibernetik alanın ilk isimlerindendir. Dünya bilim tarihi açısından bugünkü sibernetik ve robot biliminde çalışmalar yapan ilk bilim insanı olan El Cezerî, \"Mekanik Hareketlerden Mühendislikte Faydalanmayı İçeren Kitap\" (El Câmi-u'l Beyn'el İlmî ve El-Amelî'en Nâfi fî Sınâ'ati'l Hiyel, Arapça: بَيْنْ اَلْعِلْمِ وَالْعَمَلِ اَلنَّافِعْ فِي صِناعَةُ الْحِيَلْ) adlı eserinde ortaya koydu. 50'den fazla cihazın kullanım esaslarını, yararlanma olanaklarını çizimlerle gösterdiği bu olağanüstü kitapta Cizirî, “Tatbikata çevrilmeyen her teknik ilmin, doğru ile yanlış arasında kalacağını” söyler. Bu kitabın orijinali günümüze kadar ulaşamadıysa da, bilinen 15 kopyasından 10'u Avrupa'nın farklı müzelerinde, 5 tanesi Topkapı ve Süleymaniye kütüphanelerinde yer almaktadır. İnsanî ve mekanik sistemlerin çalışma tarzı ve fonksiyonlarını daha iyi anlatabilmek amacıyla, bilgi işlem sistemleri ve canlı varlıkların kontrol ve iş haberleşme yöntemlerinin karşılaştırmalı araştırılmasına dayanır. Sibernetik, birden fazla disiplin oluşturmakla ilgili olup bilim dallarının her biriyle tam bir uygunluk içinde olan bir dizi kavram yardımıyla bu dallar arasında tam bir ilişki kurulmasını sağlar. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 384,
+      "char_count": 3161,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.917062",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Sibernetik (Yunanca kybernétes: \"dümenci\") veya güdüm bilimi; canlı ve cansız tüm karmaşık sistemlerin denetlenmesi ve yönetilmesini inceleyen bilim dalıdır. Sibernetik, düzenli sistemlerin, bu sistemlerin yapılarının, limitlerinin ve sistemin imkânlarının araştırılmasına ilişkin disiplinlerarası bir yaklaşımı içerir. Sibernetiğin konu aldığı sistemler mekanik, fiziksel, biyolojik, düşünsel ve sosyal olabilir. Sibernetik yaklaşım eylemin çevresinde yol açtığı değişimlerin sistem içinde geribildirim yolu ile yansıtıldığı, kapalı sinyal döngüsü içeren sistemlere uygulanır. Sibernetik sistemlerin geribildirimler sayesinde değişime uğraması, “dairesel nedensellik” ilişkisi olarak tanımlanır. Sibernetiğin ele aldığı kavramlar arasında öğrenme, bilişsellik, sosyal kontrol, belirme, iletişim, verimlilik ve tesir yer almaktadır. Çeşitli bilim alanlarından farklı olarak, sibernetik bu kavramları özgün organizma ya da cihaz bağlamında soyutlayarak ele alır. Sibernetiğin etkilediği ya da sibernet",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "imlilik ve tesir yer almaktadır. Çeşitli bilim alanlarından farklı olarak, sibernetik bu kavramları özgün organizma ya da cihaz bağlamında soyutlayarak ele alır. Sibernetiğin etkilediği ya da sibernetikten etkilenen çalışma alanları arasında oyun teorisi, sistem teorisi (sibernetiğin matematiksel karşılığı), algısal kontrol teorisi, sosyoloji, psikoloji (özellikle nöropsikoloji, davranışsal psikoloji, bilişsel psikoloji alanlarında), felsefe ve mimarlık yer almaktadır. Sibernetik terimi ilk olarak Fransız matematikçi ve fizikçi André-Marie Ampère tarafından kullanılmıştır. Terim, Amperè'nin 1834 yılında yönetim bilimlerini konu alan Fransızca: Essai sur la philosophie isimli eserinde yer almıştır. Terim güncel anlamını Norbert Wiener’in 1948 tarihli Sibernetik ya da hayvan ve makinelerde kontrol ve iletişim isimli kitabı ile edinmiştir. Modern sibernetiğin kurucuları arasında gösterilen Amerikalı matematikçi ve felsefeci Norbert Wiener, sibernetiği insan ve hayvanlarda kontrol ve ileti",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1850,
+      "content": "ontrol ve iletişim isimli kitabı ile edinmiştir. Modern sibernetiğin kurucuları arasında gösterilen Amerikalı matematikçi ve felsefeci Norbert Wiener, sibernetiği insan ve hayvanlarda kontrol ve iletişimi konu alan çalışma alanı olarak tanımlamıştır.",
+      "char_count": 250,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0003",
+      "section": "== Sibernetik ve El Cezeri ==",
+      "heading_path": "== Sibernetik ve El Cezeri ==",
+      "start_char": 1851,
+      "end_char": 2851,
+      "content": "== Sibernetik ve El Cezeri == 12. yüzyılda Cizre'li fizikçi, robot ve matris ustası bilim insanı El-Cezeri, sibernetik alanın ilk isimlerindendir. Dünya bilim tarihi açısından bugünkü sibernetik ve robot biliminde çalışmalar yapan ilk bilim insanı olan El Cezerî, \"Mekanik Hareketlerden Mühendislikte Faydalanmayı İçeren Kitap\" (El Câmi-u'l Beyn'el İlmî ve El-Amelî'en Nâfi fî Sınâ'ati'l Hiyel, Arapça: بَيْنْ اَلْعِلْمِ وَالْعَمَلِ اَلنَّافِعْ فِي صِناعَةُ الْحِيَلْ) adlı eserinde ortaya koydu. 50'den fazla cihazın kullanım esaslarını, yararlanma olanaklarını çizimlerle gösterdiği bu olağanüstü kitapta Cizirî, “Tatbikata çevrilmeyen her teknik ilmin, doğru ile yanlış arasında kalacağını” söyler. Bu kitabın orijinali günümüze kadar ulaşamadıysa da, bilinen 15 kopyasından 10'u Avrupa'nın farklı müzelerinde, 5 tanesi Topkapı ve Süleymaniye kütüphanelerinde yer almaktadır. İnsanî ve mekanik sistemlerin çalışma tarzı ve fonksiyonlarını daha iyi anlatabilmek amacıyla, bilgi işlem sistemleri ve ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Sibernetik ve El Cezeri ==",
+      "heading_path": "== Sibernetik ve El Cezeri ==",
+      "start_char": 2651,
+      "end_char": 3146,
+      "content": " müzelerinde, 5 tanesi Topkapı ve Süleymaniye kütüphanelerinde yer almaktadır. İnsanî ve mekanik sistemlerin çalışma tarzı ve fonksiyonlarını daha iyi anlatabilmek amacıyla, bilgi işlem sistemleri ve canlı varlıkların kontrol ve iş haberleşme yöntemlerinin karşılaştırmalı araştırılmasına dayanır. Sibernetik, birden fazla disiplin oluşturmakla ilgili olup bilim dallarının her biriyle tam bir uygunluk içinde olan bir dizi kavram yardımıyla bu dallar arasında tam bir ilişki kurulmasını sağlar.",
+      "char_count": 495,
+      "token_estimate": 123
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sibernetik hangi tür sistemlerin denetlenmesi ve yönetilmesini inceleyen bir bilim dalıdır?",
+        "answer": "Canlı ve cansız tüm karmaşık sistemlerin denetlenmesi ve yönetilmesini inceler.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Norbert Wiener'in katkıları, sibernetiğin başlangıçtaki geniş tanımına kıyasla modern anlayışını nasıl şekillendirmiştir?",
+        "answer": "Sibernetik, başlangıçta canlı ve cansız tüm karmaşık sistemlerin denetlenmesi ve yönetilmesini inceleyen bir bilim dalı olarak tanımlanırken, modern anlamını Norbert Wiener'in 1948 tarihli \"Sibernetik ya da hayvan ve makinelerde kontrol ve iletişim\" isimli kitabı ile kazanmıştır. Wiener, sibernetiği insan ve hayvanlarda kontrol ve iletişim olarak tanımlayarak kavramın odak noktasını daraltmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

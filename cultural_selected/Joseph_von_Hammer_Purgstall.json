@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "josephvonhammerpurgs_14032164",
+    "title": "Joseph von Hammer-Purgstall",
+    "url": "https://tr.wikipedia.org/wiki/Joseph_von_Hammer-Purgstall",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:06.968769",
+    "content": "Joseph von Hammer-Purgstall (9 Haziran 1774, Graz - 23 Kasım 1856, Viyana), Avusturyalı tarihçi, diplomat ve Doğu bilimleri uzmanı. Tarihçi, Geschichte des osmanischen Dichtkunst adlı eserinin iç kapağına ismini Yûsuf Hammer Purgstall olarak işlemiştir. == Hayatı == 1774 yılında Avusturya'nın Graz kentinde doğmuştur. 15 yaşındayken Viyana'daki İmparatorluk Doğu Dilleri Akademisinde öğrenim görmeye başladı ve beş yıl boyunca diplomatik tercüman eğitimi gördü. Bu süre zarfında Türkçe, Arapça, Farsça dillerinin yanı sıra İtalyanca, Fransızca, Latince ve Yunanca da öğrendi. Dil öğrenmeye yatkın bir kişilikti. 1799 yılında ilk kez İstanbul'a geldi. Bu dönemde Doğu Tarihi ve edebiyatıyla ilgilenmiş Doğu Akdeniz'de Fransız'lar aleyhine İngilizlerin açtığı seferlere katılmıştır. Mısır'a gidip Arapça öğrenmiş, 1807'de Avusturya'ya dönmüştür. Ülkesinde saray müşavirliği yapmış, imparatorluk akademisinde başkan seçilmiştir. 1835'te politikayı bırakıp kendine tamamen tarih çalışmalarına vermiştir. Osmanlı'da 1851'de kurulan Encümen-i Daniş'e seçilen bilim adamlarındandır. Doğu dillerine ve kültürüne ait önemli eserleri Almancaya kazandırarak büyük yankılar uyandıran ünlü tarihçinin kabrinde yazan ismi \"Yusuf Bin Hammer\"dir. Kabir taşını kendisi çizmiş ve İstanbul'daki ulemaların mezar taşlarından etkilenmiştir. Mezar taşının üstünde yazanlar \"Hüvelbaki\" diye başlar, \"Rahman olan Allah'ın merhametine sığınan üç dilin tercümanı müverrih Yusuf bin Hammer\" diye biter. == Kaynakça == == Dış bağlantılar == Joseph von Hammer-Purgstall, Online Books by Joseph Hammer-Purgstall (Hammer-Purgstall, Joseph, Freiherr von, 1774-1856) \"Upenn Online-Books Library\" tarafından hazırlanan \"online\" kitapları bibliyografyasi  28 Şubat 2017 tarihinde Wayback Machine sitesinde arşivlendi. Joseph von Hammer-Purgstall, (1834-1835) Geschichte des osmanischen Reiches  9 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. veya  9 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. (Almanca) Türkçe çeviri: Abdüllatif Türker, Dündar Alikılıç, İrfan Bülbül, (2000) Osmanlı İmparatorluğu Tarihi Ìstanbul: Söğüt Yayınları ISBN 9786050043181 Osmanlıca çeviri: Mehmed Atâ Bey (1917) Osmanlı Devleti Tarihi,Toronto Universitesi tıpkıbasım. Hammer Tarihi Osmanlıca tercümesi Fransızca çeviri:J .-J. Hellert (1835-1845) Histoire de l'Empire ottoman, depuis son origine jusqu'à nos jours. Paris:Bellizard 18 cilt Gallica tıpkıbasım. Hammer Tarihi Fransızca tercümesi 15 Aralık 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 311,
+      "char_count": 2525,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.269573",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 254,
+      "content": "Joseph von Hammer-Purgstall (9 Haziran 1774, Graz - 23 Kasım 1856, Viyana), Avusturyalı tarihçi, diplomat ve Doğu bilimleri uzmanı. Tarihçi, Geschichte des osmanischen Dichtkunst adlı eserinin iç kapağına ismini Yûsuf Hammer Purgstall olarak işlemiştir.",
+      "char_count": 253,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 254,
+      "end_char": 1254,
+      "content": "== Hayatı == 1774 yılında Avusturya'nın Graz kentinde doğmuştur. 15 yaşındayken Viyana'daki İmparatorluk Doğu Dilleri Akademisinde öğrenim görmeye başladı ve beş yıl boyunca diplomatik tercüman eğitimi gördü. Bu süre zarfında Türkçe, Arapça, Farsça dillerinin yanı sıra İtalyanca, Fransızca, Latince ve Yunanca da öğrendi. Dil öğrenmeye yatkın bir kişilikti. 1799 yılında ilk kez İstanbul'a geldi. Bu dönemde Doğu Tarihi ve edebiyatıyla ilgilenmiş Doğu Akdeniz'de Fransız'lar aleyhine İngilizlerin açtığı seferlere katılmıştır. Mısır'a gidip Arapça öğrenmiş, 1807'de Avusturya'ya dönmüştür. Ülkesinde saray müşavirliği yapmış, imparatorluk akademisinde başkan seçilmiştir. 1835'te politikayı bırakıp kendine tamamen tarih çalışmalarına vermiştir. Osmanlı'da 1851'de kurulan Encümen-i Daniş'e seçilen bilim adamlarındandır. Doğu dillerine ve kültürüne ait önemli eserleri Almancaya kazandırarak büyük yankılar uyandıran ünlü tarihçinin kabrinde yazan ismi \"Yusuf Bin Hammer\"dir. Kabir taşını kendisi ç",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1054,
+      "end_char": 1476,
+      "content": "bilim adamlarındandır. Doğu dillerine ve kültürüne ait önemli eserleri Almancaya kazandırarak büyük yankılar uyandıran ünlü tarihçinin kabrinde yazan ismi \"Yusuf Bin Hammer\"dir. Kabir taşını kendisi çizmiş ve İstanbul'daki ulemaların mezar taşlarından etkilenmiştir. Mezar taşının üstünde yazanlar \"Hüvelbaki\" diye başlar, \"Rahman olan Allah'ın merhametine sığınan üç dilin tercümanı müverrih Yusuf bin Hammer\" diye biter.",
+      "char_count": 422,
+      "token_estimate": 105
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1492,
+      "end_char": 2492,
+      "content": "== Dış bağlantılar == Joseph von Hammer-Purgstall, Online Books by Joseph Hammer-Purgstall (Hammer-Purgstall, Joseph, Freiherr von, 1774-1856) \"Upenn Online-Books Library\" tarafından hazırlanan \"online\" kitapları bibliyografyasi  28 Şubat 2017 tarihinde Wayback Machine sitesinde arşivlendi. Joseph von Hammer-Purgstall, (1834-1835) Geschichte des osmanischen Reiches  9 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. veya  9 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. (Almanca) Türkçe çeviri: Abdüllatif Türker, Dündar Alikılıç, İrfan Bülbül, (2000) Osmanlı İmparatorluğu Tarihi Ìstanbul: Söğüt Yayınları ISBN 9786050043181 Osmanlıca çeviri: Mehmed Atâ Bey (1917) Osmanlı Devleti Tarihi,Toronto Universitesi tıpkıbasım. Hammer Tarihi Osmanlıca tercümesi Fransızca çeviri:J .-J. Hellert (1835-1845) Histoire de l'Empire ottoman, depuis son origine jusqu'à nos jours. Paris:Bellizard 18 cilt Gallica tıpkıbasım. Hammer Tarihi Fransızca tercümesi 15 Aralık 2012 tarihinde Wayb",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2292,
+      "end_char": 2525,
+      "content": ".-J. Hellert (1835-1845) Histoire de l'Empire ottoman, depuis son origine jusqu'à nos jours. Paris:Bellizard 18 cilt Gallica tıpkıbasım. Hammer Tarihi Fransızca tercümesi 15 Aralık 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 233,
+      "token_estimate": 58
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yusuf Bin Hammer nerede ve hangi yıl doğmuştur?",
+        "answer": "1774 yılında Avusturya'nın Graz kentinde doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Joseph von Hammer-Purgstall'ın Doğu kültürleriyle olan derin bağları hem profesyonel hayatında hem de farklı isim kullanımlarında nasıl kendini göstermektedir?",
+        "answer": "Joseph von Hammer-Purgstall'ın Doğu kültürleriyle olan derin bağları, onun Doğu bilimleri uzmanı olması, Viyana'daki İmparatorluk Doğu Dilleri Akademisi'nde Türkçe, Arapça ve Farsça gibi diller öğrenmesi ve hayatını Doğu tarihi ve edebiyatı çalışmalarına adamasıyla profesyonel olarak kendini göstermiştir. Bu ilgisi, önemli Doğu eserlerini Almancaya çevirmesine de yol açmıştır. Kişisel kimliğinde ise, \"Geschichte des osmanischen Dichtkunst\" adlı eserinin iç kapağına ismini \"Yûsuf Hammer Purgstall\" olarak işlemesi ve mezar taşında \"Yusuf Bin Hammer\" isminin yazılı olması bu bağlantının bir yansımasıdır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "zihar_9e8106d5",
+    "title": "Zihar",
+    "url": "https://tr.wikipedia.org/wiki/Zihar",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:39.261792",
+    "content": "Zihar (Arapça: ظھار), İslam hukukunda kullanılan ve kelimenin tam anlamıyla “annem gibisin” anlamına gelen bir terimdir. Bu bir boşanma şeklidir (geçersiz olsa da) ve eğer bir koca karısına bu sözleri söylerse, bir köleyi serbest bırakarak ya da art arda iki ay oruç tutarak veya altmış fakiri doyurarak tazmin etmedikçe, onunla cinsel ilişkiye girmesi caiz değildir. == Arka fon == Zihar, İslam öncesi Araplar arasında bir boşanma ilanı olarak kabul edilmiştir ve Kuran'da bu formülle boşanan Havle bint Sa'lebe atıfta bulunularak Mücâdele Suresi'nde 1-4 ayetler şu şekilde geçmektedir: 1) Kocası hakkında seninle tartışan ve Allah'a yakınan kadının sözünü Allah işitmiştir. Allah sizin karşılıklı konuşmanızı işitiyordu. Çünkü Allah her şeyi işitmekte ve görmektedir. 2) İçinizden karılarına zihâr yapanların karıları asla onların anaları değildir. Onların anaları sadece, kendilerini doğuran kadınlardır. Gerçek şu ki, onlar çirkin ve asılsız bir söz söylüyorlar. Şüphesiz Allah affedicidir, bağışlayıcıdır. 3) Karılarına zihâr yapıp da sonra dediklerinden dönenlerin, onlarla temas etmeden önce bir köle âzat etmeleri gerekir. Size öğütlenen işte budur. Allah yapıp ettiklerinizden tamamen haberdardır. 4) Buna imkân bulamayan, temastan önce peş peşe iki ay oruç tutar. Buna da gücü yetmeyen altmış fakiri doyurur. Bu, Allah'a ve resulüne imanınızı göstermeniz içindir. İşte bunlar Allah'ın koyduğu kurallarıdır. Kâfirleri elem veren bir azap beklemektedir. == Yasallık == Zihar, İslam'da haramdır ve İslam hukukunda bir hakaret olarak kabul edilir. Bu, karısının annesine veya kız kardeşine benzediğini ilan eden adamın, helal şeyleri yasaklamaktan suçlu olduğunu ima eder. Kanunla kınanmış ve yasaklanmış olup boşanma davasına sebebiyet vermemektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 247,
+      "char_count": 1772,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.391581",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 368,
+      "content": "Zihar (Arapça: ظھار), İslam hukukunda kullanılan ve kelimenin tam anlamıyla “annem gibisin” anlamına gelen bir terimdir. Bu bir boşanma şeklidir (geçersiz olsa da) ve eğer bir koca karısına bu sözleri söylerse, bir köleyi serbest bırakarak ya da art arda iki ay oruç tutarak veya altmış fakiri doyurarak tazmin etmedikçe, onunla cinsel ilişkiye girmesi caiz değildir.",
+      "char_count": 367,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0001",
+      "section": "== Arka fon ==",
+      "heading_path": "== Arka fon ==",
+      "start_char": 368,
+      "end_char": 1368,
+      "content": "== Arka fon == Zihar, İslam öncesi Araplar arasında bir boşanma ilanı olarak kabul edilmiştir ve Kuran'da bu formülle boşanan Havle bint Sa'lebe atıfta bulunularak Mücâdele Suresi'nde 1-4 ayetler şu şekilde geçmektedir: 1) Kocası hakkında seninle tartışan ve Allah'a yakınan kadının sözünü Allah işitmiştir. Allah sizin karşılıklı konuşmanızı işitiyordu. Çünkü Allah her şeyi işitmekte ve görmektedir. 2) İçinizden karılarına zihâr yapanların karıları asla onların anaları değildir. Onların anaları sadece, kendilerini doğuran kadınlardır. Gerçek şu ki, onlar çirkin ve asılsız bir söz söylüyorlar. Şüphesiz Allah affedicidir, bağışlayıcıdır. 3) Karılarına zihâr yapıp da sonra dediklerinden dönenlerin, onlarla temas etmeden önce bir köle âzat etmeleri gerekir. Size öğütlenen işte budur. Allah yapıp ettiklerinizden tamamen haberdardır. 4) Buna imkân bulamayan, temastan önce peş peşe iki ay oruç tutar. Buna da gücü yetmeyen altmış fakiri doyurur. Bu, Allah'a ve resulüne imanınızı göstermeniz içi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Arka fon ==",
+      "heading_path": "== Arka fon ==",
+      "start_char": 1168,
+      "end_char": 1461,
+      "content": "p ettiklerinizden tamamen haberdardır. 4) Buna imkân bulamayan, temastan önce peş peşe iki ay oruç tutar. Buna da gücü yetmeyen altmış fakiri doyurur. Bu, Allah'a ve resulüne imanınızı göstermeniz içindir. İşte bunlar Allah'ın koyduğu kurallarıdır. Kâfirleri elem veren bir azap beklemektedir.",
+      "char_count": 293,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0003",
+      "section": "== Yasallık ==",
+      "heading_path": "== Yasallık ==",
+      "start_char": 1462,
+      "end_char": 1758,
+      "content": "== Yasallık == Zihar, İslam'da haramdır ve İslam hukukunda bir hakaret olarak kabul edilir. Bu, karısının annesine veya kız kardeşine benzediğini ilan eden adamın, helal şeyleri yasaklamaktan suçlu olduğunu ima eder. Kanunla kınanmış ve yasaklanmış olup boşanma davasına sebebiyet vermemektedir.",
+      "char_count": 295,
+      "token_estimate": 73
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İslam öncesi Araplar arasında Zihar ne olarak kabul edilmiştir?",
+        "answer": "Bir boşanma ilanı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Zihar'ın İslam hukukundaki tanımı, geçersiz bir boşanma şekli olarak kabul edilmesinin nedeni ve gerektirdiği kefaretin kökeni nedir?",
+        "answer": "Zihar, İslam hukukunda \"annem gibisin\" anlamına gelen bir terimdir. Bir koca karısına bu sözleri söylediğinde geçersiz bir boşanma şekli olarak kabul edilir çünkü Kuran'a göre karılar analar değildir ve bu, çirkin ve asılsız bir sözdür. Bu ifadeyi kullanan ve sözünden dönen kocaların, karılarıyla temas etmeden önce bir köle azat etmeleri veya buna imkan bulamazlarsa peş peşe iki ay oruç tutmaları ya da altmış fakiri doyurmaları gerekir. Bu uygulama, İslam öncesi Araplar arasında bir boşanma ilanı olarak görülmekteydi ve Kuran'da Mücâdele Suresi'nde Havle bint Sa'lebe'nin durumuyla bağlantılı olarak açıklanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

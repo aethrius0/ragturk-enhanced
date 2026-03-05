@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "dev1ce_8d23966a",
+    "title": "Dev1ce",
+    "url": "https://tr.wikipedia.org/wiki/Dev1ce",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:05.653842",
+    "content": "Nicolai Hvilshøj Reedtz (d. 8 Eylül 1995), dev1ce takma adı ile bilinmektedir (ismi İngilizce cihaz anlamına gelen device olarak yazılıp okunmaktadır), Astralis takımında oynayan, Danimarkalı profesyonel Counter-Strike: Global Offensive oyuncusudur. Astralis'te iken CS:GO'da 4 kere majör kazanan ve art arda 3 majör kazanan ilk oyuncu (o zamanki takım arkadaşlarının üçüyle birlikte) olmuştur. == İlk yılları == 8 Eylül 1995 tarihinde Güney Danimarka'nın Vejle bölgesinde doğdu. Genç yaşlarda abisi ile birlikte video oyunları oynamaya başlamıştır. Aynı zamanda bir badminton oyuncusuydu. == Kariyer == === 2013 === Reedtz ilk resmi CS:GO maçına, Mart 2013'te İsveç takımı Fnatic'in yer aldığı ESL Major Series One - Spring 2013: Cup #4'te geçici oyuncu olarak çıktı. Daha sonra Nico, Cajunb, Dupreeh ve Fetish ile Copenhagen Wolves takımında oynamaya başladı. Copenhagen Wolves ile birkaç küçük etkinlik kazandı ve 2013'ün en büyük etkinliği olan Dreamhack Winter 2013'ü 5-8. sırada bitirdi. === 2014 === Şubat 2014'te Birleşik Krallık organizasyonu Team Dignitas tarafından cajunb, dupreeh, Xyp9x ve FeTiSh ile birlikte transfer edildi. (Aralık 2014'te Karrigan, Fetish yerine takıma dahil oldu). Dev1ce bu dönemde hiçbir birincilik elde edemedi ve genellikle turnuvaları üçüncülük ile tamamladı. 2014 dünyasının en iyi 20 CS:GO oyuncusu arasında 20. sırada yer aldı. === 2015 === 2015 yılında aynı kadro ile Amerikan organizasyonu Team SoloMid'e (TSM) geçtiler. Dev1ce yeni organizasyonu ile birçok turnuvada yarıştı ve çoğunda üst sıraları elde etti. Yılı HLTV.org'un düzenlediği dünyanın en iyi 20 CS:GO oyuncusu sıralamasında 3. olarak tamamladı. === 2016-2018 === 2015 yılı sonunda dev1ce ve takım arkadaşları Team SoloMid'den ayrılarak, kendi kurdukları Question Mark adlı takımında aynı takım arkadaşları ile herhangi bir organizasyona bağlı olmadan oynamaya devam ettiler. Ocak 2016'da birkaç yatırımcının desteği ile\" Astralis ” adlı kendi organizasyonlarını kurdular. 2016 sonunda, dünyada yılın en iyi CS:GO oyuncuları sıralamasında 3. sırada yer aldı. Astralis ile 2017'de, ELEAGUE Major 2017 turnuvasını kazandı ve takımlar sıralamasında dünyada 1. sıraya yerleştiler. 2018'in devamında da elde ettikleri sonuçlar ile bu sıralamayı çoğunlukla elinde tuttular. 2018'de katıldığı turnuvalarda kazandığı MVP ödülleri ile GeT_RiGhT'ın elinde tutuğu rekoru kırmıştır (GeT_RiGhT 2013 yılında kazandığı 6 MVP ile bu rekoru elinde bulunduruyordu). === 2019 === Dev1ce, StarLadder Major: Berlin 2019'da Astralis ile 4 majör ve bir MVP unvanı kazandı. 23 Nisan 2021'de Ninjas in Pijamas'a (NIP) katıldı. Reedtz, 2020'de Forbes 30 Under 30 Europe: Sports & Games listesinde yer aldı. === 2021 === NIP takımında oynamakta olan Nicolai \"dev1ce1\" Reedtz, 10 Aralık tarihinde IEM Winter 2021 turnuvası öncesi sağlık sorunları nedeni ile yedeğe çekildi. === 2022 === NIP'te yedeğe çekildiğinden itibaren aktif kariyerine ara veren Reedtz, 27 Ekim tarihinde Astralis'e döndüğünü açıkladı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 424,
+      "char_count": 3002,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.396092",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 395,
+      "content": "Nicolai Hvilshøj Reedtz (d. 8 Eylül 1995), dev1ce takma adı ile bilinmektedir (ismi İngilizce cihaz anlamına gelen device olarak yazılıp okunmaktadır), Astralis takımında oynayan, Danimarkalı profesyonel Counter-Strike: Global Offensive oyuncusudur. Astralis'te iken CS:GO'da 4 kere majör kazanan ve art arda 3 majör kazanan ilk oyuncu (o zamanki takım arkadaşlarının üçüyle birlikte) olmuştur.",
+      "char_count": 394,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk yılları ==",
+      "heading_path": "== İlk yılları ==",
+      "start_char": 395,
+      "end_char": 590,
+      "content": "== İlk yılları == 8 Eylül 1995 tarihinde Güney Danimarka'nın Vejle bölgesinde doğdu. Genç yaşlarda abisi ile birlikte video oyunları oynamaya başlamıştır. Aynı zamanda bir badminton oyuncusuydu.",
+      "char_count": 194,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0002",
+      "section": "=== 2013 ===",
+      "heading_path": "=== 2013 ===",
+      "start_char": 604,
+      "end_char": 994,
+      "content": "=== 2013 === Reedtz ilk resmi CS:GO maçına, Mart 2013'te İsveç takımı Fnatic'in yer aldığı ESL Major Series One - Spring 2013: Cup #4'te geçici oyuncu olarak çıktı. Daha sonra Nico, Cajunb, Dupreeh ve Fetish ile Copenhagen Wolves takımında oynamaya başladı. Copenhagen Wolves ile birkaç küçük etkinlik kazandı ve 2013'ün en büyük etkinliği olan Dreamhack Winter 2013'ü 5-8. sırada bitirdi.",
+      "char_count": 389,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0003",
+      "section": "=== 2014 ===",
+      "heading_path": "=== 2014 ===",
+      "start_char": 994,
+      "end_char": 1371,
+      "content": "=== 2014 === Şubat 2014'te Birleşik Krallık organizasyonu Team Dignitas tarafından cajunb, dupreeh, Xyp9x ve FeTiSh ile birlikte transfer edildi. (Aralık 2014'te Karrigan, Fetish yerine takıma dahil oldu). Dev1ce bu dönemde hiçbir birincilik elde edemedi ve genellikle turnuvaları üçüncülük ile tamamladı. 2014 dünyasının en iyi 20 CS:GO oyuncusu arasında 20. sırada yer aldı.",
+      "char_count": 376,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0004",
+      "section": "=== 2015 ===",
+      "heading_path": "=== 2015 ===",
+      "start_char": 1371,
+      "end_char": 1654,
+      "content": "=== 2015 === 2015 yılında aynı kadro ile Amerikan organizasyonu Team SoloMid'e (TSM) geçtiler. Dev1ce yeni organizasyonu ile birçok turnuvada yarıştı ve çoğunda üst sıraları elde etti. Yılı HLTV.org'un düzenlediği dünyanın en iyi 20 CS:GO oyuncusu sıralamasında 3. olarak tamamladı.",
+      "char_count": 282,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0005",
+      "section": "=== 2016-2018 ===",
+      "heading_path": "=== 2016-2018 ===",
+      "start_char": 1654,
+      "end_char": 2456,
+      "content": "=== 2016-2018 === 2015 yılı sonunda dev1ce ve takım arkadaşları Team SoloMid'den ayrılarak, kendi kurdukları Question Mark adlı takımında aynı takım arkadaşları ile herhangi bir organizasyona bağlı olmadan oynamaya devam ettiler. Ocak 2016'da birkaç yatırımcının desteği ile\" Astralis ” adlı kendi organizasyonlarını kurdular. 2016 sonunda, dünyada yılın en iyi CS:GO oyuncuları sıralamasında 3. sırada yer aldı. Astralis ile 2017'de, ELEAGUE Major 2017 turnuvasını kazandı ve takımlar sıralamasında dünyada 1. sıraya yerleştiler. 2018'in devamında da elde ettikleri sonuçlar ile bu sıralamayı çoğunlukla elinde tuttular. 2018'de katıldığı turnuvalarda kazandığı MVP ödülleri ile GeT_RiGhT'ın elinde tutuğu rekoru kırmıştır (GeT_RiGhT 2013 yılında kazandığı 6 MVP ile bu rekoru elinde bulunduruyordu).",
+      "char_count": 801,
+      "token_estimate": 200
+    },
+    {
+      "id": "c0006",
+      "section": "=== 2019 ===",
+      "heading_path": "=== 2019 ===",
+      "start_char": 2456,
+      "end_char": 2689,
+      "content": "=== 2019 === Dev1ce, StarLadder Major: Berlin 2019'da Astralis ile 4 majör ve bir MVP unvanı kazandı. 23 Nisan 2021'de Ninjas in Pijamas'a (NIP) katıldı. Reedtz, 2020'de Forbes 30 Under 30 Europe: Sports & Games listesinde yer aldı.",
+      "char_count": 232,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0007",
+      "section": "=== 2021 ===",
+      "heading_path": "=== 2021 ===",
+      "start_char": 2689,
+      "end_char": 2854,
+      "content": "=== 2021 === NIP takımında oynamakta olan Nicolai \"dev1ce1\" Reedtz, 10 Aralık tarihinde IEM Winter 2021 turnuvası öncesi sağlık sorunları nedeni ile yedeğe çekildi.",
+      "char_count": 164,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0008",
+      "section": "=== 2022 ===",
+      "heading_path": "=== 2022 ===",
+      "start_char": 2854,
+      "end_char": 2988,
+      "content": "=== 2022 === NIP'te yedeğe çekildiğinden itibaren aktif kariyerine ara veren Reedtz, 27 Ekim tarihinde Astralis'e döndüğünü açıkladı.",
+      "char_count": 133,
+      "token_estimate": 33
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "dev1ce ve takım arkadaşları kendi organizasyonları olan Astralis'i ne zaman kurdular?",
+        "answer": "Ocak 2016'da.",
+        "related_chunk_ids": [
+          "c0005"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Profesyonel Counter-Strike: Global Offensive oyuncusu dev1ce olarak bilinen Nicolai Hvilshøj Reedtz'in doğum yeri neresidir ve genç yaşlarda video oyunlarına nasıl başlamıştır?",
+        "answer": "Nicolai Hvilshøj Reedtz, Güney Danimarka'nın Vejle bölgesinde doğmuştur ve video oyunlarına genç yaşlarda abisi ile birlikte başlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

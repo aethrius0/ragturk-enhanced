@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "austoshizipolay_f6f98313",
+    "title": "Ağustos Hizip Olayı",
+    "url": "https://tr.wikipedia.org/wiki/A%C4%9Fustos_Hizip_Olay%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:10.532401",
+    "content": "Ağustos Hizip Olayı (Korece: 8월 종파 사건) veya resmî adlandırmayla İkinci Zorlu Yürüyüş Sovyetler Birliği ve Çin Halk Cumhuriyeti'nin desteğiyle, Sovyet-Kore Hizbi ve Yan'an Hizbi'nden önde gelen Kuzey Koreli şahsiyetlerin, 1956'da Kore İşçi Partisi 3. Merkez Komitesi'nin 2. Genel Oturumu'nda Kim İl-sung'u Kore İşçi Partisi'nden ve hükümet görevlerinden uzaklaştırma girişimidir. Uzaklaştırma girişimi başarısız oldu, katılımcılar tutuklandı ve daha sonra bazıları idam edildi. Bu siyasi mücadele yoluyla Kim İl-sung, parti liderliği içindeki kendisine karşı tüm muhalefeti bastırdı. == Tarihçe == Kim İl-sung, 1-6 Haziran 1956 tarihleri arasında Sovyetler Birliği'ni resmi ziyaretteydi. Sovyetler Birliği Komünist Partisi genel sekreteri Nikita Kruşçev destalinizasyon politikalarını savunarak Kim İl-sung'un liderlik tarzını gözden geçirmesi gerektiğini belirtti. Görüşmelerde Kruşçev Kim İl-sung'un parti içindeki muhalefeti bastırmasını eleştirdi ve kolektif liderlik ilkesine dönmesi gerektiğini belirtti. Ağustos Hizip Olayı Kim İl-sung'un bu görüşmesi sırasında gerçekleşti. Kim İl-sung'un yokluğunda, Ho Ka-i'nin intiharından sonra Sovyet-Kore Hizbi'nin yeni lideri olan Pak Chang-ok, Choe Chang-ik ve Yan'an Hizbi'nin diğer önde gelen üyeleri, Merkez Komitesi'nin bir sonraki toplantısında Kim İl-sung'u eleştirmek ve liderlik yöntemlerini \"düzeltmediği\", bir kişi kültü geliştirdiği, Leninist kolektif liderlik ilkesini ve sosyalist meşruiyetin çarpıtıldığı savunmalarını ve destalinizasyon eleştirilerini Kim İl-sung'a karşı kullanmak için bir plan tasarladılar. Kim İl-sung Moskova'dan döndükten sonra plandan haberdar oldu ve toplantıyı neredeyse bir ay erteleyerek yanıt verdi. 30 Ağustos'ta gerçekleşen toplantıda, Choe Chang-ik parti ve devletin gücünü kendi elinde topladığı için Kim İl-sung'u eleştiren bir konuşma yaptı ve Kuzey Kore halkı arasında yaygın olan açlığı görmezden gelen sanayileşme konusundaki parti çizgisini eleştirdi. Yun Kong-hum, Kim İl-sung'a \"polis rejimi\" yarattığı konusunda eleştirdi. Kim İl-sung'un destekçileri konuşmacıları yuhaladı, ve onları neredeyse seslerini duyuramaz hale getirdiler ve üyeleri ikna etme ihtimalini ortadan kaldırdılar. Kim İl-sung'un destekçileri bu kişişeri \"parti karşıtı\" olmakla suçladılar ve Yun Kong-hum'u partiden ihraç etmeye karar verdiler. Kim İl-sung, bu eleştirilere karşılık reform başlatma ve rejimi yumuşatma sözü vererek etkisiz hale getirdi. Komitedeki çoğunluk Kim İl-sung'u destekledi ve Choe ve Pak'ın Merkez Komite'den ihraç edilmesi yönünde oy kullandı. Yan'an Hizbi'nin birkaç lideri, kovuşturmalardan kaçmak için Çin'e gitti. == Kaynakça == Özel Genel Lankov, Andrei N. (2002). \"Kim Takes Control: The 'Great Purge' in North Korea, 1956–1960\". Korean Studies (İngilizce). 26 (1): 87-119. doi:10.1353/ks.2002.0010. ISSN 1529-1529.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 357,
+      "char_count": 2822,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.522122",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 583,
+      "content": "Ağustos Hizip Olayı (Korece: 8월 종파 사건) veya resmî adlandırmayla İkinci Zorlu Yürüyüş Sovyetler Birliği ve Çin Halk Cumhuriyeti'nin desteğiyle, Sovyet-Kore Hizbi ve Yan'an Hizbi'nden önde gelen Kuzey Koreli şahsiyetlerin, 1956'da Kore İşçi Partisi 3. Merkez Komitesi'nin 2. Genel Oturumu'nda Kim İl-sung'u Kore İşçi Partisi'nden ve hükümet görevlerinden uzaklaştırma girişimidir. Uzaklaştırma girişimi başarısız oldu, katılımcılar tutuklandı ve daha sonra bazıları idam edildi. Bu siyasi mücadele yoluyla Kim İl-sung, parti liderliği içindeki kendisine karşı tüm muhalefeti bastırdı.",
+      "char_count": 582,
+      "token_estimate": 145
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 583,
+      "end_char": 1583,
+      "content": "== Tarihçe == Kim İl-sung, 1-6 Haziran 1956 tarihleri arasında Sovyetler Birliği'ni resmi ziyaretteydi. Sovyetler Birliği Komünist Partisi genel sekreteri Nikita Kruşçev destalinizasyon politikalarını savunarak Kim İl-sung'un liderlik tarzını gözden geçirmesi gerektiğini belirtti. Görüşmelerde Kruşçev Kim İl-sung'un parti içindeki muhalefeti bastırmasını eleştirdi ve kolektif liderlik ilkesine dönmesi gerektiğini belirtti. Ağustos Hizip Olayı Kim İl-sung'un bu görüşmesi sırasında gerçekleşti. Kim İl-sung'un yokluğunda, Ho Ka-i'nin intiharından sonra Sovyet-Kore Hizbi'nin yeni lideri olan Pak Chang-ok, Choe Chang-ik ve Yan'an Hizbi'nin diğer önde gelen üyeleri, Merkez Komitesi'nin bir sonraki toplantısında Kim İl-sung'u eleştirmek ve liderlik yöntemlerini \"düzeltmediği\", bir kişi kültü geliştirdiği, Leninist kolektif liderlik ilkesini ve sosyalist meşruiyetin çarpıtıldığı savunmalarını ve destalinizasyon eleştirilerini Kim İl-sung'a karşı kullanmak için bir plan tasarladılar. Kim İl-sun",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1383,
+      "end_char": 2383,
+      "content": "ştirdiği, Leninist kolektif liderlik ilkesini ve sosyalist meşruiyetin çarpıtıldığı savunmalarını ve destalinizasyon eleştirilerini Kim İl-sung'a karşı kullanmak için bir plan tasarladılar. Kim İl-sung Moskova'dan döndükten sonra plandan haberdar oldu ve toplantıyı neredeyse bir ay erteleyerek yanıt verdi. 30 Ağustos'ta gerçekleşen toplantıda, Choe Chang-ik parti ve devletin gücünü kendi elinde topladığı için Kim İl-sung'u eleştiren bir konuşma yaptı ve Kuzey Kore halkı arasında yaygın olan açlığı görmezden gelen sanayileşme konusundaki parti çizgisini eleştirdi. Yun Kong-hum, Kim İl-sung'a \"polis rejimi\" yarattığı konusunda eleştirdi. Kim İl-sung'un destekçileri konuşmacıları yuhaladı, ve onları neredeyse seslerini duyuramaz hale getirdiler ve üyeleri ikna etme ihtimalini ortadan kaldırdılar. Kim İl-sung'un destekçileri bu kişişeri \"parti karşıtı\" olmakla suçladılar ve Yun Kong-hum'u partiden ihraç etmeye karar verdiler. Kim İl-sung, bu eleştirilere karşılık reform başlatma ve rejimi ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 2183,
+      "end_char": 2618,
+      "content": "lar. Kim İl-sung'un destekçileri bu kişişeri \"parti karşıtı\" olmakla suçladılar ve Yun Kong-hum'u partiden ihraç etmeye karar verdiler. Kim İl-sung, bu eleştirilere karşılık reform başlatma ve rejimi yumuşatma sözü vererek etkisiz hale getirdi. Komitedeki çoğunluk Kim İl-sung'u destekledi ve Choe ve Pak'ın Merkez Komite'den ihraç edilmesi yönünde oy kullandı. Yan'an Hizbi'nin birkaç lideri, kovuşturmalardan kaçmak için Çin'e gitti.",
+      "char_count": 435,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2619,
+      "end_char": 2822,
+      "content": "== Kaynakça == Özel Genel Lankov, Andrei N. (2002). \"Kim Takes Control: The 'Great Purge' in North Korea, 1956–1960\". Korean Studies (İngilizce). 26 (1): 87-119. doi:10.1353/ks.2002.0010. ISSN 1529-1529.",
+      "char_count": 203,
+      "token_estimate": 50
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kim İl-sung, Sovyetler Birliği'ne resmi ziyaretini hangi tarihler arasında gerçekleştirmiştir?",
+        "answer": "1-6 Haziran 1956",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ağustos Hizip Olayı'nı tetikleyen temel eleştiriler nelerdi ve bu olay Kim İl-sung'un parti liderliği üzerindeki etkisi ne oldu?",
+        "answer": "Ağustos Hizip Olayı'nı tetikleyen temel eleştiriler, Nikita Kruşçev'in destalinizasyon politikalarını savunarak Kim İl-sung'un liderlik tarzını, parti içindeki muhalefeti bastırmasını ve kolektif liderlik ilkesini gözden geçirmesi gerektiği yönündeki uyarılarıydı. Ayrıca, Kim İl-sung'un bir kişi kültü geliştirdiği, Leninist kolektif liderlik ilkesini ve sosyalist meşruiyeti çarpıttığı, parti ve devletin gücünü kendi elinde topladığı, halk arasında yaygın olan açlığı görmezden gelen sanayileşme politikaları izlediği ve bir \"polis rejimi\" yarattığı iddia edildi. Bu olay, Kim İl-sung'u görevden alma girişiminin başarısızlıkla sonuçlanmasına, katılımcıların tutuklanıp bazılarının idam edilmesine ve Kim İl-sung'un parti liderliği içindeki kendisine karşı tüm muhalefeti bastırarak gücünü pekiştirmesine neden oldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

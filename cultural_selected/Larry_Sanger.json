@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "larrysanger_a9d8582a",
+    "title": "Larry Sanger",
+    "url": "https://tr.wikipedia.org/wiki/Larry_Sanger",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:32.075832",
+    "content": "Lawrence Mark \"Larry\" Sanger (16 Temmuz 1968), Amerikalı internet proje / yazılım geliştiricisi, Wikipedia'nın kurucularından ve Citizendium'un kurucusu. Sanger; Anchorage, Alaska'da büyüdü. Erken yaşlardan itibaren felsefeyle ilgilenmeye başladı. 1991 yılında Reed Koleji'nden felsefe lisansı (Bachelor of Arts) alan Sanger 2000 yılında Ohio State Üniversitesi'nden Felsefe Doktoru unvanı aldı. Felsefi çalışmalarının çoğu epistemoloji (bilginin teorisi) üzerine odaklanmıştır. Çeşitli çevrimiçi ansiklopedi projelerinde yer almıştır. Wikipedia'nın öncülü sayılan Nupedia'da baş editörlük, Wikipedia'da baş organizatörlük (2001-02) ve Citizendium'da kurucu şef editörlük yapmıştır. Nupedia görevinden itibaren makale gelişim süreci ile ilgilenmiştir. Sanger Wikipedia'nın yaratılmasına yol açan bir wiki uygulaması önermiştir. Başlangıçta Vikipedi Nupedia için tamamlayıcı bir proje olmuştur. Wikipedia'nın erken dönem toplum lideridir ve özgün politikaların birçoğunu oluşturan kişidir. == Yaşamı ve eğitimi == Sanger Bellevue, Washington'da doğdu. 7 yaşındayken ailesi Anchorage, Alaska'ya göç etti. Babası bir deniz biyoloğu annesi ise çocuk bakıcısı idi. Erken yaşlardan itibaren felsefe ile ilgilenmeye başladı. 1986 yılında liseden mezun olduktan sonra felsefe eğitimi için Reed College'a kaydoldu. Kolejdeyken internet ve internet yayıncılığı ile ilgilenmeye başladı. Sistematik Felsefe Derneği isimli bir felsefe tartışma listesini başlattı ve yönetti. 1991 yılında Reed Koleji'nden felsefe lisansı alan Sanger 2000 yılında da Ohio State Üniversitesi'nden Felsefe Doktoru unvanı aldı. == Kaynakça == == Dış bağlantılar == Twitter'da Larry Sanger Facebook'ta Larry Sanger YouTube'da Larry Sanger Larry Sanger17 Aralık 2014 tarihinde Wayback Machine sitesinde arşivlendi. – Sanger's personal website. Wikipedia's forgotten founder Larry Sanger 14 Mayıs 2014 tarihinde Wayback Machine sitesinde arşivlendi. – Sanger was interviewed on This Week in Startups. Larry Sanger - SISCTI 3429 Ekim 2013 tarihinde Wayback Machine sitesinde arşivlendi. – Sanger spoke at Monterrey, Mexico during the SISCTI 34 conference. Video interview: Larry Sanger talks about Wikipedia and his plans with Citizendium8 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi. – Mostly in English, with a German introduction and subtitles.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 298,
+      "char_count": 2323,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.340562",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 989,
+      "content": "Lawrence Mark \"Larry\" Sanger (16 Temmuz 1968), Amerikalı internet proje / yazılım geliştiricisi, Wikipedia'nın kurucularından ve Citizendium'un kurucusu. Sanger; Anchorage, Alaska'da büyüdü. Erken yaşlardan itibaren felsefeyle ilgilenmeye başladı. 1991 yılında Reed Koleji'nden felsefe lisansı (Bachelor of Arts) alan Sanger 2000 yılında Ohio State Üniversitesi'nden Felsefe Doktoru unvanı aldı. Felsefi çalışmalarının çoğu epistemoloji (bilginin teorisi) üzerine odaklanmıştır. Çeşitli çevrimiçi ansiklopedi projelerinde yer almıştır. Wikipedia'nın öncülü sayılan Nupedia'da baş editörlük, Wikipedia'da baş organizatörlük (2001-02) ve Citizendium'da kurucu şef editörlük yapmıştır. Nupedia görevinden itibaren makale gelişim süreci ile ilgilenmiştir. Sanger Wikipedia'nın yaratılmasına yol açan bir wiki uygulaması önermiştir. Başlangıçta Vikipedi Nupedia için tamamlayıcı bir proje olmuştur. Wikipedia'nın erken dönem toplum lideridir ve özgün politikaların birçoğunu oluşturan kişidir.",
+      "char_count": 988,
+      "token_estimate": 247
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve eğitimi ==",
+      "heading_path": "== Yaşamı ve eğitimi ==",
+      "start_char": 989,
+      "end_char": 1594,
+      "content": "== Yaşamı ve eğitimi == Sanger Bellevue, Washington'da doğdu. 7 yaşındayken ailesi Anchorage, Alaska'ya göç etti. Babası bir deniz biyoloğu annesi ise çocuk bakıcısı idi. Erken yaşlardan itibaren felsefe ile ilgilenmeye başladı. 1986 yılında liseden mezun olduktan sonra felsefe eğitimi için Reed College'a kaydoldu. Kolejdeyken internet ve internet yayıncılığı ile ilgilenmeye başladı. Sistematik Felsefe Derneği isimli bir felsefe tartışma listesini başlattı ve yönetti. 1991 yılında Reed Koleji'nden felsefe lisansı alan Sanger 2000 yılında da Ohio State Üniversitesi'nden Felsefe Doktoru unvanı aldı.",
+      "char_count": 604,
+      "token_estimate": 151
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1609,
+      "end_char": 2323,
+      "content": "== Dış bağlantılar == Twitter'da Larry Sanger Facebook'ta Larry Sanger YouTube'da Larry Sanger Larry Sanger17 Aralık 2014 tarihinde Wayback Machine sitesinde arşivlendi. – Sanger's personal website. Wikipedia's forgotten founder Larry Sanger 14 Mayıs 2014 tarihinde Wayback Machine sitesinde arşivlendi. – Sanger was interviewed on This Week in Startups. Larry Sanger - SISCTI 3429 Ekim 2013 tarihinde Wayback Machine sitesinde arşivlendi. – Sanger spoke at Monterrey, Mexico during the SISCTI 34 conference. Video interview: Larry Sanger talks about Wikipedia and his plans with Citizendium8 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi. – Mostly in English, with a German introduction and subtitles.",
+      "char_count": 714,
+      "token_estimate": 178
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Larry Sanger nerede büyüdü?",
+        "answer": "Anchorage, Alaska'da büyüdü.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Larry Sanger'ın erken yaşlardan itibaren felsefeye olan ilgisi, akademik eğitimini ve çevrimiçi ansiklopedi projelerindeki önemli rollerini nasıl bir araya getirmiştir?",
+        "answer": "Sanger'ın erken yaşlardan itibaren felsefeye duyduğu ilgi, onu felsefe alanında lisans ve doktora dereceleri almaya yöneltmiş ve çalışmalarının çoğunu bilginin teorisi olan epistemolojiye odaklamasını sağlamıştır. Bu felsefi altyapısı, Reed Koleji'ndeyken internet yayıncılığına ilgi duymasına ve bir felsefe tartışma listesini yönetmesine yol açmıştır. Ardından, Nupedia'da baş editörlük, Wikipedia'da baş organizatörlük ve Citizendium'da kurucu şef editörlük gibi çevrimiçi ansiklopedi projelerinde liderlik yaparak, makale gelişim süreçleri ve Wikipedia'nın özgün politikalarının oluşturulması gibi bilgi yönetimiyle ilgili konulardaki rolünü pekiştirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

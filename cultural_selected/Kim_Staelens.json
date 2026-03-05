@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "kimstaelens_b8018bd0",
+    "title": "Kim Staelens",
+    "url": "https://tr.wikipedia.org/wiki/Kim_Staelens",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:02.746351",
+    "content": "Kim Staelens (d. 7 Ocak 1982-Kortrijk/Belçika ) Belçika asıllı Hollandalı voleybolcu. Babası Belçikalı annesi Hollandalı olan Kim, voleybola Belçika’da başladı. Belçika voleybolunda bir geleceğinin olmadığını düşünerek ablası Chaïne’in ardından on beş yaşında Hollanda’ya gitti. Voleybol yaşamını Hollanda vatandaşı olarak sürdüren Kim, ilk kez 1998 yılında ulusal takıma seçildi. Fransa ve Almanya liglerinde üç sezon oynadı. Dizinden ağır bir sakatlık geçirdiği için 2004 ve 2005 yıllarında voleybola ara verdi. 2007 World Grand Prix’de ulusal takım ile şampiyonluk yaşadı. 2008 yılını Serie A1 takımlarından Despar Perugia’da geçiren oyuncu, 2010 yılının ilk günlerinde diğer bir Serie A1 takımı Asystel Volley'e transfer oldu. Aynı yılın şubat ayında hamileliği nedeniyle voleybola ara verdi. Kim, 4 Ekim 2009 tarihine kadar Hollanda ulusal takımı formasını toplam 291 kez giydi. == Oynadığı Kulüpler == == Özellikleri == Boy: 182 cm. Kilo: 75 cm. Pozisyon: Pasör. Blok yüksekliği: 301 cm. Smaç yüksekliği: 305 cm. == Başarıları == 2007-World Grand Prix-Altın madalya. 2009-Avrupa Şampiyonası-Gümüş madalya. == Kaynakça == == Dış bağlantılar == Kim Staelens Avrupa Voleybol Konfederasyonu (İngilizce) Kim Staelens'in Resmi Sitesi (Felemenkçe) Asystel Volley Kulübü Resmi Web Sitesi (İtalyanca) CEV Resmi Web Sitesi, «2009 Avrupa Şampiyonası Kim Staelens Fotoğrafı-1» CEV Resmi Web Sitesi, «2009 Avrupa Şampiyonası Kim Staelens Fotoğrafı-2»",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 200,
+      "char_count": 1443,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.416566",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 884,
+      "content": "Kim Staelens (d. 7 Ocak 1982-Kortrijk/Belçika ) Belçika asıllı Hollandalı voleybolcu. Babası Belçikalı annesi Hollandalı olan Kim, voleybola Belçika’da başladı. Belçika voleybolunda bir geleceğinin olmadığını düşünerek ablası Chaïne’in ardından on beş yaşında Hollanda’ya gitti. Voleybol yaşamını Hollanda vatandaşı olarak sürdüren Kim, ilk kez 1998 yılında ulusal takıma seçildi. Fransa ve Almanya liglerinde üç sezon oynadı. Dizinden ağır bir sakatlık geçirdiği için 2004 ve 2005 yıllarında voleybola ara verdi. 2007 World Grand Prix’de ulusal takım ile şampiyonluk yaşadı. 2008 yılını Serie A1 takımlarından Despar Perugia’da geçiren oyuncu, 2010 yılının ilk günlerinde diğer bir Serie A1 takımı Asystel Volley'e transfer oldu. Aynı yılın şubat ayında hamileliği nedeniyle voleybola ara verdi. Kim, 4 Ekim 2009 tarihine kadar Hollanda ulusal takımı formasını toplam 291 kez giydi.",
+      "char_count": 883,
+      "token_estimate": 220
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 908,
+      "end_char": 1019,
+      "content": "== Özellikleri == Boy: 182 cm. Kilo: 75 cm. Pozisyon: Pasör. Blok yüksekliği: 301 cm. Smaç yüksekliği: 305 cm.",
+      "char_count": 110,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0002",
+      "section": "== Başarıları ==",
+      "heading_path": "== Başarıları ==",
+      "start_char": 1019,
+      "end_char": 1112,
+      "content": "== Başarıları == 2007-World Grand Prix-Altın madalya. 2009-Avrupa Şampiyonası-Gümüş madalya.",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1127,
+      "end_char": 1443,
+      "content": "== Dış bağlantılar == Kim Staelens Avrupa Voleybol Konfederasyonu (İngilizce) Kim Staelens'in Resmi Sitesi (Felemenkçe) Asystel Volley Kulübü Resmi Web Sitesi (İtalyanca) CEV Resmi Web Sitesi, «2009 Avrupa Şampiyonası Kim Staelens Fotoğrafı-1» CEV Resmi Web Sitesi, «2009 Avrupa Şampiyonası Kim Staelens Fotoğrafı-2»",
+      "char_count": 316,
+      "token_estimate": 79
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kim Staelens, 4 Ekim 2009 tarihine kadar Hollanda ulusal takımı formasını toplam kaç kez giymiştir?",
+        "answer": "Kim Staelens, 4 Ekim 2009 tarihine kadar Hollanda ulusal takımı formasını toplam 291 kez giymiştir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kim Staelens'in boyu, blok yüksekliği ve smaç yüksekliği gibi fiziksel özelliklerinin, pasör olarak uzun ve başarılı voleybol kariyerinde, özellikle de Hollanda ulusal takımıyla olan performansında nasıl bir rol oynamış olabileceğini açıklayın.",
+        "answer": "Kim Staelens'in 182 cm boyu, 301 cm blok yüksekliği ve 305 cm smaç yüksekliği gibi fiziksel özellikleri, pasör pozisyonunda oynamasına rağmen filede etkili olmasına olanak tanımıştır. Bu özellikler, onun hem blok yapabilen hem de gerektiğinde hücuma katılabilen çok yönlü bir pasör olmasını sağlamış ve bu da 291 kez Hollanda ulusal takımı forması giyerek 2007 World Grand Prix şampiyonluğu kazanması gibi başarılarla dolu kariyerine önemli katkılar sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

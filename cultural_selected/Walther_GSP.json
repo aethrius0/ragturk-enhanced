@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "walthergsp_91e5cb9e",
+    "title": "Walther GSP",
+    "url": "https://tr.wikipedia.org/wiki/Walther_GSP",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:54.293913",
+    "content": "Walther GSP, Gebrauchs Sportpistole (Standart Kullanım için Spor Tabanca), Walther Sportwaffen tarafından Almanya'da yapılan tek etkili, hassas hedef atış tabancasıdır. Walther OSP ile aynı teknik tabana sahiptir ve bu nedenle OSP'den biraz daha uzun ve daha ağır olsa da dış görünüşte neredeyse aynıdır. GSP, 1968'de dünya pazarına tanıtıldı ve .22 Uzun Tüfek için odaya yerleştirildi. 1971'in sonunda, Walther tabancayı .32 S & W'de sunmaya başladı. Orijinal kalibresi ne olursa olsun, diğer kalibre için dönüştürme üniteleri mevcuttur ve kolayca değiştirilebilir. Solak atıcılar için Walther'den sipariş üzerine anatomik, ayarlanabilir ceviz kulplar da mevcuttur. 1988'de Walther, sporcuların tabancalarını güçlendirebilecekleri, tamamen ayarlanabilir (çekme, durdurma ve açı için) iki aşamalı bir tetiği piyasaya sürdü. == Varyantlar == İlk GSP'lerden bazıları, 1970'lere kadar dahil edilmeyen sürgülü durdurma kolunu kaçırıyordu. 1968'den 1977'ye kadar olan erken model GSP'ler, çerçevenin sol tarafında manuel bir güvenlik mandalına sahipti. Bu özellik 1977'de ihmal edildi çünkü bir rekabet tabancasında gereksiz bir özellikti. Ayrıca yıllar boyunca ergonomik tutamakların tasarımı birkaç değişikliğe uğradı. Bazen GSP-C olarak anılan .32 S&W Uzun WC için odaya yerleştirilmiş GSP, yalnızca orta ateş kartuşlarına izin veren yarışmalarda kullanılmak üzere tasarlandı. 1976'da Walther, mat vernickelt (mat nikel kaplama) anlamına gelen GSP MV'yi sundu. MV modelleri hem .22 lr hem de .32 S&W Long kalibreli olarak mevcuttu.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 206,
+      "char_count": 1529,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.682357",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 824,
+      "content": "Walther GSP, Gebrauchs Sportpistole (Standart Kullanım için Spor Tabanca), Walther Sportwaffen tarafından Almanya'da yapılan tek etkili, hassas hedef atış tabancasıdır. Walther OSP ile aynı teknik tabana sahiptir ve bu nedenle OSP'den biraz daha uzun ve daha ağır olsa da dış görünüşte neredeyse aynıdır. GSP, 1968'de dünya pazarına tanıtıldı ve .22 Uzun Tüfek için odaya yerleştirildi. 1971'in sonunda, Walther tabancayı .32 S & W'de sunmaya başladı. Orijinal kalibresi ne olursa olsun, diğer kalibre için dönüştürme üniteleri mevcuttur ve kolayca değiştirilebilir. Solak atıcılar için Walther'den sipariş üzerine anatomik, ayarlanabilir ceviz kulplar da mevcuttur. 1988'de Walther, sporcuların tabancalarını güçlendirebilecekleri, tamamen ayarlanabilir (çekme, durdurma ve açı için) iki aşamalı bir tetiği piyasaya sürdü.",
+      "char_count": 823,
+      "token_estimate": 205
+    },
+    {
+      "id": "c0001",
+      "section": "== Varyantlar ==",
+      "heading_path": "== Varyantlar ==",
+      "start_char": 824,
+      "end_char": 1529,
+      "content": "== Varyantlar == İlk GSP'lerden bazıları, 1970'lere kadar dahil edilmeyen sürgülü durdurma kolunu kaçırıyordu. 1968'den 1977'ye kadar olan erken model GSP'ler, çerçevenin sol tarafında manuel bir güvenlik mandalına sahipti. Bu özellik 1977'de ihmal edildi çünkü bir rekabet tabancasında gereksiz bir özellikti. Ayrıca yıllar boyunca ergonomik tutamakların tasarımı birkaç değişikliğe uğradı. Bazen GSP-C olarak anılan .32 S&W Uzun WC için odaya yerleştirilmiş GSP, yalnızca orta ateş kartuşlarına izin veren yarışmalarda kullanılmak üzere tasarlandı. 1976'da Walther, mat vernickelt (mat nikel kaplama) anlamına gelen GSP MV'yi sundu. MV modelleri hem .22 lr hem de .32 S&W Long kalibreli olarak mevcuttu.",
+      "char_count": 705,
+      "token_estimate": 176
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Walther GSP dünya pazarına ne zaman tanıtıldı?",
+        "answer": "1968'de.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Walther GSP'nin 1968'deki ilk piyasaya sürülmesinden sonra zaman içinde hangi önemli özellik değişiklikleri yapıldı ve hangi yeni varyantlar tanıtıldı?",
+        "answer": "Walther GSP'de, 1968'deki ilk piyasaya sürülmesinden sonraki önemli değişiklikler arasında, 1970'lere kadar bazı ilk modellerde bulunmayan sürgülü durdurma kolunun dahil edilmesi; 1968'den 1977'ye kadar olan modellerde bulunan manuel güvenlik mandalının 1977'de kaldırılması; yıllar boyunca ergonomik tutamak tasarımlarındaki değişiklikler ve 1988'de sporcuların tabancalarını güçlendirebileceği tamamen ayarlanabilir iki aşamalı bir tetik mekanizmasının piyasaya sürülmesi bulunmaktadır. Yeni varyantlar olarak, yalnızca orta ateşli kartuşlara izin veren yarışmalar için tasarlanmış .32 S&W Uzun WC kalibreli GSP-C ve 1976'da hem .22 lr hem de .32 S&W Long kalibrelerinde sunulan mat nikel kaplamalı GSP MV tanıtıldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

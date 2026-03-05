@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "haclartepehy_86de3c41",
+    "title": "Hacılartepe Höyüğü",
+    "url": "https://tr.wikipedia.org/wiki/Hac%C4%B1lartepe_H%C3%B6y%C3%BC%C4%9F%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:54.208504",
+    "content": "Hacılartepe Höyüğü, Bursa il merkezinin kuzeydoğusunda, Orhangazi İlçesi'nin güneyinde Örnekköy Köyü'nün yaklaşık olarak 1 km. batı-kuzeybatısında yer alan bir höyüktür. Höyük, Ilıpınar Höyüğü'nün 750 metre güneydoğusundadır. Tepe, 150 x 4 metre boyutlarında çok küçük ve uzun bir yükseltidir. == Kazılar == Höyük 1965 yılında David French tarafından saptanmıştır. Daha sonra 1992-95 yıllarında Jacob Roodenberg yönetiminde Ilıpınar kazı ekibi tarafından kazılmıştır. Ancak ayrıntılı bir rapor yayımlanmamıştır. Kazı, 9 x 7 metrelik bir sondajdır ve 4,5 metrede ana toprağa ulaşılmıştır. Höyükteki kazı çalışması, yerleşmenin Ilıpınar'la ilişkili olabileceği beklentisiyle yapılmıştır. Ancak sadece Erken Tunç Çağı buluntularına ulaşılabilmiştir. == Tabakalanma == Höyükteki tüm kültür dolgusu Erken Tunç Çağı I. II. ve III. evreye tarihlenmektedir. Yüzey toplamalarında Geç Kalkolitik Çağ'a tarihlenen siyah açkılı çanak çömlek parçaları ele geçmiş olmasına karşın Geç Kalkolitik Çağ yerleşimi gösteren başkaca buluntu yoktur. Bu yüzden Kalkolitik Çağ yerleşimi kuşkulu görünmektedir. == Buluntular == En alttaki 2 metrelik dolguda kuzey – güney yönünde uzanan iki yapı saptanmıştır. Duvarlar dal örgü tekniğiyle yapılmış, tabanlar birkaç kez yenilenmiştir. Daha yukarı katmanlarda da duvarları dal örgü tekniğinde yapılmış, bol ahşap malzeme kullanılmış yapı kalıntıları vardır. Çanak çömlek buluntuları tipik Troya ve Eskişehir Demircihöyük mallarına benzemektedir. Bu buluntulardan hareketle Hacılartepe'nin Troya I – Yortan Kültür Bölgesi içinde olduğu kabul edilmektedir. == Değerlendirme ve tarihleme == Kazı sırasında alınan örneklerin radyokarbon tarihleme yöntemi sonuçları MÖ 2.400 tarihini vermiştir. == Dış bağlantılar == Fotoğraflar == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 230,
+      "char_count": 1761,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.637808",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 294,
+      "content": "Hacılartepe Höyüğü, Bursa il merkezinin kuzeydoğusunda, Orhangazi İlçesi'nin güneyinde Örnekköy Köyü'nün yaklaşık olarak 1 km. batı-kuzeybatısında yer alan bir höyüktür. Höyük, Ilıpınar Höyüğü'nün 750 metre güneydoğusundadır. Tepe, 150 x 4 metre boyutlarında çok küçük ve uzun bir yükseltidir.",
+      "char_count": 293,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0001",
+      "section": "== Kazılar ==",
+      "heading_path": "== Kazılar ==",
+      "start_char": 294,
+      "end_char": 747,
+      "content": "== Kazılar == Höyük 1965 yılında David French tarafından saptanmıştır. Daha sonra 1992-95 yıllarında Jacob Roodenberg yönetiminde Ilıpınar kazı ekibi tarafından kazılmıştır. Ancak ayrıntılı bir rapor yayımlanmamıştır. Kazı, 9 x 7 metrelik bir sondajdır ve 4,5 metrede ana toprağa ulaşılmıştır. Höyükteki kazı çalışması, yerleşmenin Ilıpınar'la ilişkili olabileceği beklentisiyle yapılmıştır. Ancak sadece Erken Tunç Çağı buluntularına ulaşılabilmiştir.",
+      "char_count": 452,
+      "token_estimate": 113
+    },
+    {
+      "id": "c0002",
+      "section": "== Tabakalanma ==",
+      "heading_path": "== Tabakalanma ==",
+      "start_char": 747,
+      "end_char": 1086,
+      "content": "== Tabakalanma == Höyükteki tüm kültür dolgusu Erken Tunç Çağı I. II. ve III. evreye tarihlenmektedir. Yüzey toplamalarında Geç Kalkolitik Çağ'a tarihlenen siyah açkılı çanak çömlek parçaları ele geçmiş olmasına karşın Geç Kalkolitik Çağ yerleşimi gösteren başkaca buluntu yoktur. Bu yüzden Kalkolitik Çağ yerleşimi kuşkulu görünmektedir.",
+      "char_count": 338,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0003",
+      "section": "== Buluntular ==",
+      "heading_path": "== Buluntular ==",
+      "start_char": 1086,
+      "end_char": 1578,
+      "content": "== Buluntular == En alttaki 2 metrelik dolguda kuzey – güney yönünde uzanan iki yapı saptanmıştır. Duvarlar dal örgü tekniğiyle yapılmış, tabanlar birkaç kez yenilenmiştir. Daha yukarı katmanlarda da duvarları dal örgü tekniğinde yapılmış, bol ahşap malzeme kullanılmış yapı kalıntıları vardır. Çanak çömlek buluntuları tipik Troya ve Eskişehir Demircihöyük mallarına benzemektedir. Bu buluntulardan hareketle Hacılartepe'nin Troya I – Yortan Kültür Bölgesi içinde olduğu kabul edilmektedir.",
+      "char_count": 491,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0004",
+      "section": "== Değerlendirme ve tarihleme ==",
+      "heading_path": "== Değerlendirme ve tarihleme ==",
+      "start_char": 1578,
+      "end_char": 1713,
+      "content": "== Değerlendirme ve tarihleme == Kazı sırasında alınan örneklerin radyokarbon tarihleme yöntemi sonuçları MÖ 2.400 tarihini vermiştir.",
+      "char_count": 134,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1713,
+      "end_char": 1747,
+      "content": "== Dış bağlantılar == Fotoğraflar",
+      "char_count": 33,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Çanak çömlek buluntularından hareketle Hacılartepe'nin hangi kültürel bölge içinde olduğu kabul edilmektedir?",
+        "answer": "Hacılartepe'nin Troya I – Yortan Kültür Bölgesi içinde olduğu kabul edilmektedir.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hacılartepe Höyüğü'nün Ilıpınar Höyüğü'ne olan konumu göz önüne alındığında, yerleşmede neden kazı yapılmıştır ve bu kazının beklenen ilişkiyle ilgili sonucu ne olmuştur?",
+        "answer": "Hacılartepe Höyüğü'nün Ilıpınar Höyüğü'ne 750 metre güneydoğusunda yer alması nedeniyle, yerleşmenin Ilıpınar'la ilişkili olabileceği beklentisiyle Ilıpınar kazı ekibi tarafından kazı yapılmıştır. Ancak bu kazılarda sadece Erken Tunç Çağı buluntularına ulaşılabilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

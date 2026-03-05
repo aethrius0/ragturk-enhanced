@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "rossanadibello_0f24c1a8",
+    "title": "Rossana Di Bello",
+    "url": "https://tr.wikipedia.org/wiki/Rossana_Di_Bello",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:29.008974",
+    "content": "Rossana Di Bello (28 Ağustos 1956 - 10 Nisan 2021), İtalyan siyasetçidir. 2000-2006 yılları arasında Taranto belediye başkanıydı. == Yaşamı == Taranto, İtalya'da 28 Ağustos 1956'da doğan Di Bello, sosyalist düşüncedeydi. 1993'te Taranto'da Forza Italia'nın ilk Apulian kulübünü kurdu ve aynı yıl başkan oldu. 1995 yılında Bölgesel Meclis Üyesi seçildi ve daha sonra Bölgesel Encümen Üyeliği'ne geçerek 1998 yılına kadar Turizm ve Kültürel Miras Bölge Encümen Üyesi olarak atandı. Di Bello, 30 Nisan 2000'de oylamada %57,5 oy elde ederek Taranto Belediye Başkanı seçildi. Adriana Poli Bortone'den (1998'de Lecce belediye başkanı) sonra Di Bello, göreve gelen ikinci kadın İtalyan Belediye Başkanı oldu. 3 Nisan 2005'te yapılan seçimlerde ilk turda oyların % 57,8'ini alarak ikinci defa görevine tekrar seçildi. 18 Şubat 2006'da, şehir yönetimi ile ilgili yürütülen soruşturmada görevi kötüye kullanmak ve sahte ideolojiden bir yıl dört ay hapis cezasına çarptırıldı suçlamalara itiraz ederek beraat etti belediye başkanlığını bıraktı. Yerine atanan olağanüstü komisyon üyesi Tommaso Blonda, Taranto Belediyesi'nin mali sıkıntı içerisinde olduğunu ilan etti. 18 Ekim 2006'da İyon kenti 357 milyon avroluk bir yükümlülük olduğunu kaydetti. 21 Kasım 2006'da Taranto Mahkemesi savcı yardımcısı, Di Bello ve aralarında başkentin eski yönetici ve yetkililerinin bulunduğu 32 kişi hakkında tekrar 2001'den 2005'e kadar geçen yıllarda taslak ve belediye bütçelerinin onaylanmasıyla ilgili olarak çeşitli şekillerde sahte ideolojik kamuya açık kaynakların kötüye kullanılmasıyla ilgili iddianame hazırlanmasını istedi. Di Bello, 7 Mart 2007'de belediye sözleşmelerinin uzatılmasıyla ilgili bir soruşturma kapsamında görevi kötüye kullanmak ve dolandırıcılıktan başsavcı yardımcısı Maurizio Carbone'dan başka bir bildirim aldı. Son olarak 1 Mart 2011'de Taranto Mahkemesi tarafından delil yetersizliğinden dolayı suçlandığı satın alma soruşturmasında görevi kötüye kullanma ve dolandırıcılık suçlarından beraat etti. == Özel yaşamı ve ölümü == Evli ve bir kız çocuğu annesi olan Di Bello, İtalya'daki COVID-19 salgını sırasında 10 Nisan 2021'de Taranto, İtalya'da 64 yaşında COVID-19 nedeniyle öldü. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 300,
+      "char_count": 2203,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.615886",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 130,
+      "content": "Rossana Di Bello (28 Ağustos 1956 - 10 Nisan 2021), İtalyan siyasetçidir. 2000-2006 yılları arasında Taranto belediye başkanıydı.",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 130,
+      "end_char": 1130,
+      "content": "== Yaşamı == Taranto, İtalya'da 28 Ağustos 1956'da doğan Di Bello, sosyalist düşüncedeydi. 1993'te Taranto'da Forza Italia'nın ilk Apulian kulübünü kurdu ve aynı yıl başkan oldu. 1995 yılında Bölgesel Meclis Üyesi seçildi ve daha sonra Bölgesel Encümen Üyeliği'ne geçerek 1998 yılına kadar Turizm ve Kültürel Miras Bölge Encümen Üyesi olarak atandı. Di Bello, 30 Nisan 2000'de oylamada %57,5 oy elde ederek Taranto Belediye Başkanı seçildi. Adriana Poli Bortone'den (1998'de Lecce belediye başkanı) sonra Di Bello, göreve gelen ikinci kadın İtalyan Belediye Başkanı oldu. 3 Nisan 2005'te yapılan seçimlerde ilk turda oyların % 57,8'ini alarak ikinci defa görevine tekrar seçildi. 18 Şubat 2006'da, şehir yönetimi ile ilgili yürütülen soruşturmada görevi kötüye kullanmak ve sahte ideolojiden bir yıl dört ay hapis cezasına çarptırıldı suçlamalara itiraz ederek beraat etti belediye başkanlığını bıraktı. Yerine atanan olağanüstü komisyon üyesi Tommaso Blonda, Taranto Belediyesi'nin mali sıkıntı içer",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 930,
+      "end_char": 1930,
+      "content": "dört ay hapis cezasına çarptırıldı suçlamalara itiraz ederek beraat etti belediye başkanlığını bıraktı. Yerine atanan olağanüstü komisyon üyesi Tommaso Blonda, Taranto Belediyesi'nin mali sıkıntı içerisinde olduğunu ilan etti. 18 Ekim 2006'da İyon kenti 357 milyon avroluk bir yükümlülük olduğunu kaydetti. 21 Kasım 2006'da Taranto Mahkemesi savcı yardımcısı, Di Bello ve aralarında başkentin eski yönetici ve yetkililerinin bulunduğu 32 kişi hakkında tekrar 2001'den 2005'e kadar geçen yıllarda taslak ve belediye bütçelerinin onaylanmasıyla ilgili olarak çeşitli şekillerde sahte ideolojik kamuya açık kaynakların kötüye kullanılmasıyla ilgili iddianame hazırlanmasını istedi. Di Bello, 7 Mart 2007'de belediye sözleşmelerinin uzatılmasıyla ilgili bir soruşturma kapsamında görevi kötüye kullanmak ve dolandırıcılıktan başsavcı yardımcısı Maurizio Carbone'dan başka bir bildirim aldı. Son olarak 1 Mart 2011'de Taranto Mahkemesi tarafından delil yetersizliğinden dolayı suçlandığı satın alma soruşt",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1730,
+      "end_char": 2005,
+      "content": "ve dolandırıcılıktan başsavcı yardımcısı Maurizio Carbone'dan başka bir bildirim aldı. Son olarak 1 Mart 2011'de Taranto Mahkemesi tarafından delil yetersizliğinden dolayı suçlandığı satın alma soruşturmasında görevi kötüye kullanma ve dolandırıcılık suçlarından beraat etti.",
+      "char_count": 275,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0004",
+      "section": "== Özel yaşamı ve ölümü ==",
+      "heading_path": "== Özel yaşamı ve ölümü ==",
+      "start_char": 2006,
+      "end_char": 2189,
+      "content": "== Özel yaşamı ve ölümü == Evli ve bir kız çocuğu annesi olan Di Bello, İtalya'daki COVID-19 salgını sırasında 10 Nisan 2021'de Taranto, İtalya'da 64 yaşında COVID-19 nedeniyle öldü.",
+      "char_count": 182,
+      "token_estimate": 45
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Di Bello ne zaman ve nerede doğdu?",
+        "answer": "28 Ağustos 1956'da Taranto, İtalya'da.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rossana Di Bello'nun Taranto Belediye Başkanlığı görevi neden sona erdi ve bu durum hem kendisi hem de Taranto Belediyesi için ne gibi hukuki ve mali sonuçlar doğurdu?",
+        "answer": "Rossana Di Bello'nun Taranto Belediye Başkanlığı görevi, 18 Şubat 2006'da görevi kötüye kullanmak ve sahte ideolojiden bir yıl dört ay hapis cezasına çarptırılması (suçlamalara itiraz ederek beraat etmesine rağmen) üzerine istifa etmesiyle sona ermiştir. Bu durumun kendisi için sonuçları, 2001-2005 yılları arasındaki bütçe onayları ve belediye sözleşmelerinin uzatılmasıyla ilgili olarak görevi kötüye kullanma, dolandırıcılık ve sahte ideolojik kamuya açık kaynakların kötüye kullanılması suçlamalarıyla yeni soruşturmalar ve iddianame talepleriyle karşılaşması olmuştur; ancak delil yetersizliğinden bazı suçlamalardan beraat etmiştir. Taranto Belediyesi için ise, görevi bırakmasının ardından yerine atanan olağanüstü komisyon üyesi Tommaso Blonda tarafından mali sıkıntı içerisinde olduğu ilan edilmiş ve 18 Ekim 2006'ya kadar 357 milyon avroluk bir yükümlülük tespit edilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

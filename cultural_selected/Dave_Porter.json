@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "daveporter_d7bed50a",
+    "title": "Dave Porter",
+    "url": "https://tr.wikipedia.org/wiki/Dave_Porter",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:41.947820",
+    "content": "Dave Porter, başlıca Breaking Bad, Better Call Saul ve El Camino: A Breaking Bad Movie ile tanınan bir bestecidir. Dave Porter, Sarah Lawrence College'dan Klasik ve Elektronik Müzik Kompozisyonu bölümü ile mezun olmuştur. == Breaking Bad == Breaking Bad dizisindeki çalışmalarından dolayı ASCAP Ödülüne layık görüldü. Bryan Cranston, Dave Porter için \"Müziğiyle Breaking Bad için başka bir karakter yarattı. Çağrıştırıcı ve anlamlı olan Dave'in çalışması, hikaye anlatımının önemli bir parçasıdır.\" Porter, müziğinin dizinin ruhunu nasıl etkilediğiyle ilgili tartışmaların, Breaking Bad'in yaratıcısı Vince Gilligan ile şovun post-modern bir western tarzına sahip olup olmadığıyla ilgili olduğunu belirtti. Porter, dizinin son bölümleri için önceki sezonlarda olan dört önemli temayı dahil etti. == Diğer çalışmaları == Porter günümüzde NBC'deki suç-gerilim temalı dizi olan The Blacklist 'in müziklerini bestelemekte. == Bireysel hayatı == Dave Porter hayatını eşi Jeanine, bir kız ve bir erkek çocuğuyla birlikte sürdürmekte. == Filmografi == == Diskografi == == Kaynakça == Jurgensen, John (September 24, 2013). \"Meet the Composer Behind the Eerie 'Breaking Bad' Theme\". Speakeasy. The Wall Street Journal. Retrieved January 11, 2014. \"Bio\". DavePorter.tv. Retrieved January 11, 2014. \"ASCAP Honors Top Film and Television Music Composers at 25th Anniversary Awards Celebration\". The American Society of Composers, Authors and Publishers. Retrieved January 11,2014. Gruber, Xaque (June 11, 2013). \"Q&A With Breaking Bad's Composer Extraordinaire, Dave Porter\". Huffington Post. Retrieved January 11, 2014. Spitznagel, Eric (September 25, 2013). \"The Eight Hardest 'Breaking Bad' Scenes to Score\". Rolling Stone. Retrieved February 11, 2014. Appelo, Tim (August 7, 2013). \"What You'll Hear in 'Breaking Bad': Composer Dave Porter's 4 Greatest Themes\". The Hollywood Reporter. Retrieved January 11, 2014. \"Dave Porter Discography\". MTV. Retrieved August 28, 2012. \"Dave Porter Discography\". The Atlantic. Retrieved September 22, 2013. \"Dave Porter Discography\". Amazon. Retrieved August 21, 2015. \"Dave Porter Discography\". Madison Gate Records. Retrieved November 6, 2015. \"Dave Porter Discography\". Varèse Sarabande. Retrieved January 15, 2016. \"Dave Porter Discography\". Madison Gate Records. Retrieved April 14, 2017. \"Dave Porter Discography\". WaterTower Music. Retrieved December 8, 2017. \"Dave Porter Discography\". Amazon. Retrieved September 29, 2019. Kaye, Ben (October 12, 2020). \"El Camino: A Breaking Bad Movie Soundtrack Gets First-Ever Release from Mondo\". Consequence of Sound. Archived from the original on October 13, 2020. Retrieved May 30, 2021. \"Soundtrack Album for Marvel's Disney+ Series 'Echo' Released\". Film Music Reporter. January 12, 2024. Archived from the original on January 12, 2024. Retrieved February 6, 2024.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 394,
+      "char_count": 2844,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.217002",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 222,
+      "content": "Dave Porter, başlıca Breaking Bad, Better Call Saul ve El Camino: A Breaking Bad Movie ile tanınan bir bestecidir. Dave Porter, Sarah Lawrence College'dan Klasik ve Elektronik Müzik Kompozisyonu bölümü ile mezun olmuştur.",
+      "char_count": 221,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0001",
+      "section": "== Breaking Bad ==",
+      "heading_path": "== Breaking Bad ==",
+      "start_char": 222,
+      "end_char": 796,
+      "content": "== Breaking Bad == Breaking Bad dizisindeki çalışmalarından dolayı ASCAP Ödülüne layık görüldü. Bryan Cranston, Dave Porter için \"Müziğiyle Breaking Bad için başka bir karakter yarattı. Çağrıştırıcı ve anlamlı olan Dave'in çalışması, hikaye anlatımının önemli bir parçasıdır.\" Porter, müziğinin dizinin ruhunu nasıl etkilediğiyle ilgili tartışmaların, Breaking Bad'in yaratıcısı Vince Gilligan ile şovun post-modern bir western tarzına sahip olup olmadığıyla ilgili olduğunu belirtti. Porter, dizinin son bölümleri için önceki sezonlarda olan dört önemli temayı dahil etti.",
+      "char_count": 573,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0002",
+      "section": "== Diğer çalışmaları ==",
+      "heading_path": "== Diğer çalışmaları ==",
+      "start_char": 796,
+      "end_char": 919,
+      "content": "== Diğer çalışmaları == Porter günümüzde NBC'deki suç-gerilim temalı dizi olan The Blacklist 'in müziklerini bestelemekte.",
+      "char_count": 122,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0003",
+      "section": "== Bireysel hayatı ==",
+      "heading_path": "== Bireysel hayatı ==",
+      "start_char": 919,
+      "end_char": 1028,
+      "content": "== Bireysel hayatı == Dave Porter hayatını eşi Jeanine, bir kız ve bir erkek çocuğuyla birlikte sürdürmekte.",
+      "char_count": 108,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1062,
+      "end_char": 2062,
+      "content": "== Kaynakça == Jurgensen, John (September 24, 2013). \"Meet the Composer Behind the Eerie 'Breaking Bad' Theme\". Speakeasy. The Wall Street Journal. Retrieved January 11, 2014. \"Bio\". DavePorter.tv. Retrieved January 11, 2014. \"ASCAP Honors Top Film and Television Music Composers at 25th Anniversary Awards Celebration\". The American Society of Composers, Authors and Publishers. Retrieved January 11,2014. Gruber, Xaque (June 11, 2013). \"Q&A With Breaking Bad's Composer Extraordinaire, Dave Porter\". Huffington Post. Retrieved January 11, 2014. Spitznagel, Eric (September 25, 2013). \"The Eight Hardest 'Breaking Bad' Scenes to Score\". Rolling Stone. Retrieved February 11, 2014. Appelo, Tim (August 7, 2013). \"What You'll Hear in 'Breaking Bad': Composer Dave Porter's 4 Greatest Themes\". The Hollywood Reporter. Retrieved January 11, 2014. \"Dave Porter Discography\". MTV. Retrieved August 28, 2012. \"Dave Porter Discography\". The Atlantic. Retrieved September 22, 2013. \"Dave Porter Discography\".",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1862,
+      "end_char": 2844,
+      "content": "ywood Reporter. Retrieved January 11, 2014. \"Dave Porter Discography\". MTV. Retrieved August 28, 2012. \"Dave Porter Discography\". The Atlantic. Retrieved September 22, 2013. \"Dave Porter Discography\". Amazon. Retrieved August 21, 2015. \"Dave Porter Discography\". Madison Gate Records. Retrieved November 6, 2015. \"Dave Porter Discography\". Varèse Sarabande. Retrieved January 15, 2016. \"Dave Porter Discography\". Madison Gate Records. Retrieved April 14, 2017. \"Dave Porter Discography\". WaterTower Music. Retrieved December 8, 2017. \"Dave Porter Discography\". Amazon. Retrieved September 29, 2019. Kaye, Ben (October 12, 2020). \"El Camino: A Breaking Bad Movie Soundtrack Gets First-Ever Release from Mondo\". Consequence of Sound. Archived from the original on October 13, 2020. Retrieved May 30, 2021. \"Soundtrack Album for Marvel's Disney+ Series 'Echo' Released\". Film Music Reporter. January 12, 2024. Archived from the original on January 12, 2024. Retrieved February 6, 2024.",
+      "char_count": 982,
+      "token_estimate": 245
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "The Wall Street Journal'daki 'Meet the Composer Behind the Eerie 'Breaking Bad' Theme' başlıklı makalenin yazarı kimdir?",
+        "answer": "John Jurgensen",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dave Porter'ın Sarah Lawrence College'daki müzik kompozisyonu eğitimi, Breaking Bad dizisindeki ödüllü çalışmalarıyla nasıl bir bağlantı taşımaktadır?",
+        "answer": "Dave Porter, Sarah Lawrence College'dan Klasik ve Elektronik Müzik Kompozisyonu bölümü ile mezun olmuştur. Bu eğitimi, Bryan Cranston'ın \"başka bir karakter\" olarak tanımladığı ve hikaye anlatımının önemli bir parçası olarak gördüğü, Breaking Bad dizisi için yaptığı ve ASCAP Ödülü kazandığı müziğin temellerini oluşturmasına yardımcı olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

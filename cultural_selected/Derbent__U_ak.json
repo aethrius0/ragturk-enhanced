@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "derbentuak_b26ff597",
+    "title": "Derbent, Uşak",
+    "url": "https://tr.wikipedia.org/wiki/Derbent%2C_U%C5%9Fak",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:59.962364",
+    "content": "Derbent, Uşak ilinin Merkez ilçesine bağlı bir köydür. == Tarihçe == Derbent adı, Selçuklu Devletinden Türkiye Cumhuriyetine kadar kullanılan istihbarat, asayiş, vergi düzeni ve ticaret yollarının korunmasını sağlayacak şekilde iskanında olduğu komplike bir güvenlik yapılanmasından gelmektedir. Günümüzde kısmen jandarmanın karşılığıdır. Uşak (Gediz) Derbendi İpek Yolu üzerinde ve 2 vilayetin (Kütahya-Manisa) kesiştiği sınırda olan boğaz olduğu için Osmanlı Devleti için stratejik öneme sahipti. Derbent'te 1800'lü yıllara kadar 40-50 hane olduğu sanılmakta olup halka açık yerleşke alanı değildi. Derbent'te görev yapan müsellimler, sipahiler, müştemilatçılar, saraciye, nalbant, ekinciler vs gibi farklı görevlilerin konakladığı bilinmekte ve yine Derbent'e yaklaşık 3 km uzaklıkta olan Emirfakı köyünde bulunan han, hamam, kervansaray, camii vs buradaki görevliler ve yolculara konaklama ve ulaşım hizmeti vermekteydi. Köyün bulunduğu bölgede yerleşimin tarihi oldukça eski dönemlere uzanmaktadır. Köye bağlı Uzundere mevkii, Aşağıkapancık Mahallesi dolaylarında nekropol alanı bulunmaktadır. 1935 yılı nüfus sayımında köyün nüfusu 645 olup Kütahya ilinin Gediz ilçe merkezine bağlıydı. 1974 yılında Kütahya ilinin Gediz ilçesinden ayrılarak Uşak'a bağlanmıştır. == Coğrafya == Köy, Uşak il merkezinin 27 km kuzeybatısında yer almaktadır. Kütahya-Uşak sınır köyüdür. Köyün Güney'inden Gediz Nehri geçmektedir. Akdağ'ın kolu olan Kurt deresi köyün kuzeydoğusun gelerek köyün 1 km batısında Gediz nehrine bağlanır. Murat Dağının kolu olan Diken Dereside köyün 4 km güney batısından Emir Fakı dolaylarında Gediz nehrine bağlanır. Ayrıca köyde 1985'lerde faal olan tuğla ocağı kiremit ocağı taş ocağı ve hâlen faaliyette bulunan kum ocakları mevcuttur. Ayrıca Kuzeyi ve batısı çam ormanıyla kaplıdır. Köyün Güneyinden Uşak-Kütahya (D-595) yolu geçmektedir. == Nüfus == == Kaynakça == == Dış bağlantılar == Derbent, Uşak için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 260,
+      "char_count": 1977,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.344857",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 55,
+      "content": "Derbent, Uşak ilinin Merkez ilçesine bağlı bir köydür.",
+      "char_count": 54,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 55,
+      "end_char": 1055,
+      "content": "== Tarihçe == Derbent adı, Selçuklu Devletinden Türkiye Cumhuriyetine kadar kullanılan istihbarat, asayiş, vergi düzeni ve ticaret yollarının korunmasını sağlayacak şekilde iskanında olduğu komplike bir güvenlik yapılanmasından gelmektedir. Günümüzde kısmen jandarmanın karşılığıdır. Uşak (Gediz) Derbendi İpek Yolu üzerinde ve 2 vilayetin (Kütahya-Manisa) kesiştiği sınırda olan boğaz olduğu için Osmanlı Devleti için stratejik öneme sahipti. Derbent'te 1800'lü yıllara kadar 40-50 hane olduğu sanılmakta olup halka açık yerleşke alanı değildi. Derbent'te görev yapan müsellimler, sipahiler, müştemilatçılar, saraciye, nalbant, ekinciler vs gibi farklı görevlilerin konakladığı bilinmekte ve yine Derbent'e yaklaşık 3 km uzaklıkta olan Emirfakı köyünde bulunan han, hamam, kervansaray, camii vs buradaki görevliler ve yolculara konaklama ve ulaşım hizmeti vermekteydi. Köyün bulunduğu bölgede yerleşimin tarihi oldukça eski dönemlere uzanmaktadır. Köye bağlı Uzundere mevkii, Aşağıkapancık Mahallesi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 855,
+      "end_char": 1268,
+      "content": "daki görevliler ve yolculara konaklama ve ulaşım hizmeti vermekteydi. Köyün bulunduğu bölgede yerleşimin tarihi oldukça eski dönemlere uzanmaktadır. Köye bağlı Uzundere mevkii, Aşağıkapancık Mahallesi dolaylarında nekropol alanı bulunmaktadır. 1935 yılı nüfus sayımında köyün nüfusu 645 olup Kütahya ilinin Gediz ilçe merkezine bağlıydı. 1974 yılında Kütahya ilinin Gediz ilçesinden ayrılarak Uşak'a bağlanmıştır.",
+      "char_count": 413,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0003",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 1269,
+      "end_char": 1859,
+      "content": "== Coğrafya == Köy, Uşak il merkezinin 27 km kuzeybatısında yer almaktadır. Kütahya-Uşak sınır köyüdür. Köyün Güney'inden Gediz Nehri geçmektedir. Akdağ'ın kolu olan Kurt deresi köyün kuzeydoğusun gelerek köyün 1 km batısında Gediz nehrine bağlanır. Murat Dağının kolu olan Diken Dereside köyün 4 km güney batısından Emir Fakı dolaylarında Gediz nehrine bağlanır. Ayrıca köyde 1985'lerde faal olan tuğla ocağı kiremit ocağı taş ocağı ve hâlen faaliyette bulunan kum ocakları mevcuttur. Ayrıca Kuzeyi ve batısı çam ormanıyla kaplıdır. Köyün Güneyinden Uşak-Kütahya (D-595) yolu geçmektedir.",
+      "char_count": 589,
+      "token_estimate": 147
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1886,
+      "end_char": 1977,
+      "content": "== Dış bağlantılar == Derbent, Uşak için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+      "char_count": 91,
+      "token_estimate": 22
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1800'lü yıllara kadar Derbent'te yaklaşık kaç hane olduğu sanılmaktaydı?",
+        "answer": "40-50 hane",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Uşak iline bağlı bir köy olan Derbent'in coğrafi konumu, Osmanlı Devleti için neden stratejik bir öneme sahipti?",
+        "answer": "Derbent, Uşak ilinin Merkez ilçesine bağlı bir köy olmasına rağmen, İpek Yolu üzerinde ve Kütahya-Manisa vilayetlerinin kesiştiği sınırda bir boğaz konumunda olması nedeniyle Osmanlı Devleti için stratejik öneme sahipti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

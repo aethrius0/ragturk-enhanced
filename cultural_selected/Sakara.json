@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "sakara_e922e975",
+    "title": "Sakara",
+    "url": "https://tr.wikipedia.org/wiki/Sakara",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:10.430786",
+    "content": "Sakara müziği, Nijerya'nın Yoruba müziği geleneklerine dayanan bir popüler müzik türüdür. Çoğunlukla geleneksel Yoruba enstrümanlarını kullanan güzelleme şarkıları şeklindedir. Bu enstrümanlar arasında kolayca fark edilebilir ve ayrıştırılabilir (heybetli olarak da tanımlanır) bir sese sahip olan goje kemanı ve bir baget ile çalınan, tamburine benzeyen küçük yuvarlak sakara davulu bulunur. Sakara müziği, Doğu Afrika ve Arap tarzı nazalize (okuma sırasında burun kullanımının ön planda olduğu) ve melizmatik vokalleri geleneksel perküsyon enstrümanları ile birlikte kullanır. Müziğin oluşturduğu ortam, insanı genellikle düşünceli ve felsefi bir ruh haline yönlendirir. Lagos'ta bu tür müziğin ilk icracılarından biri, 1930'larda çalmaya başlayan Abibu Oluwa dır. 1964'teki vefatının ardından, gruptaki yerini, 35'ten fazla plak çıkaran bir konuşan davulcu (konuşan davul, çalarken ton değiştirme özelliğine sahip Afrika'ya özgü bir vurmalı çalgıdır) olan Salami Alabi (Lefty) Balogun (Ekim 1913 - 29 Aralık 1981) almıştır. Grubun diğer üyeleri arasında ise Baba Mukaila ve Joseph (Yussuf) Olatunju vardır. Baba l’Egba lakaplı Yusuf Olatunji (1978'de vefat etmiştir), bu müzik türünü popülerleştirmek için birçok şey yapmıştır ve Phillips Nigeria etiketiyle birçok plak çıkarmıştır. Abeokuta'da bir caddeye onun adı verilmiştir. Sakara müziği, Jùjú ve Nijerya Hip Hop da dahil olmak üzere diğer türler üzerinde büyük bir etkiye sahiptir. Örnek vermek gerekirse, Fuji müziği, Müslüman geleneksel Were müziğinin, Sakara ve Apala müziğinden alınan unsurlarla harmanlanmış bir karışımıdır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 214,
+      "char_count": 1603,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.285526",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Sakara müziği, Nijerya'nın Yoruba müziği geleneklerine dayanan bir popüler müzik türüdür. Çoğunlukla geleneksel Yoruba enstrümanlarını kullanan güzelleme şarkıları şeklindedir. Bu enstrümanlar arasında kolayca fark edilebilir ve ayrıştırılabilir (heybetli olarak da tanımlanır) bir sese sahip olan goje kemanı ve bir baget ile çalınan, tamburine benzeyen küçük yuvarlak sakara davulu bulunur. Sakara müziği, Doğu Afrika ve Arap tarzı nazalize (okuma sırasında burun kullanımının ön planda olduğu) ve melizmatik vokalleri geleneksel perküsyon enstrümanları ile birlikte kullanır. Müziğin oluşturduğu ortam, insanı genellikle düşünceli ve felsefi bir ruh haline yönlendirir. Lagos'ta bu tür müziğin ilk icracılarından biri, 1930'larda çalmaya başlayan Abibu Oluwa dır. 1964'teki vefatının ardından, gruptaki yerini, 35'ten fazla plak çıkaran bir konuşan davulcu (konuşan davul, çalarken ton değiştirme özelliğine sahip Afrika'ya özgü bir vurmalı çalgıdır) olan Salami Alabi (Lefty) Balogun (Ekim 1913 -",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1588,
+      "content": "ptaki yerini, 35'ten fazla plak çıkaran bir konuşan davulcu (konuşan davul, çalarken ton değiştirme özelliğine sahip Afrika'ya özgü bir vurmalı çalgıdır) olan Salami Alabi (Lefty) Balogun (Ekim 1913 - 29 Aralık 1981) almıştır. Grubun diğer üyeleri arasında ise Baba Mukaila ve Joseph (Yussuf) Olatunju vardır. Baba l’Egba lakaplı Yusuf Olatunji (1978'de vefat etmiştir), bu müzik türünü popülerleştirmek için birçok şey yapmıştır ve Phillips Nigeria etiketiyle birçok plak çıkarmıştır. Abeokuta'da bir caddeye onun adı verilmiştir. Sakara müziği, Jùjú ve Nijerya Hip Hop da dahil olmak üzere diğer türler üzerinde büyük bir etkiye sahiptir. Örnek vermek gerekirse, Fuji müziği, Müslüman geleneksel Were müziğinin, Sakara ve Apala müziğinden alınan unsurlarla harmanlanmış bir karışımıdır.",
+      "char_count": 788,
+      "token_estimate": 197
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Lagos'ta Sakara müziğinin ilk icracılarından biri kimdir?",
+        "answer": "Abibu Oluwa",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sakara müziğinin temel özellikleri ve önde gelen katkıda bulunan kişileri, müziğin diğer türler üzerindeki etkisiyle nasıl ilişkilidir ve bu etkinin görüldüğü belirli türler nelerdir?",
+        "answer": "Sakara müziği, geleneksel Yoruba enstrümanları, Doğu Afrika ve Arap tarzı nazalize ve melizmatik vokallerle icra edilen güzelleme şarkılarından oluşan temel özelliklere sahiptir. Abibu Oluwa gibi ilk icracılar ve ardından Salami Alabi Balogun ile Yusuf Olatunji gibi türü popülerleştiren önemli figürler sayesinde Sakara müziği geniş bir etki alanı kazanmıştır. Bu sayede Jùjú, Nijerya Hip Hop ve özellikle Sakara ve Apala müziğinden alınan unsurlarla harmanlanmış Müslüman Were müziğinin bir karışımı olan Fuji müziği gibi türler üzerinde büyük bir etki bırakmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

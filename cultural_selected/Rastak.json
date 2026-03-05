@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "rastak_8dd7b156",
+    "title": "Rastak",
+    "url": "https://tr.wikipedia.org/wiki/Rastak",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:36.258825",
+    "content": "Rastak Müzik Grubu, 1997 yılında deneysel bir müzik grubu olarak kurulmuş İranlı bir çağdaş halk müziği topluluğudur. Rastak toplamayı, kaydetmeyi ve yorumlamayı amaçlar İran'da yaşayan milletlerin dillerinde ve lehçelerinde müzik yapmaktadırlar. == Rastak Hakkında == Rastak, Fars dilini, İran kültürünü ve tarihini birleştirmenin yanı sıra geleneksel enstrümanları ve formları çağdaş ritimlerle birleştirmiştir. Fars halk müziği konusunda hem akademik hem de uygulamalı olarak kapsamlı araştırmalar yapmıştır. İran folklorunun ve çeşitli kültürlerin sesine odaklandılar. Rastak birçok uluslararası müzik festivalinde yer almıştır. İran'da ve denizaşırı ülkelerde sayısız konser turları olmuştur. Beş albüm, beş single yapmışlardır. İran, İngiltere, Avusturya, Almanya, Fransa, İtalya, İspanya, Hollanda, İsveç, Amerika Birleşik Devletleri, Kanada, Avustralya, Hindistan, Japonya, Malezya, Şili, Polonya, Türkiye, Gürcistan, Belçika, Umman, Beyaz Rusya, Kazakistan, Bangladeş, Irak, Erbil ve Birleşik Arap Emirlikleri gibi birçok ülkede konserler, müzik festivalleri vermiştir. == Üyeler == Siamak Sepehri Farzad Moradi Behzad Moradi Dina Doosti Majid Poosti Yasaman Necmeddin Ekber Esmaeelipour Omid Mustafavi Hamed Bolandhemmat Parisa İnanloo == Albümler == Rangvareha-ye-Kohan (Antik Tonlar) - Ses, 2007 Hame-ye Aghvam-e Man (All My Homeland People) - Ses ve Görüntü, 2010 Sorna-ye Norouz / Video albümü, 2013 Mian-e Khorshidha-ye Hamisheh (Ebedi Güneşler Arasında) - Ses ve Video albümü, 2016 Bahar - Ses ve Video albümü, 2018 Evde Kenarlıksız - Ses Teklileri 2019-2020 Dance With Rastak - Ses ve Video Albümü 2021 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 219,
+      "char_count": 1634,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.217954",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 247,
+      "content": "Rastak Müzik Grubu, 1997 yılında deneysel bir müzik grubu olarak kurulmuş İranlı bir çağdaş halk müziği topluluğudur. Rastak toplamayı, kaydetmeyi ve yorumlamayı amaçlar İran'da yaşayan milletlerin dillerinde ve lehçelerinde müzik yapmaktadırlar.",
+      "char_count": 246,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0001",
+      "section": "== Rastak Hakkında ==",
+      "heading_path": "== Rastak Hakkında ==",
+      "start_char": 247,
+      "end_char": 1079,
+      "content": "== Rastak Hakkında == Rastak, Fars dilini, İran kültürünü ve tarihini birleştirmenin yanı sıra geleneksel enstrümanları ve formları çağdaş ritimlerle birleştirmiştir. Fars halk müziği konusunda hem akademik hem de uygulamalı olarak kapsamlı araştırmalar yapmıştır. İran folklorunun ve çeşitli kültürlerin sesine odaklandılar. Rastak birçok uluslararası müzik festivalinde yer almıştır. İran'da ve denizaşırı ülkelerde sayısız konser turları olmuştur. Beş albüm, beş single yapmışlardır. İran, İngiltere, Avusturya, Almanya, Fransa, İtalya, İspanya, Hollanda, İsveç, Amerika Birleşik Devletleri, Kanada, Avustralya, Hindistan, Japonya, Malezya, Şili, Polonya, Türkiye, Gürcistan, Belçika, Umman, Beyaz Rusya, Kazakistan, Bangladeş, Irak, Erbil ve Birleşik Arap Emirlikleri gibi birçok ülkede konserler, müzik festivalleri vermiştir.",
+      "char_count": 831,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0002",
+      "section": "== Üyeler ==",
+      "heading_path": "== Üyeler ==",
+      "start_char": 1079,
+      "end_char": 1246,
+      "content": "== Üyeler == Siamak Sepehri Farzad Moradi Behzad Moradi Dina Doosti Majid Poosti Yasaman Necmeddin Ekber Esmaeelipour Omid Mustafavi Hamed Bolandhemmat Parisa İnanloo",
+      "char_count": 166,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0003",
+      "section": "== Albümler ==",
+      "heading_path": "== Albümler ==",
+      "start_char": 1246,
+      "end_char": 1620,
+      "content": "== Albümler == Rangvareha-ye-Kohan (Antik Tonlar) - Ses, 2007 Hame-ye Aghvam-e Man (All My Homeland People) - Ses ve Görüntü, 2010 Sorna-ye Norouz / Video albümü, 2013 Mian-e Khorshidha-ye Hamisheh (Ebedi Güneşler Arasında) - Ses ve Video albümü, 2016 Bahar - Ses ve Video albümü, 2018 Evde Kenarlıksız - Ses Teklileri 2019-2020 Dance With Rastak - Ses ve Video Albümü 2021",
+      "char_count": 373,
+      "token_estimate": 93
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rastak kaç albüm ve single yayınlamıştır?",
+        "answer": "Rastak beş albüm ve beş single yayınlamıştır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rastak Müzik Grubu'nun 1997'deki deneysel başlangıç amacı olan İran'da yaşayan milletlerin dil ve lehçelerinde müzik toplama ve yorumlama hedefi, grubun daha sonraki sanatsal yaklaşımı ve uluslararası faaliyetleriyle nasıl birleşmektedir?",
+        "answer": "Rastak, başlangıçtaki bu hedefi, Fars dilini, İran kültürünü ve tarihini geleneksel enstrümanları çağdaş ritimlerle birleştirerek ve İran folklorunun ve çeşitli kültürlerin sesine odaklanarak genişletmiştir. Bu yaklaşım, grubun beş albüm ve beş single üretmesine ve çok sayıda uluslararası müzik festivalinde yer alarak İran içinde ve denizaşırı birçok ülkede konser turları düzenlemesine olanak sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

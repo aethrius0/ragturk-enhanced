@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "quatremredequincy_70a478c0",
+    "title": "Quatremère de Quincy",
+    "url": "https://tr.wikipedia.org/wiki/Quatrem%C3%A8re_de_Quincy",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:19.409266",
+    "content": "Antoine Chrysostôme Quatremère de Quincy (d. 21 Ekim 1755, Paris - ö. 28 Aralık 1849, Paris), Fransız yazar, arkeolog ve sanat tarihçisi. == Yaşamı == Paris'te doğdu, hukuk eğitimi aldı ve Lycée Louis-le-Grand'da sanat ve tarih derslerine devam etti. Guillaume Coustou ve Pierre Julien'in sanat atölyesinde çıraklık yaptı ve buralarda heykel sanatı hakkında ilk deneyimlerini kazandı. Napoli'ye yaptığı bir gezide Jacques-Louis David'nın arkadaşlığı sayesinde Yunan ve Roma mimarisine ilgisi arttı. Fransız Devrimi'nin zorluklarıyla uğraştı. 1791-92'de yasama meclisinde yer alan kralcılardandı ve Katolik ve monarşi yanlısı idi. 1796'da monarşist bir ayaklanma girişimine katıldığı gerekçesiyle ölüme mahkûm edildi, fakat daha sonra serbest bırakıldı. 1797'de \"Beşyüzler Meclisi\"ne seçildi, fakat seçilmesinden hemen sonra başlayan monarşist bir ayaklanmadan dolayı yeraltına çekilmek zorunda kaldı. 1800'de Sen bölgesinin Genel Konsey'inde Genel Sekreter olarak çalıştı. 1788 ile 1825 arasında Charles-Joseph Panckoucke tarafından yayınlanan Encyclopédie Méthodique'in Mimarlık ile ilgili 3 ciltlik kısmını yazdı. 1816 ile 1839 arasında Académie des Beaux-Arts'ın sekreterliğini yaptı ve 1818'de Bibliothèque nationale de France'de profesör oldu. 1810'da Bavarian Academy of Sciences and Humanities tarafından konuk üye olarak kabul edildi. Sayısız makale ve kitap yazdı. En önemli yapıtı, Olimpia'daki Zeus Heykeli üzerine yazdığı Le Jupiter olympien (Paris 1814) gösterilebilir. == Eserleri == Encyclopédie méthodique. Architecture, 3 Bände, 1788 (Digitalisat) Le Jupiter olympien ou l'Art de la sculpture antique considéré sous un nouveau point de vue, 1814 Essai sur la nature, le but et les moyens de l'imitation dans les beaux-arts, 1823 (Digitalisat 20 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi.) Histoire de la vie et des ouvrages des plus célèbres architectes du XIe siècle jusqu'à la fin du XVIIIe, 1830 (Digitalisat) Canova et ses ouvrages, ou Mémoires historiques sur la vie et les travaux de ce célèbre artiste, 1834 (Digitalisat 20 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi.) Recueil de dissertations archéologiques, 1836 (Digitalisat) Essai sur l'idéal dans ses applications pratiques aux oeuvres de l'imitation propre des arts du dessin, 1837 (Digitalisat 20 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi.)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 324,
+      "char_count": 2368,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.057201",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 138,
+      "content": "Antoine Chrysostôme Quatremère de Quincy (d. 21 Ekim 1755, Paris - ö. 28 Aralık 1849, Paris), Fransız yazar, arkeolog ve sanat tarihçisi.",
+      "char_count": 137,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 138,
+      "end_char": 1138,
+      "content": "== Yaşamı == Paris'te doğdu, hukuk eğitimi aldı ve Lycée Louis-le-Grand'da sanat ve tarih derslerine devam etti. Guillaume Coustou ve Pierre Julien'in sanat atölyesinde çıraklık yaptı ve buralarda heykel sanatı hakkında ilk deneyimlerini kazandı. Napoli'ye yaptığı bir gezide Jacques-Louis David'nın arkadaşlığı sayesinde Yunan ve Roma mimarisine ilgisi arttı. Fransız Devrimi'nin zorluklarıyla uğraştı. 1791-92'de yasama meclisinde yer alan kralcılardandı ve Katolik ve monarşi yanlısı idi. 1796'da monarşist bir ayaklanma girişimine katıldığı gerekçesiyle ölüme mahkûm edildi, fakat daha sonra serbest bırakıldı. 1797'de \"Beşyüzler Meclisi\"ne seçildi, fakat seçilmesinden hemen sonra başlayan monarşist bir ayaklanmadan dolayı yeraltına çekilmek zorunda kaldı. 1800'de Sen bölgesinin Genel Konsey'inde Genel Sekreter olarak çalıştı. 1788 ile 1825 arasında Charles-Joseph Panckoucke tarafından yayınlanan Encyclopédie Méthodique'in Mimarlık ile ilgili 3 ciltlik kısmını yazdı. 1816 ile 1839 arasında",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 938,
+      "end_char": 1482,
+      "content": "nde Genel Sekreter olarak çalıştı. 1788 ile 1825 arasında Charles-Joseph Panckoucke tarafından yayınlanan Encyclopédie Méthodique'in Mimarlık ile ilgili 3 ciltlik kısmını yazdı. 1816 ile 1839 arasında Académie des Beaux-Arts'ın sekreterliğini yaptı ve 1818'de Bibliothèque nationale de France'de profesör oldu. 1810'da Bavarian Academy of Sciences and Humanities tarafından konuk üye olarak kabul edildi. Sayısız makale ve kitap yazdı. En önemli yapıtı, Olimpia'daki Zeus Heykeli üzerine yazdığı Le Jupiter olympien (Paris 1814) gösterilebilir.",
+      "char_count": 544,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0003",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1483,
+      "end_char": 2368,
+      "content": "== Eserleri == Encyclopédie méthodique. Architecture, 3 Bände, 1788 (Digitalisat) Le Jupiter olympien ou l'Art de la sculpture antique considéré sous un nouveau point de vue, 1814 Essai sur la nature, le but et les moyens de l'imitation dans les beaux-arts, 1823 (Digitalisat 20 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi.) Histoire de la vie et des ouvrages des plus célèbres architectes du XIe siècle jusqu'à la fin du XVIIIe, 1830 (Digitalisat) Canova et ses ouvrages, ou Mémoires historiques sur la vie et les travaux de ce célèbre artiste, 1834 (Digitalisat 20 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi.) Recueil de dissertations archéologiques, 1836 (Digitalisat) Essai sur l'idéal dans ses applications pratiques aux oeuvres de l'imitation propre des arts du dessin, 1837 (Digitalisat 20 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi.)",
+      "char_count": 885,
+      "token_estimate": 221
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Encyclopédie Méthodique'in mimarlıkla ilgili 3 ciltlik kısmını kim yayınladı?",
+        "answer": "Charles-Joseph Panckoucke.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Antoine Chrysostôme Quatremère de Quincy'nin Yunan ve Roma mimarisine olan ilgisi, kariyerindeki hangi önemli yayın ve rollerle ilişkilendirilebilir?",
+        "answer": "Antoine Chrysostôme Quatremère de Quincy'nin Yunan ve Roma mimarisine olan ilgisi, Napoli'ye yaptığı bir gezide artmıştır. Bu ilgi, Encyclopédie Méthodique'in Mimarlık ile ilgili 3 ciltlik kısmını yazması ve Olimpia'daki Zeus Heykeli üzerine yazdığı \"Le Jupiter olympien\" adlı en önemli yapıtında kendini göstermiştir. Ayrıca kendisi bir arkeolog ve sanat tarihçisi olarak da bu alanda çalışmalar yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

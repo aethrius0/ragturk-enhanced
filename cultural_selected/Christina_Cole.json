@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "christinacole_f69beb5b",
+    "title": "Christina Cole",
+    "url": "https://tr.wikipedia.org/wiki/Christina_Cole",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:32.518799",
+    "content": "Christina Cole (d. 8 Mayıs 1982, Londra), İngiliz oyuncu. Cassie Hughes karakterini canlandırdığı Hex adlı TV dizisi ve 2011 yapımı korku-aksiyon filmi Zaman Tüneli: Morlock'larin Yükselisi 'nde canlandırdığı Angela karakteriyle tanındı. Suits dizisinde 17 bölüm boyunca başrol oyuncularından Gabriel Macht'ın psikiyatristi Dr. Paula Agard rolünde oynadı. == Gençliği == Londra'da doğan Cole, üç kardeşin en büyüğüdür. Kız kardeşinin adı Cassandra, erkek kardeşinin adı Dominic'tir. Annesi bilgisayar kütüphanesi yöneticisi babası ise sürüş eğitmenidir. Drama okumak için seçmelere katılmış ve burslu olarak Oxford School of Drama'yı kazanmıştır. 2002 yılında mezun olmuştur. == Kariyeri == Cole, Oxford School of Drama'da eğitim görürken Sevgi Herşeydir filminin kadrosuna girmiştir. Filmin çekimleri sırasında Romeo ve Juliet'in tiyatro oyununda oynaması için teklif almıştır. İlk başrolünü fantastik televizyon dizisi Hex ile almıştır. Dizide ilk sezonda ve ikinci sezonun bir kısmında bir cadı olan Cassie Hughes karakterini canlandırmıştır. Cole diziden ayrılmış bu nedenle dizide karakteri ölmüştür. Hex dizisinden ayrıldıktan sonra BBC'nin Jane Eyre romanından uyarladığı Jane Eyre mini dizisinde Blanche Ingram karakterini canlandırmıştır. 2006'da James Bond filmi Casino Royale'de, Bahamalar'ın başkenti Nassau'daki Ocean Club Hotel'deki resepsiyon görevlisini canlandırdığı ufak bir rolü vardır. 2008 yılında Hex dizisindeki rol arkadaşı Jemima Rooper ile BBC'nin 4 bölümlük mini dizisi Lost in Austen'da Caroline Bingley karakteriyle rol almıştır. 2012 yılında Cheyenne Jackson'ın \"Before You\" adlı şarkısına çektiği video klipte yer almıştır. 2016 yılında Friends dizisi oyuncusu Matthew Perry'nin yazdığı The End of Longing adlı tiyatro oyununda Stevie karakterini canlandırmıştır. == Filmografi == === Sinema === === Televizyon === == Dış bağlantılar == IMDb'de Christina Cole Christina Cole Arşiv == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 258,
+      "char_count": 1926,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.591002",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 356,
+      "content": "Christina Cole (d. 8 Mayıs 1982, Londra), İngiliz oyuncu. Cassie Hughes karakterini canlandırdığı Hex adlı TV dizisi ve 2011 yapımı korku-aksiyon filmi Zaman Tüneli: Morlock'larin Yükselisi 'nde canlandırdığı Angela karakteriyle tanındı. Suits dizisinde 17 bölüm boyunca başrol oyuncularından Gabriel Macht'ın psikiyatristi Dr. Paula Agard rolünde oynadı.",
+      "char_count": 355,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0001",
+      "section": "== Gençliği ==",
+      "heading_path": "== Gençliği ==",
+      "start_char": 356,
+      "end_char": 676,
+      "content": "== Gençliği == Londra'da doğan Cole, üç kardeşin en büyüğüdür. Kız kardeşinin adı Cassandra, erkek kardeşinin adı Dominic'tir. Annesi bilgisayar kütüphanesi yöneticisi babası ise sürüş eğitmenidir. Drama okumak için seçmelere katılmış ve burslu olarak Oxford School of Drama'yı kazanmıştır. 2002 yılında mezun olmuştur.",
+      "char_count": 319,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 676,
+      "end_char": 1676,
+      "content": "== Kariyeri == Cole, Oxford School of Drama'da eğitim görürken Sevgi Herşeydir filminin kadrosuna girmiştir. Filmin çekimleri sırasında Romeo ve Juliet'in tiyatro oyununda oynaması için teklif almıştır. İlk başrolünü fantastik televizyon dizisi Hex ile almıştır. Dizide ilk sezonda ve ikinci sezonun bir kısmında bir cadı olan Cassie Hughes karakterini canlandırmıştır. Cole diziden ayrılmış bu nedenle dizide karakteri ölmüştür. Hex dizisinden ayrıldıktan sonra BBC'nin Jane Eyre romanından uyarladığı Jane Eyre mini dizisinde Blanche Ingram karakterini canlandırmıştır. 2006'da James Bond filmi Casino Royale'de, Bahamalar'ın başkenti Nassau'daki Ocean Club Hotel'deki resepsiyon görevlisini canlandırdığı ufak bir rolü vardır. 2008 yılında Hex dizisindeki rol arkadaşı Jemima Rooper ile BBC'nin 4 bölümlük mini dizisi Lost in Austen'da Caroline Bingley karakteriyle rol almıştır. 2012 yılında Cheyenne Jackson'ın \"Before You\" adlı şarkısına çektiği video klipte yer almıştır. 2016 yılında Friends ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1476,
+      "end_char": 1794,
+      "content": "bölümlük mini dizisi Lost in Austen'da Caroline Bingley karakteriyle rol almıştır. 2012 yılında Cheyenne Jackson'ın \"Before You\" adlı şarkısına çektiği video klipte yer almıştır. 2016 yılında Friends dizisi oyuncusu Matthew Perry'nin yazdığı The End of Longing adlı tiyatro oyununda Stevie karakterini canlandırmıştır.",
+      "char_count": 318,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1846,
+      "end_char": 1912,
+      "content": "== Dış bağlantılar == IMDb'de Christina Cole Christina Cole Arşiv",
+      "char_count": 65,
+      "token_estimate": 16
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cole, ilk başrolünü hangi televizyon dizisinde almıştır?",
+        "answer": "Fantastik televizyon dizisi Hex.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Christina Cole'ın drama eğitimi ve kariyerinin ilk aşamaları, onu hangi önemli rollerle tanınan bir oyuncu haline getirmiştir?",
+        "answer": "Christina Cole, burslu olarak Oxford School of Drama'dan 2002 yılında mezun olmuştur. Henüz eğitimine devam ederken \"Sevgi Herşeydir\" filminin kadrosuna girmiş, ardından fantastik televizyon dizisi Hex'te Cassie Hughes karakteriyle ilk başrolünü üstlenmiştir. Bu süreç, onun daha sonra \"Zaman Tüneli: Morlock'ların Yükselişi\" filmindeki Angela ve \"Suits\" dizisindeki Dr. Paula Agard gibi rollerle geniş kitlelerce tanınmasına yol açmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

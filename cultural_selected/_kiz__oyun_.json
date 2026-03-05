@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "kizoyun_c36f83e3",
+    "title": "İkiz (oyun)",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0kiz_%28oyun%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:35.055223",
+    "content": "İkiz, kavramsal sanatçı Genco Gülan tarafından hazırlanan, seyir, seyirci, seyirlik kavramlarını sorgulayan bir performans gösterisi. Oyun ilk defa İKSV Salon'da 1 Şubat 2011'de sahnelendi. Seyircinin katılımı ile oluşan bu performans projesinde tek yumurta ikizi olan Yeliz ve Deniz Çelebi ile İrem ve Gizem Halis yer aldılar. Gösteri; aynı zamanda 16 Şubat-19 Mart 2011 tarihlerinde, Galata Perform'da sahnelendi. ‘İkiz’ projesinde ikizlilik ile sanatı ortak noktada buluşturan kavramlar benzerlik ve benzersizlik kavramları olmuştur. Gülan'ın hazırladığı performans, tiyatro’nun “İtalyan sahne” ile plastik sanatların “beyaz küp” anlayışlarının dışında plastik sanatların klasik salon sergisi anlayışına yeni bir bakış açısı kazandırmıştır. Çeşitli duyulara hitap eden ‘ikiz'de dijital ve bio teknolojileri tamamen kavramsal zemin ile sınırlandırılmıştır. Tek yumurta ikizlerinin, ellerinden tutarak seyirciyi götürdüğü mekana özgü yolculuk; 22 kişiye, sanat tarihi ve estetik üzerine referanslar yaparak, katılımcılara farklı bir tecrübe deneyimlemeyi vadetmiştir. == Özet == İkizler, katılımcıları tek tek Salon'a çağırır, gözlerini bağlarlar ve ellerinden tutarak Salon'a götürür. Seyircilerin, yolun en sonuna kadar göremeyecekleri rota, birçok sürprize gebedir. İkizlerin anlattıkları hikâyelerin tınıları kulağa tanıdık gelse de masalsı gezinti şımartıcı olduğu kadar tehditkârdır. == Kaynakça == == Dış bağlantılar == http://mimesis-dergi.org/2011/03/zaman-ve-mekan-algisi/ 25 Ocak 2021 tarihinde Wayback Machine sitesinde arşivlendi. http://sanatseverlerdergisi.blogcu.com/iksv-kirika-ayyuka-timucin-esen-yilmaz-parlar-haberi/9722788 http://www.cumhuriyet.com.tr/?hn=219148 24 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. https://web.archive.org/web/20110313090655/http://www.sufflor.com/istanbul/16-ve-22-%C5%9Fubat-ikiz",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1846,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.359122",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "İkiz, kavramsal sanatçı Genco Gülan tarafından hazırlanan, seyir, seyirci, seyirlik kavramlarını sorgulayan bir performans gösterisi. Oyun ilk defa İKSV Salon'da 1 Şubat 2011'de sahnelendi. Seyircinin katılımı ile oluşan bu performans projesinde tek yumurta ikizi olan Yeliz ve Deniz Çelebi ile İrem ve Gizem Halis yer aldılar. Gösteri; aynı zamanda 16 Şubat-19 Mart 2011 tarihlerinde, Galata Perform'da sahnelendi. ‘İkiz’ projesinde ikizlilik ile sanatı ortak noktada buluşturan kavramlar benzerlik ve benzersizlik kavramları olmuştur. Gülan'ın hazırladığı performans, tiyatro’nun “İtalyan sahne” ile plastik sanatların “beyaz küp” anlayışlarının dışında plastik sanatların klasik salon sergisi anlayışına yeni bir bakış açısı kazandırmıştır. Çeşitli duyulara hitap eden ‘ikiz'de dijital ve bio teknolojileri tamamen kavramsal zemin ile sınırlandırılmıştır. Tek yumurta ikizlerinin, ellerinden tutarak seyirciyi götürdüğü mekana özgü yolculuk; 22 kişiye, sanat tarihi ve estetik üzerine referanslar ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1068,
+      "content": "olojileri tamamen kavramsal zemin ile sınırlandırılmıştır. Tek yumurta ikizlerinin, ellerinden tutarak seyirciyi götürdüğü mekana özgü yolculuk; 22 kişiye, sanat tarihi ve estetik üzerine referanslar yaparak, katılımcılara farklı bir tecrübe deneyimlemeyi vadetmiştir.",
+      "char_count": 268,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0002",
+      "section": "== Özet ==",
+      "heading_path": "== Özet ==",
+      "start_char": 1069,
+      "end_char": 1391,
+      "content": "== Özet == İkizler, katılımcıları tek tek Salon'a çağırır, gözlerini bağlarlar ve ellerinden tutarak Salon'a götürür. Seyircilerin, yolun en sonuna kadar göremeyecekleri rota, birçok sürprize gebedir. İkizlerin anlattıkları hikâyelerin tınıları kulağa tanıdık gelse de masalsı gezinti şımartıcı olduğu kadar tehditkârdır.",
+      "char_count": 321,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1406,
+      "end_char": 1846,
+      "content": "== Dış bağlantılar == http://mimesis-dergi.org/2011/03/zaman-ve-mekan-algisi/ 25 Ocak 2021 tarihinde Wayback Machine sitesinde arşivlendi. http://sanatseverlerdergisi.blogcu.com/iksv-kirika-ayyuka-timucin-esen-yilmaz-parlar-haberi/9722788 http://www.cumhuriyet.com.tr/?hn=219148 24 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. https://web.archive.org/web/20110313090655/http://www.sufflor.com/istanbul/16-ve-22-%C5%9Fubat-ikiz",
+      "char_count": 440,
+      "token_estimate": 110
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kavramsal sanatçı Genco Gülan tarafından hazırlanan performans gösterisinin adı nedir?",
+        "answer": "İkiz.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Genco Gülan'ın 'İkiz' performansında, tek yumurta ikizlerinin seyirciyi ellerinden tutarak götürdüğü mekana özgü yolculuk, dijital ve biyoteknolojilerin kavramsal zeminle sınırlandırılmasıyla nasıl bir deneyim sunmayı hedeflemiştir?",
+        "answer": "Tek yumurta ikizlerinin seyirciyi ellerinden tutarak götürdüğü mekana özgü bu yolculuk, dijital ve biyoteknolojileri tamamen kavramsal bir zeminle sınırlayarak, 22 katılımcıya sanat tarihi ve estetik üzerine referanslar sunan farklı bir tecrübe deneyimlemeyi vadeden bir performans olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "marinaabramovi_153dde97",
+    "title": "Marina Abramović",
+    "url": "https://tr.wikipedia.org/wiki/Marina_Abramovi%C4%87",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:12.825038",
+    "content": "Marina Abramović (d. 30 Kasım 1946, Belgrad) Sırp performans sanatçısı. == Hayatı == Marina Abramović, 30 Kasım 1946 yılında dünyaya geldi. 1960'larda ortaya çıkan vücut sanatı akımının (body art) önemli bir temsilcisidir. Abramović performanslarıyla fiziksel ve zihinsel potansiyelin sınırlarını zorlayan ve araştıran bir sanatçıdır. Bir vücut sanatçısı olarak, kendini parçalara ayırmış, kırbaçlamış, buz kütleleri üzerinde vücudunu dondurmuş, psikoaktif ürünler ve hafıza kaybına uğramasına yol açan kas kontrol ürünleri almıştır. Performanslarının birinde alev alan bir perdenin altında boğularak ölme tehlikesi atlatmıştır. Bu eserler, deneyimlerin ve sınırların yeni bir tanımını (vücudunu kontrol edebilme, sanat ve bunun uzantısı olarak toplumu belirleyen kodları) kimliklendirme serileridir. O halde onun sanatsal projesinin temelinde insanları özgürleştirmek adına hırslı ve derin bir niyet beslediğini görebiliriz. Abramović'in Belgrad’a sürüldükten sonraki ilk eserlerinde, aldığı katı eğitim ve Yugoslavya’nın savaş sonrası dönemi baskıcı kültürüne karşı asi tutumunu görmek mümkündü. Her çalışmasında olduğu gibi, eserleri bir bakıma kendi özgürlüğü adına tasarlanmış temizlenme ritüelleriydi. 1975’te sanatçı özel hayatını ve hareketli sanat hayatını paylaşacağı Ulay (Frank Uwe Laysiepen) ile tanıştı. Birlikte oldukları yirmi sene boyunca beraber yaşadılar ve çalıştılar. Eserler ürettiler ve seyahat ettiler. Eserlerinde güç ve bağımlılık ilişkilerini izleyici ile üçlü bir iletişim kurarak incelediler. 1977’de ürettikleri bir işte, dudakları birbirlerine yapışıkken, boğazlarının yan tarafına yara bandıyla yapıştırılmış mikrofonlar Abramović ve Ulay’ın sırayla birbirlerinin ciğerlerindeki havayı içlerine çekişlerini kaydediyordu. Bu eylem iki taraf da susuz karbondan başka bir şey çekemeyinceye, bu da nefes darlığına varıncaya kadar sürdü. 1980’de gerçekleştirilen bir başka işte ise Abramović’in göğsüne yöneltilmiş yaya gerili okun gerilimini taşıyan sadece vücutlarıydı. Mikrofonlar kalp atışlarının hızla yükselişini kaydediyordu. 1981–1987 yılları arasında Ulay ile birlikte Nightsea Crossing adını verdikleri bir aksiyon serisini tüm dünyada gerçekleştirdi. Müzelerde canlı birer tabloymuşçasına kendilerini yerleştirdiler. Beraber yaptıkları son çalışma -Büyük Duvar Gezintisi (1988)- her birinin Çin Seddi üzerinde 2000 km. yürümesini gerektirdi. Her biri bir uçtan yürümeye başlayarak ortada buluştular. == Bibliyografi == == Kaynakça == == Dış Bağlantılar == IMDb'de Marina Abramović Facebook'ta Marina Abramović Twitter'da Marina Abramović Instagram'da Marina Abramović Wikimedia Commons'ta Marina Abramović ile ilgili çoklu ortam belgeleri bulunur.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 335,
+      "char_count": 2685,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.104282",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 72,
+      "content": "Marina Abramović (d. 30 Kasım 1946, Belgrad) Sırp performans sanatçısı.",
+      "char_count": 71,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 72,
+      "end_char": 1072,
+      "content": "== Hayatı == Marina Abramović, 30 Kasım 1946 yılında dünyaya geldi. 1960'larda ortaya çıkan vücut sanatı akımının (body art) önemli bir temsilcisidir. Abramović performanslarıyla fiziksel ve zihinsel potansiyelin sınırlarını zorlayan ve araştıran bir sanatçıdır. Bir vücut sanatçısı olarak, kendini parçalara ayırmış, kırbaçlamış, buz kütleleri üzerinde vücudunu dondurmuş, psikoaktif ürünler ve hafıza kaybına uğramasına yol açan kas kontrol ürünleri almıştır. Performanslarının birinde alev alan bir perdenin altında boğularak ölme tehlikesi atlatmıştır. Bu eserler, deneyimlerin ve sınırların yeni bir tanımını (vücudunu kontrol edebilme, sanat ve bunun uzantısı olarak toplumu belirleyen kodları) kimliklendirme serileridir. O halde onun sanatsal projesinin temelinde insanları özgürleştirmek adına hırslı ve derin bir niyet beslediğini görebiliriz. Abramović'in Belgrad’a sürüldükten sonraki ilk eserlerinde, aldığı katı eğitim ve Yugoslavya’nın savaş sonrası dönemi baskıcı kültürüne karşı asi ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 872,
+      "end_char": 1872,
+      "content": "na hırslı ve derin bir niyet beslediğini görebiliriz. Abramović'in Belgrad’a sürüldükten sonraki ilk eserlerinde, aldığı katı eğitim ve Yugoslavya’nın savaş sonrası dönemi baskıcı kültürüne karşı asi tutumunu görmek mümkündü. Her çalışmasında olduğu gibi, eserleri bir bakıma kendi özgürlüğü adına tasarlanmış temizlenme ritüelleriydi. 1975’te sanatçı özel hayatını ve hareketli sanat hayatını paylaşacağı Ulay (Frank Uwe Laysiepen) ile tanıştı. Birlikte oldukları yirmi sene boyunca beraber yaşadılar ve çalıştılar. Eserler ürettiler ve seyahat ettiler. Eserlerinde güç ve bağımlılık ilişkilerini izleyici ile üçlü bir iletişim kurarak incelediler. 1977’de ürettikleri bir işte, dudakları birbirlerine yapışıkken, boğazlarının yan tarafına yara bandıyla yapıştırılmış mikrofonlar Abramović ve Ulay’ın sırayla birbirlerinin ciğerlerindeki havayı içlerine çekişlerini kaydediyordu. Bu eylem iki taraf da susuz karbondan başka bir şey çekemeyinceye, bu da nefes darlığına varıncaya kadar sürdü. 1980’de",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1672,
+      "end_char": 2437,
+      "content": "n sırayla birbirlerinin ciğerlerindeki havayı içlerine çekişlerini kaydediyordu. Bu eylem iki taraf da susuz karbondan başka bir şey çekemeyinceye, bu da nefes darlığına varıncaya kadar sürdü. 1980’de gerçekleştirilen bir başka işte ise Abramović’in göğsüne yöneltilmiş yaya gerili okun gerilimini taşıyan sadece vücutlarıydı. Mikrofonlar kalp atışlarının hızla yükselişini kaydediyordu. 1981–1987 yılları arasında Ulay ile birlikte Nightsea Crossing adını verdikleri bir aksiyon serisini tüm dünyada gerçekleştirdi. Müzelerde canlı birer tabloymuşçasına kendilerini yerleştirdiler. Beraber yaptıkları son çalışma -Büyük Duvar Gezintisi (1988)- her birinin Çin Seddi üzerinde 2000 km. yürümesini gerektirdi. Her biri bir uçtan yürümeye başlayarak ortada buluştular.",
+      "char_count": 765,
+      "token_estimate": 191
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış Bağlantılar ==",
+      "heading_path": "== Dış Bağlantılar ==",
+      "start_char": 2472,
+      "end_char": 2685,
+      "content": "== Dış Bağlantılar == IMDb'de Marina Abramović Facebook'ta Marina Abramović Twitter'da Marina Abramović Instagram'da Marina Abramović Wikimedia Commons'ta Marina Abramović ile ilgili çoklu ortam belgeleri bulunur.",
+      "char_count": 213,
+      "token_estimate": 53
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Marina Abramović ne zaman doğmuştur?",
+        "answer": "Marina Abramović, 30 Kasım 1946 yılında dünyaya geldi.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Marina Abramović'in katı eğitimi ve Yugoslavya'nın savaş sonrası baskıcı kültürüne karşı asi tutumu, sanatsal projesinin temel amacı ve Ulay ile olan işbirliklerinde ele aldığı temaları nasıl etkilemiştir?",
+        "answer": "Marina Abramović'in katı eğitimi ve Yugoslavya'nın savaş sonrası baskıcı kültürüne karşı asi tutumu, sanatsal projesinin merkezinde insanları özgürleştirme ve kendi özgürlüğü adına arınma ritüelleri tasarlama gibi derin bir niyeti beslemiştir. Bu durum, bireysel performanslarında fiziksel ve zihinsel sınırları zorlamasına neden olmuştur. Ulay ile olan yirmi yıllık işbirliğinde ise bu niyet, güç ve bağımlılık ilişkilerini izleyiciyle üçlü bir iletişim kurarak inceleme temalarına dönüşmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

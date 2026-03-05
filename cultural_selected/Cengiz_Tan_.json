@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "cengiztan_a769bdc3",
+    "title": "Cengiz Tanç",
+    "url": "https://tr.wikipedia.org/wiki/Cengiz_Tan%C3%A7",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:15.541669",
+    "content": "Prof. Cengiz Tanç (10 Nisan 1933, İstanbul- 16 Aralık 1997, İstanbul) Türk besteci, akademisyendir. Koro, orkestra, oda müziği, bale, opera alanında eserler vermiştir. Mimar Sinan Üniversitesi İstanbul Devlet Konservatuvarında Müzikoloji bölüm başkanlığı yapmıştır. == Hayatı == 1933 yılında İstanbul'da dünyaya geldi. Asker olan babasının görev yeri nedeniyle öğrenimini Türkiye'nin değişik kentlerinde yaptı. Ankara Atatürk Lisesi'ndeki öğrenciliği sırasında keman dersleri aldı. 1952 yılında Ankara Devlet Konservatuvarı sınavlarını kazandı; Adnan Saygun’un öğrencisi oldu. Babasının Londra’ya askeri ateşe olarak atanması üzerine 1953-1956 yılları arasında öğrenimine Londra Guildhall Müzik Okulu'nda Sydney Compton’un öğrencisi olarak devam ettikten sonra Ankara Devlet Konservatuvarı’na döndü ve 1960’ta Kompozisyon bölümünden mezun oldu. Aynı kurumda solfej öğretmenliği yaptı. Bülent Arel'den tonmaysterlik eğitimi alan ve Ankara Radyosu'nda bu dalda görev yapan Tanç, 1968'de Ankara Radyosu'nda Batı Müziği Şube Müdürü ve Çok Sesli Müzik Şube Müdürü oldu. 1973'te TRT’den ayrılarak Devlet Opera ve Balesi'nde dramaturg olarak görev aldı. 1976’da İstanbul’a yerleşti, Mimar Sinan Üniversitesi İstanbul Devlet Konservatuvarı'nda Kompozisyon Ana Sanat Dalı öğretim üyesi ve başkanı oldu. 1984-1985 yıllarında Fulbright araştırma bursu ile Amerika Birleşik Devletleri'ne giderek Vincent Persichetti ve Milton Babbitt’le çalıştı. Halk müziği ile Bartok ve Stravinsky etkileri taşıyan ilk eserlerinden sonra eserleri giderek geleneksel kavramlardan soyutlanmış, besteci izlenimcilikten yola çıkan öznel renkçilik, modal tetrakordlara dayalı yeni bir dizisel anlayış geliştirmiştir. Besteci, 16 Aralık 1997’de İstanbul’da hayatını kaybetti. == Eserleri == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 223,
+      "char_count": 1772,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.414172",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 266,
+      "content": "Prof. Cengiz Tanç (10 Nisan 1933, İstanbul- 16 Aralık 1997, İstanbul) Türk besteci, akademisyendir. Koro, orkestra, oda müziği, bale, opera alanında eserler vermiştir. Mimar Sinan Üniversitesi İstanbul Devlet Konservatuvarında Müzikoloji bölüm başkanlığı yapmıştır.",
+      "char_count": 265,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 266,
+      "end_char": 1266,
+      "content": "== Hayatı == 1933 yılında İstanbul'da dünyaya geldi. Asker olan babasının görev yeri nedeniyle öğrenimini Türkiye'nin değişik kentlerinde yaptı. Ankara Atatürk Lisesi'ndeki öğrenciliği sırasında keman dersleri aldı. 1952 yılında Ankara Devlet Konservatuvarı sınavlarını kazandı; Adnan Saygun’un öğrencisi oldu. Babasının Londra’ya askeri ateşe olarak atanması üzerine 1953-1956 yılları arasında öğrenimine Londra Guildhall Müzik Okulu'nda Sydney Compton’un öğrencisi olarak devam ettikten sonra Ankara Devlet Konservatuvarı’na döndü ve 1960’ta Kompozisyon bölümünden mezun oldu. Aynı kurumda solfej öğretmenliği yaptı. Bülent Arel'den tonmaysterlik eğitimi alan ve Ankara Radyosu'nda bu dalda görev yapan Tanç, 1968'de Ankara Radyosu'nda Batı Müziği Şube Müdürü ve Çok Sesli Müzik Şube Müdürü oldu. 1973'te TRT’den ayrılarak Devlet Opera ve Balesi'nde dramaturg olarak görev aldı. 1976’da İstanbul’a yerleşti, Mimar Sinan Üniversitesi İstanbul Devlet Konservatuvarı'nda Kompozisyon Ana Sanat Dalı öğr",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1066,
+      "end_char": 1742,
+      "content": "973'te TRT’den ayrılarak Devlet Opera ve Balesi'nde dramaturg olarak görev aldı. 1976’da İstanbul’a yerleşti, Mimar Sinan Üniversitesi İstanbul Devlet Konservatuvarı'nda Kompozisyon Ana Sanat Dalı öğretim üyesi ve başkanı oldu. 1984-1985 yıllarında Fulbright araştırma bursu ile Amerika Birleşik Devletleri'ne giderek Vincent Persichetti ve Milton Babbitt’le çalıştı. Halk müziği ile Bartok ve Stravinsky etkileri taşıyan ilk eserlerinden sonra eserleri giderek geleneksel kavramlardan soyutlanmış, besteci izlenimcilikten yola çıkan öznel renkçilik, modal tetrakordlara dayalı yeni bir dizisel anlayış geliştirmiştir. Besteci, 16 Aralık 1997’de İstanbul’da hayatını kaybetti.",
+      "char_count": 676,
+      "token_estimate": 169
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ankara Devlet Konservatuvarı Kompozisyon bölümünden hangi yıl mezun oldu?",
+        "answer": "1960'ta",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cengiz Tanç'ın akademik kariyeri ve bestecilik tarzı, aldığı eğitimler ve profesyonel deneyimleri boyunca nasıl bir evrim geçirmiştir?",
+        "answer": "Cengiz Tanç'ın akademik kariyeri, Ankara Devlet Konservatuvarı'nda Adnan Saygun'dan kompozisyon eğitimi almasıyla başlamış ve daha sonra aynı kurumda solfej öğretmenliği yapmıştır. Ankara Radyosu'nda Batı Müziği ve Çok Sesli Müzik şube müdürlükleri görevlerinde bulunmuş, ardından Devlet Opera ve Balesi'nde dramaturg olarak çalışmıştır. 1976'da İstanbul'a yerleşerek Mimar Sinan Üniversitesi İstanbul Devlet Konservatuvarı'nda Kompozisyon Ana Sanat Dalı öğretim üyesi ve başkanı, ayrıca Müzikoloji bölüm başkanı olmuştur. Bestecilik tarzı ise, halk müziği ile Bartok ve Stravinsky etkileri taşıyan ilk eserlerinden sonra, geleneksel kavramlardan soyutlanarak izlenimcilikten yola çıkan öznel renkçilik ve modal tetrakordlara dayalı yeni bir dizisel anlayış geliştirmiştir. Bu gelişimde ABD'deki Fulbright bursuyla Vincent Persichetti ve Milton Babbitt ile yaptığı çalışmalar da önemli rol oynamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

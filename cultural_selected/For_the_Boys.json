@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "fortheboys_55622804",
+    "title": "For the Boys",
+    "url": "https://tr.wikipedia.org/wiki/For_the_Boys",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:32.096989",
+    "content": "For the Boys, Amerikan askerlerini eğlendirmek için, ünlü bir sanatçı olan Eddie Sparks ile işbirliği yapan 1940'ların aktris/şarkıcısı Dixie Leonard'ın hayatını anlatan 1991 yapımı bir Amerikan müzikal komedi-drama filmi. Film Marshall Brickman, Neal Jimenez ve Lindy Laub tarafından Jimenez ve Laub'un bir öyküsünden uyarlandı. Filmin yönetmenliğini Mark Rydell üstlendi ve orijinal müzikleri Dave Grusin tarafından bestelendi. Filmde Bette Midler, James Caan, George Segal, Patrick O'Neal, Arye Gross ve Norman Fell rol almaktadır. O zamanlar tanınmayan Vince Vaughn kalabalıkta tezahürat yapan bir asker olarak ilk filmini yaptı. Midler'ın ilk başrolü ve aynı zamanda büyük bütçeli bir yarı-biyografik film olan The Roseda olduğu gibi, film kurgudur. Ancak aktris ve şarkıcı Martha Raye, Midler'ın karakterinin USO'daki yaşamı ve kariyeri hakkında yaygın olarak bilinen birçok gerçeğe dayandığına inanmış ve bu varsayıma dayanarak yasal işlem başlatmıştır. Uzun süren bir hukuki mücadelenin ardından Raye nihayetinde davayı kaybetti. Caan karakterinin genellikle Bob Hope'a dayandığına inanılıyordu. Midler performansıyla Altın Küre Ödülü kazandı ve En İyi Kadın Oyuncu Akademi Ödülü'ne aday gösterildi. [Film müziği, \"Come Rain or Come Shine\", \"Baby, It's Cold Outside\", \"Frank Loesser\", \"P.S. I Love You\", \"I Remember You\" ve the Beatles'ın şarkıları da dahil olmak üzere birçok klasik şarkının cover'larını içeriyor. \"In My Life\". 13 şarkının beşinin sözleri Johnny Mercer'a aittir. Soundtrack'in ilk single'ı \"Every Road Leads Back to You\" Diane Warren tarafından yazılmış orijinal bir şarkıdır. Karışık bir eleştirel tepkiye ve gişe başarısızlığı'na rağmen, film 2011 yılında Aaron Thielen ve Terry James tarafından müzikal sahne için uyarlandı ve Lincolnshire, Illinois'deki Marriott Theatre'da gösterime girdi. == Kaynakça == == Dış bağlantılar == IMDb'de For the Boys",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 261,
+      "char_count": 1879,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.434548",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "For the Boys, Amerikan askerlerini eğlendirmek için, ünlü bir sanatçı olan Eddie Sparks ile işbirliği yapan 1940'ların aktris/şarkıcısı Dixie Leonard'ın hayatını anlatan 1991 yapımı bir Amerikan müzikal komedi-drama filmi. Film Marshall Brickman, Neal Jimenez ve Lindy Laub tarafından Jimenez ve Laub'un bir öyküsünden uyarlandı. Filmin yönetmenliğini Mark Rydell üstlendi ve orijinal müzikleri Dave Grusin tarafından bestelendi. Filmde Bette Midler, James Caan, George Segal, Patrick O'Neal, Arye Gross ve Norman Fell rol almaktadır. O zamanlar tanınmayan Vince Vaughn kalabalıkta tezahürat yapan bir asker olarak ilk filmini yaptı. Midler'ın ilk başrolü ve aynı zamanda büyük bütçeli bir yarı-biyografik film olan The Roseda olduğu gibi, film kurgudur. Ancak aktris ve şarkıcı Martha Raye, Midler'ın karakterinin USO'daki yaşamı ve kariyeri hakkında yaygın olarak bilinen birçok gerçeğe dayandığına inanmış ve bu varsayıma dayanarak yasal işlem başlatmıştır. Uzun süren bir hukuki mücadelenin ardın",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "n karakterinin USO'daki yaşamı ve kariyeri hakkında yaygın olarak bilinen birçok gerçeğe dayandığına inanmış ve bu varsayıma dayanarak yasal işlem başlatmıştır. Uzun süren bir hukuki mücadelenin ardından Raye nihayetinde davayı kaybetti. Caan karakterinin genellikle Bob Hope'a dayandığına inanılıyordu. Midler performansıyla Altın Küre Ödülü kazandı ve En İyi Kadın Oyuncu Akademi Ödülü'ne aday gösterildi. [Film müziği, \"Come Rain or Come Shine\", \"Baby, It's Cold Outside\", \"Frank Loesser\", \"P.S. I Love You\", \"I Remember You\" ve the Beatles'ın şarkıları da dahil olmak üzere birçok klasik şarkının cover'larını içeriyor. \"In My Life\". 13 şarkının beşinin sözleri Johnny Mercer'a aittir. Soundtrack'in ilk single'ı \"Every Road Leads Back to You\" Diane Warren tarafından yazılmış orijinal bir şarkıdır. Karışık bir eleştirel tepkiye ve gişe başarısızlığı'na rağmen, film 2011 yılında Aaron Thielen ve Terry James tarafından müzikal sahne için uyarlandı ve Lincolnshire, Illinois'deki Marriott Theatr",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1821,
+      "content": "ır. Karışık bir eleştirel tepkiye ve gişe başarısızlığı'na rağmen, film 2011 yılında Aaron Thielen ve Terry James tarafından müzikal sahne için uyarlandı ve Lincolnshire, Illinois'deki Marriott Theatre'da gösterime girdi.",
+      "char_count": 221,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1837,
+      "end_char": 1879,
+      "content": "== Dış bağlantılar == IMDb'de For the Boys",
+      "char_count": 42,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1991 yapımı 'For the Boys' filminin yönetmenliğini kim üstlenmiştir?",
+        "answer": "Mark Rydell",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "For the Boys filmi kurgusal bir yapım olmasına rağmen, karakterlerinin gerçek hayattan hangi kişiliklerden esinlendiği düşünülüyordu ve bu durum Martha Raye için nasıl bir hukuki sonuç doğurdu?",
+        "answer": "\"For the Boys\" filmindeki Bette Midler'ın canlandırdığı Dixie Leonard karakterinin aktris ve şarkıcı Martha Raye'den esinlenildiğine inanılırken, James Caan'ın canlandırdığı karakterin ise Bob Hope'a dayandığı düşünülüyordu. Bu durum, Martha Raye'nin hukuki işlem başlatmasına neden oldu, ancak uzun süren mücadelenin ardından davayı kaybetti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

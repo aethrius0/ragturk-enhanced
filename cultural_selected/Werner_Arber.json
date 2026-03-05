@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "wernerarber_89f3da13",
+    "title": "Werner Arber",
+    "url": "https://tr.wikipedia.org/wiki/Werner_Arber",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:58.953212",
+    "content": "Werner Arber (3 Haziran 1929, Gränichen, Aargau) İsviçreli mikrobiyolog ve genetikçi. Amerikalı araştırmacılar Hamilton Smith ve Daniel Nathans ile birlikte, Werner Arber 1978 yılı Nobel Fizyoloji veya Tıp Ödülü'nü restriksiyon endonükleaz enzimlerini keşfi nedeniyle kazanmıştır. Bu araştırmacıların çalışmaları rekombinant DNA teknolojisinin gelişimine öncülük etmiştir. == Kaynakça == == Kaynakça == Konforti, B (Şubat 2000). \"History. The servant with the scissors\". Nature Structural Biology. 7 (2). ss. 99-100. doi:10.1038/72469. ISSN 1072-8368. PMID 10655607. Raju, Tn (Ekim 1999). \"The Nobel chronicles. 1978: Werner Arber (b 1929); Hamilton O Smith (b 1931); Daniel Nathans (b 1928)\". Lancet. 354 (9189). s. 1567. doi:10.1016/S0140-6736(05)76606-X. ISSN 0140-6736. PMID 10551539. Shampo, Ma; Kyle, Ra (Ekim 1995). \"Werner Arber--Nobel laureate\". Mayo Clinic proceedings. Mayo Clinic. 70 (10). s. 945. ISSN 0025-6196. PMID 7564545. KB1 bakım: Birden fazla ad: yazar listesi (link) Kroon, Am (Şubat 1979). \"The Nobel Prize for Medicine and Physiology in 1978 (Werner Arber, Daniel Nathans, Hamilton Smith)\". Nederlands tijdschrift voor geneeskunde. 123 (5). ss. 153-6. ISSN 0028-2162. PMID 368662. Piekarowicz, A (1979). \"Werner Arber, Daniel Nathans and Hamilton Smith. Nobel prizes for the studies on DNA restriction enzymes\". Postepy biochemii. 25 (2). ss. 251-3. ISSN 0032-5422. PMID 388391. Berg, K (Aralık 1978). \"The Nobel prize in physiology and medicine 1978. Nobel prize to a controversial research field\". Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke. 98 (34–36). ss. 1741-2. ISSN 0029-2001. PMID 725894. Desiderio, S; Boyer, S (Kasım 1978). \"Arber, Smith and Nathans: Nobel Laureates in medicine and physiology, 1978\". The Johns Hopkins medical journal. 143 (5). ss. ix-x. ISSN 0021-7263. PMID 364154. KB1 bakım: Birden fazla ad: yazar listesi (link) \"The Nobel prizewinners 1978: medicine. From modest beginnings…\". Nature. 275 (5682). Ekim 1978. ss. 689-90. doi:10.1038/275684a0. ISSN 0028-0836. PMID 360075. Peterson, Lr; Gerding, Dn (Ağustos 1978). \"Protein binding and antibiotic concentrations\". Lancet. 2 (8085). s. 376. doi:10.1016/S0140-6736(78)92977-X. ISSN 0140-6736. PMID 79742. KB1 bakım: Birden fazla ad: yazar listesi (link) Petterson, R (1978). \"Nobel prize laureates in physiology and medicine\". Duodecim; laaketieteellinen aikakauskirja. 94 (23). ss. 1466-9. ISSN 0012-7183. PMID 729493. == Dış bağlantılar == Autobiography2 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi. for the Nobel Prize in Physiology or Medicine 1978. Official Biography from the Pontifical Academy of Sciences19 Ocak 2011 tarihinde Wayback Machine sitesinde arşivlendi. Free to View Video Interview with Werner Arber10 Ekim 2007 tarihinde Wayback Machine sitesinde arşivlendi. provided by the Vega Science Trust.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 397,
+      "char_count": 2875,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.713877",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 373,
+      "content": "Werner Arber (3 Haziran 1929, Gränichen, Aargau) İsviçreli mikrobiyolog ve genetikçi. Amerikalı araştırmacılar Hamilton Smith ve Daniel Nathans ile birlikte, Werner Arber 1978 yılı Nobel Fizyoloji veya Tıp Ödülü'nü restriksiyon endonükleaz enzimlerini keşfi nedeniyle kazanmıştır. Bu araştırmacıların çalışmaları rekombinant DNA teknolojisinin gelişimine öncülük etmiştir.",
+      "char_count": 372,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0001",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 388,
+      "end_char": 1388,
+      "content": "== Kaynakça == Konforti, B (Şubat 2000). \"History. The servant with the scissors\". Nature Structural Biology. 7 (2). ss. 99-100. doi:10.1038/72469. ISSN 1072-8368. PMID 10655607. Raju, Tn (Ekim 1999). \"The Nobel chronicles. 1978: Werner Arber (b 1929); Hamilton O Smith (b 1931); Daniel Nathans (b 1928)\". Lancet. 354 (9189). s. 1567. doi:10.1016/S0140-6736(05)76606-X. ISSN 0140-6736. PMID 10551539. Shampo, Ma; Kyle, Ra (Ekim 1995). \"Werner Arber--Nobel laureate\". Mayo Clinic proceedings. Mayo Clinic. 70 (10). s. 945. ISSN 0025-6196. PMID 7564545. KB1 bakım: Birden fazla ad: yazar listesi (link) Kroon, Am (Şubat 1979). \"The Nobel Prize for Medicine and Physiology in 1978 (Werner Arber, Daniel Nathans, Hamilton Smith)\". Nederlands tijdschrift voor geneeskunde. 123 (5). ss. 153-6. ISSN 0028-2162. PMID 368662. Piekarowicz, A (1979). \"Werner Arber, Daniel Nathans and Hamilton Smith. Nobel prizes for the studies on DNA restriction enzymes\". Postepy biochemii. 25 (2). ss. 251-3. ISSN 0032-5422",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1188,
+      "end_char": 2188,
+      "content": "62. PMID 368662. Piekarowicz, A (1979). \"Werner Arber, Daniel Nathans and Hamilton Smith. Nobel prizes for the studies on DNA restriction enzymes\". Postepy biochemii. 25 (2). ss. 251-3. ISSN 0032-5422. PMID 388391. Berg, K (Aralık 1978). \"The Nobel prize in physiology and medicine 1978. Nobel prize to a controversial research field\". Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke. 98 (34–36). ss. 1741-2. ISSN 0029-2001. PMID 725894. Desiderio, S; Boyer, S (Kasım 1978). \"Arber, Smith and Nathans: Nobel Laureates in medicine and physiology, 1978\". The Johns Hopkins medical journal. 143 (5). ss. ix-x. ISSN 0021-7263. PMID 364154. KB1 bakım: Birden fazla ad: yazar listesi (link) \"The Nobel prizewinners 1978: medicine. From modest beginnings…\". Nature. 275 (5682). Ekim 1978. ss. 689-90. doi:10.1038/275684a0. ISSN 0028-0836. PMID 360075. Peterson, Lr; Gerding, Dn (Ağustos 1978). \"Protein binding and antibiotic concentrations\". Lancet. 2 (8085). s. 376. d",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1988,
+      "end_char": 2464,
+      "content": "(5682). Ekim 1978. ss. 689-90. doi:10.1038/275684a0. ISSN 0028-0836. PMID 360075. Peterson, Lr; Gerding, Dn (Ağustos 1978). \"Protein binding and antibiotic concentrations\". Lancet. 2 (8085). s. 376. doi:10.1016/S0140-6736(78)92977-X. ISSN 0140-6736. PMID 79742. KB1 bakım: Birden fazla ad: yazar listesi (link) Petterson, R (1978). \"Nobel prize laureates in physiology and medicine\". Duodecim; laaketieteellinen aikakauskirja. 94 (23). ss. 1466-9. ISSN 0012-7183. PMID 729493.",
+      "char_count": 476,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2465,
+      "end_char": 2875,
+      "content": "== Dış bağlantılar == Autobiography2 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi. for the Nobel Prize in Physiology or Medicine 1978. Official Biography from the Pontifical Academy of Sciences19 Ocak 2011 tarihinde Wayback Machine sitesinde arşivlendi. Free to View Video Interview with Werner Arber10 Ekim 2007 tarihinde Wayback Machine sitesinde arşivlendi. provided by the Vega Science Trust.",
+      "char_count": 410,
+      "token_estimate": 102
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Werner Arber, Daniel Nathans ve Hamilton Smith hangi çalışmalarından dolayı Nobel ödülü almışlardır?",
+        "answer": "DNA restriksiyon enzimleri üzerine yapılan çalışmalar.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Werner Arber, Hamilton Smith ve Daniel Nathans'ın 1978 Nobel Fizyoloji veya Tıp Ödülü kazanan restriksiyon endonükleaz enzimlerinin keşfinin önemi, metinlerdeki kaynakça bilgileriyle nasıl desteklenmektedir?",
+        "answer": "Restriksiyon endonükleaz enzimlerinin keşfiyle 1978 Nobel Fizyoloji veya Tıp Ödülü'nü kazanmaları ve çalışmalarının rekombinant DNA teknolojisine öncülük etmesi, çok sayıda bilimsel makale ve yayında genişçe yer bularak desteklenmektedir. Bu kaynaklar, \"The Nobel chronicles. 1978\", \"The Nobel Prize for Medicine and Physiology in 1978\" ve \"Nobel prizes for the studies on DNA restriction enzymes\" gibi başlıklarla onların başarısının bilim dünyasında geniş yankı uyandırdığını ve kapsamlı bir şekilde incelendiğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "nadirsarbacak_31682734",
+    "title": "Nadir Sarıbacak",
+    "url": "https://tr.wikipedia.org/wiki/Nadir_Sar%C4%B1bacak",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:46.733409",
+    "content": "Nadir Sarıbacak (d. 14 Eylül 1977, Ankara), Türk tiyatro ve sinema oyuncusudur. == Hayatı == 2000 yılında Çanakkale Onsekiz Mart Üniversitesi Türkçe Öğretmenliği bölümünden mezun olan Sarıbacak, 2000–2002 yılları arasında Avcılar Belediye Tiyatrosu'nda oyunculuk yaptı. 2004'te Akademi İstanbul Tiyatro bölümünü bitirdi. 2006'da Bahçeşehir Üniversitesi İleri Oyunculuk yüksek lisans programını tamamladı. 2004'te katıldığı Semaver Kumpanya’nın birçok oyununda rol aldı. Daha sonra Seyyar Sahne bünyesinde Yeraltından Notlar adlı oyunu sahneledi. Tiyatro çalışmalarının yanı sıra reklam, sinema ve televizyon alanlarında da yer almaktadır. Sarıbacak, 2017 yılında New York'a taşınarak oyunculuk çalışmalarına devam etmektedir. == Ödüller == == Tiyatro oyunları == Yeraltından Notlar – Seyyar Sahne (2013) Titus Andronicus – Semaver Kumpanya (2010) Lursin Sokağı Cinayeti – Semaver Kumpanya (2009) Resmi Geçit – Semaver Kumpanya (2008) Cesaret Ana ve Çocukları – Semaver Kumpanya (2007) Peter Pan – İş Sanat (2006) Fırtına – Semaver Kumpanya (2006) Semaver ve Kumpanya – Semaver Kumpanya (2005) Trainspotting – Semaver Kumpanya (2005) Bir Varmış Hiç Yokmuş – Semaver Kumpanya (2005) Onikinci Gece – Semaver Kumpanya (2004) Efrâsiyâb'ın Hikâyeleri – İstanbul Devlet Tiyatrosu (2001) Kaç Baba Kaç – Avcılar Belediye Tiyatrosu (2001) Ah Şu Gençler – Avcılar Belediye Tiyatrosu (2001) == Filmografisi == == Dış bağlantılar == IMDb'de Nadir Sarıbacak == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 203,
+      "char_count": 1458,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.419964",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 80,
+      "content": "Nadir Sarıbacak (d. 14 Eylül 1977, Ankara), Türk tiyatro ve sinema oyuncusudur.",
+      "char_count": 79,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 80,
+      "end_char": 726,
+      "content": "== Hayatı == 2000 yılında Çanakkale Onsekiz Mart Üniversitesi Türkçe Öğretmenliği bölümünden mezun olan Sarıbacak, 2000–2002 yılları arasında Avcılar Belediye Tiyatrosu'nda oyunculuk yaptı. 2004'te Akademi İstanbul Tiyatro bölümünü bitirdi. 2006'da Bahçeşehir Üniversitesi İleri Oyunculuk yüksek lisans programını tamamladı. 2004'te katıldığı Semaver Kumpanya’nın birçok oyununda rol aldı. Daha sonra Seyyar Sahne bünyesinde Yeraltından Notlar adlı oyunu sahneledi. Tiyatro çalışmalarının yanı sıra reklam, sinema ve televizyon alanlarında da yer almaktadır. Sarıbacak, 2017 yılında New York'a taşınarak oyunculuk çalışmalarına devam etmektedir.",
+      "char_count": 645,
+      "token_estimate": 161
+    },
+    {
+      "id": "c0002",
+      "section": "== Tiyatro oyunları ==",
+      "heading_path": "== Tiyatro oyunları ==",
+      "start_char": 740,
+      "end_char": 1379,
+      "content": "== Tiyatro oyunları == Yeraltından Notlar – Seyyar Sahne (2013) Titus Andronicus – Semaver Kumpanya (2010) Lursin Sokağı Cinayeti – Semaver Kumpanya (2009) Resmi Geçit – Semaver Kumpanya (2008) Cesaret Ana ve Çocukları – Semaver Kumpanya (2007) Peter Pan – İş Sanat (2006) Fırtına – Semaver Kumpanya (2006) Semaver ve Kumpanya – Semaver Kumpanya (2005) Trainspotting – Semaver Kumpanya (2005) Bir Varmış Hiç Yokmuş – Semaver Kumpanya (2005) Onikinci Gece – Semaver Kumpanya (2004) Efrâsiyâb'ın Hikâyeleri – İstanbul Devlet Tiyatrosu (2001) Kaç Baba Kaç – Avcılar Belediye Tiyatrosu (2001) Ah Şu Gençler – Avcılar Belediye Tiyatrosu (2001)",
+      "char_count": 638,
+      "token_estimate": 159
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1398,
+      "end_char": 1444,
+      "content": "== Dış bağlantılar == IMDb'de Nadir Sarıbacak",
+      "char_count": 45,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sarıbacak, 2017 yılında oyunculuk çalışmalarına devam etmek için nereye taşınmıştır?",
+        "answer": "New York",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Nadir Sarıbacak'ın kariyer yolculuğu boyunca tiyatroculuk dışında hangi alanlarda faaliyet gösterdiği ve tiyatro çalışmalarının genel seyrini özetleyebilir misiniz?",
+        "answer": "Nadir Sarıbacak, Türk tiyatro ve sinema oyuncusu olarak kariyerine başlamıştır. Tiyatroculuk kariyerinde 2000-2002 yılları arasında Avcılar Belediye Tiyatrosu'nda rol almış, 2004'te Semaver Kumpanya'ya katılmış ve burada çok sayıda oyunda yer almıştır. Daha sonra Seyyar Sahne bünyesinde 'Yeraltından Notlar' adlı oyunu sahnelemiştir. Tiyatro çalışmalarının yanı sıra reklam, sinema ve televizyon alanlarında da faaliyet göstermiş ve 2017 yılında New York'a taşınarak oyunculuk çalışmalarına devam etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

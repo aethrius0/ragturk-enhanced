@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "unitdhabitation_d3705539",
+    "title": "Unité d'Habitation",
+    "url": "https://tr.wikipedia.org/wiki/Unit%C3%A9_d%27Habitation",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:59.630971",
+    "content": "Unité d'Habitation (Türkçe: Konut Üniteleri), İsviçreli mimar Le Corbusier tarafından, mimar ve ressam Nadir Afonso'nun da işbirliği ile geliştirilmiş toplu konut tasarım ilkesidir. Kavram, Le Corbusier'in Avrupa'nın çeşitli yerlerinde tasarladığı bazı sitelerin temelini oluşturdu. İçlerinde en ünlüsü Fransa'nın Marsilya şehrinin güneyindeki Cité Radieuse (Türkçesi: Parlak Şehir) adlı yapıdır. 2016 yılında UNESCO tarafından Dünya Mirası olarak ilan edilmiştir. == Cité Radieuse == Sosyal konut alanında cesur deneylerden biri olan Unité d'Habitation grubu içinde ilki ve en ünlüsü Cité Radieuse, Le Corbusier tarafından tasarlanmış; Shadrach Woods ile George Candilis'in katkılarıyla Marsilya'da 1947-1952 yıllarında hayata geçirilmiştir. 337 daireli, 18 katlı modernist bina 1800 kişiyi barından bir kasaba gibidir. Farklı zemin yüksekliğine sahip basamaklı odaları olan daireler boydan boya uzanan geniş koridorlara açılmaktadır. Binanın çatısında bahçe ve yüzme havuzunun yanı sıra çocuklar için tünel ve mağaraların bulunduğu bir oyun alanı yer almaktadır. Binada ayrıca dükkânlar, bir okul ve bir açık hava tiyatrosu bulunmaktadır. Le Corbusier'in en tanınmış çalışmaları arasında yer alan bu tasarım Brutalist mimarlık stiline ve felsefesine oldukça önemli etkileri olmuştur. == Diğer binalar == Le Corbusier'in ütopik şehir yaşamı tasarımı, Unité d'Habitation, aynı adla ve çok benzere bir tasarımla dört farklı yerde tekrarlandı: 1955'te Nantes- Rezé'de (Unité d'Habitation of Nantes-Rezé ), 1957'de Berlin-Westend'de, 1963'te Briey'de, 1965'te Firminy'de. İngiltere'de Londra'daki Alton Estate Belediye Evleri ile Sheffield'deki Park Hill Belediye Evleri, Cité Radieuse'dan esinlenmiş yapılardandır ve çok eleştiri almışlardır. Londra'da daha başarılı bulunan Unité d'Habitation evleri Barbican Estate (1982), Samuda Estate (1965), Balfron Kulesi (1967), Trellick Kulesi (1972) adlı yapılardır. ABD'nin Ohio eyaletindeki Cleveland şehrinde bulunan Reserve Square adlı yapı kompleksi de Le Corbusier' in tasarımından esinlenmiş yapılardandır. == Kaynakça == == Galeri ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 270,
+      "char_count": 2082,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.134686",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 465,
+      "content": "Unité d'Habitation (Türkçe: Konut Üniteleri), İsviçreli mimar Le Corbusier tarafından, mimar ve ressam Nadir Afonso'nun da işbirliği ile geliştirilmiş toplu konut tasarım ilkesidir. Kavram, Le Corbusier'in Avrupa'nın çeşitli yerlerinde tasarladığı bazı sitelerin temelini oluşturdu. İçlerinde en ünlüsü Fransa'nın Marsilya şehrinin güneyindeki Cité Radieuse (Türkçesi: Parlak Şehir) adlı yapıdır. 2016 yılında UNESCO tarafından Dünya Mirası olarak ilan edilmiştir.",
+      "char_count": 464,
+      "token_estimate": 116
+    },
+    {
+      "id": "c0001",
+      "section": "== Cité Radieuse ==",
+      "heading_path": "== Cité Radieuse ==",
+      "start_char": 465,
+      "end_char": 1286,
+      "content": "== Cité Radieuse == Sosyal konut alanında cesur deneylerden biri olan Unité d'Habitation grubu içinde ilki ve en ünlüsü Cité Radieuse, Le Corbusier tarafından tasarlanmış; Shadrach Woods ile George Candilis'in katkılarıyla Marsilya'da 1947-1952 yıllarında hayata geçirilmiştir. 337 daireli, 18 katlı modernist bina 1800 kişiyi barından bir kasaba gibidir. Farklı zemin yüksekliğine sahip basamaklı odaları olan daireler boydan boya uzanan geniş koridorlara açılmaktadır. Binanın çatısında bahçe ve yüzme havuzunun yanı sıra çocuklar için tünel ve mağaraların bulunduğu bir oyun alanı yer almaktadır. Binada ayrıca dükkânlar, bir okul ve bir açık hava tiyatrosu bulunmaktadır. Le Corbusier'in en tanınmış çalışmaları arasında yer alan bu tasarım Brutalist mimarlık stiline ve felsefesine oldukça önemli etkileri olmuştur.",
+      "char_count": 820,
+      "token_estimate": 205
+    },
+    {
+      "id": "c0002",
+      "section": "== Diğer binalar ==",
+      "heading_path": "== Diğer binalar ==",
+      "start_char": 1286,
+      "end_char": 2055,
+      "content": "== Diğer binalar == Le Corbusier'in ütopik şehir yaşamı tasarımı, Unité d'Habitation, aynı adla ve çok benzere bir tasarımla dört farklı yerde tekrarlandı: 1955'te Nantes- Rezé'de (Unité d'Habitation of Nantes-Rezé ), 1957'de Berlin-Westend'de, 1963'te Briey'de, 1965'te Firminy'de. İngiltere'de Londra'daki Alton Estate Belediye Evleri ile Sheffield'deki Park Hill Belediye Evleri, Cité Radieuse'dan esinlenmiş yapılardandır ve çok eleştiri almışlardır. Londra'da daha başarılı bulunan Unité d'Habitation evleri Barbican Estate (1982), Samuda Estate (1965), Balfron Kulesi (1967), Trellick Kulesi (1972) adlı yapılardır. ABD'nin Ohio eyaletindeki Cleveland şehrinde bulunan Reserve Square adlı yapı kompleksi de Le Corbusier' in tasarımından esinlenmiş yapılardandır.",
+      "char_count": 768,
+      "token_estimate": 192
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cité Radieuse kim tarafından tasarlanmıştır?",
+        "answer": "Cité Radieuse, Le Corbusier tarafından tasarlanmıştır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Le Corbusier'in Unité d'Habitation tasarım ilkesi ve bunun en ünlü örneği olan Marsilya'daki Cité Radieuse, dünya genelinde başka hangi yapılarda doğrudan tekrarlandı veya ilham kaynağı oldu?",
+        "answer": "Le Corbusier'in Unité d'Habitation tasarım ilkesi, Fransa'da Nantes-Rezé (1955), Briey (1963) ve Firminy (1965) ile Almanya'da Berlin-Westend (1957) olmak üzere dört farklı yerde benzer tasarımlarla tekrarlandı. Marsilya'daki Cité Radieuse'dan ise İngiltere'deki Londra'daki Alton Estate ve Sheffield'deki Park Hill Belediye Evleri esinlenmiştir. Ayrıca, Londra'daki Barbican Estate, Samuda Estate, Balfron Kulesi ve Trellick Kulesi gibi yapılar da Unité d'Habitation evlerinin başarılı bulunan örneklerindendir ve ABD'nin Cleveland şehrindeki Reserve Square adlı yapı kompleksi de bu tasarımdan esinlenmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

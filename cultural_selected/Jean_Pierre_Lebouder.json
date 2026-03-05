@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "jeanpierrelebouder_2a8fd657",
+    "title": "Jean-Pierre Lebouder",
+    "url": "https://tr.wikipedia.org/wiki/Jean-Pierre_Lebouder",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:39.872679",
+    "content": "Jean-Pierre Lebouder (d. 1944), Orta Afrikalı tarım uzmanı ve siyasetçi. Lebouder, Afrika ülkesi Orta Afrika Cumhuriyeti'nde 1980 ile 1981 yılları arasında başbakanlık makamında bulunmuştur. Aynı zamanda Aralık 2003'ten Ağustos 2004'e kadar da Maliye Bakanlığı görevini üstlenmiştir. == Biyografi == Lebouder, 1944'te Gbanziri etnik grubunun üyesi olarak Fort Sibut'ta doğdu. Bangui'deki College Emile Gentil'de eğitim gördü ve 1971'de Toulouse, Fransa'daki Ecole nationale supericure agronomique'den ziraat mühendisliği diploması aldı. Lebouder, Tarım ve Hayvancılık Bakanlığı Çalışma ve Koordinasyon Departmanı'nın direktörlüğüne getirildi. 1-4 Kasım 1971 tarihleri arasında düzenlenen Birleşmiş Milletler Gıda ve Tarım Örgütü Konseyi'nin 57. oturumuna katılan delegasyonun bir parçasıydı. 26 Kasım'daki 58. oturuma da katıldı. Lebouder, 1 Kasım 1971 ile 1 Ocak 1972 arasında kırsal kalkınma genel müdür vekili olarak görev yaptı. 1972'de Union cotonniere centrafricaine'de (UCCA) araştırma ofisi müdürlüğüne atandı. Lebouder, 30 Kasım 1972'de UCCA genel müdür yardımcılığına atandı ve 11 Mayıs 1974'te genel müdürlüğe terfi etti İmparator Jean-Bedel Bokassa, 14 Aralık 1976'da Lebouder'i Tarım, Hayvancılık, Su, Ormancılık, Avcılık, Balıkçılık ve Turizm Bakanı yaptı. 17 Temmuz 1978'de Ekonomik Planlama, Genel İstatistik ve Uluslararası İşbirliği Bakanı oldu. David Dacko iktidarında Lebouder, 26 Eylül 1979'da Ekonomik Plan ve İşbirliği Bakanı oldu Dacko, 1 Eylül 1980'de geçici başbakan olarak atadığı Lebouder'i, 12 Kasım'da Bernard Ayandho'nun yerine başbakan oldu. Ancak Dacko, 4 Nisan 1981'de onu bu görevden aldı Lebouder, başbakanlık görevinden sonra Dünya Bankası için çalıştı ve 2002 yılına kadar Lome, Togo'da Uluslararası Para Fonu temsilcisi olarak çalıştı. 13 Aralık 2003'te Planlama, Ekonomi, Maliye, Bütçe ve Uluslararası İşbirliği Bakanı olarak atandı. Bu görevde, çatışma sonrası bir programda 8,2 milyon dolar kazanmak için Uluslararası Para Fonu ile müzakerelere öncülük etti. Lebouder ayrıca hükûmetin mali sorunlarına yardımcı olmak için kereste ve madencilik şirketlerinden bir geri dönüş anlaşması sözü aldı. Harcamaları kısmak için, daha yüksek maaş dilimindeki memurların maaşlarının kesileceğini açıkladı. 9 Ağustos 2004'te istifasını açıkladı ve istifası 15 Ağustos'ta yürürlüğe girdi. Bu istifanın başlıca nedeni, François Bozizé'nin malî danışmanı olan Medard Bemba'nın, Afrika Konfederasyonu genel merkezinin inşaatındaki bir kara para aklama planındaki çıkarımlarıyla ilgiliydi. == Kaynakça == == Dış bağlantılar == Historical Dictionary of the Central African Republic. Scarecrow Press. 2016. ISBN 0810879921.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 346,
+      "char_count": 2646,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.065630",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 284,
+      "content": "Jean-Pierre Lebouder (d. 1944), Orta Afrikalı tarım uzmanı ve siyasetçi. Lebouder, Afrika ülkesi Orta Afrika Cumhuriyeti'nde 1980 ile 1981 yılları arasında başbakanlık makamında bulunmuştur. Aynı zamanda Aralık 2003'ten Ağustos 2004'e kadar da Maliye Bakanlığı görevini üstlenmiştir.",
+      "char_count": 283,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 284,
+      "end_char": 1284,
+      "content": "== Biyografi == Lebouder, 1944'te Gbanziri etnik grubunun üyesi olarak Fort Sibut'ta doğdu. Bangui'deki College Emile Gentil'de eğitim gördü ve 1971'de Toulouse, Fransa'daki Ecole nationale supericure agronomique'den ziraat mühendisliği diploması aldı. Lebouder, Tarım ve Hayvancılık Bakanlığı Çalışma ve Koordinasyon Departmanı'nın direktörlüğüne getirildi. 1-4 Kasım 1971 tarihleri arasında düzenlenen Birleşmiş Milletler Gıda ve Tarım Örgütü Konseyi'nin 57. oturumuna katılan delegasyonun bir parçasıydı. 26 Kasım'daki 58. oturuma da katıldı. Lebouder, 1 Kasım 1971 ile 1 Ocak 1972 arasında kırsal kalkınma genel müdür vekili olarak görev yaptı. 1972'de Union cotonniere centrafricaine'de (UCCA) araştırma ofisi müdürlüğüne atandı. Lebouder, 30 Kasım 1972'de UCCA genel müdür yardımcılığına atandı ve 11 Mayıs 1974'te genel müdürlüğe terfi etti İmparator Jean-Bedel Bokassa, 14 Aralık 1976'da Lebouder'i Tarım, Hayvancılık, Su, Ormancılık, Avcılık, Balıkçılık ve Turizm Bakanı yaptı. 17 Temmuz 197",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 1084,
+      "end_char": 2084,
+      "content": " ve 11 Mayıs 1974'te genel müdürlüğe terfi etti İmparator Jean-Bedel Bokassa, 14 Aralık 1976'da Lebouder'i Tarım, Hayvancılık, Su, Ormancılık, Avcılık, Balıkçılık ve Turizm Bakanı yaptı. 17 Temmuz 1978'de Ekonomik Planlama, Genel İstatistik ve Uluslararası İşbirliği Bakanı oldu. David Dacko iktidarında Lebouder, 26 Eylül 1979'da Ekonomik Plan ve İşbirliği Bakanı oldu Dacko, 1 Eylül 1980'de geçici başbakan olarak atadığı Lebouder'i, 12 Kasım'da Bernard Ayandho'nun yerine başbakan oldu. Ancak Dacko, 4 Nisan 1981'de onu bu görevden aldı Lebouder, başbakanlık görevinden sonra Dünya Bankası için çalıştı ve 2002 yılına kadar Lome, Togo'da Uluslararası Para Fonu temsilcisi olarak çalıştı. 13 Aralık 2003'te Planlama, Ekonomi, Maliye, Bütçe ve Uluslararası İşbirliği Bakanı olarak atandı. Bu görevde, çatışma sonrası bir programda 8,2 milyon dolar kazanmak için Uluslararası Para Fonu ile müzakerelere öncülük etti. Lebouder ayrıca hükûmetin mali sorunlarına yardımcı olmak için kereste ve madencili",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 1884,
+      "end_char": 2514,
+      "content": ", çatışma sonrası bir programda 8,2 milyon dolar kazanmak için Uluslararası Para Fonu ile müzakerelere öncülük etti. Lebouder ayrıca hükûmetin mali sorunlarına yardımcı olmak için kereste ve madencilik şirketlerinden bir geri dönüş anlaşması sözü aldı. Harcamaları kısmak için, daha yüksek maaş dilimindeki memurların maaşlarının kesileceğini açıkladı. 9 Ağustos 2004'te istifasını açıkladı ve istifası 15 Ağustos'ta yürürlüğe girdi. Bu istifanın başlıca nedeni, François Bozizé'nin malî danışmanı olan Medard Bemba'nın, Afrika Konfederasyonu genel merkezinin inşaatındaki bir kara para aklama planındaki çıkarımlarıyla ilgiliydi.",
+      "char_count": 630,
+      "token_estimate": 157
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2530,
+      "end_char": 2646,
+      "content": "== Dış bağlantılar == Historical Dictionary of the Central African Republic. Scarecrow Press. 2016. ISBN 0810879921.",
+      "char_count": 116,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Lebouder, ziraat mühendisliği diplomasını nerede ve hangi yıl almıştır?",
+        "answer": "Lebouder, 1971'de Toulouse, Fransa'daki Ecole nationale supericure agronomique'den ziraat mühendisliği diploması almıştır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jean-Pierre Lebouder'in kariyer yolu, tarım alanındaki eğitiminden ve ilk görevlerinden, Orta Afrika Cumhuriyeti'ndeki başbakanlık ve bakanlık gibi yüksek kademeli siyasi görevlere nasıl evrildi?",
+        "answer": "Jean-Pierre Lebouder, 1971'de ziraat mühendisliği diploması aldıktan sonra Tarım ve Hayvancılık Bakanlığı'nda departman direktörlüğü ve Birleşmiş Milletler Gıda ve Tarım Örgütü Konseyi'ne katılım gibi çeşitli görevlerde bulundu. Ardından Union cotonniere centrafricaine'de (UCCA) genel müdür yardımcılığına ve genel müdürlüğe yükseldi. Kariyerinde ilerleyerek İmparator Jean-Bedel Bokassa ve David Dacko hükümetleri döneminde Tarım, Ekonomik Planlama ve İşbirliği Bakanı gibi bakanlık görevlerini üstlendi. 1980 ile 1981 yılları arasında Orta Afrika Cumhuriyeti başbakanlığı yaptı. Başbakanlık görevinden sonra Dünya Bankası ve Uluslararası Para Fonu'nda çalıştıktan sonra, Aralık 2003'te Planlama, Ekonomi, Maliye, Bütçe ve Uluslararası İşbirliği Bakanı olarak tekrar bir bakanlık pozisyonuna atandı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "article": {
+    "id": "bykmyntemi_554c8393",
+    "title": "Büyük M yöntemi",
+    "url": "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_M_y%C3%B6ntemi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:11.303857",
+    "content": "Matematiksel modellerin çözümünde kullanılır. Model kısıtlarından en az birisinin = veya => olması gerekir. Bu çözüm yönteminin bir türevide iki aşamalı yöntemdir. Büyük M yönteminde amaç satırındaki katsayılar M katsayısını alırlar. M katsayısı model içerisindeki hiçbir katsayının ulaşamayacağı kadar büyük bir sayı kabul edilmektedir. Programlama algoritmalarında ise long tipinde tanımlanarak çok büyük değerler atanarak problemler uygulamalara çözdürülür. === Uygulanması === Büyük M kaysayıları eklendikten sonraki aşamalar simpleks yöntemle aynıdır. Model standart hale getirilirken = ve => olan kısıtlara +R yapay değişkeni eklenir. Sağ taraf değerlerinin negatif olmamasına dikkat edilir. Sağ taraf değerlerinde negatiflik varsa dual simpleks uygulanır. +R yapay değişkenleri sol tarafta bırakılarak tüm değerler sağ tarafa atılarak R ler kısıtlardan çekilmiş olur. Maksimizasyon problemlerinde -MR Minimizasyon problemlerinde ise +MR olarak amaç fonksiyonuna eklenir. Amaç fonksiyonu MR ler eklendikten sonra düzenlenir ve ardından başlangıç tablosu oluşturularak simpleks algoritması uygulanır. Optimal tablo bize nihai çözümü verir. ==== Örnek ==== Bir örnekle Büyük M yöntemini daha iyi ifade etmiş olalım. Min Z = 4X1+X2 Amaç fonksiyonumuz olsun. Kısıtlarımız ise; 3 X1 + X2 = 3 4 X1 + 3X2 >= 6 X1 + 2X2 =< 4 X1, X2 >= 0 Standart Hale getirip +R katsayılarını ekleyelim. 3 X1 + X2 + R1 = 3 4 X1 + 3X2 - X3 + R2 = 6 X1 + 2X2 + X4 = 4 X1, X2, X3, X4, R1, R2 >= 0 (X3 : artık değişken, X4 : dolgu değişkeni, R1,2 : yapay değişken, R ler matris oluşumuna yardım etmek için modele eklenir.) Amaç fonksiyonu Min Z = 4X1+X2+MR1+MR2 olacaktır. (Min oldugu için +M) R leri sol tarafta yalnız bırakıp amaç fonksiyonuna yerine yazıp düzenlediğimizde yeni amaç fonksiyonu şu şekilde olacaktır; Min Z = (4-7M)X1 + (1-4M) X2 + MX3 + 9M Sabit M değerleri sağ tarafda bırakılarak diğer değerler sola atılır ve amaç fonksiyonu başlangıç tablosuna geçmeden önceki son hali şu şekilde olur; Z - (4-7M)X1 - (1-4M) X2 - MX3 = 9M Başlangıç tablosunu oluştururken değişken isimleri sütünlara eklenme sırasına göre yazılır. Model standart haline getirilirken ilk önce artık değişken eklenecek ise eklenir ardından dolgu ve yapay değişkenler eklenir). Temeldeki olan değişkenler ise modele eklediğimiz dolgu ve yapay değişkenlerdir. (+ kaysayılı) Temelde olmayan değişkenlerin Z satır değerlerine bakılır. Min problemlerde 0'a en uzak pozitif değer olan sütün temele girer ve çözüm değerleri bu sütun ile oranlarak 0 a en yakın pozitif değer temelden çıkar. X1 'in Z değerine bakalım. -4+7M değeri diğer değerlerden büyük ve pozitiftir ve R1 çözüm değeri bu sütun değeri ile oranlandıgında 0 a en yakın pozitif değeri vermiştir. X1: anahtar sütun, R1 satırı ise anahtar satır olmuştur. X1 'i temele sokarken R1 satırının tüm değerleri pivot elemana bölünür. (Pivot: Anahtar satır ile Sütünun kesiştiği noktadaki değer) Böylece yeni X1 satırı bulunmuş olur. Bir sonraki satırlarda bu satır yardımıyla bulunur. örneğin yeni Z satırı = Eski Z satırı - (İlgili satırın anahtar sütun elemanı) x (X1) yeni R1 satırı = Eski R1 satırı - (İlgili satırın anahtar sütun elemanı) x (X1) ... .. . şeklinde devam ettikten sonra iterasyon işlemlerine 3. iterasyonda optimal tabloya ulaşmış oluruz. İterasyon işlemlerinin detayları için Simpleks yönteme bakınız.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 513,
+      "char_count": 3335,
+      "num_chunks": 11,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.738450",
+    "total_chunks": 11,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 82,
+      "content": "Matematiksel modellerin çözümünde kullanılır. Model kısıtlarından en az birisinin",
+      "char_count": 81,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "= veya => olması gerekir. Bu çözüm yönteminin bir türevide iki aşamalı yöntemdir. Büyük M yönteminde amaç satırındaki katsayılar M katsayısını alırlar. M katsayısı model içerisindeki hiçbir katsayının ulaşamayacağı kadar büyük bir sayı kabul edilmektedir. Programlama algoritmalarında ise long tipinde tanımlanarak çok büyük değerler atanarak problemler uygulamalara çözdürülür. == =",
+      "heading_path": "= veya => olması gerekir. Bu çözüm yönteminin bir türevide iki aşamalı yöntemdir. Büyük M yönteminde amaç satırındaki katsayılar M katsayısını alırlar. M katsayısı model içerisindeki hiçbir katsayının ulaşamayacağı kadar büyük bir sayı kabul edilmektedir. Programlama algoritmalarında ise long tipinde tanımlanarak çok büyük değerler atanarak problemler uygulamalara çözdürülür. == =",
+      "start_char": 82,
+      "end_char": 477,
+      "content": "= veya => olması gerekir. Bu çözüm yönteminin bir türevide iki aşamalı yöntemdir. Büyük M yönteminde amaç satırındaki katsayılar M katsayısını alırlar. M katsayısı model içerisindeki hiçbir katsayının ulaşamayacağı kadar büyük bir sayı kabul edilmektedir. Programlama algoritmalarında ise long tipinde tanımlanarak çok büyük değerler atanarak problemler uygulamalara çözdürülür. === Uygulanması",
+      "char_count": 394,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0002",
+      "section": "=== Büyük M kaysayıları eklendikten sonraki aşamalar simpleks yöntemle aynıdır. Model standart hale getirilirken = ve => olan kısıtlara +R yapay değişkeni eklenir. Sağ taraf değerlerinin negatif olmamasına dikkat edilir. Sağ taraf değerlerinde negatiflik varsa dual simpleks uygulanır. +R yapay değişkenleri sol tarafta bırakılarak tüm değerler sağ tarafa atılarak R ler kısıtlardan çekilmiş olur. Maksimizasyon problemlerinde -MR Minimizasyon problemlerinde ise +MR olarak amaç fonksiyonuna eklenir. Amaç fonksiyonu MR ler eklendikten sonra düzenlenir ve ardından başlangıç tablosu oluşturularak simpleks algoritması uygulanır. Optimal tablo bize nihai çözümü verir. = ===",
+      "heading_path": "=== Büyük M kaysayıları eklendikten sonraki aşamalar simpleks yöntemle aynıdır. Model standart hale getirilirken = ve => olan kısıtlara +R yapay değişkeni eklenir. Sağ taraf değerlerinin negatif olmamasına dikkat edilir. Sağ taraf değerlerinde negatiflik varsa dual simpleks uygulanır. +R yapay değişkenleri sol tarafta bırakılarak tüm değerler sağ tarafa atılarak R ler kısıtlardan çekilmiş olur. Maksimizasyon problemlerinde -MR Minimizasyon problemlerinde ise +MR olarak amaç fonksiyonuna eklenir. Amaç fonksiyonu MR ler eklendikten sonra düzenlenir ve ardından başlangıç tablosu oluşturularak simpleks algoritması uygulanır. Optimal tablo bize nihai çözümü verir. = ===",
+      "start_char": 477,
+      "end_char": 1156,
+      "content": "=== Büyük M kaysayıları eklendikten sonraki aşamalar simpleks yöntemle aynıdır. Model standart hale getirilirken = ve => olan kısıtlara +R yapay değişkeni eklenir. Sağ taraf değerlerinin negatif olmamasına dikkat edilir. Sağ taraf değerlerinde negatiflik varsa dual simpleks uygulanır. +R yapay değişkenleri sol tarafta bırakılarak tüm değerler sağ tarafa atılarak R ler kısıtlardan çekilmiş olur. Maksimizasyon problemlerinde -MR Minimizasyon problemlerinde ise +MR olarak amaç fonksiyonuna eklenir. Amaç fonksiyonu MR ler eklendikten sonra düzenlenir ve ardından başlangıç tablosu oluşturularak simpleks algoritması uygulanır. Optimal tablo bize nihai çözümü verir. ==== Örnek",
+      "char_count": 678,
+      "token_estimate": 169
+    },
+    {
+      "id": "c0003",
+      "section": "= == =",
+      "heading_path": "= == =",
+      "start_char": 1156,
+      "end_char": 1226,
+      "content": "==== Bir örnekle Büyük M yöntemini daha iyi ifade etmiş olalım. Min Z",
+      "char_count": 69,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0004",
+      "section": "= 4X1+X2 Amaç fonksiyonumuz olsun. Kısıtlarımız ise; 3 X1 + X2 =",
+      "heading_path": "= 4X1+X2 Amaç fonksiyonumuz olsun. Kısıtlarımız ise; 3 X1 + X2 =",
+      "start_char": 1226,
+      "end_char": 1305,
+      "content": "= 4X1+X2 Amaç fonksiyonumuz olsun. Kısıtlarımız ise; 3 X1 + X2 = 3 4 X1 + 3X2 >",
+      "char_count": 79,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0005",
+      "section": "= 6 X1 + 2X2 =< 4 X1, X2 > =",
+      "heading_path": "= 6 X1 + 2X2 =< 4 X1, X2 > =",
+      "start_char": 1305,
+      "end_char": 1400,
+      "content": "= 6 X1 + 2X2 =< 4 X1, X2 >= 0 Standart Hale getirip +R katsayılarını ekleyelim. 3 X1 + X2 + R1",
+      "char_count": 94,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0006",
+      "section": "= 3 4 X1 + 3X2 - X3 + R2 =",
+      "heading_path": "= 3 4 X1 + 3X2 - X3 + R2 =",
+      "start_char": 1400,
+      "end_char": 1443,
+      "content": "= 3 4 X1 + 3X2 - X3 + R2 = 6 X1 + 2X2 + X4",
+      "char_count": 42,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0007",
+      "section": "= 4 X1, X2, X3, X4, R1, R2 > =",
+      "heading_path": "= 4 X1, X2, X3, X4, R1, R2 > =",
+      "start_char": 1443,
+      "end_char": 1622,
+      "content": "= 4 X1, X2, X3, X4, R1, R2 >= 0 (X3 : artık değişken, X4 : dolgu değişkeni, R1,2 : yapay değişken, R ler matris oluşumuna yardım etmek için modele eklenir.) Amaç fonksiyonu Min Z",
+      "char_count": 178,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0008",
+      "section": "= 4X1+X2+MR1+MR2 olacaktır. (Min oldugu için +M) R leri sol tarafta yalnız bırakıp amaç fonksiyonuna yerine yazıp düzenlediğimizde yeni amaç fonksiyonu şu şekilde olacaktır; Min Z =",
+      "heading_path": "= 4X1+X2+MR1+MR2 olacaktır. (Min oldugu için +M) R leri sol tarafta yalnız bırakıp amaç fonksiyonuna yerine yazıp düzenlediğimizde yeni amaç fonksiyonu şu şekilde olacaktır; Min Z =",
+      "start_char": 1622,
+      "end_char": 2017,
+      "content": "= 4X1+X2+MR1+MR2 olacaktır. (Min oldugu için +M) R leri sol tarafta yalnız bırakıp amaç fonksiyonuna yerine yazıp düzenlediğimizde yeni amaç fonksiyonu şu şekilde olacaktır; Min Z = (4-7M)X1 + (1-4M) X2 + MX3 + 9M Sabit M değerleri sağ tarafda bırakılarak diğer değerler sola atılır ve amaç fonksiyonu başlangıç tablosuna geçmeden önceki son hali şu şekilde olur; Z - (4-7M)X1 - (1-4M) X2 - MX3",
+      "char_count": 394,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0009",
+      "section": "= 9M Başlangıç tablosunu oluştururken değişken isimleri sütünlara eklenme sırasına göre yazılır. Model standart haline getirilirken ilk önce artık değişken eklenecek ise eklenir ardından dolgu ve yapay değişkenler eklenir). Temeldeki olan değişkenler ise modele eklediğimiz dolgu ve yapay değişkenlerdir. (+ kaysayılı) Temelde olmayan değişkenlerin Z satır değerlerine bakılır. Min problemlerde 0'a en uzak pozitif değer olan sütün temele girer ve çözüm değerleri bu sütun ile oranlarak 0 a en yakın pozitif değer temelden çıkar. X1 'in Z değerine bakalım. -4+7M değeri diğer değerlerden büyük ve pozitiftir ve R1 çözüm değeri bu sütun değeri ile oranlandıgında 0 a en yakın pozitif değeri vermiştir. X1: anahtar sütun, R1 satırı ise anahtar satır olmuştur. X1 'i temele sokarken R1 satırının tüm değerleri pivot elemana bölünür. (Pivot: Anahtar satır ile Sütünun kesiştiği noktadaki değer) Böylece yeni X1 satırı bulunmuş olur. Bir sonraki satırlarda bu satır yardımıyla bulunur. örneğin yeni Z satırı =",
+      "heading_path": "= 9M Başlangıç tablosunu oluştururken değişken isimleri sütünlara eklenme sırasına göre yazılır. Model standart haline getirilirken ilk önce artık değişken eklenecek ise eklenir ardından dolgu ve yapay değişkenler eklenir). Temeldeki olan değişkenler ise modele eklediğimiz dolgu ve yapay değişkenlerdir. (+ kaysayılı) Temelde olmayan değişkenlerin Z satır değerlerine bakılır. Min problemlerde 0'a en uzak pozitif değer olan sütün temele girer ve çözüm değerleri bu sütun ile oranlarak 0 a en yakın pozitif değer temelden çıkar. X1 'in Z değerine bakalım. -4+7M değeri diğer değerlerden büyük ve pozitiftir ve R1 çözüm değeri bu sütun değeri ile oranlandıgında 0 a en yakın pozitif değeri vermiştir. X1: anahtar sütun, R1 satırı ise anahtar satır olmuştur. X1 'i temele sokarken R1 satırının tüm değerleri pivot elemana bölünür. (Pivot: Anahtar satır ile Sütünun kesiştiği noktadaki değer) Böylece yeni X1 satırı bulunmuş olur. Bir sonraki satırlarda bu satır yardımıyla bulunur. örneğin yeni Z satırı =",
+      "start_char": 2017,
+      "end_char": 3017,
+      "content": "= 9M Başlangıç tablosunu oluştururken değişken isimleri sütünlara eklenme sırasına göre yazılır. Model standart haline getirilirken ilk önce artık değişken eklenecek ise eklenir ardından dolgu ve yapay değişkenler eklenir). Temeldeki olan değişkenler ise modele eklediğimiz dolgu ve yapay değişkenlerdir. (+ kaysayılı) Temelde olmayan değişkenlerin Z satır değerlerine bakılır. Min problemlerde 0'a en uzak pozitif değer olan sütün temele girer ve çözüm değerleri bu sütun ile oranlarak 0 a en yakın pozitif değer temelden çıkar. X1 'in Z değerine bakalım. -4+7M değeri diğer değerlerden büyük ve pozitiftir ve R1 çözüm değeri bu sütun değeri ile oranlandıgında 0 a en yakın pozitif değeri vermiştir. X1: anahtar sütun, R1 satırı ise anahtar satır olmuştur. X1 'i temele sokarken R1 satırının tüm değerleri pivot elemana bölünür. (Pivot: Anahtar satır ile Sütünun kesiştiği noktadaki değer) Böylece yeni X1 satırı bulunmuş olur. Bir sonraki satırlarda bu satır yardımıyla bulunur. örneğin yeni Z satı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0010",
+      "section": "= 9M Başlangıç tablosunu oluştururken değişken isimleri sütünlara eklenme sırasına göre yazılır. Model standart haline getirilirken ilk önce artık değişken eklenecek ise eklenir ardından dolgu ve yapay değişkenler eklenir). Temeldeki olan değişkenler ise modele eklediğimiz dolgu ve yapay değişkenlerdir. (+ kaysayılı) Temelde olmayan değişkenlerin Z satır değerlerine bakılır. Min problemlerde 0'a en uzak pozitif değer olan sütün temele girer ve çözüm değerleri bu sütun ile oranlarak 0 a en yakın pozitif değer temelden çıkar. X1 'in Z değerine bakalım. -4+7M değeri diğer değerlerden büyük ve pozitiftir ve R1 çözüm değeri bu sütun değeri ile oranlandıgında 0 a en yakın pozitif değeri vermiştir. X1: anahtar sütun, R1 satırı ise anahtar satır olmuştur. X1 'i temele sokarken R1 satırının tüm değerleri pivot elemana bölünür. (Pivot: Anahtar satır ile Sütünun kesiştiği noktadaki değer) Böylece yeni X1 satırı bulunmuş olur. Bir sonraki satırlarda bu satır yardımıyla bulunur. örneğin yeni Z satırı =",
+      "heading_path": "= 9M Başlangıç tablosunu oluştururken değişken isimleri sütünlara eklenme sırasına göre yazılır. Model standart haline getirilirken ilk önce artık değişken eklenecek ise eklenir ardından dolgu ve yapay değişkenler eklenir). Temeldeki olan değişkenler ise modele eklediğimiz dolgu ve yapay değişkenlerdir. (+ kaysayılı) Temelde olmayan değişkenlerin Z satır değerlerine bakılır. Min problemlerde 0'a en uzak pozitif değer olan sütün temele girer ve çözüm değerleri bu sütun ile oranlarak 0 a en yakın pozitif değer temelden çıkar. X1 'in Z değerine bakalım. -4+7M değeri diğer değerlerden büyük ve pozitiftir ve R1 çözüm değeri bu sütun değeri ile oranlandıgında 0 a en yakın pozitif değeri vermiştir. X1: anahtar sütun, R1 satırı ise anahtar satır olmuştur. X1 'i temele sokarken R1 satırının tüm değerleri pivot elemana bölünür. (Pivot: Anahtar satır ile Sütünun kesiştiği noktadaki değer) Böylece yeni X1 satırı bulunmuş olur. Bir sonraki satırlarda bu satır yardımıyla bulunur. örneğin yeni Z satırı =",
+      "start_char": 2817,
+      "end_char": 3335,
+      "content": "erleri pivot elemana bölünür. (Pivot: Anahtar satır ile Sütünun kesiştiği noktadaki değer) Böylece yeni X1 satırı bulunmuş olur. Bir sonraki satırlarda bu satır yardımıyla bulunur. örneğin yeni Z satırı = Eski Z satırı - (İlgili satırın anahtar sütun elemanı) x (X1) yeni R1 satırı = Eski R1 satırı - (İlgili satırın anahtar sütun elemanı) x (X1) ... .. . şeklinde devam ettikten sonra iterasyon işlemlerine 3. iterasyonda optimal tabloya ulaşmış oluruz. İterasyon işlemlerinin detayları için Simpleks yönteme bakınız.",
+      "char_count": 518,
+      "token_estimate": 129
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Pivot elemanı nedir?",
+        "answer": "Pivot elemanı, anahtar satır ile anahtar sütunun kesiştiği noktadaki değerdir.",
+        "related_chunk_ids": [
+          "c0009"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Matematiksel modellerin çözümünde kullanılan Büyük M yönteminin temel amacı nedir ve hangi koşullar altında bu yöntem uygulanır, ayrıca M katsayıları ve yapay değişkenler amaç fonksiyonuna nasıl dahil edilir?",
+        "answer": "Büyük M yönteminin temel amacı matematiksel modellerin çözümüdür. Bu yöntem, model kısıtlarından en az birinin = veya => olması durumunda uygulanır. Yöntemde, amaç satırındaki katsayılar, modeldeki hiçbir katsayının ulaşamayacağı kadar büyük kabul edilen M katsayısını alır ve programlama algoritmalarında long tipinde tanımlanarak çok büyük değerler atanır. Model standart hale getirilirken = ve => olan kısıtlara +R yapay değişkeni eklenir. Bu yapay değişkenler, maksimizasyon problemlerinde -MR, minimizasyon problemlerinde ise +MR olarak amaç fonksiyonuna dahil edilir ve ardından amaç fonksiyonu düzenlenerek simpleks algoritması uygulanır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

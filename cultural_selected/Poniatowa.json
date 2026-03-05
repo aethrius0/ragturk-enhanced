@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "poniatowa_f5cbfea3",
+    "title": "Poniatowa",
+    "url": "https://tr.wikipedia.org/wiki/Poniatowa",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:56.984131",
+    "content": "Poniatowa, Polonya'nın güneydoğusunda yer alan Lublin Voyvodalığında yer alan Opole Lubelskie İlçesine bağlı kasana. 2006 sayımına göre nüfusu 10.500'tür. Küçük Polonya zamanında da var olan tarihî bir yerleşim merkezidir. 17.yüzyıldaki Polonya-Litvanya Birliği sırasında Poniatowa yine Lublin Voyvodalığının bir parçasıydı. Tarihinin çoğunda Poniatowa bir köydü; 18 Temmuz 1962'ye kadar şehir tüzüğü almadı. Kasabanın 1951 yılında kurulan Stal adlı bir spor kulübü vardır. == II. Dünya Savaşı == Kent olduktan sonra ilk binalar II. Dünya Savaşı sırasında ve Nazilerin Polonya'yı işgalinden hemen önce 1939'da kuruldu. Nazi işgali sırasında, halihazırda kurulmuş olan fabrika, Nazilerin savaş gereksinimlerini karşılamak için köle emeğinin kullanıldığı bir yer oldu. 1941'in ikinci yarısında (Barbarossa Harekâtı'ndan sonra) Naziler, fabrika sahasında Sovyet savaş esirleri için Stalag 359 adındaki ilk kampı burada kurdular. Nazilerin Sovyet savaş esirlerine karşı işledikleri suçlar kapsamında çok sayıda Sovyet esiri bu kampta öldürüldü. Kampta dizanteri salgını meydana gelmesi üzerine 21-29 Eylül 1941 tarihleri arasında ilk gün 3.261 olmak üzere toplam 6 bin civarında Sovyet askeri Ordnungspolizei tarafından infaz edildi. 1942 ortasına kadar yaklaşık 20.000 Sovyet savaş esiri açlıktan, hastalıklardan ve idamlar nedeniyle hayatını kaybetti. Kamp daha sonra Yahudiler için Poniatowa toplama kampı olarak yeniden kuruldu. 1943 Nisan'ında Varşova Gettosu'nun tasfiyesi sırasında, yaklaşık 15.000 Polonyalı Yahudisi (çoğunlukla terziler) gelecek altı ay boyunca Nazilerin sahip olduğu savaş atölyelerinde zorunlu çalıştırılmak üzere kampa getirildi. Kamptaki tüm işgücü, 3.000 Slovak ve Avusturyalı Yahudi de dahil olmak üzere 4 Kasım 1943'te uçaksavar siperlerinde idam edildi. Yahudi Soykırımı kurbanlarının anısına yapılan anıt, 4 Kasım 2008 tarihinde Poniatowa'da, İsrail ve Çek büyükelçilerinin huzurunda açıldı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 253,
+      "char_count": 1937,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.885387",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 474,
+      "content": "Poniatowa, Polonya'nın güneydoğusunda yer alan Lublin Voyvodalığında yer alan Opole Lubelskie İlçesine bağlı kasana. 2006 sayımına göre nüfusu 10.500'tür. Küçük Polonya zamanında da var olan tarihî bir yerleşim merkezidir. 17.yüzyıldaki Polonya-Litvanya Birliği sırasında Poniatowa yine Lublin Voyvodalığının bir parçasıydı. Tarihinin çoğunda Poniatowa bir köydü; 18 Temmuz 1962'ye kadar şehir tüzüğü almadı. Kasabanın 1951 yılında kurulan Stal adlı bir spor kulübü vardır.",
+      "char_count": 473,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0001",
+      "section": "== II. Dünya Savaşı ==",
+      "heading_path": "== II. Dünya Savaşı ==",
+      "start_char": 474,
+      "end_char": 1474,
+      "content": "== II. Dünya Savaşı == Kent olduktan sonra ilk binalar II. Dünya Savaşı sırasında ve Nazilerin Polonya'yı işgalinden hemen önce 1939'da kuruldu. Nazi işgali sırasında, halihazırda kurulmuş olan fabrika, Nazilerin savaş gereksinimlerini karşılamak için köle emeğinin kullanıldığı bir yer oldu. 1941'in ikinci yarısında (Barbarossa Harekâtı'ndan sonra) Naziler, fabrika sahasında Sovyet savaş esirleri için Stalag 359 adındaki ilk kampı burada kurdular. Nazilerin Sovyet savaş esirlerine karşı işledikleri suçlar kapsamında çok sayıda Sovyet esiri bu kampta öldürüldü. Kampta dizanteri salgını meydana gelmesi üzerine 21-29 Eylül 1941 tarihleri arasında ilk gün 3.261 olmak üzere toplam 6 bin civarında Sovyet askeri Ordnungspolizei tarafından infaz edildi. 1942 ortasına kadar yaklaşık 20.000 Sovyet savaş esiri açlıktan, hastalıklardan ve idamlar nedeniyle hayatını kaybetti. Kamp daha sonra Yahudiler için Poniatowa toplama kampı olarak yeniden kuruldu. 1943 Nisan'ında Varşova Gettosu'nun tasfiyesi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== II. Dünya Savaşı ==",
+      "heading_path": "== II. Dünya Savaşı ==",
+      "start_char": 1274,
+      "end_char": 1922,
+      "content": "avaş esiri açlıktan, hastalıklardan ve idamlar nedeniyle hayatını kaybetti. Kamp daha sonra Yahudiler için Poniatowa toplama kampı olarak yeniden kuruldu. 1943 Nisan'ında Varşova Gettosu'nun tasfiyesi sırasında, yaklaşık 15.000 Polonyalı Yahudisi (çoğunlukla terziler) gelecek altı ay boyunca Nazilerin sahip olduğu savaş atölyelerinde zorunlu çalıştırılmak üzere kampa getirildi. Kamptaki tüm işgücü, 3.000 Slovak ve Avusturyalı Yahudi de dahil olmak üzere 4 Kasım 1943'te uçaksavar siperlerinde idam edildi. Yahudi Soykırımı kurbanlarının anısına yapılan anıt, 4 Kasım 2008 tarihinde Poniatowa'da, İsrail ve Çek büyükelçilerinin huzurunda açıldı.",
+      "char_count": 648,
+      "token_estimate": 162
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Naziler, 1941'in ikinci yarısında Sovyet savaş esirleri için fabrika sahasında kurdukları ilk kampa hangi adı verdiler?",
+        "answer": "Stalag 359",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Poniatowa, tarihinin büyük bir bölümünde bir köy olmasına rağmen, İkinci Dünya Savaşı sırasında Nazi işgali altında nasıl bir dönüşüm geçirerek hangi türden kamplara ev sahipliği yaptı?",
+        "answer": "Poniatowa, tarihinin büyük bir bölümünde bir köy olmasına rağmen, İkinci Dünya Savaşı sırasında Nazi işgali altında önce köle emeğinin kullanıldığı bir fabrika sahasına, ardından Sovyet savaş esirleri için Stalag 359 kampına ve daha sonra da Yahudiler için Poniatowa toplama kampına ev sahipliği yaparak önemli bir dönüşüm geçirdi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "hlyadarcan_f8650a11",
+    "title": "Hülya Darcan",
+    "url": "https://tr.wikipedia.org/wiki/H%C3%BClya_Darcan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:37.388239",
+    "content": "Hülya Darcan (d. 27 Nisan 1951, İzmir), Türk oyuncudur. == Hayatı == Lise mezunudur. 1967 yılında henüz 16 yaşındayken dönemin ünlü dergilerinden Ses Mecmuası Kapak Yıldızı yarışmasında 3. oldu. Bunun sonucunda sinemadan teklif aldı. İlk filmi Silahları Ellerinde Öldüler'de Fikret Hakan, Ekrem Bora ve Tugay Toksöz ile başrolü paylaşır ve sinemaya adımını atar. 1971 yılında tanıştığı Tanju Korel ile 1974'te evlendi. 1975'te Zeynep, 1982'de ise Bergüzar dünyaya geldi. == Filmografisi == === Filmleri === === Dizileri === 1990: Kara Elmas - Emine 1995: Bizim Ev (Başrol oyuncusu) 2002: Zeybek Ateşi 2003: Baba 2003: Hırçın Menekşe 2004: Büyük Yalan (Başrol oyuncusu) 2005: Zeytin Dalı 2006: İyi ki Varsın 2007: Vazgeç Gönlüm (Başrol oyuncusu) 2007: Tutsak 2008: Binbir Gece (Konuk oyuncu) 2010: Samanyolu 2011: Kalbim Seni Seçti 2012-2014: Dila Hanım (Başrol oyuncusu) 2012: Leyla'nın Evi 2014-2019: Diriliş Ertuğrul - Hayme Ana (Başrol oyuncusu) 2020: Şeref Sözü - Emsal Adabeyli (Başrol oyuncusu) 2021-2022: Bir Zamanlar Çukurova - Lütfiye Duman (Başrol oyuncusu) 2024: Kül Masalı - Neveser Giraylı (Başrol oyuncusu) == Kaynakça == == Dış bağlantılar == Beyazperde'de Hülya Darcan IMDb'de Hülya Darcan Sinemalar.com'te Hülya Darcan Kinoturkey.ru'de Hülya Darcan 24 Aralık 2018 tarihinde Wayback Machine sitesinde arşivlendi. SinemaTürk'te Hülya Darcan TSA'de Hülya Darcan 30 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 207,
+      "char_count": 1437,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.519192",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 56,
+      "content": "Hülya Darcan (d. 27 Nisan 1951, İzmir), Türk oyuncudur.",
+      "char_count": 55,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 56,
+      "end_char": 471,
+      "content": "== Hayatı == Lise mezunudur. 1967 yılında henüz 16 yaşındayken dönemin ünlü dergilerinden Ses Mecmuası Kapak Yıldızı yarışmasında 3. oldu. Bunun sonucunda sinemadan teklif aldı. İlk filmi Silahları Ellerinde Öldüler'de Fikret Hakan, Ekrem Bora ve Tugay Toksöz ile başrolü paylaşır ve sinemaya adımını atar. 1971 yılında tanıştığı Tanju Korel ile 1974'te evlendi. 1975'te Zeynep, 1982'de ise Bergüzar dünyaya geldi.",
+      "char_count": 414,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0002",
+      "section": "=== Dizileri ===",
+      "heading_path": "=== Dizileri ===",
+      "start_char": 507,
+      "end_char": 1121,
+      "content": "=== Dizileri === 1990: Kara Elmas - Emine 1995: Bizim Ev (Başrol oyuncusu) 2002: Zeybek Ateşi 2003: Baba 2003: Hırçın Menekşe 2004: Büyük Yalan (Başrol oyuncusu) 2005: Zeytin Dalı 2006: İyi ki Varsın 2007: Vazgeç Gönlüm (Başrol oyuncusu) 2007: Tutsak 2008: Binbir Gece (Konuk oyuncu) 2010: Samanyolu 2011: Kalbim Seni Seçti 2012-2014: Dila Hanım (Başrol oyuncusu) 2012: Leyla'nın Evi 2014-2019: Diriliş Ertuğrul - Hayme Ana (Başrol oyuncusu) 2020: Şeref Sözü - Emsal Adabeyli (Başrol oyuncusu) 2021-2022: Bir Zamanlar Çukurova - Lütfiye Duman (Başrol oyuncusu) 2024: Kül Masalı - Neveser Giraylı (Başrol oyuncusu)",
+      "char_count": 613,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1136,
+      "end_char": 1437,
+      "content": "== Dış bağlantılar == Beyazperde'de Hülya Darcan IMDb'de Hülya Darcan Sinemalar.com'te Hülya Darcan Kinoturkey.ru'de Hülya Darcan 24 Aralık 2018 tarihinde Wayback Machine sitesinde arşivlendi. SinemaTürk'te Hülya Darcan TSA'de Hülya Darcan 30 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 301,
+      "token_estimate": 75
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2004 yılında başrol oyuncusu olarak yer aldığı dizi hangisidir?",
+        "answer": "Büyük Yalan",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hülya Darcan'ın oyunculuk kariyeri nasıl başladı ve zamanla hangi medya türünde önemli roller üstlenerek devam etti?",
+        "answer": "Hülya Darcan'ın oyunculuk kariyeri, 1967'de 16 yaşındayken Ses Mecmuası Kapak Yıldızı yarışmasında üçüncü olduktan sonra sinemadan teklif almasıyla başladı ve ilk filmi Silahları Ellerinde Öldüler'de rol aldı. Daha sonra, 1990'lardan itibaren birçok televizyon dizisinde, sıklıkla başrol oyuncusu olarak görev alarak kariyerine devam etti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

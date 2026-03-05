@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "solus_837f28c3",
+    "title": "São Luís",
+    "url": "https://tr.wikipedia.org/wiki/S%C3%A3o_Lu%C3%ADs",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:44.440552",
+    "content": "São Luís, Brezilya'nın Maranhão eyaletinde bulunan ve eyalete başkentlik yapan belediye. Nüfus 2020 sayımına göre 1.108.975 idi. Brezilya'nın kuzeydoğusunda bir liman kenti olan São Luís, 1612'de Fransız La Ravardière kolonisi olarak kuruldu. Kısa zaman içinde ülkenin önemli pamuk işletmelerinin limanı olan şehrin ekonomisi günümüzde ticaret ve özellikle tarıma dayalı olan sanayiye dayanmaktadır. Şehir aynı zamanda en çok XVII. yüzyıldan kalma katedral ile tanınır. == Tarih == Şehir \"Pindere\", \"Mearim\", \"İtapecuru\" adli nehirlerin halicinde \"São Marcos Körfezi (Baía de São Marcos)\"nde bulunan \"São Luís Adası (Ilha de São Luís)\" üzerinde kurulmuştur. Şehir bir ada üzerine kurulmuş olan 3 Brezilya eyalet başkentlerinden biridir (diğerleri Vitória ve Florianópolis'tir. Şehrin iki önemli deniz limanı bulunmaktadır (Madeira Port ve Itaqui Port). Şehrin önemli sanayi, \"Alumar\" ve VALE adlı şirketler tarafından işletilen matalurji sanayiidir. Şehir deniz limanlarından gayet büyük miktarlarda (ön)-Amazon bölgesinde çıkartılan demir cehveri ihraç edilmektedir. Sao Luis şehrinde en önemli eğitim kurumu Maranhão Federal Üniversitesi olup bu şehirde mevcut olan 7 yüksek öğretim kurumumun başta gelenidir. São Luís, Brezilya eyalet başkentleri arasından Portekizliler tarafından kurulmamış olan tek başkenttir. 8 Eylül 1612'de Latin Amerika'da Fransız kolonisi \"La Ravardière\" valisi olan Français Daniel de la Touche tarafından Fransa Kralı genç XIII. Louis ve atası olan IX. Louis'in adını şereflendirmek için \"Saint-Louis de Maragnan\" adı verilen bir kale olarak kurulmuştur. Bu kale 1615'te Portekiz kolonisi Maranhão'nun valisi olan \"Jerônimo de Albuquerque\" tarafından Portekiz adına fethedilmiş ve \"São Luís\" olarak yeniden isimlendirilmiştir. Bu kale ve yerleşke 1641'de Hollandalıların eline geçmiş ve 1645'e kadar onların işgali altında kalmıştır. Fakat Fransızlar ve Hollandalılar bu şehrin mimarisine hiç katkıda bulunmamışlardır. Ancak Portekizliler idaresi altında bu şehir geliştirilmiş ve tarihi merkezi tipik bir koloniyal Portekiz şehri mimarisine uyan yerleşke haline gelmiştir. Bu şehir özellikle yakınlarında bulunan kırsal tarım ile ve yetiştirilen ve ihraç edilen pamuk ile gelişmiştir. Pamuk ihracat pazarları 19. yüzyıl sonu ve 20. yüzyıl başlarında bir buhran içinde kaldığı için şehrin gelişmesi durmuştur. Bu nedenle eski merkez geliştirilmemiş ve tarihi şehir merkezi günümüze kadar gelmiştir. Bu şehir merkezinde bulunan eski duvar karoları nedeniyle bu merkeze \"Duvar Karoları Şehri\" lakabı da verilmiştir. Günümüzde bu merkezi korumak için 1997'de UNESCO Dünya Mirası listesi listesine alınmıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 356,
+      "char_count": 2650,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.734823",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 470,
+      "content": "São Luís, Brezilya'nın Maranhão eyaletinde bulunan ve eyalete başkentlik yapan belediye. Nüfus 2020 sayımına göre 1.108.975 idi. Brezilya'nın kuzeydoğusunda bir liman kenti olan São Luís, 1612'de Fransız La Ravardière kolonisi olarak kuruldu. Kısa zaman içinde ülkenin önemli pamuk işletmelerinin limanı olan şehrin ekonomisi günümüzde ticaret ve özellikle tarıma dayalı olan sanayiye dayanmaktadır. Şehir aynı zamanda en çok XVII. yüzyıldan kalma katedral ile tanınır.",
+      "char_count": 469,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 470,
+      "end_char": 1470,
+      "content": "== Tarih == Şehir \"Pindere\", \"Mearim\", \"İtapecuru\" adli nehirlerin halicinde \"São Marcos Körfezi (Baía de São Marcos)\"nde bulunan \"São Luís Adası (Ilha de São Luís)\" üzerinde kurulmuştur. Şehir bir ada üzerine kurulmuş olan 3 Brezilya eyalet başkentlerinden biridir (diğerleri Vitória ve Florianópolis'tir. Şehrin iki önemli deniz limanı bulunmaktadır (Madeira Port ve Itaqui Port). Şehrin önemli sanayi, \"Alumar\" ve VALE adlı şirketler tarafından işletilen matalurji sanayiidir. Şehir deniz limanlarından gayet büyük miktarlarda (ön)-Amazon bölgesinde çıkartılan demir cehveri ihraç edilmektedir. Sao Luis şehrinde en önemli eğitim kurumu Maranhão Federal Üniversitesi olup bu şehirde mevcut olan 7 yüksek öğretim kurumumun başta gelenidir. São Luís, Brezilya eyalet başkentleri arasından Portekizliler tarafından kurulmamış olan tek başkenttir. 8 Eylül 1612'de Latin Amerika'da Fransız kolonisi \"La Ravardière\" valisi olan Français Daniel de la Touche tarafından Fransa Kralı genç XIII. Louis ve at",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1270,
+      "end_char": 2270,
+      "content": "ler tarafından kurulmamış olan tek başkenttir. 8 Eylül 1612'de Latin Amerika'da Fransız kolonisi \"La Ravardière\" valisi olan Français Daniel de la Touche tarafından Fransa Kralı genç XIII. Louis ve atası olan IX. Louis'in adını şereflendirmek için \"Saint-Louis de Maragnan\" adı verilen bir kale olarak kurulmuştur. Bu kale 1615'te Portekiz kolonisi Maranhão'nun valisi olan \"Jerônimo de Albuquerque\" tarafından Portekiz adına fethedilmiş ve \"São Luís\" olarak yeniden isimlendirilmiştir. Bu kale ve yerleşke 1641'de Hollandalıların eline geçmiş ve 1645'e kadar onların işgali altında kalmıştır. Fakat Fransızlar ve Hollandalılar bu şehrin mimarisine hiç katkıda bulunmamışlardır. Ancak Portekizliler idaresi altında bu şehir geliştirilmiş ve tarihi merkezi tipik bir koloniyal Portekiz şehri mimarisine uyan yerleşke haline gelmiştir. Bu şehir özellikle yakınlarında bulunan kırsal tarım ile ve yetiştirilen ve ihraç edilen pamuk ile gelişmiştir. Pamuk ihracat pazarları 19. yüzyıl sonu ve 20. yüzyıl ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 2070,
+      "end_char": 2635,
+      "content": "e uyan yerleşke haline gelmiştir. Bu şehir özellikle yakınlarında bulunan kırsal tarım ile ve yetiştirilen ve ihraç edilen pamuk ile gelişmiştir. Pamuk ihracat pazarları 19. yüzyıl sonu ve 20. yüzyıl başlarında bir buhran içinde kaldığı için şehrin gelişmesi durmuştur. Bu nedenle eski merkez geliştirilmemiş ve tarihi şehir merkezi günümüze kadar gelmiştir. Bu şehir merkezinde bulunan eski duvar karoları nedeniyle bu merkeze \"Duvar Karoları Şehri\" lakabı da verilmiştir. Günümüzde bu merkezi korumak için 1997'de UNESCO Dünya Mirası listesi listesine alınmıştır.",
+      "char_count": 565,
+      "token_estimate": 141
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "São Luís hangi tarihte ve kim tarafından kurulmuştur?",
+        "answer": "São Luís, 8 Eylül 1612'de Latin Amerika'daki Fransız kolonisi \"La Ravardière\" valisi olan Français Daniel de la Touche tarafından Fransa Kralı genç XIII. Louis adına kurulmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "São Luís'in diğer Brezilya eyalet başkentlerinden farklı olarak Portekizliler tarafından değil, Fransızlar tarafından kurulduğu göz önüne alındığında, şehrin ilk kuruluşunu ve Portekiz tarafından yeniden adlandırılmasını detaylandıran tarihçesini açıklayın.",
+        "answer": "São Luís, 8 Eylül 1612'de Fransız La Ravardière kolonisi valisi Français Daniel de la Touche tarafından, Fransa Kralı genç XIII. Louis ve atası olan IX. Louis'in adını şereflendirmek için \"Saint-Louis de Maragnan\" adıyla bir kale olarak kurulmuştur. Bu kale, 1615'te Portekiz kolonisi Maranhão'nun valisi Jerônimo de Albuquerque tarafından Portekiz adına fethedilmiş ve \"São Luís\" olarak yeniden isimlendirilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

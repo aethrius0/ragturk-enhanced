@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "openshot_f0df9d1b",
+    "title": "OpenShot",
+    "url": "https://tr.wikipedia.org/wiki/OpenShot",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:07.140861",
+    "content": "OpenShot Video Editor Linux sistemler için Python, GTK ve MLT Framework ile yazılmış özgür bir video düzenleme yazılımıdır. Proje Ağustos 2008'de Jonathan Thomas tarafından kararlı, özgür ve kullanıcı dostu bir video düzenleyici ortaya çıkarma amacıyla başlatılmıştır. == Desteklenen video formatları ve codec bileşenleri == Openshot, WebM (VP9), AVCHD (libx264), HEVC (libx265) ve mp3 (libmp3lame) ve aac (libfaac) gibi ses codec'leri gibi FFmpeg tarafından desteklenen sık kullanılan codec bileşenlerini desteklemektedir. Program internet video sitelerine yüklemek için MPEG4, ogv, Blu-ray ve DVD video ve Full HD videolar oluşturabilir. == Eleştiri == OpenShot'ın önceki sürümleri, güvenilmez olduğu için oldukça eleştirildi. Geliştiriciler, OpenShot'ın istikrarsızlığının dayandığı kütüphanelerin, özellikle MLT kitaplığı ve GTK Zaman Çizelgesi gibi istikrarsızlıktan kaynaklandığını söyleyerek yanıt verdi. OpenShot 2 serisi, kararsız kütüphane gereksinimini ortadan kaldırarak kendi video kütüphanesini kullandı. Geliştiriciler, bunun yeni yayınlanan yazılım sürümünü daha istikrarlı hale getireceğini belirtti. == OpenShot özellikleri == Birçok görüntü, ses ve resim biçimlerini destekler (FFmpeg tabanlı) GNOME uyumlu (sürükle ve bırak destekli) Video geçişleri (gerçek zamanlı önizleme desteği ile) Başlık şablonları, yeni başlık oluşturma Başlık ve katkıcılar yazısı oluşturmada SVG dostu Arka planda Blender kullanarak 3D animasyonlu başlıklar oluşturma Kayan yazı şeklinde filmdeki katkıcıların sunulması Klip kesme, yapıştırma, yeniden boyutlandırma, süsleme Renk klipleri Zaman çizgisine sürükle bırak Video kodlama (FFmpeg tabanlı ) HDV ve AVCHD gibi yüksek çözünürlüklü video ile çalışma Anahtar kare animasyonları Video kliplerde sayısal yakınlaştırma Klip hızını düzenleme (hızlı/yavaş) Standart luma ve maske geçişleri Ses harmanlama ve düzenleme Ken Burns efekti (fotoğrafa yaklaşma ve üzerinde dolaşma tekniği ile video oluşturma) Sayısal video efektleri ve standart video efektleri == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 258,
+      "char_count": 2018,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.039025",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 269,
+      "content": "OpenShot Video Editor Linux sistemler için Python, GTK ve MLT Framework ile yazılmış özgür bir video düzenleme yazılımıdır. Proje Ağustos 2008'de Jonathan Thomas tarafından kararlı, özgür ve kullanıcı dostu bir video düzenleyici ortaya çıkarma amacıyla başlatılmıştır.",
+      "char_count": 268,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0001",
+      "section": "== Desteklenen video formatları ve codec bileşenleri ==",
+      "heading_path": "== Desteklenen video formatları ve codec bileşenleri ==",
+      "start_char": 269,
+      "end_char": 640,
+      "content": "== Desteklenen video formatları ve codec bileşenleri == Openshot, WebM (VP9), AVCHD (libx264), HEVC (libx265) ve mp3 (libmp3lame) ve aac (libfaac) gibi ses codec'leri gibi FFmpeg tarafından desteklenen sık kullanılan codec bileşenlerini desteklemektedir. Program internet video sitelerine yüklemek için MPEG4, ogv, Blu-ray ve DVD video ve Full HD videolar oluşturabilir.",
+      "char_count": 370,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0002",
+      "section": "== Eleştiri ==",
+      "heading_path": "== Eleştiri ==",
+      "start_char": 640,
+      "end_char": 1118,
+      "content": "== Eleştiri == OpenShot'ın önceki sürümleri, güvenilmez olduğu için oldukça eleştirildi. Geliştiriciler, OpenShot'ın istikrarsızlığının dayandığı kütüphanelerin, özellikle MLT kitaplığı ve GTK Zaman Çizelgesi gibi istikrarsızlıktan kaynaklandığını söyleyerek yanıt verdi. OpenShot 2 serisi, kararsız kütüphane gereksinimini ortadan kaldırarak kendi video kütüphanesini kullandı. Geliştiriciler, bunun yeni yayınlanan yazılım sürümünü daha istikrarlı hale getireceğini belirtti.",
+      "char_count": 477,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0003",
+      "section": "== OpenShot özellikleri ==",
+      "heading_path": "== OpenShot özellikleri ==",
+      "start_char": 1118,
+      "end_char": 2004,
+      "content": "== OpenShot özellikleri == Birçok görüntü, ses ve resim biçimlerini destekler (FFmpeg tabanlı) GNOME uyumlu (sürükle ve bırak destekli) Video geçişleri (gerçek zamanlı önizleme desteği ile) Başlık şablonları, yeni başlık oluşturma Başlık ve katkıcılar yazısı oluşturmada SVG dostu Arka planda Blender kullanarak 3D animasyonlu başlıklar oluşturma Kayan yazı şeklinde filmdeki katkıcıların sunulması Klip kesme, yapıştırma, yeniden boyutlandırma, süsleme Renk klipleri Zaman çizgisine sürükle bırak Video kodlama (FFmpeg tabanlı ) HDV ve AVCHD gibi yüksek çözünürlüklü video ile çalışma Anahtar kare animasyonları Video kliplerde sayısal yakınlaştırma Klip hızını düzenleme (hızlı/yavaş) Standart luma ve maske geçişleri Ses harmanlama ve düzenleme Ken Burns efekti (fotoğrafa yaklaşma ve üzerinde dolaşma tekniği ile video oluşturma) Sayısal video efektleri ve standart video efektleri",
+      "char_count": 885,
+      "token_estimate": 221
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "OpenShot, arka planda hangi yazılımı kullanarak 3D animasyonlu başlıklar oluşturur?",
+        "answer": "OpenShot, arka planda Blender kullanarak 3D animasyonlu başlıklar oluşturur.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "OpenShot Video Editor'ın ücretsiz ve kullanıcı dostu bir araç olma hedefi, kapsamlı video formatı desteği ve internet video sitelerine çıktı oluşturma yeteneğiyle nasıl bir ilişki içindedir?",
+        "answer": "OpenShot Video Editor, kararlı, ücretsiz ve kullanıcı dostu bir video düzenleyici oluşturma amacıyla başlatılmıştır. Bu hedef, FFmpeg tarafından desteklenen WebM (VP9), AVCHD (libx264), HEVC (libx265) gibi sık kullanılan codec bileşenlerinin yanı sıra mp3 (libmp3lame) ve aac (libfaac) gibi ses codec bileşenlerini destekleyerek sağlanır. Ayrıca, programın MPEG4, ogv, Blu-ray, DVD video ve Full HD videoları internet video sitelerine yüklemek üzere oluşturabilme yeteneği, kullanıcıların içerik üretmesini ve paylaşmasını kolaylaştırarak bu başlangıç amacını destekler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

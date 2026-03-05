@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "pelvis_dcdd7a8c",
+    "title": "Pelvis",
+    "url": "https://tr.wikipedia.org/wiki/Pelvis",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:16.498251",
+    "content": "Pelvis, yanlarda ve önde iki kalça kemiği, arkada sakral kemik ve koksigeal kemiğin birleşmesiyle meydana gelir. == Pelvisin anatomisi == Pubik Ark Subpubik Açı/Köşe Terminal Hat Üst Pelvik Açıklık Büyük Pelvis Küçük Pelvis Alt Pelvik Açıklık == Pelvis tipleri == Android Tip Pelvis Jinekoid Tip Pelvis Platipelloid Tip Pelvis Antropoid Tip Pelvis == Pelvis çapları == Anatomik Çap, Ön-Arka Çap Obstetrik çap Diyagonal çap Transvers çap Oblik çap == Cinsel farklılıklar == Kadın doğası gebe kalmaya, rahim içinde gelişmekte olan bebeği büyütmeye ve nihayet olgunlaşmış bebeği dünyaya getirmeye göre evrimleşmiştir. Bu görevleri yerine getirmek amacına yönelik olarak kadının kemik çatısı erkeğin kemik çatısına göre belirgin farklılıklar gösterir: Erkeğin leğen kemiklerinin yapısı daha çok ağır yük taşımaya yönelikken, kadının leğen kemiklerinin yapısı bebeğin başının doğum esnasında leğen kemikleri tarafından oluşturulan doğum kanalına girmesine yöneliktir. Erkeğin leğen kemikleri alt açısı dar, kadının leğen kemikleri alt açısı bebeğin doğum kanalından dışarıya rahatça çıkabilmesine olanak tanımak için geniş açılı olarak yapılandırılmıştır. Kadının kemik yapısının üzerinde yer alan kaslar ve bağlar bebeğin doğum kanalından geçerek dış dünyaya çıkma sürecinde ona mümkün olan en geniş alanı sağlamak amacına yönelik olarak gevşemeye elverişli olarak yapılandırılmışlardır. Erkeklerin leğen kemikleri daha çok yük taşımaya elverişli olacak şekilde biçimlendirildiğinden kaslar ve bağlar çok fazla gevşeme göstermezler. == Klinik önemi == Hamilelik sırasında gerek pelvisin içinde yer alan fetüsün büyümesi gerekse fetüsün içinde bulunduğu rahmin içini dolduran amnion sıvısının artışı sonucu ilerleyen aylarla birlikte karın da büyümeye başlar. Hamileliğin 5 ayından itibaren büyüme hızı da artar. Bu büyümeyle birlikte bölgedeki gerginleşir, gerginleştikçe incelir. Hamileliğin son ayında en yüksek noktaya ulaşan derideki incelme, derinin gerilime karşı zayıf olan bölgelerinde çatlaklara neden olabilir. Karın duvarında olduğu gibi, pelvis boşluğunun dış duvarı da en dışta deri, derinin altında yağ tabakası, yağ tabakasının altında karın boşluğu içinde iç organları barındıran kas tabakasından oluşur. Hamilelikle birlikte buradaki rahim doğal olarak büyümeye başlar. Rahim büyüdükçe duvarı oluşturan kaslar da esneyerek genişler. Hamileliğin son aylarında karın içinin büyümesine bağlı olarak karın kaslarının esneklik kapasitesini zorlamaya başladığında ise karın ortasındaki kasları birbirine bağlayan kas kılıfı gerginliğe bağlı olarak genişler. Bunun sonucunda kaslar birbirinden uzaklaşır ve daha ayrık hale gelir. Doğumun ardından esnek olan kaslar eski haline tekrar döner, ancak genişleyerek gevşemiş olan kas kılıfı kaslar gibi esnek bir yapıda olmadığı için eski haline dönemez, gevşek olarak kaldığı için de karın orta kasları birbirinden ayrık bir şekilde durur. Bu durum dış görünüme, karın bölgesinin dışa doğru bombe yapmış, şişkin bir görünümü şeklinde yansır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 406,
+      "char_count": 3007,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.616127",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 113,
+      "content": "Pelvis, yanlarda ve önde iki kalça kemiği, arkada sakral kemik ve koksigeal kemiğin birleşmesiyle meydana gelir.",
+      "char_count": 112,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0001",
+      "section": "== Pelvisin anatomisi ==",
+      "heading_path": "== Pelvisin anatomisi ==",
+      "start_char": 113,
+      "end_char": 243,
+      "content": "== Pelvisin anatomisi == Pubik Ark Subpubik Açı/Köşe Terminal Hat Üst Pelvik Açıklık Büyük Pelvis Küçük Pelvis Alt Pelvik Açıklık",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0002",
+      "section": "== Pelvis tipleri ==",
+      "heading_path": "== Pelvis tipleri ==",
+      "start_char": 243,
+      "end_char": 348,
+      "content": "== Pelvis tipleri == Android Tip Pelvis Jinekoid Tip Pelvis Platipelloid Tip Pelvis Antropoid Tip Pelvis",
+      "char_count": 104,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0003",
+      "section": "== Pelvis çapları ==",
+      "heading_path": "== Pelvis çapları ==",
+      "start_char": 348,
+      "end_char": 447,
+      "content": "== Pelvis çapları == Anatomik Çap, Ön-Arka Çap Obstetrik çap Diyagonal çap Transvers çap Oblik çap",
+      "char_count": 98,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0004",
+      "section": "== Cinsel farklılıklar ==",
+      "heading_path": "== Cinsel farklılıklar ==",
+      "start_char": 447,
+      "end_char": 1447,
+      "content": "== Cinsel farklılıklar == Kadın doğası gebe kalmaya, rahim içinde gelişmekte olan bebeği büyütmeye ve nihayet olgunlaşmış bebeği dünyaya getirmeye göre evrimleşmiştir. Bu görevleri yerine getirmek amacına yönelik olarak kadının kemik çatısı erkeğin kemik çatısına göre belirgin farklılıklar gösterir: Erkeğin leğen kemiklerinin yapısı daha çok ağır yük taşımaya yönelikken, kadının leğen kemiklerinin yapısı bebeğin başının doğum esnasında leğen kemikleri tarafından oluşturulan doğum kanalına girmesine yöneliktir. Erkeğin leğen kemikleri alt açısı dar, kadının leğen kemikleri alt açısı bebeğin doğum kanalından dışarıya rahatça çıkabilmesine olanak tanımak için geniş açılı olarak yapılandırılmıştır. Kadının kemik yapısının üzerinde yer alan kaslar ve bağlar bebeğin doğum kanalından geçerek dış dünyaya çıkma sürecinde ona mümkün olan en geniş alanı sağlamak amacına yönelik olarak gevşemeye elverişli olarak yapılandırılmışlardır. Erkeklerin leğen kemikleri daha çok yük taşımaya elverişli olac",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Cinsel farklılıklar ==",
+      "heading_path": "== Cinsel farklılıklar ==",
+      "start_char": 1247,
+      "end_char": 1528,
+      "content": "dünyaya çıkma sürecinde ona mümkün olan en geniş alanı sağlamak amacına yönelik olarak gevşemeye elverişli olarak yapılandırılmışlardır. Erkeklerin leğen kemikleri daha çok yük taşımaya elverişli olacak şekilde biçimlendirildiğinden kaslar ve bağlar çok fazla gevşeme göstermezler.",
+      "char_count": 281,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0006",
+      "section": "== Klinik önemi ==",
+      "heading_path": "== Klinik önemi ==",
+      "start_char": 1529,
+      "end_char": 2529,
+      "content": "== Klinik önemi == Hamilelik sırasında gerek pelvisin içinde yer alan fetüsün büyümesi gerekse fetüsün içinde bulunduğu rahmin içini dolduran amnion sıvısının artışı sonucu ilerleyen aylarla birlikte karın da büyümeye başlar. Hamileliğin 5 ayından itibaren büyüme hızı da artar. Bu büyümeyle birlikte bölgedeki gerginleşir, gerginleştikçe incelir. Hamileliğin son ayında en yüksek noktaya ulaşan derideki incelme, derinin gerilime karşı zayıf olan bölgelerinde çatlaklara neden olabilir. Karın duvarında olduğu gibi, pelvis boşluğunun dış duvarı da en dışta deri, derinin altında yağ tabakası, yağ tabakasının altında karın boşluğu içinde iç organları barındıran kas tabakasından oluşur. Hamilelikle birlikte buradaki rahim doğal olarak büyümeye başlar. Rahim büyüdükçe duvarı oluşturan kaslar da esneyerek genişler. Hamileliğin son aylarında karın içinin büyümesine bağlı olarak karın kaslarının esneklik kapasitesini zorlamaya başladığında ise karın ortasındaki kasları birbirine bağlayan kas kılıf",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "== Klinik önemi ==",
+      "heading_path": "== Klinik önemi ==",
+      "start_char": 2329,
+      "end_char": 2992,
+      "content": "eyerek genişler. Hamileliğin son aylarında karın içinin büyümesine bağlı olarak karın kaslarının esneklik kapasitesini zorlamaya başladığında ise karın ortasındaki kasları birbirine bağlayan kas kılıfı gerginliğe bağlı olarak genişler. Bunun sonucunda kaslar birbirinden uzaklaşır ve daha ayrık hale gelir. Doğumun ardından esnek olan kaslar eski haline tekrar döner, ancak genişleyerek gevşemiş olan kas kılıfı kaslar gibi esnek bir yapıda olmadığı için eski haline dönemez, gevşek olarak kaldığı için de karın orta kasları birbirinden ayrık bir şekilde durur. Bu durum dış görünüme, karın bölgesinin dışa doğru bombe yapmış, şişkin bir görünümü şeklinde yansır.",
+      "char_count": 663,
+      "token_estimate": 165
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kadının leğen kemiklerinin alt açısı ne şekilde yapılandırılmıştır?",
+        "answer": "Kadının leğen kemiklerinin alt açısı, bebeğin doğum kanalından dışarıya rahatça çıkabilmesine olanak tanımak için geniş açılı olarak yapılandırılmıştır.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Pelvisi meydana getiren kemikler ile 'Pelvisin anatomisi' başlığı altında listelenen spesifik anatomik yapılar arasında nasıl bir ilişki bulunmaktadır?",
+        "answer": "Pelvisin yanlarda ve önde iki kalça kemiği, arkada ise sakral ve koksigeal kemiklerin birleşmesiyle meydana gelmesi, Pubik Ark, Subpubik Açı, Terminal Hat, Üst Pelvik Açıklık, Büyük Pelvis, Küçük Pelvis ve Alt Pelvik Açıklık gibi anatomik bölümlerin konumlandığı ve tanımlandığı iskelet çerçevesini oluşturur. Bu kemikler, belirtilen anatomik yapıların temelini ve sınırlarını belirler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

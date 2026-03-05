@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "boayldzkmesi_64a9f425",
+    "title": "Boğa (yıldız kümesi)",
+    "url": "https://tr.wikipedia.org/wiki/Bo%C4%9Fa_%28y%C4%B1ld%C4%B1z_k%C3%BCmesi%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:57.698603",
+    "content": "Boğa kümesi, (ayrıca Hyades veya Öküz Kümesi olarak da bilinir) Boğa takımyıldızı yönünde bulunan bir açık yıldız kümesi. Güneş sistemi'ne en yakın açık küme olması yanı sıra en iyi incelenmiş olan yıldız kümesidir. Yaklaşık olarak 151 ışık yılı uzaklıkta olan küme; yaşı, kökeni ve kimyasal içeriği aynı olan 300 ile 400 arası yıldızdan oluşur. Boğa takımyıldızı içinde parlak kırmızı dev Aldebaran ile birlikte \"V\" şeklini oluşturur. Aldebaran, Arapça \"takip eden\" veya \"izleyen\" demektir. Bu konumda \"izlenen\", Boğa Kümesi'dir. Ancak, Aldebaran sadece aynı görüş hattında bulunan bir yıldızdır ve kümeyle bir ilgisi yoktur. Kümenin dört parlak üyesi, hayatlarına masif A-tipi yıldızlar olarak başlamış kırmızı devlerdir. Tümü, birbirlerinden birkaç ışık yılı uzaklıkta bulunmaktadır. Bunlar, Bayer belirtmesine göre; Gama, Delta, Epsilon ve Teta Tauri'dir. \"Boğanın gözü\" olarak da bilinen Epsilon Tauri, en az bir tane gaz devi gezegen barındırır. == Kaynakça == == Dış bağlantılar == Simbad 4 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. Information on the Hyades from SEDS 16 Mayıs 2008 tarihinde Wayback Machine sitesinde arşivlendi. Astronomy Picture of the Day 27 Ağustos 2006 tarihinde Wayback Machine sitesinde arşivlendi. (2000-09-29) WEBDA open cluster database website for Hyades cluster 15 Nisan 2008 tarihinde Wayback Machine sitesinde arşivlendi. – E. Paunzen (Univ. Vienna) Distance to the Hyades undergraduate lab – J. Lucey (University of Durham) WikiSky'da Boğa (yıldız kümesi): DSS2, SDSS, GALEX, IRAS, Hidrojen α, X-Ray, Astrofoto, Gök Haritası",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 227,
+      "char_count": 1580,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.766001",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 952,
+      "content": "Boğa kümesi, (ayrıca Hyades veya Öküz Kümesi olarak da bilinir) Boğa takımyıldızı yönünde bulunan bir açık yıldız kümesi. Güneş sistemi'ne en yakın açık küme olması yanı sıra en iyi incelenmiş olan yıldız kümesidir. Yaklaşık olarak 151 ışık yılı uzaklıkta olan küme; yaşı, kökeni ve kimyasal içeriği aynı olan 300 ile 400 arası yıldızdan oluşur. Boğa takımyıldızı içinde parlak kırmızı dev Aldebaran ile birlikte \"V\" şeklini oluşturur. Aldebaran, Arapça \"takip eden\" veya \"izleyen\" demektir. Bu konumda \"izlenen\", Boğa Kümesi'dir. Ancak, Aldebaran sadece aynı görüş hattında bulunan bir yıldızdır ve kümeyle bir ilgisi yoktur. Kümenin dört parlak üyesi, hayatlarına masif A-tipi yıldızlar olarak başlamış kırmızı devlerdir. Tümü, birbirlerinden birkaç ışık yılı uzaklıkta bulunmaktadır. Bunlar, Bayer belirtmesine göre; Gama, Delta, Epsilon ve Teta Tauri'dir. \"Boğanın gözü\" olarak da bilinen Epsilon Tauri, en az bir tane gaz devi gezegen barındırır.",
+      "char_count": 951,
+      "token_estimate": 237
+    },
+    {
+      "id": "c0001",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 967,
+      "end_char": 1580,
+      "content": "== Dış bağlantılar == Simbad 4 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. Information on the Hyades from SEDS 16 Mayıs 2008 tarihinde Wayback Machine sitesinde arşivlendi. Astronomy Picture of the Day 27 Ağustos 2006 tarihinde Wayback Machine sitesinde arşivlendi. (2000-09-29) WEBDA open cluster database website for Hyades cluster 15 Nisan 2008 tarihinde Wayback Machine sitesinde arşivlendi. – E. Paunzen (Univ. Vienna) Distance to the Hyades undergraduate lab – J. Lucey (University of Durham) WikiSky'da Boğa (yıldız kümesi): DSS2, SDSS, GALEX, IRAS, Hidrojen α, X-Ray, Astrofoto, Gök Haritası",
+      "char_count": 613,
+      "token_estimate": 153
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Boğa kümesi, Güneş Sistemi'ne yaklaşık olarak ne kadar uzaklıktadır?",
+        "answer": "Yaklaşık olarak 151 ışık yılı uzaklıktadır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Boğa kümesinin (Hyades) Güneş Sistemi'ne en yakın ve en iyi incelenmiş açık küme olması özelliği, hakkında sağlanan harici kaynakların türleriyle nasıl bir bağlantı taşımaktadır?",
+        "answer": "Boğa kümesinin en iyi incelenmiş açık küme olması, hakkında sağlanan harici kaynaklarda görülebilir. Bu kaynaklar arasında Simbad ve WEBDA gibi açık küme veri tabanları ile kümenin mesafesini belirlemeye yönelik bir üniversite laboratuvarı çalışmasının bulunması, küme üzerinde kapsamlı bilimsel çalışmaların ve araştırmaların yapıldığını göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

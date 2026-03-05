@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "weka_7a56be30",
+    "title": "Weka",
+    "url": "https://tr.wikipedia.org/wiki/Weka",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:57.562695",
+    "content": "Weka, makine öğrenimi amacıyla Waikato Üniversitesinde geliştirilmiş ve \"Waikato Environment for Knowledge Analysis\" kelimelerinin baş harflerinden oluşmuş yazılımın ismidir. Günümüzde yaygın kullanımı olan çoğu makine öğrenimi algoritmalarını ve metotlarını içermektedir. Java dilinde geliştirilmiş olması ve kütüphanelerinin .jar dosyaları halinde geliyor olması sayesinde, Java dilinde yazılan projelere kolayce entegre edilebilmesi kullanımını daha da yaygınlaştırmıştır. Yazılım, GNU Genel Kamu Lisansı ile dağıtılmaktadır. == Genel Bilgiler == Weka, tamamen modüler bir tasarıma sahip olup, içerdiği özelliklerle veri kümeleri üzerinde görselleştirme, veri analizi, iş zekası uygulamaları, veri madenciliği gibi işlemler yapabilmektedir. Weka yazılımı, kendisine özgü olarak bir .arff uzantısı desteği ile gelmektedir. Ancak Weka yazılımının içerisinde CSV dosyalarını da ARFF formatına çevirmeye yarayan araçlar mevcuttur. Temel olarak aşağıdaki 3 Veri Madenciliği işlemi Weka ile yapılabilir: Sınıflandırma (Classification) Bölütleme (Clustering) İlişkilendirme (Association) Ayrıca yukarıdaki işlemlere ilave olarak, veri kümeleri üzerinde ön ve son işlemler yapılabilir Veri Ön işleme (Data Pre-Processing) Görselleştirme (Visualization) Son olarak Weka Kütüphanesi'nde veri kümelerini içeren dosyalar üzerinde çalışan çok sayıda hazır fonksiyon bulunmaktadır. == Kullanım Popülerliği == Weka, iş zekası alanında en çok kullanılan 10 yazılımdan birisi olup, yine iş zekası konusunda en çok kullanılan özgür yazılımlar sıralamasında ilk 3 sırada yer almaktadır. Weka, 200'e yakın IEEE makalesinde doğrudan geçmekte olup 5,700 civarında ACM makalesinde de ismi doğrudan geçmektedir. Weka, 2011 Ağustos ayı itibarıyla sadece sourceforge.net sitesinden, 2.5 milyona yakın indirme sayısı ile en çok indirilen ilk 200 Sourceforge Projesi arasında girmiştir. == ARFF Dosya Yapısı == İngilizce, Attribute Relationship File Format kelimelerinin baş harflerinden oluşmuştur. ARFF dosya yapısı, Weka'ya özel olarak geliştirilmiştir ve dosya, metin yapısında tutulmaktadır. Dosyanın ilk satırında, dosyadaki ilişki tipi (relation) tutulmakta olup ikinci satırdan itibaren veri kümesindeki özellikler (attributes) yazılmaktadır. Özelliklerin hemen ardından veri kümesi yer alır ve veri kümesindeki her satır bir örneğe (instance) işaret etmektedir. Ayrıca veri kümesindeki her örneğin her özelliği arasında da virgül ayıracı kullanılmaktadır. Yukarıdaki örnek dosyada, hava tahmini için kullanılan nem, sıcaklık ve basınç değerleri bir dosya içerisinde 4 örnek içerecek şekilde gösterilmiştir. Bu değerler tip olarak sayısal değerler olduğundan \"numeric\" olarak ifade edilmiştir. Ancak bu değerler aşağıdaki tiplerde olabilir: NOMINAL: [Küme Değerleri] Tahmin değeridir ve bir tanım kümesi alır. Örneğin tahmin {güneşli, yağmurlu, sisli} şeklinde tanımlanan bir kümede, bu özellik kümedeki tanımlı değerlerden birisini alabilir. REAL: [Reel Sayılar] kümesinden bir değer verileceğinde kullanılır. Örneğin sıcaklık değeri 22.8 şeklinde ondalıklı değerleri de ifade edecek şekilde verilmek istenirse tip olarak numeric yerine reel kullanabiliriz. STRING: Veri kümesinin bu özelliğinin serbest yazı şeklinde olabileceğini ifade eder. Özellikle metin madenciliği çalışmaları için sıkça kullanılan bir tiptir. DATE: Veri kümesinin bu özelliğinin tarih olduğunu ifade eder. Örneğin veri kümesindeki kişilerin doğum tarihi veya örneklerin toplanma tarihi gibi özelliklerin tutulmasında kullanılabilir. == Tarihi == 1993 yılında, Waikato Üniversitesi tarafından ilk Weka paketi, TCL/TK, C ve Makefiles'dan oluşan bir şekilde dünyaya duyuruldu. 1997 yılında, JAVA'nın da gelişmesi ile, bütün Weka paketinin yeni baştan Java dilinde yazılması kabul edildi ve proje Java'ya taşındı. 2005 yılında, Weka, dünyanın en prestijli veri madenciliği ödüllerinden olan SIGKDD \"Data Mining and Knowledge Discovery Service Award\", ödülüne layık görüldü. 2006 yılında, Pentaho Corporation firması tarafından iş zekası uygulamalarında kullanılmak üzere Weka'nın lisansı satın alındı. Bu tarihten sonra Weka \"Pentaho business intelligence suite\" isimli paketin içinde de yer almaya başladı. 2011 yılı itibarıyla 2.487.213 indirme ile en popüler 200 Sourceforge projesinden birisi olmuştur. Tüm Zaman İndirmeleri 9 Eylül 2010 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça == == Dış bağlantılar == Weka'nın Ekran görüntülerine genel bir bakış 13 Temmuz 2013 tarihinde Wayback Machine sitesinde arşivlendi. Weka ile eğitim modeli oluşturulması ve kaydedilmesi 30 Haziran 2013 tarihinde Wayback Machine sitesinde arşivlendi. Weka ile bilgi akışı sağlanması ve kullanılması 23 Temmuz 2013 tarihinde Wayback Machine sitesinde arşivlendi. Weka'nın API bağlantısı Weka (machine learning)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 608,
+      "char_count": 4765,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.710500",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 529,
+      "content": "Weka, makine öğrenimi amacıyla Waikato Üniversitesinde geliştirilmiş ve \"Waikato Environment for Knowledge Analysis\" kelimelerinin baş harflerinden oluşmuş yazılımın ismidir. Günümüzde yaygın kullanımı olan çoğu makine öğrenimi algoritmalarını ve metotlarını içermektedir. Java dilinde geliştirilmiş olması ve kütüphanelerinin .jar dosyaları halinde geliyor olması sayesinde, Java dilinde yazılan projelere kolayce entegre edilebilmesi kullanımını daha da yaygınlaştırmıştır. Yazılım, GNU Genel Kamu Lisansı ile dağıtılmaktadır.",
+      "char_count": 528,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0001",
+      "section": "== Genel Bilgiler ==",
+      "heading_path": "== Genel Bilgiler ==",
+      "start_char": 529,
+      "end_char": 1371,
+      "content": "== Genel Bilgiler == Weka, tamamen modüler bir tasarıma sahip olup, içerdiği özelliklerle veri kümeleri üzerinde görselleştirme, veri analizi, iş zekası uygulamaları, veri madenciliği gibi işlemler yapabilmektedir. Weka yazılımı, kendisine özgü olarak bir .arff uzantısı desteği ile gelmektedir. Ancak Weka yazılımının içerisinde CSV dosyalarını da ARFF formatına çevirmeye yarayan araçlar mevcuttur. Temel olarak aşağıdaki 3 Veri Madenciliği işlemi Weka ile yapılabilir: Sınıflandırma (Classification) Bölütleme (Clustering) İlişkilendirme (Association) Ayrıca yukarıdaki işlemlere ilave olarak, veri kümeleri üzerinde ön ve son işlemler yapılabilir Veri Ön işleme (Data Pre-Processing) Görselleştirme (Visualization) Son olarak Weka Kütüphanesi'nde veri kümelerini içeren dosyalar üzerinde çalışan çok sayıda hazır fonksiyon bulunmaktadır.",
+      "char_count": 841,
+      "token_estimate": 210
+    },
+    {
+      "id": "c0002",
+      "section": "== Kullanım Popülerliği ==",
+      "heading_path": "== Kullanım Popülerliği ==",
+      "start_char": 1371,
+      "end_char": 1862,
+      "content": "== Kullanım Popülerliği == Weka, iş zekası alanında en çok kullanılan 10 yazılımdan birisi olup, yine iş zekası konusunda en çok kullanılan özgür yazılımlar sıralamasında ilk 3 sırada yer almaktadır. Weka, 200'e yakın IEEE makalesinde doğrudan geçmekte olup 5,700 civarında ACM makalesinde de ismi doğrudan geçmektedir. Weka, 2011 Ağustos ayı itibarıyla sadece sourceforge.net sitesinden, 2.5 milyona yakın indirme sayısı ile en çok indirilen ilk 200 Sourceforge Projesi arasında girmiştir.",
+      "char_count": 490,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0003",
+      "section": "== ARFF Dosya Yapısı ==",
+      "heading_path": "== ARFF Dosya Yapısı ==",
+      "start_char": 1862,
+      "end_char": 2862,
+      "content": "== ARFF Dosya Yapısı == İngilizce, Attribute Relationship File Format kelimelerinin baş harflerinden oluşmuştur. ARFF dosya yapısı, Weka'ya özel olarak geliştirilmiştir ve dosya, metin yapısında tutulmaktadır. Dosyanın ilk satırında, dosyadaki ilişki tipi (relation) tutulmakta olup ikinci satırdan itibaren veri kümesindeki özellikler (attributes) yazılmaktadır. Özelliklerin hemen ardından veri kümesi yer alır ve veri kümesindeki her satır bir örneğe (instance) işaret etmektedir. Ayrıca veri kümesindeki her örneğin her özelliği arasında da virgül ayıracı kullanılmaktadır. Yukarıdaki örnek dosyada, hava tahmini için kullanılan nem, sıcaklık ve basınç değerleri bir dosya içerisinde 4 örnek içerecek şekilde gösterilmiştir. Bu değerler tip olarak sayısal değerler olduğundan \"numeric\" olarak ifade edilmiştir. Ancak bu değerler aşağıdaki tiplerde olabilir: NOMINAL: [Küme Değerleri] Tahmin değeridir ve bir tanım kümesi alır. Örneğin tahmin {güneşli, yağmurlu, sisli} şeklinde tanımlanan bir küm",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== ARFF Dosya Yapısı ==",
+      "heading_path": "== ARFF Dosya Yapısı ==",
+      "start_char": 2662,
+      "end_char": 3491,
+      "content": "de edilmiştir. Ancak bu değerler aşağıdaki tiplerde olabilir: NOMINAL: [Küme Değerleri] Tahmin değeridir ve bir tanım kümesi alır. Örneğin tahmin {güneşli, yağmurlu, sisli} şeklinde tanımlanan bir kümede, bu özellik kümedeki tanımlı değerlerden birisini alabilir. REAL: [Reel Sayılar] kümesinden bir değer verileceğinde kullanılır. Örneğin sıcaklık değeri 22.8 şeklinde ondalıklı değerleri de ifade edecek şekilde verilmek istenirse tip olarak numeric yerine reel kullanabiliriz. STRING: Veri kümesinin bu özelliğinin serbest yazı şeklinde olabileceğini ifade eder. Özellikle metin madenciliği çalışmaları için sıkça kullanılan bir tiptir. DATE: Veri kümesinin bu özelliğinin tarih olduğunu ifade eder. Örneğin veri kümesindeki kişilerin doğum tarihi veya örneklerin toplanma tarihi gibi özelliklerin tutulmasında kullanılabilir.",
+      "char_count": 829,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0005",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 3492,
+      "end_char": 4345,
+      "content": "== Tarihi == 1993 yılında, Waikato Üniversitesi tarafından ilk Weka paketi, TCL/TK, C ve Makefiles'dan oluşan bir şekilde dünyaya duyuruldu. 1997 yılında, JAVA'nın da gelişmesi ile, bütün Weka paketinin yeni baştan Java dilinde yazılması kabul edildi ve proje Java'ya taşındı. 2005 yılında, Weka, dünyanın en prestijli veri madenciliği ödüllerinden olan SIGKDD \"Data Mining and Knowledge Discovery Service Award\", ödülüne layık görüldü. 2006 yılında, Pentaho Corporation firması tarafından iş zekası uygulamalarında kullanılmak üzere Weka'nın lisansı satın alındı. Bu tarihten sonra Weka \"Pentaho business intelligence suite\" isimli paketin içinde de yer almaya başladı. 2011 yılı itibarıyla 2.487.213 indirme ile en popüler 200 Sourceforge projesinden birisi olmuştur. Tüm Zaman İndirmeleri 9 Eylül 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 852,
+      "token_estimate": 213
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 4360,
+      "end_char": 4765,
+      "content": "== Dış bağlantılar == Weka'nın Ekran görüntülerine genel bir bakış 13 Temmuz 2013 tarihinde Wayback Machine sitesinde arşivlendi. Weka ile eğitim modeli oluşturulması ve kaydedilmesi 30 Haziran 2013 tarihinde Wayback Machine sitesinde arşivlendi. Weka ile bilgi akışı sağlanması ve kullanılması 23 Temmuz 2013 tarihinde Wayback Machine sitesinde arşivlendi. Weka'nın API bağlantısı Weka (machine learning)",
+      "char_count": 405,
+      "token_estimate": 101
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "ARFF kısaltması hangi kelimelerin baş harflerinden oluşmuştur?",
+        "answer": "Attribute Relationship File Format kelimelerinin baş harflerinden oluşmuştur.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Weka'nın makine öğrenimi amacıyla Java dilinde geliştirilmiş olması ve modüler tasarımı, veri kümeleri üzerinde gerçekleştirebildiği geniş kapsamlı işlemleri nasıl etkilemektedir?",
+        "answer": "Weka'nın makine öğrenimi için Java dilinde geliştirilmiş olması, yaygın makine öğrenimi algoritmalarını ve metotlarını içermesini ve Java projelerine kolayca entegre edilmesini sağlamıştır. Buna ek olarak, tamamen modüler bir tasarıma sahip olması, görselleştirme, veri analizi, iş zekası uygulamaları, veri madenciliği gibi geniş yelpazede işlemlerin yanı sıra sınıflandırma, bölütleme ve ilişkilendirme gibi temel veri madenciliği operasyonlarını ve veri ön işleme ile görselleştirme gibi ek fonksiyonları desteklemesine olanak tanır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

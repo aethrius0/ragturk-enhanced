@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "ironmanfilm2008_e9f51563",
+    "title": "Iron Man (film, 2008)",
+    "url": "https://tr.wikipedia.org/wiki/Iron_Man_%28film%2C_2008%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:07.926524",
+    "content": "Iron Man (Türkçe: Demir Adam), 2008 yapımı, Marvel Comics Şirketi'nin yayımladığı ilk Marvel Sinematik Evreni filmidir. Demir Adam isimli çizgi romanın beyazperde uyarlamasıdır. Robert Downey Jr., filmin kahramanı Demir Adam'ı canlandırmıştır. Filmde oyuncuya Terrence Howard, Gwyneth Paltrow ve Jeff Bridges eşlik ediyor. Filmin devamı 2010 yılında gösterime girdi ve başrolde yine Robert Downey Jr. oynadı. == Konusu == Tony Stark, Afganistan'da Amerikan Generallere yeni silahının sunumunu yapar. Dönüş yolunda bir takım terörist tarafından saldırıya uğrarlar. Tony ve yanındaki askerler Stark malı silahlarla vurulmaktadır. Askerler ölür. Tony tutsak edilir. Teröristler ondan yeni silahından kendilerine yapmalarını isterler. Kendisiyle tutsak edilen Yinsen adında bir adam akü yardımıyla Tony'nin vücuduna isabet eden şarapnel parçalarının kalbine gitmesini engellemiş ve onun hayatını kurtarmıştır. İlk küçük bir ark-reaktörü yaparak Tony'nin göğsüne yerleştirirler. Bu şarapnel parçalarının kalbine gitmesini engeller. Sonra birlikte silah yapıyor gibi görünüp gizliden bir zırh yaparlar. Zırh tamamlanınca teröristeler durumu anlar ve saldırılar. Bu sırada Yinsen Tony ye zaman kazandırmak için kendi hayatını feda ederek teröristleri oyalar ve ölür. Tony, teröristleri öldürür ve oradan kaçar. Amerikan askerleri onu bulur ve evine döner. Yaşadığı olaylar onu değiştirmiştir. Artık silah üretmeyeceğini ilan eder. Ortağı Obadiah Stane bundan memnun olmaz. Tony yeni bir zırh için çalışmalara başlar. Zırh tamamlanınca Afganistan'a gider ve oradaki teröristlere saldırır. Silahlarını yok eder. Bu arada Tony'yi öldürmeleri için teröristleri tutanın Obadiah Stane olduğu anlaşılır. Obadiah evinde Tony'yi felç eder ve ark-reaktörünü söküp onu ölüme terk eder. Obadiah Şirkette kendisine Tony'nin zırhına benzer bir zırh yapmıştır. Tony ölmek üzere iken yedek ark-reaktörünü J.A.R.V.I.S getirir ve Tony göğsüne takar. Obadiah zırhı ile demir adam zırhı kapışır. Obadiah ölür. Tony, kendisinin \"Demir Adam\" olduğunu basına söyler. == Başarısı == Film vizyona girdiği ülkelerde ciddi bir fan kitlesi yaratmıştır. En iyi görsel efektler ve en iyi ses dallarında Akademi Ödülleri (Oscar) adaylıkları vardır. Ancak en iyi görsel efektleri The Curious Case of Benjamin Button'a en iyi ses düzenlemesini de The Dark Knight'a kaptırmıştır. Ödül kazanamamasına rağmen Marvel'in Spider-Man 2'den sonra en iyi süper kahraman uyarlaması olarak görülmektedir. == Oyuncular == Robert Downey Jr. - Tony Stark / Demir Adam Terrence Howard - Albay James \"Rhodey\" Rhodes Gwyneth Paltrow - Virginia \"Pepper\" Potts Jeff Bridges - Obadiah Stane / Iron Monger Peter Billingsley - William Ginter Riva == Kaynakça == == Dış bağlantılar == Filmin resmi websitesi Iron Man Film Fragmanı 24 Temmuz 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 391,
+      "char_count": 2830,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.864191",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 409,
+      "content": "Iron Man (Türkçe: Demir Adam), 2008 yapımı, Marvel Comics Şirketi'nin yayımladığı ilk Marvel Sinematik Evreni filmidir. Demir Adam isimli çizgi romanın beyazperde uyarlamasıdır. Robert Downey Jr., filmin kahramanı Demir Adam'ı canlandırmıştır. Filmde oyuncuya Terrence Howard, Gwyneth Paltrow ve Jeff Bridges eşlik ediyor. Filmin devamı 2010 yılında gösterime girdi ve başrolde yine Robert Downey Jr. oynadı.",
+      "char_count": 408,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 409,
+      "end_char": 1409,
+      "content": "== Konusu == Tony Stark, Afganistan'da Amerikan Generallere yeni silahının sunumunu yapar. Dönüş yolunda bir takım terörist tarafından saldırıya uğrarlar. Tony ve yanındaki askerler Stark malı silahlarla vurulmaktadır. Askerler ölür. Tony tutsak edilir. Teröristler ondan yeni silahından kendilerine yapmalarını isterler. Kendisiyle tutsak edilen Yinsen adında bir adam akü yardımıyla Tony'nin vücuduna isabet eden şarapnel parçalarının kalbine gitmesini engellemiş ve onun hayatını kurtarmıştır. İlk küçük bir ark-reaktörü yaparak Tony'nin göğsüne yerleştirirler. Bu şarapnel parçalarının kalbine gitmesini engeller. Sonra birlikte silah yapıyor gibi görünüp gizliden bir zırh yaparlar. Zırh tamamlanınca teröristeler durumu anlar ve saldırılar. Bu sırada Yinsen Tony ye zaman kazandırmak için kendi hayatını feda ederek teröristleri oyalar ve ölür. Tony, teröristleri öldürür ve oradan kaçar. Amerikan askerleri onu bulur ve evine döner. Yaşadığı olaylar onu değiştirmiştir. Artık silah üretmeyeceğ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 1209,
+      "end_char": 2036,
+      "content": " hayatını feda ederek teröristleri oyalar ve ölür. Tony, teröristleri öldürür ve oradan kaçar. Amerikan askerleri onu bulur ve evine döner. Yaşadığı olaylar onu değiştirmiştir. Artık silah üretmeyeceğini ilan eder. Ortağı Obadiah Stane bundan memnun olmaz. Tony yeni bir zırh için çalışmalara başlar. Zırh tamamlanınca Afganistan'a gider ve oradaki teröristlere saldırır. Silahlarını yok eder. Bu arada Tony'yi öldürmeleri için teröristleri tutanın Obadiah Stane olduğu anlaşılır. Obadiah evinde Tony'yi felç eder ve ark-reaktörünü söküp onu ölüme terk eder. Obadiah Şirkette kendisine Tony'nin zırhına benzer bir zırh yapmıştır. Tony ölmek üzere iken yedek ark-reaktörünü J.A.R.V.I.S getirir ve Tony göğsüne takar. Obadiah zırhı ile demir adam zırhı kapışır. Obadiah ölür. Tony, kendisinin \"Demir Adam\" olduğunu basına söyler.",
+      "char_count": 827,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0003",
+      "section": "== Başarısı ==",
+      "heading_path": "== Başarısı ==",
+      "start_char": 2037,
+      "end_char": 2454,
+      "content": "== Başarısı == Film vizyona girdiği ülkelerde ciddi bir fan kitlesi yaratmıştır. En iyi görsel efektler ve en iyi ses dallarında Akademi Ödülleri (Oscar) adaylıkları vardır. Ancak en iyi görsel efektleri The Curious Case of Benjamin Button'a en iyi ses düzenlemesini de The Dark Knight'a kaptırmıştır. Ödül kazanamamasına rağmen Marvel'in Spider-Man 2'den sonra en iyi süper kahraman uyarlaması olarak görülmektedir.",
+      "char_count": 416,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0004",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 2454,
+      "end_char": 2685,
+      "content": "== Oyuncular == Robert Downey Jr. - Tony Stark / Demir Adam Terrence Howard - Albay James \"Rhodey\" Rhodes Gwyneth Paltrow - Virginia \"Pepper\" Potts Jeff Bridges - Obadiah Stane / Iron Monger Peter Billingsley - William Ginter Riva",
+      "char_count": 230,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2700,
+      "end_char": 2830,
+      "content": "== Dış bağlantılar == Filmin resmi websitesi Iron Man Film Fragmanı 24 Temmuz 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 130,
+      "token_estimate": 32
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tony Stark'ın vücuduna isabet eden şarapnel parçalarının kalbine gitmesini engelleyerek hayatını kurtaran kişi kimdir?",
+        "answer": "Yinsen",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tony Stark'ın \"Demir Adam\" kimliğini üstlenmesine ve kamuoyuna açıklanmasına yol açan olaylar zinciri nasıldı?",
+        "answer": "Tony Stark, Afganistan'da teröristler tarafından saldırıya uğrayıp esir alındıktan sonra, şarapnel parçalarının kalbine ulaşmasını engellemek için Yinsen ile birlikte küçük bir ark-reaktörü geliştirip göğsüne yerleştirdi. Bu esaret sırasında Yinsen'in hayatını feda etmesiyle gizlice bir zırh yaparak kaçtı. Yaşadığı bu olaylar onu derinden etkiledi ve silah üretmeyi bırakmaya karar verdi. Daha sonra yeni bir zırh geliştirerek Afganistan'daki teröristlere saldırdı ve saldırının arkasında ortağı Obadiah Stane'in olduğunu öğrendi. Stane'in kendisini öldürme girişiminden (ark-reaktörünü sökme) yedek reaktör sayesinde kurtulduktan ve Stane'i zırhlı bir çatışmada yendikten sonra, Tony Stark basına kendisinin \"Demir Adam\" olduğunu açıkladı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

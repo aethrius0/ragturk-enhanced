@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "siegheilviktoria_20443b1c",
+    "title": "Sieg Heil Viktoria",
+    "url": "https://tr.wikipedia.org/wiki/Sieg_Heil_Viktoria",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:28.381171",
+    "content": "Sieg Heil Viktoria, Nazi Almanyası'nda popüler marş. Başta Wehrmacht, SS olmak üzere geniş kitlerler tarafından okundu. 1941'de müziği Nazi Almanyası'nın önde gelen marş bestecilerinden ve Reichsarbeitsdienst önderlerinden Herms Niel (d. 1888 - ö. 1954) tarafından bestelendi ve şarkı sözü de aynı kişi tarafından yazıldı. Şarkı sözünde Auf Stalin, Churchill, Roosevelt, Ade, ade, ade, (Stalin, Churchill, Roosevelt'e, elveda. elveda. elveda) cümlesinin yer almasından, şarkının 11 Aralık 1941'de Nazi Almanyası'nın ABD'ye savaş ilan etmesinden sonra yazıldığı anlaşılır. == Şarkının Almanca Sözleri == Ade, mein liebes Schätzelein,/Ade, ade, ade,/Es muß, es muß geschieden sein/Ade, ade, ade,/Es geht um Deutschlands Gloria,/Gloria, Gloria,/Sieg Heil! Sieg Heil! Viktoria/Sieg Heil! Viktoria! Visier und Ziel sind eingestellt/Ade, ade, ade,/Auf Stalin, Churchill, Roosevelt,/Ade, ade, ade,/Es geht um Deutschlands Gloria,/Gloria, Gloria,/Sieg Heil! Sieg Heil! Viktoria/Sieg Heil! Viktoria! Wir ruhen und wir rasten nicht/Ade, ade, ade,/Bis daß die Satansbrut zerbricht,/Ade, ade, ade,/Es geht um Deutschlands Gloria,/Gloria, Gloria,/Sieg Heil! Sieg Heil! Viktoria/Sieg Heil! Viktoria! Reich mir die Hand zum Scheidegruß/Ade, ade, ade,/Und deinen Mund zum Abschiedskuß/Ade, ade, ade,/Es geht um Deutschlands Gloria, Gloria, Gloria,/Sieg Heil! Sieg Heil! Viktoria!/Sieg Heil! Viktoria! == Dış bağlantılar == Şarkı sözü & Dinle 7 Mart 2009 tarihinde Wayback Machine sitesinde arşivlendi. (Bunun başlığında \"The March of the Waffen SS\" olarak yazılsa da sadece SS'nin marşı değildir.)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 209,
+      "char_count": 1581,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.924112",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 572,
+      "content": "Sieg Heil Viktoria, Nazi Almanyası'nda popüler marş. Başta Wehrmacht, SS olmak üzere geniş kitlerler tarafından okundu. 1941'de müziği Nazi Almanyası'nın önde gelen marş bestecilerinden ve Reichsarbeitsdienst önderlerinden Herms Niel (d. 1888 - ö. 1954) tarafından bestelendi ve şarkı sözü de aynı kişi tarafından yazıldı. Şarkı sözünde Auf Stalin, Churchill, Roosevelt, Ade, ade, ade, (Stalin, Churchill, Roosevelt'e, elveda. elveda. elveda) cümlesinin yer almasından, şarkının 11 Aralık 1941'de Nazi Almanyası'nın ABD'ye savaş ilan etmesinden sonra yazıldığı anlaşılır.",
+      "char_count": 571,
+      "token_estimate": 142
+    },
+    {
+      "id": "c0001",
+      "section": "== Şarkının Almanca Sözleri ==",
+      "heading_path": "== Şarkının Almanca Sözleri ==",
+      "start_char": 572,
+      "end_char": 1385,
+      "content": "== Şarkının Almanca Sözleri == Ade, mein liebes Schätzelein,/Ade, ade, ade,/Es muß, es muß geschieden sein/Ade, ade, ade,/Es geht um Deutschlands Gloria,/Gloria, Gloria,/Sieg Heil! Sieg Heil! Viktoria/Sieg Heil! Viktoria! Visier und Ziel sind eingestellt/Ade, ade, ade,/Auf Stalin, Churchill, Roosevelt,/Ade, ade, ade,/Es geht um Deutschlands Gloria,/Gloria, Gloria,/Sieg Heil! Sieg Heil! Viktoria/Sieg Heil! Viktoria! Wir ruhen und wir rasten nicht/Ade, ade, ade,/Bis daß die Satansbrut zerbricht,/Ade, ade, ade,/Es geht um Deutschlands Gloria,/Gloria, Gloria,/Sieg Heil! Sieg Heil! Viktoria/Sieg Heil! Viktoria! Reich mir die Hand zum Scheidegruß/Ade, ade, ade,/Und deinen Mund zum Abschiedskuß/Ade, ade, ade,/Es geht um Deutschlands Gloria, Gloria, Gloria,/Sieg Heil! Sieg Heil! Viktoria!/Sieg Heil! Viktoria!",
+      "char_count": 812,
+      "token_estimate": 203
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1385,
+      "end_char": 1581,
+      "content": "== Dış bağlantılar == Şarkı sözü & Dinle 7 Mart 2009 tarihinde Wayback Machine sitesinde arşivlendi. (Bunun başlığında \"The March of the Waffen SS\" olarak yazılsa da sadece SS'nin marşı değildir.)",
+      "char_count": 196,
+      "token_estimate": 49
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Şarkının Almanca sözlerinde hedef olarak kimler ayarlanmıştır?",
+        "answer": "Stalin, Churchill, Roosevelt.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sieg Heil Viktoria marşının sözlerinde Stalin, Churchill ve Roosevelt isimlerinin anılmasının, şarkının oluşturulma tarihi hakkında hangi bilgiyi ortaya koyduğu metinlerde nasıl belirtilmektedir?",
+        "answer": "Şarkı sözünde Stalin, Churchill ve Roosevelt'e elveda dendiği cümlesinin yer alması, şarkının Nazi Almanyası'nın 11 Aralık 1941'de ABD'ye savaş ilan etmesinden sonra yazıldığını göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

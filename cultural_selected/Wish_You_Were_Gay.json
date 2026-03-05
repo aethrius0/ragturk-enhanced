@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "wishyouweregay_1bede734",
+    "title": "Wish You Were Gay",
+    "url": "https://tr.wikipedia.org/wiki/Wish_You_Were_Gay",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:07.496802",
+    "content": "\"Wish You Were Gay\" (küçük harflerle), Amerikalı şarkıcı ve söz yazarı Billie Eilish'in 4 Mart 2019'de yayınlanan teklisi. Şarkı Darkroom ve Interscope Records tarafından yayınlandı. Aynı zamanda When We All Fall Asleep, Where Do We Go? albümünün dördüncü teklisi. == Arka plan == Eilish \"Wish You Were Gay\" parçasını yazma ilhamını 14 yaşındayken \"deli gibi aşık olduğu çocuk\" sayesinde bulduğunu belirtti. Eilish Temmuz 2017'de parçanın akustik hâlini kesitler halinde Instagram hikayesinde paylaştı. Eilish aşık olduğu kişinin kendisiyle \"gerçekten ilgilenmediğini\" ve \"aşık olduğu kişinin kendisini beğenmiyor olması gerçeğini kabul etmek yerine onun gey olması gibi gerçek bir sebepten dolayı beğenmiyor olmasını\" dilediğini belirtti. Ve söz konusu kişinin gerçekten gey olduğunu ekledi. == Tartışmalar == \"Wish You Were Gay\", LGBT topluluğuna karşı ofansif olarak eleştirildi ve queerbaiting ile suçlandı. Eilish aynı zamanda \"Guess what, he just came out to me like a couple weeks ago. So I wrote the song and made him fuck a dude. I'm fucking proud, bro, except not really though because I was really into him, like so into him. He's so hot, oh my god.\" ifadelerine yer verdiği Instagram hikâyesinden dolayı yorumlarda eleştirildi. Eilish, PopBuzz ile yaptığı röportajda \"Açık olmak gerekirse biraz yanlış yorumlandığını düşünüyorum. Şarkının herhangi bir şekilde ofansif olmaması için çok uğraştım.\" dedi ve şarkıyı \"bir tür şaka\" olarak tabir etti. == Listeler == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 222,
+      "char_count": 1488,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.769613",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 265,
+      "content": "\"Wish You Were Gay\" (küçük harflerle), Amerikalı şarkıcı ve söz yazarı Billie Eilish'in 4 Mart 2019'de yayınlanan teklisi. Şarkı Darkroom ve Interscope Records tarafından yayınlandı. Aynı zamanda When We All Fall Asleep, Where Do We Go? albümünün dördüncü teklisi.",
+      "char_count": 264,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0001",
+      "section": "== Arka plan ==",
+      "heading_path": "== Arka plan ==",
+      "start_char": 265,
+      "end_char": 793,
+      "content": "== Arka plan == Eilish \"Wish You Were Gay\" parçasını yazma ilhamını 14 yaşındayken \"deli gibi aşık olduğu çocuk\" sayesinde bulduğunu belirtti. Eilish Temmuz 2017'de parçanın akustik hâlini kesitler halinde Instagram hikayesinde paylaştı. Eilish aşık olduğu kişinin kendisiyle \"gerçekten ilgilenmediğini\" ve \"aşık olduğu kişinin kendisini beğenmiyor olması gerçeğini kabul etmek yerine onun gey olması gibi gerçek bir sebepten dolayı beğenmiyor olmasını\" dilediğini belirtti. Ve söz konusu kişinin gerçekten gey olduğunu ekledi.",
+      "char_count": 527,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0002",
+      "section": "== Tartışmalar ==",
+      "heading_path": "== Tartışmalar ==",
+      "start_char": 793,
+      "end_char": 1459,
+      "content": "== Tartışmalar == \"Wish You Were Gay\", LGBT topluluğuna karşı ofansif olarak eleştirildi ve queerbaiting ile suçlandı. Eilish aynı zamanda \"Guess what, he just came out to me like a couple weeks ago. So I wrote the song and made him fuck a dude. I'm fucking proud, bro, except not really though because I was really into him, like so into him. He's so hot, oh my god.\" ifadelerine yer verdiği Instagram hikâyesinden dolayı yorumlarda eleştirildi. Eilish, PopBuzz ile yaptığı röportajda \"Açık olmak gerekirse biraz yanlış yorumlandığını düşünüyorum. Şarkının herhangi bir şekilde ofansif olmaması için çok uğraştım.\" dedi ve şarkıyı \"bir tür şaka\" olarak tabir etti.",
+      "char_count": 665,
+      "token_estimate": 166
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "\"Wish You Were Gay\" şarkısına yöneltilen başlıca eleştiriler nelerdi?",
+        "answer": "Şarkı, LGBT topluluğuna karşı ofansif olmakla ve queerbaiting ile suçlandı.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Billie Eilish'in \"Wish You Were Gay\" şarkısını yazma ilhamı ile şarkının yayınlandıktan sonra aldığı eleştiriler arasında nasıl bir çelişki mevcuttu?",
+        "answer": "Eilish, şarkıyı 14 yaşındayken, karşılıksız aşk yaşadığı bir çocuğun kendisini beğenmeme sebebinin gey olması gibi \"gerçek bir neden\" olmasını dilediği için yazdı ve söz konusu kişinin daha sonra gerçekten gey olduğu ortaya çıktı. Ancak şarkı, LGBT topluluğuna karşı saldırgan olmakla ve queerbaiting yapmakla eleştirildi; bu da Eilish'in kişisel, başlangıçta naif ve sonradan haklı çıkan ilham kaynağı ile kamuoyunun şarkıyı ofansif ve zararlı bulması arasında bir çelişki yarattı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

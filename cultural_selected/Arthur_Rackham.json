@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "arthurrackham_96968711",
+    "title": "Arthur Rackham",
+    "url": "https://tr.wikipedia.org/wiki/Arthur_Rackham",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:12.012085",
+    "content": "Arthur Rackham (d. 19 Eylül 1867, Londra – 6 Eylül 1939, Limpsfield, Surrey), ünlü İngiliz kitap ressamı. == Hayatı == Londra'da on iki çocuklu bir ailenin evladı olarak dünyaya geldi. 1885'te, 18 yaşında Westminster İtfaiyesi'nde memur olarak çalışmaya, beri yandan da Lambeth Sanat Okulu'na devam etmeye başladı. 1892'de memuriyetinden istifa etti, The Westminster Budget 'ta muhabir ve ressam olarak çalışmaya başladı. İlk kitap resimleri 1893'te yayımlandı. Bu tarihten 1939'daki ölümüne kadar geçen sürede çok sayıda kitap için resim yaptı. 1903'te Edyth Starkie ile evlendi, 1908'de Barbara adında bir kızı oldu. 1906'da, Rackham, Milano Uluslararası Fuarı'nda, 1911'de Barselona Uluslararası Sergisi'nde altın madalya kazandı. Eserleri çeşitli 1914'teki Louvre sergisi dahil çeşitli müzelerde sergilendi. Rackham 1939'da Limpsfield'daki evinde kanserden öldü. == Eserleri == Rackham'ın tasvir yaptığı başlıca eserler, çocuk kitaplarıdır: Grimm Kardeşler'in Peri Masalları (1900), Rip van Winkle (1905) ve Alice Harikalar Diyarında (13 renkli tablo, 1907). Daha çok bu çocuk kitapları ve masal resimleriyle tanınsa da, Rackham yetişkinlere mahsus kitaplar için de resim yapmıştır: Bir Yaz Gecesi Rüyası (40 renkli tablo, 1907), Undine (15 renkli tablo, 1909), Richard Wagner'in opera dizisi Der Ring des Nibelungen (Nibelungen'in Yüzüğü) (Rhinegold ve Valkyrie için 34 renkli tablo, 1910; Siegfried ve Tanrıların Alacakaranlığı için 32 renkli tablo, 1911), Edgar Allan Poe'nun kısa hikâyeleri. Diğer eserleri arasında Kral Arthur ve Yuvarlak Masa Şövalyeleri (23 renkli ve siyahbeyaz tablo, 1917), The Springtide of Life (8 renkli tablo, 1918), Hawthorne'un Harikalar Kitabı (16 renkli tablo, 1922) ile The Tempest (20 renkli tablo, 1926) bulunur. Rackham genellikle resimlediği kitaplar için hem renkli hem de siyah beyaz çalıştı. Hawthorne'un Harikalar Kitabında ise Meiji dönemi Japon resimlerine benzer yarı-renkli resimler yaptı. == Galeri == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 275,
+      "char_count": 1968,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.082032",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 106,
+      "content": "Arthur Rackham (d. 19 Eylül 1867, Londra – 6 Eylül 1939, Limpsfield, Surrey), ünlü İngiliz kitap ressamı.",
+      "char_count": 105,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 106,
+      "end_char": 867,
+      "content": "== Hayatı == Londra'da on iki çocuklu bir ailenin evladı olarak dünyaya geldi. 1885'te, 18 yaşında Westminster İtfaiyesi'nde memur olarak çalışmaya, beri yandan da Lambeth Sanat Okulu'na devam etmeye başladı. 1892'de memuriyetinden istifa etti, The Westminster Budget 'ta muhabir ve ressam olarak çalışmaya başladı. İlk kitap resimleri 1893'te yayımlandı. Bu tarihten 1939'daki ölümüne kadar geçen sürede çok sayıda kitap için resim yaptı. 1903'te Edyth Starkie ile evlendi, 1908'de Barbara adında bir kızı oldu. 1906'da, Rackham, Milano Uluslararası Fuarı'nda, 1911'de Barselona Uluslararası Sergisi'nde altın madalya kazandı. Eserleri çeşitli 1914'teki Louvre sergisi dahil çeşitli müzelerde sergilendi. Rackham 1939'da Limpsfield'daki evinde kanserden öldü.",
+      "char_count": 760,
+      "token_estimate": 190
+    },
+    {
+      "id": "c0002",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 867,
+      "end_char": 1867,
+      "content": "== Eserleri == Rackham'ın tasvir yaptığı başlıca eserler, çocuk kitaplarıdır: Grimm Kardeşler'in Peri Masalları (1900), Rip van Winkle (1905) ve Alice Harikalar Diyarında (13 renkli tablo, 1907). Daha çok bu çocuk kitapları ve masal resimleriyle tanınsa da, Rackham yetişkinlere mahsus kitaplar için de resim yapmıştır: Bir Yaz Gecesi Rüyası (40 renkli tablo, 1907), Undine (15 renkli tablo, 1909), Richard Wagner'in opera dizisi Der Ring des Nibelungen (Nibelungen'in Yüzüğü) (Rhinegold ve Valkyrie için 34 renkli tablo, 1910; Siegfried ve Tanrıların Alacakaranlığı için 32 renkli tablo, 1911), Edgar Allan Poe'nun kısa hikâyeleri. Diğer eserleri arasında Kral Arthur ve Yuvarlak Masa Şövalyeleri (23 renkli ve siyahbeyaz tablo, 1917), The Springtide of Life (8 renkli tablo, 1918), Hawthorne'un Harikalar Kitabı (16 renkli tablo, 1922) ile The Tempest (20 renkli tablo, 1926) bulunur. Rackham genellikle resimlediği kitaplar için hem renkli hem de siyah beyaz çalıştı. Hawthorne'un Harikalar Kitabı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1667,
+      "end_char": 1940,
+      "content": "ikalar Kitabı (16 renkli tablo, 1922) ile The Tempest (20 renkli tablo, 1926) bulunur. Rackham genellikle resimlediği kitaplar için hem renkli hem de siyah beyaz çalıştı. Hawthorne'un Harikalar Kitabında ise Meiji dönemi Japon resimlerine benzer yarı-renkli resimler yaptı.",
+      "char_count": 273,
+      "token_estimate": 68
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rackham'ın tasvir yaptığı başlıca eserler hangi tür kitaplardır?",
+        "answer": "Çocuk kitaplarıdır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Arthur Rackham'ın kitap ressamlığı kariyeri ne zaman başlamış ve bu kariyerinde ağırlıklı olarak hangi tür eserlere odaklanmıştır?",
+        "answer": "Arthur Rackham'ın ilk kitap resimleri 1893 yılında yayımlanmıştır. Kariyerinde ağırlıklı olarak Grimm Kardeşler'in Peri Masalları, Rip van Winkle ve Alice Harikalar Diyarında gibi çocuk kitaplarına odaklanmış, ancak Bir Yaz Gecesi Rüyası ve Richard Wagner'in opera dizisi Der Ring des Nibelungen gibi yetişkinlere yönelik eserleri de resimlemiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

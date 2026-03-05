@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "cumhuriyetgbirlii_a4493d2b",
+    "title": "Cumhuriyet Güçbirliği",
+    "url": "https://tr.wikipedia.org/wiki/Cumhuriyet_G%C3%BC%C3%A7birli%C4%9Fi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:15.943180",
+    "content": "Cumhuriyet Güçbirliği, 12 Haziran 2011 Türkiye genel seçimlerinde bağımsız adaylarla seçime katılma ve bu adayları destekleme amacını güden İşçi Partisi odaklı bir oluşum. Yayınladığı bildirge ile kurulduğunu açıklayan oluşuma katılan adayların ortak noktası Atatürkçü olmalarıdır. == Amacı == Cumhuriyet Güçbirliği, kuruluş bildirgesinde amaçlarının ulusal devletimizi yıkıcılardan kurtarmak, ulusumuzu birleştirmek, vatanımızı bütünleştirmek, halkımızı özgürleştirmek ve zenginleştirmek olduğunu belirtmektedir. AKP hükûmetinin cumhuriyeti yıkmakta olduğunu iddia eden oluşum esin kaynaklarının Mustafa Kemal Atatürk olduğunu belirtmiştir. Seçime bağımsız adaylar ile gireceğini açıklayan oluşum adaylarının meclise girmesi halinde mecliste yeni bir grup oluşturacağını ve kısa vadede amaçlarının AKP'nin hükûmet kurmak için gerekli olan 276 sandalyeye ulaşmasını önlemek olduğunu belirtmiştir. == Destekçiler == Muazzez İlmiye Çığ, Müjdat Gezen, Nihat Genç, Tarık Akan, Levent Kırca gibi halkça tanınan kişilerin desteğini açıkladığı Cumhuriyet Güçbirliği'ne ilk aşamada kamuoyu tarafından tanınan 204 kişi desteğini açıklamıştır. Milletvekili aday listelerinin YSK'ya teslim edilmesinin son günü olan 12 Nisan 2011 tarihinde İşçi Partisi Genel Başkan Vekili Mehmet Bedri Gültekin yaptığı basın toplantısında CHP ile ittifak yapmak için temaslarda bulunulduğunu fakat bu partiden ret cevabı alındığını açıklamıştır. === Adaylar === İşçi Partisi 2011 seçimlerine \"Cumhuriyet Güçbirliği\" adı verilen bağımsız adaylar bloğuyla katılıyor. 11 Nisan 2011 tarihinde İşçi Partisi'nin televizyon kanalı Ulusal Kanal tarafından Cumhuriyet Güçbirliği'nin bağımsız adaylarının tam listesi kamuoyuna bildirilmiştir. 31 bağımsız aday ile 2011 Türkiye genel seçimlerine girecek olan oluşum 27 farklı ilden adaylarını seçimlere sokmuştur. Bloğun adaylarının ağırlığı İP üyelerinden oluşuyor. Ayrıca listede, Çetin Doğan ve Atilla Uğur gibi tutuklu olanlar da içlerinde olmak üzere emekli asker yoğunluğu dikkat çekiyor. Halen Silivri Cezaevi'nde tutuklu bulunan Doğu Perinçek de İzmir'den bağımsız aday. 31 seçim çevresinde birer adaydan oluşan \"Cumhuriyet Güçbirliği\" adaylarının listesi şöyle: == Sonuç == Seçimlerde hiçbir Cumhuriyet Güçbirliği adayı seçilecek oya ulaşamadı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 285,
+      "char_count": 2280,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.018368",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 282,
+      "content": "Cumhuriyet Güçbirliği, 12 Haziran 2011 Türkiye genel seçimlerinde bağımsız adaylarla seçime katılma ve bu adayları destekleme amacını güden İşçi Partisi odaklı bir oluşum. Yayınladığı bildirge ile kurulduğunu açıklayan oluşuma katılan adayların ortak noktası Atatürkçü olmalarıdır.",
+      "char_count": 281,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0001",
+      "section": "== Amacı ==",
+      "heading_path": "== Amacı ==",
+      "start_char": 282,
+      "end_char": 897,
+      "content": "== Amacı == Cumhuriyet Güçbirliği, kuruluş bildirgesinde amaçlarının ulusal devletimizi yıkıcılardan kurtarmak, ulusumuzu birleştirmek, vatanımızı bütünleştirmek, halkımızı özgürleştirmek ve zenginleştirmek olduğunu belirtmektedir. AKP hükûmetinin cumhuriyeti yıkmakta olduğunu iddia eden oluşum esin kaynaklarının Mustafa Kemal Atatürk olduğunu belirtmiştir. Seçime bağımsız adaylar ile gireceğini açıklayan oluşum adaylarının meclise girmesi halinde mecliste yeni bir grup oluşturacağını ve kısa vadede amaçlarının AKP'nin hükûmet kurmak için gerekli olan 276 sandalyeye ulaşmasını önlemek olduğunu belirtmiştir.",
+      "char_count": 614,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0002",
+      "section": "== Destekçiler ==",
+      "heading_path": "== Destekçiler ==",
+      "start_char": 897,
+      "end_char": 1419,
+      "content": "== Destekçiler == Muazzez İlmiye Çığ, Müjdat Gezen, Nihat Genç, Tarık Akan, Levent Kırca gibi halkça tanınan kişilerin desteğini açıkladığı Cumhuriyet Güçbirliği'ne ilk aşamada kamuoyu tarafından tanınan 204 kişi desteğini açıklamıştır. Milletvekili aday listelerinin YSK'ya teslim edilmesinin son günü olan 12 Nisan 2011 tarihinde İşçi Partisi Genel Başkan Vekili Mehmet Bedri Gültekin yaptığı basın toplantısında CHP ile ittifak yapmak için temaslarda bulunulduğunu fakat bu partiden ret cevabı alındığını açıklamıştır.",
+      "char_count": 521,
+      "token_estimate": 130
+    },
+    {
+      "id": "c0003",
+      "section": "=== Adaylar ===",
+      "heading_path": "=== Adaylar ===",
+      "start_char": 1419,
+      "end_char": 2183,
+      "content": "=== Adaylar === İşçi Partisi 2011 seçimlerine \"Cumhuriyet Güçbirliği\" adı verilen bağımsız adaylar bloğuyla katılıyor. 11 Nisan 2011 tarihinde İşçi Partisi'nin televizyon kanalı Ulusal Kanal tarafından Cumhuriyet Güçbirliği'nin bağımsız adaylarının tam listesi kamuoyuna bildirilmiştir. 31 bağımsız aday ile 2011 Türkiye genel seçimlerine girecek olan oluşum 27 farklı ilden adaylarını seçimlere sokmuştur. Bloğun adaylarının ağırlığı İP üyelerinden oluşuyor. Ayrıca listede, Çetin Doğan ve Atilla Uğur gibi tutuklu olanlar da içlerinde olmak üzere emekli asker yoğunluğu dikkat çekiyor. Halen Silivri Cezaevi'nde tutuklu bulunan Doğu Perinçek de İzmir'den bağımsız aday. 31 seçim çevresinde birer adaydan oluşan \"Cumhuriyet Güçbirliği\" adaylarının listesi şöyle:",
+      "char_count": 763,
+      "token_estimate": 190
+    },
+    {
+      "id": "c0004",
+      "section": "== Sonuç ==",
+      "heading_path": "== Sonuç ==",
+      "start_char": 2183,
+      "end_char": 2266,
+      "content": "== Sonuç == Seçimlerde hiçbir Cumhuriyet Güçbirliği adayı seçilecek oya ulaşamadı.",
+      "char_count": 82,
+      "token_estimate": 20
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cumhuriyet Güçbirliği'nin bağımsız adaylarının tam listesi kamuoyuna ne zaman bildirilmiştir?",
+        "answer": "11 Nisan 2011 tarihinde.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cumhuriyet Güçbirliği'nin temel siyasi duruşunu ve stratejisini, İşçi Partisi ile olan bağlantısı, Atatürkçü kimliği ve seçim hedefleri bağlamında açıklayınız.",
+        "answer": "İşçi Partisi odaklı bir oluşum olan Cumhuriyet Güçbirliği, adaylarının ortak noktası olan Atatürkçü kimliği ve Mustafa Kemal Atatürk'ü esin kaynağı olarak benimsemesiyle ulusal devleti yıkıcılardan kurtarmak, milleti birleştirmek ve vatanı bütünleştirmek gibi amaçları benimsemiştir. Siyasi stratejileri, AKP hükûmetinin cumhuriyeti yıkma iddiasına karşı çıkarak bağımsız adaylarla seçime katılmak ve mecliste yeni bir grup oluşturarak kısa vadede AKP'nin hükûmet kurmasını engelleyerek bu hedeflere ulaşmaktır. İşçi Partisi Genel Başkan Vekili'nin CHP ile ittifak arayışı da bu stratejinin bir parçası olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

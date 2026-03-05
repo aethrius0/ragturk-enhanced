@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "chialingosaurus_f485acea",
+    "title": "Chialingosaurus",
+    "url": "https://tr.wikipedia.org/wiki/Chialingosaurus",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:25.543439",
+    "content": "Chialingosaurus (Chialing kertenkelesi), Çin'in Sincan Uygur Özerk Bölgesi'nde yer alan Geç Jura Devri yataklarından Yukarı Shaximiao Formasyonu'nda bulunmuş Kentrosaurus'lara benzer stegosaur cinsi bir dinozordur. == Hakkında == Bulunduğu devir onu stegosaurların en eski türlerinden biri yapar, yaklaşık 160 milyon yıl öncesinde yaşamıştır. Bilim insanları Chialingosaurus'un otobur olduğunu ve yaşadığı süreçte bol miktarda yetişen eğrelti otu ve bir tür palmiye cinsi olan cycas ile de beslendiğini düşünmektedir. İsmini Çin'in güneyinde bulundan Chialing nehrinden almıştır. Boyu 4 metreye, yüksekliği 1,5 metreye, ağırlığı ise 150 kilograma ulaşabilir, önceki stegosaurlara göre biraz daha küçük boyuttadır. == Keşfi ve türleri == Chialingosaurus, jeolog Kuan tarafından 1957 yılında, Quxian bölgesinde bulunmuştur. Chialingosaurus'un bulunan fosil kalıntıları çok eksik olmasına, hatta bu kalıntıların genç bir bireye ait olmasına rağmen, dinozor, kalıntılar bulunduktan 2 yıl sonra paleontolog C. C. Young tarafından tanımlanmıştır. 1969 yılında, Rodney Steel Chialingosaurus'un öteki stegosaurların erken atası olabileceğini belirtir fakat incelenen örneğin türü, Chialingosarus kuaninin bulunan tek iskelet parçası oluşu, orijinal materyale 1978 yılında “Chongqing Yerel Müzesi” tarafından eklemeler yapılmış olması bu kanının geçerliliğini güçleştirir. == Kaynakça == Dong Zhiming (1992). Dinosaurian Faunas of China. China Ocean Press, Beijing. ISBN 3-540-52084-8. == Ayrıca bakınız == Dinozorlar listesi == Dış bağlantılar == Stegosauria (İngilizce) Chialingosaurus (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 200,
+      "char_count": 1590,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.532633",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 215,
+      "content": "Chialingosaurus (Chialing kertenkelesi), Çin'in Sincan Uygur Özerk Bölgesi'nde yer alan Geç Jura Devri yataklarından Yukarı Shaximiao Formasyonu'nda bulunmuş Kentrosaurus'lara benzer stegosaur cinsi bir dinozordur.",
+      "char_count": 214,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0001",
+      "section": "== Hakkında ==",
+      "heading_path": "== Hakkında ==",
+      "start_char": 215,
+      "end_char": 714,
+      "content": "== Hakkında == Bulunduğu devir onu stegosaurların en eski türlerinden biri yapar, yaklaşık 160 milyon yıl öncesinde yaşamıştır. Bilim insanları Chialingosaurus'un otobur olduğunu ve yaşadığı süreçte bol miktarda yetişen eğrelti otu ve bir tür palmiye cinsi olan cycas ile de beslendiğini düşünmektedir. İsmini Çin'in güneyinde bulundan Chialing nehrinden almıştır. Boyu 4 metreye, yüksekliği 1,5 metreye, ağırlığı ise 150 kilograma ulaşabilir, önceki stegosaurlara göre biraz daha küçük boyuttadır.",
+      "char_count": 498,
+      "token_estimate": 124
+    },
+    {
+      "id": "c0002",
+      "section": "== Keşfi ve türleri ==",
+      "heading_path": "== Keşfi ve türleri ==",
+      "start_char": 714,
+      "end_char": 1364,
+      "content": "== Keşfi ve türleri == Chialingosaurus, jeolog Kuan tarafından 1957 yılında, Quxian bölgesinde bulunmuştur. Chialingosaurus'un bulunan fosil kalıntıları çok eksik olmasına, hatta bu kalıntıların genç bir bireye ait olmasına rağmen, dinozor, kalıntılar bulunduktan 2 yıl sonra paleontolog C. C. Young tarafından tanımlanmıştır. 1969 yılında, Rodney Steel Chialingosaurus'un öteki stegosaurların erken atası olabileceğini belirtir fakat incelenen örneğin türü, Chialingosarus kuaninin bulunan tek iskelet parçası oluşu, orijinal materyale 1978 yılında “Chongqing Yerel Müzesi” tarafından eklemeler yapılmış olması bu kanının geçerliliğini güçleştirir.",
+      "char_count": 649,
+      "token_estimate": 162
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1364,
+      "end_char": 1477,
+      "content": "== Kaynakça == Dong Zhiming (1992). Dinosaurian Faunas of China. China Ocean Press, Beijing. ISBN 3-540-52084-8.",
+      "char_count": 112,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1477,
+      "end_char": 1517,
+      "content": "== Ayrıca bakınız == Dinozorlar listesi",
+      "char_count": 39,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1517,
+      "end_char": 1590,
+      "content": "== Dış bağlantılar == Stegosauria (İngilizce) Chialingosaurus (İngilizce)",
+      "char_count": 73,
+      "token_estimate": 18
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Chialingosaurus hangi jeolog tarafından ve hangi yılda bulunmuştur?",
+        "answer": "Chialingosaurus, jeolog Kuan tarafından 1957 yılında bulunmuştur.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Chialingosaurus'un yaklaşık 160 milyon yıl önce yaşamış en eski stegosaurlardan biri olmasına rağmen, kesin sınıflandırmasını ve diğer stegosaurların erken atası olabileceği yönündeki görüşü güçleştiren faktörler nelerdi?",
+        "answer": "Chialingosaurus'un fosil kalıntılarının çok eksik ve genç bir bireye ait olması, incelenen örneğin türünün belirsizliği, Chialingosaurus kuaninin bulunan tek iskelet parçası olması ve orijinal materyale 1978 yılında \"Chongqing Yerel Müzesi\" tarafından eklemeler yapılmış olması, onun kesin sınıflandırmasını ve erken atalık kanısını güçleştiren başlıca faktörlerdi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

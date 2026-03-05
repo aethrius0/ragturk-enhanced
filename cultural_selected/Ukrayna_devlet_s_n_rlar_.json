@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "ukraynadevletsnrlar_e012ff03",
+    "title": "Ukrayna devlet sınırları",
+    "url": "https://tr.wikipedia.org/wiki/Ukrayna_devlet_s%C4%B1n%C4%B1rlar%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:46.905754",
+    "content": "Ukrayna devlet sınırları hem doğrusal hem de dikey olarak tanımlanmıştır. Ukrayna'nın Devlet sınırları Ukrayna Devlet Sınır Servisi tarafından korunmaktadır. == Ukrayna devlet sınırının belirlenmesi == Ukrayna'nın devlet sınırları açıkça sınırlandırılmış sınır işaretleri, uluslararası anlaşmalar ve Ukrayna yasaları tarafından düzenlenmektedir. Bugün, Ukrayna yedi ülke ile sınır komşusudur. Kara sınırlarının toplam uzunluğu 5638 km'dir. Ülkenin Karadeniz sınırı 1.057 km, Azak Denizi 250 km'dir. Toplam kara ve deniz sınırları 6993 km'dir. Ukrayna'nın deniz sınırı kıyıdan 12 deniz mili içerir. Bu bölgeye düşen adalar da kanunen ülkenin toprakları olarak kabul edilir. Tüm bu alanların coğrafi koordinatları Ukrayna Bakanlar Kurulu tarafından düzenlenmektedir. İstisnai durumlarda, Ukrayna deniz alanının genişliği uluslararası yasalara tabidir. Bir anlaşmanın olmaması durumunda, genel kabul görmüş ilkelere dayanır. Genel olarak, Ukrayna'nın Rusya ile olan deniz sınırı doğudan 33 km, güneybatıdan Romanya ile 33 km'dir. == Modern sınırlar == Ukrayna'nın modern sınırları 1920-1954 arasında belirlenmiştir. Rus ve Avusturya-Macaristan İmparatorluklarının çöküşü, İkinci Dünya Savaşı patlak vermesi ve benzeri durumlar sınırların belirginleşmesi açısından büyük rol oynamıştır. Ukrayna'nın Belarus ve Rusya Federasyonu ile sınırları esas olarak Sovyet döneminde belirlenmiştir. Belarus ile kuzey sınırı Polesiye ovasından geçer. Sınır uzunluğu 1.084 km'dir ve karışık bir orman bölgesinden oluşmaktadır. Sınırın ilk belirlenişi 1924'te gerçekleşti. Bağımsızlık yıllarında, ortak sınırların sınırlanması vardı ve 1997'de bu işlem tamamlandı. Sınırlar 2014 yılında yeniden doğrulandı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 213,
+      "char_count": 1702,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.008663",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 158,
+      "content": "Ukrayna devlet sınırları hem doğrusal hem de dikey olarak tanımlanmıştır. Ukrayna'nın Devlet sınırları Ukrayna Devlet Sınır Servisi tarafından korunmaktadır.",
+      "char_count": 157,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0001",
+      "section": "== Ukrayna devlet sınırının belirlenmesi ==",
+      "heading_path": "== Ukrayna devlet sınırının belirlenmesi ==",
+      "start_char": 158,
+      "end_char": 1027,
+      "content": "== Ukrayna devlet sınırının belirlenmesi == Ukrayna'nın devlet sınırları açıkça sınırlandırılmış sınır işaretleri, uluslararası anlaşmalar ve Ukrayna yasaları tarafından düzenlenmektedir. Bugün, Ukrayna yedi ülke ile sınır komşusudur. Kara sınırlarının toplam uzunluğu 5638 km'dir. Ülkenin Karadeniz sınırı 1.057 km, Azak Denizi 250 km'dir. Toplam kara ve deniz sınırları 6993 km'dir. Ukrayna'nın deniz sınırı kıyıdan 12 deniz mili içerir. Bu bölgeye düşen adalar da kanunen ülkenin toprakları olarak kabul edilir. Tüm bu alanların coğrafi koordinatları Ukrayna Bakanlar Kurulu tarafından düzenlenmektedir. İstisnai durumlarda, Ukrayna deniz alanının genişliği uluslararası yasalara tabidir. Bir anlaşmanın olmaması durumunda, genel kabul görmüş ilkelere dayanır. Genel olarak, Ukrayna'nın Rusya ile olan deniz sınırı doğudan 33 km, güneybatıdan Romanya ile 33 km'dir.",
+      "char_count": 868,
+      "token_estimate": 217
+    },
+    {
+      "id": "c0002",
+      "section": "== Modern sınırlar ==",
+      "heading_path": "== Modern sınırlar ==",
+      "start_char": 1027,
+      "end_char": 1688,
+      "content": "== Modern sınırlar == Ukrayna'nın modern sınırları 1920-1954 arasında belirlenmiştir. Rus ve Avusturya-Macaristan İmparatorluklarının çöküşü, İkinci Dünya Savaşı patlak vermesi ve benzeri durumlar sınırların belirginleşmesi açısından büyük rol oynamıştır. Ukrayna'nın Belarus ve Rusya Federasyonu ile sınırları esas olarak Sovyet döneminde belirlenmiştir. Belarus ile kuzey sınırı Polesiye ovasından geçer. Sınır uzunluğu 1.084 km'dir ve karışık bir orman bölgesinden oluşmaktadır. Sınırın ilk belirlenişi 1924'te gerçekleşti. Bağımsızlık yıllarında, ortak sınırların sınırlanması vardı ve 1997'de bu işlem tamamlandı. Sınırlar 2014 yılında yeniden doğrulandı.",
+      "char_count": 660,
+      "token_estimate": 165
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ukrayna'nın kara sınırlarının toplam uzunluğu kaç kilometredir?",
+        "answer": "Ukrayna'nın kara sınırlarının toplam uzunluğu 5638 km'dir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ukrayna'nın modern sınırlarının Sovyet dönemi ve İkinci Dünya Savaşı gibi tarihi olaylar sonucunda belirlenmesi, mevcut sınırların uluslararası anlaşmalar, Ukrayna yasaları ve sınır işaretleriyle düzenlenerek Ukrayna Devlet Sınır Servisi tarafından korunmasını nasıl etkilemiştir?",
+        "answer": "Ukrayna'nın modern sınırları, Rus ve Avusturya-Macaristan İmparatorluklarının çöküşü ve İkinci Dünya Savaşı gibi tarihi olayların etkisiyle 1920-1954 yılları arasında belirlenmiştir; özellikle Belarus ve Rusya Federasyonu ile olan sınırlar Sovyet döneminde şekillenmiştir. Bu tarihi belirleme süreçleri sonucunda, Ukrayna'nın günümüzdeki devlet sınırları uluslararası anlaşmalar ve Ukrayna yasaları tarafından açıkça sınır işaretleriyle düzenlenmekte, doğrusal ve dikey olarak tanımlanmaktadır. Bu sınırlar, coğrafi koordinatları Bakanlar Kurulu tarafından belirlenen kara ve deniz alanlarını kapsamakta ve Ukrayna Devlet Sınır Servisi tarafından korunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

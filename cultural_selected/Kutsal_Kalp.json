@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "kutsalkalp_5557e3c1",
+    "title": "Kutsal Kalp",
+    "url": "https://tr.wikipedia.org/wiki/Kutsal_Kalp",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:06.989451",
+    "content": "Kutsal Kalp, Hristiyanlık'ta İsa Mesih'in yüreğinin \"Tanrı'nın insanlığa olan sınırsız ve tutkulu sevgisinin\" yansıması olarak kabul edilen sembolik bir ifadedir. == Kutsal Yazıların Kökenleri == Bu ibadetin Kutsal Kitap'ın köklerini bulduğu yeri esas olarak Yuhanna İncili'dir. “İçinden diri su ırmakları akacaktır” (Yuhanna 7: 37). Yuhanna 19:34 'e göre “çarmıhta delinmiş tarafından kan ve su akıyordu”. == İbadetin Tarihi == İsa'nın Kutsal Kalp'ine içten bağlılık 12. yüzyılda Batı Kilisesi'nde başladı. İsa'nın delinmiş tarafındaki yaranın üzerine yapılan bir meditasyondan kaynaklanıyordu. Orta Çağ boyunca bu içten bağlılık manastırlarda bulundu ve Hackeborn'lu Azize Melchtilde gibi rahibelerin vizyonlarına konu oldu. Bu ibadetin modern biçimiyle popüler hale getirilmesi, 1673 ile 1675 yılları arasında kendisine bir dizi görümler sırasında bağlılığını İsa'dan öğrendiğini söyleyen Fransa'dan bir Roma Katolik rahibesi olan Azize Marguerite-Marie Alacoque'den geliyor. Bir de 19'uncu yüzyılda, Portekiz'deki başka bir Katolik rahibenin mistik vahiylerinden, Kutsal Kalp adıyla Azize Meryem'den de kaynaklanır. On altıncı ve on yedinci yüzyıllarda Kutsal Kalp ibadeti, Avilalı Yuhanna (ö. 1569) ve François de Sales (ö. 1622) gibi iki Kilise Doktoru’nun yazılarında bulundu. Cizvitler de Claude La Colombière'den başlayarak içten bağlılığın yayılmasında çok önemli bir rol oynadılar. Kutsal Kalp’e içten bağlılığın teolojik temelini ilk kuran, Meta Cordium - Cor Jesu (Kalplerin amacı - İsa'nın Yüreği) adlı kitabında Polonyalı Cizvit Kasper Druzbicki (1590-1662) idi. Anglikan'da ve Puritain'ler arasında benzer bir içten bağlılık, Isaac Ambrose, Richard Baxter veya Thomas Goodwin gibi ilahiyatçılar tarafından \"Yeryüzünde Günahkarlara Karşı Cennetteki Mesih'in Yüreği\" (1643) adlı eseri ile popüler hale getirildi. == Tasvir == Kutsal Kalp genellikle Hristiyan sanatında ilahi ışıkla parlayan, mızrak yarasıyla delinmiş, dikenli taç ile çevrelenmiş, üzerinde bir haç ve kanama bulunan alevli bir kalp olarak tasvir edilir. Bazen görüntü, İsa'nın koynunda parıldarken yaralı elleri kalbi işaret ederek gösterilir. Yaralar ve dikenli taç İsa'nın ölüm şeklini ima ederken ateş, ilahi sevginin dönüştürücü gücünü temsil eder. == Kutsal Kalp Bayramı == Latin Kilisesi'nde, Kutsal Kalp'in ciddiyeti 1765'te Papa XIII. Clemens tarafından başlatıldı ve 1856'da Papa IX. Pius tarafından tüm Katolik Kilisesi'ne genişletildi. İsa'nın Kutsal Kalp Ayini, Efkaristiya Bayramı veya Pazar Hamsin Yortusu'ndan 19 gün sonra kutlanır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 340,
+      "char_count": 2543,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.160999",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 163,
+      "content": "Kutsal Kalp, Hristiyanlık'ta İsa Mesih'in yüreğinin \"Tanrı'nın insanlığa olan sınırsız ve tutkulu sevgisinin\" yansıması olarak kabul edilen sembolik bir ifadedir.",
+      "char_count": 162,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0001",
+      "section": "== Kutsal Yazıların Kökenleri ==",
+      "heading_path": "== Kutsal Yazıların Kökenleri ==",
+      "start_char": 163,
+      "end_char": 407,
+      "content": "== Kutsal Yazıların Kökenleri == Bu ibadetin Kutsal Kitap'ın köklerini bulduğu yeri esas olarak Yuhanna İncili'dir. “İçinden diri su ırmakları akacaktır” (Yuhanna 7: 37). Yuhanna 19:34 'e göre “çarmıhta delinmiş tarafından kan ve su akıyordu”.",
+      "char_count": 243,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0002",
+      "section": "== İbadetin Tarihi ==",
+      "heading_path": "== İbadetin Tarihi ==",
+      "start_char": 407,
+      "end_char": 1407,
+      "content": "== İbadetin Tarihi == İsa'nın Kutsal Kalp'ine içten bağlılık 12. yüzyılda Batı Kilisesi'nde başladı. İsa'nın delinmiş tarafındaki yaranın üzerine yapılan bir meditasyondan kaynaklanıyordu. Orta Çağ boyunca bu içten bağlılık manastırlarda bulundu ve Hackeborn'lu Azize Melchtilde gibi rahibelerin vizyonlarına konu oldu. Bu ibadetin modern biçimiyle popüler hale getirilmesi, 1673 ile 1675 yılları arasında kendisine bir dizi görümler sırasında bağlılığını İsa'dan öğrendiğini söyleyen Fransa'dan bir Roma Katolik rahibesi olan Azize Marguerite-Marie Alacoque'den geliyor. Bir de 19'uncu yüzyılda, Portekiz'deki başka bir Katolik rahibenin mistik vahiylerinden, Kutsal Kalp adıyla Azize Meryem'den de kaynaklanır. On altıncı ve on yedinci yüzyıllarda Kutsal Kalp ibadeti, Avilalı Yuhanna (ö. 1569) ve François de Sales (ö. 1622) gibi iki Kilise Doktoru’nun yazılarında bulundu. Cizvitler de Claude La Colombière'den başlayarak içten bağlılığın yayılmasında çok önemli bir rol oynadılar. Kutsal Kalp’e ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== İbadetin Tarihi ==",
+      "heading_path": "== İbadetin Tarihi ==",
+      "start_char": 1207,
+      "end_char": 1826,
+      "content": "François de Sales (ö. 1622) gibi iki Kilise Doktoru’nun yazılarında bulundu. Cizvitler de Claude La Colombière'den başlayarak içten bağlılığın yayılmasında çok önemli bir rol oynadılar. Kutsal Kalp’e içten bağlılığın teolojik temelini ilk kuran, Meta Cordium - Cor Jesu (Kalplerin amacı - İsa'nın Yüreği) adlı kitabında Polonyalı Cizvit Kasper Druzbicki (1590-1662) idi. Anglikan'da ve Puritain'ler arasında benzer bir içten bağlılık, Isaac Ambrose, Richard Baxter veya Thomas Goodwin gibi ilahiyatçılar tarafından \"Yeryüzünde Günahkarlara Karşı Cennetteki Mesih'in Yüreği\" (1643) adlı eseri ile popüler hale getirildi.",
+      "char_count": 619,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0004",
+      "section": "== Tasvir ==",
+      "heading_path": "== Tasvir ==",
+      "start_char": 1827,
+      "end_char": 2234,
+      "content": "== Tasvir == Kutsal Kalp genellikle Hristiyan sanatında ilahi ışıkla parlayan, mızrak yarasıyla delinmiş, dikenli taç ile çevrelenmiş, üzerinde bir haç ve kanama bulunan alevli bir kalp olarak tasvir edilir. Bazen görüntü, İsa'nın koynunda parıldarken yaralı elleri kalbi işaret ederek gösterilir. Yaralar ve dikenli taç İsa'nın ölüm şeklini ima ederken ateş, ilahi sevginin dönüştürücü gücünü temsil eder.",
+      "char_count": 406,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0005",
+      "section": "== Kutsal Kalp Bayramı ==",
+      "heading_path": "== Kutsal Kalp Bayramı ==",
+      "start_char": 2234,
+      "end_char": 2529,
+      "content": "== Kutsal Kalp Bayramı == Latin Kilisesi'nde, Kutsal Kalp'in ciddiyeti 1765'te Papa XIII. Clemens tarafından başlatıldı ve 1856'da Papa IX. Pius tarafından tüm Katolik Kilisesi'ne genişletildi. İsa'nın Kutsal Kalp Ayini, Efkaristiya Bayramı veya Pazar Hamsin Yortusu'ndan 19 gün sonra kutlanır.",
+      "char_count": 294,
+      "token_estimate": 73
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İsa'nın Kutsal Kalp'ine ibadetin modern biçiminin popülerleşmesi kimden kaynaklanmaktadır?",
+        "answer": "Fransa'dan bir Roma Katolik rahibesi olan Azize Marguerite-Marie Alacoque'den.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yuhanna İncili'nde geçen İsa'nın delinmiş yanıyla ilgili olaylar, Kutsal Kalp ibadetinin sembolik anlayışına ve tarihsel gelişimine nasıl katkıda bulunmuştur?",
+        "answer": "Yuhanna İncili'nde İsa'nın çarmıhta delinmiş tarafından kan ve su akması (Yuhanna 19:34) ve içinden diri su ırmakları akacağı (Yuhanna 7:37) ifadeleri, Kutsal Kalp ibadetinin Kutsal Kitap kökenini oluşturur. Bu olay, İsa Mesih'in kalbinin Tanrı'nın insanlığa olan sınırsız sevgisinin bir yansıması olarak sembolik ifadesini tanımlar ve ibadetin 12. yüzyılda Batı Kilisesi'nde İsa'nın delinmiş tarafındaki yaraya yapılan meditasyondan kaynaklanan tarihsel başlangıcına temel teşkil etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

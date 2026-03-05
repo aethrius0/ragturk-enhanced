@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "klbk_4f86d17c",
+    "title": "Kılıbık",
+    "url": "https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1b%C4%B1k",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:31.741291",
+    "content": "Kılıbık, senaryosu Osman F. Seden tarafından yazılıp Uğur İnan tarafından yönetilen 1983 yapımı Türk komedi filmidir. Filmin başrollerinde Kemal Sunal ve Nevra Serezli yer almıştır. Aynı zamanda Aziz Nesin'in \"Toros Canavarı\" adlı hikâyesinden esinlenilmiştir. == Konusu == Kamil'in (Kemal Sunal) hayatı evi ve eşinden ibarettir. İşinden evine, evinden işine gidip geldiği hayatında, karısı ne derse onu harfiyen yerine getirmektedir. Geçimini çok zor sağlayan Kâmil, ev kirasını ödeyemez hâle gelince, ev sahibi evden çıkmalarını ister. Fakat ev sahibi Müslüm (Ali Şen), Kâmil'i bir türlü evden çıkaramaz. Sadece karısı tarafından değil, çevresi tarafından da hor görülen Kamil'in hayatı, bir yanlış anlaşılma sonucu bambaşka bir hal alır. Kamil, yaşanan bir yanlışlık sonucu Kara Bela (Sırrı Elitaş) isminde bir seri katil ile karıştırılır. Bu durumun etrafa yayılması da insanların Kamil'e artık başka bir gözle bakılmasına neden olur. Karısı dahil mahalledekiler tarafından saygıyla karşılanan Kamil'in bu şaşalı dönemi kısa sürer. == Yapım bilgileri == Filmin çekimleri, İstanbul'un Sarıyer ilçesinde Reşitpaşa semtindeki Şirin Sokak'ta yapılmıştır. == Oyuncular == Kemal Sunal - Kamil Nevra Serezli - Mihrimah Ali Şen - Müslüm Sümer Tilmaç - Arabacı Niyazi Günay Girik - Erol Billur Emre - Şenay Reha Yurdakul - Komiser Gönül Genç - Müslüm'ün Kızı Yadigar Ejder - Niyazi'nin Adamı Giray Alpan - Niyazi'nin Adamı Yusuf Çetin - Niyazi'nin Adamı Günay Güner - Niyazi'nin Adamı Gökhan Mete - Bakkal Halil Muzaffer Civan - Kasap Mehmet Hüseyin Kutman - Patron Adem Taşay - Antrenör Cevdet Arıkan - Savcı Nevzat Açıkgöz - Marketçi Tahsin Kudret Karadağ - Koğuş Ağası İbrahim Kurt - Onyedi Bela Kadir İhsan Gedik - Leylek Kadri Sırrı Elitaş - Kara Bela Zafer Ergin == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 269,
+      "char_count": 1778,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.619547",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 261,
+      "content": "Kılıbık, senaryosu Osman F. Seden tarafından yazılıp Uğur İnan tarafından yönetilen 1983 yapımı Türk komedi filmidir. Filmin başrollerinde Kemal Sunal ve Nevra Serezli yer almıştır. Aynı zamanda Aziz Nesin'in \"Toros Canavarı\" adlı hikâyesinden esinlenilmiştir.",
+      "char_count": 260,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 261,
+      "end_char": 1036,
+      "content": "== Konusu == Kamil'in (Kemal Sunal) hayatı evi ve eşinden ibarettir. İşinden evine, evinden işine gidip geldiği hayatında, karısı ne derse onu harfiyen yerine getirmektedir. Geçimini çok zor sağlayan Kâmil, ev kirasını ödeyemez hâle gelince, ev sahibi evden çıkmalarını ister. Fakat ev sahibi Müslüm (Ali Şen), Kâmil'i bir türlü evden çıkaramaz. Sadece karısı tarafından değil, çevresi tarafından da hor görülen Kamil'in hayatı, bir yanlış anlaşılma sonucu bambaşka bir hal alır. Kamil, yaşanan bir yanlışlık sonucu Kara Bela (Sırrı Elitaş) isminde bir seri katil ile karıştırılır. Bu durumun etrafa yayılması da insanların Kamil'e artık başka bir gözle bakılmasına neden olur. Karısı dahil mahalledekiler tarafından saygıyla karşılanan Kamil'in bu şaşalı dönemi kısa sürer.",
+      "char_count": 774,
+      "token_estimate": 193
+    },
+    {
+      "id": "c0002",
+      "section": "== Yapım bilgileri ==",
+      "heading_path": "== Yapım bilgileri ==",
+      "start_char": 1036,
+      "end_char": 1155,
+      "content": "== Yapım bilgileri == Filmin çekimleri, İstanbul'un Sarıyer ilçesinde Reşitpaşa semtindeki Şirin Sokak'ta yapılmıştır.",
+      "char_count": 118,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0003",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 1155,
+      "end_char": 1764,
+      "content": "== Oyuncular == Kemal Sunal - Kamil Nevra Serezli - Mihrimah Ali Şen - Müslüm Sümer Tilmaç - Arabacı Niyazi Günay Girik - Erol Billur Emre - Şenay Reha Yurdakul - Komiser Gönül Genç - Müslüm'ün Kızı Yadigar Ejder - Niyazi'nin Adamı Giray Alpan - Niyazi'nin Adamı Yusuf Çetin - Niyazi'nin Adamı Günay Güner - Niyazi'nin Adamı Gökhan Mete - Bakkal Halil Muzaffer Civan - Kasap Mehmet Hüseyin Kutman - Patron Adem Taşay - Antrenör Cevdet Arıkan - Savcı Nevzat Açıkgöz - Marketçi Tahsin Kudret Karadağ - Koğuş Ağası İbrahim Kurt - Onyedi Bela Kadir İhsan Gedik - Leylek Kadri Sırrı Elitaş - Kara Bela Zafer Ergin",
+      "char_count": 608,
+      "token_estimate": 152
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kamil, hangi isimli seri katil ile karıştırılır?",
+        "answer": "Kara Bela (Sırrı Elitaş).",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kemal Sunal'ın başrolde olduğu \"Kılıbık\" filminin konusu, Kamil karakterinin çevresi tarafından hor görülmesinden saygı duyulan bir figüre dönüşümünü nasıl ele almaktadır?",
+        "answer": "\"Kılıbık\" filminde, başrolünde Kemal Sunal'ın canlandırdığı Kamil karakteri, karısı ve çevresi tarafından sürekli hor görülen, işinden evine gidip gelen ve tüm denilenleri harfiyen yerine getiren edilgen bir hayat sürmektedir. Ev kirasını ödeyememesi gibi sorunlarla boğuşurken, yaşanan bir yanlış anlaşılma sonucu kendisinin Kara Bela adında bir seri katil ile karıştırılmasıyla hayatı bambaşka bir hal alır. Bu yanlış algı sayesinde karısı ve mahalledekiler dahil çevresi tarafından saygı ve korkuyla karşılanan Kamil, böylece edilgen konumundan itibar sahibi bir figüre dönüşüm yaşar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

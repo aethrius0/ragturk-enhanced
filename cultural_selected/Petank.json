@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "petank_1e3c080a",
+    "title": "Petank",
+    "url": "https://tr.wikipedia.org/wiki/Petank",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:22.327994",
+    "content": "Petank, Avrupa'nın en popüler açık hava oyunlarından biridir. Özel bir atletik yapı gerektirmez. Kuralları basittir. Sohbet ve diyaloğa dayalı, sosyal bir oyundur. Dünyanın birçok ülkesinde millî ve uluslararası federasyonları ile Akdeniz Oyunları'ndaki resmi branşlarından biridir. == Oynanışı == === Ekipmanlar === Ölçüme yarayacak bir mezura veya bir dal parçası, minik hedef cochonnet ve bilyeler. === Oyun alanı === Eğimi çok fazla olmayan toprak, kum, çakıl, çim gibi kolayca bulunabilen boş alanlarda oynanır. === Takımlar === Oyun iki takım arasında oynanır. Takımlar, bir, iki ve üçer kişiden oluşabilirler. Takımları oluşturan kişi sayılarına göre, oyuncuların elindeki bilye sayıları değişir: Bir oyuncudan oluşan ekiplerde (tete-a-tete) her bir oyuncunun elindeki bilye sayısı 3 İki oyuncudan oluşan ekiplerde (doublette) her bir oyuncunun elindeki bilye sayısı 3 Üç oyuncudan oluşan ekiplerde (tripllette) her bir oyuncunun elindeki bilye sayısı 2 === Oyun süreci === Oyuna başlayacak ekip yazı/tura ile belirlenir. Başlangıcı yapacak takımın oyuncusu, zemine çapı 40-50 santim kadar bir çember çizer ve hedef minik bilye cochonnet'yi 6 ila 10 metre arası bir uzaklığa fırlatır. Tüm bilyeler, ayaklar bu çemberin içindeyken oynanır. Hedef olacak cochonnet gerekli uzaklığa yollandıktan sonra yine ilk takımın oyuncusu elindeki bilyeyi cochonnet'nin en yakınına kondurmaya çalışır. Başlangıcı yapan takım ilk bilyesini oynadıktan sonra sıra ikinci takıma geçer. Bu sefer, bu takım oyuncuları bilyelerini diğer takıma nazaran daha yakına kondurmaya çalışırlar. Bilyeleri daha yakında olan takım (tek bilye dahi olsa) sırayı diğer takıma devreder. Eldeki bilyeler bitince puanlar sayılır. Cochonnetnin en yakınına kendi bilyelerini kondurmuş olan takım seti kazanmış olur. En yakındaki toplam bilye sayısı kadar puan alır ve diğer sete geçilir. Oyunlar sonrasında puanı 13'e ulaşan takım oyunu kazanmış olur. == Dış bağlantılar == Confédération Mondiale des Sports de Boules (CMSB) Fédération Internationale de Pétanque et Jeu Provençal (FIPJP) 24 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi. Panorama of a Petanque game 18 Ekim 2012 tarihinde Wayback Machine sitesinde arşivlendi. How pronounce \"Pétanque\" 18 Aralık 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 318,
+      "char_count": 2292,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.640719",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 283,
+      "content": "Petank, Avrupa'nın en popüler açık hava oyunlarından biridir. Özel bir atletik yapı gerektirmez. Kuralları basittir. Sohbet ve diyaloğa dayalı, sosyal bir oyundur. Dünyanın birçok ülkesinde millî ve uluslararası federasyonları ile Akdeniz Oyunları'ndaki resmi branşlarından biridir.",
+      "char_count": 282,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0001",
+      "section": "=== Ekipmanlar ===",
+      "heading_path": "=== Ekipmanlar ===",
+      "start_char": 298,
+      "end_char": 402,
+      "content": "=== Ekipmanlar === Ölçüme yarayacak bir mezura veya bir dal parçası, minik hedef cochonnet ve bilyeler.",
+      "char_count": 103,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0002",
+      "section": "=== Oyun alanı ===",
+      "heading_path": "=== Oyun alanı ===",
+      "start_char": 402,
+      "end_char": 517,
+      "content": "=== Oyun alanı === Eğimi çok fazla olmayan toprak, kum, çakıl, çim gibi kolayca bulunabilen boş alanlarda oynanır.",
+      "char_count": 114,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0003",
+      "section": "=== Takımlar ===",
+      "heading_path": "=== Takımlar ===",
+      "start_char": 517,
+      "end_char": 961,
+      "content": "=== Takımlar === Oyun iki takım arasında oynanır. Takımlar, bir, iki ve üçer kişiden oluşabilirler. Takımları oluşturan kişi sayılarına göre, oyuncuların elindeki bilye sayıları değişir: Bir oyuncudan oluşan ekiplerde (tete-a-tete) her bir oyuncunun elindeki bilye sayısı 3 İki oyuncudan oluşan ekiplerde (doublette) her bir oyuncunun elindeki bilye sayısı 3 Üç oyuncudan oluşan ekiplerde (tripllette) her bir oyuncunun elindeki bilye sayısı 2",
+      "char_count": 443,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0004",
+      "section": "=== Oyun süreci ===",
+      "heading_path": "=== Oyun süreci ===",
+      "start_char": 961,
+      "end_char": 1919,
+      "content": "=== Oyun süreci === Oyuna başlayacak ekip yazı/tura ile belirlenir. Başlangıcı yapacak takımın oyuncusu, zemine çapı 40-50 santim kadar bir çember çizer ve hedef minik bilye cochonnet'yi 6 ila 10 metre arası bir uzaklığa fırlatır. Tüm bilyeler, ayaklar bu çemberin içindeyken oynanır. Hedef olacak cochonnet gerekli uzaklığa yollandıktan sonra yine ilk takımın oyuncusu elindeki bilyeyi cochonnet'nin en yakınına kondurmaya çalışır. Başlangıcı yapan takım ilk bilyesini oynadıktan sonra sıra ikinci takıma geçer. Bu sefer, bu takım oyuncuları bilyelerini diğer takıma nazaran daha yakına kondurmaya çalışırlar. Bilyeleri daha yakında olan takım (tek bilye dahi olsa) sırayı diğer takıma devreder. Eldeki bilyeler bitince puanlar sayılır. Cochonnetnin en yakınına kendi bilyelerini kondurmuş olan takım seti kazanmış olur. En yakındaki toplam bilye sayısı kadar puan alır ve diğer sete geçilir. Oyunlar sonrasında puanı 13'e ulaşan takım oyunu kazanmış olur.",
+      "char_count": 957,
+      "token_estimate": 239
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1919,
+      "end_char": 2292,
+      "content": "== Dış bağlantılar == Confédération Mondiale des Sports de Boules (CMSB) Fédération Internationale de Pétanque et Jeu Provençal (FIPJP) 24 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi. Panorama of a Petanque game 18 Ekim 2012 tarihinde Wayback Machine sitesinde arşivlendi. How pronounce \"Pétanque\" 18 Aralık 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 373,
+      "token_estimate": 93
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bir takımın oyunu kazanması için kaç puana ulaşması gerekir?",
+        "answer": "13 puana ulaşması gerekir.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Petank'ın özel atletik yapı gerektirmeyen ve basit kurallara sahip bir oyun olması, oyunu oynamak için gerekli ekipmanlarla nasıl bir ilişki içindedir?",
+        "answer": "Petank'ın özel atletik yapı gerektirmemesi ve basit kurallara sahip olması, oyunu oynamak için sadece bir mezura veya dal parçası, minik hedef cochonnet ve bilyeler gibi temel ve erişilebilir ekipmanlara ihtiyaç duyulmasıyla ilişkilidir. Bu durum, oyunun sosyal ve geniş kitlelerce oynanabilir doğasını destekler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

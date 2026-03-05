@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "jeannebrabants_3ba3061f",
+    "title": "Jeanne Brabants",
+    "url": "https://tr.wikipedia.org/wiki/Jeanne_Brabants",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:39.834220",
+    "content": "Jeanne Brabants (25 Ocak 1920 - 2 Ocak 2014), Belçikalı dansçı, koreograf ve öğretmendir. \"Flamanlara profesyonelce dans etmeyi öğreten kadın\" olarak bilinir. == İlk Yılları == Antwerp'de doğan Brabants (25 Ocak 1920), bale üzerine çoğu şeyi Londra'da Ninette de Valois tarafından öğrendi. Lea Daan, Kurt Jooss ve Sigurd Leeder ile modern dans çalıştı. == Profesyonel Kariyeri == 1941 yılında, babası ile birlikte Brabant Bale Okulu'nu kurdu. İkinci Dünya Savaşı sırasında, kız kardeșleri ile Brabant Kardeșler Dans Topluluğu'nu kurdu. Bu okul, 1951 - 1952 tarihlerinde Brabants'ın çabaları sonucu Flaman Kraliyet Operası bünyesine dahil edildi. === Kraliyet Bale Okulu'nun Kurulușu === 1951'de, Flaman Kraliyet Operası bünyesinde Flaman Kraliyet Operası'nın Bale Okulu'nu kurdu. Antwerp'de bulunan ve 1964 yılında the Stedelijk Instituut voor Ballet (SIB) adını alan bu okul günümüzde uluslararası tanınırlığa sahiptir. Belediyeye bağlı bir kurum ișlevi kazanan bu okul, 1990'lardan itibaren 8-18 yaş arası bireylere profesyonel dans eğitimi vermektedir. === Flanders Kraliyet Balesi'nin Oluşumu === 200'e yakın müzikal eserin koreografisini yapan Brabants, uluslararası tanınmış kişilerle çalıştı ve pek çok uluslararası ödül kazandı. 1969'da Flanders Kraliyet Balesi'ni kurdu. Sahneye ilk çıkışını Prometheus ile yapan Flanders Balesi repertuarı Brabants ve koreografi şefi Andre Leclair tarafından koreografisi yapılan çağdaș eserlerden oluşuyordu. Sadece Jiri Kylian, John Butler, Maurice Bejart, Hans van Manen gibi en yaygın çağdaş figürlerin çalışmalarına değil, çok sayıda \"yerel\" kreasyonla (Jeanne Brabants, Andre Leclair, Aime de Figniere, Marc Bogaerts) beraber Mikhail Fokine, George Balanchine, Frederick Ashton ve Kurt Jooss seviyesinde klasik eserlere de yer veriyordu. Flanders Kraliyet Balesi'nin oluşumu uzun yıllardır opera ile ilişkilendirilen baleyi bağımsız bir sanat dalı haline getirdi. Flanders Balesi'ni 1984 yılına kadar yöneten Brabants, Dialoog , Cantus Firmus ve Ode and Grand Hôtel'i de içeren koreografiler tasarladı. == Emeklilik == Brabants, Flanders Kraliyet Balesi'nden emekli olduktan sonra Gençlik ve Dans isimli bir topluluk kurdu. Kurucusu olduğu bir diğer topluluk Danza Antiqua ile Rönesans ve Barok dönem danslarını yeniden yarattı. Aynı zamanda dansçıların hakları için mücadelesine devam etti. Jeanne Brabants 2 Ocak 2014 tarihinde, 93 yaşında memleketi Antwerp'de öldü. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 332,
+      "char_count": 2432,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.062220",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 159,
+      "content": "Jeanne Brabants (25 Ocak 1920 - 2 Ocak 2014), Belçikalı dansçı, koreograf ve öğretmendir. \"Flamanlara profesyonelce dans etmeyi öğreten kadın\" olarak bilinir.",
+      "char_count": 158,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk Yılları ==",
+      "heading_path": "== İlk Yılları ==",
+      "start_char": 159,
+      "end_char": 353,
+      "content": "== İlk Yılları == Antwerp'de doğan Brabants (25 Ocak 1920), bale üzerine çoğu şeyi Londra'da Ninette de Valois tarafından öğrendi. Lea Daan, Kurt Jooss ve Sigurd Leeder ile modern dans çalıştı.",
+      "char_count": 193,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0002",
+      "section": "== Profesyonel Kariyeri ==",
+      "heading_path": "== Profesyonel Kariyeri ==",
+      "start_char": 353,
+      "end_char": 646,
+      "content": "== Profesyonel Kariyeri == 1941 yılında, babası ile birlikte Brabant Bale Okulu'nu kurdu. İkinci Dünya Savaşı sırasında, kız kardeșleri ile Brabant Kardeșler Dans Topluluğu'nu kurdu. Bu okul, 1951 - 1952 tarihlerinde Brabants'ın çabaları sonucu Flaman Kraliyet Operası bünyesine dahil edildi.",
+      "char_count": 292,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0003",
+      "section": "=== Kraliyet Bale Okulu'nun Kurulușu ===",
+      "heading_path": "=== Kraliyet Bale Okulu'nun Kurulușu ===",
+      "start_char": 646,
+      "end_char": 1056,
+      "content": "=== Kraliyet Bale Okulu'nun Kurulușu === 1951'de, Flaman Kraliyet Operası bünyesinde Flaman Kraliyet Operası'nın Bale Okulu'nu kurdu. Antwerp'de bulunan ve 1964 yılında the Stedelijk Instituut voor Ballet (SIB) adını alan bu okul günümüzde uluslararası tanınırlığa sahiptir. Belediyeye bağlı bir kurum ișlevi kazanan bu okul, 1990'lardan itibaren 8-18 yaş arası bireylere profesyonel dans eğitimi vermektedir.",
+      "char_count": 409,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0004",
+      "section": "=== Flanders Kraliyet Balesi'nin Oluşumu ===",
+      "heading_path": "=== Flanders Kraliyet Balesi'nin Oluşumu ===",
+      "start_char": 1056,
+      "end_char": 2052,
+      "content": "=== Flanders Kraliyet Balesi'nin Oluşumu === 200'e yakın müzikal eserin koreografisini yapan Brabants, uluslararası tanınmış kişilerle çalıştı ve pek çok uluslararası ödül kazandı. 1969'da Flanders Kraliyet Balesi'ni kurdu. Sahneye ilk çıkışını Prometheus ile yapan Flanders Balesi repertuarı Brabants ve koreografi şefi Andre Leclair tarafından koreografisi yapılan çağdaș eserlerden oluşuyordu. Sadece Jiri Kylian, John Butler, Maurice Bejart, Hans van Manen gibi en yaygın çağdaş figürlerin çalışmalarına değil, çok sayıda \"yerel\" kreasyonla (Jeanne Brabants, Andre Leclair, Aime de Figniere, Marc Bogaerts) beraber Mikhail Fokine, George Balanchine, Frederick Ashton ve Kurt Jooss seviyesinde klasik eserlere de yer veriyordu. Flanders Kraliyet Balesi'nin oluşumu uzun yıllardır opera ile ilişkilendirilen baleyi bağımsız bir sanat dalı haline getirdi. Flanders Balesi'ni 1984 yılına kadar yöneten Brabants, Dialoog , Cantus Firmus ve Ode and Grand Hôtel'i de içeren koreografiler tasarladı.",
+      "char_count": 995,
+      "token_estimate": 248
+    },
+    {
+      "id": "c0005",
+      "section": "== Emeklilik ==",
+      "heading_path": "== Emeklilik ==",
+      "start_char": 2052,
+      "end_char": 2418,
+      "content": "== Emeklilik == Brabants, Flanders Kraliyet Balesi'nden emekli olduktan sonra Gençlik ve Dans isimli bir topluluk kurdu. Kurucusu olduğu bir diğer topluluk Danza Antiqua ile Rönesans ve Barok dönem danslarını yeniden yarattı. Aynı zamanda dansçıların hakları için mücadelesine devam etti. Jeanne Brabants 2 Ocak 2014 tarihinde, 93 yaşında memleketi Antwerp'de öldü.",
+      "char_count": 365,
+      "token_estimate": 91
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Flanders Kraliyet Balesi ne zaman kuruldu?",
+        "answer": "1969'da.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jeanne Brabants'ın Belçika'da dans eğitimine yaptığı katkılar ve aldığı uluslararası eğitim arasında nasıl bir bağlantı kurulabilir?",
+        "answer": "Jeanne Brabants, 'Flamanlara profesyonelce dans etmeyi öğreten kadın' olarak tanınmıştır. Bu rolü, kendisinin Londra'da Ninette de Valois'dan bale eğitimi alması ve ayrıca Lea Daan, Kurt Jooss, Sigurd Leeder gibi isimlerle modern dans çalışması gibi uluslararası düzeyde edindiği kapsamlı ve çeşitli dans eğitiminin bir sonucudur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

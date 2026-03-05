@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "uysumu_e3ce3ff0",
+    "title": "Şuy sumu",
+    "url": "https://tr.wikipedia.org/wiki/%C5%9Euy_sumu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:41.514756",
+    "content": "Şuy sumu (Tuva Türkçesi: Шуй сумузу), Tuva Cumhuriyeti'nde Baytayga kojuununa bağlı kırsal yerleşim statüsünde bir belediye idari birimidir. Belde anlamında sumu sözü kullanılmakta olup sumu idari merkezi de Şuydur. 2020 yılı nüfusu 1800 kişidir. Şuy kırsal belediyesinin idari merkezi ve tek nüfuslu yerleşimi de Şuydur. == Söz tanımı == Tıva'da köy ve kasaba türü yerleşimler için ködee suur denilmektedir. İlçe, belediye, belde türüne karşılık olarak ise sum, rayon adlandırmaları kullanılır. == Coğrafya == Şuy yerleşimi, Barlık (balık) akarsuyu ve Çaa-Barlık (Yeni Barlık) kanalı yakınındadır. Sokakları Mostovoy, Bay-Dorju, Gagarin, Kudurukpay, Lesnaya, Mançürek, Novaya, Nordup, Sayır-Aksı, Tiilelge. Yerleşim olmayan dolaydaki yer adları şöyledir. Ak-Hem yer, Bazırak-Adaa yer, Belengiiş yer, Düvürennig-Kağt yer, Sarıg-Özen yer, Çangıs-Terek yer, Çinge-Kağt yer, Şat yer, Şuy-Aksı yer, Şuy-İşti yeri. == Coğrafi konum == Uzaklık: Baytayga merkezi: Teeli (Bay-Tayga): 17 km. Tıva Cumhuriyeti başkenti: Kızıl 302 km. Yakın yerleşim yerleri Ergi-Barlık 6 km, Teeli 16 km, Don-Terek 21 km, Kızıl-Dag 23 km, Aksı-Barlık (Aldın-Bulak) 26 km, Barlık 30 km. == Nüfus == Toplam Nüfusu 2020 yılı — 1800 kişi. Yıllara göre kişi sayısı: == Turizm ve Cazibe alanları == Şuy sumu toprakları içinde 98.000 hektarlık alanı olan Tıva Tabiat Parkı'nın Şuy bölümü vardır. Şuy bölümü veya kümesi toprakları bir yayladır. == Altyapı == eğitim-öğretim Şuy köyü Belediye Yatılı Okulu (МКУ Школа-интернат с. Шуй) Şuy köyü okulu Anaokulları «Çeçek», «Şetçigeş» kültür Kültür Evi == Tanınan kişiler == Aleksey Çırgalool: (1924-1989) - Tıva bestecisi, aktör, orkestra şefi, öğretmen ve müzikal ve kamusal figür, SSCB Halk Sanatçısı (1984). İrina Oçur Şekperkızı (1940) — Şuy köyü okulunda biyoloji ve kimya öğretmeni olmuş, Tıva kadın hareketinin öncüsü, yazar. == Kaynakça == == Dış bağlantılar == Kızıl-Dag sitesi Baytayga sitesi 24 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 283,
+      "char_count": 1976,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.985083",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 322,
+      "content": "Şuy sumu (Tuva Türkçesi: Шуй сумузу), Tuva Cumhuriyeti'nde Baytayga kojuununa bağlı kırsal yerleşim statüsünde bir belediye idari birimidir. Belde anlamında sumu sözü kullanılmakta olup sumu idari merkezi de Şuydur. 2020 yılı nüfusu 1800 kişidir. Şuy kırsal belediyesinin idari merkezi ve tek nüfuslu yerleşimi de Şuydur.",
+      "char_count": 321,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0001",
+      "section": "== Söz tanımı ==",
+      "heading_path": "== Söz tanımı ==",
+      "start_char": 322,
+      "end_char": 496,
+      "content": "== Söz tanımı == Tıva'da köy ve kasaba türü yerleşimler için ködee suur denilmektedir. İlçe, belediye, belde türüne karşılık olarak ise sum, rayon adlandırmaları kullanılır.",
+      "char_count": 173,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 496,
+      "end_char": 910,
+      "content": "== Coğrafya == Şuy yerleşimi, Barlık (balık) akarsuyu ve Çaa-Barlık (Yeni Barlık) kanalı yakınındadır. Sokakları Mostovoy, Bay-Dorju, Gagarin, Kudurukpay, Lesnaya, Mançürek, Novaya, Nordup, Sayır-Aksı, Tiilelge. Yerleşim olmayan dolaydaki yer adları şöyledir. Ak-Hem yer, Bazırak-Adaa yer, Belengiiş yer, Düvürennig-Kağt yer, Sarıg-Özen yer, Çangıs-Terek yer, Çinge-Kağt yer, Şat yer, Şuy-Aksı yer, Şuy-İşti yeri.",
+      "char_count": 413,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0003",
+      "section": "== Coğrafi konum ==",
+      "heading_path": "== Coğrafi konum ==",
+      "start_char": 910,
+      "end_char": 1159,
+      "content": "== Coğrafi konum == Uzaklık: Baytayga merkezi: Teeli (Bay-Tayga): 17 km. Tıva Cumhuriyeti başkenti: Kızıl 302 km. Yakın yerleşim yerleri Ergi-Barlık 6 km, Teeli 16 km, Don-Terek 21 km, Kızıl-Dag 23 km, Aksı-Barlık (Aldın-Bulak) 26 km, Barlık 30 km.",
+      "char_count": 248,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0004",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 1159,
+      "end_char": 1234,
+      "content": "== Nüfus == Toplam Nüfusu 2020 yılı — 1800 kişi. Yıllara göre kişi sayısı:",
+      "char_count": 74,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0005",
+      "section": "== Turizm ve Cazibe alanları ==",
+      "heading_path": "== Turizm ve Cazibe alanları ==",
+      "start_char": 1234,
+      "end_char": 1410,
+      "content": "== Turizm ve Cazibe alanları == Şuy sumu toprakları içinde 98.000 hektarlık alanı olan Tıva Tabiat Parkı'nın Şuy bölümü vardır. Şuy bölümü veya kümesi toprakları bir yayladır.",
+      "char_count": 175,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0006",
+      "section": "== Altyapı ==",
+      "heading_path": "== Altyapı ==",
+      "start_char": 1410,
+      "end_char": 1563,
+      "content": "== Altyapı == eğitim-öğretim Şuy köyü Belediye Yatılı Okulu (МКУ Школа-интернат с. Шуй) Şuy köyü okulu Anaokulları «Çeçek», «Şetçigeş» kültür Kültür Evi",
+      "char_count": 152,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0007",
+      "section": "== Tanınan kişiler ==",
+      "heading_path": "== Tanınan kişiler ==",
+      "start_char": 1563,
+      "end_char": 1844,
+      "content": "== Tanınan kişiler == Aleksey Çırgalool: (1924-1989) - Tıva bestecisi, aktör, orkestra şefi, öğretmen ve müzikal ve kamusal figür, SSCB Halk Sanatçısı (1984). İrina Oçur Şekperkızı (1940) — Şuy köyü okulunda biyoloji ve kimya öğretmeni olmuş, Tıva kadın hareketinin öncüsü, yazar.",
+      "char_count": 280,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1859,
+      "end_char": 1976,
+      "content": "== Dış bağlantılar == Kızıl-Dag sitesi Baytayga sitesi 24 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 117,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Şuy yerleşimi hangi akarsu ve kanalın yakınında bulunmaktadır?",
+        "answer": "Barlık akarsuyu ve Çaa-Barlık kanalı.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tuva'daki idari birimler için kullanılan \"sumu\" (veya \"sum\") terimi, Şuy sumu örneğinde nasıl açıklanmaktadır?",
+        "answer": "Tuva'da \"sum\" terimi ilçe, belediye veya belde türü yerleşimler için kullanılır. Şuy sumu, kırsal yerleşim statüsünde bir belediye idari birimi olup, burada \"sumu\" belde anlamında kullanılmaktadır ve idari merkezi Şuydur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

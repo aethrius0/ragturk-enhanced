@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "elbeyli_8601ec3e",
+    "title": "Elbeyli",
+    "url": "https://tr.wikipedia.org/wiki/Elbeyli",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:24.884294",
+    "content": "Elbeyli, Kilis ilinin bir ilçesidir. == Tarihi == Oğuzlar'ın, Alkırevli boyunun, Elbeyli Türkmen aşiretine mensup yörükler tarafından kurulmuştur. Bu Türkmen aşiretine mensup insanların Türkiye'de ve Suriye'de değişik yerleşim yerleri mevcuttur. Elbeyli İlçesi, 1040 ve 1157 tarihleri arasında Büyük Selçuklu İmparatorluğu hâkimiyetindeyken, sırasıyla İlhanlılar ve Dulkadiroğluları egemenliğine geçmiş, 1516'da Mercidâbık Muharebesi ile Osmanlı İmparatorluğu'nun egemenliğine geçmiştir. Cumhuriyetin ilk yıllarında Suriye'nin Cerablus kazasına bağlı bir köy iken, Misak-ı Milli'den sonra Cerablus Suriye sınırları içerisinde kalınca 1931 yılında köy olarak Gaziantep'in, Kilis ilçesine bağlanmıştır. 1946 yılında, ilçe yapılan Oğuzeli'ne bağlanmış, 1995 yılında da Kilis'in il olmasıyla ilçe olarak tekrar Kilis iline bağlanmıştır. Elbeyli ilçesinin köy konumundayken ismi \"Alimantar\" idi. Elbeyli'nin güneyinde Suriye, kuzeyinde Gaziantep merkezi, doğusunda Gaziantep'in Oğuzeli ilçesi, batısında ise Kilis ili ile sınır komşusudur. Arazi yapısı düz ve ovadır, dağ ve tepeler bulunmamaktadır. Denizden yüksekliği 650 metre, yüzölçümü 262 km²dir. Arazi görünüm olarak çıplak, orman ve ağaç topluluklarına rastlanmamaktadır. Arazinin bitki örtüsü genellikle otsu bitkiler yani bozkırdır. == Ekonomik durum == İlçe merkez ve köylerinde halkın büyük çoğunluğu tarımla uğraşmaktadır. İlçe halkı, geçimini büyük oranda çiftçilik ve hayvancılık ile sağlamaktadır. === Tarım === İlçede halkın %90'ı geçimini tarım ve hayvancılıkla temin etmektedir. Tarımdan elde edilen ortalama gelir dekar başına; buğday 200–250 kg (sulu alanda 350–400 kg), mercimek 100–150 kg, Antep fıstığı 100 kg civarındadır. İlçede tarım sektöründe 1.252 aile çalışmaktadır. 2005 yılında 943 çiftçi, çiftçi kayıt sistemi ve doğrudan gelir desteğine başvurmuş olup hâlen çalışmalar devam etmektedir. == Nüfus == İlçe merkezinin nüfûsu 2.034, bağlı köylerin nüfûsu ise 3.807 olup, toplam nüfûs 5.841'dir. Nüfusun büyük çoğunluğu çiftçilikle uğraşmaktadır. == Siyaset ve yönetim == === Genek seçimler === === Eski belediye başkanları === === Görev yapmış kaymakamlar === == Kaynakça == == Dış bağlantılar == YerelNET Elbeyli Kaymakamlığı 27 Eylül 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 294,
+      "char_count": 2264,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.103686",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 37,
+      "content": "Elbeyli, Kilis ilinin bir ilçesidir.",
+      "char_count": 36,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 37,
+      "end_char": 1037,
+      "content": "== Tarihi == Oğuzlar'ın, Alkırevli boyunun, Elbeyli Türkmen aşiretine mensup yörükler tarafından kurulmuştur. Bu Türkmen aşiretine mensup insanların Türkiye'de ve Suriye'de değişik yerleşim yerleri mevcuttur. Elbeyli İlçesi, 1040 ve 1157 tarihleri arasında Büyük Selçuklu İmparatorluğu hâkimiyetindeyken, sırasıyla İlhanlılar ve Dulkadiroğluları egemenliğine geçmiş, 1516'da Mercidâbık Muharebesi ile Osmanlı İmparatorluğu'nun egemenliğine geçmiştir. Cumhuriyetin ilk yıllarında Suriye'nin Cerablus kazasına bağlı bir köy iken, Misak-ı Milli'den sonra Cerablus Suriye sınırları içerisinde kalınca 1931 yılında köy olarak Gaziantep'in, Kilis ilçesine bağlanmıştır. 1946 yılında, ilçe yapılan Oğuzeli'ne bağlanmış, 1995 yılında da Kilis'in il olmasıyla ilçe olarak tekrar Kilis iline bağlanmıştır. Elbeyli ilçesinin köy konumundayken ismi \"Alimantar\" idi. Elbeyli'nin güneyinde Suriye, kuzeyinde Gaziantep merkezi, doğusunda Gaziantep'in Oğuzeli ilçesi, batısında ise Kilis ili ile sınır komşusudur. Ar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 837,
+      "end_char": 1287,
+      "content": "yli ilçesinin köy konumundayken ismi \"Alimantar\" idi. Elbeyli'nin güneyinde Suriye, kuzeyinde Gaziantep merkezi, doğusunda Gaziantep'in Oğuzeli ilçesi, batısında ise Kilis ili ile sınır komşusudur. Arazi yapısı düz ve ovadır, dağ ve tepeler bulunmamaktadır. Denizden yüksekliği 650 metre, yüzölçümü 262 km²dir. Arazi görünüm olarak çıplak, orman ve ağaç topluluklarına rastlanmamaktadır. Arazinin bitki örtüsü genellikle otsu bitkiler yani bozkırdır.",
+      "char_count": 450,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0003",
+      "section": "== Ekonomik durum ==",
+      "heading_path": "== Ekonomik durum ==",
+      "start_char": 1288,
+      "end_char": 1459,
+      "content": "== Ekonomik durum == İlçe merkez ve köylerinde halkın büyük çoğunluğu tarımla uğraşmaktadır. İlçe halkı, geçimini büyük oranda çiftçilik ve hayvancılık ile sağlamaktadır.",
+      "char_count": 170,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0004",
+      "section": "=== Tarım ===",
+      "heading_path": "=== Tarım ===",
+      "start_char": 1459,
+      "end_char": 1867,
+      "content": "=== Tarım === İlçede halkın %90'ı geçimini tarım ve hayvancılıkla temin etmektedir. Tarımdan elde edilen ortalama gelir dekar başına; buğday 200–250 kg (sulu alanda 350–400 kg), mercimek 100–150 kg, Antep fıstığı 100 kg civarındadır. İlçede tarım sektöründe 1.252 aile çalışmaktadır. 2005 yılında 943 çiftçi, çiftçi kayıt sistemi ve doğrudan gelir desteğine başvurmuş olup hâlen çalışmalar devam etmektedir.",
+      "char_count": 407,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0005",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 1867,
+      "end_char": 2022,
+      "content": "== Nüfus == İlçe merkezinin nüfûsu 2.034, bağlı köylerin nüfûsu ise 3.807 olup, toplam nüfûs 5.841'dir. Nüfusun büyük çoğunluğu çiftçilikle uğraşmaktadır.",
+      "char_count": 154,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2151,
+      "end_char": 2264,
+      "content": "== Dış bağlantılar == YerelNET Elbeyli Kaymakamlığı 27 Eylül 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 113,
+      "token_estimate": 28
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Elbeyli İlçesi hangi muharebe ile Osmanlı İmparatorluğu'nun egemenliğine geçmiştir?",
+        "answer": "Mercidâbık Muharebesi",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Elbeyli'nin Kilis iline bağlı bir ilçe olma durumu, tarihi süreçte nasıl bir idari gelişim göstermiştir?",
+        "answer": "Elbeyli, günümüzde Kilis ilinin bir ilçesidir. Tarih boyunca farklı idari bağlılıklar yaşamış; Cumhuriyetin ilk yıllarında Suriye'nin Cerablus kazasına bağlı bir köy iken, 1931 yılında Gaziantep'in Kilis ilçesine köy olarak bağlanmış, ardından 1946 yılında Oğuzeli'ne bağlanmış ve son olarak 1995 yılında Kilis'in il olmasıyla ilçe olarak tekrar Kilis iline bağlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

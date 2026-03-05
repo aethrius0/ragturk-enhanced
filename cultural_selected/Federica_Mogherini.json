@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "federicamogherini_5833716e",
+    "title": "Federica Mogherini",
+    "url": "https://tr.wikipedia.org/wiki/Federica_Mogherini",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:11.381410",
+    "content": "Federica Mogherini (d. 16 Haziran 1973, Roma) İtalyan merkez sol siyasetçi. İtalya eski dışişleri bakanı. Avrupa Birliği Dışişleri ve Güvenlik Politikaları Yüksek Temsilcisi olarak görev yapmıştır. 2020 yılı itibarıyla Avrupa Koleji eski rektörüdür. Yönetmen Flavio Mogherini'nin (1922-1994) kızıdır. Roma La Sapienza Üniversitesi'nde siyaset bilimi eğitimi almıştır. Albay Domenico Rebesani ile evli olup Caterina (d. 2005) ve Marta (d. 2010) adında iki kız çocuğu vardır. 1996'da Sol Demokratlar'ın gençlik hareketi olan Genç Komünistler'e üye olarak siyasete başlamıştır. 2001'den itibaren merkez sol liderler Piero Fassino, Walter Veltroni ve Pierluigi Bersani'nin yanında görev almıştır. 2008 yılında Demokrat Parti'den milletvekili seçilmiştir. 22 Şubat 2014 tarihinde kurulan Matteo Renzi Hükûmeti'nde Dışişleri Bakanı olarak görev almıştır. 1 Kasım 2014 tarihinde Jean-Claude Juncker tarafından kurulan Avrupa Komisyonu'nda Dış İlişkiler ve Güvenlik Politikasından Sorumlu Yüksek Temsilcisi olmuştur. 2019 yılında bu görevini tamamlamış ve 2020 itibarıyla Belçika'da bulunan Avrupa Koleji'ne (College of Europe) Rektör olmuştur. == Görevleri == === Meclis === 29 Nisan 2008 - 14 Mart 2013 : Veneto 7. seçim çevresi milletvekili 15 Mart 2013 - 30 Ekim 2014 : Emilia-Romagna 9. seçim çevresi milletvekili === Hükûmet === 22 Şubat 2014 - 31 Ekim 2014: Dışişleri Bakanı === Avrupa Komisyonu === 1 Kasım 2014 - 30 Kasım 2019: Avrupa Birliği Dışişleri ve Güvenlik Politikaları Yüksek Temsilcisi === Avrupa Koleji (College of Europe) === 1 Eylül 2020 - ... : Avrupa Koleji Rektörü == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 228,
+      "char_count": 1596,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.240856",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Federica Mogherini (d. 16 Haziran 1973, Roma) İtalyan merkez sol siyasetçi. İtalya eski dışişleri bakanı. Avrupa Birliği Dışişleri ve Güvenlik Politikaları Yüksek Temsilcisi olarak görev yapmıştır. 2020 yılı itibarıyla Avrupa Koleji eski rektörüdür. Yönetmen Flavio Mogherini'nin (1922-1994) kızıdır. Roma La Sapienza Üniversitesi'nde siyaset bilimi eğitimi almıştır. Albay Domenico Rebesani ile evli olup Caterina (d. 2005) ve Marta (d. 2010) adında iki kız çocuğu vardır. 1996'da Sol Demokratlar'ın gençlik hareketi olan Genç Komünistler'e üye olarak siyasete başlamıştır. 2001'den itibaren merkez sol liderler Piero Fassino, Walter Veltroni ve Pierluigi Bersani'nin yanında görev almıştır. 2008 yılında Demokrat Parti'den milletvekili seçilmiştir. 22 Şubat 2014 tarihinde kurulan Matteo Renzi Hükûmeti'nde Dışişleri Bakanı olarak görev almıştır. 1 Kasım 2014 tarihinde Jean-Claude Juncker tarafından kurulan Avrupa Komisyonu'nda Dış İlişkiler ve Güvenlik Politikasından Sorumlu Yüksek Temsilcisi o",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1136,
+      "content": "meti'nde Dışişleri Bakanı olarak görev almıştır. 1 Kasım 2014 tarihinde Jean-Claude Juncker tarafından kurulan Avrupa Komisyonu'nda Dış İlişkiler ve Güvenlik Politikasından Sorumlu Yüksek Temsilcisi olmuştur. 2019 yılında bu görevini tamamlamış ve 2020 itibarıyla Belçika'da bulunan Avrupa Koleji'ne (College of Europe) Rektör olmuştur.",
+      "char_count": 336,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0002",
+      "section": "=== Meclis ===",
+      "heading_path": "=== Meclis ===",
+      "start_char": 1153,
+      "end_char": 1311,
+      "content": "=== Meclis === 29 Nisan 2008 - 14 Mart 2013 : Veneto 7. seçim çevresi milletvekili 15 Mart 2013 - 30 Ekim 2014 : Emilia-Romagna 9. seçim çevresi milletvekili",
+      "char_count": 157,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0003",
+      "section": "=== Hükûmet ===",
+      "heading_path": "=== Hükûmet ===",
+      "start_char": 1311,
+      "end_char": 1374,
+      "content": "=== Hükûmet === 22 Şubat 2014 - 31 Ekim 2014: Dışişleri Bakanı",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0004",
+      "section": "=== Avrupa Komisyonu ===",
+      "heading_path": "=== Avrupa Komisyonu ===",
+      "start_char": 1374,
+      "end_char": 1497,
+      "content": "=== Avrupa Komisyonu === 1 Kasım 2014 - 30 Kasım 2019: Avrupa Birliği Dışişleri ve Güvenlik Politikaları Yüksek Temsilcisi",
+      "char_count": 122,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0005",
+      "section": "=== Avrupa Koleji (College of Europe) ===",
+      "heading_path": "=== Avrupa Koleji (College of Europe) ===",
+      "start_char": 1497,
+      "end_char": 1582,
+      "content": "=== Avrupa Koleji (College of Europe) === 1 Eylül 2020 - ... : Avrupa Koleji Rektörü",
+      "char_count": 84,
+      "token_estimate": 21
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Federica Mogherini'nin doğum tarihi nedir?",
+        "answer": "16 Haziran 1973",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Federica Mogherini'nin İtalya Dışişleri Bakanlığı görevinden sonra üstlendiği önemli uluslararası pozisyonlar ve bu pozisyonların başlangıç tarihleri nelerdir?",
+        "answer": "İtalya Dışişleri Bakanlığı görevinin ardından, 1 Kasım 2014 tarihinde Avrupa Komisyonu'nda Dış İlişkiler ve Güvenlik Politikasından Sorumlu Yüksek Temsilcisi olmuştur. Bu görevini 2019 yılında tamamlayarak 2020 yılı itibarıyla Avrupa Koleji'nin Rektörü olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

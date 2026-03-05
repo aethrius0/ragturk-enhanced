@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "kassistemi_cf10da96",
+    "title": "Kas sistemi",
+    "url": "https://tr.wikipedia.org/wiki/Kas_sistemi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:24.292211",
+    "content": "Kas sistemi canlıya hareket yeteneği sağlayan sistemdir. Kas sistemi omurgalılarda sinir sisteminin kontrolü altında olmasına rağmen bazı kaslar (örneğin kalp kası) tamamen otonom çalışabilir. == Kaslar == İnsan vücudunda üç çeşit kas bulunmaktadır. Bunlar; çizgili kas (ya da iskelet kası), düz kas ve kalp kasıdır. === Çizgili kas (iskelet kası) === İskelet kası, liflerden oluşmuş, hücre çekirdekleri hücre zarının hemen altında konumlanmış çok çekirdekli hücrelere sahiptir. Hücrelerinin içinde miyofibril adlı telcikler bulunur. Bu telcikler hücrenin içinde boydan boya uzanır. Her bir kas hücresinin içinde bulunan en küçük kasılma birimine sarkomer denir. Her bir sarkomer kalın miyozin ve ince aktin protein telciklerini içerir. Aktin filaman, miyozin üzerinde kaydığında kasılma gerçekleşir. Bir iskelet kası eşik değeri üzerinde bir uyaran ile uyarıldığında her bir sarkomer koordineli olarak kasılmaya başlar. Kasılma için aksiyon potansiyelinin oluşması gerekir. Kas hücreleri de enerjilerini tıpkı diğer hücreler gibi ATP'den elde ederler. Kas Hücreleri çok az ATP depolayabilir. Bu yüzden ADP dönüştürülerek harcanan her molekül, çabucak ATP'ye geri dönüştürülür. Kaslar aynı zamanda ek enerji desteği sağlayan kreatin fosfat adlı bir molekül depolarlar. Kreatin fosfat molekülünün yapısında bulunan fosfat, ADP'nin ATP'ye dönüştürülmesinde kullanılır. Kas kasılmasında aynı zamanda Kalsiyum iyonları da gereklidir. Kalsiyum iyonları, kas hücresi kasılma uyarısı aldığında sarkoplazmik retikulumdan sarkomere salınır. Kalsiyum iyonları aktin proteininin miyozine bağlanarak kayması için gereklidir. Kasılma uyarısı bittiğinde kalsiyum iyonları sarkomerden sarkoplazmik retikuluma geri pompalanır. İnsan vücudunda yaklaşık 639 iskelet kası bulunmaktadır. === Kalp kası === Kalp kası yapı bakımından çizgili kaslara benzese de kas liflerinin konumu itibarı ile bazı farklılıklar gösterir. Ayrıca tıpkı düz kaslar gibi insan kontrolü altında değildir. === Düz kas === Düz kaslar otonom sinir sistemi tarafından kontrol edilir. İstemsiz yapılan hareketlerin gerçekleşmesini sağlar. Bağırsak, mide, atardamar, toplardamar gibi organların yapısında bulunur. Sadece oksijenli solunum yaparlar. Miyoglobin içermezler. Kreatin fosfat metabolizmasını kullanmazlar. Depo şeker olarak glikojen sentezlemezler.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 297,
+      "char_count": 2311,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.121296",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 193,
+      "content": "Kas sistemi canlıya hareket yeteneği sağlayan sistemdir. Kas sistemi omurgalılarda sinir sisteminin kontrolü altında olmasına rağmen bazı kaslar (örneğin kalp kası) tamamen otonom çalışabilir.",
+      "char_count": 192,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0001",
+      "section": "== Kaslar ==",
+      "heading_path": "== Kaslar ==",
+      "start_char": 193,
+      "end_char": 317,
+      "content": "== Kaslar == İnsan vücudunda üç çeşit kas bulunmaktadır. Bunlar; çizgili kas (ya da iskelet kası), düz kas ve kalp kasıdır.",
+      "char_count": 123,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0002",
+      "section": "=== Çizgili kas (iskelet kası) ===",
+      "heading_path": "=== Çizgili kas (iskelet kası) ===",
+      "start_char": 317,
+      "end_char": 1317,
+      "content": "=== Çizgili kas (iskelet kası) === İskelet kası, liflerden oluşmuş, hücre çekirdekleri hücre zarının hemen altında konumlanmış çok çekirdekli hücrelere sahiptir. Hücrelerinin içinde miyofibril adlı telcikler bulunur. Bu telcikler hücrenin içinde boydan boya uzanır. Her bir kas hücresinin içinde bulunan en küçük kasılma birimine sarkomer denir. Her bir sarkomer kalın miyozin ve ince aktin protein telciklerini içerir. Aktin filaman, miyozin üzerinde kaydığında kasılma gerçekleşir. Bir iskelet kası eşik değeri üzerinde bir uyaran ile uyarıldığında her bir sarkomer koordineli olarak kasılmaya başlar. Kasılma için aksiyon potansiyelinin oluşması gerekir. Kas hücreleri de enerjilerini tıpkı diğer hücreler gibi ATP'den elde ederler. Kas Hücreleri çok az ATP depolayabilir. Bu yüzden ADP dönüştürülerek harcanan her molekül, çabucak ATP'ye geri dönüştürülür. Kaslar aynı zamanda ek enerji desteği sağlayan kreatin fosfat adlı bir molekül depolarlar. Kreatin fosfat molekülünün yapısında bulunan fos",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Çizgili kas (iskelet kası) ===",
+      "heading_path": "=== Çizgili kas (iskelet kası) ===",
+      "start_char": 1117,
+      "end_char": 1767,
+      "content": "erek harcanan her molekül, çabucak ATP'ye geri dönüştürülür. Kaslar aynı zamanda ek enerji desteği sağlayan kreatin fosfat adlı bir molekül depolarlar. Kreatin fosfat molekülünün yapısında bulunan fosfat, ADP'nin ATP'ye dönüştürülmesinde kullanılır. Kas kasılmasında aynı zamanda Kalsiyum iyonları da gereklidir. Kalsiyum iyonları, kas hücresi kasılma uyarısı aldığında sarkoplazmik retikulumdan sarkomere salınır. Kalsiyum iyonları aktin proteininin miyozine bağlanarak kayması için gereklidir. Kasılma uyarısı bittiğinde kalsiyum iyonları sarkomerden sarkoplazmik retikuluma geri pompalanır. İnsan vücudunda yaklaşık 639 iskelet kası bulunmaktadır.",
+      "char_count": 650,
+      "token_estimate": 162
+    },
+    {
+      "id": "c0004",
+      "section": "=== Kalp kası ===",
+      "heading_path": "=== Kalp kası ===",
+      "start_char": 1768,
+      "end_char": 1963,
+      "content": "=== Kalp kası === Kalp kası yapı bakımından çizgili kaslara benzese de kas liflerinin konumu itibarı ile bazı farklılıklar gösterir. Ayrıca tıpkı düz kaslar gibi insan kontrolü altında değildir.",
+      "char_count": 194,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0005",
+      "section": "=== Düz kas ===",
+      "heading_path": "=== Düz kas ===",
+      "start_char": 1963,
+      "end_char": 2311,
+      "content": "=== Düz kas === Düz kaslar otonom sinir sistemi tarafından kontrol edilir. İstemsiz yapılan hareketlerin gerçekleşmesini sağlar. Bağırsak, mide, atardamar, toplardamar gibi organların yapısında bulunur. Sadece oksijenli solunum yaparlar. Miyoglobin içermezler. Kreatin fosfat metabolizmasını kullanmazlar. Depo şeker olarak glikojen sentezlemezler.",
+      "char_count": 348,
+      "token_estimate": 87
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Her bir kas hücresinin içindeki en küçük kasılma birimine ne ad verilir?",
+        "answer": "Sarkomer",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İnsan vücudunda bulunan kas çeşitleri nelerdir ve bunlardan hangi kas tipi otonom olarak çalışabilirken, çizgili kasın kasılma süreci nasıl gerçekleşir?",
+        "answer": "İnsan vücudunda üç çeşit kas bulunur: çizgili kas (iskelet kası), düz kas ve kalp kası. Kalp kası tamamen otonom çalışabilir. Çizgili kasın kasılması ise, eşik değeri üzerinde bir uyaranla uyarıldığında her bir sarkomerin koordineli olarak kasılmasıyla başlar; bu süreç, miyozin üzerinde aktin filamanının kaymasıyla gerçekleşir ve aksiyon potansiyelinin oluşmasını gerektirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

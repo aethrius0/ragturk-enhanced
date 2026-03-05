@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "erkessk_2b093d8a",
+    "title": "Çerkessk",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87erkessk",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:28.614341",
+    "content": "Çerkessk (Adigece: Şerdjesqale/Шэрджэскъалэ; Karaçayca: Çerkes-Şahar), Rusya Federasyonu üyesi Karaçay-Çerkes Cumhuriyeti'nin başkenti. == Tarihçe == 1804 yılında Ruslar tarafından Adigelerden ele geçirilen ve Kuban Irmağı'nın doğu kıyısında bulunan stratejik bir yerde bir Rus askeri kalesi olarak kuruldu. İlk adı Batalpaşinsk idi. Bu ad 1787'de bu yerde Osmanlılar ve müttefikleri Adigeler ile Ruslar arasında yapılan bir savaşta Ruslar tarafından tutsak alınmış olan Osmanlı birlikleri komutanı Battal Paşa'dan gelmektedir. Nüfusu 117.100 olup (2005) bu nüfusun %35'i Çerkes (Adıge), %20.7'si Karaçay, %11.5'i Abaza (Abazin) kökenlidir. Bir Kazak yerleşimi (stanitsa) olan Batalpaşinsk 1931'de kent statüsü elde etti. Batalpaşinsk 1922-1926 yılları arasında Karaçay-Çerkes Özerk Oblastı merkezi iken 1926'da oblastın \"Karaçay Özerk Oblastı\" ve \"Çerkes Ulusal Okruğu\" biçiminde ikiye bölünmesiyle oluşan Çerkes Ulusal Okruğu'nun merkezi, 1928-1957 yılları arasında da Çerkes Özerk Oblastı'nın merkezi oldu. Kent 1934'te Sulimov, 1937'de Ejovo-Çerkessk, 1939'da da Çerkessk adını aldı. 1943'te Kazakistan'a sürülmüş olan Karaçayların 1956'da aklanmaları ve eski yerlerine dönmeleri üzerine 5 Ocak 1957'de, 12 Ocak 1922'de kurulmuş ve 1922'de ikiye bölünmüş olan eski Karaçay-Çerkes Özerk Oblastı toprakları yeniden birleştirildi ve Karaçay-Çerkesya, 1922'de olduğu gibi yeniden canlandırıldı. Oblast 3 Temmuz 1991'de cumhuriyet oldu. Çerkessk'te 5 resmî dile (Kabardey-Çerkesçe, Karaçay-Balkarca, Abazaca, Nogayca ve Rusça) ait kültürel kurumlar, basın, radyo ve televizyon yayını vardır. Fiili resmî dil Rusça olup resmî yazışmalar bu dilde yapılmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 213,
+      "char_count": 1673,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.768149",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 136,
+      "content": "Çerkessk (Adigece: Şerdjesqale/Шэрджэскъалэ; Karaçayca: Çerkes-Şahar), Rusya Federasyonu üyesi Karaçay-Çerkes Cumhuriyeti'nin başkenti.",
+      "char_count": 135,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 136,
+      "end_char": 1136,
+      "content": "== Tarihçe == 1804 yılında Ruslar tarafından Adigelerden ele geçirilen ve Kuban Irmağı'nın doğu kıyısında bulunan stratejik bir yerde bir Rus askeri kalesi olarak kuruldu. İlk adı Batalpaşinsk idi. Bu ad 1787'de bu yerde Osmanlılar ve müttefikleri Adigeler ile Ruslar arasında yapılan bir savaşta Ruslar tarafından tutsak alınmış olan Osmanlı birlikleri komutanı Battal Paşa'dan gelmektedir. Nüfusu 117.100 olup (2005) bu nüfusun %35'i Çerkes (Adıge), %20.7'si Karaçay, %11.5'i Abaza (Abazin) kökenlidir. Bir Kazak yerleşimi (stanitsa) olan Batalpaşinsk 1931'de kent statüsü elde etti. Batalpaşinsk 1922-1926 yılları arasında Karaçay-Çerkes Özerk Oblastı merkezi iken 1926'da oblastın \"Karaçay Özerk Oblastı\" ve \"Çerkes Ulusal Okruğu\" biçiminde ikiye bölünmesiyle oluşan Çerkes Ulusal Okruğu'nun merkezi, 1928-1957 yılları arasında da Çerkes Özerk Oblastı'nın merkezi oldu. Kent 1934'te Sulimov, 1937'de Ejovo-Çerkessk, 1939'da da Çerkessk adını aldı. 1943'te Kazakistan'a sürülmüş olan Karaçayların ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 936,
+      "end_char": 1658,
+      "content": "ezi, 1928-1957 yılları arasında da Çerkes Özerk Oblastı'nın merkezi oldu. Kent 1934'te Sulimov, 1937'de Ejovo-Çerkessk, 1939'da da Çerkessk adını aldı. 1943'te Kazakistan'a sürülmüş olan Karaçayların 1956'da aklanmaları ve eski yerlerine dönmeleri üzerine 5 Ocak 1957'de, 12 Ocak 1922'de kurulmuş ve 1922'de ikiye bölünmüş olan eski Karaçay-Çerkes Özerk Oblastı toprakları yeniden birleştirildi ve Karaçay-Çerkesya, 1922'de olduğu gibi yeniden canlandırıldı. Oblast 3 Temmuz 1991'de cumhuriyet oldu. Çerkessk'te 5 resmî dile (Kabardey-Çerkesçe, Karaçay-Balkarca, Abazaca, Nogayca ve Rusça) ait kültürel kurumlar, basın, radyo ve televizyon yayını vardır. Fiili resmî dil Rusça olup resmî yazışmalar bu dilde yapılmaktadır.",
+      "char_count": 722,
+      "token_estimate": 180
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ruslar tarafından kurulan şehrin ilk adı neydi?",
+        "answer": "Batalpaşinsk",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Çerkessk şehrinin idari statüsündeki ve ismindeki değişimler, Karaçay-Çerkes Özerk Oblastı'nın gelişiminde ve günümüzdeki cumhuriyet başkenti konumuna ulaşmasında nasıl bir süreç izlemiştir?",
+        "answer": "Çerkessk, başlangıçta 1804 yılında Batalpaşinsk adıyla bir Rus askeri kalesi olarak kurulmuştur. 1931'de kent statüsü kazandıktan sonra sırasıyla Sulimov (1934), Ejovo-Çerkessk (1937) ve nihayet Çerkessk (1939) adlarını almıştır. Kent, 1922-1926 yılları arasında Karaçay-Çerkes Özerk Oblastı'nın, 1926'da Çerkes Ulusal Okruğu'nun ve 1928-1957 yılları arasında da Çerkes Özerk Oblastı'nın merkezi olmuştur. 1956'da Karaçayların geri dönmesiyle eski Karaçay-Çerkes Özerk Oblastı toprakları 1957'de yeniden birleştirilmiş ve Çerkessk bu yeniden canlandırılan oblastın merkezi olarak hizmet vermiştir. Oblastın 1991'de cumhuriyet statüsü kazanmasıyla Çerkessk, Karaçay-Çerkes Cumhuriyeti'nin başkenti haline gelmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

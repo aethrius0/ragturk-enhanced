@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "ubvfotometriksistemi_47cf2d34",
+    "title": "UBV fotometrik sistemi",
+    "url": "https://tr.wikipedia.org/wiki/UBV_fotometrik_sistemi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:36.730892",
+    "content": "UBV fotometrik sistemi (açılımı: Ultraviolet, Blue, Visual; Türkçe: Ultraviyole Mavi Görsel) veya Johnson sistemi (ya da Johnson-Morgan sistemi), elektromanyetik spektrumun geniş bir merkezi bandıdır ve genellikle yıldızları renklerine göre sınıflandırmak için kullanılır. Bilinen ilk standartlaştırılmış fotometrik sistemdir. U, B ve V harfleri bir yıldız için ölçülen ultraviyole, mavi ve görsel büyüklükleri temsil eder; daha sonra bu sistem tarafından verilen daha teknik, formülsel değerlerde sınıflandırmak için belirli bir sırayla iki çıkarma gerçekleştirilir. Böylelikle, insan gözü bu dalga boylarının ilk iki grubunu görüntülemek için daha az belirgin olana odaklanabilir. Bu da, görünürdeki (veya mesafe için ayarlandığında) mutlak büyüklükteki değerler ile maksimum konsantrasyon sağlar. UBV fotometrik sistemi, 1950'lerde Amerikalı Harold Lester Johnson ve William Wilson Morgan tarafından tanıtıldı. Bir 330mm teleskop ve sistemin tanımlanması için McDonald Gözlemevi'ndeki bulunan bir 2100mm teleskop kullanılmıştır. Filtreler, yanıt fonksiyonlarının ortalama dalga boylarının (büyüklüklerin kesinlik anlamında ölçüldüğü) 364 olacağı şekilde seçilir. B - V (B eksi V) ve U − B (U eksi B) yıldızlararası kızarmadan etkilenmeyen bir tür A0 ana dizi yıldızlarını gruplayan renk endeksleridir. Bu yıldızların ortalama etkin sıcaklığı (T eff (K)) 9727 ile 9790 Kelvin arasında olup, sonuncusu A0 V (V, beş anlamına gelir) sınıfındadır. Sistemin önemli bir sınır dezavantajı vardır. U filtresinin en kısa sınırı olan kısa dalga boyu kesilmesi, filtrenin kendisi yerine herhangi bir karasal atmosfer tarafından belirlenir; bu nedenle gözlemlenen büyüklükler esas olarak rakım ve atmosferik suya (nem artı bulutlara yoğunlaşma) göre değişir. Ancak bu sistemde binlerce parlak yıldız da dahil olmak üzere birçok ölçüm yapılmıştır. == Uzantılar == Johnson- Cousins UBVRI fotometrik sistemi, Johnson'ın orijinal sisteminin iki kırmızı geçiş bandına yaygın bir uzantısıdır. == Ayrıca bakınız == Fotometrik Sistem Yıldız sınıflandırması Ultraviyole == Kaynakça ve Notlar == Kaynakça Notlar",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 278,
+      "char_count": 2091,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.938203",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "UBV fotometrik sistemi (açılımı: Ultraviolet, Blue, Visual; Türkçe: Ultraviyole Mavi Görsel) veya Johnson sistemi (ya da Johnson-Morgan sistemi), elektromanyetik spektrumun geniş bir merkezi bandıdır ve genellikle yıldızları renklerine göre sınıflandırmak için kullanılır. Bilinen ilk standartlaştırılmış fotometrik sistemdir. U, B ve V harfleri bir yıldız için ölçülen ultraviyole, mavi ve görsel büyüklükleri temsil eder; daha sonra bu sistem tarafından verilen daha teknik, formülsel değerlerde sınıflandırmak için belirli bir sırayla iki çıkarma gerçekleştirilir. Böylelikle, insan gözü bu dalga boylarının ilk iki grubunu görüntülemek için daha az belirgin olana odaklanabilir. Bu da, görünürdeki (veya mesafe için ayarlandığında) mutlak büyüklükteki değerler ile maksimum konsantrasyon sağlar. UBV fotometrik sistemi, 1950'lerde Amerikalı Harold Lester Johnson ve William Wilson Morgan tarafından tanıtıldı. Bir 330mm teleskop ve sistemin tanımlanması için McDonald Gözlemevi'ndeki bulunan bir ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "UBV fotometrik sistemi, 1950'lerde Amerikalı Harold Lester Johnson ve William Wilson Morgan tarafından tanıtıldı. Bir 330mm teleskop ve sistemin tanımlanması için McDonald Gözlemevi'ndeki bulunan bir 2100mm teleskop kullanılmıştır. Filtreler, yanıt fonksiyonlarının ortalama dalga boylarının (büyüklüklerin kesinlik anlamında ölçüldüğü) 364 olacağı şekilde seçilir. B - V (B eksi V) ve U − B (U eksi B) yıldızlararası kızarmadan etkilenmeyen bir tür A0 ana dizi yıldızlarını gruplayan renk endeksleridir. Bu yıldızların ortalama etkin sıcaklığı (T eff (K)) 9727 ile 9790 Kelvin arasında olup, sonuncusu A0 V (V, beş anlamına gelir) sınıfındadır. Sistemin önemli bir sınır dezavantajı vardır. U filtresinin en kısa sınırı olan kısa dalga boyu kesilmesi, filtrenin kendisi yerine herhangi bir karasal atmosfer tarafından belirlenir; bu nedenle gözlemlenen büyüklükler esas olarak rakım ve atmosferik suya (nem artı bulutlara yoğunlaşma) göre değişir. Ancak bu sistemde binlerce parlak yıldız da dahil o",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1836,
+      "content": "tmosfer tarafından belirlenir; bu nedenle gözlemlenen büyüklükler esas olarak rakım ve atmosferik suya (nem artı bulutlara yoğunlaşma) göre değişir. Ancak bu sistemde binlerce parlak yıldız da dahil olmak üzere birçok ölçüm yapılmıştır.",
+      "char_count": 236,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0003",
+      "section": "== Uzantılar ==",
+      "heading_path": "== Uzantılar ==",
+      "start_char": 1837,
+      "end_char": 1977,
+      "content": "== Uzantılar == Johnson- Cousins UBVRI fotometrik sistemi, Johnson'ın orijinal sisteminin iki kırmızı geçiş bandına yaygın bir uzantısıdır.",
+      "char_count": 139,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1977,
+      "end_char": 2051,
+      "content": "== Ayrıca bakınız == Fotometrik Sistem Yıldız sınıflandırması Ultraviyole",
+      "char_count": 73,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0005",
+      "section": "== Kaynakça ve Notlar ==",
+      "heading_path": "== Kaynakça ve Notlar ==",
+      "start_char": 2051,
+      "end_char": 2091,
+      "content": "== Kaynakça ve Notlar == Kaynakça Notlar",
+      "char_count": 40,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "UBV fotometrik sistemi kimler tarafından ve ne zaman tanıtıldı?",
+        "answer": "UBV fotometrik sistemi, 1950'lerde Amerikalı Harold Lester Johnson ve William Wilson Morgan tarafından tanıtıldı.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "UBV fotometrik sisteminin temel amacı nedir ve özellikle ultraviyole gözlemleriyle ilgili önemli bir sınırlaması hangi faktörden kaynaklanmaktadır?",
+        "answer": "UBV fotometrik sisteminin temel amacı, yıldızları renklerine göre sınıflandırmak için ultraviyole, mavi ve görsel büyüklükleri ölçerek B-V ve U-B gibi renk indeksleri oluşturmaktır; bu indeksler A0 ana dizi yıldızları gibi grupları ayırmada kullanılır. Sistemin önemli bir sınırlaması, U filtresinin kısa dalga boyu kesiminin filtrenin kendisinden ziyade herhangi bir karasal atmosfer tarafından belirlenmesi ve bu durumun gözlemlenen büyüklükleri rakım ve atmosferik suya göre değiştirmesidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

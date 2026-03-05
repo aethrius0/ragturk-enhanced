@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "pfyn_70272bee",
+    "title": "Pfyn",
+    "url": "https://tr.wikipedia.org/wiki/Pfyn",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:28.408650",
+    "content": "Pfyn, Thurgau kantonunda, Thur nehri kıyısında yer alır. Bölgede yerleşim izleri Neolitik Çağ’a kadar uzanır. **Pfyner Kültürü** (yaklaşık MÖ 4000–3500) adını Pfyn’deki Pfahlbau (kazık ev) yerleşiminden alır. Roma döneminde Pfyn’de **Ad Fines** adında bir kale (kastell) bulunuyordu. Bu kale sınır koruması görevini üstlenmişti. Bugün hâlen geç antik döneme ait sur kalıntıları görülebilir. Orta Çağ’da Pfyn, farklı soylu ailelerin yönetimindeydi. 15. yüzyılda Holzhausen ve Mötteli von Rappenstein aileleri burada hüküm sürmüştür. 1803’teki düzenlemelerle Pfyn, resmî bir belediye haline geldi. Günümüzde de siyasi ve idari olarak bu statüsünü sürdürmektedir. == Coğrafya ve Ulaşım == Belediye, yaklaşık **13,06 km²** alana sahiptir. En yüksek noktası 580 m, en düşük noktası ise 398 m rakımdadır. Pfyn, Frauenfeld ile Steckborn arasında yer alır. Karayolu bağlantılarının yanı sıra kantonal otobüs hatlarıyla Frauenfeld ve çevre belediyelere ulaşım sağlanmaktadır. == Yönetim == Pfyn, Frauenfeld ilçesine bağlı siyasi bir belediyedir. Belediye idaresi Pfyn merkezinde yer almaktadır. 2024 yılı itibarıyla nüfusu yaklaşık **2.246** kişidir. Bunun 407’sini yabancı uyruklular oluşturmaktadır. == Ekonomi == Yerleşimde tarım ve orman işleri önemli olmakla birlikte, halkın büyük bir kısmı sanayi, inşaat ve hizmet sektöründe çalışmaktadır. Belediye sınırları içindeki **VSP-Areal** sanayi ve depolama bölgesi, yerel ekonomide önemli bir rol oynamaktadır. == Kültür ve Turizm == **Pfyn-Breitenloo** kazık ev yerleşimi – Pfyner kültürünün en önemli arkeolojik alanıdır. Roma kalesi **Ad Fines** – günümüzde hâlâ görülebilen sur kalıntılarına sahiptir. **St. Bartholomäus Simultankirche** – bölgedeki önemli tarihi kiliselerden biridir. Ayrıca Thur nehri kıyıları, çevredeki ormanlık alanlar ve Frankrichli göleti, yürüyüş ve doğa turizmi için olanaklar sunmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 249,
+      "char_count": 1877,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.688995",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 661,
+      "content": "Pfyn, Thurgau kantonunda, Thur nehri kıyısında yer alır. Bölgede yerleşim izleri Neolitik Çağ’a kadar uzanır. **Pfyner Kültürü** (yaklaşık MÖ 4000–3500) adını Pfyn’deki Pfahlbau (kazık ev) yerleşiminden alır. Roma döneminde Pfyn’de **Ad Fines** adında bir kale (kastell) bulunuyordu. Bu kale sınır koruması görevini üstlenmişti. Bugün hâlen geç antik döneme ait sur kalıntıları görülebilir. Orta Çağ’da Pfyn, farklı soylu ailelerin yönetimindeydi. 15. yüzyılda Holzhausen ve Mötteli von Rappenstein aileleri burada hüküm sürmüştür. 1803’teki düzenlemelerle Pfyn, resmî bir belediye haline geldi. Günümüzde de siyasi ve idari olarak bu statüsünü sürdürmektedir.",
+      "char_count": 660,
+      "token_estimate": 165
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ve Ulaşım ==",
+      "heading_path": "== Coğrafya ve Ulaşım ==",
+      "start_char": 661,
+      "end_char": 967,
+      "content": "== Coğrafya ve Ulaşım == Belediye, yaklaşık **13,06 km²** alana sahiptir. En yüksek noktası 580 m, en düşük noktası ise 398 m rakımdadır. Pfyn, Frauenfeld ile Steckborn arasında yer alır. Karayolu bağlantılarının yanı sıra kantonal otobüs hatlarıyla Frauenfeld ve çevre belediyelere ulaşım sağlanmaktadır.",
+      "char_count": 305,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0002",
+      "section": "== Yönetim ==",
+      "heading_path": "== Yönetim ==",
+      "start_char": 967,
+      "end_char": 1193,
+      "content": "== Yönetim == Pfyn, Frauenfeld ilçesine bağlı siyasi bir belediyedir. Belediye idaresi Pfyn merkezinde yer almaktadır. 2024 yılı itibarıyla nüfusu yaklaşık **2.246** kişidir. Bunun 407’sini yabancı uyruklular oluşturmaktadır.",
+      "char_count": 225,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0003",
+      "section": "== Ekonomi ==",
+      "heading_path": "== Ekonomi ==",
+      "start_char": 1193,
+      "end_char": 1454,
+      "content": "== Ekonomi == Yerleşimde tarım ve orman işleri önemli olmakla birlikte, halkın büyük bir kısmı sanayi, inşaat ve hizmet sektöründe çalışmaktadır. Belediye sınırları içindeki **VSP-Areal** sanayi ve depolama bölgesi, yerel ekonomide önemli bir rol oynamaktadır.",
+      "char_count": 260,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0004",
+      "section": "== Kültür ve Turizm ==",
+      "heading_path": "== Kültür ve Turizm ==",
+      "start_char": 1454,
+      "end_char": 1863,
+      "content": "== Kültür ve Turizm == **Pfyn-Breitenloo** kazık ev yerleşimi – Pfyner kültürünün en önemli arkeolojik alanıdır. Roma kalesi **Ad Fines** – günümüzde hâlâ görülebilen sur kalıntılarına sahiptir. **St. Bartholomäus Simultankirche** – bölgedeki önemli tarihi kiliselerden biridir. Ayrıca Thur nehri kıyıları, çevredeki ormanlık alanlar ve Frankrichli göleti, yürüyüş ve doğa turizmi için olanaklar sunmaktadır.",
+      "char_count": 408,
+      "token_estimate": 102
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Pfyner Kültürü, adını nereden almaktadır?",
+        "answer": "Pfyn’deki Pfahlbau (kazık ev) yerleşiminden almaktadır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Roma dönemindeki Ad Fines kalesinin sınır koruma görevi, Pfyn'in günümüzde Frauenfeld ve Steckborn arasında yer alması ve sahip olduğu ulaşım bağlantılarıyla nasıl bir ilişki içindedir?",
+        "answer": "Roma döneminde Ad Fines kalesinin sınır koruma görevi, Pfyn'in tarihsel olarak stratejik bir noktada yer aldığını göstermektedir. Günümüzde de Frauenfeld ile Steckborn arasında bir konumda bulunması ve karayolu bağlantılarının yanı sıra kantonal otobüs hatlarıyla çevre belediyelere ulaşım sağlaması, bu stratejik geçiş ve bağlantı noktası özelliğinin güncel bir yansıması olarak değerlendirilebilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

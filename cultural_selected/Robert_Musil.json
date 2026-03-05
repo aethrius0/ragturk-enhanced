@@ -1,0 +1,144 @@
+{
+  "article": {
+    "id": "robertmusil_3fe4c154",
+    "title": "Robert Musil",
+    "url": "https://tr.wikipedia.org/wiki/Robert_Musil",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:11.898546",
+    "content": "Robert Musil (6 Kasım 1880 - 15 Nisan 1942), Avusturyalı romancı, hikâyeci ve deneme yazarı. 20. yüzyılın en önemli romancılarından ve roman türüne özgün katkıları kuşku götürmez yazarlarındandır. Başyapıtı Niteliksiz Adam yarım kalmasına rağmen James Joyce'un Ulysses ve Marcel Proust'un Kayıp Zamanın İzinde adlı dev eserleriyle birlikte modern romanın zirvesini oluşturur. == Hayatı == Tam adı Robert Edler Von Musil'dir. 1880 yılında Klagenfurt'ta doğdu, 1942'de Cenevre'de öldü. Öğrenim hayatı, tıpkı Kafka'da olduğu gibi, babasının isteği doğrultusunda geçmiş, babasının istediği okullarda okumuş ve yine onun isteği üzerine makine mühendisi olmuştur. Daha sonra Berlin Üniversitesi'nde felsefe, psikoloji, matematik ve fizik okuyarak psikoloji alanında doktora yaptı. Henüz 26 yaşındayken yayımladığı Genç Törless adlı romanı ile birdenbire eleştirmenlerin dikkatini çekmiş, kendini tamamen yazarlığa vererek dönemin önemli üniversitelerinden gelen asistanlık tekliflerini geri çevirmiştir. Edebiyatta, özellikle biçimi ön plana çıkaran yazarları eleştirmiş \"sanat sanat için değil, sanat hayat içindir\" anlayışını savunmuştur. Tüm edebi yaşamı boyunca sosyal ve toplumsal sorunlarla uğraşmış, bunları romanına ustalıkla yerleştirmesini bilmiştir. 1930 yılında ilk cildi yayımlanan başyapıtı Niteliksiz Adam ile hayatı boyunca uğraşmasına rağmen çeşitli sebeplerden dolayı bir türlü bitirememiş, özellikle üsluba verdiği önem nedeniyle bazı bölümlerini defalarca yazmıştır.Bu eserinde, I. Dünya Savaşı öncesi ve sonrasının kültürel uyuşmazlığını, güvensizliklerini, kırgınlıklarını büyük bir ustalıkla yansıtır. Gerek eserlerinin derinliği, gerek sanata bakışı ve gerekse yapıtlarının sanatsal nitelikleriyle Musil, 20. yüzyılın en büyük Alman romancılarından biri olmasının yanında, modern romanın da temel taşlarından biridir. Adı okurlar tarafından pek duyulmasa da eleştirmenlerce genellikle Franz Kafka, James Joyce, Marcel Proust ve Virginia Woolf gibi modern romanın önemli isimleriyle birlikte anılır. En önemli eseri olan Niteliksiz Adam yarım kalmış olmasına rağmen dünya edebiyatının anıt romanlarından biridir. Çağdaş romanın oluşumunda önemli katkıları vardır. == Eserleri == \"Der junge Törless\" = Genç Törless 1906 \"Die Vereinigungen\" = Birleşimler 1911 \"Die Schwaermer\" = Hayal Kuranlar 1921 \"Die Portugiesin\" = Portekizli Kadın 1923 \"Drei Frauen\" = Üç Kadın 1924 \"Der Mann Ohne Eigenschaften\" = Niteliksiz Adam 1930 \"Über Die Dummheit\" = Konuşmalar 1937 \"Der Deutsche Mensch Als Symptom\" = Belirti olarak Alman İnsanı 1967",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 332,
+      "char_count": 2545,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.478044",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 376,
+      "content": "Robert Musil (6 Kasım 1880 - 15 Nisan 1942), Avusturyalı romancı, hikâyeci ve deneme yazarı. 20. yüzyılın en önemli romancılarından ve roman türüne özgün katkıları kuşku götürmez yazarlarındandır. Başyapıtı Niteliksiz Adam yarım kalmasına rağmen James Joyce'un Ulysses ve Marcel Proust'un Kayıp Zamanın İzinde adlı dev eserleriyle birlikte modern romanın zirvesini oluşturur.",
+      "char_count": 375,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 376,
+      "end_char": 1376,
+      "content": "== Hayatı == Tam adı Robert Edler Von Musil'dir. 1880 yılında Klagenfurt'ta doğdu, 1942'de Cenevre'de öldü. Öğrenim hayatı, tıpkı Kafka'da olduğu gibi, babasının isteği doğrultusunda geçmiş, babasının istediği okullarda okumuş ve yine onun isteği üzerine makine mühendisi olmuştur. Daha sonra Berlin Üniversitesi'nde felsefe, psikoloji, matematik ve fizik okuyarak psikoloji alanında doktora yaptı. Henüz 26 yaşındayken yayımladığı Genç Törless adlı romanı ile birdenbire eleştirmenlerin dikkatini çekmiş, kendini tamamen yazarlığa vererek dönemin önemli üniversitelerinden gelen asistanlık tekliflerini geri çevirmiştir. Edebiyatta, özellikle biçimi ön plana çıkaran yazarları eleştirmiş \"sanat sanat için değil, sanat hayat içindir\" anlayışını savunmuştur. Tüm edebi yaşamı boyunca sosyal ve toplumsal sorunlarla uğraşmış, bunları romanına ustalıkla yerleştirmesini bilmiştir. 1930 yılında ilk cildi yayımlanan başyapıtı Niteliksiz Adam ile hayatı boyunca uğraşmasına rağmen çeşitli sebeplerden dol",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1176,
+      "end_char": 2176,
+      "content": "sal sorunlarla uğraşmış, bunları romanına ustalıkla yerleştirmesini bilmiştir. 1930 yılında ilk cildi yayımlanan başyapıtı Niteliksiz Adam ile hayatı boyunca uğraşmasına rağmen çeşitli sebeplerden dolayı bir türlü bitirememiş, özellikle üsluba verdiği önem nedeniyle bazı bölümlerini defalarca yazmıştır.Bu eserinde, I. Dünya Savaşı öncesi ve sonrasının kültürel uyuşmazlığını, güvensizliklerini, kırgınlıklarını büyük bir ustalıkla yansıtır. Gerek eserlerinin derinliği, gerek sanata bakışı ve gerekse yapıtlarının sanatsal nitelikleriyle Musil, 20. yüzyılın en büyük Alman romancılarından biri olmasının yanında, modern romanın da temel taşlarından biridir. Adı okurlar tarafından pek duyulmasa da eleştirmenlerce genellikle Franz Kafka, James Joyce, Marcel Proust ve Virginia Woolf gibi modern romanın önemli isimleriyle birlikte anılır. En önemli eseri olan Niteliksiz Adam yarım kalmış olmasına rağmen dünya edebiyatının anıt romanlarından biridir. Çağdaş romanın oluşumunda önemli katkıları var",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1976,
+      "end_char": 2180,
+      "content": "anın önemli isimleriyle birlikte anılır. En önemli eseri olan Niteliksiz Adam yarım kalmış olmasına rağmen dünya edebiyatının anıt romanlarından biridir. Çağdaş romanın oluşumunda önemli katkıları vardır.",
+      "char_count": 204,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0004",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 2181,
+      "end_char": 2216,
+      "content": "== Eserleri == \"Der junge Törless\"",
+      "char_count": 34,
+      "token_estimate": 8
+    },
+    {
+      "id": "c0005",
+      "section": "= Genç Törless 1906 \"Die Vereinigungen\" =",
+      "heading_path": "= Genç Törless 1906 \"Die Vereinigungen\" =",
+      "start_char": 2216,
+      "end_char": 2292,
+      "content": "= Genç Törless 1906 \"Die Vereinigungen\" = Birleşimler 1911 \"Die Schwaermer\"",
+      "char_count": 75,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0006",
+      "section": "= Hayal Kuranlar 1921 \"Die Portugiesin\" =",
+      "heading_path": "= Hayal Kuranlar 1921 \"Die Portugiesin\" =",
+      "start_char": 2292,
+      "end_char": 2370,
+      "content": "= Hayal Kuranlar 1921 \"Die Portugiesin\" = Portekizli Kadın 1923 \"Drei Frauen\"",
+      "char_count": 77,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0007",
+      "section": "= Üç Kadın 1924 \"Der Mann Ohne Eigenschaften\" =",
+      "heading_path": "= Üç Kadın 1924 \"Der Mann Ohne Eigenschaften\" =",
+      "start_char": 2370,
+      "end_char": 2459,
+      "content": "= Üç Kadın 1924 \"Der Mann Ohne Eigenschaften\" = Niteliksiz Adam 1930 \"Über Die Dummheit\"",
+      "char_count": 88,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0008",
+      "section": "= Konuşmalar 1937 \"Der Deutsche Mensch Als Symptom\" =",
+      "heading_path": "= Konuşmalar 1937 \"Der Deutsche Mensch Als Symptom\" =",
+      "start_char": 2459,
+      "end_char": 2545,
+      "content": "= Konuşmalar 1937 \"Der Deutsche Mensch Als Symptom\" = Belirti olarak Alman İnsanı 1967",
+      "char_count": 86,
+      "token_estimate": 21
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Robert Musil'in tam adı nedir?",
+        "answer": "Robert Edler Von Musil",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Robert Musil'in eğitim ve kariyer seçimlerinin, edebi felsefesinin ve Niteliksiz Adam'ın yarım kalmışlığının 20. yüzyıl modern romanındaki yerini nasıl etkilediği söylenebilir?",
+        "answer": "Musil'in babasının isteğiyle başladığı mühendislik eğitimini bırakıp felsefe ve psikolojiye yönelerek kendini tamamen yazarlığa adaması, onun entelektüel derinliğini ve toplumsal sorunlara olan ilgisini beslemiştir. \"Sanat hayat içindir\" anlayışıyla eserlerinde sosyal ve toplumsal sorunlara ustalıkla yer vermesi, başyapıtı Niteliksiz Adam'ın I. Dünya Savaşı öncesi ve sonrası kültürel uyuşmazlıkları ve güvensizlikleri yansıtmasını sağlamıştır. Niteliksiz Adam'ın üsluba verdiği önem ve çeşitli sebeplerle yarım kalmasına rağmen, James Joyce ve Marcel Proust gibi yazarların eserleriyle birlikte modern romanın zirvesini ve temel taşlarından birini oluşturması, onun 20. yüzyıl edebiyatındaki özgün ve önemli yerini pekiştirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

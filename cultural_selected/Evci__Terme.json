@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "evciterme_dd19acc4",
+    "title": "Evci, Terme",
+    "url": "https://tr.wikipedia.org/wiki/Evci%2C_Terme",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:36.984796",
+    "content": "Evci, Samsun ili Terme ilçesine bağlı bir mahalledir. == Tarih == Evci Kasabasının ilk yerleşim yeri şimdiki çeltik tarlalarının olduğu kuzey kesimde bulunan ve Doğan Evci olarak adlandırılan yerdir. Su nakil kanalları açılmadan önce bataklık görünümünde olan bu arazi çok sayıda sıtma hastalığını taşıyan sivrisinek barındırdığı için yerleşimler Canik Dağları'na doğru yapılmıştır. 03.05.1970 tarihinde Terme'de ilk Belde statüsü almış yerleşim birimidir. Toplam 7 mahallesi vardır. == Belde başkanları == 1970 - 1989 İsmet Aslan 1989 - 1994 Ramadan Kara 1995 - 2004 Ali Zorlu 2004 - 2014 Mustafa Gökçe == Nüfus == 1990 yılında; 3.810, 2000 yılında; 4.906'dir. Adrese dayalı 2007 Nüfus sayımına göre ise; 3.433 kişi 2008'de ise; 3.424 2009 yılında ; 3.312 'dir. Beldenin nüfusu azalmaktadır. Nüfusuna göre Termenin ikinci büyük beldesidir. Belde sınırları içerisinde sadece Miliç Mahallesinin nüfusu artmakta. == Coğrafya == Belde Terme'ye 10 km Samsun il merkezine 68 km mesafededir. Beldeye giriş güzergâhı Miliç Mahallesi üzerindendir. Beldenin Miliç mahallesi gelişmeye daha müsaittir. Çünkü Miliç mahallesi Karadeniz Sahil Yolu üzerinde ve Evciye nazaran Düzenlik arazi yapısına sahiptir. Evci Beldesinin ise, Karadeniz Sahil yoluna uzaklığı 3 km'dir, merkezi dağınınıktır. Ayrıca Beldenin sınırları içerisinde yerleşen Terme Devlet Hastanesi, Karakol, Fabrikalar v.s önemli yatırımlar Miliç Mahallesinde yerleşmekte. == Dış bağlantılar == Beldenin resmi veb saytı www.evci.bel.tr. dır",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 208,
+      "char_count": 1491,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.977931",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 54,
+      "content": "Evci, Samsun ili Terme ilçesine bağlı bir mahalledir.",
+      "char_count": 53,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 54,
+      "end_char": 484,
+      "content": "== Tarih == Evci Kasabasının ilk yerleşim yeri şimdiki çeltik tarlalarının olduğu kuzey kesimde bulunan ve Doğan Evci olarak adlandırılan yerdir. Su nakil kanalları açılmadan önce bataklık görünümünde olan bu arazi çok sayıda sıtma hastalığını taşıyan sivrisinek barındırdığı için yerleşimler Canik Dağları'na doğru yapılmıştır. 03.05.1970 tarihinde Terme'de ilk Belde statüsü almış yerleşim birimidir. Toplam 7 mahallesi vardır.",
+      "char_count": 429,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0002",
+      "section": "== Belde başkanları ==",
+      "heading_path": "== Belde başkanları ==",
+      "start_char": 484,
+      "end_char": 604,
+      "content": "== Belde başkanları == 1970 - 1989 İsmet Aslan 1989 - 1994 Ramadan Kara 1995 - 2004 Ali Zorlu 2004 - 2014 Mustafa Gökçe",
+      "char_count": 119,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0003",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 604,
+      "end_char": 911,
+      "content": "== Nüfus == 1990 yılında; 3.810, 2000 yılında; 4.906'dir. Adrese dayalı 2007 Nüfus sayımına göre ise; 3.433 kişi 2008'de ise; 3.424 2009 yılında ; 3.312 'dir. Beldenin nüfusu azalmaktadır. Nüfusuna göre Termenin ikinci büyük beldesidir. Belde sınırları içerisinde sadece Miliç Mahallesinin nüfusu artmakta.",
+      "char_count": 306,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0004",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 911,
+      "end_char": 1424,
+      "content": "== Coğrafya == Belde Terme'ye 10 km Samsun il merkezine 68 km mesafededir. Beldeye giriş güzergâhı Miliç Mahallesi üzerindendir. Beldenin Miliç mahallesi gelişmeye daha müsaittir. Çünkü Miliç mahallesi Karadeniz Sahil Yolu üzerinde ve Evciye nazaran Düzenlik arazi yapısına sahiptir. Evci Beldesinin ise, Karadeniz Sahil yoluna uzaklığı 3 km'dir, merkezi dağınınıktır. Ayrıca Beldenin sınırları içerisinde yerleşen Terme Devlet Hastanesi, Karakol, Fabrikalar v.s önemli yatırımlar Miliç Mahallesinde yerleşmekte.",
+      "char_count": 512,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1424,
+      "end_char": 1491,
+      "content": "== Dış bağlantılar == Beldenin resmi veb saytı www.evci.bel.tr. dır",
+      "char_count": 67,
+      "token_estimate": 16
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Miliç Mahallesi'nin gelişmeye daha müsait olmasının nedenleri nelerdir?",
+        "answer": "Miliç Mahallesi, Karadeniz Sahil Yolu üzerinde yer almakta, Evci'ye nazaran düzenli arazi yapısına sahip olmakta ve Terme Devlet Hastanesi, Karakol, fabrikalar gibi önemli yatırımlara ev sahipliği yapmaktadır.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "INTERPRETATION"
+      },
+      {
+        "question": "Evci'nin Samsun ili Terme ilçesindeki mevcut idari tanımı nedir ve Terme ilçesinde ilk Belde statüsünü ne zaman kazanmıştır?",
+        "answer": "Evci, Samsun ili Terme ilçesine bağlı bir mahalledir. Terme'de ilk Belde statüsünü 03.05.1970 tarihinde kazanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "article": {
+    "id": "ntersitisyelnefrit_f6662b2a",
+    "title": "İntersitisyel nefrit",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0ntersitisyel_nefrit",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:47.048926",
+    "content": "İntersitisyel nefrit (veya tübülo-intersitisyel nefrit) böbrek tübüllerini çevreleyen intersitisyumunu etkileyen bir nefrit türüdür. Bu hastalık akut, yani aniden veya kronik, yani yavaş seyirli olarak gelişip devam eden ve böbrek yetmezliğiyle sonuçlanan tablolar halinde ortaya çıkabilir. == Nedenleri == Sık görülen sebepleri arasında enfeksiyon veya analjezikler veya metisilin gibi antibiyotik türleri yüzünden ortaya çıkan ilaç yan etkiler sayılabilir. İlaç reaksiyonları vakaların %71'i ila %92'sinin sebebi durumundadır. == Tanı == Bazen hastalık hiçbir semptom göstermeyebilir. Ama ortaya çıkabilecek semptomlar da çok çeşitlidir ve hızlı veya yavaş olarak gelişebilirler. Akut tübülointersitisyel nefrit alerjik bir tepki sebebiyle ortaya çıkartsa semptomları ateş (hastaların %27'si), döküntü (hastaların %15'i) ve büyümüş böbrekler olacaktır. Bazı hastaların dizüri(idrar yaparken yanma), yan ağrısı şikayetleri de olabilir. Kronik tübülointersitisyel nefrit hastalarının bulantı, kusma, halsizlik ve kilo kaybı gibi semptomları olur. Hiperkalemi, metabolik asidoz ve böbrek yetmezliği de ortaya çıkabilecek diğer durumlar arasındadır. === Kan tetkikleri === Hastaların %23'ünün kan değerlerinde eozinofili, yani eozinofil hücre artışı mevcuttur. === İdrar tetkikleri === İdrar tetkiklerinde ortaya çıkabilecek bulgular şunlardır:Eozinofilüri: Eğer AİN tablosunun sebebinin metisilin kaynaklı AİN olduğu düşünülüyorsa duyarlılığı %67, özgüllüğü de %83 olan bir tanı kriteridir. Bu kriterin sensitivitesi metisilin kaynaklı AİN tablolarında ve Hansel boyası'nın kullanıldığı durumlarda daha yüksektir. Ancak son çalışmalar bu testin doğruluğua dair soru işaretleri oluşturmuştur. Yeni bir çalışma idrar eozinofil testinin sensitivitesinin %35,6, spesifitesinin de %68 olduğunu göstermiştir. İzotenüri === Galyum tarama === Anormal galyum taramalarının duyarlılığının %60 ila %100 olduğu bildirilmiştir. == Tedavi == Tedavi hedefe yönelik olmalıdır. Mesela tablonun sebebinin bir ilaç olduğu düşünülüyorsa ilacın kullanımı sonlandırılmalıdır. Kortikosteroidlerin tedavide etkili olduğuna dair hiçbir kesin kanıt yoktur. Beslenme tedavisi yönünden yeterli sıvı alımına dikkat edilmeli, hastalara her gün normal tüketimlerinden birkaç litre daha fazla sıvı verilmelidir. == Hastalık seyri == Tübülointersitisyel nefritten doğrudan zarar gören tek organ sistemi böbreklerdir. Böbrek fonksiyonları genellikle azalmıştır ancak bu azalma hafif fonksiyon kaybı şeklinde de böbrek yetmezliği şeklinde de olabilir. Kronik tübülointersitisyel nefrit tablosunda görülen en ciddi uzun vadeli zarar böbrek yetmezliğidir. Proksimal tübüller zarar gördüğünde bikarbonat geri emiliminin azalması kandaki bikrarbonatın azalmasına ve metabolik asidoz tablosuna sebep olur. Bunun dışında potasyum, ürik asit ve fosfat geri elimiminin azalması sebebiyle sırasıyla hipokalemi, hipoürisemi ve hipofosfatemi tabloları ortaya çıkar. Distal tübül hasarı da böbreğin idrar yoğunlaştırma fonksiyonunda kayba sebep olarak poliüriye sebep olur. Çoğu akut tübülointersitisyel nefrit vakasında zararlı ilacın sonlandırılması veya altta yatan başka sebeplerin tedavi edilmesi sonrasında böbrek fonksiyonları geri döner. Hastalık alerjik tepki sebebiyle ortaya çıktıysa kortikosteroid böbrek fonksiyonlarının geri dönmesini hızlandırabilir ancak alerjik sebepli AİN tablosuna pek sık rastlanmaz. Kronik tübülointersitisyel nefritin tedavisi yoktur. Bazı hastalar için diyaliz ihtiyacı ortaya çıkabilir. Zaman içerisinde hastalar böbrek nakline gitmek zorunda kalır. == Kaynakça == == Dış bağlantılar == The Merck Manual Hasta Belirtileri Pratik Tanı ve Tedavi Rehberi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 448,
+      "char_count": 3644,
+      "num_chunks": 10,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.462280",
+    "total_chunks": 10,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 291,
+      "content": "İntersitisyel nefrit (veya tübülo-intersitisyel nefrit) böbrek tübüllerini çevreleyen intersitisyumunu etkileyen bir nefrit türüdür. Bu hastalık akut, yani aniden veya kronik, yani yavaş seyirli olarak gelişip devam eden ve böbrek yetmezliğiyle sonuçlanan tablolar halinde ortaya çıkabilir.",
+      "char_count": 290,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0001",
+      "section": "== Nedenleri ==",
+      "heading_path": "== Nedenleri ==",
+      "start_char": 291,
+      "end_char": 529,
+      "content": "== Nedenleri == Sık görülen sebepleri arasında enfeksiyon veya analjezikler veya metisilin gibi antibiyotik türleri yüzünden ortaya çıkan ilaç yan etkiler sayılabilir. İlaç reaksiyonları vakaların %71'i ila %92'sinin sebebi durumundadır.",
+      "char_count": 237,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0002",
+      "section": "== Tanı ==",
+      "heading_path": "== Tanı ==",
+      "start_char": 529,
+      "end_char": 1148,
+      "content": "== Tanı == Bazen hastalık hiçbir semptom göstermeyebilir. Ama ortaya çıkabilecek semptomlar da çok çeşitlidir ve hızlı veya yavaş olarak gelişebilirler. Akut tübülointersitisyel nefrit alerjik bir tepki sebebiyle ortaya çıkartsa semptomları ateş (hastaların %27'si), döküntü (hastaların %15'i) ve büyümüş böbrekler olacaktır. Bazı hastaların dizüri(idrar yaparken yanma), yan ağrısı şikayetleri de olabilir. Kronik tübülointersitisyel nefrit hastalarının bulantı, kusma, halsizlik ve kilo kaybı gibi semptomları olur. Hiperkalemi, metabolik asidoz ve böbrek yetmezliği de ortaya çıkabilecek diğer durumlar arasındadır.",
+      "char_count": 618,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0003",
+      "section": "=== Kan tetkikleri ===",
+      "heading_path": "=== Kan tetkikleri ===",
+      "start_char": 1148,
+      "end_char": 1259,
+      "content": "=== Kan tetkikleri === Hastaların %23'ünün kan değerlerinde eozinofili, yani eozinofil hücre artışı mevcuttur.",
+      "char_count": 110,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0004",
+      "section": "=== İdrar tetkikleri ===",
+      "heading_path": "=== İdrar tetkikleri ===",
+      "start_char": 1259,
+      "end_char": 1812,
+      "content": "=== İdrar tetkikleri === İdrar tetkiklerinde ortaya çıkabilecek bulgular şunlardır:Eozinofilüri: Eğer AİN tablosunun sebebinin metisilin kaynaklı AİN olduğu düşünülüyorsa duyarlılığı %67, özgüllüğü de %83 olan bir tanı kriteridir. Bu kriterin sensitivitesi metisilin kaynaklı AİN tablolarında ve Hansel boyası'nın kullanıldığı durumlarda daha yüksektir. Ancak son çalışmalar bu testin doğruluğua dair soru işaretleri oluşturmuştur. Yeni bir çalışma idrar eozinofil testinin sensitivitesinin %35,6, spesifitesinin de %68 olduğunu göstermiştir. İzotenüri",
+      "char_count": 552,
+      "token_estimate": 138
+    },
+    {
+      "id": "c0005",
+      "section": "=== Galyum tarama ===",
+      "heading_path": "=== Galyum tarama ===",
+      "start_char": 1812,
+      "end_char": 1914,
+      "content": "=== Galyum tarama === Anormal galyum taramalarının duyarlılığının %60 ila %100 olduğu bildirilmiştir.",
+      "char_count": 101,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0006",
+      "section": "== Tedavi ==",
+      "heading_path": "== Tedavi ==",
+      "start_char": 1914,
+      "end_char": 2279,
+      "content": "== Tedavi == Tedavi hedefe yönelik olmalıdır. Mesela tablonun sebebinin bir ilaç olduğu düşünülüyorsa ilacın kullanımı sonlandırılmalıdır. Kortikosteroidlerin tedavide etkili olduğuna dair hiçbir kesin kanıt yoktur. Beslenme tedavisi yönünden yeterli sıvı alımına dikkat edilmeli, hastalara her gün normal tüketimlerinden birkaç litre daha fazla sıvı verilmelidir.",
+      "char_count": 364,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0007",
+      "section": "== Hastalık seyri ==",
+      "heading_path": "== Hastalık seyri ==",
+      "start_char": 2279,
+      "end_char": 3279,
+      "content": "== Hastalık seyri == Tübülointersitisyel nefritten doğrudan zarar gören tek organ sistemi böbreklerdir. Böbrek fonksiyonları genellikle azalmıştır ancak bu azalma hafif fonksiyon kaybı şeklinde de böbrek yetmezliği şeklinde de olabilir. Kronik tübülointersitisyel nefrit tablosunda görülen en ciddi uzun vadeli zarar böbrek yetmezliğidir. Proksimal tübüller zarar gördüğünde bikarbonat geri emiliminin azalması kandaki bikrarbonatın azalmasına ve metabolik asidoz tablosuna sebep olur. Bunun dışında potasyum, ürik asit ve fosfat geri elimiminin azalması sebebiyle sırasıyla hipokalemi, hipoürisemi ve hipofosfatemi tabloları ortaya çıkar. Distal tübül hasarı da böbreğin idrar yoğunlaştırma fonksiyonunda kayba sebep olarak poliüriye sebep olur. Çoğu akut tübülointersitisyel nefrit vakasında zararlı ilacın sonlandırılması veya altta yatan başka sebeplerin tedavi edilmesi sonrasında böbrek fonksiyonları geri döner. Hastalık alerjik tepki sebebiyle ortaya çıktıysa kortikosteroid böbrek fonksiyonl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0008",
+      "section": "== Hastalık seyri ==",
+      "heading_path": "== Hastalık seyri ==",
+      "start_char": 3079,
+      "end_char": 3542,
+      "content": "ı ilacın sonlandırılması veya altta yatan başka sebeplerin tedavi edilmesi sonrasında böbrek fonksiyonları geri döner. Hastalık alerjik tepki sebebiyle ortaya çıktıysa kortikosteroid böbrek fonksiyonlarının geri dönmesini hızlandırabilir ancak alerjik sebepli AİN tablosuna pek sık rastlanmaz. Kronik tübülointersitisyel nefritin tedavisi yoktur. Bazı hastalar için diyaliz ihtiyacı ortaya çıkabilir. Zaman içerisinde hastalar böbrek nakline gitmek zorunda kalır.",
+      "char_count": 463,
+      "token_estimate": 115
+    },
+    {
+      "id": "c0009",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3558,
+      "end_char": 3644,
+      "content": "== Dış bağlantılar == The Merck Manual Hasta Belirtileri Pratik Tanı ve Tedavi Rehberi",
+      "char_count": 86,
+      "token_estimate": 21
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tübülointersitisyel nefrit proksimal tübüllere zarar verdiğinde kandaki bikarbonat seviyesinde neden bir azalma meydana gelir?",
+        "answer": "Proksimal tübüller zarar gördüğünde bikarbonat geri emiliminin azalması sebebiyle kandaki bikarbonat seviyesi azalır ve bu metabolik asidoza yol açar.",
+        "related_chunk_ids": [
+          "c0007"
+        ],
+        "category": "INTERPRETATION"
+      },
+      {
+        "question": "İntersitisyel nefritin akut ve kronik formları, sebepleri ve belirtileri açısından nasıl farklılık gösterir?",
+        "answer": "Akut intersitisyel nefrit aniden gelişir, genellikle alerjik bir tepki, enfeksiyon veya ilaç yan etkileri (analjezikler veya metisilin gibi antibiyotikler) sebebiyle ortaya çıkar. Akut formun belirtileri ateş, döküntü, böbreklerde büyüme, idrar yaparken yanma (dizüri) ve yan ağrısıdır. Kronik intersitisyel nefrit ise yavaş seyirlidir ve bulantı, kusma, halsizlik ve kilo kaybı gibi belirtiler gösterir. Her iki form da böbrek yetmezliği ile sonuçlanabilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

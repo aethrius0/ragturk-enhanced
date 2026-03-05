@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "sadizi_aac2e3d7",
+    "title": "Sadi Öziş",
+    "url": "https://tr.wikipedia.org/wiki/Sadi_%C3%96zi%C5%9F",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:02.424566",
+    "content": "Sadi Öziş (26 Şubat 1923, İstanbul - 17 Ocak 2012), Türk ressam ve heykeltıraştır. == Sergileri == 1951 – Paris, Galeri Arnod, Resim Sergisi 1957/58 – Amerikan Haberler Derneği, Maya Galeri, Ertem Galeri, Vakko Galeri, Galeri Bir, Çağdaş Türk Sanatı Resim ve Heykel sergileri (Paris, Brüksel, Berlin, Viyana, Roma) 1966 – Alman Kültür Derneği Galerileri'nde kişisel heykel sergisi 1985 – İş Bankası İstanbul Galerisi kişisel resim sergisi 1986/88 – Çeşitli galerilerde karma resim ve heykel sergileri 1988 – Bütün Zamanlar Sanat Galerisi 1988 – EDPA Sanat Galerisi karma resim ve heykel sergisi 1986/2006 – Çeşitli galerilerde karma resim ve heykel sergileri 1985 – İzmir-Amerikan-Türk Haberler derneği kişisel resim sergisi 1994 – New York Türk Evi ve Hilton ile Washington Clarion Hotel Sergi Salonları 1996/99 – Mimar Sinan Üniversitesi Mezunlar Derneği karma resim sergileri 1998 – Mimar Sinan Üniversitesi Öğretim Üyeleri Portreleri Sergisi, Osman Hamdi Salonu 1999 – Atatürk Portreleri Sergisi (Atatürk Kültür Merkezi, Taksim) 1999 Mayıs,Haziran – Destek Reasürans Sanat Galerisi karma resim sergisi 2006 Nisan – EKAV (Erol, Kerim Aksoy) Vakfı Sanat Galerisi == Dış bağlantılar == Kişisel sitesi Biyografi 23 Haziran 2012 tarihinde Wayback Machine sitesinde arşivlendi. Söyleşi: Sanat ile iç içe geçmiş50 yıl İlhan Koman,Sadi Öziş ve Kare Metal 20 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. Prof. Sadi Öziş'i kaybettik - SON RÖPORTAJI Sadi Ozis, tasarım kahramanı, TriptoD biyografisi ve eserleri",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 225,
+      "char_count": 1518,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.224729",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 83,
+      "content": "Sadi Öziş (26 Şubat 1923, İstanbul - 17 Ocak 2012), Türk ressam ve heykeltıraştır.",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "== Sergileri ==",
+      "heading_path": "== Sergileri ==",
+      "start_char": 83,
+      "end_char": 1083,
+      "content": "== Sergileri == 1951 – Paris, Galeri Arnod, Resim Sergisi 1957/58 – Amerikan Haberler Derneği, Maya Galeri, Ertem Galeri, Vakko Galeri, Galeri Bir, Çağdaş Türk Sanatı Resim ve Heykel sergileri (Paris, Brüksel, Berlin, Viyana, Roma) 1966 – Alman Kültür Derneği Galerileri'nde kişisel heykel sergisi 1985 – İş Bankası İstanbul Galerisi kişisel resim sergisi 1986/88 – Çeşitli galerilerde karma resim ve heykel sergileri 1988 – Bütün Zamanlar Sanat Galerisi 1988 – EDPA Sanat Galerisi karma resim ve heykel sergisi 1986/2006 – Çeşitli galerilerde karma resim ve heykel sergileri 1985 – İzmir-Amerikan-Türk Haberler derneği kişisel resim sergisi 1994 – New York Türk Evi ve Hilton ile Washington Clarion Hotel Sergi Salonları 1996/99 – Mimar Sinan Üniversitesi Mezunlar Derneği karma resim sergileri 1998 – Mimar Sinan Üniversitesi Öğretim Üyeleri Portreleri Sergisi, Osman Hamdi Salonu 1999 – Atatürk Portreleri Sergisi (Atatürk Kültür Merkezi, Taksim) 1999 Mayıs,Haziran – Destek Reasürans Sanat Galeri",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Sergileri ==",
+      "heading_path": "== Sergileri ==",
+      "start_char": 883,
+      "end_char": 1164,
+      "content": " – Mimar Sinan Üniversitesi Öğretim Üyeleri Portreleri Sergisi, Osman Hamdi Salonu 1999 – Atatürk Portreleri Sergisi (Atatürk Kültür Merkezi, Taksim) 1999 Mayıs,Haziran – Destek Reasürans Sanat Galerisi karma resim sergisi 2006 Nisan – EKAV (Erol, Kerim Aksoy) Vakfı Sanat Galerisi",
+      "char_count": 281,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1165,
+      "end_char": 1518,
+      "content": "== Dış bağlantılar == Kişisel sitesi Biyografi 23 Haziran 2012 tarihinde Wayback Machine sitesinde arşivlendi. Söyleşi: Sanat ile iç içe geçmiş50 yıl İlhan Koman,Sadi Öziş ve Kare Metal 20 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. Prof. Sadi Öziş'i kaybettik - SON RÖPORTAJI Sadi Ozis, tasarım kahramanı, TriptoD biyografisi ve eserleri",
+      "char_count": 353,
+      "token_estimate": 88
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1999 yılında Atatürk Portreleri Sergisi nerede düzenlenmiştir?",
+        "answer": "Atatürk Kültür Merkezi, Taksim",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sadi Öziş'in sergileri, c0000'de belirtilen sanatçı kimliğini nasıl yansıtmaktadır?",
+        "answer": "Sadi Öziş'in sergileri, onun hem ressam hem de heykeltıraş kimliğini yansıtmaktadır, çünkü listelenen birçok sergide hem resim hem de heykel sergileri veya karma resim ve heykel sergileri düzenlenmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

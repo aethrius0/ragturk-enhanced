@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "alantaylorynetmen_e2e50628",
+    "title": "Alan Taylor (yönetmen)",
+    "url": "https://tr.wikipedia.org/wiki/Alan_Taylor_%28y%C3%B6netmen%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:18.870209",
+    "content": "Alan Taylor, (d. 1959) Amerikalı yönetmen, yapımcı ve senaristdir. Lost, The West Wing, Six Feet Under, Sex and the City, The Sopranos, Game of Thrones, Boardwalk Empire, Deadwood ve Mad Men dizilerindeki çalışmaları ile tanınmaktadır. Aynı zamanda Palookaville, Thor: Karanlık Dünya ve Terminator Genisys filmlerin yönetmenliğini yapmıştır. == Çalışmaları == === TV === Big Love (2006) TV dizisi bölüm 1.05 \"Affair\" Rome (2005) TV dizisi bölüm 1.10 \"Triumph\" bölüm 1.12 \"Kalends of February\" Lost (2004) TV dizisi bölüm 2.04 \"Everybody Hates Hugo\" Deadwood (2004) TV dizisi bölüm 1.04 \"Here Was a Man\" bölüm 2.04 \"Requiem for a Gleet\" Carnivàle (2003) TV dizisi bölüm 2.07 \"Damascus, NE\" Keen Eddie (2003) bölüm \"Sticky Fingers\" Six Feet Under (2001) TV dizisi bölüm 2.08 \"It's the Most Wonderful Time of the Year\" The West Wing (1999) TV dizisi bölüm 1.08 \"Enemies\" bölüm 1.16 \"20 Hours in L.A.\" The Sopranos (1999) TV dizisi bölüm 1.06 \"Pax Soprana\" bölüm 4.10 \"The Strong, Silent Type\" bölüm 5.02 \"Rat Pack\" bölüm 6.04 \"The Fleshy Part of the Thigh\" bölüm 6.09 \"The Ride\" bölüm 6.12 \"Kaisha\" bölüm 6.14 \"Stage 5\" bölüm 6.18 \"Kennedy and Heidi\" bölüm 6.20 \"Blue Comet\" Now and Again (1999) TV dizisi bölüm \"Over Easy\" Sex and the City (1998) TV dizisi bölüm 2.09 \"Old Dogs, New Dicks\" bölüm 2.14 \"The Fuck Buddy\" bölüm 4.15 \"Change of a Dress\" bölüm 4.16 \"Ring a Ding-Ding\" bölüm 6.07 \"The Post-it Always Sticks Twice\" bölüm 6.08 \"The Catch\" Trinity (1998) TV dizisi bölüm \"Breaking In, Breaking Out, Breaking Up, Breaking Down\" Oz (1997) TV dizisi bölüm 1.06 \"To Your Health\" bölüm 2.06 \"Strange Bedfellows\" Homicide: Life on the Street TV dizisi bölüm \"Mercy\" bölüm \"Blood Ties\" bölüm \"The Wedding\" bölüm \"A Dog and Pony Show\" bölüm \"Autofocus\" bölüm \"The True Test\" bölüm \"Forgive Us Our Trespasses\" That Burning Question (1988) === Sinema === Kill the Poor (2003) The Emperor's New Clothes (2001) Palookaville (1995) == Dış bağlantılar == IMDb'de Alan Taylor (yönetmen)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 323,
+      "char_count": 1976,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.122646",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 342,
+      "content": "Alan Taylor, (d. 1959) Amerikalı yönetmen, yapımcı ve senaristdir. Lost, The West Wing, Six Feet Under, Sex and the City, The Sopranos, Game of Thrones, Boardwalk Empire, Deadwood ve Mad Men dizilerindeki çalışmaları ile tanınmaktadır. Aynı zamanda Palookaville, Thor: Karanlık Dünya ve Terminator Genisys filmlerin yönetmenliğini yapmıştır.",
+      "char_count": 341,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0001",
+      "section": "=== TV ===",
+      "heading_path": "=== TV ===",
+      "start_char": 360,
+      "end_char": 1360,
+      "content": "=== TV === Big Love (2006) TV dizisi bölüm 1.05 \"Affair\" Rome (2005) TV dizisi bölüm 1.10 \"Triumph\" bölüm 1.12 \"Kalends of February\" Lost (2004) TV dizisi bölüm 2.04 \"Everybody Hates Hugo\" Deadwood (2004) TV dizisi bölüm 1.04 \"Here Was a Man\" bölüm 2.04 \"Requiem for a Gleet\" Carnivàle (2003) TV dizisi bölüm 2.07 \"Damascus, NE\" Keen Eddie (2003) bölüm \"Sticky Fingers\" Six Feet Under (2001) TV dizisi bölüm 2.08 \"It's the Most Wonderful Time of the Year\" The West Wing (1999) TV dizisi bölüm 1.08 \"Enemies\" bölüm 1.16 \"20 Hours in L.A.\" The Sopranos (1999) TV dizisi bölüm 1.06 \"Pax Soprana\" bölüm 4.10 \"The Strong, Silent Type\" bölüm 5.02 \"Rat Pack\" bölüm 6.04 \"The Fleshy Part of the Thigh\" bölüm 6.09 \"The Ride\" bölüm 6.12 \"Kaisha\" bölüm 6.14 \"Stage 5\" bölüm 6.18 \"Kennedy and Heidi\" bölüm 6.20 \"Blue Comet\" Now and Again (1999) TV dizisi bölüm \"Over Easy\" Sex and the City (1998) TV dizisi bölüm 2.09 \"Old Dogs, New Dicks\" bölüm 2.14 \"The Fuck Buddy\" bölüm 4.15 \"Change of a Dress\" bölüm 4.16 \"R",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "=== TV ===",
+      "heading_path": "=== TV ===",
+      "start_char": 1160,
+      "end_char": 1834,
+      "content": "Blue Comet\" Now and Again (1999) TV dizisi bölüm \"Over Easy\" Sex and the City (1998) TV dizisi bölüm 2.09 \"Old Dogs, New Dicks\" bölüm 2.14 \"The Fuck Buddy\" bölüm 4.15 \"Change of a Dress\" bölüm 4.16 \"Ring a Ding-Ding\" bölüm 6.07 \"The Post-it Always Sticks Twice\" bölüm 6.08 \"The Catch\" Trinity (1998) TV dizisi bölüm \"Breaking In, Breaking Out, Breaking Up, Breaking Down\" Oz (1997) TV dizisi bölüm 1.06 \"To Your Health\" bölüm 2.06 \"Strange Bedfellows\" Homicide: Life on the Street TV dizisi bölüm \"Mercy\" bölüm \"Blood Ties\" bölüm \"The Wedding\" bölüm \"A Dog and Pony Show\" bölüm \"Autofocus\" bölüm \"The True Test\" bölüm \"Forgive Us Our Trespasses\" That Burning Question (1988)",
+      "char_count": 674,
+      "token_estimate": 168
+    },
+    {
+      "id": "c0003",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 1835,
+      "end_char": 1924,
+      "content": "=== Sinema === Kill the Poor (2003) The Emperor's New Clothes (2001) Palookaville (1995)",
+      "char_count": 88,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1924,
+      "end_char": 1976,
+      "content": "== Dış bağlantılar == IMDb'de Alan Taylor (yönetmen)",
+      "char_count": 52,
+      "token_estimate": 13
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Lost TV dizisinin 2.04 numaralı bölümünün adı nedir?",
+        "answer": "\"Everybody Hates Hugo\"",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Alan Taylor'ın kariyerinde tanındığı TV dizilerinden hangileri, yönettiği belirli bölümlerle birlikte parçalarda detaylı olarak listelenmiştir ve bunlara örnek bölümler nelerdir?",
+        "answer": "Alan Taylor, Lost dizisinden \"Everybody Hates Hugo\" bölümünü, The West Wing dizisinden \"Enemies\" bölümünü, Six Feet Under dizisinden \"It's the Most Wonderful Time of the Year\" bölümünü, Sex and the City dizisinden \"Old Dogs, New Dicks\" bölümünü, The Sopranos dizisinden \"Pax Soprana\" bölümünü ve Deadwood dizisinden \"Here Was a Man\" bölümünü yönetmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

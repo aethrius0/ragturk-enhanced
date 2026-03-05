@@ -1,0 +1,494 @@
+{
+  "article": {
+    "id": "transportlayersecuri_f302e6b4",
+    "title": "Transport Layer Security",
+    "url": "https://tr.wikipedia.org/wiki/Transport_Layer_Security",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:20.569910",
+    "content": "Taşıma Katmanı Güvenliği (TLS) ve onun öncülü/selefi olan Güvenli Soket Katmanı (SSL), bilgisayar ağı üzerinden güvenli haberleşmeyi sağlamak için tasarlanmış kriptolama protokolleridir. X.509 sertifikalarını kullanırlar ve bundan dolayı karşı tarafla iletişime geçeceklerin kimlik doğrulaması asimetrik şifreleme ile yapılır ve bir simetrik anahtar üzerinde anlaşılır. Bu oturum anahtarı daha sonra taraflar arasındaki veri akışını şifrelemek için kullanılır. Bu, mesaj/veri gizliliğine ve mesaj kimlik doğrulama kodları için mesaj bütünlüğüne izin verir. Protokollerin birçok versiyonu ağ tarama, elektronik mail, İnternet üzerinden faks, anlık mesajlaşma ve İnternet üzerinden sesli iletişim gibi uygulamalarda yaygın olarak kullanılmaktadır. Bu durumda/içerikte/bağlamda en önemli özellik iletme gizliliğidir. Bundan dolayı kısa süreli oturum anahtarı, uzun süreli gizli simetrik anahtardan türetilememelidir. X.509 sertifikalarının seçimi sonucunda, sertifika yöneticileri ve açık anahtar altyapısı, sertifika ve sahibi arasındaki ilişkinin doğrulanmasının yanı sıra oluşturulması, imzalanması ve sertifikaların geçerliliğinin yönetilmesi için gereklidir. Bu, güvenilirlik ağı yoluyla kimlik doğrulamasından daha faydalı olduğu halde, 2013'teki küresel izleme ifşası sertifika yöneticilerinin ortadaki adam saldırısına(man-in-the-middle attack) izin verdiğini bundan dolayı güvenlik bakımından zayıf bir nokta olduğunu bilinir hale getirdi. İnternet protokol takımında, SSL ve TLS uygulama katmanında ağ bağlantıları verisini şifreler. OSI modelde eşdeğer olarak, TLS/SSL 5.katmanda (oturum katmanı) başlatılır ve 6.katmanda (sunum katmanı) çalıştırılır. Oturum katmanı asimetrik şifrelemenin kullanıldığı bir el sıkışma işlemine sahiptir. Buradaki amaç, oturum için bir paylaşılan anahtar ve şifreleme ayarlarını oluşturmaktır. Sunum katmanı ise simetrik şifreleme ve oturum anahtarını kullanarak haberleşmenin geri kalanını şifreler. Bu iki modelde TLS ve SSL, bölütleri şifreli verileri iletmekte olan taşıma katmanı adına çalışmaktadır. TLS, İnternet Mühendisliği Görev Gücü (IETF) standartlar yolu protokolüdür. İlk olarak 1999 yılında tanımlanmıştır ve RFC 5246(Ağustos 2008) ve RFC 6176(Mart 2011)da güncellenmiştir. Önceki SSL spesifikasyonları (1994, 1995, 1996) esas alınarak Netscape İletişim tarafından geliştirilmiştir. Netscape tarafından 1994 yılında geliştirilenSecure Sockets Layer (Güvenli Soket Katmanı) protokolü, internet üzerinden güvenli veri iletişimi sağlayan bir protokoldür. SSL 2.0 1995 yılında ve SSL'in günümüzde kullanılan versiyonu olan SSL 3.0 da 1996 yılında RFC 6101 koduyla piyasaya sürülmüştür. Daha sonra IETF, SSL'in bir standart haline gelebilmesi için bir girişimde bulundu ve SSL 3.0'ı temel alan yeni bir protokol üzerinde çalışmaya başladı. IETF, Ocak 1999'da bu yeni protokolü TLS 1.0 (Transport Layer Security) adıyla ve RFC 2246 koduyla piyasaya sürdü. TLS 1.1 Nisan 2006'da RFC 4346 koduyla, TLS 1.2 Ağustos 2008'de RFC 5246, TLS 1.3 Ağustos 2018'de RFC 8446 koduyla yayınlanmıştır. Yerini yavaş yavaş TLS 1.3'e bırakmış olsa da SSL 3.0 günümüzde tüm internet tarayıcıları tarafından desteklenmektedir. İnternet tarayıcıların herhangi bir yerinde görülen asma kilit resmi, o siteye yapılan bağlantının SSL/TLS ile şifreli bir şekilde yapıldığını göstermektedir. Bazı tarayıcılarda bu asma kilit ikonuna tıklanarak SSL sertifikasının kimden alındığı, sitenin açık anahtar değeri, geçerlilik süresi, özet algoritması ve versiyon bilgisi gibi bilgiler görüntülenebilir. === SSL/TLS Çalışma Prensibi === SSL 3.0'ın çalışma prensibi açık anahtarlı şifrelemeye dayanmaktadır. SSL kısaca şu şekilde çalışmaktadır: Kullanıcı, internet sunucusundan güvenli bir bağlantı isteğinde bulunur, İnternet sunucusu, kullanıcıya sertifikasıyla birlikte açık anahtarını (public key) gönderir, Kullanıcının kullandığı internet tarayıcısı, sunucunun göndermiş olduğu bu sertifikanın güvenilir bir sertifika otoritesinden gelip gelmediğini ve sertifikanın geçerli olup olmadığını kontrol eder, Kullanıcının kullandığı internet tarayıcısı rastgele bir simetrik şifreleme anahtarı üretir. Daha sonra internet sunucusunun açık anahtarını (public key) kullanarak bu simetrik şifreleme anahtarını şifreler ve bağlanmaya çalıştığı internet sunucusuna gönderir, İnternet sunucusu, kendi açık anahtarıyla (public key) şifrelenmiş olan bu mesajı kendi özel anahtarıyla (private key) çözerek simetrik anahtarı elde eder, İnternet sunucusu bundan sonra kullanıcıya göndereceği verileri elde etmiş olduğu bu simetrik anahtarı kullanarak gönderir, Kullanıcı aynı simetrik anahtarla internet sunucusundan gelen verileri çözerek internet sayfasını güvenli bir şekilde görüntüler. Protokoller TLS ile ya da TLS olmaksızın işlem gördüğünden beri, istemcinin sunucuya TLS bağlantısının kurulmasını isteyip istemediğini belirtmesi gerekmektedir. Bunu gerçekleştirmenin başlıca iki yolu vardır; ilk seçenek TLS bağlantıları için farklı bir port numarası kullanılmasıdır (örneğin HTTPS için 443. port). Diğer seçenekte ise normal bir port numarası kullanılır ve istemci TLS protokolün özelleştirilmiş mekanizmasını kullanarak (örneğin mail ya da haber protokolleri için STARTTLS) sunucunun bağlantıyı TLS protokolüne yönlendirmesi için istekte bulunur. İstemci ve sunucu TLS protokolü kullanmayı kararlaştırdıktan sonra, el sıkışma süreci kullanarak kararlı bir bağlantı kurarlar. Bu el sıkışma esnasında, istemci ve sunucu bağlantının güvenliğini sağlamak için çeşitli parametreler kullanmayı kararlaştırır: İstemci kendi SSL sürüm numarasını, şifre ayarlarını, oturuma özgü veriyi ve sunucunun istemciyle iletişime geçmek için ihtiyaç duyduğu diğer bilgileri sunucuya gönderir. Sunucu kendi SSL sürüm numarasını, şifre ayarlarını, oturuma özgü veriyi ve istemcinin sunucuyla iletişime geçmek için ihtiyaç duyduğu diğer bilgileri istemciye gönderir. Sunucu aynı zamanda kendi sertifikasını da istemciye gönderir. Eğer istemci sunucunun kimlik doğrulama gerektiren bir kaynağına ulaşmak isterse, sunucu istemcinin sertifikasını talep eder. İstemci sunucunun gönderdiği bilgileri kullanarak sunucuyu doğrular. Eğer sunucu doğrulanmazsa, kullanıcı hata uyarısı alır, şifrelemenin ve doğrulamanın sağlanamadığı hakkında bilgilendirilir. Eğer sunucu doğrulama başarılı olursa, istemci bir sonraki adıma geçer. İstemci oturum için bir ikincil paylaşılan gizli veri (sunucu işbirliğiyle ve şifreleme algoritmasına göre değişen) oluşturur, bunu sunucunun açık anahtarını kullanarak şifreler (2. adımda sunucunun sertifikasını elde etmişti) ve bu şifrelenmiş ikincil paylaşılan gizli veriyi sunucuya gönderir. Eğer sunucu istemciden kimlik kanıtlaması isterse (el sıkışmada isteğe bağlı bir adımdır) istemci aynı zamanda yeni bir veri imzalar. Bu veri el sıkışma için eşsiz olmalı ve hem istemci hem de sunucu tarafından bilinmeli. Bu durumda, istemci imzalanmış veriyi, kendi sertifikasını, şifrelenmiş ikincil paylaşılan gizli verinin yanında sunucuya yollar. Eğer sunucu istemciden kimlik kanıtlamasını istediyse, sunucu istemciyi doğrulamayı dener. Eğer istemci doğrulanmazsa, oturum sonra erer. Eğer istemci başarıyla doğrulanırsa, sunucu kendi gizli anahtarını kullanarak ikincil paylaşılan gizli veriyi deşifreler ve daha sonra bir dizi adımlar takip ederek esas paylaşılan gizli veriyi oluşturur (istemci de ikincil paylaşılan gizli veriden başlayarak aynı adımları izler). İstemci ve sunucu elde ettikleri esas paylaşılan gizli veriyi kullanarak oturum anahtarları oluşturur ki bu anahtarlar simetrik olup SSL oturumu boyunca şifreleme ve deşifreleme bilgilerinin değişiminde ve verilerin bütünlüğünün kontrol edilmesinde kullanılır (bu da, SSL bağlantı süresi boyunca verinin gönderilme saati ile alınma saati arasında herhangi bir değişikliğin olup olmadığı saptanarak yapılır). İstemci sunucuya bundan sonra kendisinden gelecek mesajların oturum anahtarıyla şifreleneceği bilgisini içeren bir mesaj gönderir. Ardından istemci farklı bir (şifrelenmiş) mesaj göndererek el sıkışmanın kendisine ait kısmının bittiğini belirtir. Sunucu istemciye bundan sonra kendisinden gelecek mesajların oturum anahtarıyla şifreleneceği bilgisini içeren bir mesaj gönderir. Ardından sunucu farklı bir (şifrelenmiş) mesaj göndererek el sıkışmanın kendisine ait kısmının bittiğini belirtir. SSL el sıkışması artık sonra ermiş ve oturum açılmıştır. İstemci ve sunucu birbirlerine gönderdikleri verileri şifrelemek, deşifrelemek ve bütünlüğünü tasdik etmek için oturum anahtarlarını kullanırlar. Bu güvenli kanalın normal işleyiş durumudur. Herhangi bir zamanda içeriden veya dışarıdan bir uyarı alınırsa, taraflardan biri bağlantının yeniden kurulmasını talep edebilir ve böylece süreç kendisini tekrarlar. Eğer yukarıdaki adımlardan birisi başarısız olursa, TLS el sıkışması başarısız olur ve bağlantı oluşturulamaz. === Tanımlama === TLS protokolü gizli dinlemeyi ve onaysız değişiklik yapmayı önleyerek, ağ üzerinden istemci-sunucu uygulamalarının haberleşmesine izin verir. Protokoller TLS ile ya da TLS olmaksızın işlem gördüğünden beri, istemcinin sunucuya TLS bağlantısının kurulmasını isteyip istemediğini belirtmesi gerekmektedir. Bunu gerçekleştirmenin başlıca iki yolu vardır; ilk seçenek TLS bağlantıları için farklı bir port numarası kullanılmasıdır (örneğin HTTPS için 443. port). Diğer seçenekte ise normal bir port numarası kullanılır ve istemci TLS protokolün özelleştirilmiş mekanizmasını kullanarak (örneğin mail ya da haber protokolleri için STARTTLS) sunucunun bağlantıyı TLS protokolüne yönlendirmesi için istekte bulunur. İstemci ve sunucu TLS protokolü kullanmayı kararlaştırdıktan sonra, el sıkışma süreci kullanarak kararlı bir bağlantı kurarlar. Bu el sıkışma esnasında, istemci ve sunucu bağlantının güvenliğini sağlamak için çeşitli parametreler kullanmayı kararlaştırır: İstemci etkin olan sunucudan güvenli bir bağlantı isteğinde bulunduğunda el sıkışma işlemi başlar. Desteklediği şifreleme takımını(şifreleme ve özet fonksiyonu) liste halinde sunucuya bildirir, Sunucu ise listeden şifreleme ve özet fonksiyonu bilgilerini alır ve istemcinin kararını destekler ve bildirir, Sunucu genellikle kimliğini bir sayısal sertifika ile gönderir. Sertifika, sunucunun ismini, güvenilir sertifika yöneticisini ve sunucunun açık şifreleme anahtarını içerir, İstemci, sunucunun göndermiş olduğu bu sertifikanın güvenilir bir sertifika otoritesinden gelip gelmediğini ve sertifikanın geçerli olup olmadığını kontrol eder, Güvenli bağlantıda kullanılacak oturum anahtarını üretmek amacıyla, istemci bir rastgele sayıyı sunucunun açık anahtarını (public key) kullanarak şifreler ve elde edilen şifrelenmiş mesajı sunucuya gönderir. Bu şifreli mesajı, sadece sunucu özel anahtarını(private key) kullanarak çözebilmektedir. İki tarafta rastgele sayıdan bir esas anahtar(master key) oluşturur ve daha sonra şifreleme ve şifre çözme için bir oturum anahtarı üzerinde anlaşırlar. El sıkışması artık sonra ermiş ve güvenli bağlantı açılmıştır. İstemci ve sunucu birbirlerine gönderdikleri verileri şifrelemek, şifreli verileri çözmek ve bütünlüğünü tasdik etmek için oturum anahtarlarını kullanırlar. Eğer yukarıdaki adımlardan birisi başarısız olursa, TLS el sıkışması başarısız olur ve bağlantı oluşturulamaz. === Tarihçesi ve Gelişimi === ==== SSL 1.0, 2.0 ve 3.0 ==== Özgün SSL protokolü Netscape tarafından geliştirilmiştir. Versiyon 1.0, ciddi güvenlik kusurlarından dolayı hiçbir zaman piyasaya sürülmemiştir. Versiyon 2.0 ise Şubat 1995'te piyasaya sürülmüştür. SSL 3.0, protokolün yeniden tasarımını temsil etmektedir. Paul Kocher ve Netscape mühendislerinden Phil Karlton ve Alan Freier tarafından 1996 yılında yayınlanmıştır. SSL protokolünün yeni versiyonlarında, SSL 3.0 temel alınmıştır. 1996 yılında IETF tarafından SSL 3.0 tasarısı yayınlanmıştır. 1995 ve 1998 yılları arasında Netscape İletişimde başmühendis olan Dr. Taher Elgamal, \"SSL'in babası (father of SSL)\" olarak tanınmıştır. SSL'deki tüm blok şifrelemelerini etkileyen POODLE saldırısına açık olduğu için, SSL 3.0 versiyonunun 2014 yılından itibaren güvensiz olduğu anlaşılmıştır. SSL 3.0 tarafından blok olmayan şifreleme algoritmalarından yalnızca RC4 desteklenmektedir. Ancak muhtemel bir şekilde bu algoritmada kırılabilmektedir. ==== TLS 1.0 ==== TLS 1.0, ilk olarak Ocak 1999'da RFC 2246'da tanımlanmıştır ve SSL 3.0 versiyonunun geliştirilmiş halidir. ==== TLS 1.1 ==== TLS 1.1, Nisan 2006'da RFC 4346'da tanımlanmıştır. TLS 1.0 versiyonunun güncellenmiş halidir. Bu versiyonlar arasındaki önemli değişiklikler şu şekildedir: Şifreli blok zincirlemesi (CBC) saldırılarına karşı koruma eklenmiştir. Gizli tutulan başlangıç vektörü (IV) açık bir şekilde tutulur. Padding hatalarını düzeltmede değişiklikler olmuştur. ==== TLS 1.2 ==== TLS 1.2, Ağustos 2008'de RFC 5246'da tanımlanmıştır. TLS 1.1 spesifikasyonları esas alınmıştır. Başlıca farklılıklar şu şekildedir: Sözde rastgele fonksiyonundaki MD5-SHA1 kombinasyonu SHA-256 ile değiştirilmiştir. Tamamlanmış mesaj özetindeki MD5-SHA1 kombinasyonu SHA-256 ile değiştirilmiştir. Bununla birlikte tamamlanmış mesaj uzunluğu hala 96 bit olarak kesilmiştir. Dijital olarak imzalanmış elemanda MD5-SHA1 kombinasyonu el sıkışması boyunca SHA1 ile değiştirilmiştir. İstemci ve sunucu hangi özet ve imzalama algoritmasını kullanacağına karar verebilmektedir. TLS uzantılarının tanımları ve Gelişmiş Şifreleme Standardının(AES) şifreleme parçaları eklenmiştir. Tüm TLS versiyonları, Mart 2011'de RFC 6176'da düzeltilmiştir. SSL ile geçmişe yönelik uyumluluk özelliği kaldırılmıştır. Öyle ki, TLS oturumları hiçbir zaman SSL 2.0 versiyon kullanımını kabul etmeyecektir. ==== TLS 1.3 ==== TLS 1.3, Ağustos 2018'de RFC 8446'da tanımlanmıştır. Önceki TLS 1.1 ve TLS 1.2 spesifikasyonları esas alınmıştır. TLS 1.2'den başlıca farkları şu şekildedir: Cipher suite'lerden anahtar anlaşması ve kimlik doğrulama algoritmaları ayrılmıştır. Zayıf ve daha az kullanılan eliptik eğrilere olan destek kaldırılmıştır. MD5 ve SHA-224 kriptografik hash fonksiyonlarına olan destek kaldırılmıştır. Önceki yapılandırma kullanılmış olsa bile dijital imzalar gerekli kılınmıştır. 1-RTT el sıkışması desteği ve 0-RTT için ilk destek. Birçok güvenli olmayan ve eskimiş özelliklere olan destek kaldırılmıştır. Bunlar; sıkıştırma, anlaşma tekrarı, AEAD olmayan şifrelemeler, PFS olmayan anahtar değişimi (statik RSA ve statik DH anahtar değişimi), özel DHE grupları, karşılama mesajındaki UNIX zamanı. Oturum hash'i kullanımı entegre edilmiştir. Geriye dönük uyumluluk için SSL veya RC4 anlaşmasının engellenmesi. Geriye dönük uyumluluk için katman versiyon numarası kaydının kullanımdan kaldırılması ve numaranın dondurulması. Bazı yeni dijital imza algoritmaları eklendi. === Açık anahtar sertifikaları === Açık anahtar sertifikası, açık anahtar sahipliğini onaylar ve bu, diğerlerinin onaylanmış açık anahtara karşılık gelen özel anahtar ile yapılan imzalara veya bildirimlere güvenmesini sağlamaktadır. ==== Sertifika otoriteleri ==== Güven ilişkisinin bu modelinde, sertifika otoritesi güvenilir üçüncü şahıstır (Trusted Third Party). Sertifika sahipleri ve sertifika kullanıcıları tarafından güvenilir. === Algoritma === ==== Anahtar değişimi ve anahtar anlaşması ==== İstemci ve sunucu TLS tarafından korunan bilgilerin değişimine başlamadan önce, verileri şifreleme için kullanılacak şifreleme algoritması ve şifreleme anahtarı üzerinde anlaşmaları gerekmektedir. Anahtar değişimi için kullanılan metotlar şu şekildedir: açık ve gizli anahtarlar RSA(TLS el sıkışma protokolünde TLS_RSA olarak ifade edilir), Diffie-Hellman(TLS_DH), ephemeral Diffie-Hellman(TLS_DHE), Eliptik Eğri Diffie-Hellman(Elliptic Curve Diffie-Hellman / TLS_ECDH), ephemeral Elliptic Curve Diffie-Hellman(TLS_ECDHE), isimsiz Diffie-Hellman(anonymous Diffie-Hellman / TLS_DH_anon), önceden paylaştırılan anahtar (TLS_PSK) ve Secure Remote Password(TLS_SRP) ile oluşturulur. TLS_DH_anon ve TLS_ECDH_anon anahtar değişim metotları sunucu veya kullanıcının kimliğini doğrulamaz. Aynı zamanda, ortadaki adam (MitM) saldırısına açık olduğu için nadiren kullanılmaktadır. Sadece TLS_DHE ve TLS_ECDHE iletme gizliliği sağlar. Açık anahtar sertifikaları değişim boyunca kullanılır ve aynı zamanda değişim boyunca kullanılan açık ve gizli anahtarların boyutuna göre çeşitlilik gösterir. Bundan dolayı güvenliğin dayanıklılığı sağlanmış olur. Temmuz 2013 yılında, Google artık 1024 bitlik açık anahtarları kullanmak yerine 2048 bit anahtarlara geçerek kullanıcılarına sunduğu TLS şifreleme güvenliğini artırdığını duyurmuştur. ==== Şifreleme ==== Notlar ==== Veri bütünlüğü ==== Veri bütünlüğü için mesaj kimlik doğrulama kodu kullanılır. Blok şifrelemenin CBC modu ve dizi şifreleme için HMAC kullanılır. GCM ve CCM mod gibi doğrulanmış şifreleme için AEAD kullanılır. === Uygulamalar === Uygulamalarının dizayn aşamasında, TLS genelde herhangi bir taşıma katmanın - örneğin TCP, UDP- üzerinde geliştirilirken uygulamanın belirli protokollerini -örneğin HTTP, FTP, NNTP ve XMPP- enkapsüle eder. Tarihsel açıdan, TLS öncelikli olarak güvenilir taşıma protokolleri -örneğin TCP- tercih edilirdi. Buna rağmen datagram tabanlı taşıma protokolleri kullanılarak da geliştirilmiştir -örneğin UDP ve Datagram Congestion Control Protocol (DCCP)-. Bu uygulama sonradan Datagram Transport Layer Security (DTLS) adı altında standartlandırılmıştır. ==== Web Siteleri ==== TLS'in öne çıkan kullanımı, internette web sayfası ve tarayıcı arasında oluşturulan trafiği HTTP formundan HTTPS formuna sokarak güvence altına almasıdır. Kayda değer uygulamaları e-ticaret ve varlık yönetimidir. ==== Web Tarayıcıları ==== Şubat 2015 itibarıyla, başlıca web tarayıcılarının son versiyonları TLS 1.0, 1.1 ve 1.2 desteklemekte ve bunları varsayılan olarak aktif olarak sunmaktadır. Buna rağmen, bazı tarayıcıların eski versiyonlarında bu konuda problemlerle karşılaşılmaktadır. · TLS 1.1 ve 1.2 desteklenmesine rağmen varsayılan olarak Internet Explorer (8–10 for Windows 7 / Server 2008 R2, 10 for Windows 8 / Server 2012, IE Mobile 10 for Windows Phone 8) versiyonlarında devre dışı olarak bulunmaktadır. · TLS 1.1 ve 1.2 desteklenmesine rağmen varsayılan olarak Internet Explorer (6-8 for Windows Server 2003, 7–9 for Windows Vista / Server 2008), Safari 6 for Mac OS X 10.8 versiyonlarında devre dışı olarak bulunmaktadır. ==== Kütüphaneler ==== En çok kullanılan açık kaynak SSL and TLS programlama kütüphaneleri: Botan, a BSD lisanslı C++ tabanlı kriptografik kütüphane. cryptlib: Portatif açık kaynak kriptografi kütüphanesi (TLS/SSL uygulaması içerir) Delphi programcıları, OpenSSL den yararlanılarak oluşturulan Indy kütüphanesini kullanabilir GnuTLS: Kullanıma açık olan uygulama (LGPL lisanslı) Java Secure Socket Extension: Java 7'den itibaren Java Runtime Environment, TLS 1.1 and 1.2 desteklemesine rağmen kullanıcı için devre dışı olarak bulunmasına karşın sunucu tarafında aktif olarak bulunmaktadır. Java 8'den itibaren hem kullanıcı hem de sunucu için varsayılan olarak aktif bulunmaktadır. LibreSSL: OpenBSD tasarısının yaptığı OpenSSL çatallaması MatrixSSL: Duble lisanslanmış uygulama mbed TLS (önceden PolarSSL): Gömülü sistemlerde kullanabilmesi için oluşturulmuş küçük bir SSL kütüphanesi Network Security Services: FIPS 140 tarafından onaylanmış açık kaynak kütüphanesi OpenSSL: Kullanımı serbest olan bir uygulama (bazı eklemeli BSD lisanslı) SChannel: Microsoft Windows sistemlerin SSL ve TLS paketini oluşturan uygulama Secure Transport: OS X ve iOS sistemlerin SSL ve TLS paketini oluşturan uygulama wolfSSL (önceden CyaSSL): Özellikle hıza ve büyüklüğe önem vermiş gömülü SSL/TLS kütüphanesi ==== Diğer kullanımları ==== Elektronik posta gönderme protokolünde (Simple Mail Transfer Protocol) de TLS aracılıyla korunma sağlanabilir. Bu uygulamalar, dijital sertifika kullanarak son noktaların birbirlerini doğrulaması sağlanmaktadır. Ayrıca TLS kullanılarak bütün ağ, tünellenerek VPN oluşturulabilinir -örneğin OpenVPN ve OpenConnect. Birçok satıcı artık TLS'in şifreleme ve kimlik doğrulama özelliklerinden yararlanmaktadır. Bunun yanı sıra 90ların sonundan itibaren web tarayıcıları dışında da kullanıcı bazlı kullanıcı/sunucu uygulamalarında azımsanmayacak derece gelişme göstermiştir. Geleneksel IPsec VPN teknolojisiyle kıyaslandığında, TLS'in özünden gelen, güvenlik duvarlarına ve NAT teknolojisine faydaları bulunmaktadır, özellikle de geniş uzaktan kontrol gerektiren ağ hizmetlerini daha kolay haline getirmektedir. Bunların dışında TLS, Session Initiation Protocol (SIP)(Oturum Başlatma Protokolü) uygulamasında korunma açısından standart bir metodudur. Ayrıca TLS, VoIP ve diğer SIP tabanlı uygulamalar ile birlikte SIP sinyalizasyonunda kimlik doğrulama ve şifreleme sağlamak için kullanılabilir. === Güvenlik === ==== SSL 2.0 ==== SSL 2.0 birçok açıdan kusurlu bulunmaktadır: Özdeş şifreleme anahtarları mesaj kimlik doğrulama ve şifreleme için kullanılmaktadır. SSL 2.0 uzunluk uzatma saldırılarına karşı savunmasız hale getirebilecek, gizli önek ile MD5 hash fonksiyonu kullanan bir zayıf MAC yapıya sahiptir. SSL 2.0'da el sıkışma sırasında herhangi bir güvenlik uygulanmamaktadır, diğer bir deyişle ortadaki adam saldırıları tespit edilememektedir. SSL 2.0 veri sonunu belirtmek için TCP bağlantısı sonunu kullanır. Bu yüzden iletişim esnasında kesme saldırıları mümkün olmaktadır. SSL 2.0, tek bir hizmet ve web sunucuların tek bir sertifikaları olduğunu varsayarak aslında sanal barındırma(virtual hosting) standart özelliği ile çalışan web sunucuları ile ters düşmektedir. Bu da çoğu web sitelerini, SSL kullanma konusunda engelli konumunda bırakır. ==== SSL 3.0 ==== SSL 2.0 protokolüne SHA-1 tabanlı şifreler ve sertifika doğrulaması desteği eklenerek oluşturulmuştur. SSL 3.0 şifre suitlerinde, zayıf anahtar üretme süreci bulunmaktadır; master anahtarın yarısı tamamen MD5 hash fonksiyonuna bağlı olarak üretilmektedir. Diğer tarafta ise TLS 1.0 protokolünde master anahtar hem MD5 hem de SHA-1 algoritmalarıyla üretilmektedir. Bu üretim süreci şimdilik zayıf olarak görülmemektedir. Ekim 2014'te, SSL 3.0 tasarımında kritik bir açıklık rapor edilmiştir. Bu açıklık, CBC işleminde padding saldırılarına karşı savunmasız olmasından kaynaklanmaktadır (POODLE saldırısı). ==== TLS ==== TLS'de çeşitli güvenlik önlemleri bulunmaktadır: Zayıf şifre protokolüne sahip önceki versiyonuna düşürülmesine karşı koruma (downgrade of the protocol) Ardışık olarak oluşturan paketleri sıra numaralarıyla etiketleyip bu numaraları da mesaj doğrulama kodlarında (MAC) kullanmaktadır. Bağlantı sonlandırma işleminde iki tarafta karşılıklı olarak (\"Finished\") mesajının hashini yollayarak dışarıdan bağlantı sonlandırma saldırılarına karşı önlem alınmıştır. Sözde rastgelelik fonksiyonunda, gelen vereyi ikiye ayırarak bunları farklı hash fonksiyonlarıyla (MD5 vs SHA-1) hashlerini oluşturduktan sonra bu iki veriyi XORlayarak mesaj doğrulamak kodunu oluşturmaktadır. ==== Üçlü DES CBC'den kaçınma ==== Bazı uzmanlar, Triple-DES CBC kullanılmasından kaçınılmasını tavsiye etmektedir. Son desteklenen şifreleme algoritmaları, birçok program Windows XP'nin SSL/TLS kütüphanelerini kullandıkları için, bu kütüphanelere uygun olarak geliştirilmektedir. ==== Ortadaki adam(MitM) saldırısı ile ilişkisi ==== Ana makale için: Aradaki adam saldırısı ===== İğnelenmiş Dijital Sertifika ===== Aradaki adam saldırısını engelleme yöntemlerinden biri, dijital sertifikayı iğnelemektir. Bu yöntem iki türlü gerçekleştirilmektedir. Bunlardan ilki, ilk bağlantı esnasında web sitesinden alınan sertifikayı o sitenin gerçek sertifikası olarak kabul edip bundan sonraki bağlantılar sırasında web sitesinden alınan ilk alınan sertifikayla kıyaslayarak devam etme yöntemidir. Diğer yöntem ise Google firması, Chrome'da *.google.com domainleri için kullandığı sertifikayı gömülü olarak bulundurmaktadır. Bu sayede herhangi birisi google.com adresi için aradaki adam saldırısı gerçekleştirmeye çalıştığında, Chrome bunu otomatik olarak kendisinde gömülü olarak bulunan sertifikayla kıyaslayarak hata vermektedir. ===== DNSChain ===== DNSChain'deki güvenlik, \"blok zincirleri\" açık anahtarlarının dağıtımına dayanmaktadır. Belirli bir DNSChain sunucusuna güvenli bir kanal açıldıktan sonra diğer tüm açık anahtarlar bu kanal üzerinden iletilmektedir. == Daha fazla bilgi == Wagner, David; Schneier, Bruce (Kasım 1996). \"Analysis of the SSL 3.0 Protocol\" (PDF). The Second USENIX Workshop on Electronic Commerce Proceedings. USENIX Press. ss. 29-40. 16 Ekim 2006 tarihinde kaynağından arşivlendi (PDF). Erişim tarihi: 18 Mart 2022. Eric Rescorla (2001). SSL and TLS: Designing and Building Secure Systems. ABD: Addison-Wesley Pub Co. ISBN 0-201-61598-3. Stephen A. Thomas (2000). SSL and TLS essentials securing the Web. New York: Wiley. ISBN 0-471-38354-6. Bard, Gregory (2006). \"A Challenging But Feasible Blockwise-Adaptive Chosen-Plaintext Attack On Ssl\". International Association for Cryptologic Research, 136. 23 Eylül 2011 tarihinde kaynağından arşivlendi23 Eylül 2011. Canvel, Brice. \"Password Interception in a SSL/TLS Channel\". 20 Nisan 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 20 Nisan 2007. IETF Multiple Authors. \"RFC of change for TLS Renegotiation\". 10 Aralık 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 11 Aralık 2009. Creating VPNs with IPsec and SSL/TLS 12 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi. Linux Journal article by Rami Rosen Polk, Tim; McKay, Kerry; Chokhani, Santosh (Nisan 2014). \"Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations\" (PDF). National Institute of Standards and Technology. 4 Mart 2016 tarihinde kaynağından (PDF) arşivlendi. Erişim tarihi: 7 Mayıs 2014. == Dış bağlantılar == OpenSSL Project 24 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi. SSL Net RFC 5246 - The Transport Layer Security (TLS) Protocol Version 1.2 IETF (Internet Engineering Task Force) TLS Workgroup 2 Temmuz 2014 tarihinde Wayback Machine sitesinde arşivlendi. OWASP: Transport Layer Protection Cheat Sheet A talk on SSL/TLS that tries to explain things in terms that people might understand. 6 Temmuz 2015 tarihinde Wayback Machine sitesinde arşivlendi. SSL: Foundation for Web Security 11 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi. TLS Renegotiation Vulnerability – IETF Tools 6 Temmuz 2015 tarihinde Wayback Machine sitesinde arşivlendi. Trustworthy Internet Movement – SSL Pulse – Survey of TLS/SSL implementation of the most popular web sites How to Generate CSR for SSL7 Haziran 2019 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 3336,
+      "char_count": 26553,
+      "num_chunks": 44,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.818828",
+    "total_chunks": 44,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Taşıma Katmanı Güvenliği (TLS) ve onun öncülü/selefi olan Güvenli Soket Katmanı (SSL), bilgisayar ağı üzerinden güvenli haberleşmeyi sağlamak için tasarlanmış kriptolama protokolleridir. X.509 sertifikalarını kullanırlar ve bundan dolayı karşı tarafla iletişime geçeceklerin kimlik doğrulaması asimetrik şifreleme ile yapılır ve bir simetrik anahtar üzerinde anlaşılır. Bu oturum anahtarı daha sonra taraflar arasındaki veri akışını şifrelemek için kullanılır. Bu, mesaj/veri gizliliğine ve mesaj kimlik doğrulama kodları için mesaj bütünlüğüne izin verir. Protokollerin birçok versiyonu ağ tarama, elektronik mail, İnternet üzerinden faks, anlık mesajlaşma ve İnternet üzerinden sesli iletişim gibi uygulamalarda yaygın olarak kullanılmaktadır. Bu durumda/içerikte/bağlamda en önemli özellik iletme gizliliğidir. Bundan dolayı kısa süreli oturum anahtarı, uzun süreli gizli simetrik anahtardan türetilememelidir. X.509 sertifikalarının seçimi sonucunda, sertifika yöneticileri ve açık anahtar altyap",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "gizliliğidir. Bundan dolayı kısa süreli oturum anahtarı, uzun süreli gizli simetrik anahtardan türetilememelidir. X.509 sertifikalarının seçimi sonucunda, sertifika yöneticileri ve açık anahtar altyapısı, sertifika ve sahibi arasındaki ilişkinin doğrulanmasının yanı sıra oluşturulması, imzalanması ve sertifikaların geçerliliğinin yönetilmesi için gereklidir. Bu, güvenilirlik ağı yoluyla kimlik doğrulamasından daha faydalı olduğu halde, 2013'teki küresel izleme ifşası sertifika yöneticilerinin ortadaki adam saldırısına(man-in-the-middle attack) izin verdiğini bundan dolayı güvenlik bakımından zayıf bir nokta olduğunu bilinir hale getirdi. İnternet protokol takımında, SSL ve TLS uygulama katmanında ağ bağlantıları verisini şifreler. OSI modelde eşdeğer olarak, TLS/SSL 5.katmanda (oturum katmanı) başlatılır ve 6.katmanda (sunum katmanı) çalıştırılır. Oturum katmanı asimetrik şifrelemenin kullanıldığı bir el sıkışma işlemine sahiptir. Buradaki amaç, oturum için bir paylaşılan anahtar ve şi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2600,
+      "content": "anı) başlatılır ve 6.katmanda (sunum katmanı) çalıştırılır. Oturum katmanı asimetrik şifrelemenin kullanıldığı bir el sıkışma işlemine sahiptir. Buradaki amaç, oturum için bir paylaşılan anahtar ve şifreleme ayarlarını oluşturmaktır. Sunum katmanı ise simetrik şifreleme ve oturum anahtarını kullanarak haberleşmenin geri kalanını şifreler. Bu iki modelde TLS ve SSL, bölütleri şifreli verileri iletmekte olan taşıma katmanı adına çalışmaktadır. TLS, İnternet Mühendisliği Görev Gücü (IETF) standartlar yolu protokolüdür. İlk olarak 1999 yılında tanımlanmıştır ve RFC 5246(Ağustos 2008) ve RFC 6176(Mart 2011)da güncellenmiştir. Önceki SSL spesifikasyonları (1994, 1995, 1996) esas alınarak Netscape İletişim tarafından geliştirilmiştir. Netscape tarafından 1994 yılında geliştirilenSecure Sockets Layer (Güvenli Soket Katmanı) protokolü, internet üzerinden güvenli veri iletişimi sağlayan bir protokoldür. SSL 2.0 1995 yılında ve SSL'in günümüzde kullanılan versiyonu olan SSL 3.0 da 1996 yılında RF",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 2400,
+      "end_char": 3400,
+      "content": "yer (Güvenli Soket Katmanı) protokolü, internet üzerinden güvenli veri iletişimi sağlayan bir protokoldür. SSL 2.0 1995 yılında ve SSL'in günümüzde kullanılan versiyonu olan SSL 3.0 da 1996 yılında RFC 6101 koduyla piyasaya sürülmüştür. Daha sonra IETF, SSL'in bir standart haline gelebilmesi için bir girişimde bulundu ve SSL 3.0'ı temel alan yeni bir protokol üzerinde çalışmaya başladı. IETF, Ocak 1999'da bu yeni protokolü TLS 1.0 (Transport Layer Security) adıyla ve RFC 2246 koduyla piyasaya sürdü. TLS 1.1 Nisan 2006'da RFC 4346 koduyla, TLS 1.2 Ağustos 2008'de RFC 5246, TLS 1.3 Ağustos 2018'de RFC 8446 koduyla yayınlanmıştır. Yerini yavaş yavaş TLS 1.3'e bırakmış olsa da SSL 3.0 günümüzde tüm internet tarayıcıları tarafından desteklenmektedir. İnternet tarayıcıların herhangi bir yerinde görülen asma kilit resmi, o siteye yapılan bağlantının SSL/TLS ile şifreli bir şekilde yapıldığını göstermektedir. Bazı tarayıcılarda bu asma kilit ikonuna tıklanarak SSL sertifikasının kimden alındığ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 3200,
+      "end_char": 3519,
+      "content": "görülen asma kilit resmi, o siteye yapılan bağlantının SSL/TLS ile şifreli bir şekilde yapıldığını göstermektedir. Bazı tarayıcılarda bu asma kilit ikonuna tıklanarak SSL sertifikasının kimden alındığı, sitenin açık anahtar değeri, geçerlilik süresi, özet algoritması ve versiyon bilgisi gibi bilgiler görüntülenebilir.",
+      "char_count": 319,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0005",
+      "section": "=== SSL/TLS Çalışma Prensibi ===",
+      "heading_path": "=== SSL/TLS Çalışma Prensibi ===",
+      "start_char": 3520,
+      "end_char": 4520,
+      "content": "=== SSL/TLS Çalışma Prensibi === SSL 3.0'ın çalışma prensibi açık anahtarlı şifrelemeye dayanmaktadır. SSL kısaca şu şekilde çalışmaktadır: Kullanıcı, internet sunucusundan güvenli bir bağlantı isteğinde bulunur, İnternet sunucusu, kullanıcıya sertifikasıyla birlikte açık anahtarını (public key) gönderir, Kullanıcının kullandığı internet tarayıcısı, sunucunun göndermiş olduğu bu sertifikanın güvenilir bir sertifika otoritesinden gelip gelmediğini ve sertifikanın geçerli olup olmadığını kontrol eder, Kullanıcının kullandığı internet tarayıcısı rastgele bir simetrik şifreleme anahtarı üretir. Daha sonra internet sunucusunun açık anahtarını (public key) kullanarak bu simetrik şifreleme anahtarını şifreler ve bağlanmaya çalıştığı internet sunucusuna gönderir, İnternet sunucusu, kendi açık anahtarıyla (public key) şifrelenmiş olan bu mesajı kendi özel anahtarıyla (private key) çözerek simetrik anahtarı elde eder, İnternet sunucusu bundan sonra kullanıcıya göndereceği verileri elde etmiş old",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "=== SSL/TLS Çalışma Prensibi ===",
+      "heading_path": "=== SSL/TLS Çalışma Prensibi ===",
+      "start_char": 4320,
+      "end_char": 5320,
+      "content": "tarıyla (public key) şifrelenmiş olan bu mesajı kendi özel anahtarıyla (private key) çözerek simetrik anahtarı elde eder, İnternet sunucusu bundan sonra kullanıcıya göndereceği verileri elde etmiş olduğu bu simetrik anahtarı kullanarak gönderir, Kullanıcı aynı simetrik anahtarla internet sunucusundan gelen verileri çözerek internet sayfasını güvenli bir şekilde görüntüler. Protokoller TLS ile ya da TLS olmaksızın işlem gördüğünden beri, istemcinin sunucuya TLS bağlantısının kurulmasını isteyip istemediğini belirtmesi gerekmektedir. Bunu gerçekleştirmenin başlıca iki yolu vardır; ilk seçenek TLS bağlantıları için farklı bir port numarası kullanılmasıdır (örneğin HTTPS için 443. port). Diğer seçenekte ise normal bir port numarası kullanılır ve istemci TLS protokolün özelleştirilmiş mekanizmasını kullanarak (örneğin mail ya da haber protokolleri için STARTTLS) sunucunun bağlantıyı TLS protokolüne yönlendirmesi için istekte bulunur. İstemci ve sunucu TLS protokolü kullanmayı kararlaştırdık",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "=== SSL/TLS Çalışma Prensibi ===",
+      "heading_path": "=== SSL/TLS Çalışma Prensibi ===",
+      "start_char": 5120,
+      "end_char": 6120,
+      "content": "sını kullanarak (örneğin mail ya da haber protokolleri için STARTTLS) sunucunun bağlantıyı TLS protokolüne yönlendirmesi için istekte bulunur. İstemci ve sunucu TLS protokolü kullanmayı kararlaştırdıktan sonra, el sıkışma süreci kullanarak kararlı bir bağlantı kurarlar. Bu el sıkışma esnasında, istemci ve sunucu bağlantının güvenliğini sağlamak için çeşitli parametreler kullanmayı kararlaştırır: İstemci kendi SSL sürüm numarasını, şifre ayarlarını, oturuma özgü veriyi ve sunucunun istemciyle iletişime geçmek için ihtiyaç duyduğu diğer bilgileri sunucuya gönderir. Sunucu kendi SSL sürüm numarasını, şifre ayarlarını, oturuma özgü veriyi ve istemcinin sunucuyla iletişime geçmek için ihtiyaç duyduğu diğer bilgileri istemciye gönderir. Sunucu aynı zamanda kendi sertifikasını da istemciye gönderir. Eğer istemci sunucunun kimlik doğrulama gerektiren bir kaynağına ulaşmak isterse, sunucu istemcinin sertifikasını talep eder. İstemci sunucunun gönderdiği bilgileri kullanarak sunucuyu doğrular. E",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0008",
+      "section": "=== SSL/TLS Çalışma Prensibi ===",
+      "heading_path": "=== SSL/TLS Çalışma Prensibi ===",
+      "start_char": 5920,
+      "end_char": 6920,
+      "content": "ir. Eğer istemci sunucunun kimlik doğrulama gerektiren bir kaynağına ulaşmak isterse, sunucu istemcinin sertifikasını talep eder. İstemci sunucunun gönderdiği bilgileri kullanarak sunucuyu doğrular. Eğer sunucu doğrulanmazsa, kullanıcı hata uyarısı alır, şifrelemenin ve doğrulamanın sağlanamadığı hakkında bilgilendirilir. Eğer sunucu doğrulama başarılı olursa, istemci bir sonraki adıma geçer. İstemci oturum için bir ikincil paylaşılan gizli veri (sunucu işbirliğiyle ve şifreleme algoritmasına göre değişen) oluşturur, bunu sunucunun açık anahtarını kullanarak şifreler (2. adımda sunucunun sertifikasını elde etmişti) ve bu şifrelenmiş ikincil paylaşılan gizli veriyi sunucuya gönderir. Eğer sunucu istemciden kimlik kanıtlaması isterse (el sıkışmada isteğe bağlı bir adımdır) istemci aynı zamanda yeni bir veri imzalar. Bu veri el sıkışma için eşsiz olmalı ve hem istemci hem de sunucu tarafından bilinmeli. Bu durumda, istemci imzalanmış veriyi, kendi sertifikasını, şifrelenmiş ikincil paylaş",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0009",
+      "section": "=== SSL/TLS Çalışma Prensibi ===",
+      "heading_path": "=== SSL/TLS Çalışma Prensibi ===",
+      "start_char": 6720,
+      "end_char": 7720,
+      "content": "da yeni bir veri imzalar. Bu veri el sıkışma için eşsiz olmalı ve hem istemci hem de sunucu tarafından bilinmeli. Bu durumda, istemci imzalanmış veriyi, kendi sertifikasını, şifrelenmiş ikincil paylaşılan gizli verinin yanında sunucuya yollar. Eğer sunucu istemciden kimlik kanıtlamasını istediyse, sunucu istemciyi doğrulamayı dener. Eğer istemci doğrulanmazsa, oturum sonra erer. Eğer istemci başarıyla doğrulanırsa, sunucu kendi gizli anahtarını kullanarak ikincil paylaşılan gizli veriyi deşifreler ve daha sonra bir dizi adımlar takip ederek esas paylaşılan gizli veriyi oluşturur (istemci de ikincil paylaşılan gizli veriden başlayarak aynı adımları izler). İstemci ve sunucu elde ettikleri esas paylaşılan gizli veriyi kullanarak oturum anahtarları oluşturur ki bu anahtarlar simetrik olup SSL oturumu boyunca şifreleme ve deşifreleme bilgilerinin değişiminde ve verilerin bütünlüğünün kontrol edilmesinde kullanılır (bu da, SSL bağlantı süresi boyunca verinin gönderilme saati ile alınma saat",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0010",
+      "section": "=== SSL/TLS Çalışma Prensibi ===",
+      "heading_path": "=== SSL/TLS Çalışma Prensibi ===",
+      "start_char": 7520,
+      "end_char": 8520,
+      "content": " oturumu boyunca şifreleme ve deşifreleme bilgilerinin değişiminde ve verilerin bütünlüğünün kontrol edilmesinde kullanılır (bu da, SSL bağlantı süresi boyunca verinin gönderilme saati ile alınma saati arasında herhangi bir değişikliğin olup olmadığı saptanarak yapılır). İstemci sunucuya bundan sonra kendisinden gelecek mesajların oturum anahtarıyla şifreleneceği bilgisini içeren bir mesaj gönderir. Ardından istemci farklı bir (şifrelenmiş) mesaj göndererek el sıkışmanın kendisine ait kısmının bittiğini belirtir. Sunucu istemciye bundan sonra kendisinden gelecek mesajların oturum anahtarıyla şifreleneceği bilgisini içeren bir mesaj gönderir. Ardından sunucu farklı bir (şifrelenmiş) mesaj göndererek el sıkışmanın kendisine ait kısmının bittiğini belirtir. SSL el sıkışması artık sonra ermiş ve oturum açılmıştır. İstemci ve sunucu birbirlerine gönderdikleri verileri şifrelemek, deşifrelemek ve bütünlüğünü tasdik etmek için oturum anahtarlarını kullanırlar. Bu güvenli kanalın normal işleyi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0011",
+      "section": "=== SSL/TLS Çalışma Prensibi ===",
+      "heading_path": "=== SSL/TLS Çalışma Prensibi ===",
+      "start_char": 8320,
+      "end_char": 8810,
+      "content": "ve oturum açılmıştır. İstemci ve sunucu birbirlerine gönderdikleri verileri şifrelemek, deşifrelemek ve bütünlüğünü tasdik etmek için oturum anahtarlarını kullanırlar. Bu güvenli kanalın normal işleyiş durumudur. Herhangi bir zamanda içeriden veya dışarıdan bir uyarı alınırsa, taraflardan biri bağlantının yeniden kurulmasını talep edebilir ve böylece süreç kendisini tekrarlar. Eğer yukarıdaki adımlardan birisi başarısız olursa, TLS el sıkışması başarısız olur ve bağlantı oluşturulamaz.",
+      "char_count": 490,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0012",
+      "section": "=== Tanımlama ===",
+      "heading_path": "=== Tanımlama ===",
+      "start_char": 8811,
+      "end_char": 9811,
+      "content": "=== Tanımlama === TLS protokolü gizli dinlemeyi ve onaysız değişiklik yapmayı önleyerek, ağ üzerinden istemci-sunucu uygulamalarının haberleşmesine izin verir. Protokoller TLS ile ya da TLS olmaksızın işlem gördüğünden beri, istemcinin sunucuya TLS bağlantısının kurulmasını isteyip istemediğini belirtmesi gerekmektedir. Bunu gerçekleştirmenin başlıca iki yolu vardır; ilk seçenek TLS bağlantıları için farklı bir port numarası kullanılmasıdır (örneğin HTTPS için 443. port). Diğer seçenekte ise normal bir port numarası kullanılır ve istemci TLS protokolün özelleştirilmiş mekanizmasını kullanarak (örneğin mail ya da haber protokolleri için STARTTLS) sunucunun bağlantıyı TLS protokolüne yönlendirmesi için istekte bulunur. İstemci ve sunucu TLS protokolü kullanmayı kararlaştırdıktan sonra, el sıkışma süreci kullanarak kararlı bir bağlantı kurarlar. Bu el sıkışma esnasında, istemci ve sunucu bağlantının güvenliğini sağlamak için çeşitli parametreler kullanmayı kararlaştırır: İstemci etkin ola",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0013",
+      "section": "=== Tanımlama ===",
+      "heading_path": "=== Tanımlama ===",
+      "start_char": 9611,
+      "end_char": 10611,
+      "content": "kışma süreci kullanarak kararlı bir bağlantı kurarlar. Bu el sıkışma esnasında, istemci ve sunucu bağlantının güvenliğini sağlamak için çeşitli parametreler kullanmayı kararlaştırır: İstemci etkin olan sunucudan güvenli bir bağlantı isteğinde bulunduğunda el sıkışma işlemi başlar. Desteklediği şifreleme takımını(şifreleme ve özet fonksiyonu) liste halinde sunucuya bildirir, Sunucu ise listeden şifreleme ve özet fonksiyonu bilgilerini alır ve istemcinin kararını destekler ve bildirir, Sunucu genellikle kimliğini bir sayısal sertifika ile gönderir. Sertifika, sunucunun ismini, güvenilir sertifika yöneticisini ve sunucunun açık şifreleme anahtarını içerir, İstemci, sunucunun göndermiş olduğu bu sertifikanın güvenilir bir sertifika otoritesinden gelip gelmediğini ve sertifikanın geçerli olup olmadığını kontrol eder, Güvenli bağlantıda kullanılacak oturum anahtarını üretmek amacıyla, istemci bir rastgele sayıyı sunucunun açık anahtarını (public key) kullanarak şifreler ve elde edilen şifrel",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0014",
+      "section": "=== Tanımlama ===",
+      "heading_path": "=== Tanımlama ===",
+      "start_char": 10411,
+      "end_char": 11216,
+      "content": "lmadığını kontrol eder, Güvenli bağlantıda kullanılacak oturum anahtarını üretmek amacıyla, istemci bir rastgele sayıyı sunucunun açık anahtarını (public key) kullanarak şifreler ve elde edilen şifrelenmiş mesajı sunucuya gönderir. Bu şifreli mesajı, sadece sunucu özel anahtarını(private key) kullanarak çözebilmektedir. İki tarafta rastgele sayıdan bir esas anahtar(master key) oluşturur ve daha sonra şifreleme ve şifre çözme için bir oturum anahtarı üzerinde anlaşırlar. El sıkışması artık sonra ermiş ve güvenli bağlantı açılmıştır. İstemci ve sunucu birbirlerine gönderdikleri verileri şifrelemek, şifreli verileri çözmek ve bütünlüğünü tasdik etmek için oturum anahtarlarını kullanırlar. Eğer yukarıdaki adımlardan birisi başarısız olursa, TLS el sıkışması başarısız olur ve bağlantı oluşturulamaz.",
+      "char_count": 805,
+      "token_estimate": 201
+    },
+    {
+      "id": "c0015",
+      "section": "==== SSL 1.0, 2.0 ve 3.0 ====",
+      "heading_path": "==== SSL 1.0, 2.0 ve 3.0 ====",
+      "start_char": 11247,
+      "end_char": 12216,
+      "content": "==== SSL 1.0, 2.0 ve 3.0 ==== Özgün SSL protokolü Netscape tarafından geliştirilmiştir. Versiyon 1.0, ciddi güvenlik kusurlarından dolayı hiçbir zaman piyasaya sürülmemiştir. Versiyon 2.0 ise Şubat 1995'te piyasaya sürülmüştür. SSL 3.0, protokolün yeniden tasarımını temsil etmektedir. Paul Kocher ve Netscape mühendislerinden Phil Karlton ve Alan Freier tarafından 1996 yılında yayınlanmıştır. SSL protokolünün yeni versiyonlarında, SSL 3.0 temel alınmıştır. 1996 yılında IETF tarafından SSL 3.0 tasarısı yayınlanmıştır. 1995 ve 1998 yılları arasında Netscape İletişimde başmühendis olan Dr. Taher Elgamal, \"SSL'in babası (father of SSL)\" olarak tanınmıştır. SSL'deki tüm blok şifrelemelerini etkileyen POODLE saldırısına açık olduğu için, SSL 3.0 versiyonunun 2014 yılından itibaren güvensiz olduğu anlaşılmıştır. SSL 3.0 tarafından blok olmayan şifreleme algoritmalarından yalnızca RC4 desteklenmektedir. Ancak muhtemel bir şekilde bu algoritmada kırılabilmektedir.",
+      "char_count": 968,
+      "token_estimate": 242
+    },
+    {
+      "id": "c0016",
+      "section": "==== TLS 1.0 ====",
+      "heading_path": "==== TLS 1.0 ====",
+      "start_char": 12216,
+      "end_char": 12341,
+      "content": "==== TLS 1.0 ==== TLS 1.0, ilk olarak Ocak 1999'da RFC 2246'da tanımlanmıştır ve SSL 3.0 versiyonunun geliştirilmiş halidir.",
+      "char_count": 124,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0017",
+      "section": "==== TLS 1.1 ====",
+      "heading_path": "==== TLS 1.1 ====",
+      "start_char": 12341,
+      "end_char": 12704,
+      "content": "==== TLS 1.1 ==== TLS 1.1, Nisan 2006'da RFC 4346'da tanımlanmıştır. TLS 1.0 versiyonunun güncellenmiş halidir. Bu versiyonlar arasındaki önemli değişiklikler şu şekildedir: Şifreli blok zincirlemesi (CBC) saldırılarına karşı koruma eklenmiştir. Gizli tutulan başlangıç vektörü (IV) açık bir şekilde tutulur. Padding hatalarını düzeltmede değişiklikler olmuştur.",
+      "char_count": 362,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0018",
+      "section": "==== TLS 1.2 ====",
+      "heading_path": "==== TLS 1.2 ====",
+      "start_char": 12704,
+      "end_char": 13600,
+      "content": "==== TLS 1.2 ==== TLS 1.2, Ağustos 2008'de RFC 5246'da tanımlanmıştır. TLS 1.1 spesifikasyonları esas alınmıştır. Başlıca farklılıklar şu şekildedir: Sözde rastgele fonksiyonundaki MD5-SHA1 kombinasyonu SHA-256 ile değiştirilmiştir. Tamamlanmış mesaj özetindeki MD5-SHA1 kombinasyonu SHA-256 ile değiştirilmiştir. Bununla birlikte tamamlanmış mesaj uzunluğu hala 96 bit olarak kesilmiştir. Dijital olarak imzalanmış elemanda MD5-SHA1 kombinasyonu el sıkışması boyunca SHA1 ile değiştirilmiştir. İstemci ve sunucu hangi özet ve imzalama algoritmasını kullanacağına karar verebilmektedir. TLS uzantılarının tanımları ve Gelişmiş Şifreleme Standardının(AES) şifreleme parçaları eklenmiştir. Tüm TLS versiyonları, Mart 2011'de RFC 6176'da düzeltilmiştir. SSL ile geçmişe yönelik uyumluluk özelliği kaldırılmıştır. Öyle ki, TLS oturumları hiçbir zaman SSL 2.0 versiyon kullanımını kabul etmeyecektir.",
+      "char_count": 895,
+      "token_estimate": 223
+    },
+    {
+      "id": "c0019",
+      "section": "==== TLS 1.3 ====",
+      "heading_path": "==== TLS 1.3 ====",
+      "start_char": 13600,
+      "end_char": 14600,
+      "content": "==== TLS 1.3 ==== TLS 1.3, Ağustos 2018'de RFC 8446'da tanımlanmıştır. Önceki TLS 1.1 ve TLS 1.2 spesifikasyonları esas alınmıştır. TLS 1.2'den başlıca farkları şu şekildedir: Cipher suite'lerden anahtar anlaşması ve kimlik doğrulama algoritmaları ayrılmıştır. Zayıf ve daha az kullanılan eliptik eğrilere olan destek kaldırılmıştır. MD5 ve SHA-224 kriptografik hash fonksiyonlarına olan destek kaldırılmıştır. Önceki yapılandırma kullanılmış olsa bile dijital imzalar gerekli kılınmıştır. 1-RTT el sıkışması desteği ve 0-RTT için ilk destek. Birçok güvenli olmayan ve eskimiş özelliklere olan destek kaldırılmıştır. Bunlar; sıkıştırma, anlaşma tekrarı, AEAD olmayan şifrelemeler, PFS olmayan anahtar değişimi (statik RSA ve statik DH anahtar değişimi), özel DHE grupları, karşılama mesajındaki UNIX zamanı. Oturum hash'i kullanımı entegre edilmiştir. Geriye dönük uyumluluk için SSL veya RC4 anlaşmasının engellenmesi. Geriye dönük uyumluluk için katman versiyon numarası kaydının kullanımdan kaldır",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0020",
+      "section": "==== TLS 1.3 ====",
+      "heading_path": "==== TLS 1.3 ====",
+      "start_char": 14400,
+      "end_char": 14679,
+      "content": "zamanı. Oturum hash'i kullanımı entegre edilmiştir. Geriye dönük uyumluluk için SSL veya RC4 anlaşmasının engellenmesi. Geriye dönük uyumluluk için katman versiyon numarası kaydının kullanımdan kaldırılması ve numaranın dondurulması. Bazı yeni dijital imza algoritmaları eklendi.",
+      "char_count": 279,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0021",
+      "section": "=== Açık anahtar sertifikaları ===",
+      "heading_path": "=== Açık anahtar sertifikaları ===",
+      "start_char": 14680,
+      "end_char": 14913,
+      "content": "=== Açık anahtar sertifikaları === Açık anahtar sertifikası, açık anahtar sahipliğini onaylar ve bu, diğerlerinin onaylanmış açık anahtara karşılık gelen özel anahtar ile yapılan imzalara veya bildirimlere güvenmesini sağlamaktadır.",
+      "char_count": 232,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0022",
+      "section": "==== Sertifika otoriteleri ====",
+      "heading_path": "==== Sertifika otoriteleri ====",
+      "start_char": 14913,
+      "end_char": 15115,
+      "content": "==== Sertifika otoriteleri ==== Güven ilişkisinin bu modelinde, sertifika otoritesi güvenilir üçüncü şahıstır (Trusted Third Party). Sertifika sahipleri ve sertifika kullanıcıları tarafından güvenilir.",
+      "char_count": 201,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0023",
+      "section": "==== Anahtar değişimi ve anahtar anlaşması ====",
+      "heading_path": "==== Anahtar değişimi ve anahtar anlaşması ====",
+      "start_char": 15133,
+      "end_char": 16133,
+      "content": "==== Anahtar değişimi ve anahtar anlaşması ==== İstemci ve sunucu TLS tarafından korunan bilgilerin değişimine başlamadan önce, verileri şifreleme için kullanılacak şifreleme algoritması ve şifreleme anahtarı üzerinde anlaşmaları gerekmektedir. Anahtar değişimi için kullanılan metotlar şu şekildedir: açık ve gizli anahtarlar RSA(TLS el sıkışma protokolünde TLS_RSA olarak ifade edilir), Diffie-Hellman(TLS_DH), ephemeral Diffie-Hellman(TLS_DHE), Eliptik Eğri Diffie-Hellman(Elliptic Curve Diffie-Hellman / TLS_ECDH), ephemeral Elliptic Curve Diffie-Hellman(TLS_ECDHE), isimsiz Diffie-Hellman(anonymous Diffie-Hellman / TLS_DH_anon), önceden paylaştırılan anahtar (TLS_PSK) ve Secure Remote Password(TLS_SRP) ile oluşturulur. TLS_DH_anon ve TLS_ECDH_anon anahtar değişim metotları sunucu veya kullanıcının kimliğini doğrulamaz. Aynı zamanda, ortadaki adam (MitM) saldırısına açık olduğu için nadiren kullanılmaktadır. Sadece TLS_DHE ve TLS_ECDHE iletme gizliliği sağlar. Açık anahtar sertifikaları d",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0024",
+      "section": "==== Anahtar değişimi ve anahtar anlaşması ====",
+      "heading_path": "==== Anahtar değişimi ve anahtar anlaşması ====",
+      "start_char": 15933,
+      "end_char": 16502,
+      "content": "ıcının kimliğini doğrulamaz. Aynı zamanda, ortadaki adam (MitM) saldırısına açık olduğu için nadiren kullanılmaktadır. Sadece TLS_DHE ve TLS_ECDHE iletme gizliliği sağlar. Açık anahtar sertifikaları değişim boyunca kullanılır ve aynı zamanda değişim boyunca kullanılan açık ve gizli anahtarların boyutuna göre çeşitlilik gösterir. Bundan dolayı güvenliğin dayanıklılığı sağlanmış olur. Temmuz 2013 yılında, Google artık 1024 bitlik açık anahtarları kullanmak yerine 2048 bit anahtarlara geçerek kullanıcılarına sunduğu TLS şifreleme güvenliğini artırdığını duyurmuştur.",
+      "char_count": 569,
+      "token_estimate": 142
+    },
+    {
+      "id": "c0025",
+      "section": "==== Şifreleme ====",
+      "heading_path": "==== Şifreleme ====",
+      "start_char": 16503,
+      "end_char": 16530,
+      "content": "==== Şifreleme ==== Notlar",
+      "char_count": 26,
+      "token_estimate": 6
+    },
+    {
+      "id": "c0026",
+      "section": "==== Veri bütünlüğü ====",
+      "heading_path": "==== Veri bütünlüğü ====",
+      "start_char": 16530,
+      "end_char": 16746,
+      "content": "==== Veri bütünlüğü ==== Veri bütünlüğü için mesaj kimlik doğrulama kodu kullanılır. Blok şifrelemenin CBC modu ve dizi şifreleme için HMAC kullanılır. GCM ve CCM mod gibi doğrulanmış şifreleme için AEAD kullanılır.",
+      "char_count": 215,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0027",
+      "section": "=== Uygulamalar ===",
+      "heading_path": "=== Uygulamalar ===",
+      "start_char": 16746,
+      "end_char": 17313,
+      "content": "=== Uygulamalar === Uygulamalarının dizayn aşamasında, TLS genelde herhangi bir taşıma katmanın - örneğin TCP, UDP- üzerinde geliştirilirken uygulamanın belirli protokollerini -örneğin HTTP, FTP, NNTP ve XMPP- enkapsüle eder. Tarihsel açıdan, TLS öncelikli olarak güvenilir taşıma protokolleri -örneğin TCP- tercih edilirdi. Buna rağmen datagram tabanlı taşıma protokolleri kullanılarak da geliştirilmiştir -örneğin UDP ve Datagram Congestion Control Protocol (DCCP)-. Bu uygulama sonradan Datagram Transport Layer Security (DTLS) adı altında standartlandırılmıştır.",
+      "char_count": 566,
+      "token_estimate": 141
+    },
+    {
+      "id": "c0028",
+      "section": "==== Web Siteleri ====",
+      "heading_path": "==== Web Siteleri ====",
+      "start_char": 17313,
+      "end_char": 17549,
+      "content": "==== Web Siteleri ==== TLS'in öne çıkan kullanımı, internette web sayfası ve tarayıcı arasında oluşturulan trafiği HTTP formundan HTTPS formuna sokarak güvence altına almasıdır. Kayda değer uygulamaları e-ticaret ve varlık yönetimidir.",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0029",
+      "section": "==== Web Tarayıcıları ====",
+      "heading_path": "==== Web Tarayıcıları ====",
+      "start_char": 17549,
+      "end_char": 18278,
+      "content": "==== Web Tarayıcıları ==== Şubat 2015 itibarıyla, başlıca web tarayıcılarının son versiyonları TLS 1.0, 1.1 ve 1.2 desteklemekte ve bunları varsayılan olarak aktif olarak sunmaktadır. Buna rağmen, bazı tarayıcıların eski versiyonlarında bu konuda problemlerle karşılaşılmaktadır. · TLS 1.1 ve 1.2 desteklenmesine rağmen varsayılan olarak Internet Explorer (8–10 for Windows 7 / Server 2008 R2, 10 for Windows 8 / Server 2012, IE Mobile 10 for Windows Phone 8) versiyonlarında devre dışı olarak bulunmaktadır. · TLS 1.1 ve 1.2 desteklenmesine rağmen varsayılan olarak Internet Explorer (6-8 for Windows Server 2003, 7–9 for Windows Vista / Server 2008), Safari 6 for Mac OS X 10.8 versiyonlarında devre dışı olarak bulunmaktadır.",
+      "char_count": 728,
+      "token_estimate": 182
+    },
+    {
+      "id": "c0030",
+      "section": "==== Kütüphaneler ====",
+      "heading_path": "==== Kütüphaneler ====",
+      "start_char": 18278,
+      "end_char": 19278,
+      "content": "==== Kütüphaneler ==== En çok kullanılan açık kaynak SSL and TLS programlama kütüphaneleri: Botan, a BSD lisanslı C++ tabanlı kriptografik kütüphane. cryptlib: Portatif açık kaynak kriptografi kütüphanesi (TLS/SSL uygulaması içerir) Delphi programcıları, OpenSSL den yararlanılarak oluşturulan Indy kütüphanesini kullanabilir GnuTLS: Kullanıma açık olan uygulama (LGPL lisanslı) Java Secure Socket Extension: Java 7'den itibaren Java Runtime Environment, TLS 1.1 and 1.2 desteklemesine rağmen kullanıcı için devre dışı olarak bulunmasına karşın sunucu tarafında aktif olarak bulunmaktadır. Java 8'den itibaren hem kullanıcı hem de sunucu için varsayılan olarak aktif bulunmaktadır. LibreSSL: OpenBSD tasarısının yaptığı OpenSSL çatallaması MatrixSSL: Duble lisanslanmış uygulama mbed TLS (önceden PolarSSL): Gömülü sistemlerde kullanabilmesi için oluşturulmuş küçük bir SSL kütüphanesi Network Security Services: FIPS 140 tarafından onaylanmış açık kaynak kütüphanesi OpenSSL: Kullanımı serbest olan ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0031",
+      "section": "==== Kütüphaneler ====",
+      "heading_path": "==== Kütüphaneler ====",
+      "start_char": 19078,
+      "end_char": 19572,
+      "content": "arSSL): Gömülü sistemlerde kullanabilmesi için oluşturulmuş küçük bir SSL kütüphanesi Network Security Services: FIPS 140 tarafından onaylanmış açık kaynak kütüphanesi OpenSSL: Kullanımı serbest olan bir uygulama (bazı eklemeli BSD lisanslı) SChannel: Microsoft Windows sistemlerin SSL ve TLS paketini oluşturan uygulama Secure Transport: OS X ve iOS sistemlerin SSL ve TLS paketini oluşturan uygulama wolfSSL (önceden CyaSSL): Özellikle hıza ve büyüklüğe önem vermiş gömülü SSL/TLS kütüphanesi",
+      "char_count": 494,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0032",
+      "section": "==== Diğer kullanımları ====",
+      "heading_path": "==== Diğer kullanımları ====",
+      "start_char": 19573,
+      "end_char": 20573,
+      "content": "==== Diğer kullanımları ==== Elektronik posta gönderme protokolünde (Simple Mail Transfer Protocol) de TLS aracılıyla korunma sağlanabilir. Bu uygulamalar, dijital sertifika kullanarak son noktaların birbirlerini doğrulaması sağlanmaktadır. Ayrıca TLS kullanılarak bütün ağ, tünellenerek VPN oluşturulabilinir -örneğin OpenVPN ve OpenConnect. Birçok satıcı artık TLS'in şifreleme ve kimlik doğrulama özelliklerinden yararlanmaktadır. Bunun yanı sıra 90ların sonundan itibaren web tarayıcıları dışında da kullanıcı bazlı kullanıcı/sunucu uygulamalarında azımsanmayacak derece gelişme göstermiştir. Geleneksel IPsec VPN teknolojisiyle kıyaslandığında, TLS'in özünden gelen, güvenlik duvarlarına ve NAT teknolojisine faydaları bulunmaktadır, özellikle de geniş uzaktan kontrol gerektiren ağ hizmetlerini daha kolay haline getirmektedir. Bunların dışında TLS, Session Initiation Protocol (SIP)(Oturum Başlatma Protokolü) uygulamasında korunma açısından standart bir metodudur. Ayrıca TLS, VoIP ve diğer S",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0033",
+      "section": "==== Diğer kullanımları ====",
+      "heading_path": "==== Diğer kullanımları ====",
+      "start_char": 20373,
+      "end_char": 20690,
+      "content": " daha kolay haline getirmektedir. Bunların dışında TLS, Session Initiation Protocol (SIP)(Oturum Başlatma Protokolü) uygulamasında korunma açısından standart bir metodudur. Ayrıca TLS, VoIP ve diğer SIP tabanlı uygulamalar ile birlikte SIP sinyalizasyonunda kimlik doğrulama ve şifreleme sağlamak için kullanılabilir.",
+      "char_count": 317,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0034",
+      "section": "==== SSL 2.0 ====",
+      "heading_path": "==== SSL 2.0 ====",
+      "start_char": 20708,
+      "end_char": 21552,
+      "content": "==== SSL 2.0 ==== SSL 2.0 birçok açıdan kusurlu bulunmaktadır: Özdeş şifreleme anahtarları mesaj kimlik doğrulama ve şifreleme için kullanılmaktadır. SSL 2.0 uzunluk uzatma saldırılarına karşı savunmasız hale getirebilecek, gizli önek ile MD5 hash fonksiyonu kullanan bir zayıf MAC yapıya sahiptir. SSL 2.0'da el sıkışma sırasında herhangi bir güvenlik uygulanmamaktadır, diğer bir deyişle ortadaki adam saldırıları tespit edilememektedir. SSL 2.0 veri sonunu belirtmek için TCP bağlantısı sonunu kullanır. Bu yüzden iletişim esnasında kesme saldırıları mümkün olmaktadır. SSL 2.0, tek bir hizmet ve web sunucuların tek bir sertifikaları olduğunu varsayarak aslında sanal barındırma(virtual hosting) standart özelliği ile çalışan web sunucuları ile ters düşmektedir. Bu da çoğu web sitelerini, SSL kullanma konusunda engelli konumunda bırakır.",
+      "char_count": 843,
+      "token_estimate": 210
+    },
+    {
+      "id": "c0035",
+      "section": "==== SSL 3.0 ====",
+      "heading_path": "==== SSL 3.0 ====",
+      "start_char": 21552,
+      "end_char": 22175,
+      "content": "==== SSL 3.0 ==== SSL 2.0 protokolüne SHA-1 tabanlı şifreler ve sertifika doğrulaması desteği eklenerek oluşturulmuştur. SSL 3.0 şifre suitlerinde, zayıf anahtar üretme süreci bulunmaktadır; master anahtarın yarısı tamamen MD5 hash fonksiyonuna bağlı olarak üretilmektedir. Diğer tarafta ise TLS 1.0 protokolünde master anahtar hem MD5 hem de SHA-1 algoritmalarıyla üretilmektedir. Bu üretim süreci şimdilik zayıf olarak görülmemektedir. Ekim 2014'te, SSL 3.0 tasarımında kritik bir açıklık rapor edilmiştir. Bu açıklık, CBC işleminde padding saldırılarına karşı savunmasız olmasından kaynaklanmaktadır (POODLE saldırısı).",
+      "char_count": 622,
+      "token_estimate": 155
+    },
+    {
+      "id": "c0036",
+      "section": "==== TLS ====",
+      "heading_path": "==== TLS ====",
+      "start_char": 22175,
+      "end_char": 22856,
+      "content": "==== TLS ==== TLS'de çeşitli güvenlik önlemleri bulunmaktadır: Zayıf şifre protokolüne sahip önceki versiyonuna düşürülmesine karşı koruma (downgrade of the protocol) Ardışık olarak oluşturan paketleri sıra numaralarıyla etiketleyip bu numaraları da mesaj doğrulama kodlarında (MAC) kullanmaktadır. Bağlantı sonlandırma işleminde iki tarafta karşılıklı olarak (\"Finished\") mesajının hashini yollayarak dışarıdan bağlantı sonlandırma saldırılarına karşı önlem alınmıştır. Sözde rastgelelik fonksiyonunda, gelen vereyi ikiye ayırarak bunları farklı hash fonksiyonlarıyla (MD5 vs SHA-1) hashlerini oluşturduktan sonra bu iki veriyi XORlayarak mesaj doğrulamak kodunu oluşturmaktadır.",
+      "char_count": 680,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0037",
+      "section": "==== Üçlü DES CBC'den kaçınma ====",
+      "heading_path": "==== Üçlü DES CBC'den kaçınma ====",
+      "start_char": 22856,
+      "end_char": 23137,
+      "content": "==== Üçlü DES CBC'den kaçınma ==== Bazı uzmanlar, Triple-DES CBC kullanılmasından kaçınılmasını tavsiye etmektedir. Son desteklenen şifreleme algoritmaları, birçok program Windows XP'nin SSL/TLS kütüphanelerini kullandıkları için, bu kütüphanelere uygun olarak geliştirilmektedir.",
+      "char_count": 280,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0038",
+      "section": "==== Ortadaki adam(MitM) saldırısı ile ilişkisi ====",
+      "heading_path": "==== Ortadaki adam(MitM) saldırısı ile ilişkisi ====",
+      "start_char": 23137,
+      "end_char": 23230,
+      "content": "==== Ortadaki adam(MitM) saldırısı ile ilişkisi ==== Ana makale için: Aradaki adam saldırısı",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0039",
+      "section": "===== İğnelenmiş Dijital Sertifika =====",
+      "heading_path": "===== İğnelenmiş Dijital Sertifika =====",
+      "start_char": 23230,
+      "end_char": 23979,
+      "content": "===== İğnelenmiş Dijital Sertifika ===== Aradaki adam saldırısını engelleme yöntemlerinden biri, dijital sertifikayı iğnelemektir. Bu yöntem iki türlü gerçekleştirilmektedir. Bunlardan ilki, ilk bağlantı esnasında web sitesinden alınan sertifikayı o sitenin gerçek sertifikası olarak kabul edip bundan sonraki bağlantılar sırasında web sitesinden alınan ilk alınan sertifikayla kıyaslayarak devam etme yöntemidir. Diğer yöntem ise Google firması, Chrome'da *.google.com domainleri için kullandığı sertifikayı gömülü olarak bulundurmaktadır. Bu sayede herhangi birisi google.com adresi için aradaki adam saldırısı gerçekleştirmeye çalıştığında, Chrome bunu otomatik olarak kendisinde gömülü olarak bulunan sertifikayla kıyaslayarak hata vermektedir.",
+      "char_count": 748,
+      "token_estimate": 187
+    },
+    {
+      "id": "c0040",
+      "section": "===== DNSChain =====",
+      "heading_path": "===== DNSChain =====",
+      "start_char": 23979,
+      "end_char": 24216,
+      "content": "===== DNSChain ===== DNSChain'deki güvenlik, \"blok zincirleri\" açık anahtarlarının dağıtımına dayanmaktadır. Belirli bir DNSChain sunucusuna güvenli bir kanal açıldıktan sonra diğer tüm açık anahtarlar bu kanal üzerinden iletilmektedir.",
+      "char_count": 236,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0041",
+      "section": "== Daha fazla bilgi ==",
+      "heading_path": "== Daha fazla bilgi ==",
+      "start_char": 24216,
+      "end_char": 25216,
+      "content": "== Daha fazla bilgi == Wagner, David; Schneier, Bruce (Kasım 1996). \"Analysis of the SSL 3.0 Protocol\" (PDF). The Second USENIX Workshop on Electronic Commerce Proceedings. USENIX Press. ss. 29-40. 16 Ekim 2006 tarihinde kaynağından arşivlendi (PDF). Erişim tarihi: 18 Mart 2022. Eric Rescorla (2001). SSL and TLS: Designing and Building Secure Systems. ABD: Addison-Wesley Pub Co. ISBN 0-201-61598-3. Stephen A. Thomas (2000). SSL and TLS essentials securing the Web. New York: Wiley. ISBN 0-471-38354-6. Bard, Gregory (2006). \"A Challenging But Feasible Blockwise-Adaptive Chosen-Plaintext Attack On Ssl\". International Association for Cryptologic Research, 136. 23 Eylül 2011 tarihinde kaynağından arşivlendi23 Eylül 2011. Canvel, Brice. \"Password Interception in a SSL/TLS Channel\". 20 Nisan 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 20 Nisan 2007. IETF Multiple Authors. \"RFC of change for TLS Renegotiation\". 10 Aralık 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 11 Aralık",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0042",
+      "section": "== Daha fazla bilgi ==",
+      "heading_path": "== Daha fazla bilgi ==",
+      "start_char": 25016,
+      "end_char": 25655,
+      "content": " tarihinde kaynağından arşivlendi. Erişim tarihi: 20 Nisan 2007. IETF Multiple Authors. \"RFC of change for TLS Renegotiation\". 10 Aralık 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 11 Aralık 2009. Creating VPNs with IPsec and SSL/TLS 12 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi. Linux Journal article by Rami Rosen Polk, Tim; McKay, Kerry; Chokhani, Santosh (Nisan 2014). \"Guidelines for the Selection, Configuration, and Use of Transport Layer Security (TLS) Implementations\" (PDF). National Institute of Standards and Technology. 4 Mart 2016 tarihinde kaynağından (PDF) arşivlendi. Erişim tarihi: 7 Mayıs 2014.",
+      "char_count": 639,
+      "token_estimate": 159
+    },
+    {
+      "id": "c0043",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 25656,
+      "end_char": 26539,
+      "content": "== Dış bağlantılar == OpenSSL Project 24 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi. SSL Net RFC 5246 - The Transport Layer Security (TLS) Protocol Version 1.2 IETF (Internet Engineering Task Force) TLS Workgroup 2 Temmuz 2014 tarihinde Wayback Machine sitesinde arşivlendi. OWASP: Transport Layer Protection Cheat Sheet A talk on SSL/TLS that tries to explain things in terms that people might understand. 6 Temmuz 2015 tarihinde Wayback Machine sitesinde arşivlendi. SSL: Foundation for Web Security 11 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi. TLS Renegotiation Vulnerability – IETF Tools 6 Temmuz 2015 tarihinde Wayback Machine sitesinde arşivlendi. Trustworthy Internet Movement – SSL Pulse – Survey of TLS/SSL implementation of the most popular web sites How to Generate CSR for SSL7 Haziran 2019 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 882,
+      "token_estimate": 220
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Taşıma Katmanı Güvenliği (TLS) ve Güvenli Soket Katmanı (SSL) ne tür protokollerdir?",
+        "answer": "TLS ve SSL, bilgisayar ağı üzerinden güvenli haberleşmeyi sağlamak için tasarlanmış kriptolama protokolleridir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Netscape Communications tarafından geliştirilen Secure Sockets Layer (SSL) protokolünün zamanla Taşıma Katmanı Güvenliği (TLS) standardına nasıl dönüştüğünü ve bu protokollerin güvenli iletişim sağlamak için asimetrik ve simetrik şifrelemeyi OSI modelinin hangi katmanlarında kullandığını açıklayınız.",
+        "answer": "SSL, Netscape Communications tarafından geliştirilmiştir; SSL 2.0 1995'te, SSL 3.0 ise 1996'da tanımlanmıştır. TLS ise 1999'da tanımlanmış bir IETF standardıdır ve önceki SSL spesifikasyonlarını temel almıştır. Güvenli iletişimi sağlamak için, OSI modelinde TLS/SSL oturum katmanında (5. katman) asimetrik şifreleme kullanarak tarafların kimliğini doğrular ve bir el sıkışma işlemiyle oturum için paylaşılan bir anahtar ve şifreleme ayarları oluşturur. Ardından, sunum katmanı (6. katman) bu oturum anahtarını ve simetrik şifrelemeyi kullanarak haberleşmenin geri kalanını şifreler, böylece veri akışı gizlilik ve bütünlükle korunur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

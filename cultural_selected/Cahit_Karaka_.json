@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "cahitkaraka_72b349d4",
+    "title": "Cahit Karakaş",
+    "url": "https://tr.wikipedia.org/wiki/Cahit_Karaka%C5%9F",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:48.549136",
+    "content": "Cahit Karakaş (1928, Bartın - 7 Eylül 2025, Ankara), Türk inşaat mühendisi ve siyasetçi. 12 Eylül Darbesi sırasında TBMM başkanlığı görevinde bulunmaktaydı. == Hayatı == 1928 yılında Bartın'da doğdu. 1946'da Erzurum Lisesi'ni parasız yatılı olarak bitirdi. 1952 yılında İstanbul Teknik Üniversitesi İnşaat Fakültesi'ni bitirdi. Berlin Teknik Üniversitesi'nde su inşaatı ve su ekonomisi kürsüsünden 1961 yılında doktorasını aldı. Yurda dönünce Bayındırlık Bakanlığının çeşitli alanlarında çalıştı. 1965 seçimleri'nde Adalet Partisi'nden Zonguldak milletvekili seçildi. 1969 yılında tekrar Adalet Partisi'nden milletvekili seçildi. 12 Mart Muhtırası'ndan sonra kurulan I. Nihat Erim kabinesinde Bayındırlık ve Ulaştırma bakanlıklarında bulundu. 1973 yılında Adalet Partisi'nden istifa edip Cumhuriyet Halk Partisi'ne (CHP) geçti. 1973 ve 1977 seçimlerinde yeniden Zonguldak milletvekili seçildi. 17 Kasım 1977'de Türkiye Büyük Millet Meclisi başkanlığına seçildi ve bu görevi 12 Eylül Darbesi'ne (1980) kadar sürdü. Cahit Karakaş 1983 seçimleri ile Halkçı Parti'den Zonguldak milletvekili seçilerek parlamentoya yeniden girdi. Daha sonra Demokratik Sol Parti'ye geçti. 1987 seçimlerine kadar Zonguldak milletvekilliğini sürdürdü. Özellikle uluslararası parlamento kuruluşlarında görev alan Karakaş'ın çeşitli meslekî eserleri vardır. Yaşa bağlı rahatsızlıkları nedeniyle 7 Eylül 2025'te 97 yaşında Ankara'da hayatını kaybetti. 11 Eylül 2025'te Türkiye Büyük Millet Meclisi'nde düzenlenen anma töreni ve Ahmet Hamdi Akseki Camii'nde kılınan cenaze namazı sonrası Devlet Mezarlığı'na defnedildi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 202,
+      "char_count": 1606,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.208426",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 157,
+      "content": "Cahit Karakaş (1928, Bartın - 7 Eylül 2025, Ankara), Türk inşaat mühendisi ve siyasetçi. 12 Eylül Darbesi sırasında TBMM başkanlığı görevinde bulunmaktaydı.",
+      "char_count": 156,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 157,
+      "end_char": 1157,
+      "content": "== Hayatı == 1928 yılında Bartın'da doğdu. 1946'da Erzurum Lisesi'ni parasız yatılı olarak bitirdi. 1952 yılında İstanbul Teknik Üniversitesi İnşaat Fakültesi'ni bitirdi. Berlin Teknik Üniversitesi'nde su inşaatı ve su ekonomisi kürsüsünden 1961 yılında doktorasını aldı. Yurda dönünce Bayındırlık Bakanlığının çeşitli alanlarında çalıştı. 1965 seçimleri'nde Adalet Partisi'nden Zonguldak milletvekili seçildi. 1969 yılında tekrar Adalet Partisi'nden milletvekili seçildi. 12 Mart Muhtırası'ndan sonra kurulan I. Nihat Erim kabinesinde Bayındırlık ve Ulaştırma bakanlıklarında bulundu. 1973 yılında Adalet Partisi'nden istifa edip Cumhuriyet Halk Partisi'ne (CHP) geçti. 1973 ve 1977 seçimlerinde yeniden Zonguldak milletvekili seçildi. 17 Kasım 1977'de Türkiye Büyük Millet Meclisi başkanlığına seçildi ve bu görevi 12 Eylül Darbesi'ne (1980) kadar sürdü. Cahit Karakaş 1983 seçimleri ile Halkçı Parti'den Zonguldak milletvekili seçilerek parlamentoya yeniden girdi. Daha sonra Demokratik Sol Parti'",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 957,
+      "end_char": 1591,
+      "content": "ldi ve bu görevi 12 Eylül Darbesi'ne (1980) kadar sürdü. Cahit Karakaş 1983 seçimleri ile Halkçı Parti'den Zonguldak milletvekili seçilerek parlamentoya yeniden girdi. Daha sonra Demokratik Sol Parti'ye geçti. 1987 seçimlerine kadar Zonguldak milletvekilliğini sürdürdü. Özellikle uluslararası parlamento kuruluşlarında görev alan Karakaş'ın çeşitli meslekî eserleri vardır. Yaşa bağlı rahatsızlıkları nedeniyle 7 Eylül 2025'te 97 yaşında Ankara'da hayatını kaybetti. 11 Eylül 2025'te Türkiye Büyük Millet Meclisi'nde düzenlenen anma töreni ve Ahmet Hamdi Akseki Camii'nde kılınan cenaze namazı sonrası Devlet Mezarlığı'na defnedildi.",
+      "char_count": 634,
+      "token_estimate": 158
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cahit Karakaş kaç yılında ve nerede doğmuştur?",
+        "answer": "1928 yılında Bartın'da doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cahit Karakaş'ın siyasi kariyeri boyunca hangi partilerde görev almıştır ve 12 Eylül Darbesi'nin bu kariyer üzerindeki etkisi ne olmuştur?",
+        "answer": "Cahit Karakaş, siyasi hayatına Adalet Partisi'nde başlamış, ardından Cumhuriyet Halk Partisi'ne geçmiştir. 12 Eylül Darbesi, onun Türkiye Büyük Millet Meclisi başkanlığı görevini sona erdirmiştir. Darbeden sonra ise Halkçı Parti ve Demokratik Sol Parti'de milletvekili olarak parlamentoya tekrar girmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

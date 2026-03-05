@@ -1,0 +1,163 @@
+{
+  "article": {
+    "id": "parkjisung_a9c19b37",
+    "title": "Park Ji-sung",
+    "url": "https://tr.wikipedia.org/wiki/Park_Ji-sung",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:54.651821",
+    "content": "Park Ji-sung Kore Dili ile : 박지성 (d. 25 Şubat 1981, Seul), Güney Koreli eski millî futbolcudur. == Kulüp kariyeri == Futbol'a 1999-2000 yılları arasında Myongji University takımının altyapısında başlamıştır. 2000 yılında Kyoto takımı ile profesyonelliğe geçiş yapmıştır. Burada kendisini kanıtladıktan sonra 2003 yılında Avrupa'ya PSV takımına transfer olmuştur. 2 sezon oynadıktan sonra 2005 yılında Manchester United takımına transfer olmuştur. 14 Mayıs 2014'te düzenlediği basın toplantısıyla futbolculuk kariyerini noktaladığını açıklamıştır. === Kyoto === 2000 ile 2003 yılları arasında ilk profesyonel futbolculuk hayatına bu takımda başlamış ve 3 senede 2 kupa kazanmıştır. Japonya, J1 League şampiyonluğu ve Emperor's Cup şampiyonluğu, bu takımda 76 maçta 11 gol kaydetmiştir. === PSV Eindhoven === Guus Hiddink tarafından 2003 yılında, bir diğer Güney Koreli futbolcu Lee Young-Pyo ile birlikte PSV'ye transfer edilmiştir. Arjen Robben'in Chelsea'ye gitmesinin ardından daha çok oynamaya başlayan futbolcu; Johann Vogel, DaMarcus Beasley, Mark van Bommel ve Phillip Cocu ile beraber PSV'de harika maçlar ortaya koymuştur. 2 sezonda toplam 91 maça çıkmış ve 17 gol kaydetmiştir. === Manchester United === 2005 yılında ise Kurt Hoca Alex Ferguson tarafından Manchester United takımına transfer olmuştur ve kariyerinin en başarılı dönemini burada geçirmiştir. Alex Ferguson'nın adeta kurtarıcısı olmuştur. Manchester United'ın her kulvardaki mücadelesinde yer almasını bilmiştir. 2005 yılından bu yana 123 maça çıkmış 12 gol kaydetmiştir. === QPR === 2012-13 sezonu öncesi 2.500.000 € transfer bedeli ile Queens Park Rangers takımına transfer olmuştur. === PSV Eindhoven === 2013-14 sezonunda eski takımı PSV'ye kiralık olarak geri döndü. Mayıs 2014'te futbolu bıraktığını açıkladı. === Emekliliği === Futbolu bıraktıktan sonra Manchester United'da futbol elçisi olarak çalışmaya başladı. 2016 senesinde De Montfort üniversitesinde Futbol Tarihi ve Kültürü alınında master programına dahil oldu. == Millî takım kariyeri == Güney Kore millî takım formasını ilk kez 2000 yılında giymiştir. Millî takım ile beraber katıldığı turnuvalar; 2000 Asya Futbol Şampiyonası ve 2004 Asya Futbol Şampiyonası, 2000 Yaz Olimpiyatları, 2001 FIFA Konfederasyonlar Kupası, 2002 CONCACAF Altın Kupa, 2002 FIFA Dünya Kupası ve 2006 FIFA Dünya Kupası. 2000 Asya Futbol Şampiyonası'nda üçüncülük, 2002 FIFA Dünya Kupası'nda ise dördüncülük başarılarıdır. Millî formayı toplamda 81 kere giymiş ve 11 gol kaydetmiştir. Güney Kore U-23 millî takım formasını ise 20 defa giymiş 3 gol atmıştır. == Başarıları == Güney Kore ile Asya Futbol Şampiyonası üçüncülük: 2000 FIFA Dünya Kupası dördüncülük : 2002 Kyoto Japonya, J1 League : 2001 Emperor's Cup: 2002 PSV Hollanda, Eredivisie : 2002/03, 2004/05 Hollanda, KNVB Beker : 2005 Manchester United İngiltere, Premier League : 2006/07, 2007/08, 2008/09 EFL Cup : 2005/06, 2008/09 UEFA Şampiyonlar Ligi : 2007/08 FIFA Kulüpler Dünya Kupası : 2008 == Kaynakça == == Dış bağlantılar == FIFA.com'da Park Ji-sung UEFA.com'da Park Ji-sung Soccerbase'te Park Ji-sung National-Football-Teams.com'da Park Ji-sung J.League verileri web sitesinde J.League futbolcu istatistikleri (Japonca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 447,
+      "char_count": 3204,
+      "num_chunks": 11,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.413945",
+    "total_chunks": 11,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 96,
+      "content": "Park Ji-sung Kore Dili ile : 박지성 (d. 25 Şubat 1981, Seul), Güney Koreli eski millî futbolcudur.",
+      "char_count": 95,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0001",
+      "section": "== Kulüp kariyeri ==",
+      "heading_path": "== Kulüp kariyeri ==",
+      "start_char": 96,
+      "end_char": 547,
+      "content": "== Kulüp kariyeri == Futbol'a 1999-2000 yılları arasında Myongji University takımının altyapısında başlamıştır. 2000 yılında Kyoto takımı ile profesyonelliğe geçiş yapmıştır. Burada kendisini kanıtladıktan sonra 2003 yılında Avrupa'ya PSV takımına transfer olmuştur. 2 sezon oynadıktan sonra 2005 yılında Manchester United takımına transfer olmuştur. 14 Mayıs 2014'te düzenlediği basın toplantısıyla futbolculuk kariyerini noktaladığını açıklamıştır.",
+      "char_count": 450,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0002",
+      "section": "=== Kyoto ===",
+      "heading_path": "=== Kyoto ===",
+      "start_char": 547,
+      "end_char": 785,
+      "content": "=== Kyoto === 2000 ile 2003 yılları arasında ilk profesyonel futbolculuk hayatına bu takımda başlamış ve 3 senede 2 kupa kazanmıştır. Japonya, J1 League şampiyonluğu ve Emperor's Cup şampiyonluğu, bu takımda 76 maçta 11 gol kaydetmiştir.",
+      "char_count": 237,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0003",
+      "section": "=== PSV Eindhoven ===",
+      "heading_path": "=== PSV Eindhoven ===",
+      "start_char": 785,
+      "end_char": 1187,
+      "content": "=== PSV Eindhoven === Guus Hiddink tarafından 2003 yılında, bir diğer Güney Koreli futbolcu Lee Young-Pyo ile birlikte PSV'ye transfer edilmiştir. Arjen Robben'in Chelsea'ye gitmesinin ardından daha çok oynamaya başlayan futbolcu; Johann Vogel, DaMarcus Beasley, Mark van Bommel ve Phillip Cocu ile beraber PSV'de harika maçlar ortaya koymuştur. 2 sezonda toplam 91 maça çıkmış ve 17 gol kaydetmiştir.",
+      "char_count": 401,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0004",
+      "section": "=== Manchester United ===",
+      "heading_path": "=== Manchester United ===",
+      "start_char": 1187,
+      "end_char": 1545,
+      "content": "=== Manchester United === 2005 yılında ise Kurt Hoca Alex Ferguson tarafından Manchester United takımına transfer olmuştur ve kariyerinin en başarılı dönemini burada geçirmiştir. Alex Ferguson'nın adeta kurtarıcısı olmuştur. Manchester United'ın her kulvardaki mücadelesinde yer almasını bilmiştir. 2005 yılından bu yana 123 maça çıkmış 12 gol kaydetmiştir.",
+      "char_count": 357,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0005",
+      "section": "=== QPR ===",
+      "heading_path": "=== QPR ===",
+      "start_char": 1545,
+      "end_char": 1659,
+      "content": "=== QPR === 2012-13 sezonu öncesi 2.500.000 € transfer bedeli ile Queens Park Rangers takımına transfer olmuştur.",
+      "char_count": 113,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0006",
+      "section": "=== PSV Eindhoven ===",
+      "heading_path": "=== PSV Eindhoven ===",
+      "start_char": 1659,
+      "end_char": 1789,
+      "content": "=== PSV Eindhoven === 2013-14 sezonunda eski takımı PSV'ye kiralık olarak geri döndü. Mayıs 2014'te futbolu bıraktığını açıkladı.",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0007",
+      "section": "=== Emekliliği ===",
+      "heading_path": "=== Emekliliği ===",
+      "start_char": 1789,
+      "end_char": 2002,
+      "content": "=== Emekliliği === Futbolu bıraktıktan sonra Manchester United'da futbol elçisi olarak çalışmaya başladı. 2016 senesinde De Montfort üniversitesinde Futbol Tarihi ve Kültürü alınında master programına dahil oldu.",
+      "char_count": 212,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0008",
+      "section": "== Millî takım kariyeri ==",
+      "heading_path": "== Millî takım kariyeri ==",
+      "start_char": 2002,
+      "end_char": 2574,
+      "content": "== Millî takım kariyeri == Güney Kore millî takım formasını ilk kez 2000 yılında giymiştir. Millî takım ile beraber katıldığı turnuvalar; 2000 Asya Futbol Şampiyonası ve 2004 Asya Futbol Şampiyonası, 2000 Yaz Olimpiyatları, 2001 FIFA Konfederasyonlar Kupası, 2002 CONCACAF Altın Kupa, 2002 FIFA Dünya Kupası ve 2006 FIFA Dünya Kupası. 2000 Asya Futbol Şampiyonası'nda üçüncülük, 2002 FIFA Dünya Kupası'nda ise dördüncülük başarılarıdır. Millî formayı toplamda 81 kere giymiş ve 11 gol kaydetmiştir. Güney Kore U-23 millî takım formasını ise 20 defa giymiş 3 gol atmıştır.",
+      "char_count": 571,
+      "token_estimate": 142
+    },
+    {
+      "id": "c0009",
+      "section": "== Başarıları ==",
+      "heading_path": "== Başarıları ==",
+      "start_char": 2574,
+      "end_char": 2972,
+      "content": "== Başarıları == Güney Kore ile Asya Futbol Şampiyonası üçüncülük: 2000 FIFA Dünya Kupası dördüncülük : 2002 Kyoto Japonya, J1 League : 2001 Emperor's Cup: 2002 PSV Hollanda, Eredivisie : 2002/03, 2004/05 Hollanda, KNVB Beker : 2005 Manchester United İngiltere, Premier League : 2006/07, 2007/08, 2008/09 EFL Cup : 2005/06, 2008/09 UEFA Şampiyonlar Ligi : 2007/08 FIFA Kulüpler Dünya Kupası : 2008",
+      "char_count": 397,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0010",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2987,
+      "end_char": 3204,
+      "content": "== Dış bağlantılar == FIFA.com'da Park Ji-sung UEFA.com'da Park Ji-sung Soccerbase'te Park Ji-sung National-Football-Teams.com'da Park Ji-sung J.League verileri web sitesinde J.League futbolcu istatistikleri (Japonca)",
+      "char_count": 217,
+      "token_estimate": 54
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bu oyuncu Güney Kore millî takımıyla toplamda kaç kez forma giymiş ve kaç gol atmıştır?",
+        "answer": "Toplamda 81 kez forma giymiş ve 11 gol kaydetmiştir.",
+        "related_chunk_ids": [
+          "c0008"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Park Ji-sung profesyonel kariyerine başladığında ve futbolu bıraktığında yaklaşık olarak kaç yaşındaydı?",
+        "answer": "Park Ji-sung, 1981 doğumlu olup, profesyonel kariyerine 2000 yılında başladığında yaklaşık 19 yaşındaydı. Futbolculuk kariyerini 2014 yılında noktaladığında ise yaklaşık 33 yaşındaydı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

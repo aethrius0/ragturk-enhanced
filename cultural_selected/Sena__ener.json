@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "senaener_79c4c274",
+    "title": "Sena Şener",
+    "url": "https://tr.wikipedia.org/wiki/Sena_%C5%9Eener",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:59.724563",
+    "content": "Sena Şener (d. 19 Eylül 1998, Gaziantep), Türk müzisyendir. Genç yaşta müziğe olan ilgisiyle dikkat çeken Şener, özellikle elektronik müzik prodüktörü Mahmut Orhan ile yaptığı \"Feel\" adlı düetle uluslararası başarı elde etmiştir. == Hayatı == Sena Şener, 19 Eylül 1998 tarihinde Gaziantep'te doğdu. Baba tarafından aslen Kahramanmaraşlıdır. İlkokul 2. sınıfa kadar ailesiyle birlikte Gaziantep'te yaşamış, ardından babasının müzik öğretmeni olarak atanmasıyla İzmir'e taşınmıştır. Babası müzik öğretmenidir. == Müzikal kariyeri == Müziğe 15 yaşındayken başladı. 2016'da yayımlamaya başladığı teklilerini, 14 Eylül 2018'de yayımlanan ilk albümü İnsan Gelir İnsan Geçer'de bir araya getirdi. Lisans eğitimini, Koç Üniversitesi İngiliz Dili & Karşılaştırmalı Edebiyat bölümünde tamamlamıştır. === \"Feel\" Başarısı === Sena Şener, elektronik müzik prodüktörü Mahmut Orhan ile birlikte hazırladığı \"Feel\" adlı şarkı ile büyük bir çıkış yakaladı. YouTube'da yaklaşık 524 milyon izlenmeye ulaşan şarkı, yalnızca Türkiye'de değil, Bulgaristan, Yunanistan ve Romanya gibi ülkelerde de en çok dinlenen parçalar arasında yer aldı. == Diskografi == Albümler İnsan Gelir İnsan Geçer (2018) Tekliler Feel (Mahmut Orhan ile, 2016) Bak Bana (2016) Sevmemeliyiz (2017) Ona (2018) Dostum Değil Uykular (2018) Ölsem (2019) Her An Gidebilirim (2019) Teni Tenime (2020) Kapkaranlık Her Günüm (2020) Affetmem (2020) Yine mi Yol (Cem Adrian ile) (2021) Fly Above (Mahmut Orhan ile) (2021) Benimle Yan (2021) Derinlerde Saklı (2021) Çok Geç Kaldın (2022) Porselen Kalbim (2022) Two Lovebirds in a Cage (Kadebostany ile, 2022) Düşünürsem Ölürüm (2022) Kış Yağmuru - Live (Şanışer ile, 2022) İtirazım Var (2023) Kaybettiklerimi Geri Ver (2023) Affettim Herkesi (2024) Defolup Gidelim (2024) Katkıda Bulunduğu Albümler Birden Geldin Aklıma (Tuna Kiremitçi ve Arkadaşları, 2017) Gözlerin Bulutlu (Hikayesi Var, 2020) Dönmek (Yeni Türkü Zamansız, 2022) == Kaynakça == == Dış bağlantılar == Discogs'ta Sena Şener diskografisi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 278,
+      "char_count": 1994,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.722067",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 230,
+      "content": "Sena Şener (d. 19 Eylül 1998, Gaziantep), Türk müzisyendir. Genç yaşta müziğe olan ilgisiyle dikkat çeken Şener, özellikle elektronik müzik prodüktörü Mahmut Orhan ile yaptığı \"Feel\" adlı düetle uluslararası başarı elde etmiştir.",
+      "char_count": 229,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 230,
+      "end_char": 508,
+      "content": "== Hayatı == Sena Şener, 19 Eylül 1998 tarihinde Gaziantep'te doğdu. Baba tarafından aslen Kahramanmaraşlıdır. İlkokul 2. sınıfa kadar ailesiyle birlikte Gaziantep'te yaşamış, ardından babasının müzik öğretmeni olarak atanmasıyla İzmir'e taşınmıştır. Babası müzik öğretmenidir.",
+      "char_count": 277,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0002",
+      "section": "== Müzikal kariyeri ==",
+      "heading_path": "== Müzikal kariyeri ==",
+      "start_char": 508,
+      "end_char": 790,
+      "content": "== Müzikal kariyeri == Müziğe 15 yaşındayken başladı. 2016'da yayımlamaya başladığı teklilerini, 14 Eylül 2018'de yayımlanan ilk albümü İnsan Gelir İnsan Geçer'de bir araya getirdi. Lisans eğitimini, Koç Üniversitesi İngiliz Dili & Karşılaştırmalı Edebiyat bölümünde tamamlamıştır.",
+      "char_count": 281,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0003",
+      "section": "=== \"Feel\" Başarısı ===",
+      "heading_path": "=== \"Feel\" Başarısı ===",
+      "start_char": 790,
+      "end_char": 1119,
+      "content": "=== \"Feel\" Başarısı === Sena Şener, elektronik müzik prodüktörü Mahmut Orhan ile birlikte hazırladığı \"Feel\" adlı şarkı ile büyük bir çıkış yakaladı. YouTube'da yaklaşık 524 milyon izlenmeye ulaşan şarkı, yalnızca Türkiye'de değil, Bulgaristan, Yunanistan ve Romanya gibi ülkelerde de en çok dinlenen parçalar arasında yer aldı.",
+      "char_count": 328,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0004",
+      "section": "== Diskografi ==",
+      "heading_path": "== Diskografi ==",
+      "start_char": 1119,
+      "end_char": 1923,
+      "content": "== Diskografi == Albümler İnsan Gelir İnsan Geçer (2018) Tekliler Feel (Mahmut Orhan ile, 2016) Bak Bana (2016) Sevmemeliyiz (2017) Ona (2018) Dostum Değil Uykular (2018) Ölsem (2019) Her An Gidebilirim (2019) Teni Tenime (2020) Kapkaranlık Her Günüm (2020) Affetmem (2020) Yine mi Yol (Cem Adrian ile) (2021) Fly Above (Mahmut Orhan ile) (2021) Benimle Yan (2021) Derinlerde Saklı (2021) Çok Geç Kaldın (2022) Porselen Kalbim (2022) Two Lovebirds in a Cage (Kadebostany ile, 2022) Düşünürsem Ölürüm (2022) Kış Yağmuru - Live (Şanışer ile, 2022) İtirazım Var (2023) Kaybettiklerimi Geri Ver (2023) Affettim Herkesi (2024) Defolup Gidelim (2024) Katkıda Bulunduğu Albümler Birden Geldin Aklıma (Tuna Kiremitçi ve Arkadaşları, 2017) Gözlerin Bulutlu (Hikayesi Var, 2020) Dönmek (Yeni Türkü Zamansız, 2022)",
+      "char_count": 803,
+      "token_estimate": 200
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1938,
+      "end_char": 1994,
+      "content": "== Dış bağlantılar == Discogs'ta Sena Şener diskografisi",
+      "char_count": 56,
+      "token_estimate": 14
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Porselen Kalbim single'ı hangi yıl yayınlanmıştır?",
+        "answer": "2022",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sena Şener'in genç yaşta müziğe olan ilgisi ile ailesinin müzikle olan bağlantısı arasında nasıl bir ilişki bulunmaktadır?",
+        "answer": "Sena Şener genç yaşta müziğe ilgi duymuştur ve bu durum babasının müzik öğretmeni olmasıyla ilişkilidir. Ailesi, babasının müzik öğretmeni olarak atanması üzerine İzmir'e taşınmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

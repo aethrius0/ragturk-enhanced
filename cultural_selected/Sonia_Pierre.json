@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "soniapierre_f48cd8ea",
+    "title": "Sonia Pierre",
+    "url": "https://tr.wikipedia.org/wiki/Sonia_Pierre",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:10.317918",
+    "content": "Sonia Pierre olarak bilinen Solange Pierre (4 Temmuz 1963 - 4 Aralık 2011), Haiti'de ya da Dominik Cumhuriyeti'nde doğan Haiti kökenli bireylere yönelik ayrımcılık olan antihaitianizmi sona erdirmek için çalışan Dominik Cumhuriyeti'ndeki bir insan hakları savunucusuydu. Bu çalışmasıyla 2006'da Robert F. Kennedy İnsan Hakları Ödülü'nü kazandı. == Gençlik yılları == Pierre, Dominik Cumhuriyeti, San Cristóbal'daki Villa Altagracia'da, 4 Temmuz 1963'te Haiti kökenli bir aileden (annesi 1957'de geçici bir çalışma izniyle göç etti ve babası yasadışı olarak Dominik topraklarından girdi) dünyaya geldi. On iki çocuğun bir tanesi, Haiti kökenli Dominik Cumhuriyeti'ndeki insanların yaşadığı bir köle olarak adlandırılan bir göçmen işçi kampında yetiştirildi. Doğum belgesi, adını Solain olarak listeliyor; Pierre \"diyor bir hükûmet yetkilisinin verdiği bir hatanın sonucu.\" Uyruğunu Junta Central Electoral (eski) tarafından doğum belgesinin sahte olduğu gerekçesiyle, Haiti'li ebeveynlerinin ikamet durumuyla ve Haiti'den kanıtlayıcı dokümantasyon eksikliği nedeniyle itiraz edildi. 14 yaşındayken, ülkenin samanlıklarından birinde şeker kamışı işçileri tarafından beş günlük bir protesto gösterisi düzenledi ve tutuklanmasına yol açtı. Bununla birlikte, protesto, işçilerin talepleri, yani yaşam alanlarının boyanması, daha iyi araçlar verilmesi ve artırım yapılması gibi halkın dikkatini çekti. == Kariyeri == Sonia Pierre, daha iyi ücret ve yaşam koşulları için protesto gösteren göçmen işçi köyünde Haiti şekeri kamışı işçilerin sözcüsü olduğu için tutuklandığında 13 yaşında bir aktivist oldu. Pierre, Haiti'den gelen bireylere veya Haitili kökenli Dominik Cumhuriyeti'ndeki kişilere karşı antihaitianizm veya önyargılandırma yapmayı amaçlayan sivil toplum örgütü Haiti İnisiyatifi'nde Dominik Kadın Hareketi (MUDHA) direktörü olarak çalıştı. 2005'te Pierre, Dominik doğum belgelerini reddeden iki etnik Haiti çocuğunun davası üzerine Amerikan İnsan Hakları Mahkemesine dilekçe verdi. Yean ve Bosico v. Dominik Cumhuriyeti denilen davada \"vatandaşlığa ve vatandaşlığa erişimde ırk ayrımcılığını yasaklayan insan hakları kanunlarının kabul edildi\". Mahkeme ayrıca Dominik hükûmetine doğum belgelerini vermesini emretti. Bununla birlikte, Dominik Yüksek Mahkemesi daha sonra \"Haitili işçilerin transit olarak değerlendirildiğini\" ve çocuklarının bu nedenle vatandaşlık hakkına sahip olmadığını \"belirtti. == Ödüller == Pierre, çalışmaları için eski ABD Senatörü Ted Kennedy tarafından verilen, ancak ABD Kongresi adına değil, 2006 Robert F. Kennedy İnsan Hakları Ödülünü kazandı. (Bkz.) Ödülünü Pierre'e sunarken ABD Senatörü Edward Kennedy şunları söyledi, \"Sonia Pierre ile bu yolda tanıştığım, çalıştığım ve yolculuk ettiğim için bugün daha iyi bir insanım\" dedi. Sonia'nın benimkinin en acemi, cesur ve merhametsiz insandan biri olduğuna kesin olarak inandırabilirim.\" Pierre ayrıca Uluslararası Af Örgütü'nün 2003 İnsan Hakları Ginetta Sagan Fonu Ödülünü kazandı ve kendisi ve MUDHA, 2002'de UNESCO İnsan Hakları Eğitimi Ödülü'ne aday gösterildi. 2008 yılında, insan haklarının korunması için Giuseppe Motta Madalyası ödülüne layık görüldü. Ayrıca, Birleşik Devletler Dışişleri Bakanlığı tarafından 2010 Uluslararası cesur Kadınlar Ödülü ile onurlandırıldı. == Ölüm == 4 Aralık 2011'de Pierre, 48 yaşındayken Dominik Cumhuriyeti'ndeki San Cristóbal'daki Villa Altagracia'daki hastaneye kaldırılırken kalp krizinden öldü. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 442,
+      "char_count": 3442,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.248300",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 345,
+      "content": "Sonia Pierre olarak bilinen Solange Pierre (4 Temmuz 1963 - 4 Aralık 2011), Haiti'de ya da Dominik Cumhuriyeti'nde doğan Haiti kökenli bireylere yönelik ayrımcılık olan antihaitianizmi sona erdirmek için çalışan Dominik Cumhuriyeti'ndeki bir insan hakları savunucusuydu. Bu çalışmasıyla 2006'da Robert F. Kennedy İnsan Hakları Ödülü'nü kazandı.",
+      "char_count": 344,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0001",
+      "section": "== Gençlik yılları ==",
+      "heading_path": "== Gençlik yılları ==",
+      "start_char": 345,
+      "end_char": 1345,
+      "content": "== Gençlik yılları == Pierre, Dominik Cumhuriyeti, San Cristóbal'daki Villa Altagracia'da, 4 Temmuz 1963'te Haiti kökenli bir aileden (annesi 1957'de geçici bir çalışma izniyle göç etti ve babası yasadışı olarak Dominik topraklarından girdi) dünyaya geldi. On iki çocuğun bir tanesi, Haiti kökenli Dominik Cumhuriyeti'ndeki insanların yaşadığı bir köle olarak adlandırılan bir göçmen işçi kampında yetiştirildi. Doğum belgesi, adını Solain olarak listeliyor; Pierre \"diyor bir hükûmet yetkilisinin verdiği bir hatanın sonucu.\" Uyruğunu Junta Central Electoral (eski) tarafından doğum belgesinin sahte olduğu gerekçesiyle, Haiti'li ebeveynlerinin ikamet durumuyla ve Haiti'den kanıtlayıcı dokümantasyon eksikliği nedeniyle itiraz edildi. 14 yaşındayken, ülkenin samanlıklarından birinde şeker kamışı işçileri tarafından beş günlük bir protesto gösterisi düzenledi ve tutuklanmasına yol açtı. Bununla birlikte, protesto, işçilerin talepleri, yani yaşam alanlarının boyanması, daha iyi araçlar verilmesi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Gençlik yılları ==",
+      "heading_path": "== Gençlik yılları ==",
+      "start_char": 1145,
+      "end_char": 1395,
+      "content": "şçileri tarafından beş günlük bir protesto gösterisi düzenledi ve tutuklanmasına yol açtı. Bununla birlikte, protesto, işçilerin talepleri, yani yaşam alanlarının boyanması, daha iyi araçlar verilmesi ve artırım yapılması gibi halkın dikkatini çekti.",
+      "char_count": 250,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1396,
+      "end_char": 2396,
+      "content": "== Kariyeri == Sonia Pierre, daha iyi ücret ve yaşam koşulları için protesto gösteren göçmen işçi köyünde Haiti şekeri kamışı işçilerin sözcüsü olduğu için tutuklandığında 13 yaşında bir aktivist oldu. Pierre, Haiti'den gelen bireylere veya Haitili kökenli Dominik Cumhuriyeti'ndeki kişilere karşı antihaitianizm veya önyargılandırma yapmayı amaçlayan sivil toplum örgütü Haiti İnisiyatifi'nde Dominik Kadın Hareketi (MUDHA) direktörü olarak çalıştı. 2005'te Pierre, Dominik doğum belgelerini reddeden iki etnik Haiti çocuğunun davası üzerine Amerikan İnsan Hakları Mahkemesine dilekçe verdi. Yean ve Bosico v. Dominik Cumhuriyeti denilen davada \"vatandaşlığa ve vatandaşlığa erişimde ırk ayrımcılığını yasaklayan insan hakları kanunlarının kabul edildi\". Mahkeme ayrıca Dominik hükûmetine doğum belgelerini vermesini emretti. Bununla birlikte, Dominik Yüksek Mahkemesi daha sonra \"Haitili işçilerin transit olarak değerlendirildiğini\" ve çocuklarının bu nedenle vatandaşlık hakkına sahip olmadığını ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 2196,
+      "end_char": 2406,
+      "content": "elerini vermesini emretti. Bununla birlikte, Dominik Yüksek Mahkemesi daha sonra \"Haitili işçilerin transit olarak değerlendirildiğini\" ve çocuklarının bu nedenle vatandaşlık hakkına sahip olmadığını \"belirtti.",
+      "char_count": 210,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0005",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 2407,
+      "end_char": 3265,
+      "content": "== Ödüller == Pierre, çalışmaları için eski ABD Senatörü Ted Kennedy tarafından verilen, ancak ABD Kongresi adına değil, 2006 Robert F. Kennedy İnsan Hakları Ödülünü kazandı. (Bkz.) Ödülünü Pierre'e sunarken ABD Senatörü Edward Kennedy şunları söyledi, \"Sonia Pierre ile bu yolda tanıştığım, çalıştığım ve yolculuk ettiğim için bugün daha iyi bir insanım\" dedi. Sonia'nın benimkinin en acemi, cesur ve merhametsiz insandan biri olduğuna kesin olarak inandırabilirim.\" Pierre ayrıca Uluslararası Af Örgütü'nün 2003 İnsan Hakları Ginetta Sagan Fonu Ödülünü kazandı ve kendisi ve MUDHA, 2002'de UNESCO İnsan Hakları Eğitimi Ödülü'ne aday gösterildi. 2008 yılında, insan haklarının korunması için Giuseppe Motta Madalyası ödülüne layık görüldü. Ayrıca, Birleşik Devletler Dışişleri Bakanlığı tarafından 2010 Uluslararası cesur Kadınlar Ödülü ile onurlandırıldı.",
+      "char_count": 857,
+      "token_estimate": 214
+    },
+    {
+      "id": "c0006",
+      "section": "== Ölüm ==",
+      "heading_path": "== Ölüm ==",
+      "start_char": 3265,
+      "end_char": 3428,
+      "content": "== Ölüm == 4 Aralık 2011'de Pierre, 48 yaşındayken Dominik Cumhuriyeti'ndeki San Cristóbal'daki Villa Altagracia'daki hastaneye kaldırılırken kalp krizinden öldü.",
+      "char_count": 162,
+      "token_estimate": 40
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Pierre nerede ve ne zaman doğdu?",
+        "answer": "Pierre, 4 Temmuz 1963'te Dominik Cumhuriyeti, San Cristóbal'daki Villa Altagracia'da doğdu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sonia Pierre'nin gençlik yıllarındaki deneyimleri, Dominik Cumhuriyeti'nde antihaitianizmi sona erdirmeye yönelik daha sonraki insan hakları savunuculuğunu nasıl şekillendirdi?",
+        "answer": "Sonia Pierre, Haiti kökenli bir ailenin çocuğu olarak Dominik Cumhuriyeti'nde doğmuş ve Haiti kökenli Dominik Cumhuriyeti'ndeki insanların 'köle' olarak adlandırılan göçmen işçi kampında (batey) büyümüştür. Kendi doğum belgesinin sahte olduğu iddia edilmiş ve uyruğu itiraz edilmiştir; bu da ona yönelik ayrımcılığı deneyimlemesine neden olmuştur. Zaten 14 yaşındayken şeker kamışı işçilerinin yaşam ve çalışma koşullarını iyileştirmek için bir protesto düzenlemiş, bu da onun antihaitianizm olarak bilinen Haiti kökenli bireylere yönelik ayrımcılığı sona erdirme çalışmalarına ve insan hakları savunuculuğuna zemin hazırlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

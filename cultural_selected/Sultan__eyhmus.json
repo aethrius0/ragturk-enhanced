@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "sultaneyhmus_39c09562",
+    "title": "Sultan Şeyhmus",
+    "url": "https://tr.wikipedia.org/wiki/Sultan_%C5%9Eeyhmus",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:50.334519",
+    "content": "Sultan Şeyhmus (Kürtçe: Siltan Şêxmûs) ya da tam ismiyle Şeyh Mûsâ bin Mâhîn El-Mardini ez-Zûlî (d. 1077, Mardin; ö. 1164, Mardin), İslam âlimi ve Abdülkâdir Geylânî’nin öğrencisidir. Türbesi Mardin - Diyarbakır yolu üzerindeki Yüce köyündedir. Evliya Çelebi Diyarbakır’dan Mardin’e giderken türbeden “Şeyh Hazret-i Zulî Sultan” diye bahsetmektedir. == Hayatı == Sultan Şeyh Mûsâ, Atlıca (Kürtçe: Ziyareta Hesp, Şêxana Jorî) köyünde doğdu. Evi ve medresesinin izleri günümüze kadar ulaşmıştır. Şeyh Mûsâ'nın soyundan gelen Şeyh Aqil ve Şeyh Ali'nin mezarları da bu köyde bulunmaktadır. Menbic'de aldığı medrese eğitimi yılları haricinde hayatının tamamını Mardin'in Sultanköy (Kürtçe: Şêxan) civarında geçirmiştir. Çağdaşlarının hayatlarının ve faaliyetlerinin bilinmesine karşın, Şeyh Mûsâ'nın devrin önemli ilim merkezlerinden uzak bir köyde yaşamayı tercih etmesi nedeniyle hakkında sınırlı bilgi bulunmaktadır. == Ailesi == Ailesinin kökeni ikinci İslam halifesi Ömer'e kadar uzanmaktadır. Şu anda orijinali Medine-i Münevvere Ârif Hikmet Kütüphanesi'nde bulunan Mevahib'ül-İhsaniyye (Arapça: المواهب الإحسانية ) adlı el yazması nüshada, Halife Ömer'in çocuklarından ve bunların nasıl ve nereye yayıldıklarından bahsedilmekte ve soy zinciri Sultan Şeyh Mûsâ ez-Zuli'ye kadar dayandırılmaktadır. Şeyh Mûsâ'nın ailesi, İslam dinini yaymak için Mekke'den Irak'ın kuzeyindeki Şehrizor ve Tikrit şehirlerine göç etmiş, daha sonra Şeyh Mûsâ'nın babası Şeyh Mahan, Tikrit'ten Mardin şehrine göç etmiştir. Şeyh Mûsâ'nın babasının türbesi Mardin, Yeşilli, Sancar (Kürtçe:Tixub) köyündedir. Kimilerine göre ise türbesi Xurs vadisindeki Alipaşa köyündedir. Şeyh Mûsâ'nın altı oğlu vardı ve büyük oğlu Şeyh Muhammed Said babasının yolunu yaymak için Siirt, Baykan'a giderek Kasımlı Köyü'ne (Kürtçe: Verkanis) yerleşti ve vefatına kadar orada kaldı.  == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 243,
+      "char_count": 1856,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.555223",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 350,
+      "content": "Sultan Şeyhmus (Kürtçe: Siltan Şêxmûs) ya da tam ismiyle Şeyh Mûsâ bin Mâhîn El-Mardini ez-Zûlî (d. 1077, Mardin; ö. 1164, Mardin), İslam âlimi ve Abdülkâdir Geylânî’nin öğrencisidir. Türbesi Mardin - Diyarbakır yolu üzerindeki Yüce köyündedir. Evliya Çelebi Diyarbakır’dan Mardin’e giderken türbeden “Şeyh Hazret-i Zulî Sultan” diye bahsetmektedir.",
+      "char_count": 349,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 350,
+      "end_char": 915,
+      "content": "== Hayatı == Sultan Şeyh Mûsâ, Atlıca (Kürtçe: Ziyareta Hesp, Şêxana Jorî) köyünde doğdu. Evi ve medresesinin izleri günümüze kadar ulaşmıştır. Şeyh Mûsâ'nın soyundan gelen Şeyh Aqil ve Şeyh Ali'nin mezarları da bu köyde bulunmaktadır. Menbic'de aldığı medrese eğitimi yılları haricinde hayatının tamamını Mardin'in Sultanköy (Kürtçe: Şêxan) civarında geçirmiştir. Çağdaşlarının hayatlarının ve faaliyetlerinin bilinmesine karşın, Şeyh Mûsâ'nın devrin önemli ilim merkezlerinden uzak bir köyde yaşamayı tercih etmesi nedeniyle hakkında sınırlı bilgi bulunmaktadır.",
+      "char_count": 564,
+      "token_estimate": 141
+    },
+    {
+      "id": "c0002",
+      "section": "== Ailesi ==",
+      "heading_path": "== Ailesi ==",
+      "start_char": 915,
+      "end_char": 1842,
+      "content": "== Ailesi == Ailesinin kökeni ikinci İslam halifesi Ömer'e kadar uzanmaktadır. Şu anda orijinali Medine-i Münevvere Ârif Hikmet Kütüphanesi'nde bulunan Mevahib'ül-İhsaniyye (Arapça: المواهب الإحسانية ) adlı el yazması nüshada, Halife Ömer'in çocuklarından ve bunların nasıl ve nereye yayıldıklarından bahsedilmekte ve soy zinciri Sultan Şeyh Mûsâ ez-Zuli'ye kadar dayandırılmaktadır. Şeyh Mûsâ'nın ailesi, İslam dinini yaymak için Mekke'den Irak'ın kuzeyindeki Şehrizor ve Tikrit şehirlerine göç etmiş, daha sonra Şeyh Mûsâ'nın babası Şeyh Mahan, Tikrit'ten Mardin şehrine göç etmiştir. Şeyh Mûsâ'nın babasının türbesi Mardin, Yeşilli, Sancar (Kürtçe:Tixub) köyündedir. Kimilerine göre ise türbesi Xurs vadisindeki Alipaşa köyündedir. Şeyh Mûsâ'nın altı oğlu vardı ve büyük oğlu Şeyh Muhammed Said babasının yolunu yaymak için Siirt, Baykan'a giderek Kasımlı Köyü'ne (Kürtçe: Verkanis) yerleşti ve vefatına kadar orada kaldı.",
+      "char_count": 925,
+      "token_estimate": 231
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ailesinin soy zincirini anlatan Mevahib'ül-İhsaniyye adlı el yazması nüshanın orijinali şu anda nerede bulunmaktadır?",
+        "answer": "Medine-i Münevvere Ârif Hikmet Kütüphanesi'nde bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sultan Şeyhmus'un ailesinin göç geçmişi ile onun kendi doğum yeri ve hayatını geçirdiği yerleşim yerleri arasındaki ilişki nedir?",
+        "answer": "Sultan Şeyhmus'un ailesi, İslam dinini yaymak amacıyla Mekke'den Irak'ın kuzeyindeki Şehrizor ve Tikrit'e, ardından da babası Şeyh Mahan tarafından Mardin'e göç etmiştir. Şeyhmus, Mardin'e bağlı Atlıca köyünde doğmuş ve Menbic'deki medrese eğitimi hariç hayatının büyük kısmını Mardin'in Sultanköy civarında geçirmiştir. Bu durum, ailesinin Mardin'e yerleşme geçmişi ile Şeyhmus'un da yaşamını ailesinin kök saldığı bu bölgede sürdürmesi arasında bir bağlantı olduğunu göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

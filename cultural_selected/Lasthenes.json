@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "lasthenes_e5a2a263",
+    "title": "Lasthenes",
+    "url": "https://tr.wikipedia.org/wiki/Lasthenes",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:33.931795",
+    "content": "Lasthenes (Grekçe: Λασθένης) veya Leosthenion (Λεωσθένιον) ya da Sosthenion (Σωσθένιον), antik Trakya bölgesinde bulunan ve Roma ve Bizans dönemlerinde yerleşim görmüş bir kasabadır. Site alanı günümüzde İstanbul'un Avrupa yakasında Sarıyer ilçesine bağlı İstinye semti civarında yer almaktadır. == Tarih == Roma ve Bizans dönemlerinde gelişen kasaba, Leosthenion (Λεωσθένιον) olarak yeniden adlandırıldı ve bu isim Orta Çağ'da Sosthenion (Σωσθένιον) olarak değişti. Bizans döneminin sonunda, bu bölge Stenos olarak biliniyordu ve bu isim daha sonra Stenia'ya dönüştü. İstinye'nin günümüzdeki adı ise bu son isminden gelmektedir. Aziz Mikhael'e adanmış ünlü bir Bizans kilisesi olan Michaelion burada bulunuyordu. Bu kilise, Doğu Hristiyan dünyasındaki yüzlerce diğer kilise için bir model teşkil etmiştir. Geleneğe göre, kilise MS. 4. yüzyılda İmparator I. Konstantin tarafından, şifa ve tıp ile ilişkilendirilen pagan bir tapınağın üzerine inşa edilmiştir. Bu tapınak ise Argonotlar tarafından Zeus'a adanmıştı. 11.yüzyıla gelindiğinde kiliseye bir manastır eklenmiş ve bu kompleks en az 1337 yılına kadar işlevini sürdürmüştür. Michaelion'un, 15. yüzyılda Rumeli Hisarı'nın inşası için malzeme sağlamak amacıyla muhtemelen yıktırıldığı düşünülmektedir. Bölge, 16. yüzyılda Osmanlıların derin doğal limanı bir tersane olarak kullanmasıyla gelişmeye başladı. Burada küçük bir Türk mahallesi kuruldu ve 1547'de bir cami inşa edildi. Bu sırada Rum azınlık ise kıyı şeridi boyunca yaşıyordu. 18. yüzyılda ise köşkler inşa edilmeye başlandı. 1912'de modern bir tersane faaliyete geçti ve 26 Ağustos 1991'e kadar hizmet verdi. 6-7 Eylül 1955'teki İstanbul Pogromu'ndan sonra azınlık sakinlerinin neredeyse tamamı bölgeden ayrıldı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 233,
+      "char_count": 1741,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.353795",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 296,
+      "content": "Lasthenes (Grekçe: Λασθένης) veya Leosthenion (Λεωσθένιον) ya da Sosthenion (Σωσθένιον), antik Trakya bölgesinde bulunan ve Roma ve Bizans dönemlerinde yerleşim görmüş bir kasabadır. Site alanı günümüzde İstanbul'un Avrupa yakasında Sarıyer ilçesine bağlı İstinye semti civarında yer almaktadır.",
+      "char_count": 295,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 296,
+      "end_char": 1296,
+      "content": "== Tarih == Roma ve Bizans dönemlerinde gelişen kasaba, Leosthenion (Λεωσθένιον) olarak yeniden adlandırıldı ve bu isim Orta Çağ'da Sosthenion (Σωσθένιον) olarak değişti. Bizans döneminin sonunda, bu bölge Stenos olarak biliniyordu ve bu isim daha sonra Stenia'ya dönüştü. İstinye'nin günümüzdeki adı ise bu son isminden gelmektedir. Aziz Mikhael'e adanmış ünlü bir Bizans kilisesi olan Michaelion burada bulunuyordu. Bu kilise, Doğu Hristiyan dünyasındaki yüzlerce diğer kilise için bir model teşkil etmiştir. Geleneğe göre, kilise MS. 4. yüzyılda İmparator I. Konstantin tarafından, şifa ve tıp ile ilişkilendirilen pagan bir tapınağın üzerine inşa edilmiştir. Bu tapınak ise Argonotlar tarafından Zeus'a adanmıştı. 11.yüzyıla gelindiğinde kiliseye bir manastır eklenmiş ve bu kompleks en az 1337 yılına kadar işlevini sürdürmüştür. Michaelion'un, 15. yüzyılda Rumeli Hisarı'nın inşası için malzeme sağlamak amacıyla muhtemelen yıktırıldığı düşünülmektedir. Bölge, 16. yüzyılda Osmanlıların derin d",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1096,
+      "end_char": 1726,
+      "content": "ılına kadar işlevini sürdürmüştür. Michaelion'un, 15. yüzyılda Rumeli Hisarı'nın inşası için malzeme sağlamak amacıyla muhtemelen yıktırıldığı düşünülmektedir. Bölge, 16. yüzyılda Osmanlıların derin doğal limanı bir tersane olarak kullanmasıyla gelişmeye başladı. Burada küçük bir Türk mahallesi kuruldu ve 1547'de bir cami inşa edildi. Bu sırada Rum azınlık ise kıyı şeridi boyunca yaşıyordu. 18. yüzyılda ise köşkler inşa edilmeye başlandı. 1912'de modern bir tersane faaliyete geçti ve 26 Ağustos 1991'e kadar hizmet verdi. 6-7 Eylül 1955'teki İstanbul Pogromu'ndan sonra azınlık sakinlerinin neredeyse tamamı bölgeden ayrıldı.",
+      "char_count": 630,
+      "token_estimate": 157
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Michaelion adlı ünlü Bizans kilisesi hangi yüzyılda ve kim tarafından inşa edilmiştir?",
+        "answer": "Michaelion, MS 4. yüzyılda İmparator I. Konstantin tarafından inşa edilmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Antik Trakya'daki Lasthenes kasabası, zamanla İstinye adını alana kadar hangi önemli isim değişikliklerinden geçti ve bu bölgenin dini ve ekonomik işlevleri Roma döneminden modern zamanlara kadar nasıl dönüştü?",
+        "answer": "Antik Trakya bölgesinde Lasthenes olarak bilinen kasaba, Roma ve Bizans dönemlerinde Leosthenion, Orta Çağ'da Sosthenion ve daha sonra Stenos ile Stenia isimlerini alarak günümüzdeki İstinye adını kazanmıştır. Dini açıdan, Argonotlar tarafından Zeus'a adanmış pagan bir tapınağın üzerine 4. yüzyılda İmparator I. Konstantin tarafından ünlü Bizans Michaelion kilisesi inşa edilmiş, bu kilise 11. yüzyılda bir manastır eklenerek en az 1337'ye kadar faaliyet göstermiştir. Michaelion'un 15. yüzyılda Rumeli Hisarı'nın inşası için muhtemelen yıktırılmasının ardından, 16. yüzyılda Osmanlılar bölgenin derin doğal limanını tersane olarak kullanmış, bir Türk mahallesi ve cami kurarken Rum azınlık kıyı şeridinde yaşamıştır. Bölge 18. yüzyılda köşklerle gelişmiş, 1912'de modern bir tersane faaliyete geçmiş ve 1955'teki İstanbul Pogromu'ndan sonra azınlık sakinlerinin büyük kısmı bölgeden ayrılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

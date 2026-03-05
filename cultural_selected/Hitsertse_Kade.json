@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "hitsertsekade_8d4a7413",
+    "title": "Hitsertse Kade",
+    "url": "https://tr.wikipedia.org/wiki/Hitsertse_Kade",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:02.144394",
+    "content": "Hitsertse Kade, Hollanda’nın Güney Hollanda ilinde, Hoeksche Waard belediyesine bağlı küçük bir mezradır. Yerleşim, Numansdorp köyünün batısında, Hollands Diep kıyısında yer almaktadır. == Tarihçe == Hitsertse Kade, tarihsel olarak Numansdorp’un kıyı bölgesine bağlı küçük bir topluluk olarak gelişmiştir. Adını, çevrede bulunan “Hitsert” adlı eski toprak bölgesinden ve kıyı seti (kade) yapısından alır. Bölge, uzun yıllar boyunca tarım ve küçük ölçekli balıkçılıkla geçimini sürdürmüştür. Hitsertse Kade, 20. yüzyılın ortalarına kadar bağımsız bir kıyı topluluğu kimliğini korumuş, daha sonra Hoeksche Waard’ın idari birleşmeleriyle Numansdorp’a bağlanmıştır. Günümüzde Hoeksche Waard belediyesi sınırları içinde kırsal bir yaşam alanı olarak varlığını sürdürmektedir. == Coğrafya == Yerleşim, Hoeksche Waard adasının güney ucunda, Hollands Diep su yoluna yakın bir konumda yer alır. Hitsertse Kade, deniz seviyesine çok yakın olup tarım arazileri, kıyı setleri ve küçük liman yapılarıyla çevrilidir. Bölge, hem kara hem de su taşımacılığına yakın konumuyla dikkat çeker. == Nüfus == 2025 yılı itibarıyla Hitsertse Kade’nin nüfusu yaklaşık 200 kişi civarındadır. Yerleşim, birkaç sokaktan oluşan küçük bir topluluk yapısına sahiptir. Nüfusun büyük kısmı çevredeki tarım ve hizmet sektörlerinde çalışmaktadır. == Gezilecek yerler == Hitsertse Kade, doğal çevresiyle öne çıkan sakin bir kırsal bölgedir. Hollands Diep kıyısı: Yürüyüş ve doğa gözlemi için popüler bir alandır. Hitsertse polderleri: Sulak alan ekosistemleri ve kuş gözlem rotalarıyla bilinir. Numansdorp Marina ve çevresindeki kıyı yolları, bölgeyi ziyaret edenler için ilgi çekici manzaralar sunar. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 224,
+      "char_count": 1679,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.275362",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 186,
+      "content": "Hitsertse Kade, Hollanda’nın Güney Hollanda ilinde, Hoeksche Waard belediyesine bağlı küçük bir mezradır. Yerleşim, Numansdorp köyünün batısında, Hollands Diep kıyısında yer almaktadır.",
+      "char_count": 185,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 186,
+      "end_char": 771,
+      "content": "== Tarihçe == Hitsertse Kade, tarihsel olarak Numansdorp’un kıyı bölgesine bağlı küçük bir topluluk olarak gelişmiştir. Adını, çevrede bulunan “Hitsert” adlı eski toprak bölgesinden ve kıyı seti (kade) yapısından alır. Bölge, uzun yıllar boyunca tarım ve küçük ölçekli balıkçılıkla geçimini sürdürmüştür. Hitsertse Kade, 20. yüzyılın ortalarına kadar bağımsız bir kıyı topluluğu kimliğini korumuş, daha sonra Hoeksche Waard’ın idari birleşmeleriyle Numansdorp’a bağlanmıştır. Günümüzde Hoeksche Waard belediyesi sınırları içinde kırsal bir yaşam alanı olarak varlığını sürdürmektedir.",
+      "char_count": 584,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 771,
+      "end_char": 1074,
+      "content": "== Coğrafya == Yerleşim, Hoeksche Waard adasının güney ucunda, Hollands Diep su yoluna yakın bir konumda yer alır. Hitsertse Kade, deniz seviyesine çok yakın olup tarım arazileri, kıyı setleri ve küçük liman yapılarıyla çevrilidir. Bölge, hem kara hem de su taşımacılığına yakın konumuyla dikkat çeker.",
+      "char_count": 302,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0003",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 1074,
+      "end_char": 1311,
+      "content": "== Nüfus == 2025 yılı itibarıyla Hitsertse Kade’nin nüfusu yaklaşık 200 kişi civarındadır. Yerleşim, birkaç sokaktan oluşan küçük bir topluluk yapısına sahiptir. Nüfusun büyük kısmı çevredeki tarım ve hizmet sektörlerinde çalışmaktadır.",
+      "char_count": 236,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0004",
+      "section": "== Gezilecek yerler ==",
+      "heading_path": "== Gezilecek yerler ==",
+      "start_char": 1311,
+      "end_char": 1665,
+      "content": "== Gezilecek yerler == Hitsertse Kade, doğal çevresiyle öne çıkan sakin bir kırsal bölgedir. Hollands Diep kıyısı: Yürüyüş ve doğa gözlemi için popüler bir alandır. Hitsertse polderleri: Sulak alan ekosistemleri ve kuş gözlem rotalarıyla bilinir. Numansdorp Marina ve çevresindeki kıyı yolları, bölgeyi ziyaret edenler için ilgi çekici manzaralar sunar.",
+      "char_count": 353,
+      "token_estimate": 88
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hitsertse Kade adını hangi iki unsura borçludur?",
+        "answer": "Çevrede bulunan \"Hitsert\" adlı eski toprak bölgesinden ve kıyı seti (kade) yapısından alır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hitsertse Kade'nin Numansdorp ile hem mevcut konumu hem de tarihsel gelişimi açısından ilişkisi nedir?",
+        "answer": "Hitsertse Kade, coğrafi olarak Numansdorp köyünün batısında yer almaktadır. Tarihsel olarak ise Numansdorp'un kıyı bölgesine bağlı küçük bir topluluk olarak gelişmiş ve 20. yüzyılın ortalarına doğru idari birleşmelerle Numansdorp'a bağlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

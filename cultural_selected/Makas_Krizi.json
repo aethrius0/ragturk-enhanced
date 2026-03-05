@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "makaskrizi_d6e65487",
+    "title": "Makas Krizi",
+    "url": "https://tr.wikipedia.org/wiki/Makas_Krizi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:49.442943",
+    "content": "Makas Krizi, 1923'ün başlarında Sovyet tarihinde, Yeni Ekonomik Politika (NEP) sırasında, endüstriyel ve tarımsal fiyatlar arasında genişleyen bir uçurum (\"fiyat makası\") olduğu bir olaya verilen isimdir. Bu terim günümüzde bu ekonomik durumun tarihin birçok döneminde yaşandığı örnekleri tanımlamak için kullanılmaktadır. Açık bir makasın bıçakları gibi, sanayi ve tarım mallarının fiyatları farklılaştı ve 1923'ün Ekiminde, sanayi fiyatlarının 1913 seviyelerinin yüzde 276'sına ve tarım fiyatlarının 1913 seviyelerinin sadece yüzde 89'u olduğu bir zirveye ulaştı. Adı, makas şeklindeki fiyat/zaman grafiğinden ilham alınarak Lev Troçki tarafından verildi. Bu, köylülerin gelirlerinin düştüğü ve üretilmiş mal satın almalarının zorlaştığı anlamına geliyordu. Sonuç olarak, köylüler ürünlerini satmayı bırakıp geçimlik tarıma dönmeye başladılar ve bu da kıtlık korkusuna yol açtı. == Sebepleri == Benzer bir kriz 1916'da meydana gelmişti, örneğin çavdarın fiyatı %47, bir çift çizmenin fiyatı ise %334 arttı. Kriz, tarımsal üretimin 1921-22 kıtlığı ve iç savaştan sonra hızla toparlanması nedeniyle oldu. Buna karşılık, altyapıyı yeniden inşa etme ihtiyacı nedeniyle endüstrinin toparlanması daha uzun sürdü. Bunun ötesinde, hükûmetin ekmeklik tahıl fiyatlarını yapay olarak düşük seviyelerde tutarak başka bir kıtlığı önlemeye çalışması sorunu daha da kötüleştirdi. == Hareketler == 1923'ün Ağustosuna gelindiğinde, krizin yol açtığı bir grev dalgası Rus sanayi merkezlerine yayıldı. Komünist Parti içinde, 46 Bildirisi, RCP Merkez Komitesine gönderilen imzalı bir protesto olarak yapıldı. Hükûmet krizle mücadele etmek için personeli azaltarak, üretimi rasyonelleştirerek, ücretleri ve faydaları kontrol ederek ve tüketici kooperatifleri ağını (Halk Ticaret Komiserliği gibi) genişleterek tüccar ve aracıların (NEPmen) etkisini azaltarak endüstriyel üretim maliyetlerini düşürdü. Bu eylemler sonucunda dengesizlik azalmaya başladı. Nisan 1924'e gelindiğinde, tarımsal fiyat endeksi 92'ye (1913 seviyesine kıyasla) ulaştı ve sanayi endeksi 131'e düştü. Makas krizi, uzun vadede NEP için – 1917 devriminden önce görülen gerilimlerin tekrarı gibi – birçok soruna neden oldu. – == Ayrıca bakınız == Ural-Sibirya yöntemi Fiyat makası == Kaynakça == == Dış bağlantılar == 1924: Makas Krizi 26 Şubat 2014 tarihinde Wayback Machine sitesinde arşivlendi. - \" Smychka ve Makas Krizi\", Sovyet Tarihinin Onyedi Anında , Lewis Siegelbaum'un bir denemesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 324,
+      "char_count": 2442,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.946065",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 881,
+      "content": "Makas Krizi, 1923'ün başlarında Sovyet tarihinde, Yeni Ekonomik Politika (NEP) sırasında, endüstriyel ve tarımsal fiyatlar arasında genişleyen bir uçurum (\"fiyat makası\") olduğu bir olaya verilen isimdir. Bu terim günümüzde bu ekonomik durumun tarihin birçok döneminde yaşandığı örnekleri tanımlamak için kullanılmaktadır. Açık bir makasın bıçakları gibi, sanayi ve tarım mallarının fiyatları farklılaştı ve 1923'ün Ekiminde, sanayi fiyatlarının 1913 seviyelerinin yüzde 276'sına ve tarım fiyatlarının 1913 seviyelerinin sadece yüzde 89'u olduğu bir zirveye ulaştı. Adı, makas şeklindeki fiyat/zaman grafiğinden ilham alınarak Lev Troçki tarafından verildi. Bu, köylülerin gelirlerinin düştüğü ve üretilmiş mal satın almalarının zorlaştığı anlamına geliyordu. Sonuç olarak, köylüler ürünlerini satmayı bırakıp geçimlik tarıma dönmeye başladılar ve bu da kıtlık korkusuna yol açtı.",
+      "char_count": 880,
+      "token_estimate": 220
+    },
+    {
+      "id": "c0001",
+      "section": "== Sebepleri ==",
+      "heading_path": "== Sebepleri ==",
+      "start_char": 881,
+      "end_char": 1367,
+      "content": "== Sebepleri == Benzer bir kriz 1916'da meydana gelmişti, örneğin çavdarın fiyatı %47, bir çift çizmenin fiyatı ise %334 arttı. Kriz, tarımsal üretimin 1921-22 kıtlığı ve iç savaştan sonra hızla toparlanması nedeniyle oldu. Buna karşılık, altyapıyı yeniden inşa etme ihtiyacı nedeniyle endüstrinin toparlanması daha uzun sürdü. Bunun ötesinde, hükûmetin ekmeklik tahıl fiyatlarını yapay olarak düşük seviyelerde tutarak başka bir kıtlığı önlemeye çalışması sorunu daha da kötüleştirdi.",
+      "char_count": 485,
+      "token_estimate": 121
+    },
+    {
+      "id": "c0002",
+      "section": "== Hareketler ==",
+      "heading_path": "== Hareketler ==",
+      "start_char": 1367,
+      "end_char": 2176,
+      "content": "== Hareketler == 1923'ün Ağustosuna gelindiğinde, krizin yol açtığı bir grev dalgası Rus sanayi merkezlerine yayıldı. Komünist Parti içinde, 46 Bildirisi, RCP Merkez Komitesine gönderilen imzalı bir protesto olarak yapıldı. Hükûmet krizle mücadele etmek için personeli azaltarak, üretimi rasyonelleştirerek, ücretleri ve faydaları kontrol ederek ve tüketici kooperatifleri ağını (Halk Ticaret Komiserliği gibi) genişleterek tüccar ve aracıların (NEPmen) etkisini azaltarak endüstriyel üretim maliyetlerini düşürdü. Bu eylemler sonucunda dengesizlik azalmaya başladı. Nisan 1924'e gelindiğinde, tarımsal fiyat endeksi 92'ye (1913 seviyesine kıyasla) ulaştı ve sanayi endeksi 131'e düştü. Makas krizi, uzun vadede NEP için – 1917 devriminden önce görülen gerilimlerin tekrarı gibi – birçok soruna neden oldu. –",
+      "char_count": 808,
+      "token_estimate": 202
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2176,
+      "end_char": 2231,
+      "content": "== Ayrıca bakınız == Ural-Sibirya yöntemi Fiyat makası",
+      "char_count": 54,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2246,
+      "end_char": 2442,
+      "content": "== Dış bağlantılar == 1924: Makas Krizi 26 Şubat 2014 tarihinde Wayback Machine sitesinde arşivlendi. - \" Smychka ve Makas Krizi\", Sovyet Tarihinin Onyedi Anında , Lewis Siegelbaum'un bir denemesi",
+      "char_count": 196,
+      "token_estimate": 49
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Makas Krizi terimi kim tarafından verildi?",
+        "answer": "Lev Troçki",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Makas Krizi'nin temel nedenleri nelerdi ve Sovyet hükûmeti bu krize karşı hangi önlemleri alarak sanayi ve tarım malları arasındaki fiyat dengesizliğini azaltmaya çalıştı?",
+        "answer": "Makas Krizi'nin temel nedenleri, 1921-22 kıtlığı ve iç savaştan sonra tarımsal üretimin hızla toparlanmasına karşın, altyapıyı yeniden inşa etme ihtiyacı nedeniyle endüstrinin toparlanmasının daha uzun sürmesiydi. Hükûmetin ekmeklik tahıl fiyatlarını yapay olarak düşük seviyelerde tutma çabası da sorunu daha da kötüleştirdi. Bu durum, sanayi fiyatlarının tarım fiyatlarına göre çok daha yüksek bir seviyeye ulaşmasına neden oldu. Sovyet hükûmeti bu dengesizliği azaltmak için personeli azaltarak, üretimi rasyonelleştirerek, ücretleri ve faydaları kontrol ederek ve tüketici kooperatifleri ağını genişleterek tüccar ve aracıların etkisini azaltma gibi önlemler aldı. Bu eylemler sonucunda dengesizlik azalmaya başladı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "cristinaarkc_5fa04854",
+    "title": "Cristina (şarkıcı)",
+    "url": "https://tr.wikipedia.org/wiki/Cristina_%28%C5%9Fark%C4%B1c%C4%B1%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:04.140246",
+    "content": "Cristina Monet-Palaci (bilinen sahne adıyla Cristina; 2 Ocak 1959, New York - 1 Nisan 2020, New York), Amerikalı şarkıcıdır. == Yaşamı ve kariyeri == Cristina 2 Ocak 1959'da New York'ta doğdu. 1978'de müziğe başladı. 1980'lerin başında New York'ta \"Ze Plakçılık\" etiketiyle çıkardığı yeni dalga pop müziği tarzında müzik çalışmalarıyla tanındı. Son olarak 2004 yılında iki stüdyo albümü daha yayımlanmıştır. Cristina'nın kaydadeğer müzik çalışmaları arasında; \"Disco Clone\", \"Is That All There Is?\", \"Drive My Car\" ve \"Things Fall Apart\" vb. sayılabilir. == Ölümü == Christina 1 Nisan 2020'de COVID-19 hastalığı nedeniyle New York'ta 61 yaşında ölmüştür. == Diskografi == === Stüdyo albümleri === Cristina (1980, Ze Plakçılık) Sleep It Off (1984, Ze Plakçılık) Doll in the Box (2004, Ze Plakçılık) Sleep It Off (2004, Ze Plakçılık) === Tekliler === \"Disco Clone\" (1978) \"Is That All There Is?\" (1980) \"Drive My Car\" (diğer adı: \"Baby You Can Drive My Car\") (1980) \"La Poupée qui fait non\" (1980) \"Things Fall Apart\" (1981) \"Ticket to the Tropics\" (1984) == Kaynakça == == Dış bağlantılar == Fan site 8 Eylül 2019 tarihinde Wayback Machine sitesinde arşivlendi. Discography on ZE Records 19 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. Vinyl discography at the Wayback Machine Essay by Richard Strange at the Wayback Machine",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 207,
+      "char_count": 1336,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.836120",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 125,
+      "content": "Cristina Monet-Palaci (bilinen sahne adıyla Cristina; 2 Ocak 1959, New York - 1 Nisan 2020, New York), Amerikalı şarkıcıdır.",
+      "char_count": 124,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 125,
+      "end_char": 555,
+      "content": "== Yaşamı ve kariyeri == Cristina 2 Ocak 1959'da New York'ta doğdu. 1978'de müziğe başladı. 1980'lerin başında New York'ta \"Ze Plakçılık\" etiketiyle çıkardığı yeni dalga pop müziği tarzında müzik çalışmalarıyla tanındı. Son olarak 2004 yılında iki stüdyo albümü daha yayımlanmıştır. Cristina'nın kaydadeğer müzik çalışmaları arasında; \"Disco Clone\", \"Is That All There Is?\", \"Drive My Car\" ve \"Things Fall Apart\" vb. sayılabilir.",
+      "char_count": 429,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 555,
+      "end_char": 655,
+      "content": "== Ölümü == Christina 1 Nisan 2020'de COVID-19 hastalığı nedeniyle New York'ta 61 yaşında ölmüştür.",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0003",
+      "section": "=== Stüdyo albümleri ===",
+      "heading_path": "=== Stüdyo albümleri ===",
+      "start_char": 672,
+      "end_char": 832,
+      "content": "=== Stüdyo albümleri === Cristina (1980, Ze Plakçılık) Sleep It Off (1984, Ze Plakçılık) Doll in the Box (2004, Ze Plakçılık) Sleep It Off (2004, Ze Plakçılık)",
+      "char_count": 159,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0004",
+      "section": "=== Tekliler ===",
+      "heading_path": "=== Tekliler ===",
+      "start_char": 832,
+      "end_char": 1054,
+      "content": "=== Tekliler === \"Disco Clone\" (1978) \"Is That All There Is?\" (1980) \"Drive My Car\" (diğer adı: \"Baby You Can Drive My Car\") (1980) \"La Poupée qui fait non\" (1980) \"Things Fall Apart\" (1981) \"Ticket to the Tropics\" (1984)",
+      "char_count": 221,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1069,
+      "end_char": 1336,
+      "content": "== Dış bağlantılar == Fan site 8 Eylül 2019 tarihinde Wayback Machine sitesinde arşivlendi. Discography on ZE Records 19 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. Vinyl discography at the Wayback Machine Essay by Richard Strange at the Wayback Machine",
+      "char_count": 267,
+      "token_estimate": 66
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cristina müzik kariyerine ne zaman başlamıştır?",
+        "answer": "1978 yılında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cristina Monet-Palaci, sahne adıyla Cristina olarak bilinen Amerikalı şarkıcının müzik kariyeri ne zaman başladı ve hangi müzik tarzıyla tanındı?",
+        "answer": "Cristina Monet-Palaci'nin müzik kariyeri 1978'de başladı ve 1980'lerin başında New York'ta \"Ze Plakçılık\" etiketiyle çıkardığı yeni dalga pop müziği tarzındaki çalışmalarıyla tanındı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

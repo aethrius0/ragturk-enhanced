@@ -1,0 +1,144 @@
+{
+  "article": {
+    "id": "leeseungyeon_7877539c",
+    "title": "Lee Seung-yeon",
+    "url": "https://tr.wikipedia.org/wiki/Lee_Seung-yeon",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:37.511278",
+    "content": "Lee Seung-yeon (d. 18 Ağustos 1968), Güney Koreli oyuncu ve talk show sunucusu. == Kişisel hayatı == Lee, Kim Moon-chul ile 2007 yılında sahil kenarında evlendi. Haziran 2009 tarihinde kızları oldu. == Filmografi == === Televizyon dizileri === Left-Handed Wife (KBS2, 2018) Rich Family's Son (MBC, 2018) Schoolgirl Detectives (jTBC, 2014-2015) The Great Seer (SBS, 2012-2013) Happy Ending (jTBC, 2012) The Scarlet Letter (MBC, 2010-2011) Moon Hee (2007) Love and Ambition (2006) Perfect Love (SBS, 2003) Who's My Love (KBS2, 2002) Man of Autumn (MBC, 2001) Oriental Theater (KBS2, 2001) Three Friends (MBC, 2000) (konuk) Medical Center (MBC, 2000-2001) Legends of Love (SBS, 2000) Love Story (SBS, 1999, episode 1 \"Sunflower\") Did You Ever Love? (KBS2, 1999-2000) Heart of Lies (MBC, 1998) Wedding Dress (KBS2, 1997-1998) Ready Go! (MBC, 1997) (konuk) Cinderella (MBC, 1997) First Love (KBS2, 1996-1997) Icing (MBC, 1996) Spider (MBC, 1995) Hotel (MBC, 1995) Sandglass (SBS, 1995) Friday's Woman - 천사없는 천국 (KBS2, 1994) Last Lovers (MBC, 1994) Love Is in Your Embrace (MBC, 1994) Police (KBS2, 1994) Morning Glory (MBC, 1993) Our Paradise (MBC, 1993) === Film === 3-Iron (2004) Again (2002) Saturday, 2:00 p.m. (1998) Change (1997) Piano Man (1996) === Varyete programları === Super Diva 2012 (tvN, 2012) Lee Seung-yeon and 100 Women (Story On, 2011-2013) MBC Prime - 한식의 세계화, 양념에 그 길을 묻다 (MBC, 2010) (narration) Lee Seung-yeon and Lee Soo-geun's Kitchen Road (TrendE, 2010) Talk & City 4 (Story On, 2010) Super Mom Diary (Story On, 2009) Design's Era of Success (SBS, 2008) Goddess of the Wind II Survival Report (tvN, 2008) Style Magazine (OnStyle, 2006) TV Entertainment Tonight (SBS, 2000) Lee Seung-yeon's Say Say Say (SBS, 1998) Summer Go Go (KBS, 1993) 밤으로 가는 Show (KBS, 1993) Youth Sketch (KBS, 1993) Saturday Saturday Is Fun (MBC, 1993-1995) Scoop TV Entertainment (MBC, 1992) 신 전국일주 (KBS, 1992) === Animasyon === Hotel Africa (MBC) == Radyo programları == Lee Seung-yeon's Cine Town (SBS Power FM, 2007-2009) FM Popular Song (KBS, 1994) FM Dating (MBC FM Radio, 1993) == Ödülleri == 2001 KBS Drama Awards: Popülerlik ödülü (Oriental Theater) 2000 SBS Drama Awards: Büyük yıldız ödülü (Legends of Love, Medical Center) 1996 32nd Baeksang Arts Awards: Popüler oyuncu (TV) 1995 MBC Drama Awards: Özel ödül 1992 Miss Korea: Üçüncü 1990 Smile Queen Yarışması: Gülümseyen kraliçe == Kaynakça == == Dış bağlantılar == IMDb'de Lee Seung-yeon Korean Movie Database'te Lee Seung-yeon HanCinema'da Lee Seung-yeon",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 400,
+      "char_count": 2510,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.375920",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 80,
+      "content": "Lee Seung-yeon (d. 18 Ağustos 1968), Güney Koreli oyuncu ve talk show sunucusu.",
+      "char_count": 79,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0001",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 80,
+      "end_char": 199,
+      "content": "== Kişisel hayatı == Lee, Kim Moon-chul ile 2007 yılında sahil kenarında evlendi. Haziran 2009 tarihinde kızları oldu.",
+      "char_count": 118,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0002",
+      "section": "=== Televizyon dizileri ===",
+      "heading_path": "=== Televizyon dizileri ===",
+      "start_char": 216,
+      "end_char": 1150,
+      "content": "=== Televizyon dizileri === Left-Handed Wife (KBS2, 2018) Rich Family's Son (MBC, 2018) Schoolgirl Detectives (jTBC, 2014-2015) The Great Seer (SBS, 2012-2013) Happy Ending (jTBC, 2012) The Scarlet Letter (MBC, 2010-2011) Moon Hee (2007) Love and Ambition (2006) Perfect Love (SBS, 2003) Who's My Love (KBS2, 2002) Man of Autumn (MBC, 2001) Oriental Theater (KBS2, 2001) Three Friends (MBC, 2000) (konuk) Medical Center (MBC, 2000-2001) Legends of Love (SBS, 2000) Love Story (SBS, 1999, episode 1 \"Sunflower\") Did You Ever Love? (KBS2, 1999-2000) Heart of Lies (MBC, 1998) Wedding Dress (KBS2, 1997-1998) Ready Go! (MBC, 1997) (konuk) Cinderella (MBC, 1997) First Love (KBS2, 1996-1997) Icing (MBC, 1996) Spider (MBC, 1995) Hotel (MBC, 1995) Sandglass (SBS, 1995) Friday's Woman - 천사없는 천국 (KBS2, 1994) Last Lovers (MBC, 1994) Love Is in Your Embrace (MBC, 1994) Police (KBS2, 1994) Morning Glory (MBC, 1993) Our Paradise (MBC, 1993)",
+      "char_count": 933,
+      "token_estimate": 233
+    },
+    {
+      "id": "c0003",
+      "section": "=== Film ===",
+      "heading_path": "=== Film ===",
+      "start_char": 1150,
+      "end_char": 1248,
+      "content": "=== Film === 3-Iron (2004) Again (2002) Saturday, 2:00 p.m. (1998) Change (1997) Piano Man (1996)",
+      "char_count": 97,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0004",
+      "section": "=== Varyete programları ===",
+      "heading_path": "=== Varyete programları ===",
+      "start_char": 1248,
+      "end_char": 1904,
+      "content": "=== Varyete programları === Super Diva 2012 (tvN, 2012) Lee Seung-yeon and 100 Women (Story On, 2011-2013) MBC Prime - 한식의 세계화, 양념에 그 길을 묻다 (MBC, 2010) (narration) Lee Seung-yeon and Lee Soo-geun's Kitchen Road (TrendE, 2010) Talk & City 4 (Story On, 2010) Super Mom Diary (Story On, 2009) Design's Era of Success (SBS, 2008) Goddess of the Wind II Survival Report (tvN, 2008) Style Magazine (OnStyle, 2006) TV Entertainment Tonight (SBS, 2000) Lee Seung-yeon's Say Say Say (SBS, 1998) Summer Go Go (KBS, 1993) 밤으로 가는 Show (KBS, 1993) Youth Sketch (KBS, 1993) Saturday Saturday Is Fun (MBC, 1993-1995) Scoop TV Entertainment (MBC, 1992) 신 전국일주 (KBS, 1992)",
+      "char_count": 655,
+      "token_estimate": 163
+    },
+    {
+      "id": "c0005",
+      "section": "=== Animasyon ===",
+      "heading_path": "=== Animasyon ===",
+      "start_char": 1904,
+      "end_char": 1941,
+      "content": "=== Animasyon === Hotel Africa (MBC)",
+      "char_count": 36,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0006",
+      "section": "== Radyo programları ==",
+      "heading_path": "== Radyo programları ==",
+      "start_char": 1941,
+      "end_char": 2077,
+      "content": "== Radyo programları == Lee Seung-yeon's Cine Town (SBS Power FM, 2007-2009) FM Popular Song (KBS, 1994) FM Dating (MBC FM Radio, 1993)",
+      "char_count": 135,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0007",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 2077,
+      "end_char": 2383,
+      "content": "== Ödülleri == 2001 KBS Drama Awards: Popülerlik ödülü (Oriental Theater) 2000 SBS Drama Awards: Büyük yıldız ödülü (Legends of Love, Medical Center) 1996 32nd Baeksang Arts Awards: Popüler oyuncu (TV) 1995 MBC Drama Awards: Özel ödül 1992 Miss Korea: Üçüncü 1990 Smile Queen Yarışması: Gülümseyen kraliçe",
+      "char_count": 305,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2398,
+      "end_char": 2510,
+      "content": "== Dış bağlantılar == IMDb'de Lee Seung-yeon Korean Movie Database'te Lee Seung-yeon HanCinema'da Lee Seung-yeon",
+      "char_count": 112,
+      "token_estimate": 28
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Left-Handed Wife dizisi hangi yıl yayımlanmıştır?",
+        "answer": "2018",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Güney Koreli oyuncu ve talk show sunucusu Lee Seung-yeon, evliliğinin ve kızının doğumunun ardından televizyon dizilerindeki kariyerine nasıl bir şekilde devam etmiştir?",
+        "answer": "Lee Seung-yeon, 2007'deki evliliğinin ve 2009'daki kızının doğumunun ardından televizyon dizilerinde aktif rol almaya devam etmiştir. Bu dönemde Moon Hee (2007), The Scarlet Letter (2010-2011), Happy Ending (2012), The Great Seer (2012-2013), Schoolgirl Detectives (2014-2015), Rich Family's Son (2018) ve Left-Handed Wife (2018) gibi birçok yapımda yer almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "evelynwevercroes_6bfce4d9",
+    "title": "Evelyn Wever-Croes",
+    "url": "https://tr.wikipedia.org/wiki/Evelyn_Wever-Croes",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:40.218403",
+    "content": "Evelyna Christina \"Evelyn\" Wever-Croes (d. 5 Aralık 1966), Arubalı siyasetçi ve Kasım 2017'den bu yana hizmet veren şimdiki Aruba Başbakanı. Bu ofisi elinde tutan ilk kadın. Halk Seçim Hareketi'nin (MEP) üyesidir ve 2011'den beri partinin lideridir. == İlk yılları == Wever-Croes, 5 Aralık 1966'da Leiden'de Hendrik Croes ve Filomena Maria Garrido'nun kızları olarak doğdu. Wever-Croes, 1985-1986 yılları arasında Hollanda Antilleri Üniversitesi'nde Antiller hukukunu okudu. Daha sonra Hollanda'ya taşındı, 1986'dan 1989'a kadar Leiden Üniversitesi'nde vergi hukuku bölümünü okudu. Wever-Croes, 1989'dan 2003'e kadar vergi denetimi için çalıştı ve 1994'ten beri bölüm başkanı olarak çalıştı. Daha sonra 2010 yılına kadar bir hukuk bürosunda Croes, Wever & Tchong'da vergi danışmanı olarak çalıştı ve 2008'den beri aynı zamanda avukat olarak çalıştı. Betico Croes ve eski Adalet Bakanı Rudy Croes, Evelyn'in amcalarıdır. == Siyasi kariyer == Wever-Croes, 2009 seçimlerinde parti listesinde üçüncü sırayı alarak seçildiği 29 Ekim 2009'dan bu yana Aruba Parlementosu'nun bir üyesidir. 2013 yılından bu yana meclis grup lideridir. Başbakan olmak için parlamentodan istifa etti. 2017 genel seçimlerinde Wever-Croes'lu MEP, 9 sandalye aldı. Buna istinaden Onurlu Halk ve Saygı Pueblo Orguyoso y Respeta (POR) ve Seçim Demokrasi Ağı (RED) ile on altı yıl içinde ilk defa bir Aruba koalisyon hükûmeti kurmayı başardı. Bir kadın tarafından yönetilen ilk hükûmetin Başbakanı oldu. == Kabine == Wever-Croes'un kabinesi 17 Kasım 2017'de Vali Alfonso Boekhoudt huzurunda yemin etti. Aruba Parlamentosu'nun sekiz üyesi kabineye katıldı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 229,
+      "char_count": 1637,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.994709",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 250,
+      "content": "Evelyna Christina \"Evelyn\" Wever-Croes (d. 5 Aralık 1966), Arubalı siyasetçi ve Kasım 2017'den bu yana hizmet veren şimdiki Aruba Başbakanı. Bu ofisi elinde tutan ilk kadın. Halk Seçim Hareketi'nin (MEP) üyesidir ve 2011'den beri partinin lideridir.",
+      "char_count": 249,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk yılları ==",
+      "heading_path": "== İlk yılları ==",
+      "start_char": 250,
+      "end_char": 920,
+      "content": "== İlk yılları == Wever-Croes, 5 Aralık 1966'da Leiden'de Hendrik Croes ve Filomena Maria Garrido'nun kızları olarak doğdu. Wever-Croes, 1985-1986 yılları arasında Hollanda Antilleri Üniversitesi'nde Antiller hukukunu okudu. Daha sonra Hollanda'ya taşındı, 1986'dan 1989'a kadar Leiden Üniversitesi'nde vergi hukuku bölümünü okudu. Wever-Croes, 1989'dan 2003'e kadar vergi denetimi için çalıştı ve 1994'ten beri bölüm başkanı olarak çalıştı. Daha sonra 2010 yılına kadar bir hukuk bürosunda Croes, Wever & Tchong'da vergi danışmanı olarak çalıştı ve 2008'den beri aynı zamanda avukat olarak çalıştı. Betico Croes ve eski Adalet Bakanı Rudy Croes, Evelyn'in amcalarıdır.",
+      "char_count": 669,
+      "token_estimate": 167
+    },
+    {
+      "id": "c0002",
+      "section": "== Siyasi kariyer ==",
+      "heading_path": "== Siyasi kariyer ==",
+      "start_char": 920,
+      "end_char": 1471,
+      "content": "== Siyasi kariyer == Wever-Croes, 2009 seçimlerinde parti listesinde üçüncü sırayı alarak seçildiği 29 Ekim 2009'dan bu yana Aruba Parlementosu'nun bir üyesidir. 2013 yılından bu yana meclis grup lideridir. Başbakan olmak için parlamentodan istifa etti. 2017 genel seçimlerinde Wever-Croes'lu MEP, 9 sandalye aldı. Buna istinaden Onurlu Halk ve Saygı Pueblo Orguyoso y Respeta (POR) ve Seçim Demokrasi Ağı (RED) ile on altı yıl içinde ilk defa bir Aruba koalisyon hükûmeti kurmayı başardı. Bir kadın tarafından yönetilen ilk hükûmetin Başbakanı oldu.",
+      "char_count": 550,
+      "token_estimate": 137
+    },
+    {
+      "id": "c0003",
+      "section": "== Kabine ==",
+      "heading_path": "== Kabine ==",
+      "start_char": 1471,
+      "end_char": 1623,
+      "content": "== Kabine == Wever-Croes'un kabinesi 17 Kasım 2017'de Vali Alfonso Boekhoudt huzurunda yemin etti. Aruba Parlamentosu'nun sekiz üyesi kabineye katıldı.",
+      "char_count": 151,
+      "token_estimate": 37
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Wever-Croes ne zaman ve nerede doğmuştur?",
+        "answer": "Wever-Croes, 5 Aralık 1966'da Leiden'de doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Evelyn Wever-Croes'un eğitim ve mesleki geçmişi ile siyasi kariyeri arasındaki temel bağlantılar nelerdir ve bu bağlantılar onu Aruba'nın ilk kadın başbakanı olarak tarihsel pozisyonuna nasıl taşımıştır?",
+        "answer": "Evelyn Wever-Croes, Hollanda Antilleri ve Leiden Üniversitelerinde hukuk eğitimi almış ve 1989'dan 2010'a kadar vergi denetimi, vergi danışmanlığı ve avukatlık gibi mesleki rollerde bulunmuştur. Bu deneyim, 2009'da Aruba Parlamentosu'na seçilmesiyle başlayan siyasi kariyerine temel oluşturmuştur. Parlamentoda grup lideri ve Halk Seçim Hareketi (MEP) lideri olarak görev almasının ardından, 2017 genel seçimlerindeki başarısıyla MEP'in koalisyon kurmasına öncülük etmiş ve Kasım 2017'de Aruba'nın ilk kadın başbakanı olarak tarihe geçmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

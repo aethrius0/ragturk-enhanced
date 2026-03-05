@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "bayrmana_c1012e9e",
+    "title": "Bayrım Ana",
+    "url": "https://tr.wikipedia.org/wiki/Bayr%C4%B1m_Ana",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:48.179286",
+    "content": "Bayrım Ana, Türk mitolojisinde, özellikle de Kafkas Türklerinde Meryem Ana. “Bayrım Biyçe” olarak da adlandırılır. (Biyçe, Kafkaslarda Prenses demektir.) Bayrım kavramı ilk önceleri kadın evliya ve hatta daha geniş olarak “Pir” anlamına gelirken, sonraları Karaçay ve Balkar bölgesinde Meryem Ana'yı nitelemekte kullanılmıştır. Yarı Tanrıça konumundadır. Bazen Kadın ve Çocuk Tanrıçası olarak da görünür. Umay Biyçe, Türklerin Ana Tanrıçası Umay Hanım'dan başkası değildir ve onun tüm özelliklerini taşır. Bayrım Ana (Meryem Ana) ise Hristiyanlığın etkisiyle gelmiştir. Moğolların Alankova Hanımı ile benzer bir biçimde erkek eli değmeden gebe kalmıştır. Alankova ayışığından gebe kalmış, Meryem Ana'nın ise Baş Meleğin Tanrı'dan aldığı emirle kendisine verdiği mucize (rahmine koyduğu ruh) sonucu, babasız olarak çocuğu olmuştur. Meryem ismi İbranice Miriam, Arapça Meryem sözcüklerinden dilimize geçmiştir. Bayrım Öy, Bayrım Ana'dan dilek dilenen yer, Bayrım Gün ise kendisinden dilek dilenen gündür ve bazen Cuma gününe bu ad verilir. Bayrım Ay ise Nevruz yani Mart ayıdır. == Bay Kökü == Türk inanç sisteminde mitolojik varlıkların adlarında kutsallık içeriğini bildiren bir sözcük ve köktür. Örneğin Ülgen ve onun oğulları gibi, en ulu ilâhî varlıkların ve en güçlü şamanların adlarıyla birlikte yer alır. Veya \"Bay Terek\" (Bay Kayın) adı verilen hayat ağacının adında da kullanılır. Bayram sözcüğü ve benzeri bir anlam taşıyan Bay-gün yine bu kavramla alakalıdır. Moğolcada \"Boyan\", \"Bayan\", \"Buyan\" ve \"Poyan\" gibi kişi adlarının içerisinde de korunmuştur. Bay/Pay/May kökü. anlam itibarıyla efsun, büyü, dua ve kurban, şölen, bayram ve benzeri anlayışlarla bağlılık içerir. Anadolu Türkçesinde \"bağı\" sözü, efsuncu, büyücü anlamında kullanılır. Altaylarda, \"baylu\" sözü, dokunulmaz, kutsal ve yasak anlamına gelir. Slav dillerine bu kökten geçen bazı kelimeler vardır. Örneğin Sırp-Hırvatça'da kullanılan, \"Bayati\" (büyülemek, efsunlamak, fala bakmak) gibi... == Etimoloji == (Bay) kökünden türemiştir. Kutluluk anlamı vardır. Bayram kelimesiyle kökteştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 283,
+      "char_count": 2079,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.101236",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Bayrım Ana, Türk mitolojisinde, özellikle de Kafkas Türklerinde Meryem Ana. “Bayrım Biyçe” olarak da adlandırılır. (Biyçe, Kafkaslarda Prenses demektir.) Bayrım kavramı ilk önceleri kadın evliya ve hatta daha geniş olarak “Pir” anlamına gelirken, sonraları Karaçay ve Balkar bölgesinde Meryem Ana'yı nitelemekte kullanılmıştır. Yarı Tanrıça konumundadır. Bazen Kadın ve Çocuk Tanrıçası olarak da görünür. Umay Biyçe, Türklerin Ana Tanrıçası Umay Hanım'dan başkası değildir ve onun tüm özelliklerini taşır. Bayrım Ana (Meryem Ana) ise Hristiyanlığın etkisiyle gelmiştir. Moğolların Alankova Hanımı ile benzer bir biçimde erkek eli değmeden gebe kalmıştır. Alankova ayışığından gebe kalmış, Meryem Ana'nın ise Baş Meleğin Tanrı'dan aldığı emirle kendisine verdiği mucize (rahmine koyduğu ruh) sonucu, babasız olarak çocuğu olmuştur. Meryem ismi İbranice Miriam, Arapça Meryem sözcüklerinden dilimize geçmiştir. Bayrım Öy, Bayrım Ana'dan dilek dilenen yer, Bayrım Gün ise kendisinden dilek dilenen gündü",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1076,
+      "content": "abasız olarak çocuğu olmuştur. Meryem ismi İbranice Miriam, Arapça Meryem sözcüklerinden dilimize geçmiştir. Bayrım Öy, Bayrım Ana'dan dilek dilenen yer, Bayrım Gün ise kendisinden dilek dilenen gündür ve bazen Cuma gününe bu ad verilir. Bayrım Ay ise Nevruz yani Mart ayıdır.",
+      "char_count": 276,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0002",
+      "section": "== Bay Kökü ==",
+      "heading_path": "== Bay Kökü ==",
+      "start_char": 1077,
+      "end_char": 1968,
+      "content": "== Bay Kökü == Türk inanç sisteminde mitolojik varlıkların adlarında kutsallık içeriğini bildiren bir sözcük ve köktür. Örneğin Ülgen ve onun oğulları gibi, en ulu ilâhî varlıkların ve en güçlü şamanların adlarıyla birlikte yer alır. Veya \"Bay Terek\" (Bay Kayın) adı verilen hayat ağacının adında da kullanılır. Bayram sözcüğü ve benzeri bir anlam taşıyan Bay-gün yine bu kavramla alakalıdır. Moğolcada \"Boyan\", \"Bayan\", \"Buyan\" ve \"Poyan\" gibi kişi adlarının içerisinde de korunmuştur. Bay/Pay/May kökü. anlam itibarıyla efsun, büyü, dua ve kurban, şölen, bayram ve benzeri anlayışlarla bağlılık içerir. Anadolu Türkçesinde \"bağı\" sözü, efsuncu, büyücü anlamında kullanılır. Altaylarda, \"baylu\" sözü, dokunulmaz, kutsal ve yasak anlamına gelir. Slav dillerine bu kökten geçen bazı kelimeler vardır. Örneğin Sırp-Hırvatça'da kullanılan, \"Bayati\" (büyülemek, efsunlamak, fala bakmak) gibi...",
+      "char_count": 890,
+      "token_estimate": 222
+    },
+    {
+      "id": "c0003",
+      "section": "== Etimoloji ==",
+      "heading_path": "== Etimoloji ==",
+      "start_char": 1968,
+      "end_char": 2065,
+      "content": "== Etimoloji == (Bay) kökünden türemiştir. Kutluluk anlamı vardır. Bayram kelimesiyle kökteştir.",
+      "char_count": 96,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Türk mitolojisinde, özellikle Kafkas Türklerinde Meryem Ana kim olarak adlandırılır?",
+        "answer": "Bayrım Ana.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Türk inanç sisteminde \"Bay Kökü\"nün kutsallık içeriği ve anlamı, Bayrım Ana'ya atfedilen \"Bayrım Öy\", \"Bayrım Gün\" ve \"Bayrım Ay\" gibi kavramlarla nasıl bir ilişki içindedir?",
+        "answer": "Türk inanç sisteminde mitolojik varlıkların adlarında kutsallık içeriğini bildiren bir kök olan \"Bay Kökü\", efsun, büyü, dua, kurban, şölen ve bayram gibi anlayışlarla bağlılık içerir. Bayrım Ana'dan dilek dilenen yer olan \"Bayrım Öy\", dilek dilenen gün olan \"Bayrım Gün\" ve Nevruz olan \"Bayrım Ay\" gibi kavramlar, Bayrım Ana'nın yarı Tanrıça konumuyla ilişkilendirilen kutsal zamanları ve mekanları ifade ederek, \"Bay Kökü\"nün taşıdığı bu kutsallık ve ritüelistik anlamlarla doğrudan bir bağlantı kurmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

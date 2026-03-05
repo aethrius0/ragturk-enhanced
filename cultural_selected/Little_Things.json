@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "littlethings_3a906990",
+    "title": "Little Things",
+    "url": "https://tr.wikipedia.org/wiki/Little_Things",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:57.898049",
+    "content": "Little Things İngiliz-İrlandalı grup One Direction'ın Take Me Home albümünden ikinci single. Şarkı, ünlü şarkıcı ve söz yazarı Ed Sheeran tarafından One Direction'a verilmiştir. Grup üyelerinin Sheeran'dan aldıkları üçüncü şarkı. == Besteleme == İngiliz şarkıcı ve söz yazarı Sheeran Eylül ayında One Direction'a iki, eskiden yazmış olduğu şarkı verdiğini duyurmuştu. Şarkı Sheeran'nın eski bir kız arkadaşı hakkında. Şarkı kızın kendi hakkında nefret ettiği şeylerin onun için önemli olmadığını ve onu hala sevdiği hakkında. MTV için yaptığı bir röportajda Sheeran şarkının single olacağını duyurmuştu \"Yazdığım en iyi şarkılardan biri, çok tatlı ve sakin bir şarkı\" diyerek şarkıyı tanıtmıştı. Sheeran aynı gün -19 Ekim- şarkıdan en sevdiği bölümü söyledi. 27 Eylüldeyse, One Direction Facebook'ta şarkının bir bölümünü paylaştı: ♫ Your hand fits in mine like it's made just for me, But bear this in mind, it was meant to be And I'm joining up the dots with the freckles on your cheeks, And it all makes sense to me ♫ Şarkı 29 Ekimde hayranlara radyo aracılığıyla duyuruldu. O gün 8 milyon kişi radyoyu aynı anda dinledi. == Kaynakça == One Direction: Take Me Home (CD) – jpc 27 Kasım 2012 tarihinde Wayback Machine sitesinde arşivlendi. One Direction May Debut Ed Sheeran Single Next - Music, Celebrity, Artist News | MTV.com 9 Kasım 2012 tarihinde Wayback Machine sitesinde arşivlendi. One Direction reveal artwork for new single 'Little Things' - Music News - Digital Spy 24 Ekim 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1537,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.555224",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 230,
+      "content": "Little Things İngiliz-İrlandalı grup One Direction'ın Take Me Home albümünden ikinci single. Şarkı, ünlü şarkıcı ve söz yazarı Ed Sheeran tarafından One Direction'a verilmiştir. Grup üyelerinin Sheeran'dan aldıkları üçüncü şarkı.",
+      "char_count": 229,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0001",
+      "section": "== Besteleme ==",
+      "heading_path": "== Besteleme ==",
+      "start_char": 230,
+      "end_char": 1124,
+      "content": "== Besteleme == İngiliz şarkıcı ve söz yazarı Sheeran Eylül ayında One Direction'a iki, eskiden yazmış olduğu şarkı verdiğini duyurmuştu. Şarkı Sheeran'nın eski bir kız arkadaşı hakkında. Şarkı kızın kendi hakkında nefret ettiği şeylerin onun için önemli olmadığını ve onu hala sevdiği hakkında. MTV için yaptığı bir röportajda Sheeran şarkının single olacağını duyurmuştu \"Yazdığım en iyi şarkılardan biri, çok tatlı ve sakin bir şarkı\" diyerek şarkıyı tanıtmıştı. Sheeran aynı gün -19 Ekim- şarkıdan en sevdiği bölümü söyledi. 27 Eylüldeyse, One Direction Facebook'ta şarkının bir bölümünü paylaştı: ♫ Your hand fits in mine like it's made just for me, But bear this in mind, it was meant to be And I'm joining up the dots with the freckles on your cheeks, And it all makes sense to me ♫ Şarkı 29 Ekimde hayranlara radyo aracılığıyla duyuruldu. O gün 8 milyon kişi radyoyu aynı anda dinledi.",
+      "char_count": 893,
+      "token_estimate": 223
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1124,
+      "end_char": 1537,
+      "content": "== Kaynakça == One Direction: Take Me Home (CD) – jpc 27 Kasım 2012 tarihinde Wayback Machine sitesinde arşivlendi. One Direction May Debut Ed Sheeran Single Next - Music, Celebrity, Artist News | MTV.com 9 Kasım 2012 tarihinde Wayback Machine sitesinde arşivlendi. One Direction reveal artwork for new single 'Little Things' - Music News - Digital Spy 24 Ekim 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 413,
+      "token_estimate": 103
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Şarkı hayranlara radyo aracılığıyla hangi tarihte duyuruldu?",
+        "answer": "29 Ekim'de",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ed Sheeran'ın One Direction'a verdiği 'Little Things' şarkısı grubun kendisinden aldığı kaçıncı şarkıdır ve Sheeran bu şarkıyı genel olarak nasıl tanımlamıştır?",
+        "answer": "'Little Things', One Direction'ın Ed Sheeran'dan aldığı üçüncü şarkıdır. Sheeran bu şarkıyı 'Yazdığım en iyi şarkılardan biri, çok tatlı ve sakin bir şarkı' olarak tanımlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "edwardfeser_b63f4f93",
+    "title": "Edward Feser",
+    "url": "https://tr.wikipedia.org/wiki/Edward_Feser",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:15.497505",
+    "content": "Edward Charles Feser (/ˈfeɪzər/ d. 16 Nisan 1968) Amerikalı bir Katolik ve Klasik teist filozoftur. Pasadena, Kaliforniya'daki Pasadena Şehir Koleji'nde Felsefe Doçentidir. == Eğitim == Feser doktora derecesine sahiptir. Felsefe alanında Santa Barbara'daki Kaliforniya Üniversitesi'nden, Claremont Enstitüsü'nden din alanında yüksek lisans derecesine ve Fullerton'daki California Eyalet Üniversitesi'nden felsefe ve dini çalışmalar alanında lisans derecesine sahiptir. Tezinin başlığı Russell, Hayek ve Zihin-Beden Sorunu'dur. Feser, Kaliforniya'daki Crespi Lisesi'nden mezun olmuştur. == Kariyer == Feser, Pasadena Şehir Koleji'nde felsefe doçentidir, Loyola Marymount Üniversitesi'nde misafir öğretim üyesi ve Bowling Green State Üniversitesi'nin Sosyal Felsefe ve Politika Merkezi'nde misafir öğretim üyesi olarak görev yapmaktadır. == Kişisel hayat == Feser, eşi ve altı çocuğuyla birlikte Los Angeles, Kaliforniya'da yaşamaktadır. == Eserler == Tanrı'nın Varlığının Beş Kanıtı (Ignatius Press, 2017) ISBN: 978-1621641339 Aristoteles'in İntikamı: Fiziksel ve Biyolojik Bilimin Metafizik Temelleri (Editiones Scholasticae, 2019) ISBN: 978-3868382006 Nozick Üzerine (Thomson-Wadsworth, 2003) ISBN: 978-0534252335 Hayek'in Cambridge Arkadaşı (Cambridge University Press, 2006) ISBN: 978-0521849777 Zihin Felsefesi (Yeni Başlayanlar İçin Kılavuz) (Oneworld Yayınları, 2007) ISBN: 978-1851684786 Locke (Oneworld Yayınları, 2007) ISBN: 978-1851684892 Son Batıl İnanç: Yeni Ateizmin Reddi (St. Augustine's Press, 2008) ISBN: 978-1587314520 Aquinas (Yeni Başlayanlar İçin Kılavuz) (Oneworld Yayınları, 2009) ISBN: 978-1851686902 Aristoteles on Method and Metaphysics (editör ve katkıda bulunan olarak) (Palgrave Macmillan, 2013) ISBN: 978-0230360914 Skolastik Metafizik: Çağdaş Bir Giriş (Editiones Scholasticae, 2014) ISBN: 978-3868385441 Neo-Scholastic Denemeler (St. Augustine's Press, 2015) ISBN: 978-1587315589 Yazan: Adam Kanı Dökülecek: Ölüm Cezasının Katolik Savunması (Joseph M. Bessette ile birlikte) (Ignatius Press, 2017) ISBN: 978-1621641261 Hepsi Mesih'te Bir: Irkçılığın Katolik Eleştirisi ve Eleştirel Irk Teorisi (Ignatius Press, 2022) ISBN: 978-1621645801 == Ayrıca bakınız == Klasik teizm David Bentley Hart == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 270,
+      "char_count": 2237,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.013385",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 173,
+      "content": "Edward Charles Feser (/ˈfeɪzər/ d. 16 Nisan 1968) Amerikalı bir Katolik ve Klasik teist filozoftur. Pasadena, Kaliforniya'daki Pasadena Şehir Koleji'nde Felsefe Doçentidir.",
+      "char_count": 172,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0001",
+      "section": "== Eğitim ==",
+      "heading_path": "== Eğitim ==",
+      "start_char": 173,
+      "end_char": 586,
+      "content": "== Eğitim == Feser doktora derecesine sahiptir. Felsefe alanında Santa Barbara'daki Kaliforniya Üniversitesi'nden, Claremont Enstitüsü'nden din alanında yüksek lisans derecesine ve Fullerton'daki California Eyalet Üniversitesi'nden felsefe ve dini çalışmalar alanında lisans derecesine sahiptir. Tezinin başlığı Russell, Hayek ve Zihin-Beden Sorunu'dur. Feser, Kaliforniya'daki Crespi Lisesi'nden mezun olmuştur.",
+      "char_count": 412,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyer ==",
+      "heading_path": "== Kariyer ==",
+      "start_char": 586,
+      "end_char": 836,
+      "content": "== Kariyer == Feser, Pasadena Şehir Koleji'nde felsefe doçentidir, Loyola Marymount Üniversitesi'nde misafir öğretim üyesi ve Bowling Green State Üniversitesi'nin Sosyal Felsefe ve Politika Merkezi'nde misafir öğretim üyesi olarak görev yapmaktadır.",
+      "char_count": 249,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0003",
+      "section": "== Kişisel hayat ==",
+      "heading_path": "== Kişisel hayat ==",
+      "start_char": 836,
+      "end_char": 936,
+      "content": "== Kişisel hayat == Feser, eşi ve altı çocuğuyla birlikte Los Angeles, Kaliforniya'da yaşamaktadır.",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0004",
+      "section": "== Eserler ==",
+      "heading_path": "== Eserler ==",
+      "start_char": 936,
+      "end_char": 1936,
+      "content": "== Eserler == Tanrı'nın Varlığının Beş Kanıtı (Ignatius Press, 2017) ISBN: 978-1621641339 Aristoteles'in İntikamı: Fiziksel ve Biyolojik Bilimin Metafizik Temelleri (Editiones Scholasticae, 2019) ISBN: 978-3868382006 Nozick Üzerine (Thomson-Wadsworth, 2003) ISBN: 978-0534252335 Hayek'in Cambridge Arkadaşı (Cambridge University Press, 2006) ISBN: 978-0521849777 Zihin Felsefesi (Yeni Başlayanlar İçin Kılavuz) (Oneworld Yayınları, 2007) ISBN: 978-1851684786 Locke (Oneworld Yayınları, 2007) ISBN: 978-1851684892 Son Batıl İnanç: Yeni Ateizmin Reddi (St. Augustine's Press, 2008) ISBN: 978-1587314520 Aquinas (Yeni Başlayanlar İçin Kılavuz) (Oneworld Yayınları, 2009) ISBN: 978-1851686902 Aristoteles on Method and Metaphysics (editör ve katkıda bulunan olarak) (Palgrave Macmillan, 2013) ISBN: 978-0230360914 Skolastik Metafizik: Çağdaş Bir Giriş (Editiones Scholasticae, 2014) ISBN: 978-3868385441 Neo-Scholastic Denemeler (St. Augustine's Press, 2015) ISBN: 978-1587315589 Yazan: Adam Kanı Dökülec",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Eserler ==",
+      "heading_path": "== Eserler ==",
+      "start_char": 1736,
+      "end_char": 2169,
+      "content": "230360914 Skolastik Metafizik: Çağdaş Bir Giriş (Editiones Scholasticae, 2014) ISBN: 978-3868385441 Neo-Scholastic Denemeler (St. Augustine's Press, 2015) ISBN: 978-1587315589 Yazan: Adam Kanı Dökülecek: Ölüm Cezasının Katolik Savunması (Joseph M. Bessette ile birlikte) (Ignatius Press, 2017) ISBN: 978-1621641261 Hepsi Mesih'te Bir: Irkçılığın Katolik Eleştirisi ve Eleştirel Irk Teorisi (Ignatius Press, 2022) ISBN: 978-1621645801",
+      "char_count": 433,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0006",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2170,
+      "end_char": 2223,
+      "content": "== Ayrıca bakınız == Klasik teizm David Bentley Hart",
+      "char_count": 52,
+      "token_estimate": 13
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Zihin Felsefesi (Yeni Başlayanlar İçin Kılavuz) adlı eserin yayıncısı kimdir?",
+        "answer": "Oneworld Yayınları",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Edward Feser'ın akademik kariyerine zemin hazırlayan eğitim geçmişi ve şu anki mesleki konumu nedir?",
+        "answer": "Edward Feser felsefe alanında doktora derecesini Santa Barbara'daki Kaliforniya Üniversitesi'nden, din alanında yüksek lisans derecesini Claremont Enstitüsü'nden ve felsefe ile dini çalışmalar alanında lisans derecesini Fullerton'daki California Eyalet Üniversitesi'nden almıştır. Şu anda Pasadena, Kaliforniya'daki Pasadena Şehir Koleji'nde Felsefe Doçentidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

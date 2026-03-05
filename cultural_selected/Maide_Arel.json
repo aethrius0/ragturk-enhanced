@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "maidearel_1271f162",
+    "title": "Maide Arel",
+    "url": "https://tr.wikipedia.org/wiki/Maide_Arel",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:49.479949",
+    "content": "Maide Arel (1907, İstanbul - 1997), Türk ressamdır. Kübizmden hareket eden ve geometrik soyutlama getiren bir sanatçıdır. Eserlerinde kadınların günlük uğraşlarını, eğlence ortamlarını, kendilerine ayırdıkları özel zamanları, modern ve sade bir anlatımla sergilemiştir. Türkiye'de kadın sanatçıların örgütlenmesinde etkili görevler üstlenmiştir. == Yaşamı == 1907 yılında İstanbul'da doğdu. İstanbul Güzel Sanatlar Akademisi'nde Nazmi Ziya ve Hikmet Onat Atölyelerinden ders aldı. 1930 yılında Akademi'den mezun oldu. 1935'te ressam Şemsi Arel ile evlendi. Eşinin resim öğretmenliği yaptığı Erzincan'da Fransızca ve müzik öğretmenliği yaptı. 1948'de Ankara Halkevi'nin açtığı yarışmada ikincilik ödülü kazandı. Eşiyle birlikte Paris'e giderek Andre Lhote, Fernand Leger ve Jean Metzinger Atölyelerine devam etti. İlk kişisel sergisini Paris'ten döndükten sonra 1951 yılında eşi ile birlikte İstanbul'da Beyoğlu Fransız Konsoloshanesi Salonu'nda açtı. 1956'da eşi Şemsi Arel ile yurt resimleri yapmak üzere Hatay'a giderek TBMM için bu ili görüntüleyen resimler yaptı. Kendisinin de görev aldığı Uluslararası Sanat Eleştiricileri Kongresi'nin 1954'te İstanbul'da düzenlenmesi nedeniyle açılan sergiye, 1957 yılındaki Edinburgh Festivali'ne katıldı. 1959'da eşi ile Paris'te ortak bir sergi düzenledi. 1960 yılında Kadın Haklarını Koruma Derneği'nin sanat kolu sergisini Paris'e taşıdı ve 1964'te \"Arte Moderne\" müzesinde açılan \"Clup İnternational Feminen\" yıllık sergisinde \"Türk Hamamı\" adlı eseriyle bronz madalya kazandı. \"Çiftetelli\" adlı eseri 1974 yılında Fransa'da Wichy Bienali'nde Uluslararası Büyük Ödül'e, 11. Clermont-Ferrand Çağdaş Sanat Sergisi'nde Kent Özel Ödülü'ne layık görüldü. İlk dönem resimlerine peyzajlarla başlayan sanatçı, Avrupa'dan döndükten sonra soyutlamaya yöneldi. Sanat hayatı boyunca herhangi bir topluluğa bağlı kalmaksızın üslubunu geliştirdi. Resimlerinde insan figürlerini stilize ederken, kübizm felsefesinden yararlanmış fakat kompozisyonlarını geometrik soyutlama anlayışı ile yorumladı. Özel koleksiyon ve müzelerde eserleri bulunmaktadır. 1997 yılında ölmüştür. == Ödülleri == 1948- Ankara Halkevi Sanat Yarışması, İkincilik Ödülü 1964- Paris Milletlerarası Kadın sanatçılar Sergisi, Bronz Madalya 1974- 10. Wichy Bienali, Uluslararası Büyük Ödül 1976- 11. Clermont-Ferrand Çağdaş Sanat Sergisi, Kent Özel Ödülü 1987- Türk kadının Güçlendirme ve Tanıtma Vakfı, Onur Belgesi 1988- Gülhane El Sanatları Festivali, Plaket 1991- Plastik Sanatlar Derneği, Onur Belgesi 1991- Mimar Sinan Üniversitesi, Onur Plaketi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 323,
+      "char_count": 2566,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.949190",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 346,
+      "content": "Maide Arel (1907, İstanbul - 1997), Türk ressamdır. Kübizmden hareket eden ve geometrik soyutlama getiren bir sanatçıdır. Eserlerinde kadınların günlük uğraşlarını, eğlence ortamlarını, kendilerine ayırdıkları özel zamanları, modern ve sade bir anlatımla sergilemiştir. Türkiye'de kadın sanatçıların örgütlenmesinde etkili görevler üstlenmiştir.",
+      "char_count": 345,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 346,
+      "end_char": 1346,
+      "content": "== Yaşamı == 1907 yılında İstanbul'da doğdu. İstanbul Güzel Sanatlar Akademisi'nde Nazmi Ziya ve Hikmet Onat Atölyelerinden ders aldı. 1930 yılında Akademi'den mezun oldu. 1935'te ressam Şemsi Arel ile evlendi. Eşinin resim öğretmenliği yaptığı Erzincan'da Fransızca ve müzik öğretmenliği yaptı. 1948'de Ankara Halkevi'nin açtığı yarışmada ikincilik ödülü kazandı. Eşiyle birlikte Paris'e giderek Andre Lhote, Fernand Leger ve Jean Metzinger Atölyelerine devam etti. İlk kişisel sergisini Paris'ten döndükten sonra 1951 yılında eşi ile birlikte İstanbul'da Beyoğlu Fransız Konsoloshanesi Salonu'nda açtı. 1956'da eşi Şemsi Arel ile yurt resimleri yapmak üzere Hatay'a giderek TBMM için bu ili görüntüleyen resimler yaptı. Kendisinin de görev aldığı Uluslararası Sanat Eleştiricileri Kongresi'nin 1954'te İstanbul'da düzenlenmesi nedeniyle açılan sergiye, 1957 yılındaki Edinburgh Festivali'ne katıldı. 1959'da eşi ile Paris'te ortak bir sergi düzenledi. 1960 yılında Kadın Haklarını Koruma Derneği'ni",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1146,
+      "end_char": 2104,
+      "content": "'te İstanbul'da düzenlenmesi nedeniyle açılan sergiye, 1957 yılındaki Edinburgh Festivali'ne katıldı. 1959'da eşi ile Paris'te ortak bir sergi düzenledi. 1960 yılında Kadın Haklarını Koruma Derneği'nin sanat kolu sergisini Paris'e taşıdı ve 1964'te \"Arte Moderne\" müzesinde açılan \"Clup İnternational Feminen\" yıllık sergisinde \"Türk Hamamı\" adlı eseriyle bronz madalya kazandı. \"Çiftetelli\" adlı eseri 1974 yılında Fransa'da Wichy Bienali'nde Uluslararası Büyük Ödül'e, 11. Clermont-Ferrand Çağdaş Sanat Sergisi'nde Kent Özel Ödülü'ne layık görüldü. İlk dönem resimlerine peyzajlarla başlayan sanatçı, Avrupa'dan döndükten sonra soyutlamaya yöneldi. Sanat hayatı boyunca herhangi bir topluluğa bağlı kalmaksızın üslubunu geliştirdi. Resimlerinde insan figürlerini stilize ederken, kübizm felsefesinden yararlanmış fakat kompozisyonlarını geometrik soyutlama anlayışı ile yorumladı. Özel koleksiyon ve müzelerde eserleri bulunmaktadır. 1997 yılında ölmüştür.",
+      "char_count": 958,
+      "token_estimate": 239
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 2105,
+      "end_char": 2552,
+      "content": "== Ödülleri == 1948- Ankara Halkevi Sanat Yarışması, İkincilik Ödülü 1964- Paris Milletlerarası Kadın sanatçılar Sergisi, Bronz Madalya 1974- 10. Wichy Bienali, Uluslararası Büyük Ödül 1976- 11. Clermont-Ferrand Çağdaş Sanat Sergisi, Kent Özel Ödülü 1987- Türk kadının Güçlendirme ve Tanıtma Vakfı, Onur Belgesi 1988- Gülhane El Sanatları Festivali, Plaket 1991- Plastik Sanatlar Derneği, Onur Belgesi 1991- Mimar Sinan Üniversitesi, Onur Plaketi",
+      "char_count": 446,
+      "token_estimate": 111
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ressam Şemsi Arel ile ne zaman evlendi?",
+        "answer": "1935'te.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Maide Arel'in sanatsal tarzı kariyeri boyunca nasıl gelişti ve sanat yaklaşımını şekillendiren başlıca etkiler nelerdi?",
+        "answer": "Maide Arel'in sanatsal tarzı, ilk dönem peyzajlarıyla başlayıp Avrupa'dan döndükten sonra soyutlamaya yönelerek gelişti. Kübizmden hareket eden ve geometrik soyutlama getiren bir sanatçıydı. Sanat yaklaşımını şekillendiren başlıca etkiler arasında İstanbul Güzel Sanatlar Akademisi'nde aldığı dersler ve özellikle Paris'te Andre Lhote, Fernand Leger ve Jean Metzinger atölyelerinde yaptığı çalışmalar yer almaktadır. Resimlerinde insan figürlerini stilize ederken kübizm felsefesinden yararlanmış ve kompozisyonlarını geometrik soyutlama anlayışıyla yorumlayarak, sanat hayatı boyunca herhangi bir topluluğa bağlı kalmaksızın kendi üslubunu geliştirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

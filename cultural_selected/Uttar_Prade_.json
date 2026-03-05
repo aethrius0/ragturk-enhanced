@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "uttarprade_25214acf",
+    "title": "Uttar Pradeş",
+    "url": "https://tr.wikipedia.org/wiki/Uttar_Prade%C5%9F",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:00.432018",
+    "content": "Uttar Pradeş, Hindistan'ın en kalabalık eyaleti. Büyük bölümü Ganj nehrinin yukarı vadisinde yer alır. Kuzeyde Nepal, kuzeybatıda Uttarakhand eyaleti, batıda Haryana eyaleti ve Delhi birlik toprağı, güneybatıda Racastan, güneyde Madhya Pradeş ve Çhattisgar, güneydoğuda Carkand ve doğuda Bihar eyaletleriyle çevrilidir. Hint Yarımadası'nın kuzey bölgesinde yer alan yoğun nüfuslu eyalet, 200 milyondan fazla nüfusa sahiptir. Britanya yönetimi sırasında 1 Nisan 1937'de Agra ve Oudh Birleşik İlleri olarak kuruldu ve 1950'de Uttar Pradeş olarak yeniden adlandırıldı. Eyalet, başkent Lucknow olmak üzere 18 bölüme ve 75 ilçeye ayrılmıştır. Ana etnik grup, demografik çoğunluğu oluşturan Hindavi halkıdır. 9 Kasım 2000'de, eyaletin Himalaya bölgesinden yeni bir eyalet olan Uttarakhand kurulmuştur. Eyaletin iki büyük ırmağı olan Ganj Nehri ve Yamuna Nehri, Allahabad'da birleşir ve daha sonra doğuda Ganj olarak akar. Hintçe en çok konuşulan dildir ve aynı zamanda devletin resmi dilidir. Hindistan'ın toplam alanının %7.33'üne eşit olan 243.290 kilometre karelik alanı kaplar ve ülkenin dördüncü en büyük eyaletidir. Uttar Pradeş ekonomisi, Hindistan'daki en büyük dördüncü eyalet ekonomisi olup, gayri safi yurt içi hasılası 210 milyar ABD doları ve kişi başına düşen gelir ise 770 ABD dolarıdır. Tarım ve hizmet endüstrisi, eyalet ekonomisinin en büyük parçalarıdır. Hizmet sektörü seyahat ve turizm, otelcilik sektörü, gayrimenkul, sigorta ve finansal danışmanlıklardan oluşmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 205,
+      "char_count": 1500,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.141659",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Uttar Pradeş, Hindistan'ın en kalabalık eyaleti. Büyük bölümü Ganj nehrinin yukarı vadisinde yer alır. Kuzeyde Nepal, kuzeybatıda Uttarakhand eyaleti, batıda Haryana eyaleti ve Delhi birlik toprağı, güneybatıda Racastan, güneyde Madhya Pradeş ve Çhattisgar, güneydoğuda Carkand ve doğuda Bihar eyaletleriyle çevrilidir. Hint Yarımadası'nın kuzey bölgesinde yer alan yoğun nüfuslu eyalet, 200 milyondan fazla nüfusa sahiptir. Britanya yönetimi sırasında 1 Nisan 1937'de Agra ve Oudh Birleşik İlleri olarak kuruldu ve 1950'de Uttar Pradeş olarak yeniden adlandırıldı. Eyalet, başkent Lucknow olmak üzere 18 bölüme ve 75 ilçeye ayrılmıştır. Ana etnik grup, demografik çoğunluğu oluşturan Hindavi halkıdır. 9 Kasım 2000'de, eyaletin Himalaya bölgesinden yeni bir eyalet olan Uttarakhand kurulmuştur. Eyaletin iki büyük ırmağı olan Ganj Nehri ve Yamuna Nehri, Allahabad'da birleşir ve daha sonra doğuda Ganj olarak akar. Hintçe en çok konuşulan dildir ve aynı zamanda devletin resmi dilidir. Hindistan'ın ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1485,
+      "content": "etin iki büyük ırmağı olan Ganj Nehri ve Yamuna Nehri, Allahabad'da birleşir ve daha sonra doğuda Ganj olarak akar. Hintçe en çok konuşulan dildir ve aynı zamanda devletin resmi dilidir. Hindistan'ın toplam alanının %7.33'üne eşit olan 243.290 kilometre karelik alanı kaplar ve ülkenin dördüncü en büyük eyaletidir. Uttar Pradeş ekonomisi, Hindistan'daki en büyük dördüncü eyalet ekonomisi olup, gayri safi yurt içi hasılası 210 milyar ABD doları ve kişi başına düşen gelir ise 770 ABD dolarıdır. Tarım ve hizmet endüstrisi, eyalet ekonomisinin en büyük parçalarıdır. Hizmet sektörü seyahat ve turizm, otelcilik sektörü, gayrimenkul, sigorta ve finansal danışmanlıklardan oluşmaktadır.",
+      "char_count": 685,
+      "token_estimate": 171
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hindistan'ın en kalabalık eyaleti hangisidir?",
+        "answer": "Uttar Pradeş",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Uttar Pradeş, Hindistan'ın en kalabalık eyaleti olmasına rağmen, ülkenin yüzölçümü ve ekonomik büyüklük açısından sıralaması nasıldır?",
+        "answer": "Uttar Pradeş, 200 milyondan fazla nüfusuyla Hindistan'ın en kalabalık eyaleti olmasına rağmen, ülkenin dördüncü en büyük eyaleti (243.290 kilometre kare) ve gayri safi yurt içi hasılası 210 milyar ABD doları ile dördüncü en büyük eyalet ekonomisidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

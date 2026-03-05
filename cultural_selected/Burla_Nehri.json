@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "burlanehri_71e451e4",
+    "title": "Burla Nehri",
+    "url": "https://tr.wikipedia.org/wiki/Burla_Nehri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:35.399120",
+    "content": "Burla (Rusça: Бурла; Kazakça: Борлы, Borlı) Rusya'nın Novosibirsk Oblastı ve Altay Krayı ile Kazakistan'nın Pavlodar eyaletinden akan bir nehirdir. Burla nehir sistemi endoreik bir havzadır. Rusya tarafında nehrin havzası esas olarak Altay Krayı'nda yer almaktadır. Sadece küçük bir bölümü kaynak yerinin bulunduğu Novosibirsk Oblastı'nda yer alır. Rusya'da Novosibirsk Oblastının Ordynskiy rayonu ve Altay Krayı'nın Krutikhinskiy, Burlinskiy, Pankrushikhinskiy, Kabarskiy rayonlarından akmaktadır. Kazakistan'da ise Pavlodar eyaletinin Uspen ilçesinden akmaktadır. == Nehir yolu == Burla'nın kaynakları Obi Platosu'nda, Dolganka köyünün 8 km (5,0 mi) kuzeydoğusunda ve Obi nehir kıyısından sadece 20 km (12 mi) uzaklıktadır. Kabaca güneybatıya doğru akar. Kulunda Ovası'nda nehir dağılır ve akış yer yer kesintiye uğrar. Nehrin son kısımlarında bozkır arazisi boyunca akarken sığ göller oluşur. Göller arasındaki ince kanallar vasıtasıyla akış devam etmektedir. Yeterli yağışın olduğu yıllarda nehir, endoreik bir göl olan Bolşoy Azbulat'a akar, ancak kurak yıllarda Rusya/Kazakistan sınırının doğusundaki Bolşoye Topolnoye Gölü'nde son bulur. Kazakistan sınırından sonra Borlı olarak adlandırılır. Burla, Altay Krayı'nda Kazakistan sınırına yakın, Alman Ulusal Rayonu'nun kuzeyinden geçer. === Nehir kolları === Burla'nın ana kolları; solda 32 km (20 mi) uzunluğundaki Kurya (Курья) ve 55 km (34 mi) uzunluğundaki Kurya (Aksenikha) (Курья (Аксениха)), sağda 70 km (43 mi) uzunluğundaki Çuman (Чуман)'dır. Tüm kollar yazın kurur, ancak Çuman su seviyesinin yüksek olduğu yıllarda Karasuk nehri ile birleşir. == Hidroloji == Burla, 489 kilometre (304 mi) uzunluğunda ve 12.800 kilometrekare (4.900 sq mi)'lik havza alanına sahiptir. Burla havzasında çok sayıda göl bulunmaktadır. Nehrin sığ bölgeleri ve komşu sulak alanlar kışın donar. == Yerleşim yerleri == Nehrin yakınında çok sayıda yerleşim yeri vardır: Alekseyevka, Utyanka, Novoilyinka, Pioner Truda, Topolnoye, Ustyanka, Staropeschanoye, Novoalekseyevka, Novopeschanoye, Burla, Prityka, Mikhaylovka ve Petrovka == Ayrıca bakınız == Rusya'daki nehirler listesi Kazakistan'daki nehirler listesi == Kaynakça == == Dış bağlantılar == Джурбай едет на озеро Большой Ажбулат",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 294,
+      "char_count": 2226,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.097870",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 566,
+      "content": "Burla (Rusça: Бурла; Kazakça: Борлы, Borlı) Rusya'nın Novosibirsk Oblastı ve Altay Krayı ile Kazakistan'nın Pavlodar eyaletinden akan bir nehirdir. Burla nehir sistemi endoreik bir havzadır. Rusya tarafında nehrin havzası esas olarak Altay Krayı'nda yer almaktadır. Sadece küçük bir bölümü kaynak yerinin bulunduğu Novosibirsk Oblastı'nda yer alır. Rusya'da Novosibirsk Oblastının Ordynskiy rayonu ve Altay Krayı'nın Krutikhinskiy, Burlinskiy, Pankrushikhinskiy, Kabarskiy rayonlarından akmaktadır. Kazakistan'da ise Pavlodar eyaletinin Uspen ilçesinden akmaktadır.",
+      "char_count": 565,
+      "token_estimate": 141
+    },
+    {
+      "id": "c0001",
+      "section": "== Nehir yolu ==",
+      "heading_path": "== Nehir yolu ==",
+      "start_char": 566,
+      "end_char": 1292,
+      "content": "== Nehir yolu == Burla'nın kaynakları Obi Platosu'nda, Dolganka köyünün 8 km (5,0 mi) kuzeydoğusunda ve Obi nehir kıyısından sadece 20 km (12 mi) uzaklıktadır. Kabaca güneybatıya doğru akar. Kulunda Ovası'nda nehir dağılır ve akış yer yer kesintiye uğrar. Nehrin son kısımlarında bozkır arazisi boyunca akarken sığ göller oluşur. Göller arasındaki ince kanallar vasıtasıyla akış devam etmektedir. Yeterli yağışın olduğu yıllarda nehir, endoreik bir göl olan Bolşoy Azbulat'a akar, ancak kurak yıllarda Rusya/Kazakistan sınırının doğusundaki Bolşoye Topolnoye Gölü'nde son bulur. Kazakistan sınırından sonra Borlı olarak adlandırılır. Burla, Altay Krayı'nda Kazakistan sınırına yakın, Alman Ulusal Rayonu'nun kuzeyinden geçer.",
+      "char_count": 725,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0002",
+      "section": "=== Nehir kolları ===",
+      "heading_path": "=== Nehir kolları ===",
+      "start_char": 1292,
+      "end_char": 1609,
+      "content": "=== Nehir kolları === Burla'nın ana kolları; solda 32 km (20 mi) uzunluğundaki Kurya (Курья) ve 55 km (34 mi) uzunluğundaki Kurya (Aksenikha) (Курья (Аксениха)), sağda 70 km (43 mi) uzunluğundaki Çuman (Чуман)'dır. Tüm kollar yazın kurur, ancak Çuman su seviyesinin yüksek olduğu yıllarda Karasuk nehri ile birleşir.",
+      "char_count": 316,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0003",
+      "section": "== Hidroloji ==",
+      "heading_path": "== Hidroloji ==",
+      "start_char": 1609,
+      "end_char": 1837,
+      "content": "== Hidroloji == Burla, 489 kilometre (304 mi) uzunluğunda ve 12.800 kilometrekare (4.900 sq mi)'lik havza alanına sahiptir. Burla havzasında çok sayıda göl bulunmaktadır. Nehrin sığ bölgeleri ve komşu sulak alanlar kışın donar.",
+      "char_count": 227,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0004",
+      "section": "== Yerleşim yerleri ==",
+      "heading_path": "== Yerleşim yerleri ==",
+      "start_char": 1837,
+      "end_char": 2070,
+      "content": "== Yerleşim yerleri == Nehrin yakınında çok sayıda yerleşim yeri vardır: Alekseyevka, Utyanka, Novoilyinka, Pioner Truda, Topolnoye, Ustyanka, Staropeschanoye, Novoalekseyevka, Novopeschanoye, Burla, Prityka, Mikhaylovka ve Petrovka",
+      "char_count": 232,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2070,
+      "end_char": 2152,
+      "content": "== Ayrıca bakınız == Rusya'daki nehirler listesi Kazakistan'daki nehirler listesi",
+      "char_count": 81,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2167,
+      "end_char": 2226,
+      "content": "== Dış bağlantılar == Джурбай едет на озеро Большой Ажбулат",
+      "char_count": 59,
+      "token_estimate": 14
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Burla Nehri'nin kaynakları nerede bulunmaktadır?",
+        "answer": "Burla Nehri'nin kaynakları Obi Platosu'nda, Dolganka köyünün 8 km kuzeydoğusunda yer almaktadır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Burla Nehri'nin endoreik havza sistemine ait olması, nehrin akış yolu ve nihai varış noktası üzerinde nasıl bir etkiye sahiptir?",
+        "answer": "Burla Nehri'nin endoreik bir havza sistemi olması nedeniyle, nehir Obi Platosu'ndaki kaynaklarından güneybatıya doğru akarken Kulunda Ovası'nda dağılır ve akışı yer yer kesintiye uğrayarak bozkır arazisinde sığ göller oluşturur. Nihai varış noktası yağış miktarına göre değişir: yeterli yağışın olduğu yıllarda endoreik bir göl olan Bolşoy Azbulat'a akar, ancak kurak yıllarda Rusya/Kazakistan sınırının doğusundaki Bolşoye Topolnoye Gölü'nde son bulur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

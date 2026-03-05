@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "renalkolik_bfe78cc0",
+    "title": "Renal kolik",
+    "url": "https://tr.wikipedia.org/wiki/Renal_kolik",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:52.345566",
+    "content": "Renal kolik, yaygın olarak üreter'in yerinden çıkan böbrek taşı nedeniyle tıkanmasının neden olduğu bir karın ağrısı türüdür. En sık tıkanıklık bölgesi, üst idrar yolunun en dar noktası olan veziko-üreterik bağlantıdır (VUJ). Akut engelleme ve buna bağlı üriner staz (idrar akışının bozulması) idrar yolunu (hidronefroz) şişirebilir ve idrar yolu sinir ağı (pleksus) yoluyla iletilen çok yoğun bir iç organ ağrısına yol açan refleks peristaltik düz kas spazmına neden olabilir. == İşaretler ve belirtiler == Böbrek koliği genellikle yanda başlar ve sıklıkla kaburgaların altına veya kasık'a yayılır. Tipik olarak üreterik peristalsis nedeniyle dalgalar halinde gelir ancak sabit olabilir. Genellikle en şiddetli ağrılardan biri olarak tanımlanır. Bu durum çok ağrılı olabilse de, 5 mm'nin altındaki çoğu üreter taşı sonunda tedaviye ihtiyaç duymadan mesaneye geçer ve kalıcı bir fiziksel hasara neden olmaz. Deneyimin, şiddetli ağrı nedeniyle travmatize edici olduğu ve taş parçalarının yanı sıra kan ve pıhtılaşma deneyimi olduğu söylenir. Çoğu durumda, böbrek koliği olan kişilere geçişi kolaylaştırmak için daha fazla su içmeleri tavsiye edilir; diğer durumlarda litotripsi veya endoskopik cerrahi gerekebilir. Nüks olasılığını en aza indirmek için önleyici tedavi uygulanabilir. == Teşhis == Renal kolik teşhisi, böbrek taşı ve üreter taşı teşhisi ile aynıdır. === Ayırıcı tanı === Renal kolik aşağıdaki durumlardan ayırt edilmelidir: biliyer kolik ve kolesistit aort ve iliak anevrizmalar (sol yan ağrısı, hipertansiyonu veya aterosklerozu olan yaşlı hastalarda) interstisyel: apandisit, divertikülit veya peritonit (bu durumda hastalar huzursuz olmaktansa hareketsiz yatmayı tercih ederler) jinekolojik: endometriozis, yumurtalık burulması ve dış gebelik testis torsiyonu == Tedavi == Küçük taşların çoğu kendiliğinden düşer ve yalnızca ağrı tedavisi gerekir. 5 mm (0,20 in) üzerinde kendiliğinden taş düşürme oranı azalır. Diklofenak veya ibuprofen gibi NSAID'ler (Nonsteroid antiinflamatuar ilaç) ve butilskopolamin gibi antispazmodikler kullanılır. Morfin acil ağrı idaresine yardımcı olmak için verilebilmesine rağmen, morfin bağımlılık yaptığı ve üreter basıncını yükselterek durumu kötüleştirdiği için genellikle önerilmez. Kusma, özellikle petidin içeren opioidlerin önemli bir yan etkisi olarak kabul edilir. Ağızdan verilen narkotik ilaçlar da sıklıkla kullanılır. Hasta için genellikle antaljik bir pozisyon yoktur (ağrıyan tarafa uzanmak ve etkilenen bölgeye sıcak bir şişe veya havlu uygulamak yardımcı olabilir). Daha büyük taşların çıkarılması için şok dalgası litotripsi, lazer litotripsi, üreteroskopi veya perkütan nefrolitotomi gibi cerrahi müdahale gerekebilir. Taşın üreterde olduğu durumlarda alfa bloker tedavisi de yapılabilmektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 368,
+      "char_count": 2777,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.342750",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 478,
+      "content": "Renal kolik, yaygın olarak üreter'in yerinden çıkan böbrek taşı nedeniyle tıkanmasının neden olduğu bir karın ağrısı türüdür. En sık tıkanıklık bölgesi, üst idrar yolunun en dar noktası olan veziko-üreterik bağlantıdır (VUJ). Akut engelleme ve buna bağlı üriner staz (idrar akışının bozulması) idrar yolunu (hidronefroz) şişirebilir ve idrar yolu sinir ağı (pleksus) yoluyla iletilen çok yoğun bir iç organ ağrısına yol açan refleks peristaltik düz kas spazmına neden olabilir.",
+      "char_count": 477,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0001",
+      "section": "== İşaretler ve belirtiler ==",
+      "heading_path": "== İşaretler ve belirtiler ==",
+      "start_char": 478,
+      "end_char": 1283,
+      "content": "== İşaretler ve belirtiler == Böbrek koliği genellikle yanda başlar ve sıklıkla kaburgaların altına veya kasık'a yayılır. Tipik olarak üreterik peristalsis nedeniyle dalgalar halinde gelir ancak sabit olabilir. Genellikle en şiddetli ağrılardan biri olarak tanımlanır. Bu durum çok ağrılı olabilse de, 5 mm'nin altındaki çoğu üreter taşı sonunda tedaviye ihtiyaç duymadan mesaneye geçer ve kalıcı bir fiziksel hasara neden olmaz. Deneyimin, şiddetli ağrı nedeniyle travmatize edici olduğu ve taş parçalarının yanı sıra kan ve pıhtılaşma deneyimi olduğu söylenir. Çoğu durumda, böbrek koliği olan kişilere geçişi kolaylaştırmak için daha fazla su içmeleri tavsiye edilir; diğer durumlarda litotripsi veya endoskopik cerrahi gerekebilir. Nüks olasılığını en aza indirmek için önleyici tedavi uygulanabilir.",
+      "char_count": 804,
+      "token_estimate": 201
+    },
+    {
+      "id": "c0002",
+      "section": "== Teşhis ==",
+      "heading_path": "== Teşhis ==",
+      "start_char": 1283,
+      "end_char": 1365,
+      "content": "== Teşhis == Renal kolik teşhisi, böbrek taşı ve üreter taşı teşhisi ile aynıdır.",
+      "char_count": 81,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0003",
+      "section": "=== Ayırıcı tanı ===",
+      "heading_path": "=== Ayırıcı tanı ===",
+      "start_char": 1365,
+      "end_char": 1778,
+      "content": "=== Ayırıcı tanı === Renal kolik aşağıdaki durumlardan ayırt edilmelidir: biliyer kolik ve kolesistit aort ve iliak anevrizmalar (sol yan ağrısı, hipertansiyonu veya aterosklerozu olan yaşlı hastalarda) interstisyel: apandisit, divertikülit veya peritonit (bu durumda hastalar huzursuz olmaktansa hareketsiz yatmayı tercih ederler) jinekolojik: endometriozis, yumurtalık burulması ve dış gebelik testis torsiyonu",
+      "char_count": 412,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0004",
+      "section": "== Tedavi ==",
+      "heading_path": "== Tedavi ==",
+      "start_char": 1778,
+      "end_char": 2763,
+      "content": "== Tedavi == Küçük taşların çoğu kendiliğinden düşer ve yalnızca ağrı tedavisi gerekir. 5 mm (0,20 in) üzerinde kendiliğinden taş düşürme oranı azalır. Diklofenak veya ibuprofen gibi NSAID'ler (Nonsteroid antiinflamatuar ilaç) ve butilskopolamin gibi antispazmodikler kullanılır. Morfin acil ağrı idaresine yardımcı olmak için verilebilmesine rağmen, morfin bağımlılık yaptığı ve üreter basıncını yükselterek durumu kötüleştirdiği için genellikle önerilmez. Kusma, özellikle petidin içeren opioidlerin önemli bir yan etkisi olarak kabul edilir. Ağızdan verilen narkotik ilaçlar da sıklıkla kullanılır. Hasta için genellikle antaljik bir pozisyon yoktur (ağrıyan tarafa uzanmak ve etkilenen bölgeye sıcak bir şişe veya havlu uygulamak yardımcı olabilir). Daha büyük taşların çıkarılması için şok dalgası litotripsi, lazer litotripsi, üreteroskopi veya perkütan nefrolitotomi gibi cerrahi müdahale gerekebilir. Taşın üreterde olduğu durumlarda alfa bloker tedavisi de yapılabilmektedir.",
+      "char_count": 984,
+      "token_estimate": 246
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Morfin, acil ağrı idaresine yardımcı olmasına rağmen neden genellikle önerilmemektedir?",
+        "answer": "Morfin bağımlılık yaptığı ve üreter basıncını yükselterek durumu kötüleştirdiği için genellikle önerilmez.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "INTERPRETATION"
+      },
+      {
+        "question": "Renal koliğin temel fizyolojik mekanizması, neden bu durumun şiddetli ve dalgalar halinde gelen bir ağrı olarak tanımlanmasına yol açar?",
+        "answer": "Renal koliğin fizyolojik mekanizmasında, üreterin böbrek taşı nedeniyle tıkanması idrar akışını bozarak (üriner staz) ve idrar yolunu şişirerek (hidronefroz) refleks peristaltik düz kas spazmına neden olur. Bu spazmlar, idrar yolu sinir ağı aracılığıyla iletilen çok yoğun bir iç organ ağrısına yol açar ve ağrının üreterik peristalsis nedeniyle dalgalar halinde gelmesine ve en şiddetli ağrılardan biri olarak tanımlanmasına neden olur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

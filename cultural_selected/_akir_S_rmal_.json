@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "akirsrmal_689e7e31",
+    "title": "Şakir Sırmalı",
+    "url": "https://tr.wikipedia.org/wiki/%C5%9Eakir_S%C4%B1rmal%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:29.065340",
+    "content": "Şakir Sırmalı (26 Mart 1916 - 3 Nisan 2004), Türk yönetmen ve senaryo yazarıdır. == Yaşamı == Küçük yaştan beri sinemaya ilgili olan Sırmalı, Şişli Terakki Lisesi'ni bitirdi. İstanbul Hukuk Fakültesi'nde okurken 2. Dünya Savaşı nedeniyle askere alınarak eğitimine ara verdi. Askerliğini tamamladıktan sonra çeşitli dergilerde sinema üzerine yazılar yazdı. 1945 yılında Temel Karamahmut ve Ertuğrul Tokdemir ile Sema Filmi kurdu. 1946 yılında Şükûfe Nihal Başar'ın eserinden Domaniç Yolcusu / Unutulan Sır filminin çekimine başladı. İki yıl sonunda 1948'de gösterime giren filmin ticari başarısızlığı nedeniyle Sema Filmi kapattı. 1953 yılında Türk Film Dostları Derneği tarafından düzenlenen I. Türk Filmleri Yarışması'nda, 1952-1953 sezonuna ait filmler arasından Efelerin Efesi en başarılı beş filmden biri, Şakir Sırmalı ise en başarılı beş yönetmenden biri seçildi. 1953 yılında başladığı Vahşi İntikam filminin çekimleri yarım kaldı. 1957'de Sırmalı Filmi kurdu ve aynı yıl Alexandre Dumas'ın Kamelyalı Kadın adlı romanından aynı isimle bir uyarlama yaptı. Bu filmden sonra Sırmalı, yönetmenliği bıraktı. Süreyya Duru'nun yönettiği Dişi Örümcek (1963), Döner Ayna (1964), Aşk ve İntikam (1965) filmlerinin senaryosunu yazdı. == Filmografi == === Yönetmen === Kamelyalı Kadın (1957) Efelerin Efesi (1952) Domaniç Yolcusu / Unutulan Sır (1946) === Senaryo === Aşk ve İntikam (1965) Döner Ayna (1964) Dişi Örümcek (1963) Kamelyalı Kadın (1957) Efelerin Efesi (1952) Domaniç Yolcusu / Unutulan Sır (1946) === Yapımcı === Kamelyalı Kadın (1957) Sevda Sahilleri (1956) == Kaynakça == == Dış bağlantılar == IMDb'de Şakir Sırmalı SinemaTürk'te Şakir Sırmalı",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 235,
+      "char_count": 1654,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.854265",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 81,
+      "content": "Şakir Sırmalı (26 Mart 1916 - 3 Nisan 2004), Türk yönetmen ve senaryo yazarıdır.",
+      "char_count": 80,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 81,
+      "end_char": 1081,
+      "content": "== Yaşamı == Küçük yaştan beri sinemaya ilgili olan Sırmalı, Şişli Terakki Lisesi'ni bitirdi. İstanbul Hukuk Fakültesi'nde okurken 2. Dünya Savaşı nedeniyle askere alınarak eğitimine ara verdi. Askerliğini tamamladıktan sonra çeşitli dergilerde sinema üzerine yazılar yazdı. 1945 yılında Temel Karamahmut ve Ertuğrul Tokdemir ile Sema Filmi kurdu. 1946 yılında Şükûfe Nihal Başar'ın eserinden Domaniç Yolcusu / Unutulan Sır filminin çekimine başladı. İki yıl sonunda 1948'de gösterime giren filmin ticari başarısızlığı nedeniyle Sema Filmi kapattı. 1953 yılında Türk Film Dostları Derneği tarafından düzenlenen I. Türk Filmleri Yarışması'nda, 1952-1953 sezonuna ait filmler arasından Efelerin Efesi en başarılı beş filmden biri, Şakir Sırmalı ise en başarılı beş yönetmenden biri seçildi. 1953 yılında başladığı Vahşi İntikam filminin çekimleri yarım kaldı. 1957'de Sırmalı Filmi kurdu ve aynı yıl Alexandre Dumas'ın Kamelyalı Kadın adlı romanından aynı isimle bir uyarlama yaptı. Bu filmden sonra Sı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 881,
+      "end_char": 1229,
+      "content": "a başladığı Vahşi İntikam filminin çekimleri yarım kaldı. 1957'de Sırmalı Filmi kurdu ve aynı yıl Alexandre Dumas'ın Kamelyalı Kadın adlı romanından aynı isimle bir uyarlama yaptı. Bu filmden sonra Sırmalı, yönetmenliği bıraktı. Süreyya Duru'nun yönettiği Dişi Örümcek (1963), Döner Ayna (1964), Aşk ve İntikam (1965) filmlerinin senaryosunu yazdı.",
+      "char_count": 348,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0003",
+      "section": "=== Yönetmen ===",
+      "heading_path": "=== Yönetmen ===",
+      "start_char": 1247,
+      "end_char": 1347,
+      "content": "=== Yönetmen === Kamelyalı Kadın (1957) Efelerin Efesi (1952) Domaniç Yolcusu / Unutulan Sır (1946)",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0004",
+      "section": "=== Senaryo ===",
+      "heading_path": "=== Senaryo ===",
+      "start_char": 1347,
+      "end_char": 1506,
+      "content": "=== Senaryo === Aşk ve İntikam (1965) Döner Ayna (1964) Dişi Örümcek (1963) Kamelyalı Kadın (1957) Efelerin Efesi (1952) Domaniç Yolcusu / Unutulan Sır (1946)",
+      "char_count": 158,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0005",
+      "section": "=== Yapımcı ===",
+      "heading_path": "=== Yapımcı ===",
+      "start_char": 1506,
+      "end_char": 1568,
+      "content": "=== Yapımcı === Kamelyalı Kadın (1957) Sevda Sahilleri (1956)",
+      "char_count": 61,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1583,
+      "end_char": 1654,
+      "content": "== Dış bağlantılar == IMDb'de Şakir Sırmalı SinemaTürk'te Şakir Sırmalı",
+      "char_count": 71,
+      "token_estimate": 17
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Şakir Sırmalı, Temel Karamahmut ve Ertuğrul Tokdemir ile birlikte Sema Filmi'ni hangi yıl kurmuştur?",
+        "answer": "1945 yılında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yönetmen ve senaryo yazarı Şakir Sırmalı'nın ilk film denemesi Domaniç Yolcusu / Unutulan Sır'ın ticari başarısızlığına rağmen, daha sonraki yıllarda sinema alanında hangi önemli başarıları elde etti?",
+        "answer": "Şakir Sırmalı, ilk filmi Domaniç Yolcusu / Unutulan Sır'ın ticari başarısızlığının ardından, 1953 yılında Türk Film Dostları Derneği tarafından düzenlenen I. Türk Filmleri Yarışması'nda, Efelerin Efesi filmiyle en başarılı beş filmden biri seçildi ve kendisi de en başarılı beş yönetmenden biri olarak tanındı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

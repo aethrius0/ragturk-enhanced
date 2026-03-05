@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "safirrengi_a8225ae4",
+    "title": "Safir rengi",
+    "url": "https://tr.wikipedia.org/wiki/Safir_rengi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:06.989830",
+    "content": "Safir, mavinin doymuş bir tonudur ve adını aynı adı taşıyan safir taşından alır. Safir taşı, çoğu farklı tonda olmasına rağmen mavi renkten oluşur. Renk olan safirin varyasyonlarının diğer isimleri aşağıda gösterilen mavi safir veya safir mavisidir. == Safir == Sağ tarafta safir rengi görülmektedir. İngilizce'de bir renk adı olarak ilk kez kaydedilen safirin kullanımı 1430'da oldu. == Safirin çeşitleri == === Safir mavisi === Sağ tarafta safir mavisi görülmektedir. === Orta tonlu safir === Orta tonlu safir 1994 yılında tanıtılan Crayola boya kalemleri özel seti olan Crayola Gem Tones'de safir olarak adlandırılan renktir. === B'dazzled blue === B'dazzled blue, 2001 yılında tanıtılan özel Crayola boya kalemi seti Crayola Metallic FX'in bir rengidir. === Mavi safir === Sağ tarafta mavi safir görülmektedir. === Kara safir === 'Kara safir safirin koyu bir tonudur. == Kültürde Safir == Alkollü içecekler Bombay Safiri popüler bir cin markasıdır. İsmini soluk safir renginde olan bardağından alır. İsim olarak kullanımı Sapphire Afrikan Amerikalı kadınların kullandığı bir isimdir. Müzik 'İnci safiri mavisi' K-pop grubu Super Junior'ın rengidir. Din Kutsal Kitap Eski Ahit Hezekiel Kitabında Allah Cennette bir safir üzerine oturduğu belirtilmiştir. Televizyon Bir bilimkurgu TV şovu olan Sürgü dizisinin bir bölümünde alternatif kainatta Golden Gate Köprüsü safir renklidir ve \"Sapphire Gate Köprüsü\" olarak geçmektedir. == Ayrıca bakınız == Renkler listesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 215,
+      "char_count": 1480,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.249222",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 250,
+      "content": "Safir, mavinin doymuş bir tonudur ve adını aynı adı taşıyan safir taşından alır. Safir taşı, çoğu farklı tonda olmasına rağmen mavi renkten oluşur. Renk olan safirin varyasyonlarının diğer isimleri aşağıda gösterilen mavi safir veya safir mavisidir.",
+      "char_count": 249,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0001",
+      "section": "== Safir ==",
+      "heading_path": "== Safir ==",
+      "start_char": 250,
+      "end_char": 385,
+      "content": "== Safir == Sağ tarafta safir rengi görülmektedir. İngilizce'de bir renk adı olarak ilk kez kaydedilen safirin kullanımı 1430'da oldu.",
+      "char_count": 134,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0002",
+      "section": "=== Safir mavisi ===",
+      "heading_path": "=== Safir mavisi ===",
+      "start_char": 409,
+      "end_char": 470,
+      "content": "=== Safir mavisi === Sağ tarafta safir mavisi görülmektedir.",
+      "char_count": 60,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0003",
+      "section": "=== Orta tonlu safir ===",
+      "heading_path": "=== Orta tonlu safir ===",
+      "start_char": 470,
+      "end_char": 629,
+      "content": "=== Orta tonlu safir === Orta tonlu safir 1994 yılında tanıtılan Crayola boya kalemleri özel seti olan Crayola Gem Tones'de safir olarak adlandırılan renktir.",
+      "char_count": 158,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0004",
+      "section": "=== B'dazzled blue ===",
+      "heading_path": "=== B'dazzled blue ===",
+      "start_char": 629,
+      "end_char": 758,
+      "content": "=== B'dazzled blue === B'dazzled blue, 2001 yılında tanıtılan özel Crayola boya kalemi seti Crayola Metallic FX'in bir rengidir.",
+      "char_count": 128,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0005",
+      "section": "=== Mavi safir ===",
+      "heading_path": "=== Mavi safir ===",
+      "start_char": 758,
+      "end_char": 815,
+      "content": "=== Mavi safir === Sağ tarafta mavi safir görülmektedir.",
+      "char_count": 56,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0006",
+      "section": "=== Kara safir ===",
+      "heading_path": "=== Kara safir ===",
+      "start_char": 815,
+      "end_char": 872,
+      "content": "=== Kara safir === 'Kara safir safirin koyu bir tonudur.",
+      "char_count": 56,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0007",
+      "section": "== Kültürde Safir ==",
+      "heading_path": "== Kültürde Safir ==",
+      "start_char": 872,
+      "end_char": 1429,
+      "content": "== Kültürde Safir == Alkollü içecekler Bombay Safiri popüler bir cin markasıdır. İsmini soluk safir renginde olan bardağından alır. İsim olarak kullanımı Sapphire Afrikan Amerikalı kadınların kullandığı bir isimdir. Müzik 'İnci safiri mavisi' K-pop grubu Super Junior'ın rengidir. Din Kutsal Kitap Eski Ahit Hezekiel Kitabında Allah Cennette bir safir üzerine oturduğu belirtilmiştir. Televizyon Bir bilimkurgu TV şovu olan Sürgü dizisinin bir bölümünde alternatif kainatta Golden Gate Köprüsü safir renklidir ve \"Sapphire Gate Köprüsü\" olarak geçmektedir.",
+      "char_count": 556,
+      "token_estimate": 139
+    },
+    {
+      "id": "c0008",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1429,
+      "end_char": 1466,
+      "content": "== Ayrıca bakınız == Renkler listesi",
+      "char_count": 36,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hangi K-pop grubunun rengi 'İnci safiri mavisi' olarak geçmektedir?",
+        "answer": "Super Junior",
+        "related_chunk_ids": [
+          "c0007"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Safir renginin adını aldığı taş nedir ve İngilizce'de bir renk adı olarak ilk ne zaman kaydedilmiştir?",
+        "answer": "Safir rengi, adını safir taşından alır ve İngilizce'de bir renk adı olarak ilk kez 1430 yılında kaydedilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

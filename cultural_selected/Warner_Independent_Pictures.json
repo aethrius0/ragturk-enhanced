@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "warnerindependentpic_6d10f198",
+    "title": "Warner Independent Pictures",
+    "url": "https://tr.wikipedia.org/wiki/Warner_Independent_Pictures",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:57.239195",
+    "content": "Warner Independent Pictures, Amerikan film stüdyosunun Warner Bros. bir bağımsız film bölümüydü, kendisi de WarnerMedia'nın bir bölümüydü ve daha sonra Time Warner olarak biliniyordu. Ağustos 2003'te kurulan ilk yayını 2004'te Gün Batmadan idi. Bölüm, büyük ölçüde bütçesi 20 milyon doların altında olan uzun metrajlı filmleri finanse etti, üretti, satın aldı ve dağıttı. Adında \"bağımsız\" ifadesinin kullanılması, Warner Bros.'un bir bölümü olduğundan, kendisi de medya holdinginin Time Warner bir bölümü olduğundan, kelimenin tam anlamıyla değildi. Mark Gill, bölümün ilk başkanıydı. Tartışmalı bir ayrılıktan sonra, Gill'in yerini, bölümün resmi olarak kapatıldığı 2008 sonbaharına kadar bu bölümün başkanı olarak görev yapan eski Warner Bros. yapım yöneticisi Polly Cohen aldı. Büyük bütçeli sinema prodüksiyonunda çok tecrübeli olmasına rağmen, Cohen'in bağımsız filmde veya film dağıtımının pazarlama/tanıtım yönlerinde bu rolü üstlenecek kadar güçlü bir geçmişe sahip olmadığına yaygın olarak inanılıyordu. Bu, Gill altında başarılı bir ilk çalıştırmadan sonra cansız bir sayfa ve çıktıya yol açtı. Şubat 2008'de Time Warner, New Line Cinema'yı Warner Bros. New Line'ın \"bağımsız\" grubu Picturehouse ile birleştireceğini duyurdu. Bu sürecin bir parçası olarak Warner Independent ile birleşmesi bekleniyordu. Ancak 8 Mayıs 2008'de bu uzmanlık bölümlerinin her ikisinin de kapatılacağı açıklandı. 2013 yılında ise Picturehouse ayrı mülkiyet altında yeniden hizmete girdi. == Yayınladıkları filmler == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 205,
+      "char_count": 1520,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.708646",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Warner Independent Pictures, Amerikan film stüdyosunun Warner Bros. bir bağımsız film bölümüydü, kendisi de WarnerMedia'nın bir bölümüydü ve daha sonra Time Warner olarak biliniyordu. Ağustos 2003'te kurulan ilk yayını 2004'te Gün Batmadan idi. Bölüm, büyük ölçüde bütçesi 20 milyon doların altında olan uzun metrajlı filmleri finanse etti, üretti, satın aldı ve dağıttı. Adında \"bağımsız\" ifadesinin kullanılması, Warner Bros.'un bir bölümü olduğundan, kendisi de medya holdinginin Time Warner bir bölümü olduğundan, kelimenin tam anlamıyla değildi. Mark Gill, bölümün ilk başkanıydı. Tartışmalı bir ayrılıktan sonra, Gill'in yerini, bölümün resmi olarak kapatıldığı 2008 sonbaharına kadar bu bölümün başkanı olarak görev yapan eski Warner Bros. yapım yöneticisi Polly Cohen aldı. Büyük bütçeli sinema prodüksiyonunda çok tecrübeli olmasına rağmen, Cohen'in bağımsız filmde veya film dağıtımının pazarlama/tanıtım yönlerinde bu rolü üstlenecek kadar güçlü bir geçmişe sahip olmadığına yaygın olarak ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1476,
+      "content": "ma prodüksiyonunda çok tecrübeli olmasına rağmen, Cohen'in bağımsız filmde veya film dağıtımının pazarlama/tanıtım yönlerinde bu rolü üstlenecek kadar güçlü bir geçmişe sahip olmadığına yaygın olarak inanılıyordu. Bu, Gill altında başarılı bir ilk çalıştırmadan sonra cansız bir sayfa ve çıktıya yol açtı. Şubat 2008'de Time Warner, New Line Cinema'yı Warner Bros. New Line'ın \"bağımsız\" grubu Picturehouse ile birleştireceğini duyurdu. Bu sürecin bir parçası olarak Warner Independent ile birleşmesi bekleniyordu. Ancak 8 Mayıs 2008'de bu uzmanlık bölümlerinin her ikisinin de kapatılacağı açıklandı. 2013 yılında ise Picturehouse ayrı mülkiyet altında yeniden hizmete girdi.",
+      "char_count": 676,
+      "token_estimate": 169
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Warner Independent Pictures ne zaman kuruldu?",
+        "answer": "Ağustos 2003'te.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Warner Independent Pictures'ın kapanmasına neden olan hem iç hem de dış etkenler nelerdi ve bu süreçte kapatılan diğer bağımsız film bölümü hangisiydi?",
+        "answer": "Warner Independent Pictures'ın kapanması, ilk başkanı Mark Gill'den sonra göreve gelen Polly Cohen'in bağımsız film veya film dağıtımının pazarlama/tanıtım yönlerinde yeterli deneyime sahip olmadığına dair yaygın inancın ardından gelen cansız bir üretim döneminden etkilenmiştir. Ayrıca, Şubat 2008'de Time Warner'ın New Line Cinema'yı Warner Bros. ile birleştirme kararı, New Line'ın 'bağımsız' grubu Picturehouse ile Warner Independent'ın birleşmesinin beklendiği bir süreçti. Ancak, 8 Mayıs 2008'de her iki uzmanlık bölümünün de kapatılacağı duyuruldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

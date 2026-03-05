@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "reggae_763e5f24",
+    "title": "Reggae",
+    "url": "https://tr.wikipedia.org/wiki/Reggae",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:48.162156",
+    "content": "Reggae, Jamaika'ya özgü bir müzik türü. Ritmini kalp atışından aldığı söylenir. Jamaika usulü rock olarak da geçer. Kökleri calypso, ska/rocksteady, rock'n roll ve hatta rythm and blues'a dayanır. == Tarihi == Reggae'nin, genel olarak ska, dub ve ragga gibi Jamaika'ya özgü tüm müzik türlerini tanımlamak için kullanıldığı sanılsa da yanlış bir algıdır, reggae ska ve rocksteady ile akraba fakat başlı başına apayrı bir türdür. 1960'larda Jamaika'da ska ve rocksteady müziklerinden esinlenilerek doğmuştur. Temposu ska ve rocksteady'ye göre daha yavaştır. Özellikle roots reggae türü rastafarianizm ile içiçedir. İnanç, aşk, barış, yoksulluk, eşitsizlikler gibi temalar barındırır. 1970'lerden itibaren dünyada popülarite kazanmıştır. Efsanevi sanatçı Bob Marley reggaenin dünya çapında tanınmasını sağlamıştır. Reggae müziğinde baslar büyük önem taşır. Davul/perküsyon ritimleri Afrika kökenli olup en ünlüsü Nayahbingi ritmidir. Bir diğer ünlü ritim one droptur ve üçüncü zamana vurgu yapar. Bas ve davul arasındaki ilişki son derece ritmiktir. Ayrıca her temel davul ritmi için bir isim vardır. Örneğin warrior, foundation, stepper, rubadub, rockers veya two step gibi. 1960'ların sonunda o dönem ska/rocksteady yapan Toots and The Maytals'ın \"Do The Reggay\" isimli parçası ilk reggae parçası olarak kabul edilir. Reggae müziğin gelişmesinde, 1950'lerden beri Jamaika'ya müzik sağlayan (ilk başlarda Amerika'dan getirttikleri Rythm&Blues plaklarını çalıyorlardı sonradan lokal prodüksiyona başladılar) efsane prodüktör Sir Coxone Dodd ve stüdyosu Studio One'ın çok önemli bir payı vardır. Bütün büyük isimler işe O'nun sayesinde başlamıştır. O dönemin iki diğer önemli plak şirketi Treasure Island ve Trojan'dır. Reggae 1970'lerde analog imkânlarla yapılan bir müzik iken 1980'lerin ortalarından itibaren dönemin teknolojik gelişmeleriyle doğru orantılı olarak dijital bir sounda doğru yol almıştır. 1980'lerde yapılan prodüksiyonlar dijital ve analog soundun bir sentezidir. 1990'lı yıllarda kaliteli reggae/dub prodüksiyonu daha çok İngiltere'ye kaymış, özellikle 2000'lerde Jamaika'da az da olsa oldschool yapımlar devam etse de sound dancehall/ragga ya dönmüştür. Shaggy gibi isimler ragga/dancehall tarzında çalışmalar yapıp Jamaika'yı yine popülerleştirdiler. Son yıllarda Sean Paul, Kevin Little ve Kid Kurup ragga/dancehall'un tanınmasında büyük rol oynadı. Ancak yukarıda da bahsettiğimiz gibi reggae nin bugün popüler olan dancehall ragga ile alakası yoktur, ne vibes olarak ne sound olarak ne de sözler ve kafa olarak. Bugün artık Jamaika'da roots reggae prodüksiyonu yapan yeni isimler çıkmamakta ve sadece kalça sallama üzerine bir müzik anlayışı devam ettirilmektedir. Buna karşılık roots rastafarian reggae bütün dünyada bu müziğe gönül verenleri etkisine almış ve pozitif dalgalarını yaymıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 380,
+      "char_count": 2828,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.280812",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 197,
+      "content": "Reggae, Jamaika'ya özgü bir müzik türü. Ritmini kalp atışından aldığı söylenir. Jamaika usulü rock olarak da geçer. Kökleri calypso, ska/rocksteady, rock'n roll ve hatta rythm and blues'a dayanır.",
+      "char_count": 196,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 197,
+      "end_char": 1197,
+      "content": "== Tarihi == Reggae'nin, genel olarak ska, dub ve ragga gibi Jamaika'ya özgü tüm müzik türlerini tanımlamak için kullanıldığı sanılsa da yanlış bir algıdır, reggae ska ve rocksteady ile akraba fakat başlı başına apayrı bir türdür. 1960'larda Jamaika'da ska ve rocksteady müziklerinden esinlenilerek doğmuştur. Temposu ska ve rocksteady'ye göre daha yavaştır. Özellikle roots reggae türü rastafarianizm ile içiçedir. İnanç, aşk, barış, yoksulluk, eşitsizlikler gibi temalar barındırır. 1970'lerden itibaren dünyada popülarite kazanmıştır. Efsanevi sanatçı Bob Marley reggaenin dünya çapında tanınmasını sağlamıştır. Reggae müziğinde baslar büyük önem taşır. Davul/perküsyon ritimleri Afrika kökenli olup en ünlüsü Nayahbingi ritmidir. Bir diğer ünlü ritim one droptur ve üçüncü zamana vurgu yapar. Bas ve davul arasındaki ilişki son derece ritmiktir. Ayrıca her temel davul ritmi için bir isim vardır. Örneğin warrior, foundation, stepper, rubadub, rockers veya two step gibi. 1960'ların sonunda o dön",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 997,
+      "end_char": 1997,
+      "content": " ve davul arasındaki ilişki son derece ritmiktir. Ayrıca her temel davul ritmi için bir isim vardır. Örneğin warrior, foundation, stepper, rubadub, rockers veya two step gibi. 1960'ların sonunda o dönem ska/rocksteady yapan Toots and The Maytals'ın \"Do The Reggay\" isimli parçası ilk reggae parçası olarak kabul edilir. Reggae müziğin gelişmesinde, 1950'lerden beri Jamaika'ya müzik sağlayan (ilk başlarda Amerika'dan getirttikleri Rythm&Blues plaklarını çalıyorlardı sonradan lokal prodüksiyona başladılar) efsane prodüktör Sir Coxone Dodd ve stüdyosu Studio One'ın çok önemli bir payı vardır. Bütün büyük isimler işe O'nun sayesinde başlamıştır. O dönemin iki diğer önemli plak şirketi Treasure Island ve Trojan'dır. Reggae 1970'lerde analog imkânlarla yapılan bir müzik iken 1980'lerin ortalarından itibaren dönemin teknolojik gelişmeleriyle doğru orantılı olarak dijital bir sounda doğru yol almıştır. 1980'lerde yapılan prodüksiyonlar dijital ve analog soundun bir sentezidir. 1990'lı yıllarda k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1797,
+      "end_char": 2797,
+      "content": "n itibaren dönemin teknolojik gelişmeleriyle doğru orantılı olarak dijital bir sounda doğru yol almıştır. 1980'lerde yapılan prodüksiyonlar dijital ve analog soundun bir sentezidir. 1990'lı yıllarda kaliteli reggae/dub prodüksiyonu daha çok İngiltere'ye kaymış, özellikle 2000'lerde Jamaika'da az da olsa oldschool yapımlar devam etse de sound dancehall/ragga ya dönmüştür. Shaggy gibi isimler ragga/dancehall tarzında çalışmalar yapıp Jamaika'yı yine popülerleştirdiler. Son yıllarda Sean Paul, Kevin Little ve Kid Kurup ragga/dancehall'un tanınmasında büyük rol oynadı. Ancak yukarıda da bahsettiğimiz gibi reggae nin bugün popüler olan dancehall ragga ile alakası yoktur, ne vibes olarak ne sound olarak ne de sözler ve kafa olarak. Bugün artık Jamaika'da roots reggae prodüksiyonu yapan yeni isimler çıkmamakta ve sadece kalça sallama üzerine bir müzik anlayışı devam ettirilmektedir. Buna karşılık roots rastafarian reggae bütün dünyada bu müziğe gönül verenleri etkisine almış ve pozitif dalgal",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 2597,
+      "end_char": 2813,
+      "content": "ler çıkmamakta ve sadece kalça sallama üzerine bir müzik anlayışı devam ettirilmektedir. Buna karşılık roots rastafarian reggae bütün dünyada bu müziğe gönül verenleri etkisine almış ve pozitif dalgalarını yaymıştır.",
+      "char_count": 216,
+      "token_estimate": 54
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Reggae'nin dünya çapında tanınmasını sağlayan efsanevi sanatçı kimdir?",
+        "answer": "Bob Marley",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Reggae müziği, doğrudan müzikal öncülleri olan ska ve rocksteady'den hem kökenleri hem de tanımlayıcı özellikleri açısından nasıl farklılaşmıştır?",
+        "answer": "Reggae, Jamaika'ya özgü bir müzik türü olarak, kökenlerini ska ve rocksteady gibi türlerden almasına rağmen, onlardan belirgin bir şekilde ayrılmıştır. 1960'larda Jamaika'da ska ve rocksteady müziklerinden esinlenerek doğan reggae, bu türlere göre daha yavaş bir tempoya sahiptir. Ska/rocksteady yapan Toots and The Maytals'ın \"Do The Reggay\" isimli parçası, ilk reggae parçası olarak kabul edilmiştir. Reggae ritmini kalp atışından aldığı söylenirken, aynı zamanda basların büyük önemi ve Afrika kökenli davul/perküsyon ritimleri gibi kendine özgü ritmik yapıya sahiptir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

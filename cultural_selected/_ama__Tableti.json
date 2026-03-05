@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "amatableti_d6902c5d",
+    "title": "Şamaş Tableti",
+    "url": "https://tr.wikipedia.org/wiki/%C5%9Eama%C5%9F_Tableti",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:32.243076",
+    "content": "Şamaş Tableti, 1881'de Güney Irak'taki antik Babil şehri Sippar'dan keşfedilen taş bir tablettir. Günümüzde British Museum'un antik Orta Doğu koleksiyonunun önemli bir parçası olarak sergilenmektedir. Kral Nabu-apla-iddina'nın yaklaşık olarak MÖ 888-855 tarihlerindeki saltanatına tarihlenmektedir. == Keşfedilmesi == Tablet, 1878 ve 1883 yılları arasında Hormuzd Rassam tarafından yapılan kazılar sırasında keşfedildi. Tablet bir bütün olarak bulundu ancak iki büyük ve altı küçük parçaya ayrılmıştı. MÖ 625 ile 605 yılları arasında Kral Nabopolassar zamanında dört parçaya ayrılmış ve onarılmıştır. Terakota sandık ayrıca tablet sunum dekorunun iki kil baskını da içeriyordu. Sandık, asfalt bir tapınak zemininin altına eklenmiştir. Sandıkta ikinci bir tabletin yanı sıra üçüncü bir kil baskının da bulunduğu ileri sürülmüştür (şu anda İstanbul Müzesindedir). == Yazı == Sahne, üç yazıt içermektedir. Tabletin başında şunlar yazar: Güneş tanrısının üzerindeki ikinci bir yazıt; tasvir edilen ay, güneş ve yıldızın, sahnenin üzerinde bulunduğu cennetsel okyanusa karşı konumunu tanımlar: Sahnedeki son yazıt şöyledir: Stelin altındaki çivi yazısı metin, tipik Mezopotamya kraliyet yazıtlarında olduğu gibi düzyazı, şiirsel ve retorik unsurları harmanlayan on beş pasaja bölünmüştür. Şamaş'ın Sippar ve Ebabbar tapınağının, tanrı heykelinin kaybıyla nasıl bakımsızlığa düştüğünü anlatır. Bu kült imaj, geçici olarak güneş diski ile değiştirilir; Fırat'ın doğu kesiminde, Nabu-apla-iddina'nın kültü restore etmek için lapis lazuli ve altından yeni bir heykel inşa ettiği yeni bir Şamaş figürünün nasıl bulunduğu ayrıca anlatılmaktadır. Mezopotamya ve sonraki Yahudi kaynaklarında, kültü restore eden kralın ilahi sembolleri aktaran bir tanrı gibi görüldüğü benzer ikonografik ve sıradan paralelliklerle kanıtlanmıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 240,
+      "char_count": 1832,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.899465",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 299,
+      "content": "Şamaş Tableti, 1881'de Güney Irak'taki antik Babil şehri Sippar'dan keşfedilen taş bir tablettir. Günümüzde British Museum'un antik Orta Doğu koleksiyonunun önemli bir parçası olarak sergilenmektedir. Kral Nabu-apla-iddina'nın yaklaşık olarak MÖ 888-855 tarihlerindeki saltanatına tarihlenmektedir.",
+      "char_count": 298,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0001",
+      "section": "== Keşfedilmesi ==",
+      "heading_path": "== Keşfedilmesi ==",
+      "start_char": 299,
+      "end_char": 862,
+      "content": "== Keşfedilmesi == Tablet, 1878 ve 1883 yılları arasında Hormuzd Rassam tarafından yapılan kazılar sırasında keşfedildi. Tablet bir bütün olarak bulundu ancak iki büyük ve altı küçük parçaya ayrılmıştı. MÖ 625 ile 605 yılları arasında Kral Nabopolassar zamanında dört parçaya ayrılmış ve onarılmıştır. Terakota sandık ayrıca tablet sunum dekorunun iki kil baskını da içeriyordu. Sandık, asfalt bir tapınak zemininin altına eklenmiştir. Sandıkta ikinci bir tabletin yanı sıra üçüncü bir kil baskının da bulunduğu ileri sürülmüştür (şu anda İstanbul Müzesindedir).",
+      "char_count": 562,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0002",
+      "section": "== Yazı ==",
+      "heading_path": "== Yazı ==",
+      "start_char": 862,
+      "end_char": 1818,
+      "content": "== Yazı == Sahne, üç yazıt içermektedir. Tabletin başında şunlar yazar: Güneş tanrısının üzerindeki ikinci bir yazıt; tasvir edilen ay, güneş ve yıldızın, sahnenin üzerinde bulunduğu cennetsel okyanusa karşı konumunu tanımlar: Sahnedeki son yazıt şöyledir: Stelin altındaki çivi yazısı metin, tipik Mezopotamya kraliyet yazıtlarında olduğu gibi düzyazı, şiirsel ve retorik unsurları harmanlayan on beş pasaja bölünmüştür. Şamaş'ın Sippar ve Ebabbar tapınağının, tanrı heykelinin kaybıyla nasıl bakımsızlığa düştüğünü anlatır. Bu kült imaj, geçici olarak güneş diski ile değiştirilir; Fırat'ın doğu kesiminde, Nabu-apla-iddina'nın kültü restore etmek için lapis lazuli ve altından yeni bir heykel inşa ettiği yeni bir Şamaş figürünün nasıl bulunduğu ayrıca anlatılmaktadır. Mezopotamya ve sonraki Yahudi kaynaklarında, kültü restore eden kralın ilahi sembolleri aktaran bir tanrı gibi görüldüğü benzer ikonografik ve sıradan paralelliklerle kanıtlanmıştır.",
+      "char_count": 955,
+      "token_estimate": 238
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Şamaş'ın kültünü restore etmek için lapis lazuli ve altından yeni bir heykel inşa eden kişi kimdir?",
+        "answer": "Nabu-apla-iddina",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Şamaş Tableti'nin arkeolojik keşfi sırasındaki fiziksel durumu ve tarihi onarımları, tabletin Kral Nabu-apla-iddina dönemindeki Şamaş kültünün restorasyonuna ilişkin kayıtlarıyla nasıl bir ilişki içindedir?",
+        "answer": "Şamaş Tableti, Kral Nabu-apla-iddina'nın saltanatına (MÖ 888-855) tarihlenmekte olup, metninde bu kralın kaybolan Şamaş heykelinin yerine yenisini inşa ederek kültü nasıl restore ettiğini anlatır. Tablet, Hormuzd Rassam tarafından yapılan kazılar sırasında parçalı bir şekilde bulunmuş ve Kral Nabopolassar zamanında (MÖ 625-605) onarıldığı belirtilmiştir. Bu durum, tabletin kendi üzerinde anlattığı kült restorasyon olayından çok sonra bile önemini koruduğunu ve uzun bir süre boyunca kullanıldığını, hatta hasar görüp onarıldığını göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "jrnriel_55d0fa2f",
+    "title": "Jørn Riel",
+    "url": "https://tr.wikipedia.org/wiki/J%C3%B8rn_Riel",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:11.009240",
+    "content": "Jørn Riel (23 Temmuz 1931 - 18 Ağustos 2023), Danimarkalı yazardır. == Yaşamı ve kariyeri == Riel, 23 Temmuz 1931'de Odense, Danimarka'da doğdu. Aralıksız on altı yıl kaldığı Grönland başlıklı Almanca olarak yazdığı Grönland Destanı dahil olmak üzere hazırladığı çalışmalarıyla tanınıyordu. 1960'lı yıllarda Batı Hint Adaları, Kuzey Afrika ve Güneydoğu Asya'yı dolaştı. Ürdün ve Suriye'de Birleşmiş Milletler için çalıştı. Eserlerinden birisi Yarından Önce (Le Jour avant le lendemain) adıyla sinemaya uyarlanmıştır. Çalışmalarıyla 1981'de Frank Heller Edebiyat Ödülü'nü, 1995'te Altın Defne Edebiyat Ödülü'nü ve 2010'da Danimarka Akademisi Büyük Ödülü'nü kazanmıştır. == Ölümü == Yaşamını dönüşümlü İskandinavya ve Malezya'da sürdüren Riel, 18 Ağustos 2023'te Kuala Lumpur, Malezya'da 92 yaşında ölmüştür. == Çalışmaları == == Ödülleri ve başarıları == 1972 - Danimarka Kültür Fonu - Tek seferlik hibe (Danimarka Devleti Kültür Komitesi - Tek seferlik ücret) 1973 - Danimarka Kültür Fonu - Tek seferlik hibe (Danimarka Devleti Kültür Komitesi - Tek seferlik ücret) 1974 - Danimarka Kültür Fonu - Tek seferlik hibe (Danimarka Devleti Kültür Komitesi - Tek seferlik ücret) 1981 - Frank Heller Edebiyat Ödülü 1993 - Tom Kristensen Bursu 1995 - Altın Defne Edebiyat Ödülü 1996 - Drassows Legat 2004 - Jeanne ve Henri Nathansen'in Anma Delegesi 2004 - Norveç Sanat Vakfı. Ömür boyu hibe (Danimarka Devleti Kültür Komitesi - Ömür boyu hibe) 2010 - Danimarka Akademisi Büyük Ödülü == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 221,
+      "char_count": 1489,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.883008",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 68,
+      "content": "Jørn Riel (23 Temmuz 1931 - 18 Ağustos 2023), Danimarkalı yazardır.",
+      "char_count": 67,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 68,
+      "end_char": 669,
+      "content": "== Yaşamı ve kariyeri == Riel, 23 Temmuz 1931'de Odense, Danimarka'da doğdu. Aralıksız on altı yıl kaldığı Grönland başlıklı Almanca olarak yazdığı Grönland Destanı dahil olmak üzere hazırladığı çalışmalarıyla tanınıyordu. 1960'lı yıllarda Batı Hint Adaları, Kuzey Afrika ve Güneydoğu Asya'yı dolaştı. Ürdün ve Suriye'de Birleşmiş Milletler için çalıştı. Eserlerinden birisi Yarından Önce (Le Jour avant le lendemain) adıyla sinemaya uyarlanmıştır. Çalışmalarıyla 1981'de Frank Heller Edebiyat Ödülü'nü, 1995'te Altın Defne Edebiyat Ödülü'nü ve 2010'da Danimarka Akademisi Büyük Ödülü'nü kazanmıştır.",
+      "char_count": 600,
+      "token_estimate": 150
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 669,
+      "end_char": 807,
+      "content": "== Ölümü == Yaşamını dönüşümlü İskandinavya ve Malezya'da sürdüren Riel, 18 Ağustos 2023'te Kuala Lumpur, Malezya'da 92 yaşında ölmüştür.",
+      "char_count": 137,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ve başarıları ==",
+      "heading_path": "== Ödülleri ve başarıları ==",
+      "start_char": 825,
+      "end_char": 1475,
+      "content": "== Ödülleri ve başarıları == 1972 - Danimarka Kültür Fonu - Tek seferlik hibe (Danimarka Devleti Kültür Komitesi - Tek seferlik ücret) 1973 - Danimarka Kültür Fonu - Tek seferlik hibe (Danimarka Devleti Kültür Komitesi - Tek seferlik ücret) 1974 - Danimarka Kültür Fonu - Tek seferlik hibe (Danimarka Devleti Kültür Komitesi - Tek seferlik ücret) 1981 - Frank Heller Edebiyat Ödülü 1993 - Tom Kristensen Bursu 1995 - Altın Defne Edebiyat Ödülü 1996 - Drassows Legat 2004 - Jeanne ve Henri Nathansen'in Anma Delegesi 2004 - Norveç Sanat Vakfı. Ömür boyu hibe (Danimarka Devleti Kültür Komitesi - Ömür boyu hibe) 2010 - Danimarka Akademisi Büyük Ödülü",
+      "char_count": 649,
+      "token_estimate": 162
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2010 yılında hangi ödül alınmıştır?",
+        "answer": "Danimarka Akademisi Büyük Ödülü",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jørn Riel'in yaşam süreci ve kariyerindeki başlıca başarıları nelerdir?",
+        "answer": "Jørn Riel, 23 Temmuz 1931 ile 18 Ağustos 2023 tarihleri arasında yaşamış Danimarkalı bir yazardır. Kariyerinde, aralıksız on altı yıl kaldığı Grönland'a odaklanan Grönland Destanı da dahil olmak üzere çalışmalarıyla tanınmıştır. Ayrıca Batı Hint Adaları, Kuzey Afrika ve Güneydoğu Asya'yı dolaşmış, Ürdün ve Suriye'de Birleşmiş Milletler için çalışmıştır. Eserlerinden biri sinemaya uyarlanmış ve 1981'de Frank Heller Edebiyat Ödülü'nü, 1995'te Altın Defne Edebiyat Ödülü'nü ve 2010'da Danimarka Akademisi Büyük Ödülü'nü kazanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "parhalivadisi_8bac822f",
+    "title": "Parhali Vadisi",
+    "url": "https://tr.wikipedia.org/wiki/Parhali_Vadisi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:56.576165",
+    "content": "Parhali Vadisi (Gürcüce: პარხლის ხეობა), tarihsel Gürcistan'ın sınırları içinde, Tao'nun bir parçası olan bölgeydi. Günümüzde Türkiye sınırları içinde, Artvin iline bağlı Yusufeli ilçesinde yer alır. Parhali bölgesi, Çoruh Nehri'nin orta kesiminde, bu akarsuyun soldan aldığı derlerden biri olan Parhali Çayı havzasını kapsıyordu. Bugün Tekkale adıyla bir köy olan eski Parhali kasabası bu bölgenin merkeziydi. Ünlü Parhali Manastırı bu bölgededir. == Tarihçe == Parhali adı, antik kaynaklarda geçen \"Pariadri\" ile ilişkilendirilmiştir. Bununla birlikte Parhali'nin (ფარხალი/პარხალი), ağıl anlamına gelen Gürcüce \"parehi\" (ფარეხი) kelimesinden türediği ve otlak anlamına geldiği de yazılmıştır. Parhali bölgesi 10. yüzyılda Gürcü kralı III. Davit'in malikanesiydi. Parhali Manastırı da 961– 973 yılları arasında III. Davit tarafından inşa edilmiştir. Parhali İncili olarak bilinen İncil de Şatberdi Manastırı'nda hizmet eden İovane Beray taratından bu dönemde yazılmıştır. Parhali bölgesinde birkaç kilometre uzanan Savrieti Kanalı'nın 12-13. yüzyılda Gürcü kraliçe Tamar tarafından inşa edildiği yaygın bir görüştür. Gürcü tarihçi ve arkeolog Ekvtime Takaişvili 1917 yılında bu kanalın Utavo köyünden başladığını Kobaki köyünden geçerek \"Zavrieti\" köyüne ulaştığını yazmıştır. Yöre halkının da bu kanalın inşa edilmesini Kraliçe Tamar'a mal etmesine dikkat çekmiştir. Parhali vadisi 14. yüzyılda Trabzon İmparatorluğu'nun denetimine girmiştir. Daha sonra, bir Gürcü devleti olan Samtshe-Saatabago'nun yönetimine giren bölge, 16. yüzyılın ortalarında Osmanlıların eline geçmiştir. Parhali bölgesini 1917 yılında ziyaret eden Ekvtime Takaişvili'nin verdiği bilgiye göre, bölgede hasat zamanı yapılan şenlik pagan kültünün kalıntılarını taşıyordu: Soyunmuş olan gençler dans ediyor ve vücutlarına üzüm hevenkleri asıyorlardı. Bu gelenek Parhali köyünün aşağısındaki köylerde korunmuştu. Parhali köyünde ise hocalar gençlerin soyunmasına müsaade etmiyorlardı. Takaişvili bu çıplak gençleri Gürcü mitolojisindeki Aguna ve antik dönemdeki Bacchus'un yol arkadaşlarına benzetmiştir. Takaişvili'nin verdiği bilgiye göre Parhali bölgesinde Müslümanlaşmış Gürcüler yaşıyordu. Bu tarihte Parhali köyünde sadece yaşlılar Gürcüce anlayabiliyordu. Kobaki köyünde ise, yaşlısı genci, herkes Gürcüce konuşuyordu. Heveki köyünde de aynı şekilde herkes Gürcüce konuşuyor ve buradaki halkın yarısı gizlice Hristiyan inancını sürdürüyordu. == Galeri == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 306,
+      "char_count": 2448,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.443262",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 449,
+      "content": "Parhali Vadisi (Gürcüce: პარხლის ხეობა), tarihsel Gürcistan'ın sınırları içinde, Tao'nun bir parçası olan bölgeydi. Günümüzde Türkiye sınırları içinde, Artvin iline bağlı Yusufeli ilçesinde yer alır. Parhali bölgesi, Çoruh Nehri'nin orta kesiminde, bu akarsuyun soldan aldığı derlerden biri olan Parhali Çayı havzasını kapsıyordu. Bugün Tekkale adıyla bir köy olan eski Parhali kasabası bu bölgenin merkeziydi. Ünlü Parhali Manastırı bu bölgededir.",
+      "char_count": 448,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 449,
+      "end_char": 1449,
+      "content": "== Tarihçe == Parhali adı, antik kaynaklarda geçen \"Pariadri\" ile ilişkilendirilmiştir. Bununla birlikte Parhali'nin (ფარხალი/პარხალი), ağıl anlamına gelen Gürcüce \"parehi\" (ფარეხი) kelimesinden türediği ve otlak anlamına geldiği de yazılmıştır. Parhali bölgesi 10. yüzyılda Gürcü kralı III. Davit'in malikanesiydi. Parhali Manastırı da 961– 973 yılları arasında III. Davit tarafından inşa edilmiştir. Parhali İncili olarak bilinen İncil de Şatberdi Manastırı'nda hizmet eden İovane Beray taratından bu dönemde yazılmıştır. Parhali bölgesinde birkaç kilometre uzanan Savrieti Kanalı'nın 12-13. yüzyılda Gürcü kraliçe Tamar tarafından inşa edildiği yaygın bir görüştür. Gürcü tarihçi ve arkeolog Ekvtime Takaişvili 1917 yılında bu kanalın Utavo köyünden başladığını Kobaki köyünden geçerek \"Zavrieti\" köyüne ulaştığını yazmıştır. Yöre halkının da bu kanalın inşa edilmesini Kraliçe Tamar'a mal etmesine dikkat çekmiştir. Parhali vadisi 14. yüzyılda Trabzon İmparatorluğu'nun denetimine girmiştir. Daha",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1249,
+      "end_char": 2249,
+      "content": "köyüne ulaştığını yazmıştır. Yöre halkının da bu kanalın inşa edilmesini Kraliçe Tamar'a mal etmesine dikkat çekmiştir. Parhali vadisi 14. yüzyılda Trabzon İmparatorluğu'nun denetimine girmiştir. Daha sonra, bir Gürcü devleti olan Samtshe-Saatabago'nun yönetimine giren bölge, 16. yüzyılın ortalarında Osmanlıların eline geçmiştir. Parhali bölgesini 1917 yılında ziyaret eden Ekvtime Takaişvili'nin verdiği bilgiye göre, bölgede hasat zamanı yapılan şenlik pagan kültünün kalıntılarını taşıyordu: Soyunmuş olan gençler dans ediyor ve vücutlarına üzüm hevenkleri asıyorlardı. Bu gelenek Parhali köyünün aşağısındaki köylerde korunmuştu. Parhali köyünde ise hocalar gençlerin soyunmasına müsaade etmiyorlardı. Takaişvili bu çıplak gençleri Gürcü mitolojisindeki Aguna ve antik dönemdeki Bacchus'un yol arkadaşlarına benzetmiştir. Takaişvili'nin verdiği bilgiye göre Parhali bölgesinde Müslümanlaşmış Gürcüler yaşıyordu. Bu tarihte Parhali köyünde sadece yaşlılar Gürcüce anlayabiliyordu. Kobaki köyünde",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 2049,
+      "end_char": 2420,
+      "content": "arkadaşlarına benzetmiştir. Takaişvili'nin verdiği bilgiye göre Parhali bölgesinde Müslümanlaşmış Gürcüler yaşıyordu. Bu tarihte Parhali köyünde sadece yaşlılar Gürcüce anlayabiliyordu. Kobaki köyünde ise, yaşlısı genci, herkes Gürcüce konuşuyordu. Heveki köyünde de aynı şekilde herkes Gürcüce konuşuyor ve buradaki halkın yarısı gizlice Hristiyan inancını sürdürüyordu.",
+      "char_count": 371,
+      "token_estimate": 92
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Parhali Manastırı hangi tarihler arasında ve kim tarafından inşa edilmiştir?",
+        "answer": "Parhali Manastırı, 961-973 yılları arasında III. Davit tarafından inşa edilmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Verilen parçalara göre, Parhali Vadisi'nin siyasi denetimi ve kültürel özellikleri 10. yüzyıldan 20. yüzyılın başlarına kadar nasıl bir değişim göstermiştir?",
+        "answer": "10. yüzyılda Gürcü kralı III. Davit'in malikanesi olan Parhali Vadisi, 14. yüzyılda Trabzon İmparatorluğu'nun denetimine girmiş, ardından Samtshe-Saatabago'nun yönetimine geçmiş ve 16. yüzyılın ortalarında Osmanlıların eline geçmiştir. Kültürel olarak ise, 1917 yılında bölgede hasat zamanı yapılan şenliklerde pagan kültünün kalıntıları görülmüş, bölge halkı Müslümanlaşmış Gürcülerden oluşmuş ve Parhali köyünde sadece yaşlılar Gürcüce anlayabilmekteydi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

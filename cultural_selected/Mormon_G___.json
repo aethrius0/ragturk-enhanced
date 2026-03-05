@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "mormong_8b9cc827",
+    "title": "Mormon Göçü",
+    "url": "https://tr.wikipedia.org/wiki/Mormon_G%C3%B6%C3%A7%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:14.293530",
+    "content": "Mormon Göçü Mormonların Joseph Smith, Jr.'ın linç edilmesinin ardından Brigham Young önderliğinde Illinois, Nauvoo'dan Utah bölgesine toplu şekilde göçmelerini anlatır. Mormon savaşları kapsamında bölgeden kovulan Mormonlar Temmuz 1847'de binlerce kilometre yolculuğun ardından bugün Salt Lake City olan yere ulaşmışlardır. == Arka planı == 1839 sonlarında eski adı Commerce olan bölgeye gelen Joseph Smith, Jr. liderliğindeki Mormonlar Nisan 1840'da kasabayı satın almış ve adını Nauvoo olarak değiştirmişlerdir. 1844 yılına gelindiğinde 12 bin kişilik nüfusuyla kent neredeyse Chicago ile boy ölçüşür hale gelmiştir. 1844 yılında Smith'in öldürülmesinden sonra Brigham Young önderliğinde Utah'a göçen Mormonlar kenti boşaltmıştır. == Göç == Mormon göçmenler Utah bölgesine göç etmeye başladıklarında bölge kağıt üzerinde İspanyol İmparatorluğuna bağlı Yeni İspanya Valiliğine bağlı Alta California eyaleti sınırlarındaydı. Topraklar Meksika-Amerika Savaşı'nın ardından Meksika tarafından boşaltılmıştı. Mormonlar, içinde bulundukları toplumla yaşadıkları çatışmaların ve liderleri Joseph Smith Jr.'ın linç edilmesinin ardından Missouri ve Illinois'den göçerek Utah'a gelmişlerdir. Ana kervanla seyahat eden Young 24 Temmuz 1847'de daha önce rüyasında gördüğünü iddia ettiği vadiyi görünce \"işte burası\" diyerek hedeflenen bölgeye gelindiği müjdesini vermiştir. İl kervanla bölgeye gelen Mormonlar derhal kent planlamasına geçmiştir. Aralık ayı itibarıyla bölgeye ulaşanların sayısı 2 bini aşmıştır. Mormonların lideri Brigham Young en yakın yerleşim yerine oldukça uzak olan bölgede dinlerini özgürce yaşayabileceklerini düşünüyordu. Ancak 1848 yılında Kaliforniya'da altın bulunup Kaliforniya Altına Hücum yaşanmaya başladığında binlerce göçmen Kaliforniya'ya ulaşmak için Mormon bölgelerinden geçmeye başladı. Bu göçmen yığılması ticaret için iyi olsa da Mormonların yalıtılmışlığı kısa sürmüştü. 1849 yılında Mormonlar egemenliklerindeki bölgenin Deseret Devleti olarak birliğe katılmasını önerdi. Bu teklifin amacı, bölgenin yönetiminin kendilerinden birisi olmasını sağlamak ve Washington, D.C.'den atanan bir carpetbagger olmamasıydı. Mormonlar ancak kiliselerinin önderliğinin devlet yapısına hakim olduğu bir sistemde dini özgürlüklerini yaşayabileceklerini düşünüyorlardı. ABD Kongresi 1850 yılında aldığı kararla Utah bölgesini tanımış, ABD Başkanı Millard Fillmore, Mormon lideri Brigham Young'ı Utah valisi olarak atamıştır. Mormonlar bu atamayla memnun olsalar da geçen zaman içinde Mormonlarla federal hükûmet arasındaki ilişkiler kopma noktasına gelmiştir. == Sonraki dönem == Mormonların bölgede kendi istedikleri şekilde yaşama girişimleri kısa sürmüş, merkezî ABD hükûmeti kendi otoritesini benimsemeyen ve yasalara aykırı şekilde çok eşliliği savunan bir yönetime izin vermemiştir. Utah Savaşı olarak adlandırılan kriz sırasında bölgeye gönderilen askerî birliklerle Nauvoo Lejyonu adlı Mormon milis birliği arasında gerilim yaşansa da kamuoyu baskısıyla kan dökülmeksizin uzlaşma sağlanmıştır. == Geleneği == Utah eyaletinde Mormon Göçüne katılan öncü göçmenler her yıl 24 Temmuz günü düzenlenen etkinliklerle anılır. Bazı bölgelerde halen Göçmen yolu adı verilen etkinlikerde 14-18 yaşları arasındaki gençler atalarının maruz kaldıkları zorlukları anmak adına dönemsel araç ve gereçlerle yolculuğun bir kısmını tekrarlarlar. == Kaynakça == == Ayrıca bakınız == American Primeval Brooklyn gemisiyle göçen Mormonlar",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 427,
+      "char_count": 3436,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.162779",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 324,
+      "content": "Mormon Göçü Mormonların Joseph Smith, Jr.'ın linç edilmesinin ardından Brigham Young önderliğinde Illinois, Nauvoo'dan Utah bölgesine toplu şekilde göçmelerini anlatır. Mormon savaşları kapsamında bölgeden kovulan Mormonlar Temmuz 1847'de binlerce kilometre yolculuğun ardından bugün Salt Lake City olan yere ulaşmışlardır.",
+      "char_count": 323,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0001",
+      "section": "== Arka planı ==",
+      "heading_path": "== Arka planı ==",
+      "start_char": 324,
+      "end_char": 733,
+      "content": "== Arka planı == 1839 sonlarında eski adı Commerce olan bölgeye gelen Joseph Smith, Jr. liderliğindeki Mormonlar Nisan 1840'da kasabayı satın almış ve adını Nauvoo olarak değiştirmişlerdir. 1844 yılına gelindiğinde 12 bin kişilik nüfusuyla kent neredeyse Chicago ile boy ölçüşür hale gelmiştir. 1844 yılında Smith'in öldürülmesinden sonra Brigham Young önderliğinde Utah'a göçen Mormonlar kenti boşaltmıştır.",
+      "char_count": 408,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0002",
+      "section": "== Göç ==",
+      "heading_path": "== Göç ==",
+      "start_char": 733,
+      "end_char": 1733,
+      "content": "== Göç == Mormon göçmenler Utah bölgesine göç etmeye başladıklarında bölge kağıt üzerinde İspanyol İmparatorluğuna bağlı Yeni İspanya Valiliğine bağlı Alta California eyaleti sınırlarındaydı. Topraklar Meksika-Amerika Savaşı'nın ardından Meksika tarafından boşaltılmıştı. Mormonlar, içinde bulundukları toplumla yaşadıkları çatışmaların ve liderleri Joseph Smith Jr.'ın linç edilmesinin ardından Missouri ve Illinois'den göçerek Utah'a gelmişlerdir. Ana kervanla seyahat eden Young 24 Temmuz 1847'de daha önce rüyasında gördüğünü iddia ettiği vadiyi görünce \"işte burası\" diyerek hedeflenen bölgeye gelindiği müjdesini vermiştir. İl kervanla bölgeye gelen Mormonlar derhal kent planlamasına geçmiştir. Aralık ayı itibarıyla bölgeye ulaşanların sayısı 2 bini aşmıştır. Mormonların lideri Brigham Young en yakın yerleşim yerine oldukça uzak olan bölgede dinlerini özgürce yaşayabileceklerini düşünüyordu. Ancak 1848 yılında Kaliforniya'da altın bulunup Kaliforniya Altına Hücum yaşanmaya başladığında b",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Göç ==",
+      "heading_path": "== Göç ==",
+      "start_char": 1533,
+      "end_char": 2533,
+      "content": " en yakın yerleşim yerine oldukça uzak olan bölgede dinlerini özgürce yaşayabileceklerini düşünüyordu. Ancak 1848 yılında Kaliforniya'da altın bulunup Kaliforniya Altına Hücum yaşanmaya başladığında binlerce göçmen Kaliforniya'ya ulaşmak için Mormon bölgelerinden geçmeye başladı. Bu göçmen yığılması ticaret için iyi olsa da Mormonların yalıtılmışlığı kısa sürmüştü. 1849 yılında Mormonlar egemenliklerindeki bölgenin Deseret Devleti olarak birliğe katılmasını önerdi. Bu teklifin amacı, bölgenin yönetiminin kendilerinden birisi olmasını sağlamak ve Washington, D.C.'den atanan bir carpetbagger olmamasıydı. Mormonlar ancak kiliselerinin önderliğinin devlet yapısına hakim olduğu bir sistemde dini özgürlüklerini yaşayabileceklerini düşünüyorlardı. ABD Kongresi 1850 yılında aldığı kararla Utah bölgesini tanımış, ABD Başkanı Millard Fillmore, Mormon lideri Brigham Young'ı Utah valisi olarak atamıştır. Mormonlar bu atamayla memnun olsalar da geçen zaman içinde Mormonlarla federal hükûmet arasınd",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Göç ==",
+      "heading_path": "== Göç ==",
+      "start_char": 2333,
+      "end_char": 2573,
+      "content": "gesini tanımış, ABD Başkanı Millard Fillmore, Mormon lideri Brigham Young'ı Utah valisi olarak atamıştır. Mormonlar bu atamayla memnun olsalar da geçen zaman içinde Mormonlarla federal hükûmet arasındaki ilişkiler kopma noktasına gelmiştir.",
+      "char_count": 240,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0005",
+      "section": "== Sonraki dönem ==",
+      "heading_path": "== Sonraki dönem ==",
+      "start_char": 2574,
+      "end_char": 3016,
+      "content": "== Sonraki dönem == Mormonların bölgede kendi istedikleri şekilde yaşama girişimleri kısa sürmüş, merkezî ABD hükûmeti kendi otoritesini benimsemeyen ve yasalara aykırı şekilde çok eşliliği savunan bir yönetime izin vermemiştir. Utah Savaşı olarak adlandırılan kriz sırasında bölgeye gönderilen askerî birliklerle Nauvoo Lejyonu adlı Mormon milis birliği arasında gerilim yaşansa da kamuoyu baskısıyla kan dökülmeksizin uzlaşma sağlanmıştır.",
+      "char_count": 441,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0006",
+      "section": "== Geleneği ==",
+      "heading_path": "== Geleneği ==",
+      "start_char": 3016,
+      "end_char": 3348,
+      "content": "== Geleneği == Utah eyaletinde Mormon Göçüne katılan öncü göçmenler her yıl 24 Temmuz günü düzenlenen etkinliklerle anılır. Bazı bölgelerde halen Göçmen yolu adı verilen etkinlikerde 14-18 yaşları arasındaki gençler atalarının maruz kaldıkları zorlukları anmak adına dönemsel araç ve gereçlerle yolculuğun bir kısmını tekrarlarlar.",
+      "char_count": 331,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0007",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 3363,
+      "end_char": 3436,
+      "content": "== Ayrıca bakınız == American Primeval Brooklyn gemisiyle göçen Mormonlar",
+      "char_count": 73,
+      "token_estimate": 18
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Brigham Young, rüyasında gördüğünü iddia ettiği vadiye ne zaman ulaştı?",
+        "answer": "24 Temmuz 1847",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Joseph Smith Jr.'ın linç edilmesi ve Mormonların yaşadığı toplumsal çatışmalar, Brigham Young liderliğindeki Utah'a göç kararını ve Mormonların yeni yerleşim yeri arayışını nasıl şekillendirmiştir?",
+        "answer": "Joseph Smith Jr.'ın linç edilmesi ve Mormonların içinde bulundukları toplumla yaşadıkları çatışmalar, Illinois'deki Nauvoo'dan toplu göçün başlıca nedenleriydi. Bu olayların ardından liderliği devralan Brigham Young, Mormonları binlerce kilometre uzaklıktaki Utah bölgesine taşıdı. Young, en yakın yerleşim yerine oldukça uzak olan bu bölgede Mormonların dinlerini özgürce yaşayabileceklerine inanıyordu; bu da yeni bir yerleşim yeri arayışının ve Utah'ın hedef seçilmesinin temel motivasyonlarından biri oldu. Göçmenler Temmuz 1847'de bugünkü Salt Lake City'ye ulaşarak yeni bir başlangıç yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

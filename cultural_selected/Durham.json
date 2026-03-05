@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "durham_05ef663c",
+    "title": "Durham",
+    "url": "https://tr.wikipedia.org/wiki/Durham",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:02.120407",
+    "content": "Durham şehri, Birleşik Krallık'ın İngiltere ülkesinin Kuzey Doğu İngiltere bölgesinde eskiden \"Durham Kontluğu\" içinde bir şehir bölgesi olarak idare edilmekteyken ve 2009'dan itibaren \"Durham Kontluğu\" tarafından doğrudan doğruya \"Tek-Seviyeli Yerel İdare\" olarak idare edilen ve 2009'dan beri eski şehir bölgesi şehir statüsü taşıyan bir yerleşim birimidir. == Konumu == Durham Kuzey-batı İngiltere'de Wear Nehrinin bir kavisi üzerinde kuruludur. Newcastle upon Tyne şehrinin 30 km güneyinde, Sunderland şehrinin 21 km güney batısında bulunur. Wear Nehri şehrin içinden geçerek kuzey yöne akar ve şehrin etrafında bir menderes yaparak şehrin üç yanından geçerek şehri bir yarımadaya dönüştürür. Bu yarımada Durham şehrinin Orta Çağ'dan kalan merkezidir ve eskiden etrafı surlarla çevrili iken günümüzde bu surlardan sadece Bailey üzerinde bulunan bir şehir kapısı kalmıştır. Durham şehri hafif tepeli ve yokuşlu bir şehirdir. Antik Roma'yı ima ederek yedi tepe üzerine kurulmuş olduğu söylenir. Wear Nehrinin kenarında bulunan bir tepe üzerinde bulunan Durham Katedrali şehrin ana silüetini tayin eder. Bu katedral tepesinin yanında bulunan dik arazi yeşil ağaçlıklı olup şehrin içine kırsal bir hava verir. Şehir yarımadasının karaya bağlandığı kenarında, içinde haftanın belli günlerinde açık havada pazar kurulan \"Market Place (Pazar Meydanı)\" bulunmaktadır. Pazar Meydanı'nın hemen dışında bir kapalı hal bulunmaktadır. Pazar Meydanı ve onun hemen yakındaki sokaklar şehrin ana dükkanlarının bulunduğu ticari ve alışveriş çarşı mahalleridir. Pazar Meydanı'nda güney doğu'ya Palace Green (Saray Yeşil Meydanı)'na \"The Bailey\" adlı bir sokak gitmektedir. Bu sokak etrafında üniversitenin ve katedralin binaları bulunur. Şehir merkezinin batısında Browney Çayı adlı bir diğer akarsu bulunup bu şehrin güneyinde Wear Nehri ile birleşir. Durham şehri İngiltere'nin bir üniversite şehridir. Şehir merkezinde bulunan evlerin çoğunda öğrenciler ortaklaşa kira ile otururlar ve bazı sokaklarda bulunan evlerin %70'i öğrenci evidir. === İklim === == Demografi == Durham Şehri 2009'a kadar Durham Kontluğunun merkez şehriydi ve \"Durham Şehri\" ismi taşıyan yerel idare olarak kentin şehirleşmiş alanı dışına çıkmakta ve 186,68 kilometre kare kapsayan 2001 Nüfus Sayımına göre nüfus 87.656 olan bir yerleşim yeri idi. Asıl Durham'ın bulunduğu alana \"mahalle/köy (parish)\" statüsü verilmiş idi ve bu \"mahalle/köy\" statülü şehirsel alanın nüfusu (geçici öğrenci nüfus hariç) 2001 Nüfus Sayımına göre 42.939 dur. == Durham Üniversitesi == Durham bir üniversite şehridir. Durham Üniversitesi 1832'de bir Parlamento Kanunu ile kurulmuş olup Oxford Üniversitesi ve Cambridge Üniversitesi'nin kurulmasından 600 yıl sonra İngiltere'de kurulan üçüncü üniversite olmuştur. En son istatistiklere göre bu üniversitede, 4.521 diploma-üstü çalışma yapanlar dahil, 15.529 öğrenci bulunmaktadır. == Kardeş şehirler == Durham'nin şu resmî kardeş şehir anlaşmaları vardır: Durham, Kuzey Karolina, Amerika Birleşik Devletleri Tübingen, Almanya Kostroma, Rusya Somme, Fransa Banská Bystrica, Slovakya Kreis Wesel, Almanya Nakskov, Danimarka Alcalá de Guadaíra, İspanya Jászberény, Macaristan == Resimler == == Ayrıca bakınız == Durham Kontluğu == Kaynakça == == Dış bağlantılar == Durham Şehri tarihçesi (İngilizce) Curlie'de Durham Şehri (DMOZ tabanlı) (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 451,
+      "char_count": 3338,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.898606",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 360,
+      "content": "Durham şehri, Birleşik Krallık'ın İngiltere ülkesinin Kuzey Doğu İngiltere bölgesinde eskiden \"Durham Kontluğu\" içinde bir şehir bölgesi olarak idare edilmekteyken ve 2009'dan itibaren \"Durham Kontluğu\" tarafından doğrudan doğruya \"Tek-Seviyeli Yerel İdare\" olarak idare edilen ve 2009'dan beri eski şehir bölgesi şehir statüsü taşıyan bir yerleşim birimidir.",
+      "char_count": 359,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0001",
+      "section": "== Konumu ==",
+      "heading_path": "== Konumu ==",
+      "start_char": 360,
+      "end_char": 1360,
+      "content": "== Konumu == Durham Kuzey-batı İngiltere'de Wear Nehrinin bir kavisi üzerinde kuruludur. Newcastle upon Tyne şehrinin 30 km güneyinde, Sunderland şehrinin 21 km güney batısında bulunur. Wear Nehri şehrin içinden geçerek kuzey yöne akar ve şehrin etrafında bir menderes yaparak şehrin üç yanından geçerek şehri bir yarımadaya dönüştürür. Bu yarımada Durham şehrinin Orta Çağ'dan kalan merkezidir ve eskiden etrafı surlarla çevrili iken günümüzde bu surlardan sadece Bailey üzerinde bulunan bir şehir kapısı kalmıştır. Durham şehri hafif tepeli ve yokuşlu bir şehirdir. Antik Roma'yı ima ederek yedi tepe üzerine kurulmuş olduğu söylenir. Wear Nehrinin kenarında bulunan bir tepe üzerinde bulunan Durham Katedrali şehrin ana silüetini tayin eder. Bu katedral tepesinin yanında bulunan dik arazi yeşil ağaçlıklı olup şehrin içine kırsal bir hava verir. Şehir yarımadasının karaya bağlandığı kenarında, içinde haftanın belli günlerinde açık havada pazar kurulan \"Market Place (Pazar Meydanı)\" bulunmaktad",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Konumu ==",
+      "heading_path": "== Konumu ==",
+      "start_char": 1160,
+      "end_char": 2028,
+      "content": "ğaçlıklı olup şehrin içine kırsal bir hava verir. Şehir yarımadasının karaya bağlandığı kenarında, içinde haftanın belli günlerinde açık havada pazar kurulan \"Market Place (Pazar Meydanı)\" bulunmaktadır. Pazar Meydanı'nın hemen dışında bir kapalı hal bulunmaktadır. Pazar Meydanı ve onun hemen yakındaki sokaklar şehrin ana dükkanlarının bulunduğu ticari ve alışveriş çarşı mahalleridir. Pazar Meydanı'nda güney doğu'ya Palace Green (Saray Yeşil Meydanı)'na \"The Bailey\" adlı bir sokak gitmektedir. Bu sokak etrafında üniversitenin ve katedralin binaları bulunur. Şehir merkezinin batısında Browney Çayı adlı bir diğer akarsu bulunup bu şehrin güneyinde Wear Nehri ile birleşir. Durham şehri İngiltere'nin bir üniversite şehridir. Şehir merkezinde bulunan evlerin çoğunda öğrenciler ortaklaşa kira ile otururlar ve bazı sokaklarda bulunan evlerin %70'i öğrenci evidir.",
+      "char_count": 868,
+      "token_estimate": 217
+    },
+    {
+      "id": "c0003",
+      "section": "== Demografi ==",
+      "heading_path": "== Demografi ==",
+      "start_char": 2043,
+      "end_char": 2503,
+      "content": "== Demografi == Durham Şehri 2009'a kadar Durham Kontluğunun merkez şehriydi ve \"Durham Şehri\" ismi taşıyan yerel idare olarak kentin şehirleşmiş alanı dışına çıkmakta ve 186,68 kilometre kare kapsayan 2001 Nüfus Sayımına göre nüfus 87.656 olan bir yerleşim yeri idi. Asıl Durham'ın bulunduğu alana \"mahalle/köy (parish)\" statüsü verilmiş idi ve bu \"mahalle/köy\" statülü şehirsel alanın nüfusu (geçici öğrenci nüfus hariç) 2001 Nüfus Sayımına göre 42.939 dur.",
+      "char_count": 459,
+      "token_estimate": 114
+    },
+    {
+      "id": "c0004",
+      "section": "== Durham Üniversitesi ==",
+      "heading_path": "== Durham Üniversitesi ==",
+      "start_char": 2503,
+      "end_char": 2873,
+      "content": "== Durham Üniversitesi == Durham bir üniversite şehridir. Durham Üniversitesi 1832'de bir Parlamento Kanunu ile kurulmuş olup Oxford Üniversitesi ve Cambridge Üniversitesi'nin kurulmasından 600 yıl sonra İngiltere'de kurulan üçüncü üniversite olmuştur. En son istatistiklere göre bu üniversitede, 4.521 diploma-üstü çalışma yapanlar dahil, 15.529 öğrenci bulunmaktadır.",
+      "char_count": 369,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0005",
+      "section": "== Kardeş şehirler ==",
+      "heading_path": "== Kardeş şehirler ==",
+      "start_char": 2873,
+      "end_char": 3165,
+      "content": "== Kardeş şehirler == Durham'nin şu resmî kardeş şehir anlaşmaları vardır: Durham, Kuzey Karolina, Amerika Birleşik Devletleri Tübingen, Almanya Kostroma, Rusya Somme, Fransa Banská Bystrica, Slovakya Kreis Wesel, Almanya Nakskov, Danimarka Alcalá de Guadaíra, İspanya Jászberény, Macaristan",
+      "char_count": 291,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0006",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 3180,
+      "end_char": 3217,
+      "content": "== Ayrıca bakınız == Durham Kontluğu",
+      "char_count": 36,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3232,
+      "end_char": 3338,
+      "content": "== Dış bağlantılar == Durham Şehri tarihçesi (İngilizce) Curlie'de Durham Şehri (DMOZ tabanlı) (İngilizce)",
+      "char_count": 106,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Durham şehrinin ana silüetini ne tayin eder?",
+        "answer": "Wear Nehrinin kenarında bulunan bir tepe üzerinde bulunan Durham Katedrali.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Durham şehrini idari yapısı, coğrafi konumu ve temel sosyal özellikleriyle birlikte tanımlayan ayırt edici unsurlar nelerdir?",
+        "answer": "Durham, 2009'dan beri Tek-Seviyeli Yerel İdare olarak yönetilen, İngiltere'nin Kuzey Doğu bölgesinde bir üniversite şehridir. Wear Nehri'nin oluşturduğu bir yarımada üzerine kurulmuş ortaçağ merkezi, tepelik yapısı ve ana silüetini belirleyen Durham Katedrali ile coğrafi olarak öne çıkar. Ayrıca, yüksek öğrenci nüfusu, hareketli pazar meydanı ve üniversite binalarının bulunduğu \"The Bailey\" gibi ticari ve kültürel merkezleriyle de sosyal bir kimliğe sahiptir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

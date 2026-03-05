@@ -1,0 +1,204 @@
+{
+  "article": {
+    "id": "dalembertparadoksu_470d6c17",
+    "title": "D'Alembert paradoksu",
+    "url": "https://tr.wikipedia.org/wiki/D%27Alembert_paradoksu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:19.525600",
+    "content": "Akışkanlar dinamiğinde D'Alembert paradoksu veya hidrodinamik paradoks, 1752'de Fransız matematikçi Jean le Rond d'Alembert tarafından ortaya atılmıştır. D'Alembert, matematiksel olarak sıkıştırılamaz ve akmazlığın olmadığı akışlarda kullanılan ve sanal fonksiyon teorisini baz alan potansiyel teorinin önemli bir açığını keşfetmiştir. Kaldırma kuvveti ile ilgili etkili sonuçlar veren potansiyel teori kullanıldığında, üzerinde akış olan her cisim için sürüklenme kuvveti sıfır oluyordu. Bilim insanlarına göre bu çelişki, akmazlığın ihmalinden kaynaklanmaktadır. 19. ve 20. yüzyıllarda daha gelişmiş sistemlerle cisimler üzerindeki sınır tabakaları gözlendiğinde burada akmazlığın sınır koşulları nedeniyle çok etkili olduğu bulunmuştur. Sınır tabakası ince bile olsa, kuvvetler yüzeye uygulandığı için sürüklenme kuvvetleri çok büyüyebiliyordu. Ayrıca, uzun gövdeler için akışın ayrılarak arka bölgede basıncı çok düşük alanlar yaratması, dönüşler, türbülans gibi etkiler (tam olarak modellenemeyen etkiler) de burada güçlü olmaktadır. == Viskoz sürtünme; Saint-Venant, Navier ve Stokes == Bu paradoksu ilk çözmeye çalışan Saint Venant, akmazlıktan kaynaklanan sürtünmeyi modellemeye çalışmıştı.Moleküller arası basınç farkı ve yüzeydeki yapışmayı o zamanlardan tahmin edebilmişti. 1851'de Stokes, küre etrafındaki sürüklenme kuvvetini hesaplayabilmişti. Ancak bunu, düşük Reynolds sayıları için kendi kabulleriyle geliştirdiği Stokes yasası olarak bilinen Stokes Akışı hesaplarıyla yapabilmekteydi. Ancak Navier'in katkılarına göre yetersizdi. Akış problemleri birimsiz formlara getirildiğinde, viskoz Navier-Stokes denklemleri artan Reynolds sayıları için Euler denklemlerinin potansiyel akış çözümlerine gelmektedir. Bu durumda ise sürüklenme kuvveti yine sıfır olmalıdır, ancak ölçümler tam tersini göstermektedir. == Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh == 19. yüzyılın ikinci yarısında, bilim insanları sürüklenme kuvvetini viskoz olmayan akış teorisi ile çözmeye çalışıyordu ve bunu viskozite etkisinin azaldığı yüksek Reynolds sayıları yapmaya çalışıyorlardı. Bu model Helmoltz’un serbest akış çizgileri metodunu baz alarak Kirchhoff ve Rayleigh tarafından geliştirildi ve akışın gövde arkasında bir boşluk bıraktığı gözlemlendi-denendi. O zamanlar, arka bölgedeki kabuller, akış hızının gövde hızına hep eşit olduğu, ama sabit basınç olduğuydu. Yani arka bölgeye doğru karakteristik uzunluğun artmasıyla Reynolds sayısının fazlaca büyümesi, o dönemki bilim insanlarına potansiyel akış teorisini uygulayabileceklerini yani viskoz etkilerin minimum olduğu düşüncelerini vermekteydi. Bu çözüme göre, akış arkaya doğru geçtikçe düzgün bir şekilde gövdenin dışından ayrılmaktaydı ancak sürekli olmayan tanjant hız değişimleri sistem davranışına dahil oluyordu. Gövde üzerinde sürüklenme kuvveti olması içinse, arka bölgenin sonsuza kadar uzanması gerekiyordu. Ancak bu teori, sürüklenme kuvvetinin hızın karesiyle doğru orantılı olduğunu söylüyordu. Ancak, o zamanlar vorteks ve akışın dönüşünden kaynaklanan stabil olmayan durumlardan ötürü akışın bu şekilde durgun olamayacağı biliniyordu. Bu tip düzensizliklere de genel olarak Kelvin-Helmholtz instabiliteleri adı veriliyordu. Bu durgun akış modeli sürüklenme kuvvetini doğru vereceği düşünülerek oldukça çalışıldı. Akışın gövdenin arka tarafına geçip kopmasından kaynaklanan sürüklenme kuvveti insanların kafasını bu çelişkilerle oldukça karışmıştı. Ve analitik olarak mevcut modellerle çözülemiyordu. Rayleigh 1876'daki yayınında bu konunun hidrodinamiğin en kafa karıştırıcı alanı olduğunu ifade etmişti. Bu konudaki çözüme ilk önemli adım 1869'da Kirchhoff tarafından atıldı. Kirchhof, yukarıda bahsedildiği üzere, viskoz etkileri önemsemeden sadece arka bölgenin kopuşuna bağlı olarak sürüklenme kuvvetine yaklaşabileceği bir model geliştirdi(Günümüzde hala, bu yaklaşımı kullanabilir miyiz sorusu mevcuttur ve bilim insanları hidrodinamik dirence karşı Kirchhoff modelini kullanmaya çalışmaktadır.). Bunların üzerine Lord Kelvin “akışın ayrıldığı yüzeylerde hareket stabil değildir” yorumunu da eklemiştir. Kafaları daha da çok karıştıran bu ifadenin daha sonra viskoz etkilerden kaynaklandığı anlaşılacaktır. Ancak o dönemde insanlar küçük sınır tabakalarını gözlemleyemediği için onun etkilerini de bilmemekteydi veya önemsememekteydi. Buna bağlı olarak Rayleigh çok önemli bir yorum yaptı; “Direncin hesaplanırken materyalden direkt etkilenmesi mümkün olabilir. Çünkü basıncın gövdeden belli bir uzaklıkta, gövdede neler olduğundan etkilenmemesi gerekir. Dolayısıyla akışın instabilitesi gövdenin yakınında kendi kendini oluşturuyor olabilir.” Bu önemli yorum, sınır tabaka teorisine giden yolu açarak fikirleri genişletti. Kelvin eğer plakayı sabit hızda akışkan boyunca hareket ettirirse, arka bölgedeki hızın plakanın hızına eşit olduğunu gözlemledi. Dolayısıyla, teorinin instabiliteleri ve sürüklenme kuvvetlerinin gözlemlenebilmesi için gerektirdiği arka bölgenin sonsuza kadar genişletilmesi gerekliliği sonsuz kinetik enerjiye karşılık geldi ve bilim insanlarından tepki gördü. Ayrıca, arka ve ön bölgede gözlemlenen basınç farkları ve bunlara bağlı hesaplanan sürüklenme kuvvetleri, gerçekte deneysel olarak bulunanlara göre çok daha az bulunuyordu. Örneğin, analitik hesaplamalar sürüklenme katsayısını 0.88 buluyorken gerçekte bu 2.0 olarak hesaplanıyordu. Dolayısıyla bu teori de sürüklenme kuvvetini açıklamak için yetersiz bulundu. == İnce Sınır Tabaka Teorisi: Prandtl == Alman fizikçi Ludwig Prandtl 1904'te ince viskoz sınır tabakaların Rayleigh'in yorumundaki gibi sürüklenme kuvvetinde çok etkili olacağını ifade etti. Prandtl bu fikri daha da ileri götürerek, yüksek hız ve Reynolds sayılarında kaymaz sınır koşulunun (akışkan parçacıklarının katı yüzeylerdeki düzensizliklere yapışması ve orada katıyla aynı hıza sahip olması) yakın bölgelerdeki serbest akış hızı ile gövdedeki akış hızı arasında ciddi farklara sebep olacağını ve bu ciddi farkların büyük kuvvetler yaratacağını da ifade etmişti. Ayrıca bu büyük kuvvetler, akışta momente dolayısıyla dönüşlere ve kaosa sebep olmaktaydı. Böylece akışın karışıp enerji alışverişi yapması ciddi oranda artmış oluyordu. Buradaki kinetik enerji alışverişi (daha genel bir ifadeyle sınırdaki akışkanların, dönüşten ötürü çevresine enerji saçması ve yüksek hız gradyanlarından ötürü karşı kuvvetlerle karşılaşması ile enerji kaybetmesi) diğer teorilerin tam olarak eksik kaldığı yeri doldurmaktaydı. Akış, yüksek kuvvet ve hareketlere karşı sanki katı bir tepeyi tırmanmaya çalışıyordu ve enerji kaybediyordu. Dolayısıyla serbest akış alanından aldığı enerjiyi bir süre sonra karşı kuvvetlere göre tamamen kaybediyor ve katıdan ayrılmaya başlıyordu. Bu ayrılma, arka bölgelere yani enerjinin en aza indiği yerlerde oluyor ve arka bölgelerde ciddi bir düşük basınç bölgesi bırakıyordu. Bu da yapısal sürüklenme kuvvetini (basınç farkından kaynaklanan) ortaya getiriyordu. Bu, sürtünmeden; viskoz etkilerden kaynaklanan sürüklenme kuvvetinden bile daha fazla olabiliyordu. Prandtl'ın senaryosuna kanıt, uzun ve dik çıkan gövdelerde yüksek Reynolds sayılarındaki akışlarda bulunabilir. (Örneğin silindir) Başta, akış potansiyel teoriyle birebir uyumluluk gösterir ancak belli bir süre sonra enerjisi düştüğü için, durgunluk noktasında yani akışkan parçacıklarının dengeye geldiği yerde akışkan artık gövdeden ayrılır ve serbest akışa katılır; böylece arkada bir düşük basınç alanı kalır. Prandtl bu hipotezini, katıların yakınındaki ince tabakalarda viskoz etkilerin yüksek olması üzerine geliştirmiş ve bu bölgelere sınır tabaka adını vermiştir. Bu tabakalar katıdaki sıfır göreceli hızdan serbest akıştaki V hızına kadar olan gradyan bölgesinde oluşur ve buradaki yüksek gradyanlardan ötürü yüksek stresler oluşturur. Ancak bu bölgelerin haricinde viskoz etkiler; Newton'un akışkanlardaki kayma stresinin tanımına göre (hızın türevine bağlıdır) hız değişimleri çok az olduğu için kaybolur. Böylece sınır tabakaların dışında potansiyel teorinin doğru olduğu sonucuna varabiliriz. Viskoz etkilerin de işin içine dahil edildiği tam akışkan modeli (sürekli ortamlar mekaniği yani parçacıkların paketler halinde modellenmesi ile) doğrusal olmayan Navier-Stokes denklemleri ile tamamlanmıştır. Bu denklemler çoğu akış için matematiksel olarak hala çözülememektedir. Ancak Prandtl'ın hipotezi kullanılarak sınır tabakaların küçüklüğü ve içindeki olayların modellenmesi ile Navier-Stokes denklemleri çözülebilir formlara getirilebilmektedir. Düz bir plaka üzerindeki viskoz akış ise sınır tabaka modelinin Navier Stokes ile birlikte uygulanması ile Blasius (Prandtl'ın doktora öğrencisi) tarafından Rayleigh'in geliştirdiği boyutsuz sayılar uygulamasının da kullanılması ile(diferansiyel denklemlerin normalizasyonu kullanılmıştır) analitik olarak akış hakkındaki her bilgiyi bulabilmiştir. (Sürüklenme kuvveti, basınç değişimi, hız değişimi vb.) Prandtl teorisi hidrodinamik ve aerodinamik yapılar tasarlarken büyük önem kazanmıştır. Zira bu yapılarda, uzun ve çıkışlı gövdeler (bluff bodies) kullanılmaktadır ve bu gövdeler üzerindeki yapısal ve sürtünmeye dayalı sürüklenme kuvvetlerinin bulunması gerekmektedir.Ayrıca, tasarım bazında akış boyunca bütün basınç dağılımlarının bulunması bile büyük önem kazanmaktadır. Zira uçakların ve su altı araçlarının tasarımı sırasında basınç dağılımları, sürtünme kuvveti değişimleri; hangi parçaların ne şekilde tasarlanacağı hakkında önemli bilgiler vermektedir. Ayrıca, uçuş veya yüzme boyunca gövdenin hareketinin çevredeki akışkanı nasıl etkilediği bile önemli bir konudur. == Notlar == == Kaynakça == === Tarihsel === d'Alembert, Jean le Rond (1752), Essai d'une nouvelle théorie de la résistance des fluides, 16 Şubat 2016 tarihinde kaynağından arşivlendi5 Aralık 2015 d'Alembert, Jean le Rond (1768), \"Memoir XXXIV\", Opuscules Mathématiques, 5 (§I bas.), ss. 132-138. Prandtl, Ludwig (1904), Motion of fluids with very little viscosity, 452, NACA Technical Memorandum, 8 Aralık 2015 tarihinde kaynağından arşivlendi5 Aralık 2015 === Konuyla ilgili yayınlar === Batchelor, G. (2000), An introduction to fluid dynamics, Cambridge Mathematical Library (İngilizce) (2. bas.), Cambridge University Press, ISBN 978-0-521-66396-0, MR 1744638 Falkovich, G. (2011), Fluid Mechanics, a short course for physicists (İngilizce), Cambridge University Press, ISBN 978-1-107-00575-4 Grimberg, G.; Pauls, W.; Frisch, U. (2008), \"Genesis of d'Alembert's paradox and analytical elaboration of the drag problem\", Physica D, 237 (14–17), ss. 1878-1886, arXiv:0801.3014 , Bibcode:2008PhyD..237.1878G, doi:10.1016/j.physd.2008.01.015 Landau, L. D.; Lifshitz, E. M. (1987), Fluid Mechanics, Course of Theoretical Physics, 6 (2. bas.), Pergamon Press, ISBN 978-0-08-009104-4 Stewartson, K. (1981), \"D'Alembert's Paradox\", SIAM Review, 23 (3), ss. 308-343, doi:10.1137/1023063",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 1336,
+      "char_count": 10842,
+      "num_chunks": 15,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.042443",
+    "total_chunks": 15,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Akışkanlar dinamiğinde D'Alembert paradoksu veya hidrodinamik paradoks, 1752'de Fransız matematikçi Jean le Rond d'Alembert tarafından ortaya atılmıştır. D'Alembert, matematiksel olarak sıkıştırılamaz ve akmazlığın olmadığı akışlarda kullanılan ve sanal fonksiyon teorisini baz alan potansiyel teorinin önemli bir açığını keşfetmiştir. Kaldırma kuvveti ile ilgili etkili sonuçlar veren potansiyel teori kullanıldığında, üzerinde akış olan her cisim için sürüklenme kuvveti sıfır oluyordu. Bilim insanlarına göre bu çelişki, akmazlığın ihmalinden kaynaklanmaktadır. 19. ve 20. yüzyıllarda daha gelişmiş sistemlerle cisimler üzerindeki sınır tabakaları gözlendiğinde burada akmazlığın sınır koşulları nedeniyle çok etkili olduğu bulunmuştur. Sınır tabakası ince bile olsa, kuvvetler yüzeye uygulandığı için sürüklenme kuvvetleri çok büyüyebiliyordu. Ayrıca, uzun gövdeler için akışın ayrılarak arka bölgede basıncı çok düşük alanlar yaratması, dönüşler, türbülans gibi etkiler (tam olarak modellenemeye",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1038,
+      "content": "için sürüklenme kuvvetleri çok büyüyebiliyordu. Ayrıca, uzun gövdeler için akışın ayrılarak arka bölgede basıncı çok düşük alanlar yaratması, dönüşler, türbülans gibi etkiler (tam olarak modellenemeyen etkiler) de burada güçlü olmaktadır.",
+      "char_count": 238,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0002",
+      "section": "== Viskoz sürtünme; Saint-Venant, Navier ve Stokes ==",
+      "heading_path": "== Viskoz sürtünme; Saint-Venant, Navier ve Stokes ==",
+      "start_char": 1039,
+      "end_char": 1822,
+      "content": "== Viskoz sürtünme; Saint-Venant, Navier ve Stokes == Bu paradoksu ilk çözmeye çalışan Saint Venant, akmazlıktan kaynaklanan sürtünmeyi modellemeye çalışmıştı.Moleküller arası basınç farkı ve yüzeydeki yapışmayı o zamanlardan tahmin edebilmişti. 1851'de Stokes, küre etrafındaki sürüklenme kuvvetini hesaplayabilmişti. Ancak bunu, düşük Reynolds sayıları için kendi kabulleriyle geliştirdiği Stokes yasası olarak bilinen Stokes Akışı hesaplarıyla yapabilmekteydi. Ancak Navier'in katkılarına göre yetersizdi. Akış problemleri birimsiz formlara getirildiğinde, viskoz Navier-Stokes denklemleri artan Reynolds sayıları için Euler denklemlerinin potansiyel akış çözümlerine gelmektedir. Bu durumda ise sürüklenme kuvveti yine sıfır olmalıdır, ancak ölçümler tam tersini göstermektedir.",
+      "char_count": 782,
+      "token_estimate": 195
+    },
+    {
+      "id": "c0003",
+      "section": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "heading_path": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "start_char": 1822,
+      "end_char": 2822,
+      "content": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh == 19. yüzyılın ikinci yarısında, bilim insanları sürüklenme kuvvetini viskoz olmayan akış teorisi ile çözmeye çalışıyordu ve bunu viskozite etkisinin azaldığı yüksek Reynolds sayıları yapmaya çalışıyorlardı. Bu model Helmoltz’un serbest akış çizgileri metodunu baz alarak Kirchhoff ve Rayleigh tarafından geliştirildi ve akışın gövde arkasında bir boşluk bıraktığı gözlemlendi-denendi. O zamanlar, arka bölgedeki kabuller, akış hızının gövde hızına hep eşit olduğu, ama sabit basınç olduğuydu. Yani arka bölgeye doğru karakteristik uzunluğun artmasıyla Reynolds sayısının fazlaca büyümesi, o dönemki bilim insanlarına potansiyel akış teorisini uygulayabileceklerini yani viskoz etkilerin minimum olduğu düşüncelerini vermekteydi. Bu çözüme göre, akış arkaya doğru geçtikçe düzgün bir şekilde gövdenin dışından ayrılmaktaydı ancak sürekli olmayan tanjant hız değişimleri sistem davranışına dahil oluyordu. Gövde üzerinde sürüklenme kuvveti olması",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "heading_path": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "start_char": 2622,
+      "end_char": 3622,
+      "content": " akış arkaya doğru geçtikçe düzgün bir şekilde gövdenin dışından ayrılmaktaydı ancak sürekli olmayan tanjant hız değişimleri sistem davranışına dahil oluyordu. Gövde üzerinde sürüklenme kuvveti olması içinse, arka bölgenin sonsuza kadar uzanması gerekiyordu. Ancak bu teori, sürüklenme kuvvetinin hızın karesiyle doğru orantılı olduğunu söylüyordu. Ancak, o zamanlar vorteks ve akışın dönüşünden kaynaklanan stabil olmayan durumlardan ötürü akışın bu şekilde durgun olamayacağı biliniyordu. Bu tip düzensizliklere de genel olarak Kelvin-Helmholtz instabiliteleri adı veriliyordu. Bu durgun akış modeli sürüklenme kuvvetini doğru vereceği düşünülerek oldukça çalışıldı. Akışın gövdenin arka tarafına geçip kopmasından kaynaklanan sürüklenme kuvveti insanların kafasını bu çelişkilerle oldukça karışmıştı. Ve analitik olarak mevcut modellerle çözülemiyordu. Rayleigh 1876'daki yayınında bu konunun hidrodinamiğin en kafa karıştırıcı alanı olduğunu ifade etmişti. Bu konudaki çözüme ilk önemli adım 1869",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "heading_path": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "start_char": 3422,
+      "end_char": 4422,
+      "content": "tı. Ve analitik olarak mevcut modellerle çözülemiyordu. Rayleigh 1876'daki yayınında bu konunun hidrodinamiğin en kafa karıştırıcı alanı olduğunu ifade etmişti. Bu konudaki çözüme ilk önemli adım 1869'da Kirchhoff tarafından atıldı. Kirchhof, yukarıda bahsedildiği üzere, viskoz etkileri önemsemeden sadece arka bölgenin kopuşuna bağlı olarak sürüklenme kuvvetine yaklaşabileceği bir model geliştirdi(Günümüzde hala, bu yaklaşımı kullanabilir miyiz sorusu mevcuttur ve bilim insanları hidrodinamik dirence karşı Kirchhoff modelini kullanmaya çalışmaktadır.). Bunların üzerine Lord Kelvin “akışın ayrıldığı yüzeylerde hareket stabil değildir” yorumunu da eklemiştir. Kafaları daha da çok karıştıran bu ifadenin daha sonra viskoz etkilerden kaynaklandığı anlaşılacaktır. Ancak o dönemde insanlar küçük sınır tabakalarını gözlemleyemediği için onun etkilerini de bilmemekteydi veya önemsememekteydi. Buna bağlı olarak Rayleigh çok önemli bir yorum yaptı; “Direncin hesaplanırken materyalden direkt etkil",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "heading_path": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "start_char": 4222,
+      "end_char": 5222,
+      "content": "sınır tabakalarını gözlemleyemediği için onun etkilerini de bilmemekteydi veya önemsememekteydi. Buna bağlı olarak Rayleigh çok önemli bir yorum yaptı; “Direncin hesaplanırken materyalden direkt etkilenmesi mümkün olabilir. Çünkü basıncın gövdeden belli bir uzaklıkta, gövdede neler olduğundan etkilenmemesi gerekir. Dolayısıyla akışın instabilitesi gövdenin yakınında kendi kendini oluşturuyor olabilir.” Bu önemli yorum, sınır tabaka teorisine giden yolu açarak fikirleri genişletti. Kelvin eğer plakayı sabit hızda akışkan boyunca hareket ettirirse, arka bölgedeki hızın plakanın hızına eşit olduğunu gözlemledi. Dolayısıyla, teorinin instabiliteleri ve sürüklenme kuvvetlerinin gözlemlenebilmesi için gerektirdiği arka bölgenin sonsuza kadar genişletilmesi gerekliliği sonsuz kinetik enerjiye karşılık geldi ve bilim insanlarından tepki gördü. Ayrıca, arka ve ön bölgede gözlemlenen basınç farkları ve bunlara bağlı hesaplanan sürüklenme kuvvetleri, gerçekte deneysel olarak bulunanlara göre çok ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "heading_path": "== Viskoz olmayan ayrılan akış: Kirchhoff ve Rayleigh ==",
+      "start_char": 5022,
+      "end_char": 5429,
+      "content": "şılık geldi ve bilim insanlarından tepki gördü. Ayrıca, arka ve ön bölgede gözlemlenen basınç farkları ve bunlara bağlı hesaplanan sürüklenme kuvvetleri, gerçekte deneysel olarak bulunanlara göre çok daha az bulunuyordu. Örneğin, analitik hesaplamalar sürüklenme katsayısını 0.88 buluyorken gerçekte bu 2.0 olarak hesaplanıyordu. Dolayısıyla bu teori de sürüklenme kuvvetini açıklamak için yetersiz bulundu.",
+      "char_count": 407,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0008",
+      "section": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "heading_path": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "start_char": 5430,
+      "end_char": 6430,
+      "content": "== İnce Sınır Tabaka Teorisi: Prandtl == Alman fizikçi Ludwig Prandtl 1904'te ince viskoz sınır tabakaların Rayleigh'in yorumundaki gibi sürüklenme kuvvetinde çok etkili olacağını ifade etti. Prandtl bu fikri daha da ileri götürerek, yüksek hız ve Reynolds sayılarında kaymaz sınır koşulunun (akışkan parçacıklarının katı yüzeylerdeki düzensizliklere yapışması ve orada katıyla aynı hıza sahip olması) yakın bölgelerdeki serbest akış hızı ile gövdedeki akış hızı arasında ciddi farklara sebep olacağını ve bu ciddi farkların büyük kuvvetler yaratacağını da ifade etmişti. Ayrıca bu büyük kuvvetler, akışta momente dolayısıyla dönüşlere ve kaosa sebep olmaktaydı. Böylece akışın karışıp enerji alışverişi yapması ciddi oranda artmış oluyordu. Buradaki kinetik enerji alışverişi (daha genel bir ifadeyle sınırdaki akışkanların, dönüşten ötürü çevresine enerji saçması ve yüksek hız gradyanlarından ötürü karşı kuvvetlerle karşılaşması ile enerji kaybetmesi) diğer teorilerin tam olarak eksik kaldığı ye",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0009",
+      "section": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "heading_path": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "start_char": 6230,
+      "end_char": 7230,
+      "content": "e sınırdaki akışkanların, dönüşten ötürü çevresine enerji saçması ve yüksek hız gradyanlarından ötürü karşı kuvvetlerle karşılaşması ile enerji kaybetmesi) diğer teorilerin tam olarak eksik kaldığı yeri doldurmaktaydı. Akış, yüksek kuvvet ve hareketlere karşı sanki katı bir tepeyi tırmanmaya çalışıyordu ve enerji kaybediyordu. Dolayısıyla serbest akış alanından aldığı enerjiyi bir süre sonra karşı kuvvetlere göre tamamen kaybediyor ve katıdan ayrılmaya başlıyordu. Bu ayrılma, arka bölgelere yani enerjinin en aza indiği yerlerde oluyor ve arka bölgelerde ciddi bir düşük basınç bölgesi bırakıyordu. Bu da yapısal sürüklenme kuvvetini (basınç farkından kaynaklanan) ortaya getiriyordu. Bu, sürtünmeden; viskoz etkilerden kaynaklanan sürüklenme kuvvetinden bile daha fazla olabiliyordu. Prandtl'ın senaryosuna kanıt, uzun ve dik çıkan gövdelerde yüksek Reynolds sayılarındaki akışlarda bulunabilir. (Örneğin silindir) Başta, akış potansiyel teoriyle birebir uyumluluk gösterir ancak belli bir süre",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0010",
+      "section": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "heading_path": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "start_char": 7030,
+      "end_char": 8030,
+      "content": " senaryosuna kanıt, uzun ve dik çıkan gövdelerde yüksek Reynolds sayılarındaki akışlarda bulunabilir. (Örneğin silindir) Başta, akış potansiyel teoriyle birebir uyumluluk gösterir ancak belli bir süre sonra enerjisi düştüğü için, durgunluk noktasında yani akışkan parçacıklarının dengeye geldiği yerde akışkan artık gövdeden ayrılır ve serbest akışa katılır; böylece arkada bir düşük basınç alanı kalır. Prandtl bu hipotezini, katıların yakınındaki ince tabakalarda viskoz etkilerin yüksek olması üzerine geliştirmiş ve bu bölgelere sınır tabaka adını vermiştir. Bu tabakalar katıdaki sıfır göreceli hızdan serbest akıştaki V hızına kadar olan gradyan bölgesinde oluşur ve buradaki yüksek gradyanlardan ötürü yüksek stresler oluşturur. Ancak bu bölgelerin haricinde viskoz etkiler; Newton'un akışkanlardaki kayma stresinin tanımına göre (hızın türevine bağlıdır) hız değişimleri çok az olduğu için kaybolur. Böylece sınır tabakaların dışında potansiyel teorinin doğru olduğu sonucuna varabiliriz. Vis",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0011",
+      "section": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "heading_path": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "start_char": 7830,
+      "end_char": 8830,
+      "content": "ardaki kayma stresinin tanımına göre (hızın türevine bağlıdır) hız değişimleri çok az olduğu için kaybolur. Böylece sınır tabakaların dışında potansiyel teorinin doğru olduğu sonucuna varabiliriz. Viskoz etkilerin de işin içine dahil edildiği tam akışkan modeli (sürekli ortamlar mekaniği yani parçacıkların paketler halinde modellenmesi ile) doğrusal olmayan Navier-Stokes denklemleri ile tamamlanmıştır. Bu denklemler çoğu akış için matematiksel olarak hala çözülememektedir. Ancak Prandtl'ın hipotezi kullanılarak sınır tabakaların küçüklüğü ve içindeki olayların modellenmesi ile Navier-Stokes denklemleri çözülebilir formlara getirilebilmektedir. Düz bir plaka üzerindeki viskoz akış ise sınır tabaka modelinin Navier Stokes ile birlikte uygulanması ile Blasius (Prandtl'ın doktora öğrencisi) tarafından Rayleigh'in geliştirdiği boyutsuz sayılar uygulamasının da kullanılması ile(diferansiyel denklemlerin normalizasyonu kullanılmıştır) analitik olarak akış hakkındaki her bilgiyi bulabilmiştir.",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0012",
+      "section": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "heading_path": "== İnce Sınır Tabaka Teorisi: Prandtl ==",
+      "start_char": 8630,
+      "end_char": 9561,
+      "content": "rafından Rayleigh'in geliştirdiği boyutsuz sayılar uygulamasının da kullanılması ile(diferansiyel denklemlerin normalizasyonu kullanılmıştır) analitik olarak akış hakkındaki her bilgiyi bulabilmiştir. (Sürüklenme kuvveti, basınç değişimi, hız değişimi vb.) Prandtl teorisi hidrodinamik ve aerodinamik yapılar tasarlarken büyük önem kazanmıştır. Zira bu yapılarda, uzun ve çıkışlı gövdeler (bluff bodies) kullanılmaktadır ve bu gövdeler üzerindeki yapısal ve sürtünmeye dayalı sürüklenme kuvvetlerinin bulunması gerekmektedir.Ayrıca, tasarım bazında akış boyunca bütün basınç dağılımlarının bulunması bile büyük önem kazanmaktadır. Zira uçakların ve su altı araçlarının tasarımı sırasında basınç dağılımları, sürtünme kuvveti değişimleri; hangi parçaların ne şekilde tasarlanacağı hakkında önemli bilgiler vermektedir. Ayrıca, uçuş veya yüzme boyunca gövdenin hareketinin çevredeki akışkanı nasıl etkilediği bile önemli bir konudur.",
+      "char_count": 931,
+      "token_estimate": 232
+    },
+    {
+      "id": "c0013",
+      "section": "=== Tarihsel ===",
+      "heading_path": "=== Tarihsel ===",
+      "start_char": 9590,
+      "end_char": 10020,
+      "content": "=== Tarihsel === d'Alembert, Jean le Rond (1752), Essai d'une nouvelle théorie de la résistance des fluides, 16 Şubat 2016 tarihinde kaynağından arşivlendi5 Aralık 2015 d'Alembert, Jean le Rond (1768), \"Memoir XXXIV\", Opuscules Mathématiques, 5 (§I bas.), ss. 132-138. Prandtl, Ludwig (1904), Motion of fluids with very little viscosity, 452, NACA Technical Memorandum, 8 Aralık 2015 tarihinde kaynağından arşivlendi5 Aralık 2015",
+      "char_count": 429,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0014",
+      "section": "=== Konuyla ilgili yayınlar ===",
+      "heading_path": "=== Konuyla ilgili yayınlar ===",
+      "start_char": 10020,
+      "end_char": 10842,
+      "content": "=== Konuyla ilgili yayınlar === Batchelor, G. (2000), An introduction to fluid dynamics, Cambridge Mathematical Library (İngilizce) (2. bas.), Cambridge University Press, ISBN 978-0-521-66396-0, MR 1744638 Falkovich, G. (2011), Fluid Mechanics, a short course for physicists (İngilizce), Cambridge University Press, ISBN 978-1-107-00575-4 Grimberg, G.; Pauls, W.; Frisch, U. (2008), \"Genesis of d'Alembert's paradox and analytical elaboration of the drag problem\", Physica D, 237 (14–17), ss. 1878-1886, arXiv:0801.3014 , Bibcode:2008PhyD..237.1878G, doi:10.1016/j.physd.2008.01.015 Landau, L. D.; Lifshitz, E. M. (1987), Fluid Mechanics, Course of Theoretical Physics, 6 (2. bas.), Pergamon Press, ISBN 978-0-08-009104-4 Stewartson, K. (1981), \"D'Alembert's Paradox\", SIAM Review, 23 (3), ss. 308-343, doi:10.1137/1023063",
+      "char_count": 822,
+      "token_estimate": 205
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "D'Alembert paradoksu kim tarafından ortaya atılmıştır?",
+        "answer": "Jean le Rond d'Alembert",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "D'Alembert paradoksunun ortaya çıkış nedenleri ve akışkan dinamiğindeki viskozite etkilerinin modellenmesi çabaları arasındaki ilişki nedir?",
+        "answer": "D'Alembert paradoksu, potansiyel teorinin viskoziteyi ihmal etmesi sonucu cisimler üzerindeki sürüklenme kuvvetini sıfır olarak öngörmesinden kaynaklanmıştır, oysa gerçekte akışkanların viskozitesi, sınır tabakaları, akış ayrılması ve türbülans gibi karmaşık etkiler nedeniyle önemli bir sürüklenme kuvveti oluşur. Bu çelişkiyi çözmek için Saint-Venant viskoziteden kaynaklanan sürtünmeyi modellemeye çalışmış, Stokes ise düşük Reynolds sayıları için sürüklenme kuvvetini hesaplamıştır. Ancak, daha gelişmiş viskoz modellerde bile, artan Reynolds sayıları için Euler denklemlerinin potansiyel akış çözümlerine yaklaşılması, sürüklenme kuvvetinin teorik olarak yine sıfır olması gerektiğini öngörmüş, bu da ölçümlerle çelişmeye devam etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "clydeadalar_bc665205",
+    "title": "Clyde Adaları",
+    "url": "https://tr.wikipedia.org/wiki/Clyde_Adalar%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:54.360892",
+    "content": "Clyde Körfezi Adaları, İç ve Dış Hebrides, Orkney ve Shetland'dan sonra en büyük beşinci İskoç ada grubudur. Ayrshire ile Argyll ve Bute arasındaki Clyde Körfezi'nde bulunurlar. Yaklaşık kırk adadırlar. Yalnızca dördü yerleşim yeridir ve yalnızca dokuzu 40 hektar (99 akre) ve üzeri büyüklüktedir. En kalabalık olanları Arran ve Bute'dir. Great Cumbrae ve Holy Adası gibi özel feribot güzergahları ile hizmet verilmektedir. Dört büyük İskoç takımadasındaki adaların aksine, bu gruptaki adaların hiçbiri birbirine veya anakaraya köprülerle bağlı değildir. == Coğrafya == Yayla Sınır Fayı, Bute'yi geçip Arran'ın kuzey kesiminden geçer. Bu nedenle, jeolojik açıdan, adaların bir kısmı yaylalarda, bir kısmı Orta Ovalardadır. Arran'ın İskoçya'ya jeolojik benzerliğinin bir sonucu olarak, bazen \"minyatür İskoçya\" olarak anılır . == İklim == Firth of Clyde, 55 ila 56 derece kuzey enlemleri arasında yer alır. Bu, Kanada'daki Labrador ve Aleut Adaları'nın kuzeyindeki enlemle aynı enlemdir. Bununla birlikte, Gulf Stream'in kuzey uzantısı olan North Atlantic Drift'in etkisi kış havasını yumuşatır. Sonuç olarak, bölge ılıman, nemli bir okyanus iklimine sahiptir. Sıcaklıklar genellikle soğuktur, ortalama 6 °C (43 °F) civarındadır. Ocak ve 14 °C (57 °F) Temmuz ayında deniz seviyesinde olur. Kar nadiren deniz seviyesinde bulunur ve donlar genellikle anakaradakinden daha az görülür. İskoçya'nın batı kıyısındaki çoğu adada olduğu gibi, yıllık ortalama yağış miktarı genellikle yüksektir: 1.300 milimetre (51 in) Bute'de, Cumbraes'de ve Arran'ın güneyinde ve 1.900 milimetre (75 in) Arran'ın kuzeyindeki ölçümüdür. Arran dağları daha da ıslakdır hatta zirveleri 2.550 milimetre (100 in) fazla alıyor yıllık yağmuru. Mayıs, Haziran ve Temmuz en güneşli aylardır: ortalama olarak, her yıl bu 3 aylık dönemde toplam 200 saat parlak güneş ışığı vardır. Güney Bute, en çok sıcak havanın görüldüğü kısımdır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 272,
+      "char_count": 1913,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.754669",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 555,
+      "content": "Clyde Körfezi Adaları, İç ve Dış Hebrides, Orkney ve Shetland'dan sonra en büyük beşinci İskoç ada grubudur. Ayrshire ile Argyll ve Bute arasındaki Clyde Körfezi'nde bulunurlar. Yaklaşık kırk adadırlar. Yalnızca dördü yerleşim yeridir ve yalnızca dokuzu 40 hektar (99 akre) ve üzeri büyüklüktedir. En kalabalık olanları Arran ve Bute'dir. Great Cumbrae ve Holy Adası gibi özel feribot güzergahları ile hizmet verilmektedir. Dört büyük İskoç takımadasındaki adaların aksine, bu gruptaki adaların hiçbiri birbirine veya anakaraya köprülerle bağlı değildir.",
+      "char_count": 554,
+      "token_estimate": 138
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 555,
+      "end_char": 826,
+      "content": "== Coğrafya == Yayla Sınır Fayı, Bute'yi geçip Arran'ın kuzey kesiminden geçer. Bu nedenle, jeolojik açıdan, adaların bir kısmı yaylalarda, bir kısmı Orta Ovalardadır. Arran'ın İskoçya'ya jeolojik benzerliğinin bir sonucu olarak, bazen \"minyatür İskoçya\" olarak anılır .",
+      "char_count": 270,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0002",
+      "section": "== İklim ==",
+      "heading_path": "== İklim ==",
+      "start_char": 826,
+      "end_char": 1826,
+      "content": "== İklim == Firth of Clyde, 55 ila 56 derece kuzey enlemleri arasında yer alır. Bu, Kanada'daki Labrador ve Aleut Adaları'nın kuzeyindeki enlemle aynı enlemdir. Bununla birlikte, Gulf Stream'in kuzey uzantısı olan North Atlantic Drift'in etkisi kış havasını yumuşatır. Sonuç olarak, bölge ılıman, nemli bir okyanus iklimine sahiptir. Sıcaklıklar genellikle soğuktur, ortalama 6 °C (43 °F) civarındadır. Ocak ve 14 °C (57 °F) Temmuz ayında deniz seviyesinde olur. Kar nadiren deniz seviyesinde bulunur ve donlar genellikle anakaradakinden daha az görülür. İskoçya'nın batı kıyısındaki çoğu adada olduğu gibi, yıllık ortalama yağış miktarı genellikle yüksektir: 1.300 milimetre (51 in) Bute'de, Cumbraes'de ve Arran'ın güneyinde ve 1.900 milimetre (75 in) Arran'ın kuzeyindeki ölçümüdür. Arran dağları daha da ıslakdır hatta zirveleri 2.550 milimetre (100 in) fazla alıyor yıllık yağmuru. Mayıs, Haziran ve Temmuz en güneşli aylardır: ortalama olarak, her yıl bu 3 aylık dönemde toplam 200 saat parlak ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== İklim ==",
+      "heading_path": "== İklim ==",
+      "start_char": 1626,
+      "end_char": 1898,
+      "content": "daha da ıslakdır hatta zirveleri 2.550 milimetre (100 in) fazla alıyor yıllık yağmuru. Mayıs, Haziran ve Temmuz en güneşli aylardır: ortalama olarak, her yıl bu 3 aylık dönemde toplam 200 saat parlak güneş ışığı vardır. Güney Bute, en çok sıcak havanın görüldüğü kısımdır.",
+      "char_count": 272,
+      "token_estimate": 68
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Firth of Clyde bölgesi hangi iklim tipine sahiptir?",
+        "answer": "Bölge ılıman, nemli bir okyanus iklimine sahiptir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Clyde Körfezi Adaları'nın bir parçası olan Arran ve Bute'nin jeolojik yapısı ve iklim özellikleri, bu ada grubunun genel coğrafi karakterini nasıl şekillendirmektedir?",
+        "answer": "Clyde Körfezi Adaları'nın en kalabalık adalarından ikisi olan Arran ve Bute, bölgenin genel coğrafi karakterini derinden etkilemektedir. Bute'yi geçip Arran'ın kuzey kesiminden geçen Yayla Sınır Fayı nedeniyle, bu adaların jeolojik yapısı çeşitlidir; bir kısmı yaylalarda, bir kısmı ise Orta Ovalarda yer alır ve Arran bu özelliğiyle 'minyatür İskoçya' olarak anılır. Ayrıca, Firth of Clyde bölgesinin Gulf Stream'in kuzey uzantısı olan North Atlantic Drift etkisiyle ılıman, nemli bir okyanus iklimine sahip olması, kışları yumuşatır ve bölgeye bol yağış getirir. Özellikle Arran'ın kuzeyindeki ve dağlık kesimlerindeki yüksek yağış miktarları (sırasıyla 1.900 mm ve 2.550 mm üzeri), bu adaların genel coğrafi çeşitliliğini ve doğal zenginliğini pekiştirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

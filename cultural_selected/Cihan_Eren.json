@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "cihaneren_903c0834",
+    "title": "Cihan Eren",
+    "url": "https://tr.wikipedia.org/wiki/Cihan_Eren",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:38.114649",
+    "content": "Cihan Eren (1948 - 2005), İstanbul Barosu ağır ceza avukatıdır. Memleketi olan Rize ilinin Fındıklı ilçesinden geçmesi planlanan D 010 Karadeniz Sahil Yoluna karşı yaptığı çevreci mücadeleyle bilinir. 2005 yılında silahlı saldırı sonucu öldürülmüştür. == Karadeniz Sahil Yolu == 1998 yılında Eren Karadeniz Sahil Yolunun Rize'nin Fındıklı İlçesinde yer alan ve sit alanı olarak ilan edilmiş bulunan Aksu Mahallesinden geçmesine karşı hukuk alanında mücadele başlattı. Bunun yanı sıra yöre halkının da desteğiyle çeşitli eylemler düzenlenmesine katkıda bulundu. == Ölümü == 20 Nisan 2005 günü yapılacak olan keşif için Rize'nin fındıklı ilçesinde bulunan Avukat Cihan Eren keşiften 2 gün önce 18 Nisan 2005 tarihinde uğradığı silahlı saldırı sonucu ağır yaralandı. Trabzon'da bulunan Karadeniz Teknik Üniversitesi Farabi Hastanesi yoğun bakımında 95 gün süren yaşam mücadelesi verdi. 22 Temmuz 2005 tarihinde Trabzon'da hayatını kaybetti. Katili 25 yaşındaki yerel bir genç olan Serhat Karadeniz'dir. === Kurtlar Vadisi etkisi === Suikastten sonra yakalanarak tutuklanan katilin açıklaması dizinin şiddeti özendirici özelliğini bir kez daha tartışma konusu yaptı. == Afetler ve olumsuz etkiler == Karadeniz Sahil Yolu'nun bölgeye olumsuz etkisi özellikle olağanüstü yağış dönemlerinde Karadeniz bölgesinde sahil yolunun şehir içi kısımlarında hissedilmiştir. 2009 yılı Temmuz ayında Giresun ilini etkisi altına alan sağanak yağışlarda biriken su, sahil yolunun engellemesi nedeniyle tahliye edilememiş ve şehir merkezinde ciddi maddi hasara yol açmıştır. Fındıklı halkı sahilin özellikle Fındıklı'da katledildiğini belirtmekte ve sahil yolunu kabul etmemektedir. Karadeniz Sahil Yolunun açtığı tahribatlarla ilgili Kültür Bakanlığının da desteğiyle Son Kumsal isimli bir belgesel de çekilmiştir. Ulaşım Bakanı Binali Yıldırım yaptığı açıklamada projenin yanlış olduğunu ancak yapmak zorunda olduklarını belirterek 700 trilyonun üzerinde para harcandığı için bitirilmesi gerektiğini açıklamıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 267,
+      "char_count": 2009,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.621496",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 252,
+      "content": "Cihan Eren (1948 - 2005), İstanbul Barosu ağır ceza avukatıdır. Memleketi olan Rize ilinin Fındıklı ilçesinden geçmesi planlanan D 010 Karadeniz Sahil Yoluna karşı yaptığı çevreci mücadeleyle bilinir. 2005 yılında silahlı saldırı sonucu öldürülmüştür.",
+      "char_count": 251,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0001",
+      "section": "== Karadeniz Sahil Yolu ==",
+      "heading_path": "== Karadeniz Sahil Yolu ==",
+      "start_char": 252,
+      "end_char": 561,
+      "content": "== Karadeniz Sahil Yolu == 1998 yılında Eren Karadeniz Sahil Yolunun Rize'nin Fındıklı İlçesinde yer alan ve sit alanı olarak ilan edilmiş bulunan Aksu Mahallesinden geçmesine karşı hukuk alanında mücadele başlattı. Bunun yanı sıra yöre halkının da desteğiyle çeşitli eylemler düzenlenmesine katkıda bulundu.",
+      "char_count": 308,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 561,
+      "end_char": 1000,
+      "content": "== Ölümü == 20 Nisan 2005 günü yapılacak olan keşif için Rize'nin fındıklı ilçesinde bulunan Avukat Cihan Eren keşiften 2 gün önce 18 Nisan 2005 tarihinde uğradığı silahlı saldırı sonucu ağır yaralandı. Trabzon'da bulunan Karadeniz Teknik Üniversitesi Farabi Hastanesi yoğun bakımında 95 gün süren yaşam mücadelesi verdi. 22 Temmuz 2005 tarihinde Trabzon'da hayatını kaybetti. Katili 25 yaşındaki yerel bir genç olan Serhat Karadeniz'dir.",
+      "char_count": 438,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0003",
+      "section": "=== Kurtlar Vadisi etkisi ===",
+      "heading_path": "=== Kurtlar Vadisi etkisi ===",
+      "start_char": 1000,
+      "end_char": 1163,
+      "content": "=== Kurtlar Vadisi etkisi === Suikastten sonra yakalanarak tutuklanan katilin açıklaması dizinin şiddeti özendirici özelliğini bir kez daha tartışma konusu yaptı.",
+      "char_count": 162,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0004",
+      "section": "== Afetler ve olumsuz etkiler ==",
+      "heading_path": "== Afetler ve olumsuz etkiler ==",
+      "start_char": 1163,
+      "end_char": 1995,
+      "content": "== Afetler ve olumsuz etkiler == Karadeniz Sahil Yolu'nun bölgeye olumsuz etkisi özellikle olağanüstü yağış dönemlerinde Karadeniz bölgesinde sahil yolunun şehir içi kısımlarında hissedilmiştir. 2009 yılı Temmuz ayında Giresun ilini etkisi altına alan sağanak yağışlarda biriken su, sahil yolunun engellemesi nedeniyle tahliye edilememiş ve şehir merkezinde ciddi maddi hasara yol açmıştır. Fındıklı halkı sahilin özellikle Fındıklı'da katledildiğini belirtmekte ve sahil yolunu kabul etmemektedir. Karadeniz Sahil Yolunun açtığı tahribatlarla ilgili Kültür Bakanlığının da desteğiyle Son Kumsal isimli bir belgesel de çekilmiştir. Ulaşım Bakanı Binali Yıldırım yaptığı açıklamada projenin yanlış olduğunu ancak yapmak zorunda olduklarını belirterek 700 trilyonun üzerinde para harcandığı için bitirilmesi gerektiğini açıklamıştır.",
+      "char_count": 831,
+      "token_estimate": 207
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Karadeniz Sahil Yolu'nun neden olduğu tahribatlarla ilgili çekilen belgeselin adı nedir?",
+        "answer": "Son Kumsal.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cihan Eren, Rize'nin Fındıklı ilçesinden geçmesi planlanan Karadeniz Sahil Yolu'na karşı çevreci mücadelesini hangi yöntemlerle sürdürmüştür?",
+        "answer": "Cihan Eren, Karadeniz Sahil Yolu'nun Rize'nin Fındıklı ilçesinde yer alan ve sit alanı olarak ilan edilmiş bulunan Aksu Mahallesi'nden geçmesine karşı 1998 yılında hukuk alanında mücadele başlatmış ve yöre halkının da desteğiyle çeşitli eylemler düzenlenmesine katkıda bulunmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "huludao_77298f50",
+    "title": "Huludao",
+    "url": "https://tr.wikipedia.org/wiki/Huludao",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:20.534813",
+    "content": "Huludao (Çince: 葫芦岛市; pinyin: Húludǎo shì), Çin'in Liaoning eyaletinde bulunan bir il düzeyi şehirdir. Şehir, kuzeyde Chaoyang ve doğuda Jinzhou il düzeyi şehirleri ile batıda Hebei eyaleti komşudur. Yüzölçümü 10,375 km² olan şehrin nüfusu 2010 yılı itibarı ile 2,623,541'dir. Huludao, Jinzhou ile birlikte Liaoxi Koridoru'nda yer alan iki ana şehirden biridir. == Tarihçe == Şimdiki Huludao şehrinin bulunduğu bölgede antik çağlardan beri yerleşim bulunmaktadır. Ming Hanedanı döneminde bölgede Çin Seddi'nin bir kısmı inşa edilmiştir ve aynı zamanda Xingcheng kasabası kuvvetlendirilmiştir. 1906 yılında Jinxi ilçesi kuruldu. 1945-1948 yılları arasında Kuomintang ile ÇKP güçleri arasında bir önemli bir savaş alanı oldu. Jinxi, 1982 yılında ilçe düzeyi şehir almış olup 1989 yılında il düzeyi şehir yapılarak Jinzhou'dan ayrılmıştır. 1994 yılında şehrin adı Huludao olarak değiştirilmiştir. == İdari bölümler == Huludao şehri, üç semt, bir ilçe düzeyi şehir ile iki ilçeye ayrılmaktadır. Longgang semti (龙港区) Lianshan semti (连山区) Nanpiao semti (南票区) Xingcheng şehri (兴城市) Suizhong ilçesi (绥中县) Jianchang ilçesi (建昌县) == Ekonomi == Huludao'nun ekonomisine nüfusunun büyük bir oranında istihdam sağlayan Çin'in bazı en önemli sanayi işletmeleri hakimdir. Şehir, Jinxi petrol rafinerisi, Asya'nın en büyük çinko üretim işletmesi olan Huludao Zinc Smelter ile Çin'in nükleer denizaltılarının inşa edildiği büyük bir tersaneye ev sahipliği yapmaktadır. == Kardeş şehirler == Las Vegas, ABD Miyazaki, Japonya == Kaynakça == == Dış bağlantılar == Resmi site26 Nisan 2005 tarihinde Wayback Machine sitesinde arşivlendi. (Çince)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 226,
+      "char_count": 1622,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.397184",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 362,
+      "content": "Huludao (Çince: 葫芦岛市; pinyin: Húludǎo shì), Çin'in Liaoning eyaletinde bulunan bir il düzeyi şehirdir. Şehir, kuzeyde Chaoyang ve doğuda Jinzhou il düzeyi şehirleri ile batıda Hebei eyaleti komşudur. Yüzölçümü 10,375 km² olan şehrin nüfusu 2010 yılı itibarı ile 2,623,541'dir. Huludao, Jinzhou ile birlikte Liaoxi Koridoru'nda yer alan iki ana şehirden biridir.",
+      "char_count": 361,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 362,
+      "end_char": 894,
+      "content": "== Tarihçe == Şimdiki Huludao şehrinin bulunduğu bölgede antik çağlardan beri yerleşim bulunmaktadır. Ming Hanedanı döneminde bölgede Çin Seddi'nin bir kısmı inşa edilmiştir ve aynı zamanda Xingcheng kasabası kuvvetlendirilmiştir. 1906 yılında Jinxi ilçesi kuruldu. 1945-1948 yılları arasında Kuomintang ile ÇKP güçleri arasında bir önemli bir savaş alanı oldu. Jinxi, 1982 yılında ilçe düzeyi şehir almış olup 1989 yılında il düzeyi şehir yapılarak Jinzhou'dan ayrılmıştır. 1994 yılında şehrin adı Huludao olarak değiştirilmiştir.",
+      "char_count": 531,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0002",
+      "section": "== İdari bölümler ==",
+      "heading_path": "== İdari bölümler ==",
+      "start_char": 894,
+      "end_char": 1120,
+      "content": "== İdari bölümler == Huludao şehri, üç semt, bir ilçe düzeyi şehir ile iki ilçeye ayrılmaktadır. Longgang semti (龙港区) Lianshan semti (连山区) Nanpiao semti (南票区) Xingcheng şehri (兴城市) Suizhong ilçesi (绥中县) Jianchang ilçesi (建昌县)",
+      "char_count": 225,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0003",
+      "section": "== Ekonomi ==",
+      "heading_path": "== Ekonomi ==",
+      "start_char": 1120,
+      "end_char": 1451,
+      "content": "== Ekonomi == Huludao'nun ekonomisine nüfusunun büyük bir oranında istihdam sağlayan Çin'in bazı en önemli sanayi işletmeleri hakimdir. Şehir, Jinxi petrol rafinerisi, Asya'nın en büyük çinko üretim işletmesi olan Huludao Zinc Smelter ile Çin'in nükleer denizaltılarının inşa edildiği büyük bir tersaneye ev sahipliği yapmaktadır.",
+      "char_count": 330,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0004",
+      "section": "== Kardeş şehirler ==",
+      "heading_path": "== Kardeş şehirler ==",
+      "start_char": 1451,
+      "end_char": 1506,
+      "content": "== Kardeş şehirler == Las Vegas, ABD Miyazaki, Japonya",
+      "char_count": 54,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1521,
+      "end_char": 1622,
+      "content": "== Dış bağlantılar == Resmi site26 Nisan 2005 tarihinde Wayback Machine sitesinde arşivlendi. (Çince)",
+      "char_count": 101,
+      "token_estimate": 25
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Jinxi şehrinin adı Huludao olarak ne zaman değiştirilmiştir?",
+        "answer": "1994 yılında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Huludao'nun günümüzdeki il düzeyi şehir statüsü ve adı nasıl oluşmuştur ve bu süreçte Jinzhou ile ilişkisi ne olmuştur?",
+        "answer": "Bölgede 1906 yılında Jinxi ilçesi kurulmuştur. Jinxi, 1982'de ilçe düzeyi şehir statüsü almış, ardından 1989'da Jinzhou'dan ayrılarak il düzeyi şehir olmuştur. Şehrin adı ise 1994 yılında Huludao olarak değiştirilmiştir. Huludao günümüzde, Jinzhou ile birlikte Liaoxi Koridoru'ndaki iki ana şehirden biridir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

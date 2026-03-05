@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "birselamyeter_6027fc38",
+    "title": "Bir Selam Yeter",
+    "url": "https://tr.wikipedia.org/wiki/Bir_Selam_Yeter",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:41.420950",
+    "content": "Bir Selam Yeter, Nilüfer'in 1985 tarihli, dokuzuncu stüdyo albümüdür. Sanatçı bu albümünde Ülkü Aker'den Selmi Andak'a, Aysel Gürel'den Melih Kibar'a birden fazla şarkı sözü yazarı ve müzisyenle çalışmıştır. Albümde yer alan Erkekler Ağlamaz aldı şarkı, o zamana değin sadece yorumcu olarak dinleyicilerinin karşısına çıkan Nilüfer'in ilk söz ve müzik çalışması olma niteliği taşımaktadır. == Şarkı listesi == Bir Selam Yeter (söz: Ülkü Aker - müzik: Selmi Andak) O Sevgili Nerede (söz: Ülkü Aker - müzik: Selmi Andak) Neden Sanki Neden (Söz: Zeynep Hilav - müzik: Melih Kibar) Yağmur (söz & müzik: Kayahan) Acıkmışım Sevgine (söz & müzik: Kayahan) Haydi Durma (söz: Çetin Akcan - müzik: Bilinmiyor) Al Götür Beni (söz: Ülkü Aker - müzik: Bilinmiyor) Bir Gün Darılıp Bir Gün Barışma (söz: Ülkü Aker - müzik: Nikos Ignatiadis) Erkekler Ağlamaz (söz & müzik: Nilüfer) Ver Elini Bana (söz: Ülkü Aker - müzik: Bilinmiyor) Bir Mevsim Arıyorum (söz: Aysel Gürel - müzik: Selmi Andak) Mavi Mavi (Söz: Yılmaz Tatlıses - müzik: Burhan Bayar) == Katkıda Bulunanlar == Kayıt Yeri: İstanbul Ses Kayıt Alto Saksofon, Soprano Saksofon, Klarnet, Viyola: Mustafa Süder Düzenlemeler, Synthesizer, Bas gitar: Osman İşmen Fender Bass, Perdesiz Bass: İsmail Soyberk Çello: Saim Erkul Kontrbas: Engin Titiz Elektrogitar, Akustik Gitar: Erdem Sökmen Elektro Davul, Tumba, Perküsyon: Cezmi Başeğmez Mühendislik: Doruk Onatkut Flüt: Levent Altındağ Grafik: Yıldırım Evren Kanun: Halil Karaduman Fotoğraf: Moris Maçoro Keman: Gilda Hassa, Saim Perker, Sevil Perker, Yusuf Güler Aksöz Alaturka Keman: Ali İhsan Kısaç, Ayhan Şenyaylar, İskender Şencemal Alaturka Keman, Ud: Mehmet Şenyaylar Geri Vokal: Harun Kolçak == Dış bağlantılar == NiluferOnline.org Bir Selam Yeter 26 Kasım 2016 tarihinde Wayback Machine sitesinde arşivlendi. – Discogs",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 269,
+      "char_count": 1816,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.636242",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 390,
+      "content": "Bir Selam Yeter, Nilüfer'in 1985 tarihli, dokuzuncu stüdyo albümüdür. Sanatçı bu albümünde Ülkü Aker'den Selmi Andak'a, Aysel Gürel'den Melih Kibar'a birden fazla şarkı sözü yazarı ve müzisyenle çalışmıştır. Albümde yer alan Erkekler Ağlamaz aldı şarkı, o zamana değin sadece yorumcu olarak dinleyicilerinin karşısına çıkan Nilüfer'in ilk söz ve müzik çalışması olma niteliği taşımaktadır.",
+      "char_count": 389,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0001",
+      "section": "== Şarkı listesi ==",
+      "heading_path": "== Şarkı listesi ==",
+      "start_char": 390,
+      "end_char": 1033,
+      "content": "== Şarkı listesi == Bir Selam Yeter (söz: Ülkü Aker - müzik: Selmi Andak) O Sevgili Nerede (söz: Ülkü Aker - müzik: Selmi Andak) Neden Sanki Neden (Söz: Zeynep Hilav - müzik: Melih Kibar) Yağmur (söz & müzik: Kayahan) Acıkmışım Sevgine (söz & müzik: Kayahan) Haydi Durma (söz: Çetin Akcan - müzik: Bilinmiyor) Al Götür Beni (söz: Ülkü Aker - müzik: Bilinmiyor) Bir Gün Darılıp Bir Gün Barışma (söz: Ülkü Aker - müzik: Nikos Ignatiadis) Erkekler Ağlamaz (söz & müzik: Nilüfer) Ver Elini Bana (söz: Ülkü Aker - müzik: Bilinmiyor) Bir Mevsim Arıyorum (söz: Aysel Gürel - müzik: Selmi Andak) Mavi Mavi (Söz: Yılmaz Tatlıses - müzik: Burhan Bayar)",
+      "char_count": 642,
+      "token_estimate": 160
+    },
+    {
+      "id": "c0002",
+      "section": "== Katkıda Bulunanlar ==",
+      "heading_path": "== Katkıda Bulunanlar ==",
+      "start_char": 1033,
+      "end_char": 1689,
+      "content": "== Katkıda Bulunanlar == Kayıt Yeri: İstanbul Ses Kayıt Alto Saksofon, Soprano Saksofon, Klarnet, Viyola: Mustafa Süder Düzenlemeler, Synthesizer, Bas gitar: Osman İşmen Fender Bass, Perdesiz Bass: İsmail Soyberk Çello: Saim Erkul Kontrbas: Engin Titiz Elektrogitar, Akustik Gitar: Erdem Sökmen Elektro Davul, Tumba, Perküsyon: Cezmi Başeğmez Mühendislik: Doruk Onatkut Flüt: Levent Altındağ Grafik: Yıldırım Evren Kanun: Halil Karaduman Fotoğraf: Moris Maçoro Keman: Gilda Hassa, Saim Perker, Sevil Perker, Yusuf Güler Aksöz Alaturka Keman: Ali İhsan Kısaç, Ayhan Şenyaylar, İskender Şencemal Alaturka Keman, Ud: Mehmet Şenyaylar Geri Vokal: Harun Kolçak",
+      "char_count": 655,
+      "token_estimate": 163
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1689,
+      "end_char": 1816,
+      "content": "== Dış bağlantılar == NiluferOnline.org Bir Selam Yeter 26 Kasım 2016 tarihinde Wayback Machine sitesinde arşivlendi. – Discogs",
+      "char_count": 127,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Geri vokal görevini kim üstlenmiştir?",
+        "answer": "Harun Kolçak",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Nilüfer'in dokuzuncu stüdyo albümü olan 'Bir Selam Yeter'in müzikal zenginliği ve çeşitliliği, hem şarkı yazımı hem de enstrümantal ve teknik kadrodaki geniş katılımın bir sonucu olarak nasıl ortaya çıkmıştır?",
+        "answer": "'Bir Selam Yeter' albümünün müzikal zenginliği, başta Ülkü Aker, Selmi Andak, Kayahan, Melih Kibar ve Aysel Gürel olmak üzere birden fazla şarkı sözü yazarı ve müzisyenin katkılarıyla, ayrıca Nilüfer'in 'Erkekler Ağlamaz' şarkısıyla ilk kez kendi söz ve müziğini sunmasıyla şekillenmiştir. Bu yaratıcı çeşitlilik, İstanbul Ses Kayıt stüdyosunda Mustafa Süder'in saksafon ve klarnetinden Osman İşmen'in düzenlemelerine, İsmail Soyberk'in bas gitarından Cezmi Başeğmez'in davuluna, Halil Karaduman'ın kanunundan Harun Kolçak'ın geri vokallerine kadar uzanan geniş ve çeşitli bir enstrümantal ve teknik kadroyla desteklenerek albümün genel müzikal çeşitliliğini ortaya koymuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "richardwilliamson_9dcb9774",
+    "title": "Richard Williamson",
+    "url": "https://tr.wikipedia.org/wiki/Richard_Williamson",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:05.820812",
+    "content": "Richard Nelson Williamson (8 Mart 1940 - 29 Ocak 2025) İngiliz gelenekçi Katolik piskopos. == Hayatı == Williamson, 8 Mart 1940'ta Londra, İngiltere'de doğdu. Winchester Koleji, Cambridge Üniversitesi ve Uluslararası Aziz Pius X Semineri'nde eğitim gördü. Eğitiminin ardından Gana'daki bir kolejde kısa süre eğitimci olarak çalıştı. Başlangıçta Anglikan olan dini inancını 1971'de Roma Katolik olarak değiştirdi. İkinci Vatikan Konsili'nde liberalizme karşı olduğu için Aziz X. Pius Cemaati'ne katıldı. 1976'da Marcel Lefebvre'nin himayesinde papaz olarak atanarak dini görevine başladı. Arkasından Amerika Birleşik Devletleri'ne yerleşerek 1983'te Ridgefield, Connecticut'daki Aziz Thomas Aquinas İlahiyat Okulu'nun rektörü oldu. İkinci Vatikan Konsili'ne karşı çıktı ve 1988'de Marcel Lefebvre tarafından kutsanan dört piskopostan biri oldu. Holokost'ta 200.000-300.000 Yahudi'nin öldürülmediğini ve Nazi Almanyası'nın gaz odaları kullanmadığını savundu. Bu yüzden Regensburg mahkemesi tarafından Holokost'u inkâr etmekten mahkûm edildi. Papa Benedict XVI, aforoz sona erdiğinde Williamson'ın görüşlerini bilmiyordu. Holokostla ilgili görüşlerini değiştirmezse piskoposluktan uzaklaştırılabileceğini belirtti. 2010'da bir Alman mahkemesinde kışkırtma suçundan mahkûm oldu. 2013'te yeniden yargılandı ve tekrar mahkûm edildi. Aynı zamanda John F. Kennedy Suikastı ve Dünya Ticaret Merkezi'nin ABD yönetimi tarafından bilerek yapıldığına dair komplo teorilerini savundu. Ayrıca 7 Temmuz 2005 Londra bombalamalarının \"içeriden yapılmış bir iş\" olduğunu ve 2012 Londra Olimpiyatları'nda nükleer saldırı olacağına inandığını belirtti. Kendisi düşünceleriyle Arjantin'deki aşırı sağcı ilahiyat öğrencileri arasında klasik figür haline geldi. Williamson, 25 Ocak 2025'te Margate, İngiltere'de geçirdiği inme sonrasında kaldırdılığı bir hastanede 84 yaşında öldü. == Kaynakça == == Dış bağlantılar == Eleison Comments A weekly column in five languages by Bishop Richard Williamson.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 245,
+      "char_count": 1975,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.449796",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 91,
+      "content": "Richard Nelson Williamson (8 Mart 1940 - 29 Ocak 2025) İngiliz gelenekçi Katolik piskopos.",
+      "char_count": 90,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 91,
+      "end_char": 1091,
+      "content": "== Hayatı == Williamson, 8 Mart 1940'ta Londra, İngiltere'de doğdu. Winchester Koleji, Cambridge Üniversitesi ve Uluslararası Aziz Pius X Semineri'nde eğitim gördü. Eğitiminin ardından Gana'daki bir kolejde kısa süre eğitimci olarak çalıştı. Başlangıçta Anglikan olan dini inancını 1971'de Roma Katolik olarak değiştirdi. İkinci Vatikan Konsili'nde liberalizme karşı olduğu için Aziz X. Pius Cemaati'ne katıldı. 1976'da Marcel Lefebvre'nin himayesinde papaz olarak atanarak dini görevine başladı. Arkasından Amerika Birleşik Devletleri'ne yerleşerek 1983'te Ridgefield, Connecticut'daki Aziz Thomas Aquinas İlahiyat Okulu'nun rektörü oldu. İkinci Vatikan Konsili'ne karşı çıktı ve 1988'de Marcel Lefebvre tarafından kutsanan dört piskopostan biri oldu. Holokost'ta 200.000-300.000 Yahudi'nin öldürülmediğini ve Nazi Almanyası'nın gaz odaları kullanmadığını savundu. Bu yüzden Regensburg mahkemesi tarafından Holokost'u inkâr etmekten mahkûm edildi. Papa Benedict XVI, aforoz sona erdiğinde Williamson",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 891,
+      "end_char": 1857,
+      "content": "ediğini ve Nazi Almanyası'nın gaz odaları kullanmadığını savundu. Bu yüzden Regensburg mahkemesi tarafından Holokost'u inkâr etmekten mahkûm edildi. Papa Benedict XVI, aforoz sona erdiğinde Williamson'ın görüşlerini bilmiyordu. Holokostla ilgili görüşlerini değiştirmezse piskoposluktan uzaklaştırılabileceğini belirtti. 2010'da bir Alman mahkemesinde kışkırtma suçundan mahkûm oldu. 2013'te yeniden yargılandı ve tekrar mahkûm edildi. Aynı zamanda John F. Kennedy Suikastı ve Dünya Ticaret Merkezi'nin ABD yönetimi tarafından bilerek yapıldığına dair komplo teorilerini savundu. Ayrıca 7 Temmuz 2005 Londra bombalamalarının \"içeriden yapılmış bir iş\" olduğunu ve 2012 Londra Olimpiyatları'nda nükleer saldırı olacağına inandığını belirtti. Kendisi düşünceleriyle Arjantin'deki aşırı sağcı ilahiyat öğrencileri arasında klasik figür haline geldi. Williamson, 25 Ocak 2025'te Margate, İngiltere'de geçirdiği inme sonrasında kaldırdılığı bir hastanede 84 yaşında öldü.",
+      "char_count": 966,
+      "token_estimate": 241
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1873,
+      "end_char": 1975,
+      "content": "== Dış bağlantılar == Eleison Comments A weekly column in five languages by Bishop Richard Williamson.",
+      "char_count": 102,
+      "token_estimate": 25
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Williamson nerede ve ne zaman doğmuştur?",
+        "answer": "Williamson, 8 Mart 1940'ta Londra, İngiltere'de doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gelenekçi Katolik piskopos Richard Nelson Williamson'ın hayatında, dini görevini ve yasal sorunlarını birleştiren temel tartışmalı görüşleri ve bu görüşlerin sonuçları nelerdi?",
+        "answer": "Richard Nelson Williamson, İkinci Vatikan Konsili'ne karşı çıkarak Aziz X. Pius Cemaati'ne katıldı ve Marcel Lefebvre tarafından piskopos olarak atandı. Kendisi Holokost'u inkâr ederek Nazi Almanyası'nın gaz odaları kullanmadığını savundu ve bu nedenle Regensburg mahkemesi tarafından Holokost'u inkâr etmekten ve Alman mahkemeleri tarafından kışkırtma suçundan mahkûm edildi. Ayrıca John F. Kennedy Suikastı, Dünya Ticaret Merkezi saldırısı ve Londra bombalamaları gibi olaylarla ilgili çeşitli komplo teorilerini savunmuştur. Bu görüşleri, Papa Benedict XVI'nın piskoposluktan uzaklaştırma tehdidi gibi dini sonuçlara ve Arjantin'deki aşırı sağcı ilahiyat öğrencileri arasında klasik bir figür haline gelmesi gibi sosyal etkilere yol açmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

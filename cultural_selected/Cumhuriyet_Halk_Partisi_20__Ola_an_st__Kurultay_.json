@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "cumhuriyethalkpartis_97ad7bb9",
+    "title": "Cumhuriyet Halk Partisi 20. Olağanüstü Kurultayı",
+    "url": "https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi_20._Ola%C4%9Fan%C3%BCst%C3%BC_Kurultay%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:11.645832",
+    "content": "Cumhuriyet Halk Partisi 20. Olağanüstü Kurultayı, 6-9 Eylül 2024 tarihlerinde toplanan bir CHP kurultayıdır. == Arka plan == Genel başkan Özgür Özel'in Parti Meclisi ile 4 Ağustos 2024 günü yaptığı toplantının ardından açıklanmıştır. Kurultay, önceki parti kurultaylarının aksine, genel başkanlık seçiminden çok parti tüzüğü ve program değişikliği amacıyla yapıldı. == Kurultay == Eylül 1919'da toplanan Sivas Kongresi'ne atıfla, sembolik olarak 4 Eylül günü Sivas'ta başladı, ardından fiilen 6 Eylül günü Ankara'da gerçekleştirildi. Ankara'da başlayan kurultay izleyicisiz olarak yapıldı. Kurultayın divan başkanlığı görevini, partinin genel başkan yardımcısı ve İstanbul milletvekili olan Gökan Zeybek yürüttü. Kurultayda yapılan tüzük değişiklikleri arasında ön seçimin yaygınlaştırılması, genel sekreterlik makamının güçlendirilmesi ve milletvekilliğine dönem sınırı getirilmesi gibi değişiklikler yer aldı. == Kurultay sonuçları == Kurultay sonucunda partinin tüzüğünde kapsamlı değişiklikler yapıldı. Bu değişikliklerden bazıları şunlardır: Parti içinde görev yapacak milletvekili, belediye başkanı, belediye ve il genel meclisi üyeleri için en fazla üç dönem üst üste seçilme sınırı getirildi. Genel başkan adaylığı için gerekli imza oranı, kurultay üye tam sayısının en az %5'i ve en fazla %10'u olarak belirlendi. Ayrıca mevcut genel başkanın, kendi isteğiyle aday olabileceği; ancak kendisi için imza toplayamayacağı ve adına imza toplanamayacağı hükme bağlandı. Parti içi demokrasi ve temsilde çeşitliliği artırmak amacıyla, kadın kotası %50, gençlik kotası %30 olarak tüzüğe eklendi. Engelli bireylerin parti içi temsili artırılacak şekilde düzenlemelere gidildi. Aday belirleme süreçlerinde ön seçimlerin yaygınlaştırılması ilkesi benimsendi. Bu kapsamda, milletvekili adaylarının belirlenmesinde ön seçim yöntemi daha yaygın hale getirildi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 240,
+      "char_count": 1869,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.901974",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 109,
+      "content": "Cumhuriyet Halk Partisi 20. Olağanüstü Kurultayı, 6-9 Eylül 2024 tarihlerinde toplanan bir CHP kurultayıdır.",
+      "char_count": 108,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0001",
+      "section": "== Arka plan ==",
+      "heading_path": "== Arka plan ==",
+      "start_char": 109,
+      "end_char": 366,
+      "content": "== Arka plan == Genel başkan Özgür Özel'in Parti Meclisi ile 4 Ağustos 2024 günü yaptığı toplantının ardından açıklanmıştır. Kurultay, önceki parti kurultaylarının aksine, genel başkanlık seçiminden çok parti tüzüğü ve program değişikliği amacıyla yapıldı.",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0002",
+      "section": "== Kurultay ==",
+      "heading_path": "== Kurultay ==",
+      "start_char": 366,
+      "end_char": 912,
+      "content": "== Kurultay == Eylül 1919'da toplanan Sivas Kongresi'ne atıfla, sembolik olarak 4 Eylül günü Sivas'ta başladı, ardından fiilen 6 Eylül günü Ankara'da gerçekleştirildi. Ankara'da başlayan kurultay izleyicisiz olarak yapıldı. Kurultayın divan başkanlığı görevini, partinin genel başkan yardımcısı ve İstanbul milletvekili olan Gökan Zeybek yürüttü. Kurultayda yapılan tüzük değişiklikleri arasında ön seçimin yaygınlaştırılması, genel sekreterlik makamının güçlendirilmesi ve milletvekilliğine dönem sınırı getirilmesi gibi değişiklikler yer aldı.",
+      "char_count": 545,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0003",
+      "section": "== Kurultay sonuçları ==",
+      "heading_path": "== Kurultay sonuçları ==",
+      "start_char": 912,
+      "end_char": 1855,
+      "content": "== Kurultay sonuçları == Kurultay sonucunda partinin tüzüğünde kapsamlı değişiklikler yapıldı. Bu değişikliklerden bazıları şunlardır: Parti içinde görev yapacak milletvekili, belediye başkanı, belediye ve il genel meclisi üyeleri için en fazla üç dönem üst üste seçilme sınırı getirildi. Genel başkan adaylığı için gerekli imza oranı, kurultay üye tam sayısının en az %5'i ve en fazla %10'u olarak belirlendi. Ayrıca mevcut genel başkanın, kendi isteğiyle aday olabileceği; ancak kendisi için imza toplayamayacağı ve adına imza toplanamayacağı hükme bağlandı. Parti içi demokrasi ve temsilde çeşitliliği artırmak amacıyla, kadın kotası %50, gençlik kotası %30 olarak tüzüğe eklendi. Engelli bireylerin parti içi temsili artırılacak şekilde düzenlemelere gidildi. Aday belirleme süreçlerinde ön seçimlerin yaygınlaştırılması ilkesi benimsendi. Bu kapsamda, milletvekili adaylarının belirlenmesinde ön seçim yöntemi daha yaygın hale getirildi.",
+      "char_count": 942,
+      "token_estimate": 235
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Parti tüzüğünde yapılan değişikliklere göre kadın ve gençlik kotaları sırasıyla hangi oranlarda belirlenmiştir?",
+        "answer": "Parti tüzüğüne eklenen değişikliklere göre kadın kotası %50, gençlik kotası ise %30 olarak belirlenmiştir.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cumhuriyet Halk Partisi'nin 20. Olağanüstü Kurultayı'nı önceki parti kurultaylarından ayıran temel amaç neydi ve bu kurultayda yapılan başlıca tüzük değişiklikleri nelerdi?",
+        "answer": "6-9 Eylül 2024 tarihlerinde toplanan bu kurultay, önceki kurultayların aksine genel başkanlık seçiminden ziyade parti tüzüğü ve program değişikliği amacıyla yapılmıştır. Yapılan başlıca tüzük değişiklikleri arasında ön seçimin yaygınlaştırılması, genel sekreterlik makamının güçlendirilmesi ve milletvekilliğine dönem sınırı getirilmesi yer almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

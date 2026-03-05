@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "mardukefsanevigezege_0e25fa72",
+    "title": "Marduk (efsanevi gezegen)",
+    "url": "https://tr.wikipedia.org/wiki/Marduk_%28efsanevi_gezegen%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:07.849193",
+    "content": "Marduk, 36 milyar km. uzaklıkta olduğuna inanılan ve 3661 yılda bir dönerek dünyaya yakın geçiş yaptığı iddia edilen gaz gezegen. İsmini Babil tanrılarının kralı Marduk'tan alır. Son yörünge geçişini, MÖ 1649'da yaptığı iddia edilen Marduk, bir mite göre Thera yanardağının patlamasını da içeren bir dizi doğal âfete neden olmuş, Mısır’dan Çıkış mitlerine esin kaynağı oluşturmuş, yakındoğu başta olmak üzere dünyanın birçok yerinde siyasi ve sosyal dengeleri altüst etmiştir. Marduk, Babil ve Asurluların yaradılış destanlarında yer alan, tanrıların en bilgesi ve güçlüsüdür. Alexander Heidel'in yazdığı ve Türkçeye de çevrilen Enuma Eliş (Vaktiyle Yukarıda...) kitabında adı geçen bir yaradılış destanı kahramanı. Kötü tanrı Tiâmat'ı öldürmesi için özel olarak görevlendirilen ve onu öldürerek Babil şehrini kuran, yeri ve göğü yaratan, kendisine destek veren iyi tanrılara hizmet etsin diye insan soyunu da yaratan tanrı. Destan bir kısmı tamamıyla tahrip olmuş 7 kil tablet deşifre edilerek günümüze kazandırılmış. Yazıldığı tarih için ise, MÖ 700'den 1600 yılına kadar uzanan geniş bir aralığı söz konusu. Uranüs gezegeninin yörüngesinde- ki tedirginlikleri bilinmeyen başka bir gezegenin yapabileceği varsayımından hareketle Neptün gezegeninin keşfi, matematiğin bir zaferi oldu. Bundan sonra Neptün gezegeninin yörüngesindeki düzensizliklerden yola çıkılarak 9. gezegenin bulunması için matematikçiler ve gök bilimciler seferber oldular. Sonunda Plüton gezegeni 1930 yılında bulundu. Ancak 2006 yılında boyutu nedeniyle cüce gezegenler kategorisi altına alındı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 214,
+      "char_count": 1583,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.088707",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Marduk, 36 milyar km. uzaklıkta olduğuna inanılan ve 3661 yılda bir dönerek dünyaya yakın geçiş yaptığı iddia edilen gaz gezegen. İsmini Babil tanrılarının kralı Marduk'tan alır. Son yörünge geçişini, MÖ 1649'da yaptığı iddia edilen Marduk, bir mite göre Thera yanardağının patlamasını da içeren bir dizi doğal âfete neden olmuş, Mısır’dan Çıkış mitlerine esin kaynağı oluşturmuş, yakındoğu başta olmak üzere dünyanın birçok yerinde siyasi ve sosyal dengeleri altüst etmiştir. Marduk, Babil ve Asurluların yaradılış destanlarında yer alan, tanrıların en bilgesi ve güçlüsüdür. Alexander Heidel'in yazdığı ve Türkçeye de çevrilen Enuma Eliş (Vaktiyle Yukarıda...) kitabında adı geçen bir yaradılış destanı kahramanı. Kötü tanrı Tiâmat'ı öldürmesi için özel olarak görevlendirilen ve onu öldürerek Babil şehrini kuran, yeri ve göğü yaratan, kendisine destek veren iyi tanrılara hizmet etsin diye insan soyunu da yaratan tanrı. Destan bir kısmı tamamıyla tahrip olmuş 7 kil tablet deşifre edilerek günüm",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1568,
+      "content": "l şehrini kuran, yeri ve göğü yaratan, kendisine destek veren iyi tanrılara hizmet etsin diye insan soyunu da yaratan tanrı. Destan bir kısmı tamamıyla tahrip olmuş 7 kil tablet deşifre edilerek günümüze kazandırılmış. Yazıldığı tarih için ise, MÖ 700'den 1600 yılına kadar uzanan geniş bir aralığı söz konusu. Uranüs gezegeninin yörüngesinde- ki tedirginlikleri bilinmeyen başka bir gezegenin yapabileceği varsayımından hareketle Neptün gezegeninin keşfi, matematiğin bir zaferi oldu. Bundan sonra Neptün gezegeninin yörüngesindeki düzensizliklerden yola çıkılarak 9. gezegenin bulunması için matematikçiler ve gök bilimciler seferber oldular. Sonunda Plüton gezegeni 1930 yılında bulundu. Ancak 2006 yılında boyutu nedeniyle cüce gezegenler kategorisi altına alındı.",
+      "char_count": 768,
+      "token_estimate": 192
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gaz gezegen Marduk'un ismini nereden almaktadır?",
+        "answer": "Babil tanrılarının kralı Marduk'tan almaktadır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Marduk'un bir gezegen olarak tanımlanması ile Neptün ve Plüton'un keşif yöntemleri, gök cisimlerini anlama yaklaşımları açısından nasıl bir farklılık göstermektedir?",
+        "answer": "Marduk'un varlığı ve etkileri inançlara, mitlere ve destanlara (Enuma Eliş) dayandırılırken, Neptün'ün keşfi Uranüs'ün yörüngesindeki tedirginliklerin matematiksel varsayımlarıyla yapılmış, Plüton ise Neptün'ün yörüngesindeki düzensizliklerden yola çıkarak bilimsel gözlem ve matematiksel hesaplamalarla bulunmuştur. Bu durum, Marduk için mitolojik ve inanca dayalı bir yaklaşımı, Neptün ve Plüton için ise bilimsel gözlem ve matematiksel kanıta dayalı bir yaklaşımı yansıtır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

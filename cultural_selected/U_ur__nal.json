@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "uurnal_6984ceb9",
+    "title": "Uğur Ünal",
+    "url": "https://tr.wikipedia.org/wiki/U%C4%9Fur_%C3%9Cnal",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:38.671785",
+    "content": "Uğur Ünal (d. 27 Kasım 1975, Ankara), Türk tarihçi, 1. Devlet Arşivleri Başkanı ve mevcut Gazi Üniversitesi rektörüdür. == Yaşamı == 27 Kasım 1975'te Ankara'da doğan Uğur Ünal, ilköğrenimini İrfan Baştuğ İlkokulu'nda, ortaokul ve lise eğitimini Ankara Merkez İmam-Hatip Lisesi'nde tamamladı. 1998 yılında Gazi Üniversitesi Gazi Eğitim Fakültesi Tarih Eğitimi Anabilim Dalı'ndan mezun oldu. 2001 yılında Gazi Üniversitesi Sosyal Bilimler Enstitüsü'nde \"III. Selim Dönemi Islahatları\" başlıklı teziyle yüksek lisans derecesini aldı ve 2006'da \"Sultan Abdülaziz Dönemi Osmanlı Kara Ordusu (1861–1876)\" teziyle doktora unvanını kazandı. Gazi Üniversitesi'nde 1999-2006 yılları arasında Araştırma Görevlisi, 2006-2009 yılları arasında Öğretim Görevlisi, 2009-2010 yılları arasında Yardımcı Doçent ve 2010-2012 yılları arasında Doçent olarak görev yaptı. Üniversitede \"Türk Yenileşme Tarihi\", \"Osmanlı Paleografyası\", \"Osmanlı Diplomatikası\", \"Türk Eğitim Tarihi\" ve \"Osmanlı Devleti Dış Politikası\" derslerini verdi. == Kariyeri == 5 Ocak 2012'den 7 Ağustos 2018 tarihine kadar Başbakanlık Devlet Arşivleri Genel Müdürü olarak görev yaptı. 7 Ağustos 2018'de Cumhurbaşkanı tarafından Devlet Arşivleri Başkanı olarak atandı. 9 Haziran 2023 tarihinde aynı göreve tekrar atandı. Aralık 2023'te Ünal, Sırbistan Devlet Arşivleri Başkanı Miroslav Perisic bir araya geldi. Ünal'a, Sırbistan Devlet Arşivleri'nin 125'inci yıldönümü vesilesiyle gümüş plaket verildi. Aralık 2024 tarihinde TÜBA Uluslararası Akademi, TÜBA-TESEP (Bilimsel Telif Eser) ödülleri kapsamında Prof. Dr. Uğur Ünal, “Arşivciliğimizin Yüz Yılı 1846-1945” adlı eseriyle Sosyal Bilimler alanında TESEP Halil İnalcık Özel Ödülü’ne layık görüldü. 13 Şubat 2025 tarihinde Umman Sultanı Heysem bin Tarık tarafından Prof. Dr. Uğur Ünal’a Türkiye ve Umman Sultanlığı arasındaki kültürel ilişkilere sunduğu katkı ve gösterdiği çabalardan dolayı \"Birinci Derece Devlet Onur Nişanı\" verildi. == Özel yaşamı == Osmanlı askeri sistemi, eğitim kurumları ve yenileşme dönemi ıslahatları konularında uzman olan Ünal'ın 10 kitabı ve çeşitli akademik dergilerde birçok makalesi bulunmaktadır. İngilizce bilen Ünal, evli ve üç çocuk babasıdır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 288,
+      "char_count": 2197,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.945107",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 120,
+      "content": "Uğur Ünal (d. 27 Kasım 1975, Ankara), Türk tarihçi, 1. Devlet Arşivleri Başkanı ve mevcut Gazi Üniversitesi rektörüdür.",
+      "char_count": 119,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 120,
+      "end_char": 1012,
+      "content": "== Yaşamı == 27 Kasım 1975'te Ankara'da doğan Uğur Ünal, ilköğrenimini İrfan Baştuğ İlkokulu'nda, ortaokul ve lise eğitimini Ankara Merkez İmam-Hatip Lisesi'nde tamamladı. 1998 yılında Gazi Üniversitesi Gazi Eğitim Fakültesi Tarih Eğitimi Anabilim Dalı'ndan mezun oldu. 2001 yılında Gazi Üniversitesi Sosyal Bilimler Enstitüsü'nde \"III. Selim Dönemi Islahatları\" başlıklı teziyle yüksek lisans derecesini aldı ve 2006'da \"Sultan Abdülaziz Dönemi Osmanlı Kara Ordusu (1861–1876)\" teziyle doktora unvanını kazandı. Gazi Üniversitesi'nde 1999-2006 yılları arasında Araştırma Görevlisi, 2006-2009 yılları arasında Öğretim Görevlisi, 2009-2010 yılları arasında Yardımcı Doçent ve 2010-2012 yılları arasında Doçent olarak görev yaptı. Üniversitede \"Türk Yenileşme Tarihi\", \"Osmanlı Paleografyası\", \"Osmanlı Diplomatikası\", \"Türk Eğitim Tarihi\" ve \"Osmanlı Devleti Dış Politikası\" derslerini verdi.",
+      "char_count": 891,
+      "token_estimate": 222
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1012,
+      "end_char": 1939,
+      "content": "== Kariyeri == 5 Ocak 2012'den 7 Ağustos 2018 tarihine kadar Başbakanlık Devlet Arşivleri Genel Müdürü olarak görev yaptı. 7 Ağustos 2018'de Cumhurbaşkanı tarafından Devlet Arşivleri Başkanı olarak atandı. 9 Haziran 2023 tarihinde aynı göreve tekrar atandı. Aralık 2023'te Ünal, Sırbistan Devlet Arşivleri Başkanı Miroslav Perisic bir araya geldi. Ünal'a, Sırbistan Devlet Arşivleri'nin 125'inci yıldönümü vesilesiyle gümüş plaket verildi. Aralık 2024 tarihinde TÜBA Uluslararası Akademi, TÜBA-TESEP (Bilimsel Telif Eser) ödülleri kapsamında Prof. Dr. Uğur Ünal, “Arşivciliğimizin Yüz Yılı 1846-1945” adlı eseriyle Sosyal Bilimler alanında TESEP Halil İnalcık Özel Ödülü’ne layık görüldü. 13 Şubat 2025 tarihinde Umman Sultanı Heysem bin Tarık tarafından Prof. Dr. Uğur Ünal’a Türkiye ve Umman Sultanlığı arasındaki kültürel ilişkilere sunduğu katkı ve gösterdiği çabalardan dolayı \"Birinci Derece Devlet Onur Nişanı\" verildi.",
+      "char_count": 926,
+      "token_estimate": 231
+    },
+    {
+      "id": "c0003",
+      "section": "== Özel yaşamı ==",
+      "heading_path": "== Özel yaşamı ==",
+      "start_char": 1939,
+      "end_char": 2183,
+      "content": "== Özel yaşamı == Osmanlı askeri sistemi, eğitim kurumları ve yenileşme dönemi ıslahatları konularında uzman olan Ünal'ın 10 kitabı ve çeşitli akademik dergilerde birçok makalesi bulunmaktadır. İngilizce bilen Ünal, evli ve üç çocuk babasıdır.",
+      "char_count": 243,
+      "token_estimate": 60
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Prof. Dr. Uğur Ünal, “Arşivciliğimizin Yüz Yılı 1846-1945” adlı eseriyle hangi ödülü almıştır?",
+        "answer": "Sosyal Bilimler alanında TESEP Halil İnalcık Özel Ödülü",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Uğur Ünal'ın Gazi Üniversitesi'ndeki eğitim ve öğretim geçmişi, kendisinin mevcut Devlet Arşivleri Başkanı ve Gazi Üniversitesi rektörü unvanlarını üstlenmesinde nasıl bir rol oynamıştır?",
+        "answer": "Uğur Ünal'ın Gazi Üniversitesi'nde tamamladığı lisans, yüksek lisans ve doktora eğitimleri ile bu kurumda Osmanlı Paleografyası ve Osmanlı Diplomatikası gibi arşivcilikle doğrudan ilgili dersleri vermesi, kendisini tarih ve belge yönetimi alanında uzmanlaştırmıştır. Bu derin akademik bilgi birikimi ve deneyim, onun Devlet Arşivleri Başkanı olarak atanmasında ve kendi mezun olduğu, akademik kariyerini inşa ettiği Gazi Üniversitesi'nin rektörü olarak görev yapmasında önemli bir temel oluşturmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

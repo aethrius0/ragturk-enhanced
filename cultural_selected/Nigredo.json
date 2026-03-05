@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "nigredo_0f75f128",
+    "title": "Nigredo",
+    "url": "https://tr.wikipedia.org/wiki/Nigredo",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:18.948033",
+    "content": "Nigredo ya da siyahlık, simyada çürüme veya ayrışma anlamına gelmektedir. Birçok simyacı, felsefe taşına giden yolda ilk adım olarak, tüm simyasal bileşenlerin tek tip bir siyah madde elde etmek için kapsamlı bir şekilde temizlenmesi ve pişirilmesi gerektiğine inanmaktaydı. == Orman == Carl Jung için \"simyanın ilkelerinin yeniden keşfi, psikolojinin öncüsü olarak işimin önemli bir parçası haline geldi\". Bir simya öğrencisi olarak, o (ve takipçileri) \"simyacıların\" kara işini \"(nigredo) egonun deneyimlediği son derece kritik katılımla karşılaştırdılar. Jungcular, nigredo'yu iki temel psikolojik anlamda yorumlamışlardır. İlk duyu, bir öznenin başlangıçtaki farklılaşmamış bilinçsizlik durumunu temsil ediyordu, \"ilk nigredo, Latince: unio naturalis, yalnızca dışarıdan görülebilen nesnel bir durumdur. Kendilik ve nesne, bilinç ve bilinçdışı arasında bilinçsiz bir farklılaşmama durumu.\" Burada özne bilinçdışının farkında değildir; yani içgüdülerle bağlantı. İkinci anlam olarak, \"öte yandan, bireyleşme sürecinin nigredo'su, öznenin gölge yönlerinin acı verici, artan farkındalığının getirdiği öznel olarak deneyimlenen bir süreçtir.\" Kişisel gelişimin ön koşulu olan maksimum umutsuzluk olarak tanımlanmaktadır. Bireyleşme süreci ortaya çıktıkça, \"gölgeyle yüzleşme ilk başta ölü bir denge, ahlaki kararları engelleyen ve inançları etkisiz ve hatta imkansız kılan bir duraklama meydana gelir. İşte \"en karanlık zaman, umutsuzluk, hayal kırıklığı, kıskançlık nöbetleri zamanı; Eros ve Süperego'nun hançerleri çektiği ve ileriye dönük bir yolun görünmediği zamandır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 202,
+      "char_count": 1588,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.662281",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 275,
+      "content": "Nigredo ya da siyahlık, simyada çürüme veya ayrışma anlamına gelmektedir. Birçok simyacı, felsefe taşına giden yolda ilk adım olarak, tüm simyasal bileşenlerin tek tip bir siyah madde elde etmek için kapsamlı bir şekilde temizlenmesi ve pişirilmesi gerektiğine inanmaktaydı.",
+      "char_count": 274,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0001",
+      "section": "== Orman ==",
+      "heading_path": "== Orman ==",
+      "start_char": 275,
+      "end_char": 1275,
+      "content": "== Orman == Carl Jung için \"simyanın ilkelerinin yeniden keşfi, psikolojinin öncüsü olarak işimin önemli bir parçası haline geldi\". Bir simya öğrencisi olarak, o (ve takipçileri) \"simyacıların\" kara işini \"(nigredo) egonun deneyimlediği son derece kritik katılımla karşılaştırdılar. Jungcular, nigredo'yu iki temel psikolojik anlamda yorumlamışlardır. İlk duyu, bir öznenin başlangıçtaki farklılaşmamış bilinçsizlik durumunu temsil ediyordu, \"ilk nigredo, Latince: unio naturalis, yalnızca dışarıdan görülebilen nesnel bir durumdur. Kendilik ve nesne, bilinç ve bilinçdışı arasında bilinçsiz bir farklılaşmama durumu.\" Burada özne bilinçdışının farkında değildir; yani içgüdülerle bağlantı. İkinci anlam olarak, \"öte yandan, bireyleşme sürecinin nigredo'su, öznenin gölge yönlerinin acı verici, artan farkındalığının getirdiği öznel olarak deneyimlenen bir süreçtir.\" Kişisel gelişimin ön koşulu olan maksimum umutsuzluk olarak tanımlanmaktadır. Bireyleşme süreci ortaya çıktıkça, \"gölgeyle yüzleşme ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Orman ==",
+      "heading_path": "== Orman ==",
+      "start_char": 1075,
+      "end_char": 1573,
+      "content": " farkındalığının getirdiği öznel olarak deneyimlenen bir süreçtir.\" Kişisel gelişimin ön koşulu olan maksimum umutsuzluk olarak tanımlanmaktadır. Bireyleşme süreci ortaya çıktıkça, \"gölgeyle yüzleşme ilk başta ölü bir denge, ahlaki kararları engelleyen ve inançları etkisiz ve hatta imkansız kılan bir duraklama meydana gelir. İşte \"en karanlık zaman, umutsuzluk, hayal kırıklığı, kıskançlık nöbetleri zamanı; Eros ve Süperego'nun hançerleri çektiği ve ileriye dönük bir yolun görünmediği zamandır.",
+      "char_count": 498,
+      "token_estimate": 124
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Carl Jung'un takipçileri, nigredo'yu psikolojik olarak hangi iki temel anlamda yorumlamışlardır?",
+        "answer": "Jungcular, nigredo'yu ilk olarak öznenin başlangıçtaki farklılaşmamış bilinçsizlik durumu ve ikinci olarak da bireyleşme sürecinin nigredo'su olarak, öznenin gölge yönlerinin acı verici, artan farkındalığının getirdiği öznel olarak deneyimlenen bir süreç olarak yorumlamışlardır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Carl Jung, simyadaki \"nigredo\" kavramını psikolojide nasıl yorumlamış ve bu yorum geleneksel simya tanımından nasıl ayrışmaktadır?",
+        "answer": "Carl Jung, simyadaki \"nigredo\" kavramını egonun kritik katılımıyla ilişkilendirmiş ve psikolojide iki temel anlamda yorumlamıştır: öznenin başlangıçtaki farklılaşmamış bilinçsizlik durumu ve bireyleşme sürecinde gölge yönlerinin acı verici farkındalığıyla ortaya çıkan kişisel gelişimin bir ön koşulu olan umutsuzluk. Geleneksel simyada ise nigredo, çürüme veya ayrışma anlamına gelmekte olup, felsefe taşına giden yolda tüm simyasal bileşenlerin temizlenmesi ve pişirilmesiyle elde edilen tek tip siyah maddeyi ifade eden ilk adımdır. Jung'un yorumu, kimyasal dönüşümün somut sürecini, bilinçdışı ve kişisel gelişimle ilgili soyut psikolojik durumlara dönüştürmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

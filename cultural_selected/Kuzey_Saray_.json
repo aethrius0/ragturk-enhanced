@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "kuzeysaray_ab227904",
+    "title": "Kuzey Sarayı",
+    "url": "https://tr.wikipedia.org/wiki/Kuzey_Saray%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:15.313047",
+    "content": "Kuzey Sarayı (Japonca: 北朝 hokuchō), Japonya'da Nanboku-chō döneminde 1336-1392 yılları arasında altı taht talibinden biridir. Günümüz Japonya İmparatorluk Ailesi, Kuzey Sarayı imparatorlarının kökeninden gelmektedir. 1246 yılında İmparator Go-Saga tahttan feragat ederek yerine iki oğlu Go-Fukakusa ve Kameyama geçti. Go-Saga, 1272'deki ölüm döşeğinde iken, oğullarının iki kardeş hattan gelecek imparatorların sırayla tahtta yükseleceği bir planı benimsemede ısrar etti. Ancak bu plan taht üzerinde hak iddia eden rakip hizipler ve talipleri ortaya çıkarması nedeniyle başarısızlıkla sonuçlandı. 1333'te Güney İmparatoru Go-Daigo Kemmu Restorasyonu'nu başlatarak Hōjō boyu tarafından yönetilen Kamakura şogunluğuna karşı isyan etti. Bunun üzerine yeni şogun Ashikaga Takauji Kōgon'u meşru imparator olarak tanıdı. 1333'te Kamakura şogunluğunun yıkılmasından sonra Kōgon imparatorluk iddiasını kaybetti, ancak kardeşi Kōmyō ve oğullarından ikisi yeni Ashikaga şogunları tarafından tahtın talipleri olarak desteklendi. Böylece Kōgon'un ailesi Kyoto'da alternatif bir İmparatorluk Sarayı kurdu. Bu saray diğer rakip sarayın kuzeyinde olması nedeniyle Kuzey Sarayı olarak adlandırıldı. İmparator Go-Daigo'nun imparatorluk tahtını art arda kontrol edememesi nedeniyle Ashikaga şogunları imparatorun pozisyonundan uzak kalan herhangi bir güçle başa çıkabildiler. 1392'de Güney Sarayı İmparatoru Go-Kameyama, 60 yıl süren bir mücadele sonrasında yenildi ve Kōgon'un büyük torunu Go-Komatsu lehine tahttan çekilerek bölünmeyi sona erdirdi. == Kuzey Sarayı imparatorları == Kōgon (1331–1333) Kōmyō (1336–1348) Sukō (1348–1351) Go-Kōgon (1352–1371) Go-En'yū (1371–1382) Go-Komatsu (1382–1392) == Kaynakça == == Konuyla ilgili yayınlar == Dower, John W. (1999). Embracing Defeat: Japan in the Wake of World War II. New York: W. W. Norton. 978-0-393-04686-1; OCLC 39143090 Mehl, Margaret. (1997). History and the State in Nineteenth-Century Japan. New York: St Martin's Press. 978-0-312-21160-8; OCLC 419870136 4 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi. Ponsonby-Fane, Richard Arthur Brabazon. (1959). The Imperial House of Japan.23 Nisan 2017 tarihinde Wayback Machine sitesinde arşivlendi. Kyoto: Ponsonby Memorial Society. OCLC 19488717 Ağustos 2009 tarihinde Wayback Machine sitesinde arşivlendi. Thomas, Julia Adeney. (2001). Reconfiguring Modernity: Concepts of Nature in Japanese Political Ideology. Berkeley: University of California Press. 978-0-520-22854-2; OCLC 47916285 Varley, H. Paul, ed. (1980). A Chronicle of Gods and Sovereigns: Jinnō Shōtōki (écrit par Kitabatake Chikafusa en 1359). New York: Columbia University Press. 978-0-231-04940-5; OCLC 311157159 4 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 347,
+      "char_count": 2743,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.235317",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Kuzey Sarayı (Japonca: 北朝 hokuchō), Japonya'da Nanboku-chō döneminde 1336-1392 yılları arasında altı taht talibinden biridir. Günümüz Japonya İmparatorluk Ailesi, Kuzey Sarayı imparatorlarının kökeninden gelmektedir. 1246 yılında İmparator Go-Saga tahttan feragat ederek yerine iki oğlu Go-Fukakusa ve Kameyama geçti. Go-Saga, 1272'deki ölüm döşeğinde iken, oğullarının iki kardeş hattan gelecek imparatorların sırayla tahtta yükseleceği bir planı benimsemede ısrar etti. Ancak bu plan taht üzerinde hak iddia eden rakip hizipler ve talipleri ortaya çıkarması nedeniyle başarısızlıkla sonuçlandı. 1333'te Güney İmparatoru Go-Daigo Kemmu Restorasyonu'nu başlatarak Hōjō boyu tarafından yönetilen Kamakura şogunluğuna karşı isyan etti. Bunun üzerine yeni şogun Ashikaga Takauji Kōgon'u meşru imparator olarak tanıdı. 1333'te Kamakura şogunluğunun yıkılmasından sonra Kōgon imparatorluk iddiasını kaybetti, ancak kardeşi Kōmyō ve oğullarından ikisi yeni Ashikaga şogunları tarafından tahtın talipleri ol",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1532,
+      "content": "olarak tanıdı. 1333'te Kamakura şogunluğunun yıkılmasından sonra Kōgon imparatorluk iddiasını kaybetti, ancak kardeşi Kōmyō ve oğullarından ikisi yeni Ashikaga şogunları tarafından tahtın talipleri olarak desteklendi. Böylece Kōgon'un ailesi Kyoto'da alternatif bir İmparatorluk Sarayı kurdu. Bu saray diğer rakip sarayın kuzeyinde olması nedeniyle Kuzey Sarayı olarak adlandırıldı. İmparator Go-Daigo'nun imparatorluk tahtını art arda kontrol edememesi nedeniyle Ashikaga şogunları imparatorun pozisyonundan uzak kalan herhangi bir güçle başa çıkabildiler. 1392'de Güney Sarayı İmparatoru Go-Kameyama, 60 yıl süren bir mücadele sonrasında yenildi ve Kōgon'un büyük torunu Go-Komatsu lehine tahttan çekilerek bölünmeyi sona erdirdi.",
+      "char_count": 732,
+      "token_estimate": 183
+    },
+    {
+      "id": "c0002",
+      "section": "== Kuzey Sarayı imparatorları ==",
+      "heading_path": "== Kuzey Sarayı imparatorları ==",
+      "start_char": 1533,
+      "end_char": 1684,
+      "content": "== Kuzey Sarayı imparatorları == Kōgon (1331–1333) Kōmyō (1336–1348) Sukō (1348–1351) Go-Kōgon (1352–1371) Go-En'yū (1371–1382) Go-Komatsu (1382–1392)",
+      "char_count": 150,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0003",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 1699,
+      "end_char": 2699,
+      "content": "== Konuyla ilgili yayınlar == Dower, John W. (1999). Embracing Defeat: Japan in the Wake of World War II. New York: W. W. Norton. 978-0-393-04686-1; OCLC 39143090 Mehl, Margaret. (1997). History and the State in Nineteenth-Century Japan. New York: St Martin's Press. 978-0-312-21160-8; OCLC 419870136 4 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi. Ponsonby-Fane, Richard Arthur Brabazon. (1959). The Imperial House of Japan.23 Nisan 2017 tarihinde Wayback Machine sitesinde arşivlendi. Kyoto: Ponsonby Memorial Society. OCLC 19488717 Ağustos 2009 tarihinde Wayback Machine sitesinde arşivlendi. Thomas, Julia Adeney. (2001). Reconfiguring Modernity: Concepts of Nature in Japanese Political Ideology. Berkeley: University of California Press. 978-0-520-22854-2; OCLC 47916285 Varley, H. Paul, ed. (1980). A Chronicle of Gods and Sovereigns: Jinnō Shōtōki (écrit par Kitabatake Chikafusa en 1359). New York: Columbia University Press. 978-0-231-04940-5; OCLC 311157159 4 Temmuz 2020 tar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 2499,
+      "end_char": 2743,
+      "content": ". Paul, ed. (1980). A Chronicle of Gods and Sovereigns: Jinnō Shōtōki (écrit par Kitabatake Chikafusa en 1359). New York: Columbia University Press. 978-0-231-04940-5; OCLC 311157159 4 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 244,
+      "token_estimate": 61
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Günümüz Japonya İmparatorluk Ailesi hangi saray imparatorlarının kökeninden gelmektedir?",
+        "answer": "Kuzey Sarayı imparatorları",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Japonya'daki Nanboku-chō dönemi sırasında Kuzey Sarayı'nın ortaya çıkışı ve bu bölünmenin nihai çözümü hangi olaylar dizisiyle gerçekleşmiştir?",
+        "answer": "Kuzey Sarayı'nın ortaya çıkışı, İmparator Go-Saga'nın iki kardeş hattan gelecek imparatorların sırayla tahtta yükseleceği planının başarısız olması ve rakip hiziplerin ortaya çıkmasıyla başladı. Güney İmparatoru Go-Daigo'nun 1333'te Kemmu Restorasyonu'nu başlatarak Kamakura şogunluğuna isyan etmesinin ardından, Ashikaga Takauji Kōgon'u meşru imparator olarak tanıdı. Kamakura şogunluğunun yıkılmasından sonra Kōgon imparatorluk iddiasını kaybetse de, kardeşi Kōmyō ve iki oğlu yeni Ashikaga şogunları tarafından desteklenerek Kyoto'da alternatif bir İmparatorluk Sarayı kurdular. Bu saray, diğer rakip sarayın kuzeyinde olduğu için Kuzey Sarayı olarak adlandırıldı. İmparator Go-Daigo'nun imparatorluk tahtını art arda kontrol edememesi, Ashikaga şogunlarının güçlenmesine neden oldu. Bu bölünme, 1392'de Güney Sarayı İmparatoru Go-Kameyama'nın yenilerek Kōgon'un büyük torunu Go-Komatsu lehine tahttan çekilmesiyle sona erdi ve 60 yıl süren mücadele son buldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

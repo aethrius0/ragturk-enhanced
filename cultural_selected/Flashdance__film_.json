@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "flashdancefilm_63c5c1a1",
+    "title": "Flashdance (film)",
+    "url": "https://tr.wikipedia.org/wiki/Flashdance_%28film%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:22.179654",
+    "content": "Flashdance, 1983 ABD yapımı drama, müzikal ve romantik film. Tom Hedley tarafından yazılmış, Adrian Lyne tarafından yönetilmiştir. Başrollerini Jennifer Beals ve Michael Nouri paylaşmaktadır. Film Alexandra Owens'ın hikâyesini anlatmaktadır. Alex Owens geceleri Pittsburgh, Pensilvanya'da bir barda dansçı olarak, gündüzleri ise bir inşaat firmasında kaynakçı olarak çalışmaktadır. Alex Owens'in en büyük hayali önde gelen bir dans okuluna kabul edilebilmektir. Filmin en büyük özelliği klasik dans filmlerinin aksine seçmelere ağırlık vermemesidir. Alex Owens'ın arkadaşlarının yaşadığı sıkıntılar filmde detaylı bir şekilde ele alınmıştır. Sinemaseverlerce film 1980'lerin Hollywood klasikleri arasında kabul edilmektedir. Film tüm dünyada büyük ses getirmiş ve dönemin moda giysisi olan tozlukları, ayağın altına kadar geçirme akımı bu filmden sonra başlamıştır. Film, Türkiye sinemalarında da gösterime girmiştir. == Filmin müzikleri == Filmin müzikleri de çok beğeni toplamıştır. Irene Cara'nın seslendirdiği Flashdance...What a Feeling Bilboardlarda haftalarca bir numarada kalmıştır. Flashdance...What a Feeling parçası En İyi Şarkı dalında Oscar Ödülü almıştır. \"Imagination\" (Laura Branigan) \"Flashdance...What a Feeling\" (Irene Cara) \"I'll Be There Where the Heart Is\" (Kim Carnes) \"Lady, Lady, Lady\" (Joe Bean Esposito) \"Manhunt\" (Karen Kamon) \"Love Theme from Flashdance\" (Helen St. John) \"Maniac\" (Michael Sembello) \"Romeo\" (Donna Summer) \"He's a Dream\" (Shandi) \"Seduce Me Tonight\" (Cycle V) \"It's Just Begun\" (Jimmy Castor and the Jimmy Bunch) \"I Love Rock 'N' Roll\" (Joan Jett and the Blackhearts)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 214,
+      "char_count": 1613,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.360457",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 918,
+      "content": "Flashdance, 1983 ABD yapımı drama, müzikal ve romantik film. Tom Hedley tarafından yazılmış, Adrian Lyne tarafından yönetilmiştir. Başrollerini Jennifer Beals ve Michael Nouri paylaşmaktadır. Film Alexandra Owens'ın hikâyesini anlatmaktadır. Alex Owens geceleri Pittsburgh, Pensilvanya'da bir barda dansçı olarak, gündüzleri ise bir inşaat firmasında kaynakçı olarak çalışmaktadır. Alex Owens'in en büyük hayali önde gelen bir dans okuluna kabul edilebilmektir. Filmin en büyük özelliği klasik dans filmlerinin aksine seçmelere ağırlık vermemesidir. Alex Owens'ın arkadaşlarının yaşadığı sıkıntılar filmde detaylı bir şekilde ele alınmıştır. Sinemaseverlerce film 1980'lerin Hollywood klasikleri arasında kabul edilmektedir. Film tüm dünyada büyük ses getirmiş ve dönemin moda giysisi olan tozlukları, ayağın altına kadar geçirme akımı bu filmden sonra başlamıştır. Film, Türkiye sinemalarında da gösterime girmiştir.",
+      "char_count": 917,
+      "token_estimate": 229
+    },
+    {
+      "id": "c0001",
+      "section": "== Filmin müzikleri ==",
+      "heading_path": "== Filmin müzikleri ==",
+      "start_char": 918,
+      "end_char": 1613,
+      "content": "== Filmin müzikleri == Filmin müzikleri de çok beğeni toplamıştır. Irene Cara'nın seslendirdiği Flashdance...What a Feeling Bilboardlarda haftalarca bir numarada kalmıştır. Flashdance...What a Feeling parçası En İyi Şarkı dalında Oscar Ödülü almıştır. \"Imagination\" (Laura Branigan) \"Flashdance...What a Feeling\" (Irene Cara) \"I'll Be There Where the Heart Is\" (Kim Carnes) \"Lady, Lady, Lady\" (Joe Bean Esposito) \"Manhunt\" (Karen Kamon) \"Love Theme from Flashdance\" (Helen St. John) \"Maniac\" (Michael Sembello) \"Romeo\" (Donna Summer) \"He's a Dream\" (Shandi) \"Seduce Me Tonight\" (Cycle V) \"It's Just Begun\" (Jimmy Castor and the Jimmy Bunch) \"I Love Rock 'N' Roll\" (Joan Jett and the Blackhearts)",
+      "char_count": 695,
+      "token_estimate": 173
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Flashdance filminin yönetmeni kimdir?",
+        "answer": "Adrian Lyne.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Flashdance filminin genel başarısı ve kültürel etkileri, film müziklerinin gördüğü beğeni ve kazandığı ödüllerle nasıl bir ilişki içindedir?",
+        "answer": "Flashdance filmi, tüm dünyada büyük ses getirerek ve dönemin moda giysisi olan tozlukların bir akım başlatmasına neden olarak 1980'lerin Hollywood klasikleri arasına girmiştir. Bu genel başarı ve kültürel etki, film müziklerinin de çok beğeni toplaması, özellikle Irene Cara'nın 'Flashdance...What a Feeling' parçasının Bilboardlarda haftalarca bir numarada kalması ve En İyi Şarkı dalında Oscar Ödülü kazanmasıyla yakından ilişkilidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

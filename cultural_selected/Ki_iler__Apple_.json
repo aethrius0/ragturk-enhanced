@@ -1,0 +1,154 @@
+{
+  "article": {
+    "id": "kiilerapple_12812d19",
+    "title": "Kişiler (Apple)",
+    "url": "https://tr.wikipedia.org/wiki/Ki%C5%9Filer_%28Apple%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:01.195658",
+    "content": "Apple Kişiler OS X ve iOS için Apple tarafından yapılan bir adres defteri yazılım uygulamasıdır. OS X Mountain Lion sisteminde Adres Defteri'nin yerini \"Kişiler\" uygulaması almıştır. Çeşitli senkronizasyon yetenekleri içerir ve diğer macOS uygulamaları ve özellikleri ile bütünleşir. == Tanımlama == Adres Defteri'nin iki görüntüleme modu vardır: Kart ve Sütunlu Görüntüleme ve Sadece Kart Görüntüleme. Kullanıcı, modlar arasında pencerenin sol üst köşesindeki bir denetimle kapatma kutusu altında geçiş yapabilir. Mountain Lion'dan önceki sürümlerde, Görünüm Kartı ve Sütun'da, Adres Defteri penceresi üç bölüme ayrılmıştır. İlk bölmenin başlığı Gruptur. Bu bölmede, Tümü, Dizinler ve kullanıcı tarafından oluşturulan her grup listelenir. Kullanıcılar Dosya menüsünü Yeni Gruba çekerek veya Command-Shift-N yazarak yeni gruplar ekleyebilirler. Tümü veya kullanıcı tarafından oluşturulan bir grup seçildiğinde, ikinci sütunun adı Başlık olur. Bu gruptaki kartların bulunduğu kişilerin adlarını veya seçilen grup \"Hepsi\" ise, tüm isimleri, kullanıcı tercihlerine göre alfabetik sıraya göre soyadlarına göre listeler. Üçüncü bölme seçilen ada karşılık gelen karta sahiptir. Kart, kullanıcıların Ev ve İş gibi özelleştirilebilir kategorilere sınıflandırabileceği bilgileri içerebilir. Örneğin, kartın tanımladığı kişinin birkaç e-posta adresi varsa, alanların çoğunda yinelenen girişler olabilir. Kullanıcı, üçüncü bölmenin sol altındaki düzenleme düğmesine basarak alanları düzenleyebilir. Adres Defteri, LDAP (ağ) dizinlerini arayabilir. Kullanıcılar, tercihlerin LDAP sekmesinde bunları özelleştirir. Kullanıcılar, ilk bölmede Dizinler'i seçerek, ikinci bölmede bir dizin veya Tümü'nü seçerek ve arama sonuçlarını üçüncü bölmenin sol üstündeki arama kutusuna yazarak arayacaklardır. Sonuçlar üçüncü bölmede görünür. Varsayılan alanlar şunlardır: Resim İsim telaffuzu İsim Soyadı İş ismi Şirket Telefon numarası E-posta Ana sayfa Doğum günü Anlık mesajlaşma kullanıcı adı AIM ICQ Jabber Windows Live Messenger Yahoo! Messenger Adres İlgili İsimler Not Bilgisayar, dizinlerin bulunduğu bir yerel alan ağına bağlı olmalıdır. Konum değişmişse veya ağ bağlantısı kesilmişse, Adres Defteri ağdaki dizinlerde bulunan kişileri arayamaz. Bilgisayar, birinin yerel ağındaki dizin hizmetlerine erişecek şekilde ayarlanmışsa, Adres Defteri otomatik olarak dizin hizmetlerinde adres arar. Hafif Dizin Erişim Protokolü (LDAP) sunucularında adresler aramak için Adres Defteri'ni de kurabilirsiniz. LDAP, sunucularda iletişim bilgilerini aramak için kullanılan bir İnternet protokolüdür. Ağ dizinlerinden gelen bilgiler yalnızca bir kişi ararken görünür. Bir ağ dizini aramak için, Grup sütununda Dizinler ve Dizin sütunundaki bir dizini seçin ve ardından arama alanına metin yazın. Kullanıcı birisini ağ dizininden kişinin kişisel adres defterine eklemek için, kartı Grup dizinindeki Tümü dizinine sürüklemelidir. == Özellikleri == Apple Mail, Apple Takvim, iChat, Faks, Safari, iPhone (iTunes üzerinden) ile entegrasyon. Kişileri telefonlara, Cep bilgisayarı'lara, iPod'lara ve diğer Mac'lere senkronize etmek için iSync uyumluluğu. Kartları vCard 3.0 biçiminde ve bu kartlardan dışa aktarır.. Kartları LDIF'den, sekmeyle ayrılmış ve virgül ile ayrılmış dosyalardan içe aktarır. C ve Objective-C API'si ile diğer uygulamalarla arabirim oluşturabilme. Kullanıcıları ve grupları sorgulama, ekleme, değiştirme ve kaldırma için AppleScript desteği Etiket ve zarfları, posta listelerini, cep adres defterlerini basar. Yazdırmadan önce sayfa ayarlarını ve kâğıt boyutunu yapılandırabilir. Çift girişler için tek tıkla otomatik arama. Adres bildiriminde değişiklik yapılması. İletişim grupları Spotlight'a dayalı akıllı gruplar. Haritada çevrimiçi arama adresi. VCard'ları içe aktarırken otomatik olarak birleştirme. Alanları ve kategorileri özelleştirme. Telefon numaralarının otomatik biçimlendirilmesi. Microsoft Exchange Server ile senkronize edilme. Konuşma metinleştiricisi araması. Bluetooth özellikli telefonları entegre etmek (gelen ve cevapsız aramaları görüntüleme, gelen metin mesajlarını görüntüleme, telefonu kullanarak kısa mesaj göndermenizi sağlar), ancak bu özellikler tamamen Mac OS 10.5 (Leopard )'da devre dışı bırakılmıştır. Kişi bilgilerini içeren bir LDAP veritabanını sorgulama olanağı. Üçüncü taraf geliştiricilerin programa işlevsellik kazandırmasına izin veren eklenti arayüzü. Adres Defteri Dashboard (Kontrol Paneli) Widgeti. == Diğer uygulamalar ile entegrasyon == Adres Defteri, Mail tarafından kullanılan önceki alıcı adreslerini saklar Adres Defteri kartlarındaki URL'ler Safari'nin Adres Defteri yer imlerinde gözükür. IChat'deki arkadaşlar Adres Defteri kartlarıyla ilişkilendirilebilir. Adres Defteri'nde kayıtlı olan doğum günleri etkinleştirilmişse Takvim'de görünür == Kaynakça == == Dış bağlantılar == macOS Resmi Sitesi31 Ocak 2018 tarihinde Wayback Machine sitesinde arşivlendi. iOS Resmi Sitesi23 Mart 2017 tarihinde Wayback Machine sitesinde arşivlendi. == Ayrıca bakınız == Kişiler (Windows) Google Contacts",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 627,
+      "char_count": 5032,
+      "num_chunks": 10,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.405109",
+    "total_chunks": 10,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 284,
+      "content": "Apple Kişiler OS X ve iOS için Apple tarafından yapılan bir adres defteri yazılım uygulamasıdır. OS X Mountain Lion sisteminde Adres Defteri'nin yerini \"Kişiler\" uygulaması almıştır. Çeşitli senkronizasyon yetenekleri içerir ve diğer macOS uygulamaları ve özellikleri ile bütünleşir.",
+      "char_count": 283,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0001",
+      "section": "== Tanımlama ==",
+      "heading_path": "== Tanımlama ==",
+      "start_char": 284,
+      "end_char": 1284,
+      "content": "== Tanımlama == Adres Defteri'nin iki görüntüleme modu vardır: Kart ve Sütunlu Görüntüleme ve Sadece Kart Görüntüleme. Kullanıcı, modlar arasında pencerenin sol üst köşesindeki bir denetimle kapatma kutusu altında geçiş yapabilir. Mountain Lion'dan önceki sürümlerde, Görünüm Kartı ve Sütun'da, Adres Defteri penceresi üç bölüme ayrılmıştır. İlk bölmenin başlığı Gruptur. Bu bölmede, Tümü, Dizinler ve kullanıcı tarafından oluşturulan her grup listelenir. Kullanıcılar Dosya menüsünü Yeni Gruba çekerek veya Command-Shift-N yazarak yeni gruplar ekleyebilirler. Tümü veya kullanıcı tarafından oluşturulan bir grup seçildiğinde, ikinci sütunun adı Başlık olur. Bu gruptaki kartların bulunduğu kişilerin adlarını veya seçilen grup \"Hepsi\" ise, tüm isimleri, kullanıcı tercihlerine göre alfabetik sıraya göre soyadlarına göre listeler. Üçüncü bölme seçilen ada karşılık gelen karta sahiptir. Kart, kullanıcıların Ev ve İş gibi özelleştirilebilir kategorilere sınıflandırabileceği bilgileri içerebilir. Ör",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tanımlama ==",
+      "heading_path": "== Tanımlama ==",
+      "start_char": 1084,
+      "end_char": 2084,
+      "content": "göre soyadlarına göre listeler. Üçüncü bölme seçilen ada karşılık gelen karta sahiptir. Kart, kullanıcıların Ev ve İş gibi özelleştirilebilir kategorilere sınıflandırabileceği bilgileri içerebilir. Örneğin, kartın tanımladığı kişinin birkaç e-posta adresi varsa, alanların çoğunda yinelenen girişler olabilir. Kullanıcı, üçüncü bölmenin sol altındaki düzenleme düğmesine basarak alanları düzenleyebilir. Adres Defteri, LDAP (ağ) dizinlerini arayabilir. Kullanıcılar, tercihlerin LDAP sekmesinde bunları özelleştirir. Kullanıcılar, ilk bölmede Dizinler'i seçerek, ikinci bölmede bir dizin veya Tümü'nü seçerek ve arama sonuçlarını üçüncü bölmenin sol üstündeki arama kutusuna yazarak arayacaklardır. Sonuçlar üçüncü bölmede görünür. Varsayılan alanlar şunlardır: Resim İsim telaffuzu İsim Soyadı İş ismi Şirket Telefon numarası E-posta Ana sayfa Doğum günü Anlık mesajlaşma kullanıcı adı AIM ICQ Jabber Windows Live Messenger Yahoo! Messenger Adres İlgili İsimler Not Bilgisayar, dizinlerin bulunduğu ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tanımlama ==",
+      "heading_path": "== Tanımlama ==",
+      "start_char": 1884,
+      "end_char": 2884,
+      "content": "mi Şirket Telefon numarası E-posta Ana sayfa Doğum günü Anlık mesajlaşma kullanıcı adı AIM ICQ Jabber Windows Live Messenger Yahoo! Messenger Adres İlgili İsimler Not Bilgisayar, dizinlerin bulunduğu bir yerel alan ağına bağlı olmalıdır. Konum değişmişse veya ağ bağlantısı kesilmişse, Adres Defteri ağdaki dizinlerde bulunan kişileri arayamaz. Bilgisayar, birinin yerel ağındaki dizin hizmetlerine erişecek şekilde ayarlanmışsa, Adres Defteri otomatik olarak dizin hizmetlerinde adres arar. Hafif Dizin Erişim Protokolü (LDAP) sunucularında adresler aramak için Adres Defteri'ni de kurabilirsiniz. LDAP, sunucularda iletişim bilgilerini aramak için kullanılan bir İnternet protokolüdür. Ağ dizinlerinden gelen bilgiler yalnızca bir kişi ararken görünür. Bir ağ dizini aramak için, Grup sütununda Dizinler ve Dizin sütunundaki bir dizini seçin ve ardından arama alanına metin yazın. Kullanıcı birisini ağ dizininden kişinin kişisel adres defterine eklemek için, kartı Grup dizinindeki Tümü dizinine s",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Tanımlama ==",
+      "heading_path": "== Tanımlama ==",
+      "start_char": 2684,
+      "end_char": 2898,
+      "content": "inler ve Dizin sütunundaki bir dizini seçin ve ardından arama alanına metin yazın. Kullanıcı birisini ağ dizininden kişinin kişisel adres defterine eklemek için, kartı Grup dizinindeki Tümü dizinine sürüklemelidir.",
+      "char_count": 214,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0005",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 2899,
+      "end_char": 3899,
+      "content": "== Özellikleri == Apple Mail, Apple Takvim, iChat, Faks, Safari, iPhone (iTunes üzerinden) ile entegrasyon. Kişileri telefonlara, Cep bilgisayarı'lara, iPod'lara ve diğer Mac'lere senkronize etmek için iSync uyumluluğu. Kartları vCard 3.0 biçiminde ve bu kartlardan dışa aktarır.. Kartları LDIF'den, sekmeyle ayrılmış ve virgül ile ayrılmış dosyalardan içe aktarır. C ve Objective-C API'si ile diğer uygulamalarla arabirim oluşturabilme. Kullanıcıları ve grupları sorgulama, ekleme, değiştirme ve kaldırma için AppleScript desteği Etiket ve zarfları, posta listelerini, cep adres defterlerini basar. Yazdırmadan önce sayfa ayarlarını ve kâğıt boyutunu yapılandırabilir. Çift girişler için tek tıkla otomatik arama. Adres bildiriminde değişiklik yapılması. İletişim grupları Spotlight'a dayalı akıllı gruplar. Haritada çevrimiçi arama adresi. VCard'ları içe aktarırken otomatik olarak birleştirme. Alanları ve kategorileri özelleştirme. Telefon numaralarının otomatik biçimlendirilmesi. Microsoft Exch",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 3699,
+      "end_char": 4434,
+      "content": "gruplar. Haritada çevrimiçi arama adresi. VCard'ları içe aktarırken otomatik olarak birleştirme. Alanları ve kategorileri özelleştirme. Telefon numaralarının otomatik biçimlendirilmesi. Microsoft Exchange Server ile senkronize edilme. Konuşma metinleştiricisi araması. Bluetooth özellikli telefonları entegre etmek (gelen ve cevapsız aramaları görüntüleme, gelen metin mesajlarını görüntüleme, telefonu kullanarak kısa mesaj göndermenizi sağlar), ancak bu özellikler tamamen Mac OS 10.5 (Leopard )'da devre dışı bırakılmıştır. Kişi bilgilerini içeren bir LDAP veritabanını sorgulama olanağı. Üçüncü taraf geliştiricilerin programa işlevsellik kazandırmasına izin veren eklenti arayüzü. Adres Defteri Dashboard (Kontrol Paneli) Widgeti.",
+      "char_count": 735,
+      "token_estimate": 183
+    },
+    {
+      "id": "c0007",
+      "section": "== Diğer uygulamalar ile entegrasyon ==",
+      "heading_path": "== Diğer uygulamalar ile entegrasyon ==",
+      "start_char": 4435,
+      "end_char": 4785,
+      "content": "== Diğer uygulamalar ile entegrasyon == Adres Defteri, Mail tarafından kullanılan önceki alıcı adreslerini saklar Adres Defteri kartlarındaki URL'ler Safari'nin Adres Defteri yer imlerinde gözükür. IChat'deki arkadaşlar Adres Defteri kartlarıyla ilişkilendirilebilir. Adres Defteri'nde kayıtlı olan doğum günleri etkinleştirilmişse Takvim'de görünür",
+      "char_count": 349,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 4800,
+      "end_char": 4978,
+      "content": "== Dış bağlantılar == macOS Resmi Sitesi31 Ocak 2018 tarihinde Wayback Machine sitesinde arşivlendi. iOS Resmi Sitesi23 Mart 2017 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 177,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0009",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 4978,
+      "end_char": 5032,
+      "content": "== Ayrıca bakınız == Kişiler (Windows) Google Contacts",
+      "char_count": 54,
+      "token_estimate": 13
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Adres Defteri'nin kaç farklı görüntüleme modu vardır?",
+        "answer": "Adres Defteri'nin iki görüntüleme modu vardır: Kart ve Sütunlu Görüntüleme ve Sadece Kart Görüntüleme.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "OS X Mountain Lion sürümünde \"Adres Defteri\" uygulamasının adı \"Kişiler\" olarak değişmeden önce, bu uygulamanın temel görüntüleme modları ve kullanıcı arayüzü yapısı nasıldı ve hangi temel işlevleri sunuyordu?",
+        "answer": "OS X Mountain Lion öncesindeki sürümlerde, \"Adres Defteri\"nin iki görüntüleme modu vardı: \"Kart ve Sütunlu Görüntüleme\" ve \"Sadece Kart Görüntüleme\". \"Kart ve Sütunlu Görüntüleme\" modunda pencere, grupları listeleyen 'Grup' başlıklı ilk bölme, o gruptaki kişilerin adlarını listeleyen 'Başlık' adlı ikinci sütun ve seçilen kişinin kartını gösteren üçüncü bölme olmak üzere üç bölüme ayrılmıştı. Kullanıcılar kartlardaki bilgileri Ev ve İş gibi özelleştirilebilir kategorilere sınıflandırabilir ve LDAP dizinlerini arayabilirlerdi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

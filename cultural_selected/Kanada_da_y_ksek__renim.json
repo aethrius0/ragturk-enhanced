@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "kanadadayksekrenim_2c531943",
+    "title": "Kanada'da yükseköğrenim",
+    "url": "https://tr.wikipedia.org/wiki/Kanada%27da_y%C3%BCksek%C3%B6%C4%9Frenim",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:53.521454",
+    "content": "Kanada'da yükseköğrenim sistemleri federal hükûmetler, iller ve eyalet yönetimlerinin kontrolü altındadır. == Kanada'da Yükseköğrenim Sistemi == Kanada'da yükseköğrenimin anayasal sorumluluğu bağlı bulunduğu illerin yönetimlerine aittir. Üniversitelere atama sorumluluğu, 1867'de Anayasa olarak tekrar adlandırılan güçlendirilmiş İngiliz Kuzey Amerika Yasası'na aittir. Bu yasa \"her ilde yasama sadece kendi bölgesi için kanun koyabilir\" denmektedir. Bu anayasal düzenlemenin sonucu olarak, yüksek eğitim içeren bir eğitim sistemi her ilde farklı olarak gelişir. Ancak, anlaşmalı durumda olan yerli halkların anayasal sorumlulukları Kanada Federal Hükûmetinin 1982 anayasası sorumluluğu altındadır. Federal Hükûmet, geleneksel lise sonrası kurumlardan olsun ya da yerli eğitim imkânı sunan sistemlerden olsun yerli öğrenciler için çok sayıda yükseköğrenim fırsatı sunmaktadır. Federal Hükûmet ayrıca Kanada Askerî Kolejleri'ni de yönetmektedir. Kanada'daki on il yönetimi içerisinde, tarihi departman, organizasyonlar(yapı, yönetim, kuruluş vb.), hedefler(katılım, girişkenlik, atılımcılık vb.) barındırır. Her üç eyalet ise, yüksek eğitim ile coğrafi sıkıntılardaki zorlukların aşılması hedefi, organizasyonu ve tarih makamlarını yansıtan sistemleri ayırmıştır. == Yükseköğrenimdeki Federal Yapılar == Federal parlamenterler ulusal çıkarlardan sorumludurlar ve ilgili mevzuat durumlarında bütün ulusal ya da il yönetimlerinde daha fazla güce sahiptir. Ancak, ne federal bakanlık ne de yükseköğrenim bakanlığı bulunmamaktadır. Tarihsel olarak, bölgeler uygun olarak tanımlanırken Federal Hükûmet müdahalesi ardından: ekonomik ve sosyal büyüme ve gelişme, fırsatta eşitlik, iş bulma sorununu ortadan kaldırma, genç vatandaşlar için iş gücü oluşturma, iller arası iş gücü piyasası hareketliliği, genç eğitimi, mesleki eğitim, çok dil konuşabilirlik, tekniksel gelişim, uluslararası ilişkiler ve araştırmalar getirir. 2008 yılında, yükseköğretimdeki Federal sorumluluk Kanada İnsan Araştırmaları ve Gelişimi (HRSDC) örgütünün şemsiyesi altına girmiştir. === Federal Hükûmet Müdahale Tarihleri === 1874 Parlamenter yönetiminin kuruluşu 1885 Manitoba Üniversitesinden arsa bağış kabulünün yayınlanması 1910 Güvenilir komisyonun tarım tekniklerinin gelişimi ve endüstriyel eğitimde gelişim sağlanabilmesi için hibe yardımı 1916 Ulusal Araştırmalar Konseyinin(NRC), savaş sırasında Kanada'nın araştırma tesislerini kurması == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 289,
+      "char_count": 2430,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.851423",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 107,
+      "content": "Kanada'da yükseköğrenim sistemleri federal hükûmetler, iller ve eyalet yönetimlerinin kontrolü altındadır.",
+      "char_count": 106,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0001",
+      "section": "== Kanada'da Yükseköğrenim Sistemi ==",
+      "heading_path": "== Kanada'da Yükseköğrenim Sistemi ==",
+      "start_char": 107,
+      "end_char": 1107,
+      "content": "== Kanada'da Yükseköğrenim Sistemi == Kanada'da yükseköğrenimin anayasal sorumluluğu bağlı bulunduğu illerin yönetimlerine aittir. Üniversitelere atama sorumluluğu, 1867'de Anayasa olarak tekrar adlandırılan güçlendirilmiş İngiliz Kuzey Amerika Yasası'na aittir. Bu yasa \"her ilde yasama sadece kendi bölgesi için kanun koyabilir\" denmektedir. Bu anayasal düzenlemenin sonucu olarak, yüksek eğitim içeren bir eğitim sistemi her ilde farklı olarak gelişir. Ancak, anlaşmalı durumda olan yerli halkların anayasal sorumlulukları Kanada Federal Hükûmetinin 1982 anayasası sorumluluğu altındadır. Federal Hükûmet, geleneksel lise sonrası kurumlardan olsun ya da yerli eğitim imkânı sunan sistemlerden olsun yerli öğrenciler için çok sayıda yükseköğrenim fırsatı sunmaktadır. Federal Hükûmet ayrıca Kanada Askerî Kolejleri'ni de yönetmektedir. Kanada'daki on il yönetimi içerisinde, tarihi departman, organizasyonlar(yapı, yönetim, kuruluş vb.), hedefler(katılım, girişkenlik, atılımcılık vb.) barındırır. ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kanada'da Yükseköğrenim Sistemi ==",
+      "heading_path": "== Kanada'da Yükseköğrenim Sistemi ==",
+      "start_char": 907,
+      "end_char": 1262,
+      "content": "Askerî Kolejleri'ni de yönetmektedir. Kanada'daki on il yönetimi içerisinde, tarihi departman, organizasyonlar(yapı, yönetim, kuruluş vb.), hedefler(katılım, girişkenlik, atılımcılık vb.) barındırır. Her üç eyalet ise, yüksek eğitim ile coğrafi sıkıntılardaki zorlukların aşılması hedefi, organizasyonu ve tarih makamlarını yansıtan sistemleri ayırmıştır.",
+      "char_count": 355,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0003",
+      "section": "== Yükseköğrenimdeki Federal Yapılar ==",
+      "heading_path": "== Yükseköğrenimdeki Federal Yapılar ==",
+      "start_char": 1263,
+      "end_char": 2051,
+      "content": "== Yükseköğrenimdeki Federal Yapılar == Federal parlamenterler ulusal çıkarlardan sorumludurlar ve ilgili mevzuat durumlarında bütün ulusal ya da il yönetimlerinde daha fazla güce sahiptir. Ancak, ne federal bakanlık ne de yükseköğrenim bakanlığı bulunmamaktadır. Tarihsel olarak, bölgeler uygun olarak tanımlanırken Federal Hükûmet müdahalesi ardından: ekonomik ve sosyal büyüme ve gelişme, fırsatta eşitlik, iş bulma sorununu ortadan kaldırma, genç vatandaşlar için iş gücü oluşturma, iller arası iş gücü piyasası hareketliliği, genç eğitimi, mesleki eğitim, çok dil konuşabilirlik, tekniksel gelişim, uluslararası ilişkiler ve araştırmalar getirir. 2008 yılında, yükseköğretimdeki Federal sorumluluk Kanada İnsan Araştırmaları ve Gelişimi (HRSDC) örgütünün şemsiyesi altına girmiştir.",
+      "char_count": 787,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0004",
+      "section": "=== Federal Hükûmet Müdahale Tarihleri ===",
+      "heading_path": "=== Federal Hükûmet Müdahale Tarihleri ===",
+      "start_char": 2051,
+      "end_char": 2416,
+      "content": "=== Federal Hükûmet Müdahale Tarihleri === 1874 Parlamenter yönetiminin kuruluşu 1885 Manitoba Üniversitesinden arsa bağış kabulünün yayınlanması 1910 Güvenilir komisyonun tarım tekniklerinin gelişimi ve endüstriyel eğitimde gelişim sağlanabilmesi için hibe yardımı 1916 Ulusal Araştırmalar Konseyinin(NRC), savaş sırasında Kanada'nın araştırma tesislerini kurması",
+      "char_count": 364,
+      "token_estimate": 91
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kanada'da yükseköğrenimin anayasal sorumluluğu kimlere aittir?",
+        "answer": "Bağlı bulunduğu illerin yönetimlerine.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kanada'da yükseköğrenim sistemlerinin kontrolü ve anayasal sorumlulukları farklı hükûmet seviyeleri arasında nasıl dağılmıştır ve bu dağılımın temelini oluşturan nedir?",
+        "answer": "Kanada'da yükseköğrenim sistemleri federal hükûmetler, iller ve eyalet yönetimlerinin kontrolü altındadır. Anayasal sorumluluk öncelikli olarak illerin yönetimlerine aittir. Bu durum, 1867'de Anayasa olarak adlandırılan güçlendirilmiş İngiliz Kuzey Amerika Yasası'na dayanmaktadır; bu yasa, her ilin yalnızca kendi bölgesi için kanun koyabileceğini belirtir ve bu nedenle her ilde farklı eğitim sistemleri gelişir. Ancak, anlaşmalı durumdaki yerli halkların anayasal sorumlulukları 1982 Kanada Anayasası kapsamında Federal Hükûmet'e aittir. Federal Hükûmet ayrıca Kanada Askerî Kolejleri'ni de yönetir ve yerli öğrenciler için yükseköğrenim fırsatları sunar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

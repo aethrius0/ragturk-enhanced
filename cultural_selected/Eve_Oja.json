@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "eveoja_9cd31a40",
+    "title": "Eve Oja",
+    "url": "https://tr.wikipedia.org/wiki/Eve_Oja",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:34.456131",
+    "content": "Eve Oja (10 Ekim 1948 - 27 Ocak 2019), Eston matematikçi ve akademisyendir. Fonksiyonel analiz konusunda uzmanlaşmıştır. Tartu Üniversitesi'nde profesör olarak görev almıştır. == İlk yılları == Oja 10 Ekim 1948'de Tallinn'de doğdu. Tartu Devlet Üniversitesi'nde (şimdiki: Tartu Üniversitesi)'nde eğitim görerek 1972'de lisans eğitimini ve 1975'te doktora derecesini tamamlayıp mezun oldu. Oja'nın hazırladığı Yerel Dışbükey Uzayda Koşulsuz Schauder Ayrışımları (Безусловные шаудеровы разложения в локально выпуклых пространствах, Unconditional Schauder decompositions in locally convex spaces) adlı tezi matematikçi Gunnar Kangro tarafından denetlendi. == Kariyeri == Oja, bir yıl (1977-78) Mali'de eğitim vermesi ve (1980-81) Fransa'da Aix-Marseille Üniversitesi'nde doktora sonrası araştırma yapması dışında 1975'ten beri Tartu Üniversitesi'nin fakültesindeydi. Üniversitede Saf Matematik Enstitüsü'nün başkanı olarak birkaç dönem görev yaptı ve 2009-15 yılları arasında Estonya Matematik ve İstatistik Okulu'na başkanlık etti. 1998 yılından itibaren Tartuensis Perspektif Matematik Üniversitesi'nden çıkan Acta et Commentationes Universitatis Tartuensis de Mathematica dergisinin yazı işleri müdürlüğünü icra etmiştir. == Akademik kariyeri == Oja, 2010 yılında Estonya Bilimler Akademisine seçildi. Kendisi ayrıca Avrupa Bilim ve Sanat Akademisi'nin, Estonya Cumhuriyeti Araştırma Ödülü Komitesinin, Estonya Matematik Derneğinin ve Amerikan Matematik Derneğinin üyesiydi. == Ölümü == Estonyalı matematikçi ve akademisyen Eve Oja 27 Ocak 2019'da doğum yeri Talinn, Estonya'da 70 yaşlarında ölmüştür. == Kaynakça == == Dış bağlantılar == \"Suri akadeemik Eve Oja\" (Estonca). 28 Ocak 2019. 28 Ocak 2019 tarihinde kaynağından arşivlendi. Erişim tarihi: 11 Şubat 2021. Ölüm ilanı \"Eve Oja Researchgate profili\". 8 Şubat 2021 tarihinde kaynağından arşivlendi. Erişim tarihi: 11 Şubat 2021. \"Ajaloofilm \"Eve Oja\" (2018) YouTube Video\". 30 Mart 2021 tarihinde kaynağından arşivlendi. Erişim tarihi: 11 Şubat 2021.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 257,
+      "char_count": 2007,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.951899",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 176,
+      "content": "Eve Oja (10 Ekim 1948 - 27 Ocak 2019), Eston matematikçi ve akademisyendir. Fonksiyonel analiz konusunda uzmanlaşmıştır. Tartu Üniversitesi'nde profesör olarak görev almıştır.",
+      "char_count": 175,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk yılları ==",
+      "heading_path": "== İlk yılları ==",
+      "start_char": 176,
+      "end_char": 653,
+      "content": "== İlk yılları == Oja 10 Ekim 1948'de Tallinn'de doğdu. Tartu Devlet Üniversitesi'nde (şimdiki: Tartu Üniversitesi)'nde eğitim görerek 1972'de lisans eğitimini ve 1975'te doktora derecesini tamamlayıp mezun oldu. Oja'nın hazırladığı Yerel Dışbükey Uzayda Koşulsuz Schauder Ayrışımları (Безусловные шаудеровы разложения в локально выпуклых пространствах, Unconditional Schauder decompositions in locally convex spaces) adlı tezi matematikçi Gunnar Kangro tarafından denetlendi.",
+      "char_count": 476,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 653,
+      "end_char": 1222,
+      "content": "== Kariyeri == Oja, bir yıl (1977-78) Mali'de eğitim vermesi ve (1980-81) Fransa'da Aix-Marseille Üniversitesi'nde doktora sonrası araştırma yapması dışında 1975'ten beri Tartu Üniversitesi'nin fakültesindeydi. Üniversitede Saf Matematik Enstitüsü'nün başkanı olarak birkaç dönem görev yaptı ve 2009-15 yılları arasında Estonya Matematik ve İstatistik Okulu'na başkanlık etti. 1998 yılından itibaren Tartuensis Perspektif Matematik Üniversitesi'nden çıkan Acta et Commentationes Universitatis Tartuensis de Mathematica dergisinin yazı işleri müdürlüğünü icra etmiştir.",
+      "char_count": 568,
+      "token_estimate": 142
+    },
+    {
+      "id": "c0003",
+      "section": "== Akademik kariyeri ==",
+      "heading_path": "== Akademik kariyeri ==",
+      "start_char": 1222,
+      "end_char": 1475,
+      "content": "== Akademik kariyeri == Oja, 2010 yılında Estonya Bilimler Akademisine seçildi. Kendisi ayrıca Avrupa Bilim ve Sanat Akademisi'nin, Estonya Cumhuriyeti Araştırma Ödülü Komitesinin, Estonya Matematik Derneğinin ve Amerikan Matematik Derneğinin üyesiydi.",
+      "char_count": 252,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0004",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 1475,
+      "end_char": 1602,
+      "content": "== Ölümü == Estonyalı matematikçi ve akademisyen Eve Oja 27 Ocak 2019'da doğum yeri Talinn, Estonya'da 70 yaşlarında ölmüştür.",
+      "char_count": 126,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1617,
+      "end_char": 2007,
+      "content": "== Dış bağlantılar == \"Suri akadeemik Eve Oja\" (Estonca). 28 Ocak 2019. 28 Ocak 2019 tarihinde kaynağından arşivlendi. Erişim tarihi: 11 Şubat 2021. Ölüm ilanı \"Eve Oja Researchgate profili\". 8 Şubat 2021 tarihinde kaynağından arşivlendi. Erişim tarihi: 11 Şubat 2021. \"Ajaloofilm \"Eve Oja\" (2018) YouTube Video\". 30 Mart 2021 tarihinde kaynağından arşivlendi. Erişim tarihi: 11 Şubat 2021.",
+      "char_count": 390,
+      "token_estimate": 97
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Oja, 2009-2015 yılları arasında hangi kuruma başkanlık etmiştir?",
+        "answer": "Estonya Matematik ve İstatistik Okulu",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Eve Oja'nın Tartu Üniversitesi ile olan ilişkisi, hem öğrenimi hem de kariyeri açısından nasıl tanımlanabilir?",
+        "answer": "Eve Oja, 1972'de lisans ve 1975'te doktora derecelerini alarak Tartu Devlet Üniversitesi'nde (şimdiki adıyla Tartu Üniversitesi) eğitim gördü. Eğitiminin ardından 1975'ten itibaren üniversitenin fakültesinde profesör olarak görev aldı. Kariyeri boyunca, Mali ve Fransa'daki kısa süreli görevlendirmeler dışında sürekli olarak Tartu Üniversitesi'nde bulunarak Saf Matematik Enstitüsü'nün başkanlığını, Estonya Matematik ve İstatistik Okulu'na başkanlığı ve Acta et Commentationes Universitatis Tartuensis de Mathematica dergisinin yazı işleri müdürlüğünü üstlendi. Bu durum, Oja'nın hayatının büyük bir bölümünde Tartu Üniversitesi'ne hem öğrenci hem de üst düzey bir akademisyen ve lider olarak derin ve sürekli bir bağlılık gösterdiğini ortaya koymaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

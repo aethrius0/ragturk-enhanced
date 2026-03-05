@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "mustafabeyalibeyov_ed407f64",
+    "title": "Mustafa Bey Alibeyov",
+    "url": "https://tr.wikipedia.org/wiki/Mustafa_Bey_Alibeyov",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:36.819115",
+    "content": "Mustafa Bey Alibeyov (Azerice: Mustafa bəy Əlibəyov; 1872, Nuha – 1945, Sibirya) Azerbaycanlı gazeteci, yazar, oyun yazarı, hukukçuydu. Alibeyov, Işık dergisinin yayıncısı, Nicat Hayır Cemiyeti ve Muhtaçlara Yardım Cemiyeti üyesi, Hidayet Hayır Cemiyeti katibi ve Ahrar Partisi üyesiydi. == İlk yılları ve ailesi == Mustafa Bey Alibeyov, 1872'de Rus İmparatorluğu'nun bir parçası olan Nuha'da (günümüz Şeki, Azerbaycan) doğmuştur. Öğreniminin ilk yıllarında Arapça ve Farsçayı mükemmel bir şekilde öğrenmiştir. Alibeyov, Nuha'da Rus-Tatar okulunda okumuştur. 1892'de Tiflis lisesinden mezun olmuştur. Alibeyov, bu yıllarda Rusça ve Fransızca öğrenmiştir. Mustafa Bey Alibeyov'un babası Şeki Hanları Sarayı'nda katipti. Alibeyov, 1884'te Tiflis'te doğmuş Hatice Süphanguliyeva ile evlenmiştir. Süphanguliyeva, Tiflis'te Rus kız spor salonunda okuduktan sonra Transkafkasya Olginskaya Ebelik Enstitüsü'nden mezun olmuştur. 1908'de Selamet Cemiyeti'nin kadınlar bölümünün açılışına 14 hanımla birlikte katılmıştır. Azerbaycan'ın ilk kadın dergisi Işık'ın editörüydü. Bu evlilikten 5 çocuğu dünyaya gelmiştir. == Kariyeri == Mustafa Bey Alibeyov, 1892'de Bakü Guberniyası kaza mahkemesinde başmüfettiş tercümanı olarak göreve başlamıştır. Nicat Hayır Cemiyeti'ne üyeydi. Bir avukat olarak ünlü olmasının yanı sıra edebiyat eleştirmeni olarak da biliniyordu. Reklamcı, yazar ve oyun yazarı olarak çalışmıştır. Yazılarını Yukarıbaşlı mahlasıyla yazmıştır. Bu, Şeki'nin Yukarıbaş mahallesinde yaşamasından kaynaklanmaktadır. Alibeyov, 1913'te Molla Ruhulla Memmedzade'nin öldürülmesi davasına katılmıştır. 1917'de faaliyete geçen Nuha-Hürriyeti-Maarif Cemiyeti'ne bağış yapanlar arasında yer almıştır. Şubat Devriminden sonra siyasi faaliyete başlamış ve Ahrar Partisine katılmıştır. Muhtaçlara Yardım Cemiyeti'nin bir üyesi olarak, Vahşi Tümen askerlerinin silahlarının alınmasına karşı çıkmış ve Bakü Komiserliği'nden silahlarının iadesini talep etmiştir. Türk askeri esirlerinin Osmanlı devletine geri gönderilmesinde rol oynamıştır. Azerbaycan Demokratik Cumhuriyeti'nin kurulmasından sonra Yeşil Kalem Yazarlar Birliği'ne üye olmuştur. Muhtaçlara Yardım Cemiyeti aracılığıyla nüfusa yiyecek ve giyecek yardımı yapmıştır. 1920'de Nisan işgalinden sonra Nuha'ye yaşınmış, önemli davalar için halk kadısı, hukuk dairesi başkanı ve Gence'de müdafiun ekibi üyesi olmuştur. == Ölümü == Mustafa Bey Alibeyov, 1937'de Sovyet infaz kampanyasına maruz kalmıştır. Sibirya'ya sürülmüş ve 8 yıl hapis cezasına çarptırılmıştır. Alibeyov, 1945'te vefat etmiştir ve mezarının yeri bilinmiyor. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 315,
+      "char_count": 2589,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.354305",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 288,
+      "content": "Mustafa Bey Alibeyov (Azerice: Mustafa bəy Əlibəyov; 1872, Nuha – 1945, Sibirya) Azerbaycanlı gazeteci, yazar, oyun yazarı, hukukçuydu. Alibeyov, Işık dergisinin yayıncısı, Nicat Hayır Cemiyeti ve Muhtaçlara Yardım Cemiyeti üyesi, Hidayet Hayır Cemiyeti katibi ve Ahrar Partisi üyesiydi.",
+      "char_count": 287,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk yılları ve ailesi ==",
+      "heading_path": "== İlk yılları ve ailesi ==",
+      "start_char": 288,
+      "end_char": 1106,
+      "content": "== İlk yılları ve ailesi == Mustafa Bey Alibeyov, 1872'de Rus İmparatorluğu'nun bir parçası olan Nuha'da (günümüz Şeki, Azerbaycan) doğmuştur. Öğreniminin ilk yıllarında Arapça ve Farsçayı mükemmel bir şekilde öğrenmiştir. Alibeyov, Nuha'da Rus-Tatar okulunda okumuştur. 1892'de Tiflis lisesinden mezun olmuştur. Alibeyov, bu yıllarda Rusça ve Fransızca öğrenmiştir. Mustafa Bey Alibeyov'un babası Şeki Hanları Sarayı'nda katipti. Alibeyov, 1884'te Tiflis'te doğmuş Hatice Süphanguliyeva ile evlenmiştir. Süphanguliyeva, Tiflis'te Rus kız spor salonunda okuduktan sonra Transkafkasya Olginskaya Ebelik Enstitüsü'nden mezun olmuştur. 1908'de Selamet Cemiyeti'nin kadınlar bölümünün açılışına 14 hanımla birlikte katılmıştır. Azerbaycan'ın ilk kadın dergisi Işık'ın editörüydü. Bu evlilikten 5 çocuğu dünyaya gelmiştir.",
+      "char_count": 817,
+      "token_estimate": 204
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1106,
+      "end_char": 2106,
+      "content": "== Kariyeri == Mustafa Bey Alibeyov, 1892'de Bakü Guberniyası kaza mahkemesinde başmüfettiş tercümanı olarak göreve başlamıştır. Nicat Hayır Cemiyeti'ne üyeydi. Bir avukat olarak ünlü olmasının yanı sıra edebiyat eleştirmeni olarak da biliniyordu. Reklamcı, yazar ve oyun yazarı olarak çalışmıştır. Yazılarını Yukarıbaşlı mahlasıyla yazmıştır. Bu, Şeki'nin Yukarıbaş mahallesinde yaşamasından kaynaklanmaktadır. Alibeyov, 1913'te Molla Ruhulla Memmedzade'nin öldürülmesi davasına katılmıştır. 1917'de faaliyete geçen Nuha-Hürriyeti-Maarif Cemiyeti'ne bağış yapanlar arasında yer almıştır. Şubat Devriminden sonra siyasi faaliyete başlamış ve Ahrar Partisine katılmıştır. Muhtaçlara Yardım Cemiyeti'nin bir üyesi olarak, Vahşi Tümen askerlerinin silahlarının alınmasına karşı çıkmış ve Bakü Komiserliği'nden silahlarının iadesini talep etmiştir. Türk askeri esirlerinin Osmanlı devletine geri gönderilmesinde rol oynamıştır. Azerbaycan Demokratik Cumhuriyeti'nin kurulmasından sonra Yeşil Kalem Yazarl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1906,
+      "end_char": 2365,
+      "content": "i'nden silahlarının iadesini talep etmiştir. Türk askeri esirlerinin Osmanlı devletine geri gönderilmesinde rol oynamıştır. Azerbaycan Demokratik Cumhuriyeti'nin kurulmasından sonra Yeşil Kalem Yazarlar Birliği'ne üye olmuştur. Muhtaçlara Yardım Cemiyeti aracılığıyla nüfusa yiyecek ve giyecek yardımı yapmıştır. 1920'de Nisan işgalinden sonra Nuha'ye yaşınmış, önemli davalar için halk kadısı, hukuk dairesi başkanı ve Gence'de müdafiun ekibi üyesi olmuştur.",
+      "char_count": 459,
+      "token_estimate": 114
+    },
+    {
+      "id": "c0004",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 2366,
+      "end_char": 2575,
+      "content": "== Ölümü == Mustafa Bey Alibeyov, 1937'de Sovyet infaz kampanyasına maruz kalmıştır. Sibirya'ya sürülmüş ve 8 yıl hapis cezasına çarptırılmıştır. Alibeyov, 1945'te vefat etmiştir ve mezarının yeri bilinmiyor.",
+      "char_count": 208,
+      "token_estimate": 52
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mustafa Bey Alibeyov, Bakü Guberniyası kaza mahkemesinde başmüfettiş tercümanı olarak hangi yıl göreve başlamıştır?",
+        "answer": "1892",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mustafa Bey Alibeyov'un erken dönem öğrenimi ve aile geçmişi, onun kariyerine ve siyasi faaliyetlerine nasıl bir zemin hazırlamıştır?",
+        "answer": "Mustafa Bey Alibeyov, 1872'de Nuha'da doğmuş ve öğreniminin ilk yıllarında Arapça, Farsça, Rusça ve Fransızcayı mükemmel bir şekilde öğrenerek 1892'de Tiflis lisesinden mezun olmuştur. Bu çok dilli ve çeşitli eğitim geçmişi, onun 1892'de Bakü Guberniyası kaza mahkemesinde başmüfettiş tercümanı olarak göreve başlamasına ve ardından gazeteci, yazar, oyun yazarı ve hukukçu gibi farklı alanlarda tanınan bir kariyere sahip olmasına zemin hazırlamıştır. Ayrıca, Şubat Devrimi'nden sonra Ahrar Partisi'ne katılması ve Nicat Hayır Cemiyeti, Muhtaçlara Yardım Cemiyeti gibi kuruluşlarda aktif rol alması, onun toplumsal ve siyasi alandaki faaliyetlerinin de bu birikimle şekillendiğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

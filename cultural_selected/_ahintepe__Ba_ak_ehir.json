@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "ahintepebaakehir_4650d61e",
+    "title": "Şahintepe, Başakşehir",
+    "url": "https://tr.wikipedia.org/wiki/%C5%9Eahintepe%2C_Ba%C5%9Fak%C5%9Fehir",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:27.365713",
+    "content": "Şahintepe, İstanbul'un Başakşehir İlçesi'nin mahallesidir. == Tarihçe == Kayabaşı Şamlar, Güvercintepe, Altınşehir'i içine alan bölgenin bilinen en eski adı Azatlıkdır. Bu isim Şamlar baruthanesinde çalışan Ermenilerin Osmanlı yönetimince 1. sınıf vatandaş sayılması ile azad edilenlerin yeri manasında Azatlık olarak isimlendirilmiştir. Meşrutiyetin İlanından sonra Arnavut Kökenli Resneli Niyazi bey Bölgedeki ermenileri göndererek Arazinin sahibi olmuştur. Bu dönemde ismi geçen bölgelerin tamamı için resneli çiftliği ismi kullanılmıştır. 1980'li yıllarda Resneli ailesinin vârisleri tarafından çiftlik arazilerinin parsellenerek satılmasıyla mahalle haline gelen parsel öbeklerinden biridir. Küçükçekmece ilçesine bağlı iken 2009 yerel seçimleri öncesinde kurulan Başakşehir ilçesine bağlanmıştır. == Konum == Mahallenin Doğusunda Altınşehir, kuzeyinde Güvercintepe (Bayramtepe), batısında Şamlar, Güneyinde Tahtakale Mahallesi bulunmaktadır. Mahalle Güneyde Küçükçekmece gölü ve sazlığına, kuzeyde de Sazlıdere vadısı ve baraj gölüne hakim yüksekçe bir tepe üzerine kurulmuştur. Mahallede çarpık kentleşme hakimdir. == Nüfus == == Sosyal ve kültürel yapı == 1980'li yıllardan itibaren Anadolu'dan gelen göçler sonucu oluşmuş bir yerleşim yeridir. İlk gelenler Zonguldak, Kastamonu, Sinop, Çankırı, Tokat ve Samsun gibi batı Karadeniz Bölgesi ağırlıklı iken 1990 sonrasında Anadolunun her yerinden göç almıştır. Son dönemlerde ağırlıklı olarak Güneydoğu ve Doğu Anadolu bölgesinden göç almaktadır. Mahallede ilk yerleşim eski istanbul caddesi, Aşık Veysel caddesi ve Barbaros caddelerinin arasında kalan Camialtı ya da Yolağzı olarak bilinen mevkide olmuştur. == Doğal ve tarihi güzellikleri == Mahallenin Sazlıdere Barajı'na kıyısı vardır. Yeşilçam sinema filmlerinde fon olarak kullanılan Yarımburgaz Mağarası bu mahallededir. == Ulaşım == Mahalleye İETT'nin HT20 Yenibosna Metro, MK13 Olimpiyatköy Metro, 78Ş Fenertepe / Başakşehir, 79Ş Topkapı (Bazı saatlerde İstoç) ve 147 Avcılar hatları bulunmaktadır. M9 (Ataköy - Olimpiyat) Metro Hattı'na mahallenin metroya entegre otobüs hattı olan MK13 otobüsü ile ulaşım sağlanmaktadır. Ayrıca Şirinevler, İkitelli-Atışalanı semtlerinden dolmuş seferleri ile ulaşım sağlanmaktadır. == Kaynakça == == Dış bağlantılar == OpenStreetMap'te Şahintepe, Başakşehir ile ilgili coğrafi veriler",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 292,
+      "char_count": 2335,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.830787",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 59,
+      "content": "Şahintepe, İstanbul'un Başakşehir İlçesi'nin mahallesidir.",
+      "char_count": 58,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 59,
+      "end_char": 803,
+      "content": "== Tarihçe == Kayabaşı Şamlar, Güvercintepe, Altınşehir'i içine alan bölgenin bilinen en eski adı Azatlıkdır. Bu isim Şamlar baruthanesinde çalışan Ermenilerin Osmanlı yönetimince 1. sınıf vatandaş sayılması ile azad edilenlerin yeri manasında Azatlık olarak isimlendirilmiştir. Meşrutiyetin İlanından sonra Arnavut Kökenli Resneli Niyazi bey Bölgedeki ermenileri göndererek Arazinin sahibi olmuştur. Bu dönemde ismi geçen bölgelerin tamamı için resneli çiftliği ismi kullanılmıştır. 1980'li yıllarda Resneli ailesinin vârisleri tarafından çiftlik arazilerinin parsellenerek satılmasıyla mahalle haline gelen parsel öbeklerinden biridir. Küçükçekmece ilçesine bağlı iken 2009 yerel seçimleri öncesinde kurulan Başakşehir ilçesine bağlanmıştır.",
+      "char_count": 743,
+      "token_estimate": 185
+    },
+    {
+      "id": "c0002",
+      "section": "== Konum ==",
+      "heading_path": "== Konum ==",
+      "start_char": 803,
+      "end_char": 1122,
+      "content": "== Konum == Mahallenin Doğusunda Altınşehir, kuzeyinde Güvercintepe (Bayramtepe), batısında Şamlar, Güneyinde Tahtakale Mahallesi bulunmaktadır. Mahalle Güneyde Küçükçekmece gölü ve sazlığına, kuzeyde de Sazlıdere vadısı ve baraj gölüne hakim yüksekçe bir tepe üzerine kurulmuştur. Mahallede çarpık kentleşme hakimdir.",
+      "char_count": 318,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0003",
+      "section": "== Sosyal ve kültürel yapı ==",
+      "heading_path": "== Sosyal ve kültürel yapı ==",
+      "start_char": 1134,
+      "end_char": 1665,
+      "content": "== Sosyal ve kültürel yapı == 1980'li yıllardan itibaren Anadolu'dan gelen göçler sonucu oluşmuş bir yerleşim yeridir. İlk gelenler Zonguldak, Kastamonu, Sinop, Çankırı, Tokat ve Samsun gibi batı Karadeniz Bölgesi ağırlıklı iken 1990 sonrasında Anadolunun her yerinden göç almıştır. Son dönemlerde ağırlıklı olarak Güneydoğu ve Doğu Anadolu bölgesinden göç almaktadır. Mahallede ilk yerleşim eski istanbul caddesi, Aşık Veysel caddesi ve Barbaros caddelerinin arasında kalan Camialtı ya da Yolağzı olarak bilinen mevkide olmuştur.",
+      "char_count": 530,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0004",
+      "section": "== Doğal ve tarihi güzellikleri ==",
+      "heading_path": "== Doğal ve tarihi güzellikleri ==",
+      "start_char": 1665,
+      "end_char": 1834,
+      "content": "== Doğal ve tarihi güzellikleri == Mahallenin Sazlıdere Barajı'na kıyısı vardır. Yeşilçam sinema filmlerinde fon olarak kullanılan Yarımburgaz Mağarası bu mahallededir.",
+      "char_count": 168,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0005",
+      "section": "== Ulaşım ==",
+      "heading_path": "== Ulaşım ==",
+      "start_char": 1834,
+      "end_char": 2233,
+      "content": "== Ulaşım == Mahalleye İETT'nin HT20 Yenibosna Metro, MK13 Olimpiyatköy Metro, 78Ş Fenertepe / Başakşehir, 79Ş Topkapı (Bazı saatlerde İstoç) ve 147 Avcılar hatları bulunmaktadır. M9 (Ataköy - Olimpiyat) Metro Hattı'na mahallenin metroya entegre otobüs hattı olan MK13 otobüsü ile ulaşım sağlanmaktadır. Ayrıca Şirinevler, İkitelli-Atışalanı semtlerinden dolmuş seferleri ile ulaşım sağlanmaktadır.",
+      "char_count": 398,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2248,
+      "end_char": 2335,
+      "content": "== Dış bağlantılar == OpenStreetMap'te Şahintepe, Başakşehir ile ilgili coğrafi veriler",
+      "char_count": 87,
+      "token_estimate": 21
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kayabaşı Şamlar, Güvercintepe ve Altınşehir'i içine alan bölgenin bilinen en eski adı nedir?",
+        "answer": "Azatlık",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Başakşehir İlçesi'ne bağlı Şahintepe gibi mahallelerin oluşum süreci ve idari bağlantıları hakkında parçalar bir araya getirildiğinde hangi bilgiler ortaya çıkmaktadır?",
+        "answer": "İstanbul'un Başakşehir İlçesi'nin bir mahallesi olan Şahintepe ve benzeri bölgeler, başlangıçta Azatlık olarak bilinen ve daha sonra Resneli Niyazi Bey'e ait \"resneli çiftliği\" haline gelen arazilerin 1980'li yıllarda parsellenerek satılmasıyla mahalle öbekleri şeklinde oluşmuştur. Bu bölge, 2009 yerel seçimleri öncesinde Küçükçekmece ilçesinden ayrılarak Başakşehir ilçesine bağlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

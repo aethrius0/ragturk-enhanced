@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "concertgebouw_07d491cf",
+    "title": "Concertgebouw",
+    "url": "https://tr.wikipedia.org/wiki/Concertgebouw",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:57.642854",
+    "content": "Concertgebouw (Türkçe: Konser Binası); Belçika'nın Brugge kentinde bulunan bir kültür merkezidir. Paul Robbrecht ve Hilde Daem tarafından tasarlanan yapı, şehrin Avrupa Kültür Başkenti seçildiği 2002 yılında tamamlanarak hizmete açılmıştır. 't Zand meydanında konumlanmış olan kompleksin bünyesinde 1290 kişi kapasiteli büyük bir konser salonu, 320 koltuklu bir oda orkestrası salonu, bir adet kafe, çeşitli sergi salonları ve tarihi şehir merkezi manzaralı bir aydınlatma kulesi bulunur. Yapının kule kısmı camla kaplıyken geri kalan cephelerde Fransa'nın kuzeyindeki Saint-Omer'da üretilmiş olan terakota fayanslar kullanılmıştır. == Tarihçe == === Yarışma === Şehre yeni bir konser salonu inşa edilmesi fikri daha önceki yıllara dayansa da dönemin Brugge Belediye Başkanı Patrick Moenaert'ın göreve başlaması ve şehrin 1998 yılında Avrupa Kültür Başkenti adayı seçilmesi, bu düşüncenin hayata geçirilmesinde önemli bir rol oynadı. Aynı yıl Gerard Mortier'in jüri başkanlığını yapacağı ve Leuven Katolik Üniversitesi'nden Hilde Heynen ile André Loeckx, Gent Üniversitesi'nden Dirk de Meyer ile Marc Dubois, Eindhoven Teknoloji Üniversitesi'nden ise Wim Van den Bergh'in katılım göstereceği akademik bir komite oluşturdu. Peter Bongaerts ve Erna Van Sambeek gibi mimarların yanı sıra belediye başkanı Moenaert, belediye meclisi üyesi Jean Van den Bilcke, Batı Flandre ili milletvekili Gerrit Defreyne ve Flaman Topluluğunun kültür elçilerinden Jan Vermassen da bu kurulda yer aldı. Eş zamanlı olarak Gent'te de bir gösteri merkezinin inşasıyla alakalı yarışma açılması, Flaman kültür dünyasında böylesi bir etkinlik binasına duyulan ihtiyacın somut bir göstergesi olarak kabul edildi. Yarışmanın koşulları arasında ise 't Zand meydanında yükselecek olacak yapının, meydanın tarihi şehir merkeziyle olan ilişkisine zarar vermeden bir açık hava müzesi konseptiyle projelendirilmesi gerektiği vurgulandı. Uluslararası katılıma açık olan yarışmaya başlangıçta 41 farklı proje adaylık başvurusunda bulundu. 1999 yılında ön elemeyi geçen sekiz farklı çalışma arasından ise en iyi akustik ve estetik şartlara sahip olan Gentli mimarlar Paul Robbrecht ve Hilde Daem'in projesi birinci seçildi. Pieter Boudens katılımıyla, 13 Haziran 2000 tarihinde gerçekleştirilen bir törende yapının temeli atıldı. İnşa maliyeti ise Brugge Belediyesi, Batı Flandre ili meclisi ve Flaman Topluluğunun katkı sağladığı ortak bütçeden karşılandı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 326,
+      "char_count": 2435,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.763042",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 633,
+      "content": "Concertgebouw (Türkçe: Konser Binası); Belçika'nın Brugge kentinde bulunan bir kültür merkezidir. Paul Robbrecht ve Hilde Daem tarafından tasarlanan yapı, şehrin Avrupa Kültür Başkenti seçildiği 2002 yılında tamamlanarak hizmete açılmıştır. 't Zand meydanında konumlanmış olan kompleksin bünyesinde 1290 kişi kapasiteli büyük bir konser salonu, 320 koltuklu bir oda orkestrası salonu, bir adet kafe, çeşitli sergi salonları ve tarihi şehir merkezi manzaralı bir aydınlatma kulesi bulunur. Yapının kule kısmı camla kaplıyken geri kalan cephelerde Fransa'nın kuzeyindeki Saint-Omer'da üretilmiş olan terakota fayanslar kullanılmıştır.",
+      "char_count": 632,
+      "token_estimate": 158
+    },
+    {
+      "id": "c0001",
+      "section": "=== Yarışma ===",
+      "heading_path": "=== Yarışma ===",
+      "start_char": 647,
+      "end_char": 1647,
+      "content": "=== Yarışma === Şehre yeni bir konser salonu inşa edilmesi fikri daha önceki yıllara dayansa da dönemin Brugge Belediye Başkanı Patrick Moenaert'ın göreve başlaması ve şehrin 1998 yılında Avrupa Kültür Başkenti adayı seçilmesi, bu düşüncenin hayata geçirilmesinde önemli bir rol oynadı. Aynı yıl Gerard Mortier'in jüri başkanlığını yapacağı ve Leuven Katolik Üniversitesi'nden Hilde Heynen ile André Loeckx, Gent Üniversitesi'nden Dirk de Meyer ile Marc Dubois, Eindhoven Teknoloji Üniversitesi'nden ise Wim Van den Bergh'in katılım göstereceği akademik bir komite oluşturdu. Peter Bongaerts ve Erna Van Sambeek gibi mimarların yanı sıra belediye başkanı Moenaert, belediye meclisi üyesi Jean Van den Bilcke, Batı Flandre ili milletvekili Gerrit Defreyne ve Flaman Topluluğunun kültür elçilerinden Jan Vermassen da bu kurulda yer aldı. Eş zamanlı olarak Gent'te de bir gösteri merkezinin inşasıyla alakalı yarışma açılması, Flaman kültür dünyasında böylesi bir etkinlik binasına duyulan ihtiyacın som",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "=== Yarışma ===",
+      "heading_path": "=== Yarışma ===",
+      "start_char": 1447,
+      "end_char": 2420,
+      "content": "n Vermassen da bu kurulda yer aldı. Eş zamanlı olarak Gent'te de bir gösteri merkezinin inşasıyla alakalı yarışma açılması, Flaman kültür dünyasında böylesi bir etkinlik binasına duyulan ihtiyacın somut bir göstergesi olarak kabul edildi. Yarışmanın koşulları arasında ise 't Zand meydanında yükselecek olacak yapının, meydanın tarihi şehir merkeziyle olan ilişkisine zarar vermeden bir açık hava müzesi konseptiyle projelendirilmesi gerektiği vurgulandı. Uluslararası katılıma açık olan yarışmaya başlangıçta 41 farklı proje adaylık başvurusunda bulundu. 1999 yılında ön elemeyi geçen sekiz farklı çalışma arasından ise en iyi akustik ve estetik şartlara sahip olan Gentli mimarlar Paul Robbrecht ve Hilde Daem'in projesi birinci seçildi. Pieter Boudens katılımıyla, 13 Haziran 2000 tarihinde gerçekleştirilen bir törende yapının temeli atıldı. İnşa maliyeti ise Brugge Belediyesi, Batı Flandre ili meclisi ve Flaman Topluluğunun katkı sağladığı ortak bütçeden karşılandı.",
+      "char_count": 973,
+      "token_estimate": 243
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Brugge'de yeni bir konser salonu inşa edilmesi fikrinin hayata geçirilmesinde önemli rol oynayan dönemin belediye başkanı kimdir?",
+        "answer": "Patrick Moenaert",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Brugge'deki Concertgebouw'un inşasına duyulan ihtiyacın ortaya çıkışından, mimarlarının seçimine ve açılışına kadar olan süreç nasıl gelişmiştir?",
+        "answer": "Brugge'e yeni bir konser salonu inşa etme fikri, Belediye Başkanı Patrick Moenaert'ın göreve başlaması ve şehrin 1998'de Avrupa Kültür Başkenti adayı seçilmesiyle ivme kazandı ve aynı yıl bir yarışma komitesi kuruldu. Bu yarışmaya başlangıçta 41 proje başvurdu ve 1999'da ön elemeyi geçen sekiz farklı çalışma arasından en iyi akustik ve estetik şartlara sahip olan Gentli mimarlar Paul Robbrecht ve Hilde Daem'in projesi birinci seçildi. Temel atma töreni 2000'de yapıldı ve Robbrecht ile Daem tarafından tasarlanan yapı, şehrin 2002'de Avrupa Kültür Başkenti olduğu yıl tamamlanarak hizmete açıldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

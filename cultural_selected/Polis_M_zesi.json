@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "polismzesi_be5a8f1a",
+    "title": "Polis Müzesi",
+    "url": "https://tr.wikipedia.org/wiki/Polis_M%C3%BCzesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:49.518262",
+    "content": "Polis Müzesi, Türkiye'nin Ankara şehrinde kurulu müze. Emniyet Genel Müdürlüğü Sosyal Hizmetler ve Sağlık Daire Başkanlığı bünyesinde 9 Nisan 2021 tarihinde özel müze statüsünde Ankara'nın Çankaya ilçesi, Ayrancı semtinde kurulmuştur. == Tarihçe == Osmanlı döneminde ilk Polis Müzesi 1911 yılında Dersaadet (İstanbul) Polis Mektebi bünyesinde planlanmıştır. Ancak savaş koşulları nedeniyle çalışmalara ara verilmiş, 1917 yılında toplanan kıyafet ve teçhizatların İstanbul Müdüriyeti'nde sergilendiği belge ve kayıtların incelenmesi ile anlaşılmıştır. I. Dünya Savaşı yıllarında başlayan Polis Müzesi açma çabaları 104 yıl sonra ilk defa özel müze statüsüyle 9 Nisan 2021 tarihinde Emniyet Genel Müdürlüğü, Sosyal Hizmetler ve Sağlık Daire Başkanlğı bünyesinde açılan Polis Müzesi ile tamamlanmıştır. Osmanlı İmparatorluğundan günümüze kadar Polis Teşkilatı'nın geçirdiği evreler, ülkenin iç güvenliği sağlanırken polisin suçla mücadelede izlediği yollar, meydana gelen hadiseler, yararlandığı ekipmanlar teşhir edilmektedir. == Koleksiyon == Müze 6 kısımdan oluşmaktadır. Müzenin A, B ve C teşhir alanlarında Türk Polis teşkilatının tarihteki yerinin anlatıldığı alanda eski dönem kıyafetleri, Osmanlı polis teşkilatının oluşumu, Osmanlı karakol maketleri, polislik tarihi kronolojisi, görev yapmış önemli polisler, Türk edebiyatında polisiye romanlar, ilk parmak izi, ilk bisikletli süvari birliği kurulması ve silahlar sergide yeralmaktadır. Ayrıca 56 adet tarihi ve güncel üniforma ile kıyafetlerin sergilendiği hiperrealistik silikon mankenler, canlandırmalar, aksesuarlar, maket dioramalar, belgeseller, tarihi ve güncel polis motosikletleri, polis arabaları, polis helikopteri müzede bulunmaktadır. Müzenin D kısmında kriminal ve bomba imha canlandırma alanları, polis köpeklerinin tanıtımı, trafik kuralları eğitim için düzenlenmiş bir alan, trafik kuralları oyunu, hediyelik eşya satış bölümü, polis kitaplığı ve sosyal alanlar yer almaktadır. E kısmında güncel polis ekipmanları, kıyafetleri, görev başında hayatını kaybeden polislere ait eşya ve künyeleri, 15 Temmuz alanı, tarihi dokümanlar, tarihi fotoğraflar ve yabancı devlet polis teşkilatlarından gelen armağanlar bulunmaktadır. F kısmında zırhlı polis araçları açık alanda sergilenmektedir. Müze, pazartesi, salı, çarşamba, perşembe, cuma ve cumartesi günleri saat 10:00-17:00 arasında ücretsiz hizmet vermektedir. == Galeri == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 303,
+      "char_count": 2409,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.827667",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 235,
+      "content": "Polis Müzesi, Türkiye'nin Ankara şehrinde kurulu müze. Emniyet Genel Müdürlüğü Sosyal Hizmetler ve Sağlık Daire Başkanlığı bünyesinde 9 Nisan 2021 tarihinde özel müze statüsünde Ankara'nın Çankaya ilçesi, Ayrancı semtinde kurulmuştur.",
+      "char_count": 234,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 235,
+      "end_char": 1025,
+      "content": "== Tarihçe == Osmanlı döneminde ilk Polis Müzesi 1911 yılında Dersaadet (İstanbul) Polis Mektebi bünyesinde planlanmıştır. Ancak savaş koşulları nedeniyle çalışmalara ara verilmiş, 1917 yılında toplanan kıyafet ve teçhizatların İstanbul Müdüriyeti'nde sergilendiği belge ve kayıtların incelenmesi ile anlaşılmıştır. I. Dünya Savaşı yıllarında başlayan Polis Müzesi açma çabaları 104 yıl sonra ilk defa özel müze statüsüyle 9 Nisan 2021 tarihinde Emniyet Genel Müdürlüğü, Sosyal Hizmetler ve Sağlık Daire Başkanlğı bünyesinde açılan Polis Müzesi ile tamamlanmıştır. Osmanlı İmparatorluğundan günümüze kadar Polis Teşkilatı'nın geçirdiği evreler, ülkenin iç güvenliği sağlanırken polisin suçla mücadelede izlediği yollar, meydana gelen hadiseler, yararlandığı ekipmanlar teşhir edilmektedir.",
+      "char_count": 789,
+      "token_estimate": 197
+    },
+    {
+      "id": "c0002",
+      "section": "== Koleksiyon ==",
+      "heading_path": "== Koleksiyon ==",
+      "start_char": 1025,
+      "end_char": 2025,
+      "content": "== Koleksiyon == Müze 6 kısımdan oluşmaktadır. Müzenin A, B ve C teşhir alanlarında Türk Polis teşkilatının tarihteki yerinin anlatıldığı alanda eski dönem kıyafetleri, Osmanlı polis teşkilatının oluşumu, Osmanlı karakol maketleri, polislik tarihi kronolojisi, görev yapmış önemli polisler, Türk edebiyatında polisiye romanlar, ilk parmak izi, ilk bisikletli süvari birliği kurulması ve silahlar sergide yeralmaktadır. Ayrıca 56 adet tarihi ve güncel üniforma ile kıyafetlerin sergilendiği hiperrealistik silikon mankenler, canlandırmalar, aksesuarlar, maket dioramalar, belgeseller, tarihi ve güncel polis motosikletleri, polis arabaları, polis helikopteri müzede bulunmaktadır. Müzenin D kısmında kriminal ve bomba imha canlandırma alanları, polis köpeklerinin tanıtımı, trafik kuralları eğitim için düzenlenmiş bir alan, trafik kuralları oyunu, hediyelik eşya satış bölümü, polis kitaplığı ve sosyal alanlar yer almaktadır. E kısmında güncel polis ekipmanları, kıyafetleri, görev başında hayatını ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Koleksiyon ==",
+      "heading_path": "== Koleksiyon ==",
+      "start_char": 1825,
+      "end_char": 2381,
+      "content": "n düzenlenmiş bir alan, trafik kuralları oyunu, hediyelik eşya satış bölümü, polis kitaplığı ve sosyal alanlar yer almaktadır. E kısmında güncel polis ekipmanları, kıyafetleri, görev başında hayatını kaybeden polislere ait eşya ve künyeleri, 15 Temmuz alanı, tarihi dokümanlar, tarihi fotoğraflar ve yabancı devlet polis teşkilatlarından gelen armağanlar bulunmaktadır. F kısmında zırhlı polis araçları açık alanda sergilenmektedir. Müze, pazartesi, salı, çarşamba, perşembe, cuma ve cumartesi günleri saat 10:00-17:00 arasında ücretsiz hizmet vermektedir.",
+      "char_count": 556,
+      "token_estimate": 139
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Müze kaç kısımdan oluşmaktadır?",
+        "answer": "Müze 6 kısımdan oluşmaktadır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Osmanlı döneminde ilk kez planlanan ancak savaş koşulları nedeniyle tamamlanamayan Polis Müzesi açma çabaları, günümüzdeki Ankara'daki Polis Müzesi'nin kuruluşuyla nasıl bir bağlantı kurmuş ve bu müze Türk Polis Teşkilatı'nın hangi ana yönlerini kapsamlı bir şekilde sergilemektedir?",
+        "answer": "Osmanlı döneminde 1911 yılında Dersaadet Polis Mektebi bünyesinde planlanan ilk Polis Müzesi açma çabaları, I. Dünya Savaşı koşulları nedeniyle yarım kalmış ancak 104 yıl sonra, 9 Nisan 2021 tarihinde Ankara'da özel müze statüsünde Emniyet Genel Müdürlüğü bünyesinde açılan Polis Müzesi ile bu çabalar tamamlanmıştır. Müze, Türk Polis Teşkilatı'nın Osmanlı İmparatorluğu'ndan günümüze kadar geçirdiği evreleri, ülkenin iç güvenliği sağlanırken polisin suçla mücadelede izlediği yolları, meydana gelen hadiseleri ve yararlandığı ekipmanları sergilemektedir. Koleksiyon, eski dönem kıyafetleri, Osmanlı polis teşkilatının oluşumu, polislik tarihi kronolojisi, görev yapmış önemli polisler, Türk edebiyatında polisiye romanlar, ilk parmak izi uygulaması, ilk bisikletli süvari birliğinin kuruluşu ve silahlar gibi tarihi unsurların yanı sıra, güncel üniformalar, polis motosikletleri, arabaları, helikopterleri, kriminal ve bomba imha canlandırma alanları, polis köpeklerinin tanıtımı ve trafik kuralları eğitim alanlarını da kapsamaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

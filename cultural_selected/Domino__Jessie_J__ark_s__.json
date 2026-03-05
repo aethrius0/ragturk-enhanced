@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "dominojessiejarks_2d922d71",
+    "title": "Domino (Jessie J şarkısı)",
+    "url": "https://tr.wikipedia.org/wiki/Domino_%28Jessie_J_%C5%9Fark%C4%B1s%C4%B1%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:42.142774",
+    "content": "\"Domino\", İngiliz şarkıcı-şarkı yazarı Jessie J tarafından seslendirilen şarkı. Jessie J'in ilk albümü olan Who You Are'da (2011) yer almaktadır. 29 Ağustos 2011 tarihinde albümün beşinci single'ı olarak çıkmıştır. \"Domino\" tarz olarak elektropop ve dans-pop şarkısıdır. Şarkıyı, yapımcılar Dr. Luke ve Cirkut, diğer yazarlar Claude Kelly ve Max Martin ile beraber Jessie J yazmıştır. Bu şarkı, Jessie J'in Birleşik Krallık'ta birinci sıraya yükselen ikinci şarkısıdır. Önceki şarkı, yine Dr. Luke ve Claude Kelly'nin yapımcılığını üstlendiği \"Price Tag\" (2011) şarkısıdır. Amerika Birleşik Devletleri'nin Billboard Hot 100 listesinde altıncı sıraya yükselerek ABD'deki en başarılı single'ı olmuştur (Bu başarı, 2014 yılında \"Bang Bang\" şarkısına geçmiştir). 2013 BRIT Ödülleri'nde En İyi Britanya Single'ı'na aday gösterilmiştir. == Personel == Jessica Cornish – şarkı yazarı, arka vokal ve baş vokal Dr. Luke – şarkı yazarı, yapımcı, enstrümanlar, programlama ve vokal yapım Claude Kelly – şarkı yazarı ve ek vokaller Max Martin – şarkı yazarı Cirkut – şarkı yazarı, yapımcı, enstrümanlar ve programlama Serban Ghenea – miks Emily Wright – mühendislik ve vokal yapım Clint Gibbs – yardımcı mühendislik John Hanes – miks mühendisi Phil Seaford – yardımcı miks mühendisi Tom Coyne – mastering Who You Are albümünde yer alan bilgilerden alınmıştır. == Biçimler ve parça listeleri == == Listeler == == Sertifikalar == == Çıkış tarihi == == Kaynakça == == Dış bağlantılar == YouTube'da \"Domino\" resmî müzik klibi YouTube'da \"Domino\" (Live Montage)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 227,
+      "char_count": 1544,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.745477",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 831,
+      "content": "\"Domino\", İngiliz şarkıcı-şarkı yazarı Jessie J tarafından seslendirilen şarkı. Jessie J'in ilk albümü olan Who You Are'da (2011) yer almaktadır. 29 Ağustos 2011 tarihinde albümün beşinci single'ı olarak çıkmıştır. \"Domino\" tarz olarak elektropop ve dans-pop şarkısıdır. Şarkıyı, yapımcılar Dr. Luke ve Cirkut, diğer yazarlar Claude Kelly ve Max Martin ile beraber Jessie J yazmıştır. Bu şarkı, Jessie J'in Birleşik Krallık'ta birinci sıraya yükselen ikinci şarkısıdır. Önceki şarkı, yine Dr. Luke ve Claude Kelly'nin yapımcılığını üstlendiği \"Price Tag\" (2011) şarkısıdır. Amerika Birleşik Devletleri'nin Billboard Hot 100 listesinde altıncı sıraya yükselerek ABD'deki en başarılı single'ı olmuştur (Bu başarı, 2014 yılında \"Bang Bang\" şarkısına geçmiştir). 2013 BRIT Ödülleri'nde En İyi Britanya Single'ı'na aday gösterilmiştir.",
+      "char_count": 830,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0001",
+      "section": "== Personel ==",
+      "heading_path": "== Personel ==",
+      "start_char": 831,
+      "end_char": 1348,
+      "content": "== Personel == Jessica Cornish – şarkı yazarı, arka vokal ve baş vokal Dr. Luke – şarkı yazarı, yapımcı, enstrümanlar, programlama ve vokal yapım Claude Kelly – şarkı yazarı ve ek vokaller Max Martin – şarkı yazarı Cirkut – şarkı yazarı, yapımcı, enstrümanlar ve programlama Serban Ghenea – miks Emily Wright – mühendislik ve vokal yapım Clint Gibbs – yardımcı mühendislik John Hanes – miks mühendisi Phil Seaford – yardımcı miks mühendisi Tom Coyne – mastering Who You Are albümünde yer alan bilgilerden alınmıştır.",
+      "char_count": 516,
+      "token_estimate": 129
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1450,
+      "end_char": 1544,
+      "content": "== Dış bağlantılar == YouTube'da \"Domino\" resmî müzik klibi YouTube'da \"Domino\" (Live Montage)",
+      "char_count": 94,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Jessie J'in 'Domino' şarkısı Who You Are albümünün kaçıncı single'ı olarak çıkmıştır?",
+        "answer": "Beşinci single'ı olarak çıkmıştır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "\"Domino\" şarkısının yazarları ve yapımcıları arasında yer alan Dr. Luke ve Cirkut'un, \"Who You Are\" albümündeki personel listesine göre şarkı yazarlığı ve yapımcılığın ötesindeki ek görevleri nelerdi?",
+        "answer": "Dr. Luke, şarkı yazarlığı ve yapımcılığın yanı sıra enstrümanlar, programlama ve vokal yapım görevlerini üstlenirken; Cirkut ise enstrümanlar ve programlama görevlerini de yürütmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

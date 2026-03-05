@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "olanlarlahayat_a49cbb08",
+    "title": "Oğlanlarla Hayat",
+    "url": "https://tr.wikipedia.org/wiki/O%C4%9Flanlarla_Hayat",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:44.512452",
+    "content": "Oğlanlarla Hayat ya da orijinal adıyla Life with Boys, Kanada yapımı bir sitcom dizisidir. Dizi Kanada'da ilk kez 9 Eylül 2011'de YTV kanalında yayına başlamıştır. Dizi Türkiye'de 23 Nisan 2012 tarihinde Nickelodeon Türkiye kanalında yayına girmiştir. == Konusu == Dul babası ve üç erkek kardeşi ile yaşayan Tess Foster'ın serüvenleri... Tess hayatındaki dört farklı erkek üzerinden hayatı keşfetmektedir. Bu keyifli aile, hayatın zorluklarıyla mücadele ederken, ortaya unutulmaz anlar çıkmaktadır. == Karakterler == === Ana Karakterler === Tess Foster (Torri Webster) dizinin ana kahramanıdır. Tess 14 yaşında ve erkeklerle dolu bir evdeki tek kız. Allie Brooks (Madison Pettis) Tess'in en iyi arkadaşı, makyaj yapmayı ve modayı seven zeki ve popüler bir amigo kız. Tess'in erkeklerle dolu bir evde nasıl yaşadığını anlamamasına rağmen Foster ailesinin evinden hiç çıkmaz. Gabriel \"Gabe\" Foster (Nathan McLeod) Tess'in 16 yaşındaki abisi ve Foster kardeşlerin en büyüğü, insanlarla arası çok iyi. Gabe lisede tipik herkesin âşık olduğu çocuklardan biri, konu kızlara geldiğinde -aynı anda birden fazla kızla çıkmasından anlaşılacağı üzere- oldukça başarılı. Sam Foster (Michael Murphy) Tess'in ikiz erkek kardeşi. Sam Allie'ye âşık ama onu elde etme çabası her seferinde reddedilmeyle sonuçlanıyor. Spencer Foster (Jake Goodman) Tess'in en küçük kardeşi. Sekiz yaşında, büyümüş de küçülmüş ve korkutucu zekasını kendi faydasına kullanır. Jack Foster (Sandy Jobin-Bevans) Tess, Gabe, Spencer, Sam'in babası ve aynı zamanda lisede beden öğretmeni. Ailesine karşı aşırı koruyucu olabiliyor ama en çok Tess'le uğraşır. Eşi öldüğünden bekâr bir adam. === Yan karakterler === Bobby Parelli (John-Alan Slachta) bir güreş şampiyonu. Eskiden Tess'in düşmanıydı. Tess'le Allie'den gizli çıkmaya başladılar, çünkü Allie'nin eski erkek arkadaşıydı. Bir süre sona Tess'le ayrıldılar, çünkü hasta olduğunu söyleyip bir beyzbol maçına gitti ve orada bir kızın numarasını aldı. Kaylee (Fransesca Martin) dizinin kötü karaktei ve Tess'in düşmanı. İnsanları mutsuz etmekten hoşlanır. Baş amigo kız, popüler ve güzel. Çok kötü ve saf olabiliyor. Sam'i okul dansına birlikte gitmek karşılığında kendisi için çok iyi bir ödev hazırlamaya ikna etti. Annesi Jack'le çıktı. Chloe (Madison Scott) Allie ve Tess kavga ettiklerinde aralarını yapan arkadaşları. Ayrıca kendisini koro için bırakan arkadaşı Zoe'yle de tartıştı. Chloe Tess'e okuldaki tüm çocuklar ondan hoşlanırken biryle çıkmasını yoksa hiçbir kızın onunla konuşmayacağını söylemiştir. Chloe Kaylee'yle iyi anlaşır. Ayrıca okul değiştireceği zaman Tess'e onu özleyeceğini söyledi. Chloe sadece birkaç kez göründü ama Allie ve Tess'in yakın arkadaşı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 380,
+      "char_count": 2703,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.837667",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 252,
+      "content": "Oğlanlarla Hayat ya da orijinal adıyla Life with Boys, Kanada yapımı bir sitcom dizisidir. Dizi Kanada'da ilk kez 9 Eylül 2011'de YTV kanalında yayına başlamıştır. Dizi Türkiye'de 23 Nisan 2012 tarihinde Nickelodeon Türkiye kanalında yayına girmiştir.",
+      "char_count": 251,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 252,
+      "end_char": 499,
+      "content": "== Konusu == Dul babası ve üç erkek kardeşi ile yaşayan Tess Foster'ın serüvenleri... Tess hayatındaki dört farklı erkek üzerinden hayatı keşfetmektedir. Bu keyifli aile, hayatın zorluklarıyla mücadele ederken, ortaya unutulmaz anlar çıkmaktadır.",
+      "char_count": 246,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0002",
+      "section": "=== Ana Karakterler ===",
+      "heading_path": "=== Ana Karakterler ===",
+      "start_char": 517,
+      "end_char": 1517,
+      "content": "=== Ana Karakterler === Tess Foster (Torri Webster) dizinin ana kahramanıdır. Tess 14 yaşında ve erkeklerle dolu bir evdeki tek kız. Allie Brooks (Madison Pettis) Tess'in en iyi arkadaşı, makyaj yapmayı ve modayı seven zeki ve popüler bir amigo kız. Tess'in erkeklerle dolu bir evde nasıl yaşadığını anlamamasına rağmen Foster ailesinin evinden hiç çıkmaz. Gabriel \"Gabe\" Foster (Nathan McLeod) Tess'in 16 yaşındaki abisi ve Foster kardeşlerin en büyüğü, insanlarla arası çok iyi. Gabe lisede tipik herkesin âşık olduğu çocuklardan biri, konu kızlara geldiğinde -aynı anda birden fazla kızla çıkmasından anlaşılacağı üzere- oldukça başarılı. Sam Foster (Michael Murphy) Tess'in ikiz erkek kardeşi. Sam Allie'ye âşık ama onu elde etme çabası her seferinde reddedilmeyle sonuçlanıyor. Spencer Foster (Jake Goodman) Tess'in en küçük kardeşi. Sekiz yaşında, büyümüş de küçülmüş ve korkutucu zekasını kendi faydasına kullanır. Jack Foster (Sandy Jobin-Bevans) Tess, Gabe, Spencer, Sam'in babası ve aynı za",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Ana Karakterler ===",
+      "heading_path": "=== Ana Karakterler ===",
+      "start_char": 1317,
+      "end_char": 1646,
+      "content": "ake Goodman) Tess'in en küçük kardeşi. Sekiz yaşında, büyümüş de küçülmüş ve korkutucu zekasını kendi faydasına kullanır. Jack Foster (Sandy Jobin-Bevans) Tess, Gabe, Spencer, Sam'in babası ve aynı zamanda lisede beden öğretmeni. Ailesine karşı aşırı koruyucu olabiliyor ama en çok Tess'le uğraşır. Eşi öldüğünden bekâr bir adam.",
+      "char_count": 329,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0004",
+      "section": "=== Yan karakterler ===",
+      "heading_path": "=== Yan karakterler ===",
+      "start_char": 1647,
+      "end_char": 2647,
+      "content": "=== Yan karakterler === Bobby Parelli (John-Alan Slachta) bir güreş şampiyonu. Eskiden Tess'in düşmanıydı. Tess'le Allie'den gizli çıkmaya başladılar, çünkü Allie'nin eski erkek arkadaşıydı. Bir süre sona Tess'le ayrıldılar, çünkü hasta olduğunu söyleyip bir beyzbol maçına gitti ve orada bir kızın numarasını aldı. Kaylee (Fransesca Martin) dizinin kötü karaktei ve Tess'in düşmanı. İnsanları mutsuz etmekten hoşlanır. Baş amigo kız, popüler ve güzel. Çok kötü ve saf olabiliyor. Sam'i okul dansına birlikte gitmek karşılığında kendisi için çok iyi bir ödev hazırlamaya ikna etti. Annesi Jack'le çıktı. Chloe (Madison Scott) Allie ve Tess kavga ettiklerinde aralarını yapan arkadaşları. Ayrıca kendisini koro için bırakan arkadaşı Zoe'yle de tartıştı. Chloe Tess'e okuldaki tüm çocuklar ondan hoşlanırken biryle çıkmasını yoksa hiçbir kızın onunla konuşmayacağını söylemiştir. Chloe Kaylee'yle iyi anlaşır. Ayrıca okul değiştireceği zaman Tess'e onu özleyeceğini söyledi. Chloe sadece birkaç kez gör",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "=== Yan karakterler ===",
+      "heading_path": "=== Yan karakterler ===",
+      "start_char": 2447,
+      "end_char": 2688,
+      "content": "ırken biryle çıkmasını yoksa hiçbir kızın onunla konuşmayacağını söylemiştir. Chloe Kaylee'yle iyi anlaşır. Ayrıca okul değiştireceği zaman Tess'e onu özleyeceğini söyledi. Chloe sadece birkaç kez göründü ama Allie ve Tess'in yakın arkadaşı.",
+      "char_count": 241,
+      "token_estimate": 60
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tess Foster kaç yaşındadır?",
+        "answer": "14 yaşındadır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kanada yapımı 'Oğlanlarla Hayat' sitcom dizisinin adı, ana konusu ve karakter kadrosu arasında nasıl bir bağlantı bulunmaktadır?",
+        "answer": "Oğlanlarla Hayat sitcom dizisinin adı, ana karakter Tess Foster'ın yaşam durumunu doğrudan yansıtmaktadır. Dizinin konusunda belirtildiği üzere Tess, dul babası ve üç erkek kardeşi ile yaşamaktadır ve hayatı bu dört farklı erkek üzerinden keşfetmektedir. Ana karakterler bölümünde de Tess'in erkeklerle dolu bir evdeki tek kız olduğu, abileri Gabe ve Sam, en küçük kardeşi Spencer ile babası Jack Foster'ın ana erkek karakterler olduğu detaylandırılmaktadır. Böylece dizinin adı, konusu ve karakter kadrosu, Tess'in erkek ağırlıklı bir evde yaşadığı gerçeği etrafında bütünleşmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

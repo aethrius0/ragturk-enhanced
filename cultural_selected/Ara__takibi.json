@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "aratakibi_d766da30",
+    "title": "Araç takibi",
+    "url": "https://tr.wikipedia.org/wiki/Ara%C3%A7_takibi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:52.120565",
+    "content": "Araç takip aracın yerini harita üzerinde gösterme işlemidir. Yer belirlemede GPS uyduları kullanılır. GPS uydularının kullanılmasından dolayı Uydudan Araç Takibi olarak da bilinir. 4 temel çeşidi vardır. GSM tabanlı sistemler, Uydu tabanlı sistemler, kara kutu sistemler ve hibrid sistemler. Telsizle takip de kullanılan yöntemler arasındadır, ama bu yöntem fazla yaygınlaşmamıştır. == GSM tabanlı araç takibi == GSM desteği olan yerlerde kullanılabilir. Ancak çöl, dağ, deniz gibi GSM hizmeti olmayan yerlerde araç online takip edilemez. GSM tabanlı araç takibi için üç farklı yöntem kullanılır: SMS DATA GPRS == Uydu tabanlı sistemler == Uydu tabanlı sistemler, GSM çekmeyen yerler için idealdir ancak maliyeti pahalıdır. Uydu tabanlı sistemlerde genellikle SMS kullanılır. DATA hattı da kullanılabilir. == Kara kutu sistemler == Online alışveriş yapılmaz ve araçlar online takip edilmez. Ancak araçtaki cihaza kayıt yapılır. Araç merkeze gelince bilgiler alınır ve daha sonra harita üzerinde gidilen yerler görülür.. == Hibrid sistemler == Diğer 3 sistemin çeşitli varyasyonlarının beraber kullanımıyla oluşur. == Araç takip izleme yöntemleri == GPS uyduları sayesinde araçlar bilgisayar veya mobil iletişim cihazları ile takip edebilir. Araç takip sistemleri ile araçların hızları, izlemiş oldukları güzergâh, duraklama yaptıkları yerler ve süreler sayısal haritalar üzerinde izlenebilir. Araçların günlük kullanımı hakkında detaylı raporlar alınabilir. Araçlara tesis edilen Mobil Veri Cihazları, GPS uydularından aldıkları konum bilgilerini ve bağlı sensörlerden gelen sıcaklık ve benzeri telemetrik bilgileri GSM/GPRS şebekesi üzerinden Kontrol ve İletişim Merkezi'ne aktarırlar. Gelen bilgiler özel yazılımlar sayesinde derlenir ve sunucular üzerindeki veri bankasına kaydedilir.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 238,
+      "char_count": 1787,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.885414",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 383,
+      "content": "Araç takip aracın yerini harita üzerinde gösterme işlemidir. Yer belirlemede GPS uyduları kullanılır. GPS uydularının kullanılmasından dolayı Uydudan Araç Takibi olarak da bilinir. 4 temel çeşidi vardır. GSM tabanlı sistemler, Uydu tabanlı sistemler, kara kutu sistemler ve hibrid sistemler. Telsizle takip de kullanılan yöntemler arasındadır, ama bu yöntem fazla yaygınlaşmamıştır.",
+      "char_count": 382,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0001",
+      "section": "== GSM tabanlı araç takibi ==",
+      "heading_path": "== GSM tabanlı araç takibi ==",
+      "start_char": 383,
+      "end_char": 611,
+      "content": "== GSM tabanlı araç takibi == GSM desteği olan yerlerde kullanılabilir. Ancak çöl, dağ, deniz gibi GSM hizmeti olmayan yerlerde araç online takip edilemez. GSM tabanlı araç takibi için üç farklı yöntem kullanılır: SMS DATA GPRS",
+      "char_count": 227,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0002",
+      "section": "== Uydu tabanlı sistemler ==",
+      "heading_path": "== Uydu tabanlı sistemler ==",
+      "start_char": 611,
+      "end_char": 806,
+      "content": "== Uydu tabanlı sistemler == Uydu tabanlı sistemler, GSM çekmeyen yerler için idealdir ancak maliyeti pahalıdır. Uydu tabanlı sistemlerde genellikle SMS kullanılır. DATA hattı da kullanılabilir.",
+      "char_count": 194,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0003",
+      "section": "== Kara kutu sistemler ==",
+      "heading_path": "== Kara kutu sistemler ==",
+      "start_char": 806,
+      "end_char": 1020,
+      "content": "== Kara kutu sistemler == Online alışveriş yapılmaz ve araçlar online takip edilmez. Ancak araçtaki cihaza kayıt yapılır. Araç merkeze gelince bilgiler alınır ve daha sonra harita üzerinde gidilen yerler görülür..",
+      "char_count": 213,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0004",
+      "section": "== Hibrid sistemler ==",
+      "heading_path": "== Hibrid sistemler ==",
+      "start_char": 1020,
+      "end_char": 1114,
+      "content": "== Hibrid sistemler == Diğer 3 sistemin çeşitli varyasyonlarının beraber kullanımıyla oluşur.",
+      "char_count": 93,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0005",
+      "section": "== Araç takip izleme yöntemleri ==",
+      "heading_path": "== Araç takip izleme yöntemleri ==",
+      "start_char": 1114,
+      "end_char": 1787,
+      "content": "== Araç takip izleme yöntemleri == GPS uyduları sayesinde araçlar bilgisayar veya mobil iletişim cihazları ile takip edebilir. Araç takip sistemleri ile araçların hızları, izlemiş oldukları güzergâh, duraklama yaptıkları yerler ve süreler sayısal haritalar üzerinde izlenebilir. Araçların günlük kullanımı hakkında detaylı raporlar alınabilir. Araçlara tesis edilen Mobil Veri Cihazları, GPS uydularından aldıkları konum bilgilerini ve bağlı sensörlerden gelen sıcaklık ve benzeri telemetrik bilgileri GSM/GPRS şebekesi üzerinden Kontrol ve İletişim Merkezi'ne aktarırlar. Gelen bilgiler özel yazılımlar sayesinde derlenir ve sunucular üzerindeki veri bankasına kaydedilir.",
+      "char_count": 673,
+      "token_estimate": 168
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mobil Veri Cihazları, GPS uydularından aldıkları konum bilgileri ve bağlı sensörlerden gelen telemetrik bilgileri hangi şebeke üzerinden Kontrol ve İletişim Merkezi'ne aktarır?",
+        "answer": "GSM/GPRS şebekesi üzerinden.",
+        "related_chunk_ids": [
+          "c0005"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Genel araç takip sistemlerinin yer belirlemede GPS uydularını kullanmasına rağmen, GSM tabanlı araç takibinin operasyonel kısıtlamaları nelerdir?",
+        "answer": "Genel araç takip sistemleri yer belirlemede GPS uydularını kullanırken, GSM tabanlı araç takibi yalnızca GSM desteği olan bölgelerde kullanılabilir. Bu nedenle, çöl, dağ ve deniz gibi GSM hizmetinin bulunmadığı yerlerde araç online olarak takip edilemez.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

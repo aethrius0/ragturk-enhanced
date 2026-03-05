@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "hakanylmaz_a8e0e5d3",
+    "title": "Hakan Yılmaz",
+    "url": "https://tr.wikipedia.org/wiki/Hakan_Y%C4%B1lmaz",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:59.732518",
+    "content": "Hakan Yılmaz (d. 6 Aralık 1969, Rize), Türk oyuncu ve komedyen. == Hayatı == Aslen Çayeli’lidir. İlk sahne deneyimini ilkokul 2. sınıfta Cimri ile Manav piyesinde yaşadı. Okul yıllarında Üstün Gürtuna'nın hocalığında folklor çalışmalarında bulundu. Lise yıllarında Çetin Cengiz'den modern dans dersleri aldı ve aynı salonda 3 yıl dans dersleri verdi. Güzel sanatlar tiyatro bölümünü kazanamadı. Amatör tiyatro grupları ile okullarda çocuk oyunlarında oynadı ve askere gitti. Askerde 15 ay fotoğrafçılık ve animasyon ekibinde görev alıp gösteriler yaptı. Askerden sonra Antalya'ya yerleşti, orada Çizgi Tiyatrosu'nda 2 yıl oynadı ve televizyonda Çizgi Show adlı programda yer aldı. İstanbul'a dönüp Tevfik Gelenbe’nin tiyatro kursuna katılıp ders aldı. Bir arkadaşı ile Star TV için skeç programı hazırladı. Ancak yayımlanacağı akşam Körfez Savaşı başladı ve program bugüne kadar hâlen yayımlanmadı. Oyunculuğa ara verip grafikerlik yaptı. 1994 yılında Boran Kaya'nın sunduğu İner misin? Çıkar mısın? adlı yarışma programında kendi yazdığı skeçlerde oyunculuk yaptı. 1995-1996 yıllarında Okan Bayülgen’in Televizyon Çocuğu adlı show programında Şafak Sezer, Erkan Taşdöğen ve Zafer Algöz ile beraber skeçlerde oyunculuk yaptı. Bu dönem ilk kez reklam filmlerinde de oynadı. 1997 yılında Yangın Ayşe adlı dizide Dr. Muzo’yu oynadı. 1998 yılında 120 bölüm Büyük Küçük Demeden adlı çocuk yarışma programını sundu. 1999 yılında yayımlanmaya başlayan ve 2004 yılında sona eren Ayrılsak da Beraberiz adlı dizide Teoman karakterini canlandırdı ve 490 bölüm oynadı. 2004 yılında Uy Başuma Gelenler adlı dizide oynadı. 2004-2005 sezonunda Sevgili Karım adlı tiyatro oyunu ile İstanbul ve Anadolu'da 75 oyun oynadı. İki çocuk babası olup 2011 yılında ilk eşinden boşanmıştır. Avrupa Yakası adlı dizide Osman Koçarslanlı karakterini canlandırdı. Daha sonra ise Yahşi Cazibe adlı dizide Kemal Kükreyen karakterini oynadı. == Filmografisi == == Kaynakça == == Dış bağlantılar == IMDb'de Hakan Yılmaz Diziler.com'da Hakan Yılmaz 2 Eylül 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 293,
+      "char_count": 2074,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.711561",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 64,
+      "content": "Hakan Yılmaz (d. 6 Aralık 1969, Rize), Türk oyuncu ve komedyen.",
+      "char_count": 63,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 64,
+      "end_char": 1064,
+      "content": "== Hayatı == Aslen Çayeli’lidir. İlk sahne deneyimini ilkokul 2. sınıfta Cimri ile Manav piyesinde yaşadı. Okul yıllarında Üstün Gürtuna'nın hocalığında folklor çalışmalarında bulundu. Lise yıllarında Çetin Cengiz'den modern dans dersleri aldı ve aynı salonda 3 yıl dans dersleri verdi. Güzel sanatlar tiyatro bölümünü kazanamadı. Amatör tiyatro grupları ile okullarda çocuk oyunlarında oynadı ve askere gitti. Askerde 15 ay fotoğrafçılık ve animasyon ekibinde görev alıp gösteriler yaptı. Askerden sonra Antalya'ya yerleşti, orada Çizgi Tiyatrosu'nda 2 yıl oynadı ve televizyonda Çizgi Show adlı programda yer aldı. İstanbul'a dönüp Tevfik Gelenbe’nin tiyatro kursuna katılıp ders aldı. Bir arkadaşı ile Star TV için skeç programı hazırladı. Ancak yayımlanacağı akşam Körfez Savaşı başladı ve program bugüne kadar hâlen yayımlanmadı. Oyunculuğa ara verip grafikerlik yaptı. 1994 yılında Boran Kaya'nın sunduğu İner misin? Çıkar mısın? adlı yarışma programında kendi yazdığı skeçlerde oyunculuk yaptı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 864,
+      "end_char": 1864,
+      "content": "m bugüne kadar hâlen yayımlanmadı. Oyunculuğa ara verip grafikerlik yaptı. 1994 yılında Boran Kaya'nın sunduğu İner misin? Çıkar mısın? adlı yarışma programında kendi yazdığı skeçlerde oyunculuk yaptı. 1995-1996 yıllarında Okan Bayülgen’in Televizyon Çocuğu adlı show programında Şafak Sezer, Erkan Taşdöğen ve Zafer Algöz ile beraber skeçlerde oyunculuk yaptı. Bu dönem ilk kez reklam filmlerinde de oynadı. 1997 yılında Yangın Ayşe adlı dizide Dr. Muzo’yu oynadı. 1998 yılında 120 bölüm Büyük Küçük Demeden adlı çocuk yarışma programını sundu. 1999 yılında yayımlanmaya başlayan ve 2004 yılında sona eren Ayrılsak da Beraberiz adlı dizide Teoman karakterini canlandırdı ve 490 bölüm oynadı. 2004 yılında Uy Başuma Gelenler adlı dizide oynadı. 2004-2005 sezonunda Sevgili Karım adlı tiyatro oyunu ile İstanbul ve Anadolu'da 75 oyun oynadı. İki çocuk babası olup 2011 yılında ilk eşinden boşanmıştır. Avrupa Yakası adlı dizide Osman Koçarslanlı karakterini canlandırdı. Daha sonra ise Yahşi Cazibe ad",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1664,
+      "end_char": 1908,
+      "content": "e İstanbul ve Anadolu'da 75 oyun oynadı. İki çocuk babası olup 2011 yılında ilk eşinden boşanmıştır. Avrupa Yakası adlı dizide Osman Koçarslanlı karakterini canlandırdı. Daha sonra ise Yahşi Cazibe adlı dizide Kemal Kükreyen karakterini oynadı.",
+      "char_count": 244,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1943,
+      "end_char": 2074,
+      "content": "== Dış bağlantılar == IMDb'de Hakan Yılmaz Diziler.com'da Hakan Yılmaz 2 Eylül 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 131,
+      "token_estimate": 32
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Star TV için hazırlanan skeç programının yayımlanmamasının sebebi nedir?",
+        "answer": "Yayımlanacağı akşam Körfez Savaşı başladığı için program yayımlanmadı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hakan Yılmaz'ın oyuncu ve komedyen kariyerine giden süreçte yaşadığı farklı deneyimler ve üstlendiği önemli roller nelerdir?",
+        "answer": "Hakan Yılmaz, oyunculuk kariyerine ilkokulda Cimri ile Manav piyesiyle başlamış, okul yıllarında folklor ve modern dansla ilgilenmiştir. Güzel sanatlar tiyatro bölümünü kazanamamasına rağmen amatör tiyatro gruplarında çocuk oyunlarında oynamış, askerdeyken fotoğrafçılık ve animasyon ekibinde görev almıştır. Askerlik sonrası Antalya'da Çizgi Tiyatrosu'nda ve Çizgi Show'da yer almış, İstanbul'a döndüğünde Tevfik Gelenbe'nin tiyatro kursuna katılmıştır. Körfez Savaşı nedeniyle yayımlanamayan bir skeç programı hazırladıktan sonra oyunculuğa ara verip grafikerlik yapmıştır. Oyunculuğa 1994 yılında Boran Kaya'nın sunduğu İner misin? Çıkar mısın? adlı yarışma programında kendi yazdığı skeçlerle geri dönmüştür. 1995-1996 yıllarında Okan Bayülgen’in Televizyon Çocuğu adlı programında skeçlerde oynamış ve ilk reklam filmlerinde yer almıştır. Daha sonra Yangın Ayşe dizisinde Dr. Muzo'yu canlandırmış, Büyük Küçük Demeden adlı çocuk yarışma programını sunmuş, Ayrılsak da Beraberiz dizisinde Teoman karakterini canlandırmış, Uy Başuma Gelenler dizisinde ve Sevgili Karım adlı tiyatro oyununda rol almıştır. Ayrıca Avrupa Yakası adlı dizide Osman Koçarslanlı karakterini canlandırmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

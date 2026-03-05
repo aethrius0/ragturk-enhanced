@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "roopkanwar_31530116",
+    "title": "Roop Kanwar",
+    "url": "https://tr.wikipedia.org/wiki/Roop_Kanwar",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:26.501356",
+    "content": "Roop Kanwar (1969-1987), 4 Eylül 1987’de Hindistan’ın Racastan eyaletine bağlı Derola köyünde 18 yaşındayken, sati töreninde yakılarak öldürülen Hint bir kadındır. Kocası Maal Singh Shekhawat, yaşadığı sağlık sorunları yüzünden 24 yaşındayken ölmüştür. Sadece altı ay evli kalan çiftin çocukları da yoktu. Roop Kanwar yakıldıktan sonra kutsallaştırılmış ve “sati anne” olarak adlandırılmıştır. Yaşamış olduğu Derola köyüne de kendisi adına bir tapınak inşa ettirilerek, köy kutsal alan sayılmıştır. == Olay == Olay, polis ve medya tarafından araştırılmış fakat araştırmalar sonucunda yakılmayı kendisinin isteyip istemediği konusunda çelişkili bilgiler ortaya çıkmıştır. Derola sakinlerinden bazıları, Roop Kanwar’ın kendi isteğiyle bunu yaptığını, bir mucize eseri yüreğinden çıkan ateşle odunların alev aldığını ve sati anneye dönüştüğünü söylerken, bazıları ise gelinin bunun için gönüllü olmadığını, kurtulmasına imkan verilmeyerek, zorla yakıldığını söylemişlerdir. Polis araştırması sonunda odunları ateşe veren kişinin Roop Kanwar’ın ölen kocasının, 15 yaşındaki erkek kardeşi olduğu tespit edildi. Roop Kanwar’ın ailesinin sorgulaması sonucunda ise ailenin, kızlarının yakılmasını ve damatlarının ölümünü gazetelerden öğrendikleri anlaşıldı. == Tepkiler ve akıbeti == Olay ortaya çıkıp yayıldıktan sonra Hindistan’da ve uluslararası kamuoyunda tepkilere yol açtı. İlk resmi kınama olaydan 11 gün sonra eyalet başkanı tarafından yapıldı. Hindistan parlamentosu ana muhalefet partilerinden Janata Partisi ise Roop Kanwar’ı “kocası için hayatını feda eden, iffetli, sadık Hint kadını” olarak nitelendirmiş ve olayı meşru saymıştır. Tepkilerin artması üzerine Hindistan’da ceza hukuku değiştirilerek, sati uygulamasına zorlamak, yardım etmek, övmek de suç olarak sayıldı. Tepkiler sonucunda Hindistan hükûmeti “Satiyi Önleme Komisyonu” kurdu ve ilk defa bir \"Satiyi Önleme Kanunu\" çıkartıldı. İlk soruşturmada cinayetle suçlanan 45 kişi beraat etmişti fakat tepkilerin büyümesi üzerine ikinci bir soruşturma daha başlatıldı. İkinci soruşturma sonucunda, aralarında politikacıların da bulunduğu birçok kişi satiyi övme sebebiyle tutuklandı. 31 Ocak 2014’te ise Hindistan temyiz mahkemesi 11 mahkûmiyet kararını bozdu. Olayın ardından ülke genelinde bazı protestolar ve toplanmalar da gerçekleştirilmiştir. Roop Kanwar’ın yakılmasından 13 gün sonra toplanan 300.000 kişi bu olayı kutsal sayarak anma merasiminde bulundular. Olayı protesto etmek için yakın eyaletlerden birinde düzenlenen gösteriye 350 kişi katılmıştır. Bu protestodan sonra satiyi övmek, desteklemek ve savunmak için yapılan gösteriye ise 70.000 kişi katıldı. Günümüzde Roop Kanwar’ın kutsal sayılan evine ve köyüne tur gezileri düzenlenip, ziyaret edilmeye devam edilmektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 354,
+      "char_count": 2761,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.592716",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 499,
+      "content": "Roop Kanwar (1969-1987), 4 Eylül 1987’de Hindistan’ın Racastan eyaletine bağlı Derola köyünde 18 yaşındayken, sati töreninde yakılarak öldürülen Hint bir kadındır. Kocası Maal Singh Shekhawat, yaşadığı sağlık sorunları yüzünden 24 yaşındayken ölmüştür. Sadece altı ay evli kalan çiftin çocukları da yoktu. Roop Kanwar yakıldıktan sonra kutsallaştırılmış ve “sati anne” olarak adlandırılmıştır. Yaşamış olduğu Derola köyüne de kendisi adına bir tapınak inşa ettirilerek, köy kutsal alan sayılmıştır.",
+      "char_count": 498,
+      "token_estimate": 124
+    },
+    {
+      "id": "c0001",
+      "section": "== Olay ==",
+      "heading_path": "== Olay ==",
+      "start_char": 499,
+      "end_char": 1250,
+      "content": "== Olay == Olay, polis ve medya tarafından araştırılmış fakat araştırmalar sonucunda yakılmayı kendisinin isteyip istemediği konusunda çelişkili bilgiler ortaya çıkmıştır. Derola sakinlerinden bazıları, Roop Kanwar’ın kendi isteğiyle bunu yaptığını, bir mucize eseri yüreğinden çıkan ateşle odunların alev aldığını ve sati anneye dönüştüğünü söylerken, bazıları ise gelinin bunun için gönüllü olmadığını, kurtulmasına imkan verilmeyerek, zorla yakıldığını söylemişlerdir. Polis araştırması sonunda odunları ateşe veren kişinin Roop Kanwar’ın ölen kocasının, 15 yaşındaki erkek kardeşi olduğu tespit edildi. Roop Kanwar’ın ailesinin sorgulaması sonucunda ise ailenin, kızlarının yakılmasını ve damatlarının ölümünü gazetelerden öğrendikleri anlaşıldı.",
+      "char_count": 750,
+      "token_estimate": 187
+    },
+    {
+      "id": "c0002",
+      "section": "== Tepkiler ve akıbeti ==",
+      "heading_path": "== Tepkiler ve akıbeti ==",
+      "start_char": 1250,
+      "end_char": 2250,
+      "content": "== Tepkiler ve akıbeti == Olay ortaya çıkıp yayıldıktan sonra Hindistan’da ve uluslararası kamuoyunda tepkilere yol açtı. İlk resmi kınama olaydan 11 gün sonra eyalet başkanı tarafından yapıldı. Hindistan parlamentosu ana muhalefet partilerinden Janata Partisi ise Roop Kanwar’ı “kocası için hayatını feda eden, iffetli, sadık Hint kadını” olarak nitelendirmiş ve olayı meşru saymıştır. Tepkilerin artması üzerine Hindistan’da ceza hukuku değiştirilerek, sati uygulamasına zorlamak, yardım etmek, övmek de suç olarak sayıldı. Tepkiler sonucunda Hindistan hükûmeti “Satiyi Önleme Komisyonu” kurdu ve ilk defa bir \"Satiyi Önleme Kanunu\" çıkartıldı. İlk soruşturmada cinayetle suçlanan 45 kişi beraat etmişti fakat tepkilerin büyümesi üzerine ikinci bir soruşturma daha başlatıldı. İkinci soruşturma sonucunda, aralarında politikacıların da bulunduğu birçok kişi satiyi övme sebebiyle tutuklandı. 31 Ocak 2014’te ise Hindistan temyiz mahkemesi 11 mahkûmiyet kararını bozdu. Olayın ardından ülke genelind",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tepkiler ve akıbeti ==",
+      "heading_path": "== Tepkiler ve akıbeti ==",
+      "start_char": 2050,
+      "end_char": 2746,
+      "content": "ucunda, aralarında politikacıların da bulunduğu birçok kişi satiyi övme sebebiyle tutuklandı. 31 Ocak 2014’te ise Hindistan temyiz mahkemesi 11 mahkûmiyet kararını bozdu. Olayın ardından ülke genelinde bazı protestolar ve toplanmalar da gerçekleştirilmiştir. Roop Kanwar’ın yakılmasından 13 gün sonra toplanan 300.000 kişi bu olayı kutsal sayarak anma merasiminde bulundular. Olayı protesto etmek için yakın eyaletlerden birinde düzenlenen gösteriye 350 kişi katılmıştır. Bu protestodan sonra satiyi övmek, desteklemek ve savunmak için yapılan gösteriye ise 70.000 kişi katıldı. Günümüzde Roop Kanwar’ın kutsal sayılan evine ve köyüne tur gezileri düzenlenip, ziyaret edilmeye devam edilmektedir.",
+      "char_count": 696,
+      "token_estimate": 174
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Olay ortaya çıktıktan kaç gün sonra eyalet başkanı tarafından ilk resmi kınama yapıldı?",
+        "answer": "11 gün sonra.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Roop Kanwar'ın sati geleneğiyle ölümüyle ilgili çelişkili bilgiler ve olayın yerel kutsallaştırılmasına rağmen ulusal ve uluslararası düzeyde ortaya çıkan tepkiler, Hindistan'daki yasalarda ve kamuoyunda hangi önemli değişikliklere yol açmıştır?",
+        "answer": "Roop Kanwar'ın 18 yaşında sati töreninde yakılarak ölmesi, olay sonrasında yerel halk tarafından 'sati anne' olarak kutsallaştırılıp adına tapınak inşa edilmesine rağmen, ulusal ve uluslararası kamuoyunda büyük tepkilere yol açmıştır. Olayın yakılmanın gönüllü olup olmadığına dair çelişkili bilgiler içermesi (polis araştırmasında odunları yakanın 15 yaşındaki kayınbiraderi olduğu tespit edilmiştir) bu tepkileri daha da artırmıştır. Bu tepkiler sonucunda Hindistan'da ceza hukuku değiştirilerek sati uygulamasına zorlamak, yardım etmek veya övmek suç sayılmıştır. Ayrıca, 'Satiyi Önleme Komisyonu' kurulmuş ve ilk defa bir 'Satiyi Önleme Kanunu' çıkarılmıştır. Başlangıçta beraat eden cinayetle suçlanan 45 kişinin ardından, tepkilerin büyümesiyle ikinci bir soruşturma başlatılarak, aralarında politikacıların da bulunduğu birçok kişi satiyi övme sebebiyle tutuklanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

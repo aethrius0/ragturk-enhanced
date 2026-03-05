@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "elenaledda_580d1b6d",
+    "title": "Elena Ledda",
+    "url": "https://tr.wikipedia.org/wiki/Elena_Ledda",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:31.412345",
+    "content": "Elena Ledda, 17 Mayıs 1959 tarihinde Selargius'ta doğan Sardinyalı sanatçıdır. == Erken dönemi == Cagliari yakınlarında doğan Ledda, obua ve şan üzerine konservatuvar eğitimi aldı. == Kariyeri == Soprano sesi, kariyerinin başlarında icra ettiği opera için uygundu, ancak memleketi Sarduiya'nın halk şarkılarından etkilendi ve sonunda önceliğini halk şarkılarını icra etmekten yana kullandı. 1970'lerin sonlarında Cooperativa Teatro di Sardegna ile çalıştı ve uluslararası turnelere çıktı. Sardinyalı film yönetmeni Gianfranco Cabiddu tarafından canlı müzik/sinematik karma projesi Sonos de Memoria'nın assolisti olarak seçildi. Sonos, Paolo Fresu gibi diğer Sardinyalı müzisyenlerle birlikte dünya turuna çıktı. 2006'da Ledda, uzun süredir birlikte çalıştığı Mauro Palmas'ın yazıp yapımcılığını üstlendiği ve RAI direktörü Rodolfo Roberti'nin yönetiminde 18 müzisyeni bir araya getiren Visioni di Sardegna'ya katıldı. Yunan şarkıcı Savina Yannatou da projede yer almak üzere davet edildi. Ledda'nın birlikte çalıştıkları arasında Lester Bowie, İsrailli şarkıcı Noa, Mallorcalı Maria del Mar Bonet (Mallorca), Paolo Fresu, Andreas Vollenweider, Don Cherry ve Nana Vasconcelos bulunmaktadır. 2005'te Elena, Amargura adlı albümü için Napolili kemancı Lino Cannavacciuolo ile birlikte çalıştı. BBC'den Andy Kershaw, Ledda hakkında şunları söyledi: \"Sardinya müziği hakkında bir program yapmak için güneye bir gezi planladım, öncesinde Elena'nın şarkılarını dinledim. Sardinya'ya gittik ve çok etkilendim. Elena ve grubu, görünürde neredeyse hiçbiri 'geleneksel Sardinya' enstrümanı olmayan tüm ana akım enstrümanları kullanarak Sardinya'da geleneksel müzik yapıyorlardı. Gerçekten eşsiz ve canlandırıcı bir ses elde etmişlerdi. Müziği Sardinya geleneğine bağlı, ancak çok moderndi.\" Çalışma tamamlayamadan ölen Andrea Parodi ile 2007 yılında bir kayıt yapmıştır ve Ledda, Parodi'nin cenazesinde şarkı söylemiştir. == Diskografi == Ammentos (1979) Arrosas mı (1984) sonlar (1989) Incanti (1993) Maremannu (2000) Amargura (2005) Lantia (2018) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 265,
+      "char_count": 2051,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.419387",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 79,
+      "content": "Elena Ledda, 17 Mayıs 1959 tarihinde Selargius'ta doğan Sardinyalı sanatçıdır.",
+      "char_count": 78,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0001",
+      "section": "== Erken dönemi ==",
+      "heading_path": "== Erken dönemi ==",
+      "start_char": 79,
+      "end_char": 181,
+      "content": "== Erken dönemi == Cagliari yakınlarında doğan Ledda, obua ve şan üzerine konservatuvar eğitimi aldı.",
+      "char_count": 101,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 181,
+      "end_char": 1181,
+      "content": "== Kariyeri == Soprano sesi, kariyerinin başlarında icra ettiği opera için uygundu, ancak memleketi Sarduiya'nın halk şarkılarından etkilendi ve sonunda önceliğini halk şarkılarını icra etmekten yana kullandı. 1970'lerin sonlarında Cooperativa Teatro di Sardegna ile çalıştı ve uluslararası turnelere çıktı. Sardinyalı film yönetmeni Gianfranco Cabiddu tarafından canlı müzik/sinematik karma projesi Sonos de Memoria'nın assolisti olarak seçildi. Sonos, Paolo Fresu gibi diğer Sardinyalı müzisyenlerle birlikte dünya turuna çıktı. 2006'da Ledda, uzun süredir birlikte çalıştığı Mauro Palmas'ın yazıp yapımcılığını üstlendiği ve RAI direktörü Rodolfo Roberti'nin yönetiminde 18 müzisyeni bir araya getiren Visioni di Sardegna'ya katıldı. Yunan şarkıcı Savina Yannatou da projede yer almak üzere davet edildi. Ledda'nın birlikte çalıştıkları arasında Lester Bowie, İsrailli şarkıcı Noa, Mallorcalı Maria del Mar Bonet (Mallorca), Paolo Fresu, Andreas Vollenweider, Don Cherry ve Nana Vasconcelos bulunm",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 981,
+      "end_char": 1909,
+      "content": "edildi. Ledda'nın birlikte çalıştıkları arasında Lester Bowie, İsrailli şarkıcı Noa, Mallorcalı Maria del Mar Bonet (Mallorca), Paolo Fresu, Andreas Vollenweider, Don Cherry ve Nana Vasconcelos bulunmaktadır. 2005'te Elena, Amargura adlı albümü için Napolili kemancı Lino Cannavacciuolo ile birlikte çalıştı. BBC'den Andy Kershaw, Ledda hakkında şunları söyledi: \"Sardinya müziği hakkında bir program yapmak için güneye bir gezi planladım, öncesinde Elena'nın şarkılarını dinledim. Sardinya'ya gittik ve çok etkilendim. Elena ve grubu, görünürde neredeyse hiçbiri 'geleneksel Sardinya' enstrümanı olmayan tüm ana akım enstrümanları kullanarak Sardinya'da geleneksel müzik yapıyorlardı. Gerçekten eşsiz ve canlandırıcı bir ses elde etmişlerdi. Müziği Sardinya geleneğine bağlı, ancak çok moderndi.\" Çalışma tamamlayamadan ölen Andrea Parodi ile 2007 yılında bir kayıt yapmıştır ve Ledda, Parodi'nin cenazesinde şarkı söylemiştir.",
+      "char_count": 928,
+      "token_estimate": 232
+    },
+    {
+      "id": "c0004",
+      "section": "== Diskografi ==",
+      "heading_path": "== Diskografi ==",
+      "start_char": 1910,
+      "end_char": 2037,
+      "content": "== Diskografi == Ammentos (1979) Arrosas mı (1984) sonlar (1989) Incanti (1993) Maremannu (2000) Amargura (2005) Lantia (2018)",
+      "char_count": 126,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ledda, uzun süredir birlikte çalıştığı Mauro Palmas'ın yazıp yapımcılığını üstlendiği Visioni di Sardegna projesine hangi yılda katıldı?",
+        "answer": "2006",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Elena Ledda'nın aldığı eğitim ve Sardunya kökeni, kariyerindeki müzikal önceliklerini nasıl etkilemiştir?",
+        "answer": "Elena Ledda'nın konservatuvardaki şan eğitimi ona opera için uygun bir soprano sesi kazandırmış olsa da, Sardunyalı bir sanatçı olması ve memleketi Sardunya'nın halk şarkılarından etkilenmesi, kariyerinde opera yerine halk şarkılarını icra etmeye öncelik vermesine yol açmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

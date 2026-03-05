@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "akvemerhamet_fd0cb61a",
+    "title": "Aşk ve Merhamet",
+    "url": "https://tr.wikipedia.org/wiki/A%C5%9Fk_ve_Merhamet",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:17.546632",
+    "content": "Aşk ve Merhamet, Bill Pohlad tarafından yönetilen, The Beach Boys grubunun ortak kurucusu, müzisyen-şarkı yazarı Brian Wilson'ın yaşam öyküsünü anlatan 2014 yapımı Amerikan biyografik dram filmi. Filmin ismi Wilson'ın 1988'deki Love and Mercy adlı şarkısından türemiştir. Film Wilson'ın hayatının iki önemli dönemini anlatmaktadır: 1960'lar ve 1980'ler. Paul Dano ve John Cusack sırayla Wilson'ın genç ve orta yaştaki halini canlandırırken, Elizabeth Banks, Wilson'ın ikinci ve şimdiki eşi aynı zamanda menajeri Melinda Ledbetter ve Paul Giamatti, Wilson'ın psikoterapisti Dr. Eugene Landy olarak filmde yer alıyor. Film 14 Ağustos 2015 tarihinde gösterime girdi. == Konu == 1960'larda şarkı yazarı ve kayıtçı genç Brian Wilson (Paul Dano) The Beach Boys'la yakaladığı üstün başarıyla kendini bulur. Geçirdiği panik atak hastalığının ardından konser turnelerinden çekilir ve stüdyoda ''dünyada yapılmış olan en muhteşem albümü'' yapma girişiminde bulunur. Bu arada kafasının içindeki karşı konulmaz seslerle de başa etmesi gerçeğini yavaş yavaş anlar. Daha sonra, 1980'li yıllarda, orta yaşlı Wilson (John Cusack) ağzı bozuk terapisti Dr. Eugene Landy'nin (Paul Giamatti) farmakolojik ve yasal esareti altında kendini kırık, kafası karışık bir adam olarak göstermektedir. Wilson, Cadillac satıcısı Melinda Ledbetter (Elizabeth Banks) ile tanıştıktan sonra Melinda onu Landy'nin hilelerinden kurtarmaya karar verir. == Oyuncular == John Cusack, Brian–Gelecekteki hali Paul Dano, Brian–Geçmişteki hali Elizabeth Banks, Melinda Ledbetter Paul Giamatti, Dr. Eugene Landy Jake Abel, Mike Love == Eleştirel görüşler == Aşk ve Merhamet eleştirmenlerden oldukça olumlu görüşler aldı. Metacritic'de 40 eleştirmenin yorumundan 36'sı olumlu yönde oldu ve film ortalama 80 puan aldı. Rotten Tomatoes'da 172 yorumdan %90'lık bir başarı elde etti ve 10 üzerinden 7.7 puan aldı. === Wilson'ın düşünceleri === Wilson filmin ''çok gerçekçi'' olduğunu hissetti. Dano'nun Cusack'a göre betimlemede daha başarılı olduğunu düşündü ve her oyunculuğunun oyunculuğunu beğendiğini söyledi. ''Aslında ben kişiliklerin gerçekten orada olduğuna inandım. Tıpkı Doktor Landy'i oynayan adam gibi, çok dosdoğruydu... bu kesinlikle bunu korkuttu''. == Kaynakça == == Dış bağlantılar == Box Office Mojo'da Love & Mercy IMDb'de Aşk ve Merhamet Metacritic'te Love & Mercy Rotten Tomatoes'ta Love & Mercy",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 325,
+      "char_count": 2367,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.561492",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 664,
+      "content": "Aşk ve Merhamet, Bill Pohlad tarafından yönetilen, The Beach Boys grubunun ortak kurucusu, müzisyen-şarkı yazarı Brian Wilson'ın yaşam öyküsünü anlatan 2014 yapımı Amerikan biyografik dram filmi. Filmin ismi Wilson'ın 1988'deki Love and Mercy adlı şarkısından türemiştir. Film Wilson'ın hayatının iki önemli dönemini anlatmaktadır: 1960'lar ve 1980'ler. Paul Dano ve John Cusack sırayla Wilson'ın genç ve orta yaştaki halini canlandırırken, Elizabeth Banks, Wilson'ın ikinci ve şimdiki eşi aynı zamanda menajeri Melinda Ledbetter ve Paul Giamatti, Wilson'ın psikoterapisti Dr. Eugene Landy olarak filmde yer alıyor. Film 14 Ağustos 2015 tarihinde gösterime girdi.",
+      "char_count": 663,
+      "token_estimate": 165
+    },
+    {
+      "id": "c0001",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 664,
+      "end_char": 1415,
+      "content": "== Konu == 1960'larda şarkı yazarı ve kayıtçı genç Brian Wilson (Paul Dano) The Beach Boys'la yakaladığı üstün başarıyla kendini bulur. Geçirdiği panik atak hastalığının ardından konser turnelerinden çekilir ve stüdyoda ''dünyada yapılmış olan en muhteşem albümü'' yapma girişiminde bulunur. Bu arada kafasının içindeki karşı konulmaz seslerle de başa etmesi gerçeğini yavaş yavaş anlar. Daha sonra, 1980'li yıllarda, orta yaşlı Wilson (John Cusack) ağzı bozuk terapisti Dr. Eugene Landy'nin (Paul Giamatti) farmakolojik ve yasal esareti altında kendini kırık, kafası karışık bir adam olarak göstermektedir. Wilson, Cadillac satıcısı Melinda Ledbetter (Elizabeth Banks) ile tanıştıktan sonra Melinda onu Landy'nin hilelerinden kurtarmaya karar verir.",
+      "char_count": 750,
+      "token_estimate": 187
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 1415,
+      "end_char": 1588,
+      "content": "== Oyuncular == John Cusack, Brian–Gelecekteki hali Paul Dano, Brian–Geçmişteki hali Elizabeth Banks, Melinda Ledbetter Paul Giamatti, Dr. Eugene Landy Jake Abel, Mike Love",
+      "char_count": 172,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0003",
+      "section": "== Eleştirel görüşler ==",
+      "heading_path": "== Eleştirel görüşler ==",
+      "start_char": 1588,
+      "end_char": 1864,
+      "content": "== Eleştirel görüşler == Aşk ve Merhamet eleştirmenlerden oldukça olumlu görüşler aldı. Metacritic'de 40 eleştirmenin yorumundan 36'sı olumlu yönde oldu ve film ortalama 80 puan aldı. Rotten Tomatoes'da 172 yorumdan %90'lık bir başarı elde etti ve 10 üzerinden 7.7 puan aldı.",
+      "char_count": 275,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0004",
+      "section": "=== Wilson'ın düşünceleri ===",
+      "heading_path": "=== Wilson'ın düşünceleri ===",
+      "start_char": 1864,
+      "end_char": 2216,
+      "content": "=== Wilson'ın düşünceleri === Wilson filmin ''çok gerçekçi'' olduğunu hissetti. Dano'nun Cusack'a göre betimlemede daha başarılı olduğunu düşündü ve her oyunculuğunun oyunculuğunu beğendiğini söyledi. ''Aslında ben kişiliklerin gerçekten orada olduğuna inandım. Tıpkı Doktor Landy'i oynayan adam gibi, çok dosdoğruydu... bu kesinlikle bunu korkuttu''.",
+      "char_count": 351,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2231,
+      "end_char": 2367,
+      "content": "== Dış bağlantılar == Box Office Mojo'da Love & Mercy IMDb'de Aşk ve Merhamet Metacritic'te Love & Mercy Rotten Tomatoes'ta Love & Mercy",
+      "char_count": 136,
+      "token_estimate": 34
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1980'li yıllarda orta yaşlı Brian Wilson, kimin farmakolojik ve yasal esareti altındaydı?",
+        "answer": "Ağzı bozuk terapisti Dr. Eugene Landy'nin.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Aşk ve Merhamet filmi Brian Wilson'ın hayatının hangi iki önemli dönemini merkeze alır ve bu dönemlerden özellikle 1980'lerde onun yaşadığı zorluklar ile kurtuluş sürecinde hangi figürler öne çıkmıştır?",
+        "answer": "Film, Brian Wilson'ın hayatının 1960'lar ve 1980'ler olmak üzere iki önemli dönemini anlatır. Özellikle 1980'lerde Wilson, psikoterapisti Dr. Eugene Landy'nin farmakolojik ve yasal esareti altında karmaşık bir haldeyken, Melinda Ledbetter ile tanışması sayesinde Landy'nin hilelerinden kurtarılma kararı alınarak hayatında bir dönüm noktası yaşanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "hasanzer_208ea976",
+    "title": "Hasan Özer",
+    "url": "https://tr.wikipedia.org/wiki/Hasan_%C3%96zer",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:19.201381",
+    "content": "Hasan Özer (d. 1 Ekim 1974, Siirt), Türk eski millî futbolcu, teknik direktör. 1. Lig ekiplerinden Altınordu kulübünü çalıştırmaktadır. == Futbolculuk kariyeri == === Kulüp takımları kariyeri === Futbola Siirt Köy Hizmetleri YSE Spor'un alt yapısında başladı. 1992 yılında Gaziantepspor'a transfer olarak Süper Lig'e adım attı. 1995 yılında 21 yaşındayken Trabzonspor'a geldi. Ama bir türlü beklenen çıkışı yapamadı. 2 sezonda sadece 8 gol atabildi. Bu nedenle kiralık olarak Şekerspor ve Altay formalarını giydi. Süper Lig'de 323 maçta toplam 98 gol attı. Altay'da ilk patlamasını yaptıktan sonra Gaziantepspor'a geri döndü. 2000-2001 sezonunda 18 golle gol krallığında Hami Mandıralı ile birlikte dördüncülüğü paylaştı. Bu dönemde A millî takıma yükseldi. Gaziantepspor'dan tekrar ayrıldıktan sonra futbolumuzun seyyah futbolcuları arasında yer aldı. 7 sezonda 7 takımda yer aldı. Bu arada tekrar Gaziantepspor forması giydi. 2007 yılında futbolu bıraktı. === Millî takım kariyeri === İlk olarak 1992 yılında U-18 millî takımının formasını giydi. 1993'te Dünya Gençler Futbol Şampiyonası'nda U-18 millî takımında yer aldı. Daha sonra düzenli olarak ümit millî takımının formasını giydi. İlerleyen yıllarda istikrarsız sezonlar yaşaması nedeniyle millî takımdan uzak kaldı. 2000-2001 yılındaki başarılı performansıyla 2002 FIFA Dünya Kupası grup eleme maçları kadrolarına çağrıldı. 28 Mart 2001 tarihinde, Türkiye'nin Makedonya'yı deplasmanda 2-1 yendiği maçın 58. dakikasında oyuna girerek ilk kez A millî oldu. Toplamda 5 kez A millî takım formasını giydi. == Dış bağlantılar == Transfermarkt'ta Hasan Özer National-Football-Teams.com'da Hasan Özer TFF.org'da Hasan Özer TFF.org'da antrenör Hasan Özer Mackolik'te Hasan Özer Mackolik'te Hasan Özer (teknik direktör)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 241,
+      "char_count": 1768,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.923293",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 136,
+      "content": "Hasan Özer (d. 1 Ekim 1974, Siirt), Türk eski millî futbolcu, teknik direktör. 1. Lig ekiplerinden Altınordu kulübünü çalıştırmaktadır.",
+      "char_count": 135,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kulüp takımları kariyeri ===",
+      "heading_path": "=== Kulüp takımları kariyeri ===",
+      "start_char": 163,
+      "end_char": 958,
+      "content": "=== Kulüp takımları kariyeri === Futbola Siirt Köy Hizmetleri YSE Spor'un alt yapısında başladı. 1992 yılında Gaziantepspor'a transfer olarak Süper Lig'e adım attı. 1995 yılında 21 yaşındayken Trabzonspor'a geldi. Ama bir türlü beklenen çıkışı yapamadı. 2 sezonda sadece 8 gol atabildi. Bu nedenle kiralık olarak Şekerspor ve Altay formalarını giydi. Süper Lig'de 323 maçta toplam 98 gol attı. Altay'da ilk patlamasını yaptıktan sonra Gaziantepspor'a geri döndü. 2000-2001 sezonunda 18 golle gol krallığında Hami Mandıralı ile birlikte dördüncülüğü paylaştı. Bu dönemde A millî takıma yükseldi. Gaziantepspor'dan tekrar ayrıldıktan sonra futbolumuzun seyyah futbolcuları arasında yer aldı. 7 sezonda 7 takımda yer aldı. Bu arada tekrar Gaziantepspor forması giydi. 2007 yılında futbolu bıraktı.",
+      "char_count": 794,
+      "token_estimate": 198
+    },
+    {
+      "id": "c0002",
+      "section": "=== Millî takım kariyeri ===",
+      "heading_path": "=== Millî takım kariyeri ===",
+      "start_char": 958,
+      "end_char": 1560,
+      "content": "=== Millî takım kariyeri === İlk olarak 1992 yılında U-18 millî takımının formasını giydi. 1993'te Dünya Gençler Futbol Şampiyonası'nda U-18 millî takımında yer aldı. Daha sonra düzenli olarak ümit millî takımının formasını giydi. İlerleyen yıllarda istikrarsız sezonlar yaşaması nedeniyle millî takımdan uzak kaldı. 2000-2001 yılındaki başarılı performansıyla 2002 FIFA Dünya Kupası grup eleme maçları kadrolarına çağrıldı. 28 Mart 2001 tarihinde, Türkiye'nin Makedonya'yı deplasmanda 2-1 yendiği maçın 58. dakikasında oyuna girerek ilk kez A millî oldu. Toplamda 5 kez A millî takım formasını giydi.",
+      "char_count": 601,
+      "token_estimate": 150
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1560,
+      "end_char": 1768,
+      "content": "== Dış bağlantılar == Transfermarkt'ta Hasan Özer National-Football-Teams.com'da Hasan Özer TFF.org'da Hasan Özer TFF.org'da antrenör Hasan Özer Mackolik'te Hasan Özer Mackolik'te Hasan Özer (teknik direktör)",
+      "char_count": 208,
+      "token_estimate": 52
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Futbolcu, 2000-2001 sezonunda kaç golle gol krallığında dördüncülüğü Hami Mandıralı ile paylaştı?",
+        "answer": "18 golle",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hasan Özer'in kulüp kariyerindeki hangi performansı A millî takıma yükselmesini sağladı ve futbolu bıraktıktan sonra hangi rolde yer almaktadır?",
+        "answer": "Hasan Özer, 2000-2001 sezonunda Gaziantepspor'da 18 gol atarak sergilediği başarılı performansla A millî takıma yükseldi ve ilk kez 28 Mart 2001 tarihinde millî formayı giydi. Futbolu bıraktıktan sonra ise teknik direktör olarak 1. Lig ekiplerinden Altınordu kulübünü çalıştırmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

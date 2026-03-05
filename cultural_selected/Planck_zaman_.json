@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "planckzaman_5cefe333",
+    "title": "Planck zamanı",
+    "url": "https://tr.wikipedia.org/wiki/Planck_zaman%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:42.944176",
+    "content": "Fizikte Planck zamanı (tP), Planck birimleri olarak bilinen doğal birimler sisteminde zaman birimidir. Işığın bir vakumda bir Planck uzunluğu mesafesini kat ettiği süredir. Birim, onu ilk kullanan Max Planck'ten sonra adlandırılmıştır. Planck zamanı şöyle ifade edilir: t P ≡ ℏ G c 5 {\\displaystyle t_{P}\\equiv {\\sqrt {\\frac {\\hbar G}{c^{5}}}}} ≈ 5,39106(32) × 10−44 s Burada: ℏ = h / 2 π {\\displaystyle \\hbar =h/2\\pi } Planck sabiti (bazen ifadede ℏ {\\displaystyle \\hbar } yerine h {\\displaystyle h} kullanılır) G = yerçekimi sabiti c = bir vakumdaki ışık hızı s, zamanın SI birimi olan saniye. Parantezler arasındaki iki rakam (yani 32 sayısı), yaklaşık değerin standart hatasını ifade eder. == Fiziksel anlamı == Bir Planck zamanı, ışık hızında hareket eden bir fotonun, bir Planck uzunluğundaki mesafeyi kat edeceği süredir. Teorik olarak bu ölçümü asla mümkün olmayan en küçük süredir ve değeri yaklaşık olarak 10−43 saniyedir. Bugün anlaşılan fizik kanunlarına göre bir Planck zamanından daha küçük süreleri ne ölçebiliriz ne de değişimlerini anlayabiliriz. 2010 Mayıs itibarıyla, kesin olmamakla birlikte doğrudan ölçülen en kısa süre, 12 attosaniyedir (1,2 × 10−17 saniye), yaklaşık 3,7 × 1026 Planck zamanı. Planck zamanı, boyut analizi olarak bilinen ve ölçü birimleri ile fiziksel sabitleri inceleyen matematiksel fiziğin bir alanında ortaya çıkar. Planck zamanı, G yerçekimi sabiti, c görelilik sabiti ve h kuantum sabitinin eşsiz kombinasyonu sonucu oluşan sabit bir zaman birimidir. Bir Planck zamanından daha küçük bir t süresinde oluşan süreçler için tP / t boyutsuz niceliği birden büyüktür. Boyut analizinde hem kuantum mekaniği hem de kütleçekim etkisi, bu şartlar altında önem arz eder ve bir kuantum kütleçekimi teorisini gerektirir. Tüm bilimsel ve kişisel tecrübeler için milyar kere milyar Planck zamanından daha fazla süre geçmiştir. Planck ölçeğinde meydana gelen bir olayı algılamak zordur. == Ayrıca bakınız == Planck enerjisi Planck uzunluğu Planck birimleri == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 297,
+      "char_count": 2002,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.791647",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 379,
+      "content": "Fizikte Planck zamanı (tP), Planck birimleri olarak bilinen doğal birimler sisteminde zaman birimidir. Işığın bir vakumda bir Planck uzunluğu mesafesini kat ettiği süredir. Birim, onu ilk kullanan Max Planck'ten sonra adlandırılmıştır. Planck zamanı şöyle ifade edilir: t P ≡ ℏ G c 5 {\\displaystyle t_{P}\\equiv {\\sqrt {\\frac {\\hbar G}{c^{5}}}}} ≈ 5,39106(32) × 10−44 s Burada: ℏ",
+      "char_count": 378,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0001",
+      "section": "= h / 2 π {\\displaystyle \\hbar =h/2\\pi } Planck sabiti (bazen ifadede ℏ {\\displaystyle \\hbar } yerine h {\\displaystyle h} kullanılır) G =",
+      "heading_path": "= h / 2 π {\\displaystyle \\hbar =h/2\\pi } Planck sabiti (bazen ifadede ℏ {\\displaystyle \\hbar } yerine h {\\displaystyle h} kullanılır) G =",
+      "start_char": 379,
+      "end_char": 536,
+      "content": "= h / 2 π {\\displaystyle \\hbar =h/2\\pi } Planck sabiti (bazen ifadede ℏ {\\displaystyle \\hbar } yerine h {\\displaystyle h} kullanılır) G = yerçekimi sabiti c",
+      "char_count": 156,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0002",
+      "section": "= bir vakumdaki ışık hızı s, zamanın SI birimi olan saniye. Parantezler arasındaki iki rakam (yani 32 sayısı), yaklaşık değerin standart hatasını ifade eder. = =",
+      "heading_path": "= bir vakumdaki ışık hızı s, zamanın SI birimi olan saniye. Parantezler arasındaki iki rakam (yani 32 sayısı), yaklaşık değerin standart hatasını ifade eder. = =",
+      "start_char": 536,
+      "end_char": 713,
+      "content": "= bir vakumdaki ışık hızı s, zamanın SI birimi olan saniye. Parantezler arasındaki iki rakam (yani 32 sayısı), yaklaşık değerin standart hatasını ifade eder. == Fiziksel anlamı",
+      "char_count": 176,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0003",
+      "section": "== Bir Planck zamanı, ışık hızında hareket eden bir fotonun, bir Planck uzunluğundaki mesafeyi kat edeceği süredir. Teorik olarak bu ölçümü asla mümkün olmayan en küçük süredir ve değeri yaklaşık olarak 10−43 saniyedir. Bugün anlaşılan fizik kanunlarına göre bir Planck zamanından daha küçük süreleri ne ölçebiliriz ne de değişimlerini anlayabiliriz. 2010 Mayıs itibarıyla, kesin olmamakla birlikte doğrudan ölçülen en kısa süre, 12 attosaniyedir (1,2 × 10−17 saniye), yaklaşık 3,7 × 1026 Planck zamanı. Planck zamanı, boyut analizi olarak bilinen ve ölçü birimleri ile fiziksel sabitleri inceleyen matematiksel fiziğin bir alanında ortaya çıkar. Planck zamanı, G yerçekimi sabiti, c görelilik sabiti ve h kuantum sabitinin eşsiz kombinasyonu sonucu oluşan sabit bir zaman birimidir. Bir Planck zamanından daha küçük bir t süresinde oluşan süreçler için tP / t boyutsuz niceliği birden büyüktür. Boyut analizinde hem kuantum mekaniği hem de kütleçekim etkisi, bu şartlar altında önem arz eder ve bir kuantum kütleçekimi teorisini gerektirir. Tüm bilimsel ve kişisel tecrübeler için milyar kere milyar Planck zamanından daha fazla süre geçmiştir. Planck ölçeğinde meydana gelen bir olayı algılamak zordur. ==",
+      "heading_path": "== Bir Planck zamanı, ışık hızında hareket eden bir fotonun, bir Planck uzunluğundaki mesafeyi kat edeceği süredir. Teorik olarak bu ölçümü asla mümkün olmayan en küçük süredir ve değeri yaklaşık olarak 10−43 saniyedir. Bugün anlaşılan fizik kanunlarına göre bir Planck zamanından daha küçük süreleri ne ölçebiliriz ne de değişimlerini anlayabiliriz. 2010 Mayıs itibarıyla, kesin olmamakla birlikte doğrudan ölçülen en kısa süre, 12 attosaniyedir (1,2 × 10−17 saniye), yaklaşık 3,7 × 1026 Planck zamanı. Planck zamanı, boyut analizi olarak bilinen ve ölçü birimleri ile fiziksel sabitleri inceleyen matematiksel fiziğin bir alanında ortaya çıkar. Planck zamanı, G yerçekimi sabiti, c görelilik sabiti ve h kuantum sabitinin eşsiz kombinasyonu sonucu oluşan sabit bir zaman birimidir. Bir Planck zamanından daha küçük bir t süresinde oluşan süreçler için tP / t boyutsuz niceliği birden büyüktür. Boyut analizinde hem kuantum mekaniği hem de kütleçekim etkisi, bu şartlar altında önem arz eder ve bir kuantum kütleçekimi teorisini gerektirir. Tüm bilimsel ve kişisel tecrübeler için milyar kere milyar Planck zamanından daha fazla süre geçmiştir. Planck ölçeğinde meydana gelen bir olayı algılamak zordur. ==",
+      "start_char": 713,
+      "end_char": 1713,
+      "content": "== Bir Planck zamanı, ışık hızında hareket eden bir fotonun, bir Planck uzunluğundaki mesafeyi kat edeceği süredir. Teorik olarak bu ölçümü asla mümkün olmayan en küçük süredir ve değeri yaklaşık olarak 10−43 saniyedir. Bugün anlaşılan fizik kanunlarına göre bir Planck zamanından daha küçük süreleri ne ölçebiliriz ne de değişimlerini anlayabiliriz. 2010 Mayıs itibarıyla, kesin olmamakla birlikte doğrudan ölçülen en kısa süre, 12 attosaniyedir (1,2 × 10−17 saniye), yaklaşık 3,7 × 1026 Planck zamanı. Planck zamanı, boyut analizi olarak bilinen ve ölçü birimleri ile fiziksel sabitleri inceleyen matematiksel fiziğin bir alanında ortaya çıkar. Planck zamanı, G yerçekimi sabiti, c görelilik sabiti ve h kuantum sabitinin eşsiz kombinasyonu sonucu oluşan sabit bir zaman birimidir. Bir Planck zamanından daha küçük bir t süresinde oluşan süreçler için tP / t boyutsuz niceliği birden büyüktür. Boyut analizinde hem kuantum mekaniği hem de kütleçekim etkisi, bu şartlar altında önem arz eder ve bir ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Bir Planck zamanı, ışık hızında hareket eden bir fotonun, bir Planck uzunluğundaki mesafeyi kat edeceği süredir. Teorik olarak bu ölçümü asla mümkün olmayan en küçük süredir ve değeri yaklaşık olarak 10−43 saniyedir. Bugün anlaşılan fizik kanunlarına göre bir Planck zamanından daha küçük süreleri ne ölçebiliriz ne de değişimlerini anlayabiliriz. 2010 Mayıs itibarıyla, kesin olmamakla birlikte doğrudan ölçülen en kısa süre, 12 attosaniyedir (1,2 × 10−17 saniye), yaklaşık 3,7 × 1026 Planck zamanı. Planck zamanı, boyut analizi olarak bilinen ve ölçü birimleri ile fiziksel sabitleri inceleyen matematiksel fiziğin bir alanında ortaya çıkar. Planck zamanı, G yerçekimi sabiti, c görelilik sabiti ve h kuantum sabitinin eşsiz kombinasyonu sonucu oluşan sabit bir zaman birimidir. Bir Planck zamanından daha küçük bir t süresinde oluşan süreçler için tP / t boyutsuz niceliği birden büyüktür. Boyut analizinde hem kuantum mekaniği hem de kütleçekim etkisi, bu şartlar altında önem arz eder ve bir kuantum kütleçekimi teorisini gerektirir. Tüm bilimsel ve kişisel tecrübeler için milyar kere milyar Planck zamanından daha fazla süre geçmiştir. Planck ölçeğinde meydana gelen bir olayı algılamak zordur. ==",
+      "heading_path": "== Bir Planck zamanı, ışık hızında hareket eden bir fotonun, bir Planck uzunluğundaki mesafeyi kat edeceği süredir. Teorik olarak bu ölçümü asla mümkün olmayan en küçük süredir ve değeri yaklaşık olarak 10−43 saniyedir. Bugün anlaşılan fizik kanunlarına göre bir Planck zamanından daha küçük süreleri ne ölçebiliriz ne de değişimlerini anlayabiliriz. 2010 Mayıs itibarıyla, kesin olmamakla birlikte doğrudan ölçülen en kısa süre, 12 attosaniyedir (1,2 × 10−17 saniye), yaklaşık 3,7 × 1026 Planck zamanı. Planck zamanı, boyut analizi olarak bilinen ve ölçü birimleri ile fiziksel sabitleri inceleyen matematiksel fiziğin bir alanında ortaya çıkar. Planck zamanı, G yerçekimi sabiti, c görelilik sabiti ve h kuantum sabitinin eşsiz kombinasyonu sonucu oluşan sabit bir zaman birimidir. Bir Planck zamanından daha küçük bir t süresinde oluşan süreçler için tP / t boyutsuz niceliği birden büyüktür. Boyut analizinde hem kuantum mekaniği hem de kütleçekim etkisi, bu şartlar altında önem arz eder ve bir kuantum kütleçekimi teorisini gerektirir. Tüm bilimsel ve kişisel tecrübeler için milyar kere milyar Planck zamanından daha fazla süre geçmiştir. Planck ölçeğinde meydana gelen bir olayı algılamak zordur. ==",
+      "start_char": 1513,
+      "end_char": 1935,
+      "content": "ından daha küçük bir t süresinde oluşan süreçler için tP / t boyutsuz niceliği birden büyüktür. Boyut analizinde hem kuantum mekaniği hem de kütleçekim etkisi, bu şartlar altında önem arz eder ve bir kuantum kütleçekimi teorisini gerektirir. Tüm bilimsel ve kişisel tecrübeler için milyar kere milyar Planck zamanından daha fazla süre geçmiştir. Planck ölçeğinde meydana gelen bir olayı algılamak zordur. == Ayrıca bakınız",
+      "char_count": 422,
+      "token_estimate": 105
+    },
+    {
+      "id": "c0005",
+      "section": "== Planck enerjisi Planck uzunluğu Planck birimleri ==",
+      "heading_path": "== Planck enerjisi Planck uzunluğu Planck birimleri ==",
+      "start_char": 1936,
+      "end_char": 2002,
+      "content": "== Planck enerjisi Planck uzunluğu Planck birimleri == Kaynakça ==",
+      "char_count": 66,
+      "token_estimate": 16
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2010 Mayıs itibarıyla doğrudan ölçülen en kısa süre nedir ve yaklaşık olarak kaç Planck zamanına denk gelir?",
+        "answer": "2010 Mayıs itibarıyla doğrudan ölçülen en kısa süre 12 attosaniyedir (1,2 × 10−17 saniye) ve yaklaşık 3,7 × 1026 Planck zamanına denk gelir.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Planck zamanının formülünde kullanılan indirgenmiş Planck sabiti ve yerçekimi sabiti nedir ve nasıl açıklanır?",
+        "answer": "Planck zamanının formülünde (t P ≡ ℏ G c 5) kullanılan indirgenmiş Planck sabiti (ℏ), h / 2π olarak tanımlanan ve aynı zamanda Planck sabiti olarak da bilinen bir değerdir. Yerçekimi sabiti ise 'G' ile temsil edilen temel bir fiziksel sabittir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

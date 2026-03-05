@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "stanmarsh_e1776230",
+    "title": "Stan Marsh",
+    "url": "https://tr.wikipedia.org/wiki/Stan_Marsh",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:33.219060",
+    "content": "Stanley \"Stan\" Marsh animasyon dizi South Park'taki başrollerden biridir. Dizinin yaratıcılarından Trey Parker tarafından seslendirilmektedir. Stan ve Kyle sık sık dörtlünün başları olarak görülür. Stan, dörtlüdeki en \"normal\" çocuktur, çoğunlukla dürüsttür, yaşına göre olgundur ve mantıklıdır. En iyi arkadaşı Kyle'dan daha çok Stan kendine güvenir. Stan'in astımı vardır. Ayrıca iki elini de aynı biçimde kullanabilir fakat, Stan sağ elini kullanmayı tercih eder. Doğum günü 19 Ekim'dir. Fiziksel görünüşte siyah ve düz saçlara sahiptir. Gruptaki dörtlüye göre daha zayıftır. Ayrıca gruptakilerden bir yaş büyüktür. 65 cm boyundadır En sevdiği arkadaşı ise Kyle Broflovski'dir. Eric Cartman başına buyruk bir karakter olduğundan ayrı tutulursa, çoğu durumda grubun lideri konumundadır. == Yaşamı == Stan sık sık öğütler verir ve popüler akımı eleştirir. 4. sezon 6. bölüm olan Cherokee Hair Tampons adlı bölümde Stan, Miss Information ve onun tıbbi ilaçlar dükkanına meydan okur. Ayrıca bu bölümde Stan, bir kahramanlık yapıp Kyle'a Eric Cartman'ın böbreğini bağışlatır. Ayrıca 5. sezon. 3. bölüm olan Super Best Friends adlı bölümde Kyle'ın hayatını kurtarmıştır. Kyle ile Stan'in davranışları biraz birbirlerine benzer. Stan istekli bir hayvansever olarak, amcası Jimbo'nun avlanmasına karşıdır. PETA üyesidir, bir dönem vejetaryen olmuştur ancak hastalanınca vazgeçmek zorunda kalmıştır. Bir bölümde bebek buzağıların hayatını kurtarmıştır ve bir keçiyi sahiplerine geri vermiştir. İyi niyetli olması, grup içinde onu öne çıkarır ve hem kendi başını, hem de arkadaşlarının başını belaya sokar. Stan ve Kyle Meksika'ya gitmiş, orada Meksika Uzay Programı'nın Orca'ya gitmesini kontrol altına almışlardır. Bir bölümde Cartman ve Stan, yanlışlıkla gemiyi köstebeklerin olduğu baraja çarpmıştır ve Stan \"Umarım köstebekleri rahatsız etmemişizdir\" demiştir. Stan çok iyi empati kurabilir. Bir bölümde kendisini Al Gore'un yerine koymuştur. Ayrıca Stan çok dürüsttür. Yine bir bölümde Mel Gibson'ın filmini beğenmediği için Kenny ile Mel Gibson'un evine, paralarını geri alabilmek için gitmişlerdir (18 dolar). Fakat Mel Gibson çocuklara silahla saldırır. O sırada Mel Gibson'ın cüzdanını bulurlar ve içinde 20 dolar bulurlar. Ama Stan dürüstlüğü gereği Kenny'den 2 dolar alır, cüzdana koyar ve 20'liği kendine alır. Stan babası Randy Marsh gibi bir alkoliktir. == Klişeler == Her bölümde Kenny öldüğünde \"Oh my God, they killed Kenny!\" (Aman Tanrım! Kenny'i öldürdüler!) der ve Kyle da ona eş olarak \"You bastards!\" (Sizi piçler!) der. Ama Kenny artık ölmediği için bu sözler duyulmaz. Ayrıca Stan, kız arkadaşı Wendy ile konuşurken sürekli kusmasıyla da ünlüdür. 15. sezon 7. bölümden sonra hiçbir şeyden zevk almaz ve taşınmaya karar verir. Ancak verilen aradan sonra 8. bölümde tekrar South Park'a döner. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 401,
+      "char_count": 2823,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.418376",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 789,
+      "content": "Stanley \"Stan\" Marsh animasyon dizi South Park'taki başrollerden biridir. Dizinin yaratıcılarından Trey Parker tarafından seslendirilmektedir. Stan ve Kyle sık sık dörtlünün başları olarak görülür. Stan, dörtlüdeki en \"normal\" çocuktur, çoğunlukla dürüsttür, yaşına göre olgundur ve mantıklıdır. En iyi arkadaşı Kyle'dan daha çok Stan kendine güvenir. Stan'in astımı vardır. Ayrıca iki elini de aynı biçimde kullanabilir fakat, Stan sağ elini kullanmayı tercih eder. Doğum günü 19 Ekim'dir. Fiziksel görünüşte siyah ve düz saçlara sahiptir. Gruptaki dörtlüye göre daha zayıftır. Ayrıca gruptakilerden bir yaş büyüktür. 65 cm boyundadır En sevdiği arkadaşı ise Kyle Broflovski'dir. Eric Cartman başına buyruk bir karakter olduğundan ayrı tutulursa, çoğu durumda grubun lideri konumundadır.",
+      "char_count": 788,
+      "token_estimate": 197
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 789,
+      "end_char": 1789,
+      "content": "== Yaşamı == Stan sık sık öğütler verir ve popüler akımı eleştirir. 4. sezon 6. bölüm olan Cherokee Hair Tampons adlı bölümde Stan, Miss Information ve onun tıbbi ilaçlar dükkanına meydan okur. Ayrıca bu bölümde Stan, bir kahramanlık yapıp Kyle'a Eric Cartman'ın böbreğini bağışlatır. Ayrıca 5. sezon. 3. bölüm olan Super Best Friends adlı bölümde Kyle'ın hayatını kurtarmıştır. Kyle ile Stan'in davranışları biraz birbirlerine benzer. Stan istekli bir hayvansever olarak, amcası Jimbo'nun avlanmasına karşıdır. PETA üyesidir, bir dönem vejetaryen olmuştur ancak hastalanınca vazgeçmek zorunda kalmıştır. Bir bölümde bebek buzağıların hayatını kurtarmıştır ve bir keçiyi sahiplerine geri vermiştir. İyi niyetli olması, grup içinde onu öne çıkarır ve hem kendi başını, hem de arkadaşlarının başını belaya sokar. Stan ve Kyle Meksika'ya gitmiş, orada Meksika Uzay Programı'nın Orca'ya gitmesini kontrol altına almışlardır. Bir bölümde Cartman ve Stan, yanlışlıkla gemiyi köstebeklerin olduğu baraja çar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1589,
+      "end_char": 2361,
+      "content": "aya sokar. Stan ve Kyle Meksika'ya gitmiş, orada Meksika Uzay Programı'nın Orca'ya gitmesini kontrol altına almışlardır. Bir bölümde Cartman ve Stan, yanlışlıkla gemiyi köstebeklerin olduğu baraja çarpmıştır ve Stan \"Umarım köstebekleri rahatsız etmemişizdir\" demiştir. Stan çok iyi empati kurabilir. Bir bölümde kendisini Al Gore'un yerine koymuştur. Ayrıca Stan çok dürüsttür. Yine bir bölümde Mel Gibson'ın filmini beğenmediği için Kenny ile Mel Gibson'un evine, paralarını geri alabilmek için gitmişlerdir (18 dolar). Fakat Mel Gibson çocuklara silahla saldırır. O sırada Mel Gibson'ın cüzdanını bulurlar ve içinde 20 dolar bulurlar. Ama Stan dürüstlüğü gereği Kenny'den 2 dolar alır, cüzdana koyar ve 20'liği kendine alır. Stan babası Randy Marsh gibi bir alkoliktir.",
+      "char_count": 772,
+      "token_estimate": 193
+    },
+    {
+      "id": "c0003",
+      "section": "== Klişeler ==",
+      "heading_path": "== Klişeler ==",
+      "start_char": 2362,
+      "end_char": 2809,
+      "content": "== Klişeler == Her bölümde Kenny öldüğünde \"Oh my God, they killed Kenny!\" (Aman Tanrım! Kenny'i öldürdüler!) der ve Kyle da ona eş olarak \"You bastards!\" (Sizi piçler!) der. Ama Kenny artık ölmediği için bu sözler duyulmaz. Ayrıca Stan, kız arkadaşı Wendy ile konuşurken sürekli kusmasıyla da ünlüdür. 15. sezon 7. bölümden sonra hiçbir şeyden zevk almaz ve taşınmaya karar verir. Ancak verilen aradan sonra 8. bölümde tekrar South Park'a döner.",
+      "char_count": 446,
+      "token_estimate": 111
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Stan, istekli bir hayvansever olarak hangi organizasyonun üyesidir?",
+        "answer": "PETA.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "South Park'taki Stan Marsh'ın kişiliğini tanımlayan ilk özellikler (dürüstlük, mantıklılık, normallik) ve dizideki çeşitli eylemleri ve ek özellikleri (hayvanseverliği, kahramanlıkları, empati yeteneği ve kişisel mücadeleleri) bir araya getirildiğinde, onun karakteri nasıl daha derin ve çok yönlü bir portre çizmektedir?",
+        "answer": "Stan Marsh, başlangıçta dürüst, mantıklı ve gruptaki en 'normal' çocuk olarak tanımlansa da, dizideki eylemleri ve ek özellikleri onun daha derin ve çok yönlü bir karakter olduğunu gösterir. Kyle'ı kurtarmak ve Miss Information'a meydan okumak gibi kahramanca davranışları, onun iyi niyetini ve liderlik vasfını pekiştirir. PETA üyeliği ve hayvanseverliği, onun şefkatli doğasını ortaya koyarken, alkolizm gibi kişisel mücadeleleri ve Mel Gibson ile olan olaydaki aşırı dürüstlüğü, onun sadece 'normal' olmaktan öte, insani zaafları ve güçlü ahlaki değerleri olan karmaşık bir figür olduğunu sergiler. Empati yeteneği ve bazen kendi başını belaya sokan iyi niyeti de bu çok yönlü portreyi tamamlar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

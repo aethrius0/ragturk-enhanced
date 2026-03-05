@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "thromidiacatalai_b8d734ea",
+    "title": "Thromidia catalai",
+    "url": "https://tr.wikipedia.org/wiki/Thromidia_catalai",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:46.782166",
+    "content": "Thromidia catalai ya da Catala(nın) denizyıldızı, Mithrodiidae familyasında sınıflandırılan bir denizyıldızı türüdür. İlk olarak 1977'de, bu türe Yeni Kaledonya'da rastlayan Avustralyalı biyologlar E. C. Pope ve F. W. E. Rowe tarafından tanımlanmıştır. == Adlandırma == === Bilimsel ad === Cins adı olan Thromidia, aynı familyadaki diğer cinsin adı olan Mithrodia'nın anagramıdır. Türe özgü belirleyici ad olan catalai, biyolog Dr. Rene Catala'ya atfen verilmiştir. === Yaygın adlar === T. catalai için Türkçede kullanılan yaygın bir ad henüz bulunmamaktadır. Aşağıda yer alan adlar, çeşitli İngilizce ve bir de Fransızca kaynakta belirtilmiş yaygın adların çevirileridir: Catala(nın) denizyıldızı Ağır denizyıldızı Dev denizyıldızı Kahverengi uçlu denizyıldızı Şişman denizyıldızı == Anatomi == T. catalai, ağırlığı 6 kg'a ulaşabildiği için bilinen en ağır denizyıldızı, çapı farklı kaynaklara göre 60-100 (ortalama 80) cm'ye kadar ulaşabildiği için de bilinen en büyük denizyıldızlarındandır. 5 kalın kolu görece küçük bir merkezi diskten çıkar, kesit yüzeyleri daireseldir ve kabaca konik biçimli yuvarlak uç kısımları, koyu turuncu ya da kahverengidir. Kalın derisi, kollarının uç kısımları hariç, pembe-bej renklidir ve hayvana pütürlü bir görünüm kazandıran, papül adı verilen küçük yumrularla kaplıdır. === Benzer tür === Catala denizyıldızının karıştırılabileceği tek tür, benzer büyüklüğe ulaşabilen Thromidia gigas'dır. Ancak T. gigas hem belirgin şekilde daha soluk renkli kol uçlarına sahiptir, hem de yalnızca güney Hint Okyanusu'nun Madagaskar, Réunion ve Güney Afrika kıyılarında bulunur. Çapa göre büyüklük açısından T. catalai'den de büyük olan tek denizyıldızı, Meksika Körfezi'nde yerleşik bir tür olup 140 cm'ye kadar boylanabilen Midgardia xandaros'dur. == Ekoloji == === Dağılım ve yaşam alanları === Catala denizyıldızının doğal yaşam alanı, Hint ve Pasifik Okyanusu'nun Endonezya'dan Hawaii'ye ve Japonya'nın güneyinden (Okinawa) Avustralya'nın kuzeyi ile Yeni Kaledonya'ya kadar uzanan tropik ve astropik bölgeleridir. Bu denizlerde 15–105 m'de, genellikle 30 m'den daha derinde, mercan resifleri üzerinde ya da resifler arası organik döküntü alanlarında rastlanır. Sık karşılaşılan bir denizyıldızı değildir ancak bunun nedeni nadir bir tür olması değil, oldukça derinde yaşaması olabilir. === Beslenme ve üreme === T. catalai'nin beslenmesi hakkında çok az veri vardır ama muhtemelen bu tür de diğer denizyıldızları gibi etoburdur ve yumuşakçalar ve diğer derisi dikenlilerle beslenir. Diğer denizyıldızlarında olduğu gibi, T catalai'de de üreme erkek ve dişi bireylerin sperm ve yumurtalarını suya salmaları sonucunda dış döllenmeyle olur. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 364,
+      "char_count": 2682,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.551989",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 253,
+      "content": "Thromidia catalai ya da Catala(nın) denizyıldızı, Mithrodiidae familyasında sınıflandırılan bir denizyıldızı türüdür. İlk olarak 1977'de, bu türe Yeni Kaledonya'da rastlayan Avustralyalı biyologlar E. C. Pope ve F. W. E. Rowe tarafından tanımlanmıştır.",
+      "char_count": 252,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0001",
+      "section": "=== Bilimsel ad ===",
+      "heading_path": "=== Bilimsel ad ===",
+      "start_char": 270,
+      "end_char": 466,
+      "content": "=== Bilimsel ad === Cins adı olan Thromidia, aynı familyadaki diğer cinsin adı olan Mithrodia'nın anagramıdır. Türe özgü belirleyici ad olan catalai, biyolog Dr. Rene Catala'ya atfen verilmiştir.",
+      "char_count": 195,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0002",
+      "section": "=== Yaygın adlar ===",
+      "heading_path": "=== Yaygın adlar ===",
+      "start_char": 466,
+      "end_char": 782,
+      "content": "=== Yaygın adlar === T. catalai için Türkçede kullanılan yaygın bir ad henüz bulunmamaktadır. Aşağıda yer alan adlar, çeşitli İngilizce ve bir de Fransızca kaynakta belirtilmiş yaygın adların çevirileridir: Catala(nın) denizyıldızı Ağır denizyıldızı Dev denizyıldızı Kahverengi uçlu denizyıldızı Şişman denizyıldızı",
+      "char_count": 315,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0003",
+      "section": "== Anatomi ==",
+      "heading_path": "== Anatomi ==",
+      "start_char": 782,
+      "end_char": 1310,
+      "content": "== Anatomi == T. catalai, ağırlığı 6 kg'a ulaşabildiği için bilinen en ağır denizyıldızı, çapı farklı kaynaklara göre 60-100 (ortalama 80) cm'ye kadar ulaşabildiği için de bilinen en büyük denizyıldızlarındandır. 5 kalın kolu görece küçük bir merkezi diskten çıkar, kesit yüzeyleri daireseldir ve kabaca konik biçimli yuvarlak uç kısımları, koyu turuncu ya da kahverengidir. Kalın derisi, kollarının uç kısımları hariç, pembe-bej renklidir ve hayvana pütürlü bir görünüm kazandıran, papül adı verilen küçük yumrularla kaplıdır.",
+      "char_count": 527,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0004",
+      "section": "=== Benzer tür ===",
+      "heading_path": "=== Benzer tür ===",
+      "start_char": 1310,
+      "end_char": 1775,
+      "content": "=== Benzer tür === Catala denizyıldızının karıştırılabileceği tek tür, benzer büyüklüğe ulaşabilen Thromidia gigas'dır. Ancak T. gigas hem belirgin şekilde daha soluk renkli kol uçlarına sahiptir, hem de yalnızca güney Hint Okyanusu'nun Madagaskar, Réunion ve Güney Afrika kıyılarında bulunur. Çapa göre büyüklük açısından T. catalai'den de büyük olan tek denizyıldızı, Meksika Körfezi'nde yerleşik bir tür olup 140 cm'ye kadar boylanabilen Midgardia xandaros'dur.",
+      "char_count": 464,
+      "token_estimate": 116
+    },
+    {
+      "id": "c0005",
+      "section": "=== Dağılım ve yaşam alanları ===",
+      "heading_path": "=== Dağılım ve yaşam alanları ===",
+      "start_char": 1789,
+      "end_char": 2316,
+      "content": "=== Dağılım ve yaşam alanları === Catala denizyıldızının doğal yaşam alanı, Hint ve Pasifik Okyanusu'nun Endonezya'dan Hawaii'ye ve Japonya'nın güneyinden (Okinawa) Avustralya'nın kuzeyi ile Yeni Kaledonya'ya kadar uzanan tropik ve astropik bölgeleridir. Bu denizlerde 15–105 m'de, genellikle 30 m'den daha derinde, mercan resifleri üzerinde ya da resifler arası organik döküntü alanlarında rastlanır. Sık karşılaşılan bir denizyıldızı değildir ancak bunun nedeni nadir bir tür olması değil, oldukça derinde yaşaması olabilir.",
+      "char_count": 526,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0006",
+      "section": "=== Beslenme ve üreme ===",
+      "heading_path": "=== Beslenme ve üreme ===",
+      "start_char": 2316,
+      "end_char": 2668,
+      "content": "=== Beslenme ve üreme === T. catalai'nin beslenmesi hakkında çok az veri vardır ama muhtemelen bu tür de diğer denizyıldızları gibi etoburdur ve yumuşakçalar ve diğer derisi dikenlilerle beslenir. Diğer denizyıldızlarında olduğu gibi, T catalai'de de üreme erkek ve dişi bireylerin sperm ve yumurtalarını suya salmaları sonucunda dış döllenmeyle olur.",
+      "char_count": 351,
+      "token_estimate": 87
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "T. catalai'nin derisine pütürlü görünümünü ne kazandırır?",
+        "answer": "T. catalai'nin kalın derisi, hayvana pütürlü bir görünüm kazandıran, papül adı verilen küçük yumrularla kaplıdır.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Thromidia catalai'nin bilimsel adının kökeni nedir ve bu türü ilk olarak hangi biyologlar tanımlamıştır?",
+        "answer": "Thromidia cins adı, aynı familyadaki diğer cins olan Mithrodia'nın anagramıdır; türe özgü ad olan catalai ise biyolog Dr. Rene Catala'ya atfen verilmiştir. Tür, ilk olarak 1977'de Avustralyalı biyologlar E. C. Pope ve F. W. E. Rowe tarafından tanımlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "sanpedrodeatacama_112008cc",
+    "title": "San Pedro de Atacama",
+    "url": "https://tr.wikipedia.org/wiki/San_Pedro_de_Atacama",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:30.998852",
+    "content": "San Pedro de Atacama, Şili'nin kuzeyinde, Antofagasta Bölgesinde bir köy. == Coğrafya == San Pedro, Atacama Çölü'nde bir vaha köyüdür. Salar de Atacama'nın (Atacama Tuz Gölü) batı kıyısında bulunur. Bugün için, çöl turizminin en sevilen yerlerinden biridir. Çöldeki bu yeşil lekenin su kaynağı, Andlar'dan gelip, hemen yanı başındaki Salar de Atacama ya karışan Rio San Pedro nehridir. == Nüfus == 2500 kişilik nüfusa sahiptir. == Çevrenin görülmeye değer yerleri == Belçikalı Gustavo le Paige tarafından kurulan Padre R. P arkeoloji müzesi. Müzede çok sayıda çölde bulunan nesneler gösterilir ki, bunlar İnka mumyaları, takı, tekstil eşyası, seramiklerdir. San Pedro de Atacama Kilisesi. Şili'nin en eski kiliselerinden biri olup, çatısı kaktüs gövdelerinden inşa edilmiştir. Flamingoların da görülebileceği Salar de Atacama tuz gölü. Dünya'nın en yüksek konumdaki gayzeri olan, And yaylalarında, San Pedro de Atacama'dan 2000 m daha yüksekteki El Tatio Gayzeri. Valle de la Luna (Ay vadisi) Calama şehri ile San Pedro de Atacama arasında kalan, özellikle çölde güneş batımı ile doğumunun, tabiat gösterisi halini aldığı vadi. Puritama termal kaynakları. Bir vadi içindeki vahada 30 °C'lik suyu ile kaplıca amaçlı kullanılmaktadır. Valle de la Muerte (Ölüm vadisi). Atacameño'ların eski köyleri olan Tulor harabeleri. Miscanti ve Miñique lagünleri. Andların 4000 m yüksekliğinde bulunan bu lagünlerde sıra dışı bir tabiat vardır. == Tarihçe == Yakınlarındaki Puna bölgesinde, 11.000 yıl önce ilk yerleşimlerin olduğu tahmin edilir. Bu bölgenin çok eski sahipleri Atacameños diye adlandırılan uygarlık, San Pedro kültürünün kurucuları olup Atacama Çölü'nün vahalarında yaşamışlardır. Bu halk bölgedeki ilk tarımla uğraşan kişilerdi. Tarıma uygun alan çok küçük olduğundan tarım terasları inşa ettiler, suni sulama yaptılar ve lama gübresi kullandılar. Çeşitli tahıl, mısır, pirinç, incir, bal kabağı ve patates ürettiler. Lama ve Alpaka etlerinden faydalanan Atacameñolar ayrıca bu hayvanların kürkünden de giysi olarak istifade ettiler.Kıyı şeridindeki şehirlerle ticarette, yine bu hayvanlar taşıyıcı olarak kullanıldı. Bu insanlar yine el ve sanat işçiliğinde çok gelişmişlerdi. Ayrıca zamanları çok erken olan metalurjiyi keşfetmeleri, bakır ve bronz üretim bilgisine sahip olmaları da söz konusudur. Atacameñolar ölümden sonra yaşama inandıkları için, eşya, giysi ve yiyeceklerle gömülmüşlerdir. Doğa varlıklarına tapmalarına rağmen tapınak kullanmamışlardır. 16. yüzyılda Diego de Almagro ve Pedro de Valdivia eşliğinde İspanyollar, kumanyalarını ikmal etmek maksadıyla köye ayak basmışlardır. San Pedro zaman içinde Bolivya'ya da ait olmuştur. == Ayrıca bakınız == Pumapunku == Dış bağlantılar == Wikimedia Commons'ta San Pedro de Atacama ile ilgili çoklu ortam belgeleri bulunur. SanPedrodeAtacama.Net & Org15 Ağustos 2018 tarihinde Wayback Machine sitesinde arşivlendi. San Pedro de Atacama resmi sitesi(İngilizce ve ispanyolca)12 Nisan 2006 tarihinde Wayback Machine sitesinde arşivlendi. Museo Arqueológico R. P. Gustavo Le Paige (İspanyolca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 420,
+      "char_count": 3053,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.464059",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 74,
+      "content": "San Pedro de Atacama, Şili'nin kuzeyinde, Antofagasta Bölgesinde bir köy.",
+      "char_count": 73,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 74,
+      "end_char": 386,
+      "content": "== Coğrafya == San Pedro, Atacama Çölü'nde bir vaha köyüdür. Salar de Atacama'nın (Atacama Tuz Gölü) batı kıyısında bulunur. Bugün için, çöl turizminin en sevilen yerlerinden biridir. Çöldeki bu yeşil lekenin su kaynağı, Andlar'dan gelip, hemen yanı başındaki Salar de Atacama ya karışan Rio San Pedro nehridir.",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0002",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 386,
+      "end_char": 428,
+      "content": "== Nüfus == 2500 kişilik nüfusa sahiptir.",
+      "char_count": 41,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0003",
+      "section": "== Çevrenin görülmeye değer yerleri ==",
+      "heading_path": "== Çevrenin görülmeye değer yerleri ==",
+      "start_char": 428,
+      "end_char": 1428,
+      "content": "== Çevrenin görülmeye değer yerleri == Belçikalı Gustavo le Paige tarafından kurulan Padre R. P arkeoloji müzesi. Müzede çok sayıda çölde bulunan nesneler gösterilir ki, bunlar İnka mumyaları, takı, tekstil eşyası, seramiklerdir. San Pedro de Atacama Kilisesi. Şili'nin en eski kiliselerinden biri olup, çatısı kaktüs gövdelerinden inşa edilmiştir. Flamingoların da görülebileceği Salar de Atacama tuz gölü. Dünya'nın en yüksek konumdaki gayzeri olan, And yaylalarında, San Pedro de Atacama'dan 2000 m daha yüksekteki El Tatio Gayzeri. Valle de la Luna (Ay vadisi) Calama şehri ile San Pedro de Atacama arasında kalan, özellikle çölde güneş batımı ile doğumunun, tabiat gösterisi halini aldığı vadi. Puritama termal kaynakları. Bir vadi içindeki vahada 30 °C'lik suyu ile kaplıca amaçlı kullanılmaktadır. Valle de la Muerte (Ölüm vadisi). Atacameño'ların eski köyleri olan Tulor harabeleri. Miscanti ve Miñique lagünleri. Andların 4000 m yüksekliğinde bulunan bu lagünlerde sıra dışı bir tabiat vardı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Çevrenin görülmeye değer yerleri ==",
+      "heading_path": "== Çevrenin görülmeye değer yerleri ==",
+      "start_char": 1228,
+      "end_char": 1430,
+      "content": "dır. Valle de la Muerte (Ölüm vadisi). Atacameño'ların eski köyleri olan Tulor harabeleri. Miscanti ve Miñique lagünleri. Andların 4000 m yüksekliğinde bulunan bu lagünlerde sıra dışı bir tabiat vardır.",
+      "char_count": 202,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0005",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1431,
+      "end_char": 2431,
+      "content": "== Tarihçe == Yakınlarındaki Puna bölgesinde, 11.000 yıl önce ilk yerleşimlerin olduğu tahmin edilir. Bu bölgenin çok eski sahipleri Atacameños diye adlandırılan uygarlık, San Pedro kültürünün kurucuları olup Atacama Çölü'nün vahalarında yaşamışlardır. Bu halk bölgedeki ilk tarımla uğraşan kişilerdi. Tarıma uygun alan çok küçük olduğundan tarım terasları inşa ettiler, suni sulama yaptılar ve lama gübresi kullandılar. Çeşitli tahıl, mısır, pirinç, incir, bal kabağı ve patates ürettiler. Lama ve Alpaka etlerinden faydalanan Atacameñolar ayrıca bu hayvanların kürkünden de giysi olarak istifade ettiler.Kıyı şeridindeki şehirlerle ticarette, yine bu hayvanlar taşıyıcı olarak kullanıldı. Bu insanlar yine el ve sanat işçiliğinde çok gelişmişlerdi. Ayrıca zamanları çok erken olan metalurjiyi keşfetmeleri, bakır ve bronz üretim bilgisine sahip olmaları da söz konusudur. Atacameñolar ölümden sonra yaşama inandıkları için, eşya, giysi ve yiyeceklerle gömülmüşlerdir. Doğa varlıklarına tapmalarına ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 2231,
+      "end_char": 2650,
+      "content": "tmeleri, bakır ve bronz üretim bilgisine sahip olmaları da söz konusudur. Atacameñolar ölümden sonra yaşama inandıkları için, eşya, giysi ve yiyeceklerle gömülmüşlerdir. Doğa varlıklarına tapmalarına rağmen tapınak kullanmamışlardır. 16. yüzyılda Diego de Almagro ve Pedro de Valdivia eşliğinde İspanyollar, kumanyalarını ikmal etmek maksadıyla köye ayak basmışlardır. San Pedro zaman içinde Bolivya'ya da ait olmuştur.",
+      "char_count": 419,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0007",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2651,
+      "end_char": 2682,
+      "content": "== Ayrıca bakınız == Pumapunku",
+      "char_count": 30,
+      "token_estimate": 7
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2682,
+      "end_char": 3053,
+      "content": "== Dış bağlantılar == Wikimedia Commons'ta San Pedro de Atacama ile ilgili çoklu ortam belgeleri bulunur. SanPedrodeAtacama.Net & Org15 Ağustos 2018 tarihinde Wayback Machine sitesinde arşivlendi. San Pedro de Atacama resmi sitesi(İngilizce ve ispanyolca)12 Nisan 2006 tarihinde Wayback Machine sitesinde arşivlendi. Museo Arqueológico R. P. Gustavo Le Paige (İspanyolca)",
+      "char_count": 371,
+      "token_estimate": 92
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Padre R. P arkeoloji müzesi kim tarafından kurulmuştur?",
+        "answer": "Belçikalı Gustavo le Paige.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Şili'nin Antofagasta Bölgesi'nde yer alan San Pedro de Atacama'yı coğrafi olarak eşsiz kılan özellikler nelerdir?",
+        "answer": "San Pedro de Atacama, Şili'nin kuzeyindeki Antofagasta Bölgesi'nde, Atacama Çölü'nde bir vaha köyü olarak Salar de Atacama'nın batı kıyısında bulunur. Bu köyün su kaynağı, Andlar'dan gelip hemen yanı başındaki Salar de Atacama'ya karışan Rio San Pedro nehridir. Bu özellikler, onu çöl turizmi için sevilen bir yer haline getiren eşsiz bir coğrafi konuma sahip kılar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

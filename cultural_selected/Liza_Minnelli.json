@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "lizaminnelli_4c36c431",
+    "title": "Liza Minnelli",
+    "url": "https://tr.wikipedia.org/wiki/Liza_Minnelli",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:58.176987",
+    "content": "Liza May Minnelli (d. 12 Mart 1946; Hollywood, Los Angeles), Amerikalı oyuncu ve şarkıcıdır. Oz Büyücüsü ile tanınan Judy Garland'ın kızıdır. == Filmografi == In the Good Old Summertime (1949) The Long, Long Trailer (1954) Charlie Bubbles (1967) The Sterile Cuckoo (1969) Tell Me That You Love Me, Junie Moon (1970) Cabaret (1972) Just One More Time (1974) That's Entertainment! (1974) Journey Back to Oz (1974) (voice) Lucky Lady (1975) Silent Movie (1976) A Matter of Time (1976) New York, New York (1977) Arthur (1981) The King of Comedy (1983) The Muppets Take Manhattan (1984) That's Dancing! (1985) Pinocchio and the Emperor of the Night (1987) Rent-A-Cop (1987) Arthur 2: On the Rocks (1988) Stepping Out (1991) A Century of Cinema (1994) Unzipped (1995) The OH in Ohio (2006) Broadway: Beyond the Golden Age (2008) Katie's Blues (2008) Sex and the City 2 (2010) == Albümleri == === Stüdyo albümleri === Liza! Liza! (1964) US #115 It Amazes Me (1965) There Is a Time (1966) Liza Minnelli (1968) Come Saturday Morning (1969) New Feelin' (1970) US #158 The Singer (1973) US #38 UK #45 Tropical Nights (1977) Results (1989) US #128 UK #6, produced by Pet Shop Boys Gently (1996) US #156 UK #58 Liza's at the Palace...! (2009) === Konser albümleri === Judy Garland and Liza Minnelli Live at the London Palladium (1965) US #41 Liza Minnelli: Live at the Olympia in Paris (1972, recorded in December 1969) Liza Minnelli: Live at the Winter Garden (1974) US #150 Live at Carnegie Hall (1981) Liza Minnelli at Carnegie Hall (1987) US #156 Liza: Live from Radio City Music Hall (1992) Aznavour Minnelli: Paris, Palais des Congrès (1995) Minnelli on Minnelli: Live at the Palace (1999) Liza's Back (2002) === Derleme albümleri === Liza Minnelli: The Complete A&M Recordings (2008) === Film müzikleri === Best Foot Forward (1963) (Original Cast Recording) Flora the Red Menace (1965) (Original Cast Recording) US #115 The Dangerous Christmas of Red Riding Hood (1966) (soundtrack) Cabaret (1972) (soundtrack) US #25 UK #13 Liza with a 'Z' (1972) (soundtrack) US #19 UK #9 Lucky Lady (1975) (soundtrack) A Matter of Time (1976) (soundtrack) New York, New York (1977) (soundtrack) US #50 The Act (1978) (Original Cast Recording) The Rink (1984) (Original Cast Recording) Stepping Out (1991) (soundtrack) Music from The Life: A New Musical (1995) == Dış bağlantılar == Liza Minnelli 26 Mart 2020 tarihinde Wayback Machine sitesinde arşivlendi., official Instagram IMDb'de Liza Minnelli IBDB'de Liza Minnelli.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 410,
+      "char_count": 2501,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.561453",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 142,
+      "content": "Liza May Minnelli (d. 12 Mart 1946; Hollywood, Los Angeles), Amerikalı oyuncu ve şarkıcıdır. Oz Büyücüsü ile tanınan Judy Garland'ın kızıdır.",
+      "char_count": 141,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0001",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 142,
+      "end_char": 870,
+      "content": "== Filmografi == In the Good Old Summertime (1949) The Long, Long Trailer (1954) Charlie Bubbles (1967) The Sterile Cuckoo (1969) Tell Me That You Love Me, Junie Moon (1970) Cabaret (1972) Just One More Time (1974) That's Entertainment! (1974) Journey Back to Oz (1974) (voice) Lucky Lady (1975) Silent Movie (1976) A Matter of Time (1976) New York, New York (1977) Arthur (1981) The King of Comedy (1983) The Muppets Take Manhattan (1984) That's Dancing! (1985) Pinocchio and the Emperor of the Night (1987) Rent-A-Cop (1987) Arthur 2: On the Rocks (1988) Stepping Out (1991) A Century of Cinema (1994) Unzipped (1995) The OH in Ohio (2006) Broadway: Beyond the Golden Age (2008) Katie's Blues (2008) Sex and the City 2 (2010)",
+      "char_count": 727,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0002",
+      "section": "=== Stüdyo albümleri ===",
+      "heading_path": "=== Stüdyo albümleri ===",
+      "start_char": 886,
+      "end_char": 1230,
+      "content": "=== Stüdyo albümleri === Liza! Liza! (1964) US #115 It Amazes Me (1965) There Is a Time (1966) Liza Minnelli (1968) Come Saturday Morning (1969) New Feelin' (1970) US #158 The Singer (1973) US #38 UK #45 Tropical Nights (1977) Results (1989) US #128 UK #6, produced by Pet Shop Boys Gently (1996) US #156 UK #58 Liza's at the Palace...! (2009)",
+      "char_count": 343,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0003",
+      "section": "=== Konser albümleri ===",
+      "heading_path": "=== Konser albümleri ===",
+      "start_char": 1230,
+      "end_char": 1702,
+      "content": "=== Konser albümleri === Judy Garland and Liza Minnelli Live at the London Palladium (1965) US #41 Liza Minnelli: Live at the Olympia in Paris (1972, recorded in December 1969) Liza Minnelli: Live at the Winter Garden (1974) US #150 Live at Carnegie Hall (1981) Liza Minnelli at Carnegie Hall (1987) US #156 Liza: Live from Radio City Music Hall (1992) Aznavour Minnelli: Paris, Palais des Congrès (1995) Minnelli on Minnelli: Live at the Palace (1999) Liza's Back (2002)",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0004",
+      "section": "=== Derleme albümleri ===",
+      "heading_path": "=== Derleme albümleri ===",
+      "start_char": 1702,
+      "end_char": 1778,
+      "content": "=== Derleme albümleri === Liza Minnelli: The Complete A&M Recordings (2008)",
+      "char_count": 75,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0005",
+      "section": "=== Film müzikleri ===",
+      "heading_path": "=== Film müzikleri ===",
+      "start_char": 1778,
+      "end_char": 2340,
+      "content": "=== Film müzikleri === Best Foot Forward (1963) (Original Cast Recording) Flora the Red Menace (1965) (Original Cast Recording) US #115 The Dangerous Christmas of Red Riding Hood (1966) (soundtrack) Cabaret (1972) (soundtrack) US #25 UK #13 Liza with a 'Z' (1972) (soundtrack) US #19 UK #9 Lucky Lady (1975) (soundtrack) A Matter of Time (1976) (soundtrack) New York, New York (1977) (soundtrack) US #50 The Act (1978) (Original Cast Recording) The Rink (1984) (Original Cast Recording) Stepping Out (1991) (soundtrack) Music from The Life: A New Musical (1995)",
+      "char_count": 561,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2340,
+      "end_char": 2501,
+      "content": "== Dış bağlantılar == Liza Minnelli 26 Mart 2020 tarihinde Wayback Machine sitesinde arşivlendi., official Instagram IMDb'de Liza Minnelli IBDB'de Liza Minnelli.",
+      "char_count": 161,
+      "token_estimate": 40
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "The film 'Cabaret' was released in what year?",
+        "answer": "1972",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Liza Minnelli'nin filmografisinde, annesi Judy Garland'ın ünlü olduğu Oz temasıyla nasıl bir bağlantı görülmektedir?",
+        "answer": "Liza Minnelli, annesi Judy Garland'ın Oz Büyücüsü ile tanınmasına benzer şekilde, 1974 yapımı Journey Back to Oz adlı filmde seslendirme yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

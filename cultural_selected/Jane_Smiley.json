@@ -1,0 +1,144 @@
+{
+  "article": {
+    "id": "janesmiley_cbf25caa",
+    "title": "Jane Smiley",
+    "url": "https://tr.wikipedia.org/wiki/Jane_Smiley",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:27.359189",
+    "content": "Jane Smiley (26 Eylül, 1949) doğumlu Amerikalı, romancı. A Thousand Acres (1991) romanı ile 1992 yılında Kurgu dalında Pulitzer Ödülü'nü kazanmıştır. == Biyografi == Los Angeles doğumlu Smiley, Webster Groves, Missouri, St. Louis, Missouri, St. Louis'in banliyösünde büyüdü. \"Community School (Missouri) Community School\" ve \"John Burroughs School\" 'dan mezun oldu. \"Vassar College\" 'da (1971) edebiyat bölümünden mezun olduktan sonra Iowa Üniversitesi'nde Güzel Sanatlar dalında yüksek lisans ve doktora derecesi kazandı. === Kariyer === Smiley 1980 yılında ilk romanı Barn Blind 'ı yayınladı ve 1985 yılında \"Lily\" isimli kısa öyküsü ile O. Henry Ödülü'ni kazandı. William Shakespeare'in King Lear 'ından uyarlanan en çok satan romanı A Thousand Acres ile Kurgu dalında Pulitzer Ödülü'nü kazandı. Bu romanı 1997 yılında A Thousand Acres (film) olarak sinemaya uyarlandı. The Age of Grief adlı romanı, 2002 yılında Diş Doktorlarının Gizli Hayatları filmine uyarlandı. \"Feminism Meets the Free Market\" isimli makalesi Washington Post yazarı Leslie Morgan Steiner'in Mommy Wars antolojisine girdi. Smiley şu an Nesiller boyunca bir Iowa ailesiyle ilgili bir roman üçlemesi olan ve ilk bölümü Some Luck 2014 Random House tarafından yayınlanan çalışmasına devam etmektedir.. == Çalışmaları ve Eserleri == === Romanlar === Barn Blind (1980) At Paradise Gate (1981) Duplicate Keys (1984) The Greenlanders (1984) A Thousand Acres (1991) Moo (1995) The All-True Travels and Adventures of Lidie Newton (1998) Horse Heaven (2000) Good Faith (2003) Ten Days in the Hills (2007) Private Life (2010) Some Luck (2014) Early Warning (April, 2015) Golden Age (October 20, 2015) === Kısa Öyküler === The Age of Grief (1987) Ordinary Love & Good Will (1989) === Kurgu olmayan kitaplar === Catskill Crafts (1988) Charles Dickens (2003) A Year at the Races: Reflections on Horses, Humans, Love, Money, and Luck (2004) Thirteen Ways of Looking at the Novel (2005) The Man Who Invented The Computer (2010) === Genç yetişkin romanları === The Georges and the Jewels (2009) A Good Horse (2010) True Blue (2011) Pie in the Sky (2012) Gee Whiz (2013) === TV === \"In Search of Crimes Past,\" episode of Homicide: Life on the Street (teleplay; story by Henry Bromell & Julie Martin) (1995) == Kaynakça == == Dış bağlantılar == 2004 Slate article: \"The unteachable ignorance of the red states\" Write TV Public Television Interview with Jane Smiley 6 Aralık 2016 tarihinde Wayback Machine sitesinde arşivlendi. 2003 interview of Jane Smiley, IdentityTheory 13 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. 'Jane Smiley's Good Faith' 20 Aralık 2016 tarihinde Wayback Machine sitesinde arşivlendi., review of Good Faith in the Oxonian Review 2010 Monterey Weekly article: \"In her new novel, Private Life, the Pulitzer Prize-winning author uses family history as fictional fodder.\" KCRW Bookworm Interview",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 439,
+      "char_count": 2885,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.990249",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 150,
+      "content": "Jane Smiley (26 Eylül, 1949) doğumlu Amerikalı, romancı. A Thousand Acres (1991) romanı ile 1992 yılında Kurgu dalında Pulitzer Ödülü'nü kazanmıştır.",
+      "char_count": 149,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 150,
+      "end_char": 523,
+      "content": "== Biyografi == Los Angeles doğumlu Smiley, Webster Groves, Missouri, St. Louis, Missouri, St. Louis'in banliyösünde büyüdü. \"Community School (Missouri) Community School\" ve \"John Burroughs School\" 'dan mezun oldu. \"Vassar College\" 'da (1971) edebiyat bölümünden mezun olduktan sonra Iowa Üniversitesi'nde Güzel Sanatlar dalında yüksek lisans ve doktora derecesi kazandı.",
+      "char_count": 372,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0002",
+      "section": "=== Kariyer ===",
+      "heading_path": "=== Kariyer ===",
+      "start_char": 523,
+      "end_char": 1272,
+      "content": "=== Kariyer === Smiley 1980 yılında ilk romanı Barn Blind 'ı yayınladı ve 1985 yılında \"Lily\" isimli kısa öyküsü ile O. Henry Ödülü'ni kazandı. William Shakespeare'in King Lear 'ından uyarlanan en çok satan romanı A Thousand Acres ile Kurgu dalında Pulitzer Ödülü'nü kazandı. Bu romanı 1997 yılında A Thousand Acres (film) olarak sinemaya uyarlandı. The Age of Grief adlı romanı, 2002 yılında Diş Doktorlarının Gizli Hayatları filmine uyarlandı. \"Feminism Meets the Free Market\" isimli makalesi Washington Post yazarı Leslie Morgan Steiner'in Mommy Wars antolojisine girdi. Smiley şu an Nesiller boyunca bir Iowa ailesiyle ilgili bir roman üçlemesi olan ve ilk bölümü Some Luck 2014 Random House tarafından yayınlanan çalışmasına devam etmektedir..",
+      "char_count": 748,
+      "token_estimate": 187
+    },
+    {
+      "id": "c0003",
+      "section": "=== Romanlar ===",
+      "heading_path": "=== Romanlar ===",
+      "start_char": 1302,
+      "end_char": 1663,
+      "content": "=== Romanlar === Barn Blind (1980) At Paradise Gate (1981) Duplicate Keys (1984) The Greenlanders (1984) A Thousand Acres (1991) Moo (1995) The All-True Travels and Adventures of Lidie Newton (1998) Horse Heaven (2000) Good Faith (2003) Ten Days in the Hills (2007) Private Life (2010) Some Luck (2014) Early Warning (April, 2015) Golden Age (October 20, 2015)",
+      "char_count": 360,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0004",
+      "section": "=== Kısa Öyküler ===",
+      "heading_path": "=== Kısa Öyküler ===",
+      "start_char": 1663,
+      "end_char": 1741,
+      "content": "=== Kısa Öyküler === The Age of Grief (1987) Ordinary Love & Good Will (1989)",
+      "char_count": 77,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0005",
+      "section": "=== Kurgu olmayan kitaplar ===",
+      "heading_path": "=== Kurgu olmayan kitaplar ===",
+      "start_char": 1741,
+      "end_char": 1985,
+      "content": "=== Kurgu olmayan kitaplar === Catskill Crafts (1988) Charles Dickens (2003) A Year at the Races: Reflections on Horses, Humans, Love, Money, and Luck (2004) Thirteen Ways of Looking at the Novel (2005) The Man Who Invented The Computer (2010)",
+      "char_count": 243,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0006",
+      "section": "=== Genç yetişkin romanları ===",
+      "heading_path": "=== Genç yetişkin romanları ===",
+      "start_char": 1985,
+      "end_char": 2126,
+      "content": "=== Genç yetişkin romanları === The Georges and the Jewels (2009) A Good Horse (2010) True Blue (2011) Pie in the Sky (2012) Gee Whiz (2013)",
+      "char_count": 140,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0007",
+      "section": "=== TV ===",
+      "heading_path": "=== TV ===",
+      "start_char": 2126,
+      "end_char": 2262,
+      "content": "=== TV === \"In Search of Crimes Past,\" episode of Homicide: Life on the Street (teleplay; story by Henry Bromell & Julie Martin) (1995)",
+      "char_count": 135,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2277,
+      "end_char": 2885,
+      "content": "== Dış bağlantılar == 2004 Slate article: \"The unteachable ignorance of the red states\" Write TV Public Television Interview with Jane Smiley 6 Aralık 2016 tarihinde Wayback Machine sitesinde arşivlendi. 2003 interview of Jane Smiley, IdentityTheory 13 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. 'Jane Smiley's Good Faith' 20 Aralık 2016 tarihinde Wayback Machine sitesinde arşivlendi., review of Good Faith in the Oxonian Review 2010 Monterey Weekly article: \"In her new novel, Private Life, the Pulitzer Prize-winning author uses family history as fictional fodder.\" KCRW Bookworm Interview",
+      "char_count": 608,
+      "token_estimate": 152
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Smiley, Kurgu dalında Pulitzer Ödülü'nü hangi romanıyla kazandı?",
+        "answer": "A Thousand Acres",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jane Smiley, kariyerinde hangi romanla Pulitzer Ödülü'nü kazanmıştır ve bu önemli ödülü almadan önce hangi yükseköğrenim kurumlarında hangi dereceleri almıştır?",
+        "answer": "Jane Smiley, Pulitzer Ödülü'nü A Thousand Acres romanıyla kazanmıştır. Bu ödülü almadan önce Vassar College'da edebiyat bölümünden mezun olmuş ve Iowa Üniversitesi'nde Güzel Sanatlar dalında yüksek lisans ve doktora dereceleri almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

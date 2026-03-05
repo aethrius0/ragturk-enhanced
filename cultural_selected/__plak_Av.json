@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "plakav_33e604d3",
+    "title": "Çıplak Av",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87%C4%B1plak_Av",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:21.761134",
+    "content": "Çıplak Av (The Naked Prey) konusu 19. yüzyıl Afrika’sında geçen küçük bütçeli bir macera filmidir. Kısmen 1775-1812 yılları arasında yaşamış olan gezgin John Colter’in anılarına dayanan filmin yönetmeni ve başrol oyuncusu Cornel Wilde ‘dır. Bir iki sahne dışında konuşma olmayan film Güney Afrika ormanlarında çekilmiştir. == Konu == Adı belirtilmeyen başrol oyuncusu bir gezi kılavuzudur ve ormanlarda Avrupalıları gezdirmektedir. Böyle bir tur sırasında birkaç yerli ile karşılaşırlar. Yerliler hediye istemektedir. Kılavuz yerlilerin isteklerinin karşılanmasını ister. Fakat durumun ciddiyetinin farkında olmayan gezi grubu hem hediye vermeyi reddeder, hem de yerlilere hakaret eder. Grup gezisine devam ederken yerliler bütün kabileyi toplayıp gezi grubuna saldırırlar. Hediye esirgemenin bedeli çok ağır olmuştur. Gezi grubunun üyeleri bir bir işkence ile öldürülür. Kılavuza ise daha farklı bir ölüm şekli uygun görülmüştür. Önce çırılçıplak soyulur. Daha sonra bir mızrak atılır. Kılavuzun mızrağın düştüğü yere kadar koşmasına izin verilir. Ancak kılavuz mızrak hizasına geldiğinde, kendisini silahlı bir savaşçı takip etmeye başlar. Bu savaşçı mızrağı geçtikten sonra ikinci bir savaşçı, o da mızrak hizasını geçince üçüncü bir savaşçı vb. izleyenler arasına katılır. Kılavuz kendisini öldürmeye çalışan ilk savaşçı ile savaşır ve etkisiz hale getirerek silahlarını alır. Ancak geriden gelenler vardır. Vahşi ortamda takip günlerce devam eder. Bu sırada bir başka köyde yaşayan küçük bir yerli kız esir tüccarlarından kaçmaktadır. Ormanda karşılaşan kılavuz ile küçük kız birbirlerinin dilini bilmedikleri halde arkadaş olurlar ve yola birlikte devam ederler. Takipçileri geride bıraktığını düşünen kılavuz rahatlamıştır. Şarkılar söyler. Küçük kız da kendi dilinde şarkılar söyler. Bu arada küçük kız bir ırmağı geçerken boğulma tehlikesi geçiren kılavuza yardımcı olur. Ancak daha sonra kız köyüne geldiği için kılavuzdan ayrılır. Kılavuz bir kaleye giderek takipçisinden kurtulmayı planlamıştır. Fakat son anda kendini izleyen son savaşçının izini bulduğunu anlar. Kaledekilerin yardımıyla öldürülmekten kurtulur. == Oyuncuklar ve karakterler == Cornel Wilde: Kılavuz Gert van den Bergh: Tur grubundan bir gezgin, kabile tarafından işkence ile öldürülür. Morison Gampu: Kabile şefi Ken Gampu : Kabile savaşçılarının şefi. Bella Randels : Küçük Yerli kız == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 325,
+      "char_count": 2380,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.708079",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 323,
+      "content": "Çıplak Av (The Naked Prey) konusu 19. yüzyıl Afrika’sında geçen küçük bütçeli bir macera filmidir. Kısmen 1775-1812 yılları arasında yaşamış olan gezgin John Colter’in anılarına dayanan filmin yönetmeni ve başrol oyuncusu Cornel Wilde ‘dır. Bir iki sahne dışında konuşma olmayan film Güney Afrika ormanlarında çekilmiştir.",
+      "char_count": 322,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0001",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 323,
+      "end_char": 1323,
+      "content": "== Konu == Adı belirtilmeyen başrol oyuncusu bir gezi kılavuzudur ve ormanlarda Avrupalıları gezdirmektedir. Böyle bir tur sırasında birkaç yerli ile karşılaşırlar. Yerliler hediye istemektedir. Kılavuz yerlilerin isteklerinin karşılanmasını ister. Fakat durumun ciddiyetinin farkında olmayan gezi grubu hem hediye vermeyi reddeder, hem de yerlilere hakaret eder. Grup gezisine devam ederken yerliler bütün kabileyi toplayıp gezi grubuna saldırırlar. Hediye esirgemenin bedeli çok ağır olmuştur. Gezi grubunun üyeleri bir bir işkence ile öldürülür. Kılavuza ise daha farklı bir ölüm şekli uygun görülmüştür. Önce çırılçıplak soyulur. Daha sonra bir mızrak atılır. Kılavuzun mızrağın düştüğü yere kadar koşmasına izin verilir. Ancak kılavuz mızrak hizasına geldiğinde, kendisini silahlı bir savaşçı takip etmeye başlar. Bu savaşçı mızrağı geçtikten sonra ikinci bir savaşçı, o da mızrak hizasını geçince üçüncü bir savaşçı vb. izleyenler arasına katılır. Kılavuz kendisini öldürmeye çalışan ilk savaşç",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 1123,
+      "end_char": 2123,
+      "content": "kip etmeye başlar. Bu savaşçı mızrağı geçtikten sonra ikinci bir savaşçı, o da mızrak hizasını geçince üçüncü bir savaşçı vb. izleyenler arasına katılır. Kılavuz kendisini öldürmeye çalışan ilk savaşçı ile savaşır ve etkisiz hale getirerek silahlarını alır. Ancak geriden gelenler vardır. Vahşi ortamda takip günlerce devam eder. Bu sırada bir başka köyde yaşayan küçük bir yerli kız esir tüccarlarından kaçmaktadır. Ormanda karşılaşan kılavuz ile küçük kız birbirlerinin dilini bilmedikleri halde arkadaş olurlar ve yola birlikte devam ederler. Takipçileri geride bıraktığını düşünen kılavuz rahatlamıştır. Şarkılar söyler. Küçük kız da kendi dilinde şarkılar söyler. Bu arada küçük kız bir ırmağı geçerken boğulma tehlikesi geçiren kılavuza yardımcı olur. Ancak daha sonra kız köyüne geldiği için kılavuzdan ayrılır. Kılavuz bir kaleye giderek takipçisinden kurtulmayı planlamıştır. Fakat son anda kendini izleyen son savaşçının izini bulduğunu anlar. Kaledekilerin yardımıyla öldürülmekten kurtulu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 1923,
+      "end_char": 2125,
+      "content": "ılavuzdan ayrılır. Kılavuz bir kaleye giderek takipçisinden kurtulmayı planlamıştır. Fakat son anda kendini izleyen son savaşçının izini bulduğunu anlar. Kaledekilerin yardımıyla öldürülmekten kurtulur.",
+      "char_count": 202,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0004",
+      "section": "== Oyuncuklar ve karakterler ==",
+      "heading_path": "== Oyuncuklar ve karakterler ==",
+      "start_char": 2126,
+      "end_char": 2366,
+      "content": "== Oyuncuklar ve karakterler == Cornel Wilde: Kılavuz Gert van den Bergh: Tur grubundan bir gezgin, kabile tarafından işkence ile öldürülür. Morison Gampu: Kabile şefi Ken Gampu : Kabile savaşçılarının şefi. Bella Randels : Küçük Yerli kız",
+      "char_count": 239,
+      "token_estimate": 59
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Metinde adı belirtilmeyen başrol oyuncusunun mesleği nedir?",
+        "answer": "Bir gezi kılavuzudur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Çıplak Av filminde başrol oyuncusunun hayatta kalma mücadelesini başlatan olaylar dizisi nedir ve bu tehlikeli yolculuğunun temel aşamaları nelerdir?",
+        "answer": "Hayatta kalma mücadelesi, gezi kılavuzunun Avrupalıları gezdirdiği sırada karşılaştıkları yerlilere gezi grubunun hediye vermeyi reddedip hakaret etmesiyle başlar. Bu durum, yerlilerin saldırısına yol açar ve diğer grup üyeleri işkenceyle öldürülürken, kılavuz çıplak soyularak ve bir mızrak atışıyla kendisine verilen mesafenin ardından silahlı savaşçılar tarafından takip edilmeye başlanır. Bu tehlikeli yolculukta kılavuz, ilk savaşçıyla savaşır ve silahlarını alır, günler süren takip devam eder. Daha sonra esir tüccarlarından kaçan küçük bir yerli kızla arkadaş olur ve onunla birlikte seyahat eder, bu kız kılavuza ırmak geçerken yardım eder. Kızın köyüne varmasıyla yolları ayrılır. Sonunda kılavuz, takipçilerinden kurtulmak için bir kaleye ulaşmayı planlar, ancak son anda kalan savaşçının izini bulduğunu fark eder ve kaledekilerin yardımıyla kurtulur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

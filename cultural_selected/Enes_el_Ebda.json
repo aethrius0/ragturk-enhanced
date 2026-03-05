@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "eneselebda_c2bae774",
+    "title": "Enes el-Ebda",
+    "url": "https://tr.wikipedia.org/wiki/Enes_el-Ebda",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:54.480460",
+    "content": "Enes el-Ebda (d. 1967), Mart 2016-Mayıs 2017 tarihleri arası Suriye Devrimi Muhalefet Güçleri Koalisyonu'nun başkanı olan Suriyeli bir politikacı. 6 Mayıs 2017'de görevinden istifa etti ve yerine Riad Seif getirildi. 29 Haziran 2019'da, ertesi gün Başbakan olarak atadığı Abdurrahman Mustafa'nın yerine Suriye Geçici Hükûmeti Başkanı seçildi. == Gençliği == Enes el-Ebda, Şam'ın banliyösünde doğdu. Daha sonra Ürdün'deki Yarmouk Üniversitesi'nde jeoloji eğitimi gördü ve İngiltere'deki Newcastle Üniversitesi'nde jeofizik üzerine master derecesi aldı. == Siyasi tarihi == 2006 yılında Enes el-Ebda ve diğer Suriye muhalefet eylemcileri, Londra'da Suriye'de Adalet ve Kalkınma Hareketi'ni kurdu. Aynı yıl Şam Deklarasyonu'na katıldı ve yurtdışındaki temsilcilerinden biri haline geldi. 2011'de Suriye İç Savaşı'nın başlamasından sonra Suriye Ulusal Konseyi'ni kurdu ve meclisin sekreterliğine seçildi. Konsey daha sonra Suriye Devrimci ve Muhalefet Güçleri Ulusal Koalisyonuna katıldı. Enes el-Ebda, Suriye Konferansı Cenevre'deki SNC delegesinin bir parçası oldu. 5 Mart 2016'da, Khaled Khoja'nın ardından Ulusal Koalisyon'un başkanlığına Enes el-Ebda seçildi. 9 Kasım 2016'da Enes el-Ebda Ulusal Koalisyonu, Donald Trump'ın Birleşik Devletler başkanlığına seçilmesinden sonra tebrik mesajı gönderdi. Ayrıca Frank-Walter Steinmeier'i Rusya'ya ekonomik yaptırımlar koyması için çağrıda bulundu. 5 Aralık 2016'da, Enes el-Ebda, Erbil'de düzenlenen basın konferansında, Irak Kürdistanı'ndaki Rojava Peşmerge güçlerinin Suriye'ye taşınmaları halinde istikrarı sağlayacak bir faktör olacağını ve Suriye Ordusu taraflarını desteklediğini söyledi. YPG liderliğindeki Suriye Demokratik Güçleri'nin (SDF) geçen hafta Rakka kentini geri almak için başlattıkları saldırı, YPG ve müttefik grupların Özgür Suriye Ordusu grupları gibi askeri ve sivil olarak nitelikli olmadığını tekrarlayarak mezhep çatışmalarına yol açacağını belirtti. Rakka, SNC tarafından desteklenen sadece Özgür Suriye Ordusu grupları ile Rakka'yı yeniden almak için nitelikli bir güçtür. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 260,
+      "char_count": 2062,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.597451",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 343,
+      "content": "Enes el-Ebda (d. 1967), Mart 2016-Mayıs 2017 tarihleri arası Suriye Devrimi Muhalefet Güçleri Koalisyonu'nun başkanı olan Suriyeli bir politikacı. 6 Mayıs 2017'de görevinden istifa etti ve yerine Riad Seif getirildi. 29 Haziran 2019'da, ertesi gün Başbakan olarak atadığı Abdurrahman Mustafa'nın yerine Suriye Geçici Hükûmeti Başkanı seçildi.",
+      "char_count": 342,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0001",
+      "section": "== Gençliği ==",
+      "heading_path": "== Gençliği ==",
+      "start_char": 343,
+      "end_char": 552,
+      "content": "== Gençliği == Enes el-Ebda, Şam'ın banliyösünde doğdu. Daha sonra Ürdün'deki Yarmouk Üniversitesi'nde jeoloji eğitimi gördü ve İngiltere'deki Newcastle Üniversitesi'nde jeofizik üzerine master derecesi aldı.",
+      "char_count": 208,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0002",
+      "section": "== Siyasi tarihi ==",
+      "heading_path": "== Siyasi tarihi ==",
+      "start_char": 552,
+      "end_char": 1552,
+      "content": "== Siyasi tarihi == 2006 yılında Enes el-Ebda ve diğer Suriye muhalefet eylemcileri, Londra'da Suriye'de Adalet ve Kalkınma Hareketi'ni kurdu. Aynı yıl Şam Deklarasyonu'na katıldı ve yurtdışındaki temsilcilerinden biri haline geldi. 2011'de Suriye İç Savaşı'nın başlamasından sonra Suriye Ulusal Konseyi'ni kurdu ve meclisin sekreterliğine seçildi. Konsey daha sonra Suriye Devrimci ve Muhalefet Güçleri Ulusal Koalisyonuna katıldı. Enes el-Ebda, Suriye Konferansı Cenevre'deki SNC delegesinin bir parçası oldu. 5 Mart 2016'da, Khaled Khoja'nın ardından Ulusal Koalisyon'un başkanlığına Enes el-Ebda seçildi. 9 Kasım 2016'da Enes el-Ebda Ulusal Koalisyonu, Donald Trump'ın Birleşik Devletler başkanlığına seçilmesinden sonra tebrik mesajı gönderdi. Ayrıca Frank-Walter Steinmeier'i Rusya'ya ekonomik yaptırımlar koyması için çağrıda bulundu. 5 Aralık 2016'da, Enes el-Ebda, Erbil'de düzenlenen basın konferansında, Irak Kürdistanı'ndaki Rojava Peşmerge güçlerinin Suriye'ye taşınmaları halinde istikr",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Siyasi tarihi ==",
+      "heading_path": "== Siyasi tarihi ==",
+      "start_char": 1352,
+      "end_char": 2047,
+      "content": "yaptırımlar koyması için çağrıda bulundu. 5 Aralık 2016'da, Enes el-Ebda, Erbil'de düzenlenen basın konferansında, Irak Kürdistanı'ndaki Rojava Peşmerge güçlerinin Suriye'ye taşınmaları halinde istikrarı sağlayacak bir faktör olacağını ve Suriye Ordusu taraflarını desteklediğini söyledi. YPG liderliğindeki Suriye Demokratik Güçleri'nin (SDF) geçen hafta Rakka kentini geri almak için başlattıkları saldırı, YPG ve müttefik grupların Özgür Suriye Ordusu grupları gibi askeri ve sivil olarak nitelikli olmadığını tekrarlayarak mezhep çatışmalarına yol açacağını belirtti. Rakka, SNC tarafından desteklenen sadece Özgür Suriye Ordusu grupları ile Rakka'yı yeniden almak için nitelikli bir güçtür.",
+      "char_count": 695,
+      "token_estimate": 173
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Enes el-Ebda, Ulusal Koalisyon'un başkanlığına ne zaman seçildi?",
+        "answer": "5 Mart 2016'da",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Enes el-Ebda'nın gençlik yıllarındaki eğitim geçmişinden başlayarak Suriye muhalefetindeki çeşitli liderlik pozisyonlarına yükselişinde hangi önemli adımlar ve roller yer almıştır?",
+        "answer": "Enes el-Ebda, Şam'ın banliyösünde doğdu ve Ürdün'deki Yarmouk Üniversitesi'nde jeoloji eğitimi ile İngiltere'deki Newcastle Üniversitesi'nde jeofizik üzerine yüksek lisans derecesi aldı. Siyasi kariyerine 2006'da Londra'da Suriye'de Adalet ve Kalkınma Hareketi'ni kurarak ve Şam Deklarasyonu'na katılarak başladı. 2011'de Suriye İç Savaşı'nın başlamasının ardından Suriye Ulusal Konseyi'ni kurdu ve meclisin sekreterliğine seçildi. Daha sonra bu konsey Suriye Devrimci ve Muhalefet Güçleri Ulusal Koalisyonu'na katıldı ve kendisi Mart 2016'dan Mayıs 2017'ye kadar koalisyonun başkanlığını yaptı. Son olarak, 29 Haziran 2019'da Suriye Geçici Hükûmeti Başkanı seçildi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

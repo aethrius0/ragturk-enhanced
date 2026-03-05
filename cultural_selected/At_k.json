@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "atk_7efa6526",
+    "title": "Atık",
+    "url": "https://tr.wikipedia.org/wiki/At%C4%B1k",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:25.861379",
+    "content": "Atık, kullanılmış, artık istenmeyen ve çevre için zarar oluşturan her türlü maddedir. Biyoloji'de ter, üre, dışkı gibi canlı artıkları da atık olarak kabul edilir. Atıklar teknolojik ve sosyal gelişmelere bağlı olarak insani gelişme ile ilişkilidir. Endüstriyel gelişme ve kullanılan malzemelerde meydana gelen değişmelere bağlı olarak zaman içinde atıkların ortaya çıkışı değişkenlik göstermiştir. Örneğin plastik ve nükleer teknolojinin doğuşuyla yeni atık türleri ortaya çıkmıştır. Bazı atık türleri ise ekonomik değerine bağlı olarak geri dönüşüm sürecine tabii tutulur. Bir bölgedeki atık türlerine ve miktarlarına bakıldığında o yöre halkının geçim kaynağını, yaşantısını, alışkanlıkarını vb birçok özelliği hakkında bilgi edebilmekte mümkün olmaktadır. Kentsel bölgelerden çıkan atıklarda yoğun olarak ambalaj atıkları görünürken köy ve beldelerde daha çok organik atık görülebilmektedir. Yine miktar olarak baktığımızda köy be beldelerde kente nazaran daha az miktarda atık çıkmaktadır. Şehirlerde kişi başına oluşan atık sayısına bakacak olursak bazı şehirlerin ''Aydın 1.60 kg, Aksaray 1.59 kg, Bingöl 1.49 kg, Sivas 1.4 kg, Antalya 1.36 kg, Bolu ve Isparta 1.2 kg, Manisa 1.16 kg, Bursa 1.02 kg, Konya 1.01 kg, Adana 1 kg, Samsun 0.94 kg, Mersin 0.84 kg, Erzincan 0.76 kg, Muş 0.64 kg, Trabzon 0.5 kg, Şırnak 0.43 kg, Mardin 0.4 kg'' olduğu görülmektedir. Aslında bu rakamlara bakarak oradaki insanların tüketim alışkanlıkları hakkında bize bilgi verdiği açıkça görülmektedir. Ancak sanayi devriminden sonra, dünya çapında toplu ve ucuz ürünler üreten montaj hattı faaliyetleri ivmelenerek hızlanmaya başladı. Artan nüfus ve şehirleşme de bu soruna eklenince global düzeyde önlenemez bir atık problemi baş gösterdi. Bu sorun ise sıfır atık felsefesiyle günümüzde önlenmeye çalışılmaktadır. Bunun için anaerobik sindirim, biyolojik bozunma, kompost, insinerasyon, mekanik biyolojik arıtma, fotodegradasyon, hurdacılık, atık ayırma, atık arıtma gibi yöntemler uygulanır. == Atık türleri == Atık yönetimi çerçevesinde atık türleri şunlardır; == Ayrıca bakınız == Türkiye'de çevre sorunları Çevre kirliliği Atık su arıtımı Küresel atık ticareti Tıbbi atık imhası Atık depolama tesisi Atık enerji Atık ısı Sıfır Atık Çöplük Enkaz == Dış bağlantılar == Curlie'de Atık (DMOZ tabanlı) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 320,
+      "char_count": 2302,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.225180",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Atık, kullanılmış, artık istenmeyen ve çevre için zarar oluşturan her türlü maddedir. Biyoloji'de ter, üre, dışkı gibi canlı artıkları da atık olarak kabul edilir. Atıklar teknolojik ve sosyal gelişmelere bağlı olarak insani gelişme ile ilişkilidir. Endüstriyel gelişme ve kullanılan malzemelerde meydana gelen değişmelere bağlı olarak zaman içinde atıkların ortaya çıkışı değişkenlik göstermiştir. Örneğin plastik ve nükleer teknolojinin doğuşuyla yeni atık türleri ortaya çıkmıştır. Bazı atık türleri ise ekonomik değerine bağlı olarak geri dönüşüm sürecine tabii tutulur. Bir bölgedeki atık türlerine ve miktarlarına bakıldığında o yöre halkının geçim kaynağını, yaşantısını, alışkanlıkarını vb birçok özelliği hakkında bilgi edebilmekte mümkün olmaktadır. Kentsel bölgelerden çıkan atıklarda yoğun olarak ambalaj atıkları görünürken köy ve beldelerde daha çok organik atık görülebilmektedir. Yine miktar olarak baktığımızda köy be beldelerde kente nazaran daha az miktarda atık çıkmaktadır. Şehir",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "n olarak ambalaj atıkları görünürken köy ve beldelerde daha çok organik atık görülebilmektedir. Yine miktar olarak baktığımızda köy be beldelerde kente nazaran daha az miktarda atık çıkmaktadır. Şehirlerde kişi başına oluşan atık sayısına bakacak olursak bazı şehirlerin ''Aydın 1.60 kg, Aksaray 1.59 kg, Bingöl 1.49 kg, Sivas 1.4 kg, Antalya 1.36 kg, Bolu ve Isparta 1.2 kg, Manisa 1.16 kg, Bursa 1.02 kg, Konya 1.01 kg, Adana 1 kg, Samsun 0.94 kg, Mersin 0.84 kg, Erzincan 0.76 kg, Muş 0.64 kg, Trabzon 0.5 kg, Şırnak 0.43 kg, Mardin 0.4 kg'' olduğu görülmektedir. Aslında bu rakamlara bakarak oradaki insanların tüketim alışkanlıkları hakkında bize bilgi verdiği açıkça görülmektedir. Ancak sanayi devriminden sonra, dünya çapında toplu ve ucuz ürünler üreten montaj hattı faaliyetleri ivmelenerek hızlanmaya başladı. Artan nüfus ve şehirleşme de bu soruna eklenince global düzeyde önlenemez bir atık problemi baş gösterdi. Bu sorun ise sıfır atık felsefesiyle günümüzde önlenmeye çalışılmaktadır.",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1979,
+      "content": " hızlanmaya başladı. Artan nüfus ve şehirleşme de bu soruna eklenince global düzeyde önlenemez bir atık problemi baş gösterdi. Bu sorun ise sıfır atık felsefesiyle günümüzde önlenmeye çalışılmaktadır. Bunun için anaerobik sindirim, biyolojik bozunma, kompost, insinerasyon, mekanik biyolojik arıtma, fotodegradasyon, hurdacılık, atık ayırma, atık arıtma gibi yöntemler uygulanır.",
+      "char_count": 379,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0003",
+      "section": "== Atık türleri ==",
+      "heading_path": "== Atık türleri ==",
+      "start_char": 1980,
+      "end_char": 2050,
+      "content": "== Atık türleri == Atık yönetimi çerçevesinde atık türleri şunlardır;",
+      "char_count": 69,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2050,
+      "end_char": 2236,
+      "content": "== Ayrıca bakınız == Türkiye'de çevre sorunları Çevre kirliliği Atık su arıtımı Küresel atık ticareti Tıbbi atık imhası Atık depolama tesisi Atık enerji Atık ısı Sıfır Atık Çöplük Enkaz",
+      "char_count": 185,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2236,
+      "end_char": 2288,
+      "content": "== Dış bağlantılar == Curlie'de Atık (DMOZ tabanlı)",
+      "char_count": 51,
+      "token_estimate": 12
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Atık nedir?",
+        "answer": "Atık, kullanılmış, artık istenmeyen ve çevre için zarar oluşturan her türlü maddedir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Atık türleri ve miktarlarındaki kentsel ve kırsal farklılıklar, genel atık sorununun insani gelişme, teknolojik ilerleme ve toplumsal değişimlerle nasıl ilişkilendiğini hangi yollarla ortaya koymaktadır?",
+        "answer": "Kentsel bölgelerde ambalaj atıkları yoğun olarak görülürken, köy ve beldelerde daha çok organik atıklar ve kente nazaran daha az miktarda atık çıkması, bir bölge halkının geçim kaynağı, yaşantısı ve alışkanlıkları hakkında bilgi vermektedir. Atıklar, teknolojik ve sosyal gelişmelere bağlı olarak insani gelişme ile ilişkili olup, endüstriyel gelişmeler ve kullanılan malzemelerdeki değişmelerle (örneğin plastik teknolojisinin doğuşu) zaman içinde yeni atık türleri ortaya çıkmıştır. Sanayi devriminden sonra toplu ve ucuz ürünler üreten montaj hattı faaliyetlerinin hızlanması, artan nüfus ve şehirleşme de global düzeyde önlenemez bir atık probleminin baş göstermesine neden olmuştur; şehirlerdeki kişi başına oluşan atık miktarları da oradaki insanların tüketim alışkanlıklarının bir göstergesidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

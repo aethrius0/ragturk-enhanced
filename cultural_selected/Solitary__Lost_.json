@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "solitarylost_5d843a8e",
+    "title": "Solitary (Lost)",
+    "url": "https://tr.wikipedia.org/wiki/Solitary_%28Lost%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:04.199703",
+    "content": "\"Solitary\", Lost dizisi 1. sezonunun 9. bölümüdür. 17 Kasım 2004'te yayınlanan bölümün yazarı David Fury, yönetmeni Greg Yaitanes'dir. Sayid merkezli bir bölümdür. == Konusu == Sayid sahil boyunca yürürken okyanustan gelen ve ormanın içine doğru giden bir kablo bulur. Ormanın içine doğru kabloyu takip ederek ilerler ve bir tuzağa düşer. Esrarengiz bir kadın onu başka bir yere götürerek bağlar ve ona Alex'in yerini sorar. Cevap alamadıkça Sayid'e elektrik vererek işkence eder. Sayid kadına kazayı ve yakaladıkları Fransız mesajını anlatır. Kadın kendini Danielle Rousseau olarak tanıtır ve o sinyali gönderenin kendi olduğunu söyler. Kadın Sayid'in eşyalarını karıştırarak bir kadın fotoğrafı bulur, Sayid fotoğraftaki kadının Nadia olduğunu söyler. Geriye dönüş sahnesinde Sayid'i bir tutukluyu sorguya çekip işkence ederken görüyoruz. Daha sonra o çıkıyor ve yerine başka bir tutuklu geliyor, Sayid'e sorularına cevap alana kadar ona işkence etmesi emrediliyor. Fakat Sayid tutuklu kadının çocukluk arkadaşı Nadia olduğunu anlıyor. Nadia daha önce de işkence gördüğünü ve Sayid ona ne yaparsa yapsın konuşmaya ikna olmayacağını söylüyor. Adada kampta herkes stres altındadır. Locke ve yeni av arkadaşı Ethan, Hurley'e yeni buldukları eşyaları verirler. Hurley bunun içinde golf eşyaları olduğunu fark eder ve kazazedelerin stres atmalarına yardım etmek için bir golf sahası hazırlar. Danielle, Sayid'e Nadia hakkında sorular sorar ve Sayid de onun kendi yüzünden öldüğünü söyler. Danielle kırık bir müzik kutusunu Sayid'e gösterir ve Sayid de onu tamir edebileceğini söyler. Danielle tamiratı yapması için Sayid'i bayıltarak başka yere taşır. Daha sonra Danielle bir bilim takımının üyesi olduğunu ve gemilerinin Tahiti'den 3 gün mesafede bu adaya çakıldığını anlatır. Adada Diğerlerinin olduğunu, takım arkadaşlarının onlar tarafından hasta edilerek öldürüldüğünü ve ormanda fısıldadıklarını anlatır. Sayid ona inanmaz ve müzik kutusunu tamire devam eder. Bitirdiğinde Danielle'in onu bırakmasını ister. Dışarıdan bir ses duyarlar ve Danielle Sayid'i yalnız bırakarak sesin peşine düşer. Geriye dönüş sahnesinde Sayid'in amiri ondan Nadia'yı öldürmesini istiyor. Oysa Sayid Nadia'nın kaçmasına yardım ediyor. O sırada amiri onları yakalıyor fakat Sayid onu öldürüyor. Nadia Sayid'in kendi ile beraber kaçacağını düşünürken Sayid kendini bacağından vurarak destek kuvvetler gelmeden Nadia'nın gitmesini istiyor. Danielle yokken Sayid onun ada hakkında çıkardığı bazı notları da alarak ambardan kaçar. Fakat o sırada Danielle gelir, Sayid ateş eder fakat silah çalışmaz. Danielle ekibini kendinin öldürdüğünü anlatır, çünkü onlara hastalık bulaşmıştır ve hastalık yayılmadan onları öldürmesi gerekmiştir. Sayid Danielle ile gitmesine izin vermesi için konuşur ve ikna etmeye çalışır. Gitmeden önce Alex'i sorar. Danielle, Alex'in kendi çocuğu olduğunu ve diğerleri tarafından alındığını anlatır. Sayid kendi kampına dönmek üzere giderken ormanda Danielle'ın bahsettiği fısıltıları duyar. == Dış bağlantılar == IMDb'de \"Solitary\"",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 414,
+      "char_count": 3033,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.202931",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 164,
+      "content": "\"Solitary\", Lost dizisi 1. sezonunun 9. bölümüdür. 17 Kasım 2004'te yayınlanan bölümün yazarı David Fury, yönetmeni Greg Yaitanes'dir. Sayid merkezli bir bölümdür.",
+      "char_count": 163,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 164,
+      "end_char": 1164,
+      "content": "== Konusu == Sayid sahil boyunca yürürken okyanustan gelen ve ormanın içine doğru giden bir kablo bulur. Ormanın içine doğru kabloyu takip ederek ilerler ve bir tuzağa düşer. Esrarengiz bir kadın onu başka bir yere götürerek bağlar ve ona Alex'in yerini sorar. Cevap alamadıkça Sayid'e elektrik vererek işkence eder. Sayid kadına kazayı ve yakaladıkları Fransız mesajını anlatır. Kadın kendini Danielle Rousseau olarak tanıtır ve o sinyali gönderenin kendi olduğunu söyler. Kadın Sayid'in eşyalarını karıştırarak bir kadın fotoğrafı bulur, Sayid fotoğraftaki kadının Nadia olduğunu söyler. Geriye dönüş sahnesinde Sayid'i bir tutukluyu sorguya çekip işkence ederken görüyoruz. Daha sonra o çıkıyor ve yerine başka bir tutuklu geliyor, Sayid'e sorularına cevap alana kadar ona işkence etmesi emrediliyor. Fakat Sayid tutuklu kadının çocukluk arkadaşı Nadia olduğunu anlıyor. Nadia daha önce de işkence gördüğünü ve Sayid ona ne yaparsa yapsın konuşmaya ikna olmayacağını söylüyor. Adada kampta herkes ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 964,
+      "end_char": 1964,
+      "content": "or. Fakat Sayid tutuklu kadının çocukluk arkadaşı Nadia olduğunu anlıyor. Nadia daha önce de işkence gördüğünü ve Sayid ona ne yaparsa yapsın konuşmaya ikna olmayacağını söylüyor. Adada kampta herkes stres altındadır. Locke ve yeni av arkadaşı Ethan, Hurley'e yeni buldukları eşyaları verirler. Hurley bunun içinde golf eşyaları olduğunu fark eder ve kazazedelerin stres atmalarına yardım etmek için bir golf sahası hazırlar. Danielle, Sayid'e Nadia hakkında sorular sorar ve Sayid de onun kendi yüzünden öldüğünü söyler. Danielle kırık bir müzik kutusunu Sayid'e gösterir ve Sayid de onu tamir edebileceğini söyler. Danielle tamiratı yapması için Sayid'i bayıltarak başka yere taşır. Daha sonra Danielle bir bilim takımının üyesi olduğunu ve gemilerinin Tahiti'den 3 gün mesafede bu adaya çakıldığını anlatır. Adada Diğerlerinin olduğunu, takım arkadaşlarının onlar tarafından hasta edilerek öldürüldüğünü ve ormanda fısıldadıklarını anlatır. Sayid ona inanmaz ve müzik kutusunu tamire devam eder. B",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 1764,
+      "end_char": 2764,
+      "content": "ı anlatır. Adada Diğerlerinin olduğunu, takım arkadaşlarının onlar tarafından hasta edilerek öldürüldüğünü ve ormanda fısıldadıklarını anlatır. Sayid ona inanmaz ve müzik kutusunu tamire devam eder. Bitirdiğinde Danielle'in onu bırakmasını ister. Dışarıdan bir ses duyarlar ve Danielle Sayid'i yalnız bırakarak sesin peşine düşer. Geriye dönüş sahnesinde Sayid'in amiri ondan Nadia'yı öldürmesini istiyor. Oysa Sayid Nadia'nın kaçmasına yardım ediyor. O sırada amiri onları yakalıyor fakat Sayid onu öldürüyor. Nadia Sayid'in kendi ile beraber kaçacağını düşünürken Sayid kendini bacağından vurarak destek kuvvetler gelmeden Nadia'nın gitmesini istiyor. Danielle yokken Sayid onun ada hakkında çıkardığı bazı notları da alarak ambardan kaçar. Fakat o sırada Danielle gelir, Sayid ateş eder fakat silah çalışmaz. Danielle ekibini kendinin öldürdüğünü anlatır, çünkü onlara hastalık bulaşmıştır ve hastalık yayılmadan onları öldürmesi gerekmiştir. Sayid Danielle ile gitmesine izin vermesi için konuşur",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 2564,
+      "end_char": 2992,
+      "content": "h çalışmaz. Danielle ekibini kendinin öldürdüğünü anlatır, çünkü onlara hastalık bulaşmıştır ve hastalık yayılmadan onları öldürmesi gerekmiştir. Sayid Danielle ile gitmesine izin vermesi için konuşur ve ikna etmeye çalışır. Gitmeden önce Alex'i sorar. Danielle, Alex'in kendi çocuğu olduğunu ve diğerleri tarafından alındığını anlatır. Sayid kendi kampına dönmek üzere giderken ormanda Danielle'ın bahsettiği fısıltıları duyar.",
+      "char_count": 428,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2993,
+      "end_char": 3033,
+      "content": "== Dış bağlantılar == IMDb'de \"Solitary\"",
+      "char_count": 40,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sayid sahil boyunca yürürken okyanustan gelen ve ormanın içine doğru giden ne bulur?",
+        "answer": "Bir kablo.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Lost dizisinin 1. sezonunun 9. bölümü olan \"Solitary\", Sayid merkezli bir bölüm olarak tanımlanırken, bu tanım bölümdeki hangi ana olaylar aracılığıyla desteklenmektedir?",
+        "answer": "\"Solitary\" bölümü, Sayid'in okyanustan gelen bir kabloyu takip edip bir tuzağa düşmesi ve Danielle Rousseau tarafından Alex'in yerini öğrenmek amacıyla sorgulanıp işkenceye maruz kalması gibi olaylarla Sayid merkezli olduğunu gösterir. Bölüm ayrıca, Sayid'in çocukluk arkadaşı Nadia'yı sorgulayıp işkence ettiği geçmişine ait geri dönüş sahnelerini içerir. Danielle'in adadaki diğerlerine ve takımının ölümüne dair açıklamaları da Sayid ile olan etkileşimleri sırasında gerçekleşir. Tüm bu olaylar Sayid'in kişisel geçmişi, şimdiki durumu ve yaşadığı zorluklar etrafında döner.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

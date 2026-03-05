@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "dianaross_c759a31d",
+    "title": "Diana Ross",
+    "url": "https://tr.wikipedia.org/wiki/Diana_Ross",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:14.721817",
+    "content": "Diana Ross (d. 26 Mart 1944, Detroit), Amerikalı şarkıcı, müzik yapımcısı, oyuncu. == Hayatı == İşçi bir baba ile öğretmen bir annenin çocuğu olarak dünyaya gelen Diana Ross, çocukluğunu Alabama'da geçirdi. 14 yaşındayken ailece Detroit'e taşındılar. Ocak 1962'de Ross, \"Cass Technical High School\"dan mezun oldu. Aynı yıllarda müzik kariyerini oluşturmaya başlayan sanatçı, komşuları olan Mary Wilson, Florence Ballard ve sonradan Supremes ve The Temptations adlarını alacak olan Betty McGlown ile yerel topluluklar oluşturup soul tarzda yoğunlaşan müzik çalışmaları yaptı. Çalışmaları, Beatles'dan sonra en çok satan ikinci albüm oldu. 1959 yılında başlayan Supremes macerasından sonra 1970'li yıllarda solo çalışmalarına başladı. 1972 yılında kendisine Oscar adaylığı getiren Lady Sings the Blues adlı filmde rol aldı. Yaptığı birçok albüm ve birçok şarkı haftalarca liste başında kaldı. Çalışmalarıyla çeşitli ödüller kazanan Ross, 1971 Ağustos'unda menajeri Robert Ellis Silberstein ile evlendi. Daha sonra zengin bir emlakçıyla evlenip 1973 yılında boşandı ve New York'a taşındı. Her onar yıllık dönemde parlak çıkışlar yaptı. 1985 Ekim ayında evlendiği Norveçli iş insanı Arne Næss Jr.'dan 2000 yılında boşandı. İlk evliliğinden iki kız, ikinci evliliğinden iki oğlan çocuk sahibi oldu. Oğullarından birini bir kazada yitiren Diana Ross, 2002'de alkole sığınarak tedavi gördü. Michael Jackson'ın adına \"Dirty Diana\" şarkısını yaptığı sanatçı, bir yıl içinde 40'ın üstünde danışman-sekreter değiştirmek gibi bazı kaprisli davranışları ve skandallarıyla hep gündemde kaldı. (World) Upside Down adlı şarkısı 1980 yılında hit oldu. 1964 -2002 yılları arasında altı sinema filminde rol alan Ross, çeşitli televizyon programlarında da yer aldı. R&B, soul, pop, disko ve caz türleri daima repertuvarında yer aldı. Diana Ross albümleri toplamda 100 milyondan fazla satmıştır. == Diskografisi == === \"Top Ten\" albümleri === The following albums reached the Top Ten on either the United States albums chart or the United Kingdom pop albums chart. 1970: Diana Ross (US R&B #1) 1971: I'm Still Waiting (a/k/a Surrender) (UK #10) 1973: Lady Sings the Blues (US #1) 1973: Touch Me in the Morning (US #5; UK #7) 1973: Diana & Marvin (with Marvin Gaye) (US #26; UK #6) 1976: Diana Ross (US #5; UK #4) 1976: Diana Ross' Greatest Hits (UK #2) 1979: 20 Golden Greats (UK #2) 1980: diana (US #2) 1981: Endless Love (US #9) 1993: One Woman: The Ultimate Collection (UK #1) 1995: Take Me Higher (UK #10) == Filmografisi == The T.A.M.I. Show (1964) (w/ The Supremes) Beach Ball (1965) (w/ The Supremes) Lady Sings the Blues (1972) Mahogany (1975) The Wiz (1978) The Making and Meaning of We Are Family (2002) (documentary) == Televizyon çalışmaları == T.C.B. (1968) (w/ The Supremes) G.I.T. on Broadway (1969) (w/ The Supremes) Diana! (1971) The Big Event: An Evening with Diana Ross (1977) Diana Ross in Concert! (1979) diana (1981) Standing Room Only: Diana Ross (1981) Motown 25: Yesterday, Today, Forever (1983) For One And For All - Diana Ross Live! in Central Park (1983) Diana Ross: Red Hot Rhythm and Blues (1987) Diana Ross: Workin' Overtime (1989) Diana Ross Live! The Lady Sings... Jazz & Blues: Stolen Moments (1992) Out of Darkness (1994) Super Bowl XXX (1996) Double Platinum (1999) VH1 Divas 2000: A Tribute to Diana Ross (2000) == Ayrıca bakınız == We are the World The Muppet Show Pin-up kızı ABD 1976 yılı 1 numara şarkıları ABD 1981 yılı 1 numara şarkıları ABD 1980 yılı 1 numara şarkıları ABD 1970 yılı 1 numara şarkıları ABD 1968 yılı 1 numara şarkıları == Dış bağlantılar == Resmî site IMDb'de Diana Ross IMDb'de Diana Ross",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 569,
+      "char_count": 3629,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.481490",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 83,
+      "content": "Diana Ross (d. 26 Mart 1944, Detroit), Amerikalı şarkıcı, müzik yapımcısı, oyuncu.",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 83,
+      "end_char": 1083,
+      "content": "== Hayatı == İşçi bir baba ile öğretmen bir annenin çocuğu olarak dünyaya gelen Diana Ross, çocukluğunu Alabama'da geçirdi. 14 yaşındayken ailece Detroit'e taşındılar. Ocak 1962'de Ross, \"Cass Technical High School\"dan mezun oldu. Aynı yıllarda müzik kariyerini oluşturmaya başlayan sanatçı, komşuları olan Mary Wilson, Florence Ballard ve sonradan Supremes ve The Temptations adlarını alacak olan Betty McGlown ile yerel topluluklar oluşturup soul tarzda yoğunlaşan müzik çalışmaları yaptı. Çalışmaları, Beatles'dan sonra en çok satan ikinci albüm oldu. 1959 yılında başlayan Supremes macerasından sonra 1970'li yıllarda solo çalışmalarına başladı. 1972 yılında kendisine Oscar adaylığı getiren Lady Sings the Blues adlı filmde rol aldı. Yaptığı birçok albüm ve birçok şarkı haftalarca liste başında kaldı. Çalışmalarıyla çeşitli ödüller kazanan Ross, 1971 Ağustos'unda menajeri Robert Ellis Silberstein ile evlendi. Daha sonra zengin bir emlakçıyla evlenip 1973 yılında boşandı ve New York'a taşınd",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 883,
+      "end_char": 1874,
+      "content": " kaldı. Çalışmalarıyla çeşitli ödüller kazanan Ross, 1971 Ağustos'unda menajeri Robert Ellis Silberstein ile evlendi. Daha sonra zengin bir emlakçıyla evlenip 1973 yılında boşandı ve New York'a taşındı. Her onar yıllık dönemde parlak çıkışlar yaptı. 1985 Ekim ayında evlendiği Norveçli iş insanı Arne Næss Jr.'dan 2000 yılında boşandı. İlk evliliğinden iki kız, ikinci evliliğinden iki oğlan çocuk sahibi oldu. Oğullarından birini bir kazada yitiren Diana Ross, 2002'de alkole sığınarak tedavi gördü. Michael Jackson'ın adına \"Dirty Diana\" şarkısını yaptığı sanatçı, bir yıl içinde 40'ın üstünde danışman-sekreter değiştirmek gibi bazı kaprisli davranışları ve skandallarıyla hep gündemde kaldı. (World) Upside Down adlı şarkısı 1980 yılında hit oldu. 1964 -2002 yılları arasında altı sinema filminde rol alan Ross, çeşitli televizyon programlarında da yer aldı. R&B, soul, pop, disko ve caz türleri daima repertuvarında yer aldı. Diana Ross albümleri toplamda 100 milyondan fazla satmıştır.",
+      "char_count": 991,
+      "token_estimate": 247
+    },
+    {
+      "id": "c0003",
+      "section": "=== \"Top Ten\" albümleri ===",
+      "heading_path": "=== \"Top Ten\" albümleri ===",
+      "start_char": 1894,
+      "end_char": 2489,
+      "content": "=== \"Top Ten\" albümleri === The following albums reached the Top Ten on either the United States albums chart or the United Kingdom pop albums chart. 1970: Diana Ross (US R&B #1) 1971: I'm Still Waiting (a/k/a Surrender) (UK #10) 1973: Lady Sings the Blues (US #1) 1973: Touch Me in the Morning (US #5; UK #7) 1973: Diana & Marvin (with Marvin Gaye) (US #26; UK #6) 1976: Diana Ross (US #5; UK #4) 1976: Diana Ross' Greatest Hits (UK #2) 1979: 20 Golden Greats (UK #2) 1980: diana (US #2) 1981: Endless Love (US #9) 1993: One Woman: The Ultimate Collection (UK #1) 1995: Take Me Higher (UK #10)",
+      "char_count": 594,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0004",
+      "section": "== Filmografisi ==",
+      "heading_path": "== Filmografisi ==",
+      "start_char": 2489,
+      "end_char": 2707,
+      "content": "== Filmografisi == The T.A.M.I. Show (1964) (w/ The Supremes) Beach Ball (1965) (w/ The Supremes) Lady Sings the Blues (1972) Mahogany (1975) The Wiz (1978) The Making and Meaning of We Are Family (2002) (documentary)",
+      "char_count": 217,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0005",
+      "section": "== Televizyon çalışmaları ==",
+      "heading_path": "== Televizyon çalışmaları ==",
+      "start_char": 2707,
+      "end_char": 3328,
+      "content": "== Televizyon çalışmaları == T.C.B. (1968) (w/ The Supremes) G.I.T. on Broadway (1969) (w/ The Supremes) Diana! (1971) The Big Event: An Evening with Diana Ross (1977) Diana Ross in Concert! (1979) diana (1981) Standing Room Only: Diana Ross (1981) Motown 25: Yesterday, Today, Forever (1983) For One And For All - Diana Ross Live! in Central Park (1983) Diana Ross: Red Hot Rhythm and Blues (1987) Diana Ross: Workin' Overtime (1989) Diana Ross Live! The Lady Sings... Jazz & Blues: Stolen Moments (1992) Out of Darkness (1994) Super Bowl XXX (1996) Double Platinum (1999) VH1 Divas 2000: A Tribute to Diana Ross (2000)",
+      "char_count": 620,
+      "token_estimate": 155
+    },
+    {
+      "id": "c0006",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 3328,
+      "end_char": 3559,
+      "content": "== Ayrıca bakınız == We are the World The Muppet Show Pin-up kızı ABD 1976 yılı 1 numara şarkıları ABD 1981 yılı 1 numara şarkıları ABD 1980 yılı 1 numara şarkıları ABD 1970 yılı 1 numara şarkıları ABD 1968 yılı 1 numara şarkıları",
+      "char_count": 230,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3559,
+      "end_char": 3629,
+      "content": "== Dış bağlantılar == Resmî site IMDb'de Diana Ross IMDb'de Diana Ross",
+      "char_count": 70,
+      "token_estimate": 17
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Diana Ross liseden ne zaman mezun oldu?",
+        "answer": "Ocak 1962",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Diana Ross'ın müzik kariyerinin başlangıcından solo başarılarına ve kişisel yaşamındaki önemli dönüm noktalarına kadar olan süreci nasıl gelişti?",
+        "answer": "Diana Ross, müzik kariyerine 1959'da Supremes ile başlamış ve 1970'lerde solo çalışmalara geçerek 1972'de Lady Sings the Blues filmiyle Oscar adaylığı kazanmıştır. Bu süre zarfında, 1971'de Robert Ellis Silberstein ile evlenip 1973'te boşanmış, ardından 1985'te Arne Næss Jr. ile evlenip 2000'de ondan da ayrılmıştır. Her on yıllık dönemde parlak çıkışlar yapmaya devam ederken, 2002'de bir oğlunu kaybetmesinin ardından alkol tedavisi görmüştür. Genel olarak 100 milyondan fazla albüm satışı ile uzun ve başarılı bir kariyere sahip olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

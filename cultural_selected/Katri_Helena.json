@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "katrihelena_af722751",
+    "title": "Katri Helena",
+    "url": "https://tr.wikipedia.org/wiki/Katri_Helena",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:29.675031",
+    "content": "Katri Helena Kalaoja veya bilinen adıyla Katri Helena (evlilik öncesi soyadı: Koistinen, d. 17 Ağustos 1945, Tohmajärvi, Finlandiya), 1960'lardan beri etkin olan Fin şarkıcı. == Kariyeri == Mesleki başarıları yönünden Katri Helena, Finlandiya'daki en popüler şarkıcılardan birisidir. Kariyeri boyunca, toplamda 630.000'den fazla sertifikalı plağının satılması ona, Madonna'dan sonra Finlandiya'da en çok satan kadın solist unvanını kazandırmıştır ve kendisini Finlandiya piyasasında en çok satan 20 müzik sanatçısı sıralamasında üst sıralara taşımıştır. 2004'te yapılan Tüm zamanların en ünlü 100 Fini anketinde 43. sırayı almıştır. == Kişisel hayatı == Katri Helena, üç kez evlilik yapmıştır (Turunen, Kalaoja, Rajala) ve şimdilerde bekar bir anne olarak yaşamaktadır. Helena'nın 1988'de kalp krizinden ölen kocası Timo Kalaoja'dan 1 erkek ve 2 kız çocuğu vardır. Kocasının ölümü onu öyle etkilemiştir ki, dört yıl boyunca ortalıktan çekilmiş, konser vermeyi ve albüm çıkarmayı durdurmuştur. Tek oğlu olan Juha Kalaoja da 29 Nisan 2009'da, 33 yaşındayken kalp krizi sonucunda ölmüştür. == Eurovision Şarkı Yarışması == Katri Helena'nın \"Puhelinlangat laulaa\", \"Katson sineen taivaan\" ve \"Syysunelma\" da dahil olmak üzere birçok hit parçası vardır. Eurovision Şarkı Yarışması'nda, 1979'da \"Katson sineen taivaan\" (\"Mavi Gökyüzüne Bakıyorum\") şarkısı ile on dördüncü, 1993'te ise \"Tule luo\" (\"Bana Gel\") adlı şarkısıyla on yedinci olmuştur. == Diskografi == === Albümleri === === Derlemeler === == Notlar == == Kaynakça == == Ayrıca bakınız == Eurovision Şarkı Yarışması'nda Finlandiya 1979 Eurovision Şarkı Yarışması 1993 Eurovision Şarkı Yarışması == Dış bağlantılar == Resmî site (Fince) IMDb'de Katri Helena Facebook'ta Katri Helena YouTube'da Katri Helena Pomus'ta Katri Helena 6 Mayıs 2013 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 254,
+      "char_count": 1842,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.150717",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 175,
+      "content": "Katri Helena Kalaoja veya bilinen adıyla Katri Helena (evlilik öncesi soyadı: Koistinen, d. 17 Ağustos 1945, Tohmajärvi, Finlandiya), 1960'lardan beri etkin olan Fin şarkıcı.",
+      "char_count": 174,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 175,
+      "end_char": 633,
+      "content": "== Kariyeri == Mesleki başarıları yönünden Katri Helena, Finlandiya'daki en popüler şarkıcılardan birisidir. Kariyeri boyunca, toplamda 630.000'den fazla sertifikalı plağının satılması ona, Madonna'dan sonra Finlandiya'da en çok satan kadın solist unvanını kazandırmıştır ve kendisini Finlandiya piyasasında en çok satan 20 müzik sanatçısı sıralamasında üst sıralara taşımıştır. 2004'te yapılan Tüm zamanların en ünlü 100 Fini anketinde 43. sırayı almıştır.",
+      "char_count": 457,
+      "token_estimate": 114
+    },
+    {
+      "id": "c0002",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 633,
+      "end_char": 1087,
+      "content": "== Kişisel hayatı == Katri Helena, üç kez evlilik yapmıştır (Turunen, Kalaoja, Rajala) ve şimdilerde bekar bir anne olarak yaşamaktadır. Helena'nın 1988'de kalp krizinden ölen kocası Timo Kalaoja'dan 1 erkek ve 2 kız çocuğu vardır. Kocasının ölümü onu öyle etkilemiştir ki, dört yıl boyunca ortalıktan çekilmiş, konser vermeyi ve albüm çıkarmayı durdurmuştur. Tek oğlu olan Juha Kalaoja da 29 Nisan 2009'da, 33 yaşındayken kalp krizi sonucunda ölmüştür.",
+      "char_count": 453,
+      "token_estimate": 113
+    },
+    {
+      "id": "c0003",
+      "section": "== Eurovision Şarkı Yarışması ==",
+      "heading_path": "== Eurovision Şarkı Yarışması ==",
+      "start_char": 1087,
+      "end_char": 1440,
+      "content": "== Eurovision Şarkı Yarışması == Katri Helena'nın \"Puhelinlangat laulaa\", \"Katson sineen taivaan\" ve \"Syysunelma\" da dahil olmak üzere birçok hit parçası vardır. Eurovision Şarkı Yarışması'nda, 1979'da \"Katson sineen taivaan\" (\"Mavi Gökyüzüne Bakıyorum\") şarkısı ile on dördüncü, 1993'te ise \"Tule luo\" (\"Bana Gel\") adlı şarkısıyla on yedinci olmuştur.",
+      "char_count": 352,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1522,
+      "end_char": 1649,
+      "content": "== Ayrıca bakınız == Eurovision Şarkı Yarışması'nda Finlandiya 1979 Eurovision Şarkı Yarışması 1993 Eurovision Şarkı Yarışması",
+      "char_count": 126,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1649,
+      "end_char": 1842,
+      "content": "== Dış bağlantılar == Resmî site (Fince) IMDb'de Katri Helena Facebook'ta Katri Helena YouTube'da Katri Helena Pomus'ta Katri Helena 6 Mayıs 2013 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 193,
+      "token_estimate": 48
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Katri Helena, Finlandiya'da toplamda kaç sertifikalı plak satmıştır?",
+        "answer": "630.000'den fazla",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "1960'lardan beri aktif olan Fin şarkıcı Katri Helena'nın Finlandiya müzik piyasasındaki genel konumu ve başarıları nelerdir?",
+        "answer": "Katri Helena, 1960'lardan beri etkin olan bir Fin şarkıcısı olup, Finlandiya'daki en popüler şarkıcılardan biridir. Kariyeri boyunca 630.000'den fazla sertifikalı plak satarak Madonna'dan sonra Finlandiya'da en çok satan kadın solist unvanını kazanmış ve ülkenin en çok satan 20 müzik sanatçısı sıralamasında yer almıştır. Ayrıca, 2004'te yapılan 'Tüm zamanların en ünlü 100 Fini' anketinde 43. sırada yer almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

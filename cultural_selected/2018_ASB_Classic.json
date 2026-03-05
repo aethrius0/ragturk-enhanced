@@ -1,0 +1,223 @@
+{
+  "article": {
+    "id": "2018asbclassic_01098efc",
+    "title": "2018 ASB Classic",
+    "url": "https://tr.wikipedia.org/wiki/2018_ASB_Classic",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:20:08.190939",
+    "content": "2018 Auckland Açık (şu anda ASB Bank'ın sponsorluğunda), açık sert kortlarda oynanan ortak bir 2018 ATP World Tour ve 2018 WTA Tour tenis turnuvasıdır. Kadınlar etkinliğinin 33'üncüsü, erkekler etkinliğinin 42'ncisidir. Yeni Zelanda'nın Auckland kentindeki ASB Tennis Centre'da 1 - 7 Ocak 2018 tarihleri arasında kadınlar için, 8 - 13 Ocak 2018 tarihlerinde erkekler için gerçekleştirilmiştir. == Puanlar ve para ödülü == === Puan dağılımı === === Para ödülü === 1 Elemeleri geçen tenisçilerin para ödülü de son 32 turundaki para ödülüne denktir. * takım başına == ATP tekler ana tablo == === Seribaşları === 1 Sıralamalar 1 Ocak 2018 tarihine aittir. === Diğer katılanlar === Aşağıdaki oyuncular tekler ana tablosuna wild card aldı: Stefanos Tsitsipas Michael Venus Wu Yibing Aşağıdaki oyuncular elemeleri geçerek turnuvaya katılmaya hak kazandı: Radu Albot Rogério Dutra Silva Casper Ruud Tim Smyczek Aşağıdaki oyuncular şanslı kaybedenler olarak turnuvaya katıldı: Liam Caruana Taro Daniel Lukáš Lacko Tennys Sandgren === Çekilenler === Turnuvadan önce Kyle Edmund →yerini Tennys Sandgren aldı Ryan Harrison →yerini Liam Caruana aldı Guido Pella →yerini Taro Daniel aldı Andrey Rublev →yerini Lukáš Lacko aldı == ATP çiftler ana tablo == === Seribaşları === 1 Sıralamalar 1 Ocak 2018 tarihine aittir. === Diğer katılanlar === Aşağıdaki çiftler, çiftler ana tablosuna wild card aldı: Leander Paes / Purav Raja Jack Sock / Jackson Withrow Aşağıdaki çift, alternatif olarak turnuvada yer aldı: Radu Albot / Tennys Sandgren === Çekilenler === Turnuvadan önce Guido Pella Turnuva sırasında Pablo Cuevas == WTA tekler ana tablo == === Seribaşları === 1 Sıralamalar 25 Aralık 2017 tarihine aittir. === Diğer katılanlar === Aşağıdaki oyuncular tekler ana tablosuna wild card aldı: Sara Errani Sofia Kenin Jade Lewis Aşağıdaki oyuncular elemeleri geçerek turnuvaya katılmaya hak kazandı: Ysaline Bonaventure Jana Fett Viktória Kužmová Sachia Vickery == WTA çiftler ana tablo == === Seribaşları === 1 Sıralamalar 25 Aralık 2017 tarihine aittir. === Diğer katılanlar === Aşağıdaki çiftler, çiftler ana tablosuna wild card aldı: Paige Mary Hourigan / Erin Routliffe Hsieh Shu-ying / Jade Lewis == Şampiyonlar == === Tek Erkekler === Roberto Bautista Agut yen. Juan Martín del Potro, 6–1, 4–6, 7–5' === Tek Kadınlar === Julia Görges yen. Caroline Wozniacki, 6–4, 7–6(7–4) === Çift Erkekler === Oliver Marach / Mate Pavić yen. Max Mirnyi / Philipp Oswald, 6–4, 5–7, [10–7] === Çift Kadınlar === Sara Errani / Bibiane Schoofs yen. Eri Hozumi / Miyu Kato, 7–5, 6–1 == Kaynakça == == Dış bağlantılar == Resmî site Şablon:Heineken Açık turnuvaları Şablon:ASB Classic turnuvaları",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 409,
+      "char_count": 2663,
+      "num_chunks": 17,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:42.873661",
+    "total_chunks": 17,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 394,
+      "content": "2018 Auckland Açık (şu anda ASB Bank'ın sponsorluğunda), açık sert kortlarda oynanan ortak bir 2018 ATP World Tour ve 2018 WTA Tour tenis turnuvasıdır. Kadınlar etkinliğinin 33'üncüsü, erkekler etkinliğinin 42'ncisidir. Yeni Zelanda'nın Auckland kentindeki ASB Tennis Centre'da 1 - 7 Ocak 2018 tarihleri arasında kadınlar için, 8 - 13 Ocak 2018 tarihlerinde erkekler için gerçekleştirilmiştir.",
+      "char_count": 393,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0001",
+      "section": "=== Para ödülü ===",
+      "heading_path": "=== Para ödülü ===",
+      "start_char": 444,
+      "end_char": 562,
+      "content": "=== Para ödülü === 1 Elemeleri geçen tenisçilerin para ödülü de son 32 turundaki para ödülüne denktir. * takım başına",
+      "char_count": 117,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0002",
+      "section": "=== Seribaşları ===",
+      "heading_path": "=== Seribaşları ===",
+      "start_char": 589,
+      "end_char": 652,
+      "content": "=== Seribaşları === 1 Sıralamalar 1 Ocak 2018 tarihine aittir.",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0003",
+      "section": "=== Diğer katılanlar ===",
+      "heading_path": "=== Diğer katılanlar ===",
+      "start_char": 652,
+      "end_char": 1021,
+      "content": "=== Diğer katılanlar === Aşağıdaki oyuncular tekler ana tablosuna wild card aldı: Stefanos Tsitsipas Michael Venus Wu Yibing Aşağıdaki oyuncular elemeleri geçerek turnuvaya katılmaya hak kazandı: Radu Albot Rogério Dutra Silva Casper Ruud Tim Smyczek Aşağıdaki oyuncular şanslı kaybedenler olarak turnuvaya katıldı: Liam Caruana Taro Daniel Lukáš Lacko Tennys Sandgren",
+      "char_count": 368,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0004",
+      "section": "=== Çekilenler ===",
+      "heading_path": "=== Çekilenler ===",
+      "start_char": 1021,
+      "end_char": 1213,
+      "content": "=== Çekilenler === Turnuvadan önce Kyle Edmund →yerini Tennys Sandgren aldı Ryan Harrison →yerini Liam Caruana aldı Guido Pella →yerini Taro Daniel aldı Andrey Rublev →yerini Lukáš Lacko aldı",
+      "char_count": 191,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0005",
+      "section": "=== Seribaşları ===",
+      "heading_path": "=== Seribaşları ===",
+      "start_char": 1241,
+      "end_char": 1304,
+      "content": "=== Seribaşları === 1 Sıralamalar 1 Ocak 2018 tarihine aittir.",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0006",
+      "section": "=== Diğer katılanlar ===",
+      "heading_path": "=== Diğer katılanlar ===",
+      "start_char": 1304,
+      "end_char": 1523,
+      "content": "=== Diğer katılanlar === Aşağıdaki çiftler, çiftler ana tablosuna wild card aldı: Leander Paes / Purav Raja Jack Sock / Jackson Withrow Aşağıdaki çift, alternatif olarak turnuvada yer aldı: Radu Albot / Tennys Sandgren",
+      "char_count": 218,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0007",
+      "section": "=== Çekilenler ===",
+      "heading_path": "=== Çekilenler ===",
+      "start_char": 1523,
+      "end_char": 1601,
+      "content": "=== Çekilenler === Turnuvadan önce Guido Pella Turnuva sırasında Pablo Cuevas",
+      "char_count": 77,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0008",
+      "section": "=== Seribaşları ===",
+      "heading_path": "=== Seribaşları ===",
+      "start_char": 1628,
+      "end_char": 1694,
+      "content": "=== Seribaşları === 1 Sıralamalar 25 Aralık 2017 tarihine aittir.",
+      "char_count": 65,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0009",
+      "section": "=== Diğer katılanlar ===",
+      "heading_path": "=== Diğer katılanlar ===",
+      "start_char": 1694,
+      "end_char": 1944,
+      "content": "=== Diğer katılanlar === Aşağıdaki oyuncular tekler ana tablosuna wild card aldı: Sara Errani Sofia Kenin Jade Lewis Aşağıdaki oyuncular elemeleri geçerek turnuvaya katılmaya hak kazandı: Ysaline Bonaventure Jana Fett Viktória Kužmová Sachia Vickery",
+      "char_count": 249,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0010",
+      "section": "=== Seribaşları ===",
+      "heading_path": "=== Seribaşları ===",
+      "start_char": 1972,
+      "end_char": 2038,
+      "content": "=== Seribaşları === 1 Sıralamalar 25 Aralık 2017 tarihine aittir.",
+      "char_count": 65,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0011",
+      "section": "=== Diğer katılanlar ===",
+      "heading_path": "=== Diğer katılanlar ===",
+      "start_char": 2038,
+      "end_char": 2185,
+      "content": "=== Diğer katılanlar === Aşağıdaki çiftler, çiftler ana tablosuna wild card aldı: Paige Mary Hourigan / Erin Routliffe Hsieh Shu-ying / Jade Lewis",
+      "char_count": 146,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0012",
+      "section": "=== Tek Erkekler ===",
+      "heading_path": "=== Tek Erkekler ===",
+      "start_char": 2203,
+      "end_char": 2289,
+      "content": "=== Tek Erkekler === Roberto Bautista Agut yen. Juan Martín del Potro, 6–1, 4–6, 7–5'",
+      "char_count": 85,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0013",
+      "section": "=== Tek Kadınlar ===",
+      "heading_path": "=== Tek Kadınlar ===",
+      "start_char": 2289,
+      "end_char": 2362,
+      "content": "=== Tek Kadınlar === Julia Görges yen. Caroline Wozniacki, 6–4, 7–6(7–4)",
+      "char_count": 72,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0014",
+      "section": "=== Çift Erkekler ===",
+      "heading_path": "=== Çift Erkekler ===",
+      "start_char": 2362,
+      "end_char": 2462,
+      "content": "=== Çift Erkekler === Oliver Marach / Mate Pavić yen. Max Mirnyi / Philipp Oswald, 6–4, 5–7, [10–7]",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0015",
+      "section": "=== Çift Kadınlar ===",
+      "heading_path": "=== Çift Kadınlar ===",
+      "start_char": 2462,
+      "end_char": 2552,
+      "content": "=== Çift Kadınlar === Sara Errani / Bibiane Schoofs yen. Eri Hozumi / Miyu Kato, 7–5, 6–1",
+      "char_count": 89,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0016",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2567,
+      "end_char": 2663,
+      "content": "== Dış bağlantılar == Resmî site Şablon:Heineken Açık turnuvaları Şablon:ASB Classic turnuvaları",
+      "char_count": 96,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2018 Auckland Açık turnuvasının şu anki sponsoru kimdir?",
+        "answer": "ASB Bank",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "2018 Auckland Açık gibi bir ATP ve WTA tenis turnuvasında, elemeleri başarıyla geçen tenisçilere uygulanan para ödülü kuralı, turnuvanın ödül dağıtım felsefesi hakkında ne gibi bir çıkarım yapmamızı sağlar?",
+        "answer": "Bu kural, elemeleri geçen tenisçilerin para ödülünün son 32 turundaki para ödülüne denk olduğunu belirterek, turnuvanın ana tabloda erken aşamalara ulaşan oyuncuların çabasını ve başarısını finansal olarak değerli gördüğünü ve onları ana tablodaki bir oyuncuyla eşdeğer seviyede ödüllendirdiğini gösterir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

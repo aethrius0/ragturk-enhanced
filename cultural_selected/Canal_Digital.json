@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "canaldigital_de5716e0",
+    "title": "Canal Digital",
+    "url": "https://tr.wikipedia.org/wiki/Canal_Digital",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:52.660707",
+    "content": "Canal Digital, Mart 1997 yılında Fransız televizyon platformu Canal+ ve Norveç telekomünikasyon operatörü Telenor ortaklığı ile Norveç ve İsveç te kurulan İskandinavya TV platformu ve internet servis sağlayıcısıdır. 2001 yılından beri, firma tamamen Telenor'a aittir. 2.9 milyon'dan fazla İskandinav hane halkı Canal Digital'in servislerine abonedir. == Uydu yayınları == === Yüksek çözünürlüklü (HD) yayınlar === Canal Digital, bölgede HDTV yayınını başlatan ilk büyük yayıncıdır. İlk HD kanal olan C More HD, Eylül 2005'te MPEG-2 sıkıştırma kullanarak yayına başlamıştır. Haziran 2006'da Canal Digital Norveç'te Sveriges Television ve TV4 AB'den FIFA 2006 Dünya Kupası'nı MPEG-4 sıkıştırma ile HD olarak yayınlayarak HD kanalların yayınına başlamıştır. == Kablo yayınları == === İsveç === Telenor Vision ve Sweden Online kablo firmalarını Canal Digital adı altında birleştirerek 2003 Eylül'de Norveç'te kablolu televizyon hizmetini genişletti. == Karasal yayınlar == Canal Digital Finlandiya'daki dijital televizyon yayınları için şifre çözücü kartlar satmaktadır. Canal Digital ayrıca Norveç'teki DVB-T ağı için akıllı kart satışında ilgisini artırmıştır. Norveç'teki karasal operatörü olan RiksTV firmasında, Canal Digital'in sahibi olan Telenor'un hissesi vardır. == IPTV == Norveç'te IPTV servisi 2004 yılında başladı. IPTV, uydu platformundan sunulan birçok kanalın yanı sıra, interaktif televizyon servisleri ve Video on demand hizmetleri de sunmaktadır. == Dış bağlantılar == Canal Digital 12 Ekim 2017 tarihinde Wayback Machine sitesinde arşivlendi. Canal Digital Danimarka 27 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Canal Digital Finlandiya 27 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Canal Digital Norveç 27 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Canal Digital İsveç28 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 252,
+      "char_count": 1897,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.238687",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 351,
+      "content": "Canal Digital, Mart 1997 yılında Fransız televizyon platformu Canal+ ve Norveç telekomünikasyon operatörü Telenor ortaklığı ile Norveç ve İsveç te kurulan İskandinavya TV platformu ve internet servis sağlayıcısıdır. 2001 yılından beri, firma tamamen Telenor'a aittir. 2.9 milyon'dan fazla İskandinav hane halkı Canal Digital'in servislerine abonedir.",
+      "char_count": 350,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0001",
+      "section": "=== Yüksek çözünürlüklü (HD) yayınlar ===",
+      "heading_path": "=== Yüksek çözünürlüklü (HD) yayınlar ===",
+      "start_char": 372,
+      "end_char": 755,
+      "content": "=== Yüksek çözünürlüklü (HD) yayınlar === Canal Digital, bölgede HDTV yayınını başlatan ilk büyük yayıncıdır. İlk HD kanal olan C More HD, Eylül 2005'te MPEG-2 sıkıştırma kullanarak yayına başlamıştır. Haziran 2006'da Canal Digital Norveç'te Sveriges Television ve TV4 AB'den FIFA 2006 Dünya Kupası'nı MPEG-4 sıkıştırma ile HD olarak yayınlayarak HD kanalların yayınına başlamıştır.",
+      "char_count": 382,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0002",
+      "section": "=== İsveç ===",
+      "heading_path": "=== İsveç ===",
+      "start_char": 777,
+      "end_char": 946,
+      "content": "=== İsveç === Telenor Vision ve Sweden Online kablo firmalarını Canal Digital adı altında birleştirerek 2003 Eylül'de Norveç'te kablolu televizyon hizmetini genişletti.",
+      "char_count": 168,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0003",
+      "section": "== Karasal yayınlar ==",
+      "heading_path": "== Karasal yayınlar ==",
+      "start_char": 946,
+      "end_char": 1269,
+      "content": "== Karasal yayınlar == Canal Digital Finlandiya'daki dijital televizyon yayınları için şifre çözücü kartlar satmaktadır. Canal Digital ayrıca Norveç'teki DVB-T ağı için akıllı kart satışında ilgisini artırmıştır. Norveç'teki karasal operatörü olan RiksTV firmasında, Canal Digital'in sahibi olan Telenor'un hissesi vardır.",
+      "char_count": 322,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0004",
+      "section": "== IPTV ==",
+      "heading_path": "== IPTV ==",
+      "start_char": 1269,
+      "end_char": 1463,
+      "content": "== IPTV == Norveç'te IPTV servisi 2004 yılında başladı. IPTV, uydu platformundan sunulan birçok kanalın yanı sıra, interaktif televizyon servisleri ve Video on demand hizmetleri de sunmaktadır.",
+      "char_count": 193,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1463,
+      "end_char": 1897,
+      "content": "== Dış bağlantılar == Canal Digital 12 Ekim 2017 tarihinde Wayback Machine sitesinde arşivlendi. Canal Digital Danimarka 27 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Canal Digital Finlandiya 27 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Canal Digital Norveç 27 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Canal Digital İsveç28 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 434,
+      "token_estimate": 108
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Canal Digital Danimarka'nın Wayback Machine sitesindeki arşiv tarihi nedir?",
+        "answer": "27 Şubat 2007",
+        "related_chunk_ids": [
+          "c0005"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İskandinavya'da Mart 1997'de bir TV platformu olarak kurulan ve daha sonra tamamen Telenor'a ait olan Canal Digital'in, bölgede yüksek çözünürlüklü (HD) yayıncılığı başlatan ilk büyük yayıncı olmasıyla ilgili önemli adımlar nelerdir?",
+        "answer": "Canal Digital, Mart 1997'de Canal+ ve Norveç telekomünikasyon operatörü Telenor ortaklığıyla İskandinavya'da bir TV platformu olarak kurulmuş ve 2001 yılından itibaren tamamen Telenor'a ait hale gelmiştir. Şirket, bölgede HDTV yayınını başlatan ilk büyük yayıncı olmuş, Eylül 2005'te MPEG-2 sıkıştırma kullanarak ilk HD kanalı olan C More HD'yi yayına başlatmış ve Haziran 2006'da Norveç'te FIFA 2006 Dünya Kupası'nı MPEG-4 sıkıştırma ile HD olarak yayınlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

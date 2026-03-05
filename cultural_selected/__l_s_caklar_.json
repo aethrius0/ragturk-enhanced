@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "lscaklar_aa43a039",
+    "title": "Çöl sıcakları",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6l_s%C4%B1caklar%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:17.081685",
+    "content": "Çöl sıcakları, Afrika sıcağı veya Eyyamıbahur olarak kullanılan bu terim, yaz mevsiminin en sıcak ve boğucu günlerini ifade etmek için kullanılmaktadır. Kuzey yarımkürede, temmuz ve eylül ayları arasında yaşandığı tahmin edilmektedir. Güney yarımkürede ise bu tarih ocak ve mart arasına düşer. Kesin tarih, içinde bulunulan bölgeye, boylama ve iklim koşullarına göre büyük değişiklikler gösterebilir. Eski bir inanışa göre, bu sıcak günlerin Büyük Köpek Takımyıldızı'nda bulunan Sirius çift yıldızıyla bir bağlantısı vardı. Antik Yunan ve Antik Roma kültürlerinde de yaygın olan bu inanış nedeniyle bu günler Latince diēs caniculārēs olarak anılmaktaydı. Çağdaş Avrupa dillerinde bu terimden türeyen adlar hâlen kullanılmaktadır. (İngilizce: Dogdays, Almanca: Hundstage gibi...) Türkçede kullanılan eyyamıbahur terimi kullanılırlığını büyük ölçüde yitirmiş olup, bunun yerine cehennem sıcakları, Afrika sıcakları gibi terimler kullanılmaktadır. Romalılar, eyyamıbahur günlerini diēs caniculārēs olarak adlandırır ve Sirius yıldızıyla sıcak havaları ilişkilendirirlerdi. Sirius'un içinde bulunduğu Büyük Köpek Takımyıldızı'ndan dolayı da Sirius'a da Köpek Yıldızı diyorlardı. Sirius'un görüldüğü tarihlerde kahverengi köpekler kurban ederek Sirius'u hoşnut etmeye çalışırlardı. Antik Roma kültüründe eyyamıbahur günleri 24 Temmuz-24 Ağustos günleri olarak kabul edilirdi. Bu tarihler Alman, Fransız ve İtayan kültürlerinde geçerlidir. Türk kültüründe bu tarih temmuz sonuyla ağustos ortaları arasında günler olarak kabul edilmektedir. Eyyamıbahur günleri kalp ve göğüs hastalıkları olanlar için riskli dönemlerdir. Kişilerde aşırı stres ve asabiyet görülebilir. Orman yangınları başlayabilir. Enerji hattı kablolarının esnemesi, yol malzemelerinin erimesi ya da demiryollarında rayların genleşmesi gibi nedenlerle can ve mal kaybına neden olan kazalar yaşanabilir. 2000'li yıllarda, Avrupa'daki sıcak hava dalgalarına bağlı sağlık sorunlarından her yıl on binlerce kişi yaşamını yitirmiştir.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 249,
+      "char_count": 1990,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.683596",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Çöl sıcakları, Afrika sıcağı veya Eyyamıbahur olarak kullanılan bu terim, yaz mevsiminin en sıcak ve boğucu günlerini ifade etmek için kullanılmaktadır. Kuzey yarımkürede, temmuz ve eylül ayları arasında yaşandığı tahmin edilmektedir. Güney yarımkürede ise bu tarih ocak ve mart arasına düşer. Kesin tarih, içinde bulunulan bölgeye, boylama ve iklim koşullarına göre büyük değişiklikler gösterebilir. Eski bir inanışa göre, bu sıcak günlerin Büyük Köpek Takımyıldızı'nda bulunan Sirius çift yıldızıyla bir bağlantısı vardı. Antik Yunan ve Antik Roma kültürlerinde de yaygın olan bu inanış nedeniyle bu günler Latince diēs caniculārēs olarak anılmaktaydı. Çağdaş Avrupa dillerinde bu terimden türeyen adlar hâlen kullanılmaktadır. (İngilizce: Dogdays, Almanca: Hundstage gibi...) Türkçede kullanılan eyyamıbahur terimi kullanılırlığını büyük ölçüde yitirmiş olup, bunun yerine cehennem sıcakları, Afrika sıcakları gibi terimler kullanılmaktadır. Romalılar, eyyamıbahur günlerini diēs caniculārēs olara",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "yyamıbahur terimi kullanılırlığını büyük ölçüde yitirmiş olup, bunun yerine cehennem sıcakları, Afrika sıcakları gibi terimler kullanılmaktadır. Romalılar, eyyamıbahur günlerini diēs caniculārēs olarak adlandırır ve Sirius yıldızıyla sıcak havaları ilişkilendirirlerdi. Sirius'un içinde bulunduğu Büyük Köpek Takımyıldızı'ndan dolayı da Sirius'a da Köpek Yıldızı diyorlardı. Sirius'un görüldüğü tarihlerde kahverengi köpekler kurban ederek Sirius'u hoşnut etmeye çalışırlardı. Antik Roma kültüründe eyyamıbahur günleri 24 Temmuz-24 Ağustos günleri olarak kabul edilirdi. Bu tarihler Alman, Fransız ve İtayan kültürlerinde geçerlidir. Türk kültüründe bu tarih temmuz sonuyla ağustos ortaları arasında günler olarak kabul edilmektedir. Eyyamıbahur günleri kalp ve göğüs hastalıkları olanlar için riskli dönemlerdir. Kişilerde aşırı stres ve asabiyet görülebilir. Orman yangınları başlayabilir. Enerji hattı kablolarının esnemesi, yol malzemelerinin erimesi ya da demiryollarında rayların genleşmesi gib",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1990,
+      "content": " dönemlerdir. Kişilerde aşırı stres ve asabiyet görülebilir. Orman yangınları başlayabilir. Enerji hattı kablolarının esnemesi, yol malzemelerinin erimesi ya da demiryollarında rayların genleşmesi gibi nedenlerle can ve mal kaybına neden olan kazalar yaşanabilir. 2000'li yıllarda, Avrupa'daki sıcak hava dalgalarına bağlı sağlık sorunlarından her yıl on binlerce kişi yaşamını yitirmiştir.",
+      "char_count": 390,
+      "token_estimate": 97
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Antik Yunan ve Antik Roma kültürlerinde yazın en sıcak ve boğucu günleri için Latince hangi terim kullanılırdı?",
+        "answer": "diēs caniculārēs",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Antik Roma kültüründe \"eyyamıbahur\" terimiyle ilişkilendirilen inanışlar ve pratikler nelerdir ve bu dönem günümüzde Türk kültüründe hangi tarihlere denk gelmekte olup ne gibi riskleri barındırır?",
+        "answer": "Antik Roma kültüründe \"eyyamıbahur\" günleri, diēs caniculārēs olarak adlandırılır ve Büyük Köpek Takımyıldızı'nda bulunan, Köpek Yıldızı olarak da bilinen Sirius yıldızıyla ilişkilendirilirdi. Romalılar, bu sıcak havaları Sirius'a bağlar ve Sirius'u hoşnut etmek için kahverengi köpekler kurban ederlerdi. Bu günler, Roma kültüründe 24 Temmuz-24 Ağustos tarihleri arasında kabul edilirdi. Günümüzde Türk kültüründe ise bu dönem temmuz sonuyla ağustos ortaları arasına denk gelmektedir ve kalp ve göğüs hastalıkları olanlar için risk taşımanın yanı sıra, kişilerde aşırı stres ve asabiyet görülebilir, orman yangınları başlayabilir, ayrıca enerji hattı kablolarının esnemesi, yol malzemelerinin erimesi ya da demiryollarında rayların genleşmesi gibi altyapı sorunları da ortaya çıkabilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

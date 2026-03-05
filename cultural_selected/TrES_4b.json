@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "tres4b_bb587e46",
+    "title": "TrES-4b",
+    "url": "https://tr.wikipedia.org/wiki/TrES-4b",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:16.428860",
+    "content": "TrES-4b, Herkül takımyıldızında bulunan bir güneş dışı gezegendir. Gezegen, 2006 yılında keşfedilmiş olup şimdiye kadar keşfedilmiş en büyük güneş dışı gezegenlerden biridir. Güneş Sistemi'nden yaklaşık 1,400 ışık yılı uzaklıkta GSC 02620-00648'in yörüngesinde yer almaktadır. TrES-4, her 3,543 günde bir birincil yıldızının yörüngesinde döner ve Dünya'dan bakıldığında yıldızı tutar. Gezegen, Jüpiter'den 0.919 kat daha büyük olup yaklaşık olarak Satürn'ün Methone uydusu ile aynı olan santimetre küp başına sadece yaklaşık 0.333 gramlık bir yoğunluğa sahiptir. Bu veriler, TrES-4'ü keşif sırasında bilinen en büyük gezegen ve bilinen en düşük yoğunluğa sahip gezegen haline getirdi. TrES-4'ün yörünge yarıçapı 0.05091 AU'dur ve tahmini yüzey sıcaklığı yaklaşık 1782 K'dir. Ancak bu veriler gezegenin düşük yoğunluğunu açıklamak için tek başına yetersiz kalmaktadır. Gezegenin neden bu kadar büyük olduğu henüz bilinmemekte olup olası nedenlerden biri Güneş'ten 3-4 kat daha parlak olan bir ana yıldıza ve gezegendeki iç ısıya yakınlık olarak tahmin edilmektedir. 2008 yılında yapılan bir araştırma, GSC 06200-00648 sisteminin, yıldız ve gezegen parametrelerinin daha doğru bir şekilde belirlenmesini sağlayan bir ikili yıldız sistemi olduğu sonucuna varmıştır. == Kaynakça == == Dış bağlantılar == \"Team finds largest exoplanet yet\". BBC News. 7 Ağustos 2007. 7 Şubat 2009 tarihinde kaynağından arşivlendi. Erişim tarihi: 1 Ocak 2020. \"New monster planet 'could float on water'\". ABC News. 7 Ağustos 2007. 28 Mayıs 2011 tarihinde kaynağından arşivlendi. Erişim tarihi: 1 Ocak 2020. Than, Ker (6 Ağustos 2007). \"Largest Known Exoplanet Discovered\". Space.com news service. 18 Aralık 2010 tarihinde kaynağından arşivlendi. Erişim tarihi: 1 Ocak 2020. Muir, Hazel (6 Ağustos 2007). \"Largest known exoplanet puzzles astronomers\". NewScientist.com news service. 7 Kasım 2014 tarihinde kaynağından arşivlendi. Erişim tarihi: 1 Ocak 2020.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 267,
+      "char_count": 1933,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.791026",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "TrES-4b, Herkül takımyıldızında bulunan bir güneş dışı gezegendir. Gezegen, 2006 yılında keşfedilmiş olup şimdiye kadar keşfedilmiş en büyük güneş dışı gezegenlerden biridir. Güneş Sistemi'nden yaklaşık 1,400 ışık yılı uzaklıkta GSC 02620-00648'in yörüngesinde yer almaktadır. TrES-4, her 3,543 günde bir birincil yıldızının yörüngesinde döner ve Dünya'dan bakıldığında yıldızı tutar. Gezegen, Jüpiter'den 0.919 kat daha büyük olup yaklaşık olarak Satürn'ün Methone uydusu ile aynı olan santimetre küp başına sadece yaklaşık 0.333 gramlık bir yoğunluğa sahiptir. Bu veriler, TrES-4'ü keşif sırasında bilinen en büyük gezegen ve bilinen en düşük yoğunluğa sahip gezegen haline getirdi. TrES-4'ün yörünge yarıçapı 0.05091 AU'dur ve tahmini yüzey sıcaklığı yaklaşık 1782 K'dir. Ancak bu veriler gezegenin düşük yoğunluğunu açıklamak için tek başına yetersiz kalmaktadır. Gezegenin neden bu kadar büyük olduğu henüz bilinmemekte olup olası nedenlerden biri Güneş'ten 3-4 kat daha parlak olan bir ana yıld",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1262,
+      "content": "n düşük yoğunluğunu açıklamak için tek başına yetersiz kalmaktadır. Gezegenin neden bu kadar büyük olduğu henüz bilinmemekte olup olası nedenlerden biri Güneş'ten 3-4 kat daha parlak olan bir ana yıldıza ve gezegendeki iç ısıya yakınlık olarak tahmin edilmektedir. 2008 yılında yapılan bir araştırma, GSC 06200-00648 sisteminin, yıldız ve gezegen parametrelerinin daha doğru bir şekilde belirlenmesini sağlayan bir ikili yıldız sistemi olduğu sonucuna varmıştır.",
+      "char_count": 462,
+      "token_estimate": 115
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1278,
+      "end_char": 1933,
+      "content": "== Dış bağlantılar == \"Team finds largest exoplanet yet\". BBC News. 7 Ağustos 2007. 7 Şubat 2009 tarihinde kaynağından arşivlendi. Erişim tarihi: 1 Ocak 2020. \"New monster planet 'could float on water'\". ABC News. 7 Ağustos 2007. 28 Mayıs 2011 tarihinde kaynağından arşivlendi. Erişim tarihi: 1 Ocak 2020. Than, Ker (6 Ağustos 2007). \"Largest Known Exoplanet Discovered\". Space.com news service. 18 Aralık 2010 tarihinde kaynağından arşivlendi. Erişim tarihi: 1 Ocak 2020. Muir, Hazel (6 Ağustos 2007). \"Largest known exoplanet puzzles astronomers\". NewScientist.com news service. 7 Kasım 2014 tarihinde kaynağından arşivlendi. Erişim tarihi: 1 Ocak 2020.",
+      "char_count": 655,
+      "token_estimate": 163
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "TrES-4b adlı güneş dışı gezegen hangi takımyıldızda bulunur?",
+        "answer": "Herkül takımyıldızında.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "TrES-4b'nin keşfi sırasında onu diğer ötegezegenlerden ayıran ve bilimsel ilgiyi çeken temel özellikler nelerdi ve bu özelliklerin daha iyi anlaşılmasına ne gibi gelişmeler katkıda bulundu?",
+        "answer": "TrES-4b, keşfedildiği 2006 yılında bilinen en büyük ve en düşük yoğunluğa sahip gezegenlerden biri olmasıyla dikkat çekti; düşük yoğunluğu ve büyük boyutu, ilk verilerle tam olarak açıklanamayan bir özellik olarak astronomları şaşırttı. Gezegenin düşük yoğunluğunun olası nedenleri arasında Güneş'ten 3-4 kat daha parlak olan bir ana yıldıza yakınlık ve gezegendeki iç ısı tahmin edilmektedir. Ayrıca, 2008 yılında yapılan bir araştırma, sistemin ikili bir yıldız sistemi olduğunu ortaya koyarak yıldız ve gezegen parametrelerinin daha doğru bir şekilde belirlenmesini sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

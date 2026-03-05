@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "lisi_d9024661",
+    "title": "Li Si",
+    "url": "https://tr.wikipedia.org/wiki/Li_Si",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:46.250707",
+    "content": "Li Si (/ˈliː ˈsiː/ ; y. MÖ 280 – Eylül veya Ekim 208), Çin hanedanının Çinli bir politikacısı, filozofu ve hattatıydı. MÖ 246'dan 208'e kadar iki hükümdar altında Şansölye (veya Başbakan) olarak görev yaptı. Bunlar; Qin devletinin kralı ve daha sonra Qin hanedanının İlk İmparatoru olan Qin Shi Huang ve Qin Shi Huang'ın on sekizinci oğlu ve İkinci İmparator olan Qin Er Shi'dir. İdari yöntemlerle ilgili olarak, Li Si, Shen Buhai ve Han Fei'nin tekniğine tekrar tekrar atıfta bulunarak, \" Shen Buhai'nin fikirlerine hayran olduğunu ve bunları kullandığını\" belirtti ancak hukukla ilgili olarak Shang Yang'ı izledi. Klasik Çin metinlerinin çevirmeni olan John Knoblock, Li Si'yi \"Çin tarihinin en önemli iki ya da üç figüründen biri\" olarak değerlendirdi. Li Si, İmparator Shi Huangdi'ye yasaları, hükûmet kararnamelerini, ağırlıkları ve ölçüleri ve standartlaştırılmış savaş arabalarını ve yazılı olarak kullanılan karakterleri birleştirmede yardım etti... Çin'in kültürel birliğini [kolaylaştırdı]. O, \"yalnızca liyakate dayalı bir hükümet yarattı. Böylece imparatorlukta imparatorluk klanındaki oğullar ve küçük kardeşler soylulaştırılmadı, ancak değerli bakanlar oldu\" ve \"barbarları kuzeye ve güneye boyun eğdirerek sınır bölgelerini sakinleştirdi\" demiştir. Feodal devletlerin silahlarını eritip müzikli çanlara ve büyük insan heykellerine döktürdü ve Shang Yang'dan miras kalan vergileri ve acımasız cezaları gevşetti. == Popüler kültürde == Li Si, Elias Canetti'nin Auto-da-fe (1935) adlı romanında bahsedilmiştir. Li Si, Koei'nin Romance of the Three Kingdoms XI adlı video oyununda özel karakterler olarak görünen 32 tarihi figürden biridir. Ayrıca Romance of the Three Kingdoms XIV'te özel bir karakter olarak görünür. Li Si (李斯, Ri Shi), Yasuhisa Hara'nın popüler manga Kingdom'da Lord Changping ve Meng Wu ile birlikte Lu Buwei'nin Dört Sütunlarından biri olarak görünür. Ai'nin başarısız işgalinde komplocu olduktan sonra Lu Buwei'nin rezaletinden sonra hapsedildi, Ying Zheng'e sığındı ve Hukukçu bir milletvekili oldu. The Venture Bros'da \"Li Si'nin Beş Ağrısı \" görünür. Sezon 05 Bölüm 07, önce bir \"işkence jetonu\" üzerinde, ardından \"işkence çarkı\" üzerinde. Li Si, 74 bölümlük seri The Qin Empire IV'te kilit bir karakter ve 80 bölümlük The Legend of Chu ve Han olarak da bilinen The King's War serisinde küçük bir karakterdir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 340,
+      "char_count": 2362,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.431072",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Li Si (/ˈliː ˈsiː/ ; y. MÖ 280 – Eylül veya Ekim 208), Çin hanedanının Çinli bir politikacısı, filozofu ve hattatıydı. MÖ 246'dan 208'e kadar iki hükümdar altında Şansölye (veya Başbakan) olarak görev yaptı. Bunlar; Qin devletinin kralı ve daha sonra Qin hanedanının İlk İmparatoru olan Qin Shi Huang ve Qin Shi Huang'ın on sekizinci oğlu ve İkinci İmparator olan Qin Er Shi'dir. İdari yöntemlerle ilgili olarak, Li Si, Shen Buhai ve Han Fei'nin tekniğine tekrar tekrar atıfta bulunarak, \" Shen Buhai'nin fikirlerine hayran olduğunu ve bunları kullandığını\" belirtti ancak hukukla ilgili olarak Shang Yang'ı izledi. Klasik Çin metinlerinin çevirmeni olan John Knoblock, Li Si'yi \"Çin tarihinin en önemli iki ya da üç figüründen biri\" olarak değerlendirdi. Li Si, İmparator Shi Huangdi'ye yasaları, hükûmet kararnamelerini, ağırlıkları ve ölçüleri ve standartlaştırılmış savaş arabalarını ve yazılı olarak kullanılan karakterleri birleştirmede yardım etti... Çin'in kültürel birliğini [kolaylaştırdı].",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1425,
+      "content": "kûmet kararnamelerini, ağırlıkları ve ölçüleri ve standartlaştırılmış savaş arabalarını ve yazılı olarak kullanılan karakterleri birleştirmede yardım etti... Çin'in kültürel birliğini [kolaylaştırdı]. O, \"yalnızca liyakate dayalı bir hükümet yarattı. Böylece imparatorlukta imparatorluk klanındaki oğullar ve küçük kardeşler soylulaştırılmadı, ancak değerli bakanlar oldu\" ve \"barbarları kuzeye ve güneye boyun eğdirerek sınır bölgelerini sakinleştirdi\" demiştir. Feodal devletlerin silahlarını eritip müzikli çanlara ve büyük insan heykellerine döktürdü ve Shang Yang'dan miras kalan vergileri ve acımasız cezaları gevşetti.",
+      "char_count": 625,
+      "token_estimate": 156
+    },
+    {
+      "id": "c0002",
+      "section": "== Popüler kültürde ==",
+      "heading_path": "== Popüler kültürde ==",
+      "start_char": 1426,
+      "end_char": 2348,
+      "content": "== Popüler kültürde == Li Si, Elias Canetti'nin Auto-da-fe (1935) adlı romanında bahsedilmiştir. Li Si, Koei'nin Romance of the Three Kingdoms XI adlı video oyununda özel karakterler olarak görünen 32 tarihi figürden biridir. Ayrıca Romance of the Three Kingdoms XIV'te özel bir karakter olarak görünür. Li Si (李斯, Ri Shi), Yasuhisa Hara'nın popüler manga Kingdom'da Lord Changping ve Meng Wu ile birlikte Lu Buwei'nin Dört Sütunlarından biri olarak görünür. Ai'nin başarısız işgalinde komplocu olduktan sonra Lu Buwei'nin rezaletinden sonra hapsedildi, Ying Zheng'e sığındı ve Hukukçu bir milletvekili oldu. The Venture Bros'da \"Li Si'nin Beş Ağrısı \" görünür. Sezon 05 Bölüm 07, önce bir \"işkence jetonu\" üzerinde, ardından \"işkence çarkı\" üzerinde. Li Si, 74 bölümlük seri The Qin Empire IV'te kilit bir karakter ve 80 bölümlük The Legend of Chu ve Han olarak da bilinen The King's War serisinde küçük bir karakterdir.",
+      "char_count": 921,
+      "token_estimate": 230
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Li Si, kaç hükümdar altında Şansölye olarak görev yapmıştır?",
+        "answer": "İki hükümdar altında: Qin Shi Huang ve Qin Er Shi.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Li Si'nin hem \"Çin tarihinin en önemli iki ya da üç figüründen biri\" olarak anılması hem de popüler kültürde birçok eserde yer alması, hangi temel tarihi katkılarıyla ilişkilidir?",
+        "answer": "Li Si'nin bu önemi, yasaları, hükümet kararnamelerini, ağırlıkları ve ölçüleri, standartlaştırılmış savaş arabalarını ve yazılı karakterleri birleştirerek Çin'in kültürel birliğini kolaylaştırması, liyakate dayalı bir hükümet yaratması ve sınır bölgelerini sakinleştirmesi gibi Qin Hanedanlığı'nın birleşmesindeki temel rolüyle ilişkilidir. Bu kapsamlı etkileri, onun edebi eserlerden video oyunlarına ve TV dizilerine kadar popüler kültürde sürekli olarak temsil edilmesine neden olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

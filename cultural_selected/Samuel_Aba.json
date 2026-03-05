@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "samuelaba_b9795029",
+    "title": "Samuel Aba",
+    "url": "https://tr.wikipedia.org/wiki/Samuel_Aba",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:28.043778",
+    "content": "Samuel Aba (ö. 5 Temmuz 1044); 1041-1044 yılları arasında hüküm sürmüş Macar kralı. Mátra bölgesinde etkili olan Aba klanının yönetici ailesinin mensubudur. Bazı kaynaklarda Aba klanının kökeni Türk kökenli Kabar boyu ile ilişkilendirilmektedir. Yahudi ya da pagan inancına sahip olduğu düşünülen Samuel'in 1000 yılı başlarında vaftiz olarak Hristiyan olduğu sanılmaktadır. Kral I. Istvan 1009 yılında kızkardeşini, Samuel ya da Samuel'in babasıyla evlendirerek ittifak oluşturduğu gibi, Eger piskoposluğunu kurdurarak bölgede Hristiyanlığın yaygınlaşmasını sağlamıştır. Samuel'in I. Istvan ile kurduğu ittifak sayesinde zamanla kraliyet konseyi üyesi ve krallığın en önemli makamı sayılan, kral naipliği gibi düşünülebilecek Macarca “nádor” unvanını aldı. Ancak kralın 1038 yılında ölmesiyle yeni kral Peter tarafından bu görevinden alındı. Peter'in Venedikli bir asilzade olması, Alman ve Fransız lordlarını askeri ve idari konumlara ataması onun idaresinin Macar asillerince Kutsal Roma İmparatorluğu'nun bir vesayeti olarak görülmüş ve büyük bir ayaklanma yaşanmıştır. Peter bu nedenle Alman kralına sığınmak zorunda kalırken, Macar asiller de Samuel Aba'yı yeni kral olarak seçmişlerdir (1041). Samuel kral ilan edildiğinde Peter'in yasalarını kaldırırken onun destekçilerini de ağır şekilde cezalandırdı. 1042 yılında Avusturya topraklarına saldırarak Kutsal Roma İmparatorluğu'ndan Leitha ve Morava Nehri arasındaki bölgeyi almak istese de çekilmek zorunda kaldı. Karşı saldırıya geçen Kutsal Roma İmparatoru III. Heinrich Bratislava ve Tuna Nehri'nin solundaki Hron Nehrine kadar olan bölgeyi işgal etti. Zor durumda kalan Samuel de barış teklif ederek önemli miktarda tazminat ödemek zorunda kaldı. Bu tazminatı ödemek maksadıyla kilise mülklerinden vergi aldı. Bu nedenle de Cenad piskoposu Gerard, Paskalya'da yapılması planlanan taç giyme törenini yapmayı reddetti. Yaşadığı mağlubiyet ve kiliseyle arasının bozulması nedeniyle kendisine olan muhalefetin arttığını gören Samuel, tehdit olarak gördüğü kişileri öldürtmeye başladı. Tüm bu yaşananlar Peter'in destekçilerinin artmasına yol açmış ve Roma İmparatorundan müdahalede bulunması için soylularca yapılan talepler sonucunda Kutsal Roma İmparatorluğu III. Heinrich Peter'in yeniden Macar kralı olabilmesi için Macaristan'ı işgale yöneldi. 5 Temmuz 1044'te Macar ve Alman güçleri arasında Győr yakınlarındaki Ménfő'de yapılan muharebede Samuel Aba kuvvetlerinin daha fazla olmasına rağmen yaptığı uygulamalardan rahatsız olan Macar asillerinin isteksiz savaşmalarından dolayı ağır bir mağlubiyet aldı. Savaş alanından kaçmaya çalışsa da kısa bir süre yakalanarak başı kesilmek suretiyle idam edildi. Naaşı Abasár'da inşa ettirdiği manastırda defnedildi. Samuel'in ölümünden sonra Peter yeniden Macar kralı olurken, Macaristan Krallığı'da bir süre Kutsal Roma İmparatorluğu'nun vasalı konumunda kaldı. Samuel ölse de Aba klanı Macaristan'da etkili olmaya devam edebildi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 381,
+      "char_count": 2950,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.441469",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Samuel Aba (ö. 5 Temmuz 1044); 1041-1044 yılları arasında hüküm sürmüş Macar kralı. Mátra bölgesinde etkili olan Aba klanının yönetici ailesinin mensubudur. Bazı kaynaklarda Aba klanının kökeni Türk kökenli Kabar boyu ile ilişkilendirilmektedir. Yahudi ya da pagan inancına sahip olduğu düşünülen Samuel'in 1000 yılı başlarında vaftiz olarak Hristiyan olduğu sanılmaktadır. Kral I. Istvan 1009 yılında kızkardeşini, Samuel ya da Samuel'in babasıyla evlendirerek ittifak oluşturduğu gibi, Eger piskoposluğunu kurdurarak bölgede Hristiyanlığın yaygınlaşmasını sağlamıştır. Samuel'in I. Istvan ile kurduğu ittifak sayesinde zamanla kraliyet konseyi üyesi ve krallığın en önemli makamı sayılan, kral naipliği gibi düşünülebilecek Macarca “nádor” unvanını aldı. Ancak kralın 1038 yılında ölmesiyle yeni kral Peter tarafından bu görevinden alındı. Peter'in Venedikli bir asilzade olması, Alman ve Fransız lordlarını askeri ve idari konumlara ataması onun idaresinin Macar asillerince Kutsal Roma İmparatorl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "al Peter tarafından bu görevinden alındı. Peter'in Venedikli bir asilzade olması, Alman ve Fransız lordlarını askeri ve idari konumlara ataması onun idaresinin Macar asillerince Kutsal Roma İmparatorluğu'nun bir vesayeti olarak görülmüş ve büyük bir ayaklanma yaşanmıştır. Peter bu nedenle Alman kralına sığınmak zorunda kalırken, Macar asiller de Samuel Aba'yı yeni kral olarak seçmişlerdir (1041). Samuel kral ilan edildiğinde Peter'in yasalarını kaldırırken onun destekçilerini de ağır şekilde cezalandırdı. 1042 yılında Avusturya topraklarına saldırarak Kutsal Roma İmparatorluğu'ndan Leitha ve Morava Nehri arasındaki bölgeyi almak istese de çekilmek zorunda kaldı. Karşı saldırıya geçen Kutsal Roma İmparatoru III. Heinrich Bratislava ve Tuna Nehri'nin solundaki Hron Nehrine kadar olan bölgeyi işgal etti. Zor durumda kalan Samuel de barış teklif ederek önemli miktarda tazminat ödemek zorunda kaldı. Bu tazminatı ödemek maksadıyla kilise mülklerinden vergi aldı. Bu nedenle de Cenad piskoposu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2600,
+      "content": " işgal etti. Zor durumda kalan Samuel de barış teklif ederek önemli miktarda tazminat ödemek zorunda kaldı. Bu tazminatı ödemek maksadıyla kilise mülklerinden vergi aldı. Bu nedenle de Cenad piskoposu Gerard, Paskalya'da yapılması planlanan taç giyme törenini yapmayı reddetti. Yaşadığı mağlubiyet ve kiliseyle arasının bozulması nedeniyle kendisine olan muhalefetin arttığını gören Samuel, tehdit olarak gördüğü kişileri öldürtmeye başladı. Tüm bu yaşananlar Peter'in destekçilerinin artmasına yol açmış ve Roma İmparatorundan müdahalede bulunması için soylularca yapılan talepler sonucunda Kutsal Roma İmparatorluğu III. Heinrich Peter'in yeniden Macar kralı olabilmesi için Macaristan'ı işgale yöneldi. 5 Temmuz 1044'te Macar ve Alman güçleri arasında Győr yakınlarındaki Ménfő'de yapılan muharebede Samuel Aba kuvvetlerinin daha fazla olmasına rağmen yaptığı uygulamalardan rahatsız olan Macar asillerinin isteksiz savaşmalarından dolayı ağır bir mağlubiyet aldı. Savaş alanından kaçmaya çalışsa ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 2400,
+      "end_char": 2935,
+      "content": "de Samuel Aba kuvvetlerinin daha fazla olmasına rağmen yaptığı uygulamalardan rahatsız olan Macar asillerinin isteksiz savaşmalarından dolayı ağır bir mağlubiyet aldı. Savaş alanından kaçmaya çalışsa da kısa bir süre yakalanarak başı kesilmek suretiyle idam edildi. Naaşı Abasár'da inşa ettirdiği manastırda defnedildi. Samuel'in ölümünden sonra Peter yeniden Macar kralı olurken, Macaristan Krallığı'da bir süre Kutsal Roma İmparatorluğu'nun vasalı konumunda kaldı. Samuel ölse de Aba klanı Macaristan'da etkili olmaya devam edebildi.",
+      "char_count": 535,
+      "token_estimate": 133
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Samuel Aba hangi tarihler arasında Macar kralı olarak hüküm sürmüştür?",
+        "answer": "1041-1044 yılları arasında.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Macar asillerinin Kral Peter'in yönetimine karşı hoşnutsuzluğundan, Samuel Aba'nın kral seçilmesine ve nihayetinde saltanatının sonuna yol açan olaylar zincirini açıklayınız.",
+        "answer": "Kral Peter'in Venedikli bir asilzade olması ve Alman ile Fransız lordlarını askeri ve idari konumlara ataması, Macar asillerince yönetiminin Kutsal Roma İmparatorluğu'nun bir vesayeti olarak görülmesine neden oldu. Bu hoşnutsuzluk büyük bir ayaklanmaya yol açtı ve Peter'in kaçmasıyla Macar asiller 1041'de Samuel Aba'yı yeni kral olarak seçti. Samuel, başta Peter'in yasalarını kaldırmış ve destekçilerini cezalandırmış olsa da, 1042'de Kutsal Roma İmparatorluğu'na karşı yaptığı başarısız askeri sefer sonrasında önemli miktarda tazminat ödemek zorunda kaldı. Bu tazminatı ödemek için kilise mülklerinden vergi alması, Cenad piskoposu Gerard'ın Paskalya'daki taç giyme törenini reddetmesi gibi kiliseyle ilişkilerinin bozulmasına yol açtı. Yaşadığı mağlubiyet ve kiliseyle arasının açılması nedeniyle kendisine olan muhalefetin artması üzerine, Samuel tehdit olarak gördüğü kişileri öldürtmeye başladı. Bu durum Peter'in destekçilerinin artmasına ve Kutsal Roma İmparatoru III. Heinrich'in Peter'i yeniden Macar kralı yapmak üzere Macaristan'ı işgal etmesine neden oldu. Sonuç olarak, Samuel Aba 1044'teki Ménfő Muharebesi'nde, sahip olduğu daha fazla kuvvete rağmen, kendisinden rahatsız olan Macar asillerinin isteksiz savaşması nedeniyle ağır bir mağlubiyet alarak saltanatını kaybetti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

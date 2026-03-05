@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "bjornpoonen_da6ef775",
+    "title": "Bjorn Poonen",
+    "url": "https://tr.wikipedia.org/wiki/Bjorn_Poonen",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:50.481102",
+    "content": "Bjorn Mikhail Poonen (d. 27 Temmuz 1968, Boston), Amerikalı matematikçi ve Massachusetts Teknoloji Enstitüsü Matematik Bölümü'nde Seçkin Bilim Profesörüdür. Dört kez Putnam Yarışması kazananı olmuştur. Araştırma alanı aritmetik geometri olmakla birlikte ara sıra olasılık ve bilgisayar bilimi gibi diğer konularda da yayınlar yapmıştır. İki kitap düzenledi ve araştırma makalelerine yaklaşık 1.000 farklı yazar tarafından atıfta bulunuldu. Algebra & Number Theory dergisinin kurucu, yönetici editörüdür. Ayrıca Involve ve AK Peters Research Notes in Mathematics kitap serisinin yayın kurullarında görev yapmaktadır. == Eğitim == Poonen, Winchester, Massachusetts'teki Winchester Lisesinden 1985 yılında mezun oldu. 1989'da Harvard Üniversitesinden Matematik ve Fizik alanında yüksek derece ile mezun oldu. Daha sonra Berkeley'deki California Üniversitesinde Kenneth Alan Ribet ile çalıştı ve 1994 yılında doktorasını tamamladı. == Akademik kariyer == Poonen, Matematik Bilimleri Araştırma Enstitüsü ve Princeton Üniversitesinde doktora sonrası pozisyonlarda bulundu ve MIT'ye geçmeden önce 1997'den 2008'e kadar Berkeley'deki California Üniversitesinde görev yaptı. Ayrıca Isaac Newton Enstitüsünde (1998 ve 2005), Université Paris-Sud (2001), Harvard (2007) ve MIT'de (2007) ziyaretçi pozisyonlarında bulundu. == Başlıca onur ve ödüller == Joseph L. Doob Ödülü, 2023 Amerikan Matematik Derneği Üyesi, 2012. Amerikan Sanat ve Bilim Akademisi : 2012'de seçildi Chauvenet Ödülü, \"Sayı teorisinde karar verilemezlik\" başlıklı makalesiyle, 2011 Miller Araştırma Profesörlüğü - California Berkeley Üniversitesi. David ve Lucile Packard Bursu Sloan Araştırma Bursu William Lowell Putnam Matematik Yarışması : 1985, 1986, 1987 ve 1988 kazananı (1938'den bu yana dört kez kazanan diğer matematikçiler: Don Coppersmith, Arthur Rubin, Ravi D. Vakil, Gabriel Carroll, Reid W. Barton, Daniel Kane ve Brian R.Lawrence ). Uluslararası Matematik Olimpiyatı : 1985'te gümüş madalya. Amerikan Lise Matematik Sınavı : 1985'te tam puan alan tek katılımcı. == Kaynakça == == Dış bağlantılar == Kişisel internet sayfası 25 Ekim 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 286,
+      "char_count": 2159,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.704373",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 616,
+      "content": "Bjorn Mikhail Poonen (d. 27 Temmuz 1968, Boston), Amerikalı matematikçi ve Massachusetts Teknoloji Enstitüsü Matematik Bölümü'nde Seçkin Bilim Profesörüdür. Dört kez Putnam Yarışması kazananı olmuştur. Araştırma alanı aritmetik geometri olmakla birlikte ara sıra olasılık ve bilgisayar bilimi gibi diğer konularda da yayınlar yapmıştır. İki kitap düzenledi ve araştırma makalelerine yaklaşık 1.000 farklı yazar tarafından atıfta bulunuldu. Algebra & Number Theory dergisinin kurucu, yönetici editörüdür. Ayrıca Involve ve AK Peters Research Notes in Mathematics kitap serisinin yayın kurullarında görev yapmaktadır.",
+      "char_count": 615,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0001",
+      "section": "== Eğitim ==",
+      "heading_path": "== Eğitim ==",
+      "start_char": 616,
+      "end_char": 928,
+      "content": "== Eğitim == Poonen, Winchester, Massachusetts'teki Winchester Lisesinden 1985 yılında mezun oldu. 1989'da Harvard Üniversitesinden Matematik ve Fizik alanında yüksek derece ile mezun oldu. Daha sonra Berkeley'deki California Üniversitesinde Kenneth Alan Ribet ile çalıştı ve 1994 yılında doktorasını tamamladı.",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0002",
+      "section": "== Akademik kariyer ==",
+      "heading_path": "== Akademik kariyer ==",
+      "start_char": 928,
+      "end_char": 1311,
+      "content": "== Akademik kariyer == Poonen, Matematik Bilimleri Araştırma Enstitüsü ve Princeton Üniversitesinde doktora sonrası pozisyonlarda bulundu ve MIT'ye geçmeden önce 1997'den 2008'e kadar Berkeley'deki California Üniversitesinde görev yaptı. Ayrıca Isaac Newton Enstitüsünde (1998 ve 2005), Université Paris-Sud (2001), Harvard (2007) ve MIT'de (2007) ziyaretçi pozisyonlarında bulundu.",
+      "char_count": 382,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0003",
+      "section": "== Başlıca onur ve ödüller ==",
+      "heading_path": "== Başlıca onur ve ödüller ==",
+      "start_char": 1311,
+      "end_char": 2037,
+      "content": "== Başlıca onur ve ödüller == Joseph L. Doob Ödülü, 2023 Amerikan Matematik Derneği Üyesi, 2012. Amerikan Sanat ve Bilim Akademisi : 2012'de seçildi Chauvenet Ödülü, \"Sayı teorisinde karar verilemezlik\" başlıklı makalesiyle, 2011 Miller Araştırma Profesörlüğü - California Berkeley Üniversitesi. David ve Lucile Packard Bursu Sloan Araştırma Bursu William Lowell Putnam Matematik Yarışması : 1985, 1986, 1987 ve 1988 kazananı (1938'den bu yana dört kez kazanan diğer matematikçiler: Don Coppersmith, Arthur Rubin, Ravi D. Vakil, Gabriel Carroll, Reid W. Barton, Daniel Kane ve Brian R.Lawrence ). Uluslararası Matematik Olimpiyatı : 1985'te gümüş madalya. Amerikan Lise Matematik Sınavı : 1985'te tam puan alan tek katılımcı.",
+      "char_count": 725,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2052,
+      "end_char": 2159,
+      "content": "== Dış bağlantılar == Kişisel internet sayfası 25 Ekim 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 107,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Joseph L. Doob Ödülü hangi yılda verilmiştir?",
+        "answer": "2023",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bjorn Poonen'ın Massachusetts Teknoloji Enstitüsü'nde Seçkin Bilim Profesörü unvanına ulaşmasında ve aritmetik geometri alanındaki uzmanlığında eğitim geçmişinin rolü nedir?",
+        "answer": "Poonen, Winchester Lisesi'nden mezun olduktan sonra Harvard Üniversitesi'nde Matematik ve Fizik alanında yüksek derece ile mezun olmuştur. Daha sonra Berkeley'deki California Üniversitesi'nde Kenneth Alan Ribet ile çalışarak 1994 yılında doktorasını tamamlamıştır. Bu kapsamlı akademik geçmişi, onu Massachusetts Teknoloji Enstitüsü'nde Seçkin Bilim Profesörü olarak aritmetik geometri alanında uzmanlaşmaya ve araştırmalar yapmaya hazırlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

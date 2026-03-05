@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "ivanivanji_a3912370",
+    "title": "Ivan Ivanji",
+    "url": "https://tr.wikipedia.org/wiki/Ivan_Ivanji",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:06.772542",
+    "content": "Ivan Ivanji (Sırpça:Иван Ивањи; 24 Ocak 1929 - 9 Mayıs 2024), Sırp romancı ve çevirmen. == Hayatı == Ivanji, 24 Ocak 1929'da Zrenjanin, Yugoslavya Krallığı'nda doğdu. 1944 ile 1945 yılları arasında Auschwitz ve Buchenwald toplama kamplarında tutuldu. Belgrad Üniversitesi Dilbilimi Fakültesi'nden mezun oldu. Yaşamının büyük bölümünü Belgrad ve Viyana'da sürdürdü. Kaleme aldığı eserlerini Sırpça'dan Almanca'ya çevirmiştir. 1982-1988 yılları arasında Yugoslav Yazarlar Birliği'nin Genel Sekreteri olarak görev yaptı. Son kitabında İkinci Dünya Savaşı öncesinde Banat'taki Zrenjanin (Betschkerek) kasabasında yaşadıklarını ele aldı. 2017'de Hırvatlar, Sırplar, Boşnaklar ve Karadağlılar'ın Ortak Diline ilişkin Deklarasyonu imzaladı. Eserleriyle Nisan 2020'de Weimar'ın fahri vatandaşı ünvanını aldı. Ivanji, 9 Mayıs 2024'te Almanya'nın Weimar şehrinde doğal nedenlerden 95 yaşında öldü. == Kurgusal çalışmaları == Dioklecijan. Belgrad 1973 [Doğu] Berlin 1976; Münih 1978, 3-471-77834-9 Smrt za Zmajevoj steni. 1982. Dorsten 1984, 3-924593-02-7 Konstantin. Belgrad 1988, Verlag Volk und Welt, Berlin 1988, 3-353-00326-6 Schattenspringen. Viyana 1993, 3-85452-251-7 Ein ungarischer Herbst, Viyana 1995, 3-85452-280-0 Barbarossas Jude, Viyana 1996, 3-85452-299-1 Der Aschenmensch von Buchenwald. Viyana 1999, 3-85452-429-3 Die Tänzerin und der Krieg. Viyana 2002, 3-85452-456-0 Sırp-Hırvat ünvanı: Balerina i rat, 2003 Geister aus einer kleinen Stadt, Viyana 2008, 978-3-85452-633-9 == Ödülleri == 2011: Avusturya Bilim ve Sanat Nişanı, I Sınıf Olağanüstü == Kaynakça == == Dış bağlantılar == Ivan Ivanji wordswithoutborders.org",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 208,
+      "char_count": 1626,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.854660",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 88,
+      "content": "Ivan Ivanji (Sırpça:Иван Ивањи; 24 Ocak 1929 - 9 Mayıs 2024), Sırp romancı ve çevirmen.",
+      "char_count": 87,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 88,
+      "end_char": 888,
+      "content": "== Hayatı == Ivanji, 24 Ocak 1929'da Zrenjanin, Yugoslavya Krallığı'nda doğdu. 1944 ile 1945 yılları arasında Auschwitz ve Buchenwald toplama kamplarında tutuldu. Belgrad Üniversitesi Dilbilimi Fakültesi'nden mezun oldu. Yaşamının büyük bölümünü Belgrad ve Viyana'da sürdürdü. Kaleme aldığı eserlerini Sırpça'dan Almanca'ya çevirmiştir. 1982-1988 yılları arasında Yugoslav Yazarlar Birliği'nin Genel Sekreteri olarak görev yaptı. Son kitabında İkinci Dünya Savaşı öncesinde Banat'taki Zrenjanin (Betschkerek) kasabasında yaşadıklarını ele aldı. 2017'de Hırvatlar, Sırplar, Boşnaklar ve Karadağlılar'ın Ortak Diline ilişkin Deklarasyonu imzaladı. Eserleriyle Nisan 2020'de Weimar'ın fahri vatandaşı ünvanını aldı. Ivanji, 9 Mayıs 2024'te Almanya'nın Weimar şehrinde doğal nedenlerden 95 yaşında öldü.",
+      "char_count": 799,
+      "token_estimate": 199
+    },
+    {
+      "id": "c0002",
+      "section": "== Kurgusal çalışmaları ==",
+      "heading_path": "== Kurgusal çalışmaları ==",
+      "start_char": 888,
+      "end_char": 1481,
+      "content": "== Kurgusal çalışmaları == Dioklecijan. Belgrad 1973 [Doğu] Berlin 1976; Münih 1978, 3-471-77834-9 Smrt za Zmajevoj steni. 1982. Dorsten 1984, 3-924593-02-7 Konstantin. Belgrad 1988, Verlag Volk und Welt, Berlin 1988, 3-353-00326-6 Schattenspringen. Viyana 1993, 3-85452-251-7 Ein ungarischer Herbst, Viyana 1995, 3-85452-280-0 Barbarossas Jude, Viyana 1996, 3-85452-299-1 Der Aschenmensch von Buchenwald. Viyana 1999, 3-85452-429-3 Die Tänzerin und der Krieg. Viyana 2002, 3-85452-456-0 Sırp-Hırvat ünvanı: Balerina i rat, 2003 Geister aus einer kleinen Stadt, Viyana 2008, 978-3-85452-633-9",
+      "char_count": 592,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1481,
+      "end_char": 1554,
+      "content": "== Ödülleri == 2011: Avusturya Bilim ve Sanat Nişanı, I Sınıf Olağanüstü",
+      "char_count": 72,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1569,
+      "end_char": 1626,
+      "content": "== Dış bağlantılar == Ivan Ivanji wordswithoutborders.org",
+      "char_count": 57,
+      "token_estimate": 14
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ivanji ne zaman ve nerede vefat etti?",
+        "answer": "Ivanji, 9 Mayıs 2024'te Almanya'nın Weimar şehrinde vefat etti.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ivan Ivanji'nin toplama kamplarındaki kişisel deneyimleri ve doğum yeriyle ilgili anıları, kurgusal çalışmalarına nasıl yansımıştır?",
+        "answer": "Ivan Ivanji'nin Auschwitz ve Buchenwald toplama kamplarındaki tutukluluk deneyimleri, kurgusal çalışmalarından 'Der Aschenmensch von Buchenwald' adlı eseriyle yansımıştır. Ayrıca son kitabında, İkinci Dünya Savaşı öncesinde doğduğu Zrenjanin'deki yaşamını konu alarak kişisel anılarını eserlerine aktarmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "sosyalmedyapazarlama_03ad7c89",
+    "title": "Sosyal medya pazarlama",
+    "url": "https://tr.wikipedia.org/wiki/Sosyal_medya_pazarlama",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:20.277188",
+    "content": "Sosyal medya pazarlama (İngilizce: social media marketing-SMM), sosyal medya siteleri aracılığıyla trafik kazanma ve dikkat çekme işlemiyle ilgilidir. Her ne kadar e-pazarlama ve dijital pazarlama terimleri akademik çevrede hâlâ baskın olsa da, sosyal medya pazarlaması hem uygulayıcılar hem de araştırmacılar için giderek daha popüler hale geliyor. Yıllar boyunca popüler sosyal ağ sitelerine örnek olarak Facebook, Instagram, Twitter, TikTok, Myspace, Pinterest, LinkedIn, Snapchat, YouTube ve Threads, ayrıca Telegram ve WhatsApp gibi anlık mesajlaşmalar aittir. Bu ağlar kullanıcıların reklamlarını hiper hedefleyebilecekleri önde gelen platformlardır. Sosyal medyada tanıtım için uygun içerik türleri arasında yazı, video ve resim paylaşımları, hikayeler, canlı yayınlar, müşteri beğenmeleri ve yorumları, özel mesajlar, infografikler ve kaliteli görsel içerikler bulunur. Reklamverenler, Google AdSense gibi dijital araçları kullanarak, reklamlarıyla sosyal girişimcilik, aktivizm veya video oyunlarıyla ilgilenen kişiler gibi çok spesifik demografik grupları hedefleyebilir. Sosyal medya sadece halkla ilişkiler ve doğrudan pazarlama aracı olarak değil aynı zamanda bir iletişim kanalı olarak da kullanılabilir. === Sosyal medya pazarlama araçları === Sosyal medya takip Sosyal İmleme ve Etiketleme Sosyal Raporlama Sosyal CRM Blog Pazarlama == Ayrıca bakınız == Sosyal medya içeriği Sosyal medya optimizasyonu Sosyal ağ hizmetleri Hedeflenmiş reklamcılık İçeriğe dayalı reklamcılık Etkileyici pazarlama İçerikle pazarlama Mobil pazarlama Sosyal imleme Web 2.0 İnternet ünlüsü == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 203,
+      "char_count": 1598,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.306406",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Sosyal medya pazarlama (İngilizce: social media marketing-SMM), sosyal medya siteleri aracılığıyla trafik kazanma ve dikkat çekme işlemiyle ilgilidir. Her ne kadar e-pazarlama ve dijital pazarlama terimleri akademik çevrede hâlâ baskın olsa da, sosyal medya pazarlaması hem uygulayıcılar hem de araştırmacılar için giderek daha popüler hale geliyor. Yıllar boyunca popüler sosyal ağ sitelerine örnek olarak Facebook, Instagram, Twitter, TikTok, Myspace, Pinterest, LinkedIn, Snapchat, YouTube ve Threads, ayrıca Telegram ve WhatsApp gibi anlık mesajlaşmalar aittir. Bu ağlar kullanıcıların reklamlarını hiper hedefleyebilecekleri önde gelen platformlardır. Sosyal medyada tanıtım için uygun içerik türleri arasında yazı, video ve resim paylaşımları, hikayeler, canlı yayınlar, müşteri beğenmeleri ve yorumları, özel mesajlar, infografikler ve kaliteli görsel içerikler bulunur. Reklamverenler, Google AdSense gibi dijital araçları kullanarak, reklamlarıyla sosyal girişimcilik, aktivizm veya video oy",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1218,
+      "content": "yorumları, özel mesajlar, infografikler ve kaliteli görsel içerikler bulunur. Reklamverenler, Google AdSense gibi dijital araçları kullanarak, reklamlarıyla sosyal girişimcilik, aktivizm veya video oyunlarıyla ilgilenen kişiler gibi çok spesifik demografik grupları hedefleyebilir. Sosyal medya sadece halkla ilişkiler ve doğrudan pazarlama aracı olarak değil aynı zamanda bir iletişim kanalı olarak da kullanılabilir.",
+      "char_count": 418,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0002",
+      "section": "=== Sosyal medya pazarlama araçları ===",
+      "heading_path": "=== Sosyal medya pazarlama araçları ===",
+      "start_char": 1219,
+      "end_char": 1349,
+      "content": "=== Sosyal medya pazarlama araçları === Sosyal medya takip Sosyal İmleme ve Etiketleme Sosyal Raporlama Sosyal CRM Blog Pazarlama",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1349,
+      "end_char": 1584,
+      "content": "== Ayrıca bakınız == Sosyal medya içeriği Sosyal medya optimizasyonu Sosyal ağ hizmetleri Hedeflenmiş reklamcılık İçeriğe dayalı reklamcılık Etkileyici pazarlama İçerikle pazarlama Mobil pazarlama Sosyal imleme Web 2.0 İnternet ünlüsü",
+      "char_count": 234,
+      "token_estimate": 58
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sosyal medya pazarlama (SMM) ne ile ilgilidir?",
+        "answer": "Sosyal medya pazarlama (SMM), sosyal medya siteleri aracılığıyla trafik kazanma ve dikkat çekme işlemiyle ilgilidir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sosyal medya pazarlamasının trafik ve dikkat çekme hedefi doğrultusunda, reklamverenler hangi içerik türlerini ve dijital araçları kullanarak belirli ilgi alanlarına sahip hedef kitlelere etkili bir şekilde ulaşabilirler?",
+        "answer": "Reklamverenler, yazı, video, resim paylaşımları, hikayeler, canlı yayınlar, müşteri beğenmeleri ve yorumları, özel mesajlar, infografikler ve kaliteli görsel içerikler gibi çeşitli içerik türlerini kullanabilirler. Google AdSense gibi dijital araçlardan faydalanarak, reklamlarıyla sosyal girişimcilik, aktivizm veya video oyunlarıyla ilgilenen kişiler gibi çok spesifik demografik grupları hiper hedefleyerek onlara ulaşabilirler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "raitdemirta_d3cf26dd",
+    "title": "Raşit Demirtaş",
+    "url": "https://tr.wikipedia.org/wiki/Ra%C5%9Fit_Demirta%C5%9F",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:22.311557",
+    "content": "Raşit Demirtaş, (1902 Grebene, Yunanistan - 13 Ekim 1984, İstanbul) Türk bürokrat. == Hayatı == === İlk yılları === 1902 (r. 1318) yılında o dönem Osmanlı Devletine bağlı olan Grebene kazasında Harun ve Sıdıka çiftinin oğlu olarak doğdu. Eğitim hayatını Nasliç'te başladıktan sonra Balıkesir Lisesinde devam etti. Ardından Bursa Lisesi ve daha sonra da Edirne Lisesine nakil oldu ve lise eğitimini burada tamamladı. 1927 yılında Siyasal Bilgiler Okulundan (Mülkiye) mezun oldu. === Kaymakamlık Yılları === İzmir maiyet memurluğu (1927); Datça (23 Ekim 1928), Fethiye (19 Temmuz 1930), Şemdinli (27 Ekim 1931), Solhan (29 Ekim 1932) kaymakamlıkları; Diyarbakır 2. Sınıf Emniyet Müdürlüğü (1 Temmuz 1934) Savur (1935), Silivri (1936) kaymakamlığı yaptı. 6 Ocak 1937'de 3. Sınıf Mülkiye Müfettişi olarak atandı. === Valilik Yılları === 31 Aralık 1940'ta İstanbul Vali Yardımcılığına getirildi. Bu görevinde iken 1942'de Mardin Valisi olarak atandı. Daha sonra sırasıyla; 1943-1944 yılları arası Niğde, 1944-1946 yılları arası Kayseri, 1946 ile 1947 yılları arası Elazığ, 1949-1950 yılları arası Çanakkale ve 1950-1951 yılları arası Çorum valilikleri yapmıştır. 8 Ocak 1951 günü Nüfus İşleri Genel Müdürlüğü'ne genel müdür olarak atandı ve 24 Haziran 1954 tarihinde emekliye sevk edilene dek bu görevini sürdürdü. Altı yıllık emeklilik hayatından sonra 1960'da tekrar memuriyete döndü ve 8 Haziran 1960'da Eskişehir valiliğine atandı. 1965'te Merkez valiliğine getirildi ve 1967'de yaş haddinden emekliliğe ayrıldı. 13 Ekim 1984 günü öldü. Evliydi ve çocuğu yoktu. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 228,
+      "char_count": 1575,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.072291",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 83,
+      "content": "Raşit Demirtaş, (1902 Grebene, Yunanistan - 13 Ekim 1984, İstanbul) Türk bürokrat.",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "=== İlk yılları ===",
+      "heading_path": "=== İlk yılları ===",
+      "start_char": 96,
+      "end_char": 478,
+      "content": "=== İlk yılları === 1902 (r. 1318) yılında o dönem Osmanlı Devletine bağlı olan Grebene kazasında Harun ve Sıdıka çiftinin oğlu olarak doğdu. Eğitim hayatını Nasliç'te başladıktan sonra Balıkesir Lisesinde devam etti. Ardından Bursa Lisesi ve daha sonra da Edirne Lisesine nakil oldu ve lise eğitimini burada tamamladı. 1927 yılında Siyasal Bilgiler Okulundan (Mülkiye) mezun oldu.",
+      "char_count": 381,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0002",
+      "section": "=== Kaymakamlık Yılları ===",
+      "heading_path": "=== Kaymakamlık Yılları ===",
+      "start_char": 478,
+      "end_char": 809,
+      "content": "=== Kaymakamlık Yılları === İzmir maiyet memurluğu (1927); Datça (23 Ekim 1928), Fethiye (19 Temmuz 1930), Şemdinli (27 Ekim 1931), Solhan (29 Ekim 1932) kaymakamlıkları; Diyarbakır 2. Sınıf Emniyet Müdürlüğü (1 Temmuz 1934) Savur (1935), Silivri (1936) kaymakamlığı yaptı. 6 Ocak 1937'de 3. Sınıf Mülkiye Müfettişi olarak atandı.",
+      "char_count": 330,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0003",
+      "section": "=== Valilik Yılları ===",
+      "heading_path": "=== Valilik Yılları ===",
+      "start_char": 809,
+      "end_char": 1561,
+      "content": "=== Valilik Yılları === 31 Aralık 1940'ta İstanbul Vali Yardımcılığına getirildi. Bu görevinde iken 1942'de Mardin Valisi olarak atandı. Daha sonra sırasıyla; 1943-1944 yılları arası Niğde, 1944-1946 yılları arası Kayseri, 1946 ile 1947 yılları arası Elazığ, 1949-1950 yılları arası Çanakkale ve 1950-1951 yılları arası Çorum valilikleri yapmıştır. 8 Ocak 1951 günü Nüfus İşleri Genel Müdürlüğü'ne genel müdür olarak atandı ve 24 Haziran 1954 tarihinde emekliye sevk edilene dek bu görevini sürdürdü. Altı yıllık emeklilik hayatından sonra 1960'da tekrar memuriyete döndü ve 8 Haziran 1960'da Eskişehir valiliğine atandı. 1965'te Merkez valiliğine getirildi ve 1967'de yaş haddinden emekliliğe ayrıldı. 13 Ekim 1984 günü öldü. Evliydi ve çocuğu yoktu.",
+      "char_count": 751,
+      "token_estimate": 187
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bu kişi hangi tarihte İstanbul Vali Yardımcılığına getirildi?",
+        "answer": "31 Aralık 1940",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Raşit Demirtaş'ın doğum yeri olan Grebene'nin coğrafi ve siyasi durumu hakkında verilen bilgiler nasıl bir bütünlük oluşturmaktadır?",
+        "answer": "Raşit Demirtaş, 1902 yılında Grebene'de doğmuştur. Doğduğu dönemde Grebene, Osmanlı Devleti'ne bağlı bir kaza iken, metne göre günümüzde Yunanistan'da yer almaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

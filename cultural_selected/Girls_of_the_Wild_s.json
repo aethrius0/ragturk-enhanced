@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "girlsofthewilds_7af4ecb0",
+    "title": "Girls of the Wild's",
+    "url": "https://tr.wikipedia.org/wiki/Girls_of_the_Wild%27s",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:03.222018",
+    "content": "Girls of the Wild's (Korece: 소녀 더 와일즈, romanize: Sonyeo deo Wailjeu; \"Wilds'ın Kızları\"), Hun tarafından yazılan bir manhwa serisidir. Seri, Ağustos 2011-Ekim 2016 tarihleri arasında Naver'in Webtoon platformunda yayınlandı. Seri, eski kızlardan oluşan şampiyon dövüşçüler okuluna tek erkek öğrenci olarak kaydolan ve karma dövüş sanatlarında eğitim alırken atletik okul arkadaşlarının yanı sıra zorbalar ve çetelerle uğraşmakta zorlanan bir lise öğrencisini anlatmaktadır. == Konusu == Anaokulu yaşındaki iki kardeşine bakmakta zorlanan bir genç olan Song Jae Gu, dövüş sanatlarında şampiyon olarak tanınan kız öğrencilerinin toplumda masum gençler gibi davranmasını sağlamak amacıyla özel bir kız lisesi olan Wild's High'a kaydolur. Buradaki tek erkek öğrenci olan Jae Gu, kendisiyle arkadaş olduğu için ekstra kredi alan kızların aşırı ilgisinden rahatsızdır. İşleri daha da kötüleştirmek için, Wild's League turnuva şampiyonu Kraliçe olarak tanınan Yoon In Gyi ile karşılaşır. In Gyi, boks kulübü kaptanı Lee Moon Young ile sevimli ve minyon bir taekwondo kulübü kaptanı olan Choi Dal Dal ile arkadaştır. Jae Gu, In Gyi'nin aşağılayıcı görevlerinden herhangi birini takip etmeyi reddetmesine rağmen, davranışları için özür diler ve zamanla In Gyi kendisi için romantik duygular geliştirmeye başlar. == Kaynakça == == Dış bağlantılar == Girls of the Wild's official website on Naver 12 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. (Korece) Girls of the Wild's official website on WEBTOON 7 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 222,
+      "char_count": 1564,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.173684",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 474,
+      "content": "Girls of the Wild's (Korece: 소녀 더 와일즈, romanize: Sonyeo deo Wailjeu; \"Wilds'ın Kızları\"), Hun tarafından yazılan bir manhwa serisidir. Seri, Ağustos 2011-Ekim 2016 tarihleri arasında Naver'in Webtoon platformunda yayınlandı. Seri, eski kızlardan oluşan şampiyon dövüşçüler okuluna tek erkek öğrenci olarak kaydolan ve karma dövüş sanatlarında eğitim alırken atletik okul arkadaşlarının yanı sıra zorbalar ve çetelerle uğraşmakta zorlanan bir lise öğrencisini anlatmaktadır.",
+      "char_count": 473,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 474,
+      "end_char": 1303,
+      "content": "== Konusu == Anaokulu yaşındaki iki kardeşine bakmakta zorlanan bir genç olan Song Jae Gu, dövüş sanatlarında şampiyon olarak tanınan kız öğrencilerinin toplumda masum gençler gibi davranmasını sağlamak amacıyla özel bir kız lisesi olan Wild's High'a kaydolur. Buradaki tek erkek öğrenci olan Jae Gu, kendisiyle arkadaş olduğu için ekstra kredi alan kızların aşırı ilgisinden rahatsızdır. İşleri daha da kötüleştirmek için, Wild's League turnuva şampiyonu Kraliçe olarak tanınan Yoon In Gyi ile karşılaşır. In Gyi, boks kulübü kaptanı Lee Moon Young ile sevimli ve minyon bir taekwondo kulübü kaptanı olan Choi Dal Dal ile arkadaştır. Jae Gu, In Gyi'nin aşağılayıcı görevlerinden herhangi birini takip etmeyi reddetmesine rağmen, davranışları için özür diler ve zamanla In Gyi kendisi için romantik duygular geliştirmeye başlar.",
+      "char_count": 828,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1318,
+      "end_char": 1564,
+      "content": "== Dış bağlantılar == Girls of the Wild's official website on Naver 12 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. (Korece) Girls of the Wild's official website on WEBTOON 7 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 246,
+      "token_estimate": 61
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Song Jae Gu, dövüş sanatlarında şampiyon olan kız öğrencilerinin toplumda masum gençler gibi davranmasını sağlamak amacıyla hangi okula kaydolur?",
+        "answer": "Wild's High adlı özel bir kız lisesine kaydolur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Girls of the Wild's serisinin ana konusu nedir ve ana karakter Song Jae Gu, Wild's High'a neden kaydolur?",
+        "answer": "Girls of the Wild's serisi, eski kızlardan oluşan şampiyon dövüşçüler okuluna tek erkek öğrenci olarak kaydolan ve karma dövüş sanatlarında eğitim alırken atletik okul arkadaşlarının yanı sıra zorbalar ve çetelerle uğraşmakta zorlanan bir lise öğrencisini anlatmaktadır. Ana karakter Song Jae Gu, anaokulu yaşındaki iki kardeşine bakmakta zorlanan bir gençtir ve dövüş sanatlarında şampiyon olarak tanınan kız öğrencilerinin toplumda masum gençler gibi davranmasını sağlamak amacıyla Wild's High'a kaydolur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

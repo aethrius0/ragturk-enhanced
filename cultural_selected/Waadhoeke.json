@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "waadhoeke_cf3bd707",
+    "title": "Waadhoeke",
+    "url": "https://tr.wikipedia.org/wiki/Waadhoeke",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:48.953987",
+    "content": "Waadhoeke, Hollanda'nın Friesland eyaletinin kuzeybatısında, Wadden Denizi'nin yakınında bulunan bir belediyedir . Ana şehir Franeker'dir. Belediye, 1 Ocak 2018 tarihinde, eski Franekeradeel, het Bildt, Menaldumadeel (Frizce: Menameradiel) belediyeleri ile eski Littenseradeel (Frizce: Littenseradiel) belediyesine ait dört köyün birleşmesiyle kurulmuştur. == Tarihçe == Waadhoeke, eski belediyelerin birleşmesiyle oluşturulan yeni bir idari yapıdır. Bölgenin tarihi, özellikle Franeker şehriyle birlikte, Orta Çağ'a kadar uzanır. Franeker, 1585 yılında kurulan Franeker Üniversitesi sayesinde Friesland'ın bilim ve eğitim merkezi olmuştur. == Coğrafya == Waadhoeke, Friesland eyaletinin kuzeybatısında yer alır ve Wadden Denizi kıyısında konumlanmıştır. Tarımsal alanlar ve kıyı düzlükleri ile tanınır. Yüzölçümü yaklaşık 305 km²’dir. Kıyı koruma projeleriyle doğal habitatlar korunmaktadır. == Nüfus == 2025 yılı itibarıyla belediyenin nüfusu yaklaşık 46.865 kişidir. Franeker, Waadhoeke'nin en büyük yerleşimidir. == Komşu belediyeler ve yönleri == == Kültür ve etkinlikler == Franeker Planetarium: Eise Eisinga tarafından inşa edilmiş dünyanın en eski çalışan planetaryumu. Bildts Aigene Festivali: Bildt lehçesi ve kültürünün kutlandığı yerel etkinlik. Franeker Yaz Etkinlikleri: Müzik, tiyatro ve sanat festivalleri yaz boyunca şehri canlandırır. Elfstedentocht Rotaları: Patencilik ve bisiklet turları için kullanılan geleneksel güzergâhların bir kısmı Waadhoeke'den geçer. == Gezilecek yerler == Franeker Planetarium: 18. yüzyılda evin tavanına kurulan mekanik güneş sistemi modeli. Martinikerk (Franeker): Gotik tarzdaki tarihi kilise, yerel mimarinin önemli örneklerindendir. Deinum Yel Değirmeni: Restorasyonu yapılmış geleneksel Friz yel değirmeni. Kıyı Sulak Alanları: Kuş gözlemciliği ve doğa yürüyüşleri için Wadden Denizi kıyısı idealdir. == Ulaşım == Tren: Franeker istasyonu, Arriva tarafından işletilen Harlingen–Leeuwarden hattı üzerindedir. Otobüs: Qbuzz ve Arriva tarafından sağlanan bölgesel hatlarla köy ve kasabalar arası ulaşım mümkündür. Karayolu: A31 otoyolu ve N384 ile Harlingen, Leeuwarden gibi büyük merkezlere bağlanır. Bisiklet: Friesland'ın tipik yapısı olan bisiklet yolları oldukça gelişmiştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 277,
+      "char_count": 2246,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.637328",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 357,
+      "content": "Waadhoeke, Hollanda'nın Friesland eyaletinin kuzeybatısında, Wadden Denizi'nin yakınında bulunan bir belediyedir . Ana şehir Franeker'dir. Belediye, 1 Ocak 2018 tarihinde, eski Franekeradeel, het Bildt, Menaldumadeel (Frizce: Menameradiel) belediyeleri ile eski Littenseradeel (Frizce: Littenseradiel) belediyesine ait dört köyün birleşmesiyle kurulmuştur.",
+      "char_count": 356,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 357,
+      "end_char": 641,
+      "content": "== Tarihçe == Waadhoeke, eski belediyelerin birleşmesiyle oluşturulan yeni bir idari yapıdır. Bölgenin tarihi, özellikle Franeker şehriyle birlikte, Orta Çağ'a kadar uzanır. Franeker, 1585 yılında kurulan Franeker Üniversitesi sayesinde Friesland'ın bilim ve eğitim merkezi olmuştur.",
+      "char_count": 283,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 641,
+      "end_char": 893,
+      "content": "== Coğrafya == Waadhoeke, Friesland eyaletinin kuzeybatısında yer alır ve Wadden Denizi kıyısında konumlanmıştır. Tarımsal alanlar ve kıyı düzlükleri ile tanınır. Yüzölçümü yaklaşık 305 km²’dir. Kıyı koruma projeleriyle doğal habitatlar korunmaktadır.",
+      "char_count": 251,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0003",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 893,
+      "end_char": 1017,
+      "content": "== Nüfus == 2025 yılı itibarıyla belediyenin nüfusu yaklaşık 46.865 kişidir. Franeker, Waadhoeke'nin en büyük yerleşimidir.",
+      "char_count": 123,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0004",
+      "section": "== Kültür ve etkinlikler ==",
+      "heading_path": "== Kültür ve etkinlikler ==",
+      "start_char": 1052,
+      "end_char": 1481,
+      "content": "== Kültür ve etkinlikler == Franeker Planetarium: Eise Eisinga tarafından inşa edilmiş dünyanın en eski çalışan planetaryumu. Bildts Aigene Festivali: Bildt lehçesi ve kültürünün kutlandığı yerel etkinlik. Franeker Yaz Etkinlikleri: Müzik, tiyatro ve sanat festivalleri yaz boyunca şehri canlandırır. Elfstedentocht Rotaları: Patencilik ve bisiklet turları için kullanılan geleneksel güzergâhların bir kısmı Waadhoeke'den geçer.",
+      "char_count": 428,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0005",
+      "section": "== Gezilecek yerler ==",
+      "heading_path": "== Gezilecek yerler ==",
+      "start_char": 1481,
+      "end_char": 1855,
+      "content": "== Gezilecek yerler == Franeker Planetarium: 18. yüzyılda evin tavanına kurulan mekanik güneş sistemi modeli. Martinikerk (Franeker): Gotik tarzdaki tarihi kilise, yerel mimarinin önemli örneklerindendir. Deinum Yel Değirmeni: Restorasyonu yapılmış geleneksel Friz yel değirmeni. Kıyı Sulak Alanları: Kuş gözlemciliği ve doğa yürüyüşleri için Wadden Denizi kıyısı idealdir.",
+      "char_count": 373,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0006",
+      "section": "== Ulaşım ==",
+      "heading_path": "== Ulaşım ==",
+      "start_char": 1855,
+      "end_char": 2232,
+      "content": "== Ulaşım == Tren: Franeker istasyonu, Arriva tarafından işletilen Harlingen–Leeuwarden hattı üzerindedir. Otobüs: Qbuzz ve Arriva tarafından sağlanan bölgesel hatlarla köy ve kasabalar arası ulaşım mümkündür. Karayolu: A31 otoyolu ve N384 ile Harlingen, Leeuwarden gibi büyük merkezlere bağlanır. Bisiklet: Friesland'ın tipik yapısı olan bisiklet yolları oldukça gelişmiştir.",
+      "char_count": 376,
+      "token_estimate": 94
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dünyanın en eski çalışan planetaryumu kim tarafından inşa edilmiştir?",
+        "answer": "Eise Eisinga",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Waadhoeke belediyesinin oluşumu ile ana şehri Franeker'in uzun tarihi arasında nasıl bir bağlantı bulunmaktadır?",
+        "answer": "Waadhoeke, 1 Ocak 2018'de eski belediyelerin birleşmesiyle yeni bir idari yapı olarak kurulmuşken, ana şehri Franeker'in tarihi Orta Çağ'a kadar uzanmaktadır ve 1585'te Franeker Üniversitesi'nin kuruluşuyla Friesland'ın bilim ve eğitim merkezi olmuştur. Bu durum, modern birleşmenin, tarihsel olarak önemli bir merkezin bulunduğu köklü bir bölge üzerinde gerçekleştiğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "greykitap_b6957cd2",
+    "title": "Grey (kitap)",
+    "url": "https://tr.wikipedia.org/wiki/Grey_%28kitap%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:28.154169",
+    "content": "Grey ya da diğer adıyla Grey: Christian'ın Ağzından Grinin Elli Tonu, İngiliz yazar E. L. James tarafından yazılan ve 2015'te yayımlanan erotik romantik romandır. Elli Ton serisinin dördüncü kitabı olarak geçer. Kitabın konusu ise serinin ilk kitabı olan Grinin Elli Tonu'nun Christian Grey karakterinin bakış açısı ile olayların işlenmesidir. Roman 18 Haziran 2015'te, kitap karakteri Christian Grey'in doğum tarihi ile aynı tarihte yayımlandı. Kitabın ilk baskısı 1,25 milyon kopya sattı. == Özet == Christian Grey, 27 yaşındaki başarılı ve zengin bir iş adamıdır. 21 yaşındaki üniversite öğrencisi Anastasia \"Ana\" Steele ile röportaj yapmak için bir araya gelirler. Aralarında bir sadomazoşist ilişki başlar. == Geliştirme == 1 Haziran 2015 tarihinde James, hayran kitlesinin de talebiyle Elli Ton serisine bir kitap daha yazacağını duyurdu. Ardından aynı gün Instagram hesabına bir resim yükleyerek kitap adının Grey olabileceğini de yazdı ve kitabın Christian Grey karakterinin ağzından anlatılacağını doğruladı. Yayın tarihini ise karakterin doğum günüyle aynı gün olarak seçti. Grey için ön sipariş satışları çok fazla olduğu için yayın gününe kadar birçok basım yapıldı. The Bookseller'dan bir editör ise Grey'in \"yılın en büyük kitabı\" olabileceğini iddia etti. 11 Haziran 2015'te Random House, Grey'in bitmiş bir kopyasının çalındığını ve hırsızın Kent polisi tarafından yakalandığını bildirdi. Hırsızlık 8 Haziran tarihinde meydana geldi ve birçok kez Stephenie Meyer'in Geceyarısı Güneşi kitabının sızdırılması ile karşılaştırıldı. Geceyarısı Güneşi de Alacakaranlık serisinde Edward Cullen bakış açısı ile yazılmıştı. Bu sızdırılma yüzünden Meyer kitabı yayımlamadı fakat James, Grey kitabının ayarlandığı tarihte satışa sunulacağını bildirdi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 245,
+      "char_count": 1771,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.388295",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 491,
+      "content": "Grey ya da diğer adıyla Grey: Christian'ın Ağzından Grinin Elli Tonu, İngiliz yazar E. L. James tarafından yazılan ve 2015'te yayımlanan erotik romantik romandır. Elli Ton serisinin dördüncü kitabı olarak geçer. Kitabın konusu ise serinin ilk kitabı olan Grinin Elli Tonu'nun Christian Grey karakterinin bakış açısı ile olayların işlenmesidir. Roman 18 Haziran 2015'te, kitap karakteri Christian Grey'in doğum tarihi ile aynı tarihte yayımlandı. Kitabın ilk baskısı 1,25 milyon kopya sattı.",
+      "char_count": 490,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0001",
+      "section": "== Özet ==",
+      "heading_path": "== Özet ==",
+      "start_char": 491,
+      "end_char": 712,
+      "content": "== Özet == Christian Grey, 27 yaşındaki başarılı ve zengin bir iş adamıdır. 21 yaşındaki üniversite öğrencisi Anastasia \"Ana\" Steele ile röportaj yapmak için bir araya gelirler. Aralarında bir sadomazoşist ilişki başlar.",
+      "char_count": 220,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0002",
+      "section": "== Geliştirme ==",
+      "heading_path": "== Geliştirme ==",
+      "start_char": 712,
+      "end_char": 1712,
+      "content": "== Geliştirme == 1 Haziran 2015 tarihinde James, hayran kitlesinin de talebiyle Elli Ton serisine bir kitap daha yazacağını duyurdu. Ardından aynı gün Instagram hesabına bir resim yükleyerek kitap adının Grey olabileceğini de yazdı ve kitabın Christian Grey karakterinin ağzından anlatılacağını doğruladı. Yayın tarihini ise karakterin doğum günüyle aynı gün olarak seçti. Grey için ön sipariş satışları çok fazla olduğu için yayın gününe kadar birçok basım yapıldı. The Bookseller'dan bir editör ise Grey'in \"yılın en büyük kitabı\" olabileceğini iddia etti. 11 Haziran 2015'te Random House, Grey'in bitmiş bir kopyasının çalındığını ve hırsızın Kent polisi tarafından yakalandığını bildirdi. Hırsızlık 8 Haziran tarihinde meydana geldi ve birçok kez Stephenie Meyer'in Geceyarısı Güneşi kitabının sızdırılması ile karşılaştırıldı. Geceyarısı Güneşi de Alacakaranlık serisinde Edward Cullen bakış açısı ile yazılmıştı. Bu sızdırılma yüzünden Meyer kitabı yayımlamadı fakat James, Grey kitabının ayarl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Geliştirme ==",
+      "heading_path": "== Geliştirme ==",
+      "start_char": 1512,
+      "end_char": 1756,
+      "content": "zdırılması ile karşılaştırıldı. Geceyarısı Güneşi de Alacakaranlık serisinde Edward Cullen bakış açısı ile yazılmıştı. Bu sızdırılma yüzünden Meyer kitabı yayımlamadı fakat James, Grey kitabının ayarlandığı tarihte satışa sunulacağını bildirdi.",
+      "char_count": 244,
+      "token_estimate": 61
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "James, Elli Ton serisine bir kitap daha yazacağını ne zaman duyurdu?",
+        "answer": "1 Haziran 2015 tarihinde.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "E. L. James'in 'Grey' romanının geliştirilme ve yayımlanma süreci, serinin orijinal kitabının içeriği ve yazarın hayran taleplerine yanıt verme biçimiyle nasıl bir ilişki içindedir?",
+        "answer": "E. L. James'in 'Grey' romanının geliştirilmesi ve yayımlanması, hayranların talebi üzerine, serinin ilk kitabı olan 'Grinin Elli Tonu'nun içeriğini Christian Grey'in bakış açısından yeniden anlatma amacı güder. Orijinal kitap, Christian Grey ve Anastasia Steele arasındaki sadomazoşist ilişkiyi detaylandırırken, 'Grey' bu hikayeye Christian'ın bakış açısıyla yeni bir boyut kazandırır. Yazar, karakterin doğum günüyle aynı tarihi (18 Haziran) yayın tarihi olarak seçerek ve kitabın Christian'ın ağzından anlatılacağını doğrulayarak hayran kitlesinin beklentilerine doğrudan yanıt vermiştir. Bu durum, yazarın serinin temel hikayesini ve karakterlerini, okuyucu beklentileri doğrultusunda farklı bir perspektiften ele alarak ilişkiyi derinleştirdiğini gösterir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

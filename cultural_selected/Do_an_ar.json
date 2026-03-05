@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "doanar_c3c94282",
+    "title": "Doğanşar",
+    "url": "https://tr.wikipedia.org/wiki/Do%C4%9Fan%C5%9Far",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:30.211958",
+    "content": "Doğanşar, Sivas ilinin bir ilçesidir. == Nüfus == == Doğanşar'ın köyleri == Doğanşar'a bağlı 26 adet köy bulunmaktadır. Bunlar: Alan, Alazlı (Çirmiş), Arslantaş (Karadiz), Avcıçayı (Dumanit), Başekin, Beşağaç (Urumcuk), Boyalı, Çalıcı, Çatpınar (Ermenis), Darıkol, Ekinciler (Arzuman), Eskiköy, Göçüköy, İçdere (Câcek), Kabaçam (Tavuza), Karkın, Kıpçak, Kozağaç, Kozlu, Okçulu, Ortaköy, Sarısuvat (Gevele), Söbüler, Ütük, Yavşancık ve Yeşilçukur (Mundarlı) köyleridir. == Tarihi ve turistik mekanlar == Doğanşar'da Osmanlı ve Selçuklu Hanedanından kalma birçok tarihi yapı bulunmaktadır. === Tarihi yapılar === Yeni Camii Ulu Camii Uzunbelen Hubyar Türbesi === Turistik mekanlar === Yeşilırmak Dipsiz Göl Dipsiz Göl Şelalesi Göl Çiftliği ve Göl Yaylası Kındıra Tikenli Yaylası Karakaya Kanyonu Karasak Mağarası Tekeli İçi Çayı Tavşan Tepesi Armutlu Yaylası Subeyad Yaylası Koz Yaylası Aslan Çimeni Yaylası Tekeli Dağı Eğribel Dağı Kızıl Dağ Asmalı Dağ Çal Tepe Mezgitli yaylası Körselik Yaylası Karanlıkdere Yaylası Sivri Tepesi Kızgın Kaya Kuspınar Suyu Yanık Çam Ormanı Köpeç Yaylası Çerme Mesire Alanı Cacek Deresi Mesire Alanı == Kültür == === Ahmet Ayık Karakucak Güreşleri ve Bal Festivali === Doğanşar'da her yıl geleneksel olarak Ahmet Ayık Karakucak Güreşleri ve Bal festivali yapılır. 2019 yılında festivalin 54.sü yapılmış, dünya genelinde yaşanan salgın nedeniyle o tarihten sonra yapılmamıştır. Doğanşar'da yapılan bu festivale Türkiye'nin çeşitli yerlerinden katılım olmaktadır. Festival genellikle temmuz ayında yapılır. Festivale sanatçılar davet edilir. Bu festivalde her yıl ayrıca karakucak güreşleri müsabakaları yapılır. Bu müsabakalara Türkiye'nin önde gelen milli güreşçileri de katılmaktadır. === Yöresel Lezzetler === Doğanşar mutfağı tarım ürünlerine dayanmaktadır. Genellikle kırsal kesimlerde yazları Katıklı Aş (Ayranlı naneli soğuk çorba), Pancar Herlesi (unlu lahana çorbası) Mercimek herlesi, Katıklı Herle (Sıcak Yayla çorbası) Madımak Yemeği, Evelik Mıhlaması, Düğ Çorbası, Geloç Aşı, Kesme Aşı gibi çorba çeşitleri yapılır. Kışları ise Tarhana Herlesi, Turşu kavurması, Kesme makarna, ekmek aşı gibi yemekler sıklıkla yapılan yemekler arasındadır. Hamur işi ve sebze çeşitlerinin ağırlıklı tüketildiği bir coğrafyadır. Fırın Kömbesi, Kül Kömbesi, Pişi, Katmer, Kete, Sini ve çökelekli yörede yaygın olarak yapılan hamur işi çeşitlerindendir. Ayrıca Bal helvası, Bulgur Köftesi, Çirli Et, Hurma tatlısı, Karın yahnisi, Kavurma hellesi, Lahana musakkası, Patates çorbası, Şalgam çorbası, Kavurma herlesi ve Madımak yemeği de Doğanşar'da yapılan başlıca yemeklerdendir. == Dış bağlantılar == Doğanşar Kaymakamlığı 3 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. - Resmi Web Sitesi Doğanşar Efsaneleri, Sivas Efsaneleri, Kutlu Özen, 2001 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 373,
+      "char_count": 2796,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.615408",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 38,
+      "content": "Doğanşar, Sivas ilinin bir ilçesidir.",
+      "char_count": 37,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0001",
+      "section": "== Doğanşar'ın köyleri ==",
+      "heading_path": "== Doğanşar'ın köyleri ==",
+      "start_char": 50,
+      "end_char": 469,
+      "content": "== Doğanşar'ın köyleri == Doğanşar'a bağlı 26 adet köy bulunmaktadır. Bunlar: Alan, Alazlı (Çirmiş), Arslantaş (Karadiz), Avcıçayı (Dumanit), Başekin, Beşağaç (Urumcuk), Boyalı, Çalıcı, Çatpınar (Ermenis), Darıkol, Ekinciler (Arzuman), Eskiköy, Göçüköy, İçdere (Câcek), Kabaçam (Tavuza), Karkın, Kıpçak, Kozağaç, Kozlu, Okçulu, Ortaköy, Sarısuvat (Gevele), Söbüler, Ütük, Yavşancık ve Yeşilçukur (Mundarlı) köyleridir.",
+      "char_count": 418,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ve turistik mekanlar ==",
+      "heading_path": "== Tarihi ve turistik mekanlar ==",
+      "start_char": 469,
+      "end_char": 588,
+      "content": "== Tarihi ve turistik mekanlar == Doğanşar'da Osmanlı ve Selçuklu Hanedanından kalma birçok tarihi yapı bulunmaktadır.",
+      "char_count": 118,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0003",
+      "section": "=== Tarihi yapılar ===",
+      "heading_path": "=== Tarihi yapılar ===",
+      "start_char": 588,
+      "end_char": 657,
+      "content": "=== Tarihi yapılar === Yeni Camii Ulu Camii Uzunbelen Hubyar Türbesi",
+      "char_count": 68,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0004",
+      "section": "=== Turistik mekanlar ===",
+      "heading_path": "=== Turistik mekanlar ===",
+      "start_char": 657,
+      "end_char": 1131,
+      "content": "=== Turistik mekanlar === Yeşilırmak Dipsiz Göl Dipsiz Göl Şelalesi Göl Çiftliği ve Göl Yaylası Kındıra Tikenli Yaylası Karakaya Kanyonu Karasak Mağarası Tekeli İçi Çayı Tavşan Tepesi Armutlu Yaylası Subeyad Yaylası Koz Yaylası Aslan Çimeni Yaylası Tekeli Dağı Eğribel Dağı Kızıl Dağ Asmalı Dağ Çal Tepe Mezgitli yaylası Körselik Yaylası Karanlıkdere Yaylası Sivri Tepesi Kızgın Kaya Kuspınar Suyu Yanık Çam Ormanı Köpeç Yaylası Çerme Mesire Alanı Cacek Deresi Mesire Alanı",
+      "char_count": 473,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0005",
+      "section": "=== Ahmet Ayık Karakucak Güreşleri ve Bal Festivali ===",
+      "heading_path": "=== Ahmet Ayık Karakucak Güreşleri ve Bal Festivali ===",
+      "start_char": 1144,
+      "end_char": 1717,
+      "content": "=== Ahmet Ayık Karakucak Güreşleri ve Bal Festivali === Doğanşar'da her yıl geleneksel olarak Ahmet Ayık Karakucak Güreşleri ve Bal festivali yapılır. 2019 yılında festivalin 54.sü yapılmış, dünya genelinde yaşanan salgın nedeniyle o tarihten sonra yapılmamıştır. Doğanşar'da yapılan bu festivale Türkiye'nin çeşitli yerlerinden katılım olmaktadır. Festival genellikle temmuz ayında yapılır. Festivale sanatçılar davet edilir. Bu festivalde her yıl ayrıca karakucak güreşleri müsabakaları yapılır. Bu müsabakalara Türkiye'nin önde gelen milli güreşçileri de katılmaktadır.",
+      "char_count": 572,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0006",
+      "section": "=== Yöresel Lezzetler ===",
+      "heading_path": "=== Yöresel Lezzetler ===",
+      "start_char": 1717,
+      "end_char": 2602,
+      "content": "=== Yöresel Lezzetler === Doğanşar mutfağı tarım ürünlerine dayanmaktadır. Genellikle kırsal kesimlerde yazları Katıklı Aş (Ayranlı naneli soğuk çorba), Pancar Herlesi (unlu lahana çorbası) Mercimek herlesi, Katıklı Herle (Sıcak Yayla çorbası) Madımak Yemeği, Evelik Mıhlaması, Düğ Çorbası, Geloç Aşı, Kesme Aşı gibi çorba çeşitleri yapılır. Kışları ise Tarhana Herlesi, Turşu kavurması, Kesme makarna, ekmek aşı gibi yemekler sıklıkla yapılan yemekler arasındadır. Hamur işi ve sebze çeşitlerinin ağırlıklı tüketildiği bir coğrafyadır. Fırın Kömbesi, Kül Kömbesi, Pişi, Katmer, Kete, Sini ve çökelekli yörede yaygın olarak yapılan hamur işi çeşitlerindendir. Ayrıca Bal helvası, Bulgur Köftesi, Çirli Et, Hurma tatlısı, Karın yahnisi, Kavurma hellesi, Lahana musakkası, Patates çorbası, Şalgam çorbası, Kavurma herlesi ve Madımak yemeği de Doğanşar'da yapılan başlıca yemeklerdendir.",
+      "char_count": 884,
+      "token_estimate": 221
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2602,
+      "end_char": 2782,
+      "content": "== Dış bağlantılar == Doğanşar Kaymakamlığı 3 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. - Resmi Web Sitesi Doğanşar Efsaneleri, Sivas Efsaneleri, Kutlu Özen, 2001",
+      "char_count": 179,
+      "token_estimate": 44
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Doğanşar mutfağı hangi ürünlere dayanmaktadır?",
+        "answer": "Tarım ürünlerine.",
+        "related_chunk_ids": [
+          "c0006"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sivas ilinin bir ilçesi olan Doğanşar'a bağlı toplam kaç köy bulunmaktadır ve bu köylerin bazıları eski isimleriyle birlikte nelerdir?",
+        "answer": "Sivas ilinin bir ilçesi olan Doğanşar'a bağlı 26 köy bulunmaktadır. Bu köylerden bazıları Alan, Alazlı (Çirmiş), Arslantaş (Karadiz), Avcıçayı (Dumanit), Başekin, Beşağaç (Urumcuk), Boyalı, Çalıcı, Çatpınar (Ermenis), Darıkol, Ekinciler (Arzuman), Eskiköy, Göçüköy, İçdere (Câcek), Kabaçam (Tavuza), Karkın, Kıpçak, Kozağaç, Kozlu, Okçulu, Ortaköy, Sarısuvat (Gevele), Söbüler, Ütük, Yavşancık ve Yeşilçukur (Mundarlı) köyleridir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

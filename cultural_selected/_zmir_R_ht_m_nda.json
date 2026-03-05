@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "zmirrhtmnda_f3e2c0dd",
+    "title": "İzmir Rıhtımında",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0zmir_R%C4%B1ht%C4%B1m%C4%B1nda",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:19.271145",
+    "content": "\"İzmir Rıhtımında\" (İngilizce: \"On the Quai at Smyrna\"), Ernest Hemingway tarafından yazılan bir hikâyedir. İlk olarak 1930'da Zamanımızda adlı hikâye kitabının Scribner's sürümünde \"Introduction by the author\" adıyla yayımlandı. Edmund Wilson tarafından yazılan bir önsöz de hikâyeye eşlik etti. 1938'de yayımlanan Beşinci Kolon ve İlk Kırk Dokuz Hikâye adlı seçkide, hikâyenin adı \"İzmir Rıhtımında\" olarak değiştirildi. Zamanımızda 1955'te tekrar yayımlandığında hikâye, \"Kızılderili Kampı\"nın yerini alarak kitabın ilk hikâyesi oldu. == Özet == Hikâyenin konusu 1922'de Türk-Yunan Savaşı sonrasında İzmir'de geçer. Bir anlatıcı mültecilerin tahliyesini anlatırken deniz kuvvetleri -muhtemelen Britanyalı- düzeni sağlamak için rıhtıma gelir. Anlatıcı, sivil mültecilerle ilgili olarak \"En kötü şey … her akşam gece yarısında çığlık atmalarıydı. Neden çığlık atmaya başladıklarını bilmiyorum. Biz limandaydık ve onlar iskeledeydi ve gece yarısı çığlık atmaya başladılar.\" sözlerini kullanır. Britanyalı bir subay, bir Türk subayın şikayeti üzerine topçulardan birini gemiye geri gönderir. Anlatıcı, kucaklarındaki ölü bebekleri altı gün boyunca vermeyi reddeden kadınları ve adamlarının bunları almak zorunda kaldıklarını anlatır. \"Türk\" olarak adlandırdığı öngörülemeyen ve kararlarıyla mültecilerin kurtarılmasını zorlaştıran bir kişiden bahseder. Türk'ün adamlarının iskeleyi alabileceğini söyleyen anlatıcı, \"Bizi sudan püskürtebilirlerdi fakat biz de şehri cehenneme çevirebilirdik.\" sözlerini kullanır. Okuyucularına hitaben \"Limanı hatırlıyorsunuz. Etrafında yüzen pek çok güzel şey vardı. Hayatımda ilk kez o an bir şeyler hakkında hayal kurdum.\" der. Doğum yapan kadınların ölü bebekler kadar kötü olmadığını ve onların yalnızca karanlık bir yere ve bir battaniyeye ihtiyaçları olduğunu söyler. Tahliye ile ilgili olarak \"Yunanlar da iyi adamlardı. Tahliye sırasında yanlarına aldıkları hayvanlarıyla yola çıkamayınca ön ayaklarını kırdıkları hayvanları sığ suya attılar.\" sözlerini kullanır. == Analiz == Hemingway eleştirmeni Thomas Strychacz, Hemingway'in \"İzmir Rıhtımında\"da \"rasyonel ve rahat olarak bilinen şeyin sınırlarını kıran olayların berraklığını değil de korkunç tarafını keşfettiğini\" ifade etti. == Dipnotlar == == Kaynakça == == Konuyla ilgili yayınlar == Tetlow, Wendolyn E. (1992). Hemingway's \"In Our Time\": Lyrical Dimensions. Cranbury NJ: Associated University Presses. 978-0-8387-5219-7 == Dış bağlantılar == Ernest Hemingway Collection, JFK Library21 Ekim 2018 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 322,
+      "char_count": 2544,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.761256",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 538,
+      "content": "\"İzmir Rıhtımında\" (İngilizce: \"On the Quai at Smyrna\"), Ernest Hemingway tarafından yazılan bir hikâyedir. İlk olarak 1930'da Zamanımızda adlı hikâye kitabının Scribner's sürümünde \"Introduction by the author\" adıyla yayımlandı. Edmund Wilson tarafından yazılan bir önsöz de hikâyeye eşlik etti. 1938'de yayımlanan Beşinci Kolon ve İlk Kırk Dokuz Hikâye adlı seçkide, hikâyenin adı \"İzmir Rıhtımında\" olarak değiştirildi. Zamanımızda 1955'te tekrar yayımlandığında hikâye, \"Kızılderili Kampı\"nın yerini alarak kitabın ilk hikâyesi oldu.",
+      "char_count": 537,
+      "token_estimate": 134
+    },
+    {
+      "id": "c0001",
+      "section": "== Özet ==",
+      "heading_path": "== Özet ==",
+      "start_char": 538,
+      "end_char": 1538,
+      "content": "== Özet == Hikâyenin konusu 1922'de Türk-Yunan Savaşı sonrasında İzmir'de geçer. Bir anlatıcı mültecilerin tahliyesini anlatırken deniz kuvvetleri -muhtemelen Britanyalı- düzeni sağlamak için rıhtıma gelir. Anlatıcı, sivil mültecilerle ilgili olarak \"En kötü şey … her akşam gece yarısında çığlık atmalarıydı. Neden çığlık atmaya başladıklarını bilmiyorum. Biz limandaydık ve onlar iskeledeydi ve gece yarısı çığlık atmaya başladılar.\" sözlerini kullanır. Britanyalı bir subay, bir Türk subayın şikayeti üzerine topçulardan birini gemiye geri gönderir. Anlatıcı, kucaklarındaki ölü bebekleri altı gün boyunca vermeyi reddeden kadınları ve adamlarının bunları almak zorunda kaldıklarını anlatır. \"Türk\" olarak adlandırdığı öngörülemeyen ve kararlarıyla mültecilerin kurtarılmasını zorlaştıran bir kişiden bahseder. Türk'ün adamlarının iskeleyi alabileceğini söyleyen anlatıcı, \"Bizi sudan püskürtebilirlerdi fakat biz de şehri cehenneme çevirebilirdik.\" sözlerini kullanır. Okuyucularına hitaben \"Lima",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Özet ==",
+      "heading_path": "== Özet ==",
+      "start_char": 1338,
+      "end_char": 2003,
+      "content": "den bahseder. Türk'ün adamlarının iskeleyi alabileceğini söyleyen anlatıcı, \"Bizi sudan püskürtebilirlerdi fakat biz de şehri cehenneme çevirebilirdik.\" sözlerini kullanır. Okuyucularına hitaben \"Limanı hatırlıyorsunuz. Etrafında yüzen pek çok güzel şey vardı. Hayatımda ilk kez o an bir şeyler hakkında hayal kurdum.\" der. Doğum yapan kadınların ölü bebekler kadar kötü olmadığını ve onların yalnızca karanlık bir yere ve bir battaniyeye ihtiyaçları olduğunu söyler. Tahliye ile ilgili olarak \"Yunanlar da iyi adamlardı. Tahliye sırasında yanlarına aldıkları hayvanlarıyla yola çıkamayınca ön ayaklarını kırdıkları hayvanları sığ suya attılar.\" sözlerini kullanır.",
+      "char_count": 665,
+      "token_estimate": 166
+    },
+    {
+      "id": "c0003",
+      "section": "== Analiz ==",
+      "heading_path": "== Analiz ==",
+      "start_char": 2004,
+      "end_char": 2224,
+      "content": "== Analiz == Hemingway eleştirmeni Thomas Strychacz, Hemingway'in \"İzmir Rıhtımında\"da \"rasyonel ve rahat olarak bilinen şeyin sınırlarını kıran olayların berraklığını değil de korkunç tarafını keşfettiğini\" ifade etti.",
+      "char_count": 219,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0004",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 2255,
+      "end_char": 2422,
+      "content": "== Konuyla ilgili yayınlar == Tetlow, Wendolyn E. (1992). Hemingway's \"In Our Time\": Lyrical Dimensions. Cranbury NJ: Associated University Presses. 978-0-8387-5219-7",
+      "char_count": 166,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2422,
+      "end_char": 2544,
+      "content": "== Dış bağlantılar == Ernest Hemingway Collection, JFK Library21 Ekim 2018 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 122,
+      "token_estimate": 30
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hikâyenin konusu hangi yıl ve hangi şehirde geçmektedir?",
+        "answer": "1922'de Türk-Yunan Savaşı sonrasında İzmir'de geçmektedir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ernest Hemingway'in \"İzmir Rıhtımında\" adlı hikayesi hangi savaşın ardından hangi şehirde geçen mülteci tahliyesi olaylarını konu almaktadır ve anlatıcı tahliye sırasındaki başlıca zorlukları ve dikkat çekici durumları nasıl betimlemiştir?",
+        "answer": "Hikaye, Ernest Hemingway'in kaleminden çıkan \"İzmir Rıhtımında\" adıyla, 1922'de Türk-Yunan Savaşı sonrasında İzmir'de geçen mülteci tahliyesi olaylarını konu almaktadır. Anlatıcı, mültecilerin her akşam gece yarısında çığlık atmalarından, altı gün boyunca kucaklarındaki ölü bebekleri vermeyi reddeden kadınlardan ve tahliyeyi zorlaştıran \"Türk\" olarak adlandırılan bir yetkiliden bahseder. Ayrıca, Yunanların tahliye sırasında yanlarına alamadıkları hayvanlarının ön ayaklarını kırarak sığ suya attıklarını da anlatır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

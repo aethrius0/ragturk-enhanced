@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "karelalbert_c5c16c6e",
+    "title": "Karel Albert",
+    "url": "https://tr.wikipedia.org/wiki/Karel_Albert",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:19.017863",
+    "content": "Albert Karel, (d. 16 Ekim 1913, Anvers – ö. 11 Kasım 1987, Brüksel), Belçikalı besteci, müzik eleştirmeni ve edebiyat araştırmacısıdır. Sanat hayatına Anvers Kraliyet Konservatuvarı’nda aldığı armoni, kontrpuan, füg ve orkestra şefliği eğitimiyle başlayan Albert, daha sonra Kraliyet Flaman Operası’nda orkestra şefi olarak görev yaptı. II. Dünya Savaşı sonrasında Brüksel’e yerleşerek Belçika Ulusal Yayın Kurumu’nda yapımcı olarak çalıştı. 1960’tan itibaren Belçika’nın Flaman Yayın Kurumu olan BRT’de kültürel programlar yapımcılığı üstlendi. Akademik yaşamı boyunca aynı zamanda müzik eleştirmenliği de yapan Albert, 1939’dan itibaren çeşitli dergilerde yayınladığı yazılarla tanındı. Flaman müzik dergisi Muziekleven’in uzun süreli editörlüğünü üstlendi. Müzikal üretimi 1930’lu yıllarda, zamanın modernist eğilimlerine paralel olarak neoklasik ve yapılandırmacı etkiler taşır. Bu döneme ait eserlerinde, tematik netlik ve biçimsel sadelik ön plandadır. 1950’li yılların başından itibaren on iki ton müziğine yönelmiş; özellikle 1954 tarihli Sinfonia piccola adlı eseri, bu anlayışın habercisi olmuştur. Takip eden yıllarda, hem serbest atonalite hem de dodekafonik tekniklere yer verdiği yapıtlar bestelemiştir. Bestecilik kariyeri boyunca orkestra müziği, oda müziği, vokal müzik ve sahne müziği gibi çok çeşitli türlerde eserler vermiştir. Eserlerinde yapısal dengeye, ses renklerinin çeşitliliğine ve tematik gelişim süreçlerine büyük önem atfetmiştir. Karel Albert, yalnızca bir besteci olarak değil, aynı zamanda müzik kültürünü geniş kitlelere ulaştırmaya çalışan bir düşünce adamı olarak da öne çıkar. Sanat ve edebiyat ilişkisi üzerine düşünsel üretimlerde bulunmuş, bu alandaki yazılarını edebi eleştirilerle zenginleştirmiştir. Özellikle Flaman kültür çevresinde çağdaş müzik anlayışının yerleşmesinde önemli bir rol oynamıştır. Başlıca eserlerinden bazıları şunlardır: Strijkkwartet nr. 2 (1952) Sinfonia piccola (1954) Piano Sonata (1959) Cantus Firmus (1972) Tekeningen voor piano (1978) Albert’in müzikal mirası, 20. yüzyıl Belçika müziğinde teknik yenilikçiliği ve entelektüel derinliği birleştiren önemli bir örnek teşkil eder == Kaynakça == .\"Karel Albert\". 10 Ekim 2024 tarihinde kaynağından arşivlendi. \"Albert Karel\". 3 Ekim 2022 tarihinde kaynağından arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 291,
+      "char_count": 2289,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.082725",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Albert Karel, (d. 16 Ekim 1913, Anvers – ö. 11 Kasım 1987, Brüksel), Belçikalı besteci, müzik eleştirmeni ve edebiyat araştırmacısıdır. Sanat hayatına Anvers Kraliyet Konservatuvarı’nda aldığı armoni, kontrpuan, füg ve orkestra şefliği eğitimiyle başlayan Albert, daha sonra Kraliyet Flaman Operası’nda orkestra şefi olarak görev yaptı. II. Dünya Savaşı sonrasında Brüksel’e yerleşerek Belçika Ulusal Yayın Kurumu’nda yapımcı olarak çalıştı. 1960’tan itibaren Belçika’nın Flaman Yayın Kurumu olan BRT’de kültürel programlar yapımcılığı üstlendi. Akademik yaşamı boyunca aynı zamanda müzik eleştirmenliği de yapan Albert, 1939’dan itibaren çeşitli dergilerde yayınladığı yazılarla tanındı. Flaman müzik dergisi Muziekleven’in uzun süreli editörlüğünü üstlendi. Müzikal üretimi 1930’lu yıllarda, zamanın modernist eğilimlerine paralel olarak neoklasik ve yapılandırmacı etkiler taşır. Bu döneme ait eserlerinde, tematik netlik ve biçimsel sadelik ön plandadır. 1950’li yılların başından itibaren on iki",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "n modernist eğilimlerine paralel olarak neoklasik ve yapılandırmacı etkiler taşır. Bu döneme ait eserlerinde, tematik netlik ve biçimsel sadelik ön plandadır. 1950’li yılların başından itibaren on iki ton müziğine yönelmiş; özellikle 1954 tarihli Sinfonia piccola adlı eseri, bu anlayışın habercisi olmuştur. Takip eden yıllarda, hem serbest atonalite hem de dodekafonik tekniklere yer verdiği yapıtlar bestelemiştir. Bestecilik kariyeri boyunca orkestra müziği, oda müziği, vokal müzik ve sahne müziği gibi çok çeşitli türlerde eserler vermiştir. Eserlerinde yapısal dengeye, ses renklerinin çeşitliliğine ve tematik gelişim süreçlerine büyük önem atfetmiştir. Karel Albert, yalnızca bir besteci olarak değil, aynı zamanda müzik kültürünü geniş kitlelere ulaştırmaya çalışan bir düşünce adamı olarak da öne çıkar. Sanat ve edebiyat ilişkisi üzerine düşünsel üretimlerde bulunmuş, bu alandaki yazılarını edebi eleştirilerle zenginleştirmiştir. Özellikle Flaman kültür çevresinde çağdaş müzik anlayışı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2148,
+      "content": " da öne çıkar. Sanat ve edebiyat ilişkisi üzerine düşünsel üretimlerde bulunmuş, bu alandaki yazılarını edebi eleştirilerle zenginleştirmiştir. Özellikle Flaman kültür çevresinde çağdaş müzik anlayışının yerleşmesinde önemli bir rol oynamıştır. Başlıca eserlerinden bazıları şunlardır: Strijkkwartet nr. 2 (1952) Sinfonia piccola (1954) Piano Sonata (1959) Cantus Firmus (1972) Tekeningen voor piano (1978) Albert’in müzikal mirası, 20. yüzyıl Belçika müziğinde teknik yenilikçiliği ve entelektüel derinliği birleştiren önemli bir örnek teşkil eder",
+      "char_count": 548,
+      "token_estimate": 137
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2149,
+      "end_char": 2289,
+      "content": "== Kaynakça == .\"Karel Albert\". 10 Ekim 2024 tarihinde kaynağından arşivlendi. \"Albert Karel\". 3 Ekim 2022 tarihinde kaynağından arşivlendi.",
+      "char_count": 140,
+      "token_estimate": 35
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Albert Karel hangi tarihte doğmuş ve hangi tarihte vefat etmiştir?",
+        "answer": "16 Ekim 1913 tarihinde doğmuş ve 11 Kasım 1987 tarihinde vefat etmiştir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Albert Karel'in müzikal tarzı zaman içinde nasıl bir gelişim göstermiş ve bestecilik dışındaki entelektüel katkıları neler olmuştur?",
+        "answer": "Albert Karel'in müzikal tarzı, 1930'larda neoklasik ve yapılandırmacı etkilerle başlarken, 1950'li yılların başından itibaren on iki ton müziğine yönelmiş; bu değişimin önemli bir göstergesi olarak 1954 tarihli Sinfonia piccola öne çıkmıştır. Daha sonraki eserlerinde hem serbest atonalite hem de dodekafonik tekniklere yer vermiştir. Bestecilik dışındaki entelektüel katkıları arasında müzik eleştirmenliği yapması, Flaman müzik dergisi Muziekleven'in editörlüğünü üstlenmesi, sanat ve edebiyat ilişkisi üzerine düşünsel üretimlerde bulunması ve Flaman kültür çevresinde çağdaş müzik anlayışının yerleşmesinde önemli bir rol oynaması yer almaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

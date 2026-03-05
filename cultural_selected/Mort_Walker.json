@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "mortwalker_1bd3d90c",
+    "title": "Mort Walker",
+    "url": "https://tr.wikipedia.org/wiki/Mort_Walker",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:09.299182",
+    "content": "Addison Morton Walker (bilinen adıyla: Mort Walker ; d. 3 Eylül 1923 - ö.27 Ocak 2018), Amerikalı çizgi roman sanatçısıdır. Dünyaca popüler olmuş çizgi romanlar; \"Hasbi Tembeler\" ve \"Hi and Lois\" 'in yaratıcısıdır. Çalışmalarıyla Reuben Ödülü sahibi olmuştur. Walker, 1949'da Missouri Üniversitesi'ndeyken tanıştığı ilk eşi Jean Sufffill ile evlendi. Yedi çocukları vardı: Greg, Brian, Polly, Morgan, Marjorie, Neal ve Roger. Evlilik daha sonra 1985'te boşanmayla sonuçlandı. İkinci eşi ise 24 Ağustos 1985'te evlendiği Catherine Prentice'dir. Walker'ın Cathy'den ve karikatürist John Prentice ile olan önceki evliliğinden üç üvey çocuğu vardı. Walker, 27 Ocak 2018'de Stamford, Connecticut'taki evinde zatürre komplikasyonlarından öldü. 94 yaşındaydı. Connecticut, Westport'taki Willowbrook Mezarlığı'na defnedildi. == Kaynakça == == Dış bağlantılar == Resmî site 'Beetle Bailey' cartoonist Mort Walker dies at 9421 Şubat 2018 tarihinde Wayback Machine sitesinde arşivlendi. from Toons Mag National Cartoonists Society: Mort Walker16 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. Mort Walker Papers 1950-19689 Kasım 2018 tarihinde Wayback Machine sitesinde arşivlendi. at Syracuse University (primary source material) Mort Walker Collection at University of Missouri (primary source material) \"Connecticut Talent\". Connecticut Historical Society. 27 Eylül 2007 tarihinde kaynağından arşivlendi. Erişim tarihi: 31 Aralık 2018. \"The Mort Walker Interview\". The Comics Journal (297). Online excerpts from print interview. 13 Nisan 2009. 18 Ağustos 2009 tarihinde kaynağından arşivlendi. Erişim tarihi: 31 Aralık 2018.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 215,
+      "char_count": 1627,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.135829",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 817,
+      "content": "Addison Morton Walker (bilinen adıyla: Mort Walker ; d. 3 Eylül 1923 - ö.27 Ocak 2018), Amerikalı çizgi roman sanatçısıdır. Dünyaca popüler olmuş çizgi romanlar; \"Hasbi Tembeler\" ve \"Hi and Lois\" 'in yaratıcısıdır. Çalışmalarıyla Reuben Ödülü sahibi olmuştur. Walker, 1949'da Missouri Üniversitesi'ndeyken tanıştığı ilk eşi Jean Sufffill ile evlendi. Yedi çocukları vardı: Greg, Brian, Polly, Morgan, Marjorie, Neal ve Roger. Evlilik daha sonra 1985'te boşanmayla sonuçlandı. İkinci eşi ise 24 Ağustos 1985'te evlendiği Catherine Prentice'dir. Walker'ın Cathy'den ve karikatürist John Prentice ile olan önceki evliliğinden üç üvey çocuğu vardı. Walker, 27 Ocak 2018'de Stamford, Connecticut'taki evinde zatürre komplikasyonlarından öldü. 94 yaşındaydı. Connecticut, Westport'taki Willowbrook Mezarlığı'na defnedildi.",
+      "char_count": 816,
+      "token_estimate": 204
+    },
+    {
+      "id": "c0001",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 832,
+      "end_char": 1627,
+      "content": "== Dış bağlantılar == Resmî site 'Beetle Bailey' cartoonist Mort Walker dies at 9421 Şubat 2018 tarihinde Wayback Machine sitesinde arşivlendi. from Toons Mag National Cartoonists Society: Mort Walker16 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. Mort Walker Papers 1950-19689 Kasım 2018 tarihinde Wayback Machine sitesinde arşivlendi. at Syracuse University (primary source material) Mort Walker Collection at University of Missouri (primary source material) \"Connecticut Talent\". Connecticut Historical Society. 27 Eylül 2007 tarihinde kaynağından arşivlendi. Erişim tarihi: 31 Aralık 2018. \"The Mort Walker Interview\". The Comics Journal (297). Online excerpts from print interview. 13 Nisan 2009. 18 Ağustos 2009 tarihinde kaynağından arşivlendi. Erişim tarihi: 31 Aralık 2018.",
+      "char_count": 795,
+      "token_estimate": 198
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mort Walker tarafından yaratılan dünyaca popüler çizgi romanlar hangileridir?",
+        "answer": "\"Hasbi Tembeler\" ve \"Hi and Lois\".",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mort Walker'ın hem yaşam özetinde hem de dış bağlantılarda ortak olarak belirtilen ölüm yaşı kaçtır ve kendisi hangi çizgi romanların yaratıcısı olarak anılmaktadır?",
+        "answer": "Mort Walker 94 yaşında vefat etmiştir. Kendisi 'Hasbi Tembeler', 'Hi and Lois' ve 'Beetle Bailey' gibi çizgi romanların yaratıcısı olarak anılmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

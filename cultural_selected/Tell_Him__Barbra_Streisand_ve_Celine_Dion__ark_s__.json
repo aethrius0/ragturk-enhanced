@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "tellhimbarbrastreisa_b5400750",
+    "title": "Tell Him (Barbra Streisand ve Celine Dion şarkısı)",
+    "url": "https://tr.wikipedia.org/wiki/Tell_Him_%28Barbra_Streisand_ve_Celine_Dion_%C5%9Fark%C4%B1s%C4%B1%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:15.000459",
+    "content": "Tell Him Barbra Streisand ve Celine Dion'un birlikte söyledikelri bir düettir. Şarkı Celine Dion'un Let's Talk About Love albümünün ilk teklisi olarak 3 Kasım 1997'de yayımlanmış ve Streisand'ın Higher Ground albümünde yer almıştır. 24 Mart 1997 tarihinde Céline Dion aynı Akademi Ödülleri gecesinde iki kez şarkı söylemek için sahneye çıkan ilk sanatçı oldu. \"Because You Loved Me\" şarkısına ek olarak, Barbra Streisand ve Bryan Adams tarafından Aşkın İki Yüzü filmi için kaydedilen \"I Finally Found Someone\" şarkısını da seslendirdi. Streisand o gece şarkı söylemeyi tercih etmedi ve Natalie Cole'un yerine onun şarkısını seslendirmesi planlanmıştı. Ama Cole iki gün kala gecenin şarkıcı listesinden çıkardı ve Céline Dion'dan yerini doldurması istendi. Oldukça gergin olmakla birlikte, Dion kabul etti ve ikinci şarkıyı seslendirmeyi için başardı. Birkaç gün sonra, Streisand Dion'a çiçek ve bir not gönderdi:. \"Sonradan kaseti izledim, şarkımı güzelce söyledin ve seni dinlemek üzere orada olmadığım için pişmanım, neden bir dahaki sefere beraber söylemiyoruz. Söylediğin şarkının ödülü kazanmış olmasını isterdim, sen harika bir şarkıcısın.\" Bu not cevapsız kalmadı ve Rene Angelil, David Foster'ı ikili için bir şarkı yazmak üzere aradı ve sonuç olan \"Tell Him.\" ortaya çıktı. == Format ve şarkı listesi == Avustralya/Avrupa/Japon CD teklisi \"Tell Him\" (radyo düzenlemesi) – 4:53 \"Everything Must Change\" – 4:05 \"Where Is the Love\" – 4:55 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 214,
+      "char_count": 1459,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.298687",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Tell Him Barbra Streisand ve Celine Dion'un birlikte söyledikelri bir düettir. Şarkı Celine Dion'un Let's Talk About Love albümünün ilk teklisi olarak 3 Kasım 1997'de yayımlanmış ve Streisand'ın Higher Ground albümünde yer almıştır. 24 Mart 1997 tarihinde Céline Dion aynı Akademi Ödülleri gecesinde iki kez şarkı söylemek için sahneye çıkan ilk sanatçı oldu. \"Because You Loved Me\" şarkısına ek olarak, Barbra Streisand ve Bryan Adams tarafından Aşkın İki Yüzü filmi için kaydedilen \"I Finally Found Someone\" şarkısını da seslendirdi. Streisand o gece şarkı söylemeyi tercih etmedi ve Natalie Cole'un yerine onun şarkısını seslendirmesi planlanmıştı. Ama Cole iki gün kala gecenin şarkıcı listesinden çıkardı ve Céline Dion'dan yerini doldurması istendi. Oldukça gergin olmakla birlikte, Dion kabul etti ve ikinci şarkıyı seslendirmeyi için başardı. Birkaç gün sonra, Streisand Dion'a çiçek ve bir not gönderdi:. \"Sonradan kaseti izledim, şarkımı güzelce söyledin ve seni dinlemek üzere orada olmadı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1282,
+      "content": "etti ve ikinci şarkıyı seslendirmeyi için başardı. Birkaç gün sonra, Streisand Dion'a çiçek ve bir not gönderdi:. \"Sonradan kaseti izledim, şarkımı güzelce söyledin ve seni dinlemek üzere orada olmadığım için pişmanım, neden bir dahaki sefere beraber söylemiyoruz. Söylediğin şarkının ödülü kazanmış olmasını isterdim, sen harika bir şarkıcısın.\" Bu not cevapsız kalmadı ve Rene Angelil, David Foster'ı ikili için bir şarkı yazmak üzere aradı ve sonuç olan \"Tell Him.\" ortaya çıktı.",
+      "char_count": 482,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0002",
+      "section": "== Format ve şarkı listesi ==",
+      "heading_path": "== Format ve şarkı listesi ==",
+      "start_char": 1283,
+      "end_char": 1445,
+      "content": "== Format ve şarkı listesi == Avustralya/Avrupa/Japon CD teklisi \"Tell Him\" (radyo düzenlemesi) – 4:53 \"Everything Must Change\" – 4:05 \"Where Is the Love\" – 4:55",
+      "char_count": 161,
+      "token_estimate": 40
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tell Him düeti, Celine Dion'un Let's Talk About Love albümünün ilk teklisi olarak ne zaman yayımlandı?",
+        "answer": "3 Kasım 1997",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Celine Dion'un Akademi Ödülleri'ndeki performansı ve Barbra Streisand'ın bu performansa cevabı, ikilinin \"Tell Him\" şarkısı için nasıl bir araya gelmesini sağladı?",
+        "answer": "Celine Dion, Akademi Ödülleri'nde Barbra Streisand'ın \"I Finally Found Someone\" şarkısını Streisand'ın yerine seslendirdiğinde, Streisand Dion'un performansından etkilendi. Streisand, Dion'a sonrasında birlikte şarkı söylemeyi teklif eden bir not gönderdi. Bu teklif üzerine Celine Dion'un menajeri Rene Angelil, David Foster'ı ikili için \"Tell Him\" şarkısını yazması için aradı ve böylece düet ortaya çıktı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

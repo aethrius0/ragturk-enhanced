@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "parnakikalekilisesi_e228bc98",
+    "title": "Parnaki Kale Kilisesi",
+    "url": "https://tr.wikipedia.org/wiki/Parnaki_Kale_Kilisesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:01.686437",
+    "content": "Parnaki Kilisesi (Gürcüce: ფარნაკის ეკლესია) veya Parnaki Kale Kilisesi, Erzurum ilinin Oltu ilçesine bağlı ve eski adı Parnaki olan İriağaç köyünde Orta Çağ'dan kalma bir kilisedir. == Tarihçe == Parnaki Kalesi'nin bulunduğu Parnaki köyü, Orta Çağ'da Gürcistan'ı oluşturan bölgelerden biri olan Tao'da yer alır. Osmanlılar bu köyü ve kaleyi 16. yüzyılın ortalarında Gürcülerden ele geçirmiştir. Nitekim kalede yer alan kilisenin 9. yüzyılda inşa edildiği tahmin edilmektedir. Gürcü tarih ve arkeolog Ekvtime Takaişvili, Oltu bölgesinde 1907 yılında yaptığı araştırma gezisinde Parnaki Kale Kilisesi'nin büyük ölçüde sağlam olduğunu yazmıştır. == Mimari == Parnaki Kale Kilisesi, Parnaki Kalesi'nin alt bölümünde, batı tarafında yer alır. Ekvtime Takaişvili'nin 1907 yılında verdiği bilgiye göre kilise oldukça iyi korunmuştu. Kubbeli bir yapı olan kilise, kesme taşla inşa edilmişti. Kilisenin kubbesi, doğu tarafta apsisin kemeri üzerinde yükseliyordu ve dört cephesi bulunuyordu. Her cephede birer penceresi vardı. Ancak o tarihte kilisenin kubbesinin bir bölümü çökmüştü. Kilisenin batıda ve güneyde birer giriş kapısı vardı. Dört cephede de birer pencere ulunuyordu. Batı tarafında kilisenin küçük bir avlusu vardı. Kilisenin dikdörtgen (8x20 m) bir planı olduğu, kırımızı kesme taş ve moloz taş kullanılarak inşa edildiği bugüne ulaşan duvarlarından da anlaşılmaktadır. Parnaki Kale Kilisesi, Tao-Klarceti bölgesinde kale içinde kubbeli olarak inşa edilmiş nadir örneklerden biri olarak bilinir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 207,
+      "char_count": 1516,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.526648",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 183,
+      "content": "Parnaki Kilisesi (Gürcüce: ფარნაკის ეკლესია) veya Parnaki Kale Kilisesi, Erzurum ilinin Oltu ilçesine bağlı ve eski adı Parnaki olan İriağaç köyünde Orta Çağ'dan kalma bir kilisedir.",
+      "char_count": 182,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 183,
+      "end_char": 644,
+      "content": "== Tarihçe == Parnaki Kalesi'nin bulunduğu Parnaki köyü, Orta Çağ'da Gürcistan'ı oluşturan bölgelerden biri olan Tao'da yer alır. Osmanlılar bu köyü ve kaleyi 16. yüzyılın ortalarında Gürcülerden ele geçirmiştir. Nitekim kalede yer alan kilisenin 9. yüzyılda inşa edildiği tahmin edilmektedir. Gürcü tarih ve arkeolog Ekvtime Takaişvili, Oltu bölgesinde 1907 yılında yaptığı araştırma gezisinde Parnaki Kale Kilisesi'nin büyük ölçüde sağlam olduğunu yazmıştır.",
+      "char_count": 460,
+      "token_estimate": 115
+    },
+    {
+      "id": "c0002",
+      "section": "== Mimari ==",
+      "heading_path": "== Mimari ==",
+      "start_char": 644,
+      "end_char": 1502,
+      "content": "== Mimari == Parnaki Kale Kilisesi, Parnaki Kalesi'nin alt bölümünde, batı tarafında yer alır. Ekvtime Takaişvili'nin 1907 yılında verdiği bilgiye göre kilise oldukça iyi korunmuştu. Kubbeli bir yapı olan kilise, kesme taşla inşa edilmişti. Kilisenin kubbesi, doğu tarafta apsisin kemeri üzerinde yükseliyordu ve dört cephesi bulunuyordu. Her cephede birer penceresi vardı. Ancak o tarihte kilisenin kubbesinin bir bölümü çökmüştü. Kilisenin batıda ve güneyde birer giriş kapısı vardı. Dört cephede de birer pencere ulunuyordu. Batı tarafında kilisenin küçük bir avlusu vardı. Kilisenin dikdörtgen (8x20 m) bir planı olduğu, kırımızı kesme taş ve moloz taş kullanılarak inşa edildiği bugüne ulaşan duvarlarından da anlaşılmaktadır. Parnaki Kale Kilisesi, Tao-Klarceti bölgesinde kale içinde kubbeli olarak inşa edilmiş nadir örneklerden biri olarak bilinir.",
+      "char_count": 857,
+      "token_estimate": 214
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Parnaki Kale Kilisesi hangi malzemeler kullanılarak inşa edilmiştir?",
+        "answer": "Parnaki Kale Kilisesi, kırmızı kesme taş ve moloz taş kullanılarak inşa edilmiştir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Parnaki Kilisesi'nin Orta Çağ'da Gürcistan'ın Tao bölgesindeki tarihsel konumu, kilisenin mimari özellikleri ve bölgesel önemiyle nasıl bir ilişki içindedir?",
+        "answer": "Parnaki Kilisesi, 9. yüzyılda inşa edilmiş Orta Çağ'dan kalma bir yapıdır ve Orta Çağ'da Gürcistan'ı oluşturan bölgelerden biri olan Tao'da yer almasıyla tarihsel bir öneme sahiptir. Mimari olarak, kubbeli bir yapı olarak kesme taşla inşa edilmesi ve Tao-Klarceti bölgesinde kale içinde kubbeli olarak inşa edilmiş nadir örneklerden biri olması, kilisenin bu tarihsel ve bölgesel bağlamdaki özel konumunu ve mimari kimliğini pekiştirmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

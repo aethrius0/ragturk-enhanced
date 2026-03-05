@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "zahidan_18cb3aa8",
+    "title": "Zahidan",
+    "url": "https://tr.wikipedia.org/wiki/Zahidan",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:27.381287",
+    "content": "Zahidan (Farsça: زاهدان, Zāhedān), İran'ın güneydoğusunda, Sistan ve Belucistan Eyaleti'nin yönetim merkezi olan şehir. == Coğrafya == Şehir, Pakistan ve Afganistan sınırı yakınlarında, denizden 1352 m. yükseklikte bulunur. Başkent Tahran'a 1.605 km. uzaklıktadır. == Olaylar == Mahsa Emini'nin öldürülmesinin ardından protestoların gerçekleştirildiği şehirlerden biri olan Zahidan'da, 30 Eylül 2022 tarihinde İran güvenlik güçleri protestocuların üzerine ateş açmış ve Amnesty International'a göre en az 82 protestocunun ölümüne sebep olmuştur. == İklim == == Etnik Yapı == 2016 yılı nüfus sayımına göre 587,730 kişiye ve 146,717 aile'ye ev sahipliği yapmaktadır. Şehir halkının büyük çoğunluğunu Beluciler oluşur. Diğer halklar Sistaniler ve Peştunlar'dır. == Ekonomi ve Ulaşım == Zahidan'da İran ekonomisi için önemli sayılabilecek bir faaliyet bulunmaz.Daha çok yerel ölçekli küçük sanayi tesisleri vardır. Özellikle tekstil (pamuklu dokuma), kilimcilik, seramik ve gıda sanayi gelişmiştir. Önemli bir tarım bölgesi değildir. Nüfusun özellikle, SSCB'nin Afganistan işgalinden kaçan halkın bu şehre gelmesinden dolayı artmasıyla şehrin ekonomik önemi artmıştır. Zahidan kuzeyindeki büyük şehir Meşhed'e kara yolu ile bağlıdır. Şehir İran-Pakistan arasında 2.derecede önemli olan kara yolu üzerindedir. Bu yol üzerinden Pakistan'ın Quetta kentine bağlanır. Eyaletin daha güneyinde Bam üzerinden ayrılan anayol ise Pakistan'ın en büyük kenti ve limanı Karaçi'ye bağlanır. Şehir ayrıca inşası yeni tamamlanan İran-Pakistan demiryolu bağlantısı üzerinde önemli bir istasyondur. Şehirde uluslararası bir havaalanı bulunur. == Eğitim == Şehirde önemli sayılabilecek eğitim kurumları: İslamic Azad University, Zahedan University of Medical Sciences ve University of Sistan and Baluchestan. == Kaynakça == == Dış bağlantılar == (İngilizce) iranchamber.com'da şehrin tanıtımı 15 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 250,
+      "char_count": 1930,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.309338",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 120,
+      "content": "Zahidan (Farsça: زاهدان, Zāhedān), İran'ın güneydoğusunda, Sistan ve Belucistan Eyaleti'nin yönetim merkezi olan şehir.",
+      "char_count": 119,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 120,
+      "end_char": 265,
+      "content": "== Coğrafya == Şehir, Pakistan ve Afganistan sınırı yakınlarında, denizden 1352 m. yükseklikte bulunur. Başkent Tahran'a 1.605 km. uzaklıktadır.",
+      "char_count": 144,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0002",
+      "section": "== Olaylar ==",
+      "heading_path": "== Olaylar ==",
+      "start_char": 265,
+      "end_char": 546,
+      "content": "== Olaylar == Mahsa Emini'nin öldürülmesinin ardından protestoların gerçekleştirildiği şehirlerden biri olan Zahidan'da, 30 Eylül 2022 tarihinde İran güvenlik güçleri protestocuların üzerine ateş açmış ve Amnesty International'a göre en az 82 protestocunun ölümüne sebep olmuştur.",
+      "char_count": 280,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0003",
+      "section": "== Etnik Yapı ==",
+      "heading_path": "== Etnik Yapı ==",
+      "start_char": 558,
+      "end_char": 759,
+      "content": "== Etnik Yapı == 2016 yılı nüfus sayımına göre 587,730 kişiye ve 146,717 aile'ye ev sahipliği yapmaktadır. Şehir halkının büyük çoğunluğunu Beluciler oluşur. Diğer halklar Sistaniler ve Peştunlar'dır.",
+      "char_count": 200,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0004",
+      "section": "== Ekonomi ve Ulaşım ==",
+      "heading_path": "== Ekonomi ve Ulaşım ==",
+      "start_char": 759,
+      "end_char": 1621,
+      "content": "== Ekonomi ve Ulaşım == Zahidan'da İran ekonomisi için önemli sayılabilecek bir faaliyet bulunmaz.Daha çok yerel ölçekli küçük sanayi tesisleri vardır. Özellikle tekstil (pamuklu dokuma), kilimcilik, seramik ve gıda sanayi gelişmiştir. Önemli bir tarım bölgesi değildir. Nüfusun özellikle, SSCB'nin Afganistan işgalinden kaçan halkın bu şehre gelmesinden dolayı artmasıyla şehrin ekonomik önemi artmıştır. Zahidan kuzeyindeki büyük şehir Meşhed'e kara yolu ile bağlıdır. Şehir İran-Pakistan arasında 2.derecede önemli olan kara yolu üzerindedir. Bu yol üzerinden Pakistan'ın Quetta kentine bağlanır. Eyaletin daha güneyinde Bam üzerinden ayrılan anayol ise Pakistan'ın en büyük kenti ve limanı Karaçi'ye bağlanır. Şehir ayrıca inşası yeni tamamlanan İran-Pakistan demiryolu bağlantısı üzerinde önemli bir istasyondur. Şehirde uluslararası bir havaalanı bulunur.",
+      "char_count": 861,
+      "token_estimate": 215
+    },
+    {
+      "id": "c0005",
+      "section": "== Eğitim ==",
+      "heading_path": "== Eğitim ==",
+      "start_char": 1621,
+      "end_char": 1786,
+      "content": "== Eğitim == Şehirde önemli sayılabilecek eğitim kurumları: İslamic Azad University, Zahedan University of Medical Sciences ve University of Sistan and Baluchestan.",
+      "char_count": 164,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1801,
+      "end_char": 1930,
+      "content": "== Dış bağlantılar == (İngilizce) iranchamber.com'da şehrin tanıtımı 15 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 129,
+      "token_estimate": 32
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Zahidan'da hangi yerel sanayi kolları gelişmiştir?",
+        "answer": "Tekstil (pamuklu dokuma), kilimcilik, seramik ve gıda sanayi.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sistan ve Belucistan Eyaleti'nin yönetim merkezi olan Zahidan, coğrafi olarak hangi önemli özelliklere sahiptir?",
+        "answer": "Zahidan, İran'ın güneydoğusunda yer alan Sistan ve Belucistan Eyaleti'nin yönetim merkezi olarak Pakistan ve Afganistan sınırı yakınlarında, denizden 1352 metre yükseklikte konumlanmıştır. Başkent Tahran'a ise 1605 km uzaklıktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

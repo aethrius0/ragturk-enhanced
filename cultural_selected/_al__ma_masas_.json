@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "almamasas_4c93f23a",
+    "title": "Çalışma masası",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87al%C4%B1%C5%9Fma_masas%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:19.701872",
+    "content": "Çalışma masası veya desk; bir okulda, ofiste, evde veya benzerlerinde okuma, yazma veya bilgisayar gibi ekipman kullanma gibi akademik, profesyonel veya ev içi faaliyetler için kullanılan düz masa tarzı bir çalışma yüzeyine sahip mobilyadır. Masalarda genellikle ofis malzemeleri ve kağıtlar gibi öğeleri saklamak için bir veya daha fazla çekmece, bölme veya alan bulunur. Masalar genellikle ahşap ya da metalden yapılsa da bazen cam gibi malzemelere de rastlanmaktadır. Bazı deskler masa şeklindedir ancak genellikle çoğu olağan masanın aksine yalnızca bir tarafı oturmaya uygundur. Bazı deskler masa şeklinde değildir, örneğin, gardırop masası gardırop benzeri büyük bir dolabın içine yerleştirilmiş bir masadır. Portatif bir masa ise bir kişinin kucağına yerleştirilebilecek kadar hafiftir. Birçok kişi kullanırken masaya yaslandığından sağlam olması gerekir. Çoğu durumda, insanlar ya ayrı bir sandalyede ya da gömme bir sandalyeye (örneğin, bazı okul sıralarında) otururlar. Bazı insanlar ayakta durabilmek için ayakta durma masalarını kullanır. == Etimoloji == \"Desk\" kelimesi, 14. yüzyılın ortalarında Modern Latince desca \"üzerine yazı yazılacak masa\" kelimesinden türemiştir. Latince discus \"tabak\" veya \"disk\" kelimesinden gelen Eski İtalyan desco kelimesinin bir modifikasyonudur. Desk kelimesi mecazi anlamda 1797'den beri kullanılmaktadır. Bir desk aynı zamanda bir büro, sayaç, davenport, yazı masası, kürsü, okuma standı, katlanır masa, okul sırası, çalışma alanı veya yazı masası olarak da bilinir. == Kaynakça == == Dış bağlantılar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 212,
+      "char_count": 1551,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.694337",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Çalışma masası veya desk; bir okulda, ofiste, evde veya benzerlerinde okuma, yazma veya bilgisayar gibi ekipman kullanma gibi akademik, profesyonel veya ev içi faaliyetler için kullanılan düz masa tarzı bir çalışma yüzeyine sahip mobilyadır. Masalarda genellikle ofis malzemeleri ve kağıtlar gibi öğeleri saklamak için bir veya daha fazla çekmece, bölme veya alan bulunur. Masalar genellikle ahşap ya da metalden yapılsa da bazen cam gibi malzemelere de rastlanmaktadır. Bazı deskler masa şeklindedir ancak genellikle çoğu olağan masanın aksine yalnızca bir tarafı oturmaya uygundur. Bazı deskler masa şeklinde değildir, örneğin, gardırop masası gardırop benzeri büyük bir dolabın içine yerleştirilmiş bir masadır. Portatif bir masa ise bir kişinin kucağına yerleştirilebilecek kadar hafiftir. Birçok kişi kullanırken masaya yaslandığından sağlam olması gerekir. Çoğu durumda, insanlar ya ayrı bir sandalyede ya da gömme bir sandalyeye (örneğin, bazı okul sıralarında) otururlar. Bazı insanlar ayakta",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1050,
+      "content": " kişi kullanırken masaya yaslandığından sağlam olması gerekir. Çoğu durumda, insanlar ya ayrı bir sandalyede ya da gömme bir sandalyeye (örneğin, bazı okul sıralarında) otururlar. Bazı insanlar ayakta durabilmek için ayakta durma masalarını kullanır.",
+      "char_count": 250,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0002",
+      "section": "== Etimoloji ==",
+      "heading_path": "== Etimoloji ==",
+      "start_char": 1051,
+      "end_char": 1515,
+      "content": "== Etimoloji == \"Desk\" kelimesi, 14. yüzyılın ortalarında Modern Latince desca \"üzerine yazı yazılacak masa\" kelimesinden türemiştir. Latince discus \"tabak\" veya \"disk\" kelimesinden gelen Eski İtalyan desco kelimesinin bir modifikasyonudur. Desk kelimesi mecazi anlamda 1797'den beri kullanılmaktadır. Bir desk aynı zamanda bir büro, sayaç, davenport, yazı masası, kürsü, okuma standı, katlanır masa, okul sırası, çalışma alanı veya yazı masası olarak da bilinir.",
+      "char_count": 463,
+      "token_estimate": 115
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Çalışma masası veya desk, genellikle hangi faaliyetler için kullanılır?",
+        "answer": "Bir okulda, ofiste, evde veya benzerlerinde okuma, yazma veya bilgisayar gibi ekipman kullanma gibi akademik, profesyonel veya ev içi faaliyetler için kullanılır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Çalışma masası kullanıcılarının oturma veya ayakta durma alışkanlıkları ve masanın bu kullanıma uygunluğunu sağlayan kritik fiziksel özelliği nelerdir?",
+        "answer": "Çalışma masası kullanıcılarının çoğu ayrı bir sandalyede veya gömme bir sandalyede otururken, bazıları ayakta durabilmek için ayakta durma masalarını tercih eder. Masanın bu çeşitli kullanımlara dayanabilmesi için, kullanıcıların ona yaslanması nedeniyle sağlam olması kritik bir fiziksel özelliktir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

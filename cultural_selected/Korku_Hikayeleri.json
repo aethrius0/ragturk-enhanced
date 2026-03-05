@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "korkuhikayeleri_58a8bb9c",
+    "title": "Korku Hikayeleri",
+    "url": "https://tr.wikipedia.org/wiki/Korku_Hikayeleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:39.091453",
+    "content": "Korku Hikâyeleri (özgün ad: Scary Stories to Tell in the Dark), Alvin Schwartz'ın aynı adlı çocuk kitabı serisine dayanan André Øvredal tarafından yönetilen 2019 korku filmi. Senaryo, yapımcı Guillermo del Toro'nun yanı sıra Patrick Melton ve Marcus Dunstan'ın yazdığı bir senaryodan Dan ve Kevin Hageman tarafından uyarlandı. Amerika Birleşik Devletleri ve Kanada'nın uluslararası ortak yapımı olan filmde Zoe Colletti, Michael Garza, Gabriel Rush, Austin Zajur, Natalie Ganzhorn, Austin Abrams, Dean Norris, Gil Bellows ve Lorraine Toussaint rol alıyor. 2013 yılında CBS Films, uzun metrajlı bir film olarak üretmek amacıyla 1212 Entertainment'tan kitap serisinin haklarını satın aldı. Ocak 2016'ya kadar del Toro'nun projeyi CBS Films için geliştireceği ve potansiyel olarak yöneteceği açıklandı. Øvredal daha sonra filmi yönetecek ve yapımcılar arasında del Toro, Daniel, Brown ve Grave olacak. Ana çekimler 27 Ağustos 2018'de başladı ve 1 Kasım 2018'de St. Thomas, Ontario, Kanada'da sona erdi. Korku Hikayeleri, Lionsgate tarafından 7 Ağustos 2019'da Amerika Birleşik Devletleri'nde sinemalarda yayınlandı. Film, kaynak materyalinden korku özelliklerini tasvir ettiği için eleştirmenlerden genel olarak olumlu eleştiriler aldı. Film, yaklaşık 28 milyon dolarlık bir bütçeye karşı dünya çapında toplam 106 milyon dolar hasılat elde etti. == Kaynakça == == Dış bağlantılar == IMDb'de Korku Hikayeleri Rotten Tomatoes'ta Scary Stories to Tell in the Dark",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1457,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.829386",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Korku Hikâyeleri (özgün ad: Scary Stories to Tell in the Dark), Alvin Schwartz'ın aynı adlı çocuk kitabı serisine dayanan André Øvredal tarafından yönetilen 2019 korku filmi. Senaryo, yapımcı Guillermo del Toro'nun yanı sıra Patrick Melton ve Marcus Dunstan'ın yazdığı bir senaryodan Dan ve Kevin Hageman tarafından uyarlandı. Amerika Birleşik Devletleri ve Kanada'nın uluslararası ortak yapımı olan filmde Zoe Colletti, Michael Garza, Gabriel Rush, Austin Zajur, Natalie Ganzhorn, Austin Abrams, Dean Norris, Gil Bellows ve Lorraine Toussaint rol alıyor. 2013 yılında CBS Films, uzun metrajlı bir film olarak üretmek amacıyla 1212 Entertainment'tan kitap serisinin haklarını satın aldı. Ocak 2016'ya kadar del Toro'nun projeyi CBS Films için geliştireceği ve potansiyel olarak yöneteceği açıklandı. Øvredal daha sonra filmi yönetecek ve yapımcılar arasında del Toro, Daniel, Brown ve Grave olacak. Ana çekimler 27 Ağustos 2018'de başladı ve 1 Kasım 2018'de St. Thomas, Ontario, Kanada'da sona erdi. ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1342,
+      "content": "Øvredal daha sonra filmi yönetecek ve yapımcılar arasında del Toro, Daniel, Brown ve Grave olacak. Ana çekimler 27 Ağustos 2018'de başladı ve 1 Kasım 2018'de St. Thomas, Ontario, Kanada'da sona erdi. Korku Hikayeleri, Lionsgate tarafından 7 Ağustos 2019'da Amerika Birleşik Devletleri'nde sinemalarda yayınlandı. Film, kaynak materyalinden korku özelliklerini tasvir ettiği için eleştirmenlerden genel olarak olumlu eleştiriler aldı. Film, yaklaşık 28 milyon dolarlık bir bütçeye karşı dünya çapında toplam 106 milyon dolar hasılat elde etti.",
+      "char_count": 542,
+      "token_estimate": 135
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1358,
+      "end_char": 1457,
+      "content": "== Dış bağlantılar == IMDb'de Korku Hikayeleri Rotten Tomatoes'ta Scary Stories to Tell in the Dark",
+      "char_count": 99,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Korku Hikâyeleri filminin yönetmeni kimdir?",
+        "answer": "André Øvredal",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Korku Hikâyeleri filmi için hakların alınmasından filmin dünya çapında yayınlanmasına ve ticari başarısına kadar uzanan önemli aşamalar nelerdir?",
+        "answer": "CBS Films 2013 yılında kitap serisinin haklarını satın aldı. Ocak 2016'da Guillermo del Toro'nun projeyi geliştireceği açıklandı. Ana çekimler 27 Ağustos 2018'de başlayıp 1 Kasım 2018'de sona erdi ve film 7 Ağustos 2019'da sinemalarda gösterime girdi. Film, yaklaşık 28 milyon dolarlık bütçeye karşılık dünya çapında toplam 106 milyon dolar hasılat elde ederek ticari başarı yakaladı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

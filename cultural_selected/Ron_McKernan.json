@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "ronmckernan_34080555",
+    "title": "Ron McKernan",
+    "url": "https://tr.wikipedia.org/wiki/Ron_McKernan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:20.663740",
+    "content": "Ronald \"Pigpen\" Charles McKernan; (8 Eylül 1945, San Bruno - 8 Mart 1973, Corte Madera), Amerikalı müzisyen, şarkıcı ve söz yazarı. San Francisco'lu rock grubu Grateful Dead'in kurucularındandır. == Diskografi == === Grateful Dead === The Grateful Dead (1967) Anthem of the Sun (1968) Aoxomoxoa (1969) Live/Dead (1969) Workingman's Dead (1970) American Beauty (1970) == Kaynakça == == Bibliyografi == Conners, Peter (2013). JAMerica: The History of the Jam Band and Festival Scene. Da Capo Press. ISBN 978-0-306-82066-3. Hollow, Michele (2009). Grateful Dead: What a Long, Strange Trip It's Been. Enslow. ISBN 978-0-766-03028-2. Jackson, Blair (1999). Garcia: An American Life. Penguin Books. ISBN 978-0-140-29199-5. Kreutzmann, Bill; Eisen, Benjy (2015). Deal: My Three Decades of Drumming, Dreams, and Drugs with the Grateful Dead. St. Martin's Press. ISBN 978-1-250-03380-2. Lavezzoli, Peter (2006). The Dawn of Indian Music in the West. A&C Black. ISBN 978-0-826-41815-9. Malvinni, David (2013). Grateful Dead and the Art of Rock Improvisation. Rowman & Littlefield. ISBN 978-0-810-88255-3. Perone, James (2005). Woodstock: An Encyclopedia of the Music and Art Fair. Greenwood. ISBN 978-0-313-33057-5. Room, Adrian (2010). Dictionary of Pseudonyms: 13,000 Assumed Names and Their Origins, 5th ed. McFarland. ISBN 978-0-786-45763-2. Sclafani, Tony (2013). The Grateful Dead FAQ: All That's Left to Know About the Greatest Jam Band in History. Hal Leonard. ISBN 978-1-617-13582-8. Scully, Rock (2001). Living with the Dead: Twenty Years on the Bus with Garcia and the Grateful Dead. Cooper Square Press. ISBN 978-1-461-66113-9. Sounes, Howard (2013). 27: A History of the 27 Club through the Lives of Brian Jones, Jimi Hendrix, Janis Joplin, Jim Morrison, Kurt Cobain, and Amy Winehouse. Da Capo Press. ISBN 978-0-306-82169-1. Stanton, Scott (2003). The Tombstone Tourist: Musicians. Simon and Schuster. ISBN 978-0-743-46330-0. Trager, Oliver (1997). The American Book of the Dead. Simon and Schuster. ISBN 978-0-684-81402-5. == Dış bağlantılar == Pigpen's page on the Dead's Official Site Ron C McKernan at Dead Blues Guys.com Top 10 Pigpen McKernan Grateful Dead Songs Official Grateful Dead Website Discogs'ta Ron McKernan diskografisi == Ayrıca bakınız == 27'ler Kulübü",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 333,
+      "char_count": 2275,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.546322",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 196,
+      "content": "Ronald \"Pigpen\" Charles McKernan; (8 Eylül 1945, San Bruno - 8 Mart 1973, Corte Madera), Amerikalı müzisyen, şarkıcı ve söz yazarı. San Francisco'lu rock grubu Grateful Dead'in kurucularındandır.",
+      "char_count": 195,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0001",
+      "section": "=== Grateful Dead ===",
+      "heading_path": "=== Grateful Dead ===",
+      "start_char": 213,
+      "end_char": 367,
+      "content": "=== Grateful Dead === The Grateful Dead (1967) Anthem of the Sun (1968) Aoxomoxoa (1969) Live/Dead (1969) Workingman's Dead (1970) American Beauty (1970)",
+      "char_count": 153,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0002",
+      "section": "== Bibliyografi ==",
+      "heading_path": "== Bibliyografi ==",
+      "start_char": 382,
+      "end_char": 1382,
+      "content": "== Bibliyografi == Conners, Peter (2013). JAMerica: The History of the Jam Band and Festival Scene. Da Capo Press. ISBN 978-0-306-82066-3. Hollow, Michele (2009). Grateful Dead: What a Long, Strange Trip It's Been. Enslow. ISBN 978-0-766-03028-2. Jackson, Blair (1999). Garcia: An American Life. Penguin Books. ISBN 978-0-140-29199-5. Kreutzmann, Bill; Eisen, Benjy (2015). Deal: My Three Decades of Drumming, Dreams, and Drugs with the Grateful Dead. St. Martin's Press. ISBN 978-1-250-03380-2. Lavezzoli, Peter (2006). The Dawn of Indian Music in the West. A&C Black. ISBN 978-0-826-41815-9. Malvinni, David (2013). Grateful Dead and the Art of Rock Improvisation. Rowman & Littlefield. ISBN 978-0-810-88255-3. Perone, James (2005). Woodstock: An Encyclopedia of the Music and Art Fair. Greenwood. ISBN 978-0-313-33057-5. Room, Adrian (2010). Dictionary of Pseudonyms: 13,000 Assumed Names and Their Origins, 5th ed. McFarland. ISBN 978-0-786-45763-2. Sclafani, Tony (2013). The Grateful Dead FAQ: ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Bibliyografi ==",
+      "heading_path": "== Bibliyografi ==",
+      "start_char": 1182,
+      "end_char": 2027,
+      "content": "ISBN 978-0-313-33057-5. Room, Adrian (2010). Dictionary of Pseudonyms: 13,000 Assumed Names and Their Origins, 5th ed. McFarland. ISBN 978-0-786-45763-2. Sclafani, Tony (2013). The Grateful Dead FAQ: All That's Left to Know About the Greatest Jam Band in History. Hal Leonard. ISBN 978-1-617-13582-8. Scully, Rock (2001). Living with the Dead: Twenty Years on the Bus with Garcia and the Grateful Dead. Cooper Square Press. ISBN 978-1-461-66113-9. Sounes, Howard (2013). 27: A History of the 27 Club through the Lives of Brian Jones, Jimi Hendrix, Janis Joplin, Jim Morrison, Kurt Cobain, and Amy Winehouse. Da Capo Press. ISBN 978-0-306-82169-1. Stanton, Scott (2003). The Tombstone Tourist: Musicians. Simon and Schuster. ISBN 978-0-743-46330-0. Trager, Oliver (1997). The American Book of the Dead. Simon and Schuster. ISBN 978-0-684-81402-5.",
+      "char_count": 845,
+      "token_estimate": 211
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2028,
+      "end_char": 2241,
+      "content": "== Dış bağlantılar == Pigpen's page on the Dead's Official Site Ron C McKernan at Dead Blues Guys.com Top 10 Pigpen McKernan Grateful Dead Songs Official Grateful Dead Website Discogs'ta Ron McKernan diskografisi",
+      "char_count": 212,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2241,
+      "end_char": 2275,
+      "content": "== Ayrıca bakınız == 27'ler Kulübü",
+      "char_count": 34,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Michele Hollow tarafından yazılan kitabın adı nedir?",
+        "answer": "Grateful Dead: What a Long, Strange Trip It's Been",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Grateful Dead grubunun müzikal mirası ve etkisi, Ronald \"Pigpen\" Charles McKernan gibi kurucu üyeleri, yayınladığı albümler ve haklarında yazılan çeşitli kaynaklar bağlamında nasıl bir tablo çizmektedir?",
+        "answer": "Grateful Dead'in müzikal mirası ve etkisi, Ronald \"Pigpen\" Charles McKernan gibi kurucu üyelerinden biriyle başlayarak, 1967'deki \"The Grateful Dead\"den 1970'teki \"American Beauty\"ye kadar uzanan zengin albüm diskografisiyle ve Michele Hollow'un \"Grateful Dead: What a Long, Strange Trip It's Been\" ile Blair Jackson'ın \"Garcia: An American Life\" gibi çok sayıda eseri içeren geniş bir bibliyografinin varlığıyla çok yönlü bir şekilde ortaya konmaktadır. Bu unsurlar, grubun hem sanatsal üretiminin hem de kültürel ve akademik ilginin genişliğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

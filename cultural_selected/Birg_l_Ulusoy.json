@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "birglulusoy_e9e87b05",
+    "title": "Birgül Ulusoy",
+    "url": "https://tr.wikipedia.org/wiki/Birg%C3%BCl_Ulusoy",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:36.834127",
+    "content": "Birgül Ulusoy (d. 17 Kasım 1970, İstanbul), Türk oyuncu. == Filmografisi == === Diziler === Saygılar Bizden (1993) Çiçek Taksi (1995) - Rana Tatlı Kaçıklar (1996) Çılgın Bediş (1996) - Nesrin Büyük Buluşma (2004) Kalp Gözü (2004) Pembe ve Mavi (2005) Yalancı Yarim (2006) - Suna Beşinci Boyut (2008) - Fatma Ömre Bedel (2009) Yahşi Cazibe (2011) - Gardiyan Adını Feriha Koydum (2011-2012) - Gülfidan Benim İçin Üzülme (2012) - Hatice Veda (2012) - Didar O Hayat Benim (2014-2015) - Sakine Küçük Gelin (2015) - Zelal'in Annesi Kırgın Çiçekler (2015-2016) - Emine Aşk ve Mavi (2016-2018) - Birgül Aşk Mantık İntikam (2021) - Reyhan Elkızı (2021-2022) - Cevriye Turan Annenin Sırrıdır Çocuk (2022) - Fidan Yabani (2023) - Yurdagül Bambaşka Biri (2023-2024) - Nurgül Bahar (2025) - Ayla Can Borcu (2025) - Kadriye Halef: Köklerin Çağrısı (2025-) - Gülizar === Filmler === Yürekte Sızı (2005) Kötüler Konağı (2008) - Zarife Candan Çok mu Komik (2010) Şeytanın Çocukları: El Ebyaz (2015) Bambaşka (2016) - Hatice Arap Kadri ve Tarzan (2023) Fahrinayt (2025) == Tiyatro oyunları == Yavru Kuşlar (1995) Müjdat Gezen Tiyatrosu Kare As (1996) Müjdat Gezen Tiyatrosu Oyun Karıştı (1996) Müjdat Gezen Tiyatrosu Hangisi Karısı (1996) Müjdat Gezen Tiyatrosu Zafer Madalyası (1996) Müjdat Gezen Tiyatrosu Nice Yıllara (1996) Müjdat Gezen Tiyatrosu Bir Kış Masalı (1996) Müjdat Gezen Tiyatrosu Yukarıda Biri mi Var (1996) Müjdat Gezen Tiyatrosu Kaç Baba Kaç (2005) Sadri Alışık Kültür Merkezi Güllü (2006) Sadri Alışık Kültür Merkezi Hayvanat Bahçesi (2008) Sadri Alışık Kültür Merkezi == Kaynakça == == Dış bağlantılar == Sinemalar.com'te Birgül Ulusoy SinemaTürk'te Birgül Ulusoy IMDb'de Birgül Ulusoy Twitter'da Birgül Ulusoy Instagram'da Birgül Ulusoy",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 269,
+      "char_count": 1739,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.571573",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 57,
+      "content": "Birgül Ulusoy (d. 17 Kasım 1970, İstanbul), Türk oyuncu.",
+      "char_count": 56,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0001",
+      "section": "=== Diziler ===",
+      "heading_path": "=== Diziler ===",
+      "start_char": 76,
+      "end_char": 852,
+      "content": "=== Diziler === Saygılar Bizden (1993) Çiçek Taksi (1995) - Rana Tatlı Kaçıklar (1996) Çılgın Bediş (1996) - Nesrin Büyük Buluşma (2004) Kalp Gözü (2004) Pembe ve Mavi (2005) Yalancı Yarim (2006) - Suna Beşinci Boyut (2008) - Fatma Ömre Bedel (2009) Yahşi Cazibe (2011) - Gardiyan Adını Feriha Koydum (2011-2012) - Gülfidan Benim İçin Üzülme (2012) - Hatice Veda (2012) - Didar O Hayat Benim (2014-2015) - Sakine Küçük Gelin (2015) - Zelal'in Annesi Kırgın Çiçekler (2015-2016) - Emine Aşk ve Mavi (2016-2018) - Birgül Aşk Mantık İntikam (2021) - Reyhan Elkızı (2021-2022) - Cevriye Turan Annenin Sırrıdır Çocuk (2022) - Fidan Yabani (2023) - Yurdagül Bambaşka Biri (2023-2024) - Nurgül Bahar (2025) - Ayla Can Borcu (2025) - Kadriye Halef: Köklerin Çağrısı (2025-) - Gülizar",
+      "char_count": 775,
+      "token_estimate": 193
+    },
+    {
+      "id": "c0002",
+      "section": "=== Filmler ===",
+      "heading_path": "=== Filmler ===",
+      "start_char": 852,
+      "end_char": 1052,
+      "content": "=== Filmler === Yürekte Sızı (2005) Kötüler Konağı (2008) - Zarife Candan Çok mu Komik (2010) Şeytanın Çocukları: El Ebyaz (2015) Bambaşka (2016) - Hatice Arap Kadri ve Tarzan (2023) Fahrinayt (2025)",
+      "char_count": 199,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0003",
+      "section": "== Tiyatro oyunları ==",
+      "heading_path": "== Tiyatro oyunları ==",
+      "start_char": 1052,
+      "end_char": 1570,
+      "content": "== Tiyatro oyunları == Yavru Kuşlar (1995) Müjdat Gezen Tiyatrosu Kare As (1996) Müjdat Gezen Tiyatrosu Oyun Karıştı (1996) Müjdat Gezen Tiyatrosu Hangisi Karısı (1996) Müjdat Gezen Tiyatrosu Zafer Madalyası (1996) Müjdat Gezen Tiyatrosu Nice Yıllara (1996) Müjdat Gezen Tiyatrosu Bir Kış Masalı (1996) Müjdat Gezen Tiyatrosu Yukarıda Biri mi Var (1996) Müjdat Gezen Tiyatrosu Kaç Baba Kaç (2005) Sadri Alışık Kültür Merkezi Güllü (2006) Sadri Alışık Kültür Merkezi Hayvanat Bahçesi (2008) Sadri Alışık Kültür Merkezi",
+      "char_count": 517,
+      "token_estimate": 129
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1585,
+      "end_char": 1739,
+      "content": "== Dış bağlantılar == Sinemalar.com'te Birgül Ulusoy SinemaTürk'te Birgül Ulusoy IMDb'de Birgül Ulusoy Twitter'da Birgül Ulusoy Instagram'da Birgül Ulusoy",
+      "char_count": 154,
+      "token_estimate": 38
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Adını Feriha Koydum dizisinde hangi karakter rol almıştır?",
+        "answer": "Gülfidan",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Birgül Ulusoy hangi yıl doğmuştur ve televizyon dizilerindeki kariyerine ilk olarak hangi yılda başlamıştır?",
+        "answer": "Birgül Ulusoy 1970 yılında doğmuştur ve televizyon dizilerindeki kariyerine 1993 yılında başlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

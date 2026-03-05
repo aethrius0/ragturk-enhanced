@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "srifedk_d5769ec0",
+    "title": "Sári Fedák",
+    "url": "https://tr.wikipedia.org/wiki/S%C3%A1ri_Fed%C3%A1k",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:41.136067",
+    "content": "Sári Fedák (doğum adı; Sarolta Klára Mária Fedák); (d. 27 Eylül 1879, Beregszász, Macaristan (şimdi Berehove, Ukrayna) - ö. 5 Mayıs 1955, Budapeşte, Macaristan) Macar aktris ve şarkıcı. Zamanının en tanınmış prima donnalarından biri. Amerikalı gazeteci ve kurgu dışı yazar Richard Traubner'a göre Fedák ve Sári Petráss, \"tüm zamanların en çok hatırlanan iki Macar kadın operet yıldızı\" olmaya devam ediyor. == Yaşamı == 1899 yılına kadar Szidi Rákosi'dan oyunculuk eğitimi aldı ve kariyerine aynı yıl Magyar Színház tiyatro kumpanyasında başladı. 1900'den itibaren Pozsony'de (şimdi Bratislava), Budapeşte'deki Népszínház, Király Színház ve Vígszínház dahil olmak üzere çeşitli tiyatrolarda oynadı. Birinci Dünya Savaşı'nın ardından Avusturya-Macaristan monarşisine karşı söylemlerde bulundu. Daha sonra Macaristan Sovyet Cumhuriyeti döneminde Kızıl Ordu'ya katılmak için propaganda yaptı. Cumhuriyetin yıkılmasından sonra Fedák Viyana'ya kaçtı. Ancak yakalanıp kısa bir süre Wiener Neustadt'ta hapishanede tutuldu. Cumhuriyet'i desteklediği için 1920-21 yılları arasında sadece Viyana'da oynayabildi. 1921 ve 1925'te Berlin ve Paris'te sahneye çıktı. 1934'te birkaç Amerikan şehrinde bulundu. == Kişisel hayat == Altı yıllık bir ilişkinin ardından 1922'de yazar Ferenc Molnár ile evlendi. Çift, \"Molnar'ın Sari'yi 42 beyefendiyle yakınlaşmakla suçladıktan ve Sari'nin de Molnar'ı 142 bayanla yakınlaştığı şeklinde yanıt verdikten\" sonra 1925 veya 1926'da boşandılar. 1923'te Fővárosi Operettszínház tiyatrosunun bir üyesi oldu. 1940'tan itibaren Új Magyar Színház tiyatrosunun başrol oyuncusu oldu. 1944'te Viyana'daki Donausender radyo istasyonunda çalışırken, Macaristan'ın İkinci Dünya Savaşı'nda Nazi Almanyası'nın yanında savaşa devam etmesi için miting yaptı ve savaştan sonra sekiz ay hapis cezasına çarptırıldı. Ayrıca üç yıl boyunca tiyatrolarda oynaması yasaklandı. Bir daha asla sahneye çıkmadı. Hapisten çıktıktan sonra Nyáregyháza'ya taşındı ve aktif iş hayatından emekli oldu. 1955 yılında 75 yaşında öldü ve Budapeşte'nin Farkasréti Mezarlığı'na defnedildi. == Seçilmiş filmografi == Bayan Iza (1933) Anne (1937) Eve Dönüşte (1940) == Okuma == Fedák Sári - Macar Tiyatro Sözlüğünde Sári Fedák (György, Székely. Magyar Színházművészeti Lexikon . Budapeşte: Akadémiai Kiadó, 1994;978-963-05-6635-3 ), mek.oszk.hu adresinde ücretsiz olarak mevcuttur (Macarca) Tibor, Bános. Aki szelet vet . Budapeşte: Magvető 1986. == Dış bağlantılar == IMDb'de Sári Fedák == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 327,
+      "char_count": 2484,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.691769",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 407,
+      "content": "Sári Fedák (doğum adı; Sarolta Klára Mária Fedák); (d. 27 Eylül 1879, Beregszász, Macaristan (şimdi Berehove, Ukrayna) - ö. 5 Mayıs 1955, Budapeşte, Macaristan) Macar aktris ve şarkıcı. Zamanının en tanınmış prima donnalarından biri. Amerikalı gazeteci ve kurgu dışı yazar Richard Traubner'a göre Fedák ve Sári Petráss, \"tüm zamanların en çok hatırlanan iki Macar kadın operet yıldızı\" olmaya devam ediyor.",
+      "char_count": 406,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 407,
+      "end_char": 1194,
+      "content": "== Yaşamı == 1899 yılına kadar Szidi Rákosi'dan oyunculuk eğitimi aldı ve kariyerine aynı yıl Magyar Színház tiyatro kumpanyasında başladı. 1900'den itibaren Pozsony'de (şimdi Bratislava), Budapeşte'deki Népszínház, Király Színház ve Vígszínház dahil olmak üzere çeşitli tiyatrolarda oynadı. Birinci Dünya Savaşı'nın ardından Avusturya-Macaristan monarşisine karşı söylemlerde bulundu. Daha sonra Macaristan Sovyet Cumhuriyeti döneminde Kızıl Ordu'ya katılmak için propaganda yaptı. Cumhuriyetin yıkılmasından sonra Fedák Viyana'ya kaçtı. Ancak yakalanıp kısa bir süre Wiener Neustadt'ta hapishanede tutuldu. Cumhuriyet'i desteklediği için 1920-21 yılları arasında sadece Viyana'da oynayabildi. 1921 ve 1925'te Berlin ve Paris'te sahneye çıktı. 1934'te birkaç Amerikan şehrinde bulundu.",
+      "char_count": 786,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0002",
+      "section": "== Kişisel hayat ==",
+      "heading_path": "== Kişisel hayat ==",
+      "start_char": 1194,
+      "end_char": 2074,
+      "content": "== Kişisel hayat == Altı yıllık bir ilişkinin ardından 1922'de yazar Ferenc Molnár ile evlendi. Çift, \"Molnar'ın Sari'yi 42 beyefendiyle yakınlaşmakla suçladıktan ve Sari'nin de Molnar'ı 142 bayanla yakınlaştığı şeklinde yanıt verdikten\" sonra 1925 veya 1926'da boşandılar. 1923'te Fővárosi Operettszínház tiyatrosunun bir üyesi oldu. 1940'tan itibaren Új Magyar Színház tiyatrosunun başrol oyuncusu oldu. 1944'te Viyana'daki Donausender radyo istasyonunda çalışırken, Macaristan'ın İkinci Dünya Savaşı'nda Nazi Almanyası'nın yanında savaşa devam etmesi için miting yaptı ve savaştan sonra sekiz ay hapis cezasına çarptırıldı. Ayrıca üç yıl boyunca tiyatrolarda oynaması yasaklandı. Bir daha asla sahneye çıkmadı. Hapisten çıktıktan sonra Nyáregyháza'ya taşındı ve aktif iş hayatından emekli oldu. 1955 yılında 75 yaşında öldü ve Budapeşte'nin Farkasréti Mezarlığı'na defnedildi.",
+      "char_count": 879,
+      "token_estimate": 219
+    },
+    {
+      "id": "c0003",
+      "section": "== Seçilmiş filmografi ==",
+      "heading_path": "== Seçilmiş filmografi ==",
+      "start_char": 2074,
+      "end_char": 2148,
+      "content": "== Seçilmiş filmografi == Bayan Iza (1933) Anne (1937) Eve Dönüşte (1940)",
+      "char_count": 73,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0004",
+      "section": "== Okuma ==",
+      "heading_path": "== Okuma ==",
+      "start_char": 2148,
+      "end_char": 2429,
+      "content": "== Okuma == Fedák Sári - Macar Tiyatro Sözlüğünde Sári Fedák (György, Székely. Magyar Színházművészeti Lexikon . Budapeşte: Akadémiai Kiadó, 1994;978-963-05-6635-3 ), mek.oszk.hu adresinde ücretsiz olarak mevcuttur (Macarca) Tibor, Bános. Aki szelet vet . Budapeşte: Magvető 1986.",
+      "char_count": 280,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2429,
+      "end_char": 2470,
+      "content": "== Dış bağlantılar == IMDb'de Sári Fedák",
+      "char_count": 40,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1955'te öldüğünde nereye defnedildi?",
+        "answer": "Budapeşte'nin Farkasréti Mezarlığı'na defnedildi.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sári Fedák'ın kariyeri boyunca çeşitli siyasi hareketlere katılımı, performans sergileme yeteneğini ve genel sanatsal mirasındaki yerini nasıl etkilemiştir?",
+        "answer": "Sári Fedák, zamanının en tanınmış prima donnalarından biri ve tüm zamanların en çok hatırlanan iki Macar kadın operet yıldızından biri olmasına rağmen, siyasi eylemleri kariyerini önemli ölçüde etkilemiştir. Macaristan Sovyet Cumhuriyeti döneminde Kızıl Ordu'ya katılmak için propaganda yaptıktan sonra yakalanıp kısa süre hapse atılmış ve 1920-21 yılları arasında sadece Viyana'da oynayabilmiştir. Daha sonra, 1944'te İkinci Dünya Savaşı'nda Macaristan'ın Nazi Almanyası'nın yanında savaşmaya devam etmesi için miting yapması üzerine sekiz ay hapis cezasına çarptırıldı ve üç yıl tiyatrolarda oynaması yasaklandı. Bu yasağın ardından bir daha asla sahneye çıkmadı, ancak yine de sanatsal mirasında önemli bir yer tutmaya devam etmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

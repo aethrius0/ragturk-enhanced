@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "petrovaradin_76f5710b",
+    "title": "Petrovaradin",
+    "url": "https://tr.wikipedia.org/wiki/Petrovaradin",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:30.847855",
+    "content": "Petrovaradin veya Petervaradin (Sırpça: Петроварадин; Macarca: Pétervárad), Sırbistan'da Tuna Nehri kıyısında Novi Sad şehrinin karşısında yer alan kasabadır. Tarihî bir yer olarak aynı isimde bir de kalesi vardır. Novi Sad ile beraber genişletilmiş Novi Sad Şehri belediye yapısını oluşturur. == Tarihçe == Bölgede yerleşimin tarihi Bakır Çağı' na (MÖ 4500 dolayları) kadar uzanmaktadır. MÖ 4. yüzyılda Keltler' in yerleştiği bölge MÖ 1. yüzyılda Roma hakimiyetine girdi. Keltler tarafından burada ilk kale inşa edildi. Roma döneminde kale daha da büyütüldü ve \"Cusum\" adıyla Pannonia eyaletine bağlandı. Kale, MS 5. yüzyıldaki Hun saldırıları sonucunda tahrip oldu. Kasaba sırasıyla Ostrogotlar, Gepidler ve Lombardlar' ın hakimiyetine geçti. MS 5. yüzyılın sonlarında Bizanslılar tarafında ele geçirilen yerleşim; Cusum, Petrikon veya Petrikov adlarıyla anıldı. Daha sonra Avarlar, Franklar, Hırvatlar, Slavlar, Bulgarlar ve sonrasında yeniden Bizans egemenliğine geçti. Bulgarlar döneminde voyvoda Sermon idaresinde Petrik adıyla anıldı. Bizans döneminde Sirmium theması içerisinde yer aldı. Kasaba, 12. yüzyılda Macaristan Krallığı tarafından ele geçirildi. 27 Temmuz 1526'da Pargalı İbrahim Paşa tarafından Petrovaradin Kuşatması sonucu Osmanlı topraklarına katıldı. Osmanlı yönetiminde \"Varadin\" adıyla bilinen yerleşim, seferlerde önemli bir menzil noktası görevi gördü. 1687 yılında Osmanlıların yenilgisi ile Habsburg idaresine geçti. Kale, 19 Eylül 1694 yılında Sürmeli Ali Paşa komutasındaki Osmanlı ordusu tarafından kuşatıldı. Ancak 23 günlük kuşatmada sonuç alınamaması üzerine Osmanlı ordusu Belgrat' a geri çekildi. 1716 yılında, sadrazam Silahdar Damat Ali Paşa' nda hayatını kaybettiği Petrovaradin Muharebesi burada meydana gelmiştir. Petrovaradin, Habsburg yönetiminde sınırdaki askeri savunma sisteminin parçası oldu. 1881'de Avusturya-Macaristan İmparatorluğu içerisinde otonom Hırvat-Slavonia Krallığı yönetimine geçti. 1918 yılında Yugoslavya Krallığı denetimine geçti. II. Dünya Savaşı sırasında kurulan Hırvatistan Bağımsız Devleti denetimine geçti. Savaştan sonra Voyvodina özerk eyaleti ve sonrasında Yugoslavya topraklarının parçası oldu. == Nüfus == 2011 yılında yapılan genel nüfus sayımına göre belediyede 33.865, kasaba merkezinde ise 14.298 kişi yaşamaktadır. == Resimler == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 298,
+      "char_count": 2324,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.711648",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 294,
+      "content": "Petrovaradin veya Petervaradin (Sırpça: Петроварадин; Macarca: Pétervárad), Sırbistan'da Tuna Nehri kıyısında Novi Sad şehrinin karşısında yer alan kasabadır. Tarihî bir yer olarak aynı isimde bir de kalesi vardır. Novi Sad ile beraber genişletilmiş Novi Sad Şehri belediye yapısını oluşturur.",
+      "char_count": 293,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 294,
+      "end_char": 1294,
+      "content": "== Tarihçe == Bölgede yerleşimin tarihi Bakır Çağı' na (MÖ 4500 dolayları) kadar uzanmaktadır. MÖ 4. yüzyılda Keltler' in yerleştiği bölge MÖ 1. yüzyılda Roma hakimiyetine girdi. Keltler tarafından burada ilk kale inşa edildi. Roma döneminde kale daha da büyütüldü ve \"Cusum\" adıyla Pannonia eyaletine bağlandı. Kale, MS 5. yüzyıldaki Hun saldırıları sonucunda tahrip oldu. Kasaba sırasıyla Ostrogotlar, Gepidler ve Lombardlar' ın hakimiyetine geçti. MS 5. yüzyılın sonlarında Bizanslılar tarafında ele geçirilen yerleşim; Cusum, Petrikon veya Petrikov adlarıyla anıldı. Daha sonra Avarlar, Franklar, Hırvatlar, Slavlar, Bulgarlar ve sonrasında yeniden Bizans egemenliğine geçti. Bulgarlar döneminde voyvoda Sermon idaresinde Petrik adıyla anıldı. Bizans döneminde Sirmium theması içerisinde yer aldı. Kasaba, 12. yüzyılda Macaristan Krallığı tarafından ele geçirildi. 27 Temmuz 1526'da Pargalı İbrahim Paşa tarafından Petrovaradin Kuşatması sonucu Osmanlı topraklarına katıldı. Osmanlı yönetiminde \"",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1094,
+      "end_char": 2094,
+      "content": ". Kasaba, 12. yüzyılda Macaristan Krallığı tarafından ele geçirildi. 27 Temmuz 1526'da Pargalı İbrahim Paşa tarafından Petrovaradin Kuşatması sonucu Osmanlı topraklarına katıldı. Osmanlı yönetiminde \"Varadin\" adıyla bilinen yerleşim, seferlerde önemli bir menzil noktası görevi gördü. 1687 yılında Osmanlıların yenilgisi ile Habsburg idaresine geçti. Kale, 19 Eylül 1694 yılında Sürmeli Ali Paşa komutasındaki Osmanlı ordusu tarafından kuşatıldı. Ancak 23 günlük kuşatmada sonuç alınamaması üzerine Osmanlı ordusu Belgrat' a geri çekildi. 1716 yılında, sadrazam Silahdar Damat Ali Paşa' nda hayatını kaybettiği Petrovaradin Muharebesi burada meydana gelmiştir. Petrovaradin, Habsburg yönetiminde sınırdaki askeri savunma sisteminin parçası oldu. 1881'de Avusturya-Macaristan İmparatorluğu içerisinde otonom Hırvat-Slavonia Krallığı yönetimine geçti. 1918 yılında Yugoslavya Krallığı denetimine geçti. II. Dünya Savaşı sırasında kurulan Hırvatistan Bağımsız Devleti denetimine geçti. Savaştan sonra Vo",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1894,
+      "end_char": 2168,
+      "content": "otonom Hırvat-Slavonia Krallığı yönetimine geçti. 1918 yılında Yugoslavya Krallığı denetimine geçti. II. Dünya Savaşı sırasında kurulan Hırvatistan Bağımsız Devleti denetimine geçti. Savaştan sonra Voyvodina özerk eyaleti ve sonrasında Yugoslavya topraklarının parçası oldu.",
+      "char_count": 274,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0004",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 2169,
+      "end_char": 2295,
+      "content": "== Nüfus == 2011 yılında yapılan genel nüfus sayımına göre belediyede 33.865, kasaba merkezinde ise 14.298 kişi yaşamaktadır.",
+      "char_count": 125,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bölgedeki yerleşimin tarihi ne zamana kadar uzanmaktadır?",
+        "answer": "Bakır Çağı'na (MÖ 4500 dolayları).",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Petrovaradin'in günümüzdeki Tuna Nehri kıyısındaki konumu, kasabanın Bakır Çağı'ndan 20. yüzyıla kadar birçok farklı güç tarafından yönetilmesinin ve önemli çatışmalara sahne olmasının temel nedenini nasıl açıklıyor?",
+        "answer": "Petrovaradin'in Tuna Nehri kıyısında, Novi Sad'ın karşısında yer alması, onu stratejik bir geçiş ve savunma noktası haline getirmiştir. Bakır Çağı'ndan itibaren yerleşim yeri olması, Keltler'in kale inşa etmesi ve Romalılar'ın \"Cusum\" adıyla büyütmesiyle başlar. Bizans, Macaristan Krallığı, Osmanlı İmparatorluğu ve Habsburg idaresi gibi çok sayıda gücün kontrolüne girmesi ve 1526'daki Petrovaradin Kuşatması ile 1716'daki Petrovaradin Muharebesi gibi önemli olaylara sahne olması, bu konumun tarihi boyunca ne kadar kritik olduğunu göstermektedir. Bu stratejik konum, kasabayı sürekli olarak farklı egemenlikler arasında el değiştiren bir çatışma alanı yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

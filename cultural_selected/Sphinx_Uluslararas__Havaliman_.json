@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "sphinxuluslararashav_5fdaf2d2",
+    "title": "Sphinx Uluslararası Havalimanı",
+    "url": "https://tr.wikipedia.org/wiki/Sphinx_Uluslararas%C4%B1_Havaliman%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:27.752687",
+    "content": "Sphinx Uluslararası Havalimanı (IATA: SPX, ICAO: HESX), Mısır'ın Kahire kentinin batı yakasındaki Gize şehrine hizmet veren bir sivil havalimanıdır. == Tarihçesi == Ekim 2017'de, havalimanının 2018 yazında ticari uçuşlara açılacağı ve Ekim 2018'de deneysel operasyonlara başlanacağı duyuruldu. Ocak 2019'da EgyptAir Express, Hurghada, Şarm El Şeyh, Luksor ve Asvan'a test uçuşları başlattı. 1 Ocak 2020'de havalimanı, Fly Jordan tarafından işletilen Ürdün'den ilk uluslararası uçuşunu aldı. 2 Kasım 2022'de Şarm El Şeyh'ten Sphinx Havalimanı'na tarifeli uçuşlar başladı. Havalimanı faaliyette ancak hala tam kapasitesine ulaşmadı. == Yapılar == Havaalimanı, bitişiğindeki Kahire Batı Hava Üssü ile bazı altyapıları paylaşır ve Kahire-İskenderiye çöl yolu üzerinde bulunmaktadır. Ana pist (16R/34L), Kahire Batı pist kompleksinin 2 kilometre (1,2 mi) batısındadır. Apron ve terminal pistin batı tarafındadır. Kahire Batı TACAN (Kimlik: BLA) sahada yer alır. Kahire VOR-DME (Kimlik: CVO) havalimanının 256 deniz mili (474 km) doğusunda yer alır. Aralık 2020'de, havalimanının toplam alanının 4.500 ila 23.000 metrekare (48.000 ila 248.000 fitkare) artırılarak genişletildiği ve artık saatlik 300 yolcu yerine 900 yolcu kapasitesine sahip olduğu açıklandı. Bu, Büyük Mısır Müzesi'nin açılması sonucunda beklenen yolcu trafiğindeki artışı karşılamak içindi. Havalimanı binasının 6.500 metrekare (70.000 fitkare) bir seyahat salonu, 7.000 metrekarelik bir varış salonu, 1.000 metrekarelik bir yiyecek ve içecek alanı, gümrüksüz satış mağazaları, pasaport ofisleri, bir X-ray alanı ve 28 check-in kontuarı içermesi bekleniyor. Buna ek olarak bir bankacılık ve karantina alanı, bir bagaj teslim alanı, sekiz pasaport kontuarı, sekiz yürüyen merdiven ve 1.440 tonluk soğutma kapasiteli bir soğutma tesisi bulunmaktadır. == Hava yolları ve uçuş noktaları == Aşağıdaki havayolları Giza Sphinx Havalimanı'nda düzenli tarifeli ve charter uçuşlar gerçekleştirmektedir: == Ayrıca bakınız == Mısır'daki havalimanlarının listesi Mısır'da Ulaşım Kahire Uluslararası Havalimanı Capital Uluslararası Havalimanı Mısır'ın yeni başkenti == Kaynakça == == Dış bağlantılar == Great Circle Mapper – Cairo West AB Havacılık Güvenlik Ağı'nda HECW için kaza geçmişi (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 299,
+      "char_count": 2249,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.389008",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 149,
+      "content": "Sphinx Uluslararası Havalimanı (IATA: SPX, ICAO: HESX), Mısır'ın Kahire kentinin batı yakasındaki Gize şehrine hizmet veren bir sivil havalimanıdır.",
+      "char_count": 148,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçesi ==",
+      "heading_path": "== Tarihçesi ==",
+      "start_char": 149,
+      "end_char": 631,
+      "content": "== Tarihçesi == Ekim 2017'de, havalimanının 2018 yazında ticari uçuşlara açılacağı ve Ekim 2018'de deneysel operasyonlara başlanacağı duyuruldu. Ocak 2019'da EgyptAir Express, Hurghada, Şarm El Şeyh, Luksor ve Asvan'a test uçuşları başlattı. 1 Ocak 2020'de havalimanı, Fly Jordan tarafından işletilen Ürdün'den ilk uluslararası uçuşunu aldı. 2 Kasım 2022'de Şarm El Şeyh'ten Sphinx Havalimanı'na tarifeli uçuşlar başladı. Havalimanı faaliyette ancak hala tam kapasitesine ulaşmadı.",
+      "char_count": 481,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0002",
+      "section": "== Yapılar ==",
+      "heading_path": "== Yapılar ==",
+      "start_char": 631,
+      "end_char": 1631,
+      "content": "== Yapılar == Havaalimanı, bitişiğindeki Kahire Batı Hava Üssü ile bazı altyapıları paylaşır ve Kahire-İskenderiye çöl yolu üzerinde bulunmaktadır. Ana pist (16R/34L), Kahire Batı pist kompleksinin 2 kilometre (1,2 mi) batısındadır. Apron ve terminal pistin batı tarafındadır. Kahire Batı TACAN (Kimlik: BLA) sahada yer alır. Kahire VOR-DME (Kimlik: CVO) havalimanının 256 deniz mili (474 km) doğusunda yer alır. Aralık 2020'de, havalimanının toplam alanının 4.500 ila 23.000 metrekare (48.000 ila 248.000 fitkare) artırılarak genişletildiği ve artık saatlik 300 yolcu yerine 900 yolcu kapasitesine sahip olduğu açıklandı. Bu, Büyük Mısır Müzesi'nin açılması sonucunda beklenen yolcu trafiğindeki artışı karşılamak içindi. Havalimanı binasının 6.500 metrekare (70.000 fitkare) bir seyahat salonu, 7.000 metrekarelik bir varış salonu, 1.000 metrekarelik bir yiyecek ve içecek alanı, gümrüksüz satış mağazaları, pasaport ofisleri, bir X-ray alanı ve 28 check-in kontuarı içermesi bekleniyor. Buna ek ol",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Yapılar ==",
+      "heading_path": "== Yapılar ==",
+      "start_char": 1431,
+      "end_char": 1811,
+      "content": "00 metrekarelik bir varış salonu, 1.000 metrekarelik bir yiyecek ve içecek alanı, gümrüksüz satış mağazaları, pasaport ofisleri, bir X-ray alanı ve 28 check-in kontuarı içermesi bekleniyor. Buna ek olarak bir bankacılık ve karantina alanı, bir bagaj teslim alanı, sekiz pasaport kontuarı, sekiz yürüyen merdiven ve 1.440 tonluk soğutma kapasiteli bir soğutma tesisi bulunmaktadır.",
+      "char_count": 380,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0004",
+      "section": "== Hava yolları ve uçuş noktaları ==",
+      "heading_path": "== Hava yolları ve uçuş noktaları ==",
+      "start_char": 1812,
+      "end_char": 1956,
+      "content": "== Hava yolları ve uçuş noktaları == Aşağıdaki havayolları Giza Sphinx Havalimanı'nda düzenli tarifeli ve charter uçuşlar gerçekleştirmektedir:",
+      "char_count": 143,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1956,
+      "end_char": 2115,
+      "content": "== Ayrıca bakınız == Mısır'daki havalimanlarının listesi Mısır'da Ulaşım Kahire Uluslararası Havalimanı Capital Uluslararası Havalimanı Mısır'ın yeni başkenti",
+      "char_count": 158,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2130,
+      "end_char": 2249,
+      "content": "== Dış bağlantılar == Great Circle Mapper – Cairo West AB Havacılık Güvenlik Ağı'nda HECW için kaza geçmişi (İngilizce)",
+      "char_count": 119,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Aralık 2020'deki genişletme sonrasında havalimanının saatlik yolcu kapasitesi ne kadar olmuştur?",
+        "answer": "Havalimanının saatlik 900 yolcu kapasitesine sahip olduğu açıklandı.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Giza'ya hizmet veren Sphinx Uluslararası Havalimanı'nın geliştirilmesi ve genişletilmesi, konumu ve beklenen turist trafiği artışı ile nasıl bir ilişki içindedir?",
+        "answer": "Giza'nın batı yakasında yer alan Sphinx Uluslararası Havalimanı'nın ticari uçuşlara açılacağı 2017'de duyurulmuş ve 2018'de deneysel operasyonlara başlamıştır. Büyük Mısır Müzesi'nin açılmasıyla beklenen yolcu trafiği artışını karşılamak amacıyla Aralık 2020'de havalimanının toplam alanı 4.500 ila 23.000 metrekareye genişletilmiş, saatlik 300 yolcu kapasitesinden 900 yolcu kapasitesine çıkarılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

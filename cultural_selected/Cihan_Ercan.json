@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "cihanercan_af436168",
+    "title": "Cihan Ercan",
+    "url": "https://tr.wikipedia.org/wiki/Cihan_Ercan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:37.876761",
+    "content": "Mehmet Cihan Ercan (d. 25 Mayıs 1984, Ankara), Türk oyuncu ve seslendirme sanatçısıdır. == Hayatı == 1984 Ankara doğumludur. 2006 yılında Ankara Üniversitesi Dil ve Tarih Coğrafya Fakültesi Tiyatro Bölümü - Oyunculuk Ana Sanat Dalı'ndan mezun olmuştur. Ankara'da Tiyatro ve Seslendirme çalışmaları yapmıştır. Leyla ile Mecnun dizisinde canlandırdığı Hidayet karakteri ile tanınmıştır. Ardından sırasıyla Ben de Özledim, No 309 ve Erkenci Kuş gibi dizilerde; Deliha, Bana Masal Anlatma, Kara Bela, Kaçma Birader gibi sinema filmlerinde rol almıştır. Halen tiyatro, sinema ve televizyon çalışmalarına devam etmektedir. == Filmografisi == 2006 - \"Ah Şu Çocuklar\" 2007 - \"Suç Dosyası\" 2007 - \"Bitmeyen Makara\" 2009 - \"Komşu Köyün Delisi\" 2011 - \"Bir Ömür Yetmez\" 2012 - \"Leyla ile Mecnun\" - Hidayet 2013 - \"Erkek Tarafı - Testosteron\" - Seçkin 2013 - \"Ben de Özledim\" - Cihan 2014 - \"Deliha\" - Cemal 2014 - \"Bana Masal Anlatma\" - Kubilay 2015 - \"Kara Bela\" - Efkan 2016 - \"Kaçma Birader\" - Halil 2016-2017 - \"No 309\" - Erol Sarıhan 2016 - \"Çetin Ceviz\" (TV Filmi) - Ahmet 2017 - \"Salur Kazan: Zoraki Kahraman\" - Cellat 2018 - \"Erkenci Kuş\" - Muzaffer Kaya (Zebercet) 2018 - \"Arapsaçı\" - Yusuf 2022 - \"Aşk Çağırırsan Gelir\" - Buğra 2022 - \"Senden Daha Güzel\" - Yaşar 2025 - \"Bir İhtimal Daha Var\" - Erkut == Tiyatro oyunları == 2007: Bir Karşılaşma Bir Nedir? 2006: Belgelerle Kurtuluş Savaşı 2006: Çıkışyok Land Cumhuriyeti 2006: Akıllı Daha Akıllı Daha Daha Akıllı 2006: Keşanlı Ali Destanı (Meddah Gösterisi) 2006: Sersem Kocanın Kurnaz Karısı == Kaynakça == 26 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi. 26 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi.  26 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi. == Dış bağlantılar == 27 Ağustos 2015 tarihinde Wayback Machine sitesinde arşivlendi. 26 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi. 19 Şubat 2017 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 305,
+      "char_count": 1957,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.617840",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 88,
+      "content": "Mehmet Cihan Ercan (d. 25 Mayıs 1984, Ankara), Türk oyuncu ve seslendirme sanatçısıdır.",
+      "char_count": 87,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 88,
+      "end_char": 617,
+      "content": "== Hayatı == 1984 Ankara doğumludur. 2006 yılında Ankara Üniversitesi Dil ve Tarih Coğrafya Fakültesi Tiyatro Bölümü - Oyunculuk Ana Sanat Dalı'ndan mezun olmuştur. Ankara'da Tiyatro ve Seslendirme çalışmaları yapmıştır. Leyla ile Mecnun dizisinde canlandırdığı Hidayet karakteri ile tanınmıştır. Ardından sırasıyla Ben de Özledim, No 309 ve Erkenci Kuş gibi dizilerde; Deliha, Bana Masal Anlatma, Kara Bela, Kaçma Birader gibi sinema filmlerinde rol almıştır. Halen tiyatro, sinema ve televizyon çalışmalarına devam etmektedir.",
+      "char_count": 528,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0002",
+      "section": "== Filmografisi ==",
+      "heading_path": "== Filmografisi ==",
+      "start_char": 617,
+      "end_char": 1300,
+      "content": "== Filmografisi == 2006 - \"Ah Şu Çocuklar\" 2007 - \"Suç Dosyası\" 2007 - \"Bitmeyen Makara\" 2009 - \"Komşu Köyün Delisi\" 2011 - \"Bir Ömür Yetmez\" 2012 - \"Leyla ile Mecnun\" - Hidayet 2013 - \"Erkek Tarafı - Testosteron\" - Seçkin 2013 - \"Ben de Özledim\" - Cihan 2014 - \"Deliha\" - Cemal 2014 - \"Bana Masal Anlatma\" - Kubilay 2015 - \"Kara Bela\" - Efkan 2016 - \"Kaçma Birader\" - Halil 2016-2017 - \"No 309\" - Erol Sarıhan 2016 - \"Çetin Ceviz\" (TV Filmi) - Ahmet 2017 - \"Salur Kazan: Zoraki Kahraman\" - Cellat 2018 - \"Erkenci Kuş\" - Muzaffer Kaya (Zebercet) 2018 - \"Arapsaçı\" - Yusuf 2022 - \"Aşk Çağırırsan Gelir\" - Buğra 2022 - \"Senden Daha Güzel\" - Yaşar 2025 - \"Bir İhtimal Daha Var\" - Erkut",
+      "char_count": 682,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0003",
+      "section": "== Tiyatro oyunları ==",
+      "heading_path": "== Tiyatro oyunları ==",
+      "start_char": 1300,
+      "end_char": 1542,
+      "content": "== Tiyatro oyunları == 2007: Bir Karşılaşma Bir Nedir? 2006: Belgelerle Kurtuluş Savaşı 2006: Çıkışyok Land Cumhuriyeti 2006: Akıllı Daha Akıllı Daha Daha Akıllı 2006: Keşanlı Ali Destanı (Meddah Gösterisi) 2006: Sersem Kocanın Kurnaz Karısı",
+      "char_count": 241,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1542,
+      "end_char": 1747,
+      "content": "== Kaynakça == 26 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi. 26 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi.  26 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 204,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1747,
+      "end_char": 1957,
+      "content": "== Dış bağlantılar == 27 Ağustos 2015 tarihinde Wayback Machine sitesinde arşivlendi. 26 Temmuz 2020 tarihinde Wayback Machine sitesinde arşivlendi. 19 Şubat 2017 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 210,
+      "token_estimate": 52
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "No 309 dizisinde canlandırılan karakterin adı nedir?",
+        "answer": "Erol Sarıhan",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mehmet Cihan Ercan'ın oyunculuk kariyeri nasıl gelişmiş ve hangi önemli yapımlarda rol alarak tanınmıştır?",
+        "answer": "Mehmet Cihan Ercan, 2006 yılında Ankara Üniversitesi Dil ve Tarih Coğrafya Fakültesi Tiyatro Bölümü - Oyunculuk Ana Sanat Dalı'ndan mezun olduktan sonra Ankara'da tiyatro ve seslendirme çalışmaları yapmıştır. Leyla ile Mecnun dizisinde canlandırdığı Hidayet karakteri ile tanınmış, ardından Ben de Özledim, No 309 ve Erkenci Kuş gibi dizilerde; Deliha, Bana Masal Anlatma, Kara Bela ve Kaçma Birader gibi sinema filmlerinde rol almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

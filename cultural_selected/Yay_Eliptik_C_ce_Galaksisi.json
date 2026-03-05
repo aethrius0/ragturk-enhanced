@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "yayeliptikccegalaksi_bf7c7ab8",
+    "title": "Yay Eliptik Cüce Galaksisi",
+    "url": "https://tr.wikipedia.org/wiki/Yay_Eliptik_C%C3%BCce_Galaksisi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:50.236998",
+    "content": "Yay Eliptik Cüce Galaksisi (SagDEG) Samanyolu galaksisinin uydusu olan bir cüce eliptik galaksidır. Ana küme, 1994 yılında keşfedilmiştir. Çapı yaklaşık 10.000 ışık yılı olan galaksi, Dünya'dan 70.000 ışık yılı uzaklıktadır ve Samanyolu çekirdeğine 50.000 ışık yılı uzaklıktaki bir yörüngede seyahat etmektedir. SagDEG, 3,4 milyon ışık yılı uzaklıktaki küçük bir galaksi olan Yay Düzensiz Cüce Galaksisi (SagDIG) ile karıştırılmamalıdır. == Özellikleri == Resmi olarak Rodrigo Ibata, Mike Irwin ve Gerry Gilmore tarafından 1994 yılında keşfedilen SagDEG, keşfedildiğinde Samanyolu'na bilinen en yakın komşu olarak tanındı. (2003 yılından bu yana, yeni keşfedilen Büyük Köpek Cüce Galaksisi en yakın komşu olarak kabul edilir). Dünya'nın konumuna göre Galaksi çekirdeğinin karşı tarafında yer alır ve gökyüzünde geniş bir alanı kaplamasına karşın oldukça soluktur. SagDEG, küçük yıldızlararası toz ve Popülasyon II yıldızlarının çokluğuyla yaşlı bir galaksi gibi görünür ve Samanyolu'na göre metal fakiri bir galaksidir. === Küresel kümeler === SagDEG, görünüşte çekirdeğinde olduğu düşünülen Messier 54 ile birlikte dört küresel kümeye sahiptir. Diğer küresel kümeler; Terzan 7, Terzan 8 ve Arp 2'dir. == Kaynakça == == Ayrıca bakınız == Messier 54 Omega Erboğa == Dış bağlantılar == 26 Eylül 2003 tarihinde Wayback Machine sitesinde arşivlendi. SagDEG23 Nisan 2008 tarihinde Wayback Machine sitesinde arşivlendi. (SEDS) SagDEG24 Mart 2017 tarihinde Wayback Machine sitesinde arşivlendi. solstation.com",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 206,
+      "char_count": 1502,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.069166",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 438,
+      "content": "Yay Eliptik Cüce Galaksisi (SagDEG) Samanyolu galaksisinin uydusu olan bir cüce eliptik galaksidır. Ana küme, 1994 yılında keşfedilmiştir. Çapı yaklaşık 10.000 ışık yılı olan galaksi, Dünya'dan 70.000 ışık yılı uzaklıktadır ve Samanyolu çekirdeğine 50.000 ışık yılı uzaklıktaki bir yörüngede seyahat etmektedir. SagDEG, 3,4 milyon ışık yılı uzaklıktaki küçük bir galaksi olan Yay Düzensiz Cüce Galaksisi (SagDIG) ile karıştırılmamalıdır.",
+      "char_count": 437,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 438,
+      "end_char": 1020,
+      "content": "== Özellikleri == Resmi olarak Rodrigo Ibata, Mike Irwin ve Gerry Gilmore tarafından 1994 yılında keşfedilen SagDEG, keşfedildiğinde Samanyolu'na bilinen en yakın komşu olarak tanındı. (2003 yılından bu yana, yeni keşfedilen Büyük Köpek Cüce Galaksisi en yakın komşu olarak kabul edilir). Dünya'nın konumuna göre Galaksi çekirdeğinin karşı tarafında yer alır ve gökyüzünde geniş bir alanı kaplamasına karşın oldukça soluktur. SagDEG, küçük yıldızlararası toz ve Popülasyon II yıldızlarının çokluğuyla yaşlı bir galaksi gibi görünür ve Samanyolu'na göre metal fakiri bir galaksidir.",
+      "char_count": 581,
+      "token_estimate": 145
+    },
+    {
+      "id": "c0002",
+      "section": "=== Küresel kümeler ===",
+      "heading_path": "=== Küresel kümeler ===",
+      "start_char": 1020,
+      "end_char": 1202,
+      "content": "=== Küresel kümeler === SagDEG, görünüşte çekirdeğinde olduğu düşünülen Messier 54 ile birlikte dört küresel kümeye sahiptir. Diğer küresel kümeler; Terzan 7, Terzan 8 ve Arp 2'dir.",
+      "char_count": 181,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1217,
+      "end_char": 1262,
+      "content": "== Ayrıca bakınız == Messier 54 Omega Erboğa",
+      "char_count": 44,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1262,
+      "end_char": 1502,
+      "content": "== Dış bağlantılar == 26 Eylül 2003 tarihinde Wayback Machine sitesinde arşivlendi. SagDEG23 Nisan 2008 tarihinde Wayback Machine sitesinde arşivlendi. (SEDS) SagDEG24 Mart 2017 tarihinde Wayback Machine sitesinde arşivlendi. solstation.com",
+      "char_count": 240,
+      "token_estimate": 60
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "SagDEG, kimler tarafından ve hangi yıl keşfedildi?",
+        "answer": "Rodrigo Ibata, Mike Irwin ve Gerry Gilmore tarafından 1994 yılında keşfedildi.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yay Eliptik Cüce Galaksisi (SagDEG) Samanyolu'nun bir uydusu olarak nasıl tanımlanır ve bu galaksinin keşfedildiğinde bilinen en yakın komşu olmasına rağmen yaşlı ve soluk bir yapıda olduğunun göstergeleri nelerdir?",
+        "answer": "Yay Eliptik Cüce Galaksisi (SagDEG), Samanyolu galaksisinin bir uydusu olan cüce eliptik bir galaksidir. Rodrigo Ibata, Mike Irwin ve Gerry Gilmore tarafından 1994 yılında keşfedildiğinde Samanyolu'na bilinen en yakın komşu olarak tanımlanmıştı. Yaşlı ve soluk bir yapıya sahip olduğunun göstergeleri arasında, Dünya'nın konumuna göre Galaksi çekirdeğinin karşı tarafında yer almasına rağmen gökyüzünde geniş bir alanı kaplaması, oldukça soluk olması, küçük yıldızlararası toz ve Popülasyon II yıldızlarının çokluğuyla yaşlı bir galaksi gibi görünmesi ve Samanyolu'na göre metal fakiri olması sayılabilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

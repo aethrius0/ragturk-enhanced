@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "olgudeerayrm_aec4088c",
+    "title": "Olgu-değer ayrımı",
+    "url": "https://tr.wikipedia.org/wiki/Olgu-de%C4%9Fer_ayr%C4%B1m%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:00.770250",
+    "content": "Olgu-değer ayrımı, epistemolojik bir ayrımdır: Olgusal önermeler veya olgu önermeleri gerekçeye ve fiziksel gözleme dayanır. Empirik yöntemle incelenirler. Ahlaki önermeler veya değer önermeleri etik ve estetiğin alanına girer. Aksioloji alanında incelenirler. 'Olgu' ile 'değer' arasındaki bu bariyer olgusal argümanlardan ahlaki iddialar türetmeyi ya da tersini imkansız hale getiriyor. Olgu-değer ayrımı ilk kez Hume tarafından dile getirilen olan-olması gereken sorunundan devşirilmiştir. Bununla birlikte, sıklıkla birbirleri yerine kullanılırlar. == David Hume'un kuşkuculuğu == David Hume'un 1739'da yayımladığı İnsan Doğası Üzerine bir İnceleme adlı eserinde olgusal önermeler ve ahlaki önermeler üzerinden olan ve olması gerekenler arasındaki ilişkiyi tartıştı. Hume'a göre bu mesele, ahlak felsefesinin temel sorunuydu. Hume, Aydınlanma Çağı'ndaki Britanyalı filozoflar John Locke ve Thomas Hobbes'un görüşlerini paylaşıyordu. Hume özellikle, Avrupa toplumunu bir derece bölen dinin ve ulusal düşmanlıkların temelsiz inançlara dayandığını savundu. Gerçekte o, bu tür düşmanlıkların doğada bulunmadığını, ancak belirli bir zaman ve yere bağlı bir insan yaratımı olduğunu ve dolayısıyla ölümlü çatışmaya değmediğini iddia etti. == Doğalcılık yanılgısı == Olgu-değer ayrımı, ahlak felsefesi tartışmalarında ele alınan doğalcılık yanılgısıyla yakından ilişkilidir. George Edward Moore, bunun etik düşüncenin temelinde bulunduğunu savunuyordu ancak kimi günümüz düşünürleri buna katılmamaktadır. == Ahlakçılık yanılgısı == Olgu-değer ayrımı ahlakçılık yanılgısıyla da yakından ilişkilidir. \"Herkesin eşit olması gerektiği için insanlar arasında doğuştan gelen bir fark yoktur.\" önermesi ahlakçılık yanılgısına bir örnektir. Doğalcılık yanılgısı ise bunun tam tersini yaparak olandan olması gerekene geçmektir. == Ayrıca bakınız == Yeni Kantcılık Deneycilik Görecilik Hakikat sonrası == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 237,
+      "char_count": 1902,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.974037",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 553,
+      "content": "Olgu-değer ayrımı, epistemolojik bir ayrımdır: Olgusal önermeler veya olgu önermeleri gerekçeye ve fiziksel gözleme dayanır. Empirik yöntemle incelenirler. Ahlaki önermeler veya değer önermeleri etik ve estetiğin alanına girer. Aksioloji alanında incelenirler. 'Olgu' ile 'değer' arasındaki bu bariyer olgusal argümanlardan ahlaki iddialar türetmeyi ya da tersini imkansız hale getiriyor. Olgu-değer ayrımı ilk kez Hume tarafından dile getirilen olan-olması gereken sorunundan devşirilmiştir. Bununla birlikte, sıklıkla birbirleri yerine kullanılırlar.",
+      "char_count": 552,
+      "token_estimate": 138
+    },
+    {
+      "id": "c0001",
+      "section": "== David Hume'un kuşkuculuğu ==",
+      "heading_path": "== David Hume'un kuşkuculuğu ==",
+      "start_char": 553,
+      "end_char": 1236,
+      "content": "== David Hume'un kuşkuculuğu == David Hume'un 1739'da yayımladığı İnsan Doğası Üzerine bir İnceleme adlı eserinde olgusal önermeler ve ahlaki önermeler üzerinden olan ve olması gerekenler arasındaki ilişkiyi tartıştı. Hume'a göre bu mesele, ahlak felsefesinin temel sorunuydu. Hume, Aydınlanma Çağı'ndaki Britanyalı filozoflar John Locke ve Thomas Hobbes'un görüşlerini paylaşıyordu. Hume özellikle, Avrupa toplumunu bir derece bölen dinin ve ulusal düşmanlıkların temelsiz inançlara dayandığını savundu. Gerçekte o, bu tür düşmanlıkların doğada bulunmadığını, ancak belirli bir zaman ve yere bağlı bir insan yaratımı olduğunu ve dolayısıyla ölümlü çatışmaya değmediğini iddia etti.",
+      "char_count": 682,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0002",
+      "section": "== Doğalcılık yanılgısı ==",
+      "heading_path": "== Doğalcılık yanılgısı ==",
+      "start_char": 1236,
+      "end_char": 1501,
+      "content": "== Doğalcılık yanılgısı == Olgu-değer ayrımı, ahlak felsefesi tartışmalarında ele alınan doğalcılık yanılgısıyla yakından ilişkilidir. George Edward Moore, bunun etik düşüncenin temelinde bulunduğunu savunuyordu ancak kimi günümüz düşünürleri buna katılmamaktadır.",
+      "char_count": 264,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0003",
+      "section": "== Ahlakçılık yanılgısı ==",
+      "heading_path": "== Ahlakçılık yanılgısı ==",
+      "start_char": 1501,
+      "end_char": 1815,
+      "content": "== Ahlakçılık yanılgısı == Olgu-değer ayrımı ahlakçılık yanılgısıyla da yakından ilişkilidir. \"Herkesin eşit olması gerektiği için insanlar arasında doğuştan gelen bir fark yoktur.\" önermesi ahlakçılık yanılgısına bir örnektir. Doğalcılık yanılgısı ise bunun tam tersini yaparak olandan olması gerekene geçmektir.",
+      "char_count": 313,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1815,
+      "end_char": 1888,
+      "content": "== Ayrıca bakınız == Yeni Kantcılık Deneycilik Görecilik Hakikat sonrası",
+      "char_count": 72,
+      "token_estimate": 18
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "David Hume'un 1739'da yayımladığı eserin adı nedir?",
+        "answer": "İnsan Doğası Üzerine bir İnceleme",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "David Hume'un \"olan-olması gereken sorunu\" hakkındaki tartışması ve bunun olgu-değer ayrımı ile olan bağlantısı, onun Avrupa toplumundaki din ve ulusal düşmanlıklar gibi bölünmelere yönelik şüpheciliğini nasıl güçlendirmektedir?",
+        "answer": "Hume'un \"olan-olması gereken sorunu\"na ilişkin tartışması, olgusal argümanlardan ahlaki iddialar türetmenin imkansızlığını gösteren bir olgu-değer ayrımı oluşturur. Bu ayrım, ahlak felsefesinin temel sorunu olarak görülmüş ve Hume'un, Avrupa'yı bölen din ve ulusal düşmanlıkların doğal olmayan, temelsiz inançlara dayalı insan yaratımları olduğu yönündeki şüpheci argümanını desteklemiştir; çünkü bu tür çatışmalar olgusal bir temele dayanmaktan ziyade ahlaki veya değere dayalı iddialardır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

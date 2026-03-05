@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "kurunkalemedebiyatde_54c0618f",
+    "title": "Kurşun Kalem Edebiyat Dergisi",
+    "url": "https://tr.wikipedia.org/wiki/Kur%C5%9Fun_Kalem_Edebiyat_Dergisi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:01.041802",
+    "content": "Kurşun Kalem Edebiyat Dergisi, 2009 yılından yayımlanmaya başlamış 3 ayda bir yayımlanan İzmir merkezli bir edebiyat dergisi. Şair Mine Ömer editörlüğünde çıkarılan dergi, Nezih-Er Yayınları bünyesinde yayımlanır ve Türkiye'nin çeşitli şehirlerindeki kitapevlerinde satılır. Başlangıçta iki ayda bir yayımlanan dergi, 39. sayısından itibaren 3 ayda bir yayımlanmaya başlamıştır. İlk sayıları tek renk, ciltsiz ve 24 sayfa olan Kurşun Kalem, Eylül-Ekim 2013 tarihli 25. sayısından itibaren renkli karton kapakla, Temmuz-Ağustos 2014'ten itibaren ise ciltli ve 112 sayfa olarak yayımlanmıştır. Dergi öncülüğünde düzenlenen projeler kapsamında bazı eserler üretilmiştir. 2014 yılında 32 kadın yazarın kadına yönelik şiddete dair öykülerinin derlendiği Kadınların Ruh Acıları adlı öykü kitabı, bu eserlerden birsidir. Nisan 2015'te ise Kurşun Kalem dergisinin öncülüğünde Egeli kadın yazarların anne-kız ilişkilerini anlatan ökülerinin derlendiği Anneler ve Kızları adlı kitap yayımlanmıştır. == İçerik == Dergide başta şiir, öykü, deneme olmak üzere birçok farklı türdeki yazınsal ürünlere yer verilir. Genç öykücülerin ve şairlerin ürünleri, yayın kurulu tarafından değerlendirilerek \"Yakından Geçen Öyküler \" başlığı altında, yayımlanır. Dergi yazarları her sayı için belirlenen, özel bir dosya konusu için içerik üretirler. Derginin farklı sayılarda hazırladığı dosya konularından bazıları şunlardır: Sayı 58: Kuşak Sayı 56: Sanatta, Efsanelerde Antik Kentler, Mitolojik Varlıklar Sayı 55: Sanatta Kuşku Sayı 47: Varoluş, Sonsuzluk, Yalnızlık Sayı 46: Fantazya Sayı 45: Sanatta Korku Sayı 36: Şiirlerde Kadın Sayı 31: Haiku Sayı 29: Savaş ve Sanat == Kurşun Kalem Öykü Yarışması == Dergi, genç yazarları öykü yazmaya teşvik etmek için 2013 - 2016 yıllarında bir öykü yarışması düzenlemiştir. 2013'te Yoldan Çıkanlar adlı kitabı ile Hakan Balcı, 2014'te Zamanın Kızgın Yüzü adlı kitabıyla Hamide Gönen, 2015) Mina adlı kitabıyla Zeynep Çolakoğlu ödüle değer görülmüştür. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 269,
+      "char_count": 1984,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.122786",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 989,
+      "content": "Kurşun Kalem Edebiyat Dergisi, 2009 yılından yayımlanmaya başlamış 3 ayda bir yayımlanan İzmir merkezli bir edebiyat dergisi. Şair Mine Ömer editörlüğünde çıkarılan dergi, Nezih-Er Yayınları bünyesinde yayımlanır ve Türkiye'nin çeşitli şehirlerindeki kitapevlerinde satılır. Başlangıçta iki ayda bir yayımlanan dergi, 39. sayısından itibaren 3 ayda bir yayımlanmaya başlamıştır. İlk sayıları tek renk, ciltsiz ve 24 sayfa olan Kurşun Kalem, Eylül-Ekim 2013 tarihli 25. sayısından itibaren renkli karton kapakla, Temmuz-Ağustos 2014'ten itibaren ise ciltli ve 112 sayfa olarak yayımlanmıştır. Dergi öncülüğünde düzenlenen projeler kapsamında bazı eserler üretilmiştir. 2014 yılında 32 kadın yazarın kadına yönelik şiddete dair öykülerinin derlendiği Kadınların Ruh Acıları adlı öykü kitabı, bu eserlerden birsidir. Nisan 2015'te ise Kurşun Kalem dergisinin öncülüğünde Egeli kadın yazarların anne-kız ilişkilerini anlatan ökülerinin derlendiği Anneler ve Kızları adlı kitap yayımlanmıştır.",
+      "char_count": 988,
+      "token_estimate": 247
+    },
+    {
+      "id": "c0001",
+      "section": "== İçerik ==",
+      "heading_path": "== İçerik ==",
+      "start_char": 989,
+      "end_char": 1648,
+      "content": "== İçerik == Dergide başta şiir, öykü, deneme olmak üzere birçok farklı türdeki yazınsal ürünlere yer verilir. Genç öykücülerin ve şairlerin ürünleri, yayın kurulu tarafından değerlendirilerek \"Yakından Geçen Öyküler \" başlığı altında, yayımlanır. Dergi yazarları her sayı için belirlenen, özel bir dosya konusu için içerik üretirler. Derginin farklı sayılarda hazırladığı dosya konularından bazıları şunlardır: Sayı 58: Kuşak Sayı 56: Sanatta, Efsanelerde Antik Kentler, Mitolojik Varlıklar Sayı 55: Sanatta Kuşku Sayı 47: Varoluş, Sonsuzluk, Yalnızlık Sayı 46: Fantazya Sayı 45: Sanatta Korku Sayı 36: Şiirlerde Kadın Sayı 31: Haiku Sayı 29: Savaş ve Sanat",
+      "char_count": 658,
+      "token_estimate": 164
+    },
+    {
+      "id": "c0002",
+      "section": "== Kurşun Kalem Öykü Yarışması ==",
+      "heading_path": "== Kurşun Kalem Öykü Yarışması ==",
+      "start_char": 1648,
+      "end_char": 1970,
+      "content": "== Kurşun Kalem Öykü Yarışması == Dergi, genç yazarları öykü yazmaya teşvik etmek için 2013 - 2016 yıllarında bir öykü yarışması düzenlemiştir. 2013'te Yoldan Çıkanlar adlı kitabı ile Hakan Balcı, 2014'te Zamanın Kızgın Yüzü adlı kitabıyla Hamide Gönen, 2015) Mina adlı kitabıyla Zeynep Çolakoğlu ödüle değer görülmüştür.",
+      "char_count": 321,
+      "token_estimate": 80
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kurşun Kalem Edebiyat Dergisi hangi yıldan itibaren yayımlanmaya başlamıştır?",
+        "answer": "2009 yılından itibaren.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kurşun Kalem Edebiyat Dergisi'nin öncülüğünde yayımlanan kitap projeleri ile derginin genel yayın içeriği ve dosya konuları arasındaki bağlantı nedir?",
+        "answer": "Dergisinin öncülüğünde hazırlanan \"Kadınların Ruh Acıları\" ve \"Anneler ve Kızları\" gibi kitap projeleri, derginin içeriğinde öykü türüne yer vermesiyle uyumludur. Bu projelerin kadınların deneyimlerine odaklanması, derginin \"Şiirlerde Kadın\" gibi tematik dosya konularında belirli sosyal ve insani meseleleri işlemeye yönelik genel yaklaşımını yansıtır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

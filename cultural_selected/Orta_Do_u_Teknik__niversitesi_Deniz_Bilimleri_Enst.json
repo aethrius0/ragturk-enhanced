@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "ortadouteknikniversi_7bf3523b",
+    "title": "Orta Doğu Teknik Üniversitesi Deniz Bilimleri Enstitüsü",
+    "url": "https://tr.wikipedia.org/wiki/Orta_Do%C4%9Fu_Teknik_%C3%9Cniversitesi_Deniz_Bilimleri_Enstit%C3%BCs%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:13.820399",
+    "content": "Orta Doğu Teknik Üniversitesi Deniz Bilimleri Enstitüsü (ODTÜ DBE), denizlerde araştırma yapmak ve lisansüstü eğitim vermek için kurulmuş bir enstitüdür. DBE, 1975'te Orta Doğu Teknik Üniversitesi'nin Mersin şehir merkezinin 45 km batısında Doğu Akdeniz kıyısında yer alan Erdemli ilçesinde yerleşik Erdemli kampüsünde kuruldu. ODTÜ'nün Ankara dışında, 1973 yılında kurulmuş olan Gaziantep Yerleşkesinin (daha sonra Gaziantep Üniversitesi oldu) ardından ikinci dış yerleşke olma özelliğini taşıyan kampüste yaklaşık olarak 700 m² laboratuvar ve 660 bin m²den oluşan limon ağaçlarıyla çevrili alan vardır. Ayrıca 2 araştırma gemisi ve bir liman ile birlikte çalışanlar ve öğrenciler için konutlar da kampüs sınırları içerisindedir. == Tarih == Enstitü özetle tarihinde, Türkiye'yi çevreleyen denizler hakkında bilgilerimizi hızla arttıran sonuçları olan araştırmalar yapmaktadır. Bununla birlikte enstitü, denizlerimiz hakkında deniz doğasının korunması ve yönetimine yardımları olan bir veritabanı da bulundurmakta ve araştırmacıların hizmetine sunmaktadır. == Eğitim == Enstitüde üç ana bilim dalı bulunmaktadır: Deniz Biyolojisi ve Balıkçılık Deniz Jeolojisi ve Jeofiziği Oşinografi == Araştırma == Enstitü 421 gross tonluk bir açık deniz araştırma gemisi olan RV/Bilim-2'nin (Research Vessel/Bilim) de sahibidir. RV/Bilim-2 oşinografik araştırma gemisi olarak tasarlanmıştır. Enstitünün RV/Bilim-2 dışında Lamas ve yeni eklenen ODTÜ OLBA adında 2 küçük kıyısal alanda araştırma yapma kapasitesine sahip gemisi daha bulunmaktadır . == Ayrıca bakınız == UNESCO - IOC Project Office for IODE, Ostend (Belgium)17 Mart 2008 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça == == Dış bağlantılar == Deniz Bilimleri Enstitüsü",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 229,
+      "char_count": 1732,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.064761",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 731,
+      "content": "Orta Doğu Teknik Üniversitesi Deniz Bilimleri Enstitüsü (ODTÜ DBE), denizlerde araştırma yapmak ve lisansüstü eğitim vermek için kurulmuş bir enstitüdür. DBE, 1975'te Orta Doğu Teknik Üniversitesi'nin Mersin şehir merkezinin 45 km batısında Doğu Akdeniz kıyısında yer alan Erdemli ilçesinde yerleşik Erdemli kampüsünde kuruldu. ODTÜ'nün Ankara dışında, 1973 yılında kurulmuş olan Gaziantep Yerleşkesinin (daha sonra Gaziantep Üniversitesi oldu) ardından ikinci dış yerleşke olma özelliğini taşıyan kampüste yaklaşık olarak 700 m² laboratuvar ve 660 bin m²den oluşan limon ağaçlarıyla çevrili alan vardır. Ayrıca 2 araştırma gemisi ve bir liman ile birlikte çalışanlar ve öğrenciler için konutlar da kampüs sınırları içerisindedir.",
+      "char_count": 730,
+      "token_estimate": 182
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 731,
+      "end_char": 1058,
+      "content": "== Tarih == Enstitü özetle tarihinde, Türkiye'yi çevreleyen denizler hakkında bilgilerimizi hızla arttıran sonuçları olan araştırmalar yapmaktadır. Bununla birlikte enstitü, denizlerimiz hakkında deniz doğasının korunması ve yönetimine yardımları olan bir veritabanı da bulundurmakta ve araştırmacıların hizmetine sunmaktadır.",
+      "char_count": 326,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0002",
+      "section": "== Eğitim ==",
+      "heading_path": "== Eğitim ==",
+      "start_char": 1058,
+      "end_char": 1185,
+      "content": "== Eğitim == Enstitüde üç ana bilim dalı bulunmaktadır: Deniz Biyolojisi ve Balıkçılık Deniz Jeolojisi ve Jeofiziği Oşinografi",
+      "char_count": 126,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0003",
+      "section": "== Araştırma ==",
+      "heading_path": "== Araştırma ==",
+      "start_char": 1185,
+      "end_char": 1534,
+      "content": "== Araştırma == Enstitü 421 gross tonluk bir açık deniz araştırma gemisi olan RV/Bilim-2'nin (Research Vessel/Bilim) de sahibidir. RV/Bilim-2 oşinografik araştırma gemisi olarak tasarlanmıştır. Enstitünün RV/Bilim-2 dışında Lamas ve yeni eklenen ODTÜ OLBA adında 2 küçük kıyısal alanda araştırma yapma kapasitesine sahip gemisi daha bulunmaktadır .",
+      "char_count": 348,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1534,
+      "end_char": 1670,
+      "content": "== Ayrıca bakınız == UNESCO - IOC Project Office for IODE, Ostend (Belgium)17 Mart 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 135,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1685,
+      "end_char": 1732,
+      "content": "== Dış bağlantılar == Deniz Bilimleri Enstitüsü",
+      "char_count": 47,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Orta Doğu Teknik Üniversitesi Deniz Bilimleri Enstitüsü (ODTÜ DBE) ne zaman kurulmuştur?",
+        "answer": "ODTÜ Deniz Bilimleri Enstitüsü (ODTÜ DBE) 1975'te kurulmuştur.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Orta Doğu Teknik Üniversitesi Deniz Bilimleri Enstitüsü'nün (ODTÜ DBE) kuruluş amacı ve tarihsel süreçteki temel faaliyetleri nelerdir?",
+        "answer": "ODTÜ Deniz Bilimleri Enstitüsü, denizlerde araştırma yapmak ve lisansüstü eğitim vermek amacıyla kurulmuştur. Tarihsel olarak, Türkiye'yi çevreleyen denizler hakkındaki bilgiyi hızla artıran araştırmalar yapmakta ve deniz doğasının korunması ve yönetimine yardımcı olan bir veritabanını bulundurarak araştırmacıların hizmetine sunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

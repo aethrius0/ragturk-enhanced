@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "franoisguillaume_8f08b777",
+    "title": "François Guillaume",
+    "url": "https://tr.wikipedia.org/wiki/Fran%C3%A7ois_Guillaume",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:35.777165",
+    "content": "François Guillaume (d. 19 Ekim 1932, Ville-en-Vermois, (Meurthe-et-Moselle)), Fransız siyasetçi, eski bakan. == Hayatı == Lise eğitiminden sonra çiftçilik yapmış ve daha sonra Cezayir Savaşı'nda görev almıştır. 1981-1990 yıllarında Saint-Hubert Süt Endüstrisi'nin Başkanı olmuştur. Tarım sendikacılığında yer almış ve 1964-1968 yılları arasında Ulusal Genç Tarımcılar Merkezi (CNJA) başkanlığını üstlenmiş, daha sonra 1979-1986 yıllarında da Ulusal Tarım İşletmecileri Sendikaları Federasyonu başkanı olmuştur. 1964-1968 ve 1979-1986 yıllarında Ekonomik ve Sosyal Konsey üyesi ve 1975-1979 yıllarında da Avrupa Ekonomik ve Sosyal Komite üyesi olarak görev almıştır. 2. Jacques Chirac Hükümeti'nde Tarım Bakanı olmuştur. 1989'da Avrupa Parlamentosu'na seçilmiş, 1993-2007 yıllarında ise Fransa Ulusal Meclisi'nde Meurthe-et-Moselle milletvekili olarak yer almış ve 2007 miletvekili seçimlerinde tekrar aday olmamıştır. 2004 yılında idamın terörist hareketlerde kullanılması için geri getirilmesine dair kanun teklifinde bulunmuş ancak 2007 yılında ölüm cezasının hiçbir şekilde uygulanmayacağının anayasaya eklenmesine oy vermiştir. Aynı zamanda Debout la République (DLR, Ayakta Cumhuriyet) adlı partinin de üyesidir. === Görevleri === Yerel yönetimler Lorraine bölgesel konseyi üyesi Hükûmet 20 Mart 1986 - 10 Mayıs 1988: Tarım Bakanı Avrupa Parlamentosu 25 Temmuz 1989 - 18 Temmuz 1994: Avrupa Parlamentosu milletvekili Meclis 2 Nisan 1993 - 19 Haziran 2007: Meurthe-et-Moselle 4. seçim çevresi milletvekili 26 Kasım 1997 - 18 Haziran 2002: Meclis Küresel Gıda Politikasının Yeniden Dengelenmesi Çalışma Grubu Başkanı Diğer 1 Aralık 1964 - 30 Kasım 1968: Ekonomik ve Sosyal Konsey üyesi 3 Temmuz 1979 - 23 Mart 1986: Ekonomik ve Sosyal Konsey üyesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 237,
+      "char_count": 1765,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.469041",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 109,
+      "content": "François Guillaume (d. 19 Ekim 1932, Ville-en-Vermois, (Meurthe-et-Moselle)), Fransız siyasetçi, eski bakan.",
+      "char_count": 108,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 109,
+      "end_char": 1109,
+      "content": "== Hayatı == Lise eğitiminden sonra çiftçilik yapmış ve daha sonra Cezayir Savaşı'nda görev almıştır. 1981-1990 yıllarında Saint-Hubert Süt Endüstrisi'nin Başkanı olmuştur. Tarım sendikacılığında yer almış ve 1964-1968 yılları arasında Ulusal Genç Tarımcılar Merkezi (CNJA) başkanlığını üstlenmiş, daha sonra 1979-1986 yıllarında da Ulusal Tarım İşletmecileri Sendikaları Federasyonu başkanı olmuştur. 1964-1968 ve 1979-1986 yıllarında Ekonomik ve Sosyal Konsey üyesi ve 1975-1979 yıllarında da Avrupa Ekonomik ve Sosyal Komite üyesi olarak görev almıştır. 2. Jacques Chirac Hükümeti'nde Tarım Bakanı olmuştur. 1989'da Avrupa Parlamentosu'na seçilmiş, 1993-2007 yıllarında ise Fransa Ulusal Meclisi'nde Meurthe-et-Moselle milletvekili olarak yer almış ve 2007 miletvekili seçimlerinde tekrar aday olmamıştır. 2004 yılında idamın terörist hareketlerde kullanılması için geri getirilmesine dair kanun teklifinde bulunmuş ancak 2007 yılında ölüm cezasının hiçbir şekilde uygulanmayacağının anayasaya ekl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 909,
+      "end_char": 1217,
+      "content": "amıştır. 2004 yılında idamın terörist hareketlerde kullanılması için geri getirilmesine dair kanun teklifinde bulunmuş ancak 2007 yılında ölüm cezasının hiçbir şekilde uygulanmayacağının anayasaya eklenmesine oy vermiştir. Aynı zamanda Debout la République (DLR, Ayakta Cumhuriyet) adlı partinin de üyesidir.",
+      "char_count": 308,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0003",
+      "section": "=== Görevleri ===",
+      "heading_path": "=== Görevleri ===",
+      "start_char": 1218,
+      "end_char": 1751,
+      "content": "=== Görevleri === Yerel yönetimler Lorraine bölgesel konseyi üyesi Hükûmet 20 Mart 1986 - 10 Mayıs 1988: Tarım Bakanı Avrupa Parlamentosu 25 Temmuz 1989 - 18 Temmuz 1994: Avrupa Parlamentosu milletvekili Meclis 2 Nisan 1993 - 19 Haziran 2007: Meurthe-et-Moselle 4. seçim çevresi milletvekili 26 Kasım 1997 - 18 Haziran 2002: Meclis Küresel Gıda Politikasının Yeniden Dengelenmesi Çalışma Grubu Başkanı Diğer 1 Aralık 1964 - 30 Kasım 1968: Ekonomik ve Sosyal Konsey üyesi 3 Temmuz 1979 - 23 Mart 1986: Ekonomik ve Sosyal Konsey üyesi",
+      "char_count": 532,
+      "token_estimate": 133
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Saint-Hubert Süt Endüstrisi'nin Başkanı hangi yıllarda görev yapmıştır?",
+        "answer": "1981-1990 yılları arasında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "François Guillaume'u Meurthe-et-Moselle bölgesine hem doğumu hem de siyasi kariyeri açısından bağlayan nedir?",
+        "answer": "François Guillaume, Ville-en-Vermois, Meurthe-et-Moselle'de doğmuştur. Ayrıca 1993-2007 yılları arasında Fransa Ulusal Meclisi'nde Meurthe-et-Moselle milletvekili olarak görev yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "abbasmusavisuikast_9ebe8da5",
+    "title": "Abbas Musavi suikastı",
+    "url": "https://tr.wikipedia.org/wiki/Abbas_Musavi_suikast%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:23.593514",
+    "content": "16 Şubat 1992'de Hizbullah Genel Sekreteri Abbas Musavi, Güney Lübnan çatışması döneminde İsrail'in Lübnan'ın güneyinde aracına düzenlediği hava saldırısında öldürüldü. İsrail operasyona Gece Vakti Operasyonu (İbranice: מבצע שעת לילה) kod adını verdi. == Arka plan == İsrail Hava Kuvvetleri subayı Ron Arad'ın kaybolmasının ardından İsrail Askeri İstihbarat Dairesi (Aman) Başkanı Uri Sagi, Hizbullah'ın üst düzey isimlerinden Musavi'nin kaçırılması ve ileride yapılacak olası esir takası anlaşmalarında koz olarak kullanılması için planlar geliştirilmesi talimatını verdi. “Gece Vakti” (İbranice: שעת לילה) adı verilen operasyon IDF'nin iki özel birimi olan Sayeret Matkal ve Şayetet 13 tarafından yürütülecekti. Operasyon için hazırlıklar 16 Şubat 1992 tarihinde tamamlanacaktı. Ancak kaçırma planının yapıldığı gün Musavi'nin etrafının büyük bir kalabalıkla çevrili olduğu ve bu nedenle kaçırmanın pratik olmadığı anlaşıldı. Bunun üzerine IDF İstihbarat Direktörlüğü görevin hedefe yönelik bir saldırıya dönüştürülmesini önerdi. == Suikast == İsrail 24. Hükûmeti'nin onayının ardından İsrail Askeri İstihbarat Başkanı Uri Sagi ve Genelkurmay Başkanı Ehud Barak, İsrail Hava Kuvvetleri'ne ait bir helikopterin Güney Lübnan'da bir konvoyu hedef alan saldırısına izin verdi. İsrail Apache helikopterleri Lübnan'ın güneyinde Musavi'nin üç araçlık konvoyuna füze atarak El Musavi, eşi, beş yaşındaki oğlu ve diğer dört kişinin ölümüne neden oldu. İsrail daha sonra operasyonun önceden planlanmış bir suikast olduğunu doğruladı. == Sonrası == Suikastın ardından İslami Cihat Örgütü ve diğer örgütler 1992 Buenos Aires İsrail Büyükelçiliği bombalamasının yanı sıra AMIA bombalamasını da düzenlediler. Elçilik bombalaması, aralarında İsrail Dışişleri Bakanlığı'nın dört çalışanı ve dört Yahudi kadının da bulunduğu 28 kişinin ölümüyle sonuçlandı. İki yıl sonra meydana gelen AMIA bombalamasında ise 85 kişi hayatını kaybetti. Arjantin istihbarat raporu, Hizbullah'ın askeri kanadının başındaki İmad Muğniye'nin, diğer Hizbullah görevlileri ve İranlı yetkililerle birlikte AMIA bombalamasının planlanmasında kilit bir figür olduğu sonucuna varmıştır. == Ayrıca bakınız == Fuad Şükür Hasan Nasrallah suikastı 2024 İsrail'in Yemen'e saldırıları == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 294,
+      "char_count": 2251,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.622406",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 252,
+      "content": "16 Şubat 1992'de Hizbullah Genel Sekreteri Abbas Musavi, Güney Lübnan çatışması döneminde İsrail'in Lübnan'ın güneyinde aracına düzenlediği hava saldırısında öldürüldü. İsrail operasyona Gece Vakti Operasyonu (İbranice: מבצע שעת לילה) kod adını verdi.",
+      "char_count": 251,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0001",
+      "section": "== Arka plan ==",
+      "heading_path": "== Arka plan ==",
+      "start_char": 252,
+      "end_char": 1032,
+      "content": "== Arka plan == İsrail Hava Kuvvetleri subayı Ron Arad'ın kaybolmasının ardından İsrail Askeri İstihbarat Dairesi (Aman) Başkanı Uri Sagi, Hizbullah'ın üst düzey isimlerinden Musavi'nin kaçırılması ve ileride yapılacak olası esir takası anlaşmalarında koz olarak kullanılması için planlar geliştirilmesi talimatını verdi. “Gece Vakti” (İbranice: שעת לילה) adı verilen operasyon IDF'nin iki özel birimi olan Sayeret Matkal ve Şayetet 13 tarafından yürütülecekti. Operasyon için hazırlıklar 16 Şubat 1992 tarihinde tamamlanacaktı. Ancak kaçırma planının yapıldığı gün Musavi'nin etrafının büyük bir kalabalıkla çevrili olduğu ve bu nedenle kaçırmanın pratik olmadığı anlaşıldı. Bunun üzerine IDF İstihbarat Direktörlüğü görevin hedefe yönelik bir saldırıya dönüştürülmesini önerdi.",
+      "char_count": 779,
+      "token_estimate": 194
+    },
+    {
+      "id": "c0002",
+      "section": "== Suikast ==",
+      "heading_path": "== Suikast ==",
+      "start_char": 1032,
+      "end_char": 1526,
+      "content": "== Suikast == İsrail 24. Hükûmeti'nin onayının ardından İsrail Askeri İstihbarat Başkanı Uri Sagi ve Genelkurmay Başkanı Ehud Barak, İsrail Hava Kuvvetleri'ne ait bir helikopterin Güney Lübnan'da bir konvoyu hedef alan saldırısına izin verdi. İsrail Apache helikopterleri Lübnan'ın güneyinde Musavi'nin üç araçlık konvoyuna füze atarak El Musavi, eşi, beş yaşındaki oğlu ve diğer dört kişinin ölümüne neden oldu. İsrail daha sonra operasyonun önceden planlanmış bir suikast olduğunu doğruladı.",
+      "char_count": 493,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0003",
+      "section": "== Sonrası ==",
+      "heading_path": "== Sonrası ==",
+      "start_char": 1526,
+      "end_char": 2145,
+      "content": "== Sonrası == Suikastın ardından İslami Cihat Örgütü ve diğer örgütler 1992 Buenos Aires İsrail Büyükelçiliği bombalamasının yanı sıra AMIA bombalamasını da düzenlediler. Elçilik bombalaması, aralarında İsrail Dışişleri Bakanlığı'nın dört çalışanı ve dört Yahudi kadının da bulunduğu 28 kişinin ölümüyle sonuçlandı. İki yıl sonra meydana gelen AMIA bombalamasında ise 85 kişi hayatını kaybetti. Arjantin istihbarat raporu, Hizbullah'ın askeri kanadının başındaki İmad Muğniye'nin, diğer Hizbullah görevlileri ve İranlı yetkililerle birlikte AMIA bombalamasının planlanmasında kilit bir figür olduğu sonucuna varmıştır.",
+      "char_count": 618,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2145,
+      "end_char": 2237,
+      "content": "== Ayrıca bakınız == Fuad Şükür Hasan Nasrallah suikastı 2024 İsrail'in Yemen'e saldırıları",
+      "char_count": 91,
+      "token_estimate": 22
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hizbullah'ın üst düzey isimlerinden Musavi'nin kaçırılması ve esir takası anlaşmalarında koz olarak kullanılması için plan geliştirilmesi talimatını kim verdi?",
+        "answer": "İsrail Askeri İstihbarat Dairesi (Aman) Başkanı Uri Sagi.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İsrail'in \"Gece Vakti Operasyonu\"nun başlangıçtaki amacı neydi ve bu operasyon neden planlanandan farklı bir şekilde gerçekleştirildi?",
+        "answer": "Ron Arad'ın kaybolmasının ardından, Hizbullah'ın üst düzey isimlerinden Abbas Musavi'yi kaçırarak olası esir takası anlaşmalarında koz olarak kullanmak operasyonun başlangıçtaki amacıydı. Ancak, operasyonun yapılacağı gün Musavi'nin etrafının büyük bir kalabalıkla çevrili olması nedeniyle kaçırma planı pratik bulunmadı ve bunun üzerine görev, IDF İstihbarat Direktörlüğü'nün önerisiyle hedefli bir saldırıya dönüştürüldü.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

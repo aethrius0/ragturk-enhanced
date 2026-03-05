@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "yksekretimkalitekuru_06412a09",
+    "title": "Yükseköğretim Kalite Kurulu",
+    "url": "https://tr.wikipedia.org/wiki/Y%C3%BCksek%C3%B6%C4%9Fretim_Kalite_Kurulu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:20.999545",
+    "content": "Yükseköğretim Kalite Kurulu (YÖKAK), üniversitelerin eğitim-öğretim, araştırma faaliyetleri ve idari hizmetlerinin ulusal ve uluslararası kalite standartlarına göre değerlendirmelerini yapan bir kamu kurumudur. İç ve dış kalite güvencesi, akreditasyon süreçleri ve bağımsız dış değerlendirme kurumlarının yetkilendirilmesi gibi süreçleri yürütür. == Tarihçe == Kurulun temelini oluşturan \"Yükseköğretim Kalite Güvencesi Yönetmeliği\", 23 Temmuz 2015 tarih ve 29423 sayılı Resmi Gazete de yayımlanarak yürürlüğe girmiştir. Bu dönemde YÖK'e bağlı olarak faaliyet gösteren kurul, daha sonra 1 Temmuz 2017 tarihli 7033 sayılı kanun ile 2547 sayılı Yükseköğretim Kanunu'na eklenen Ek Madde 35 hükümlerine göre bağımsız bir kuruluş haline gelmiştir. == Misyon == Türkiye’deki yükseköğretim kurumlarının sürekli gelişimine ve bireylerin evrensel yeterliliklere ulaşmasına katkı sağlamak üzere yükseköğretim alanında kalite güvencesi sistemini güçlendirmektir. == Vizyon == Yükseköğretimde kalite güvencesi alanında etkin ve uluslararası düzeyde tanınan bir kurum olmaktır. == Üyeler == Yükseköğretim Kalite Kurulu; Yükseköğretim Kurulu Genel Kurulu tarafından seçilen 3 üye, Üniversitelerarası Kurul tarafından seçilen 3 üye, Millî Eğitim Bakanlığı tarafından seçilen 1 üye, Mesleki Yeterlilik Kurumunu temsilen 1 üye, Türk Akreditasyon Kurumunu temsilen 1 üye, Türkiye Bilimsel ve Teknolojik Araştırma Kurumunu temsilen 1 üye, Türkiye Sağlık Enstitüleri Başkanlığını temsilen 1 üye, Türkiye Odalar ve Borsalar Birliğini temsilen 1 üye ve öğrenci temsilcisi 1 üye olmak üzere toplam 13 üyeden oluşmaktadır. == YÖKAK Başkanları == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 212,
+      "char_count": 1636,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.873167",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 347,
+      "content": "Yükseköğretim Kalite Kurulu (YÖKAK), üniversitelerin eğitim-öğretim, araştırma faaliyetleri ve idari hizmetlerinin ulusal ve uluslararası kalite standartlarına göre değerlendirmelerini yapan bir kamu kurumudur. İç ve dış kalite güvencesi, akreditasyon süreçleri ve bağımsız dış değerlendirme kurumlarının yetkilendirilmesi gibi süreçleri yürütür.",
+      "char_count": 346,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 347,
+      "end_char": 743,
+      "content": "== Tarihçe == Kurulun temelini oluşturan \"Yükseköğretim Kalite Güvencesi Yönetmeliği\", 23 Temmuz 2015 tarih ve 29423 sayılı Resmi Gazete de yayımlanarak yürürlüğe girmiştir. Bu dönemde YÖK'e bağlı olarak faaliyet gösteren kurul, daha sonra 1 Temmuz 2017 tarihli 7033 sayılı kanun ile 2547 sayılı Yükseköğretim Kanunu'na eklenen Ek Madde 35 hükümlerine göre bağımsız bir kuruluş haline gelmiştir.",
+      "char_count": 395,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0002",
+      "section": "== Misyon ==",
+      "heading_path": "== Misyon ==",
+      "start_char": 743,
+      "end_char": 952,
+      "content": "== Misyon == Türkiye’deki yükseköğretim kurumlarının sürekli gelişimine ve bireylerin evrensel yeterliliklere ulaşmasına katkı sağlamak üzere yükseköğretim alanında kalite güvencesi sistemini güçlendirmektir.",
+      "char_count": 208,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0003",
+      "section": "== Vizyon ==",
+      "heading_path": "== Vizyon ==",
+      "start_char": 952,
+      "end_char": 1065,
+      "content": "== Vizyon == Yükseköğretimde kalite güvencesi alanında etkin ve uluslararası düzeyde tanınan bir kurum olmaktır.",
+      "char_count": 112,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0004",
+      "section": "== Üyeler ==",
+      "heading_path": "== Üyeler ==",
+      "start_char": 1065,
+      "end_char": 1599,
+      "content": "== Üyeler == Yükseköğretim Kalite Kurulu; Yükseköğretim Kurulu Genel Kurulu tarafından seçilen 3 üye, Üniversitelerarası Kurul tarafından seçilen 3 üye, Millî Eğitim Bakanlığı tarafından seçilen 1 üye, Mesleki Yeterlilik Kurumunu temsilen 1 üye, Türk Akreditasyon Kurumunu temsilen 1 üye, Türkiye Bilimsel ve Teknolojik Araştırma Kurumunu temsilen 1 üye, Türkiye Sağlık Enstitüleri Başkanlığını temsilen 1 üye, Türkiye Odalar ve Borsalar Birliğini temsilen 1 üye ve öğrenci temsilcisi 1 üye olmak üzere toplam 13 üyeden oluşmaktadır.",
+      "char_count": 533,
+      "token_estimate": 133
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yükseköğretim Kalite Kurulu toplam kaç üyeden oluşmaktadır?",
+        "answer": "Toplam 13 üyeden.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "YÖKAK'ın 2015'teki YÖK'e bağlı kuruluşundan 2017'deki bağımsız statüsüne geçişi, mevcut görevlerini ve operasyonlarını nasıl şekillendirmiştir?",
+        "answer": "YÖKAK, 2015 yılında Yükseköğretim Kalite Güvencesi Yönetmeliği ile YÖK'e bağlı olarak faaliyete başlamış, ancak 2017 yılında 7033 sayılı kanun ile bağımsız bir kuruluş haline gelmiştir. Bu bağımsızlaşma, kurumun üniversitelerin eğitim-öğretim, araştırma faaliyetleri ve idari hizmetlerini ulusal ve uluslararası kalite standartlarına göre değerlendirmesi, iç ve dış kalite güvencesi, akreditasyon süreçleri ile bağımsız dış değerlendirme kurumlarının yetkilendirilmesi gibi temel görevlerini tarafsız ve etkili bir şekilde yerine getirmesi için zemin hazırlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

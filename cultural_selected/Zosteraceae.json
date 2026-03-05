@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "zosteraceae_f72d094d",
+    "title": "Zosteraceae",
+    "url": "https://tr.wikipedia.org/wiki/Zosteraceae",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:45.930030",
+    "content": "Zosteraceae (dört deniz çayırı ailesinden birisidir, Kubitzki ed. 1998), ılıman ve subtropikal kıyı sularında bulunan, en yüksek çeşitliliğin Kore ve Japonya civarında olduğu çok yıllık deniz çiçekli bitkiler familyasıdır. Deniz çayırlarının çoğu tüm yaşam döngülerini su altında tamamlar, özellikle su ortamında dağılmaya adapte olmuş ipliksi polenlere ve stoması olmayan şerit benzeri yapraklara sahiptirler. Deniz çayırları otsudurlar ve belirgin sürünen rizomlara sahiptir. Ailenin ayırt edici bir özelliği, Zostera alt cinsi Zostera üyeleri dışındaki tüm türlerde bulunan karakteristik retinaküllerin bulunmasıdır. Zosteraceae, taksonomistler tarafından uzun süredir monofiletik olarak kabul edilmektedir. 2003 APG II sistemi bu aileyi Alismatales tek çenekli takımına yerleştirir. Aile, Phyllospadix ve Zostera olmak üzere iki cins arasında bölünmüş yaklaşık yirmi iki tür içerir (Christenhusz & Byng 2016 ). Zostera üç alt cins içerir: Heterozostera (önceden ayrı bir cins olarak kabul edilirdi ), Zostera ve Zosterella. Zosteraceae, bir tatlı su sucul ailesi olan Potamogetonaceae ile de yakından ilişkilidir. Zosteraceae korunmuş bir isimdir. == Taksonomi == Deniz otları aileleri: Zosteraceae, Cymodoceaceae, Ruppiaceae ve Posidoniaceae'dır. Akraba familyalar: Potamogetonaceae ve bazen Zannichelliaceae'dır. == Kaynakça == == Dış bağlantılar == L. Watson ve MJ Dallwitz'de (1992'den itibaren) Zosteraceae . Çiçekli bitkilerin aileleri : açıklamalar, resimler, tanımlama, bilgi alma. Versiyon: 27 Nisan 2006. Kuzey Amerika Florasında Zosteraceae 16 Haziran 2020 tarihinde Wayback Machine sitesinde arşivlendi. NCBI Taksonomi Tarayıcısı 9 Haziran 2023 tarihinde Wayback Machine sitesinde arşivlendi. CSDL, Teksas'taki bağlantılar 12 Ekim 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 231,
+      "char_count": 1799,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.464229",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Zosteraceae (dört deniz çayırı ailesinden birisidir, Kubitzki ed. 1998), ılıman ve subtropikal kıyı sularında bulunan, en yüksek çeşitliliğin Kore ve Japonya civarında olduğu çok yıllık deniz çiçekli bitkiler familyasıdır. Deniz çayırlarının çoğu tüm yaşam döngülerini su altında tamamlar, özellikle su ortamında dağılmaya adapte olmuş ipliksi polenlere ve stoması olmayan şerit benzeri yapraklara sahiptirler. Deniz çayırları otsudurlar ve belirgin sürünen rizomlara sahiptir. Ailenin ayırt edici bir özelliği, Zostera alt cinsi Zostera üyeleri dışındaki tüm türlerde bulunan karakteristik retinaküllerin bulunmasıdır. Zosteraceae, taksonomistler tarafından uzun süredir monofiletik olarak kabul edilmektedir. 2003 APG II sistemi bu aileyi Alismatales tek çenekli takımına yerleştirir. Aile, Phyllospadix ve Zostera olmak üzere iki cins arasında bölünmüş yaklaşık yirmi iki tür içerir (Christenhusz & Byng 2016 ). Zostera üç alt cins içerir: Heterozostera (önceden ayrı bir cins olarak kabul edilird",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1151,
+      "content": "padix ve Zostera olmak üzere iki cins arasında bölünmüş yaklaşık yirmi iki tür içerir (Christenhusz & Byng 2016 ). Zostera üç alt cins içerir: Heterozostera (önceden ayrı bir cins olarak kabul edilirdi ), Zostera ve Zosterella. Zosteraceae, bir tatlı su sucul ailesi olan Potamogetonaceae ile de yakından ilişkilidir. Zosteraceae korunmuş bir isimdir.",
+      "char_count": 351,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0002",
+      "section": "== Taksonomi ==",
+      "heading_path": "== Taksonomi ==",
+      "start_char": 1152,
+      "end_char": 1319,
+      "content": "== Taksonomi == Deniz otları aileleri: Zosteraceae, Cymodoceaceae, Ruppiaceae ve Posidoniaceae'dır. Akraba familyalar: Potamogetonaceae ve bazen Zannichelliaceae'dır.",
+      "char_count": 166,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1334,
+      "end_char": 1799,
+      "content": "== Dış bağlantılar == L. Watson ve MJ Dallwitz'de (1992'den itibaren) Zosteraceae . Çiçekli bitkilerin aileleri : açıklamalar, resimler, tanımlama, bilgi alma. Versiyon: 27 Nisan 2006. Kuzey Amerika Florasında Zosteraceae 16 Haziran 2020 tarihinde Wayback Machine sitesinde arşivlendi. NCBI Taksonomi Tarayıcısı 9 Haziran 2023 tarihinde Wayback Machine sitesinde arşivlendi. CSDL, Teksas'taki bağlantılar 12 Ekim 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 465,
+      "token_estimate": 116
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Zosteraceae familyası hangi iki cins arasında yaklaşık kaç tür içerir?",
+        "answer": "Zosteraceae familyası, Phyllospadix ve Zostera olmak üzere iki cins arasında bölünmüş yaklaşık yirmi iki tür içerir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Zosteraceae familyası hangi habitat türünde yaşar ve bu familyayla yakından ilişkili olan Potamogetonaceae familyasının habitat özelliği nedir?",
+        "answer": "Zosteraceae familyası ılıman ve subtropikal kıyı sularında bulunan deniz çiçekli bitkileridir. Yakından ilişkili olduğu Potamogetonaceae familyası ise bir tatlı su sucul ailesidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

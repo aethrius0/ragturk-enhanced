@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "herbstnebeloperasyon_bc2349fb",
+    "title": "Herbstnebel Operasyonu",
+    "url": "https://tr.wikipedia.org/wiki/Herbstnebel_Operasyonu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:47.972155",
+    "content": "Herbstnebel Operasyonu (\"Sonbahar Sisi Operasyonu\"), Alman Mareşali Walter Model ve Ordu Grubu B operasyon personeli tarafından 1944 sonlarında II. Dünya Savaşı sırasında planlanan bir saldırıdır. Maas Nehri'nin doğusunda, doğu Belçika ve Lüksemburg'daki Müttefik kuvvetlerini hedef alan bir Alman Ordusu saldırısı öngörüyordu. == Operasyonun konsepti == Herbstnebel, Adolf Hitler'in Anvers'i ele geçirme ve Belçika ve Hollanda'daki tüm Müttefik güçlerini şişirme planı olan Wacht am Rhein'e alternatif olarak oluşturuldu. Model, ilgili diğer tüm üst düzey komutanlarla birlikte, Almanya'nın o zamanki sınırlı kaynakları göz önüne alındığında bunun ulaşılamaz olduğuna inanıyordu. Böylece Maas'ı geçmeyecek, ancak Müttefiklere keskin bir yenilgi getirecek daha az iddialı bir senaryo tasarladı. Wacht am Rhein gibi, Model'in saldırısı Ardenler sektöründe başlatılacak, ancak daha sonra batı ve kuzeybatıya devam etmek yerine kuzeye dönecekti. OB West'e komuta eden Mareşal Gerd von Rundstedt, benzer bir plan olan Fall Martin'i (\"Martin Planı\") ortaya atmıştı. Von Rundstedt'in planı tek bir itme yerine iki yönlü bir saldırı gerektiriyordu, ancak her iki planda da operasyon alanı Maas'ın doğusunda kaldı. Model ve von Rundstedt, Model tarafından \"küçük çözüm\" olarak adlandırılan ortak bir çözüm sunmak için planlarını birleştirdiler. Hitler, Ardenler Taaruzu'nun temelini oluşturan \"büyük çözümü\" lehine bunu reddetti. Kafa karıştırıcı bir şekilde, Wacht am Rhein Operasyonu, en çok orijinal adıyla bilinmesine rağmen, Aralık ayı başlarında Herbstnebel olarak yeniden adlandırıldı. Gerçek saldırı planı değişmedi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 214,
+      "char_count": 1616,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.141317",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 328,
+      "content": "Herbstnebel Operasyonu (\"Sonbahar Sisi Operasyonu\"), Alman Mareşali Walter Model ve Ordu Grubu B operasyon personeli tarafından 1944 sonlarında II. Dünya Savaşı sırasında planlanan bir saldırıdır. Maas Nehri'nin doğusunda, doğu Belçika ve Lüksemburg'daki Müttefik kuvvetlerini hedef alan bir Alman Ordusu saldırısı öngörüyordu.",
+      "char_count": 327,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0001",
+      "section": "== Operasyonun konsepti ==",
+      "heading_path": "== Operasyonun konsepti ==",
+      "start_char": 328,
+      "end_char": 1328,
+      "content": "== Operasyonun konsepti == Herbstnebel, Adolf Hitler'in Anvers'i ele geçirme ve Belçika ve Hollanda'daki tüm Müttefik güçlerini şişirme planı olan Wacht am Rhein'e alternatif olarak oluşturuldu. Model, ilgili diğer tüm üst düzey komutanlarla birlikte, Almanya'nın o zamanki sınırlı kaynakları göz önüne alındığında bunun ulaşılamaz olduğuna inanıyordu. Böylece Maas'ı geçmeyecek, ancak Müttefiklere keskin bir yenilgi getirecek daha az iddialı bir senaryo tasarladı. Wacht am Rhein gibi, Model'in saldırısı Ardenler sektöründe başlatılacak, ancak daha sonra batı ve kuzeybatıya devam etmek yerine kuzeye dönecekti. OB West'e komuta eden Mareşal Gerd von Rundstedt, benzer bir plan olan Fall Martin'i (\"Martin Planı\") ortaya atmıştı. Von Rundstedt'in planı tek bir itme yerine iki yönlü bir saldırı gerektiriyordu, ancak her iki planda da operasyon alanı Maas'ın doğusunda kaldı. Model ve von Rundstedt, Model tarafından \"küçük çözüm\" olarak adlandırılan ortak bir çözüm sunmak için planlarını birleşt",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Operasyonun konsepti ==",
+      "heading_path": "== Operasyonun konsepti ==",
+      "start_char": 1128,
+      "end_char": 1616,
+      "content": "rektiriyordu, ancak her iki planda da operasyon alanı Maas'ın doğusunda kaldı. Model ve von Rundstedt, Model tarafından \"küçük çözüm\" olarak adlandırılan ortak bir çözüm sunmak için planlarını birleştirdiler. Hitler, Ardenler Taaruzu'nun temelini oluşturan \"büyük çözümü\" lehine bunu reddetti. Kafa karıştırıcı bir şekilde, Wacht am Rhein Operasyonu, en çok orijinal adıyla bilinmesine rağmen, Aralık ayı başlarında Herbstnebel olarak yeniden adlandırıldı. Gerçek saldırı planı değişmedi.",
+      "char_count": 488,
+      "token_estimate": 122
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Herbstnebel operasyonu, Adolf Hitler'in hangi planına alternatif olarak oluşturuldu?",
+        "answer": "Wacht am Rhein",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Herbstnebel Operasyonu, Adolf Hitler'in Wacht am Rhein planına neden bir alternatif olarak tasarlanmış ve bu operasyonun Model ve von Rundstedt tarafından ortaklaşa belirlenen ana hedefleri nelerdi?",
+        "answer": "Herbstnebel Operasyonu, Alman Mareşali Walter Model ve diğer üst düzey komutanların, Adolf Hitler'in Anvers'i ele geçirme ve Belçika ve Hollanda'daki tüm Müttefik güçlerini şişirme planı olan Wacht am Rhein'ı Almanya'nın o zamanki sınırlı kaynakları göz önüne alındığında ulaşılamaz bulmaları nedeniyle bir alternatif olarak oluşturuldu. Model ve von Rundstedt tarafından bir araya getirilen ve Model tarafından \"küçük çözüm\" olarak adlandırılan ortak çözümün ana hedefi, Maas Nehri'ni geçmeyecek, ancak doğu Belçika ve Lüksemburg'daki Müttefik kuvvetlerine keskin bir yenilgi getirecek daha az iddialı bir saldırı başlatmaktı; operasyon alanı Maas'ın doğusunda kalacaktı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

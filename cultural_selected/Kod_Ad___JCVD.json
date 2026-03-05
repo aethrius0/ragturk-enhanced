@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "kodadjcvd_e3f214e5",
+    "title": "Kod Adı: JCVD",
+    "url": "https://tr.wikipedia.org/wiki/Kod_Ad%C4%B1%3A_JCVD",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:20.650677",
+    "content": "JCVD Fransız-Tunuslu film yönetmeni Mabrouk el Mechri'nin yönettiği ve Jean-Claude Van Damme'in kendini yarı-kurgusal bir versiyonu olarak oynadığı 2008 yapımı Belçika suç draması filmidir. Ailesi ve kariyeri olduğu gibi etrafında çökmekte olan aşağı ve yukarı bir aksiyon yıldızı, ülkesi Belçika, Brüksel'de bir postane soygununun ortasında kalmıştır. Film 4 Haziran 2008'de Belçika ve Fransa'da, 2008 Toronto Uluslararası Film Festivali'nde (Gece Yarısı Çılgınlığı) ve 20 Şubat 2009'da Adelaide Film Festivali'nde gösterildi. Toronto'dan Peace Arch Entertainment tarafından dağıtıldı ve 7 Kasım 2008'de New York ve belirli şehirlerde gösterime girdi. == Oyuncular == Jean-Claude Van Damme .... J.C.V.D. François Damiens .... Bruges Zinedine Soualem .... Kasketli adam Karim Belkhadra .... Gece nöbetçisi Jean-François Wolff .... Otuz Anne Paulicevich .... Veznedar Saskia Flanders .... J.C.V.D.'nin kızı Dean Gregory .... Tobey Wood yönetmeni Kim Hermans .... kickbox techizatçısındaki tutuklu Steve Preston .... JCVD'ın yardımcısı Paul Rockenbrod .... Tobey Wood Alan Rossett .... Bernstein Jesse Joe Walsh .... Jeff == Tepkiler == Time dergisinden Richard Corliss, Van Damme'nin filmdeki performansını yılın ikinci en iyisi (Heath Ledger'in The Dark Knight'daki Joker'inden sonra) olarak adlandırdı, daha önce Van Damme'in \"siyah bir kuşak değil, bir Oscar'ı hak ettiğini\" belirtti. Roger Ebert ise filme 2.5 yıldız verdi. == Kaynakça == == Dış bağlantılar == JCVD AllMovie'de JCVD IMDb'de Kod Adı: JCVD Metacritic'te JCVD",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 212,
+      "char_count": 1526,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.558350",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 653,
+      "content": "JCVD Fransız-Tunuslu film yönetmeni Mabrouk el Mechri'nin yönettiği ve Jean-Claude Van Damme'in kendini yarı-kurgusal bir versiyonu olarak oynadığı 2008 yapımı Belçika suç draması filmidir. Ailesi ve kariyeri olduğu gibi etrafında çökmekte olan aşağı ve yukarı bir aksiyon yıldızı, ülkesi Belçika, Brüksel'de bir postane soygununun ortasında kalmıştır. Film 4 Haziran 2008'de Belçika ve Fransa'da, 2008 Toronto Uluslararası Film Festivali'nde (Gece Yarısı Çılgınlığı) ve 20 Şubat 2009'da Adelaide Film Festivali'nde gösterildi. Toronto'dan Peace Arch Entertainment tarafından dağıtıldı ve 7 Kasım 2008'de New York ve belirli şehirlerde gösterime girdi.",
+      "char_count": 652,
+      "token_estimate": 163
+    },
+    {
+      "id": "c0001",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 653,
+      "end_char": 1120,
+      "content": "== Oyuncular == Jean-Claude Van Damme .... J.C.V.D. François Damiens .... Bruges Zinedine Soualem .... Kasketli adam Karim Belkhadra .... Gece nöbetçisi Jean-François Wolff .... Otuz Anne Paulicevich .... Veznedar Saskia Flanders .... J.C.V.D.'nin kızı Dean Gregory .... Tobey Wood yönetmeni Kim Hermans .... kickbox techizatçısındaki tutuklu Steve Preston .... JCVD'ın yardımcısı Paul Rockenbrod .... Tobey Wood Alan Rossett .... Bernstein Jesse Joe Walsh .... Jeff",
+      "char_count": 466,
+      "token_estimate": 116
+    },
+    {
+      "id": "c0002",
+      "section": "== Tepkiler ==",
+      "heading_path": "== Tepkiler ==",
+      "start_char": 1120,
+      "end_char": 1427,
+      "content": "== Tepkiler == Time dergisinden Richard Corliss, Van Damme'nin filmdeki performansını yılın ikinci en iyisi (Heath Ledger'in The Dark Knight'daki Joker'inden sonra) olarak adlandırdı, daha önce Van Damme'in \"siyah bir kuşak değil, bir Oscar'ı hak ettiğini\" belirtti. Roger Ebert ise filme 2.5 yıldız verdi.",
+      "char_count": 306,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1442,
+      "end_char": 1526,
+      "content": "== Dış bağlantılar == JCVD AllMovie'de JCVD IMDb'de Kod Adı: JCVD Metacritic'te JCVD",
+      "char_count": 84,
+      "token_estimate": 21
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "JCVD filminin yönetmeni kimdir?",
+        "answer": "Fransız-Tunuslu film yönetmeni Mabrouk el Mechri'dir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "JCVD filminde Jean-Claude Van Damme'ın karakter adı ve oyuncu listesindeki rolü, filmin konusuyla nasıl bir ilişki içindedir?",
+        "answer": "Jean-Claude Van Damme, filmde kendisinin yarı-kurgusal bir versiyonunu oynamaktadır ve oyuncu listesinde karakter adı da bu durumu yansıtacak şekilde \"J.C.V.D.\" olarak belirtilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

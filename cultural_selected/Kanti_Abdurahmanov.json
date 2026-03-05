@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "kantiabdurahmanov_c6fde0f9",
+    "title": "Kanti Abdurahmanov",
+    "url": "https://tr.wikipedia.org/wiki/Kanti_Abdurahmanov",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:55.728825",
+    "content": "Kanti Abdurahmanov (Rusça: Канти Абдурахманов; 1916 – 28 Mart 2000) İkinci Dünya Savaşı sırasında Kızıl Ordu'ya hizmet eden Çeçen Başçavuş. Savaş sırasındaki kahramanlıkları için Mayıs 1996'da Rusya Federasyonu Kahramanı unvanını aldı. == İlk yılları == 1916'da bir Çeçen kasabası olan Şali'de doğdu, küçük yaşta öksüz kaldı. Çiftçi olarak çalıştı ve daha sonra Barbarossa Harekâtı'nın başlamasıyla 1941'de orduya gönüllü olarak katıldı. Katıldığı savaşlar sırasında birkaç defa yaralandı. == İkinci Dünya Savaşı == Orduya girdikten sonra, Abdurahmanov, küçük topçu eğitimini Haziran 1942'de Taşkent'te tamamladı. Ekim 1943'ten Mayıs 1945'e kadar vekil orduda görev yaptı. Aralık 1943'te Vitebsk'in batısında bir saldırı savaşı sırasında piyade, düşmanın müstahkem konumundan yoğun ateş altında kaldı. Abdurahmanov ekibiyle birlikte topu dışarı çıkardı ve düşmanın makineli tüfek ateşine rağmen düşman sığınaklarını isabetli vuruşlarla yok etti. Bu, askerlerin düşmanın sınırına daha kolay saldırmalarını sağladı. Haziran 1944'te Abdurahmanov, benzer bir durumda Daugava nehrinden zorla geçiş sırasında eylemini tekrarladı ve bu da operasyonun başarısını sağladı. Savaş sırasında bir dizi düşman tankını imha ederek 2 ve 3. dereceden Şeref Nişanı ile ödüllendirildi. == Savaş sonrası == Abdurahmanov, terhis edilip tıpkı diğer Çerkezler gibi sınır dışı edilerek Orta Asya'ya sürgün edildiği 1946 yılına kadar ordudaki hizmetine devam etti. Frunze'de sürgünde yaşadıktan sonra 1967'de Çeçenistan'a döndü ve burada şoför, gıda endüstrisi operatörü ve jeolojik keşif ekibinin bir parçası olarak çalıştı. Emekli olduktan sonra Argun kentine taşındı ve 28 Mart 2000 tarihinde öldü. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 229,
+      "char_count": 1691,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.865658",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 236,
+      "content": "Kanti Abdurahmanov (Rusça: Канти Абдурахманов; 1916 – 28 Mart 2000) İkinci Dünya Savaşı sırasında Kızıl Ordu'ya hizmet eden Çeçen Başçavuş. Savaş sırasındaki kahramanlıkları için Mayıs 1996'da Rusya Federasyonu Kahramanı unvanını aldı.",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk yılları ==",
+      "heading_path": "== İlk yılları ==",
+      "start_char": 236,
+      "end_char": 490,
+      "content": "== İlk yılları == 1916'da bir Çeçen kasabası olan Şali'de doğdu, küçük yaşta öksüz kaldı. Çiftçi olarak çalıştı ve daha sonra Barbarossa Harekâtı'nın başlamasıyla 1941'de orduya gönüllü olarak katıldı. Katıldığı savaşlar sırasında birkaç defa yaralandı.",
+      "char_count": 253,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0002",
+      "section": "== İkinci Dünya Savaşı ==",
+      "heading_path": "== İkinci Dünya Savaşı ==",
+      "start_char": 490,
+      "end_char": 1267,
+      "content": "== İkinci Dünya Savaşı == Orduya girdikten sonra, Abdurahmanov, küçük topçu eğitimini Haziran 1942'de Taşkent'te tamamladı. Ekim 1943'ten Mayıs 1945'e kadar vekil orduda görev yaptı. Aralık 1943'te Vitebsk'in batısında bir saldırı savaşı sırasında piyade, düşmanın müstahkem konumundan yoğun ateş altında kaldı. Abdurahmanov ekibiyle birlikte topu dışarı çıkardı ve düşmanın makineli tüfek ateşine rağmen düşman sığınaklarını isabetli vuruşlarla yok etti. Bu, askerlerin düşmanın sınırına daha kolay saldırmalarını sağladı. Haziran 1944'te Abdurahmanov, benzer bir durumda Daugava nehrinden zorla geçiş sırasında eylemini tekrarladı ve bu da operasyonun başarısını sağladı. Savaş sırasında bir dizi düşman tankını imha ederek 2 ve 3. dereceden Şeref Nişanı ile ödüllendirildi.",
+      "char_count": 776,
+      "token_estimate": 194
+    },
+    {
+      "id": "c0003",
+      "section": "== Savaş sonrası ==",
+      "heading_path": "== Savaş sonrası ==",
+      "start_char": 1267,
+      "end_char": 1677,
+      "content": "== Savaş sonrası == Abdurahmanov, terhis edilip tıpkı diğer Çerkezler gibi sınır dışı edilerek Orta Asya'ya sürgün edildiği 1946 yılına kadar ordudaki hizmetine devam etti. Frunze'de sürgünde yaşadıktan sonra 1967'de Çeçenistan'a döndü ve burada şoför, gıda endüstrisi operatörü ve jeolojik keşif ekibinin bir parçası olarak çalıştı. Emekli olduktan sonra Argun kentine taşındı ve 28 Mart 2000 tarihinde öldü.",
+      "char_count": 409,
+      "token_estimate": 102
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Abdurahmanov küçük topçu eğitimini ne zaman ve nerede tamamladı?",
+        "answer": "Haziran 1942'de Taşkent'te.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kanti Abdurahmanov'un İkinci Dünya Savaşı'na katılma motivasyonu neydi ve savaş sırasındaki kahramanlıkları için hangi önemli başarıları gösterdi ve bu ona hangi onuru kazandırdı?",
+        "answer": "Kanti Abdurahmanov, genç yaşta öksüz kalıp çiftçi olarak çalıştıktan sonra, Barbarossa Harekâtı'nın başlamasıyla 1941'de orduya gönüllü olarak katıldı. Savaş sırasında, Aralık 1943'te Vitebsk'in batısında düşman sığınaklarını yok etme, Haziran 1944'te Daugava nehrinden zorla geçiş sırasında benzer bir eylemi tekrarlama ve bir dizi düşman tankını imha etme gibi önemli başarılar gösterdi. Bu kahramanlıkları için Mayıs 1996'da Rusya Federasyonu Kahramanı unvanını aldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

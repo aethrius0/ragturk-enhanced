@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "mmtazyener_126abc66",
+    "title": "Mümtaz Yener",
+    "url": "https://tr.wikipedia.org/wiki/M%C3%BCmtaz_Yener",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:24.396184",
+    "content": "Mümtaz Yener (5 Ağustos 1918, İstanbul - 2 Kasım 2007, İstanbul), Türk sinemacı veressam. == Yaşamı == 1935 yılında girdiği İstanbul Devlet Güzel Sanatlar Akademisi'nde Nazmi Ziya, İbrahim Çallı ve Leopold Levy atölyelerinde 8 yıl eğitim gördü. 1940 yılında, Prof. Leopold Levy Atölyesi'nden öğrencilerin İstanbul Devlet Güzel Sanatlar Akademisi salonlarında açtığı karma sergide \"Bir Kadın Portresi\" adlı yağlı boya resmiyle başarı ödülünü aldı. Türk resim tarihinde Yeniler Grubu olarak anılan sanat topluluğu Kemal Sönmezler, Selim Turan, Avni Arbaş, Mümtaz Yener, Nuri İyem, Turgut Atalay Güneri, Haşmet Akal, Agop Arad, Fethi Karakaş ve Ferruh Başağa’dan oluşuyordu. 1960'lı yıllardan itibaren \"toplum ve üretkenlik\" temalarından yola çıkarak yaptığı eserlerinde, insanların ve makinelerin yanı sıra karıncalara da yer vermeye başlayan Mümtaz Yener, 1969 yılında yaptığı \"Karıncalar Geliyor\" isimli tablosuyla Türkiye Ressamlar Cemiyeti'nin Altın Baykuş Ödülü'nü aldı. Yener, ressamlığın yanında dekoratörlük, sanat yönetmenliği, reji ve senaryo yazarlığı da yapmıştır. 1945 yılında şair Muzaffer Arabul'un kız kardeşi Şadan Yener ile evlendi. Kızı ressam N. Göksun Say'dır. 2007 yılında İstanbul'da ölen sanatçının 1000 kadar yağlıboya çalışması ve 5000 kadar deseni bulunmaktadır. Yapıtları Türkiye'de ve yurt dışında koleksiyon ve müzelerde bulunmaktadır. İlk kişisel sergisini 1978 yılında İstanbul Taksim Sanat Galerisi'nde açmıştır. Bundan sonra İstanbul, Ankara ve Bodrum'da birçok sergi açmıştır. == Sanatı == Neo-klasik bir biçemde çok figürlü çalışmaları küçük parçacıkların bütünleşerek güç oluşturması ilkesine dayanır. İnsanlar, makineler ve karıncalara yöneliş te bu toplumsal metaforla belirginleşir. Makina-insan ilişkisi ile karıncalar, çalışma dünyası ile insanın üretici gücü arasındaki bağlantıyı irdeler. == Ödüller == 1940 İstanbul Devlet Güzel Sanatlar Akademisi Başarı Ödülü 1953 İstanbul Belediyesi Fetih Yıldönümü Başarı Ödülü 1969 Türkiye Ressamlar Cemiyeti Altın Baykuş Büyük Ödülü 1979 Sanat Emeği Dergisi Özel Ödülü 1979 Görsel Sanatçılar Derneği Başarı Ödülü 1994 UPSD-UNESCO Plastik Sanatlar Derneği Onur Ödülü 1999 GESAM Büyük Ödülü == Filmler == 1957 Papatyalar 1959 Binnaz == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 300,
+      "char_count": 2227,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.710714",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 90,
+      "content": "Mümtaz Yener (5 Ağustos 1918, İstanbul - 2 Kasım 2007, İstanbul), Türk sinemacı veressam.",
+      "char_count": 89,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 90,
+      "end_char": 1090,
+      "content": "== Yaşamı == 1935 yılında girdiği İstanbul Devlet Güzel Sanatlar Akademisi'nde Nazmi Ziya, İbrahim Çallı ve Leopold Levy atölyelerinde 8 yıl eğitim gördü. 1940 yılında, Prof. Leopold Levy Atölyesi'nden öğrencilerin İstanbul Devlet Güzel Sanatlar Akademisi salonlarında açtığı karma sergide \"Bir Kadın Portresi\" adlı yağlı boya resmiyle başarı ödülünü aldı. Türk resim tarihinde Yeniler Grubu olarak anılan sanat topluluğu Kemal Sönmezler, Selim Turan, Avni Arbaş, Mümtaz Yener, Nuri İyem, Turgut Atalay Güneri, Haşmet Akal, Agop Arad, Fethi Karakaş ve Ferruh Başağa’dan oluşuyordu. 1960'lı yıllardan itibaren \"toplum ve üretkenlik\" temalarından yola çıkarak yaptığı eserlerinde, insanların ve makinelerin yanı sıra karıncalara da yer vermeye başlayan Mümtaz Yener, 1969 yılında yaptığı \"Karıncalar Geliyor\" isimli tablosuyla Türkiye Ressamlar Cemiyeti'nin Altın Baykuş Ödülü'nü aldı. Yener, ressamlığın yanında dekoratörlük, sanat yönetmenliği, reji ve senaryo yazarlığı da yapmıştır. 1945 yılında şa",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 890,
+      "end_char": 1509,
+      "content": "liyor\" isimli tablosuyla Türkiye Ressamlar Cemiyeti'nin Altın Baykuş Ödülü'nü aldı. Yener, ressamlığın yanında dekoratörlük, sanat yönetmenliği, reji ve senaryo yazarlığı da yapmıştır. 1945 yılında şair Muzaffer Arabul'un kız kardeşi Şadan Yener ile evlendi. Kızı ressam N. Göksun Say'dır. 2007 yılında İstanbul'da ölen sanatçının 1000 kadar yağlıboya çalışması ve 5000 kadar deseni bulunmaktadır. Yapıtları Türkiye'de ve yurt dışında koleksiyon ve müzelerde bulunmaktadır. İlk kişisel sergisini 1978 yılında İstanbul Taksim Sanat Galerisi'nde açmıştır. Bundan sonra İstanbul, Ankara ve Bodrum'da birçok sergi açmıştır.",
+      "char_count": 619,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0003",
+      "section": "== Sanatı ==",
+      "heading_path": "== Sanatı ==",
+      "start_char": 1510,
+      "end_char": 1831,
+      "content": "== Sanatı == Neo-klasik bir biçemde çok figürlü çalışmaları küçük parçacıkların bütünleşerek güç oluşturması ilkesine dayanır. İnsanlar, makineler ve karıncalara yöneliş te bu toplumsal metaforla belirginleşir. Makina-insan ilişkisi ile karıncalar, çalışma dünyası ile insanın üretici gücü arasındaki bağlantıyı irdeler.",
+      "char_count": 320,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0004",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 1831,
+      "end_char": 2171,
+      "content": "== Ödüller == 1940 İstanbul Devlet Güzel Sanatlar Akademisi Başarı Ödülü 1953 İstanbul Belediyesi Fetih Yıldönümü Başarı Ödülü 1969 Türkiye Ressamlar Cemiyeti Altın Baykuş Büyük Ödülü 1979 Sanat Emeği Dergisi Özel Ödülü 1979 Görsel Sanatçılar Derneği Başarı Ödülü 1994 UPSD-UNESCO Plastik Sanatlar Derneği Onur Ödülü 1999 GESAM Büyük Ödülü",
+      "char_count": 339,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0005",
+      "section": "== Filmler ==",
+      "heading_path": "== Filmler ==",
+      "start_char": 2171,
+      "end_char": 2213,
+      "content": "== Filmler == 1957 Papatyalar 1959 Binnaz",
+      "char_count": 41,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mümtaz Yener, 1940 yılında \"Bir Kadın Portresi\" adlı yağlı boya resmiyle hangi ödülü almıştır?",
+        "answer": "Başarı ödülü",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mümtaz Yener, bir ressam ve sinemacı olarak tanınmasının yanı sıra, kariyeri boyunca ressamlığın dışında hangi farklı sanatsal ve profesyonel rollerde bulunmuştur?",
+        "answer": "Mümtaz Yener, ressam ve sinemacı olmasının yanında, dekoratörlük, sanat yönetmenliği, reji ve senaryo yazarlığı da yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

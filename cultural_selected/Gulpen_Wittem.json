@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "gulpenwittem_6bde08ac",
+    "title": "Gulpen-Wittem",
+    "url": "https://tr.wikipedia.org/wiki/Gulpen-Wittem",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:28.474245",
+    "content": "Gulpen-Wittem, Hollanda'nın Limburg eyaletinin güneyinde yer alan bir belediyedir. Belediye, 73,38 km² yüzölçümüne sahiptir; bunun 0,17 km²’si su alanıdır. 1999 yılında Gulpen ve Wittem belediyelerinin birleşmesiyle kurulmuştur. Hollanda’nın en güneyindeki “Heuvelland” (Tepelik Bölge) olarak adlandırılan doğa ve kültür bölgesinde yer alır. == Tarihçe == Wittem, tarih boyunca önemli bir dini merkez olmuş, 18. yüzyılda kurulan Redemptorist Manastırı ile tanınmıştır. Gulpen ise bira üretimi ve geleneksel çiftçilikle bilinir. Belediye birleşmesinden bu yana, doğal koruma ve kırsal turizm önemli rol oynamaktadır. == Coğrafya == Gulpen-Wittem, Limburg'un güneydoğusunda, Belçika ve Almanya sınırlarına oldukça yakın bir konumda yer alır. Bölge, dalgalı tepeleri, tarım alanları, ormanları ve üzüm bağları ile dikkat çeker. Hollanda'nın en yüksek doğal noktaları bu bölgede yer alır. == Nüfus == 2024 yılı itibarıyla belediyenin nüfusu yaklaşık 14.016 kişidir. Belediye sınırları içinde Gulpen, Mechelen, Epen, Slenaken, Wahlwiller ve Wijlre gibi köyler bulunmaktadır. == Komşu belediyeler ve yönleri == == Kültür ve etkinlikler == Wittem Manastırı: Redemptorist tarikatına ait olan manastır ve kilise, hac merkezi olarak önem taşır. Gulpener Bira Festivali: Yerel Gulpener bira fabrikası sponsorluğunda düzenlenen geleneksel bira festivali. Heuvelland Karnavalı: Renkli geçit törenleri ve kıyafetlerle kutlanan bölgesel karnaval etkinliği. == Gezilecek yerler == Kasteel Wittem: Tarihi bir kale, günümüzde otel ve restoran olarak kullanılmakta. Gulpener Bierbrouwerij: 1825'ten beri faaliyet gösteren bağımsız bira fabrikası, ziyaretçilere açıktır. Epen ve Slenaken: Kırsal mimarisi, yürüyüş yolları ve meyve bahçeleriyle bilinen pitoresk köyler. Gulperberg: Hollanda'nın en bilinen yokuşlarından biri, bisiklet yarışlarına ev sahipliği yapar. == Ulaşım == Karayolu: N278 karayolu ile Maastricht, Heerlen ve Aachen’a doğrudan bağlantı sağlanır. Otobüs: Arriva otobüsleri, Maastricht ve Heerlen'e toplu taşıma sağlar. Demiryolu: Belediye sınırlarında tren istasyonu yoktur; en yakın istasyonlar Valkenburg ve Maastricht'tedir. Bisiklet ve Yürüyüş: Bölge, Hollanda'nın en yoğun doğa yürüyüşü ve bisiklet yollarına sahiptir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 289,
+      "char_count": 2238,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.400503",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 342,
+      "content": "Gulpen-Wittem, Hollanda'nın Limburg eyaletinin güneyinde yer alan bir belediyedir. Belediye, 73,38 km² yüzölçümüne sahiptir; bunun 0,17 km²’si su alanıdır. 1999 yılında Gulpen ve Wittem belediyelerinin birleşmesiyle kurulmuştur. Hollanda’nın en güneyindeki “Heuvelland” (Tepelik Bölge) olarak adlandırılan doğa ve kültür bölgesinde yer alır.",
+      "char_count": 341,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 342,
+      "end_char": 616,
+      "content": "== Tarihçe == Wittem, tarih boyunca önemli bir dini merkez olmuş, 18. yüzyılda kurulan Redemptorist Manastırı ile tanınmıştır. Gulpen ise bira üretimi ve geleneksel çiftçilikle bilinir. Belediye birleşmesinden bu yana, doğal koruma ve kırsal turizm önemli rol oynamaktadır.",
+      "char_count": 273,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 616,
+      "end_char": 885,
+      "content": "== Coğrafya == Gulpen-Wittem, Limburg'un güneydoğusunda, Belçika ve Almanya sınırlarına oldukça yakın bir konumda yer alır. Bölge, dalgalı tepeleri, tarım alanları, ormanları ve üzüm bağları ile dikkat çeker. Hollanda'nın en yüksek doğal noktaları bu bölgede yer alır.",
+      "char_count": 268,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0003",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 885,
+      "end_char": 1070,
+      "content": "== Nüfus == 2024 yılı itibarıyla belediyenin nüfusu yaklaşık 14.016 kişidir. Belediye sınırları içinde Gulpen, Mechelen, Epen, Slenaken, Wahlwiller ve Wijlre gibi köyler bulunmaktadır.",
+      "char_count": 184,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0004",
+      "section": "== Kültür ve etkinlikler ==",
+      "heading_path": "== Kültür ve etkinlikler ==",
+      "start_char": 1105,
+      "end_char": 1442,
+      "content": "== Kültür ve etkinlikler == Wittem Manastırı: Redemptorist tarikatına ait olan manastır ve kilise, hac merkezi olarak önem taşır. Gulpener Bira Festivali: Yerel Gulpener bira fabrikası sponsorluğunda düzenlenen geleneksel bira festivali. Heuvelland Karnavalı: Renkli geçit törenleri ve kıyafetlerle kutlanan bölgesel karnaval etkinliği.",
+      "char_count": 336,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0005",
+      "section": "== Gezilecek yerler ==",
+      "heading_path": "== Gezilecek yerler ==",
+      "start_char": 1442,
+      "end_char": 1846,
+      "content": "== Gezilecek yerler == Kasteel Wittem: Tarihi bir kale, günümüzde otel ve restoran olarak kullanılmakta. Gulpener Bierbrouwerij: 1825'ten beri faaliyet gösteren bağımsız bira fabrikası, ziyaretçilere açıktır. Epen ve Slenaken: Kırsal mimarisi, yürüyüş yolları ve meyve bahçeleriyle bilinen pitoresk köyler. Gulperberg: Hollanda'nın en bilinen yokuşlarından biri, bisiklet yarışlarına ev sahipliği yapar.",
+      "char_count": 403,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0006",
+      "section": "== Ulaşım ==",
+      "heading_path": "== Ulaşım ==",
+      "start_char": 1846,
+      "end_char": 2224,
+      "content": "== Ulaşım == Karayolu: N278 karayolu ile Maastricht, Heerlen ve Aachen’a doğrudan bağlantı sağlanır. Otobüs: Arriva otobüsleri, Maastricht ve Heerlen'e toplu taşıma sağlar. Demiryolu: Belediye sınırlarında tren istasyonu yoktur; en yakın istasyonlar Valkenburg ve Maastricht'tedir. Bisiklet ve Yürüyüş: Bölge, Hollanda'nın en yoğun doğa yürüyüşü ve bisiklet yollarına sahiptir.",
+      "char_count": 377,
+      "token_estimate": 94
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kasteel Wittem günümüzde ne olarak kullanılmaktadır?",
+        "answer": "Otel ve restoran olarak kullanılmaktadır.",
+        "related_chunk_ids": [
+          "c0005"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gulpen ve Wittem belediyelerinin 1999'daki birleşmesinin ardından, her birinin kendine özgü tarihi geçmişi (bira üretimi, çiftçilik ve dini merkez olma) ışığında, yeni Gulpen-Wittem belediyesi için hangi alanlar öne çıkmıştır?",
+        "answer": "Gulpen'in bira üretimi ve geleneksel çiftçilikle, Wittem'in ise dini bir merkez olarak bilinen tarihi geçmişlerine rağmen, 1999'daki birleşmenin ardından Gulpen-Wittem belediyesi için doğal koruma ve kırsal turizm önemli roller oynamaya başlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "hemedaneyalet_36131f9e",
+    "title": "Hemedan (eyalet)",
+    "url": "https://tr.wikipedia.org/wiki/Hemedan_%28eyalet%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:40.516210",
+    "content": "Hemedan Eyaleti (Farsça: استان همدان, Ostān-e Hamadān, Azerbaycan Türkçesi: Hәmәdan), İran'nin 31 eyaletinden birisidir. 19.368 km² yüzölçümündeki eyaletin 2005 yılı nüfusu 1.739.000'dir. Halkı Azeriler, Kürtler, Lurlar ve Lekler'den oluşur. Eyaletin önemli kentleri Tuyserkan, Nihavend, Malayer, Esadabad, Bahar, Razan ve Kabudrahang'dır. == Geçmişi == Eyaletin geçmişi çok eskidir. Pers devletleri zamanında Hamedan şehri (o zamanlardaki adıyla Ekbatan) İran platosunda çok önemli bir merkezdi ayrıca dönem dönem Pers devletlerine başkentlik yapmıştı. Seyyid Mahmut Birifkani, Birifkan Seyyidleri adlı kitabında şu bilgilere yer vermektedir: 'Hemedan adını Sam'ın torununun adından alır. Hemedan, Med İmparatorluğu'nun başkenti idi. Hemedan Felluç'un oğlu, Sam'ın oğlu, Nuh'un oğludur.' == Etnik durumu == Bölgede Azerbaycan Türkleri nüfusun çoğunluğu oluşturur. Hakim dil ise Azericedir. Genellikle eyaletin kuzey ve kuzeydoğu yönü tamamen Azeri etnik yapısı bulunur. Azerilerden sonra Farslar ikinci etnik yapıyı oluşturur. == Konumu ve coğrafi yapısı == Hemedan Eyaleti, İran'ın batısında yer alır. Kuzeyinde Zencan Eyaleti, doğusunda Merkezi Eyaleti, güneyinde Luristan Eyaleti ve batısında ise Kirmanşah ile Kürdistan eyaletleri bulunur. Eyalet, Zagros Dağları'nın engebeli arazisi içinde bulunur. Yazları ılıman, kışları ise sert geçen bir dağ iklimine sahiptir. Eyaletin dağlık kesiminde yer alan şehristanlarında sekiz ay kar olur. Eyalet, karlı zirveleri olan dağlar ile ve verimli vadilerle meşhurdur. Hemedan'ın en yüksek noktası 3574 m.'lik Alvand dağı'dır. == Yönetim yapısı == Hemedan Eyaleti, idari olarak 9 şehristan ve 24 bahşa ayrılmıştır. Bu alt yönetim bölgeleri aşağıdaki tabloda, konumları ise haritada gösterilmiştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 231,
+      "char_count": 1757,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.085890",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 340,
+      "content": "Hemedan Eyaleti (Farsça: استان همدان, Ostān-e Hamadān, Azerbaycan Türkçesi: Hәmәdan), İran'nin 31 eyaletinden birisidir. 19.368 km² yüzölçümündeki eyaletin 2005 yılı nüfusu 1.739.000'dir. Halkı Azeriler, Kürtler, Lurlar ve Lekler'den oluşur. Eyaletin önemli kentleri Tuyserkan, Nihavend, Malayer, Esadabad, Bahar, Razan ve Kabudrahang'dır.",
+      "char_count": 339,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0001",
+      "section": "== Geçmişi ==",
+      "heading_path": "== Geçmişi ==",
+      "start_char": 340,
+      "end_char": 789,
+      "content": "== Geçmişi == Eyaletin geçmişi çok eskidir. Pers devletleri zamanında Hamedan şehri (o zamanlardaki adıyla Ekbatan) İran platosunda çok önemli bir merkezdi ayrıca dönem dönem Pers devletlerine başkentlik yapmıştı. Seyyid Mahmut Birifkani, Birifkan Seyyidleri adlı kitabında şu bilgilere yer vermektedir: 'Hemedan adını Sam'ın torununun adından alır. Hemedan, Med İmparatorluğu'nun başkenti idi. Hemedan Felluç'un oğlu, Sam'ın oğlu, Nuh'un oğludur.'",
+      "char_count": 448,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0002",
+      "section": "== Etnik durumu ==",
+      "heading_path": "== Etnik durumu ==",
+      "start_char": 789,
+      "end_char": 1028,
+      "content": "== Etnik durumu == Bölgede Azerbaycan Türkleri nüfusun çoğunluğu oluşturur. Hakim dil ise Azericedir. Genellikle eyaletin kuzey ve kuzeydoğu yönü tamamen Azeri etnik yapısı bulunur. Azerilerden sonra Farslar ikinci etnik yapıyı oluşturur.",
+      "char_count": 238,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0003",
+      "section": "== Konumu ve coğrafi yapısı ==",
+      "heading_path": "== Konumu ve coğrafi yapısı ==",
+      "start_char": 1028,
+      "end_char": 1572,
+      "content": "== Konumu ve coğrafi yapısı == Hemedan Eyaleti, İran'ın batısında yer alır. Kuzeyinde Zencan Eyaleti, doğusunda Merkezi Eyaleti, güneyinde Luristan Eyaleti ve batısında ise Kirmanşah ile Kürdistan eyaletleri bulunur. Eyalet, Zagros Dağları'nın engebeli arazisi içinde bulunur. Yazları ılıman, kışları ise sert geçen bir dağ iklimine sahiptir. Eyaletin dağlık kesiminde yer alan şehristanlarında sekiz ay kar olur. Eyalet, karlı zirveleri olan dağlar ile ve verimli vadilerle meşhurdur. Hemedan'ın en yüksek noktası 3574 m.'lik Alvand dağı'dır.",
+      "char_count": 543,
+      "token_estimate": 135
+    },
+    {
+      "id": "c0004",
+      "section": "== Yönetim yapısı ==",
+      "heading_path": "== Yönetim yapısı ==",
+      "start_char": 1572,
+      "end_char": 1743,
+      "content": "== Yönetim yapısı == Hemedan Eyaleti, idari olarak 9 şehristan ve 24 bahşa ayrılmıştır. Bu alt yönetim bölgeleri aşağıdaki tabloda, konumları ise haritada gösterilmiştir.",
+      "char_count": 170,
+      "token_estimate": 42
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hemedan Eyaleti'nin en yüksek noktası hangi dağdır ve yüksekliği ne kadardır?",
+        "answer": "Hemedan'ın en yüksek noktası 3574 m.'lik Alvand dağı'dır.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hemedan'ın hem tarihi başkentlik rolü hem de günümüzdeki eyalet yapısı hakkında hangi temel bilgiler verilmektedir?",
+        "answer": "Tarihsel olarak Hemedan şehri (Ekbatan adıyla), Pers devletleri zamanında önemli bir merkez olup dönem dönem başkentlik yapmış ve Med İmparatorluğu'nun başkenti olmuştur. Günümüzde ise Hemedan, İran'ın 31 eyaletinden biri olup 19.368 km² yüzölçümüne, 2005 yılı itibarıyla 1.739.000 nüfusa sahiptir ve halkı Azeriler, Kürtler, Lurlar ve Lekler'den oluşmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

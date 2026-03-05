@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "tebrizhanl_a9ba8bba",
+    "title": "Tebriz Hanlığı",
+    "url": "https://tr.wikipedia.org/wiki/Tebriz_Hanl%C4%B1%C4%9F%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:11.781714",
+    "content": "Tebriz Hanlığı (Farsça: خانات تبریز; Azerice: تبریز خانلیغی), İran'ın kuzeybatısındaki Güney Azerbaycan bölgesinde yer almış eski hanlıktır. Hanlık, Dunbuli Aşireti reisi Necef Kulu tarafından 1757 yılında kuruldu. Hanlık zaman içerisinde bölgedeki Türklerle akrabalık bağları kurmuştur, 1802'de hanlık lağvedildi ve toprakları Hoy Hanlığı'na katıldı. == Tarihi == Safevi hanedanının sonuna kadar Tebriz şehri ve çevresindeki bölgeler İran'a aitti ve Azerbaycan'ın beylik eyaletinin başkentiydi. Nadir Şah'ın ölümünden sonra İmparatorluğu mirasçıları ve soyluları arasında bölündü ve bir Peştun savaş ağası olan Azad Han Afgan Azerbaycan'ı aldı. Kaçar ve Zend prensleri arasındaki İran tahtına ilişkin veraset savaşı ile, Hoy ve Salmas Dunbuli lordları Tebriz'de de hakimiyetlerini kurabilir ve tüm il üzerindeki nüfuzlarını genişletebilirdi. I. Hoy Şahbaz Han'ın oğlu Necef Kulu, Nadir Şah'ın hizmetine girdi ve halefi zamanında genel Vali olarak kaldı. Merkezi Tebriz olarak Hanlığı kuran Necef Kulu Han ve yeğeni II. Şahbaz Han, Erdebil, halhal ve Güney Azerbaycan'ın bazı bölgelerini işgal ederek sınırlarını genişleten Urmiye Hanı Feth Ali Han Afşar'a katıldı. Son olarak, Feth Ali Han kendisini tüm Azerbaycan'ın yüce hükümdarı yaptı ve Tebriz hanlığının başkenti oldu. Muhammed Hasan Han Kaçar'ın 1757'de Azerbaycan'ı işgali sırasında Dunbuli şefleri Muhammed Hasan'a iltica etti ve sonuç olarak Şahbaz Han Dunbuli'ye Tebriz'in kontrolü verildi. 1779'da ölümünden sonra sadık Han Shaqaqi ve Sarab Hanlığı 1787'de Tebriz'i fethetti ve Hodadad Han'ı öldürdü. Ağa Muhammed Han Kajar'ın 1791'de Azerbaycan'ı işgali, Tebriz'i Dunbuli'ye geri veren Serab Hanlığı'nı yok etti. Ağa Muhammed Han, 1796 yılında şah ve tüm İran'ın İmparatoru olarak ilan edildi. 1797'de ölümünden sonra, Sadık Han Shaqaqi yeni İran hükümdarı Feth Ali'ye karşı isyan etti ve Dunbuli topraklarını ele geçirmeye çalıştı, ancak püskürtüldü. Cafer Kulu Han Dunbuli Tebriz Valisi olarak atandığında 1798'de affedildi, ancak tekrar isyan etti, 1800'de Gülistan Sarayı'nda tekrar yakalandı ve hapsedildi. 1809 yılında Tebriz Hanlığı, geleneksel olarak Tebriz'deki iktidar koltuğuyla Azerbaycan Valiliği görevini üstlenen Kaçar veliaht prensi'nin yeni kurulan naipliğine dahil edildi. == Tebriz Hanları == I. Necef Kulu Han (1713-1785) Hodadad Han (1785-1787) Hüseyin Kulu Han (1756-1798) Cafer Kulu Han Dunbuli (1793-1797) II. Necef Kulu Han == Kaynakça == == Dış bağlantılar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 337,
+      "char_count": 2449,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.278948",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 352,
+      "content": "Tebriz Hanlığı (Farsça: خانات تبریز; Azerice: تبریز خانلیغی), İran'ın kuzeybatısındaki Güney Azerbaycan bölgesinde yer almış eski hanlıktır. Hanlık, Dunbuli Aşireti reisi Necef Kulu tarafından 1757 yılında kuruldu. Hanlık zaman içerisinde bölgedeki Türklerle akrabalık bağları kurmuştur, 1802'de hanlık lağvedildi ve toprakları Hoy Hanlığı'na katıldı.",
+      "char_count": 351,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 352,
+      "end_char": 1352,
+      "content": "== Tarihi == Safevi hanedanının sonuna kadar Tebriz şehri ve çevresindeki bölgeler İran'a aitti ve Azerbaycan'ın beylik eyaletinin başkentiydi. Nadir Şah'ın ölümünden sonra İmparatorluğu mirasçıları ve soyluları arasında bölündü ve bir Peştun savaş ağası olan Azad Han Afgan Azerbaycan'ı aldı. Kaçar ve Zend prensleri arasındaki İran tahtına ilişkin veraset savaşı ile, Hoy ve Salmas Dunbuli lordları Tebriz'de de hakimiyetlerini kurabilir ve tüm il üzerindeki nüfuzlarını genişletebilirdi. I. Hoy Şahbaz Han'ın oğlu Necef Kulu, Nadir Şah'ın hizmetine girdi ve halefi zamanında genel Vali olarak kaldı. Merkezi Tebriz olarak Hanlığı kuran Necef Kulu Han ve yeğeni II. Şahbaz Han, Erdebil, halhal ve Güney Azerbaycan'ın bazı bölgelerini işgal ederek sınırlarını genişleten Urmiye Hanı Feth Ali Han Afşar'a katıldı. Son olarak, Feth Ali Han kendisini tüm Azerbaycan'ın yüce hükümdarı yaptı ve Tebriz hanlığının başkenti oldu. Muhammed Hasan Han Kaçar'ın 1757'de Azerbaycan'ı işgali sırasında Dunbuli şe",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1152,
+      "end_char": 2152,
+      "content": "ar'a katıldı. Son olarak, Feth Ali Han kendisini tüm Azerbaycan'ın yüce hükümdarı yaptı ve Tebriz hanlığının başkenti oldu. Muhammed Hasan Han Kaçar'ın 1757'de Azerbaycan'ı işgali sırasında Dunbuli şefleri Muhammed Hasan'a iltica etti ve sonuç olarak Şahbaz Han Dunbuli'ye Tebriz'in kontrolü verildi. 1779'da ölümünden sonra sadık Han Shaqaqi ve Sarab Hanlığı 1787'de Tebriz'i fethetti ve Hodadad Han'ı öldürdü. Ağa Muhammed Han Kajar'ın 1791'de Azerbaycan'ı işgali, Tebriz'i Dunbuli'ye geri veren Serab Hanlığı'nı yok etti. Ağa Muhammed Han, 1796 yılında şah ve tüm İran'ın İmparatoru olarak ilan edildi. 1797'de ölümünden sonra, Sadık Han Shaqaqi yeni İran hükümdarı Feth Ali'ye karşı isyan etti ve Dunbuli topraklarını ele geçirmeye çalıştı, ancak püskürtüldü. Cafer Kulu Han Dunbuli Tebriz Valisi olarak atandığında 1798'de affedildi, ancak tekrar isyan etti, 1800'de Gülistan Sarayı'nda tekrar yakalandı ve hapsedildi. 1809 yılında Tebriz Hanlığı, geleneksel olarak Tebriz'deki iktidar koltuğuyl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1952,
+      "end_char": 2254,
+      "content": " olarak atandığında 1798'de affedildi, ancak tekrar isyan etti, 1800'de Gülistan Sarayı'nda tekrar yakalandı ve hapsedildi. 1809 yılında Tebriz Hanlığı, geleneksel olarak Tebriz'deki iktidar koltuğuyla Azerbaycan Valiliği görevini üstlenen Kaçar veliaht prensi'nin yeni kurulan naipliğine dahil edildi.",
+      "char_count": 302,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0004",
+      "section": "== Tebriz Hanları ==",
+      "heading_path": "== Tebriz Hanları ==",
+      "start_char": 2255,
+      "end_char": 2413,
+      "content": "== Tebriz Hanları == I. Necef Kulu Han (1713-1785) Hodadad Han (1785-1787) Hüseyin Kulu Han (1756-1798) Cafer Kulu Han Dunbuli (1793-1797) II. Necef Kulu Han",
+      "char_count": 157,
+      "token_estimate": 39
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Nadir Şah'ın ölümünden sonra Azerbaycan'ı hangi Peştun savaş ağası aldı?",
+        "answer": "Azad Han Afgan.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tebriz Hanlığı'nın kuruluşu, ilk dönemdeki genişlemesi, sonraki süreçte kontrolünün nasıl el değiştirdiği ve nihai olarak sona ermesi hakkında bilgi verin.",
+        "answer": "Tebriz Hanlığı, 1757 yılında Dunbuli Aşireti reisi Necef Kulu tarafından kuruldu. Hanlığın merkezi Tebriz olarak belirlendi. Necef Kulu Han ve yeğeni II. Şahbaz Han, Erdebil, Halhal ve Güney Azerbaycan'ın bazı bölgelerini işgal ederek sınırlarını genişleten Urmiye Hanı Feth Ali Han Afşar'a katıldı. Feth Ali Han kendisini tüm Azerbaycan'ın yüce hükümdarı ilan etti ve Tebriz Hanlığı'nın başkenti oldu. Muhammed Hasan Han Kaçar'ın 1757'deki Azerbaycan işgali sırasında Dunbuli şefleri Muhammed Hasan'a sığındı ve sonuç olarak Şahbaz Han Dunbuli'ye Tebriz'in kontrolü verildi. 1779'da Şahbaz Han'ın ölümünün ardından, Sadık Han Shaqaqi ve Sarab Hanlığı 1787'de Tebriz'i fethederek Hodadad Han'ı öldürdü. Ancak, Ağa Muhammed Han Kajar'ın 1791'deki Azerbaycan işgali Sarab Hanlığı'nı yok etti ve Tebriz'i Dunbuli'ye geri verdi. 1798'de Cafer Kulu Han Dunbuli Tebriz Valisi olarak atansa da daha sonra isyan ederek hapsedildi. Hanlık 1802'de lağvedildi ve toprakları Hoy Hanlığı'na katıldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

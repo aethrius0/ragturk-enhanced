@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "torstennwiesel_36290538",
+    "title": "Torsten N. Wiesel",
+    "url": "https://tr.wikipedia.org/wiki/Torsten_N._Wiesel",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:11.721791",
+    "content": "Torsten Nils Wiesel (d. 3 Haziran 1924), İsveçli nörofizyologdur. 1981 yılında David H. Hubel ile birlikte görme sisteminin bilgi işleme süreçleri ile ilgili çalışmaları nedeniyle Nobel Fizyoloji veya Tıp Ödülü kazanmıştır. Ödülü beyin hemisferleriyle ilgili yaptığı bağımsız araştırmalar nedeniyle kazanan Roger W. Sperry ile de paylaşmıştır. == Yayınları == Hubel, D. H. & T. N. Wiesel, Receptive Fields Of Single Neurones In The Cat's Striate Cortex, Journal of Physiology, (1959) I48, 574-59I. Hubel, D. H. & T. N. Wiesel. Receptive Fields, Binocular Interaction And Functional Architecture In The Cat's Visual Cortex, Journal of Physiology, (1962), 160, pp. 106–154, With 2 plates and 20 text-figures. == Kaynakça == Berlucchi, Giovanni (Aralık 2006). \"Revisiting the 1981 Nobel Prize to Roger Sperry, David Hubel, and Torsten Wiesel on the occasion of the centennial of the Prize to Golgi and Cajal\". Journal of the history of the neurosciences. 15 (4). ss. 369-75. doi:10.1080/09647040600639013. PMID 16997764. Shampo, M A; Kyle, R A (Kasım 1994). \"Torsten Wiesel--Swedish neurobiologist wins Nobel Prize\". Mayo Clin. Proc. 69 (11). s. 1026. PMID 7967753. Korczyn, A (15 Aralık 1981). \"[Nobel prize winners in medicine--1981 (Torsten Wiesel, David Hubel)]\". Harefuah. 101 (12). ss. 378-9. PMID 7042494. Prasanna, Venkhatesh V (12 Ocak 2011). \"Do we learn to see?\". Resonance: Journal of Science Education. 16 (1). ss. 88-99. == Kaynakça == == Dış bağlantılar == Nobel Prize Biography 2 Aralık 2001 tarihinde Wayback Machine sitesinde arşivlendi. The Official Site of Louisa Gross Horwitz Prize6 Mart 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 248,
+      "char_count": 1659,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.761129",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 344,
+      "content": "Torsten Nils Wiesel (d. 3 Haziran 1924), İsveçli nörofizyologdur. 1981 yılında David H. Hubel ile birlikte görme sisteminin bilgi işleme süreçleri ile ilgili çalışmaları nedeniyle Nobel Fizyoloji veya Tıp Ödülü kazanmıştır. Ödülü beyin hemisferleriyle ilgili yaptığı bağımsız araştırmalar nedeniyle kazanan Roger W. Sperry ile de paylaşmıştır.",
+      "char_count": 343,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0001",
+      "section": "== Yayınları ==",
+      "heading_path": "== Yayınları ==",
+      "start_char": 344,
+      "end_char": 707,
+      "content": "== Yayınları == Hubel, D. H. & T. N. Wiesel, Receptive Fields Of Single Neurones In The Cat's Striate Cortex, Journal of Physiology, (1959) I48, 574-59I. Hubel, D. H. & T. N. Wiesel. Receptive Fields, Binocular Interaction And Functional Architecture In The Cat's Visual Cortex, Journal of Physiology, (1962), 160, pp. 106–154, With 2 plates and 20 text-figures.",
+      "char_count": 362,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 707,
+      "end_char": 1432,
+      "content": "== Kaynakça == Berlucchi, Giovanni (Aralık 2006). \"Revisiting the 1981 Nobel Prize to Roger Sperry, David Hubel, and Torsten Wiesel on the occasion of the centennial of the Prize to Golgi and Cajal\". Journal of the history of the neurosciences. 15 (4). ss. 369-75. doi:10.1080/09647040600639013. PMID 16997764. Shampo, M A; Kyle, R A (Kasım 1994). \"Torsten Wiesel--Swedish neurobiologist wins Nobel Prize\". Mayo Clin. Proc. 69 (11). s. 1026. PMID 7967753. Korczyn, A (15 Aralık 1981). \"[Nobel prize winners in medicine--1981 (Torsten Wiesel, David Hubel)]\". Harefuah. 101 (12). ss. 378-9. PMID 7042494. Prasanna, Venkhatesh V (12 Ocak 2011). \"Do we learn to see?\". Resonance: Journal of Science Education. 16 (1). ss. 88-99.",
+      "char_count": 724,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1447,
+      "end_char": 1659,
+      "content": "== Dış bağlantılar == Nobel Prize Biography 2 Aralık 2001 tarihinde Wayback Machine sitesinde arşivlendi. The Official Site of Louisa Gross Horwitz Prize6 Mart 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 212,
+      "token_estimate": 53
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1981 Nobel Ödülü'nü kazananlardan metinde adı geçenler kimlerdir?",
+        "answer": "Roger Sperry, David Hubel ve Torsten Wiesel.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "1981 Nobel Fizyoloji veya Tıp Ödülü'nü David H. Hubel ile birlikte kazanan Torsten Nils Wiesel'in görme sisteminin bilgi işleme süreçleri üzerine yaptığı çalışmaların ana konuları ve bu konularda yayımladığı önemli makalelerin yılları nelerdir?",
+        "answer": "Torsten Nils Wiesel ve David H. Hubel'in görme sistemi üzerine yaptıkları çalışmaların ana konuları, kedilerin striat korteksindeki tek nöronların reseptif alanları, binoküler etkileşim ve kedilerin görsel korteksindeki fonksiyonel mimaridir. Bu konular üzerine yayımladıkları önemli makalelerden bazıları 1959 ve 1962 yıllarına aittir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

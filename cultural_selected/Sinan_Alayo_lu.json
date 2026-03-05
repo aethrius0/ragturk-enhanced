@@ -1,0 +1,144 @@
+{
+  "article": {
+    "id": "sinanalayolu_26ddcf13",
+    "title": "Sinan Alayoğlu",
+    "url": "https://tr.wikipedia.org/wiki/Sinan_Alayo%C4%9Flu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:41.188913",
+    "content": "Sinan Alayoğlu (14 Aralık 1949 - 15 Temmuz 2011, İstanbul), Türk eski millî futbolcudur. == Kariyer == === Boluspor === Alayoğlu, 1970-1972 yılları arasında Kırşehirspor'da forma giydi. 1972'de 1. Lig ekibi Boluspor'a transfer oldu. 10 Eylül 1972'de Beşiktaş karşısında forma giyerek ilk kez birinci ligde forma giydi. 11 Mart 1973'te PTT karşısında aldıkları 3-2'lik galibiyette ilk golünü attı. Bu maçtan itibaren Alayoğlu, golleriyle dikkat çekmeye başladı. 25 Mart'ta Vefa'yı 5-1 yendikleri maçta 3 gol atarken, 22 Nisan'da Samsunspor'a 4 gol birden kaydetti. Sezonu 11 golle kapattı. Sonraki sezona da Galatasaray'ya bir gol atarak başladı. 25 maçta 12 gol ile ikinci sezonunu tamamladı. Boluspor, o sezon ligi üçüncü bitirerek tarihinin en iyi derecesini aldı. === Beşiktaş JK === 1974-75 sezonu öncesinde Beşiktaş'a transfer oldu. Beşiktaş ile ilk resmi maçında 27 Temmuz 1974'te Türkiye Donanma Vakfı Kupası'nda Galatasaray ile oynadı ve ilk golünü bu maçta penaltıdan kaydetti. Sezon öncesi Türkiye Spor Yazarları Derneği Kupası'nda Fenerbahçe'ya hat-trick yaparak dikkat çekti. Ancak ligi 22 maçta sadece üç gol ile tamamladı. Ancak bu gollerin ikisini Galatasaray ve Fenerbahçe'ye attı. Sezonun tesellisi ise Türkiye Kupası oldu. Trabzonspor'u 2-0 yenerek kupayı kaldırdıkları maçta Alayoğlu da 90 dakika forma giydi. Ayrıca kariyerinde ilk kez Avrupa'da forma giyen futbolcu, UEFA Kupası birinci tur ilk maçında FC Braşov'a bir gol attı. Sonraki sezon daha iyi bir performans gösterip, sezonu 7 golle tamamladı. Ancak, Beşiktaş sezonu 11. bitirerek hayal kırıklığı yarattı. Sezon sonunda da Alayoğlu ile yollar ayrıldı. === Son yılları === 1976-77 sezonunda Adanaspor'a transfer oldu. 11 maçta sadece 2 gol atabildi. 1977-1979 sezonları arasında ise Zonguldakspor'da birinci ligde forma giydi. Sezon sonunda futbolcu futbolu bıraktı. == Millî takım kariyeri == 1973'te düzenlenen Balkan Kupası organizasyonunda Bulgaristan'a karşı Türkiye 21 yaş altı millî futbol takımı'nın formasını ilk ve son kez giydi. 1974'te RCD Kupası nedeniyle ilk kez Türkiye millî futbol takımı kadrosuna dahil edildi ve iki maçta da forma giydi. 20 Ocak 1974'te İran'ı 1-0 yendikleri maçta ilk millî golünü kaydetti. Alayoğlu, attığı bu golle Türkiye'ye kupayı kazandıran isim oldu. == Ölümü == 15 Temmuz 2011 tarihinde 62 yaşında hayatını kaybetti. Cenazesi Sahrayıcedid Camii'nde kılınan cenaze namazının ardından Ümraniye Kocatepe Mezarlığı'na defnedildi. == Başarıları == === Futbolcu olarak === ==== Beşiktaş JK ==== Türkiye Kupası (1): 1974-75 ==== Türkiye ==== RCD Kupası (1): 1974 == Kaynakça == == Dış bağlantılar == TFF.org'da Sinan Alayoğlu Mackolik'te Sinan Alayoğlu Transfermarkt'ta Sinan Alayoğlu National-Football-Teams.com'da Sinan Alayoğlu",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 393,
+      "char_count": 2746,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.024248",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 89,
+      "content": "Sinan Alayoğlu (14 Aralık 1949 - 15 Temmuz 2011, İstanbul), Türk eski millî futbolcudur.",
+      "char_count": 88,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0001",
+      "section": "=== Boluspor ===",
+      "heading_path": "=== Boluspor ===",
+      "start_char": 103,
+      "end_char": 767,
+      "content": "=== Boluspor === Alayoğlu, 1970-1972 yılları arasında Kırşehirspor'da forma giydi. 1972'de 1. Lig ekibi Boluspor'a transfer oldu. 10 Eylül 1972'de Beşiktaş karşısında forma giyerek ilk kez birinci ligde forma giydi. 11 Mart 1973'te PTT karşısında aldıkları 3-2'lik galibiyette ilk golünü attı. Bu maçtan itibaren Alayoğlu, golleriyle dikkat çekmeye başladı. 25 Mart'ta Vefa'yı 5-1 yendikleri maçta 3 gol atarken, 22 Nisan'da Samsunspor'a 4 gol birden kaydetti. Sezonu 11 golle kapattı. Sonraki sezona da Galatasaray'ya bir gol atarak başladı. 25 maçta 12 gol ile ikinci sezonunu tamamladı. Boluspor, o sezon ligi üçüncü bitirerek tarihinin en iyi derecesini aldı.",
+      "char_count": 663,
+      "token_estimate": 165
+    },
+    {
+      "id": "c0002",
+      "section": "=== Beşiktaş JK ===",
+      "heading_path": "=== Beşiktaş JK ===",
+      "start_char": 767,
+      "end_char": 1632,
+      "content": "=== Beşiktaş JK === 1974-75 sezonu öncesinde Beşiktaş'a transfer oldu. Beşiktaş ile ilk resmi maçında 27 Temmuz 1974'te Türkiye Donanma Vakfı Kupası'nda Galatasaray ile oynadı ve ilk golünü bu maçta penaltıdan kaydetti. Sezon öncesi Türkiye Spor Yazarları Derneği Kupası'nda Fenerbahçe'ya hat-trick yaparak dikkat çekti. Ancak ligi 22 maçta sadece üç gol ile tamamladı. Ancak bu gollerin ikisini Galatasaray ve Fenerbahçe'ye attı. Sezonun tesellisi ise Türkiye Kupası oldu. Trabzonspor'u 2-0 yenerek kupayı kaldırdıkları maçta Alayoğlu da 90 dakika forma giydi. Ayrıca kariyerinde ilk kez Avrupa'da forma giyen futbolcu, UEFA Kupası birinci tur ilk maçında FC Braşov'a bir gol attı. Sonraki sezon daha iyi bir performans gösterip, sezonu 7 golle tamamladı. Ancak, Beşiktaş sezonu 11. bitirerek hayal kırıklığı yarattı. Sezon sonunda da Alayoğlu ile yollar ayrıldı.",
+      "char_count": 864,
+      "token_estimate": 216
+    },
+    {
+      "id": "c0003",
+      "section": "=== Son yılları ===",
+      "heading_path": "=== Son yılları ===",
+      "start_char": 1632,
+      "end_char": 1846,
+      "content": "=== Son yılları === 1976-77 sezonunda Adanaspor'a transfer oldu. 11 maçta sadece 2 gol atabildi. 1977-1979 sezonları arasında ise Zonguldakspor'da birinci ligde forma giydi. Sezon sonunda futbolcu futbolu bıraktı.",
+      "char_count": 213,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0004",
+      "section": "== Millî takım kariyeri ==",
+      "heading_path": "== Millî takım kariyeri ==",
+      "start_char": 1846,
+      "end_char": 2273,
+      "content": "== Millî takım kariyeri == 1973'te düzenlenen Balkan Kupası organizasyonunda Bulgaristan'a karşı Türkiye 21 yaş altı millî futbol takımı'nın formasını ilk ve son kez giydi. 1974'te RCD Kupası nedeniyle ilk kez Türkiye millî futbol takımı kadrosuna dahil edildi ve iki maçta da forma giydi. 20 Ocak 1974'te İran'ı 1-0 yendikleri maçta ilk millî golünü kaydetti. Alayoğlu, attığı bu golle Türkiye'ye kupayı kazandıran isim oldu.",
+      "char_count": 426,
+      "token_estimate": 106
+    },
+    {
+      "id": "c0005",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 2273,
+      "end_char": 2449,
+      "content": "== Ölümü == 15 Temmuz 2011 tarihinde 62 yaşında hayatını kaybetti. Cenazesi Sahrayıcedid Camii'nde kılınan cenaze namazının ardından Ümraniye Kocatepe Mezarlığı'na defnedildi.",
+      "char_count": 175,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0006",
+      "section": "==== Beşiktaş JK ====",
+      "heading_path": "==== Beşiktaş JK ====",
+      "start_char": 2490,
+      "end_char": 2540,
+      "content": "==== Beşiktaş JK ==== Türkiye Kupası (1): 1974-75",
+      "char_count": 49,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0007",
+      "section": "==== Türkiye ====",
+      "heading_path": "==== Türkiye ====",
+      "start_char": 2540,
+      "end_char": 2579,
+      "content": "==== Türkiye ==== RCD Kupası (1): 1974",
+      "char_count": 38,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2594,
+      "end_char": 2746,
+      "content": "== Dış bağlantılar == TFF.org'da Sinan Alayoğlu Mackolik'te Sinan Alayoğlu Transfermarkt'ta Sinan Alayoğlu National-Football-Teams.com'da Sinan Alayoğlu",
+      "char_count": 152,
+      "token_estimate": 38
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Alayoğlu, Beşiktaş ile ilk resmi maçında hangi takıma karşı oynamıştır?",
+        "answer": "Galatasaray",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sinan Alayoğlu'nun Boluspor ve Beşiktaş JK'daki kariyerlerindeki bireysel gol performansı ve takımlarının ligdeki başarıları açısından nasıl bir karşıtlık gözlemlenmiştir?",
+        "answer": "Boluspor'da oynadığı iki sezonda sırasıyla 11 ve 12 gol atarak takımının ligi üçüncü bitirmesine ve tarihinin en iyi derecesini almasına katkıda bulunmuştur. Beşiktaş JK'ya transfer olduğunda ise ilk lig sezonunda sadece üç gol, ikinci sezonunda ise yedi gol atmıştır ve Beşiktaş ikinci sezonunda ligi 11. sırada bitirerek hayal kırıklığı yaratmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

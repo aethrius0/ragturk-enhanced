@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "katieholmes_c7578b4e",
+    "title": "Katie Holmes",
+    "url": "https://tr.wikipedia.org/wiki/Katie_Holmes",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:28.508122",
+    "content": "Kate Noelle Holmes (d. 18 Aralık 1978; Toledo, Ohio), Amerikalı oyuncu ve yapımcı. == Hayatı == Kate Noelle Holmes, 18 Aralık 1978 yılında Toledo, Ohio'da beş çocuklu bir ailenin en küçüğü olarak dünyaya geldi. Holmes, Nisan 2005'te aktör Tom Cruise ile çıkmaya başladı. Bir Katolik olarak yetiştirilen Holmes, Tom Cruise ile çıkmaya başladıktan kısa bir süre sonra Scientology okumaya başladı. Tanıştıktan sadece yedi hafta sonra, Haziran 2005'te nişanlandılar. Çiftin kızı Suri, ilk buluşmalarının birinci yıl dönümü olan 18 Nisan 2006'da dünyaya geldi. Cruise'un basın açıklamasına göre \"Suri\" adı, Farsça \"kırmızı gül\" ve İbranice \"prenses\" kelimesinden türemiştir. 18 Kasım 2006'da Holmes ve Cruise, İtalya, Bracciano'daki 15. yüzyıldan kalma Odescalchi Kalesi'nde bir Scientologist töreniyle evlendiler. Reklamcıları, çiftin, İtalya'daki törenden bir gün önce Los Angeles'ta evliliklerini \"resmileştirdiğini\" söyledi. 29 Haziran 2012'de, beş buçuk yıllık evlilikten sonra New York'ta Cruise'dan boşanma davası açtı. Açıklamanın ardından Holmes'a yakın kişiler, Cruise'un Suri'yi kaçıracağına dair korkması için nedenleri olduğunu ve ayrıca Scientology Kilisesi tarafından gözdağı verilmesinden endişe ettiğini belirtti. Temmuz 2012'de avukatlar, çiftin boşanma anlaşması imzaladığını duyurdu. Bu, Holmes için ilk ve Cruise için üçüncü boşanmaydı. Holmes, Suri'nin velayetini elinde tutuyor. Cruise'dan boşandıktan sonra Holmes, Katolik Kilisesi'ne döndü ve St. Francis Xavier Kilisesi'ne gitmeye başladı. 2013'ten 2019'a kadar Holmes, aktör ve şarkıcı Jamie Foxx ile ilişki içindeydi. Holmes, 2020'den 2021'e kadar şef Emilio Vitolo Jr ile çıktı. == Filmografi == == Kaynakça == == Dış Bağlantılar == IMDb'de Katie Holmes Instagram'da Katie Holmes",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 236,
+      "char_count": 1753,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.130697",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 83,
+      "content": "Kate Noelle Holmes (d. 18 Aralık 1978; Toledo, Ohio), Amerikalı oyuncu ve yapımcı.",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 83,
+      "end_char": 1083,
+      "content": "== Hayatı == Kate Noelle Holmes, 18 Aralık 1978 yılında Toledo, Ohio'da beş çocuklu bir ailenin en küçüğü olarak dünyaya geldi. Holmes, Nisan 2005'te aktör Tom Cruise ile çıkmaya başladı. Bir Katolik olarak yetiştirilen Holmes, Tom Cruise ile çıkmaya başladıktan kısa bir süre sonra Scientology okumaya başladı. Tanıştıktan sadece yedi hafta sonra, Haziran 2005'te nişanlandılar. Çiftin kızı Suri, ilk buluşmalarının birinci yıl dönümü olan 18 Nisan 2006'da dünyaya geldi. Cruise'un basın açıklamasına göre \"Suri\" adı, Farsça \"kırmızı gül\" ve İbranice \"prenses\" kelimesinden türemiştir. 18 Kasım 2006'da Holmes ve Cruise, İtalya, Bracciano'daki 15. yüzyıldan kalma Odescalchi Kalesi'nde bir Scientologist töreniyle evlendiler. Reklamcıları, çiftin, İtalya'daki törenden bir gün önce Los Angeles'ta evliliklerini \"resmileştirdiğini\" söyledi. 29 Haziran 2012'de, beş buçuk yıllık evlilikten sonra New York'ta Cruise'dan boşanma davası açtı. Açıklamanın ardından Holmes'a yakın kişiler, Cruise'un Suri'y",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 883,
+      "end_char": 1652,
+      "content": "liliklerini \"resmileştirdiğini\" söyledi. 29 Haziran 2012'de, beş buçuk yıllık evlilikten sonra New York'ta Cruise'dan boşanma davası açtı. Açıklamanın ardından Holmes'a yakın kişiler, Cruise'un Suri'yi kaçıracağına dair korkması için nedenleri olduğunu ve ayrıca Scientology Kilisesi tarafından gözdağı verilmesinden endişe ettiğini belirtti. Temmuz 2012'de avukatlar, çiftin boşanma anlaşması imzaladığını duyurdu. Bu, Holmes için ilk ve Cruise için üçüncü boşanmaydı. Holmes, Suri'nin velayetini elinde tutuyor. Cruise'dan boşandıktan sonra Holmes, Katolik Kilisesi'ne döndü ve St. Francis Xavier Kilisesi'ne gitmeye başladı. 2013'ten 2019'a kadar Holmes, aktör ve şarkıcı Jamie Foxx ile ilişki içindeydi. Holmes, 2020'den 2021'e kadar şef Emilio Vitolo Jr ile çıktı.",
+      "char_count": 769,
+      "token_estimate": 192
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış Bağlantılar ==",
+      "heading_path": "== Dış Bağlantılar ==",
+      "start_char": 1685,
+      "end_char": 1753,
+      "content": "== Dış Bağlantılar == IMDb'de Katie Holmes Instagram'da Katie Holmes",
+      "char_count": 68,
+      "token_estimate": 17
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kate Noelle Holmes ne zaman ve nerede doğdu?",
+        "answer": "18 Aralık 1978 tarihinde Toledo, Ohio'da doğdu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kate Holmes'un Tom Cruise ile olan ilişkisi ve boşanması, dini inançları ve aile hayatı üzerinde nasıl bir etki yarattı?",
+        "answer": "Kate Holmes, Tom Cruise ile çıkmaya başladıktan kısa bir süre sonra Katolik inancını bırakarak Scientology'ye geçti ve çiftin Suri adında bir kızı oldu. Beş buçuk yıllık evliliklerinin ardından boşanma davası açtı ve boşanma nedenleri arasında Cruise'un Suri'yi kaçıracağına dair korkuları ve Scientology Kilisesi'nin gözdağı verme endişesi vardı. Boşanmanın ardından Suri'nin velayetini elinde tuttu ve Katolik Kilisesi'ne geri döndü.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

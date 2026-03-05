@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "yedisu_36f524d1",
+    "title": "Yedisu",
+    "url": "https://tr.wikipedia.org/wiki/Yedisu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:58.611673",
+    "content": "Yedisu, Bingöl iline bağlı bir ilçedir. == Tarihçe == İlçe, 250 yıllık bir tarihi geçmişe sahiptir. 1951 yılına kadar Çerme köyü olarak, 1951 yılından sonra Kiğı ilçesine bağlı Çerme Bucağı olarak idari taksimatta yerini aldığı görülmektedir. 1970 yılında YSE Müdürlüğünce Çerme merkezinde yapılan ve yedi musluk ihtiva eden çeşmeden dolayı Yedisu ismini almıştır. Yedisu ilçesi, 20 Mayıs 1990 tarih ve 20523 Sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 9 Mayıs 1990 tarih ve 3644 sayılı \"130 İlçe Kurulması Hakkındaki Kanun\"la kurulmuştur. == Coğrafya == İlçenin yüzölçümü 423 km²’dir. İl yüzölçümüne oranı yüzde 5,24'tür. İlçe merkezinin deniz seviyesinden yüksekliği 1.500 metredir. İl merkezinden uzaklığı 124 km'dir. İlçe merkezi ve bağlı köylerin çoğu Peri suyu etrafında doğu batı aksında bir vadi içinde sıralanmıştır. Peri Vadisinin etrafı dağlık ve sarp bir arazi yapısına sahiptir. Doğusunda Çavuşlu Dağı, güneyinde Şeytan Dağı (2.906 m) batısında Bağır Dağı, kuzeyinde Koşan Dağları (3.078 m) bulunmaktadır. Kuzey Anadolu Fayının en doğu noktasında yer aldığından dolayı deprem riski çok fazladır. == Nüfus == == İdari yapısı == İlçenin bir belediyesi, 13 köyü ve 64 mezrası mevcuttur. Belediye sınırları içinde kalan mahalle muhtarlığı sayısı ise beştir. Yedisu'da güvenlik ilçe jandarma komutanlığı tarafından sağlanmakta olup Derecik ile birlikte henüz emniyet teşkilatının bulunmadığı iki ilçeden biridir. == Kaynakça == == Dış bağlantılar == Yedisu Kaymakamlığı 5 Ağustos 2009 tarihinde Wayback Machine sitesinde arşivlendi. Yedisu Belediye Başkanlığı 24 Eylül 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 231,
+      "char_count": 1637,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.114016",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 40,
+      "content": "Yedisu, Bingöl iline bağlı bir ilçedir.",
+      "char_count": 39,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 40,
+      "end_char": 548,
+      "content": "== Tarihçe == İlçe, 250 yıllık bir tarihi geçmişe sahiptir. 1951 yılına kadar Çerme köyü olarak, 1951 yılından sonra Kiğı ilçesine bağlı Çerme Bucağı olarak idari taksimatta yerini aldığı görülmektedir. 1970 yılında YSE Müdürlüğünce Çerme merkezinde yapılan ve yedi musluk ihtiva eden çeşmeden dolayı Yedisu ismini almıştır. Yedisu ilçesi, 20 Mayıs 1990 tarih ve 20523 Sayılı Resmi Gazete'de yayımlanarak yürürlüğe giren 9 Mayıs 1990 tarih ve 3644 sayılı \"130 İlçe Kurulması Hakkındaki Kanun\"la kurulmuştur.",
+      "char_count": 507,
+      "token_estimate": 126
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 548,
+      "end_char": 1117,
+      "content": "== Coğrafya == İlçenin yüzölçümü 423 km²’dir. İl yüzölçümüne oranı yüzde 5,24'tür. İlçe merkezinin deniz seviyesinden yüksekliği 1.500 metredir. İl merkezinden uzaklığı 124 km'dir. İlçe merkezi ve bağlı köylerin çoğu Peri suyu etrafında doğu batı aksında bir vadi içinde sıralanmıştır. Peri Vadisinin etrafı dağlık ve sarp bir arazi yapısına sahiptir. Doğusunda Çavuşlu Dağı, güneyinde Şeytan Dağı (2.906 m) batısında Bağır Dağı, kuzeyinde Koşan Dağları (3.078 m) bulunmaktadır. Kuzey Anadolu Fayının en doğu noktasında yer aldığından dolayı deprem riski çok fazladır.",
+      "char_count": 568,
+      "token_estimate": 142
+    },
+    {
+      "id": "c0003",
+      "section": "== İdari yapısı ==",
+      "heading_path": "== İdari yapısı ==",
+      "start_char": 1129,
+      "end_char": 1429,
+      "content": "== İdari yapısı == İlçenin bir belediyesi, 13 köyü ve 64 mezrası mevcuttur. Belediye sınırları içinde kalan mahalle muhtarlığı sayısı ise beştir. Yedisu'da güvenlik ilçe jandarma komutanlığı tarafından sağlanmakta olup Derecik ile birlikte henüz emniyet teşkilatının bulunmadığı iki ilçeden biridir.",
+      "char_count": 299,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1444,
+      "end_char": 1637,
+      "content": "== Dış bağlantılar == Yedisu Kaymakamlığı 5 Ağustos 2009 tarihinde Wayback Machine sitesinde arşivlendi. Yedisu Belediye Başkanlığı 24 Eylül 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 193,
+      "token_estimate": 48
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İlçenin yüzölçümü kaç km²'dir?",
+        "answer": "423 km²",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yedisu ilçesi hangi ile bağlıdır, adını ne zaman ve hangi olaydan almıştır ve coğrafi konumu itibarıyla hangi önemli riski barındırmaktadır?",
+        "answer": "Yedisu, Bingöl iline bağlı bir ilçedir. Adını 1970 yılında YSE Müdürlüğünce Çerme merkezinde yapılan ve yedi musluk ihtiva eden çeşmeden dolayı almıştır. Kuzey Anadolu Fayının en doğu noktasında yer aldığından dolayı çok fazla deprem riski taşımaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

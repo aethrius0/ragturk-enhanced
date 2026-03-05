@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "azizyorgiha_29dd8c90",
+    "title": "Aziz Yorgi Haçı",
+    "url": "https://tr.wikipedia.org/wiki/Aziz_Yorgi_Ha%C3%A7%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:05.001145",
+    "content": "Arma bilimi içinde Aziz Yorgi Haçı, beyaz zemin üzerinde kırmızı bir haçtır ve Geç Orta Çağ'dan itibaren, genellikle bir haçlı askeri olarak tasvir edilen olan Aziz Yorgi ile ilişkilendirilmiştir. Haçlı seferleriyle ilişkilendirilen beyaz üzerine kırmızı haçın kökenleri 10. yüzyıldadır. Yaklaşık olarak 10. yüzyılın başlarından itibaren Cenova Cumhuriyeti'nin sancağı olarak kullanılmıştır. Yorgi, İngiliz Reformasyonundan sonra İngiltere'nin koruyucu azizi olarak ilişkilendirildi. O zamandan beri bu bayrak genellikle İngiltere'nin ulusal bayrağı olarak tanımlanıyor. Aziz Yorgi, İspanya'nın yarı özerk Katalonya bölgesinin ve Gürcistan ülkesinin de koruyucu azizidir. Barcelona'nın ambleminde, Ekvador'un önde gelen takımı Barcelona SC'de ve Barselona Bayrağının dörtte ikisinde aynı sembol yer alır. Bologna, Padua, Reggio Emilia, Mantua, Vercelli ve Alessandria olmak üzere bütün Kuzey İtalya şehir bayraklarında aynı sembol kullanılır. == Tarihi == Aziz Yorgi, Üçüncü Haçlı Seferi sırasında geniş çapta bir savaşçı aziz olarak saygı gördü. Godefroy de Bouillon'a mucizevi bir şekilde yardım ettiğine dair bir efsane vardır. Ayrıca Aslan Yürekli Richard'ın kendisini koruması altına aldığını dair de efsaneler bulunur. Efsaneye göre Haçlılar, 28 Haziran 1098'de Antakya Kuşatmasında, Aziz Yorgi, Aziz Demetrius ve Aziz Mercurius liderliğindeki beyaz atlar üzerinde, beyazlar giymiş ve beyaz sancaklar taşıyan büyük bir ordudan mucizevi yardım aldılar. Bununla birlikte, haçlı seferlerinin bitiminden önce Aziz Yorgi ile kızıl haç ilişkisi yoktu. Özellikle kızıl haç, İkinci Haçlı Seferi (1145) zamanından beri Tapınak Şövalyeleri ile ilişkilendirilmiştir, ancak 1188'de kırmızı ve beyaz haçlar kralların Haçlı Seferinde Fransız ve İngiliz birliklerini tanımlamak için seçilmiştir. Aziz Yorgi'nin beyaz üzerine kırmızı bir haç taşıyan bir haçlı şövalyesi olarak ilk temsilleri hala 13. yüzyılın sonlarına dayanmaktadır ve 14. ve 15. yüzyıllarda azizin atfedilen kolları olarak yaygınlaşmaktadır. İngiltere'den III. Edward, 1348'de Dizbağı Nişanı'nın koruyucu azizi olarak Aziz Yorgi'yi seçti ve ayrıca Kraliyet sancağında beyaz üzerine kırmızı bir haç kullanmaya başladı. == Kullanıldığı bayrak ve armalar == Aziz Yorgi Haçı tarihten günümüze pek çok hanedan ve devletin arması olarak kullanılmıştır. == Ayrıca bakınız == Haç == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 311,
+      "char_count": 2345,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.660536",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 943,
+      "content": "Arma bilimi içinde Aziz Yorgi Haçı, beyaz zemin üzerinde kırmızı bir haçtır ve Geç Orta Çağ'dan itibaren, genellikle bir haçlı askeri olarak tasvir edilen olan Aziz Yorgi ile ilişkilendirilmiştir. Haçlı seferleriyle ilişkilendirilen beyaz üzerine kırmızı haçın kökenleri 10. yüzyıldadır. Yaklaşık olarak 10. yüzyılın başlarından itibaren Cenova Cumhuriyeti'nin sancağı olarak kullanılmıştır. Yorgi, İngiliz Reformasyonundan sonra İngiltere'nin koruyucu azizi olarak ilişkilendirildi. O zamandan beri bu bayrak genellikle İngiltere'nin ulusal bayrağı olarak tanımlanıyor. Aziz Yorgi, İspanya'nın yarı özerk Katalonya bölgesinin ve Gürcistan ülkesinin de koruyucu azizidir. Barcelona'nın ambleminde, Ekvador'un önde gelen takımı Barcelona SC'de ve Barselona Bayrağının dörtte ikisinde aynı sembol yer alır. Bologna, Padua, Reggio Emilia, Mantua, Vercelli ve Alessandria olmak üzere bütün Kuzey İtalya şehir bayraklarında aynı sembol kullanılır.",
+      "char_count": 942,
+      "token_estimate": 235
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 943,
+      "end_char": 1943,
+      "content": "== Tarihi == Aziz Yorgi, Üçüncü Haçlı Seferi sırasında geniş çapta bir savaşçı aziz olarak saygı gördü. Godefroy de Bouillon'a mucizevi bir şekilde yardım ettiğine dair bir efsane vardır. Ayrıca Aslan Yürekli Richard'ın kendisini koruması altına aldığını dair de efsaneler bulunur. Efsaneye göre Haçlılar, 28 Haziran 1098'de Antakya Kuşatmasında, Aziz Yorgi, Aziz Demetrius ve Aziz Mercurius liderliğindeki beyaz atlar üzerinde, beyazlar giymiş ve beyaz sancaklar taşıyan büyük bir ordudan mucizevi yardım aldılar. Bununla birlikte, haçlı seferlerinin bitiminden önce Aziz Yorgi ile kızıl haç ilişkisi yoktu. Özellikle kızıl haç, İkinci Haçlı Seferi (1145) zamanından beri Tapınak Şövalyeleri ile ilişkilendirilmiştir, ancak 1188'de kırmızı ve beyaz haçlar kralların Haçlı Seferinde Fransız ve İngiliz birliklerini tanımlamak için seçilmiştir. Aziz Yorgi'nin beyaz üzerine kırmızı bir haç taşıyan bir haçlı şövalyesi olarak ilk temsilleri hala 13. yüzyılın sonlarına dayanmaktadır ve 14. ve 15. yüzyı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1743,
+      "end_char": 2176,
+      "content": "z birliklerini tanımlamak için seçilmiştir. Aziz Yorgi'nin beyaz üzerine kırmızı bir haç taşıyan bir haçlı şövalyesi olarak ilk temsilleri hala 13. yüzyılın sonlarına dayanmaktadır ve 14. ve 15. yüzyıllarda azizin atfedilen kolları olarak yaygınlaşmaktadır. İngiltere'den III. Edward, 1348'de Dizbağı Nişanı'nın koruyucu azizi olarak Aziz Yorgi'yi seçti ve ayrıca Kraliyet sancağında beyaz üzerine kırmızı bir haç kullanmaya başladı.",
+      "char_count": 433,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0003",
+      "section": "== Kullanıldığı bayrak ve armalar ==",
+      "heading_path": "== Kullanıldığı bayrak ve armalar ==",
+      "start_char": 2177,
+      "end_char": 2306,
+      "content": "== Kullanıldığı bayrak ve armalar == Aziz Yorgi Haçı tarihten günümüze pek çok hanedan ve devletin arması olarak kullanılmıştır.",
+      "char_count": 128,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2306,
+      "end_char": 2331,
+      "content": "== Ayrıca bakınız == Haç",
+      "char_count": 24,
+      "token_estimate": 6
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Antakya Kuşatması sırasında mucizevi orduya hangi azizler liderlik etti?",
+        "answer": "Aziz Yorgi, Aziz Demetrius ve Aziz Mercurius.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Aziz Yorgi, Haçlı Seferleri sırasında bir savaşçı aziz olarak geniş çapta saygı görmesine rağmen, beyaz zemin üzerine kırmızı haç sembolüyle ne zaman ve nasıl ilişkilendirilmeye başlandı?",
+        "answer": "Aziz Yorgi, Üçüncü Haçlı Seferi sırasında geniş çapta bir savaşçı aziz olarak saygı gördü ve mucizevi yardımlarıyla ilişkilendirildi. Ancak Aziz Yorgi ile kızıl haç arasındaki özel ilişki, Haçlı Seferleri'nin bitiminden önce yoktu. Beyaz üzerine kırmızı haç taşıyan bir haçlı şövalyesi olarak Aziz Yorgi'nin ilk temsilleri 13. yüzyılın sonlarına dayanmaktadır ve bu ilişki, Geç Orta Çağ'dan itibaren yaygınlaştı. İngiliz Reformasyonu'ndan sonra ise bu bayrak, genellikle İngiltere'nin ulusal bayrağı olarak tanımlandı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "rogerpierre_7452ef1b",
+    "title": "Roger Pierre",
+    "url": "https://tr.wikipedia.org/wiki/Roger_Pierre",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:16.664632",
+    "content": "Roger Pierre (30 Ağustos 1923; Paris, Fransa – 23 Ocak 2010) Fransız komedi oyuncusu. Pierre komedilerde sıklıkla Jean-Marc Thibault ile beraber görülür. Pierre doğduğu şehir Paris'te, 86 yaşında, kanserden ölmüştür. == Kariyer == Roger Pierre ve Jean-Marc Thibault Fransa'nın gelmiş geçmiş en popüler komedi oyuncularındandır. 1950'ler, 1960'lar ve 1970'lerde düzenli olarak birçok çalışmada bulunmuşlardır. Pierre sinema sektörüne girmeden önce Radio-Luxembourg'da reklam konuşmacısı olarak çalışmıştır. Ayrıca Pierre uzun bir süre Paris kabarelerinde yazar olarak çalışmış ve 3000'den fazla skeç, şarkı, senaryo ve mim yazmıştır. Pierre Mary Mary, Who Is This Woman?, The Legatee, The Night of Barbizon ve Fire's Mother Madam gibi birçok komedide rol almıştır. Ayrıca bir televizyon programı olan Incredible But True 'da da görev almıştır. == Seçilmiş filmleri == 1946 – Le Père tranquille 1952 - Le Trou normand 1953 - Le Portrait de son père 1956 – La Bande à papa 1959 – Sans famille 1960 – Les Tortillards 1962 – Tartarin de Tarascon 1962 – Virginie 1962 – Nous irons à Deauville 1980 – Mon oncle d'Amérique === Yönetmen ve oyuncu olarak === 1956 - La Vie est belle == Kaynakça == == Dış bağlantılar == IMDb'de Roger Pierre New York Times on Roger Pierre12 Ekim 2003 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Hollywood.com25 Ocak 2013 tarihinde Archive.is sitesinde arşivlendi (İngilizce) iFrance (Fransızca) paroles.net (Fransızca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 219,
+      "char_count": 1457,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.510764",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 217,
+      "content": "Roger Pierre (30 Ağustos 1923; Paris, Fransa – 23 Ocak 2010) Fransız komedi oyuncusu. Pierre komedilerde sıklıkla Jean-Marc Thibault ile beraber görülür. Pierre doğduğu şehir Paris'te, 86 yaşında, kanserden ölmüştür.",
+      "char_count": 216,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyer ==",
+      "heading_path": "== Kariyer ==",
+      "start_char": 217,
+      "end_char": 843,
+      "content": "== Kariyer == Roger Pierre ve Jean-Marc Thibault Fransa'nın gelmiş geçmiş en popüler komedi oyuncularındandır. 1950'ler, 1960'lar ve 1970'lerde düzenli olarak birçok çalışmada bulunmuşlardır. Pierre sinema sektörüne girmeden önce Radio-Luxembourg'da reklam konuşmacısı olarak çalışmıştır. Ayrıca Pierre uzun bir süre Paris kabarelerinde yazar olarak çalışmış ve 3000'den fazla skeç, şarkı, senaryo ve mim yazmıştır. Pierre Mary Mary, Who Is This Woman?, The Legatee, The Night of Barbizon ve Fire's Mother Madam gibi birçok komedide rol almıştır. Ayrıca bir televizyon programı olan Incredible But True 'da da görev almıştır.",
+      "char_count": 625,
+      "token_estimate": 156
+    },
+    {
+      "id": "c0002",
+      "section": "== Seçilmiş filmleri ==",
+      "heading_path": "== Seçilmiş filmleri ==",
+      "start_char": 843,
+      "end_char": 1115,
+      "content": "== Seçilmiş filmleri == 1946 – Le Père tranquille 1952 - Le Trou normand 1953 - Le Portrait de son père 1956 – La Bande à papa 1959 – Sans famille 1960 – Les Tortillards 1962 – Tartarin de Tarascon 1962 – Virginie 1962 – Nous irons à Deauville 1980 – Mon oncle d'Amérique",
+      "char_count": 271,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0003",
+      "section": "=== Yönetmen ve oyuncu olarak ===",
+      "heading_path": "=== Yönetmen ve oyuncu olarak ===",
+      "start_char": 1115,
+      "end_char": 1173,
+      "content": "=== Yönetmen ve oyuncu olarak === 1956 - La Vie est belle",
+      "char_count": 57,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1188,
+      "end_char": 1457,
+      "content": "== Dış bağlantılar == IMDb'de Roger Pierre New York Times on Roger Pierre12 Ekim 2003 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Hollywood.com25 Ocak 2013 tarihinde Archive.is sitesinde arşivlendi (İngilizce) iFrance (Fransızca) paroles.net (Fransızca)",
+      "char_count": 269,
+      "token_estimate": 67
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Roger Pierre sinema sektörüne girmeden önce nerede reklam konuşmacısı olarak çalışmıştır?",
+        "answer": "Radio-Luxembourg",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Roger Pierre ve Jean-Marc Thibault'nun birlikte gerçekleştirdiği komedi çalışmaları, Roger Pierre'in kariyerinde nasıl bir yer edinmesini sağlamıştır ve bu çalışmalar hangi dönemleri kapsamaktadır?",
+        "answer": "Roger Pierre ve Jean-Marc Thibault komedilerde sıklıkla birlikte görülmüşler ve Fransa'nın gelmiş geçmiş en popüler komedi oyuncularından biri olarak tanınmalarını sağlamışlardır. Bu çalışmalar 1950'ler, 1960'lar ve 1970'ler boyunca düzenli olarak birçok eserde yer almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

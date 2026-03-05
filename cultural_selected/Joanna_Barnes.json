@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "joannabarnes_f895ebf0",
+    "title": "Joanna Barnes",
+    "url": "https://tr.wikipedia.org/wiki/Joanna_Barnes",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:46.933594",
+    "content": "Joanna Barnes (15 Kasım 1934 – 29 Nisan 2022), Amerikalı aktris, gazeteci ve köşe yazarıdır. == Yaşamı ve kariyeri == Barnes, 15 Kasım 1934'te Boston, Massachusetts'te İngiliz kökenli bir ailenin kızı olarak doğdu. Milton Akademisi ile ardından 1956'da mezun olduğu Smith Koleji'nde eğitim gördü. Phi Beta Kappa Topluluğu üyesi oldu. 1956'da başladığı oyunculuk kariyerini 2002 yılına kadar sürdürdü. En çok; kendisine \"Umut Vaadeden Oyuncu\" kategorisinde Altın Küre Ödülü adaylığı getiren Gloria Upson rolünde olduğu Auntie Mame (1958) adlı sinema filmi ile Jane rolünde olduğu Tarzan, the Ape Man (1959) adlı sinema filmiyle tanındı. Yer aldığı diğer bazı yapımlar arasında; 77 Sunset Strip, Maverick, Have Gun - Will Travel, What's My Line, The Beverly Hillbillies, What's My Line?, The Merv Griffin Show, The Parent Trap ve The War Wagon sayılabilir. == Ölümü == Barnes, 29 Nisan 2022'de Sea Ranch, Kaliforniya'daki aile evinde doğal nedenlerden 87 yaşında öldü. == Filmografi == === Sinema === 1958: Auntie Mame 1959: Tarzan, the Ape Man 1960: Spartacus 1961: The Parent Trap 1964: Goodbye Charlie 1967: Too Many Thieves 1967: Don't Make Waves 1975: I Wonder Who's Killing Her Now? 1998: The Parent Trap === Televizyon dizileri === 1959: 21 Beacon Street 1960: The Tab Hunter Show 1961: The Bob Cummings Show 1961: The Investigators 1962: The Jack Barry Show 1963: Copycat 1965: The Trials of O'Brien 1967: Dateline: Hollywood 1968: What's My Line? 1976: Stumpers! === Televizyon filmleri === 1959: Beach Patrol 1961: Rio 1971: Eddie 1980: Farewell to the Planet of the Apes 1986: Mackendrick: The Man Who Walked Away 1998: Classified X === Video filmler === 2002: The Parent Trap: Caught in the Act == Kaynaklar == == Dış bağlantılar == IMDb'de Joanna Barnes TCM Movie Database'de Joanna Barnes AllMovie'de Joanna Barnes Speaking of Stories: Joanna Barnes bio Golden Globes: Auntie Mame 17 Aralık 2019 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 307,
+      "char_count": 1955,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.126537",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 93,
+      "content": "Joanna Barnes (15 Kasım 1934 – 29 Nisan 2022), Amerikalı aktris, gazeteci ve köşe yazarıdır.",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 93,
+      "end_char": 855,
+      "content": "== Yaşamı ve kariyeri == Barnes, 15 Kasım 1934'te Boston, Massachusetts'te İngiliz kökenli bir ailenin kızı olarak doğdu. Milton Akademisi ile ardından 1956'da mezun olduğu Smith Koleji'nde eğitim gördü. Phi Beta Kappa Topluluğu üyesi oldu. 1956'da başladığı oyunculuk kariyerini 2002 yılına kadar sürdürdü. En çok; kendisine \"Umut Vaadeden Oyuncu\" kategorisinde Altın Küre Ödülü adaylığı getiren Gloria Upson rolünde olduğu Auntie Mame (1958) adlı sinema filmi ile Jane rolünde olduğu Tarzan, the Ape Man (1959) adlı sinema filmiyle tanındı. Yer aldığı diğer bazı yapımlar arasında; 77 Sunset Strip, Maverick, Have Gun - Will Travel, What's My Line, The Beverly Hillbillies, What's My Line?, The Merv Griffin Show, The Parent Trap ve The War Wagon sayılabilir.",
+      "char_count": 761,
+      "token_estimate": 190
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 855,
+      "end_char": 967,
+      "content": "== Ölümü == Barnes, 29 Nisan 2022'de Sea Ranch, Kaliforniya'daki aile evinde doğal nedenlerden 87 yaşında öldü.",
+      "char_count": 111,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0003",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 984,
+      "end_char": 1209,
+      "content": "=== Sinema === 1958: Auntie Mame 1959: Tarzan, the Ape Man 1960: Spartacus 1961: The Parent Trap 1964: Goodbye Charlie 1967: Too Many Thieves 1967: Don't Make Waves 1975: I Wonder Who's Killing Her Now? 1998: The Parent Trap",
+      "char_count": 224,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0004",
+      "section": "=== Televizyon dizileri ===",
+      "heading_path": "=== Televizyon dizileri ===",
+      "start_char": 1209,
+      "end_char": 1470,
+      "content": "=== Televizyon dizileri === 1959: 21 Beacon Street 1960: The Tab Hunter Show 1961: The Bob Cummings Show 1961: The Investigators 1962: The Jack Barry Show 1963: Copycat 1965: The Trials of O'Brien 1967: Dateline: Hollywood 1968: What's My Line? 1976: Stumpers!",
+      "char_count": 260,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0005",
+      "section": "=== Televizyon filmleri ===",
+      "heading_path": "=== Televizyon filmleri ===",
+      "start_char": 1470,
+      "end_char": 1642,
+      "content": "=== Televizyon filmleri === 1959: Beach Patrol 1961: Rio 1971: Eddie 1980: Farewell to the Planet of the Apes 1986: Mackendrick: The Man Who Walked Away 1998: Classified X",
+      "char_count": 171,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0006",
+      "section": "=== Video filmler ===",
+      "heading_path": "=== Video filmler ===",
+      "start_char": 1642,
+      "end_char": 1705,
+      "content": "=== Video filmler === 2002: The Parent Trap: Caught in the Act",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1721,
+      "end_char": 1955,
+      "content": "== Dış bağlantılar == IMDb'de Joanna Barnes TCM Movie Database'de Joanna Barnes AllMovie'de Joanna Barnes Speaking of Stories: Joanna Barnes bio Golden Globes: Auntie Mame 17 Aralık 2019 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 234,
+      "token_estimate": 58
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Barnes hangi tarihte ve nerede doğmuştur?",
+        "answer": "Barnes, 15 Kasım 1934'te Boston, Massachusetts'te doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Joanna Barnes'ın profesyonel yaşamı hangi farklı alanları kapsıyordu ve oyunculuk kariyerindeki başlıca başarıları nelerdi?",
+        "answer": "Joanna Barnes, aktrisliğin yanı sıra gazeteci ve köşe yazarı olarak da faaliyet göstermiştir. Oyunculuk kariyerine 1956'da başlayıp 2002'ye kadar devam etmiş, özellikle Gloria Upson rolüyle Auntie Mame (1958) filmindeki performansıyla \"Umut Vaadeden Oyuncu\" kategorisinde Altın Küre Ödülü adaylığı elde etmiş ve Tarzan, the Ape Man (1959) filmindeki Jane rolüyle de tanınmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

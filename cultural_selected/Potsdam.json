@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "potsdam_928b7ceb",
+    "title": "Potsdam",
+    "url": "https://tr.wikipedia.org/wiki/Potsdam",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:55.359946",
+    "content": "Potsdam, Almanya'nın kuzeydoğusunda bir şehir. Brandenburg eyaletinin başkentidir. Şehir, Berlin'in güneybatısındaki Havel nehri üzerinde konumlanır. Berlin/Brandenburg metropolitan alanının bir parçasıdır. Potsdam, 1918 yılına kadar Prusya krallarının eski rezidansı olarak bilinir. Şehir, birbirleriyle birleşen gölleri ve biricik kültürel manzaralarıyla özellik kazanır. Simgesel yapılar arasında Almanya'nın en büyük Dünya Mirası Alanı olan Sanssouci'nin parkları ve sarayları, Orangery Sarayı, Yeni Saray, Cecilienhof Sarayı veya Charlottenhof Sarayı ve diğer saraylar yer alır. Babelsberg'in Potsdam bölgesi ayrıca en önemli Avrupa film üretim merkezlerinden biridir. Babelsberg Stüdyoları dünyada en eski tarihsel değerli geniş skalalı film stüdyosuna sahiptir. Deutsches Filmorchester Babelsberg, sık sık yurt içi ve yurt dışı bazlı film üretimleri için soundtrack kayıtları yapar. Ayrıca Potsdam Üniversitesi de Potsdam‘da bulunmaktadır. Şehir, Almanya'da 19'uncu yüzyılın başlarında bir bilim merkezi içinde gelişti. Bugün Potsdam'da 3 adet devlet koleji ve 30 dan fazla araştırma enstitüsü vardır. == Coğrafya == Potsdam, Berlin'in güneybatısında konumlanır. Alan son buzul çağı süresinde büyük buzultaşlarının bir serisinden şekillenmiştir. Bugün şehir % 75 yeşil alan ile %25 binalar ve caddeleri içerir. Potsdam'da yaklaşık 20 göl ve nehir vardır. Örnek olarak Havel nehri, Griebnitzsee, Templiner See, Tiefer See, Jungfernsee, Teltowkanal, Heiliger See ve Sacrower See verilebilir. En yüksek tepe 114 metre yüksekliğindeki Kleiner Ravensberg dir. Potsdam, 7 tarihi şehir bölgesine ve 9 yeni Ortsteile (köy kısımları)'na (2003 yılında şehirle birleşmiştir) bölünür. Şehir bölgelerinin görünüşü epey farklıdır. Kuzeydeki ve merkezdeki bölgeler esas olarak tarihsel yapıları içerir. Güneydeki şehirler ise hiç yapıları bulunmayan geniş alanların egemenliği altındadır. == Kaynakça == == Galeri ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 245,
+      "char_count": 1908,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.866748",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Potsdam, Almanya'nın kuzeydoğusunda bir şehir. Brandenburg eyaletinin başkentidir. Şehir, Berlin'in güneybatısındaki Havel nehri üzerinde konumlanır. Berlin/Brandenburg metropolitan alanının bir parçasıdır. Potsdam, 1918 yılına kadar Prusya krallarının eski rezidansı olarak bilinir. Şehir, birbirleriyle birleşen gölleri ve biricik kültürel manzaralarıyla özellik kazanır. Simgesel yapılar arasında Almanya'nın en büyük Dünya Mirası Alanı olan Sanssouci'nin parkları ve sarayları, Orangery Sarayı, Yeni Saray, Cecilienhof Sarayı veya Charlottenhof Sarayı ve diğer saraylar yer alır. Babelsberg'in Potsdam bölgesi ayrıca en önemli Avrupa film üretim merkezlerinden biridir. Babelsberg Stüdyoları dünyada en eski tarihsel değerli geniş skalalı film stüdyosuna sahiptir. Deutsches Filmorchester Babelsberg, sık sık yurt içi ve yurt dışı bazlı film üretimleri için soundtrack kayıtları yapar. Ayrıca Potsdam Üniversitesi de Potsdam‘da bulunmaktadır. Şehir, Almanya'da 19'uncu yüzyılın başlarında bir bil",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1108,
+      "content": "erg, sık sık yurt içi ve yurt dışı bazlı film üretimleri için soundtrack kayıtları yapar. Ayrıca Potsdam Üniversitesi de Potsdam‘da bulunmaktadır. Şehir, Almanya'da 19'uncu yüzyılın başlarında bir bilim merkezi içinde gelişti. Bugün Potsdam'da 3 adet devlet koleji ve 30 dan fazla araştırma enstitüsü vardır.",
+      "char_count": 308,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 1109,
+      "end_char": 1881,
+      "content": "== Coğrafya == Potsdam, Berlin'in güneybatısında konumlanır. Alan son buzul çağı süresinde büyük buzultaşlarının bir serisinden şekillenmiştir. Bugün şehir % 75 yeşil alan ile %25 binalar ve caddeleri içerir. Potsdam'da yaklaşık 20 göl ve nehir vardır. Örnek olarak Havel nehri, Griebnitzsee, Templiner See, Tiefer See, Jungfernsee, Teltowkanal, Heiliger See ve Sacrower See verilebilir. En yüksek tepe 114 metre yüksekliğindeki Kleiner Ravensberg dir. Potsdam, 7 tarihi şehir bölgesine ve 9 yeni Ortsteile (köy kısımları)'na (2003 yılında şehirle birleşmiştir) bölünür. Şehir bölgelerinin görünüşü epey farklıdır. Kuzeydeki ve merkezdeki bölgeler esas olarak tarihsel yapıları içerir. Güneydeki şehirler ise hiç yapıları bulunmayan geniş alanların egemenliği altındadır.",
+      "char_count": 771,
+      "token_estimate": 192
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Almanya'nın Brandenburg eyaletinin başkenti neresidir?",
+        "answer": "Potsdam",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sağlanan bilgilere göre Potsdam'ı hem kültürel, bilimsel hem de coğrafi açılardan öne çıkaran temel özellikler nelerdir?",
+        "answer": "Potsdam, Almanya'nın kuzeydoğusunda, Berlin'in güneybatısında yer alan Brandenburg eyaletinin başkentidir. Kültürel açıdan, Prusya krallarının eski rezidansı olarak bilinir ve Sanssouci gibi parklar ve saraylar içeren Almanya'nın en büyük Dünya Mirası Alanı'na ev sahipliği yapar. Ayrıca, Avrupa'nın önemli film üretim merkezlerinden Babelsberg Stüdyoları ve Deutsches Filmorchester Babelsberg'i bünyesinde barındırır. Bilimsel olarak, 19. yüzyılın başlarında bir bilim merkezi haline gelmiş olup, bugün bir üniversite, üç devlet koleji ve 30'dan fazla araştırma enstitüsüne sahiptir. Coğrafi olarak ise, son buzul çağı tarafından şekillendirilmiş, %75'i yeşil alanlardan oluşan ve Havel nehri, Griebnitzsee, Templiner See gibi yaklaşık 20 göl ve nehri barındıran bir şehirdir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

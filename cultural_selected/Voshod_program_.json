@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "voshodprogram_69943e40",
+    "title": "Voshod programı",
+    "url": "https://tr.wikipedia.org/wiki/Voshod_program%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:52.598473",
+    "content": "Voshod programı (Rusça: Восход, \"doğuş\"), Sovyetler Birliği tarafından 1960'larda gerçekleştirilen insanlı uzay uçuş programı. Voshod, Vostok programının devamı olarak düşünüldü ve o programdan kalan donanım kullanılarak gerçekleştirildi. Program kapsamındaki iki insanlı uçuşta Voshod uzayaracı ve roketi kullanıldı. Tarihsel çerçeveden bakınca, Voshod uçuşlarının Uzay Yarışı sırasında bazı ilkleri gerçekleştirmek için yapıldığı görülmektedir. Birden fazla insanın katıldığı ilk uzay uçuşu Voshod 1 ile, ilk uzay yürüyüşü Voshkod 2 ile gerçekleştirilmiştir. Ancak bu başarılar teknolojik altyapıdaki bir ilerlemeyi göstermiyordu. Uçuşlar büyük ölçüde Vostok teknolojisiyle yapılıyordu ve rekorlara imza atmak uğruna uçuş güvenliğinden taviz verilmişti. Voshod uzay aracı, ABD'nin Gemini Projesi'nde kullanılan araçların aksine uzayda manevra yapamıyordu. Vostok'taki fırlatma koltuğundan vazgeçilerek kabinde üç kişilik yer açılmıştı. Ancak gösterge tablosunun yeri değiştirilemediği için kozmonotlar kafalarını 90 derece çevirerek göstergeleri okuyordu. Vostok 2'de uzay yürüyüşü için şişirilebilir bir hava kilidi bulunuyordu. Kilit, yürüyüşten sonra atılıyordu. İnişi yumuşatmak için, yere değmeden hemen önce çalışmak üzere kabinin altına katı yakıtlı frenleme roketleri yerleştirilmişti. == Sonuçlar == Voshod programı, bilimsel veya teknik olmaktan çok siyasi hedeflere ulaşmak için yapılmıştı. Buna karşılık iki uçuş da başarıyla gerçekleştirildi ve uzay tarihinde önemli adımlar atıldı. Özellikle erken gerçekleşen uzay yürüyüşü sayesinde Sovyetler uzay elbiseleri ve uzayaracı dışında çalışma konularında tecrübe kazandı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 202,
+      "char_count": 1648,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.662709",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Voshod programı (Rusça: Восход, \"doğuş\"), Sovyetler Birliği tarafından 1960'larda gerçekleştirilen insanlı uzay uçuş programı. Voshod, Vostok programının devamı olarak düşünüldü ve o programdan kalan donanım kullanılarak gerçekleştirildi. Program kapsamındaki iki insanlı uçuşta Voshod uzayaracı ve roketi kullanıldı. Tarihsel çerçeveden bakınca, Voshod uçuşlarının Uzay Yarışı sırasında bazı ilkleri gerçekleştirmek için yapıldığı görülmektedir. Birden fazla insanın katıldığı ilk uzay uçuşu Voshod 1 ile, ilk uzay yürüyüşü Voshkod 2 ile gerçekleştirilmiştir. Ancak bu başarılar teknolojik altyapıdaki bir ilerlemeyi göstermiyordu. Uçuşlar büyük ölçüde Vostok teknolojisiyle yapılıyordu ve rekorlara imza atmak uğruna uçuş güvenliğinden taviz verilmişti. Voshod uzay aracı, ABD'nin Gemini Projesi'nde kullanılan araçların aksine uzayda manevra yapamıyordu. Vostok'taki fırlatma koltuğundan vazgeçilerek kabinde üç kişilik yer açılmıştı. Ancak gösterge tablosunun yeri değiştirilemediği için kozmonot",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1295,
+      "content": "e kullanılan araçların aksine uzayda manevra yapamıyordu. Vostok'taki fırlatma koltuğundan vazgeçilerek kabinde üç kişilik yer açılmıştı. Ancak gösterge tablosunun yeri değiştirilemediği için kozmonotlar kafalarını 90 derece çevirerek göstergeleri okuyordu. Vostok 2'de uzay yürüyüşü için şişirilebilir bir hava kilidi bulunuyordu. Kilit, yürüyüşten sonra atılıyordu. İnişi yumuşatmak için, yere değmeden hemen önce çalışmak üzere kabinin altına katı yakıtlı frenleme roketleri yerleştirilmişti.",
+      "char_count": 495,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0002",
+      "section": "== Sonuçlar ==",
+      "heading_path": "== Sonuçlar ==",
+      "start_char": 1296,
+      "end_char": 1634,
+      "content": "== Sonuçlar == Voshod programı, bilimsel veya teknik olmaktan çok siyasi hedeflere ulaşmak için yapılmıştı. Buna karşılık iki uçuş da başarıyla gerçekleştirildi ve uzay tarihinde önemli adımlar atıldı. Özellikle erken gerçekleşen uzay yürüyüşü sayesinde Sovyetler uzay elbiseleri ve uzayaracı dışında çalışma konularında tecrübe kazandı.",
+      "char_count": 337,
+      "token_estimate": 84
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Birden fazla insanın katıldığı ilk uzay uçuşu hangi Voshod göreviyle gerçekleştirilmiştir?",
+        "answer": "Voshod 1",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Voshod programı, Vostok programından kalan donanımı büyük ölçüde kullanmasına rağmen Uzay Yarışı'nda hangi önemli ilkleri gerçekleştirdi ve bu başarılar hangi tasarım sınırlamaları veya tavizleriyle birlikte geldi?",
+        "answer": "Voshod programı, Voshod 1 ile birden fazla insanın katıldığı ilk uzay uçuşunu ve Voshkod 2 ile ilk uzay yürüyüşünü gerçekleştirdi. Bu başarılar, büyük ölçüde Vostok teknolojisiyle yapıldığı için teknolojik altyapıda bir ilerlemeyi göstermiyordu. Beraberindeki tavizler arasında, rekorlara imza atmak uğruna uçuş güvenliğinden taviz verilmesi, uzay aracının ABD'nin Gemini araçlarının aksine uzayda manevra yapamaması, Vostok'taki fırlatma koltuğundan vazgeçilerek kabinde üç kişilik yer açılması ve gösterge tablosunun yeri değiştirilemediği için kozmonotların kafalarını 90 derece çevirerek göstergeleri okumak zorunda kalması yer almaktadır. Ayrıca, uzay yürüyüşü için şişirilebilir bir hava kilidi kullanılmış ve bu kilit yürüyüşten sonra atılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

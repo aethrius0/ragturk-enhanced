@@ -1,0 +1,154 @@
+{
+  "article": {
+    "id": "paddingoracleata_7fcc7f35",
+    "title": "Padding oracle atağı",
+    "url": "https://tr.wikipedia.org/wiki/Padding_oracle_ata%C4%9F%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:36.754658",
+    "content": "Kriptolojide padding oracle atağı kriptografik bir mesaja padding(doldurma) denilen yöntemin uygulanması sonucunda ortaya çıkmaktadır. Padding (cryptography) kriptografide özellikle blok şifrelemelerde değişken uzunluktaki mesajların uzatılarak aynı blok uzunluğuna gelmesi için doldurulmasını sağlamaktadır. Açık anahtarlamalı yapılarda da kullanılmaktadır. Oracle, kriptografide bir testin başarılı olup olmadığını gösteren mekanizmaya denir. Bu mekanizma genellikle karşımıza sunucu olarak çıkmaktadır. Padding oracle atağı da, mesaj bloklarının doldurulmasının doğru olup olmamasına cevap verilmesi özelliğine dayanmaktakdır. Bu atak genellikle blok şifrelemelerde kullanılan CBC (Cipher Block Chanining) moduyla ilişkilendirilir. Ayrıca asimetrik algoritmalarda (örneğin OAEP) padding oracle zafiyeti olabilir. == Simetrik Şifreleme == Simetrik kriptografide, padding oracle atağı (oracle attack) CBC mode da şifreleme işlemine uygulanabilir. Sunucunun blok doldurma işleminin doğru olup olmadığı bilgisini sızdırması sonucunda saldırgana şifreleme anahtarını bilmeden sunucunun anahtarını kullanarak, şifreyi çözmesine imkân tanımaktadır. CBC modunun şifre çözme mekanizması aşağıda gösterilmiştir. === CBC Modda Atak Örneği === Saldırganın elinde üç adet C 1 , C 2 , C 3 {\\displaystyle C_{1},C_{2},C_{3}} şifreli blok olduğunu ve ikinci bloğun (yani P 2 {\\displaystyle P_{2}} ) şifresini çözmek istediğini farzedelim. Saldırgan sadece C 3 {\\displaystyle C_{3}} son bloğun PKCS7 doldurma(padding) metodu ile doğru olarak doldurulduğunu (padded) biliyor. PKCS7'de doldurma işlemi, n {\\displaystyle n} byte kadar eksik byte varsa oraya 0xn şeklindedir. Aşağıdaki resim doldurma işlemini özetlemektedir. CBC şifre çözme işlemi yukarıdaki resimde de belirtildiği gibi şu şekilde çalışır P i = D K ( C i ) ⊕ C i − 1 , C 0 = I V . {\\displaystyle P_{i}=D_{K}(C_{i})\\oplus C_{i-1},C_{0}=IV.} Eğer saldırgan C 1 {\\displaystyle C_{1}} in son byte'ını değiştirip, ( I V , C 1 , C 2 ) {\\displaystyle (IV,C_{1},C_{2})} 'i sunucuya gönderirse, P 1 {\\displaystyle P_{1}} 'in tüm bloğu (avalanche effect) ve P 2 {\\displaystyle P_{2}} 'nin son byte'ı ( XORing operasyonundan dolayı) etkilenir. Bundan sonra sunucu, en son şifresi çözülen blokun (yani P 2 {\\displaystyle P_{2}} ) doldurmasının(padding) doğru olup olmadığını döndürür (bu kontrol şifresiz mesaj işlenmeden önce gerçekleştirilir). b − 1 {\\displaystyle b_{-1}} , C 1 {\\displaystyle C_{1}} 'in son byte'ı olsun. Saldırgan b − 1 {\\displaystyle b_{-1}} 'i şu şekilde değiştirsin b − 1 = b − 1 ⊕ z − 1 ⊕ 0x01 {\\displaystyle b_{-1}=b_{-1}\\oplus z_{-1}\\oplus {\\text{0x01}}} ( z − 1 {\\displaystyle z_{-1}} , P 2 {\\displaystyle P_{2}} 'in tahmin edilen son byte'ı olsun). Eğer z − 1 {\\displaystyle z_{-1}} doğru bir tahmin ise (yani P 2 {\\displaystyle P_{2}} 'nin doğru son byte'ı ise), sunucu doldurma(padding) hatası vermeyecektir. Eğer sunucu doldurma (padding) hatası verirse, saldırgan z − 1 {\\displaystyle z_{-1}} 'in hatalı olduğunu anlayacaktır. Bu sebepten saldırgan z − 1 {\\displaystyle z_{-1}} için diğer değerleri deneyecektir. Bu şekilde 255 denemede z − 1 {\\displaystyle z_{-1}} 'in değeri bulunmuş olacaktır. Sonuç olarak P 2 {\\displaystyle P_{2}} 'nin son byte'ı elde edilmiş olur. Saldırgan P 2 {\\displaystyle P_{2}} 'nin son byte'ını elde ettikten sonra son byte'dan bir önceki byte'ı bulmaya çalışacaktır. Bunu da b − 1 = b − 1 ⊕ z − 1 ⊕ 0x02 {\\displaystyle b_{-1}=b_{-1}\\oplus z_{-1}\\oplus {\\text{0x02}}} ve b − 2 = b − 2 ⊕ z − 2 ⊕ 0x02 {\\displaystyle b_{-2}=b_{-2}\\oplus z_{-2}\\oplus {\\text{0x02}}} şeklinde yapacaktır. Böylelikle saldırgan tüm bloğu elde edebilecektir. Farz edelimki 128 bits AES kullanılarak şifrelenmiş bloklar var elimizde. Saldırgan P 2 {\\displaystyle P_{2}} 'yi 255⋅16 = 4080 denemede elde edebilecektir. Bu atak birkaç saniye içinde başarıyla gerçekleştirilebilir. == Padding oracle atakları == Orijinal padding oracle atağı 2002 yılında Serge Vaudenay tarafından yazılmıştır. 2010 yılında ise atak, JavaServer Faces, Ruby on Rails ve ASP.NET. gibi web çatılarına uygulanmıştır. 2012'de bazı güçlendirilmiş donanımlarada atak yapılabildiği gösterilmiştir Birçok TLS geliştiricisi tarafından bu zafiyet giderilmiş olsa da zaman yan-kanal analizi kullanan Lucy Thirteen Attack olarak bilinen atak 2013 yılında yayınlandı. 2014 başlarında, gerçek hayatta bir tehdit olarak değerlendirilmese de teoride ( bkz: Signal-to-noise ratio) bazı sınıf cihazlarda hala uygulanabilir durumdadır. 2015'te, kriptografik protokollere yapılan ataklar indirgeme (downgrade attacks) atakları örneğin Logjam ve Export RSA/FREAK atakları gibi karşımıza çıkmaktadır. Bu atak destekleyen istemcilerin daha düşük seviyeli protokelleri kullandırılması prensibine dayanmaktadır. 2014 sonlarında ortaya çıkan PODDLE atağı ise hem indirgeme(SSLv3.0) hem de padding oracle atağını kullanarak güvensiz protokol kullanımını sağlayarak transfer edilen şifreli verinin ele geçirilmesini sağlamaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 678,
+      "char_count": 4971,
+      "num_chunks": 10,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.253652",
+    "total_chunks": 10,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 816,
+      "content": "Kriptolojide padding oracle atağı kriptografik bir mesaja padding(doldurma) denilen yöntemin uygulanması sonucunda ortaya çıkmaktadır. Padding (cryptography) kriptografide özellikle blok şifrelemelerde değişken uzunluktaki mesajların uzatılarak aynı blok uzunluğuna gelmesi için doldurulmasını sağlamaktadır. Açık anahtarlamalı yapılarda da kullanılmaktadır. Oracle, kriptografide bir testin başarılı olup olmadığını gösteren mekanizmaya denir. Bu mekanizma genellikle karşımıza sunucu olarak çıkmaktadır. Padding oracle atağı da, mesaj bloklarının doldurulmasının doğru olup olmamasına cevap verilmesi özelliğine dayanmaktakdır. Bu atak genellikle blok şifrelemelerde kullanılan CBC (Cipher Block Chanining) moduyla ilişkilendirilir. Ayrıca asimetrik algoritmalarda (örneğin OAEP) padding oracle zafiyeti olabilir.",
+      "char_count": 815,
+      "token_estimate": 203
+    },
+    {
+      "id": "c0001",
+      "section": "== Simetrik Şifreleme ==",
+      "heading_path": "== Simetrik Şifreleme ==",
+      "start_char": 816,
+      "end_char": 1205,
+      "content": "== Simetrik Şifreleme == Simetrik kriptografide, padding oracle atağı (oracle attack) CBC mode da şifreleme işlemine uygulanabilir. Sunucunun blok doldurma işleminin doğru olup olmadığı bilgisini sızdırması sonucunda saldırgana şifreleme anahtarını bilmeden sunucunun anahtarını kullanarak, şifreyi çözmesine imkân tanımaktadır. CBC modunun şifre çözme mekanizması aşağıda gösterilmiştir.",
+      "char_count": 388,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0002",
+      "section": "=== CBC Modda Atak Örneği ===",
+      "heading_path": "=== CBC Modda Atak Örneği ===",
+      "start_char": 1205,
+      "end_char": 1793,
+      "content": "=== CBC Modda Atak Örneği === Saldırganın elinde üç adet C 1 , C 2 , C 3 {\\displaystyle C_{1},C_{2},C_{3}} şifreli blok olduğunu ve ikinci bloğun (yani P 2 {\\displaystyle P_{2}} ) şifresini çözmek istediğini farzedelim. Saldırgan sadece C 3 {\\displaystyle C_{3}} son bloğun PKCS7 doldurma(padding) metodu ile doğru olarak doldurulduğunu (padded) biliyor. PKCS7'de doldurma işlemi, n {\\displaystyle n} byte kadar eksik byte varsa oraya 0xn şeklindedir. Aşağıdaki resim doldurma işlemini özetlemektedir. CBC şifre çözme işlemi yukarıdaki resimde de belirtildiği gibi şu şekilde çalışır P i",
+      "char_count": 587,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0003",
+      "section": "= D K ( C i ) ⊕ C i − 1 , C 0 =",
+      "heading_path": "= D K ( C i ) ⊕ C i − 1 , C 0 =",
+      "start_char": 1793,
+      "end_char": 1851,
+      "content": "= D K ( C i ) ⊕ C i − 1 , C 0 = I V . {\\displaystyle P_{i}",
+      "char_count": 58,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0004",
+      "section": "= D_{K}(C_{i})\\oplus C_{i-1},C_{0}=IV.} Eğer saldırgan C 1 {\\displaystyle C_{1}} in son byte'ını değiştirip, ( I V , C 1 , C 2 ) {\\displaystyle (IV,C_{1},C_{2})} 'i sunucuya gönderirse, P 1 {\\displaystyle P_{1}} 'in tüm bloğu (avalanche effect) ve P 2 {\\displaystyle P_{2}} 'nin son byte'ı ( XORing operasyonundan dolayı) etkilenir. Bundan sonra sunucu, en son şifresi çözülen blokun (yani P 2 {\\displaystyle P_{2}} ) doldurmasının(padding) doğru olup olmadığını döndürür (bu kontrol şifresiz mesaj işlenmeden önce gerçekleştirilir). b − 1 {\\displaystyle b_{-1}} , C 1 {\\displaystyle C_{1}} 'in son byte'ı olsun. Saldırgan b − 1 {\\displaystyle b_{-1}} 'i şu şekilde değiştirsin b − 1 =",
+      "heading_path": "= D_{K}(C_{i})\\oplus C_{i-1},C_{0}=IV.} Eğer saldırgan C 1 {\\displaystyle C_{1}} in son byte'ını değiştirip, ( I V , C 1 , C 2 ) {\\displaystyle (IV,C_{1},C_{2})} 'i sunucuya gönderirse, P 1 {\\displaystyle P_{1}} 'in tüm bloğu (avalanche effect) ve P 2 {\\displaystyle P_{2}} 'nin son byte'ı ( XORing operasyonundan dolayı) etkilenir. Bundan sonra sunucu, en son şifresi çözülen blokun (yani P 2 {\\displaystyle P_{2}} ) doldurmasının(padding) doğru olup olmadığını döndürür (bu kontrol şifresiz mesaj işlenmeden önce gerçekleştirilir). b − 1 {\\displaystyle b_{-1}} , C 1 {\\displaystyle C_{1}} 'in son byte'ı olsun. Saldırgan b − 1 {\\displaystyle b_{-1}} 'i şu şekilde değiştirsin b − 1 =",
+      "start_char": 1851,
+      "end_char": 2578,
+      "content": "=D_{K}(C_{i})\\oplus C_{i-1},C_{0}=IV.} Eğer saldırgan C 1 {\\displaystyle C_{1}} in son byte'ını değiştirip, ( I V , C 1 , C 2 ) {\\displaystyle (IV,C_{1},C_{2})} 'i sunucuya gönderirse, P 1 {\\displaystyle P_{1}} 'in tüm bloğu (avalanche effect) ve P 2 {\\displaystyle P_{2}} 'nin son byte'ı ( XORing operasyonundan dolayı) etkilenir. Bundan sonra sunucu, en son şifresi çözülen blokun (yani P 2 {\\displaystyle P_{2}} ) doldurmasının(padding) doğru olup olmadığını döndürür (bu kontrol şifresiz mesaj işlenmeden önce gerçekleştirilir). b − 1 {\\displaystyle b_{-1}} , C 1 {\\displaystyle C_{1}} 'in son byte'ı olsun. Saldırgan b − 1 {\\displaystyle b_{-1}} 'i şu şekilde değiştirsin b − 1 = b − 1 ⊕ z − 1 ⊕ 0x01 {\\displaystyle b_{-1}",
+      "char_count": 727,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0005",
+      "section": "= b_{-1}\\oplus z_{-1}\\oplus {\\text{0x01}}} ( z − 1 {\\displaystyle z_{-1}} , P 2 {\\displaystyle P_{2}} 'in tahmin edilen son byte'ı olsun). Eğer z − 1 {\\displaystyle z_{-1}} doğru bir tahmin ise (yani P 2 {\\displaystyle P_{2}} 'nin doğru son byte'ı ise), sunucu doldurma(padding) hatası vermeyecektir. Eğer sunucu doldurma (padding) hatası verirse, saldırgan z − 1 {\\displaystyle z_{-1}} 'in hatalı olduğunu anlayacaktır. Bu sebepten saldırgan z − 1 {\\displaystyle z_{-1}} için diğer değerleri deneyecektir. Bu şekilde 255 denemede z − 1 {\\displaystyle z_{-1}} 'in değeri bulunmuş olacaktır. Sonuç olarak P 2 {\\displaystyle P_{2}} 'nin son byte'ı elde edilmiş olur. Saldırgan P 2 {\\displaystyle P_{2}} 'nin son byte'ını elde ettikten sonra son byte'dan bir önceki byte'ı bulmaya çalışacaktır. Bunu da b − 1 =",
+      "heading_path": "= b_{-1}\\oplus z_{-1}\\oplus {\\text{0x01}}} ( z − 1 {\\displaystyle z_{-1}} , P 2 {\\displaystyle P_{2}} 'in tahmin edilen son byte'ı olsun). Eğer z − 1 {\\displaystyle z_{-1}} doğru bir tahmin ise (yani P 2 {\\displaystyle P_{2}} 'nin doğru son byte'ı ise), sunucu doldurma(padding) hatası vermeyecektir. Eğer sunucu doldurma (padding) hatası verirse, saldırgan z − 1 {\\displaystyle z_{-1}} 'in hatalı olduğunu anlayacaktır. Bu sebepten saldırgan z − 1 {\\displaystyle z_{-1}} için diğer değerleri deneyecektir. Bu şekilde 255 denemede z − 1 {\\displaystyle z_{-1}} 'in değeri bulunmuş olacaktır. Sonuç olarak P 2 {\\displaystyle P_{2}} 'nin son byte'ı elde edilmiş olur. Saldırgan P 2 {\\displaystyle P_{2}} 'nin son byte'ını elde ettikten sonra son byte'dan bir önceki byte'ı bulmaya çalışacaktır. Bunu da b − 1 =",
+      "start_char": 2578,
+      "end_char": 3427,
+      "content": "=b_{-1}\\oplus z_{-1}\\oplus {\\text{0x01}}} ( z − 1 {\\displaystyle z_{-1}} , P 2 {\\displaystyle P_{2}} 'in tahmin edilen son byte'ı olsun). Eğer z − 1 {\\displaystyle z_{-1}} doğru bir tahmin ise (yani P 2 {\\displaystyle P_{2}} 'nin doğru son byte'ı ise), sunucu doldurma(padding) hatası vermeyecektir. Eğer sunucu doldurma (padding) hatası verirse, saldırgan z − 1 {\\displaystyle z_{-1}} 'in hatalı olduğunu anlayacaktır. Bu sebepten saldırgan z − 1 {\\displaystyle z_{-1}} için diğer değerleri deneyecektir. Bu şekilde 255 denemede z − 1 {\\displaystyle z_{-1}} 'in değeri bulunmuş olacaktır. Sonuç olarak P 2 {\\displaystyle P_{2}} 'nin son byte'ı elde edilmiş olur. Saldırgan P 2 {\\displaystyle P_{2}} 'nin son byte'ını elde ettikten sonra son byte'dan bir önceki byte'ı bulmaya çalışacaktır. Bunu da b − 1 = b − 1 ⊕ z − 1 ⊕ 0x02 {\\displaystyle b_{-1}",
+      "char_count": 849,
+      "token_estimate": 212
+    },
+    {
+      "id": "c0006",
+      "section": "= b_{-1}\\oplus z_{-1}\\oplus {\\text{0x02}}} ve b − 2 =",
+      "heading_path": "= b_{-1}\\oplus z_{-1}\\oplus {\\text{0x02}}} ve b − 2 =",
+      "start_char": 3427,
+      "end_char": 3522,
+      "content": "=b_{-1}\\oplus z_{-1}\\oplus {\\text{0x02}}} ve b − 2 = b − 2 ⊕ z − 2 ⊕ 0x02 {\\displaystyle b_{-2}",
+      "char_count": 95,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0007",
+      "section": "= b_{-2}\\oplus z_{-2}\\oplus {\\text{0x02}}} şeklinde yapacaktır. Böylelikle saldırgan tüm bloğu elde edebilecektir. Farz edelimki 128 bits AES kullanılarak şifrelenmiş bloklar var elimizde. Saldırgan P 2 {\\displaystyle P_{2}} 'yi 255⋅16 =",
+      "heading_path": "= b_{-2}\\oplus z_{-2}\\oplus {\\text{0x02}}} şeklinde yapacaktır. Böylelikle saldırgan tüm bloğu elde edebilecektir. Farz edelimki 128 bits AES kullanılarak şifrelenmiş bloklar var elimizde. Saldırgan P 2 {\\displaystyle P_{2}} 'yi 255⋅16 =",
+      "start_char": 3522,
+      "end_char": 3854,
+      "content": "=b_{-2}\\oplus z_{-2}\\oplus {\\text{0x02}}} şeklinde yapacaktır. Böylelikle saldırgan tüm bloğu elde edebilecektir. Farz edelimki 128 bits AES kullanılarak şifrelenmiş bloklar var elimizde. Saldırgan P 2 {\\displaystyle P_{2}} 'yi 255⋅16 = 4080 denemede elde edebilecektir. Bu atak birkaç saniye içinde başarıyla gerçekleştirilebilir.",
+      "char_count": 331,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0008",
+      "section": "== Padding oracle atakları ==",
+      "heading_path": "== Padding oracle atakları ==",
+      "start_char": 3854,
+      "end_char": 4854,
+      "content": "== Padding oracle atakları == Orijinal padding oracle atağı 2002 yılında Serge Vaudenay tarafından yazılmıştır. 2010 yılında ise atak, JavaServer Faces, Ruby on Rails ve ASP.NET. gibi web çatılarına uygulanmıştır. 2012'de bazı güçlendirilmiş donanımlarada atak yapılabildiği gösterilmiştir Birçok TLS geliştiricisi tarafından bu zafiyet giderilmiş olsa da zaman yan-kanal analizi kullanan Lucy Thirteen Attack olarak bilinen atak 2013 yılında yayınlandı. 2014 başlarında, gerçek hayatta bir tehdit olarak değerlendirilmese de teoride ( bkz: Signal-to-noise ratio) bazı sınıf cihazlarda hala uygulanabilir durumdadır. 2015'te, kriptografik protokollere yapılan ataklar indirgeme (downgrade attacks) atakları örneğin Logjam ve Export RSA/FREAK atakları gibi karşımıza çıkmaktadır. Bu atak destekleyen istemcilerin daha düşük seviyeli protokelleri kullandırılması prensibine dayanmaktadır. 2014 sonlarında ortaya çıkan PODDLE atağı ise hem indirgeme(SSLv3.0) hem de padding oracle atağını kullanarak güv",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0009",
+      "section": "== Padding oracle atakları ==",
+      "heading_path": "== Padding oracle atakları ==",
+      "start_char": 4654,
+      "end_char": 4956,
+      "content": "stemcilerin daha düşük seviyeli protokelleri kullandırılması prensibine dayanmaktadır. 2014 sonlarında ortaya çıkan PODDLE atağı ise hem indirgeme(SSLv3.0) hem de padding oracle atağını kullanarak güvensiz protokol kullanımını sağlayarak transfer edilen şifreli verinin ele geçirilmesini sağlamaktadır.",
+      "char_count": 302,
+      "token_estimate": 75
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Orijinal padding oracle atağı kim tarafından ve hangi yılda yazılmıştır?",
+        "answer": "Orijinal padding oracle atağı 2002 yılında Serge Vaudenay tarafından yazılmıştır.",
+        "related_chunk_ids": [
+          "c0008"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kriptolojide padding oracle atağı, özellikle simetrik şifrelemede ve CBC modunda, sunucunun hangi bilgisini sızdırmasıyla saldırganın şifreleme anahtarını bilmeden şifreyi çözmesine imkan tanır ve bu durum nasıl bir senaryoda ortaya çıkabilir?",
+        "answer": "Padding oracle atağı, sunucunun mesaj bloklarının doldurmasının (padding) doğru olup olmadığına dair verdiği cevabı sızdırmasıyla çalışır. Simetrik kriptografide, özellikle CBC modunda, bu bilgi sızıntısı saldırganın şifreleme anahtarını bilmeden şifreyi çözmesine olanak tanır. Bu durum, örneğin, bir saldırganın elinde şifreli bloklar varken ve son bloğun (C3) PKCS7 doldurma metodu ile doğru şekilde doldurulduğunu bilerek diğer blokların şifresini çözmeye çalıştığı bir senaryoda ortaya çıkabilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

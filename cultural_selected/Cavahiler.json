@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "cavahiler_708a9022",
+    "title": "Cavahiler",
+    "url": "https://tr.wikipedia.org/wiki/Cavahiler",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:10.889119",
+    "content": "Cavahiler (Gürcüce: ჯავახები), çoğunlukla Gürcistan'ın Samtshe-Cavaheti bölgesinde yaşayan Gürcülerin etnik boylarından biridir. Cavahiler, Cavaheti'nin yerli halkıdır. Terminolojide Cavaheti adı, geleneksel Gürcüce –eti eki ile \"Cavah\" kökünden gelmektedir ve Cavahilerin yurdu anlamına gelir. Cavahiler, Gürcü dilinin Cavaheti lehçesini konuşurlar. == Tarih == Cavahiler, eski zamanlardan beri güney Gürcistan'da yaşayan en eski Gürcü boylarından biridir. Cavahilerden en erken Urartu kaynaklarında, MÖ 785 yılında Urartu Kralı I. Argişti'nin notlarında “Zabakha” veya “Zabakhian” olarak bahsedilmektedir. Bu, MÖ 8. yüzyılın başlarına kadar Cavahilerin kendi kendini yöneten bir boy olduğu anlamına gelebilir. Cyril Toumanoff'a göre Cavaheti, MÖ 4. veya 3. yüzyıldan itibaren İberya Krallığı'nın Tsunda Dükalığı'nın bir parçasıydı. Azize Nino, İberya'ya Cavaheti üzerinden girdi ve Kura Nehri'ni izleyerek krallığın başkenti Mtsheta'ya ulaştı ve burada Hristiyanlığı vaaz ederek İberya Krallığı'nın Hristiyanlaşmasını sağladı. Ermeni tarihçi Sebastialı Uhtanes (935-1000), Gürcistan Katolikosu Kyrion'un soy ağacından bahseder. Bu metnin birebir çevirisi şöyledir: Kyrion \" ülke ve soy bakımından Gürcülerden, Cavahların bölgesinden geldi.\" Uhtanes'in, Cavaheti'nin Gürcistan'ın (İberya) bir parçası olduğuna ve Cavahilerin Gürcü olduğuna inandığına şüphe yoktur. 1828-1829 Osmanlı-Rus Savaşı'ndan sonra, Cavaheti bölgesinin nüfusu keskin bir şekilde azaldı. 1829'dan itibaren Rus General İvan Paskeviç'in emriyle Osmanlı İmparatorluğu'ndan 7.300 Ermeni aile (yaklaşık 58.000 kişi) Cavaheti'ye yerleştirildi. Cavaheti halkı evlerini terk etmek ve Gürcistan'ın başka bölgelerine göç etmek zorunda kaldı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 209,
+      "char_count": 1719,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.373376",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 351,
+      "content": "Cavahiler (Gürcüce: ჯავახები), çoğunlukla Gürcistan'ın Samtshe-Cavaheti bölgesinde yaşayan Gürcülerin etnik boylarından biridir. Cavahiler, Cavaheti'nin yerli halkıdır. Terminolojide Cavaheti adı, geleneksel Gürcüce –eti eki ile \"Cavah\" kökünden gelmektedir ve Cavahilerin yurdu anlamına gelir. Cavahiler, Gürcü dilinin Cavaheti lehçesini konuşurlar.",
+      "char_count": 350,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 351,
+      "end_char": 1351,
+      "content": "== Tarih == Cavahiler, eski zamanlardan beri güney Gürcistan'da yaşayan en eski Gürcü boylarından biridir. Cavahilerden en erken Urartu kaynaklarında, MÖ 785 yılında Urartu Kralı I. Argişti'nin notlarında “Zabakha” veya “Zabakhian” olarak bahsedilmektedir. Bu, MÖ 8. yüzyılın başlarına kadar Cavahilerin kendi kendini yöneten bir boy olduğu anlamına gelebilir. Cyril Toumanoff'a göre Cavaheti, MÖ 4. veya 3. yüzyıldan itibaren İberya Krallığı'nın Tsunda Dükalığı'nın bir parçasıydı. Azize Nino, İberya'ya Cavaheti üzerinden girdi ve Kura Nehri'ni izleyerek krallığın başkenti Mtsheta'ya ulaştı ve burada Hristiyanlığı vaaz ederek İberya Krallığı'nın Hristiyanlaşmasını sağladı. Ermeni tarihçi Sebastialı Uhtanes (935-1000), Gürcistan Katolikosu Kyrion'un soy ağacından bahseder. Bu metnin birebir çevirisi şöyledir: Kyrion \" ülke ve soy bakımından Gürcülerden, Cavahların bölgesinden geldi.\" Uhtanes'in, Cavaheti'nin Gürcistan'ın (İberya) bir parçası olduğuna ve Cavahilerin Gürcü olduğuna inandığına",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1151,
+      "end_char": 1704,
+      "content": "irisi şöyledir: Kyrion \" ülke ve soy bakımından Gürcülerden, Cavahların bölgesinden geldi.\" Uhtanes'in, Cavaheti'nin Gürcistan'ın (İberya) bir parçası olduğuna ve Cavahilerin Gürcü olduğuna inandığına şüphe yoktur. 1828-1829 Osmanlı-Rus Savaşı'ndan sonra, Cavaheti bölgesinin nüfusu keskin bir şekilde azaldı. 1829'dan itibaren Rus General İvan Paskeviç'in emriyle Osmanlı İmparatorluğu'ndan 7.300 Ermeni aile (yaklaşık 58.000 kişi) Cavaheti'ye yerleştirildi. Cavaheti halkı evlerini terk etmek ve Gürcistan'ın başka bölgelerine göç etmek zorunda kaldı.",
+      "char_count": 553,
+      "token_estimate": 138
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cavahiler, Urartu kaynaklarında ilk olarak hangi yılda ve kim tarafından bahsedilmiştir?",
+        "answer": "MÖ 785 yılında Urartu Kralı I. Argişti tarafından.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cavahiler'in Cavaheti'deki tarihi varlığı ve kimliği, antik kaynaklar ve daha sonraki demografik değişimler tarafından nasıl etkilenmiştir?",
+        "answer": "Cavahiler, Cavaheti'nin yerli halkı olan eski bir Gürcü boyu olup, varlıkları MÖ 785'te Urartu kaynaklarında \"Zabakha\" olarak geçmekte ve MÖ 4. veya 3. yüzyıldan itibaren İberya Krallığı'nın bir parçası olmuştur. Ermeni tarihçi Uhtanes de onları Gürcü olarak tanımlamıştır. Ancak, 1828-1829 Osmanlı-Rus Savaşı'ndan sonra Cavaheti'nin nüfusu keskin bir şekilde azalmış, 1829'dan itibaren Rus General İvan Paskeviç'in emriyle Osmanlı İmparatorluğu'ndan 7.300 Ermeni aile Cavaheti'ye yerleştirilmiş ve bu durum Cavahiler'in evlerini terk edip Gürcistan'ın başka bölgelerine göç etmesine neden olarak onların bölgedeki tarihi varlığını ve demografik yapısını önemli ölçüde değiştirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "westminster_84738270",
+    "title": "Westminster",
+    "url": "https://tr.wikipedia.org/wiki/Westminster",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:03.640563",
+    "content": "City of Westminster, İngiltere parlamentosunu da içinde bulunduran kenttir. İngiltere'de Londra metropoliten alanında iç ilçe (inner borough). 1540'ta şehir olma statüsü verilmiştir. Thames Irmağının kuzey yakasında, West End'ın merkezinde yer alır. Batıda Kensington ve Chelsea ilçesi, doğuda ise City of London'la çevrili olan ilçenin yüzölçümü 21.48 km²'dir. Western Monastery (Batı Manastırı) olarak da anılan Westminster, başlangıçta, Thames kıyılarındaki bataklıkların ortasında yer alan bir adaydı. 785'te adaya bir grup keşiş yerleşti. İngiltere kralı Aziz Edward (hd 1042-1066) burada, sonradan Westminster Abbey adını alan yeni bir kiliseyle bir saray yaptırdı. 1512'deki yangından kısa bir süre sonra İngiliz kraliyet sarayı yakınlarındaki Whitehall Sarayı'na taşındı. Avam Kamarası ise 1834'teki yeni bir yangına değin eski saray bölgesindeki St. Stephen Şapeli'nde toplanmaya devam etti. Bugünkü Parlamento Binası ve Big Ben adlı 13 tonluk çanıyla ünlü Saat Kulesi yangından sonra yapıldı (1840-1867). Strand olarak bilinen yol üzerindeki adalet binalarının tamamlandığı 1870'e değin İngiltere'nin başlıca mahkemeleri Parlamento Binası'nın bitişiğindeki Westminster Hall'da toplanırdı. Westminster sınırları içinde kalan önemli merkezler arasında eski Charing Cross'un yerinde bulunan Trafalgar Meydanı ve birçok resmi binanın yer aldığı Whitehall sayılabilir. Inigo Jones'un yaptığı Şölen Evi (1619-1621), Atlı Muhafız Birliği Binası (1753), Yeni Scotland Yard ve Downing Sokağı Whitehall'dadır. Başbakan, Downing Sokağı 10 Numara'da oturur. Mall adlı gezinti alanı, Donanma Kemeri'yle Buckingham Sarayı arasındadır. Victoria Sokağı'ndaki yeni devlet daireleri Victoria İstasyonu'na kadar uzanır. Belgravia Malikanesi Victoria'yla Hyde Park arasında Grosvenor Malikanesi ise Piccadilly'nin kuzeyindeki Mayfair'dedir. Portland ve Cavendish malikaneleriyle Regent's Park'taki Crown Malikanesi daha kuzeyde yer alır. Londra Üniversitesi'ne bağlı Bedforg College ve Londra Hayvanat Bahçesi de Regent's Park'tadır. Westminster ilçesinin yaklaşık dörtte biri parklar ve yeşil alanlarla kaplıdır. St. John's Wood'daki zarif Eyre Malikanesi ve Lord Kriket Alanı, aşırı kalabalığı ile dikkat çeken Paddington İstasyonu çevresiyle tam bir karşıtlık içindedir. İlçedeki önemli yapılar arasında Katolik Westminster Katedrali (1895-1903) British Broadcasting Corporation (BBC) merkezi, Madame Tussauds müzesi, Londra Planetaryumu ve Albert Kraliyet Binası (Royal Albert Hall) sayılabilir. St. George, St. Mary, Middlesex ve Westminster hastanelerinin bulunduğu Westminster'da birçok tiyatro ve sinema, restoran, otel ve mağaza vardır. == Fotoğraflar == == Dipnotlar == == Dış bağlantılar == Westminster'de sanal turizm (İngilizce) Resmî site24 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 356,
+      "char_count": 2827,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.746767",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "City of Westminster, İngiltere parlamentosunu da içinde bulunduran kenttir. İngiltere'de Londra metropoliten alanında iç ilçe (inner borough). 1540'ta şehir olma statüsü verilmiştir. Thames Irmağının kuzey yakasında, West End'ın merkezinde yer alır. Batıda Kensington ve Chelsea ilçesi, doğuda ise City of London'la çevrili olan ilçenin yüzölçümü 21.48 km²'dir. Western Monastery (Batı Manastırı) olarak da anılan Westminster, başlangıçta, Thames kıyılarındaki bataklıkların ortasında yer alan bir adaydı. 785'te adaya bir grup keşiş yerleşti. İngiltere kralı Aziz Edward (hd 1042-1066) burada, sonradan Westminster Abbey adını alan yeni bir kiliseyle bir saray yaptırdı. 1512'deki yangından kısa bir süre sonra İngiliz kraliyet sarayı yakınlarındaki Whitehall Sarayı'na taşındı. Avam Kamarası ise 1834'teki yeni bir yangına değin eski saray bölgesindeki St. Stephen Şapeli'nde toplanmaya devam etti. Bugünkü Parlamento Binası ve Big Ben adlı 13 tonluk çanıyla ünlü Saat Kulesi yangından sonra yapıld",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "34'teki yeni bir yangına değin eski saray bölgesindeki St. Stephen Şapeli'nde toplanmaya devam etti. Bugünkü Parlamento Binası ve Big Ben adlı 13 tonluk çanıyla ünlü Saat Kulesi yangından sonra yapıldı (1840-1867). Strand olarak bilinen yol üzerindeki adalet binalarının tamamlandığı 1870'e değin İngiltere'nin başlıca mahkemeleri Parlamento Binası'nın bitişiğindeki Westminster Hall'da toplanırdı. Westminster sınırları içinde kalan önemli merkezler arasında eski Charing Cross'un yerinde bulunan Trafalgar Meydanı ve birçok resmi binanın yer aldığı Whitehall sayılabilir. Inigo Jones'un yaptığı Şölen Evi (1619-1621), Atlı Muhafız Birliği Binası (1753), Yeni Scotland Yard ve Downing Sokağı Whitehall'dadır. Başbakan, Downing Sokağı 10 Numara'da oturur. Mall adlı gezinti alanı, Donanma Kemeri'yle Buckingham Sarayı arasındadır. Victoria Sokağı'ndaki yeni devlet daireleri Victoria İstasyonu'na kadar uzanır. Belgravia Malikanesi Victoria'yla Hyde Park arasında Grosvenor Malikanesi ise Piccadilly'",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2600,
+      "content": "Buckingham Sarayı arasındadır. Victoria Sokağı'ndaki yeni devlet daireleri Victoria İstasyonu'na kadar uzanır. Belgravia Malikanesi Victoria'yla Hyde Park arasında Grosvenor Malikanesi ise Piccadilly'nin kuzeyindeki Mayfair'dedir. Portland ve Cavendish malikaneleriyle Regent's Park'taki Crown Malikanesi daha kuzeyde yer alır. Londra Üniversitesi'ne bağlı Bedforg College ve Londra Hayvanat Bahçesi de Regent's Park'tadır. Westminster ilçesinin yaklaşık dörtte biri parklar ve yeşil alanlarla kaplıdır. St. John's Wood'daki zarif Eyre Malikanesi ve Lord Kriket Alanı, aşırı kalabalığı ile dikkat çeken Paddington İstasyonu çevresiyle tam bir karşıtlık içindedir. İlçedeki önemli yapılar arasında Katolik Westminster Katedrali (1895-1903) British Broadcasting Corporation (BBC) merkezi, Madame Tussauds müzesi, Londra Planetaryumu ve Albert Kraliyet Binası (Royal Albert Hall) sayılabilir. St. George, St. Mary, Middlesex ve Westminster hastanelerinin bulunduğu Westminster'da birçok tiyatro ve sinem",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 2400,
+      "end_char": 2635,
+      "content": "ds müzesi, Londra Planetaryumu ve Albert Kraliyet Binası (Royal Albert Hall) sayılabilir. St. George, St. Mary, Middlesex ve Westminster hastanelerinin bulunduğu Westminster'da birçok tiyatro ve sinema, restoran, otel ve mağaza vardır.",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2670,
+      "end_char": 2827,
+      "content": "== Dış bağlantılar == Westminster'de sanal turizm (İngilizce) Resmî site24 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) (İngilizce)",
+      "char_count": 157,
+      "token_estimate": 39
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "City of Westminster'a şehir olma statüsü ne zaman verilmiştir?",
+        "answer": "1540'ta",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Westminster, tarih boyunca İngiltere'nin hangi önemli yönetim, yargı ve kültürel merkezlerine ev sahipliği yapmıştır ve bu merkezlerden bazıları nerede konumlanmıştır?",
+        "answer": "Westminster, tarih boyunca İngiltere parlamentosu, kraliyet sarayı (sonradan Westminster Abbey), Avam Kamarası'nın toplandığı St. Stephen Şapeli ve 1834 yangını sonrası yapılan Parlamento Binası gibi önemli yönetim merkezlerine ev sahipliği yapmıştır. Ayrıca, Başbakan'ın ikamet ettiği Downing Sokağı 10 Numara'nın bulunduğu Whitehall ve Victoria Sokağı'ndaki devlet daireleri de yönetimle ilgili önemli yerlerdir. Yargı alanında, başlıca mahkemeler 1870'e değin Westminster Hall'da toplanmış, ardından Strand üzerindeki adalet binalarına taşınmıştır. Kültürel ve diğer önemli merkezler arasında ise Trafalgar Meydanı, Buckingham Sarayı, Regent's Park'taki Londra Hayvanat Bahçesi ve Bedford College, Katolik Westminster Katedrali, British Broadcasting Corporation (BBC) merkezi, Madame Tussauds müzesi, Londra Planetaryumu, Albert Kraliyet Binası ile çok sayıda tiyatro ve sinema bulunmaktadır. İlçenin yaklaşık dörtte biri de parklar ve yeşil alanlarla kaplıdır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

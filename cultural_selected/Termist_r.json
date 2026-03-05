@@ -1,0 +1,183 @@
+{
+  "article": {
+    "id": "termistr_8232c5cf",
+    "title": "Termistör",
+    "url": "https://tr.wikipedia.org/wiki/Termist%C3%B6r",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:34.831861",
+    "content": "Termistör veya ısıl direnç, sıcaklık ile iletkenliği (veya direnci) değişen bir tür dirençtir. Sıcaklık ile direnci değişen maddelere, term (ısıl), rezistör (direnç) kelimelerinin birleşimi olan termistör denir. Termistörler, sıcaklık sensörleri, kendiliğinden sıfırlamalı aşırı akım koruyucuları ve kendiliğinden ayarlamalı ısıtma elementlerinde kullanılır Termistörler, termorezistiflerden (RTD) farklıdır. Termistörlerde, seramik veya polimer malzeme kullanılırken, RTD'lerde saf metal kullanılır. Sıcaklık tepkileri de farklıdır; RTD'ler aşırı sıcak ortamlarda kullanılabilirken, termistörler yalnızca kısıtlı sıcaklık değerlerine erişebilir, bu da normalde −90 °C ile 130 °C arasındadır. == Temel işlemi == Sıcaklık ile direnç arasındaki ilişkinin birinci mertebeden yaklaşık olarak doğrusal olduğu varsayılırsa: Δ R = k Δ T {\\displaystyle \\Delta R=k\\Delta T\\,} olur. Burada Δ R {\\displaystyle \\Delta R} = dirençteki değişim Δ T {\\displaystyle \\Delta T} = sıcaklıktaki değişim k {\\displaystyle k} = direncin birinci mertebeden sıcaklık katsayısı Termistörler, k {\\displaystyle k} işaretine bağlı olarak ikiye ayrılır. Eğer k {\\displaystyle k} pozitif sayı ise, sıcaklık arttıkça direnç te artar ve bu tür cihazlara pozitif ısıl katsayılı (PTC) termistör veya pozistör denir. Eğer k {\\displaystyle k} negatif sayı ise, sıcaklık arttıkça direnç azalır ve bu tür cihazlara negatif ısıl katsayılı (NTC) termistör denir. Dirençlerin k {\\displaystyle k} katsayısı mümkün olduğunca sıfıra yakın olacak şekilde imal edildiklerinden dolayı, termistör değildir. Bu yüzden dirençleri, tüm sıcaklık değerlerinde hemen hemen sabit kalır. k sıcaklık katsayısı yerine bazen, α T {\\displaystyle \\alpha _{T}} (alfa alt T) direnç sıcaklık katsayısı terimi kullanılır. Bunun ifadesi şöyledir: α T = 1 R ( T ) d R d T . {\\displaystyle \\alpha _{T}={\\frac {1}{R(T)}}{\\frac {dR}{dT}}.} Burada α T {\\displaystyle \\alpha _{T}} katsayısı, aşağıdaki a {\\displaystyle a} parametresi ile karıştırılmamalıdır. == Steinhart–Hart denklemi == Pratikte, yukarıdaki doğrusal yaklaşım yalnızca belirli sıcaklık aralıklarında çalışır. Tam sıcaklık ölçümleri için, cihazın direnç/sıcaklık eğrisi ayrıntılı olarak çıkartılmalıdır. Steinhart–Hart denklemi, üçüncü mertebeden yaklaşımı şöyle ifade eder: 1 T = a + b ln ⁡ ( R ) + c ln 3 ⁡ ( R ) {\\displaystyle {\\frac {1}{T}}=a+b\\,\\ln(R)+c\\,\\ln ^{3}(R)} Burada a, b ve c, Steinhart–Hart parametreleri olarak adlandırılır ve her bir cihaz için belirlenmelidirler. T, kelvin biriminden sıcaklık değeri; R, ohm olarak dirençtir. Direnci bir sıcaklık fonksiyonu olarak ifade etmek için yukarıdaki denklem şöyle düzenlenebilir: R = e ( x − y 2 ) 1 3 − ( x + y 2 ) 1 3 {\\displaystyle R=e^{{\\left(x-{y \\over 2}\\right)}^{1 \\over 3}-{\\left(x+{y \\over 2}\\right)}^{1 \\over 3}}} Burada y = a − 1 T c {\\displaystyle y={{a-{1 \\over T}} \\over c}} ve x = ( b 3 c ) 3 + y 2 4 {\\displaystyle x={\\sqrt {{{\\left({b \\over {3c}}\\right)}^{3}}+{{y^{2}} \\over 4}}}} Steinhart–Hart denklemindeki hata, 200 °C üzerindeki ölçümlerde genellikle 0,02 °C'den daha küçüktür. Örneğin, (25 °C = 298,15 K) oda sıcaklığında, 3000 Ω dirençli bir termistördeki parametrelerin değerleri şöyledir: a = 1 , 40 × 10 − 3 {\\displaystyle a=1{,}40\\times 10^{-3}} b = 2 , 37 × 10 − 4 {\\displaystyle b=2{,}37\\times 10^{-4}} c = 9 , 90 × 10 − 8 {\\displaystyle c=9{,}90\\times 10^{-8}} == Çeşitleri == === NTC === Çoğu NTC termistörler, bir baskılı diskten veya metal oksit pişirilmesi gibi dökme çipten imal edilir. Yarı iletkenin sıcaklığı arttığında, elektrik yükünü taşıyan elektronların sayısı da artar. Bir malzemede ne kadar fazla yük olursa, elektrik akımını o denli iletir. Bu, aşağıdaki şu formülle açıklanır: I = n ⋅ A ⋅ v ⋅ e {\\displaystyle I=n\\cdot A\\cdot v\\cdot e} I {\\displaystyle I} = elektrik akımı (amper) n {\\displaystyle n} = taşınan yük yoğunluğu (miktar/m³) A {\\displaystyle A} = malzemenin kesit alanı (m²) v {\\displaystyle v} = taşınan yük hızı (m/s) e {\\displaystyle e} = bir elektronun yükü ( e = 1,602 × 10 − 19 {\\displaystyle e=1{,}602\\times 10^{-19}} coulomb) Akım, ampermetre ile ölçülür. Sıcaklıktaki aşırı değişimlerde ayar gereklidir. Sıcaklıktaki küçük değişimlerde, eğer doğru yarı iletken kullanılmışsa, malzeme direnci sıcaklıkla doğru orantılıdır. Çok farklı yarı iletken termistörler vardır: Bunlar yaklaşık 0,01 kelvin ile 2.000 kelvin (−273,14 °C ile 1.700 °C) arasındadır. === PTC === Çoğu PTC termistör \"anahtarlamalı\"dır. Yani belirli bir kritik sıcaklıkta dirençleri aniden yükselir. Bunlar, içinde baryum titanat (BaTiO3) ve diğer bileşikler olan hamurumsu polikristal seramikten imal edilir. Bu ferroelektrik malzemelerin bağıl yalıtkanlık sabitleri sıcaklıkla değişir. Curie sıcaklığının altında yüksek bağıl yalıtkanlık sabiti, kristal tanecikleri arasındaki potansiyel bariyerlerin oluşmasını sağlayarak daha düşük dirence neden olur. Cihazın bu bölgesinde, küçük negatif sıcaklık katsayısı vardır. Curie sıcaklığında, taneciklerin etrafındaki potansiyel bariyerlerin oluşmasını sağlamak için bağıl yalıtkanlık sabiti aniden düşer ve direnç bariz biçimde artar. Daha yüksek sıcaklıklarda malzeme NTC gibi davranmaya başlar. W. Heywang ve G. H. Jonker tarafından 1960'larda bulunan bu davranışı modellemek için denklemler kullanılır. Diğer tür PTC termistör polimer PTC'dir. Bunların yüzeyleri karbonlu plastik ile kaplanır. Plastik soğuduğunda, karbon taneciklerin tümü birbirleriyle bağlanır ve böylece cihaz iletken durumuna geçer. Plastiğin ısısı arttırıldığında, genişler ve karbon tanecikleri birbirlerinden uzaklaşır. Böylece cihazın direnci aniden yükselir. BaTiO3 termistörler gibi bu cihaz da, doğrusal olmayan direnç/sıcaklık tepkisi vardır ve kısmi sıcaklık ölçümü için değil de anahtarlama için kullanılır. === Silistör === Silistör, başka bir çeşit termistördür. Isı algılayan silikon dirençtir. Silistörler, diğer dirençlerle benzer yapı ve çalışma prensibine sahiptir. Silikon, yarı iletken malzeme gibi davranır. == Ayrıca bakınız == Termokupl",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 835,
+      "char_count": 5970,
+      "num_chunks": 13,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.455473",
+    "total_chunks": 13,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 693,
+      "content": "Termistör veya ısıl direnç, sıcaklık ile iletkenliği (veya direnci) değişen bir tür dirençtir. Sıcaklık ile direnci değişen maddelere, term (ısıl), rezistör (direnç) kelimelerinin birleşimi olan termistör denir. Termistörler, sıcaklık sensörleri, kendiliğinden sıfırlamalı aşırı akım koruyucuları ve kendiliğinden ayarlamalı ısıtma elementlerinde kullanılır Termistörler, termorezistiflerden (RTD) farklıdır. Termistörlerde, seramik veya polimer malzeme kullanılırken, RTD'lerde saf metal kullanılır. Sıcaklık tepkileri de farklıdır; RTD'ler aşırı sıcak ortamlarda kullanılabilirken, termistörler yalnızca kısıtlı sıcaklık değerlerine erişebilir, bu da normalde −90 °C ile 130 °C arasındadır.",
+      "char_count": 692,
+      "token_estimate": 173
+    },
+    {
+      "id": "c0001",
+      "section": "== Temel işlemi ==",
+      "heading_path": "== Temel işlemi ==",
+      "start_char": 693,
+      "end_char": 822,
+      "content": "== Temel işlemi == Sıcaklık ile direnç arasındaki ilişkinin birinci mertebeden yaklaşık olarak doğrusal olduğu varsayılırsa: Δ R",
+      "char_count": 128,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0002",
+      "section": "= k Δ T {\\displaystyle \\Delta R=k\\Delta T\\,} olur. Burada Δ R {\\displaystyle \\Delta R} =",
+      "heading_path": "= k Δ T {\\displaystyle \\Delta R=k\\Delta T\\,} olur. Burada Δ R {\\displaystyle \\Delta R} =",
+      "start_char": 822,
+      "end_char": 959,
+      "content": "= k Δ T {\\displaystyle \\Delta R=k\\Delta T\\,} olur. Burada Δ R {\\displaystyle \\Delta R} = dirençteki değişim Δ T {\\displaystyle \\Delta T}",
+      "char_count": 136,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0003",
+      "section": "= sıcaklıktaki değişim k {\\displaystyle k} =",
+      "heading_path": "= sıcaklıktaki değişim k {\\displaystyle k} =",
+      "start_char": 959,
+      "end_char": 1783,
+      "content": "= sıcaklıktaki değişim k {\\displaystyle k} = direncin birinci mertebeden sıcaklık katsayısı Termistörler, k {\\displaystyle k} işaretine bağlı olarak ikiye ayrılır. Eğer k {\\displaystyle k} pozitif sayı ise, sıcaklık arttıkça direnç te artar ve bu tür cihazlara pozitif ısıl katsayılı (PTC) termistör veya pozistör denir. Eğer k {\\displaystyle k} negatif sayı ise, sıcaklık arttıkça direnç azalır ve bu tür cihazlara negatif ısıl katsayılı (NTC) termistör denir. Dirençlerin k {\\displaystyle k} katsayısı mümkün olduğunca sıfıra yakın olacak şekilde imal edildiklerinden dolayı, termistör değildir. Bu yüzden dirençleri, tüm sıcaklık değerlerinde hemen hemen sabit kalır. k sıcaklık katsayısı yerine bazen, α T {\\displaystyle \\alpha _{T}} (alfa alt T) direnç sıcaklık katsayısı terimi kullanılır. Bunun ifadesi şöyledir: α T",
+      "char_count": 823,
+      "token_estimate": 205
+    },
+    {
+      "id": "c0004",
+      "section": "= 1 R ( T ) d R d T . {\\displaystyle \\alpha _{T}={\\frac {1}{R(T)}}{\\frac {dR}{dT}}.} Burada α T {\\displaystyle \\alpha _{T}} katsayısı, aşağıdaki a {\\displaystyle a} parametresi ile karıştırılmamalıdır. = =",
+      "heading_path": "= 1 R ( T ) d R d T . {\\displaystyle \\alpha _{T}={\\frac {1}{R(T)}}{\\frac {dR}{dT}}.} Burada α T {\\displaystyle \\alpha _{T}} katsayısı, aşağıdaki a {\\displaystyle a} parametresi ile karıştırılmamalıdır. = =",
+      "start_char": 1783,
+      "end_char": 2012,
+      "content": "= 1 R ( T ) d R d T . {\\displaystyle \\alpha _{T}={\\frac {1}{R(T)}}{\\frac {dR}{dT}}.} Burada α T {\\displaystyle \\alpha _{T}} katsayısı, aşağıdaki a {\\displaystyle a} parametresi ile karıştırılmamalıdır. == Steinhart–Hart denklemi",
+      "char_count": 228,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0005",
+      "section": "== Pratikte, yukarıdaki doğrusal yaklaşım yalnızca belirli sıcaklık aralıklarında çalışır. Tam sıcaklık ölçümleri için, cihazın direnç/sıcaklık eğrisi ayrıntılı olarak çıkartılmalıdır. Steinhart–Hart denklemi, üçüncü mertebeden yaklaşımı şöyle ifade eder: 1 T = a + b ln ⁡ ( R ) + c ln 3 ⁡ ( R ) {\\displaystyle {\\frac {1}{T}}=a+b\\,\\ln(R)+c\\,\\ln ^{3}(R)} Burada a, b ve c, Steinhart–Hart parametreleri olarak adlandırılır ve her bir cihaz için belirlenmelidirler. T, kelvin biriminden sıcaklık değeri; R, ohm olarak dirençtir. Direnci bir sıcaklık fonksiyonu olarak ifade etmek için yukarıdaki denklem şöyle düzenlenebilir: R = e ( x − y 2 ) 1 3 − ( x + y 2 ) 1 3 {\\displaystyle R=e^{{\\left(x-{y \\over 2}\\right)}^{1 \\over 3}-{\\left(x+{y \\over 2}\\right)}^{1 \\over 3}}} Burada y = a − 1 T c {\\displaystyle y={{a-{1 \\over T}} \\over c}} ve x = ( b 3 c ) 3 + y 2 4 {\\displaystyle x={\\sqrt {{{\\left({b \\over {3c}}\\right)}^{3}}+{{y^{2}} \\over 4}}}} Steinhart–Hart denklemindeki hata, 200 °C üzerindeki ölçümlerde genellikle 0,02 °C'den daha küçüktür. Örneğin, (25 °C = 298,15 K) oda sıcaklığında, 3000 Ω dirençli bir termistördeki parametrelerin değerleri şöyledir: a = 1 , 40 × 10 − 3 {\\displaystyle a=1{,}40\\times 10^{-3}} b = 2 , 37 × 10 − 4 {\\displaystyle b=2{,}37\\times 10^{-4}} c = 9 , 90 × 10 − 8 {\\displaystyle c=9{,}90\\times 10^{-8}} ==",
+      "heading_path": "== Pratikte, yukarıdaki doğrusal yaklaşım yalnızca belirli sıcaklık aralıklarında çalışır. Tam sıcaklık ölçümleri için, cihazın direnç/sıcaklık eğrisi ayrıntılı olarak çıkartılmalıdır. Steinhart–Hart denklemi, üçüncü mertebeden yaklaşımı şöyle ifade eder: 1 T = a + b ln ⁡ ( R ) + c ln 3 ⁡ ( R ) {\\displaystyle {\\frac {1}{T}}=a+b\\,\\ln(R)+c\\,\\ln ^{3}(R)} Burada a, b ve c, Steinhart–Hart parametreleri olarak adlandırılır ve her bir cihaz için belirlenmelidirler. T, kelvin biriminden sıcaklık değeri; R, ohm olarak dirençtir. Direnci bir sıcaklık fonksiyonu olarak ifade etmek için yukarıdaki denklem şöyle düzenlenebilir: R = e ( x − y 2 ) 1 3 − ( x + y 2 ) 1 3 {\\displaystyle R=e^{{\\left(x-{y \\over 2}\\right)}^{1 \\over 3}-{\\left(x+{y \\over 2}\\right)}^{1 \\over 3}}} Burada y = a − 1 T c {\\displaystyle y={{a-{1 \\over T}} \\over c}} ve x = ( b 3 c ) 3 + y 2 4 {\\displaystyle x={\\sqrt {{{\\left({b \\over {3c}}\\right)}^{3}}+{{y^{2}} \\over 4}}}} Steinhart–Hart denklemindeki hata, 200 °C üzerindeki ölçümlerde genellikle 0,02 °C'den daha küçüktür. Örneğin, (25 °C = 298,15 K) oda sıcaklığında, 3000 Ω dirençli bir termistördeki parametrelerin değerleri şöyledir: a = 1 , 40 × 10 − 3 {\\displaystyle a=1{,}40\\times 10^{-3}} b = 2 , 37 × 10 − 4 {\\displaystyle b=2{,}37\\times 10^{-4}} c = 9 , 90 × 10 − 8 {\\displaystyle c=9{,}90\\times 10^{-8}} ==",
+      "start_char": 2012,
+      "end_char": 3012,
+      "content": "== Pratikte, yukarıdaki doğrusal yaklaşım yalnızca belirli sıcaklık aralıklarında çalışır. Tam sıcaklık ölçümleri için, cihazın direnç/sıcaklık eğrisi ayrıntılı olarak çıkartılmalıdır. Steinhart–Hart denklemi, üçüncü mertebeden yaklaşımı şöyle ifade eder: 1 T = a + b ln ⁡ ( R ) + c ln 3 ⁡ ( R ) {\\displaystyle {\\frac {1}{T}}=a+b\\,\\ln(R)+c\\,\\ln ^{3}(R)} Burada a, b ve c, Steinhart–Hart parametreleri olarak adlandırılır ve her bir cihaz için belirlenmelidirler. T, kelvin biriminden sıcaklık değeri; R, ohm olarak dirençtir. Direnci bir sıcaklık fonksiyonu olarak ifade etmek için yukarıdaki denklem şöyle düzenlenebilir: R = e ( x − y 2 ) 1 3 − ( x + y 2 ) 1 3 {\\displaystyle R=e^{{\\left(x-{y \\over 2}\\right)}^{1 \\over 3}-{\\left(x+{y \\over 2}\\right)}^{1 \\over 3}}} Burada y = a − 1 T c {\\displaystyle y={{a-{1 \\over T}} \\over c}} ve x = ( b 3 c ) 3 + y 2 4 {\\displaystyle x={\\sqrt {{{\\left({b \\over {3c}}\\right)}^{3}}+{{y^{2}} \\over 4}}}} Steinhart–Hart denklemindeki hata, 200 °C üzerindeki ölçüml",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "== Pratikte, yukarıdaki doğrusal yaklaşım yalnızca belirli sıcaklık aralıklarında çalışır. Tam sıcaklık ölçümleri için, cihazın direnç/sıcaklık eğrisi ayrıntılı olarak çıkartılmalıdır. Steinhart–Hart denklemi, üçüncü mertebeden yaklaşımı şöyle ifade eder: 1 T = a + b ln ⁡ ( R ) + c ln 3 ⁡ ( R ) {\\displaystyle {\\frac {1}{T}}=a+b\\,\\ln(R)+c\\,\\ln ^{3}(R)} Burada a, b ve c, Steinhart–Hart parametreleri olarak adlandırılır ve her bir cihaz için belirlenmelidirler. T, kelvin biriminden sıcaklık değeri; R, ohm olarak dirençtir. Direnci bir sıcaklık fonksiyonu olarak ifade etmek için yukarıdaki denklem şöyle düzenlenebilir: R = e ( x − y 2 ) 1 3 − ( x + y 2 ) 1 3 {\\displaystyle R=e^{{\\left(x-{y \\over 2}\\right)}^{1 \\over 3}-{\\left(x+{y \\over 2}\\right)}^{1 \\over 3}}} Burada y = a − 1 T c {\\displaystyle y={{a-{1 \\over T}} \\over c}} ve x = ( b 3 c ) 3 + y 2 4 {\\displaystyle x={\\sqrt {{{\\left({b \\over {3c}}\\right)}^{3}}+{{y^{2}} \\over 4}}}} Steinhart–Hart denklemindeki hata, 200 °C üzerindeki ölçümlerde genellikle 0,02 °C'den daha küçüktür. Örneğin, (25 °C = 298,15 K) oda sıcaklığında, 3000 Ω dirençli bir termistördeki parametrelerin değerleri şöyledir: a = 1 , 40 × 10 − 3 {\\displaystyle a=1{,}40\\times 10^{-3}} b = 2 , 37 × 10 − 4 {\\displaystyle b=2{,}37\\times 10^{-4}} c = 9 , 90 × 10 − 8 {\\displaystyle c=9{,}90\\times 10^{-8}} ==",
+      "heading_path": "== Pratikte, yukarıdaki doğrusal yaklaşım yalnızca belirli sıcaklık aralıklarında çalışır. Tam sıcaklık ölçümleri için, cihazın direnç/sıcaklık eğrisi ayrıntılı olarak çıkartılmalıdır. Steinhart–Hart denklemi, üçüncü mertebeden yaklaşımı şöyle ifade eder: 1 T = a + b ln ⁡ ( R ) + c ln 3 ⁡ ( R ) {\\displaystyle {\\frac {1}{T}}=a+b\\,\\ln(R)+c\\,\\ln ^{3}(R)} Burada a, b ve c, Steinhart–Hart parametreleri olarak adlandırılır ve her bir cihaz için belirlenmelidirler. T, kelvin biriminden sıcaklık değeri; R, ohm olarak dirençtir. Direnci bir sıcaklık fonksiyonu olarak ifade etmek için yukarıdaki denklem şöyle düzenlenebilir: R = e ( x − y 2 ) 1 3 − ( x + y 2 ) 1 3 {\\displaystyle R=e^{{\\left(x-{y \\over 2}\\right)}^{1 \\over 3}-{\\left(x+{y \\over 2}\\right)}^{1 \\over 3}}} Burada y = a − 1 T c {\\displaystyle y={{a-{1 \\over T}} \\over c}} ve x = ( b 3 c ) 3 + y 2 4 {\\displaystyle x={\\sqrt {{{\\left({b \\over {3c}}\\right)}^{3}}+{{y^{2}} \\over 4}}}} Steinhart–Hart denklemindeki hata, 200 °C üzerindeki ölçümlerde genellikle 0,02 °C'den daha küçüktür. Örneğin, (25 °C = 298,15 K) oda sıcaklığında, 3000 Ω dirençli bir termistördeki parametrelerin değerleri şöyledir: a = 1 , 40 × 10 − 3 {\\displaystyle a=1{,}40\\times 10^{-3}} b = 2 , 37 × 10 − 4 {\\displaystyle b=2{,}37\\times 10^{-4}} c = 9 , 90 × 10 − 8 {\\displaystyle c=9{,}90\\times 10^{-8}} ==",
+      "start_char": 2812,
+      "end_char": 3359,
+      "content": "le y={{a-{1 \\over T}} \\over c}} ve x = ( b 3 c ) 3 + y 2 4 {\\displaystyle x={\\sqrt {{{\\left({b \\over {3c}}\\right)}^{3}}+{{y^{2}} \\over 4}}}} Steinhart–Hart denklemindeki hata, 200 °C üzerindeki ölçümlerde genellikle 0,02 °C'den daha küçüktür. Örneğin, (25 °C = 298,15 K) oda sıcaklığında, 3000 Ω dirençli bir termistördeki parametrelerin değerleri şöyledir: a = 1 , 40 × 10 − 3 {\\displaystyle a=1{,}40\\times 10^{-3}} b = 2 , 37 × 10 − 4 {\\displaystyle b=2{,}37\\times 10^{-4}} c = 9 , 90 × 10 − 8 {\\displaystyle c=9{,}90\\times 10^{-8}} == Çeşitleri",
+      "char_count": 547,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0007",
+      "section": "== = ==",
+      "heading_path": "== = ==",
+      "start_char": 3360,
+      "end_char": 3371,
+      "content": "== === NTC",
+      "char_count": 10,
+      "token_estimate": 2
+    },
+    {
+      "id": "c0008",
+      "section": "=== Çoğu NTC termistörler, bir baskılı diskten veya metal oksit pişirilmesi gibi dökme çipten imal edilir. Yarı iletkenin sıcaklığı arttığında, elektrik yükünü taşıyan elektronların sayısı da artar. Bir malzemede ne kadar fazla yük olursa, elektrik akımını o denli iletir. Bu, aşağıdaki şu formülle açıklanır: I = n ⋅ A ⋅ v ⋅ e {\\displaystyle I=n\\cdot A\\cdot v\\cdot e} I {\\displaystyle I} = elektrik akımı (amper) n {\\displaystyle n} = taşınan yük yoğunluğu (miktar/m³) A {\\displaystyle A} = malzemenin kesit alanı (m²) v {\\displaystyle v} = taşınan yük hızı (m/s) e {\\displaystyle e} = bir elektronun yükü ( e = 1,602 × 10 − 19 {\\displaystyle e=1{,}602\\times 10^{-19}} coulomb) Akım, ampermetre ile ölçülür. Sıcaklıktaki aşırı değişimlerde ayar gereklidir. Sıcaklıktaki küçük değişimlerde, eğer doğru yarı iletken kullanılmışsa, malzeme direnci sıcaklıkla doğru orantılıdır. Çok farklı yarı iletken termistörler vardır: Bunlar yaklaşık 0,01 kelvin ile 2.000 kelvin (−273,14 °C ile 1.700 °C) arasındadır. ===",
+      "heading_path": "=== Çoğu NTC termistörler, bir baskılı diskten veya metal oksit pişirilmesi gibi dökme çipten imal edilir. Yarı iletkenin sıcaklığı arttığında, elektrik yükünü taşıyan elektronların sayısı da artar. Bir malzemede ne kadar fazla yük olursa, elektrik akımını o denli iletir. Bu, aşağıdaki şu formülle açıklanır: I = n ⋅ A ⋅ v ⋅ e {\\displaystyle I=n\\cdot A\\cdot v\\cdot e} I {\\displaystyle I} = elektrik akımı (amper) n {\\displaystyle n} = taşınan yük yoğunluğu (miktar/m³) A {\\displaystyle A} = malzemenin kesit alanı (m²) v {\\displaystyle v} = taşınan yük hızı (m/s) e {\\displaystyle e} = bir elektronun yükü ( e = 1,602 × 10 − 19 {\\displaystyle e=1{,}602\\times 10^{-19}} coulomb) Akım, ampermetre ile ölçülür. Sıcaklıktaki aşırı değişimlerde ayar gereklidir. Sıcaklıktaki küçük değişimlerde, eğer doğru yarı iletken kullanılmışsa, malzeme direnci sıcaklıkla doğru orantılıdır. Çok farklı yarı iletken termistörler vardır: Bunlar yaklaşık 0,01 kelvin ile 2.000 kelvin (−273,14 °C ile 1.700 °C) arasındadır. ===",
+      "start_char": 3371,
+      "end_char": 4371,
+      "content": "=== Çoğu NTC termistörler, bir baskılı diskten veya metal oksit pişirilmesi gibi dökme çipten imal edilir. Yarı iletkenin sıcaklığı arttığında, elektrik yükünü taşıyan elektronların sayısı da artar. Bir malzemede ne kadar fazla yük olursa, elektrik akımını o denli iletir. Bu, aşağıdaki şu formülle açıklanır: I = n ⋅ A ⋅ v ⋅ e {\\displaystyle I=n\\cdot A\\cdot v\\cdot e} I {\\displaystyle I} = elektrik akımı (amper) n {\\displaystyle n} = taşınan yük yoğunluğu (miktar/m³) A {\\displaystyle A} = malzemenin kesit alanı (m²) v {\\displaystyle v} = taşınan yük hızı (m/s) e {\\displaystyle e} = bir elektronun yükü ( e = 1,602 × 10 − 19 {\\displaystyle e=1{,}602\\times 10^{-19}} coulomb) Akım, ampermetre ile ölçülür. Sıcaklıktaki aşırı değişimlerde ayar gereklidir. Sıcaklıktaki küçük değişimlerde, eğer doğru yarı iletken kullanılmışsa, malzeme direnci sıcaklıkla doğru orantılıdır. Çok farklı yarı iletken termistörler vardır: Bunlar yaklaşık 0,01 kelvin ile 2.000 kelvin (−273,14 °C ile 1.700 °C) arasında",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0009",
+      "section": "=== Çoğu NTC termistörler, bir baskılı diskten veya metal oksit pişirilmesi gibi dökme çipten imal edilir. Yarı iletkenin sıcaklığı arttığında, elektrik yükünü taşıyan elektronların sayısı da artar. Bir malzemede ne kadar fazla yük olursa, elektrik akımını o denli iletir. Bu, aşağıdaki şu formülle açıklanır: I = n ⋅ A ⋅ v ⋅ e {\\displaystyle I=n\\cdot A\\cdot v\\cdot e} I {\\displaystyle I} = elektrik akımı (amper) n {\\displaystyle n} = taşınan yük yoğunluğu (miktar/m³) A {\\displaystyle A} = malzemenin kesit alanı (m²) v {\\displaystyle v} = taşınan yük hızı (m/s) e {\\displaystyle e} = bir elektronun yükü ( e = 1,602 × 10 − 19 {\\displaystyle e=1{,}602\\times 10^{-19}} coulomb) Akım, ampermetre ile ölçülür. Sıcaklıktaki aşırı değişimlerde ayar gereklidir. Sıcaklıktaki küçük değişimlerde, eğer doğru yarı iletken kullanılmışsa, malzeme direnci sıcaklıkla doğru orantılıdır. Çok farklı yarı iletken termistörler vardır: Bunlar yaklaşık 0,01 kelvin ile 2.000 kelvin (−273,14 °C ile 1.700 °C) arasındadır. ===",
+      "heading_path": "=== Çoğu NTC termistörler, bir baskılı diskten veya metal oksit pişirilmesi gibi dökme çipten imal edilir. Yarı iletkenin sıcaklığı arttığında, elektrik yükünü taşıyan elektronların sayısı da artar. Bir malzemede ne kadar fazla yük olursa, elektrik akımını o denli iletir. Bu, aşağıdaki şu formülle açıklanır: I = n ⋅ A ⋅ v ⋅ e {\\displaystyle I=n\\cdot A\\cdot v\\cdot e} I {\\displaystyle I} = elektrik akımı (amper) n {\\displaystyle n} = taşınan yük yoğunluğu (miktar/m³) A {\\displaystyle A} = malzemenin kesit alanı (m²) v {\\displaystyle v} = taşınan yük hızı (m/s) e {\\displaystyle e} = bir elektronun yükü ( e = 1,602 × 10 − 19 {\\displaystyle e=1{,}602\\times 10^{-19}} coulomb) Akım, ampermetre ile ölçülür. Sıcaklıktaki aşırı değişimlerde ayar gereklidir. Sıcaklıktaki küçük değişimlerde, eğer doğru yarı iletken kullanılmışsa, malzeme direnci sıcaklıkla doğru orantılıdır. Çok farklı yarı iletken termistörler vardır: Bunlar yaklaşık 0,01 kelvin ile 2.000 kelvin (−273,14 °C ile 1.700 °C) arasındadır. ===",
+      "start_char": 4171,
+      "end_char": 4383,
+      "content": "u yarı iletken kullanılmışsa, malzeme direnci sıcaklıkla doğru orantılıdır. Çok farklı yarı iletken termistörler vardır: Bunlar yaklaşık 0,01 kelvin ile 2.000 kelvin (−273,14 °C ile 1.700 °C) arasındadır. === PTC",
+      "char_count": 212,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0010",
+      "section": "=== Çoğu PTC termistör \"anahtarlamalı\"dır. Yani belirli bir kritik sıcaklıkta dirençleri aniden yükselir. Bunlar, içinde baryum titanat (BaTiO3) ve diğer bileşikler olan hamurumsu polikristal seramikten imal edilir. Bu ferroelektrik malzemelerin bağıl yalıtkanlık sabitleri sıcaklıkla değişir. Curie sıcaklığının altında yüksek bağıl yalıtkanlık sabiti, kristal tanecikleri arasındaki potansiyel bariyerlerin oluşmasını sağlayarak daha düşük dirence neden olur. Cihazın bu bölgesinde, küçük negatif sıcaklık katsayısı vardır. Curie sıcaklığında, taneciklerin etrafındaki potansiyel bariyerlerin oluşmasını sağlamak için bağıl yalıtkanlık sabiti aniden düşer ve direnç bariz biçimde artar. Daha yüksek sıcaklıklarda malzeme NTC gibi davranmaya başlar. W. Heywang ve G. H. Jonker tarafından 1960'larda bulunan bu davranışı modellemek için denklemler kullanılır. Diğer tür PTC termistör polimer PTC'dir. Bunların yüzeyleri karbonlu plastik ile kaplanır. Plastik soğuduğunda, karbon taneciklerin tümü birbirleriyle bağlanır ve böylece cihaz iletken durumuna geçer. Plastiğin ısısı arttırıldığında, genişler ve karbon tanecikleri birbirlerinden uzaklaşır. Böylece cihazın direnci aniden yükselir. BaTiO3 termistörler gibi bu cihaz da, doğrusal olmayan direnç/sıcaklık tepkisi vardır ve kısmi sıcaklık ölçümü için değil de anahtarlama için kullanılır. ===",
+      "heading_path": "=== Çoğu PTC termistör \"anahtarlamalı\"dır. Yani belirli bir kritik sıcaklıkta dirençleri aniden yükselir. Bunlar, içinde baryum titanat (BaTiO3) ve diğer bileşikler olan hamurumsu polikristal seramikten imal edilir. Bu ferroelektrik malzemelerin bağıl yalıtkanlık sabitleri sıcaklıkla değişir. Curie sıcaklığının altında yüksek bağıl yalıtkanlık sabiti, kristal tanecikleri arasındaki potansiyel bariyerlerin oluşmasını sağlayarak daha düşük dirence neden olur. Cihazın bu bölgesinde, küçük negatif sıcaklık katsayısı vardır. Curie sıcaklığında, taneciklerin etrafındaki potansiyel bariyerlerin oluşmasını sağlamak için bağıl yalıtkanlık sabiti aniden düşer ve direnç bariz biçimde artar. Daha yüksek sıcaklıklarda malzeme NTC gibi davranmaya başlar. W. Heywang ve G. H. Jonker tarafından 1960'larda bulunan bu davranışı modellemek için denklemler kullanılır. Diğer tür PTC termistör polimer PTC'dir. Bunların yüzeyleri karbonlu plastik ile kaplanır. Plastik soğuduğunda, karbon taneciklerin tümü birbirleriyle bağlanır ve böylece cihaz iletken durumuna geçer. Plastiğin ısısı arttırıldığında, genişler ve karbon tanecikleri birbirlerinden uzaklaşır. Böylece cihazın direnci aniden yükselir. BaTiO3 termistörler gibi bu cihaz da, doğrusal olmayan direnç/sıcaklık tepkisi vardır ve kısmi sıcaklık ölçümü için değil de anahtarlama için kullanılır. ===",
+      "start_char": 4384,
+      "end_char": 5384,
+      "content": "=== Çoğu PTC termistör \"anahtarlamalı\"dır. Yani belirli bir kritik sıcaklıkta dirençleri aniden yükselir. Bunlar, içinde baryum titanat (BaTiO3) ve diğer bileşikler olan hamurumsu polikristal seramikten imal edilir. Bu ferroelektrik malzemelerin bağıl yalıtkanlık sabitleri sıcaklıkla değişir. Curie sıcaklığının altında yüksek bağıl yalıtkanlık sabiti, kristal tanecikleri arasındaki potansiyel bariyerlerin oluşmasını sağlayarak daha düşük dirence neden olur. Cihazın bu bölgesinde, küçük negatif sıcaklık katsayısı vardır. Curie sıcaklığında, taneciklerin etrafındaki potansiyel bariyerlerin oluşmasını sağlamak için bağıl yalıtkanlık sabiti aniden düşer ve direnç bariz biçimde artar. Daha yüksek sıcaklıklarda malzeme NTC gibi davranmaya başlar. W. Heywang ve G. H. Jonker tarafından 1960'larda bulunan bu davranışı modellemek için denklemler kullanılır. Diğer tür PTC termistör polimer PTC'dir. Bunların yüzeyleri karbonlu plastik ile kaplanır. Plastik soğuduğunda, karbon taneciklerin tümü bir",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0011",
+      "section": "=== Çoğu PTC termistör \"anahtarlamalı\"dır. Yani belirli bir kritik sıcaklıkta dirençleri aniden yükselir. Bunlar, içinde baryum titanat (BaTiO3) ve diğer bileşikler olan hamurumsu polikristal seramikten imal edilir. Bu ferroelektrik malzemelerin bağıl yalıtkanlık sabitleri sıcaklıkla değişir. Curie sıcaklığının altında yüksek bağıl yalıtkanlık sabiti, kristal tanecikleri arasındaki potansiyel bariyerlerin oluşmasını sağlayarak daha düşük dirence neden olur. Cihazın bu bölgesinde, küçük negatif sıcaklık katsayısı vardır. Curie sıcaklığında, taneciklerin etrafındaki potansiyel bariyerlerin oluşmasını sağlamak için bağıl yalıtkanlık sabiti aniden düşer ve direnç bariz biçimde artar. Daha yüksek sıcaklıklarda malzeme NTC gibi davranmaya başlar. W. Heywang ve G. H. Jonker tarafından 1960'larda bulunan bu davranışı modellemek için denklemler kullanılır. Diğer tür PTC termistör polimer PTC'dir. Bunların yüzeyleri karbonlu plastik ile kaplanır. Plastik soğuduğunda, karbon taneciklerin tümü birbirleriyle bağlanır ve böylece cihaz iletken durumuna geçer. Plastiğin ısısı arttırıldığında, genişler ve karbon tanecikleri birbirlerinden uzaklaşır. Böylece cihazın direnci aniden yükselir. BaTiO3 termistörler gibi bu cihaz da, doğrusal olmayan direnç/sıcaklık tepkisi vardır ve kısmi sıcaklık ölçümü için değil de anahtarlama için kullanılır. ===",
+      "heading_path": "=== Çoğu PTC termistör \"anahtarlamalı\"dır. Yani belirli bir kritik sıcaklıkta dirençleri aniden yükselir. Bunlar, içinde baryum titanat (BaTiO3) ve diğer bileşikler olan hamurumsu polikristal seramikten imal edilir. Bu ferroelektrik malzemelerin bağıl yalıtkanlık sabitleri sıcaklıkla değişir. Curie sıcaklığının altında yüksek bağıl yalıtkanlık sabiti, kristal tanecikleri arasındaki potansiyel bariyerlerin oluşmasını sağlayarak daha düşük dirence neden olur. Cihazın bu bölgesinde, küçük negatif sıcaklık katsayısı vardır. Curie sıcaklığında, taneciklerin etrafındaki potansiyel bariyerlerin oluşmasını sağlamak için bağıl yalıtkanlık sabiti aniden düşer ve direnç bariz biçimde artar. Daha yüksek sıcaklıklarda malzeme NTC gibi davranmaya başlar. W. Heywang ve G. H. Jonker tarafından 1960'larda bulunan bu davranışı modellemek için denklemler kullanılır. Diğer tür PTC termistör polimer PTC'dir. Bunların yüzeyleri karbonlu plastik ile kaplanır. Plastik soğuduğunda, karbon taneciklerin tümü birbirleriyle bağlanır ve böylece cihaz iletken durumuna geçer. Plastiğin ısısı arttırıldığında, genişler ve karbon tanecikleri birbirlerinden uzaklaşır. Böylece cihazın direnci aniden yükselir. BaTiO3 termistörler gibi bu cihaz da, doğrusal olmayan direnç/sıcaklık tepkisi vardır ve kısmi sıcaklık ölçümü için değil de anahtarlama için kullanılır. ===",
+      "start_char": 5184,
+      "end_char": 5742,
+      "content": "bulunan bu davranışı modellemek için denklemler kullanılır. Diğer tür PTC termistör polimer PTC'dir. Bunların yüzeyleri karbonlu plastik ile kaplanır. Plastik soğuduğunda, karbon taneciklerin tümü birbirleriyle bağlanır ve böylece cihaz iletken durumuna geçer. Plastiğin ısısı arttırıldığında, genişler ve karbon tanecikleri birbirlerinden uzaklaşır. Böylece cihazın direnci aniden yükselir. BaTiO3 termistörler gibi bu cihaz da, doğrusal olmayan direnç/sıcaklık tepkisi vardır ve kısmi sıcaklık ölçümü için değil de anahtarlama için kullanılır. === Silistör",
+      "char_count": 558,
+      "token_estimate": 139
+    },
+    {
+      "id": "c0012",
+      "section": "== = Silistör, başka bir çeşit termistördür. Isı algılayan silikon dirençtir. Silistörler, diğer dirençlerle benzer yapı ve çalışma prensibine sahiptir. Silikon, yarı iletken malzeme gibi davranır. ==",
+      "heading_path": "== = Silistör, başka bir çeşit termistördür. Isı algılayan silikon dirençtir. Silistörler, diğer dirençlerle benzer yapı ve çalışma prensibine sahiptir. Silikon, yarı iletken malzeme gibi davranır. ==",
+      "start_char": 5743,
+      "end_char": 5970,
+      "content": "=== Silistör, başka bir çeşit termistördür. Isı algılayan silikon dirençtir. Silistörler, diğer dirençlerle benzer yapı ve çalışma prensibine sahiptir. Silikon, yarı iletken malzeme gibi davranır. == Ayrıca bakınız == Termokupl",
+      "char_count": 227,
+      "token_estimate": 56
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Steinhart–Hart denklemindeki a, b ve c değerleri ne olarak adlandırılır?",
+        "answer": "a, b ve c, Steinhart–Hart parametreleri olarak adlandırılır.",
+        "related_chunk_ids": [
+          "c0005"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Termistörlerin temel çalışma prensibi, onların sıcaklık değişimlerine nasıl tepki verdiğini ve termorezistörlerden (RTD) farklılaştıran temel unsurları nasıl açıklar?",
+        "answer": "Termistörler, sıcaklık ile iletkenliği veya direnci değişen bir tür dirençtir ve sıcaklık ile direnç arasındaki ilişkinin birinci mertebeden yaklaşık olarak doğrusal olduğu varsayımı bu temel çalışma prensibini açıklar. Bu özellikleri sayesinde sıcaklık sensörü olarak kullanılırlar. Termorezistörlerden (RTD) farklı olarak, termistörlerde seramik veya polimer malzeme kullanılırken, RTD'lerde saf metal kullanılır. Ayrıca, termistörler genellikle −90 °C ile 130 °C gibi kısıtlı sıcaklık değerlerine erişebilirken, RTD'ler aşırı sıcak ortamlarda da kullanılabilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

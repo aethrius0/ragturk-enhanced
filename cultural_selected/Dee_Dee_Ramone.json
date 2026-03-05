@@ -1,0 +1,144 @@
+{
+  "article": {
+    "id": "deedeeramone_a20abb08",
+    "title": "Dee Dee Ramone",
+    "url": "https://tr.wikipedia.org/wiki/Dee_Dee_Ramone",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:51.173341",
+    "content": "Dee Dee Ramone asıl adıyla Douglas Glenn Colvin (18 Eylül 1951, Fort Gregg-Adams - 5 Haziran 2002, Los Angeles), Amerikalı müzisyen, gitarist ve söz yazarı. Punk rock grubu Ramones'un bass gitaristi ve kurucularındandır. == Hayatı == Colvin 18 Eylül 1951 tarihinde Fort Gregg-Adams, Virginia'da doğdu. Babası Amerikalı bir asker, annesi ise Almandı. Çocukluğu babasının görevi gereği Batı Berlin, Batı Almanya'da geçti. Babasının asker olması nedeniyle ailesi çok sık yer değiştirmek zorunda kaldı. Bu sık yer değişiklikleri nedeniyle Colvin yalnız bir çocukluk geçirdi. 15 yaşında annesi ve babasının alkol problemlerinden dolayı babasından ayrıldı ve ayrılığın ardından kız kardeşi ve annesi ile birlikte Forest Hills, Queens'e taşındı. Burada John Cummings (Johnny Ramone) ve Thomas Erdelyi (Tommy Ramone) ile tanıştı. Üçlü birlikte Tangerine Puppets grubunda yer aldılar. == Ramones == 1974 yılında Johnny ve Dee Dee kendi gruplarını kurmaya karar verdi. Daha sonra baterist Jeffrey Ross Hyman'ın da (Joey Ramone) gruba katılması ile birlikte Ramones grubunu kurdular. İlk yıllarda Dee Dee grubun vokalisti olsa da konserlede birkaç şarkıdan sonra sesinin yetersiz kalmasından dolayı baterist Joey Ramone grubun yeni vokalisti olmuştur. Dee Dee ise grubun bas gitaristi olmuştur. Tommy Ramone ise bateriye geçmiştir. Grubun vokalisti olmamasına rağmen bütün Ramones şarkılarının başında klasikleşen \"1-2-3-4!\" girişini Dee Dee söylemektedir. Dee Dee grup adını Paul McCartney'nin kısa bir süre kullandığı \"Paul Ramon\" takma adından esinlenerek koymuştur. Ramon soyadının sonuna \"e\" harfi eklemiştir ve onun ardından da bütün grup üyeleri Ramone adını kullanmaya başlamıştır. Bas gitaristliği dışında söz yazarlığı da yapan Dee Dee, grubun \"Poison Heart\", \"Bonzo Goes to Bitburg\" ve \"I Wanna Be Sedated\" gibi pek çok popüler parçasının sözlerini yazmıştır. 1989 yılında gruptan ayrılsa da 1996 yılında grubun dağılışına kadar şarkıların sözlerini yazmaya devam etmiştir. Ayrıca Dee Dee kısa bir süre Dee Dee King adıyla Hip hop müzik türünde çalışmalar yapmıştır. Bu türde çıkardığı albümün büyük bir başarısızlık elde etmesi üzerine hip hop türündeki çalışmalarını bırakmıştır. Bir dönem yazarlık da yapan Dee Dee 1998 yılında \"Poison Heart: Surviving the Ramones\" adlı otobiyografisini yazmıştır.2001 yılında ise ilk romanı Chelsea Horror Hotel'i çıkartmıştır. 2002 yılında Dee Dee, Ramones grubu ile birlikte Rock and Roll Hall of Fame'e dahil edilmiştir. == Özel hayatı ve Ölümü == Dee Dee 1978 yılında Vera Boldis ile evlendi. Dee Dee'nin mental sağlığı ve uyuşturucu bağımlılığından dolayı 1995 yılında boşandılar. Kasım 1994'te Arjantin'de kaybolan gitarını ararken 16 yaşındaki Barbara Zampini ile tanıştı ve birkaç yıl sonra evlendi. 5 Haziran 2002 tarihinde Los Angeles, Kaliforniya'daki evinde ölü bulundu. Yapılan otopsi sonucunda Dee Dee'nin aşırı doz eroin kullanımından öldüğü anlaşıldı. Hollywood Forever Mezarlığı'na gömüldü. == Diskografi == === Solo albümleri === Standing in the Spotlight (1989) I Hate Freaks Like You (1994) Zonked! (1997) Hop Around (2000) Greatest & Latest (2000) === Ramones === ==== Stüdyo Albümleri ==== Ramones (1976) Leave Home (1977) Rocket to Russia (1977) Road to Ruin (1978) End of the Century (1980) Pleasant Dreams (1981) Subterranean Jungle (1983) Too Tough to Die (1984) Animal Boy (1986) Halfway to Sanity (1987) Brain Drain (1989) ==== Konser Albümleri ==== It's Alive (1979) You Don't Come Close (2001) NYC 1978 (2003) == Kaynakça == == Dış bağlantılar == Discogs'ta Dee Dee Ramone diskografisi IMDb'de Dee Dee Ramone AllMusic'te Dee Dee Ramone",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 526,
+      "char_count": 3603,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.283659",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 221,
+      "content": "Dee Dee Ramone asıl adıyla Douglas Glenn Colvin (18 Eylül 1951, Fort Gregg-Adams - 5 Haziran 2002, Los Angeles), Amerikalı müzisyen, gitarist ve söz yazarı. Punk rock grubu Ramones'un bass gitaristi ve kurucularındandır.",
+      "char_count": 220,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 221,
+      "end_char": 876,
+      "content": "== Hayatı == Colvin 18 Eylül 1951 tarihinde Fort Gregg-Adams, Virginia'da doğdu. Babası Amerikalı bir asker, annesi ise Almandı. Çocukluğu babasının görevi gereği Batı Berlin, Batı Almanya'da geçti. Babasının asker olması nedeniyle ailesi çok sık yer değiştirmek zorunda kaldı. Bu sık yer değişiklikleri nedeniyle Colvin yalnız bir çocukluk geçirdi. 15 yaşında annesi ve babasının alkol problemlerinden dolayı babasından ayrıldı ve ayrılığın ardından kız kardeşi ve annesi ile birlikte Forest Hills, Queens'e taşındı. Burada John Cummings (Johnny Ramone) ve Thomas Erdelyi (Tommy Ramone) ile tanıştı. Üçlü birlikte Tangerine Puppets grubunda yer aldılar.",
+      "char_count": 654,
+      "token_estimate": 163
+    },
+    {
+      "id": "c0002",
+      "section": "== Ramones ==",
+      "heading_path": "== Ramones ==",
+      "start_char": 876,
+      "end_char": 1876,
+      "content": "== Ramones == 1974 yılında Johnny ve Dee Dee kendi gruplarını kurmaya karar verdi. Daha sonra baterist Jeffrey Ross Hyman'ın da (Joey Ramone) gruba katılması ile birlikte Ramones grubunu kurdular. İlk yıllarda Dee Dee grubun vokalisti olsa da konserlede birkaç şarkıdan sonra sesinin yetersiz kalmasından dolayı baterist Joey Ramone grubun yeni vokalisti olmuştur. Dee Dee ise grubun bas gitaristi olmuştur. Tommy Ramone ise bateriye geçmiştir. Grubun vokalisti olmamasına rağmen bütün Ramones şarkılarının başında klasikleşen \"1-2-3-4!\" girişini Dee Dee söylemektedir. Dee Dee grup adını Paul McCartney'nin kısa bir süre kullandığı \"Paul Ramon\" takma adından esinlenerek koymuştur. Ramon soyadının sonuna \"e\" harfi eklemiştir ve onun ardından da bütün grup üyeleri Ramone adını kullanmaya başlamıştır. Bas gitaristliği dışında söz yazarlığı da yapan Dee Dee, grubun \"Poison Heart\", \"Bonzo Goes to Bitburg\" ve \"I Wanna Be Sedated\" gibi pek çok popüler parçasının sözlerini yazmıştır. 1989 yılında gru",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Ramones ==",
+      "heading_path": "== Ramones ==",
+      "start_char": 1676,
+      "end_char": 2461,
+      "content": "r. Bas gitaristliği dışında söz yazarlığı da yapan Dee Dee, grubun \"Poison Heart\", \"Bonzo Goes to Bitburg\" ve \"I Wanna Be Sedated\" gibi pek çok popüler parçasının sözlerini yazmıştır. 1989 yılında gruptan ayrılsa da 1996 yılında grubun dağılışına kadar şarkıların sözlerini yazmaya devam etmiştir. Ayrıca Dee Dee kısa bir süre Dee Dee King adıyla Hip hop müzik türünde çalışmalar yapmıştır. Bu türde çıkardığı albümün büyük bir başarısızlık elde etmesi üzerine hip hop türündeki çalışmalarını bırakmıştır. Bir dönem yazarlık da yapan Dee Dee 1998 yılında \"Poison Heart: Surviving the Ramones\" adlı otobiyografisini yazmıştır.2001 yılında ise ilk romanı Chelsea Horror Hotel'i çıkartmıştır. 2002 yılında Dee Dee, Ramones grubu ile birlikte Rock and Roll Hall of Fame'e dahil edilmiştir.",
+      "char_count": 785,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0004",
+      "section": "== Özel hayatı ve Ölümü ==",
+      "heading_path": "== Özel hayatı ve Ölümü ==",
+      "start_char": 2462,
+      "end_char": 2946,
+      "content": "== Özel hayatı ve Ölümü == Dee Dee 1978 yılında Vera Boldis ile evlendi. Dee Dee'nin mental sağlığı ve uyuşturucu bağımlılığından dolayı 1995 yılında boşandılar. Kasım 1994'te Arjantin'de kaybolan gitarını ararken 16 yaşındaki Barbara Zampini ile tanıştı ve birkaç yıl sonra evlendi. 5 Haziran 2002 tarihinde Los Angeles, Kaliforniya'daki evinde ölü bulundu. Yapılan otopsi sonucunda Dee Dee'nin aşırı doz eroin kullanımından öldüğü anlaşıldı. Hollywood Forever Mezarlığı'na gömüldü.",
+      "char_count": 483,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0005",
+      "section": "=== Solo albümleri ===",
+      "heading_path": "=== Solo albümleri ===",
+      "start_char": 2963,
+      "end_char": 3107,
+      "content": "=== Solo albümleri === Standing in the Spotlight (1989) I Hate Freaks Like You (1994) Zonked! (1997) Hop Around (2000) Greatest & Latest (2000)",
+      "char_count": 143,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0006",
+      "section": "==== Stüdyo Albümleri ====",
+      "heading_path": "==== Stüdyo Albümleri ====",
+      "start_char": 3123,
+      "end_char": 3389,
+      "content": "==== Stüdyo Albümleri ==== Ramones (1976) Leave Home (1977) Rocket to Russia (1977) Road to Ruin (1978) End of the Century (1980) Pleasant Dreams (1981) Subterranean Jungle (1983) Too Tough to Die (1984) Animal Boy (1986) Halfway to Sanity (1987) Brain Drain (1989)",
+      "char_count": 265,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0007",
+      "section": "==== Konser Albümleri ====",
+      "heading_path": "==== Konser Albümleri ====",
+      "start_char": 3389,
+      "end_char": 3478,
+      "content": "==== Konser Albümleri ==== It's Alive (1979) You Don't Come Close (2001) NYC 1978 (2003)",
+      "char_count": 88,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3493,
+      "end_char": 3603,
+      "content": "== Dış bağlantılar == Discogs'ta Dee Dee Ramone diskografisi IMDb'de Dee Dee Ramone AllMusic'te Dee Dee Ramone",
+      "char_count": 110,
+      "token_estimate": 27
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ramones grubunun adını kimden esinlenerek koymuştur?",
+        "answer": "Dee Dee, Paul McCartney'nin kısa bir süre kullandığı 'Paul Ramon' takma adından esinlenerek koymuştur.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dee Dee Ramone'un (Douglas Glenn Colvin) çocukluk deneyimleri ve Ramones'un diğer kurucu üyeleriyle tanışması, grubun oluşumuna ve kendisinin ilk rollerine nasıl katkı sağlamıştır?",
+        "answer": "Douglas Glenn Colvin, sık yer değişiklikleri ve ailesinin alkol sorunları nedeniyle yalnız bir çocukluk geçirdikten sonra Forest Hills, Queens'e taşındı. Burada gelecekteki grup arkadaşları John Cummings (Johnny Ramone) ve Thomas Erdelyi (Tommy Ramone) ile tanıştı. Bu tanışıklık, 1974 yılında Johnny ve Dee Dee'nin kendi gruplarını kurma kararı almalarına yol açtı ve Jeffrey Ross Hyman'ın (Joey Ramone) katılımıyla Ramones grubu kuruldu. Dee Dee, başlangıçta grubun vokalistiydi ancak daha sonra bas gitaristliğe geçerek grubun kurucu üyesi ve bas gitaristi olarak önemli bir rol üstlendi ve aynı zamanda birçok popüler Ramones şarkısının sözlerini yazdı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

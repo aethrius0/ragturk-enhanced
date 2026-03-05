@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "mariashriver_3c3df0d4",
+    "title": "Maria Shriver",
+    "url": "https://tr.wikipedia.org/wiki/Maria_Shriver",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:10.155463",
+    "content": "Maria Owings Shriver (d. 6 Kasım 1955) Amerikalı gazeteci, yazar ve eski Kaliforniya First Lady'si. Women's Alzheimer's Movement organizasyonun kurucusudur. Eski Kaliforniya valisi ve oyuncu Arnold Schwarzenegger ile evliliği 2011'de bitti. Shriver, Peabody Ödülü'ne sahiptir. NBC'nin Emmy ödülü kazanan 1988 Yaz Olimpiyatları yayınlarında sunuculuk yapmıştır. The Alzheimer's Project'nin yapımcıları arasında olan Shriver bu projeyle iki Emmy Ödülü ve bir Televizyon Sanatları Bilimleri Akademisi ödülü kazandı. Shriver Kennedy ailesine mensuptur; annesi Eunice Kennedy Shriver, John F., Robert ve Ted Kennedy'nin kardeşidir. == İlk yılları == Shriver 6 Kasım 1955'te politikacı Sargent Shriver ve Eunice Kennedy Shriver'ın ikinci çocuğu ve tek kızı olarak Chicago, Illinois'da doğdu. Shriver ABD Başkanı John F. Kennedy, ABD başsavcısı ve ABD Senatörü Robert F. Kennedy, ABD senatörü Ted Kennedy'nin yeğenidir. Roma Katoloiğidir, aile kökenleri İrlanda ve Almanya'dır. Shriver ortaokul ve liseyi Bethesda'da okudu. İki yıllığına Manhattanville College'a gitti daha sonra Washington, D.C'deki Georgetown Üniversitesi'ne geçti ve lisansını Amerikan tarihi üzerine Haziran 1977'de tamamladı. == Kariyer geçmişi == 1978–1985: KYW-TV haber spikeri 1985–1986: The CBS Morning News yardımcı haber spikeri 1986–2004: NBC News 1987–1990: Weekend Today yardımcı haber spikeri 1989 NBC Nightly News Cumartesi haber spikeri–1990: Pazar haber spikeri 1992–2004: Dateline NBC haber spikeri & muhabir 2003–2011: Kaliforniya'da First Lady 2013–günümüz: NBC News 2013–günümüz: Özel haber spikeri 2013–2015: Dateline NBC muhabiri 2013–günümüz: Today yardımcı haber spikeri 2019–günümüz: Hoda & Jenna yardımcı haber spikeri == Kitapları == Maria Shriver (4 Nisan 2000). Ten Things I Wish I'd Known Before I Went Out Into The Real World. Grand Central Publishing. ISBN 978-0-446-52612-8. Maria Shriver; Sandra Speidel (16 Ekim 2001). What's Wrong With Timmy?. Little, Brown and Company. ISBN 978-0-316-23337-8. Maria Shriver; Sandra Speidel (28 Nisan 2004). What's Happening to Grandpa?. Little, Brown and Company. ISBN 978-0-316-00101-4. Maria Shriver (5 Nisan 2005). And One More Thing Before You Go... The Free Press. ISBN 978-0-7432-8101-0. Maria Shriver; Sandra Speidel (30 Ekim 2007). What's Heaven?. Golden Books Adult Publishing. ISBN 978-0-312-38241-4. Maria Shriver (15 Nisan 2008). Just Who Will You Be?: Big Question, Little Book, Answer Within. Hyperion. ISBN 978-1-4013-2318-9. Maria Shriver (27 Şubat 2018). I've Been Thinking...: Reflections, Prayers, and Meditations for a Meaningful Life. Penguin Publishing Group. ISBN 9780525559917. == Kaynakça == == Dış bağlantılar == Resmî site A Woman's Nation 25 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi. The Shriver Report 11 Mart 2020 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de Maria Shriver Kütüphanelerdeki Maria Shriver tarafından oluşturulan veya hakkındaki eserler (WorldCat katalogu)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 402,
+      "char_count": 2961,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.090674",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 627,
+      "content": "Maria Owings Shriver (d. 6 Kasım 1955) Amerikalı gazeteci, yazar ve eski Kaliforniya First Lady'si. Women's Alzheimer's Movement organizasyonun kurucusudur. Eski Kaliforniya valisi ve oyuncu Arnold Schwarzenegger ile evliliği 2011'de bitti. Shriver, Peabody Ödülü'ne sahiptir. NBC'nin Emmy ödülü kazanan 1988 Yaz Olimpiyatları yayınlarında sunuculuk yapmıştır. The Alzheimer's Project'nin yapımcıları arasında olan Shriver bu projeyle iki Emmy Ödülü ve bir Televizyon Sanatları Bilimleri Akademisi ödülü kazandı. Shriver Kennedy ailesine mensuptur; annesi Eunice Kennedy Shriver, John F., Robert ve Ted Kennedy'nin kardeşidir.",
+      "char_count": 626,
+      "token_estimate": 156
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk yılları ==",
+      "heading_path": "== İlk yılları ==",
+      "start_char": 627,
+      "end_char": 1191,
+      "content": "== İlk yılları == Shriver 6 Kasım 1955'te politikacı Sargent Shriver ve Eunice Kennedy Shriver'ın ikinci çocuğu ve tek kızı olarak Chicago, Illinois'da doğdu. Shriver ABD Başkanı John F. Kennedy, ABD başsavcısı ve ABD Senatörü Robert F. Kennedy, ABD senatörü Ted Kennedy'nin yeğenidir. Roma Katoloiğidir, aile kökenleri İrlanda ve Almanya'dır. Shriver ortaokul ve liseyi Bethesda'da okudu. İki yıllığına Manhattanville College'a gitti daha sonra Washington, D.C'deki Georgetown Üniversitesi'ne geçti ve lisansını Amerikan tarihi üzerine Haziran 1977'de tamamladı.",
+      "char_count": 563,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyer geçmişi ==",
+      "heading_path": "== Kariyer geçmişi ==",
+      "start_char": 1191,
+      "end_char": 1707,
+      "content": "== Kariyer geçmişi == 1978–1985: KYW-TV haber spikeri 1985–1986: The CBS Morning News yardımcı haber spikeri 1986–2004: NBC News 1987–1990: Weekend Today yardımcı haber spikeri 1989 NBC Nightly News Cumartesi haber spikeri–1990: Pazar haber spikeri 1992–2004: Dateline NBC haber spikeri & muhabir 2003–2011: Kaliforniya'da First Lady 2013–günümüz: NBC News 2013–günümüz: Özel haber spikeri 2013–2015: Dateline NBC muhabiri 2013–günümüz: Today yardımcı haber spikeri 2019–günümüz: Hoda & Jenna yardımcı haber spikeri",
+      "char_count": 515,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0003",
+      "section": "== Kitapları ==",
+      "heading_path": "== Kitapları ==",
+      "start_char": 1707,
+      "end_char": 2635,
+      "content": "== Kitapları == Maria Shriver (4 Nisan 2000). Ten Things I Wish I'd Known Before I Went Out Into The Real World. Grand Central Publishing. ISBN 978-0-446-52612-8. Maria Shriver; Sandra Speidel (16 Ekim 2001). What's Wrong With Timmy?. Little, Brown and Company. ISBN 978-0-316-23337-8. Maria Shriver; Sandra Speidel (28 Nisan 2004). What's Happening to Grandpa?. Little, Brown and Company. ISBN 978-0-316-00101-4. Maria Shriver (5 Nisan 2005). And One More Thing Before You Go... The Free Press. ISBN 978-0-7432-8101-0. Maria Shriver; Sandra Speidel (30 Ekim 2007). What's Heaven?. Golden Books Adult Publishing. ISBN 978-0-312-38241-4. Maria Shriver (15 Nisan 2008). Just Who Will You Be?: Big Question, Little Book, Answer Within. Hyperion. ISBN 978-1-4013-2318-9. Maria Shriver (27 Şubat 2018). I've Been Thinking...: Reflections, Prayers, and Meditations for a Meaningful Life. Penguin Publishing Group. ISBN 9780525559917.",
+      "char_count": 927,
+      "token_estimate": 231
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2650,
+      "end_char": 2961,
+      "content": "== Dış bağlantılar == Resmî site A Woman's Nation 25 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi. The Shriver Report 11 Mart 2020 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de Maria Shriver Kütüphanelerdeki Maria Shriver tarafından oluşturulan veya hakkındaki eserler (WorldCat katalogu)",
+      "char_count": 311,
+      "token_estimate": 77
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Maria Shriver'ın 'Ten Things I Wish I'd Known Before I Went Out Into The Real World' adlı kitabının yayıncısı kimdir?",
+        "answer": "Grand Central Publishing.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Maria Shriver'ın Kennedy ailesine mensup olması, aldığı Amerikan tarihi eğitimi ve gazetecilik kariyerinin başlangıcı arasında nasıl bir ilişki kurulabilir?",
+        "answer": "Maria Shriver, politikacı Sargent Shriver ile John F., Robert ve Ted Kennedy'nin kız kardeşi Eunice Kennedy Shriver'ın kızı ve ABD Başkanı John F. Kennedy'nin yeğeni olarak köklü bir siyasi aileden gelmektedir. Haziran 1977'de Georgetown Üniversitesi'nden Amerikan tarihi üzerine lisans derecesi alması, onun kamusal ve siyasi konulara olan ilgisini pekiştirmiş olabilir. Bu aile mirası ve eğitim geçmişi, kendisini 1978'de KYW-TV'de haber spikeri olarak başlayan gazetecilik kariyerine yönlendirerek kamuoyu ve medya alanında bir rol üstlenmesine zemin hazırlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

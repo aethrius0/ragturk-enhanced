@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "kata_5086f8fe",
+    "title": "Kata",
+    "url": "https://tr.wikipedia.org/wiki/Kata",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:28.976815",
+    "content": "Kata (Japonca: 型 veya 形), \"model, kalıp, ölçü\" gibi anlamlara gelen bir sözcüktür. Japon savaş sanatları bağlamında, \"eşli veya solo olarak icra edilen koreografi\" anlamında kullanılır. Kata sözcüğü, dövüş sanatları, geleneksel Japon tiyatrosu Kabuki ve geleneksel çay seremonisine kadar birçok Japon kültürü öğesinde kullanım alanı bulmuştur. Kata, aikido, iaido, judo, jujutsu, kendo ve karate gibi tüm Japonya ve Okinawa kökenli dövüş sanatlarında kullanılır. Taiciçüen ve tekvando gibi diğer sporlarda da, Kata yerine Çince ya da Korece isimlerle aynı tür eğitim yapılır. == Dövüş sporlarında kata == Her savaş sanatında Kata eğitiminin çalışmasının yoğunluğu değişir. İaidoda tek başına çalışılan katalar, çalışmanın neredeyse tamamını oluştururken, judoda bir eş gerektiren katalar, sadece dan sınavları için çalışılır. Kenjutsu eğitimin ilk seviyelerinde, katalar çok yavaş yapılırken, üst seviyelerde yüksek hızların çalışma arkadaşlarına zarar vermesi ancak sporcunun yüksek dikkati ve hassas hareketleri ile önlenebilir. Bu çalışmanın ana amacı, zamanlama ve uzaklıkların sporcu tarafından sezgisel olarak kavranabilir oluncaya kadar tekrar edilmesidir. Birçok dövüş sporu karşılaşmasında Kata dalında yarışmalar yapılır. Hakemler tarafından puanlamada değer verilenler, stilin tekniğini ön plana çıkarmak, denge, zamanlama ve sanal dövüşün gerçekçi görünmesidir. == Karate'de kata == Karate eğitiminde kullanılan kata, yürüyerek ve kendi etrafında dönerek çeşitli yönlere, ortalama 20 ila 70 arası tekniğin uygulandığı, karate vuruş ve bloklarını çok tekrar yaparak kusursuz hale getirmek amacı ile yapılan bir çalışmadır. Her stilin küçük ya da büyük farklılıklarla çalıştığı yaklaşık olarak 100 kata bilinmektedir. Bazen katalar; 54 adım anlamına gelen Gojūshiho katası gibi içerdikleri teknik sayısına göre adlandırılırlar. Bazen de teknik sayıları ve kata isimleri, Budizm'deki inanışlara gönderme yapar. Genel olarak tüm karate stillerinde kata eğitimi, çok basit temel tekniklerin, duruşların ve yürüyüşlerin çalışıldığı birkaç temel kata ile başlar. Alt seviyedeki öğrenci, daha ileri teknikleri öğrenebilmek için önce bu temel katalarda usta olmalıdır. Dojolarda yapılan kemer sınavlarında öğrenciden, ilk öğrendiği katadan itibaren tüm kataları başarı ile yapması beklenir. Ancak siyah kemer anlamına gelen 1. dan sınavında öğrencinin gözle görülür biçimde sert teknikler yapması ve dengesinin sarsılmaz olduğunu göstermesi beklenir.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 324,
+      "char_count": 2453,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.138783",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 576,
+      "content": "Kata (Japonca: 型 veya 形), \"model, kalıp, ölçü\" gibi anlamlara gelen bir sözcüktür. Japon savaş sanatları bağlamında, \"eşli veya solo olarak icra edilen koreografi\" anlamında kullanılır. Kata sözcüğü, dövüş sanatları, geleneksel Japon tiyatrosu Kabuki ve geleneksel çay seremonisine kadar birçok Japon kültürü öğesinde kullanım alanı bulmuştur. Kata, aikido, iaido, judo, jujutsu, kendo ve karate gibi tüm Japonya ve Okinawa kökenli dövüş sanatlarında kullanılır. Taiciçüen ve tekvando gibi diğer sporlarda da, Kata yerine Çince ya da Korece isimlerle aynı tür eğitim yapılır.",
+      "char_count": 575,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0001",
+      "section": "== Dövüş sporlarında kata ==",
+      "heading_path": "== Dövüş sporlarında kata ==",
+      "start_char": 576,
+      "end_char": 1374,
+      "content": "== Dövüş sporlarında kata == Her savaş sanatında Kata eğitiminin çalışmasının yoğunluğu değişir. İaidoda tek başına çalışılan katalar, çalışmanın neredeyse tamamını oluştururken, judoda bir eş gerektiren katalar, sadece dan sınavları için çalışılır. Kenjutsu eğitimin ilk seviyelerinde, katalar çok yavaş yapılırken, üst seviyelerde yüksek hızların çalışma arkadaşlarına zarar vermesi ancak sporcunun yüksek dikkati ve hassas hareketleri ile önlenebilir. Bu çalışmanın ana amacı, zamanlama ve uzaklıkların sporcu tarafından sezgisel olarak kavranabilir oluncaya kadar tekrar edilmesidir. Birçok dövüş sporu karşılaşmasında Kata dalında yarışmalar yapılır. Hakemler tarafından puanlamada değer verilenler, stilin tekniğini ön plana çıkarmak, denge, zamanlama ve sanal dövüşün gerçekçi görünmesidir.",
+      "char_count": 797,
+      "token_estimate": 199
+    },
+    {
+      "id": "c0002",
+      "section": "== Karate'de kata ==",
+      "heading_path": "== Karate'de kata ==",
+      "start_char": 1374,
+      "end_char": 2374,
+      "content": "== Karate'de kata == Karate eğitiminde kullanılan kata, yürüyerek ve kendi etrafında dönerek çeşitli yönlere, ortalama 20 ila 70 arası tekniğin uygulandığı, karate vuruş ve bloklarını çok tekrar yaparak kusursuz hale getirmek amacı ile yapılan bir çalışmadır. Her stilin küçük ya da büyük farklılıklarla çalıştığı yaklaşık olarak 100 kata bilinmektedir. Bazen katalar; 54 adım anlamına gelen Gojūshiho katası gibi içerdikleri teknik sayısına göre adlandırılırlar. Bazen de teknik sayıları ve kata isimleri, Budizm'deki inanışlara gönderme yapar. Genel olarak tüm karate stillerinde kata eğitimi, çok basit temel tekniklerin, duruşların ve yürüyüşlerin çalışıldığı birkaç temel kata ile başlar. Alt seviyedeki öğrenci, daha ileri teknikleri öğrenebilmek için önce bu temel katalarda usta olmalıdır. Dojolarda yapılan kemer sınavlarında öğrenciden, ilk öğrendiği katadan itibaren tüm kataları başarı ile yapması beklenir. Ancak siyah kemer anlamına gelen 1. dan sınavında öğrencinin gözle görülür biçim",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Karate'de kata ==",
+      "heading_path": "== Karate'de kata ==",
+      "start_char": 2174,
+      "end_char": 2453,
+      "content": "jolarda yapılan kemer sınavlarında öğrenciden, ilk öğrendiği katadan itibaren tüm kataları başarı ile yapması beklenir. Ancak siyah kemer anlamına gelen 1. dan sınavında öğrencinin gözle görülür biçimde sert teknikler yapması ve dengesinin sarsılmaz olduğunu göstermesi beklenir.",
+      "char_count": 279,
+      "token_estimate": 69
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Karate eğitiminde kata uygulamasının temel amacı nedir?",
+        "answer": "Karate vuruş ve bloklarını çok tekrar yaparak kusursuz hale getirmektir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Japon savaş sanatlarında kata eğitiminin genel amacı ve uygulama yoğunluğu farklı spor dalları arasında nasıl bir farklılık göstermektedir?",
+        "answer": "Kata, Japon savaş sanatlarında genel olarak \"model\" veya \"kalıp\" anlamında, eşli veya solo icra edilen bir koreografi olarak kullanılır. Ancak, eğitiminin amacı ve yoğunluğu spor dallarına göre önemli ölçüde değişir. Örneğin, İaidoda katalar eğitimin neredeyse tamamını oluştururken, judoda sadece dan sınavları için çalışılan ve bir eş gerektiren bir kısımdır. Kenjutsu'da ise, eğitimin ilk seviyelerinde çok yavaş yapılırken, üst seviyelerde yüksek hızlarda icra edilir ve temel amacı zamanlama ile uzaklıkların sporcu tarafından sezgisel olarak kavranmasıdır. Karate'de ise kata, ortalama 20 ila 70 arası tekniğin çeşitli yönlere uygulanmasıyla, vuruş ve blokları tekrar yoluyla kusursuz hale getirmek için yapılır ve temel tekniklerden başlayarak ileri seviyelere doğru öğrencinin ustalaşmasını gerektirir, kemer sınavlarında da değerlendirilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "marveloneshots_746098e2",
+    "title": "Marvel One-Shots",
+    "url": "https://tr.wikipedia.org/wiki/Marvel_One-Shots",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:25.500680",
+    "content": "Marvel One-Shots Marvel Studios tarafından Marvel Sinematik Evreni (MCU) kadrosunu kullanarak 2011-2014 arası üretilen kısa filmlerdir. Karakterlerin ve filmdeki olayların arka yüzü ile ilgili bilgileri barındırmak üzere tasarlanmış 3 ila 15 dakika uzunluğundaki hikâyelerden oluşur. == Gelişimi == Ağustos 2011'de Marvel kendine has hikâyeler barındıran birkaç kısa film yayınlayacağını duyurdu. Yardımcı yapımcı Brad Winderbaum \"Yeni karakter ve fikirlerle eğlenceli deneyim yaşamanın önemli olduğunu, ancak Marvel Sinematik Evrenindeki karakterlerden farklı karakterler yaratarak büyümenin ve yeni hikayeler oluşturmanın daha da önemli olduğunu\" belirtti. İlk iki film Ebeling Grubu ile yapılırken Eric Pearson tarafından yazıldı ve Leythum tarafından yönetildi. Winderbaum aynı zamanda kısa filmlerin adının Marvel Comics'de kullanılan tek çekimlik çizgi romanlardan geldiğini söyledi. == Filmler == == Oyuncular ve karakterler == Gösterge listesi Bu bölüm seride birden fazla filmde rol almış ya da alacak olan karakterleri içerir. Koyu gri bir hücre karakterin filmde, ya da karakterin filmde olup olmadığının henüz açıklanmadığını gösterir. 2 göstergesi karakterin İkinci Evre'de tekrar göründüğü anlamına gelir. 3 göstergesi karakterin Üçüncü Evre'de tekrar göründüğü anlamına gelir. 4 göstergesi karakterin Dördüncü Evre'de tekrar göründüğü anlamına gelir. OS göstergesi karakterin bir One-Shots'ta göründüğü anlamına gelir. TV göstergesi karakter televizyon dizilerinde göründüğü anlamına gelir. DS göstergesi karakterin internet dizilerinden birinde göründüğü anlamına gelir. C göstergesi kadroda belirtilmemiş bir cameo görünümün varlığını gösterir. P göstergesi karakterin özellikle film için çekilmiş bir fotoğrafta göründüğü anlamına gelir. V göstergesi sadece sesinin duyulduğu anlamına gelir. == Ayrıca bakınız == MSE televizyon dizisi oyuncuları WHIH Newsfront oyuncuları Agents of S.H.I.E.L.D.: Slingshot oyuncuları Stan Lee cameo görünümleri == Kaynakça == == Dış bağlantılar == IMDb'de Marvel One-Shot: The Consultant IMDb'de Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer IMDb'de Marvel One-Shot: Item 47 IMDb'de Marvel One-Shot: Agent Carter IMDb'de Marvel One-Shot: All Hail the King",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 292,
+      "char_count": 2228,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.242079",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 284,
+      "content": "Marvel One-Shots Marvel Studios tarafından Marvel Sinematik Evreni (MCU) kadrosunu kullanarak 2011-2014 arası üretilen kısa filmlerdir. Karakterlerin ve filmdeki olayların arka yüzü ile ilgili bilgileri barındırmak üzere tasarlanmış 3 ila 15 dakika uzunluğundaki hikâyelerden oluşur.",
+      "char_count": 283,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0001",
+      "section": "== Gelişimi ==",
+      "heading_path": "== Gelişimi ==",
+      "start_char": 284,
+      "end_char": 890,
+      "content": "== Gelişimi == Ağustos 2011'de Marvel kendine has hikâyeler barındıran birkaç kısa film yayınlayacağını duyurdu. Yardımcı yapımcı Brad Winderbaum \"Yeni karakter ve fikirlerle eğlenceli deneyim yaşamanın önemli olduğunu, ancak Marvel Sinematik Evrenindeki karakterlerden farklı karakterler yaratarak büyümenin ve yeni hikayeler oluşturmanın daha da önemli olduğunu\" belirtti. İlk iki film Ebeling Grubu ile yapılırken Eric Pearson tarafından yazıldı ve Leythum tarafından yönetildi. Winderbaum aynı zamanda kısa filmlerin adının Marvel Comics'de kullanılan tek çekimlik çizgi romanlardan geldiğini söyledi.",
+      "char_count": 605,
+      "token_estimate": 151
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyuncular ve karakterler ==",
+      "heading_path": "== Oyuncular ve karakterler ==",
+      "start_char": 904,
+      "end_char": 1810,
+      "content": "== Oyuncular ve karakterler == Gösterge listesi Bu bölüm seride birden fazla filmde rol almış ya da alacak olan karakterleri içerir. Koyu gri bir hücre karakterin filmde, ya da karakterin filmde olup olmadığının henüz açıklanmadığını gösterir. 2 göstergesi karakterin İkinci Evre'de tekrar göründüğü anlamına gelir. 3 göstergesi karakterin Üçüncü Evre'de tekrar göründüğü anlamına gelir. 4 göstergesi karakterin Dördüncü Evre'de tekrar göründüğü anlamına gelir. OS göstergesi karakterin bir One-Shots'ta göründüğü anlamına gelir. TV göstergesi karakter televizyon dizilerinde göründüğü anlamına gelir. DS göstergesi karakterin internet dizilerinden birinde göründüğü anlamına gelir. C göstergesi kadroda belirtilmemiş bir cameo görünümün varlığını gösterir. P göstergesi karakterin özellikle film için çekilmiş bir fotoğrafta göründüğü anlamına gelir. V göstergesi sadece sesinin duyulduğu anlamına gelir.",
+      "char_count": 905,
+      "token_estimate": 226
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1810,
+      "end_char": 1962,
+      "content": "== Ayrıca bakınız == MSE televizyon dizisi oyuncuları WHIH Newsfront oyuncuları Agents of S.H.I.E.L.D.: Slingshot oyuncuları Stan Lee cameo görünümleri",
+      "char_count": 151,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1977,
+      "end_char": 2228,
+      "content": "== Dış bağlantılar == IMDb'de Marvel One-Shot: The Consultant IMDb'de Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer IMDb'de Marvel One-Shot: Item 47 IMDb'de Marvel One-Shot: Agent Carter IMDb'de Marvel One-Shot: All Hail the King",
+      "char_count": 251,
+      "token_estimate": 62
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Karakterin televizyon dizilerinde göründüğü ne göstergeyle belirtilir?",
+        "answer": "TV göstergesi, karakterin televizyon dizilerinde göründüğü anlamına gelir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Marvel One-Shots'ın Marvel Sinematik Evreni'ndeki karakter ve hikaye gelişimine yönelik temel amacını ve adının kökenini, bu filmlerin karakterlerin serideki görünümlerini nasıl vurguladığıyla birlikte açıklayın.",
+        "answer": "Marvel One-Shots, 2011-2014 yılları arasında Marvel Sinematik Evreni kadrosunu kullanarak üretilen, 3 ila 15 dakikalık kısa filmlerdir. Bu filmlerin temel amacı, filmdeki karakterlerin ve olayların arka yüzüyle ilgili bilgiler sunarak yeni karakter ve fikirlerle denemeler yapmak, mevcut MCU karakterlerinin büyümesini ve yeni hikayelerin oluşumunu sağlamaktır. Adını Marvel Comics'teki tek çekimlik çizgi romanlardan alan bu yapımlar, karakterlerin serideki görünümlerini gösteren \"OS göstergesi\" gibi sistemlerle, MCU'daki karakter sunumunun ve takibinin ayrılmaz bir parçası olarak işlev görür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

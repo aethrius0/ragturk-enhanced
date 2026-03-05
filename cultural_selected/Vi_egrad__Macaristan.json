@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "viegradmacaristan_7503d82a",
+    "title": "Vişegrad, Macaristan",
+    "url": "https://tr.wikipedia.org/wiki/Vi%C5%9Fegrad%2C_Macaristan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:28.310730",
+    "content": "Vişegrad veya Visegrád (Osmanlı döneminde: Vişegrad, Slovakça: Vyšehrad, Almanca: Plintenburg) Macaristan'ın Pest ili'nde bulunan bir kasabadır. Kasaba; başkent Budapeşte'nin 43 km kuzeyinde, Tuna Nehri'nin sağ kıyısında yer almakta olup Macar Kralı Matyas Corvinus' un erken Rönesans yazlık sarayı ve Orta Çağ kalesinin kalıntıları ile ünlüdür. == Tarih == Visegrád, elverişli konumu sebebiyle tarihte stratejik öneme sahip bir yerleşim olmuştur. Kalenin tarihçesi Roma İmparatorluğu dönemi Castrum'una dek uzanır. Antik dönemde Visegrád, doğudan ilerleyen orduları durdurmak amacıyla inşa edilmiş askerî bir garnizon yerleşmesiydi. Buraya yerleşen Slavlar yerleşime \"Yüksek Kale\" anlamına gelen Visegrád (Vyšehrad) adını verdiler. Visegrád adıyla ilk defa 1009 yılındaki Latin belgelerinde bahsedilmiştir. Avrupa’nın Moğollar tarafından istilası (1242) sırasında yıkılan kale, IV. Béla döneminde Tuna Nehri üzerinde istihkam görevi görmesi amacıyla yeniden inşa edildi. Günümüze ulaşabilen \"Salomon Kulesi\" bu dönemde kaleye gelebilecek saldırıları önlemek için yapılmıştır. 1320 yılında I. Charles tarafından kraliyet sarayı yaptırılmaya başlandı ve birkaç yıl içerisinde kraliyet merkezi oldu. 15. yüzyılda Macar kralları Sigismund ve Matyas Corvinus dönemlerinde saray ve kale yeniden düzenlenmiştir. 1544 yılında Osmanlı İmparatorluğu tarafından fethedildi. Evliya Çelebi seyahatnamesinde, kale içerisinde küçük bir \"Sultan Süleyman Camii\", ambarlar ve yedi adet sağlam kule bulunduğunu belirtmektedir. 1595-1605 yılları arasındaki dönem haricinde 1684 yılında Habsburglar tarafından işgaline kadar Osmanlı egemenliğinde kaldı. Savaşlar sonucunda kale ve şehir önemli ölçüde tahrip oldu. Osmanlıların bölgeden ayrılmasıyla da önemini kaybetti. == Resimler == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 224,
+      "char_count": 1779,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.416108",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 346,
+      "content": "Vişegrad veya Visegrád (Osmanlı döneminde: Vişegrad, Slovakça: Vyšehrad, Almanca: Plintenburg) Macaristan'ın Pest ili'nde bulunan bir kasabadır. Kasaba; başkent Budapeşte'nin 43 km kuzeyinde, Tuna Nehri'nin sağ kıyısında yer almakta olup Macar Kralı Matyas Corvinus' un erken Rönesans yazlık sarayı ve Orta Çağ kalesinin kalıntıları ile ünlüdür.",
+      "char_count": 345,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 346,
+      "end_char": 1346,
+      "content": "== Tarih == Visegrád, elverişli konumu sebebiyle tarihte stratejik öneme sahip bir yerleşim olmuştur. Kalenin tarihçesi Roma İmparatorluğu dönemi Castrum'una dek uzanır. Antik dönemde Visegrád, doğudan ilerleyen orduları durdurmak amacıyla inşa edilmiş askerî bir garnizon yerleşmesiydi. Buraya yerleşen Slavlar yerleşime \"Yüksek Kale\" anlamına gelen Visegrád (Vyšehrad) adını verdiler. Visegrád adıyla ilk defa 1009 yılındaki Latin belgelerinde bahsedilmiştir. Avrupa’nın Moğollar tarafından istilası (1242) sırasında yıkılan kale, IV. Béla döneminde Tuna Nehri üzerinde istihkam görevi görmesi amacıyla yeniden inşa edildi. Günümüze ulaşabilen \"Salomon Kulesi\" bu dönemde kaleye gelebilecek saldırıları önlemek için yapılmıştır. 1320 yılında I. Charles tarafından kraliyet sarayı yaptırılmaya başlandı ve birkaç yıl içerisinde kraliyet merkezi oldu. 15. yüzyılda Macar kralları Sigismund ve Matyas Corvinus dönemlerinde saray ve kale yeniden düzenlenmiştir. 1544 yılında Osmanlı İmparatorluğu taraf",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1146,
+      "end_char": 1749,
+      "content": "ndı ve birkaç yıl içerisinde kraliyet merkezi oldu. 15. yüzyılda Macar kralları Sigismund ve Matyas Corvinus dönemlerinde saray ve kale yeniden düzenlenmiştir. 1544 yılında Osmanlı İmparatorluğu tarafından fethedildi. Evliya Çelebi seyahatnamesinde, kale içerisinde küçük bir \"Sultan Süleyman Camii\", ambarlar ve yedi adet sağlam kule bulunduğunu belirtmektedir. 1595-1605 yılları arasındaki dönem haricinde 1684 yılında Habsburglar tarafından işgaline kadar Osmanlı egemenliğinde kaldı. Savaşlar sonucunda kale ve şehir önemli ölçüde tahrip oldu. Osmanlıların bölgeden ayrılmasıyla da önemini kaybetti.",
+      "char_count": 603,
+      "token_estimate": 150
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Visegrád adıyla ilk defa hangi yıldaki Latin belgelerinde bahsedilmiştir?",
+        "answer": "1009",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Vişegrad'ın stratejik konumu ve kraliyet merkezi olma özelliği, Osmanlı İmparatorluğu döneminde nasıl bir değişime uğramıştır?",
+        "answer": "Vişegrad, başlangıçta elverişli konumu nedeniyle doğudan ilerleyen orduları durdurmak amacıyla kurulmuş stratejik bir askerî garnizondu ve sonrasında I. Charles döneminde kraliyet merkezi haline gelerek Macar kralları Sigismund ve Matyas Corvinus tarafından saray ve kalenin yeniden düzenlenmesiyle önemli bir yerleşim noktası olmuştur. Ancak 1544 yılında Osmanlı İmparatorluğu tarafından fethedildikten sonra, kale ve şehir savaşlar sonucunda önemli ölçüde tahrip olmuş ve 1684 yılında Osmanlıların bölgeden ayrılmasıyla eski önemini kaybetmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

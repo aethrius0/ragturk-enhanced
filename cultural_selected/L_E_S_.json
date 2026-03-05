@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "les_c325b676",
+    "title": "L.E.S.",
+    "url": "https://tr.wikipedia.org/wiki/L.E.S.",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:21.883604",
+    "content": "Leshan David Lewis, sahne adıyla L.E.S., hip hop müzik prodüktörüdür. Sıklıkla Nas ile yaptığı çalışmalarla anılan L.E.S.'in prodüktörü olduğu ilk parça Nas'ın 1994'te çıkan Illmatic albümündeki \"Life's a Bitch\" idi. Sonraları AZ'nin Doe Or Die albümünde \"Sugar Hill\" adlı parça ile yer aldı. Sonraki iki yıl Nas'ın yanı sıra; Fat Joe, Shyheim, LL Cool J, Royal Flush ve The Firm gibi isimlerle çalıştı. 1998'de Poke & Tone ile stüdyoya giren L.E.S., Will Smith'in liste başı hiti \"Gettin' Jiggy Wit It\"e imzasını attı. Sonraki yıllarda Nas, Big Punisher, N.O.R.E., Nature, Flipmode Squad, Kool Savas ve Azad ile çalışmalarını sürdürdü. Son olarak Nas'ın Hip Hop Is Dead albümündeki üç parçanın prodüksiyonunu üstlendi. Bu şarkılar arasında Nas'ın eskiden kavgalı olduğu Jay-Z'nin de bir verse ile katkıda bulunduğu \"Black Republican\" adlı parça da vardı. L.E.S., 2009'da Cormega'nın Born and Raised albümünden bir parçanın yapımcısıydı: \"Girl\". == Önemli prodüksiyonları == \"Life's a Bitch\" - Illmatic (featuring Nas & AZ) \"Sugar Hill\" - Doe or Die (featuring AZ & Miss Jones) \"Shaolin Style\" - \"The Lost Generation\" (featuring Shyheim) \"Envy\" - Jealous One's Envy (featuring Fat Joe) \"Glamour Life\" - Capital Punishment (featuring Big Pun) \"Firm Biz\" - Nas, Foxy Brown, AZ, and Nature Present The Firm: The Album (featuring The Firm) \"Favor for a Favor\" - I Am... (featuring Nas & Scarface) \"Nastradamus\" - Nastradamus (featuring Nas) \"Gettin' Jiggy wit It\" - Big Willie Style (featuring Will Smith) \"The Flyest\" - Stillmatic (featuring Nas & AZ) \"I'm Real\" - J. Lo (Jennifer Lopez) \"Just a Moment\" - Street's Disciple (featuring Nas & Quan) \"Black Republican\" - Hip Hop Is Dead (featuring Nas & Jay-Z) \"Bring It All To Me\" - Blaque (featuring Blaque & 'N Sync'den JC Chasez) \"Corner Bodega\" - Power of the Dollar (50 Cent) == Dış bağlantılar == Resmî site Discogs'ta L.E.S. diskografisi Myspace'te L.E.S.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 303,
+      "char_count": 1907,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.282831",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 946,
+      "content": "Leshan David Lewis, sahne adıyla L.E.S., hip hop müzik prodüktörüdür. Sıklıkla Nas ile yaptığı çalışmalarla anılan L.E.S.'in prodüktörü olduğu ilk parça Nas'ın 1994'te çıkan Illmatic albümündeki \"Life's a Bitch\" idi. Sonraları AZ'nin Doe Or Die albümünde \"Sugar Hill\" adlı parça ile yer aldı. Sonraki iki yıl Nas'ın yanı sıra; Fat Joe, Shyheim, LL Cool J, Royal Flush ve The Firm gibi isimlerle çalıştı. 1998'de Poke & Tone ile stüdyoya giren L.E.S., Will Smith'in liste başı hiti \"Gettin' Jiggy Wit It\"e imzasını attı. Sonraki yıllarda Nas, Big Punisher, N.O.R.E., Nature, Flipmode Squad, Kool Savas ve Azad ile çalışmalarını sürdürdü. Son olarak Nas'ın Hip Hop Is Dead albümündeki üç parçanın prodüksiyonunu üstlendi. Bu şarkılar arasında Nas'ın eskiden kavgalı olduğu Jay-Z'nin de bir verse ile katkıda bulunduğu \"Black Republican\" adlı parça da vardı. L.E.S., 2009'da Cormega'nın Born and Raised albümünden bir parçanın yapımcısıydı: \"Girl\".",
+      "char_count": 945,
+      "token_estimate": 236
+    },
+    {
+      "id": "c0001",
+      "section": "== Önemli prodüksiyonları ==",
+      "heading_path": "== Önemli prodüksiyonları ==",
+      "start_char": 946,
+      "end_char": 1826,
+      "content": "== Önemli prodüksiyonları == \"Life's a Bitch\" - Illmatic (featuring Nas & AZ) \"Sugar Hill\" - Doe or Die (featuring AZ & Miss Jones) \"Shaolin Style\" - \"The Lost Generation\" (featuring Shyheim) \"Envy\" - Jealous One's Envy (featuring Fat Joe) \"Glamour Life\" - Capital Punishment (featuring Big Pun) \"Firm Biz\" - Nas, Foxy Brown, AZ, and Nature Present The Firm: The Album (featuring The Firm) \"Favor for a Favor\" - I Am... (featuring Nas & Scarface) \"Nastradamus\" - Nastradamus (featuring Nas) \"Gettin' Jiggy wit It\" - Big Willie Style (featuring Will Smith) \"The Flyest\" - Stillmatic (featuring Nas & AZ) \"I'm Real\" - J. Lo (Jennifer Lopez) \"Just a Moment\" - Street's Disciple (featuring Nas & Quan) \"Black Republican\" - Hip Hop Is Dead (featuring Nas & Jay-Z) \"Bring It All To Me\" - Blaque (featuring Blaque & 'N Sync'den JC Chasez) \"Corner Bodega\" - Power of the Dollar (50 Cent)",
+      "char_count": 879,
+      "token_estimate": 219
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1826,
+      "end_char": 1907,
+      "content": "== Dış bağlantılar == Resmî site Discogs'ta L.E.S. diskografisi Myspace'te L.E.S.",
+      "char_count": 81,
+      "token_estimate": 20
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "L.E.S.'in prodüktörlüğünü üstlendiği ilk parça, hangi Nas albümünde yer almıştır?",
+        "answer": "L.E.S.'in prodüktörlüğünü üstlendiği ilk parça olan 'Life's a Bitch', Nas'ın 1994'te çıkan Illmatic albümünde yer almıştır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "L.E.S.'in kariyerine genel bakışta adı geçen hangi sanatçılar, 'Önemli prodüksiyonları' listesinde de birden fazla işiyle öne çıkarak onun ana işbirlikçileri arasında olduğunu göstermektedir?",
+        "answer": "L.E.S.'in kariyerine genel bakışta ve 'Önemli prodüksiyonları' listesinde birden fazla işiyle öne çıkan başlıca sanatçılar Nas ve AZ'dir. L.E.S., Nas ile 'Illmatic', 'I Am...', 'Nastradamus', 'Stillmatic', 'Street's Disciple' ve 'Hip Hop Is Dead' gibi albümlerden şarkılarda, AZ ile ise 'Doe Or Die', 'Illmatic' ve 'Stillmatic' albümlerindeki parçalarda çalışmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

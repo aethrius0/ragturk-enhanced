@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "vedurgunakarddon_a7965a80",
+    "title": "Ve Durgun Akardı Don",
+    "url": "https://tr.wikipedia.org/wiki/Ve_Durgun_Akard%C4%B1_Don",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:17.669845",
+    "content": "Ve Durgun Akardı Don, (Rusça özgün adı: Тихий Дон, Türkçesi: Durgun Don) Mihail Şolohov'un ilk büyük eseri, geniş bir tarih sürecini kapsayan dört ciltlik bir romandır. Yazar bu romanla 1965'te Nobel Edebiyat Ödülü'nü almıştır. Eserin kahramanı bir Kazak köyü olan (Şolohov'un da doğum yeri olan) Vyeşenskaya'lı Gregor Melehov'dur. Gregor'un gençlik dönemindeki köy yaşantısından başlayarak I. Dünya Savaşı'na katılması, cephede yaşananlar ve aynı süreçte Çarlığın yıkılışı ve Rus İç Savaşı sürecinde Don Kazakları'nın yaşamlarını ve mücadelelerini anlatır. Eser o dönemdeki toplumun sosyal ve politik duruşunu tarafsızca ve gerçek anlamıyla okuyucuya yansıtmaktadır. Romanın Stephan Garry tarafından İngilizce çevirisinin birinci ve ikinci kitapları ilk kez 1934'te And quiet flows the Don, üçüncü ve dördüncü kitaplardan oluşan son bölümü de 1940'ta The Don flows home to the sea adı altında yayımlanmıştır. O dönemde, Sovyet edebiyatının yabancısı olan ve romanın konusu hakkında hiçbir bilgiye sahip olmayan İngiliz okurlarına hem Don'un bir nehir olduğunu flows (akar) sözcüğünü ekleyerek açıklamak amacıyla hem de \"Sakin Don\", \"Sessiz Don\" ya da \"Durgun Don\" gibi kısa bir adın ilginç gelmeyebileceği düşüncesiyle İngiliz çevirmen, çevirisinin ilk bölümüne, romanın şiirsel yapısına uygun bulduğu Don nehri sakin akar, ikinci bölümüne de Don nehri vatanı olan denize akar adını vermek gereğini duymuştur. Türkiye'de de Ve Durgun Akardı Don diye çevrilmiştir. Fakat özgün adı Durgun Don'dur. Kitap 4 cilt halinde Tektaş Ağaoğlu tarafından 1965-1966 yıllarında Türkçeye çevirilip, Ağaoğlu Yayınevi tarafından aynı yıllarda ilk defa basılmıştır.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 230,
+      "char_count": 1648,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.302310",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Ve Durgun Akardı Don, (Rusça özgün adı: Тихий Дон, Türkçesi: Durgun Don) Mihail Şolohov'un ilk büyük eseri, geniş bir tarih sürecini kapsayan dört ciltlik bir romandır. Yazar bu romanla 1965'te Nobel Edebiyat Ödülü'nü almıştır. Eserin kahramanı bir Kazak köyü olan (Şolohov'un da doğum yeri olan) Vyeşenskaya'lı Gregor Melehov'dur. Gregor'un gençlik dönemindeki köy yaşantısından başlayarak I. Dünya Savaşı'na katılması, cephede yaşananlar ve aynı süreçte Çarlığın yıkılışı ve Rus İç Savaşı sürecinde Don Kazakları'nın yaşamlarını ve mücadelelerini anlatır. Eser o dönemdeki toplumun sosyal ve politik duruşunu tarafsızca ve gerçek anlamıyla okuyucuya yansıtmaktadır. Romanın Stephan Garry tarafından İngilizce çevirisinin birinci ve ikinci kitapları ilk kez 1934'te And quiet flows the Don, üçüncü ve dördüncü kitaplardan oluşan son bölümü de 1940'ta The Don flows home to the sea adı altında yayımlanmıştır. O dönemde, Sovyet edebiyatının yabancısı olan ve romanın konusu hakkında hiçbir bilgiye sa",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1648,
+      "content": "e dördüncü kitaplardan oluşan son bölümü de 1940'ta The Don flows home to the sea adı altında yayımlanmıştır. O dönemde, Sovyet edebiyatının yabancısı olan ve romanın konusu hakkında hiçbir bilgiye sahip olmayan İngiliz okurlarına hem Don'un bir nehir olduğunu flows (akar) sözcüğünü ekleyerek açıklamak amacıyla hem de \"Sakin Don\", \"Sessiz Don\" ya da \"Durgun Don\" gibi kısa bir adın ilginç gelmeyebileceği düşüncesiyle İngiliz çevirmen, çevirisinin ilk bölümüne, romanın şiirsel yapısına uygun bulduğu Don nehri sakin akar, ikinci bölümüne de Don nehri vatanı olan denize akar adını vermek gereğini duymuştur. Türkiye'de de Ve Durgun Akardı Don diye çevrilmiştir. Fakat özgün adı Durgun Don'dur. Kitap 4 cilt halinde Tektaş Ağaoğlu tarafından 1965-1966 yıllarında Türkçeye çevirilip, Ağaoğlu Yayınevi tarafından aynı yıllarda ilk defa basılmıştır.",
+      "char_count": 848,
+      "token_estimate": 212
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mihail Şolohov, 1965 Nobel Edebiyat Ödülü'nü hangi eseriyle almıştır?",
+        "answer": "Ve Durgun Akardı Don (Тихий Дон, Durgun Don)",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mihail Şolohov'un \"Тихий Дон\" romanının İngilizce çevirisi için neden birden fazla ve açıklayıcı başlıklar tercih edilmiştir?",
+        "answer": "İngiliz çevirmen, dönemin İngiliz okurlarının Sovyet edebiyatına yabancı olması ve romanın konusu hakkında bilgi sahibi olmaması nedeniyle \"Don\"un bir nehir olduğunu açıklamak için \"flows\" (akar) kelimesini eklemiş ve \"Sakin Don\" gibi kısa isimlerin ilgi çekici olmayabileceğini düşünmüştür. Bu sebeplerle, romanın şiirsel yapısına uygun bulduğu \"And quiet flows the Don\" ve \"The Don flows home to the sea\" gibi başlıklar kullanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "harryfurniss_36235e73",
+    "title": "Harry Furniss",
+    "url": "https://tr.wikipedia.org/wiki/Harry_Furniss",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:16.793191",
+    "content": "Harry Furniss (26 Mart 1854 - 14 Ocak 1925), İrlanda'da doğmuş bir sanatçı ve illüstratör. Babası İngiliz ve annesi İskoç olan Furniss kendini İngiliz olarak tanımlamıştır. Wesley Koleji'nde eğitim gördü. == Hayatı == İlk işi Illustrated Sporting and Dramatic News yaptığı bir çizimdi ve burası The Illustrated London News tarafından satın alındığında bu dergiye geçti. Burada bot yarışı gibi sosyal etkinlikler düzenledi. Furniss, birkaç yıl sonra The Graphic adlı haftalık yayın yapan bir dergiye geçti. Buradayken \"Life in Parliament\" adında bir dizi eki yazdı ve çizimini yaptı. En meşhur komik çizimleri 1880'da çalışmaya başladığı Punch'ta yayımlandı. Bu dergide yaklaşık 2 bin 600 tane çizim yaptı. 1894'te patronlarının Furniss'in çizdiği bir \"Punch\" çizimini reklamlarında kullanması için Pears Sabunları'na sattığını öğrenince buradan ayrıldı. 1890'da Badminton Library'in bir cildinde Golf hakkında çizimler yaptı. Punch'tan ayrılmasıyla Furniss, Lika Joko adında kendi mizah dergisini çıkardı ancak başarı elde edemeyince ABD'ye taşınarak burada yazar ve acemi film endüstrisinde aktör olarak çalıştı. 1914'te Thomas Edison'un ilk çizgi filmine öncülük etti. == Dış bağlantılar == Harry Furniss çalışmaları – Gutenberg Projesi Yesterday's Papers15 Kasım 2011 tarihinde Wayback Machine sitesinde arşivlendi. Some Victorian Women. Good, Bad, and Indifferent11 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi., 1923 Kongre Kütüphanesi'nde Harry Furniss, 41 katalog kaydı",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1488,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.903076",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 205,
+      "content": "Harry Furniss (26 Mart 1854 - 14 Ocak 1925), İrlanda'da doğmuş bir sanatçı ve illüstratör. Babası İngiliz ve annesi İskoç olan Furniss kendini İngiliz olarak tanımlamıştır. Wesley Koleji'nde eğitim gördü.",
+      "char_count": 204,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 205,
+      "end_char": 1171,
+      "content": "== Hayatı == İlk işi Illustrated Sporting and Dramatic News yaptığı bir çizimdi ve burası The Illustrated London News tarafından satın alındığında bu dergiye geçti. Burada bot yarışı gibi sosyal etkinlikler düzenledi. Furniss, birkaç yıl sonra The Graphic adlı haftalık yayın yapan bir dergiye geçti. Buradayken \"Life in Parliament\" adında bir dizi eki yazdı ve çizimini yaptı. En meşhur komik çizimleri 1880'da çalışmaya başladığı Punch'ta yayımlandı. Bu dergide yaklaşık 2 bin 600 tane çizim yaptı. 1894'te patronlarının Furniss'in çizdiği bir \"Punch\" çizimini reklamlarında kullanması için Pears Sabunları'na sattığını öğrenince buradan ayrıldı. 1890'da Badminton Library'in bir cildinde Golf hakkında çizimler yaptı. Punch'tan ayrılmasıyla Furniss, Lika Joko adında kendi mizah dergisini çıkardı ancak başarı elde edemeyince ABD'ye taşınarak burada yazar ve acemi film endüstrisinde aktör olarak çalıştı. 1914'te Thomas Edison'un ilk çizgi filmine öncülük etti.",
+      "char_count": 965,
+      "token_estimate": 241
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1171,
+      "end_char": 1488,
+      "content": "== Dış bağlantılar == Harry Furniss çalışmaları – Gutenberg Projesi Yesterday's Papers15 Kasım 2011 tarihinde Wayback Machine sitesinde arşivlendi. Some Victorian Women. Good, Bad, and Indifferent11 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi., 1923 Kongre Kütüphanesi'nde Harry Furniss, 41 katalog kaydı",
+      "char_count": 317,
+      "token_estimate": 79
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Furniss, Punch dergisinde yaklaşık kaç tane çizim yapmıştır?",
+        "answer": "Yaklaşık 2 bin 600 tane.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İrlanda doğumlu ve kendisini İngiliz olarak tanımlayan Harry Furniss'in kariyeri, hem coğrafi olarak hem de profesyonel rolleri açısından nasıl bir gelişim göstermiştir?",
+        "answer": "Harry Furniss, İrlanda'da doğmasına ve kendisini İngiliz olarak tanımlamasına rağmen, kariyerine İngiltere'de Illustrated Sporting and Dramatic News, The Illustrated London News, The Graphic ve en bilineni Punch gibi dergilerde illüstratör olarak başlamıştır. Punch'tan ayrıldıktan sonra kendi mizah dergisini çıkarmayı denemiş, ancak başarısız olunca Amerika Birleşik Devletleri'ne taşınmış ve burada yazar, erken dönem film endüstrisinde aktör ve Thomas Edison'un ilk çizgi filmine öncülük eden bir figür olarak farklı profesyonel rolleri üstlenerek kariyerine devam etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

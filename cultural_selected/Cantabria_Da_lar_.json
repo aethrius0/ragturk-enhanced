@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "cantabriadalar_430a1be1",
+    "title": "Cantabria Dağları",
+    "url": "https://tr.wikipedia.org/wiki/Cantabria_Da%C4%9Flar%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:56.630419",
+    "content": "Cantabria Dağları (İspanyolca: Cordillera Cantábrica) İspanya'daki önde gelen sıradağ sistemidir. İspanya'nın kuzeyinde yer alan dağ sırası 300 km uzunluğundadır, Pirenelerin batısından Galiçya'ya kadar uzanır. Cantabria Dağları genel olarak doğa yürüyüşü, tırmanış ve kayak için uygundur. == Coğrafi özellikler == Cantabria Dağları denize paralel olacak şekilde doğu-batı ekseninde yer alır. Dağ sırasının batıda geldiği sınır Portekiz-İspanya sınırını da belirleyen Miño Nehri vadisidir. Dağ sırasının güneybatıdaki uç bölgesi Portekiz sınırları içinde kalır. Dağ sırasının doğu kesimi özellikle daha yüksektir ve Pirenelerin devamı olarak değerlendirilir.Dağlar, kuzeydeki yeşil bölgeyle güneydeki çorak bölge arasında sınır oluşturmaktadır. Dağ sırasının kuzeye bakan yamaçları yoğun yağış alırken güney yüzündeki bölgeler dağ zirvelerin engellemesi nedeniyle aşırı yağmur almaz. == Önemli zirveler == === Batı bölgesi === Sierra de la Bobia, Pico de la Bobia 1,201 m Sierra de Tineo, Mulleiroso 1,241 m Sierra de San Isidro, Campo de La Vaga 1,078 m Sierra de Eirelo, Pena dos Ladróis 800 m Sierra del Sueve, Picu Pienzu 1,161 m Sierra de Cuera, Pico Turbina 1,315 m === Orta bölge === Picos de Europa üçe ayrılır: Batıdaki Cornión Massif, Torre Santa 2,596 m Ortadaki Urrieles Massif, Torrecerredo 2,650 m Doğudaki Ándara Massif, Morra de Lechugales 2,444 m Doğudaki dağlar: Fuentes Carrionas Massif, Peña Prieta 2,536 m Sierra Cocón Sierra del Escudo de Cabuérniga**Sierra de la Gándara, Peña Cabarga 537 m, a lower northern foothill located further east Montes de Ucieda Alto del Gueto Sierra de la Matanza Sierra de Peña Sagra, Peña Sagra 2,046 m Sierra de Peña Labra, Pico Tres Mares 2,175 m ve Peña Labra 2,006 m Sierra del Cordel Sierra del Escudo Sierra de Híjar Valdecebollas Sierra del Hornijo, Mortillano 1,410 Sierra de Breñas, foothill running perpendicular to the coast Montes de Pas, Castro Valnera 1,707 m === Doğu bölgesi === Iç bölgeler: Sierra Salbada (Orduña) Mounts of Gasteiz, Kapildui 1,177 m Izki Urbasa, Baiza 1,183 m Andía 1,493 m Kıyı bölgeleri: Gorbea (Gorbeia) 1,481 m Urkiola, Anboto 1,331 m Elgea Aizkorri, Aitxuri 1,551 m, Altzania, Aratz 1,442 m Aralar Mendilerroa 1,346 m == Flora ve fauna == Cantabria Dağları çok önemli bitki ve hayvan türlerine ev sahipliği yapmaktadır, bunlar arasında öne çıkanlar şöyle sıralanabilir: Cantabria ayısı Ursus arctos pyrenaicus Cantabria orman tavuğu Tetrao urogallus cantabricus İberya kurdu Canis lupus signatus Cantabria caprinaesi Rupicapra pyrenaica parva == Koruma alanları == Cantabria Dağlarında çok sayıda koruma altında olan bölge bulunmaktadır. Bunlardan bazılar doğrudan UNESCO Dünya Biyosfer Rezervleri Ağına dahildir. Picos de Europa Ulusal Parkı Muniellos Koruma Alanı Fuentes del Narcea, Degaña ve Ibias Ulusal Parkı Redes Ulusal Parkı Somiedo Ulusal Parkı Sierra del Sueve Koruma Alanı Montaña Palentina Ulusal Parkı Saja-Besaya Ulusal Parkı Collados del Asón Ulusal Parkı Ojo Guareña == Galeri == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 446,
+      "char_count": 3004,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.270204",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 290,
+      "content": "Cantabria Dağları (İspanyolca: Cordillera Cantábrica) İspanya'daki önde gelen sıradağ sistemidir. İspanya'nın kuzeyinde yer alan dağ sırası 300 km uzunluğundadır, Pirenelerin batısından Galiçya'ya kadar uzanır. Cantabria Dağları genel olarak doğa yürüyüşü, tırmanış ve kayak için uygundur.",
+      "char_count": 289,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafi özellikler ==",
+      "heading_path": "== Coğrafi özellikler ==",
+      "start_char": 290,
+      "end_char": 884,
+      "content": "== Coğrafi özellikler == Cantabria Dağları denize paralel olacak şekilde doğu-batı ekseninde yer alır. Dağ sırasının batıda geldiği sınır Portekiz-İspanya sınırını da belirleyen Miño Nehri vadisidir. Dağ sırasının güneybatıdaki uç bölgesi Portekiz sınırları içinde kalır. Dağ sırasının doğu kesimi özellikle daha yüksektir ve Pirenelerin devamı olarak değerlendirilir.Dağlar, kuzeydeki yeşil bölgeyle güneydeki çorak bölge arasında sınır oluşturmaktadır. Dağ sırasının kuzeye bakan yamaçları yoğun yağış alırken güney yüzündeki bölgeler dağ zirvelerin engellemesi nedeniyle aşırı yağmur almaz.",
+      "char_count": 593,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0002",
+      "section": "=== Batı bölgesi ===",
+      "heading_path": "=== Batı bölgesi ===",
+      "start_char": 906,
+      "end_char": 1172,
+      "content": "=== Batı bölgesi === Sierra de la Bobia, Pico de la Bobia 1,201 m Sierra de Tineo, Mulleiroso 1,241 m Sierra de San Isidro, Campo de La Vaga 1,078 m Sierra de Eirelo, Pena dos Ladróis 800 m Sierra del Sueve, Picu Pienzu 1,161 m Sierra de Cuera, Pico Turbina 1,315 m",
+      "char_count": 265,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0003",
+      "section": "=== Orta bölge ===",
+      "heading_path": "=== Orta bölge ===",
+      "start_char": 1172,
+      "end_char": 1927,
+      "content": "=== Orta bölge === Picos de Europa üçe ayrılır: Batıdaki Cornión Massif, Torre Santa 2,596 m Ortadaki Urrieles Massif, Torrecerredo 2,650 m Doğudaki Ándara Massif, Morra de Lechugales 2,444 m Doğudaki dağlar: Fuentes Carrionas Massif, Peña Prieta 2,536 m Sierra Cocón Sierra del Escudo de Cabuérniga**Sierra de la Gándara, Peña Cabarga 537 m, a lower northern foothill located further east Montes de Ucieda Alto del Gueto Sierra de la Matanza Sierra de Peña Sagra, Peña Sagra 2,046 m Sierra de Peña Labra, Pico Tres Mares 2,175 m ve Peña Labra 2,006 m Sierra del Cordel Sierra del Escudo Sierra de Híjar Valdecebollas Sierra del Hornijo, Mortillano 1,410 Sierra de Breñas, foothill running perpendicular to the coast Montes de Pas, Castro Valnera 1,707 m",
+      "char_count": 754,
+      "token_estimate": 188
+    },
+    {
+      "id": "c0004",
+      "section": "=== Doğu bölgesi ===",
+      "heading_path": "=== Doğu bölgesi ===",
+      "start_char": 1927,
+      "end_char": 2211,
+      "content": "=== Doğu bölgesi === Iç bölgeler: Sierra Salbada (Orduña) Mounts of Gasteiz, Kapildui 1,177 m Izki Urbasa, Baiza 1,183 m Andía 1,493 m Kıyı bölgeleri: Gorbea (Gorbeia) 1,481 m Urkiola, Anboto 1,331 m Elgea Aizkorri, Aitxuri 1,551 m, Altzania, Aratz 1,442 m Aralar Mendilerroa 1,346 m",
+      "char_count": 283,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0005",
+      "section": "== Flora ve fauna ==",
+      "heading_path": "== Flora ve fauna ==",
+      "start_char": 2211,
+      "end_char": 2536,
+      "content": "== Flora ve fauna == Cantabria Dağları çok önemli bitki ve hayvan türlerine ev sahipliği yapmaktadır, bunlar arasında öne çıkanlar şöyle sıralanabilir: Cantabria ayısı Ursus arctos pyrenaicus Cantabria orman tavuğu Tetrao urogallus cantabricus İberya kurdu Canis lupus signatus Cantabria caprinaesi Rupicapra pyrenaica parva",
+      "char_count": 324,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0006",
+      "section": "== Koruma alanları ==",
+      "heading_path": "== Koruma alanları ==",
+      "start_char": 2536,
+      "end_char": 2977,
+      "content": "== Koruma alanları == Cantabria Dağlarında çok sayıda koruma altında olan bölge bulunmaktadır. Bunlardan bazılar doğrudan UNESCO Dünya Biyosfer Rezervleri Ağına dahildir. Picos de Europa Ulusal Parkı Muniellos Koruma Alanı Fuentes del Narcea, Degaña ve Ibias Ulusal Parkı Redes Ulusal Parkı Somiedo Ulusal Parkı Sierra del Sueve Koruma Alanı Montaña Palentina Ulusal Parkı Saja-Besaya Ulusal Parkı Collados del Asón Ulusal Parkı Ojo Guareña",
+      "char_count": 440,
+      "token_estimate": 110
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Picos de Europa hangi üç kısma ayrılır?",
+        "answer": "Picos de Europa; Batıdaki Cornión Massif, Ortadaki Urrieles Massif ve Doğudaki Ándara Massif olmak üzere üçe ayrılır.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cantabria Dağları'nın İspanya'daki konumu ve denize paralel doğu-batı eksenindeki yerleşimi, çevre bölgelerin iklimini ve coğrafyasını nasıl etkiler?",
+        "answer": "Cantabria Dağları'nın İspanya'nın kuzeyinde, Pirenelerin batısından Galiçya'ya kadar uzanan 300 km'lik bir sıradağ sistemi olarak denize paralel bir şekilde doğu-batı ekseninde uzanması, kuzeydeki yeşil bölge ile güneydeki çorak bölge arasında bir sınır oluşturur. Bu yerleşim, dağ sırasının kuzeye bakan yamaçlarının yoğun yağış almasına neden olurken, güney yüzündeki bölgeler dağ zirvelerinin engellemesi nedeniyle aşırı yağmur almaz.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

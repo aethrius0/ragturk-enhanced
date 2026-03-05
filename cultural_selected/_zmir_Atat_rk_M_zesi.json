@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "zmiratatrkmzesi_e6fa9aff",
+    "title": "İzmir Atatürk Müzesi",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0zmir_Atat%C3%BCrk_M%C3%BCzesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:19.982982",
+    "content": "İzmir Atatürk Müzesi, Türkiye'nin İzmir şehrinde yer alan bir müzedir. 1941'de açılan müzede Mustafa Kemal Atatürk'ün eşyaları sergilenmektedir. == Tarihçe == 1876'da Meşrutiyet'in ilanı sonrası İzmir mebusu olan ve halı ticareti ile uğraşan Agop Ispartalıyan tarafından Kordon'da ve 1880 yılında ailesi için ev olarak inşa edilmiştir. Müze binası, Eylül 1922'de İzmir'in Türkler tarafından geri alınması sonucu terk edildi ve devletin mülkiyetine geçti. Bir süre Türk ordusuna karargâh olarak hizmet verdi. Şubat 1923'te İzmir İktisat Kongresi için şehre gelen Mustafa Kemal Atatürk, binayı çalışma ofisi olarak kullandı. Kongreden sonra binadaki karargâh taşındı ve devlet binayı otel olarak hizmet vermesi için kiraya verdi. Haziran 1926'da Atatürk, İsmet İnönü ile birlikte İzmir ziyareti sırasında Naim Palas adlı bu otelde konakladı. Aynı yıl 13 Ekim'de İzmir Belediyesi binayı satın aldı ve Atatürk'e armağan etti. 1930-1934 arasında Atatürk, İzmir'e beş kez geldi ve her defasında bu binada kaldı. 10 Kasım 1938'de Atatürk'ün ölümünün ardından bina, kız kardeşi Makbule Atadan'a miras kaldı. İzmir Belediyesi, 25 Eylül 1940'ta binayı kamulaştırdı ve Atatürk'ün İzmir'e gelişinin on dokuzuncu yıl dönümü olan 11 Eylül 1941'de müze olarak açtı. Müzenin adı 5 Ekim 1962'de \"Atatürk İl Halk Kütüphanesi ve İzmir Şehri Atatürk Müzesi\" olarak değiştirildi. Binanın mülkiyeti 28 Aralık 1972'de İzmir Arkeoloji Müzesi'ne geçti. 29 Ekim 1978'de düzenlenerek yeniden açılan müze, \"Atatürk ve Etnografya Müzesi\" adını aldı. 13 Mayıs 1988'de İzmir Etnografya Müzesi'nin açılmasıyla müzede sergilenen etnografik eserler yeni müzeye taşındı ve müzenin adı \"Atatürk Müzesi\" hâline geldi. 1999-2001 yılları arasında Kültür Bakanlığı, binada restorasyon çalışması gerçekleştirdi ve müze 2002'de yeniden açıldı. 2011-2015 yılları arasında bina tekrar restore edildi. == Mimari == Neoklasik tarzda inşa edilen ve 852 m2'lik bir alanı kaplayan bina, Osmanlı ve Levanten mimarilerinden esinlendi. İki katlı ve dikdörtgen şeklinde olan kâgir yapıda bodrum ve çatı katları da bulunmaktadır. Arka yüzü revaklı olan binanın ayrıca bir avlusu ve bir cumbası vardır. == Kaynakça == Wikimedia Commons'ta İzmir Atatürk Müzesi ile ilgili çoklu ortam belgeleri bulunur",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 317,
+      "char_count": 2245,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.767976",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 145,
+      "content": "İzmir Atatürk Müzesi, Türkiye'nin İzmir şehrinde yer alan bir müzedir. 1941'de açılan müzede Mustafa Kemal Atatürk'ün eşyaları sergilenmektedir.",
+      "char_count": 144,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 145,
+      "end_char": 1145,
+      "content": "== Tarihçe == 1876'da Meşrutiyet'in ilanı sonrası İzmir mebusu olan ve halı ticareti ile uğraşan Agop Ispartalıyan tarafından Kordon'da ve 1880 yılında ailesi için ev olarak inşa edilmiştir. Müze binası, Eylül 1922'de İzmir'in Türkler tarafından geri alınması sonucu terk edildi ve devletin mülkiyetine geçti. Bir süre Türk ordusuna karargâh olarak hizmet verdi. Şubat 1923'te İzmir İktisat Kongresi için şehre gelen Mustafa Kemal Atatürk, binayı çalışma ofisi olarak kullandı. Kongreden sonra binadaki karargâh taşındı ve devlet binayı otel olarak hizmet vermesi için kiraya verdi. Haziran 1926'da Atatürk, İsmet İnönü ile birlikte İzmir ziyareti sırasında Naim Palas adlı bu otelde konakladı. Aynı yıl 13 Ekim'de İzmir Belediyesi binayı satın aldı ve Atatürk'e armağan etti. 1930-1934 arasında Atatürk, İzmir'e beş kez geldi ve her defasında bu binada kaldı. 10 Kasım 1938'de Atatürk'ün ölümünün ardından bina, kız kardeşi Makbule Atadan'a miras kaldı. İzmir Belediyesi, 25 Eylül 1940'ta binayı kam",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 945,
+      "end_char": 1856,
+      "content": "ürk, İzmir'e beş kez geldi ve her defasında bu binada kaldı. 10 Kasım 1938'de Atatürk'ün ölümünün ardından bina, kız kardeşi Makbule Atadan'a miras kaldı. İzmir Belediyesi, 25 Eylül 1940'ta binayı kamulaştırdı ve Atatürk'ün İzmir'e gelişinin on dokuzuncu yıl dönümü olan 11 Eylül 1941'de müze olarak açtı. Müzenin adı 5 Ekim 1962'de \"Atatürk İl Halk Kütüphanesi ve İzmir Şehri Atatürk Müzesi\" olarak değiştirildi. Binanın mülkiyeti 28 Aralık 1972'de İzmir Arkeoloji Müzesi'ne geçti. 29 Ekim 1978'de düzenlenerek yeniden açılan müze, \"Atatürk ve Etnografya Müzesi\" adını aldı. 13 Mayıs 1988'de İzmir Etnografya Müzesi'nin açılmasıyla müzede sergilenen etnografik eserler yeni müzeye taşındı ve müzenin adı \"Atatürk Müzesi\" hâline geldi. 1999-2001 yılları arasında Kültür Bakanlığı, binada restorasyon çalışması gerçekleştirdi ve müze 2002'de yeniden açıldı. 2011-2015 yılları arasında bina tekrar restore edildi.",
+      "char_count": 911,
+      "token_estimate": 227
+    },
+    {
+      "id": "c0003",
+      "section": "== Mimari ==",
+      "heading_path": "== Mimari ==",
+      "start_char": 1857,
+      "end_char": 2148,
+      "content": "== Mimari == Neoklasik tarzda inşa edilen ve 852 m2'lik bir alanı kaplayan bina, Osmanlı ve Levanten mimarilerinden esinlendi. İki katlı ve dikdörtgen şeklinde olan kâgir yapıda bodrum ve çatı katları da bulunmaktadır. Arka yüzü revaklı olan binanın ayrıca bir avlusu ve bir cumbası vardır.",
+      "char_count": 290,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2148,
+      "end_char": 2245,
+      "content": "== Kaynakça == Wikimedia Commons'ta İzmir Atatürk Müzesi ile ilgili çoklu ortam belgeleri bulunur",
+      "char_count": 97,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Müze binası ilk olarak kim tarafından ve ne amaçla inşa edilmiştir?",
+        "answer": "Halı ticareti ile uğraşan Agop Ispartalıyan tarafından, ailesi için ev olarak inşa edilmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İzmir Atatürk Müzesi'nin binası, başlangıçtaki kullanım amacından müze olarak açılışına kadar hangi önemli aşamalardan geçmiştir ve Mustafa Kemal Atatürk bu süreçte nasıl bir rol oynamıştır?",
+        "answer": "Bina, 1880'de Agop Ispartalıyan tarafından aile evi olarak inşa edildi. Eylül 1922'de İzmir'in geri alınmasıyla devlet mülkiyetine geçti ve Türk ordusuna karargâh olarak hizmet verdi. Mustafa Kemal Atatürk, Şubat 1923'te İzmir İktisat Kongresi için geldiğinde burayı çalışma ofisi olarak kullandı. Daha sonra Naim Palas adlı otel olarak kiraya verildi ve Haziran 1926'da Atatürk bu otelde konakladı. Aynı yıl 13 Ekim'de İzmir Belediyesi tarafından satın alınarak Atatürk'e armağan edildi. Atatürk, 1930-1934 yılları arasında İzmir'e yaptığı beş ziyarette bu binada kaldı. 10 Kasım 1938'de Atatürk'ün vefatından sonra kız kardeşi Makbule Atadan'a miras kalan bina, İzmir Belediyesi tarafından 25 Eylül 1940'ta kamulaştırıldı ve 11 Eylül 1941'de müze olarak açıldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

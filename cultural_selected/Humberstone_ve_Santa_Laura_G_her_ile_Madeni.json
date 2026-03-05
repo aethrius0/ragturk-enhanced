@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "humberstonevesantala_657a89d3",
+    "title": "Humberstone ve Santa Laura Güherçile Madeni",
+    "url": "https://tr.wikipedia.org/wiki/Humberstone_ve_Santa_Laura_G%C3%BCher%C3%A7ile_Madeni",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:21.509242",
+    "content": "Humberstone ve Santa Laura Güherçile Madeni, Şili'nin kuzeyinde bulunan iki eski güherçile rafinerisidir. 2005 yılında UNESCO tarafından Dünya Mirası olarak ilan edilmiştir. == Tarihi == 1872'de, Guillermo Wendell Nitrate Extraction Company, bölge halihazırda Peru'nun bir parçası iken, Santa Laura'daki güherçile madenini kurdu. Aynı yıl, James Thomas Humberstone, La Palma'daki madenleri kapsayan Peru Nitrat Şirketi'ni kurdu. Her iki maden de hızlı bir şekilde büyüdü, bunun sonucunda, bölge, hızla büyüyen bir İngiliz tarzı kasaba halini aldı. La Palma, bölgenin en büyük madenlerinden biri haline gelirken, üretim düşük olduğu için Santa Laura iyi bir performans gösteremedi. 1902'de Tamarugal Nitrate Company tarafından devralındı. 1913 yılında Santa Laura, üretimi artıran Shanks ekstraksiyon süreci ortaya çıkıncaya kadar üretimini durdurdu. Bununla birlikte, madenler, 1929'daki Büyük Buhran döneminde, Alman Fritz Haber ve Carl Bosch'ın endüstriyel gübrenin üretimine olanak sağlayan amonyak sentezinin gelişimi ile çöktü. Hemen hemen iflas eden iki maden, 1934'te COSATAN (Compañía Salitrera de Tarapacá y Antofagasta) tarafından satın alındı. COSATAN, kurucusunun onuruna La Palma'nın adını \"Oficina Santiago Humberstone\" olarak değiştirdi. Şirket, Humberstone'u modernleştirerek 1940'lı yıllarda güherçile üretiminde başarılı sonuçlar almaya başlamıştır. 1958'de COSATAN'ın ortadan kaybolmasıyla birlikte her iki maden de 1960'ta terk edildi. 1970 yılında hayalet kasaba haline geldikten sonra ulusal anıt ilan edildi ve turizme açıldı. 2005 yılında UNESCO tarafından Dünya Mirası ilan edildi. == Galeri == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 215,
+      "char_count": 1634,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.407181",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 174,
+      "content": "Humberstone ve Santa Laura Güherçile Madeni, Şili'nin kuzeyinde bulunan iki eski güherçile rafinerisidir. 2005 yılında UNESCO tarafından Dünya Mirası olarak ilan edilmiştir.",
+      "char_count": 173,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 174,
+      "end_char": 1174,
+      "content": "== Tarihi == 1872'de, Guillermo Wendell Nitrate Extraction Company, bölge halihazırda Peru'nun bir parçası iken, Santa Laura'daki güherçile madenini kurdu. Aynı yıl, James Thomas Humberstone, La Palma'daki madenleri kapsayan Peru Nitrat Şirketi'ni kurdu. Her iki maden de hızlı bir şekilde büyüdü, bunun sonucunda, bölge, hızla büyüyen bir İngiliz tarzı kasaba halini aldı. La Palma, bölgenin en büyük madenlerinden biri haline gelirken, üretim düşük olduğu için Santa Laura iyi bir performans gösteremedi. 1902'de Tamarugal Nitrate Company tarafından devralındı. 1913 yılında Santa Laura, üretimi artıran Shanks ekstraksiyon süreci ortaya çıkıncaya kadar üretimini durdurdu. Bununla birlikte, madenler, 1929'daki Büyük Buhran döneminde, Alman Fritz Haber ve Carl Bosch'ın endüstriyel gübrenin üretimine olanak sağlayan amonyak sentezinin gelişimi ile çöktü. Hemen hemen iflas eden iki maden, 1934'te COSATAN (Compañía Salitrera de Tarapacá y Antofagasta) tarafından satın alındı. COSATAN, kurucusunu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 974,
+      "end_char": 1606,
+      "content": "ine olanak sağlayan amonyak sentezinin gelişimi ile çöktü. Hemen hemen iflas eden iki maden, 1934'te COSATAN (Compañía Salitrera de Tarapacá y Antofagasta) tarafından satın alındı. COSATAN, kurucusunun onuruna La Palma'nın adını \"Oficina Santiago Humberstone\" olarak değiştirdi. Şirket, Humberstone'u modernleştirerek 1940'lı yıllarda güherçile üretiminde başarılı sonuçlar almaya başlamıştır. 1958'de COSATAN'ın ortadan kaybolmasıyla birlikte her iki maden de 1960'ta terk edildi. 1970 yılında hayalet kasaba haline geldikten sonra ulusal anıt ilan edildi ve turizme açıldı. 2005 yılında UNESCO tarafından Dünya Mirası ilan edildi.",
+      "char_count": 632,
+      "token_estimate": 158
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Santa Laura'daki güherçile madenini kim kurdu?",
+        "answer": "Guillermo Wendell Nitrate Extraction Company",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Humberstone ve Santa Laura Güherçile Madenleri'nin kuruluşlarından terk edilmelerine ve nihayetinde UNESCO Dünya Mirası olarak tanınmalarına yol açan temel tarihi gelişmeler ve faktörler nelerdir?",
+        "answer": "1872'de kurulan Humberstone (başlangıçta La Palma) ve Santa Laura madenleri, Santa Laura'nın başlangıçtaki düşük performansı ve 1913'te Shanks ekstraksiyon süreciyle gelen üretim artışı gibi çeşitli operasyonel zorluklar yaşadı. Ancak, 1929 Büyük Buhranı ve Fritz Haber ile Carl Bosch'un amonyak sentezi sayesinde endüstriyel gübre üretiminin gelişimi madenlerin çökmesine neden oldu. 1934'te COSATAN tarafından satın alınıp La Palma'nın adı Oficina Santiago Humberstone olarak değiştirilerek modernleştirilse de, COSATAN'ın 1958'de ortadan kalkmasıyla her iki maden de 1960'ta terk edildi. Bu tarihi süreçler sonucunda, 1970'te ulusal anıt ilan edildikten sonra, 2005 yılında UNESCO tarafından Dünya Mirası olarak tescil edildiler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

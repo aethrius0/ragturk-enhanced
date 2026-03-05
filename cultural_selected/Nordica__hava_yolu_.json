@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "nordicahavayolu_a555a00b",
+    "title": "Nordica (hava yolu)",
+    "url": "https://tr.wikipedia.org/wiki/Nordica_%28hava_yolu%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:36.501492",
+    "content": "Nordica veya yasal adıyla Nordic Aviation Group AS, merkezi Tallinn'de bulunan ve ana uçuş üssü Tallinn Havalimanı olan, Estonya devletine ait bayrak taşıyıcısı hava yoludur. Tarifeli uçuşlar ve diğer hava yolu şirketleri adına wetlease sözleşmeleri ile çalışır. == Tarih == Şirket 25 Eylül 2015 tarihinde Estonya Hükûmeti'nin kararıyla, önceki ulusal havayolu şirketi Estonian Air'in iflas ve tasfiyesinin ardından kuruldu. 2008 başlarında faaliyetlerini durduran Aero Airlines'ın IATA kodunu (EE) ve çağrı işaretini (REVAL) yeniden kullanmaktadır. Operasyonlar 8 Kasım 2015 tarihinde başladı. İlk uçuşu 8 Kasım 2015'te Talinn-Amsterdam arasında gerçekleşti. 30 Mart 2016'da yeni marka adı Nordica duyuruldu. Şirketin önceki yönetim kurulu üyesi Erik Sakkov, hava yolunun isminin Estonya'nın Kuzey Avrupa ile uyumu ve ülke liderlerinin bu uyumu ulusal taşıyıcı adına yansıtmak istemesi sebebiyle seçildiğini olarak açıkladı. Ayrıca Nordica'nın önceki adı Nordic Aviation Group'un mantıklı bir takibi olduğunu da kaydetti. İlk yıl, Slovenya'nın Adria Havayolları Nordica uçuşlarının çoğunu gerçekleştirirken Nordica filo ve mürettebatını hazırladı. 19 Kasım 2016'da Nordica, LOT Polish Airlines ile ticari platformunu, bilet sistemini ve uçuş kodunu kullanmak üzere stratejik bir ortaklığa girdi. Uçuşların çoğu, hisselerin %49'una sahip olan Star Alliance üyesi LOT Polish Airlines tarafından pazarlandığından Nordica, LOT'un uçuş kodlarını ve çağrılarının çoğunu uçuşlarında kullanmaktadır. Nordica, iştiraki Regional Jet üzerinden İskandinav Havayolları ile ortaklaşa çalışarak, İskandinavya ve diğer Kuzey Avrupa destinasyonları arasında altı ATR72-600 işletmektedir. Mart 2018'de Nordica, Hollanda'nın kuzeyindeki Groningen Havalimanı Eelde'de bir üs açtı. Üs dört yıl boyunca hizmet verdi; yıl boyunca Kopenhag ve Münih'e, yazları ise İbiza ve Nice'e uçuşlarda kullanıldı. Kasım 2018'de Nordica, 2019 yaz programından itibaren Tallinn Havaalanı'ndan uçuşların sekizini iptal edeceğini açıkladı. Ayrıca, hava yolu Groningen'deki üssünü 29 Aralık 2018'e kadar kapattı. Haziran 2019'da Nordica, planlanan tüm operasyonları Tallinn'deki ana üssünden de sonlandıracağını açıkladı. Ortağı LOT Polish Airlines tarafından birkaç kilit güzergâh devralınacak olsa da, Nordica hizmetlerini diğer havayolları için kiralama operasyonlarına odaklayacaktır. Şubat 2020'de Regional Jet, XFly olarak yeniden markalandığını duyurdu. Ayrıca, operasyonları genişletmek için yedi ek Embraer 190/195 kiralayacağını açıkladı. == Güzergâhlar == Ekim 2017 itibarıyla Nordica, Orta, Kuzey ve Batı Avrupa başta olmak üzere birçok şehre hizmet vermiştir. === Kod paylaşımı anlaşmaları === == Filo == Kasım 2019 itibarıyla Nordica filosu aşağıdaki uçaklardan oluşmaktadır: == Kaynakça == == Dış bağlantılar == Wikimedia Commons'ta Nordica (hava yolu) ile ilgili çoklu ortam belgeleri bulunur Resmî site",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 374,
+      "char_count": 2879,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.767030",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 263,
+      "content": "Nordica veya yasal adıyla Nordic Aviation Group AS, merkezi Tallinn'de bulunan ve ana uçuş üssü Tallinn Havalimanı olan, Estonya devletine ait bayrak taşıyıcısı hava yoludur. Tarifeli uçuşlar ve diğer hava yolu şirketleri adına wetlease sözleşmeleri ile çalışır.",
+      "char_count": 262,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 263,
+      "end_char": 1263,
+      "content": "== Tarih == Şirket 25 Eylül 2015 tarihinde Estonya Hükûmeti'nin kararıyla, önceki ulusal havayolu şirketi Estonian Air'in iflas ve tasfiyesinin ardından kuruldu. 2008 başlarında faaliyetlerini durduran Aero Airlines'ın IATA kodunu (EE) ve çağrı işaretini (REVAL) yeniden kullanmaktadır. Operasyonlar 8 Kasım 2015 tarihinde başladı. İlk uçuşu 8 Kasım 2015'te Talinn-Amsterdam arasında gerçekleşti. 30 Mart 2016'da yeni marka adı Nordica duyuruldu. Şirketin önceki yönetim kurulu üyesi Erik Sakkov, hava yolunun isminin Estonya'nın Kuzey Avrupa ile uyumu ve ülke liderlerinin bu uyumu ulusal taşıyıcı adına yansıtmak istemesi sebebiyle seçildiğini olarak açıkladı. Ayrıca Nordica'nın önceki adı Nordic Aviation Group'un mantıklı bir takibi olduğunu da kaydetti. İlk yıl, Slovenya'nın Adria Havayolları Nordica uçuşlarının çoğunu gerçekleştirirken Nordica filo ve mürettebatını hazırladı. 19 Kasım 2016'da Nordica, LOT Polish Airlines ile ticari platformunu, bilet sistemini ve uçuş kodunu kullanmak üze",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1063,
+      "end_char": 2063,
+      "content": "Nordica uçuşlarının çoğunu gerçekleştirirken Nordica filo ve mürettebatını hazırladı. 19 Kasım 2016'da Nordica, LOT Polish Airlines ile ticari platformunu, bilet sistemini ve uçuş kodunu kullanmak üzere stratejik bir ortaklığa girdi. Uçuşların çoğu, hisselerin %49'una sahip olan Star Alliance üyesi LOT Polish Airlines tarafından pazarlandığından Nordica, LOT'un uçuş kodlarını ve çağrılarının çoğunu uçuşlarında kullanmaktadır. Nordica, iştiraki Regional Jet üzerinden İskandinav Havayolları ile ortaklaşa çalışarak, İskandinavya ve diğer Kuzey Avrupa destinasyonları arasında altı ATR72-600 işletmektedir. Mart 2018'de Nordica, Hollanda'nın kuzeyindeki Groningen Havalimanı Eelde'de bir üs açtı. Üs dört yıl boyunca hizmet verdi; yıl boyunca Kopenhag ve Münih'e, yazları ise İbiza ve Nice'e uçuşlarda kullanıldı. Kasım 2018'de Nordica, 2019 yaz programından itibaren Tallinn Havaalanı'ndan uçuşların sekizini iptal edeceğini açıkladı. Ayrıca, hava yolu Groningen'deki üssünü 29 Aralık 2018'e kadar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1863,
+      "end_char": 2508,
+      "content": "rda kullanıldı. Kasım 2018'de Nordica, 2019 yaz programından itibaren Tallinn Havaalanı'ndan uçuşların sekizini iptal edeceğini açıkladı. Ayrıca, hava yolu Groningen'deki üssünü 29 Aralık 2018'e kadar kapattı. Haziran 2019'da Nordica, planlanan tüm operasyonları Tallinn'deki ana üssünden de sonlandıracağını açıkladı. Ortağı LOT Polish Airlines tarafından birkaç kilit güzergâh devralınacak olsa da, Nordica hizmetlerini diğer havayolları için kiralama operasyonlarına odaklayacaktır. Şubat 2020'de Regional Jet, XFly olarak yeniden markalandığını duyurdu. Ayrıca, operasyonları genişletmek için yedi ek Embraer 190/195 kiralayacağını açıkladı.",
+      "char_count": 645,
+      "token_estimate": 161
+    },
+    {
+      "id": "c0004",
+      "section": "== Güzergâhlar ==",
+      "heading_path": "== Güzergâhlar ==",
+      "start_char": 2509,
+      "end_char": 2633,
+      "content": "== Güzergâhlar == Ekim 2017 itibarıyla Nordica, Orta, Kuzey ve Batı Avrupa başta olmak üzere birçok şehre hizmet vermiştir.",
+      "char_count": 123,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0005",
+      "section": "== Filo ==",
+      "heading_path": "== Filo ==",
+      "start_char": 2667,
+      "end_char": 2750,
+      "content": "== Filo == Kasım 2019 itibarıyla Nordica filosu aşağıdaki uçaklardan oluşmaktadır:",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2765,
+      "end_char": 2879,
+      "content": "== Dış bağlantılar == Wikimedia Commons'ta Nordica (hava yolu) ile ilgili çoklu ortam belgeleri bulunur Resmî site",
+      "char_count": 114,
+      "token_estimate": 28
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Nordica'nın yeni marka adı ne zaman duyuruldu?",
+        "answer": "30 Mart 2016",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Estonya'nın ulusal havayolu şirketi olarak Nordica, önceki ulusal havayolunun tasfiyesinin ardından kuruluşundan itibaren operasyonlarını nasıl yönetmiş ve sürdürmüştür?",
+        "answer": "Nordica, Estonya Hükûmeti kararıyla önceki ulusal havayolu Estonian Air'in iflasının ardından 2015 yılında kuruldu. İlk yıl operasyonlarının çoğunu gerçekleştirmesi için Slovenya'nın Adria Havayolları ile çalışırken kendi filo ve mürettebatını hazırladı. Daha sonra 2016 yılında ticari platformunu, bilet sistemini ve uçuş kodunu kullanmak üzere LOT Polish Airlines ile stratejik bir ortaklığa girdi ve LOT, Nordica'nın uçuşlarının çoğunu pazarladı. Ayrıca, iştiraki Regional Jet aracılığıyla İskandinav Havayolları ile de ortaklaşa çalıştı. Operasyonel olarak, Mart 2018'de Hollanda'daki Groningen Havalimanı Eelde'de bir üs açıp kısa süre sonra 2018'in sonuna kadar kapatmış ve 2019 yaz programından itibaren Tallinn Havalimanı'ndan bazı uçuşları iptal etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

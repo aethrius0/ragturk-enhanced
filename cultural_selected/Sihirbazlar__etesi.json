@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "sihirbazlaretesi_ff0f12f9",
+    "title": "Sihirbazlar Çetesi",
+    "url": "https://tr.wikipedia.org/wiki/Sihirbazlar_%C3%87etesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:30.462880",
+    "content": "Sihirbazlar Çetesi, uluslararası oyuncu kadrosunun rol aldığı ve Fransız yönetmen Louis Leterrier'in yönettiği 2013 ABD yapımı suç, gerilim filmidir. Film eleştirmenlerden farklı yorumlar almasına rağmen, 31 Mayıs 2013 tarihinde vizyona girmiş ve iyi bir gişe başarısı yakalamıştır. Filmin yapımı için 75 milyon amerikan doları harcanmış ve dünya çapında 350 milyon amerikan doları hasılat elde edilmiştir. 2016'da filmin devamı olarak Sihirbazlar Çetesi 2 filmi yapılmıştır. == Oyuncular == Jesse Eisenberg, J. Daniel Atlas, bir illüzyonist ve dört süvarinin lideri. Mark Ruffalo, Dylan Rhodes, banka hırsızlığını araştıran FBI ajanı. Woody Harrelson, Merritt McKinney, bir mentalist. Isla Fisher, Henley Reeves, bir eskapist. Dave Franco, Jack Wilder, el çabukluğu ile bilinen illüzyonist. Mélanie Laurent, Alma Dray, banka hırsızlığı olayını araştırmak üzere soruşturmaya dahil olan Interpol ajanı. Morgan Freeman, Thaddeus Bradley, sihirbazlar arasında hileleri ortaya çıkartarak para kazanan eski bir sihirbaz. Michael Caine, Arthur Tressler, bir sigorta şirketi patronu ve dört süvarinin sponsoru. Michael J. Kelly, Ajan Fuller Common, Evans, Fuller ve Cowan'ın bir üst amiri olarak David Warshofsky, Ajan Cowan, olay ile ilgili soruşturmayı devralan ajan. José Garcia, Étienne Forcier, Las Vagas'taki seyircilerden biri Jessica Lindsey, Hermia, Bradley'in asistanı Caitriona Balfe, Jasmine Trassler, yardımcı J. Larose, Willy Mears Conan O'Brien, kendisi Elias Koteas, Lionel Shrike, bir sihir yaptığı esnada boğularak ölen sihirbaz. == Kaynakça == == Dış bağlantılar == Resmî site IMDb'de Sihirbazlar Çetesi Rotten Tomatoes'ta Now You See Me Metacritic'te Now You See Me Box Office Mojo'da Now You See Me",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 238,
+      "char_count": 1712,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.945946",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 476,
+      "content": "Sihirbazlar Çetesi, uluslararası oyuncu kadrosunun rol aldığı ve Fransız yönetmen Louis Leterrier'in yönettiği 2013 ABD yapımı suç, gerilim filmidir. Film eleştirmenlerden farklı yorumlar almasına rağmen, 31 Mayıs 2013 tarihinde vizyona girmiş ve iyi bir gişe başarısı yakalamıştır. Filmin yapımı için 75 milyon amerikan doları harcanmış ve dünya çapında 350 milyon amerikan doları hasılat elde edilmiştir. 2016'da filmin devamı olarak Sihirbazlar Çetesi 2 filmi yapılmıştır.",
+      "char_count": 475,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0001",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 476,
+      "end_char": 1476,
+      "content": "== Oyuncular == Jesse Eisenberg, J. Daniel Atlas, bir illüzyonist ve dört süvarinin lideri. Mark Ruffalo, Dylan Rhodes, banka hırsızlığını araştıran FBI ajanı. Woody Harrelson, Merritt McKinney, bir mentalist. Isla Fisher, Henley Reeves, bir eskapist. Dave Franco, Jack Wilder, el çabukluğu ile bilinen illüzyonist. Mélanie Laurent, Alma Dray, banka hırsızlığı olayını araştırmak üzere soruşturmaya dahil olan Interpol ajanı. Morgan Freeman, Thaddeus Bradley, sihirbazlar arasında hileleri ortaya çıkartarak para kazanan eski bir sihirbaz. Michael Caine, Arthur Tressler, bir sigorta şirketi patronu ve dört süvarinin sponsoru. Michael J. Kelly, Ajan Fuller Common, Evans, Fuller ve Cowan'ın bir üst amiri olarak David Warshofsky, Ajan Cowan, olay ile ilgili soruşturmayı devralan ajan. José Garcia, Étienne Forcier, Las Vagas'taki seyircilerden biri Jessica Lindsey, Hermia, Bradley'in asistanı Caitriona Balfe, Jasmine Trassler, yardımcı J. Larose, Willy Mears Conan O'Brien, kendisi Elias Koteas, ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 1276,
+      "end_char": 1540,
+      "content": "Étienne Forcier, Las Vagas'taki seyircilerden biri Jessica Lindsey, Hermia, Bradley'in asistanı Caitriona Balfe, Jasmine Trassler, yardımcı J. Larose, Willy Mears Conan O'Brien, kendisi Elias Koteas, Lionel Shrike, bir sihir yaptığı esnada boğularak ölen sihirbaz.",
+      "char_count": 264,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1556,
+      "end_char": 1712,
+      "content": "== Dış bağlantılar == Resmî site IMDb'de Sihirbazlar Çetesi Rotten Tomatoes'ta Now You See Me Metacritic'te Now You See Me Box Office Mojo'da Now You See Me",
+      "char_count": 156,
+      "token_estimate": 39
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dört süvarinin lideri olan illüzyonist J. Daniel Atlas'ı kim canlandırmıştır?",
+        "answer": "Jesse Eisenberg",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sihirbazlar Çetesi filminin, \"suç\" ve \"gerilim\" türlerinde bir yapım olarak tanımlanmasında, filmdeki ana karakterlerin rolleri ve eylemleri nasıl bir ilişki kurmaktadır?",
+        "answer": "Filmde, J. Daniel Atlas liderliğindeki Dört Süvari'nin gerçekleştirdiği eylemler ve illüzyon gösterileriyle bağlantılı olarak ortaya çıkan olaylar \"suç\" unsurlarını oluşturur. Bu suçları araştırmakla görevli olan FBI ajanı Dylan Rhodes ve Interpol ajanı Alma Dray gibi karakterlerin soruşturması ve sihirbazların hilelerini ortaya çıkaran eski sihirbaz Thaddeus Bradley gibi figürlerin varlığı ise filmin \"gerilim\" ögesini besleyerek bu tür tanımlamayı güçlendirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "assassinfilm2023_72fdcb84",
+    "title": "Assassin (film, 2023)",
+    "url": "https://tr.wikipedia.org/wiki/Assassin_%28film%2C_2023%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:21.525136",
+    "content": "Hayalet Suikastçı (İngilizce özɡün adıylaː Assassin) başrollerinde Nomzamo Mbatha, Dominic Purcell ve Bruce Willis'in (son film rolünde) oynadığı yeni bir Amerikan gerilim filmi . Aaron Wolfe tarafından yazılan ilk uzun metrajlı filmi Jesse Atlas tarafından yönetildi ve Atlas ve Wolfe'un Let Them Die Like Lovers adlı kısa filmine dayanıyor. Assassin, Saban Films tarafından 31 Mart 2023'te seçkin sinemalarda ve VOD'da vizyona girdi. == Konusu == Valmora (Bruce Willis) liderliğindeki özel bir askeri operasyon, bir ajanın zihninin başka bir kişinin vücuduna yerleşerek gizli, ölümcül görevler yürütmesini sağlayan fütüristik mikroçip teknolojisi icat eder. Ancak Ajan Sebastian gizli bir görev sırasında öldürülünce, sorumlu adamı adalete teslim etmek için karısı Alexa onun yerini alacaktır. == Oyuncular == Nomzamo Mbatha - Alexa Dominic Purcell - Adrian Bruce Willis - Valmora Mustafa Shakir - Sebastian Andy Allo - Mali Hannah Quinlivan - Özel Ajan Fernanda Andrade - Olivia Barry Jay Minoff - Marko Eugenia Kuzmina - Antrenör == Yapım == 29 Nisan 2021'de Bruce Willis'in, Nomzamo Mbatha ve Dominic Purcell'in başrol için görüşmelere başladığı gerilim filmi Soul Assassin'de rol alacağı açıklandı. Çekimler 15 Haziran 2021'de Alabama, Bessemer'de başladı. Temmuz 2021'de Saban Films, filmin dağıtım haklarını aldı. Aynı ay, Barry Jay Minoff açıklanmayan bir rolde rol alırken, Jeff Elliott'un 120 dB Films ile birlikte Endless Media Brickell & Broadbridge International aracılığıyla filmin yapımcılığını üstlendiği ortaya çıktı. Ağustos 2021'de Mustafa Şakir açıklanmayan bir rol üstlendi. Film, Die Like Lovers ismiyle yeniden adlandırıldı ve daha sonra şu anki adı Assassin oldu. Mayıs 2022'de Hannah Quinlivan ve Fernanda Andrade'nin açıklanmayan rollerde yer alacakları açıklandı. Assassin, Willis'in kariyerinin son filmidir. 2022'de afazi teşhisi konduğu için oyunculuktan emekli oldu ve 2023'te frontotemporal demans teşhisi kondu. == Gösterim == Assassin, Saban Films tarafından 31 Mart 2023'te seçkin sinemalarda ve VOD'da vizyona girdi. Film ilk olarak Eylül 2022'de Die Like Lovers adıyla gösterime girecekti. == Kaynakça == == Dış bağlantılar == IMDb'de Assassin",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 309,
+      "char_count": 2181,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.187466",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 436,
+      "content": "Hayalet Suikastçı (İngilizce özɡün adıylaː Assassin) başrollerinde Nomzamo Mbatha, Dominic Purcell ve Bruce Willis'in (son film rolünde) oynadığı yeni bir Amerikan gerilim filmi . Aaron Wolfe tarafından yazılan ilk uzun metrajlı filmi Jesse Atlas tarafından yönetildi ve Atlas ve Wolfe'un Let Them Die Like Lovers adlı kısa filmine dayanıyor. Assassin, Saban Films tarafından 31 Mart 2023'te seçkin sinemalarda ve VOD'da vizyona girdi.",
+      "char_count": 435,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 436,
+      "end_char": 796,
+      "content": "== Konusu == Valmora (Bruce Willis) liderliğindeki özel bir askeri operasyon, bir ajanın zihninin başka bir kişinin vücuduna yerleşerek gizli, ölümcül görevler yürütmesini sağlayan fütüristik mikroçip teknolojisi icat eder. Ancak Ajan Sebastian gizli bir görev sırasında öldürülünce, sorumlu adamı adalete teslim etmek için karısı Alexa onun yerini alacaktır.",
+      "char_count": 359,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 796,
+      "end_char": 1034,
+      "content": "== Oyuncular == Nomzamo Mbatha - Alexa Dominic Purcell - Adrian Bruce Willis - Valmora Mustafa Shakir - Sebastian Andy Allo - Mali Hannah Quinlivan - Özel Ajan Fernanda Andrade - Olivia Barry Jay Minoff - Marko Eugenia Kuzmina - Antrenör",
+      "char_count": 237,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0003",
+      "section": "== Yapım ==",
+      "heading_path": "== Yapım ==",
+      "start_char": 1034,
+      "end_char": 1946,
+      "content": "== Yapım == 29 Nisan 2021'de Bruce Willis'in, Nomzamo Mbatha ve Dominic Purcell'in başrol için görüşmelere başladığı gerilim filmi Soul Assassin'de rol alacağı açıklandı. Çekimler 15 Haziran 2021'de Alabama, Bessemer'de başladı. Temmuz 2021'de Saban Films, filmin dağıtım haklarını aldı. Aynı ay, Barry Jay Minoff açıklanmayan bir rolde rol alırken, Jeff Elliott'un 120 dB Films ile birlikte Endless Media Brickell & Broadbridge International aracılığıyla filmin yapımcılığını üstlendiği ortaya çıktı. Ağustos 2021'de Mustafa Şakir açıklanmayan bir rol üstlendi. Film, Die Like Lovers ismiyle yeniden adlandırıldı ve daha sonra şu anki adı Assassin oldu. Mayıs 2022'de Hannah Quinlivan ve Fernanda Andrade'nin açıklanmayan rollerde yer alacakları açıklandı. Assassin, Willis'in kariyerinin son filmidir. 2022'de afazi teşhisi konduğu için oyunculuktan emekli oldu ve 2023'te frontotemporal demans teşhisi kondu.",
+      "char_count": 911,
+      "token_estimate": 227
+    },
+    {
+      "id": "c0004",
+      "section": "== Gösterim ==",
+      "heading_path": "== Gösterim ==",
+      "start_char": 1946,
+      "end_char": 2128,
+      "content": "== Gösterim == Assassin, Saban Films tarafından 31 Mart 2023'te seçkin sinemalarda ve VOD'da vizyona girdi. Film ilk olarak Eylül 2022'de Die Like Lovers adıyla gösterime girecekti.",
+      "char_count": 181,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2143,
+      "end_char": 2181,
+      "content": "== Dış bağlantılar == IMDb'de Assassin",
+      "char_count": 38,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Assassin filmi için çekimler ne zaman ve nerede başladı?",
+        "answer": "Çekimler 15 Haziran 2021'de Alabama, Bessemer'de başladı.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hayalet Suikastçı filminde Bruce Willis'in canlandırdığı Valmora karakterinin, filmin konusundaki temel işlevi nedir?",
+        "answer": "Bruce Willis'in canlandırdığı Valmora, bir ajanın zihninin başka bir kişinin vücuduna yerleşerek gizli, ölümcül görevler yürütmesini sağlayan fütüristik mikroçip teknolojisini icat eden özel bir askeri operasyonun lideridir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

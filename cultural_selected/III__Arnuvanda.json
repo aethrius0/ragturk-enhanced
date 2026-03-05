@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "iiiarnuvanda_8ae722e1",
+    "title": "III. Arnuvanda",
+    "url": "https://tr.wikipedia.org/wiki/III._Arnuvanda",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:45.433085",
+    "content": "III. Arnuvanda, MÖ 13. yüzyıl sonlarında (yaklaşık MÖ 1209-1207), kısa bir süre hüküm sürmüş Hitit kralıdır. == Hükümdarlığı == III. Arnuvanda, babası ve bir önceki kral IV. Tuthaliya'nın ölümüyle Hitit tahtına çıkmıştır. Hüküm süresi tam bilinmemekle birlikte bir ya da iki yıldan fazla olmadığı tahmin edilmektedir ve dolayısıyla dönemine ait çok az belge vardır. Hükümdarlığını belgeleyen, ismini taşıyan bir adet kraliyet mührü Boğazköy'de bulunmuştur. Ne sebeple öldüğü bilinmemektedir, ancak öldüğünde bir oğlu olmadığından başa kardeşi II. Şuppiluliuma geçmiştir. II. Şuppiluliuma'nın tahta geçişiyle ilgili olarak dönemine ait bir dokümanda Arnuvanda hakkında şöyle denmektedir: \"Hatti halkı ona karşı günah işledi ama ben işlemedim. Eğer bir oğlu olmuş olsaydı, onu dışlamazdım; (aksine) oğlunu korurdum. Ama oğlu yoktu; (hatta) bir hamile eş var mı diye aradım, ama hamile eş (bile) yoktu. Eğer Arnuvanda'nın bir oğlu olsaydı, günah işlemiş olurdum.' Hatti halkının Arnuvanda'ya karşı günah işlediğinin söylenmesi, ülkede ayaklanmaların olduğu ve iç düzendeki bozukluğun bir işareti olarak yorumlanmıştır. Bu bağlamda, hem Ugarit hem Mısır kaynaklarında bahsedilen Hatti'deki yiyecek sıkıntısı ve açlığın bu döneme ait olabileceği düşünülmüşse de, bu yönde kesin bir delil yoktur. Bu dokümanlar IV. Tuthaliya'nın son yılları veya II. Şuppiluliuma dönemiyle de ilişkilendirilebilir. == Ayrıca bakınız == Hitit kralları listesi Hitit İmparatorluğu == Kaynakça == Brandau, B. & Schickert, H. (2003) Hititler, Ankara: Arkadaş Yayınları. (İngilizce) Bryce, T. (2005) Kingdom of the Hittites, 2nd Edition, Oxford: Oxford University Press (Almanca) Klengel, H. (1999) Geschichte des hethitischen Reichs, Brill, Leiden. == Notlar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1734,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.657736",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 109,
+      "content": "III. Arnuvanda, MÖ 13. yüzyıl sonlarında (yaklaşık MÖ 1209-1207), kısa bir süre hüküm sürmüş Hitit kralıdır.",
+      "char_count": 108,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0001",
+      "section": "== Hükümdarlığı ==",
+      "heading_path": "== Hükümdarlığı ==",
+      "start_char": 109,
+      "end_char": 1109,
+      "content": "== Hükümdarlığı == III. Arnuvanda, babası ve bir önceki kral IV. Tuthaliya'nın ölümüyle Hitit tahtına çıkmıştır. Hüküm süresi tam bilinmemekle birlikte bir ya da iki yıldan fazla olmadığı tahmin edilmektedir ve dolayısıyla dönemine ait çok az belge vardır. Hükümdarlığını belgeleyen, ismini taşıyan bir adet kraliyet mührü Boğazköy'de bulunmuştur. Ne sebeple öldüğü bilinmemektedir, ancak öldüğünde bir oğlu olmadığından başa kardeşi II. Şuppiluliuma geçmiştir. II. Şuppiluliuma'nın tahta geçişiyle ilgili olarak dönemine ait bir dokümanda Arnuvanda hakkında şöyle denmektedir: \"Hatti halkı ona karşı günah işledi ama ben işlemedim. Eğer bir oğlu olmuş olsaydı, onu dışlamazdım; (aksine) oğlunu korurdum. Ama oğlu yoktu; (hatta) bir hamile eş var mı diye aradım, ama hamile eş (bile) yoktu. Eğer Arnuvanda'nın bir oğlu olsaydı, günah işlemiş olurdum.' Hatti halkının Arnuvanda'ya karşı günah işlediğinin söylenmesi, ülkede ayaklanmaların olduğu ve iç düzendeki bozukluğun bir işareti olarak yorumlanm",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hükümdarlığı ==",
+      "heading_path": "== Hükümdarlığı ==",
+      "start_char": 909,
+      "end_char": 1391,
+      "content": "vanda'nın bir oğlu olsaydı, günah işlemiş olurdum.' Hatti halkının Arnuvanda'ya karşı günah işlediğinin söylenmesi, ülkede ayaklanmaların olduğu ve iç düzendeki bozukluğun bir işareti olarak yorumlanmıştır. Bu bağlamda, hem Ugarit hem Mısır kaynaklarında bahsedilen Hatti'deki yiyecek sıkıntısı ve açlığın bu döneme ait olabileceği düşünülmüşse de, bu yönde kesin bir delil yoktur. Bu dokümanlar IV. Tuthaliya'nın son yılları veya II. Şuppiluliuma dönemiyle de ilişkilendirilebilir.",
+      "char_count": 482,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1392,
+      "end_char": 1456,
+      "content": "== Ayrıca bakınız == Hitit kralları listesi Hitit İmparatorluğu",
+      "char_count": 63,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1456,
+      "end_char": 1722,
+      "content": "== Kaynakça == Brandau, B. & Schickert, H. (2003) Hititler, Ankara: Arkadaş Yayınları. (İngilizce) Bryce, T. (2005) Kingdom of the Hittites, 2nd Edition, Oxford: Oxford University Press (Almanca) Klengel, H. (1999) Geschichte des hethitischen Reichs, Brill, Leiden.",
+      "char_count": 265,
+      "token_estimate": 66
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hatti halkının III. Arnuvanda'ya karşı günah işlediği ifadesi, neyin bir işareti olarak yorumlanmaktadır?",
+        "answer": "Ülkede ayaklanmaların olduğu ve iç düzendeki bozukluğun.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      },
+      {
+        "question": "III. Arnuvanda'nın kısa hükümdarlık dönemi ne zaman gerçekleşti ve bu dönemi hangi önemli olaylar karakterize etti?",
+        "answer": "III. Arnuvanda'nın hükümdarlığı MÖ 13. yüzyıl sonlarında, yaklaşık MÖ 1209-1207 yılları arasında gerçekleşmiştir. Bu kısa dönem, babası IV. Tuthaliya'nın ölümüyle tahta çıkması, tahmini olarak bir veya iki yıldan fazla sürmemesi, bir oğlu olmadığı için yerine kardeşi II. Şuppiluliuma'nın geçmesi ve Hatti halkının kendisine karşı 'günah işlediği' ifadesiyle yorumlanan iç düzensizlikler ve ayaklanmalarla karakterize edilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

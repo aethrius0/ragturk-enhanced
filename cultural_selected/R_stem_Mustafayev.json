@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "rstemmustafayev_e628dd2c",
+    "title": "Rüstem Mustafayev",
+    "url": "https://tr.wikipedia.org/wiki/R%C3%BCstem_Mustafayev",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:20.691717",
+    "content": "Rüstem Memmed oğlu Mustafayev (12 (25) Şubat 1910, Bakü – 19 Temmuz 1940, Bakü) — Azerbaycan ressamı, Azerbaycan'da realist tiyatro-dekorasyon sanatının kurucularından biri. == Hayatı == Rüstem Mustafayev, 25 Şubat 1910 tarihinde Bakü'de doğdu. 1926 yılında Azerbaycan Yüksek Güzel Sanatlar Okulu'ndan mezun oldu. 1928 yılında Moskova'da staj yaptıktan sonra Bakü'ye döndü ve bir süre Bakü Özgür Eleştiri-Tanıtım Tiyatrosu'nda dekoratif ressam olarak çalıştı. Aynı zamanda Azerbaycan Opera ve Bale Tiyatrosu ile Azerbaycan Devlet Dram Tiyatrosu için de sahne dekorasyonları hazırladı. 1937'den 1940 yılına kadar Azerbaycan anıtlarını koruyan Merkezi Devlet İdaresi'nin müdürü olarak görev yaptı. Rüstem Mustafayev, 19 Temmuz 1940'ta Bakü'de vefat etti ve Birinci Fahri Hiyaban'da defnedildi. == Kariyeri == Rüstem Mustafayev, 1933–1938 yılları arasında Azerbaycan Devlet Dram Tiyatrosu'nda baş ressam olarak çalışmıştır. Mirza Celil, Cefer Cabbarlı, Hüseyin Cavid, Abdurrahim Bey Hakverdiyev'in eserlerine, \"Şah İsmail\" (Müslüm Magomayev), \"Leyli ve Mecnun\" (Üzeyir Hacıbeyov), \"Köroğlu\" (Üzeyir Hacıbeyov), \"Aşık Garip\" (Zülfügar Hacıbeyov) operalarına, \"Kuğu Gölü\" (Pyotr Çaykovski) balesine dekoratif çalışmalar yapmıştır. Ayrıca afiş ve kitapların sanatsal tasarımı üzerinde de çalışmıştır. Samed Vurgun, Süleyman Rüstem, Resul Rıza gibi şairlerin o dönemde yayımlanan kitaplarının sanatsal tasarımı, ressamın ilk grafik çalışmaları arasında sayılmaktadır. 1939'da yayımlanan Azerbaycan âşıklarının şiirlerinden oluşan \"Aşığın Sesi\" kitabının sanatsal tasarımı da Rüstem Mustafayev'e aittir. 1940 yılında Nizami Müzesi'nin sanatsal dekorasyonunun tasarımcılarından biri olmuştur. == Ödülleri == \"Şeref Nişanı\" madalyası — 27 Ocak 1936 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 223,
+      "char_count": 1753,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.064730",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 174,
+      "content": "Rüstem Memmed oğlu Mustafayev (12 (25) Şubat 1910, Bakü – 19 Temmuz 1940, Bakü) — Azerbaycan ressamı, Azerbaycan'da realist tiyatro-dekorasyon sanatının kurucularından biri.",
+      "char_count": 173,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 174,
+      "end_char": 792,
+      "content": "== Hayatı == Rüstem Mustafayev, 25 Şubat 1910 tarihinde Bakü'de doğdu. 1926 yılında Azerbaycan Yüksek Güzel Sanatlar Okulu'ndan mezun oldu. 1928 yılında Moskova'da staj yaptıktan sonra Bakü'ye döndü ve bir süre Bakü Özgür Eleştiri-Tanıtım Tiyatrosu'nda dekoratif ressam olarak çalıştı. Aynı zamanda Azerbaycan Opera ve Bale Tiyatrosu ile Azerbaycan Devlet Dram Tiyatrosu için de sahne dekorasyonları hazırladı. 1937'den 1940 yılına kadar Azerbaycan anıtlarını koruyan Merkezi Devlet İdaresi'nin müdürü olarak görev yaptı. Rüstem Mustafayev, 19 Temmuz 1940'ta Bakü'de vefat etti ve Birinci Fahri Hiyaban'da defnedildi.",
+      "char_count": 617,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 792,
+      "end_char": 1684,
+      "content": "== Kariyeri == Rüstem Mustafayev, 1933–1938 yılları arasında Azerbaycan Devlet Dram Tiyatrosu'nda baş ressam olarak çalışmıştır. Mirza Celil, Cefer Cabbarlı, Hüseyin Cavid, Abdurrahim Bey Hakverdiyev'in eserlerine, \"Şah İsmail\" (Müslüm Magomayev), \"Leyli ve Mecnun\" (Üzeyir Hacıbeyov), \"Köroğlu\" (Üzeyir Hacıbeyov), \"Aşık Garip\" (Zülfügar Hacıbeyov) operalarına, \"Kuğu Gölü\" (Pyotr Çaykovski) balesine dekoratif çalışmalar yapmıştır. Ayrıca afiş ve kitapların sanatsal tasarımı üzerinde de çalışmıştır. Samed Vurgun, Süleyman Rüstem, Resul Rıza gibi şairlerin o dönemde yayımlanan kitaplarının sanatsal tasarımı, ressamın ilk grafik çalışmaları arasında sayılmaktadır. 1939'da yayımlanan Azerbaycan âşıklarının şiirlerinden oluşan \"Aşığın Sesi\" kitabının sanatsal tasarımı da Rüstem Mustafayev'e aittir. 1940 yılında Nizami Müzesi'nin sanatsal dekorasyonunun tasarımcılarından biri olmuştur.",
+      "char_count": 891,
+      "token_estimate": 222
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1684,
+      "end_char": 1739,
+      "content": "== Ödülleri == \"Şeref Nişanı\" madalyası — 27 Ocak 1936",
+      "char_count": 54,
+      "token_estimate": 13
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rüstem Mustafayev, Azerbaycan Devlet Dram Tiyatrosu'nda hangi yıllar arasında baş ressam olarak çalışmıştır?",
+        "answer": "1933–1938 yılları arasında.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rüstem Mustafayev'in Azerbaycan'da realist tiyatro-dekorasyon sanatının kurucularından biri olarak kabul edilmesine hangi kariyer gelişmeleri ve eserleri katkıda bulunmuştur?",
+        "answer": "Rüstem Mustafayev, kariyerine Bakü Özgür Eleştiri-Tanıtım Tiyatrosu'nda dekoratif ressam olarak başlayarak ve Azerbaycan Opera ve Bale Tiyatrosu ile Azerbaycan Devlet Dram Tiyatrosu için sahne dekorasyonları hazırlayarak tiyatro-dekorasyon sanatına ilk katkılarını sunmuştur. Daha sonra 1933-1938 yılları arasında Azerbaycan Devlet Dram Tiyatrosu'nda baş ressam olarak çalışmış ve Mirza Celil, Cefer Cabbarlı gibi yazarların eserlerine, çeşitli operalara ve 'Kuğu Gölü' balesine dekoratif çalışmalar yaparak bu alandaki ustalığını ve öncülüğünü göstermiştir. Tüm bu faaliyetleri onu realist tiyatro-dekorasyon sanatının kurucularından biri yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

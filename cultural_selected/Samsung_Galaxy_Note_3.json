@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "samsunggalaxynote3_ae1a1caa",
+    "title": "Samsung Galaxy Note 3",
+    "url": "https://tr.wikipedia.org/wiki/Samsung_Galaxy_Note_3",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:23.849900",
+    "content": "Samsung Galaxy Note 3, Samsung şirketi tarafından tasarlanan, geliştirilen ve pazarlanan, Samsung Galaxy Note serisi'ne ait Android işletim sistemli bir phablettir. Samsung Galaxy Note 2'nin halefi, Samsung Galaxy Note 4'ün selefidir. Samsung Galaxy Note 3 Neo türü de sunuldu. Galaxy Note 3, 25 Eylül 2013 tarihinde Berlin'de düzenlenen UnPacked etkinliğinde tanıtılmıştır. Siyah, Klasik Beyaz ve Uçuk Pembe renk seçenekleri mevcuttur. Galaxy Note 3, selefinden daha ince, daha düz ve daha keskin hatlara sahip bir tasarımı vardır. Daha hafif, daha güçlü ve ekran boyutu daha büyüktür. Buna karşılık Note 2'de bulunan FM Radyo Note 3'te yer almamaktadır. Modelin ilk sistemi Android Jelly Bean (Android 4.3) olmuştur. Sonradan Android KitKat (Android 4.4.4) ve Android Lollipop (Android 5.0) güncellemesi aldı. == Tasarım == Galaxy Note 3'te ilk defa deri görünümlü plastik arka kapak kullanılmıştır. Selefinden daha ince, düz ve keskin hatlara sahip bir tasarımı vardır. Daha hafif, donanımsal anlamda daha güçlü ve ekran boyutu daha büyüktür. == Donanım == Galaxy Note 3: Exynos 5 Octa 5420 Dört-Çekirdekli 1.9 GHz Cortex-A15 & Dört-Çekirdekli 1.3 GHz Cortex-A7 (N9000) işlemci, 3GB RAM Mali-T628 MP6 GPU Ekran = 5.7 inç Corning Gorilla Glass 3 SUPER AMOLED (1080x1920 Çözünürlük (386ppi) ekran, 13 megapiksel kamera (4K Video Kayıt) 2 Megapiksel (1080p Video Kayıt) 16/32/64GB Dahili hafıza (64GB'a kadar MicroSD), Wi-Fi (802.11 a/ac/b/g/n 150 Mbps Çift Taşıyıcılı) ve NFC, 3200mAh batarya özelliklerine sahiptir. == Kaynakça == == Dış bağlantılar == Sitesi 15 Eylül 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1623,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.415033",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 812,
+      "content": "Samsung Galaxy Note 3, Samsung şirketi tarafından tasarlanan, geliştirilen ve pazarlanan, Samsung Galaxy Note serisi'ne ait Android işletim sistemli bir phablettir. Samsung Galaxy Note 2'nin halefi, Samsung Galaxy Note 4'ün selefidir. Samsung Galaxy Note 3 Neo türü de sunuldu. Galaxy Note 3, 25 Eylül 2013 tarihinde Berlin'de düzenlenen UnPacked etkinliğinde tanıtılmıştır. Siyah, Klasik Beyaz ve Uçuk Pembe renk seçenekleri mevcuttur. Galaxy Note 3, selefinden daha ince, daha düz ve daha keskin hatlara sahip bir tasarımı vardır. Daha hafif, daha güçlü ve ekran boyutu daha büyüktür. Buna karşılık Note 2'de bulunan FM Radyo Note 3'te yer almamaktadır. Modelin ilk sistemi Android Jelly Bean (Android 4.3) olmuştur. Sonradan Android KitKat (Android 4.4.4) ve Android Lollipop (Android 5.0) güncellemesi aldı.",
+      "char_count": 811,
+      "token_estimate": 202
+    },
+    {
+      "id": "c0001",
+      "section": "== Tasarım ==",
+      "heading_path": "== Tasarım ==",
+      "start_char": 812,
+      "end_char": 1046,
+      "content": "== Tasarım == Galaxy Note 3'te ilk defa deri görünümlü plastik arka kapak kullanılmıştır. Selefinden daha ince, düz ve keskin hatlara sahip bir tasarımı vardır. Daha hafif, donanımsal anlamda daha güçlü ve ekran boyutu daha büyüktür.",
+      "char_count": 233,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0002",
+      "section": "== Donanım ==",
+      "heading_path": "== Donanım ==",
+      "start_char": 1046,
+      "end_char": 1214,
+      "content": "== Donanım == Galaxy Note 3: Exynos 5 Octa 5420 Dört-Çekirdekli 1.9 GHz Cortex-A15 & Dört-Çekirdekli 1.3 GHz Cortex-A7 (N9000) işlemci, 3GB RAM Mali-T628 MP6 GPU Ekran",
+      "char_count": 167,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0003",
+      "section": "= 5.7 inç Corning Gorilla Glass 3 SUPER AMOLED (1080x1920 Çözünürlük (386ppi) ekran, 13 megapiksel kamera (4K Video Kayıt) 2 Megapiksel (1080p Video Kayıt) 16/32/64GB Dahili hafıza (64GB'a kadar MicroSD), Wi-Fi (802.11 a/ac/b/g/n 150 Mbps Çift Taşıyıcılı) ve NFC, 3200mAh batarya özelliklerine sahiptir. = =",
+      "heading_path": "= 5.7 inç Corning Gorilla Glass 3 SUPER AMOLED (1080x1920 Çözünürlük (386ppi) ekran, 13 megapiksel kamera (4K Video Kayıt) 2 Megapiksel (1080p Video Kayıt) 16/32/64GB Dahili hafıza (64GB'a kadar MicroSD), Wi-Fi (802.11 a/ac/b/g/n 150 Mbps Çift Taşıyıcılı) ve NFC, 3200mAh batarya özelliklerine sahiptir. = =",
+      "start_char": 1214,
+      "end_char": 1530,
+      "content": "= 5.7 inç Corning Gorilla Glass 3 SUPER AMOLED (1080x1920 Çözünürlük (386ppi) ekran, 13 megapiksel kamera (4K Video Kayıt) 2 Megapiksel (1080p Video Kayıt) 16/32/64GB Dahili hafıza (64GB'a kadar MicroSD), Wi-Fi (802.11 a/ac/b/g/n 150 Mbps Çift Taşıyıcılı) ve NFC, 3200mAh batarya özelliklerine sahiptir. == Kaynakça",
+      "char_count": 315,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0004",
+      "section": "== == Dış bağlantılar ==",
+      "heading_path": "== == Dış bağlantılar ==",
+      "start_char": 1530,
+      "end_char": 1623,
+      "content": "== == Dış bağlantılar == Sitesi 15 Eylül 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 93,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Samsung Galaxy Note 3 ne zaman ve nerede tanıtılmıştır?",
+        "answer": "Galaxy Note 3, 25 Eylül 2013 tarihinde Berlin'de düzenlenen UnPacked etkinliğinde tanıtılmıştır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Samsung Galaxy Note 3'ün tasarımında önceki modeline göre ne gibi belirgin farklılıklar ve yenilikler bulunmaktadır?",
+        "answer": "Samsung Galaxy Note 3, selefinden daha ince, daha düz ve daha keskin hatlara sahip bir tasarıma sahiptir. Ayrıca daha hafif, donanımsal olarak daha güçlü ve ekran boyutu daha büyüktür. Tasarımında ilk defa deri görünümlü plastik arka kapak kullanılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

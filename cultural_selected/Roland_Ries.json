@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "rolandries_bc354203",
+    "title": "Roland Ries",
+    "url": "https://tr.wikipedia.org/wiki/Roland_Ries",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:18.724343",
+    "content": "Roland Ries (d. 11 Ocak 1945, Niederlauterbach, Bas-Rhin), Fransız siyasetçi. Strazburg eski belediye başkanı. == Hayatı == Bütün eğitim ve öğrenim hayatı Strazburg'da geçmiş, Strasbourg Üniversitesi'nden mezun olmuştur. Modern Edebiyat eğitimi görmüş ve liselerde öğretmenlik yapmıştır. (Halefi ve selefi olan Fabienne Keller de öğrencisi olmuştur) 1983 yılı itibarıyla Strazburg Belediye Meclisi üyesidir. 1989-1997 yıllarında belediye başkanı Catherine Trautmann'ın 1. başkan yardımcısı olmuş ve sorumluluk alanı ulaştırma ve şehircilik olmuştur. 1997 yılında Catherine Trautmann kültür bakanı olunca yerine 1997-2000 yılları arasında belediye başkanı olmuştur. 2001-2008 yıllarında belediye meclisinde muhalefeti temsil etmiştir. 2008-2020 yılları arasında Sosyalist Parti'den Strazburg belediye başkanı olarak görev yapmıştır. Sosyalist Parti'de sosyal demokrat kanat içerisinde yer almış ve merkez çizgiye sempatisiyle bilinmektedir. 2004 yılında Bas-Rhin senatörü seçilmiş ancak 1 ay sonra Bas-Rhin'deki seçimler, seçim prosedüründeki problem nedeniyle, iptal edilmiş, Şubat 2005-Eylül 2014 tarihleri arasında senatörlük yapmış, 2014 seçimlerinde belediye başkanlığına odaklanmak amacıyla tekrar aday olmamıştır. === Görevleri === Siyasi Görevleri 1971 - 1977: Birleşik Sosyalist Parti (PSU) militanı 1977 - 2019: Sosyalist Parti (PS) üyesi Sosyalist Parti Bas-Rhin Teşkilatı Eski Birinci Sekreteri Avrupa ve Ulusal Görevleri 1995 - 2002: Avrupa Bölgesel ve Yerel Güçler Kongresi asıl üyesi 2001 - 2003: Ekonomik ve Sosyal Konsey üyesi Yerel yönetimler Mart 1983 - Temmuz 2020: Strazburg Belediye Meclisi üyesi Mart 1989 - 27 Haziran 2007: Strazburg Belediye Başkanı 1. yardımcısı 1996 - Mart 2004: Alsace bölgesel konseyi üyesi 27 Haziran 1997 - 25 Haziran 2000: Strazburg Belediye Başkanı 1997 - 2000: Strazburg Kent Topluluğu Başkanı 22 Mart 2008 - 4 Temmuz 2020: Strazburg Belediye Başkanı 2008 - 31 Aralık 2014: Strazburg Kent Topluluğu Başkanı 1. yardımcısı 1 Ocak 2015 - Temmuz 2020: Strazbourg Eurométropole Başkanı 1. yardımcısı 'Senato 1 Ekim 2004 - 26 Kasım 2004 / 20 Şubat 2005 - 30 Eylül 2014: Bas-Rhin senatörü == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 297,
+      "char_count": 2146,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.529557",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 111,
+      "content": "Roland Ries (d. 11 Ocak 1945, Niederlauterbach, Bas-Rhin), Fransız siyasetçi. Strazburg eski belediye başkanı.",
+      "char_count": 110,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 111,
+      "end_char": 1111,
+      "content": "== Hayatı == Bütün eğitim ve öğrenim hayatı Strazburg'da geçmiş, Strasbourg Üniversitesi'nden mezun olmuştur. Modern Edebiyat eğitimi görmüş ve liselerde öğretmenlik yapmıştır. (Halefi ve selefi olan Fabienne Keller de öğrencisi olmuştur) 1983 yılı itibarıyla Strazburg Belediye Meclisi üyesidir. 1989-1997 yıllarında belediye başkanı Catherine Trautmann'ın 1. başkan yardımcısı olmuş ve sorumluluk alanı ulaştırma ve şehircilik olmuştur. 1997 yılında Catherine Trautmann kültür bakanı olunca yerine 1997-2000 yılları arasında belediye başkanı olmuştur. 2001-2008 yıllarında belediye meclisinde muhalefeti temsil etmiştir. 2008-2020 yılları arasında Sosyalist Parti'den Strazburg belediye başkanı olarak görev yapmıştır. Sosyalist Parti'de sosyal demokrat kanat içerisinde yer almış ve merkez çizgiye sempatisiyle bilinmektedir. 2004 yılında Bas-Rhin senatörü seçilmiş ancak 1 ay sonra Bas-Rhin'deki seçimler, seçim prosedüründeki problem nedeniyle, iptal edilmiş, Şubat 2005-Eylül 2014 tarihleri ara",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 911,
+      "end_char": 1219,
+      "content": " sempatisiyle bilinmektedir. 2004 yılında Bas-Rhin senatörü seçilmiş ancak 1 ay sonra Bas-Rhin'deki seçimler, seçim prosedüründeki problem nedeniyle, iptal edilmiş, Şubat 2005-Eylül 2014 tarihleri arasında senatörlük yapmış, 2014 seçimlerinde belediye başkanlığına odaklanmak amacıyla tekrar aday olmamıştır.",
+      "char_count": 308,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0003",
+      "section": "=== Görevleri ===",
+      "heading_path": "=== Görevleri ===",
+      "start_char": 1220,
+      "end_char": 2132,
+      "content": "=== Görevleri === Siyasi Görevleri 1971 - 1977: Birleşik Sosyalist Parti (PSU) militanı 1977 - 2019: Sosyalist Parti (PS) üyesi Sosyalist Parti Bas-Rhin Teşkilatı Eski Birinci Sekreteri Avrupa ve Ulusal Görevleri 1995 - 2002: Avrupa Bölgesel ve Yerel Güçler Kongresi asıl üyesi 2001 - 2003: Ekonomik ve Sosyal Konsey üyesi Yerel yönetimler Mart 1983 - Temmuz 2020: Strazburg Belediye Meclisi üyesi Mart 1989 - 27 Haziran 2007: Strazburg Belediye Başkanı 1. yardımcısı 1996 - Mart 2004: Alsace bölgesel konseyi üyesi 27 Haziran 1997 - 25 Haziran 2000: Strazburg Belediye Başkanı 1997 - 2000: Strazburg Kent Topluluğu Başkanı 22 Mart 2008 - 4 Temmuz 2020: Strazburg Belediye Başkanı 2008 - 31 Aralık 2014: Strazburg Kent Topluluğu Başkanı 1. yardımcısı 1 Ocak 2015 - Temmuz 2020: Strazbourg Eurométropole Başkanı 1. yardımcısı 'Senato 1 Ekim 2004 - 26 Kasım 2004 / 20 Şubat 2005 - 30 Eylül 2014: Bas-Rhin senatörü",
+      "char_count": 911,
+      "token_estimate": 227
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Strasburg Belediye Meclisi üyeliğine hangi yıl itibarıyla başlamıştır?",
+        "answer": "1983",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Strazburg eski belediye başkanı Roland Ries'in hangi dönemlerde bu görevi üstlendiği ve hangi siyasi partiyle ilişkili olduğu metinde nasıl belirtilmiştir?",
+        "answer": "Roland Ries, 1997-2000 yılları arasında ve 2008-2020 yılları arasında Strazburg belediye başkanı olarak görev yapmıştır. Sosyalist Parti'de sosyal demokrat kanat içerisinde yer almış ve merkez çizgiye sempatisiyle bilinmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

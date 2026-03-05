@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "yalnzvecesur_210da3f4",
+    "title": "Yalnız ve Cesur",
+    "url": "https://tr.wikipedia.org/wiki/Yaln%C4%B1z_ve_Cesur",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:35.818333",
+    "content": "Yalnız ve Cesur 1962 ABD yapımı dramatik western filmdir. Özgün adı Lonely Are the Brave dir. Edward Abbey'in 1956 yılında yayımladığı \"Brave Cowboy\" (Cesur Kovboy) adlı romanından senaryosunu Dalton Trumbo'nun uyarlayıp yazdığı filmi David Miller yönetmiş, önemli rollerinde Kirk Douglas, Gena Rowlands, Walter Matthau ve George Kennedy oynamışlardır. Filmin müziği Jerry Goldsmith'e aittir. == Özet == Film geçici işçi, sığır çobanı John W. \"Jack\" Burns (Kirk Douglas) 'ün hikâyesini anlatır.\"Asi kovboyların sonuncusu\" olan Burns, modern yaşantıya ayak uydurmayı redederken eski kovboy gelenek ve alışkanlıklarını inatla sürdürmeye çalışmaktadır.Ama dünya artık eski zaman kovboylarının dünyası değildir.Sevdiği bir arkadaşının (Paul Bondi - Michael Kane) yasadışı göçmenlere yardım ettiği gerekçesi ile hapiste olduğunu öğrendiğinde onu kurtarmak için kendi de hapse girmeyi göze alacak kadar cesurdur.Ama farklılaşan dünyada atla kaçan bir kovboyun peşindeki telsizli helikopterlerli takipçileri karşısında ne kadar şansı olabilir. == Oyuncu kadrosu == == Film hakkında notlar == Filmin dış sahneleri Albuquerque, New Mexico 'daki the Sandia dağlarında ve Tijeras kanyonunda çekilmiş. Jack Burns (Kirk Douglas) 'ün barda kavga ettiği tek kollu aktör Bill Raisch,filmde Burns'e kolunu II. Dünya Savaşı 'nda Okinawa 'da kaybettiğini söyler.Gerçek hayatta kolunu sahiden o savaşta kaybetmiştir.Bu aktör birkaç yıl sonra yer alacağı \"Kaçak\" (The Fugitive) adlı TV dizisinde tek kollu \"Fred Johnson\" rolü ile daha iyi tanınacaktır. == Kaynakça == == Dış bağlantılar == IMDb'de Yalnız ve Cesur allmovie.com'da Lonely Are the Brave",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 225,
+      "char_count": 1629,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.987203",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 393,
+      "content": "Yalnız ve Cesur 1962 ABD yapımı dramatik western filmdir. Özgün adı Lonely Are the Brave dir. Edward Abbey'in 1956 yılında yayımladığı \"Brave Cowboy\" (Cesur Kovboy) adlı romanından senaryosunu Dalton Trumbo'nun uyarlayıp yazdığı filmi David Miller yönetmiş, önemli rollerinde Kirk Douglas, Gena Rowlands, Walter Matthau ve George Kennedy oynamışlardır. Filmin müziği Jerry Goldsmith'e aittir.",
+      "char_count": 392,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0001",
+      "section": "== Özet ==",
+      "heading_path": "== Özet ==",
+      "start_char": 393,
+      "end_char": 1037,
+      "content": "== Özet == Film geçici işçi, sığır çobanı John W. \"Jack\" Burns (Kirk Douglas) 'ün hikâyesini anlatır.\"Asi kovboyların sonuncusu\" olan Burns, modern yaşantıya ayak uydurmayı redederken eski kovboy gelenek ve alışkanlıklarını inatla sürdürmeye çalışmaktadır.Ama dünya artık eski zaman kovboylarının dünyası değildir.Sevdiği bir arkadaşının (Paul Bondi - Michael Kane) yasadışı göçmenlere yardım ettiği gerekçesi ile hapiste olduğunu öğrendiğinde onu kurtarmak için kendi de hapse girmeyi göze alacak kadar cesurdur.Ama farklılaşan dünyada atla kaçan bir kovboyun peşindeki telsizli helikopterlerli takipçileri karşısında ne kadar şansı olabilir.",
+      "char_count": 643,
+      "token_estimate": 160
+    },
+    {
+      "id": "c0002",
+      "section": "== Film hakkında notlar ==",
+      "heading_path": "== Film hakkında notlar ==",
+      "start_char": 1058,
+      "end_char": 1532,
+      "content": "== Film hakkında notlar == Filmin dış sahneleri Albuquerque, New Mexico 'daki the Sandia dağlarında ve Tijeras kanyonunda çekilmiş. Jack Burns (Kirk Douglas) 'ün barda kavga ettiği tek kollu aktör Bill Raisch,filmde Burns'e kolunu II. Dünya Savaşı 'nda Okinawa 'da kaybettiğini söyler.Gerçek hayatta kolunu sahiden o savaşta kaybetmiştir.Bu aktör birkaç yıl sonra yer alacağı \"Kaçak\" (The Fugitive) adlı TV dizisinde tek kollu \"Fred Johnson\" rolü ile daha iyi tanınacaktır.",
+      "char_count": 473,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1547,
+      "end_char": 1629,
+      "content": "== Dış bağlantılar == IMDb'de Yalnız ve Cesur allmovie.com'da Lonely Are the Brave",
+      "char_count": 82,
+      "token_estimate": 20
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Filmde John W. 'Jack' Burns'ü canlandıran aktör kimdir?",
+        "answer": "Kirk Douglas",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "1962 yapımı dramatik western filmi \"Yalnız ve Cesur\", başkarakter John W. \"Jack\" Burns'ün modern çağa ayak uydurmayı reddederek eski kovboy geleneklerine bağlı kalması üzerinden hangi temayı işlemektedir?",
+        "answer": "Film, John W. \"Jack\" Burns'ün modern yaşantıya uyum sağlamayı reddetmesi ve eski kovboy geleneklerini inatla sürdürmeye çalışması üzerinden, değişen dünyada ayakta kalmaya çalışan \"asi kovboyların sonuncusu\"nun mücadelesini ve geleneksel kovboy yaşam tarzının modernleşen dünyaya karşı direnişini dramatik bir tema olarak işlemektedir. Bu durum, atla kaçan bir kovboyun telsizli helikopterlerle takip edilmesi gibi unsurlarla vurgulanmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

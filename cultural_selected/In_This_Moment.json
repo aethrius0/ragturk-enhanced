@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "inthismoment_6b1f72de",
+    "title": "In This Moment",
+    "url": "https://tr.wikipedia.org/wiki/In_This_Moment",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:58.135960",
+    "content": "In This Moment, Amerikalı bir heavy metal grubu. 2005 yılında Maria Brink ve gitarist Chris Howorth tarafından Dying Star adıyla kuruldu. Bu sırada Jeff Fabb, grubun davul çalan ismiydi. Daha sonra grubun adı In This Moment olarak değişti ve gitarist Blake Bunzel ile bas gitarist Josh Newell dahil oldu. 2005 yılı sonlarında, basçı Newell gruptan ayrıldı; daha sonra bu göreve sırasıyla Pascual Romero ve Jesse Landry geldi. Landry, 2009'da yerini Kyle Konkiel'e teslim etti, bir yıl sonra ise Konkiel'in yerini Travis Johnson aldı. Jeff Fabb ve Blake Bunzel, gruptan 2011 yılında ayrıldı, yerlerini Tom Hane ve Randy Weitzel doldurdu. In This Moment'ın ilk stüdyo albümü Beautiful Tragedy, 2007 yılında yayımlandı. Bir sonraki yıl ise grubun ikinci stüdyo albümü The Dream satışa sunuldu ve ABD Billboard 200 listesinde 73 numaraya kadar ilerledi. Üçüncü stüdyo albümü A Star-Crossed Wasteland 2010 yılında, dördüncü stüdyo albümü Blood 2012 yılında satışa sunuldu. İlki Billboard 200'da 40, ikincisi 15 numaraya kadar yükseldi. Blood, grubun Birleşik Krallık'ta listeye giren ilk albümü oldu. Tüm bunların dışında In This Moment, birçok turne ve festivale katıldı. 2007–2008'de Ozzfest, 2009'da Warped Tour ve Download Festival, 2010'da Mayhem Festival, 2011'de Music as a Weapon V tour, 2012'de Uproar Festival etkinliklerinde yer aldılar. == Üyeler == == Diskografi == === Albümleri === ==== Stüdyo albümleri ==== === Single'ları === === Video klipleri === == Kaynakça == == Dış bağlantılar == Resmî site 6 Ağustos 2013 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 237,
+      "char_count": 1572,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.792957",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "In This Moment, Amerikalı bir heavy metal grubu. 2005 yılında Maria Brink ve gitarist Chris Howorth tarafından Dying Star adıyla kuruldu. Bu sırada Jeff Fabb, grubun davul çalan ismiydi. Daha sonra grubun adı In This Moment olarak değişti ve gitarist Blake Bunzel ile bas gitarist Josh Newell dahil oldu. 2005 yılı sonlarında, basçı Newell gruptan ayrıldı; daha sonra bu göreve sırasıyla Pascual Romero ve Jesse Landry geldi. Landry, 2009'da yerini Kyle Konkiel'e teslim etti, bir yıl sonra ise Konkiel'in yerini Travis Johnson aldı. Jeff Fabb ve Blake Bunzel, gruptan 2011 yılında ayrıldı, yerlerini Tom Hane ve Randy Weitzel doldurdu. In This Moment'ın ilk stüdyo albümü Beautiful Tragedy, 2007 yılında yayımlandı. Bir sonraki yıl ise grubun ikinci stüdyo albümü The Dream satışa sunuldu ve ABD Billboard 200 listesinde 73 numaraya kadar ilerledi. Üçüncü stüdyo albümü A Star-Crossed Wasteland 2010 yılında, dördüncü stüdyo albümü Blood 2012 yılında satışa sunuldu. İlki Billboard 200'da 40, ikinci",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1343,
+      "content": "lboard 200 listesinde 73 numaraya kadar ilerledi. Üçüncü stüdyo albümü A Star-Crossed Wasteland 2010 yılında, dördüncü stüdyo albümü Blood 2012 yılında satışa sunuldu. İlki Billboard 200'da 40, ikincisi 15 numaraya kadar yükseldi. Blood, grubun Birleşik Krallık'ta listeye giren ilk albümü oldu. Tüm bunların dışında In This Moment, birçok turne ve festivale katıldı. 2007–2008'de Ozzfest, 2009'da Warped Tour ve Download Festival, 2010'da Mayhem Festival, 2011'de Music as a Weapon V tour, 2012'de Uproar Festival etkinliklerinde yer aldılar.",
+      "char_count": 543,
+      "token_estimate": 135
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1477,
+      "end_char": 1572,
+      "content": "== Dış bağlantılar == Resmî site 6 Ağustos 2013 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 95,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "In This Moment grubu hangi yıl kuruldu ve ilk adı neydi?",
+        "answer": "In This Moment grubu 2005 yılında kuruldu ve ilk adı Dying Star idi.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "In This Moment grubunun stüdyo albümlerinin ABD Billboard 200 listesindeki performansı ilk albümden dördüncü albüme kadar nasıl bir değişim göstermiştir ve bu dönemde albüm başarılarına eşlik eden önemli faaliyetler nelerdi?",
+        "answer": "In This Moment'ın albüm performansı zamanla önemli bir yükseliş göstermiştir: 2008'deki ikinci albümleri The Dream, Billboard 200 listesinde 73 numaraya kadar ilerlerken, 2010'daki A Star-Crossed Wasteland 40 numaraya, 2012'deki Blood ise 15 numaraya yükselmiştir. Blood aynı zamanda grubun Birleşik Krallık'ta listeye giren ilk albümü olmuştur. Bu dönemde grup, 2007-2008'de Ozzfest, 2009'da Warped Tour ve Download Festival, 2010'da Mayhem Festival, 2011'de Music as a Weapon V turnesi ve 2012'de Uproar Festival gibi birçok önemli turne ve festivale katılmış, ayrıca 2011 yılında davulcu Jeff Fabb ve gitarist Blake Bunzel gibi önemli üye değişiklikleri yaşamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

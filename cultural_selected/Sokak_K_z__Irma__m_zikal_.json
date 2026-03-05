@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "sokakkzirmamzikal_e6ab89b2",
+    "title": "Sokak Kızı Irma (müzikal)",
+    "url": "https://tr.wikipedia.org/wiki/Sokak_K%C4%B1z%C4%B1_Irma_%28m%C3%BCzikal%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:01.313554",
+    "content": "Sokak Kızı İrma, ilk defa 1956'da Paris'te sahnelenmiş olan müziği Marguerite Monnot'e, sözleri Alexandre Breffort'a ait iki perdelik bir Fransız müzikalidir. Deneyimsiz bir polis olan Nestor ile fahişelik yaparak geçinen Irma’nın öyküsünü içerir. Alexandre Breffort tarafından yazılan ve Le Canard enchaîné adlı ünlü hiciv gazetesinde yayınlanan bir kısa öyküye dayanır. 1956'da Paris'te sahnelendikten sonra birçok dile çevrildi ve sahnelendi. Türkçeye Nisa Serezli tarafından çevrildi; 1960-1961 sezonunda Haldun Dormen oyunu İstanbul'da sahneye koydu. Dormen'in yönettiği ve Gülriz Sururi'nin İrma'yı canlandırdığı bu yapım, Türkiye'de sahnelenen ilk batılı müzikal olarak bilinir. == Yapımlar == Müzikal ilk defa 12 Kasım 1956'da Paris'te 325 kişilik Gramont Tiyatrosu'nda sahnelenip çok büyük başarı kazanmış; ardından İtalyancaya çevrilip oyuncu Vittario Gassman tarafından Roma'da, 1958'de Londra'nın West End Tiyatrosu'nda sahnelenmiştir. Eser, 1960'ta Broadway'de sahneye kondu ve Nisa Serezli tarafından Türkçeye çevrilip Dormen Tiyatrosu'nun prodüksiyonu olarak İstanbul'daki Atlas Sineması'nda sahnelendi. 1960-1961 sezonunda Haldun Dormen'in sahneye koyduğu Sokak Kızı İrma, Türkiye'de sahnelenen ilk batılı müzikal olarak bilinir. Yapımda başrolleri Gülriz Sururi (İrma), Metin Serezli (Nestor) ve Altan Erkekli paylaşmıştı. Müzikal büyük başarı kazandı; Sururi bu rolle İlhan İskender Armağanı'na değer görüldü. Yedi yıl sonra Gülriz Sururi-Engin Cezzar Tiyatrosu Sokak Kızı İrma'yı Haldun Dormen yönetiminde Fatih'teki Renk Sineması'nda oynadı, İrma'yı Gülriz Sururi oynadı. Eser o yıl Paris'te de yeniden sahneye kondu, yönetmen ve başrol oyuncusu ilk seferinde olduğu gibi Colette Renard ve Rene Dupuis idi. Haldun Dormen 1992'de eseri Türkiye'de üçüncü kez sahneye koydu, İrma rolünü yine Gülriz Sururi canlandırdı. Haldun Dormen, oyunu Tarlabaşı'nda geçen bir aşk öyküsü olarak İstanbul'a uyarlayarak 2013 yılında genç bir ekip tarafından yeniden sahneye koymuştur. == Uyarlamalar == Müzikal, 1963 yılında sinemaya uyarlandı. Başrollerde Jack Lemmon ve Shirley MacLaine yer aldığı filmin yönetmeni Billy Wilder idi. Müzikleri yapan Marguerite Mannet, filmde müziklerini kullandırma­mış, filmin müziklerini Andre Previn yapmıştır. == Ayrıca bakınız == Sokak Kızı Irma, 1963 yapımı film == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 304,
+      "char_count": 2320,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.177499",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 686,
+      "content": "Sokak Kızı İrma, ilk defa 1956'da Paris'te sahnelenmiş olan müziği Marguerite Monnot'e, sözleri Alexandre Breffort'a ait iki perdelik bir Fransız müzikalidir. Deneyimsiz bir polis olan Nestor ile fahişelik yaparak geçinen Irma’nın öyküsünü içerir. Alexandre Breffort tarafından yazılan ve Le Canard enchaîné adlı ünlü hiciv gazetesinde yayınlanan bir kısa öyküye dayanır. 1956'da Paris'te sahnelendikten sonra birçok dile çevrildi ve sahnelendi. Türkçeye Nisa Serezli tarafından çevrildi; 1960-1961 sezonunda Haldun Dormen oyunu İstanbul'da sahneye koydu. Dormen'in yönettiği ve Gülriz Sururi'nin İrma'yı canlandırdığı bu yapım, Türkiye'de sahnelenen ilk batılı müzikal olarak bilinir.",
+      "char_count": 685,
+      "token_estimate": 171
+    },
+    {
+      "id": "c0001",
+      "section": "== Yapımlar ==",
+      "heading_path": "== Yapımlar ==",
+      "start_char": 686,
+      "end_char": 1686,
+      "content": "== Yapımlar == Müzikal ilk defa 12 Kasım 1956'da Paris'te 325 kişilik Gramont Tiyatrosu'nda sahnelenip çok büyük başarı kazanmış; ardından İtalyancaya çevrilip oyuncu Vittario Gassman tarafından Roma'da, 1958'de Londra'nın West End Tiyatrosu'nda sahnelenmiştir. Eser, 1960'ta Broadway'de sahneye kondu ve Nisa Serezli tarafından Türkçeye çevrilip Dormen Tiyatrosu'nun prodüksiyonu olarak İstanbul'daki Atlas Sineması'nda sahnelendi. 1960-1961 sezonunda Haldun Dormen'in sahneye koyduğu Sokak Kızı İrma, Türkiye'de sahnelenen ilk batılı müzikal olarak bilinir. Yapımda başrolleri Gülriz Sururi (İrma), Metin Serezli (Nestor) ve Altan Erkekli paylaşmıştı. Müzikal büyük başarı kazandı; Sururi bu rolle İlhan İskender Armağanı'na değer görüldü. Yedi yıl sonra Gülriz Sururi-Engin Cezzar Tiyatrosu Sokak Kızı İrma'yı Haldun Dormen yönetiminde Fatih'teki Renk Sineması'nda oynadı, İrma'yı Gülriz Sururi oynadı. Eser o yıl Paris'te de yeniden sahneye kondu, yönetmen ve başrol oyuncusu ilk seferinde olduğu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yapımlar ==",
+      "heading_path": "== Yapımlar ==",
+      "start_char": 1486,
+      "end_char": 1986,
+      "content": "Kızı İrma'yı Haldun Dormen yönetiminde Fatih'teki Renk Sineması'nda oynadı, İrma'yı Gülriz Sururi oynadı. Eser o yıl Paris'te de yeniden sahneye kondu, yönetmen ve başrol oyuncusu ilk seferinde olduğu gibi Colette Renard ve Rene Dupuis idi. Haldun Dormen 1992'de eseri Türkiye'de üçüncü kez sahneye koydu, İrma rolünü yine Gülriz Sururi canlandırdı. Haldun Dormen, oyunu Tarlabaşı'nda geçen bir aşk öyküsü olarak İstanbul'a uyarlayarak 2013 yılında genç bir ekip tarafından yeniden sahneye koymuştur.",
+      "char_count": 500,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0003",
+      "section": "== Uyarlamalar ==",
+      "heading_path": "== Uyarlamalar ==",
+      "start_char": 1987,
+      "end_char": 2251,
+      "content": "== Uyarlamalar == Müzikal, 1963 yılında sinemaya uyarlandı. Başrollerde Jack Lemmon ve Shirley MacLaine yer aldığı filmin yönetmeni Billy Wilder idi. Müzikleri yapan Marguerite Mannet, filmde müziklerini kullandırma­mış, filmin müziklerini Andre Previn yapmıştır.",
+      "char_count": 263,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2251,
+      "end_char": 2306,
+      "content": "== Ayrıca bakınız == Sokak Kızı Irma, 1963 yapımı film",
+      "char_count": 54,
+      "token_estimate": 13
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sokak Kızı İrma müzikali, Türkiye'de ilk kez nerede sahnelenmiştir?",
+        "answer": "İstanbul'daki Atlas Sineması'nda.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sokak Kızı İrma müzikali, Paris'teki ilk sahnelenmesinin ardından uluslararası alanda nasıl bir yayılım göstermiş ve Türkiye'deki yapımıyla hangi önemli unvanı kazanmıştır?",
+        "answer": "Müzikal, 1956'da Paris'te sahnelendikten sonra İtalyancaya çevrilip Roma'da, 1958'de Londra'nın West End Tiyatrosu'nda ve 1960'ta Broadway'de sahneye konulmuştur. Türkiye'de ise Nisa Serezli tarafından Türkçeye çevrilip 1960-1961 sezonunda Haldun Dormen tarafından İstanbul'da sahnelenen bu yapım, Türkiye'de sahnelenen ilk batılı müzikal olarak bilinir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "jamestissot_ab70b302",
+    "title": "James Tissot",
+    "url": "https://tr.wikipedia.org/wiki/James_Tissot",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:27.088491",
+    "content": "James Jacques Joseph Tissot (15 Ekim 1836 - 8 Ağustos 1902), kariyerinin çoğunu İngiltere'de geçiren bir Fransız ressam. == Çocukluğu ve gençliği == Tissot 15 Ekim 1836 tarihinde bir liman kenti olan Nantes, Fransa'da İtalyan asıllı bir ailenin çocuğu olarak dünyaya geldi. Babası, Marcel Théodore Tissot, başarılı bir perdelik kumaş tüccarı iken annesi Marie Durand şapkacıydı. Tissot da annesi gibi çok genç yaşta Katolik dinine geçti. Tissot'un gençken yaptığı liman ve gemi resimlerini Nantes'den ilham alınarak yaptığı sanılmaktadır. 17 yaşında iken ressam olmayı tercih etti. Babasının bu karara destek vermemesine rağmen, sonunda babası ressam olmasına izin verdi. == Kariyeri == 1856 ya da 1857 yılında, sanat eğitimini sürdürmek için Paris'e gitti. Yaklaşık olarak 1863 yılında, Tissot aniden Orta Çağ tarzı portreleri ile modern yaşamın tasviri'ni resimlerinde göstermeye başlamıştır. Bu dönemde, Tissot'a birden yüksek eleştirel beğeniler geldi ve çok konuşuldu. Kendini hızla başarılı bir sanatçı olmaya adadı. Alfred Stevens ve Claude Monet gibi o da Japon nesneleri ve kıyafetlerinden etkilenmiş, bunları bazı resimlerinde belirtmiştir. Fransa-Prusya Savaşı'nda savaştı. Bilinmeyen bir nedenden dolayı 1871 yılında Londra için Paris'i bıraktı. Resimleri Vanity Fair dergisinin yanı sıra Kraliyet Akademisi'nde sergilendi. == Ölümü ve Mirası == Tissot, 8 Ağustos 1902'de Fransa'nın Doubs kentinde, 1888'de babasından miras kalan eski bir manastır olan Château de Buillon'da yaşarken öldü. Mezarı, şato arazisi içinde bulunan şapeldedir. Edebiyatta ve slaytlarda çizimlerinin yaygın kullanımı, ölümünden sonra The Life of Christ ve The Old Testament'in \"kesin İncil görüntüleri\" haline gelmesiyle devam etti. 1906'da film yapımcısı Alice Guy-Blaché, Gaumont'ta bugüne kadarki en büyük prodüksiyonu olan La vie du Christ için Tissot İncilini referans materyali olarak kullandı ve yaklaşık üç yüz figüranla yirmi beş bölüm yarattı. Tissot'un resimleri, Kutsal Hazine Avcıları filmindeki Ahit Sandığı tasarımı ve Masumiyet Çağı filmindeki yaşam tarzı temaları gibi çağdaş filmler için bir temel oluşturdu. 20. yüzyılın ilk yarısında modaya uygun kadın portrelerine olan ilgi yeniden alevlendi ve yaklaşık elli yıl sonra bunlar rekor fiyatlara ulaştı. == Galeri == == Dış bağlantılar == 209 works by James Tissot at www.JamesTissot.org 15 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. James Tissot: The Life Of Christ. Exhibition at Brooklyn Museum 2009 5 Eylül 2009 tarihinde Wayback Machine sitesinde arşivlendi. Commentary on Tissot's etching of Kathleen Newton 18 Haziran 2012 tarihinde Wayback Machine sitesinde arşivlendi. Commentary on a portrait of Mrs. Newton Biblical art by James Tissot 31 Ocak 2011 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 394,
+      "char_count": 2794,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.987361",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 121,
+      "content": "James Jacques Joseph Tissot (15 Ekim 1836 - 8 Ağustos 1902), kariyerinin çoğunu İngiltere'de geçiren bir Fransız ressam.",
+      "char_count": 120,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0001",
+      "section": "== Çocukluğu ve gençliği ==",
+      "heading_path": "== Çocukluğu ve gençliği ==",
+      "start_char": 121,
+      "end_char": 672,
+      "content": "== Çocukluğu ve gençliği == Tissot 15 Ekim 1836 tarihinde bir liman kenti olan Nantes, Fransa'da İtalyan asıllı bir ailenin çocuğu olarak dünyaya geldi. Babası, Marcel Théodore Tissot, başarılı bir perdelik kumaş tüccarı iken annesi Marie Durand şapkacıydı. Tissot da annesi gibi çok genç yaşta Katolik dinine geçti. Tissot'un gençken yaptığı liman ve gemi resimlerini Nantes'den ilham alınarak yaptığı sanılmaktadır. 17 yaşında iken ressam olmayı tercih etti. Babasının bu karara destek vermemesine rağmen, sonunda babası ressam olmasına izin verdi.",
+      "char_count": 550,
+      "token_estimate": 137
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 672,
+      "end_char": 1336,
+      "content": "== Kariyeri == 1856 ya da 1857 yılında, sanat eğitimini sürdürmek için Paris'e gitti. Yaklaşık olarak 1863 yılında, Tissot aniden Orta Çağ tarzı portreleri ile modern yaşamın tasviri'ni resimlerinde göstermeye başlamıştır. Bu dönemde, Tissot'a birden yüksek eleştirel beğeniler geldi ve çok konuşuldu. Kendini hızla başarılı bir sanatçı olmaya adadı. Alfred Stevens ve Claude Monet gibi o da Japon nesneleri ve kıyafetlerinden etkilenmiş, bunları bazı resimlerinde belirtmiştir. Fransa-Prusya Savaşı'nda savaştı. Bilinmeyen bir nedenden dolayı 1871 yılında Londra için Paris'i bıraktı. Resimleri Vanity Fair dergisinin yanı sıra Kraliyet Akademisi'nde sergilendi.",
+      "char_count": 663,
+      "token_estimate": 165
+    },
+    {
+      "id": "c0003",
+      "section": "== Ölümü ve Mirası ==",
+      "heading_path": "== Ölümü ve Mirası ==",
+      "start_char": 1336,
+      "end_char": 2260,
+      "content": "== Ölümü ve Mirası == Tissot, 8 Ağustos 1902'de Fransa'nın Doubs kentinde, 1888'de babasından miras kalan eski bir manastır olan Château de Buillon'da yaşarken öldü. Mezarı, şato arazisi içinde bulunan şapeldedir. Edebiyatta ve slaytlarda çizimlerinin yaygın kullanımı, ölümünden sonra The Life of Christ ve The Old Testament'in \"kesin İncil görüntüleri\" haline gelmesiyle devam etti. 1906'da film yapımcısı Alice Guy-Blaché, Gaumont'ta bugüne kadarki en büyük prodüksiyonu olan La vie du Christ için Tissot İncilini referans materyali olarak kullandı ve yaklaşık üç yüz figüranla yirmi beş bölüm yarattı. Tissot'un resimleri, Kutsal Hazine Avcıları filmindeki Ahit Sandığı tasarımı ve Masumiyet Çağı filmindeki yaşam tarzı temaları gibi çağdaş filmler için bir temel oluşturdu. 20. yüzyılın ilk yarısında modaya uygun kadın portrelerine olan ilgi yeniden alevlendi ve yaklaşık elli yıl sonra bunlar rekor fiyatlara ulaştı.",
+      "char_count": 923,
+      "token_estimate": 230
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2273,
+      "end_char": 2780,
+      "content": "== Dış bağlantılar == 209 works by James Tissot at www.JamesTissot.org 15 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. James Tissot: The Life Of Christ. Exhibition at Brooklyn Museum 2009 5 Eylül 2009 tarihinde Wayback Machine sitesinde arşivlendi. Commentary on Tissot's etching of Kathleen Newton 18 Haziran 2012 tarihinde Wayback Machine sitesinde arşivlendi. Commentary on a portrait of Mrs. Newton Biblical art by James Tissot 31 Ocak 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 506,
+      "token_estimate": 126
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tissot ne zaman ve nerede vefat etti?",
+        "answer": "Tissot, 8 Ağustos 1902'de Fransa'nın Doubs kentinde, Château de Buillon'da vefat etti.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "James Jacques Joseph Tissot'nun Fransa'daki çocukluğundan başlayarak kariyerinin büyük bir kısmını İngiltere'de geçirmesine yol açan coğrafi ve mesleki yolculuğunu açıklayınız.",
+        "answer": "James Jacques Joseph Tissot 1836'da Fransa'nın Nantes kentinde doğdu ve 17 yaşında ressam olmaya karar verdi. Sanat eğitimine devam etmek için 1856 veya 1857'de Paris'e taşındı ve burada 1863 civarında Orta Çağ tarzı portreler ve modern yaşam tasvirleriyle eleştirel beğeni topladı. Fransa-Prusya Savaşı'nda savaştıktan sonra, bilinmeyen bir nedenle 1871'de Paris'i bırakarak Londra'ya gitti ve kariyerinin çoğunu İngiltere'de geçirdi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "zamandasrayankz_d5e36a31",
+    "title": "Zamanda Sıçrayan Kız",
+    "url": "https://tr.wikipedia.org/wiki/Zamanda_S%C4%B1%C3%A7rayan_K%C4%B1z",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:28.596524",
+    "content": "Zamanda Sıçrayan Kız (Japonca: 時をかける少女 Toki o Kakeru Shōjo), yönetmenliğini Mamoru Hosoda'nın yaptığı ve senaryosu Satoko Okudera tarafından yazılan 2006 yapımı bir Japon bilimkurgu romantik anime filmidir. Film, Yasutaka Tsutsui'nin aynı adlı romanına dayanmakta olup farklı bir senaryo ve karakterlere sahiptir ve Madhouse tarafından hazırlanmıştır. Film, 15 Temmuz 2006 tarihinde sinemalarda gösterime girdi. Film, çok sayıda olumlu eleştiri almış olup Japon Akademi Yılın Animasyonu Ödülü de dahil olmak üzere birçok ödül kazandı. == Konusu == Tokyo'daki Kuranose Lisesi'nde Makoto Konno, Chiaki Mamiya ve Kousuke Tsuda aynı sınıfta okuyan çok yakın üç arkadaştır. Üç arkadaş sürekli beraber takılırlar ve zamanlarını çoğunlukla beyzbol oynayarak geçirirler. Bir gün bu üç arkadaştan Makoto, kimya laboratuvarında garip bir nesnenin üzerine düşer. Makoto, bu nesne sayesinde zamanda sıçramak gibi bir güce sahip olur. Makoto, bu yeni keşfettiği gücü sayesinde geçmişini değiştirerek geleceği belirlemeye çalışır ancak zamanla oynamanın sandığından daha tehlikeli olduğunu ve zamanın kimse için beklemediğini fark eder. == Kaynakça == == Konuyla ilgili yayınlar == Laeno, Dominic (6 Mayıs 2007). \"The Girl Who Leapt Through Time\". T.H.E.M. Anime Reviews. 17 Mayıs 2007 tarihinde kaynağından arşivlendi. Erişim tarihi: 25 Nisan 2019. == Dış bağlantılar == Kadokawa Shoten's official TokiKake website 19 Nisan 2017 tarihinde Wayback Machine sitesinde arşivlendi. (Japonca) Kadokawa Pictures official TokiKake website 31 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. (Japonca) IMDb'de Zamanda Sıçrayan Kız Entry 18 Mayıs 2019 tarihinde Wayback Machine sitesinde arşivlendi. in the Science Fiction Encyclopedia",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 235,
+      "char_count": 1721,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.312870",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 535,
+      "content": "Zamanda Sıçrayan Kız (Japonca: 時をかける少女 Toki o Kakeru Shōjo), yönetmenliğini Mamoru Hosoda'nın yaptığı ve senaryosu Satoko Okudera tarafından yazılan 2006 yapımı bir Japon bilimkurgu romantik anime filmidir. Film, Yasutaka Tsutsui'nin aynı adlı romanına dayanmakta olup farklı bir senaryo ve karakterlere sahiptir ve Madhouse tarafından hazırlanmıştır. Film, 15 Temmuz 2006 tarihinde sinemalarda gösterime girdi. Film, çok sayıda olumlu eleştiri almış olup Japon Akademi Yılın Animasyonu Ödülü de dahil olmak üzere birçok ödül kazandı.",
+      "char_count": 534,
+      "token_estimate": 133
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 535,
+      "end_char": 1123,
+      "content": "== Konusu == Tokyo'daki Kuranose Lisesi'nde Makoto Konno, Chiaki Mamiya ve Kousuke Tsuda aynı sınıfta okuyan çok yakın üç arkadaştır. Üç arkadaş sürekli beraber takılırlar ve zamanlarını çoğunlukla beyzbol oynayarak geçirirler. Bir gün bu üç arkadaştan Makoto, kimya laboratuvarında garip bir nesnenin üzerine düşer. Makoto, bu nesne sayesinde zamanda sıçramak gibi bir güce sahip olur. Makoto, bu yeni keşfettiği gücü sayesinde geçmişini değiştirerek geleceği belirlemeye çalışır ancak zamanla oynamanın sandığından daha tehlikeli olduğunu ve zamanın kimse için beklemediğini fark eder.",
+      "char_count": 587,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0002",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 1138,
+      "end_char": 1336,
+      "content": "== Konuyla ilgili yayınlar == Laeno, Dominic (6 Mayıs 2007). \"The Girl Who Leapt Through Time\". T.H.E.M. Anime Reviews. 17 Mayıs 2007 tarihinde kaynağından arşivlendi. Erişim tarihi: 25 Nisan 2019.",
+      "char_count": 197,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1336,
+      "end_char": 1721,
+      "content": "== Dış bağlantılar == Kadokawa Shoten's official TokiKake website 19 Nisan 2017 tarihinde Wayback Machine sitesinde arşivlendi. (Japonca) Kadokawa Pictures official TokiKake website 31 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. (Japonca) IMDb'de Zamanda Sıçrayan Kız Entry 18 Mayıs 2019 tarihinde Wayback Machine sitesinde arşivlendi. in the Science Fiction Encyclopedia",
+      "char_count": 385,
+      "token_estimate": 96
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Makoto Konno, Chiaki Mamiya ve Kousuke Tsuda nerede okumaktadır?",
+        "answer": "Tokyo'daki Kuranose Lisesi'nde",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "2006 yapımı bilimkurgu romantik anime filmi \"Zamanda Sıçrayan Kız\", konusu aracılığıyla zaman manipülasyonu hakkında hangi ana temayı veya çatışmayı keşfetmektedir?",
+        "answer": "Film, Makoto Konno'nun kimya laboratuvarında garip bir nesneye düşerek zamanda sıçrama gücü kazanmasıyla başlar. Ana tema ve çatışma, Makoto'nun geçmişi değiştirerek geleceği belirlemeye çalışırken zamanla oynamanın beklenenden daha tehlikeli olduğunu ve zamanın kimse için beklemediğini fark etmesiyle ortaya çıkan zaman manipülasyonunun tehlikeleridir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

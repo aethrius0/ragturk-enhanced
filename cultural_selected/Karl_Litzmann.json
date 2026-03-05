@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "karllitzmann_47dc0691",
+    "title": "Karl Litzmann",
+    "url": "https://tr.wikipedia.org/wiki/Karl_Litzmann",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:21.296304",
+    "content": "Karl Litzmann (22 Ocak 1850-28 Mayıs 1936), bir Alman I. Dünya Savaşı generali ve Nazi Partisi üyesi bir politikacıydı. == I. Dünya Savaşı == En iyi Łódź Muharebesi'nde elde ettiği zaferle tanınır, bu muharebenin ardından \"Brzeziny Aslanı\" lakabını kazanmıştır. 29 Kasım 1914'te askerî cesaretinden ötürü Pour le Mérite ile taltif edilmiştir. 18 Ağustos 1915'te ise aynı madalyanın Meşe Yaprakları eklentisiyle taltif edilmiştir. == İki Savaş Arası Dönem == Üye olmadan önce zaten bir SA mensubu olan Litzmann, 1929'da Nazi Partisi üyesi oldu. Kasım 1932'de Reichstag'a seçildi fakat 15 Aralık 1932'de en yaşlı üyesi olduğu ve aynı zamanda \"Evin Babası\" veya Alterspräsident olarak da bilindiği Prusya Eyalet Meclisi'ne karşı sorumlulukları olduğu gerekçesiyle istifa etti. 5 Mart 1933'te yeniden Reichstag'a seçilmiştir fakat 2 Nisan 1933'te Eyalet Meclisindeki makamından ötürü yeniden istifa etmiştir. 12 Kasım 1933 Seçimleri'nde yeniden seçildikten sonra 1936'daki ölümüne kadar Reichstag'da hizmet vermiştir. 26 Ağustos 1933'te Prusya Başbakanı Hermann Göring, kendisini yakın bir zamanda yeniden kurulmuş olan ve ölümüne kadar hizmet vereceği Prusya Devlet Konseyine atadı. Luftwaffe kurmay başkanı, Generalleutnant Walther Wever, Litzmann'ın Berlin'deki cenazesine katılmak üzere bindiği Dresden'dan havalanan uçağın kalkıştan kısa bir süre sonra kaza yapması sonucu 3 Temmuz 1936'da hayatını kaybetmiştir. == Mirası == 1939'da Almanların Polonya'yı İşgali'nin ardından Karl Litzmann'ın hatırasına Łódź ve Brzeziny şehirlerinin isimleri değiştirilmiştir. 11 Nisan 1940'ta Łódź şehrinin ismi Alman işgalci kuvvetler tarafından resmen \"Litzmannstadt\" olarak değiştirildi. Brzeziny ise daha sonra \"Löwenstadt\" (Aslanşehir) olacaktı. II. Dünya Savaşı'ndan sonra şehirlerin orijinal Lehçe kökenli isimleri şehirlere geri verildi. Passau'da bir sokağa adı verilmiştir. Karl Litzmann, fahrî bir Neuruppin vatandaşıydı. Fahrî vatandaşlık 2007 yılında geri alınmıştır. Kendisi, 1941-1944 yılları arasındaki Alman işgali sırasında Reichskommissariat Ostland'da Estonya Genel Komiserliği yapan Karl-Siegmund Litzmann'ın (1893-1945) babası ve bir Luftwaffe subayı olan Walter Lehweß-Litzmann'ın ise (1907-1986) dedesiydi. == Kaynakça == == Dış Bağlantılar == Wikimedia Commons'ta Karl Litzmann ile ilgili çoklu ortam belgeleri bulunur",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 305,
+      "char_count": 2329,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.097807",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 120,
+      "content": "Karl Litzmann (22 Ocak 1850-28 Mayıs 1936), bir Alman I. Dünya Savaşı generali ve Nazi Partisi üyesi bir politikacıydı.",
+      "char_count": 119,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0001",
+      "section": "== I. Dünya Savaşı ==",
+      "heading_path": "== I. Dünya Savaşı ==",
+      "start_char": 120,
+      "end_char": 430,
+      "content": "== I. Dünya Savaşı == En iyi Łódź Muharebesi'nde elde ettiği zaferle tanınır, bu muharebenin ardından \"Brzeziny Aslanı\" lakabını kazanmıştır. 29 Kasım 1914'te askerî cesaretinden ötürü Pour le Mérite ile taltif edilmiştir. 18 Ağustos 1915'te ise aynı madalyanın Meşe Yaprakları eklentisiyle taltif edilmiştir.",
+      "char_count": 309,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0002",
+      "section": "== İki Savaş Arası Dönem ==",
+      "heading_path": "== İki Savaş Arası Dönem ==",
+      "start_char": 430,
+      "end_char": 1414,
+      "content": "== İki Savaş Arası Dönem == Üye olmadan önce zaten bir SA mensubu olan Litzmann, 1929'da Nazi Partisi üyesi oldu. Kasım 1932'de Reichstag'a seçildi fakat 15 Aralık 1932'de en yaşlı üyesi olduğu ve aynı zamanda \"Evin Babası\" veya Alterspräsident olarak da bilindiği Prusya Eyalet Meclisi'ne karşı sorumlulukları olduğu gerekçesiyle istifa etti. 5 Mart 1933'te yeniden Reichstag'a seçilmiştir fakat 2 Nisan 1933'te Eyalet Meclisindeki makamından ötürü yeniden istifa etmiştir. 12 Kasım 1933 Seçimleri'nde yeniden seçildikten sonra 1936'daki ölümüne kadar Reichstag'da hizmet vermiştir. 26 Ağustos 1933'te Prusya Başbakanı Hermann Göring, kendisini yakın bir zamanda yeniden kurulmuş olan ve ölümüne kadar hizmet vereceği Prusya Devlet Konseyine atadı. Luftwaffe kurmay başkanı, Generalleutnant Walther Wever, Litzmann'ın Berlin'deki cenazesine katılmak üzere bindiği Dresden'dan havalanan uçağın kalkıştan kısa bir süre sonra kaza yapması sonucu 3 Temmuz 1936'da hayatını kaybetmiştir.",
+      "char_count": 983,
+      "token_estimate": 245
+    },
+    {
+      "id": "c0003",
+      "section": "== Mirası ==",
+      "heading_path": "== Mirası ==",
+      "start_char": 1414,
+      "end_char": 2217,
+      "content": "== Mirası == 1939'da Almanların Polonya'yı İşgali'nin ardından Karl Litzmann'ın hatırasına Łódź ve Brzeziny şehirlerinin isimleri değiştirilmiştir. 11 Nisan 1940'ta Łódź şehrinin ismi Alman işgalci kuvvetler tarafından resmen \"Litzmannstadt\" olarak değiştirildi. Brzeziny ise daha sonra \"Löwenstadt\" (Aslanşehir) olacaktı. II. Dünya Savaşı'ndan sonra şehirlerin orijinal Lehçe kökenli isimleri şehirlere geri verildi. Passau'da bir sokağa adı verilmiştir. Karl Litzmann, fahrî bir Neuruppin vatandaşıydı. Fahrî vatandaşlık 2007 yılında geri alınmıştır. Kendisi, 1941-1944 yılları arasındaki Alman işgali sırasında Reichskommissariat Ostland'da Estonya Genel Komiserliği yapan Karl-Siegmund Litzmann'ın (1893-1945) babası ve bir Luftwaffe subayı olan Walter Lehweß-Litzmann'ın ise (1907-1986) dedesiydi.",
+      "char_count": 802,
+      "token_estimate": 200
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış Bağlantılar ==",
+      "heading_path": "== Dış Bağlantılar ==",
+      "start_char": 2232,
+      "end_char": 2329,
+      "content": "== Dış Bağlantılar == Wikimedia Commons'ta Karl Litzmann ile ilgili çoklu ortam belgeleri bulunur",
+      "char_count": 97,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Litzmann, Prusya Başbakanı Hermann Göring tarafından Prusya Devlet Konseyi'ne hangi tarihte atandı?",
+        "answer": "26 Ağustos 1933",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Karl Litzmann'ın I. Dünya Savaşı'ndaki askeri başarılarından İki Savaş Arası Dönem'deki Nazi Partisi üyeliğine kadar uzanan kamuoyu önündeki rollerinde nasıl bir gelişim yaşanmıştır?",
+        "answer": "Karl Litzmann, I. Dünya Savaşı sırasında Łódź Muharebesi'ndeki zaferiyle tanınan bir general olarak öne çıkmış ve \"Brzeziny Aslanı\" lakabını kazanmıştır. Savaş sonrası dönemde ise 1929'da Nazi Partisi'ne katılarak siyasi bir figür haline gelmiş, Kasım 1932'den itibaren Reichstag'a seçilmiş ve 1933'te Prusya Devlet Konseyi'ne atanarak 1936'daki ölümüne kadar bu görevlerde hizmet vermiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

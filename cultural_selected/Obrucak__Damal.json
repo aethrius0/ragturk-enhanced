@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "obrucakdamal_80e40eb8",
+    "title": "Obrucak, Damal",
+    "url": "https://tr.wikipedia.org/wiki/Obrucak%2C_Damal",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:51.259267",
+    "content": "Obrucak, Ardahan ilinin Damal ilçesine bağlı bir köydü. Günümüzde Damal kasabasının mahallelerinden biridir. == Tarihçe == Obrucak'ın eski adı Oçkora veya Çikora'dır. Nitekim 1595 tarihli Osmanlı mufassal defterinde Oçkora (اوچقورە) ve 1928 tarihli Osmanlıca köy listesinde Çikora (چیقورا) olarak geçer. Oçkora veya Çikora köyü, Orta Çağ'da Gürcistan'ı oluşturan bölgelerden biri olan Eruşeti'de yer alır. Nitekim Osmanlılar bu bölgeyi ve köyü 16. yüzyılın ikinci yarısında Gürcülerden ele geçirmiştir. Eruşeti bölgesi, erken dönem Gürcü Hristiyanlığının merkezlerinden biriydi. Oçkora veya Çikora köyü, 1595 tarihli ve Defter-i Mufassal-i Vilayet-i Gürcistan adlı Osmanlı tahrir defterine göre Ardahan-i Büzürg livasının Meşe nahiyesine bağlıydı. Köyün nüfusu 7 Hristiyan haneden oluluyordu. Köyde buğday ve arpa tarımı ile arıcılık yapılıyor, koyun ve domuz besleniyordu. İki adet su değirmeni bulunuyordu. Oçkora veya Çikora köyü, 1877-1878 Osmanlı-Rus Savaşı'nın ardından imzalanan Berlşn Antlaşması uyarınca, savaş tazminatının bir parçası olarak Osmanlı Devleti tarafından Rusya'ya bırakıldı. Rus idaresinin 1886 nüfus tespitinde Çikora (Чикора) şeklinde kaydettiği bu yerleşim, Ardahan sancağının Ardahan kazasına bağlı Tamal nahiyesinin dokuz köyünden biriydi. Nüfusu, 96'sı erkek ve 96'sı kadın olmak üzere, 28 hanede yaşayan 192 kişiden oluşuyordu. Bir hane hariç nüfusun tamamı Türkmenlerden oluşuyordu. Bir hanede ise 4 Kürt yaşıyordu. Çikora köyü, 1928 tarihli Osmanlıca köy listesinde Kars vilayetinin Poshov kazasının Damal nahiyesine bağlıydı. 1940 genel nüfus sayımında \"Çikora\" şeklinde yazılmış olan köy aynı idari konuma sahipti ve nüfusu 537 kişiden oluşuyordu. Oçkora veya Çikora Türkçe olmadığı için köyün adı 1959 yılında 7267 sayılı kanunla Obrucak olarak değiştirilmiştir. 1965 genel nüfus sayımında Obrucak köyünün nüfusu 803 kişiden oluşuyor ve bu nüfus içinde 140 kişi okuma yazma biliyordu. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 260,
+      "char_count": 1935,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.906594",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 109,
+      "content": "Obrucak, Ardahan ilinin Damal ilçesine bağlı bir köydü. Günümüzde Damal kasabasının mahallelerinden biridir.",
+      "char_count": 108,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 109,
+      "end_char": 1109,
+      "content": "== Tarihçe == Obrucak'ın eski adı Oçkora veya Çikora'dır. Nitekim 1595 tarihli Osmanlı mufassal defterinde Oçkora (اوچقورە) ve 1928 tarihli Osmanlıca köy listesinde Çikora (چیقورا) olarak geçer. Oçkora veya Çikora köyü, Orta Çağ'da Gürcistan'ı oluşturan bölgelerden biri olan Eruşeti'de yer alır. Nitekim Osmanlılar bu bölgeyi ve köyü 16. yüzyılın ikinci yarısında Gürcülerden ele geçirmiştir. Eruşeti bölgesi, erken dönem Gürcü Hristiyanlığının merkezlerinden biriydi. Oçkora veya Çikora köyü, 1595 tarihli ve Defter-i Mufassal-i Vilayet-i Gürcistan adlı Osmanlı tahrir defterine göre Ardahan-i Büzürg livasının Meşe nahiyesine bağlıydı. Köyün nüfusu 7 Hristiyan haneden oluluyordu. Köyde buğday ve arpa tarımı ile arıcılık yapılıyor, koyun ve domuz besleniyordu. İki adet su değirmeni bulunuyordu. Oçkora veya Çikora köyü, 1877-1878 Osmanlı-Rus Savaşı'nın ardından imzalanan Berlşn Antlaşması uyarınca, savaş tazminatının bir parçası olarak Osmanlı Devleti tarafından Rusya'ya bırakıldı. Rus idares",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 909,
+      "end_char": 1909,
+      "content": "Oçkora veya Çikora köyü, 1877-1878 Osmanlı-Rus Savaşı'nın ardından imzalanan Berlşn Antlaşması uyarınca, savaş tazminatının bir parçası olarak Osmanlı Devleti tarafından Rusya'ya bırakıldı. Rus idaresinin 1886 nüfus tespitinde Çikora (Чикора) şeklinde kaydettiği bu yerleşim, Ardahan sancağının Ardahan kazasına bağlı Tamal nahiyesinin dokuz köyünden biriydi. Nüfusu, 96'sı erkek ve 96'sı kadın olmak üzere, 28 hanede yaşayan 192 kişiden oluşuyordu. Bir hane hariç nüfusun tamamı Türkmenlerden oluşuyordu. Bir hanede ise 4 Kürt yaşıyordu. Çikora köyü, 1928 tarihli Osmanlıca köy listesinde Kars vilayetinin Poshov kazasının Damal nahiyesine bağlıydı. 1940 genel nüfus sayımında \"Çikora\" şeklinde yazılmış olan köy aynı idari konuma sahipti ve nüfusu 537 kişiden oluşuyordu. Oçkora veya Çikora Türkçe olmadığı için köyün adı 1959 yılında 7267 sayılı kanunla Obrucak olarak değiştirilmiştir. 1965 genel nüfus sayımında Obrucak köyünün nüfusu 803 kişiden oluşuyor ve bu nüfus içinde 140 kişi okuma yazma",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1709,
+      "end_char": 1920,
+      "content": "olmadığı için köyün adı 1959 yılında 7267 sayılı kanunla Obrucak olarak değiştirilmiştir. 1965 genel nüfus sayımında Obrucak köyünün nüfusu 803 kişiden oluşuyor ve bu nüfus içinde 140 kişi okuma yazma biliyordu.",
+      "char_count": 211,
+      "token_estimate": 52
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Obrucak'ın eski adları nelerdi?",
+        "answer": "Obrucak'ın eski adları Oçkora veya Çikora'dır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Obrucak'ın adı ve idari yapısı tarih boyunca nasıl bir değişim göstermiştir?",
+        "answer": "Köyün eski adı Oçkora veya Çikora olup, 1959 yılında Obrucak olarak değiştirilmiştir. İdari olarak ise, 16. yüzyılda Osmanlılar döneminde Eruşeti bölgesinde ve Ardahan-i Büzürg livasının Meşe nahiyesine bağlıyken, 1877-1878 Osmanlı-Rus Savaşı sonrası Rus idaresinde Ardahan sancağının Ardahan kazasına bağlı Tamal nahiyesinde yer almıştır. Türkiye Cumhuriyeti döneminde 1928 ve 1940'ta Kars vilayetinin Poshov kazasının Damal nahiyesine bağlı olmuş, günümüzde ise Damal kasabasının mahallelerinden biri haline gelmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

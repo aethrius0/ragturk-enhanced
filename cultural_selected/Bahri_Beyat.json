@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "bahribeyat_851a5527",
+    "title": "Bahri Beyat",
+    "url": "https://tr.wikipedia.org/wiki/Bahri_Beyat",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:23.728761",
+    "content": "Bahri Beyat (1934, Bursa - 30 Haziran 2008, İstanbul), Türk tiyatro ve sinema oyuncusudur. == Hayatı == Ankara Atatürk Lisesi'nde okurken tiyatro ile tanıştı. Bahri Beyat, Nejat Uygur ile birlikte oynadığı tiyatro eserleri ile tanınır. Oynadığı tiyatro oyunları \"Minti Minti\", \"Hanedan\" ve \"Aman Özal Duymasın\"daki replikleriyle seyircinin gönlünde taht kurdu. Yaşamının son yıllarında televizyon ve sinemaya ağırlık verdi. 2004 Antalya Altın Portakal Film Festivali'nde Uğur Yücel'in yönettiği Yazı Tura filmindeki rolüyle En İyi Yardımcı Erkek Oyuncu Ödülü'nü kazandı. Bir süre akciğer kanseri tedavisi gören sanatçı 30 Haziran 2008'de öldü. Öldüğünde 74 yaşındaydı. Mezarı İstanbul Üsküdar'da Karacaahmet Mezarlığı'ndadır. Beyat, kendisi gibi oyuncu Sevim Çalışgir ile evliydi. == Filmografisi == 1964: Aşka Susayanlar 1971: Anneler ve Kızları 1971: Cafer Bey İyi, Fakir ve Kibar 1974: Cafer'in Nargilesi 1986: Ahmet Hamdi Tanpınar 2003: Unutma Beni 2003: Vizontele Tuuba 2004: Yazı Tura 2005: Aşka Sürgün 2005: Beyaz Gelincik 2006: Beynelmilel 2006: Hokkabaz 2006: Kırık Kanatlar 2006: Unutulmayanlar 2007: Affedilmeyen == Ödüller == 2004: 41. Altın Portakal Film Festivali - En İyi Yardımcı Erkek Oyuncu - Yazı Tura == Kaynakça == == Dış bağlantılar == Beyazperde'de Bahri Beyat 28 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de Bahri Beyat 28 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi. Sinemalar.com'da Bahri Beyat 28 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi. SinemaTürk'te Bahri Beyat 6 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi. TSA'de Bahri Beyat 28 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 235,
+      "char_count": 1688,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.874254",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 91,
+      "content": "Bahri Beyat (1934, Bursa - 30 Haziran 2008, İstanbul), Türk tiyatro ve sinema oyuncusudur.",
+      "char_count": 90,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 91,
+      "end_char": 781,
+      "content": "== Hayatı == Ankara Atatürk Lisesi'nde okurken tiyatro ile tanıştı. Bahri Beyat, Nejat Uygur ile birlikte oynadığı tiyatro eserleri ile tanınır. Oynadığı tiyatro oyunları \"Minti Minti\", \"Hanedan\" ve \"Aman Özal Duymasın\"daki replikleriyle seyircinin gönlünde taht kurdu. Yaşamının son yıllarında televizyon ve sinemaya ağırlık verdi. 2004 Antalya Altın Portakal Film Festivali'nde Uğur Yücel'in yönettiği Yazı Tura filmindeki rolüyle En İyi Yardımcı Erkek Oyuncu Ödülü'nü kazandı. Bir süre akciğer kanseri tedavisi gören sanatçı 30 Haziran 2008'de öldü. Öldüğünde 74 yaşındaydı. Mezarı İstanbul Üsküdar'da Karacaahmet Mezarlığı'ndadır. Beyat, kendisi gibi oyuncu Sevim Çalışgir ile evliydi.",
+      "char_count": 689,
+      "token_estimate": 172
+    },
+    {
+      "id": "c0002",
+      "section": "== Filmografisi ==",
+      "heading_path": "== Filmografisi ==",
+      "start_char": 781,
+      "end_char": 1124,
+      "content": "== Filmografisi == 1964: Aşka Susayanlar 1971: Anneler ve Kızları 1971: Cafer Bey İyi, Fakir ve Kibar 1974: Cafer'in Nargilesi 1986: Ahmet Hamdi Tanpınar 2003: Unutma Beni 2003: Vizontele Tuuba 2004: Yazı Tura 2005: Aşka Sürgün 2005: Beyaz Gelincik 2006: Beynelmilel 2006: Hokkabaz 2006: Kırık Kanatlar 2006: Unutulmayanlar 2007: Affedilmeyen",
+      "char_count": 342,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 1124,
+      "end_char": 1221,
+      "content": "== Ödüller == 2004: 41. Altın Portakal Film Festivali - En İyi Yardımcı Erkek Oyuncu - Yazı Tura",
+      "char_count": 96,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1236,
+      "end_char": 1688,
+      "content": "== Dış bağlantılar == Beyazperde'de Bahri Beyat 28 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de Bahri Beyat 28 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi. Sinemalar.com'da Bahri Beyat 28 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi. SinemaTürk'te Bahri Beyat 6 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi. TSA'de Bahri Beyat 28 Mayıs 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 452,
+      "token_estimate": 113
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bahri Beyat, 2004 Antalya Altın Portakal Film Festivali'nde hangi filmdeki rolüyle En İyi Yardımcı Erkek Oyuncu Ödülü'nü kazanmıştır?",
+        "answer": "Uğur Yücel'in yönettiği Yazı Tura filmindeki rolüyle.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bahri Beyat'ın profesyonel kimliğini ve hayatının önemli dönüm noktalarını, doğumundan ölümüne kadar olan süreçte verilen bilgiler ışığında nasıl özetleyebilirsiniz?",
+        "answer": "1934'te Bursa'da doğan Bahri Beyat, bir Türk tiyatro ve sinema oyuncusuydu. Tiyatroya Ankara Atatürk Lisesi'nde adım attı, Nejat Uygur ile sahne alarak ve \"Minti Minti\", \"Hanedan\" gibi oyunlardaki replikleriyle tanındı. Kariyerinin son yıllarında televizyon ve sinemaya yönelerek 2004 yılında \"Yazı Tura\" filmiyle En İyi Yardımcı Erkek Oyuncu Ödülü'nü kazandı. Akciğer kanseri tedavisi gören sanatçı, kendisi gibi oyuncu Sevim Çalışgir ile evliydi ve 30 Haziran 2008'de 74 yaşında İstanbul'da vefat ederek Karacaahmet Mezarlığı'na defnedildi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

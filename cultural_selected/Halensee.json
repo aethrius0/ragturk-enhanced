@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "halensee_31b3418f",
+    "title": "Halensee",
+    "url": "https://tr.wikipedia.org/wiki/Halensee",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:57.455802",
+    "content": "Berlin-Halensee Charlottenburg-Wilmersdorf'un en küçük ve Berlin'in ikinci en küçük semti. Semt özellikle villa ve müstakil evlerin yapılımıyla 19. yüzyıllda o zamanki Berlin'e komşu olan Deutsch-Wilmersdorf'da oluştu. 1914'te semt'in inşaatı büyük oranla bittirildi. == Coğrafya == Halensee Teltow yayla'sında ve Berlin'in güney-batısında bulunuyor. Semt'in adı'nın kaynağı Halensee gölünden geliyor. Semt'in beş tane komşu semti bulunuyor. Semt batı güneyinde Charlottenburg semtine, güney doğusunda Wilmersdorf semtine, güneyinde Schmargendorf semtine ve batısında Grunewald ve Westend semtine komşu oluyor. == Tarihi == 1880 yılında yörede bulunan Halensee gölünün adını alan Halensee semti, o zamanki Grunewald'ın kolonisi bir villa ve müstakil evlerin semti olarak 19. yüzyılda kuruldu. Halensee semti kısa bir sürede çok sevilen bir yer oldu ve birçok insanın tercih noktası oldu. Emekli askerler, memurlar, edebiyatçılar ve emekli insanların özellikle taşındıkları bir nokta oldu. 1920 senelerinde komşu Charlottenburg'daki gibi birçok Rus göçmen Halensee'ye taşında. Vladimir Nabokov da Halensee'de ikamet eden insanlardan biriydi. Markgraf-Albrecht-Sokağı Numara 11/12'de 1923'te yapılan „Friedenstempel“ Halensee Sinagogu bulunuyordu. Kristal Gece'de Naziler bu sinagogu yaktılar ve 1959'da sinagog yıkılıp yerine oturmak için daireler yapıldı. İkinci Dünya Savaşı sırasında semt savaştan dolayı büyük hasar gördü ve savaş bittikten sonra yeniden daireler ile inşa edildi. Bu inşaat sonucu semtin görünüşünü değişti. 11 Nisan 1968'de Rudi Dutschke'ye Halensee'de bir suikast oldu ve olay yerinde öldü. Rudi Dutschke adına bir anıt Halensee'de bulunuyor. == Dış bağlantılar == Kiezspaziergang in Halensee9 Haziran 2009 tarihinde Wayback Machine sitesinde arşivlendi. Beschluss der BVV zur Einrichtung des Ortsteils Website der evangelischen Hochmeisterkirchengemeinde Halensee mit ausführlichem Beitrag zur Geschichte der Kirche und ihrer Kunstwerke3 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 259,
+      "char_count": 2021,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.688455",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 268,
+      "content": "Berlin-Halensee Charlottenburg-Wilmersdorf'un en küçük ve Berlin'in ikinci en küçük semti. Semt özellikle villa ve müstakil evlerin yapılımıyla 19. yüzyıllda o zamanki Berlin'e komşu olan Deutsch-Wilmersdorf'da oluştu. 1914'te semt'in inşaatı büyük oranla bittirildi.",
+      "char_count": 267,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 268,
+      "end_char": 611,
+      "content": "== Coğrafya == Halensee Teltow yayla'sında ve Berlin'in güney-batısında bulunuyor. Semt'in adı'nın kaynağı Halensee gölünden geliyor. Semt'in beş tane komşu semti bulunuyor. Semt batı güneyinde Charlottenburg semtine, güney doğusunda Wilmersdorf semtine, güneyinde Schmargendorf semtine ve batısında Grunewald ve Westend semtine komşu oluyor.",
+      "char_count": 342,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 611,
+      "end_char": 1611,
+      "content": "== Tarihi == 1880 yılında yörede bulunan Halensee gölünün adını alan Halensee semti, o zamanki Grunewald'ın kolonisi bir villa ve müstakil evlerin semti olarak 19. yüzyılda kuruldu. Halensee semti kısa bir sürede çok sevilen bir yer oldu ve birçok insanın tercih noktası oldu. Emekli askerler, memurlar, edebiyatçılar ve emekli insanların özellikle taşındıkları bir nokta oldu. 1920 senelerinde komşu Charlottenburg'daki gibi birçok Rus göçmen Halensee'ye taşında. Vladimir Nabokov da Halensee'de ikamet eden insanlardan biriydi. Markgraf-Albrecht-Sokağı Numara 11/12'de 1923'te yapılan „Friedenstempel“ Halensee Sinagogu bulunuyordu. Kristal Gece'de Naziler bu sinagogu yaktılar ve 1959'da sinagog yıkılıp yerine oturmak için daireler yapıldı. İkinci Dünya Savaşı sırasında semt savaştan dolayı büyük hasar gördü ve savaş bittikten sonra yeniden daireler ile inşa edildi. Bu inşaat sonucu semtin görünüşünü değişti. 11 Nisan 1968'de Rudi Dutschke'ye Halensee'de bir suikast oldu ve olay yerinde öldü",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1411,
+      "end_char": 1664,
+      "content": "k hasar gördü ve savaş bittikten sonra yeniden daireler ile inşa edildi. Bu inşaat sonucu semtin görünüşünü değişti. 11 Nisan 1968'de Rudi Dutschke'ye Halensee'de bir suikast oldu ve olay yerinde öldü. Rudi Dutschke adına bir anıt Halensee'de bulunuyor.",
+      "char_count": 253,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1665,
+      "end_char": 2021,
+      "content": "== Dış bağlantılar == Kiezspaziergang in Halensee9 Haziran 2009 tarihinde Wayback Machine sitesinde arşivlendi. Beschluss der BVV zur Einrichtung des Ortsteils Website der evangelischen Hochmeisterkirchengemeinde Halensee mit ausführlichem Beitrag zur Geschichte der Kirche und ihrer Kunstwerke3 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 356,
+      "token_estimate": 89
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rudi Dutschke'ye Halensee'de ne zaman suikast düzenlendi?",
+        "answer": "11 Nisan 1968'de",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Halensee semti 19. yüzyılda nasıl oluşmuş ve hangi özellikleri sayesinde emekli askerler, memurlar, edebiyatçılar ve emekli insanlar için popüler bir yerleşim yeri haline gelmiştir?",
+        "answer": "Halensee semti, 19. yüzyılda o zamanki Berlin'e komşu Deutsch-Wilmersdorf'da ve Grunewald'ın bir kolonisi olarak villa ve müstakil evlerin yapılmasıyla oluştu. Bu yapısıyla kısa sürede çok sevilen bir yer haline gelmesinin nedeni ise emekli askerler, memurlar, edebiyatçılar ve emekli insanlar gibi belirli kesimler için cazip bir yerleşim noktası olmasıydı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

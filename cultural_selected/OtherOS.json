@@ -1,0 +1,184 @@
+{
+  "article": {
+    "id": "otheros_42b8c650",
+    "title": "OtherOS",
+    "url": "https://tr.wikipedia.org/wiki/OtherOS",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:27.955309",
+    "content": "OtherOS, PlayStation 3 video oyun konsolunun önceki sürümlerinde, Linux veya FreeBSD gibi kullanıcı tarafından yüklenen yazılımların sistemde çalışmasına izin veren bir özellikti. Bu özellik yeni modellerde mevcut değildir ve 1 Nisan 2010'da yayınlanan 3.21 sistem yazılımı güncellemesi ile eski modellerden kaldırılmıştır. OtherOS ortamında çalışan yazılım 7 Synergistic Processing Elements'in 6'sına erişime sahipti; Sony, RSX'ten erişimi kısıtlayan bir hiper yönetici uyguladı. IBM, PlayStation 3'teki paralel uygulamaları programlamaya bir giriş yaptı. Sony'ye karşı yasal yollara başvurmak isteyenler adına bir dava açtı, ancak 2011 yılında federal bir yargıç tarafından önyargılı olarak reddedildi. Ancak, bu karar 2014 temyiz mahkemesi kararında bozuldu. Sonunda, 2016'da Sony, alternatif işletim sistemi işlevine dayalı olarak Linux yükleyen ya da bir PlayStation 3 satın alan kullanıcılara karar verdi. == Tarihçe == Sony, 2000'den beri PlayStation 2'nin pazarlaması sırasında Linux çalıştırabileceği gerçeğini kullandı. Linux tabanlı bir işletim sistemi, bir USB klavye ve fare, bir VGA adaptörü, bir PlayStation 2 Ethernet ağ adaptörü ve bir 40 GB sabit disk sürücüsü (HDD) içeren PlayStation 2 Linux Kit'in piyasaya sürülmesini sağlamıştır. PlayStation 3'te önceden yüklenmiş Linux bulunmuyor. Ancak Sony, PlayStation 3'ün piyasaya sürülmesinden kısa bir süre sonra XMB menüsünde, Linux'ta sabit sürücüden veya dağıtıcının çekirdeğinin önyükleyeceği bir canlı sistem'den başlatılmasını sağlayan bir seçenek içeriyordu. Sony, 2009 yılının Eylül ayında PS3 Slim'in yaklaşmakta olduğunu açıkladığında, bunun için herhangi bir açıklama yapmadan, OtherOS özelliğini desteklemeyeceğini belirtti. Mart 2010'da Sony, orijinal PS3 modellerinin \"Diğer İşletim Sistemi\" özelliğinin, 1 Nisan 2010'da PS3 Firmware 3.21'deki güvenlik endişeleri nedeniyle kaldırılacağını açıkladı. Güncellemeyi atlamanın ve PSN'de oturum açabilme özelliğini korumanın birçok yöntemi keşfedildi, bunların çoğu üçüncü taraf DNS sunucularını kullanmayı içeriyordu. George Hotz, PSOS için Other21'i yeniden etkinleştiren 3.21OO adında özel bir ürün yazılımı oluşturduğunu ve kendi kişisel ürün yazılımının bir kanıtını kanıt olarak yayınladığını iddia etti. Özel firmware'in kullanımını açıkça gösteren bir YouTube videosunun yayınlanmasına rağmen, çevrimiçi toplulukta bazıları bu özel firmware'in aslında bir aldatmaca olduğunu iddia ediyordu. 14 Temmuz 2010'da Hotz, özel ürün yazılımını PlayStation 3'e sunmayacağını açıkladı. 27 Nisan 2010'da Kaliforniya'da bir sınıf dava açıldı. Dava, OtherOS özelliğinin kaldırılmasının \"haksız ve aldatıcı\" ve \"iyi niyetli bir ihlali\" olduğunu iddia etti. Dosyalamanın çoğu, silme ile ilgili çeşitli tüketici koruma yasalarının ihlali ile ilgili idi. == Linux çekirdeği == Linux, 2.6.21 sürümüyle PlayStation 3'ü destekledi. Yama veya modifikasyon gerekli değildir. PS3 için basit bir Linux eklenti CD'si, Fedora 8 ve PS3'e yerel olarak yüklediğini iddia eden diğer işletim sistemleri için destek içeriyor. Ancak, şu anda kernel.org tarafından sağlanan en son Kboot önyükleyici ile ilgili bir sorun vardır. Kullanıcı varsayılan eylemi seçtiğinde, USB bağlantı noktaları bazı sistemlerde kayıtlı değildir. PSUbuntu'da bir çalışma ortamı mevcuttur. == Dağılımları == Debian, Fedora 8, Gentoo Linux, OpenSUSE (10.3 - 11.1) ve Ubuntu PlayStation 3'te çalışıyor. PlayStation 3 için Yellow Dog Linux ilk olarak 2006 yılının sonlarında piyasaya sürüldü. === Ubuntu === Ubuntu'nun 10.10 sürümüne kadar olan bazı sürümleri PS3 platformuna taşındı. Yükleyici, 480i veya 480p video çözünürlüklerinde çalışırken Canlı modda çalışamaz, ancak tamamen işlevsel Ubuntu yükleyen bir metin tabanlı yükleyici sunar. Harici bir USB sabit sürücüyü kurulum sırasında ana klasör olarak takmak mümkündür. Ubuntu'nun 8.04 (Hardy Heron) sürümündeki LTS sürümü PS3 ile uyumlu değildir. Ancak 8.10 (Intrepid Ibex) sürümü, resmî ana Ubuntu sürümü ile aynı sürüm tarihinde PS3'e taşındı. === Yellow Dog Linux === Yellow Dog Linux 5.0, Sony PlayStation 3 platformunda çalışan ilk Linux dağıtımlarından biriydi. Özel olarak HDTV için tasarlanmıştır, bu nedenle SDTV'ye sahip kullanıcıların yüklemek ve çalıştırmak için 'installtext' ve 'ydl480i' komutlarını kullanmaları gerekir. Yellow Dog Linux, Red Hat Enterprise Linux / CentOS çekirdeğini temel alır ve RPM paket yöneticisine güvenir. Dijital sesin düzgün çalıştığı doğrulandı, ancak Nvidia grafik kartı çerçeve oluşturucu modunun dışında desteklenmiyor. Ek olarak, diğer bazı donanım bileşenleri, çekirdek üzerinde değişiklik yapılmadan düzgün çalışmayacaktır. Ağ Yöneticisi üzerinden WiFi işlevi de tam olarak desteklenmiyor ve Ağ Yapılandırma aracı aracılığıyla veya bazı durumlarda komut kabuğu aracılığıyla elle girilmesi gerekiyor. Kablosuzun Ağ Yöneticisi aracılığıyla yapılandırılmasını sağlamak için bir geçici çözüm kullanılabilir. === openSUSE === OpenSUSE 10.3, Sony PlayStation 3 platformunda çalışan ilk openSUSE sürümüdür. openSUSE, Novell'in sahip olduğu SUSE Linux'un ücretsiz bir sürümüdür. OpenSUSE için PlayStation 3'e özgü kurulum talimatları vardır. OpenSUSE 11.2 ile başlayarak, PowerPC (ve dolayısıyla PlayStation 3) desteği kesildi. === Fedora === Fedora ayrıca PlayStation 3'te yayınlandı. Fedora 7 bir USB harici sabit disk üzerinde çalışıyor ancak dahili diski algılamıyor, Fedora 9 dahili diski algılıyor, ancak USB diski algılamıyor, Fedora 8 video \"kart\" algılama sorunları nedeniyle çalışmadı. Fedora 10, dahili sabit diske sorunsuz bir şekilde kurulur ve herhangi bir ayarı değiştirmeden çalışır. Fedora 12 yalnızca 64 bit çekirdeği çalıştırırken ve yalnızca İngilizce seçilen dil olduğunda PlayStation 3'e yüklenir. == RSX Homebrew == PlayStation 3'teki Linux, çeşitli homebrew programlarının geliştirilmesine izin verir. Hücrenin performansı çoğu medya gereksinimini karşılamak veya karmaşık 3D grafikler oluşturmak için fazlasıyla yeterli olsa da, çağdaş bir GPU'nun doku alma donanımının teraflop performansından yoksundur. Bu nedenle, RSX'teki donanım ivmesine erişim bir hipervizör tarafından kısıtlandığından PlayStation 3'ten Linux ile birçok karmaşık oyun mümkün değildir. Linux çekirdeği ve X Pencere Sistemi aracılığıyla RSX'e erişimin sağlanmasında gelişmeler olmuştur. RSX belleği takas alanı olarak kullanmak mümkündür. Bazı 3D işlevlere erişmek için bir hile firmware 2.10 ile engellendi. == AsbestOS == Projenin şu anki durumu, Linux çekirdeğini TFTP üzerinden yükleme ve 7 SPE'ye erişme imkânıdır (çekirdeğe küçük bir yama uygulanması gerekir). Sistemin geri kalanı bir NFS paylaşımında çalışabilir - sabit disk erişimi şu anda uygulanmadı, ayrıca diğer bazı özellikler uygulanır. Ayrıca, bu istismar, çekirdeği oyun ayrıcalıklarıyla yönettiği için, nouveau sürücü kodunun elden geçirilmesi gerekmesine rağmen, grafiklerin hızlandırılması artık mümkündür. == FreeBSD == PlayStation 3 desteği, 2010 yazında FreeBSD 9.0'a eklenmiştir. Bu destek, hâlâ hâlâ DiğerOS işlevselliği olan makinelerle sınırlıdır (ürün yazılımı sürüm 3.15 ve üstü). == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 926,
+      "char_count": 7045,
+      "num_chunks": 13,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.193374",
+    "total_chunks": 13,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 912,
+      "content": "OtherOS, PlayStation 3 video oyun konsolunun önceki sürümlerinde, Linux veya FreeBSD gibi kullanıcı tarafından yüklenen yazılımların sistemde çalışmasına izin veren bir özellikti. Bu özellik yeni modellerde mevcut değildir ve 1 Nisan 2010'da yayınlanan 3.21 sistem yazılımı güncellemesi ile eski modellerden kaldırılmıştır. OtherOS ortamında çalışan yazılım 7 Synergistic Processing Elements'in 6'sına erişime sahipti; Sony, RSX'ten erişimi kısıtlayan bir hiper yönetici uyguladı. IBM, PlayStation 3'teki paralel uygulamaları programlamaya bir giriş yaptı. Sony'ye karşı yasal yollara başvurmak isteyenler adına bir dava açtı, ancak 2011 yılında federal bir yargıç tarafından önyargılı olarak reddedildi. Ancak, bu karar 2014 temyiz mahkemesi kararında bozuldu. Sonunda, 2016'da Sony, alternatif işletim sistemi işlevine dayalı olarak Linux yükleyen ya da bir PlayStation 3 satın alan kullanıcılara karar verdi.",
+      "char_count": 911,
+      "token_estimate": 227
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 912,
+      "end_char": 1912,
+      "content": "== Tarihçe == Sony, 2000'den beri PlayStation 2'nin pazarlaması sırasında Linux çalıştırabileceği gerçeğini kullandı. Linux tabanlı bir işletim sistemi, bir USB klavye ve fare, bir VGA adaptörü, bir PlayStation 2 Ethernet ağ adaptörü ve bir 40 GB sabit disk sürücüsü (HDD) içeren PlayStation 2 Linux Kit'in piyasaya sürülmesini sağlamıştır. PlayStation 3'te önceden yüklenmiş Linux bulunmuyor. Ancak Sony, PlayStation 3'ün piyasaya sürülmesinden kısa bir süre sonra XMB menüsünde, Linux'ta sabit sürücüden veya dağıtıcının çekirdeğinin önyükleyeceği bir canlı sistem'den başlatılmasını sağlayan bir seçenek içeriyordu. Sony, 2009 yılının Eylül ayında PS3 Slim'in yaklaşmakta olduğunu açıkladığında, bunun için herhangi bir açıklama yapmadan, OtherOS özelliğini desteklemeyeceğini belirtti. Mart 2010'da Sony, orijinal PS3 modellerinin \"Diğer İşletim Sistemi\" özelliğinin, 1 Nisan 2010'da PS3 Firmware 3.21'deki güvenlik endişeleri nedeniyle kaldırılacağını açıkladı. Güncellemeyi atlamanın ve PSN'de ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1712,
+      "end_char": 2712,
+      "content": "da Sony, orijinal PS3 modellerinin \"Diğer İşletim Sistemi\" özelliğinin, 1 Nisan 2010'da PS3 Firmware 3.21'deki güvenlik endişeleri nedeniyle kaldırılacağını açıkladı. Güncellemeyi atlamanın ve PSN'de oturum açabilme özelliğini korumanın birçok yöntemi keşfedildi, bunların çoğu üçüncü taraf DNS sunucularını kullanmayı içeriyordu. George Hotz, PSOS için Other21'i yeniden etkinleştiren 3.21OO adında özel bir ürün yazılımı oluşturduğunu ve kendi kişisel ürün yazılımının bir kanıtını kanıt olarak yayınladığını iddia etti. Özel firmware'in kullanımını açıkça gösteren bir YouTube videosunun yayınlanmasına rağmen, çevrimiçi toplulukta bazıları bu özel firmware'in aslında bir aldatmaca olduğunu iddia ediyordu. 14 Temmuz 2010'da Hotz, özel ürün yazılımını PlayStation 3'e sunmayacağını açıkladı. 27 Nisan 2010'da Kaliforniya'da bir sınıf dava açıldı. Dava, OtherOS özelliğinin kaldırılmasının \"haksız ve aldatıcı\" ve \"iyi niyetli bir ihlali\" olduğunu iddia etti. Dosyalamanın çoğu, silme ile ilgili ç",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 2512,
+      "end_char": 2769,
+      "content": "isan 2010'da Kaliforniya'da bir sınıf dava açıldı. Dava, OtherOS özelliğinin kaldırılmasının \"haksız ve aldatıcı\" ve \"iyi niyetli bir ihlali\" olduğunu iddia etti. Dosyalamanın çoğu, silme ile ilgili çeşitli tüketici koruma yasalarının ihlali ile ilgili idi.",
+      "char_count": 257,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0004",
+      "section": "== Linux çekirdeği ==",
+      "heading_path": "== Linux çekirdeği ==",
+      "start_char": 2770,
+      "end_char": 3266,
+      "content": "== Linux çekirdeği == Linux, 2.6.21 sürümüyle PlayStation 3'ü destekledi. Yama veya modifikasyon gerekli değildir. PS3 için basit bir Linux eklenti CD'si, Fedora 8 ve PS3'e yerel olarak yüklediğini iddia eden diğer işletim sistemleri için destek içeriyor. Ancak, şu anda kernel.org tarafından sağlanan en son Kboot önyükleyici ile ilgili bir sorun vardır. Kullanıcı varsayılan eylemi seçtiğinde, USB bağlantı noktaları bazı sistemlerde kayıtlı değildir. PSUbuntu'da bir çalışma ortamı mevcuttur.",
+      "char_count": 495,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0005",
+      "section": "== Dağılımları ==",
+      "heading_path": "== Dağılımları ==",
+      "start_char": 3266,
+      "end_char": 3466,
+      "content": "== Dağılımları == Debian, Fedora 8, Gentoo Linux, OpenSUSE (10.3 - 11.1) ve Ubuntu PlayStation 3'te çalışıyor. PlayStation 3 için Yellow Dog Linux ilk olarak 2006 yılının sonlarında piyasaya sürüldü.",
+      "char_count": 199,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0006",
+      "section": "=== Ubuntu ===",
+      "heading_path": "=== Ubuntu ===",
+      "start_char": 3466,
+      "end_char": 3977,
+      "content": "=== Ubuntu === Ubuntu'nun 10.10 sürümüne kadar olan bazı sürümleri PS3 platformuna taşındı. Yükleyici, 480i veya 480p video çözünürlüklerinde çalışırken Canlı modda çalışamaz, ancak tamamen işlevsel Ubuntu yükleyen bir metin tabanlı yükleyici sunar. Harici bir USB sabit sürücüyü kurulum sırasında ana klasör olarak takmak mümkündür. Ubuntu'nun 8.04 (Hardy Heron) sürümündeki LTS sürümü PS3 ile uyumlu değildir. Ancak 8.10 (Intrepid Ibex) sürümü, resmî ana Ubuntu sürümü ile aynı sürüm tarihinde PS3'e taşındı.",
+      "char_count": 510,
+      "token_estimate": 127
+    },
+    {
+      "id": "c0007",
+      "section": "=== Yellow Dog Linux ===",
+      "heading_path": "=== Yellow Dog Linux ===",
+      "start_char": 3977,
+      "end_char": 4884,
+      "content": "=== Yellow Dog Linux === Yellow Dog Linux 5.0, Sony PlayStation 3 platformunda çalışan ilk Linux dağıtımlarından biriydi. Özel olarak HDTV için tasarlanmıştır, bu nedenle SDTV'ye sahip kullanıcıların yüklemek ve çalıştırmak için 'installtext' ve 'ydl480i' komutlarını kullanmaları gerekir. Yellow Dog Linux, Red Hat Enterprise Linux / CentOS çekirdeğini temel alır ve RPM paket yöneticisine güvenir. Dijital sesin düzgün çalıştığı doğrulandı, ancak Nvidia grafik kartı çerçeve oluşturucu modunun dışında desteklenmiyor. Ek olarak, diğer bazı donanım bileşenleri, çekirdek üzerinde değişiklik yapılmadan düzgün çalışmayacaktır. Ağ Yöneticisi üzerinden WiFi işlevi de tam olarak desteklenmiyor ve Ağ Yapılandırma aracı aracılığıyla veya bazı durumlarda komut kabuğu aracılığıyla elle girilmesi gerekiyor. Kablosuzun Ağ Yöneticisi aracılığıyla yapılandırılmasını sağlamak için bir geçici çözüm kullanılabilir.",
+      "char_count": 906,
+      "token_estimate": 226
+    },
+    {
+      "id": "c0008",
+      "section": "=== openSUSE ===",
+      "heading_path": "=== openSUSE ===",
+      "start_char": 4884,
+      "end_char": 5200,
+      "content": "=== openSUSE === OpenSUSE 10.3, Sony PlayStation 3 platformunda çalışan ilk openSUSE sürümüdür. openSUSE, Novell'in sahip olduğu SUSE Linux'un ücretsiz bir sürümüdür. OpenSUSE için PlayStation 3'e özgü kurulum talimatları vardır. OpenSUSE 11.2 ile başlayarak, PowerPC (ve dolayısıyla PlayStation 3) desteği kesildi.",
+      "char_count": 315,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0009",
+      "section": "=== Fedora ===",
+      "heading_path": "=== Fedora ===",
+      "start_char": 5200,
+      "end_char": 5692,
+      "content": "=== Fedora === Fedora ayrıca PlayStation 3'te yayınlandı. Fedora 7 bir USB harici sabit disk üzerinde çalışıyor ancak dahili diski algılamıyor, Fedora 9 dahili diski algılıyor, ancak USB diski algılamıyor, Fedora 8 video \"kart\" algılama sorunları nedeniyle çalışmadı. Fedora 10, dahili sabit diske sorunsuz bir şekilde kurulur ve herhangi bir ayarı değiştirmeden çalışır. Fedora 12 yalnızca 64 bit çekirdeği çalıştırırken ve yalnızca İngilizce seçilen dil olduğunda PlayStation 3'e yüklenir.",
+      "char_count": 491,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0010",
+      "section": "== RSX Homebrew ==",
+      "heading_path": "== RSX Homebrew ==",
+      "start_char": 5692,
+      "end_char": 6379,
+      "content": "== RSX Homebrew == PlayStation 3'teki Linux, çeşitli homebrew programlarının geliştirilmesine izin verir. Hücrenin performansı çoğu medya gereksinimini karşılamak veya karmaşık 3D grafikler oluşturmak için fazlasıyla yeterli olsa da, çağdaş bir GPU'nun doku alma donanımının teraflop performansından yoksundur. Bu nedenle, RSX'teki donanım ivmesine erişim bir hipervizör tarafından kısıtlandığından PlayStation 3'ten Linux ile birçok karmaşık oyun mümkün değildir. Linux çekirdeği ve X Pencere Sistemi aracılığıyla RSX'e erişimin sağlanmasında gelişmeler olmuştur. RSX belleği takas alanı olarak kullanmak mümkündür. Bazı 3D işlevlere erişmek için bir hile firmware 2.10 ile engellendi.",
+      "char_count": 686,
+      "token_estimate": 171
+    },
+    {
+      "id": "c0011",
+      "section": "== AsbestOS ==",
+      "heading_path": "== AsbestOS ==",
+      "start_char": 6379,
+      "end_char": 6848,
+      "content": "== AsbestOS == Projenin şu anki durumu, Linux çekirdeğini TFTP üzerinden yükleme ve 7 SPE'ye erişme imkânıdır (çekirdeğe küçük bir yama uygulanması gerekir). Sistemin geri kalanı bir NFS paylaşımında çalışabilir - sabit disk erişimi şu anda uygulanmadı, ayrıca diğer bazı özellikler uygulanır. Ayrıca, bu istismar, çekirdeği oyun ayrıcalıklarıyla yönettiği için, nouveau sürücü kodunun elden geçirilmesi gerekmesine rağmen, grafiklerin hızlandırılması artık mümkündür.",
+      "char_count": 468,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0012",
+      "section": "== FreeBSD ==",
+      "heading_path": "== FreeBSD ==",
+      "start_char": 6848,
+      "end_char": 7031,
+      "content": "== FreeBSD == PlayStation 3 desteği, 2010 yazında FreeBSD 9.0'a eklenmiştir. Bu destek, hâlâ hâlâ DiğerOS işlevselliği olan makinelerle sınırlıdır (ürün yazılımı sürüm 3.15 ve üstü).",
+      "char_count": 182,
+      "token_estimate": 45
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Orijinal PS3 modellerindeki \"Diğer İşletim Sistemi\" özelliği hangi gerekçeyle kaldırıldı?",
+        "answer": "Güvenlik endişeleri nedeniyle.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "PlayStation 3'teki OtherOS özelliğinin kaldırılmasına yol açan nedenler nelerdi ve bu kararın kullanıcılar ve Sony için ne gibi sonuçları oldu?",
+        "answer": "PlayStation 3'teki OtherOS özelliğinin kaldırılması, Sony'nin Mart 2010'da duyurduğu ve 1 Nisan 2010'da yayınlanan 3.21 sistem yazılımı güncellemesiyle güvenlik endişeleri nedeniyle gerçekleşti. Bu karar, yeni PS3 Slim modellerinde OtherOS desteğinin olacağının açıklanmasının ardından geldi. Kaldırılmanın sonuçları arasında, kullanıcıların Linux veya FreeBSD gibi alternatif işletim sistemlerini çalıştırma yeteneğini kaybetmesi ve bazı kullanıcıların güncellemeyi atlayarak PSN'de oturum açabilme yollarını keşfetmesi yer aldı. Ayrıca, OtherOS özelliğinin kaldırılmasının \"haksız ve aldatıcı\" ve \"iyi niyetli bir ihlal\" olduğunu iddia eden bir sınıf davası açıldı. Bu dava başlangıçta reddedilse de, temyiz mahkemesinde bozuldu ve nihayetinde 2016 yılında Sony'nin alternatif işletim sistemi işlevine dayalı olarak Linux yükleyen veya bu amaçla PlayStation 3 satın alan kullanıcılara tazminat ödemesiyle sonuçlandı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

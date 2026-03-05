@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "eddievanhalen_cf3297d8",
+    "title": "Eddie Van Halen",
+    "url": "https://tr.wikipedia.org/wiki/Eddie_Van_Halen",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:12.834775",
+    "content": "Eddie Van Halen (26 Ocak 1955, Amsterdam - 6 Ekim 2020, Santa Monica) Hollandalı müzisyen, gitar virtüözü. Gerçek adı Edward Lodewijk Van Halen'dır. Van Halen adlı grubunun en önemli üyesidir. Rolling Stone dergisinin hazırladığı Tüm Zamanların En İyi 100 Gitaristi sıralamasında 8. sırada yer almıştır. == Hayatı == Halen, ailesiyle birlikte 1962 yılında Hollanda'dan Pasadena Kaliforniya'ya taşınmışlardır. Önceleri piyano dersleri almış ancak piyanonun başında oturmanın çok sıkıcı olduğunu düşünerek bateri çalmaya başlamıştır. Ağabeyi \"Alex Van Halen\" ise gitar dersleri almaya başlamıştır. Ancak Eddie Van Halen daha sonra esas yeteneğinin gitar olduğuna karar vermiş ve abisiyle enstrümanlarını değiştirmişlerdir. Yaklaşık 12 yaşlarında gitar çalmaya başlayan Eddie günde 8-9 saat pratik yaparak kendini geliştirdi. 14 yaşına geldiğinde Eric Clapton'un Cream grubunda attığı soloları notası notasına çalabilir duruma gelmişti. 1974 yılında Van Halen grubunun temellerini abisiyle birlikte \"Mamut\" adlı grupla attı. 1982 yılında yayımlanan ve dünyanın en çok satan albümü olarak bilinen Michael Jackson'ın ünlü Thriller'ında çalışan Halen, albümdeki en bilinen şarkılardan Beat It'in gitar sololarını çalmasıyla tanındı. Tapping tekniğini dünyaya duyuran gitaristtir. Eddie, dünyanın sayılı solo gitaristlerindendir. Yazdığı Eruption solosuyla büyük bir ses getirmiştir. Shred tekniğinin öncülerindendir. 1990'ların sonlarında ağız ve dil kanserine yakalandı. Doktorlar günde 12 ile 14 saat ağzında metal pena tutmasının bu hastalıklara sebep olduğunu söylediler. Çeşitli tedavi metotlarıyla dil kanserinden kurtulmuş ancak ağız kanseri nedeniyle ölmüştür. Ölümünden önce sağlık nedenleriyle ruhsal yapısı da bozulmuş ve bunun sonucu olarak çevresi tarafından geçimsiz biri olarak tanımlanmaya başlamıştır. Bu durum eşiyle boşanmasına sebep olmuştur. Eddie Van Halen'in oğlu da yeni albümlerde Van Halen ile birlikte çalmıştır. == Ölümü == 2019 yılında, 5 yıldır gırtlak kanseri olduğu ortaya çıktı. Baş ve boyun bölgesinde yaygın olarak bulunan kanser sebebi ile 6 Ekim 2020 günü ailesi tarafından öldüğü duyuruldu. == Miras == Red Hot Chili Peppers, 2022 albümleri Return of the Dream Canteen'deki \"Eddie\" adlı şarkıyı Van Halen'e saygı olarak yayımladılar. == Diskografi == Aşağıda Eddie Van Halen'in grubu Van Halen'in yayımladığı albümler yer almaktadır. 1978 - Van Halen 1979 - Van Halen II 1980 - Women and Children First 1981 - Fair Warning 1982 - Diver Down 1984 - 1984 1986 - 5150 1988 - OU812 1991 - For Unlawful Carnal Knowledge 1993 - Live: Right Here, Right Now 1995 - Balance 1998 - Van Halen III 2004 - The Best Of Both Worlds 2012 - A Different Kind Of Truth == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 390,
+      "char_count": 2696,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.996970",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 304,
+      "content": "Eddie Van Halen (26 Ocak 1955, Amsterdam - 6 Ekim 2020, Santa Monica) Hollandalı müzisyen, gitar virtüözü. Gerçek adı Edward Lodewijk Van Halen'dır. Van Halen adlı grubunun en önemli üyesidir. Rolling Stone dergisinin hazırladığı Tüm Zamanların En İyi 100 Gitaristi sıralamasında 8. sırada yer almıştır.",
+      "char_count": 303,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 304,
+      "end_char": 1304,
+      "content": "== Hayatı == Halen, ailesiyle birlikte 1962 yılında Hollanda'dan Pasadena Kaliforniya'ya taşınmışlardır. Önceleri piyano dersleri almış ancak piyanonun başında oturmanın çok sıkıcı olduğunu düşünerek bateri çalmaya başlamıştır. Ağabeyi \"Alex Van Halen\" ise gitar dersleri almaya başlamıştır. Ancak Eddie Van Halen daha sonra esas yeteneğinin gitar olduğuna karar vermiş ve abisiyle enstrümanlarını değiştirmişlerdir. Yaklaşık 12 yaşlarında gitar çalmaya başlayan Eddie günde 8-9 saat pratik yaparak kendini geliştirdi. 14 yaşına geldiğinde Eric Clapton'un Cream grubunda attığı soloları notası notasına çalabilir duruma gelmişti. 1974 yılında Van Halen grubunun temellerini abisiyle birlikte \"Mamut\" adlı grupla attı. 1982 yılında yayımlanan ve dünyanın en çok satan albümü olarak bilinen Michael Jackson'ın ünlü Thriller'ında çalışan Halen, albümdeki en bilinen şarkılardan Beat It'in gitar sololarını çalmasıyla tanındı. Tapping tekniğini dünyaya duyuran gitaristtir. Eddie, dünyanın sayılı solo gi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1104,
+      "end_char": 1933,
+      "content": "kson'ın ünlü Thriller'ında çalışan Halen, albümdeki en bilinen şarkılardan Beat It'in gitar sololarını çalmasıyla tanındı. Tapping tekniğini dünyaya duyuran gitaristtir. Eddie, dünyanın sayılı solo gitaristlerindendir. Yazdığı Eruption solosuyla büyük bir ses getirmiştir. Shred tekniğinin öncülerindendir. 1990'ların sonlarında ağız ve dil kanserine yakalandı. Doktorlar günde 12 ile 14 saat ağzında metal pena tutmasının bu hastalıklara sebep olduğunu söylediler. Çeşitli tedavi metotlarıyla dil kanserinden kurtulmuş ancak ağız kanseri nedeniyle ölmüştür. Ölümünden önce sağlık nedenleriyle ruhsal yapısı da bozulmuş ve bunun sonucu olarak çevresi tarafından geçimsiz biri olarak tanımlanmaya başlamıştır. Bu durum eşiyle boşanmasına sebep olmuştur. Eddie Van Halen'in oğlu da yeni albümlerde Van Halen ile birlikte çalmıştır.",
+      "char_count": 829,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0003",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 1934,
+      "end_char": 2123,
+      "content": "== Ölümü == 2019 yılında, 5 yıldır gırtlak kanseri olduğu ortaya çıktı. Baş ve boyun bölgesinde yaygın olarak bulunan kanser sebebi ile 6 Ekim 2020 günü ailesi tarafından öldüğü duyuruldu.",
+      "char_count": 188,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0004",
+      "section": "== Miras ==",
+      "heading_path": "== Miras ==",
+      "start_char": 2123,
+      "end_char": 2266,
+      "content": "== Miras == Red Hot Chili Peppers, 2022 albümleri Return of the Dream Canteen'deki \"Eddie\" adlı şarkıyı Van Halen'e saygı olarak yayımladılar.",
+      "char_count": 142,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0005",
+      "section": "== Diskografi ==",
+      "heading_path": "== Diskografi ==",
+      "start_char": 2266,
+      "end_char": 2682,
+      "content": "== Diskografi == Aşağıda Eddie Van Halen'in grubu Van Halen'in yayımladığı albümler yer almaktadır. 1978 - Van Halen 1979 - Van Halen II 1980 - Women and Children First 1981 - Fair Warning 1982 - Diver Down 1984 - 1984 1986 - 5150 1988 - OU812 1991 - For Unlawful Carnal Knowledge 1993 - Live: Right Here, Right Now 1995 - Balance 1998 - Van Halen III 2004 - The Best Of Both Worlds 2012 - A Different Kind Of Truth",
+      "char_count": 415,
+      "token_estimate": 103
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1982'de yayımlanan ve Michael Jackson'ın ünlü Thriller albümünde Eddie Van Halen hangi şarkının gitar sololarını çalmıştır?",
+        "answer": "Beat It",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Eddie Van Halen'ın gitar çalmaya olan yoğun adanmışlığının ve geliştirdiği tekniklerin, hayatının ilerleyen dönemlerinde karşılaştığı sağlık sorunlarıyla nasıl bir bağlantısı olduğu belirtilmiştir?",
+        "answer": "Eddie Van Halen, kendini günde 8-9 saat pratik yaparak geliştirmiş ve tapping tekniğini dünyaya duyuran bir gitarist olmuştur. Doktorlar, 1990'ların sonlarında yakalandığı ağız ve dil kanserinin, günde 12 ila 14 saat ağzında metal pena tutmasının bir sonucu olduğunu belirtmişlerdir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

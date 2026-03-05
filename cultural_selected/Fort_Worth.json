@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "fortworth_19f91eb9",
+    "title": "Fort Worth",
+    "url": "https://tr.wikipedia.org/wiki/Fort_Worth",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:34.196809",
+    "content": "Fort Worth, ABD'nin Teksas eyaletinin büyük kentlerinden biridir. Fort Worth nüfusa göre yapılan listelemede Amerika Birleşik Devletleri içinde on yedinci sırada ve Teksas eyaleti içinde ise on beşinci en geniş şehir olarak yer alır. Kuzey Teksas içinde konumlanır ve batıya kültürel bir geçiş kapısıdır. Şehir hemen hemen Tarrant, Parker ve Denton illerinde 300 square mil (780 km²) alan kaplar. 2009 yılı tahminlerine göre şehir 720.250 kişilik bir nüfusa sahiptir. Şehir Dallas–Fort Worth–Arlington'ın ikinci en geniş kültürel ve ekonomik merkezidir. Fort Worth ve etrafını çeviren Metroplex alan çeşitli iş olanakları ve bir dizi geniş atraksiyonlar sunar. 1849 yılında Trinity Nehri'nin dik yarli kıyısı üzerinde bir koruyucu askeri ileri karakol olarak kuruldu. Fort Worth şehri, bugün hala onun batı mirasını ve geleneksel mimari ve dizaynını kucaklar. == Ekonomi == Ülkenin en büyük şirketlerinin bazılarının merkezleri Fort Worth'dedir. Bunlara arasında AMR alt şirketleri olan American Airlines ve American Eagle Airlines), \"John Peter Smith Hastanesi\", Pier 1 Imports, RadioShack, BNSF Demiryolu, FUNimation Entertainment, Gallus Motosikletleri ve Lockheed Martin aeronotik. === Şirketler === Aşağıdaki (2011 Finansal Raporlar itibarıyla) Fort Worth'de bulunan en çok işçi istihdam eden şirket ve kurumlara verilmektedir: == Kardeş şehirler == Fort Worth'un 7 tane kardeş şehri vardır: Reggio Emilia, İtalya Nagaoka, Niigata, Japonya Trier, Almanya Bandung, Endonezya Budapeşte, Macaristan Toluca, Meksika Mbabane, Esvatini == Resimler == == Ayrıca bakınız == Fort Worth'taki en yüksek binalar listesi == Kaynakça == == Dış bağlantılar == Fort Worth, Teksas Şehri resmi websitesi3 Ekim 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) DMOZ Open Directory Projesi \"Fort_Worth\" maddesi (İngilizce) \"Wiki Voyage\" websitesi \"Fort_Worth\" maddesi4 Ekim 2013 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Fort Worth Konferans ve Ziyaretciler Burosu websitesi(İngilizce) 4 Kasım 1996 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 282,
+      "char_count": 2076,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.450621",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 860,
+      "content": "Fort Worth, ABD'nin Teksas eyaletinin büyük kentlerinden biridir. Fort Worth nüfusa göre yapılan listelemede Amerika Birleşik Devletleri içinde on yedinci sırada ve Teksas eyaleti içinde ise on beşinci en geniş şehir olarak yer alır. Kuzey Teksas içinde konumlanır ve batıya kültürel bir geçiş kapısıdır. Şehir hemen hemen Tarrant, Parker ve Denton illerinde 300 square mil (780 km²) alan kaplar. 2009 yılı tahminlerine göre şehir 720.250 kişilik bir nüfusa sahiptir. Şehir Dallas–Fort Worth–Arlington'ın ikinci en geniş kültürel ve ekonomik merkezidir. Fort Worth ve etrafını çeviren Metroplex alan çeşitli iş olanakları ve bir dizi geniş atraksiyonlar sunar. 1849 yılında Trinity Nehri'nin dik yarli kıyısı üzerinde bir koruyucu askeri ileri karakol olarak kuruldu. Fort Worth şehri, bugün hala onun batı mirasını ve geleneksel mimari ve dizaynını kucaklar.",
+      "char_count": 859,
+      "token_estimate": 214
+    },
+    {
+      "id": "c0001",
+      "section": "== Ekonomi ==",
+      "heading_path": "== Ekonomi ==",
+      "start_char": 860,
+      "end_char": 1186,
+      "content": "== Ekonomi == Ülkenin en büyük şirketlerinin bazılarının merkezleri Fort Worth'dedir. Bunlara arasında AMR alt şirketleri olan American Airlines ve American Eagle Airlines), \"John Peter Smith Hastanesi\", Pier 1 Imports, RadioShack, BNSF Demiryolu, FUNimation Entertainment, Gallus Motosikletleri ve Lockheed Martin aeronotik.",
+      "char_count": 325,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0002",
+      "section": "=== Şirketler ===",
+      "heading_path": "=== Şirketler ===",
+      "start_char": 1186,
+      "end_char": 1333,
+      "content": "=== Şirketler === Aşağıdaki (2011 Finansal Raporlar itibarıyla) Fort Worth'de bulunan en çok işçi istihdam eden şirket ve kurumlara verilmektedir:",
+      "char_count": 146,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0003",
+      "section": "== Kardeş şehirler ==",
+      "heading_path": "== Kardeş şehirler ==",
+      "start_char": 1333,
+      "end_char": 1535,
+      "content": "== Kardeş şehirler == Fort Worth'un 7 tane kardeş şehri vardır: Reggio Emilia, İtalya Nagaoka, Niigata, Japonya Trier, Almanya Bandung, Endonezya Budapeşte, Macaristan Toluca, Meksika Mbabane, Esvatini",
+      "char_count": 201,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1550,
+      "end_char": 1613,
+      "content": "== Ayrıca bakınız == Fort Worth'taki en yüksek binalar listesi",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1628,
+      "end_char": 2076,
+      "content": "== Dış bağlantılar == Fort Worth, Teksas Şehri resmi websitesi3 Ekim 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) DMOZ Open Directory Projesi \"Fort_Worth\" maddesi (İngilizce) \"Wiki Voyage\" websitesi \"Fort_Worth\" maddesi4 Ekim 2013 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Fort Worth Konferans ve Ziyaretciler Burosu websitesi(İngilizce) 4 Kasım 1996 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+      "char_count": 448,
+      "token_estimate": 112
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Fort Worth, hangi ABD eyaletinde yer alan büyük bir kenttir?",
+        "answer": "Teksas",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fort Worth'ün Dallas-Fort Worth-Arlington'ın ikinci en geniş ekonomik merkezi rolü, şehirde merkezi bulunan önemli şirketler aracılığıyla nasıl örneklendirilmektedir?",
+        "answer": "Fort Worth, Dallas-Fort Worth-Arlington'ın ikinci en geniş ekonomik merkezi olma özelliğini, American Airlines ve American Eagle Airlines gibi AMR alt şirketleri, John Peter Smith Hastanesi, Pier 1 Imports, RadioShack, BNSF Demiryolu, FUNimation Entertainment, Gallus Motosikletleri ve Lockheed Martin aeronotik gibi çeşitli sektörlerden büyük şirketlere ev sahipliği yaparak örneklendirmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "candatolgaik_d2a2cd75",
+    "title": "Candaş Tolga Işık",
+    "url": "https://tr.wikipedia.org/wiki/Canda%C5%9F_Tolga_I%C5%9F%C4%B1k",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:55.440052",
+    "content": "Candaş Tolga Işık (d. 3 Mayıs 1978, İstanbul), Türk gazeteci, köşe yazarı ve sunucu. == Hayatı == Candaş Tolga Işık, 3 Mayıs 1978 tarihinde İstanbul'da doğdu. Aslen Kars Digor'ludur. İstanbul Üniversitesi Biyoloji Bölümünden mezun oldu. Yurt dışında genetik mühendisliği eğitimi gördü. 2010 yılında sunucu Burcu Kapu ile evlenen Candaş Tolga Işık, 2012 yılında boşanmıştır. == Kariyeri == 2002 yılında bir yerel radyo istasyonunda habercilik yapmaya başladı. Ardından Best FM ve RadyoTime'da çeşitli radyo programları hazırlayıp sundu. 2009'da Alem FM'de Güçlü Mete ile birlikte Kripto Odası isimli programı sunmaya başladı. “Beşiktaş Platformu Genç Profesyoneller” tarafından düzenlenen ödül töreninde Yılın TV Programcısı Ödülü gazeteci Candaş Tolga Işık'a verildi. 2015 yılında 3 ayrı üniversitenin öğrencilerinin oylarıyla \"Türkiye'nin en başarılı, genç siyaset yazarı\" ödülünü aldı. Mayıs 2013 yılında köşe yazılarından oluşan İthal Edilmiş Korkular Ülkesi isimli kitabını çıkarttı. 2009'da TV8'de Bunu Konuşalım isimli politik sohbet programını hazırlayıp sunmaya başladı. Ekim 2012'de Kanaltürk'e geçti. 2014 yılında KAFA dergisini kurdu. 2015 yılında FİTBOL dergisini çıkartmaya başladı, yine aynı sene kapanmak üzere olan TARİH dergisini alarak derginin yayın hayatına devam etmesini sağladı. 2006-2020 yılları arasında Posta'da yazarlık yaptı. 2016-2019 yılları arasında, Beşiktaş JK Yönetim Kurulu Üyesi olarak İletişim departmanında Basınla ilişkiler ve Beşiktaş medyasından sorumlu görevinde bulundu. Dünyada 1.2 milyar kullanıcıya ulaşan \"Come to Beşiktaş\" adlı iletişim kampanyası, Beşiktaş taraftarlarınca başlatıldı ve Candaş Tolga Işık tarafından slogan haline getirildi. 21 Nisan 2020 tarihinde gazete yönetimiyle karşılıklı anlaşarak gazeteden ayrıldığını açıkladı. 2021 yılında \"Liyakat\" isimli bir kitap yazdı. Candaş Tolga Işık şu anda Kafa Radyo'da Güçlü Mete ile Kripto Odası programında gündemi yorumluyor ve TV100'de \"Az Önce Konuştum\" adlı programı sunuyordu ve 2024 yılında oradan ayrılıp Ekol TV ile anlaştı ve az önce konuştum isimli programı burada sunmaya başladı. Pazar akşamları, yine Ekol TV'de Sergen Yalçın ile beraber 10 Numara adlı futbol programını sunarken, yine Sergen Yalçın'la ve Çağıl Özge Özkul'la Kafa Sports'ta Falso adlı programı sunmaktadır. == Kaynakça == == Dış bağlantılar == Candaş Tolga Resmi Twitter hesabı 30 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi. Candas Tolga resmi web sitesi 27 Kasım 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 342,
+      "char_count": 2517,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.260941",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 85,
+      "content": "Candaş Tolga Işık (d. 3 Mayıs 1978, İstanbul), Türk gazeteci, köşe yazarı ve sunucu.",
+      "char_count": 84,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 85,
+      "end_char": 374,
+      "content": "== Hayatı == Candaş Tolga Işık, 3 Mayıs 1978 tarihinde İstanbul'da doğdu. Aslen Kars Digor'ludur. İstanbul Üniversitesi Biyoloji Bölümünden mezun oldu. Yurt dışında genetik mühendisliği eğitimi gördü. 2010 yılında sunucu Burcu Kapu ile evlenen Candaş Tolga Işık, 2012 yılında boşanmıştır.",
+      "char_count": 288,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 374,
+      "end_char": 1374,
+      "content": "== Kariyeri == 2002 yılında bir yerel radyo istasyonunda habercilik yapmaya başladı. Ardından Best FM ve RadyoTime'da çeşitli radyo programları hazırlayıp sundu. 2009'da Alem FM'de Güçlü Mete ile birlikte Kripto Odası isimli programı sunmaya başladı. “Beşiktaş Platformu Genç Profesyoneller” tarafından düzenlenen ödül töreninde Yılın TV Programcısı Ödülü gazeteci Candaş Tolga Işık'a verildi. 2015 yılında 3 ayrı üniversitenin öğrencilerinin oylarıyla \"Türkiye'nin en başarılı, genç siyaset yazarı\" ödülünü aldı. Mayıs 2013 yılında köşe yazılarından oluşan İthal Edilmiş Korkular Ülkesi isimli kitabını çıkarttı. 2009'da TV8'de Bunu Konuşalım isimli politik sohbet programını hazırlayıp sunmaya başladı. Ekim 2012'de Kanaltürk'e geçti. 2014 yılında KAFA dergisini kurdu. 2015 yılında FİTBOL dergisini çıkartmaya başladı, yine aynı sene kapanmak üzere olan TARİH dergisini alarak derginin yayın hayatına devam etmesini sağladı. 2006-2020 yılları arasında Posta'da yazarlık yaptı. 2016-2019 yılları ar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1174,
+      "end_char": 2174,
+      "content": "i çıkartmaya başladı, yine aynı sene kapanmak üzere olan TARİH dergisini alarak derginin yayın hayatına devam etmesini sağladı. 2006-2020 yılları arasında Posta'da yazarlık yaptı. 2016-2019 yılları arasında, Beşiktaş JK Yönetim Kurulu Üyesi olarak İletişim departmanında Basınla ilişkiler ve Beşiktaş medyasından sorumlu görevinde bulundu. Dünyada 1.2 milyar kullanıcıya ulaşan \"Come to Beşiktaş\" adlı iletişim kampanyası, Beşiktaş taraftarlarınca başlatıldı ve Candaş Tolga Işık tarafından slogan haline getirildi. 21 Nisan 2020 tarihinde gazete yönetimiyle karşılıklı anlaşarak gazeteden ayrıldığını açıkladı. 2021 yılında \"Liyakat\" isimli bir kitap yazdı. Candaş Tolga Işık şu anda Kafa Radyo'da Güçlü Mete ile Kripto Odası programında gündemi yorumluyor ve TV100'de \"Az Önce Konuştum\" adlı programı sunuyordu ve 2024 yılında oradan ayrılıp Ekol TV ile anlaştı ve az önce konuştum isimli programı burada sunmaya başladı. Pazar akşamları, yine Ekol TV'de Sergen Yalçın ile beraber 10 Numara adlı fu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1974,
+      "end_char": 2292,
+      "content": "mı sunuyordu ve 2024 yılında oradan ayrılıp Ekol TV ile anlaştı ve az önce konuştum isimli programı burada sunmaya başladı. Pazar akşamları, yine Ekol TV'de Sergen Yalçın ile beraber 10 Numara adlı futbol programını sunarken, yine Sergen Yalçın'la ve Çağıl Özge Özkul'la Kafa Sports'ta Falso adlı programı sunmaktadır.",
+      "char_count": 318,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2308,
+      "end_char": 2517,
+      "content": "== Dış bağlantılar == Candaş Tolga Resmi Twitter hesabı 30 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi. Candas Tolga resmi web sitesi 27 Kasım 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 209,
+      "token_estimate": 52
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "KAFA dergisi hangi yıl kuruldu?",
+        "answer": "2014 yılında.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Candaş Tolga Işık'ın doğum yeri, akademik geçmişi ve mesleki kariyerindeki farklı alanlar ile başarıları nelerdir?",
+        "answer": "Candaş Tolga Işık, 3 Mayıs 1978 tarihinde İstanbul'da doğmuş ve aslen Kars Digor'ludur. İstanbul Üniversitesi Biyoloji Bölümünden mezun olmuş ve yurt dışında genetik mühendisliği eğitimi almıştır. Kariyerine 2002 yılında yerel bir radyo istasyonunda habercilikle başlamış, ardından Best FM, RadyoTime ve Alem FM'de radyo programları hazırlayıp sunmuştur. TV8 ve Kanaltürk'te politik sohbet programları yapmıştır. Gazeteci ve köşe yazarı olarak Posta'da yazarlık yapmış ve \"İthal Edilmiş Korkular Ülkesi\" adlı bir kitap çıkarmıştır. Ayrıca KAFA ve FİTBOL dergilerini kurmuş, kapanmak üzere olan TARİH dergisinin yayın hayatına devam etmesini sağlamıştır. \"Yılın TV Programcısı Ödülü\" ve \"Türkiye'nin en başarılı, genç siyaset yazarı\" ödüllerini alarak mesleki başarılarını taçlandırmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

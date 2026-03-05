@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "ahmetuz_f0c9b1ed",
+    "title": "Ahmet Uz",
+    "url": "https://tr.wikipedia.org/wiki/Ahmet_Uz",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:02.848536",
+    "content": "Zekai Ahmet Uz, (22 Mart 1945, Ankara - 8 Kasım 2020, İstanbul), Türk tiyatro, sinema, dizi oyuncusu ve seslendirme sanatçısıydı. == Hayatı ve eğitimi == Müzisyen bir aileden gelen ve 1970 yılında İstanbul Belediye Konservatuvarı Tiyatro Bölümü'nden mezun olarak sanat yaşamına adımını atan Uz, bazı özel tiyatro kuruluşlarında ve Devlet Tiyatroları Genel Müdürlüğü'nde görev yaptı. Şehir Tiyatroları kadrosuna geçmesi, 1977 sürecinde oldu. 100'den fazla oyunda rol alan sanatçı, tiyatro dışında sinema ve dizi filmler de çevirdi. Ayrıca seslendirme konusunda da çalışmalarda bulunan Ahmet Uz, bazı filmlere de yapımcı olarak imza attı. == Ölümü == 8 Kasım 2020'de İstanbul'da 75 yaşında ölen Uz'un naaşı Ümraniye Ihlamurkuyu Mezarlığı'nda defnedildi. == Tiyatro oyunları == 1974: Çalıkuşu: Reşat Nuri Güntekin\\Necati Cumalı - Ankara Devlet Tiyatrosu 1975: Marius: Marcel Pagnol - Ankara Devlet Tiyatrosu 1979: Tırpan (oyun): Fakir Baykut\\Taner Barlas - İstanbul Şehir Tiyatrosu 1983: Üçüncü Selim (oyun): Turan Oflazoğlu - İstanbul Şehir Tiyatrosu 1990: Kıral Lear: Wiliam Shakespeare - İstanbul Şehir Tiyatrosu 1996: Oidipus: Sofokles - İstanbul Şehir Tiyatrosu 2001: Suç Ve Ceza: Fyodor Dostoyevski - İstanbul Şehir Tiyatrosu 2002: Bizans Düştü: Turan Oflazoğlu : İstanbul Şehir Tiyatrosu 2004: Hakimiyeti Milliye Aş Evi: Güngör Dilmen - İstanbul Şehir Tiyatrosu 2007: Yaban Ormanları: Alexandre Ostrovski - İstanbul Şehir Tiyatrosu 2008: Titanik Orkestrası: Hristo Boytchev - İstanbul Şehir Tiyatrosu 2012: Sonbaharı Beklerken: Gökhan Eraslan - Sadri Alışık Tiyatrosu xxxx: Kıskanç: İstanbul Şehir Tiyatrosu xxxx: Montserrat: Emmanuel Robles - İstanbul Şehir Tiyatrosu == Filmografisi == === Yapımcılık === 1984: Kadınca 1984: Acı 1984: Fırtına Gönüller 1984: Fidan 1984: Şaşkın Gelin 1984: Darbe === Oyunculuk === 1969: Erkek Fatma 1982: Bir Yudum Mutluluk 1983: En Büyük Yumruk 1983: Üç İstanbul 1994: Cadı Ağacı 1997: Kara Melek 2000: Zehirli Çiçek 2003: Mühürlü Güller 2003: Şarkılar Seni Söyler 2004: Yadigar 2004: Yabancı Damat 2005: Zeytin Dalı 2005: Yeniden Çalıkuşu 2006: Küçük Hanımefendi 2006: Küçük Hanımefendinin Şoförü 2007: Mahşer-Nabucco'nun Zehri 2007: Peri Tozu 2009: Unutulmaz 2012: Acayip Hikayeler 2013: Bir Aşk Hikayesi 2014: İncir Reçeli 2 2016: Kehribar xxxx: Eylül - Hamdi == Kaynakça == == Dış bağlantılar == IMDb'de Ahmet Uz SinemaTürk'te Ahmet Uz",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 344,
+      "char_count": 2378,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.978151",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 130,
+      "content": "Zekai Ahmet Uz, (22 Mart 1945, Ankara - 8 Kasım 2020, İstanbul), Türk tiyatro, sinema, dizi oyuncusu ve seslendirme sanatçısıydı.",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ve eğitimi ==",
+      "heading_path": "== Hayatı ve eğitimi ==",
+      "start_char": 130,
+      "end_char": 637,
+      "content": "== Hayatı ve eğitimi == Müzisyen bir aileden gelen ve 1970 yılında İstanbul Belediye Konservatuvarı Tiyatro Bölümü'nden mezun olarak sanat yaşamına adımını atan Uz, bazı özel tiyatro kuruluşlarında ve Devlet Tiyatroları Genel Müdürlüğü'nde görev yaptı. Şehir Tiyatroları kadrosuna geçmesi, 1977 sürecinde oldu. 100'den fazla oyunda rol alan sanatçı, tiyatro dışında sinema ve dizi filmler de çevirdi. Ayrıca seslendirme konusunda da çalışmalarda bulunan Ahmet Uz, bazı filmlere de yapımcı olarak imza attı.",
+      "char_count": 506,
+      "token_estimate": 126
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 637,
+      "end_char": 752,
+      "content": "== Ölümü == 8 Kasım 2020'de İstanbul'da 75 yaşında ölen Uz'un naaşı Ümraniye Ihlamurkuyu Mezarlığı'nda defnedildi.",
+      "char_count": 114,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0003",
+      "section": "== Tiyatro oyunları ==",
+      "heading_path": "== Tiyatro oyunları ==",
+      "start_char": 752,
+      "end_char": 1673,
+      "content": "== Tiyatro oyunları == 1974: Çalıkuşu: Reşat Nuri Güntekin\\Necati Cumalı - Ankara Devlet Tiyatrosu 1975: Marius: Marcel Pagnol - Ankara Devlet Tiyatrosu 1979: Tırpan (oyun): Fakir Baykut\\Taner Barlas - İstanbul Şehir Tiyatrosu 1983: Üçüncü Selim (oyun): Turan Oflazoğlu - İstanbul Şehir Tiyatrosu 1990: Kıral Lear: Wiliam Shakespeare - İstanbul Şehir Tiyatrosu 1996: Oidipus: Sofokles - İstanbul Şehir Tiyatrosu 2001: Suç Ve Ceza: Fyodor Dostoyevski - İstanbul Şehir Tiyatrosu 2002: Bizans Düştü: Turan Oflazoğlu : İstanbul Şehir Tiyatrosu 2004: Hakimiyeti Milliye Aş Evi: Güngör Dilmen - İstanbul Şehir Tiyatrosu 2007: Yaban Ormanları: Alexandre Ostrovski - İstanbul Şehir Tiyatrosu 2008: Titanik Orkestrası: Hristo Boytchev - İstanbul Şehir Tiyatrosu 2012: Sonbaharı Beklerken: Gökhan Eraslan - Sadri Alışık Tiyatrosu xxxx: Kıskanç: İstanbul Şehir Tiyatrosu xxxx: Montserrat: Emmanuel Robles - İstanbul Şehir Tiyatrosu",
+      "char_count": 920,
+      "token_estimate": 230
+    },
+    {
+      "id": "c0004",
+      "section": "=== Yapımcılık ===",
+      "heading_path": "=== Yapımcılık ===",
+      "start_char": 1692,
+      "end_char": 1801,
+      "content": "=== Yapımcılık === 1984: Kadınca 1984: Acı 1984: Fırtına Gönüller 1984: Fidan 1984: Şaşkın Gelin 1984: Darbe",
+      "char_count": 108,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0005",
+      "section": "=== Oyunculuk ===",
+      "heading_path": "=== Oyunculuk ===",
+      "start_char": 1801,
+      "end_char": 2302,
+      "content": "=== Oyunculuk === 1969: Erkek Fatma 1982: Bir Yudum Mutluluk 1983: En Büyük Yumruk 1983: Üç İstanbul 1994: Cadı Ağacı 1997: Kara Melek 2000: Zehirli Çiçek 2003: Mühürlü Güller 2003: Şarkılar Seni Söyler 2004: Yadigar 2004: Yabancı Damat 2005: Zeytin Dalı 2005: Yeniden Çalıkuşu 2006: Küçük Hanımefendi 2006: Küçük Hanımefendinin Şoförü 2007: Mahşer-Nabucco'nun Zehri 2007: Peri Tozu 2009: Unutulmaz 2012: Acayip Hikayeler 2013: Bir Aşk Hikayesi 2014: İncir Reçeli 2 2016: Kehribar xxxx: Eylül - Hamdi",
+      "char_count": 500,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2317,
+      "end_char": 2378,
+      "content": "== Dış bağlantılar == IMDb'de Ahmet Uz SinemaTürk'te Ahmet Uz",
+      "char_count": 61,
+      "token_estimate": 15
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ankara Devlet Tiyatrosu tarafından 1974 yılında sahnelenen oyun hangisidir?",
+        "answer": "Çalıkuşu",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Zekai Ahmet Uz'un profesyonel sanat yaşamı, eğitimi ve farklı alanlardaki faaliyetleri göz önüne alındığında, çok yönlü kariyeri nasıl şekillenmiştir?",
+        "answer": "Müzisyen bir aileden gelen Zekai Ahmet Uz, 1970 yılında İstanbul Belediye Konservatuvarı Tiyatro Bölümü'nden mezun olarak sanat yaşamına adım atmıştır. Özel tiyatro kuruluşları ve Devlet Tiyatroları Genel Müdürlüğü'ndeki görevlerinin ardından 1977'de Şehir Tiyatroları kadrosuna geçerek tiyatroda 100'den fazla oyunda rol almıştır. Tiyatro oyunculuğunun yanı sıra sinema, dizi oyunculuğu, seslendirme sanatçılığı ve yapımcılık gibi çeşitli alanlarda da çalışmalarda bulunarak kariyerini çeşitlendirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

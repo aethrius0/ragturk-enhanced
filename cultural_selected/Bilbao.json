@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "bilbao_442060c6",
+    "title": "Bilbao",
+    "url": "https://tr.wikipedia.org/wiki/Bilbao",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:28.298216",
+    "content": "Bilbao (Baskça: Bilbo), İspanya'nın kuzeyinde, otonom Bask Bölgesi'nin nüfus itibarıyla en büyük şehri ve Biskay'ın merkezidir. == Tarihçe == == Coğrafi konum == Bilbao, İspanya'nın kuzey kıyılarında Atlantik Okyanusu'nun Biskay Körfezi sahilinde Bask Bölgesi'nin kuzeydoğusunda konumlanmıştır. Şehir Nervion Nehri boyunca yerleşmiştir. Bu nehrin kıyısında Sanayi Devrimi sırasında bölgeye refah getiren sayısız fabrika ve iş yeri de bulunmaktadır. Bilbao aynı zamanda, bu nehrin gelgit ile çok derin ve bir fiyord gibi çok kara içerisine girmiş olan \"Ria de Bilbao\" körfezi üzerinde bir liman şehridir. Bilbao şehrinin bazı önemli İspanya şehirlerinde uzaklıkları şu listeden incelenebilir: Barselona: 605 km La Coruña: 551 km Madrid: 393 km Pamplona: 138 km San Sebastián / Donostia:94 km Santander: 95 km Valensiya: 670 km Valladolid: 281 km Vitoria-Gasteiz: 64 km Zaragoza: 303 km == İklim == == Demografi == Bilbao belediye sınırları içinde nüfus (2010 tahmini) itibarıyla 353.187 kişi olup nüfus yoğunluğu 8688,5 kişi/km² olur. Böylelikle Zaragoza, nüfus itibarıyla şehir sıralamasında Bask bölgesinde 1. sırayı; tüm İspanya'da 11. sırayı alır. Fakat esas şehir yanındaki varoşları ile \"Büyük Bilbao\" oluşur ve Büyük Bilbao'ya resmen \"comark\" olma statüsü verilmiştir. Bask Bölgesi'nin nüfusunun yaklaşık yarısının yaşadığı \"Büyük Bilbao\", ekonomik ve endüstri açısından bölgenin en aktif kısmıdır. Büyük Bilbao'nın nüfusu 875,552 kişi olarak tahmin edilmektedir. Büyük Bilbao bu nüfusuyla İspanya'da bulunan büyük metropoliten şehirler arasında 5. sırayı almaktadır. Bilbao belediye sınırları içinde nüfusun gelişmesi şu gösterimde izlenebilir: 1.000 Kişi Kaynak: INE - Instituto Nacional de Estadística, İspanya == İdari yapılanma ve yönetim == === Bölgeler === === Yerel yönetim === Seçilmiş belediye başkanları: == Kardeş şehirler == Bilbao'nun şu kardeş şehirleri bulunmaktadır: Bordeaux, Fransa Buenos Aires, Arjantin Medellín, Kolombiya Monterrey, Meksika Pittsburgh, Amerika Birleşik Devletleri Çingdao, Çin Rosario, Arjantin Sant Adrià de Besòs, İspanya Tiflis, Gürcistan == Galeri == == Kaynakça == == Ayrıca bakınız == Santoña İhaneti Bask Bölgesi Biskay ili == Dış bağlantılar == Resmî site",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 307,
+      "char_count": 2208,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.510340",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 128,
+      "content": "Bilbao (Baskça: Bilbo), İspanya'nın kuzeyinde, otonom Bask Bölgesi'nin nüfus itibarıyla en büyük şehri ve Biskay'ın merkezidir.",
+      "char_count": 127,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafi konum ==",
+      "heading_path": "== Coğrafi konum ==",
+      "start_char": 142,
+      "end_char": 885,
+      "content": "== Coğrafi konum == Bilbao, İspanya'nın kuzey kıyılarında Atlantik Okyanusu'nun Biskay Körfezi sahilinde Bask Bölgesi'nin kuzeydoğusunda konumlanmıştır. Şehir Nervion Nehri boyunca yerleşmiştir. Bu nehrin kıyısında Sanayi Devrimi sırasında bölgeye refah getiren sayısız fabrika ve iş yeri de bulunmaktadır. Bilbao aynı zamanda, bu nehrin gelgit ile çok derin ve bir fiyord gibi çok kara içerisine girmiş olan \"Ria de Bilbao\" körfezi üzerinde bir liman şehridir. Bilbao şehrinin bazı önemli İspanya şehirlerinde uzaklıkları şu listeden incelenebilir: Barselona: 605 km La Coruña: 551 km Madrid: 393 km Pamplona: 138 km San Sebastián / Donostia:94 km Santander: 95 km Valensiya: 670 km Valladolid: 281 km Vitoria-Gasteiz: 64 km Zaragoza: 303 km",
+      "char_count": 742,
+      "token_estimate": 185
+    },
+    {
+      "id": "c0002",
+      "section": "== Demografi ==",
+      "heading_path": "== Demografi ==",
+      "start_char": 897,
+      "end_char": 1720,
+      "content": "== Demografi == Bilbao belediye sınırları içinde nüfus (2010 tahmini) itibarıyla 353.187 kişi olup nüfus yoğunluğu 8688,5 kişi/km² olur. Böylelikle Zaragoza, nüfus itibarıyla şehir sıralamasında Bask bölgesinde 1. sırayı; tüm İspanya'da 11. sırayı alır. Fakat esas şehir yanındaki varoşları ile \"Büyük Bilbao\" oluşur ve Büyük Bilbao'ya resmen \"comark\" olma statüsü verilmiştir. Bask Bölgesi'nin nüfusunun yaklaşık yarısının yaşadığı \"Büyük Bilbao\", ekonomik ve endüstri açısından bölgenin en aktif kısmıdır. Büyük Bilbao'nın nüfusu 875,552 kişi olarak tahmin edilmektedir. Büyük Bilbao bu nüfusuyla İspanya'da bulunan büyük metropoliten şehirler arasında 5. sırayı almaktadır. Bilbao belediye sınırları içinde nüfusun gelişmesi şu gösterimde izlenebilir: 1.000 Kişi Kaynak: INE - Instituto Nacional de Estadística, İspanya",
+      "char_count": 822,
+      "token_estimate": 205
+    },
+    {
+      "id": "c0003",
+      "section": "=== Yerel yönetim ===",
+      "heading_path": "=== Yerel yönetim ===",
+      "start_char": 1770,
+      "end_char": 1822,
+      "content": "=== Yerel yönetim === Seçilmiş belediye başkanları:",
+      "char_count": 51,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0004",
+      "section": "== Kardeş şehirler ==",
+      "heading_path": "== Kardeş şehirler ==",
+      "start_char": 1822,
+      "end_char": 2087,
+      "content": "== Kardeş şehirler == Bilbao'nun şu kardeş şehirleri bulunmaktadır: Bordeaux, Fransa Buenos Aires, Arjantin Medellín, Kolombiya Monterrey, Meksika Pittsburgh, Amerika Birleşik Devletleri Çingdao, Çin Rosario, Arjantin Sant Adrià de Besòs, İspanya Tiflis, Gürcistan",
+      "char_count": 264,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2115,
+      "end_char": 2176,
+      "content": "== Ayrıca bakınız == Santoña İhaneti Bask Bölgesi Biskay ili",
+      "char_count": 60,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2176,
+      "end_char": 2208,
+      "content": "== Dış bağlantılar == Resmî site",
+      "char_count": 32,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2010 tahmini itibarıyla Bilbao belediye sınırları içindeki nüfus kaç kişidir?",
+        "answer": "353.187 kişi.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bilbao'nun Bask Bölgesi içindeki konumu ve önemi, hem coğrafi hem de demografik olarak nasıl tanımlanır?",
+        "answer": "Bilbao, İspanya'nın kuzeyinde, Atlantik Okyanusu'nun Biskay Körfezi sahilinde ve Bask Bölgesi'nin kuzeydoğusunda, Nervion Nehri boyunca yerleşmiş bir liman şehridir. Şehir, Sanayi Devrimi sırasında bölgeye refah getiren endüstriyel faaliyetleriyle ekonomik bir merkez olmuştur. Demografik olarak, Bilbao belediyesi nüfus itibarıyla Bask Bölgesi'nde 1. sıradadır ve bölgenin nüfusunun yaklaşık yarısına ev sahipliği yapan \"Büyük Bilbao\" ekonomik ve endüstriyel açıdan bölgenin en aktif kısmını oluşturmaktadır. Bu özellikleriyle Bilbao, Bask Bölgesi'nin nüfus itibarıyla en büyük şehri ve merkezi konumundadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

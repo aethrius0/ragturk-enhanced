@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "niclaskirkelkke_9086e400",
+    "title": "Niclas Kirkeløkke",
+    "url": "https://tr.wikipedia.org/wiki/Niclas_Kirkel%C3%B8kke",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:19.145431",
+    "content": "Niclas Vest Kirkeløkke (d. 26 Mart 1994, Ringe), Danimarkalı hentbol oyuncusudur. Rhein-Neckar Löwen ve Danimarka millî takımında forma giymektedir. == Kariyeri == === Kulüp === Kirkeløkke hentbola Danimarka kulübü Risøhøj Håndbold'da başladı ve burada U6 ile U12 yaş gruplarında aktif olarak oynadı. 2006 yılında GOG'a katıldı. 2012 yazında, Danimarka'nın en yüksek ikinci liginde mücadele eden GOG'un erkek takımının kadrosuna geçti. Solak oyuncu 2013 yılında GOG ile Herrehåndboldligaen'e yükseldi. Kasım 2018'de Alman Bundesliga kulübü Rhein-Neckar Löwen ile 2019 yazında başlayan ve Aralık 2021'de 2023-24 sezonunun sonuna kadar uzatılan iki yıllık bir sözleşme imzaladı. === Millî takım === Kirkeløkke başlangıçta Danimarka yıldız ve genç takımlarında oynadı. 2012'de Avrupa 18 Yaş Altı Şampiyonası'nda bronz madalya kazandı ve All-Star takımına seçildi. Bir yıl sonra 19 Yaş Altı Dünya Şampiyonası'nda altın madalya kazandı ve yine All-Star takımına seçildi. Danimarka ile 2014 Avrupa 20 Yaş Altı Şampiyonası'nı dördüncü sırada tamamladıktan sonra sakatlığı nedeniyle 2015 Dünya 21 Yaş Altı Şampiyonası'na katılamadı. Danimarka A millî takımı için ilk uluslararası maçına 3 Kasım 2016 tarihinde Hollanda karşısında çıktı. İki ay sonra 2017 Dünya Şampiyonası'nda yer aldı ve turnuva boyunca yedi gol attı. Danimarka ile 2022 Avrupa Şampiyonası'nda bronz madalya kazandı. Danimarka'nın kazandığı 2023 Dünya Şampiyonası için aday gösterildi. Çoğunlukla sağ kanatta görev aldı ve böylece turnuvanın en iyi oyuncusu Mathias Gidsel'i yarı pozisyona geçmeden savunmada rahatlatabildi. == Özel hayatı == Niclas Kirkeløkke, 1980'lerin başında yıldız ve genç millî takımlarda birçok maça çıkan Gun-Britt Kirkeløkke'nin oğludur. Gun-Britt'in ikiz kardeşi Gun-Maj da 1985-1987 yılları arasında 25 A millî maçta oynamıştır. Aynı zamanda Skanderborg Håndbold'da oynayan Sarah Kirkeløkke'nin ağabeyidir. == Başarıları == == Kaynakça == == Dış bağlantılar == Niclas Kirkeløkke Olympedia (İngilizce) Niclas Kirkeløkke Avrupa Hentbol Federasyonu (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 277,
+      "char_count": 2046,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.664706",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 149,
+      "content": "Niclas Vest Kirkeløkke (d. 26 Mart 1994, Ringe), Danimarkalı hentbol oyuncusudur. Rhein-Neckar Löwen ve Danimarka millî takımında forma giymektedir.",
+      "char_count": 148,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kulüp ===",
+      "heading_path": "=== Kulüp ===",
+      "start_char": 164,
+      "end_char": 677,
+      "content": "=== Kulüp === Kirkeløkke hentbola Danimarka kulübü Risøhøj Håndbold'da başladı ve burada U6 ile U12 yaş gruplarında aktif olarak oynadı. 2006 yılında GOG'a katıldı. 2012 yazında, Danimarka'nın en yüksek ikinci liginde mücadele eden GOG'un erkek takımının kadrosuna geçti. Solak oyuncu 2013 yılında GOG ile Herrehåndboldligaen'e yükseldi. Kasım 2018'de Alman Bundesliga kulübü Rhein-Neckar Löwen ile 2019 yazında başlayan ve Aralık 2021'de 2023-24 sezonunun sonuna kadar uzatılan iki yıllık bir sözleşme imzaladı.",
+      "char_count": 512,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0002",
+      "section": "=== Millî takım ===",
+      "heading_path": "=== Millî takım ===",
+      "start_char": 677,
+      "end_char": 1585,
+      "content": "=== Millî takım === Kirkeløkke başlangıçta Danimarka yıldız ve genç takımlarında oynadı. 2012'de Avrupa 18 Yaş Altı Şampiyonası'nda bronz madalya kazandı ve All-Star takımına seçildi. Bir yıl sonra 19 Yaş Altı Dünya Şampiyonası'nda altın madalya kazandı ve yine All-Star takımına seçildi. Danimarka ile 2014 Avrupa 20 Yaş Altı Şampiyonası'nı dördüncü sırada tamamladıktan sonra sakatlığı nedeniyle 2015 Dünya 21 Yaş Altı Şampiyonası'na katılamadı. Danimarka A millî takımı için ilk uluslararası maçına 3 Kasım 2016 tarihinde Hollanda karşısında çıktı. İki ay sonra 2017 Dünya Şampiyonası'nda yer aldı ve turnuva boyunca yedi gol attı. Danimarka ile 2022 Avrupa Şampiyonası'nda bronz madalya kazandı. Danimarka'nın kazandığı 2023 Dünya Şampiyonası için aday gösterildi. Çoğunlukla sağ kanatta görev aldı ve böylece turnuvanın en iyi oyuncusu Mathias Gidsel'i yarı pozisyona geçmeden savunmada rahatlatabildi.",
+      "char_count": 907,
+      "token_estimate": 226
+    },
+    {
+      "id": "c0003",
+      "section": "== Özel hayatı ==",
+      "heading_path": "== Özel hayatı ==",
+      "start_char": 1585,
+      "end_char": 1896,
+      "content": "== Özel hayatı == Niclas Kirkeløkke, 1980'lerin başında yıldız ve genç millî takımlarda birçok maça çıkan Gun-Britt Kirkeløkke'nin oğludur. Gun-Britt'in ikiz kardeşi Gun-Maj da 1985-1987 yılları arasında 25 A millî maçta oynamıştır. Aynı zamanda Skanderborg Håndbold'da oynayan Sarah Kirkeløkke'nin ağabeyidir.",
+      "char_count": 310,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1928,
+      "end_char": 2046,
+      "content": "== Dış bağlantılar == Niclas Kirkeløkke Olympedia (İngilizce) Niclas Kirkeløkke Avrupa Hentbol Federasyonu (İngilizce)",
+      "char_count": 118,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kirkeløkke, Danimarka A millî takımı için ilk uluslararası maçına hangi tarihte çıkmıştır?",
+        "answer": "3 Kasım 2016 tarihinde.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Niclas Kirkeløkke'nin Danimarka A millî hentbol takımındaki ilk maçına çıkışı ve önemli uluslararası turnuvalara katılımı, Alman Bundesliga kulübü Rhein-Neckar Löwen'e geçişiyle nasıl bir zaman çizelgesine sahiptir?",
+        "answer": "Niclas Kirkeløkke, 3 Kasım 2016'da Danimarka A millî takımı için ilk uluslararası maçına çıktı ve 2017 Dünya Şampiyonası'na katıldı. Uluslararası alandaki başarıları arasında 2022 Avrupa Şampiyonası'nda bronz madalya ve 2023 Dünya Şampiyonası'nda altın madalya bulunmaktadır. Öte yandan, Kasım 2018'de Alman Bundesliga kulübü Rhein-Neckar Löwen ile 2019 yazında başlayacak bir sözleşme imzaladı. Bu durum, Kirkeløkke'nin ulusal düzeydeki ilk çıkışının ve önemli başarılarının, kariyerindeki büyük kulüp geçişinden önce gerçekleştiğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

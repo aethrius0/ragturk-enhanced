@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "chuci_d67dec54",
+    "title": "Chu Ci",
+    "url": "https://tr.wikipedia.org/wiki/Chu_Ci",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:35.031691",
+    "content": "Chu Ci (Çince: 楚辭, Pinyin: chǔ cí), ayrıca Güneyin Şarkıları veya Chu'nun Şarkıları olarak da bilinen, Muharip Devletler Döneminden Qu Yuan ve Song Yu ve onların stillerinin takipçileri tarafından yazılmış Çince şiirlerin bir antolojisi. 58 kısa şiir ve 6 uzun şiirden oluşan antoloji, bilinen ikinci en eski Çince şiir derlemesidir. Antoloji ismini Muharip Devletler Döneminde Chu bölgesinde ortaya çıkan ve yayılan yeni bir şiir formundan almaktadır. Bu yeni nazım formu, chu ci, Shi Jingdeki şiirlerde de görülen klasik dört karakterli mısra tercihi yerine değişen uzunluklarda mısralar kullanmaktadır. Bu ifadelerde serbestliğe ve özgürlüğe, ritimde de artışa sebep olmuştur. Ayrıca chu ci, Sarı Nehrin kuzey bölgesinin lehçeleriyle okunan Shi Jingden farklı olarak Chu bölgesi lehçesiyle okunur. == İçindekiler == 01 離騷 LiSao Sıkıntıyla Karşılaşınca 02 九歌 JiuGe Dokuz Şarkı 03 天問 TianWen Cennetsel Sorular 04 九章 JiuZhang Dokuz Parça 05 遠遊 YuanYou Uzak Yolculuk 06 卜居 BuJu Kehanet 07 漁父 YuFu Balıkçı 08 九辯 JiuBian Dokuz Değişiklik 09 招魂 ZhaoHun Ruhun Çağrıları 10 大招 DaZhao Yüce Çağrılar 11 惜誓 XiShi İhanet edilen Sadakâte Matem 12 招隱 ZhaoYin Bir Keşişe Çağrılar 13 七諫 QiJian Yedi Sitem 14 哀時AiShi Ming Ne Yazık ki Benim Kısmetim Dağıtılmamıştı 15 九懷 JiuHuai Yedi Teessüf 16 九歎 JiuTan Dokuz Ağıt 17 九思 JiuSi Dokuz Hasret",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 207,
+      "char_count": 1324,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.607282",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 801,
+      "content": "Chu Ci (Çince: 楚辭, Pinyin: chǔ cí), ayrıca Güneyin Şarkıları veya Chu'nun Şarkıları olarak da bilinen, Muharip Devletler Döneminden Qu Yuan ve Song Yu ve onların stillerinin takipçileri tarafından yazılmış Çince şiirlerin bir antolojisi. 58 kısa şiir ve 6 uzun şiirden oluşan antoloji, bilinen ikinci en eski Çince şiir derlemesidir. Antoloji ismini Muharip Devletler Döneminde Chu bölgesinde ortaya çıkan ve yayılan yeni bir şiir formundan almaktadır. Bu yeni nazım formu, chu ci, Shi Jingdeki şiirlerde de görülen klasik dört karakterli mısra tercihi yerine değişen uzunluklarda mısralar kullanmaktadır. Bu ifadelerde serbestliğe ve özgürlüğe, ritimde de artışa sebep olmuştur. Ayrıca chu ci, Sarı Nehrin kuzey bölgesinin lehçeleriyle okunan Shi Jingden farklı olarak Chu bölgesi lehçesiyle okunur.",
+      "char_count": 800,
+      "token_estimate": 200
+    },
+    {
+      "id": "c0001",
+      "section": "== İçindekiler ==",
+      "heading_path": "== İçindekiler ==",
+      "start_char": 801,
+      "end_char": 1324,
+      "content": "== İçindekiler == 01 離騷 LiSao Sıkıntıyla Karşılaşınca 02 九歌 JiuGe Dokuz Şarkı 03 天問 TianWen Cennetsel Sorular 04 九章 JiuZhang Dokuz Parça 05 遠遊 YuanYou Uzak Yolculuk 06 卜居 BuJu Kehanet 07 漁父 YuFu Balıkçı 08 九辯 JiuBian Dokuz Değişiklik 09 招魂 ZhaoHun Ruhun Çağrıları 10 大招 DaZhao Yüce Çağrılar 11 惜誓 XiShi İhanet edilen Sadakâte Matem 12 招隱 ZhaoYin Bir Keşişe Çağrılar 13 七諫 QiJian Yedi Sitem 14 哀時AiShi Ming Ne Yazık ki Benim Kısmetim Dağıtılmamıştı 15 九懷 JiuHuai Yedi Teessüf 16 九歎 JiuTan Dokuz Ağıt 17 九思 JiuSi Dokuz Hasret",
+      "char_count": 523,
+      "token_estimate": 130
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Chu Ci antolojisi kaç kısa ve kaç uzun şiirden oluşur?",
+        "answer": "Antoloji, 58 kısa şiir ve 6 uzun şiirden oluşmaktadır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Chu Ci'nin şiirsel formunun çeşitliliğine ve içerdiği farklı şiir türlerine dair açıklamalar, antolojinin içindekiler bölümünde listelenen eserlerin genel niteliklerini nasıl yansıtır?",
+        "answer": "Chu Ci, c0000 parçasında belirtildiği üzere, değişen uzunluklarda mısralar kullanarak ifadede serbestlik ve ritimde artış sağlayan yeni bir şiir formuna sahip, 58 kısa ve 6 uzun şiirden oluşan bir antolojidir. c0001 parçasında listelenen 'Sıkıntıyla Karşılaşınca', 'Dokuz Şarkı', 'Cennetsel Sorular', 'Uzak Yolculuk', 'Kehanet', 'Ruhun Çağrıları' ve 'Dokuz Ağıt' gibi çeşitli başlıklar, antolojinin geniş bir tematik ve yapısal yelpazeye sahip olduğunu göstermektedir. Bu, antolojinin farklı anlatısal, felsefi, duygusal veya ritüelistik şiirler içerdiğini, dolayısıyla c0000'de bahsedilen form serbestliği ve çeşitliliğini içerik açısından da desteklediğini yansıtır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

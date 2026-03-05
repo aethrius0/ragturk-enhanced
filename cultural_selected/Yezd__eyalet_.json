@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "yezdeyalet_d486937a",
+    "title": "Yezd (eyalet)",
+    "url": "https://tr.wikipedia.org/wiki/Yezd_%28eyalet%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:03.283974",
+    "content": "31°54′K 54°22′D Yezd Eyaleti (Farsça: استان یزد, Ostān-e Yazd), İran'ın 31 eyaletinden birisidir. İranın orta kısmında yer alan eyaletin yüzölçümü 73.467 km² -İran'ın en büyük 4. eyaletidir-, 2005 nüfusu 958.318'dir. Yönetim merkezi olan ve eyalete adını veren Yezd şehri, İran'ın en eski ve tarihi şehirlerinden birisidir ayrıca Zerdüştlüğün önemli bir merkezidir. == Tarihi == Yezd, köklü bir geçmişe sahiptir. Tarih boyunca İpek Yolu üzerinde önemli bir ticaret merkezi olan bölgede MÖ 700'den beridir yerleşim olduğu tespit edilmiştir. İsmi, Sasani kralı Yezdgerd'e (421–339 MÖ) ithafen verilen 'Yezdan Gerd' isminden kaynaklanmıştır. Yunan tarihçileri ise Yezd'e 'Ayatis' demişlerdir. 600'lü yıllarda Müslümanlar tarafından ise ismi 'Dar'ül İbade' olarak değiştirilmiştir.642 yılında Müslümanlar'ın hakimiyetine giren bölge, 13. yüzyıl başlarında Cengiz Han ve Timur ordularının yıkımlarından çöllerle çevrili olduğunda kısmen kurtulabilmiştir. Önemli ticaret yollarının üzerinde olmasının getirdiği zenginlikle kısa sürede tekrar mamur bir bölge haline gelmiştir. Venedikli seyyah Marco Polo 1272'de Yezd şehrine gelmiş bölgenin zenginliğinden ve ipek üretim merkezi olduğundan bahsetmiştir. == Konum == Ülkenin orta kısmında yer alan eyaletin kuzeyinde Semnan ile Razavi Horasan, doğusunda Güney Horasan, batısında İsfahan ile Fars ve güneyinde Kirman eyaletleri bulunur. Eyalet, 73.467 km²'lik bir alana sahiptir. == Nüfus ve halk == Yezd'in 2005 yılı nüfusu 958.318 kişidir. Eyalet nüfusunun çoğunluğunu Farslar oluşturur ve halk ağırlıklı olarak Şii Müslüman'dır. Ayrıca Zerdüşt dinine tabi küçük topluluklar da vardır. == İklim ve coğrafya == Zagros dağları'nın doğusunda yer alan eyaletin arazisi nispeten düzdür. Kuzeyinde Kevir Çölü, doğusunda ise Lut Çölü ile çevrelenmiş eyalet arazisinin ortalama rakımı 850 m.'dir. Fakat rakım Şir Kuh'da 4000 m.'ye kadar çıkmaktadır. Eyalet sıcak ve kuru bir iklime sahiptir. Yaz aylarında az yağış alır yer yer kuraklık olayları görülür. Yılda ortalama yağış miktarı, 50–100 mm değerindedir. Mevsimler arası ve gece-gündüz arasında ısı farklılaşması oldukça değişkendir, en yüksek sıcaklık 45 C°, en düşük sıcaklık -20 C° dir. Gün içindeki ısı ortalaması, yıllık 11/9 – 20/7 C° arasında değişim göstermektedir. == Dış bağlantılar == Yezd Coğrafyası ve Tarihi Yezd Eyaleti Valiliği resmi sitesi iranchamber.com15 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi. Cultural Heritage Organization of Yazd Province6 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi. Panorama inside the Masjid-i-Jame mosque GhoolAbad.com31 Ağustos 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 357,
+      "char_count": 2647,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.144492",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 366,
+      "content": "31°54′K 54°22′D Yezd Eyaleti (Farsça: استان یزد, Ostān-e Yazd), İran'ın 31 eyaletinden birisidir. İranın orta kısmında yer alan eyaletin yüzölçümü 73.467 km² -İran'ın en büyük 4. eyaletidir-, 2005 nüfusu 958.318'dir. Yönetim merkezi olan ve eyalete adını veren Yezd şehri, İran'ın en eski ve tarihi şehirlerinden birisidir ayrıca Zerdüştlüğün önemli bir merkezidir.",
+      "char_count": 365,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 366,
+      "end_char": 1198,
+      "content": "== Tarihi == Yezd, köklü bir geçmişe sahiptir. Tarih boyunca İpek Yolu üzerinde önemli bir ticaret merkezi olan bölgede MÖ 700'den beridir yerleşim olduğu tespit edilmiştir. İsmi, Sasani kralı Yezdgerd'e (421–339 MÖ) ithafen verilen 'Yezdan Gerd' isminden kaynaklanmıştır. Yunan tarihçileri ise Yezd'e 'Ayatis' demişlerdir. 600'lü yıllarda Müslümanlar tarafından ise ismi 'Dar'ül İbade' olarak değiştirilmiştir.642 yılında Müslümanlar'ın hakimiyetine giren bölge, 13. yüzyıl başlarında Cengiz Han ve Timur ordularının yıkımlarından çöllerle çevrili olduğunda kısmen kurtulabilmiştir. Önemli ticaret yollarının üzerinde olmasının getirdiği zenginlikle kısa sürede tekrar mamur bir bölge haline gelmiştir. Venedikli seyyah Marco Polo 1272'de Yezd şehrine gelmiş bölgenin zenginliğinden ve ipek üretim merkezi olduğundan bahsetmiştir.",
+      "char_count": 831,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0002",
+      "section": "== Konum ==",
+      "heading_path": "== Konum ==",
+      "start_char": 1198,
+      "end_char": 1422,
+      "content": "== Konum == Ülkenin orta kısmında yer alan eyaletin kuzeyinde Semnan ile Razavi Horasan, doğusunda Güney Horasan, batısında İsfahan ile Fars ve güneyinde Kirman eyaletleri bulunur. Eyalet, 73.467 km²'lik bir alana sahiptir.",
+      "char_count": 223,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0003",
+      "section": "== Nüfus ve halk ==",
+      "heading_path": "== Nüfus ve halk ==",
+      "start_char": 1422,
+      "end_char": 1630,
+      "content": "== Nüfus ve halk == Yezd'in 2005 yılı nüfusu 958.318 kişidir. Eyalet nüfusunun çoğunluğunu Farslar oluşturur ve halk ağırlıklı olarak Şii Müslüman'dır. Ayrıca Zerdüşt dinine tabi küçük topluluklar da vardır.",
+      "char_count": 207,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0004",
+      "section": "== İklim ve coğrafya ==",
+      "heading_path": "== İklim ve coğrafya ==",
+      "start_char": 1630,
+      "end_char": 2264,
+      "content": "== İklim ve coğrafya == Zagros dağları'nın doğusunda yer alan eyaletin arazisi nispeten düzdür. Kuzeyinde Kevir Çölü, doğusunda ise Lut Çölü ile çevrelenmiş eyalet arazisinin ortalama rakımı 850 m.'dir. Fakat rakım Şir Kuh'da 4000 m.'ye kadar çıkmaktadır. Eyalet sıcak ve kuru bir iklime sahiptir. Yaz aylarında az yağış alır yer yer kuraklık olayları görülür. Yılda ortalama yağış miktarı, 50–100 mm değerindedir. Mevsimler arası ve gece-gündüz arasında ısı farklılaşması oldukça değişkendir, en yüksek sıcaklık 45 C°, en düşük sıcaklık -20 C° dir. Gün içindeki ısı ortalaması, yıllık 11/9 – 20/7 C° arasında değişim göstermektedir.",
+      "char_count": 633,
+      "token_estimate": 158
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2264,
+      "end_char": 2647,
+      "content": "== Dış bağlantılar == Yezd Coğrafyası ve Tarihi Yezd Eyaleti Valiliği resmi sitesi iranchamber.com15 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi. Cultural Heritage Organization of Yazd Province6 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi. Panorama inside the Masjid-i-Jame mosque GhoolAbad.com31 Ağustos 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 383,
+      "token_estimate": 95
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yezd'in isminin kökeni hangi Sasani kralına dayanmaktadır?",
+        "answer": "Yezdgerd'e",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yezd'in İran'ın orta kısmındaki coğrafi konumu ve çöllerle çevrili olması, 13. yüzyıldaki istilalardan kısmen kurtulmasında nasıl bir etkiye sahip olmuştur?",
+        "answer": "İran'ın orta kısmında yer alması ve çöllerle çevrili olması sayesinde Yezd, 13. yüzyıl başlarında Cengiz Han ve Timur ordularının yıkımlarından kısmen kurtulabilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "kadnnbeyanesastr_852e9844",
+    "title": "Kadının beyanı esastır",
+    "url": "https://tr.wikipedia.org/wiki/Kad%C4%B1n%C4%B1n_beyan%C4%B1_esast%C4%B1r",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:45.028292",
+    "content": "Kadının beyanı esastır ilkesi, cinsel suçlar ve şiddet vakalarında mağdurun beyanının ihmal edilmemesi gerektiğini ifade eden, soruşturma sürecinin başlatılması açısından rehber alınan bir ilkedir. Ceza yargılamasında delillerin serbestliği ilkesi, masumiyet karinesi ve şüpheden sanık yararlanır ilkesi gereği, mağdurun beyanı ancak diğer delillerle birlikte değerlendirilerek mahkûmiyet kararı verilebilir. Mevcut Yargıtay ve AİHM içtihatlarında erkekler sadece kadın beyanına dayanarak mahkum edilebilmektedir. == Hukuki kapsam == Bu ilke çoğunlukla 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun kapsamında gündeme gelmektedir. 6284 sayılı Kanun'da koruyucu ve önleyici tedbir kararlarının alınması için mağdurun beyanı esas alınabilmekte, delil aranmamaktadır. Ancak bu düzenleme, ceza yargılamasını kapsamaz. Ceza hukukunda, kişi hakkında mahkûmiyet kararı verilebilmesi için suçun şüpheden uzak şekilde ispatlanması gerekir. Türk Ceza Kanunu ve Ceza Muhakemesi Kanunu çerçevesinde her türlü iddia, somut ve denetlenebilir delillerle desteklenmelidir. Eski Anayasa Mahkemesi Başkanı Zühtü Arslan da 8 Kasım 2021 tarihli açılış konuşmasında “Masumiyet karinesi”nin önemini vurgulamıştır ve bu beyanın tek başına hüküm için yeterli olmadığını belirtmiştir. == Yargı kararları ve uygulama == Yargıtay ve ilk derece mahkemeleri, ceza yargılamasında mağdurun beyanını tek başına yeterli görmemekte; beyanın destekleyici unsurlar taşıyıp taşımadığına, tutarlılığına, yaşamın olağan akışına uygunluğuna ve diğer delillerle birlikte değerlendirilip değerlendirilmediğine bakmaktadır. Mahkûmiyet kararlarında yalnızca beyana dayanılması, yüksek yargı tarafından bozma gerekçesi olmaktadır. Bu doğrultuda; mağdurun ruhsal durumu, olayı anlatış biçimi, fail ile olan ilişkisi, önceki beyanlarla çelişip çelişmediği gibi hususlar göz önüne alınmaktadır. Bu çerçevede, yargılama sürecinde beyanın güvenilirliği ve somut delillerle desteklenip desteklenmediği önem taşır. == Eleştiriler ve tartışmalar == Bu ilkeye yöneltilen eleştirilerde, genellikle “tek başına beyanla mahkûmiyet” algısı öne çıkmaktadır. Ancak Türk Ceza Hukuku’nda bu mümkün değildir. Yargının bağımsızlığı ve tarafsızlığı çerçevesinde beyan, yalnızca bir delildir. Diğer delillerle desteklenmeyen bir beyana dayalı hüküm, masumiyet karinesine aykırılık teşkil eder. Ayrıca, “ya kadın yalan söylüyorsa?” gibi karşı argümanlar da bu bağlamda değerlendirilmekte; delil değerlendirme süreci içinde doğru veya yalan beyanın tespiti yapılmakta ve mahkeme kararına gerekçeli olarak yansıtılmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 316,
+      "char_count": 2601,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.771648",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 514,
+      "content": "Kadının beyanı esastır ilkesi, cinsel suçlar ve şiddet vakalarında mağdurun beyanının ihmal edilmemesi gerektiğini ifade eden, soruşturma sürecinin başlatılması açısından rehber alınan bir ilkedir. Ceza yargılamasında delillerin serbestliği ilkesi, masumiyet karinesi ve şüpheden sanık yararlanır ilkesi gereği, mağdurun beyanı ancak diğer delillerle birlikte değerlendirilerek mahkûmiyet kararı verilebilir. Mevcut Yargıtay ve AİHM içtihatlarında erkekler sadece kadın beyanına dayanarak mahkum edilebilmektedir.",
+      "char_count": 513,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0001",
+      "section": "== Hukuki kapsam ==",
+      "heading_path": "== Hukuki kapsam ==",
+      "start_char": 514,
+      "end_char": 1292,
+      "content": "== Hukuki kapsam == Bu ilke çoğunlukla 6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun kapsamında gündeme gelmektedir. 6284 sayılı Kanun'da koruyucu ve önleyici tedbir kararlarının alınması için mağdurun beyanı esas alınabilmekte, delil aranmamaktadır. Ancak bu düzenleme, ceza yargılamasını kapsamaz. Ceza hukukunda, kişi hakkında mahkûmiyet kararı verilebilmesi için suçun şüpheden uzak şekilde ispatlanması gerekir. Türk Ceza Kanunu ve Ceza Muhakemesi Kanunu çerçevesinde her türlü iddia, somut ve denetlenebilir delillerle desteklenmelidir. Eski Anayasa Mahkemesi Başkanı Zühtü Arslan da 8 Kasım 2021 tarihli açılış konuşmasında “Masumiyet karinesi”nin önemini vurgulamıştır ve bu beyanın tek başına hüküm için yeterli olmadığını belirtmiştir.",
+      "char_count": 777,
+      "token_estimate": 194
+    },
+    {
+      "id": "c0002",
+      "section": "== Yargı kararları ve uygulama ==",
+      "heading_path": "== Yargı kararları ve uygulama ==",
+      "start_char": 1292,
+      "end_char": 1995,
+      "content": "== Yargı kararları ve uygulama == Yargıtay ve ilk derece mahkemeleri, ceza yargılamasında mağdurun beyanını tek başına yeterli görmemekte; beyanın destekleyici unsurlar taşıyıp taşımadığına, tutarlılığına, yaşamın olağan akışına uygunluğuna ve diğer delillerle birlikte değerlendirilip değerlendirilmediğine bakmaktadır. Mahkûmiyet kararlarında yalnızca beyana dayanılması, yüksek yargı tarafından bozma gerekçesi olmaktadır. Bu doğrultuda; mağdurun ruhsal durumu, olayı anlatış biçimi, fail ile olan ilişkisi, önceki beyanlarla çelişip çelişmediği gibi hususlar göz önüne alınmaktadır. Bu çerçevede, yargılama sürecinde beyanın güvenilirliği ve somut delillerle desteklenip desteklenmediği önem taşır.",
+      "char_count": 702,
+      "token_estimate": 175
+    },
+    {
+      "id": "c0003",
+      "section": "== Eleştiriler ve tartışmalar ==",
+      "heading_path": "== Eleştiriler ve tartışmalar ==",
+      "start_char": 1995,
+      "end_char": 2587,
+      "content": "== Eleştiriler ve tartışmalar == Bu ilkeye yöneltilen eleştirilerde, genellikle “tek başına beyanla mahkûmiyet” algısı öne çıkmaktadır. Ancak Türk Ceza Hukuku’nda bu mümkün değildir. Yargının bağımsızlığı ve tarafsızlığı çerçevesinde beyan, yalnızca bir delildir. Diğer delillerle desteklenmeyen bir beyana dayalı hüküm, masumiyet karinesine aykırılık teşkil eder. Ayrıca, “ya kadın yalan söylüyorsa?” gibi karşı argümanlar da bu bağlamda değerlendirilmekte; delil değerlendirme süreci içinde doğru veya yalan beyanın tespiti yapılmakta ve mahkeme kararına gerekçeli olarak yansıtılmaktadır.",
+      "char_count": 591,
+      "token_estimate": 147
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hangi kanun kapsamında koruyucu ve önleyici tedbir kararlarının alınması için mağdurun beyanı esas alınabilmekte ve delil aranmamaktadır?",
+        "answer": "6284 sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kadının beyanı esastır ilkesinin soruşturma süreçleri ve koruyucu tedbir kararlarındaki önemi ile ceza yargılamasındaki delil değeri arasındaki farklar nelerdir?",
+        "answer": "Kadının beyanı esastır ilkesi, cinsel suçlar ve şiddet vakalarında soruşturma sürecinin başlatılması için rehber kabul edilir. Ayrıca, 6284 sayılı Kanun kapsamında koruyucu ve önleyici tedbir kararlarının alınması için mağdurun beyanı esas alınır ve ek delil aranmaz. Ancak ceza yargılamasında, masumiyet karinesi ve delillerin serbestliği ilkesi gereği, mağdurun beyanı tek başına mahkûmiyet için yeterli kabul edilmez; suçun şüpheden uzak şekilde ispatlanması ve beyanın somut delillerle desteklenmesi gerekir. Yargıtay ve ilk derece mahkemeleri, beyanın destekleyici unsurlar taşıyıp taşımadığına, tutarlılığına ve diğer delillerle birlikte değerlendirilip değerlendirilmediğine bakar, sadece beyana dayalı mahkûmiyet kararları yüksek yargı tarafından bozma gerekçesi olabilmektedir. Mevcut bazı Yargıtay ve AİHM içtihatlarında ise erkekler sadece kadın beyanına dayanarak mahkum edilebildiği durumlar da belirtilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

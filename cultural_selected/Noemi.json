@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "noemi_fa89e8e8",
+    "title": "Noemi",
+    "url": "https://tr.wikipedia.org/wiki/Noemi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:31.664879",
+    "content": "Veronica Scopelliti veya bilinen adıyla Noemi (d. 25 Ocak 1982, Roma), İtalyan şarkıcı ve söz yazarı. == Diskografi == === Albümler === === EP === === Single'lar === === Soundtrack === 2010 - Vuoto a perdere içinde film Femmine contro maschi ve Fausto Brizzi == Sanremo Muzik Festivalinde == 2010 - 60° Sanremo Muzik Festivalinde ile Per tutta la vita == Ödüller == === 2009 === Noemi (Extended play): Sertifikasyon altın Wind Music Award Briciole: Sertifikasyon altın === 2010 === Per tutta la vita: Sertifikasyon platin Wind Music Award için Sulla mia pelle Wind Music Award için L'amore si odia Wind Music Award için Per tutta la vita === 2011 === Sulla mia pelle: Sertifikasyon çift platin RossoNoemi: Sertifikasyon çift platin Wind Music Award için Sulla mia pelle Wind Music Award için RossoNoemi Gümüş Kurdele için Vuoto a perdere Vuoto a perdere: Sertifikasyon platin Premio Lunezia için Vuoto a perdere L'amore si odia: Sertifikasyon çift platin == Turneleri == 2009 - Noemi tour: İtalya 2009/2010 - Sulla mia pelle tour (prima parte): İtalya 2010 - Sulla mia pelle tour (seconda parte): İtalya, Slovenya 2011 - RossoNoemi tour: İtalya == Kaynakça == == Dış bağlantılar == Noemiofficial.it 29 Ocak 2011 tarihinde Wayback Machine sitesinde arşivlendi. Oficial Youtube 9 Eylül 2011 tarihinde Wayback Machine sitesinde arşivlendi. Arcadinoemi.it Arca di Noemi Youtube 23 Ağustos 2022 tarihinde Wayback Machine sitesinde arşivlendi. Facebook noemiofficial12 Aralık 2012 tarihinde Archive.is sitesinde arşivlendi Facebook arcadinoemi12 Aralık 2012 tarihinde Archive.is sitesinde arşivlendi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 243,
+      "char_count": 1593,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.748435",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 102,
+      "content": "Veronica Scopelliti veya bilinen adıyla Noemi (d. 25 Ocak 1982, Roma), İtalyan şarkıcı ve söz yazarı.",
+      "char_count": 101,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0001",
+      "section": "=== Soundtrack ===",
+      "heading_path": "=== Soundtrack ===",
+      "start_char": 166,
+      "end_char": 259,
+      "content": "=== Soundtrack === 2010 - Vuoto a perdere içinde film Femmine contro maschi ve Fausto Brizzi",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0002",
+      "section": "== Sanremo Muzik Festivalinde ==",
+      "heading_path": "== Sanremo Muzik Festivalinde ==",
+      "start_char": 259,
+      "end_char": 352,
+      "content": "== Sanremo Muzik Festivalinde == 2010 - 60° Sanremo Muzik Festivalinde ile Per tutta la vita",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0003",
+      "section": "=== 2009 ===",
+      "heading_path": "=== 2009 ===",
+      "start_char": 366,
+      "end_char": 469,
+      "content": "=== 2009 === Noemi (Extended play): Sertifikasyon altın Wind Music Award Briciole: Sertifikasyon altın",
+      "char_count": 102,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0004",
+      "section": "=== 2010 ===",
+      "heading_path": "=== 2010 ===",
+      "start_char": 469,
+      "end_char": 638,
+      "content": "=== 2010 === Per tutta la vita: Sertifikasyon platin Wind Music Award için Sulla mia pelle Wind Music Award için L'amore si odia Wind Music Award için Per tutta la vita",
+      "char_count": 168,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0005",
+      "section": "=== 2011 ===",
+      "heading_path": "=== 2011 ===",
+      "start_char": 638,
+      "end_char": 955,
+      "content": "=== 2011 === Sulla mia pelle: Sertifikasyon çift platin RossoNoemi: Sertifikasyon çift platin Wind Music Award için Sulla mia pelle Wind Music Award için RossoNoemi Gümüş Kurdele için Vuoto a perdere Vuoto a perdere: Sertifikasyon platin Premio Lunezia için Vuoto a perdere L'amore si odia: Sertifikasyon çift platin",
+      "char_count": 316,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0006",
+      "section": "== Turneleri ==",
+      "heading_path": "== Turneleri ==",
+      "start_char": 955,
+      "end_char": 1145,
+      "content": "== Turneleri == 2009 - Noemi tour: İtalya 2009/2010 - Sulla mia pelle tour (prima parte): İtalya 2010 - Sulla mia pelle tour (seconda parte): İtalya, Slovenya 2011 - RossoNoemi tour: İtalya",
+      "char_count": 189,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1160,
+      "end_char": 1593,
+      "content": "== Dış bağlantılar == Noemiofficial.it 29 Ocak 2011 tarihinde Wayback Machine sitesinde arşivlendi. Oficial Youtube 9 Eylül 2011 tarihinde Wayback Machine sitesinde arşivlendi. Arcadinoemi.it Arca di Noemi Youtube 23 Ağustos 2022 tarihinde Wayback Machine sitesinde arşivlendi. Facebook noemiofficial12 Aralık 2012 tarihinde Archive.is sitesinde arşivlendi Facebook arcadinoemi12 Aralık 2012 tarihinde Archive.is sitesinde arşivlendi",
+      "char_count": 433,
+      "token_estimate": 108
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Metinde hangi dış bağlantılar listelenmiştir?",
+        "answer": "Noemiofficial.it, Oficial Youtube, Arcadinoemi.it, Arca di Noemi Youtube, Facebook noemiofficial ve Facebook arcadinoemi.",
+        "related_chunk_ids": [
+          "c0007"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İtalyan şarkıcı ve söz yazarı Noemi ile 2010 yapımı 'Femmine contro maschi' filminin müziği olan 'Vuoto a perdere' arasında nasıl bir ilişki vardır?",
+        "answer": "İtalyan şarkıcı ve söz yazarı Noemi'nin seslendirdiği veya yazdığı 'Vuoto a perdere' adlı parça, 2010 yapımı 'Femmine contro maschi' filminin müziği olarak kullanılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

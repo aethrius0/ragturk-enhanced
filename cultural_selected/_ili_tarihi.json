@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "ilitarihi_f43a0404",
+    "title": "Şili tarihi",
+    "url": "https://tr.wikipedia.org/wiki/%C5%9Eili_tarihi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:37.781013",
+    "content": "Şili toprakları en az MÖ 3000'den beri yerleşim yeridir. 16. yüzyılda İspanyol konkistadorlar günümüz Şili bölgesine baskın düzenlemeye başladı ve bölge 1540'tan 1818'e kadar İspanya'dan bağımsızlığını kazanmasına kadar bir koloni olarak kaldı. Ülkenin ekonomik gelişimi, önce tarımsal ürünlerin, sonra güherçile ve daha sonra bakırın ihracatıyla belirlendi. Hammadde zenginliği ekonomik bir yükselişe yol açtı, ancak aynı zamanda bağımlılığa ve hatta komşu devletlerle savaşlara yol açtı. Şili, bağımsızlığının ilk 150 yılının çoğunda, seçmenlerin bir elit tarafından dikkatlice incelendiği ve kontrol edildiği farklı kısıtlı hükûmet biçimleri tarafından yönetildi. Ekonomik ve sosyal artışlara ve daha az zengin nüfusun artan siyasi farkındalığına değinilmemesi ve ayrıca ABD tarafından ana siyasi gruplara dolaylı müdahale ve ekonomik fon sağlanması, Soğuk Savaş'ın bir parçası olarak, sosyalist başkan Salvador Allende döneminde siyasi kutuplaşmaya yol açtı. Bu da 1973 darbesine ve 17 yıllık rejimi birçok insan hakları ihlalinden ve derin piyasa odaklı ekonomik reformlardan sorumlu olan General Augusto Pinochet'in askerî diktatörlüğüne yol açtı. 1990'da Şili demokrasiye barışçıl bir geçiş yaptı ve bir dizi demokratik hükûmet iktidara geldi. == Kaynakça == == Dış bağlantılar == Latin American Network Information Center. \"Chile: History\". ABD: University of Texas at Austin. Arşivlenmesi gereken bağlantıya sahip kaynak şablonu içeren maddeler (link) History of Chile (book by Chilean historian Luis Galdames)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1519,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.959009",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Şili toprakları en az MÖ 3000'den beri yerleşim yeridir. 16. yüzyılda İspanyol konkistadorlar günümüz Şili bölgesine baskın düzenlemeye başladı ve bölge 1540'tan 1818'e kadar İspanya'dan bağımsızlığını kazanmasına kadar bir koloni olarak kaldı. Ülkenin ekonomik gelişimi, önce tarımsal ürünlerin, sonra güherçile ve daha sonra bakırın ihracatıyla belirlendi. Hammadde zenginliği ekonomik bir yükselişe yol açtı, ancak aynı zamanda bağımlılığa ve hatta komşu devletlerle savaşlara yol açtı. Şili, bağımsızlığının ilk 150 yılının çoğunda, seçmenlerin bir elit tarafından dikkatlice incelendiği ve kontrol edildiği farklı kısıtlı hükûmet biçimleri tarafından yönetildi. Ekonomik ve sosyal artışlara ve daha az zengin nüfusun artan siyasi farkındalığına değinilmemesi ve ayrıca ABD tarafından ana siyasi gruplara dolaylı müdahale ve ekonomik fon sağlanması, Soğuk Savaş'ın bir parçası olarak, sosyalist başkan Salvador Allende döneminde siyasi kutuplaşmaya yol açtı. Bu da 1973 darbesine ve 17 yıllık rej",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1250,
+      "content": "gruplara dolaylı müdahale ve ekonomik fon sağlanması, Soğuk Savaş'ın bir parçası olarak, sosyalist başkan Salvador Allende döneminde siyasi kutuplaşmaya yol açtı. Bu da 1973 darbesine ve 17 yıllık rejimi birçok insan hakları ihlalinden ve derin piyasa odaklı ekonomik reformlardan sorumlu olan General Augusto Pinochet'in askerî diktatörlüğüne yol açtı. 1990'da Şili demokrasiye barışçıl bir geçiş yaptı ve bir dizi demokratik hükûmet iktidara geldi.",
+      "char_count": 450,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1266,
+      "end_char": 1519,
+      "content": "== Dış bağlantılar == Latin American Network Information Center. \"Chile: History\". ABD: University of Texas at Austin. Arşivlenmesi gereken bağlantıya sahip kaynak şablonu içeren maddeler (link) History of Chile (book by Chilean historian Luis Galdames)",
+      "char_count": 253,
+      "token_estimate": 63
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Şili, İspanya'dan bağımsızlığını kazanmadan önce hangi yıllar arasında bir koloni olarak kaldı?",
+        "answer": "1540'tan 1818'e kadar",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Şili'deki sosyalist başkan Salvador Allende döneminde yaşanan siyasi kutuplaşmaya yol açan temel faktörler ve bu kutuplaşmanın ülkenin yönetiminde hangi somut sonuçlara yol açtığı nelerdir?",
+        "answer": "Şili'de sosyalist başkan Salvador Allende döneminde siyasi kutuplaşmaya, ekonomik ve sosyal artışlara rağmen daha az zengin nüfusun artan siyasi farkındalığına değinilmemesi ve Soğuk Savaş'ın bir parçası olarak ABD'nin ana siyasi gruplara dolaylı müdahalesi ve ekonomik fon sağlaması neden oldu. Bu kutuplaşma, 1973 darbesine ve birçok insan hakları ihlali ile derin piyasa odaklı ekonomik reformlardan sorumlu olan General Augusto Pinochet'in 17 yıllık askerî diktatörlüğüne yol açtı. Ülke, 1990 yılında demokrasiye barışçıl bir geçiş yaptı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "microcarboafricanus_9dc11fca",
+    "title": "Microcarbo africanus",
+    "url": "https://tr.wikipedia.org/wiki/Microcarbo_africanus",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:45:25.387680",
+    "content": "Microcarbo africanus karabatakgiller (Phalacrocoracidae) familyasından bir kuş türüdür. Sahra Çölü'nün güneyinden itibaren Afrika'nın büyük bir bölümünde ve Madagaskar'da yaşar. Göçmen değildir ancak mevsimsel olarak yer değiştirebilir. == Fiziksel özellikleri == Boyu 50 ila 55 cm. arasında ve kanat genişliği 85 cm. civarında küçük bir karabatak türüdür. Üreme döneminde tamamen siyah tüylere sahiptir ve tüylerinde yeşil bir parıltı vardır. Kanatları örten tüyler gümüş tonlarındadır. Kuyruğu oldukça uzundur. Kafasında kısa bir tepelik bulunur. Yüzündeki tüysüz deri kırmızı ya da sarıdır. Gagası sarı renklidir. Erkek ile dişi kuş benzer tüy renklerine sahiptir. Üreme dönemi dışında erişkinler ve genç kuşlar karınları beyaz kahverengi tüylere sahiptir. Güneyde yaşayan ırklar tepeliklerini yıl boyu muhafaza ederler. == Davranış == Oldukça derine dalabilmelerine rağmen sığ sularda avlanmayı tercih ederler. Su altında yakaladığı avını beslenmek için yüzeye getirir. Çeşitli balıklarla beslenir. Yavaş hareket eden ve ince uzun şekle sahip balık türlerini tercih eder. Daha az sıklıkla da olsa kurbağalar, su omurgasızları ve küçük kuşlarla da beslenebilir. Ağaçlarda ya da yerde uzun otlarla gözden uzak yuvalarda dişi kuş iki ila dört yumurta yumurtlar. == Yaşam alanı == Tatlı su havzaları ve sakin deniz kıyılarında yaşarlar. == Alt türleri == İki alt türü sınıflandırılmaktadır: Microcarbo africanus africanus (Gmelin, JF, 1789) Microcarbo africanus pictilis (Bangs, 1918)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1484,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.734649",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 237,
+      "content": "Microcarbo africanus karabatakgiller (Phalacrocoracidae) familyasından bir kuş türüdür. Sahra Çölü'nün güneyinden itibaren Afrika'nın büyük bir bölümünde ve Madagaskar'da yaşar. Göçmen değildir ancak mevsimsel olarak yer değiştirebilir.",
+      "char_count": 236,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0001",
+      "section": "== Fiziksel özellikleri ==",
+      "heading_path": "== Fiziksel özellikleri ==",
+      "start_char": 237,
+      "end_char": 824,
+      "content": "== Fiziksel özellikleri == Boyu 50 ila 55 cm. arasında ve kanat genişliği 85 cm. civarında küçük bir karabatak türüdür. Üreme döneminde tamamen siyah tüylere sahiptir ve tüylerinde yeşil bir parıltı vardır. Kanatları örten tüyler gümüş tonlarındadır. Kuyruğu oldukça uzundur. Kafasında kısa bir tepelik bulunur. Yüzündeki tüysüz deri kırmızı ya da sarıdır. Gagası sarı renklidir. Erkek ile dişi kuş benzer tüy renklerine sahiptir. Üreme dönemi dışında erişkinler ve genç kuşlar karınları beyaz kahverengi tüylere sahiptir. Güneyde yaşayan ırklar tepeliklerini yıl boyu muhafaza ederler.",
+      "char_count": 586,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0002",
+      "section": "== Davranış ==",
+      "heading_path": "== Davranış ==",
+      "start_char": 824,
+      "end_char": 1263,
+      "content": "== Davranış == Oldukça derine dalabilmelerine rağmen sığ sularda avlanmayı tercih ederler. Su altında yakaladığı avını beslenmek için yüzeye getirir. Çeşitli balıklarla beslenir. Yavaş hareket eden ve ince uzun şekle sahip balık türlerini tercih eder. Daha az sıklıkla da olsa kurbağalar, su omurgasızları ve küçük kuşlarla da beslenebilir. Ağaçlarda ya da yerde uzun otlarla gözden uzak yuvalarda dişi kuş iki ila dört yumurta yumurtlar.",
+      "char_count": 438,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0003",
+      "section": "== Yaşam alanı ==",
+      "heading_path": "== Yaşam alanı ==",
+      "start_char": 1263,
+      "end_char": 1337,
+      "content": "== Yaşam alanı == Tatlı su havzaları ve sakin deniz kıyılarında yaşarlar.",
+      "char_count": 73,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0004",
+      "section": "== Alt türleri ==",
+      "heading_path": "== Alt türleri ==",
+      "start_char": 1337,
+      "end_char": 1484,
+      "content": "== Alt türleri == İki alt türü sınıflandırılmaktadır: Microcarbo africanus africanus (Gmelin, JF, 1789) Microcarbo africanus pictilis (Bangs, 1918)",
+      "char_count": 147,
+      "token_estimate": 36
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Küçük karabatak türünün boyu ne kadardır?",
+        "answer": "Boyu 50 ila 55 cm. arasındadır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Microcarbo africanus türü, Sahra Çölü'nün güneyinden Madagaskar'a kadar uzanan yaşam alanında, hangi temel fiziksel özellikleriyle tanımlanır?",
+        "answer": "Microcarbo africanus, Sahra Çölü'nün güneyinden itibaren Afrika'nın büyük bir bölümünde ve Madagaskar'da yaşayan, 50 ila 55 cm boyunda ve yaklaşık 85 cm kanat genişliğinde küçük bir karabatak türüdür. Üreme döneminde tamamen siyah tüylere, tüylerinde yeşil bir parıltıya, gümüş tonlarında kanatları örten tüylere, uzun bir kuyruğa, kısa bir tepeliğe, kırmızı veya sarı tüysüz yüze ve sarı bir gagaya sahiptir. Üreme dönemi dışında erişkinler ve genç kuşlar karınları beyaz kahverengi tüylere sahipken, güneyde yaşayan ırklar tepeliklerini yıl boyu muhafaza ederler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

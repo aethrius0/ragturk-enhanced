@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "dgrayman_ba61742e",
+    "title": "D.Gray-man",
+    "url": "https://tr.wikipedia.org/wiki/D.Gray-man",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:26.564737",
+    "content": "D.Gray-man, Katsura Hoshino tarafından yazılan bir manga serisidir. Seri, Mayıs 2004 tarihinden bu yana Shueisha'nın önce Weekly Shōnen Jump, daha sonra Jump Square, Jump SQ.Crown ve günümüzde Jump SQ.Rise dergisinde yayınlanmaktadır. Seri, Allen Walker adındaki Kara Emir (Black Order) isimli Exorcist grubunun üyesi olan bir çocuğun, Millennium Earl ve Akuma ordusuna karşı verdiği mücadeleyi konu almaktadır. Kaya Kizaki tarafından yazılan D.Gray-man: Reverse adlı bir light novel Mayıs 2005-Aralık 2010 tarihleri arasında JUMP j-BOOKS baskısı altında yayınlandı. TMS Entertainment tarafından hazırlanan bir anime televizyon serisi uyarlaması Ekim 2006-Eylül 2008 tarihleri arasında yayınlandı. D.Gray-man Hallow adlı devam serisi ise Temmuz-Eylül 2016 tarihleri arasında yayınlandı. == Konusu == Seri, alternatif bir 10. yüzyılda geçmektedir. Genç bir egzorsist olan Allen Walker, Millenium Earl'ün yarattığı Akumaların eski formlarını görmesini sağlayan lanetli bir göze ve bir tür anti-Akuma silahı olan sol kola sahiptir. Allen, hocası tarafından İngiltere'de kendisi gibi diğer egzorsistlerin bulunduğu bir karargâha gönderilir. Innocence taşıyan son derece nadir insanlardan biri olan Allen, Black Priest organizasyonuna katılarak Millenium Earl'ün planlarına karşı savaşmaya başlar. Yollarında ilerledikçe sorular, özellikle de Allen'ın geçmişiyle bağlantılı olan sorular ortaya çıkar. == Kaynakça == == Dış bağlantılar == Manga resmî sitesi (Japonca) Anime resmî sitesi (Japonca) Anime News Network'ün ansiklopedisinde D.Gray-man (manga) (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 202,
+      "char_count": 1560,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.091749",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 787,
+      "content": "D.Gray-man, Katsura Hoshino tarafından yazılan bir manga serisidir. Seri, Mayıs 2004 tarihinden bu yana Shueisha'nın önce Weekly Shōnen Jump, daha sonra Jump Square, Jump SQ.Crown ve günümüzde Jump SQ.Rise dergisinde yayınlanmaktadır. Seri, Allen Walker adındaki Kara Emir (Black Order) isimli Exorcist grubunun üyesi olan bir çocuğun, Millennium Earl ve Akuma ordusuna karşı verdiği mücadeleyi konu almaktadır. Kaya Kizaki tarafından yazılan D.Gray-man: Reverse adlı bir light novel Mayıs 2005-Aralık 2010 tarihleri arasında JUMP j-BOOKS baskısı altında yayınlandı. TMS Entertainment tarafından hazırlanan bir anime televizyon serisi uyarlaması Ekim 2006-Eylül 2008 tarihleri arasında yayınlandı. D.Gray-man Hallow adlı devam serisi ise Temmuz-Eylül 2016 tarihleri arasında yayınlandı.",
+      "char_count": 786,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 787,
+      "end_char": 1396,
+      "content": "== Konusu == Seri, alternatif bir 10. yüzyılda geçmektedir. Genç bir egzorsist olan Allen Walker, Millenium Earl'ün yarattığı Akumaların eski formlarını görmesini sağlayan lanetli bir göze ve bir tür anti-Akuma silahı olan sol kola sahiptir. Allen, hocası tarafından İngiltere'de kendisi gibi diğer egzorsistlerin bulunduğu bir karargâha gönderilir. Innocence taşıyan son derece nadir insanlardan biri olan Allen, Black Priest organizasyonuna katılarak Millenium Earl'ün planlarına karşı savaşmaya başlar. Yollarında ilerledikçe sorular, özellikle de Allen'ın geçmişiyle bağlantılı olan sorular ortaya çıkar.",
+      "char_count": 608,
+      "token_estimate": 152
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1411,
+      "end_char": 1560,
+      "content": "== Dış bağlantılar == Manga resmî sitesi (Japonca) Anime resmî sitesi (Japonca) Anime News Network'ün ansiklopedisinde D.Gray-man (manga) (İngilizce)",
+      "char_count": 149,
+      "token_estimate": 37
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "D.Gray-man manga serisinin yazarı kimdir?",
+        "answer": "Katsura Hoshino",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "D.Gray-man serisinin ana çatışması nedir ve baş karakter Allen Walker bu çatışmada hangi benzersiz özelliklere sahiptir?",
+        "answer": "D.Gray-man serisi, Allen Walker adındaki egzorsistin Millennium Earl ve Akuma ordusuna karşı verdiği mücadeleyi konu alır. Allen, Millennium Earl'ün yarattığı Akumaların eski formlarını görmesini sağlayan lanetli bir göze ve bir tür anti-Akuma silahı olan sol kola sahiptir. Bu özellikleriyle Kara Emir (Black Order) organizasyonuna katılarak Millennium Earl'ün planlarına karşı savaşır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

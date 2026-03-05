@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "microsoftbing_307b2331",
+    "title": "Microsoft Bing",
+    "url": "https://tr.wikipedia.org/wiki/Microsoft_Bing",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:45:27.593190",
+    "content": "Microsoft Bing (daha önce bilinen adıyla Live Search, Windows Live Search ya da MSN Search), Microsoft tarafından kullanıma sunulan bir arama motorudur. 2009'un ilk yarısında deneme çalışmaları başlayan ve kamuoyuna adı önce Kumo olarak duyurulan Bing, \"alışkanlıkları değiştirme\" iddiasıyla yola çıktı. Bing'deki en önemli yeniliğin, Web sitelerine bağlantı vermenin dışında alt başlıklar halinde bilgilerin de listelenecek olması belirtiliyor. Windows Live Search arama motorunun yerini alması ve Google'a rakip olması beklenen Bing, 1 Haziran 2009 tarihinde \"beta\" (deneme) aşamasıyla hizmete sokuldu. Bing arama motoru, Türkçe dahil 40 dilde kullanılabilir özellikler taşımaktadır. Bing'in bir farklı özelliği de; her gün değişen arka plan resmî kullanması. Ayrıca, Steve Ballmer (Microsoft CEO) tarafından; \"Dünyanın 2. bir arama motoruna ihtiyacı olduğunu düşünmüyoruz. Bing bir arama motorundan çok, bir karar verme motorudur.\" ifadeleri kullanılmıştır. Web sayfaları arama aracına ek olarak, Bing de aşağıdaki arama teklifleri sağlar: Bing Sağlık Bing Haritalar Bing Haberler ve Microsoft News Bing Translator - Microsoft Tercüman ile beraber çalışır. Bing Videos Bing Web Yönetim Araçları Bing Advertising Bing Mobile Bing Öngörüler Bingin bu servisleri durdurulmuşdur: Windows Live Search Academic Windows Live Search Books Klub Bing Bing Ürün Yükleme Bing Shopping Bing xRank Windows 10'da resimleri ve reklamları Bing'den otomatik olarak indiren Windows Spotlight özelliği bulunuyor. == Logoları == == Kaynakça == == Dış bağlantılar == Resmî site Facebook'ta Microsoft Bing Twitter'da Microsoft Bing YouTube'da Microsoft Bing kanalı",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 224,
+      "char_count": 1644,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.756034",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Microsoft Bing (daha önce bilinen adıyla Live Search, Windows Live Search ya da MSN Search), Microsoft tarafından kullanıma sunulan bir arama motorudur. 2009'un ilk yarısında deneme çalışmaları başlayan ve kamuoyuna adı önce Kumo olarak duyurulan Bing, \"alışkanlıkları değiştirme\" iddiasıyla yola çıktı. Bing'deki en önemli yeniliğin, Web sitelerine bağlantı vermenin dışında alt başlıklar halinde bilgilerin de listelenecek olması belirtiliyor. Windows Live Search arama motorunun yerini alması ve Google'a rakip olması beklenen Bing, 1 Haziran 2009 tarihinde \"beta\" (deneme) aşamasıyla hizmete sokuldu. Bing arama motoru, Türkçe dahil 40 dilde kullanılabilir özellikler taşımaktadır. Bing'in bir farklı özelliği de; her gün değişen arka plan resmî kullanması. Ayrıca, Steve Ballmer (Microsoft CEO) tarafından; \"Dünyanın 2. bir arama motoruna ihtiyacı olduğunu düşünmüyoruz. Bing bir arama motorundan çok, bir karar verme motorudur.\" ifadeleri kullanılmıştır. Web sayfaları arama aracına ek olarak, ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1495,
+      "content": "tarafından; \"Dünyanın 2. bir arama motoruna ihtiyacı olduğunu düşünmüyoruz. Bing bir arama motorundan çok, bir karar verme motorudur.\" ifadeleri kullanılmıştır. Web sayfaları arama aracına ek olarak, Bing de aşağıdaki arama teklifleri sağlar: Bing Sağlık Bing Haritalar Bing Haberler ve Microsoft News Bing Translator - Microsoft Tercüman ile beraber çalışır. Bing Videos Bing Web Yönetim Araçları Bing Advertising Bing Mobile Bing Öngörüler Bingin bu servisleri durdurulmuşdur: Windows Live Search Academic Windows Live Search Books Klub Bing Bing Ürün Yükleme Bing Shopping Bing xRank Windows 10'da resimleri ve reklamları Bing'den otomatik olarak indiren Windows Spotlight özelliği bulunuyor.",
+      "char_count": 695,
+      "token_estimate": 173
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1526,
+      "end_char": 1644,
+      "content": "== Dış bağlantılar == Resmî site Facebook'ta Microsoft Bing Twitter'da Microsoft Bing YouTube'da Microsoft Bing kanalı",
+      "char_count": 118,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Microsoft Bing'in beta aşaması hangi tarihte hizmete sokuldu?",
+        "answer": "1 Haziran 2009 tarihinde.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Steve Ballmer'ın Bing'i bir 'karar verme motoru' olarak tanımlaması, motorun başlangıçtaki hedefleri ve sunduğu çeşitli arama teklifleriyle nasıl bir uyum içerisindedir?",
+        "answer": "Microsoft CEO'su Steve Ballmer'ın Bing'i bir arama motorundan ziyade bir 'karar verme motoru' olarak adlandırması, Bing'in 2009'daki lansmanındaki 'alışkanlıkları değiştirme' iddiası ve Web sitelerine bağlantı vermenin yanı sıra alt başlıklar halinde bilgi listeleme yeniliğiyle uyum göstermektedir. Bu, Bing'in sadece genel web aramaları yerine, Bing Sağlık, Bing Haritalar, Bing Haberler ve Bing Translator gibi çeşitli özel arama teklifleriyle kullanıcılara belirli konularda kapsamlı bilgi sağlayarak daha bilinçli kararlar almalarına yardımcı olma amacını yansıtmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

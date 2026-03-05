@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "abdlhlikgucdvn_78265e6f",
+    "title": "Abdülhâlik Gucdüvânî",
+    "url": "https://tr.wikipedia.org/wiki/Abd%C3%BClh%C3%A2lik_Gucd%C3%BCv%C3%A2n%C3%AE",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:25.875009",
+    "content": "Abdülhâlik Gucdüvânî (1103 - 1179), Nakşibendi tarikatına mensup din bilgini ve mutasavvıf. Abdülhalık, Buhara yakınında Gucdevan isminde bir küçük kasabada doğmuştur. Babası Malatya'dan Orta Asya'ya taşınmış bir fakih'dir. Buhara'da tefsir eğitimi alırken Nakşibendi tarikatının silsilesinde yer alan Yusuf Hemedani ile tanıştı. Hemedani'den Nakşibendi tarikatını öğrendi ve daha sonra Nakşibendi tarikatını sistemleştirerek, genişletti. Farsçada \"Kelimat-ı kudsiye\" denilen On Bir ana tarikat kuralını Nakşibendi tarikat kuralı haline getirmiştir. 1179 yılında Gucdevan'da öldü. Buhara şehir merkezine 50 km. mesafedeki Gijduvan kasabasında türbesi bulunur. == Kelimat-ı kudsiye == Vukuf-ı Zamanî: Müridin zamanı çok iyi değerlendirmesidir. Vukuf-ı Adedî: Dersin adedi ve gerçek manası düşünülmelidir. Vukuf-ı Kalbî: Kalbi uyanık tutmak gerekir. Hûş der-dem: Nefes alıp verirken, gaflette olmamak. Nazar ber-kadem: Başkasına değil, kendine bakmalıdır. Sefer der-vatan: Halktan ayrılıp Hakk'a gitmesidir. Halvet der-encümen: Halk içinde de olsa, halvet hali olmalıdır. Yâd kerd: Şeyhin verdiği zikri, kalb ve dil ile daima tekrarlamak. Bâz geşt: Zikirle Allah'a dönüş, vuslât düşünülmelidir. Nigah-daşt: Kalbi zararlı düşüncelerden korumak. Yâd-daşt: Masivâyı bırakarak, sadece Allah'ı düşünmektir. == Notlar == == Kaynakça == Omar Ali Shah (1998). The Rules or Secrets of the Naqshbandi Order. Tractus Books. ISBN 2-909347-09-5. John G. Bennett (1995). The Masters of Wisdom. Bennett Books. ISBN 1-881408-01-9. Kurumsallaşma Çağı \"Sûf Hareketi”nde Bir Dönüm Noktası: Abdülhâlik Gucdevânî el-Malatî, Vasâya ve \"Usûl-i Semâniye”si - Bayram Adıgüzel 2017",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 214,
+      "char_count": 1653,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.651966",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 660,
+      "content": "Abdülhâlik Gucdüvânî (1103 - 1179), Nakşibendi tarikatına mensup din bilgini ve mutasavvıf. Abdülhalık, Buhara yakınında Gucdevan isminde bir küçük kasabada doğmuştur. Babası Malatya'dan Orta Asya'ya taşınmış bir fakih'dir. Buhara'da tefsir eğitimi alırken Nakşibendi tarikatının silsilesinde yer alan Yusuf Hemedani ile tanıştı. Hemedani'den Nakşibendi tarikatını öğrendi ve daha sonra Nakşibendi tarikatını sistemleştirerek, genişletti. Farsçada \"Kelimat-ı kudsiye\" denilen On Bir ana tarikat kuralını Nakşibendi tarikat kuralı haline getirmiştir. 1179 yılında Gucdevan'da öldü. Buhara şehir merkezine 50 km. mesafedeki Gijduvan kasabasında türbesi bulunur.",
+      "char_count": 659,
+      "token_estimate": 164
+    },
+    {
+      "id": "c0001",
+      "section": "== Kelimat-ı kudsiye ==",
+      "heading_path": "== Kelimat-ı kudsiye ==",
+      "start_char": 660,
+      "end_char": 1300,
+      "content": "== Kelimat-ı kudsiye == Vukuf-ı Zamanî: Müridin zamanı çok iyi değerlendirmesidir. Vukuf-ı Adedî: Dersin adedi ve gerçek manası düşünülmelidir. Vukuf-ı Kalbî: Kalbi uyanık tutmak gerekir. Hûş der-dem: Nefes alıp verirken, gaflette olmamak. Nazar ber-kadem: Başkasına değil, kendine bakmalıdır. Sefer der-vatan: Halktan ayrılıp Hakk'a gitmesidir. Halvet der-encümen: Halk içinde de olsa, halvet hali olmalıdır. Yâd kerd: Şeyhin verdiği zikri, kalb ve dil ile daima tekrarlamak. Bâz geşt: Zikirle Allah'a dönüş, vuslât düşünülmelidir. Nigah-daşt: Kalbi zararlı düşüncelerden korumak. Yâd-daşt: Masivâyı bırakarak, sadece Allah'ı düşünmektir.",
+      "char_count": 639,
+      "token_estimate": 159
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1313,
+      "end_char": 1653,
+      "content": "== Kaynakça == Omar Ali Shah (1998). The Rules or Secrets of the Naqshbandi Order. Tractus Books. ISBN 2-909347-09-5. John G. Bennett (1995). The Masters of Wisdom. Bennett Books. ISBN 1-881408-01-9. Kurumsallaşma Çağı \"Sûf Hareketi”nde Bir Dönüm Noktası: Abdülhâlik Gucdevânî el-Malatî, Vasâya ve \"Usûl-i Semâniye”si - Bayram Adıgüzel 2017",
+      "char_count": 340,
+      "token_estimate": 85
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Abdülhâlik Gucdüvânî hangi tarikatın kuralını sistemleştirmiş ve genişletmiştir?",
+        "answer": "Nakşibendi tarikatının kuralını sistemleştirmiş ve genişletmiştir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Abdülhâlik Gucdüvânî'nin Nakşibendi tarikatı için sistemleştirdiği \"Kelimat-ı kudsiye\"nin ana odak noktaları nelerdir?",
+        "answer": "Abdülhâlik Gucdüvânî'nin Nakşibendi tarikatı için belirlediği \"Kelimat-ı kudsiye\", müridin zamanı iyi değerlendirmesi, kalbini uyanık tutması, nefes alıp verirken gaflette olmaması, kendine dönüp başkasını değil kendini gözetmesi, halktan ayrılıp Hakk'a gitmesi, halk içinde de olsa halvet halini koruması, zikri devam ettirmesi, kalbini zararlı düşüncelerden koruması ve masivayı bırakarak sadece Allah'ı düşünmesi gibi manevi gelişim ve farkındalık ilkelerine odaklanmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

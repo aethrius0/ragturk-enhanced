@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "tedarikzinciriynetim_5927566b",
+    "title": "Tedarik zinciri yönetimi",
+    "url": "https://tr.wikipedia.org/wiki/Tedarik_zinciri_y%C3%B6netimi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:12.518705",
+    "content": "Tedarik Zinciri Yönetimi (İng: Supply Chain Management, SCM) müşteriye, doğru ürünün, doğru zamanda, doğru yerde, doğru fiyata tüm tedarik zinciri için mümkün olan en düşük maliyetle ulaşmasını sağlayan malzeme, bilgi ve para akışının entegre yönetimidir. Bir başka deyişle zincir içinde yer alan temel iş süreçlerinin entegrasyonunu sağlayarak müşteri memnuniyetini artıracak stratejilerin ve iş modellerinin oluşturulmasıdır. == Tedarik Zinciri == Bir tedarik zinciri, ürünlerin, tedarikçiler, üreticiler, toptancılar, dağıtımcılar, perakendeciler ve nihai olarak da tüketiciler arasındaki hareketini sağlayan ilişkiler ve bağlantılar bütünüdür. Mal ve hizmetlerin tedarik aşamasından, üretimine ve nihai tüketiciye ulaşmasına kadar birbirini izleyen tüm halkaları kapsar. İş süreçleri açısından bakıldığında, tedarik zinciri; satış süreci, üretim, stok yönetimi, malzeme temini, dağıtım, tedarik, satış tahmini ve müşteri hizmetleri gibi pek çok alanı içine almaktadır. Tedarik zinciri yönetiminde, Stratejik seviyede, üretimin nerede yapılacağı ve en iyi kaynak bulma stratejisinin ne olacağı. Taktik seviyede, tahmin yürütme, planlama, temin süresi kısa olan malzemelerin siparişi ve üretim ihtiyaçlarının karşılanması için fazla mesailerin çizelgelenip çizelgelenmeyeceği. Operasyonel seviyede ise, envanter dağıtımı, detaylı çizelgeleme ve bir makine bozulduğu zaman bir siparişin ne yapılacağı konuları ele alınır. Tedarik zinciri yönetimi müşteriyi memnun edecek bir şekilde daha iyi bir şekilde ürün ve hizmet üretip sunmak için genişleyen bir faktörler bileşenini planlama ve kontrol etme amacıyla ileri teknoloji, bilişim yönetimi ve yöneylem araştırması matematiği kullanır. İleri seviyede programlar, ilişkisel veritabanları ve buna benzer teknik araçları kullanır. == Tedarik zincirinin temel fonksiyonları == Tedarik zincirini yönetiminde, zinciri oluşturan tüm fonksiyonlar bütünleşmiş olmalıdır. Ürünlerin, tedarikçiden son kullanıcıya ulaşmasında bir dizi fonksiyon belirli görevleri, altı temel hedef doğrultusunda yerine getirir: Talep ve sipariş yönetimi Satın alma Planlama Üretim Envanter (Stok) yönetimi Depo yönetimi Sevkiyat (Taşıma) == Tedarik Zinciri Yönetiminin faydaları == Teslimat performansını iyileştirir Müşteri memnuniyeti sağlar. Envanterin azaltılmasını sağlar Sipariş karşılama oranını yükseltir Talep tahminlerinin doğruluğunu arttırır Tedarik çevrim süresini kısaltır Lojistik masraflarını azaltır Verimlilik ve kapasite artışı sağlar Müşteri memnuniyetini arttırır Girdilerin teminini garantileyerek, üretimin devamlılığını sağlar Tüketici taleplerini en iyi şekilde karşılayarak kaliteyi arttırır Toplam maliyetleri azaltır Pazardaki değişikliklere daha kısa zamanda cevap verilmesini sağlar == Dış bağlantılar == CIO Magazine's ABCs of supply chain management28 Ekim 2007 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 355,
+      "char_count": 2891,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.285206",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 428,
+      "content": "Tedarik Zinciri Yönetimi (İng: Supply Chain Management, SCM) müşteriye, doğru ürünün, doğru zamanda, doğru yerde, doğru fiyata tüm tedarik zinciri için mümkün olan en düşük maliyetle ulaşmasını sağlayan malzeme, bilgi ve para akışının entegre yönetimidir. Bir başka deyişle zincir içinde yer alan temel iş süreçlerinin entegrasyonunu sağlayarak müşteri memnuniyetini artıracak stratejilerin ve iş modellerinin oluşturulmasıdır.",
+      "char_count": 427,
+      "token_estimate": 106
+    },
+    {
+      "id": "c0001",
+      "section": "== Tedarik Zinciri ==",
+      "heading_path": "== Tedarik Zinciri ==",
+      "start_char": 428,
+      "end_char": 1428,
+      "content": "== Tedarik Zinciri == Bir tedarik zinciri, ürünlerin, tedarikçiler, üreticiler, toptancılar, dağıtımcılar, perakendeciler ve nihai olarak da tüketiciler arasındaki hareketini sağlayan ilişkiler ve bağlantılar bütünüdür. Mal ve hizmetlerin tedarik aşamasından, üretimine ve nihai tüketiciye ulaşmasına kadar birbirini izleyen tüm halkaları kapsar. İş süreçleri açısından bakıldığında, tedarik zinciri; satış süreci, üretim, stok yönetimi, malzeme temini, dağıtım, tedarik, satış tahmini ve müşteri hizmetleri gibi pek çok alanı içine almaktadır. Tedarik zinciri yönetiminde, Stratejik seviyede, üretimin nerede yapılacağı ve en iyi kaynak bulma stratejisinin ne olacağı. Taktik seviyede, tahmin yürütme, planlama, temin süresi kısa olan malzemelerin siparişi ve üretim ihtiyaçlarının karşılanması için fazla mesailerin çizelgelenip çizelgelenmeyeceği. Operasyonel seviyede ise, envanter dağıtımı, detaylı çizelgeleme ve bir makine bozulduğu zaman bir siparişin ne yapılacağı konuları ele alınır. Tedar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tedarik Zinciri ==",
+      "heading_path": "== Tedarik Zinciri ==",
+      "start_char": 1228,
+      "end_char": 1779,
+      "content": " fazla mesailerin çizelgelenip çizelgelenmeyeceği. Operasyonel seviyede ise, envanter dağıtımı, detaylı çizelgeleme ve bir makine bozulduğu zaman bir siparişin ne yapılacağı konuları ele alınır. Tedarik zinciri yönetimi müşteriyi memnun edecek bir şekilde daha iyi bir şekilde ürün ve hizmet üretip sunmak için genişleyen bir faktörler bileşenini planlama ve kontrol etme amacıyla ileri teknoloji, bilişim yönetimi ve yöneylem araştırması matematiği kullanır. İleri seviyede programlar, ilişkisel veritabanları ve buna benzer teknik araçları kullanır.",
+      "char_count": 551,
+      "token_estimate": 137
+    },
+    {
+      "id": "c0003",
+      "section": "== Tedarik zincirinin temel fonksiyonları ==",
+      "heading_path": "== Tedarik zincirinin temel fonksiyonları ==",
+      "start_char": 1780,
+      "end_char": 2161,
+      "content": "== Tedarik zincirinin temel fonksiyonları == Tedarik zincirini yönetiminde, zinciri oluşturan tüm fonksiyonlar bütünleşmiş olmalıdır. Ürünlerin, tedarikçiden son kullanıcıya ulaşmasında bir dizi fonksiyon belirli görevleri, altı temel hedef doğrultusunda yerine getirir: Talep ve sipariş yönetimi Satın alma Planlama Üretim Envanter (Stok) yönetimi Depo yönetimi Sevkiyat (Taşıma)",
+      "char_count": 380,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0004",
+      "section": "== Tedarik Zinciri Yönetiminin faydaları ==",
+      "heading_path": "== Tedarik Zinciri Yönetiminin faydaları ==",
+      "start_char": 2161,
+      "end_char": 2736,
+      "content": "== Tedarik Zinciri Yönetiminin faydaları == Teslimat performansını iyileştirir Müşteri memnuniyeti sağlar. Envanterin azaltılmasını sağlar Sipariş karşılama oranını yükseltir Talep tahminlerinin doğruluğunu arttırır Tedarik çevrim süresini kısaltır Lojistik masraflarını azaltır Verimlilik ve kapasite artışı sağlar Müşteri memnuniyetini arttırır Girdilerin teminini garantileyerek, üretimin devamlılığını sağlar Tüketici taleplerini en iyi şekilde karşılayarak kaliteyi arttırır Toplam maliyetleri azaltır Pazardaki değişikliklere daha kısa zamanda cevap verilmesini sağlar",
+      "char_count": 574,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2736,
+      "end_char": 2877,
+      "content": "== Dış bağlantılar == CIO Magazine's ABCs of supply chain management28 Ekim 2007 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+      "char_count": 140,
+      "token_estimate": 35
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tedarik zinciri yönetiminde stratejik seviyede hangi konular ele alınır?",
+        "answer": "Üretimin nerede yapılacağı ve en iyi kaynak bulma stratejisinin ne olacağı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tedarik Zinciri Yönetimi (SCM), müşteriye doğru ürünün doğru zamanda, doğru yerde ve uygun maliyetle ulaşmasını sağlayarak müşteri memnuniyetini artırmak için hangi temel yaklaşımları ve teknolojik araçları kullanır?",
+        "answer": "Tedarik Zinciri Yönetimi (SCM), doğru ürünün doğru zamanda, doğru yerde, doğru fiyata ve mümkün olan en düşük maliyetle müşteriye ulaşmasını sağlamak amacıyla malzeme, bilgi ve para akışının entegre yönetimini ve temel iş süreçlerinin entegrasyonunu kullanır. Bu entegrasyon, üretimin nerede yapılacağı ve en iyi kaynak bulma stratejisi gibi stratejik kararları, tahmin yürütme ve malzeme temini gibi taktik planlamaları ve envanter dağıtımı ile detaylı çizelgeleme gibi operasyonel seviyeleri kapsar. Ayrıca, müşteri memnuniyetini daha iyi bir şekilde sağlamak için ileri teknoloji, bilişim yönetimi, yöneylem araştırması matematiği, ileri seviyede programlar ve ilişkisel veritabanları gibi araçları kullanarak çeşitli faktörleri planlar ve kontrol eder.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

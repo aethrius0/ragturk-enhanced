@@ -1,0 +1,144 @@
+{
+  "article": {
+    "id": "kilikarardiyagram_44aefa20",
+    "title": "İkili karar diyagramı",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0kili_karar_diyagram%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:28.171309",
+    "content": "Bilgisayar biliminde, ikili karar diyagramı (BDD) veya dallanma programı, bir veri yapısı olup Boolean fonksiyonunu temsil etmek için kullanılır. Daha soyut bir düzeyde, BDD’ler kümelerin veya ilişkilerin sıkıştırılmış bir gösterimi olarak düşünülebilir. Diğer sıkıştırılmış gösterimlerden farklı olarak, işlemler sıkıştırılmış hali üzerinde doğrudan, yani açılmadan gerçekleştirilir. Benzer veri yapıları arasında negation normal form (NNF), Zhegalkin polinomları ve önerme yönlendirilmiş döngüsüz grafikler (PDAG) bulunur. == Tanım == Bir Boolean fonksiyonu, köklü, yönlendirilmiş, döngüsüz bir graf olarak temsil edilebilir. Bu grafik, birkaç (karar) düğümü ve iki terminal düğümden oluşur. İki terminal düğüm 0 (FALSE) ve 1 (TRUE) olarak etiketlenir. Her (karar) düğümü u {\\displaystyle u} , bir Boolean değişkeni x i {\\displaystyle x_{i}} ile etiketlenir ve iki alt düğüme sahiptir; bunlar düşük alt düğüm (low child) ve yüksek alt düğüm (high child) olarak adlandırılır. Düğüm u {\\displaystyle u} 'den düşük (veya yüksek) alt düğüme giden kenar, değişken x i {\\displaystyle x_{i}} 'ye FALSE (veya sırasıyla TRUE) değeri atanmasını temsil eder. Böyle bir BDD, kökten tüm yollarda değişkenlerin aynı sırayla yer alması durumunda 'sıralı' (ordered) olarak adlandırılır. Bir BDD'nin 'azaltılmış' (reduced) olması için aşağıdaki iki kural uygulanmış olmalıdır: İzomorfik alt grafikleri birleştir. İki alt düğümü izomorfik olan herhangi bir düğümü kaldır. Günlük kullanımda, BDD terimi neredeyse her zaman Azaltılmış Sıralı İkili Karar Diyagramı (literatürde ROBDD olarak anılır; sıralama ve azaltma özellikleri vurgulanmak istendiğinde kullanılır) anlamına gelir. ROBDD'nin avantajı, belirli bir fonksiyon ve değişken sırası için kanonik (izomorfizme kadar benzersiz) olmasıdır. Bu özellik, fonksiyonel eşdeğerlik kontrolü ve fonksiyonel teknoloji eşlemesi gibi işlemlerde faydalıdır. Kök düğümden 1-terminal düğüme olan bir yol, temsil edilen Boolean fonksiyonunun doğru olduğu (kısmi veya tam) bir değişken atamasını gösterir. Yol, bir düğümden düşük (veya yüksek) alt düğüme ilerledikçe, o düğümün değişkenine 0 (sırasıyla 1) değeri atanmış olur. === Örnek === Aşağıdaki soldaki şekil, bir ikili karar ağacıdır (azaltma kuralları uygulanmamıştır) ve bir doğruluk tablosu, her ikisi de f ( x 1 , x 2 , x 3 ) {\\displaystyle f(x_{1},x_{2},x_{3})} fonksiyonunu temsil eder. Soldaki ağaçta, verilen bir değişken ataması için fonksiyonun değeri, grafikteki bir yol izlenerek terminal düğüme ulaşılmasıyla belirlenebilir. Aşağıdaki şekillerde, kesikli çizgiler düşük alt düğüme giden kenarları, düz çizgiler ise yüksek alt düğüme giden kenarları temsil eder. Bu nedenle, f ( 0 , 1 , 1 ) {\\displaystyle f(0,1,1)} değerini bulmak için, x1'den başlayıp kesikli çizgiyle x2'ye (çünkü x1 değeri 0’dır), ardından iki düz çizgiyle (çünkü x2 ve x3 değerleri 1’dir) ilerlenir. Bu yol, f ( 0 , 1 , 1 ) {\\displaystyle f(0,1,1)} değerini veren terminal 1’e ulaşır. Soldaki ikili karar ağacı, iki azaltma kuralına göre mümkün olduğunca küçültülerek ikili karar diyagramına dönüştürülebilir. Ortaya çıkan BDD, sağdaki şekilde gösterilmiştir. Bu Boolean fonksiyonunu yazmak için diğer bir gösterim ise x ¯ 1 x ¯ 2 x ¯ 3 + x 1 x 2 + x 2 x 3 {\\displaystyle {\\overline {x}}_{1}{\\overline {x}}_{2}{\\overline {x}}_{3}+x_{1}x_{2}+x_{2}x_{3}} şeklindedir. === Terslenmiş kenarlar === Bir ROBDD, terslenmiş kenarlar olarak da bilinen tamamlayıcı bağlantılar kullanılarak daha da kompakt şekilde temsil edilebilir veya imzalı BDD olarak adlandırılır. Terslenmiş kenarlar, düşük kenarların terslenmiş olup olmadığının belirtilmesiyle oluşturulur. Eğer bir kenar terslenmişse, bu kenar, kenarın işaret ettiği düğümün karşılık geldiği Boolean fonksiyonunun olumsuzuna (yani BDD'nin kökü o düğüm olan Boolean fonksiyonunun negasyonuna) işaret eder. Yüksek kenarlar terslenmez; böylece elde edilen BDD gösteriminin kanonik form olması sağlanır. Bu gösterimde, aşağıda açıklanan nedenlerle BDD'lerin tek bir yaprak düğümü vardır. BDD’leri terslenmiş kenarlarla temsil etmenin iki avantajı vardır: Bir BDD’nin negasyonunu hesaplamak sabit zamanda yapılabilir. Bellek kullanımı (yani gereken hafıza) en fazla iki kat daha azdır. Ancak, Knuth bu görüşe katılmamaktadır: Tüm büyük BDD paketleri bu tür bağlantıları kullansa da, bilgisayar programlarının çok daha karmaşık hale gelmesi nedeniyle önerilmesi zordur. Bellek tasarrufu genellikle ihmal edilebilir düzeydedir ve hiçbir zaman iki katından daha iyi değildir; ayrıca yazarın deneyleri çalışma süresinde çok az kazanç sağladığını göstermektedir. Bu gösterimde bir BDD’ye yapılan referans, (muhtemelen terslenmiş) BDD köküne işaret eden bir \"kenar\"dır. Bu, terslenmiş kenarların kullanılmadığı gösterimde bir BDD’ye yapılan referansın BDD’nin kök düğümü olmasıyla tezat oluşturur. Bu gösterimde referansın bir kenar olması gerekir. Çünkü her Boolean fonksiyon için, fonksiyon ve onun negasyonu, aynı BDD’nin köküne giden bir kenar ve terslenmiş bir kenar ile temsil edilir. İşte bu yüzden negasyon sabit zamanda gerçekleşir. Ayrıca, tek bir yaprak düğümün yeterli olmasının sebebini de açıklar: FALSE, yaprak düğüme işaret eden terslenmiş bir kenar ile; TRUE ise yaprak düğüme işaret eden normal (terslenmemiş) bir kenar ile temsil edilir. Örneğin, bir Boolean fonksiyonunun, terslenmiş kenarlarla temsil edilen bir BDD ile gösterildiğini varsayalım. Değişkenlere verilen (Boolean) değerler için fonksiyonun değerini bulmak üzere, BDD’nin köküne işaret eden referans kenarından başlanır ve verilen değişken değerlerine göre tanımlanan yol izlenir (bir düğümü etiketleyen değişken FALSE ise düşük kenar, TRUE ise yüksek kenar takip edilir) ve yaprak düğüme ulaşılır. Bu yol boyunca kaç tane terslenmiş kenar geçtiğimiz sayılır. Yaprak düğüme ulaşıldığında, eğer geçilen terslenmiş kenar sayısı tek ise, verilen değişken ataması için Boolean fonksiyonunun değeri FALSE olur; çift ise TRUE olur. Bu gösterimdeki bir BDD örneği sağdaki şekilde verilmiştir ve yukarıdaki diyagramlarda gösterilen aynı Boolean ifadesini temsil eder (yani ( ¬ x 1 ∧ ¬ x 2 ∧ ¬ x 3 ) ∨ ( x 1 ∧ x 2 ) ∨ ( x 2 ∧ x 3 ) {\\displaystyle (\\neg x_{1}\\wedge \\neg x_{2}\\wedge \\neg x_{3})\\vee (x_{1}\\wedge x_{2})\\vee (x_{2}\\wedge x_{3})} ). Düşük kenarlar kesikli çizgilerle, yüksek kenarlar düz çizgilerle; terslenmiş kenarlar ise kaynaklarında bir daire ile gösterilmiştir. @ sembollü düğüm, BDD’ye referansı temsil eder; yani referans kenarı bu düğümden başlayan kenardır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 898,
+      "char_count": 6472,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.316374",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 525,
+      "content": "Bilgisayar biliminde, ikili karar diyagramı (BDD) veya dallanma programı, bir veri yapısı olup Boolean fonksiyonunu temsil etmek için kullanılır. Daha soyut bir düzeyde, BDD’ler kümelerin veya ilişkilerin sıkıştırılmış bir gösterimi olarak düşünülebilir. Diğer sıkıştırılmış gösterimlerden farklı olarak, işlemler sıkıştırılmış hali üzerinde doğrudan, yani açılmadan gerçekleştirilir. Benzer veri yapıları arasında negation normal form (NNF), Zhegalkin polinomları ve önerme yönlendirilmiş döngüsüz grafikler (PDAG) bulunur.",
+      "char_count": 524,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0001",
+      "section": "== Tanım ==",
+      "heading_path": "== Tanım ==",
+      "start_char": 525,
+      "end_char": 1525,
+      "content": "== Tanım == Bir Boolean fonksiyonu, köklü, yönlendirilmiş, döngüsüz bir graf olarak temsil edilebilir. Bu grafik, birkaç (karar) düğümü ve iki terminal düğümden oluşur. İki terminal düğüm 0 (FALSE) ve 1 (TRUE) olarak etiketlenir. Her (karar) düğümü u {\\displaystyle u} , bir Boolean değişkeni x i {\\displaystyle x_{i}} ile etiketlenir ve iki alt düğüme sahiptir; bunlar düşük alt düğüm (low child) ve yüksek alt düğüm (high child) olarak adlandırılır. Düğüm u {\\displaystyle u} 'den düşük (veya yüksek) alt düğüme giden kenar, değişken x i {\\displaystyle x_{i}} 'ye FALSE (veya sırasıyla TRUE) değeri atanmasını temsil eder. Böyle bir BDD, kökten tüm yollarda değişkenlerin aynı sırayla yer alması durumunda 'sıralı' (ordered) olarak adlandırılır. Bir BDD'nin 'azaltılmış' (reduced) olması için aşağıdaki iki kural uygulanmış olmalıdır: İzomorfik alt grafikleri birleştir. İki alt düğümü izomorfik olan herhangi bir düğümü kaldır. Günlük kullanımda, BDD terimi neredeyse her zaman Azaltılmış Sıralı İ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tanım ==",
+      "heading_path": "== Tanım ==",
+      "start_char": 1325,
+      "end_char": 2150,
+      "content": "daki iki kural uygulanmış olmalıdır: İzomorfik alt grafikleri birleştir. İki alt düğümü izomorfik olan herhangi bir düğümü kaldır. Günlük kullanımda, BDD terimi neredeyse her zaman Azaltılmış Sıralı İkili Karar Diyagramı (literatürde ROBDD olarak anılır; sıralama ve azaltma özellikleri vurgulanmak istendiğinde kullanılır) anlamına gelir. ROBDD'nin avantajı, belirli bir fonksiyon ve değişken sırası için kanonik (izomorfizme kadar benzersiz) olmasıdır. Bu özellik, fonksiyonel eşdeğerlik kontrolü ve fonksiyonel teknoloji eşlemesi gibi işlemlerde faydalıdır. Kök düğümden 1-terminal düğüme olan bir yol, temsil edilen Boolean fonksiyonunun doğru olduğu (kısmi veya tam) bir değişken atamasını gösterir. Yol, bir düğümden düşük (veya yüksek) alt düğüme ilerledikçe, o düğümün değişkenine 0 (sırasıyla 1) değeri atanmış olur.",
+      "char_count": 825,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0003",
+      "section": "=== Örnek ===",
+      "heading_path": "=== Örnek ===",
+      "start_char": 2151,
+      "end_char": 3151,
+      "content": "=== Örnek === Aşağıdaki soldaki şekil, bir ikili karar ağacıdır (azaltma kuralları uygulanmamıştır) ve bir doğruluk tablosu, her ikisi de f ( x 1 , x 2 , x 3 ) {\\displaystyle f(x_{1},x_{2},x_{3})} fonksiyonunu temsil eder. Soldaki ağaçta, verilen bir değişken ataması için fonksiyonun değeri, grafikteki bir yol izlenerek terminal düğüme ulaşılmasıyla belirlenebilir. Aşağıdaki şekillerde, kesikli çizgiler düşük alt düğüme giden kenarları, düz çizgiler ise yüksek alt düğüme giden kenarları temsil eder. Bu nedenle, f ( 0 , 1 , 1 ) {\\displaystyle f(0,1,1)} değerini bulmak için, x1'den başlayıp kesikli çizgiyle x2'ye (çünkü x1 değeri 0’dır), ardından iki düz çizgiyle (çünkü x2 ve x3 değerleri 1’dir) ilerlenir. Bu yol, f ( 0 , 1 , 1 ) {\\displaystyle f(0,1,1)} değerini veren terminal 1’e ulaşır. Soldaki ikili karar ağacı, iki azaltma kuralına göre mümkün olduğunca küçültülerek ikili karar diyagramına dönüştürülebilir. Ortaya çıkan BDD, sağdaki şekilde gösterilmiştir. Bu Boolean fonksiyonunu ya",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "=== Örnek ===",
+      "heading_path": "=== Örnek ===",
+      "start_char": 2951,
+      "end_char": 3330,
+      "content": "oldaki ikili karar ağacı, iki azaltma kuralına göre mümkün olduğunca küçültülerek ikili karar diyagramına dönüştürülebilir. Ortaya çıkan BDD, sağdaki şekilde gösterilmiştir. Bu Boolean fonksiyonunu yazmak için diğer bir gösterim ise x ¯ 1 x ¯ 2 x ¯ 3 + x 1 x 2 + x 2 x 3 {\\displaystyle {\\overline {x}}_{1}{\\overline {x}}_{2}{\\overline {x}}_{3}+x_{1}x_{2}+x_{2}x_{3}} şeklindedir.",
+      "char_count": 379,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0005",
+      "section": "=== Terslenmiş kenarlar ===",
+      "heading_path": "=== Terslenmiş kenarlar ===",
+      "start_char": 3331,
+      "end_char": 4331,
+      "content": "=== Terslenmiş kenarlar === Bir ROBDD, terslenmiş kenarlar olarak da bilinen tamamlayıcı bağlantılar kullanılarak daha da kompakt şekilde temsil edilebilir veya imzalı BDD olarak adlandırılır. Terslenmiş kenarlar, düşük kenarların terslenmiş olup olmadığının belirtilmesiyle oluşturulur. Eğer bir kenar terslenmişse, bu kenar, kenarın işaret ettiği düğümün karşılık geldiği Boolean fonksiyonunun olumsuzuna (yani BDD'nin kökü o düğüm olan Boolean fonksiyonunun negasyonuna) işaret eder. Yüksek kenarlar terslenmez; böylece elde edilen BDD gösteriminin kanonik form olması sağlanır. Bu gösterimde, aşağıda açıklanan nedenlerle BDD'lerin tek bir yaprak düğümü vardır. BDD’leri terslenmiş kenarlarla temsil etmenin iki avantajı vardır: Bir BDD’nin negasyonunu hesaplamak sabit zamanda yapılabilir. Bellek kullanımı (yani gereken hafıza) en fazla iki kat daha azdır. Ancak, Knuth bu görüşe katılmamaktadır: Tüm büyük BDD paketleri bu tür bağlantıları kullansa da, bilgisayar programlarının çok daha karma",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "=== Terslenmiş kenarlar ===",
+      "heading_path": "=== Terslenmiş kenarlar ===",
+      "start_char": 4131,
+      "end_char": 5131,
+      "content": "k kullanımı (yani gereken hafıza) en fazla iki kat daha azdır. Ancak, Knuth bu görüşe katılmamaktadır: Tüm büyük BDD paketleri bu tür bağlantıları kullansa da, bilgisayar programlarının çok daha karmaşık hale gelmesi nedeniyle önerilmesi zordur. Bellek tasarrufu genellikle ihmal edilebilir düzeydedir ve hiçbir zaman iki katından daha iyi değildir; ayrıca yazarın deneyleri çalışma süresinde çok az kazanç sağladığını göstermektedir. Bu gösterimde bir BDD’ye yapılan referans, (muhtemelen terslenmiş) BDD köküne işaret eden bir \"kenar\"dır. Bu, terslenmiş kenarların kullanılmadığı gösterimde bir BDD’ye yapılan referansın BDD’nin kök düğümü olmasıyla tezat oluşturur. Bu gösterimde referansın bir kenar olması gerekir. Çünkü her Boolean fonksiyon için, fonksiyon ve onun negasyonu, aynı BDD’nin köküne giden bir kenar ve terslenmiş bir kenar ile temsil edilir. İşte bu yüzden negasyon sabit zamanda gerçekleşir. Ayrıca, tek bir yaprak düğümün yeterli olmasının sebebini de açıklar: FALSE, yaprak düğ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "=== Terslenmiş kenarlar ===",
+      "heading_path": "=== Terslenmiş kenarlar ===",
+      "start_char": 4931,
+      "end_char": 5931,
+      "content": "ne giden bir kenar ve terslenmiş bir kenar ile temsil edilir. İşte bu yüzden negasyon sabit zamanda gerçekleşir. Ayrıca, tek bir yaprak düğümün yeterli olmasının sebebini de açıklar: FALSE, yaprak düğüme işaret eden terslenmiş bir kenar ile; TRUE ise yaprak düğüme işaret eden normal (terslenmemiş) bir kenar ile temsil edilir. Örneğin, bir Boolean fonksiyonunun, terslenmiş kenarlarla temsil edilen bir BDD ile gösterildiğini varsayalım. Değişkenlere verilen (Boolean) değerler için fonksiyonun değerini bulmak üzere, BDD’nin köküne işaret eden referans kenarından başlanır ve verilen değişken değerlerine göre tanımlanan yol izlenir (bir düğümü etiketleyen değişken FALSE ise düşük kenar, TRUE ise yüksek kenar takip edilir) ve yaprak düğüme ulaşılır. Bu yol boyunca kaç tane terslenmiş kenar geçtiğimiz sayılır. Yaprak düğüme ulaşıldığında, eğer geçilen terslenmiş kenar sayısı tek ise, verilen değişken ataması için Boolean fonksiyonunun değeri FALSE olur; çift ise TRUE olur. Bu gösterimdeki bir",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0008",
+      "section": "=== Terslenmiş kenarlar ===",
+      "heading_path": "=== Terslenmiş kenarlar ===",
+      "start_char": 5731,
+      "end_char": 6457,
+      "content": "ğimiz sayılır. Yaprak düğüme ulaşıldığında, eğer geçilen terslenmiş kenar sayısı tek ise, verilen değişken ataması için Boolean fonksiyonunun değeri FALSE olur; çift ise TRUE olur. Bu gösterimdeki bir BDD örneği sağdaki şekilde verilmiştir ve yukarıdaki diyagramlarda gösterilen aynı Boolean ifadesini temsil eder (yani ( ¬ x 1 ∧ ¬ x 2 ∧ ¬ x 3 ) ∨ ( x 1 ∧ x 2 ) ∨ ( x 2 ∧ x 3 ) {\\displaystyle (\\neg x_{1}\\wedge \\neg x_{2}\\wedge \\neg x_{3})\\vee (x_{1}\\wedge x_{2})\\vee (x_{2}\\wedge x_{3})} ). Düşük kenarlar kesikli çizgilerle, yüksek kenarlar düz çizgilerle; terslenmiş kenarlar ise kaynaklarında bir daire ile gösterilmiştir. @ sembollü düğüm, BDD’ye referansı temsil eder; yani referans kenarı bu düğümden başlayan kenardır.",
+      "char_count": 726,
+      "token_estimate": 181
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bir Boolean fonksiyonunu temsil eden grafikteki iki terminal düğüm ne olarak etiketlenir?",
+        "answer": "İki terminal düğüm 0 (FALSE) ve 1 (TRUE) olarak etiketlenir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Genel bir İkili Karar Diyagramı (BDD) tanımına kıyasla, Azaltılmış Sıralı İkili Karar Diyagramı (ROBDD) hangi ek özellikleri taşır ve bu özellikler bilgisayar biliminde ne gibi faydalar sağlar?",
+        "answer": "Azaltılmış Sıralı İkili Karar Diyagramı (ROBDD), BDD'nin iki ek özelliğini içerir: 'sıralı' (ordered) olması, yani kökten tüm yollarda değişkenlerin aynı sırada yer alması; ve 'azaltılmış' (reduced) olması, yani izomorfik alt grafikleri birleştirme ve iki alt düğümü izomorfik olan herhangi bir düğümü kaldırma kurallarının uygulanmış olmasıdır. Bu sıralama ve azaltma özellikleri sayesinde, ROBDD belirli bir Boolean fonksiyonu ve değişken sırası için kanonik (izomorfizme kadar benzersiz) bir gösterim sunar. Bu kanoniklik, fonksiyonel eşdeğerlik kontrolü ve fonksiyonel teknoloji eşlemesi gibi işlemlerde büyük fayda sağlar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "ttihatspor_bff0f310",
+    "title": "İttihatspor",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0ttihatspor",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:23.362007",
+    "content": "İttihatspor, İstanbul merkezli bir spor kulübüydü. == Tarihi == İkinci Meşrutiyet'in ilanı onuruna 1908'de, Çiftehavuzlar'daki köşkünde bir parti düzenleyen Cemil Paşa, hatıratında bu partide Frederick Edwin Whittall'un kendisine Kadıköy civarında bir tesis kurulması teklifiyle geldiğini yazar. Cemil Paşa; Arif Hikmet Paşa, Whittall ile birkaç İngiliz akrabası, James LaFontaine, Mehmed Rifat Paşa ve Nurizade Ziya ile ertesi gün köşkte gerçekleştirdiği toplantıda, Papazın Çayırı olarak anılan bölgede bir spor kulübü kurma kararına vardıklarını belirtir. Cemil Paşa, Whittall'un \"en az 3000 altın\"a ihtiyaç duyulduğunu belirtmesi üzerine kendisinin 250 altın, Arif Hikmet Paşa'nın da \"buna yakın bir meblağ\" verdiğini yazarken \"[Türklerden] başka kimlerin para verdiğini hatırlamadığını\" ve kalan miktarın İngilizler tarafından tamamlandığını söyler. Cemil Paşa, Başkâtip Ali Cevad aracılığıyla Osmanlı Padişahı II. Abdülhamid'e konuyu iletti. Abdülhamid'in onayının ardından arazi, yıllık 30 altın kira karşılığında 20 yıllığına Union Club'a kiralandı. Kiralanmasının ardından arazinin etrafı tahta perdelerle çevrelendi, ağaçlar dikildi ve kulüp binası inşa edildi. 1908'de, Union Club/İttihad Kulübü adıyla kurulan kulübün başkanı Frederick Edwin Whittall, sekreteri Ernest Thomson, kasadarı James LaFontaine iken Cemil Paşa, Mehmed Rifat Paşa ve Nurizade Ziya da komite üyelerindendi. LaFontaine'in sekreterliğini yaptığı kulübün icra ve idari komitesi üyeleri ise Nurizade Ziya ve Whittall'dı. Sahada yapılan çalışmalar sonrasında kulübün faaliyetleri Eylül 1909'da başladı. Kulüp bünyesinde; at yarışı ve bisiklet için 500 m'lik parkur; kriket, futbol, ragbi, çim hokeyi ve diğer sporlar için çim saha; tenis kortu; tekerlekli paten hokeyi pisti; restoran ve bar da içeren, bilardo ve iskambil oyunlarının gerçekleştirilebileceği kulüp binası ile güreş platformu vardı. Sahada 700-1000 oturma kapasiteli erkek-kadın karışık tribün ile 150 oturma kapasiteli kadınlara özel bir tribün de bulunuyordu. Daha sonra İttihatspor adıyla faaliyetini sürdürdü. Dönemin Maliye Bakanı Şükrü Saracoğlu'nun girişimleriyle 1929 yılında çıkarılan Bakanlar Kurulu kararıyla aynı semtte faaliyet gösteren spor kulüplerinin birden fazla olması durumunda sadece üye sayısı fazla olanın faaliyetine devam edeceği ve diğerlerinin kapatılacağı uygulaması getirildi ve bu kapsamda Fenerbahçe ile aynı semtte bulunan İttihatspor'un faaliyetlerine son verildi. Kapatılan İttihatspor'un sahası ise önce Millî Emlak İdaresi'ne devredildi, sonraysa kira yoluyla Fenerbahçe'ye verildi. == Kaynakça == Genel Yüce, Mehmet (2014). Bora, Tanıl (Ed.). Osmanlı Melekleri (1. bas.). İstanbul: İletişim Yayınları. ISBN 978-975-05-1580-4. Özel",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 348,
+      "char_count": 2714,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.810301",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 51,
+      "content": "İttihatspor, İstanbul merkezli bir spor kulübüydü.",
+      "char_count": 50,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 51,
+      "end_char": 1051,
+      "content": "== Tarihi == İkinci Meşrutiyet'in ilanı onuruna 1908'de, Çiftehavuzlar'daki köşkünde bir parti düzenleyen Cemil Paşa, hatıratında bu partide Frederick Edwin Whittall'un kendisine Kadıköy civarında bir tesis kurulması teklifiyle geldiğini yazar. Cemil Paşa; Arif Hikmet Paşa, Whittall ile birkaç İngiliz akrabası, James LaFontaine, Mehmed Rifat Paşa ve Nurizade Ziya ile ertesi gün köşkte gerçekleştirdiği toplantıda, Papazın Çayırı olarak anılan bölgede bir spor kulübü kurma kararına vardıklarını belirtir. Cemil Paşa, Whittall'un \"en az 3000 altın\"a ihtiyaç duyulduğunu belirtmesi üzerine kendisinin 250 altın, Arif Hikmet Paşa'nın da \"buna yakın bir meblağ\" verdiğini yazarken \"[Türklerden] başka kimlerin para verdiğini hatırlamadığını\" ve kalan miktarın İngilizler tarafından tamamlandığını söyler. Cemil Paşa, Başkâtip Ali Cevad aracılığıyla Osmanlı Padişahı II. Abdülhamid'e konuyu iletti. Abdülhamid'in onayının ardından arazi, yıllık 30 altın kira karşılığında 20 yıllığına Union Club'a kira",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 851,
+      "end_char": 1851,
+      "content": "er. Cemil Paşa, Başkâtip Ali Cevad aracılığıyla Osmanlı Padişahı II. Abdülhamid'e konuyu iletti. Abdülhamid'in onayının ardından arazi, yıllık 30 altın kira karşılığında 20 yıllığına Union Club'a kiralandı. Kiralanmasının ardından arazinin etrafı tahta perdelerle çevrelendi, ağaçlar dikildi ve kulüp binası inşa edildi. 1908'de, Union Club/İttihad Kulübü adıyla kurulan kulübün başkanı Frederick Edwin Whittall, sekreteri Ernest Thomson, kasadarı James LaFontaine iken Cemil Paşa, Mehmed Rifat Paşa ve Nurizade Ziya da komite üyelerindendi. LaFontaine'in sekreterliğini yaptığı kulübün icra ve idari komitesi üyeleri ise Nurizade Ziya ve Whittall'dı. Sahada yapılan çalışmalar sonrasında kulübün faaliyetleri Eylül 1909'da başladı. Kulüp bünyesinde; at yarışı ve bisiklet için 500 m'lik parkur; kriket, futbol, ragbi, çim hokeyi ve diğer sporlar için çim saha; tenis kortu; tekerlekli paten hokeyi pisti; restoran ve bar da içeren, bilardo ve iskambil oyunlarının gerçekleştirilebileceği kulüp binas",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1651,
+      "end_char": 2565,
+      "content": "et, futbol, ragbi, çim hokeyi ve diğer sporlar için çim saha; tenis kortu; tekerlekli paten hokeyi pisti; restoran ve bar da içeren, bilardo ve iskambil oyunlarının gerçekleştirilebileceği kulüp binası ile güreş platformu vardı. Sahada 700-1000 oturma kapasiteli erkek-kadın karışık tribün ile 150 oturma kapasiteli kadınlara özel bir tribün de bulunuyordu. Daha sonra İttihatspor adıyla faaliyetini sürdürdü. Dönemin Maliye Bakanı Şükrü Saracoğlu'nun girişimleriyle 1929 yılında çıkarılan Bakanlar Kurulu kararıyla aynı semtte faaliyet gösteren spor kulüplerinin birden fazla olması durumunda sadece üye sayısı fazla olanın faaliyetine devam edeceği ve diğerlerinin kapatılacağı uygulaması getirildi ve bu kapsamda Fenerbahçe ile aynı semtte bulunan İttihatspor'un faaliyetlerine son verildi. Kapatılan İttihatspor'un sahası ise önce Millî Emlak İdaresi'ne devredildi, sonraysa kira yoluyla Fenerbahçe'ye verildi.",
+      "char_count": 914,
+      "token_estimate": 228
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2566,
+      "end_char": 2714,
+      "content": "== Kaynakça == Genel Yüce, Mehmet (2014). Bora, Tanıl (Ed.). Osmanlı Melekleri (1. bas.). İstanbul: İletişim Yayınları. ISBN 978-975-05-1580-4. Özel",
+      "char_count": 148,
+      "token_estimate": 37
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cemil Paşa, İkinci Meşrutiyet'in ilanı onuruna düzenlenen partide, bir spor kulübü kurma kararını kimlerle almıştır?",
+        "answer": "Arif Hikmet Paşa, Frederick Edwin Whittall, birkaç İngiliz akrabası, James LaFontaine, Mehmed Rifat Paşa ve Nurizade Ziya ile.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İstanbul merkezli İttihatspor'un kuruluşu, uluslararası iş birliğinin hangi örneklerini taşımaktaydı ve bu iş birliği kulübün hem finansmanına hem de yönetimine nasıl yansımıştır?",
+        "answer": "İstanbul merkezli İttihatspor'un kuruluşu, önemli bir uluslararası iş birliğini içermekteydi. Kulübün kurulması teklifi Frederick Edwin Whittall gibi İngiliz isimlerden gelmiş ve kulübün ihtiyaç duyduğu finansmanın önemli bir kısmı İngilizler tarafından tamamlanmıştır. Yönetim tarafında ise kulübün ilk başkanı Frederick Edwin Whittall, sekreteri Ernest Thomson ve kasadarı James LaFontaine gibi İngiliz isimler bulunurken, Cemil Paşa, Mehmed Rifat Paşa ve Nurizade Ziya gibi Türk isimler de komite üyeleri arasında yer almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

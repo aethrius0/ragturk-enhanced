@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "petercolman_122a4117",
+    "title": "Peter Colman",
+    "url": "https://tr.wikipedia.org/wiki/Peter_Colman",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:27.122406",
+    "content": "Peter Malcolm Colman (1944 doğumlu), Melbourne, Avustralya'daki Walter ve Eliza Hall Tıbbi Araştırma Enstitüsü'nün yapısal biyoloji bölümünün başkanıdır. == Eğitim == Colman, 1966'da fizik dalında lisans ve Harry Medlin tarafından denetlenen parabanik asit komplekslerinin kimyasal yapısı üzerine araştırmalar için 1969'da doktora derecesi aldığı Adelaide Üniversitesi'nde eğitim gördü. == Araştırma ve kariyer == Colman'ın araştırma ilgi alanları yapısal biyoloji, özellikle insan B hücreli lenfoma 2 (BCL-2) üzerinedir. Colman, influenza virüsü nöraminidazının üç boyutlu yapısını belirledi ve yapı temelli ilaç tasarımının ilk örneklerinden birinde, influenza için sınıfının ilk nöraminidaz inhibitörü olan zanamivir'i keşfetti. Bu ilaç sınıfına direnç üzerine yaptığı müteakip yapısal çalışmaları ile, ilaçların hareketli hedeflere karşı nasıl tasarlanacağını önerdi. Keşifleri, pandemiye hazırlıklı olmak için ilaç stoklamasının temelini oluşturuyor. Antikorların ve antikor-antijen komplekslerinin yapısal çalışmalarına yeni ufuklar açan katkılarda bulundu. Çalışmaları, Nature, The Journal of Molecular Biology ve Nature Reviews Molecular Cell Biology gibi önde gelen hakemli bilimsel dergilerde yayınlandı . === Ödüller ve onurlar === Colman, 2014 yılında Royal Society (FRS) 2001 yılında \"Avustralya toplumuna ve yapısal biyolojide bilime hizmetlerinden dolayı \" Yüzüncü Madalya\" ile ödüllendirildi. Colman ayrıca 1989'da Avustralya Bilim Akademisi Üyesi ve 1997'de Avustralya Teknolojik Bilimler ve Mühendislik Akademisi Üyesi seçildi 1995'te Macfarlane Burnet Madalyası ile ödüllendirildi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1614,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.681478",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 154,
+      "content": "Peter Malcolm Colman (1944 doğumlu), Melbourne, Avustralya'daki Walter ve Eliza Hall Tıbbi Araştırma Enstitüsü'nün yapısal biyoloji bölümünün başkanıdır.",
+      "char_count": 153,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0001",
+      "section": "== Eğitim ==",
+      "heading_path": "== Eğitim ==",
+      "start_char": 154,
+      "end_char": 387,
+      "content": "== Eğitim == Colman, 1966'da fizik dalında lisans ve Harry Medlin tarafından denetlenen parabanik asit komplekslerinin kimyasal yapısı üzerine araştırmalar için 1969'da doktora derecesi aldığı Adelaide Üniversitesi'nde eğitim gördü.",
+      "char_count": 232,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0002",
+      "section": "== Araştırma ve kariyer ==",
+      "heading_path": "== Araştırma ve kariyer ==",
+      "start_char": 387,
+      "end_char": 1216,
+      "content": "== Araştırma ve kariyer == Colman'ın araştırma ilgi alanları yapısal biyoloji, özellikle insan B hücreli lenfoma 2 (BCL-2) üzerinedir. Colman, influenza virüsü nöraminidazının üç boyutlu yapısını belirledi ve yapı temelli ilaç tasarımının ilk örneklerinden birinde, influenza için sınıfının ilk nöraminidaz inhibitörü olan zanamivir'i keşfetti. Bu ilaç sınıfına direnç üzerine yaptığı müteakip yapısal çalışmaları ile, ilaçların hareketli hedeflere karşı nasıl tasarlanacağını önerdi. Keşifleri, pandemiye hazırlıklı olmak için ilaç stoklamasının temelini oluşturuyor. Antikorların ve antikor-antijen komplekslerinin yapısal çalışmalarına yeni ufuklar açan katkılarda bulundu. Çalışmaları, Nature, The Journal of Molecular Biology ve Nature Reviews Molecular Cell Biology gibi önde gelen hakemli bilimsel dergilerde yayınlandı .",
+      "char_count": 828,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0003",
+      "section": "=== Ödüller ve onurlar ===",
+      "heading_path": "=== Ödüller ve onurlar ===",
+      "start_char": 1216,
+      "end_char": 1600,
+      "content": "=== Ödüller ve onurlar === Colman, 2014 yılında Royal Society (FRS) 2001 yılında \"Avustralya toplumuna ve yapısal biyolojide bilime hizmetlerinden dolayı \" Yüzüncü Madalya\" ile ödüllendirildi. Colman ayrıca 1989'da Avustralya Bilim Akademisi Üyesi ve 1997'de Avustralya Teknolojik Bilimler ve Mühendislik Akademisi Üyesi seçildi 1995'te Macfarlane Burnet Madalyası ile ödüllendirildi",
+      "char_count": 383,
+      "token_estimate": 95
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Colman'ın influenza için keşfettiği sınıfının ilk nöraminidaz inhibitörü nedir?",
+        "answer": "Zanamivir",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Peter Malcolm Colman'ın Adelaide Üniversitesi'ndeki akademik geçmişi, yapısal biyoloji alanındaki temel ilgi alanları ve Walter ve Eliza Hall Tıbbi Araştırma Enstitüsü'ndeki liderlik pozisyonu arasında nasıl bir bağlantı kurulabilir?",
+        "answer": "Colman'ın Adelaide Üniversitesi'nde fizik dalında lisans ve parabanik asit komplekslerinin kimyasal yapısı üzerine doktora derecesi alması, yapısal biyolojiye olan ilgisini şekillendirmiştir. Bu akademik temel, influenza virüsü nöraminidazının üç boyutlu yapısını belirleme ve yapı temelli ilaç tasarımı gibi önemli araştırmalar yapmasına olanak tanımış ve sonuç olarak Melbourne'daki Walter ve Eliza Hall Tıbbi Araştırma Enstitüsü'nün yapısal biyoloji bölümünün başkanı olma rolüne katkıda bulunmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

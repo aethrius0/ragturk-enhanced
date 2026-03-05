@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "tamerkoel_a90bf3b3",
+    "title": "Tamer Koçel",
+    "url": "https://tr.wikipedia.org/wiki/Tamer_Ko%C3%A7el",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:48.644255",
+    "content": "Tamer Koçel (d. 1946, İnönü, Eskişehir) Türk akademisyendir. Eski İstanbul Kültür Üniversitesi rektörüdür. == Eğitimi == Kabataş Erkek Lisesi'ni 1963 yılında bitirmiş, İstanbul Üniversitesi İktisat Fakültesi'nden 1967 yılında mezun olmuştur. 1968 yılında İstanbul Üniversitesi İşletme İktisadı Enstitüsü 11. Dönem İşletmecilik uzmanlık programından mezun olmuştur. 1974'te Michigan Eyalet Üniversitesi'den İşletme Yönetimi Yüksek Lisansı derecesini almıştır. 1977 yılında Alberta'daki Banff İleri İşletme Okulu 40. Dönem programının mezunlarından olmuştur. == Akademik Kariyeri == İstanbul Üniversitesi İktisat Fakültesi İşletme Bölümü'ne asistan olarak girmiştir. İstanbul Üniversitesi İşletme Fakültesi ve İşletme İktisadı Enstitüsü öğretim üyesi olarak görev yapmış, 1975'te doçent olmuştur. 1980-1982 yılları arasında Chicago'daki Roosevelt Üniversitesi'nde konuk öğretim üyesi olmuş, 1982'de profesör olmuştur. == Akademik İdari Görevleri == 1975-1979 yıllarında İşletme İktisadı Enstitüsü Genel Sekreteri ve Eğitim Koordinatörü olarak görev yürütmüş, İstanbul Üniversitesi İşletme Fakültesi'nde anabilim dalı başkanlığı ve bölüm başkanlığı görevini yapmıştır. 1999 yılında İstanbul Kültür Üniversitesi'ne geçip sosyal bilimler enstitüsü müdürü, iktisadi ve idari bilimler fakültesi dekanı ve rektör yardımcısı olarak görev yaptıktan sonra, Eylül 2004-Kasım 2008 tarihleri arasında üniversitenin rektörü olarak görev yapmıştır. 2004-2012 yılları arasında ise aile işletmeleri ve girişimcilik araştırma merkezi müdürlüğünde bulunmuştur. Halen İstanbul Kültür Üniversitesi'nin mütevelli heyeti üyesidir. == Akademi Dışı Görevleri == 1983-1994 yılları arasında bazı özel işletmelerde danışman ve koordinatör olarak çalışmıştır. == Tartışmalar == Eski Bakan Prof. Dr. Ömer Dinçer'in 1995 yılında Yahya Fidan ile yazdığı \"İşletme Yönetimi\" kitabının birçok bölümünde intihal yapıldığının ortaya çıkması ve intihalin Prof. Dr. Tamer Koçel'in \"İşletme Yöneticiliği\" kitabından yapıldığının anlaşılması üzerine Ömer Dinçer Prof. Koçel'den özür dilemiş ve kitabı yayından çekmiştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 255,
+      "char_count": 2093,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.055488",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 107,
+      "content": "Tamer Koçel (d. 1946, İnönü, Eskişehir) Türk akademisyendir. Eski İstanbul Kültür Üniversitesi rektörüdür.",
+      "char_count": 106,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0001",
+      "section": "== Eğitimi ==",
+      "heading_path": "== Eğitimi ==",
+      "start_char": 107,
+      "end_char": 557,
+      "content": "== Eğitimi == Kabataş Erkek Lisesi'ni 1963 yılında bitirmiş, İstanbul Üniversitesi İktisat Fakültesi'nden 1967 yılında mezun olmuştur. 1968 yılında İstanbul Üniversitesi İşletme İktisadı Enstitüsü 11. Dönem İşletmecilik uzmanlık programından mezun olmuştur. 1974'te Michigan Eyalet Üniversitesi'den İşletme Yönetimi Yüksek Lisansı derecesini almıştır. 1977 yılında Alberta'daki Banff İleri İşletme Okulu 40. Dönem programının mezunlarından olmuştur.",
+      "char_count": 449,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0002",
+      "section": "== Akademik Kariyeri ==",
+      "heading_path": "== Akademik Kariyeri ==",
+      "start_char": 557,
+      "end_char": 916,
+      "content": "== Akademik Kariyeri == İstanbul Üniversitesi İktisat Fakültesi İşletme Bölümü'ne asistan olarak girmiştir. İstanbul Üniversitesi İşletme Fakültesi ve İşletme İktisadı Enstitüsü öğretim üyesi olarak görev yapmış, 1975'te doçent olmuştur. 1980-1982 yılları arasında Chicago'daki Roosevelt Üniversitesi'nde konuk öğretim üyesi olmuş, 1982'de profesör olmuştur.",
+      "char_count": 358,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0003",
+      "section": "== Akademik İdari Görevleri ==",
+      "heading_path": "== Akademik İdari Görevleri ==",
+      "start_char": 916,
+      "end_char": 1607,
+      "content": "== Akademik İdari Görevleri == 1975-1979 yıllarında İşletme İktisadı Enstitüsü Genel Sekreteri ve Eğitim Koordinatörü olarak görev yürütmüş, İstanbul Üniversitesi İşletme Fakültesi'nde anabilim dalı başkanlığı ve bölüm başkanlığı görevini yapmıştır. 1999 yılında İstanbul Kültür Üniversitesi'ne geçip sosyal bilimler enstitüsü müdürü, iktisadi ve idari bilimler fakültesi dekanı ve rektör yardımcısı olarak görev yaptıktan sonra, Eylül 2004-Kasım 2008 tarihleri arasında üniversitenin rektörü olarak görev yapmıştır. 2004-2012 yılları arasında ise aile işletmeleri ve girişimcilik araştırma merkezi müdürlüğünde bulunmuştur. Halen İstanbul Kültür Üniversitesi'nin mütevelli heyeti üyesidir.",
+      "char_count": 690,
+      "token_estimate": 172
+    },
+    {
+      "id": "c0004",
+      "section": "== Akademi Dışı Görevleri ==",
+      "heading_path": "== Akademi Dışı Görevleri ==",
+      "start_char": 1607,
+      "end_char": 1730,
+      "content": "== Akademi Dışı Görevleri == 1983-1994 yılları arasında bazı özel işletmelerde danışman ve koordinatör olarak çalışmıştır.",
+      "char_count": 122,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0005",
+      "section": "== Tartışmalar ==",
+      "heading_path": "== Tartışmalar ==",
+      "start_char": 1730,
+      "end_char": 2079,
+      "content": "== Tartışmalar == Eski Bakan Prof. Dr. Ömer Dinçer'in 1995 yılında Yahya Fidan ile yazdığı \"İşletme Yönetimi\" kitabının birçok bölümünde intihal yapıldığının ortaya çıkması ve intihalin Prof. Dr. Tamer Koçel'in \"İşletme Yöneticiliği\" kitabından yapıldığının anlaşılması üzerine Ömer Dinçer Prof. Koçel'den özür dilemiş ve kitabı yayından çekmiştir.",
+      "char_count": 348,
+      "token_estimate": 87
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İstanbul Kültür Üniversitesi'nde hangi tarihler arasında rektör olarak görev yapmıştır?",
+        "answer": "Eylül 2004-Kasım 2008 tarihleri arasında.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Türk akademisyen Tamer Koçel, İstanbul Kültür Üniversitesi rektörlüğü görevini üstlenmeden önce hangi eğitim kurumlarından önemli dereceler almış ve hangi alanlarda uzmanlaşmıştır?",
+        "answer": "Tamer Koçel, rektörlük görevinden önce Kabataş Erkek Lisesi'ni bitirmiş; İstanbul Üniversitesi İktisat Fakültesi'nden mezun olmuş, aynı üniversitenin İşletme İktisadı Enstitüsü'nden İşletmecilik uzmanlık programını tamamlamış; Michigan Eyalet Üniversitesi'nden İşletme Yönetimi Yüksek Lisansı derecesini almış ve Alberta'daki Banff İleri İşletme Okulu programından mezun olmuştur. Bu eğitimler, onun işletmecilik ve işletme yönetimi alanlarında uzmanlaşmasını sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

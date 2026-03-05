@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "mengjia_23995b4d",
+    "title": "Meng Jia",
+    "url": "https://tr.wikipedia.org/wiki/Meng_Jia",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:59.680389",
+    "content": "Meng Jia (Çince: 孟佳; pinyin: Mèng Jia), daha çok bilinen sahne adıyla Jia, Çinli şarkıcı ve oyuncudur. Jia JYP Entertainment altındaki Miss A grubuyla 2010 yılında çıkış yapıp 2016 yılında gruptan ayrılmıştır, == Kariyer == === 2010: Çıkış Miss A === Jia ve Fei daha stajyerken çin televizyonlarında birçok gösteri yapmışardır. Daha sonra 2010 yılında Miss A grubuyla çıkış yapıp çinde \"Chinese Wonder Girls\" olarak anılmaya başladılar. Mıss A nın ilek resmi reklamı ve yaptığı promosyon Samsung markası için yaptıkları \"Love Again\" şarkısıdır. === 2011-günümüz: Solo çalışmaları === 2011 yılında, Jia M&D'in teklisi \"Close Your Mouth\" ve Dream High, Dream High 2 gibi birçok çalışmada konuk oyuncu olarak bulunmuştur. 2013-2015 yılları arası,MBC'nin C-Radio radyosunda Fei ve Super Junior'dan Zhou Mi ile MC'lik yapmıştır. Oyunculuk kariyerini 2914 yılında çin dizisi olan One and a Half Summer ile yapmıştır ayrıca 2PM'den Nichkhun, 2015 yılında yine çin dizisi olan The Third Way of Love de Song Seung-heon ve Liu Yifei ile rol almıştır. Mayıs 2016 tarihinde jia JYP ile olan sözleşmesini yenilemeyerek gruptan ve şirketten ayrılmıştır. == Diskografi == == Filmografi == === Film === === Televizyon === ==== Drama ==== ==== Reliti ==== === Radyo === === Bulunduğu müzik videolar === == Ödülleri ve adaylıkları == == Kaynakça == == Dış bağlantılar == Twitter'da Meng Jia HanCinema'da Meng Jia",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 217,
+      "char_count": 1394,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.545469",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 210,
+      "content": "Meng Jia (Çince: 孟佳; pinyin: Mèng Jia), daha çok bilinen sahne adıyla Jia, Çinli şarkıcı ve oyuncudur. Jia JYP Entertainment altındaki Miss A grubuyla 2010 yılında çıkış yapıp 2016 yılında gruptan ayrılmıştır,",
+      "char_count": 209,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0001",
+      "section": "=== 2010: Çıkış Miss A ===",
+      "heading_path": "=== 2010: Çıkış Miss A ===",
+      "start_char": 224,
+      "end_char": 545,
+      "content": "=== 2010: Çıkış Miss A === Jia ve Fei daha stajyerken çin televizyonlarında birçok gösteri yapmışardır. Daha sonra 2010 yılında Miss A grubuyla çıkış yapıp çinde \"Chinese Wonder Girls\" olarak anılmaya başladılar. Mıss A nın ilek resmi reklamı ve yaptığı promosyon Samsung markası için yaptıkları \"Love Again\" şarkısıdır.",
+      "char_count": 320,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0002",
+      "section": "=== 2011-günümüz: Solo çalışmaları ===",
+      "heading_path": "=== 2011-günümüz: Solo çalışmaları ===",
+      "start_char": 545,
+      "end_char": 1140,
+      "content": "=== 2011-günümüz: Solo çalışmaları === 2011 yılında, Jia M&D'in teklisi \"Close Your Mouth\" ve Dream High, Dream High 2 gibi birçok çalışmada konuk oyuncu olarak bulunmuştur. 2013-2015 yılları arası,MBC'nin C-Radio radyosunda Fei ve Super Junior'dan Zhou Mi ile MC'lik yapmıştır. Oyunculuk kariyerini 2914 yılında çin dizisi olan One and a Half Summer ile yapmıştır ayrıca 2PM'den Nichkhun, 2015 yılında yine çin dizisi olan The Third Way of Love de Song Seung-heon ve Liu Yifei ile rol almıştır. Mayıs 2016 tarihinde jia JYP ile olan sözleşmesini yenilemeyerek gruptan ve şirketten ayrılmıştır.",
+      "char_count": 594,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1331,
+      "end_char": 1394,
+      "content": "== Dış bağlantılar == Twitter'da Meng Jia HanCinema'da Meng Jia",
+      "char_count": 63,
+      "token_estimate": 15
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Jia, JYP ile olan sözleşmesini yenilemeyerek gruptan ve şirketten hangi tarihte ayrılmıştır?",
+        "answer": "Mayıs 2016 tarihinde",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Meng Jia'nın (Jia) kariyeri, Miss A grubundaki çıkışından solo çalışmalarına ve gruptan ayrılışına kadar nasıl bir gelişim göstermiştir?",
+        "answer": "Jia, kariyerine 2010 yılında JYP Entertainment altındaki Miss A grubuyla çıkış yaparak başlamıştır. Grup Çin'de 'Chinese Wonder Girls' olarak anılmış ve ilk promosyonlarını Samsung için 'Love Again' şarkısıyla yapmıştır. 2011 yılından itibaren M&D'in 'Close Your Mouth' teklisinde konuk oyuncu olarak yer almış ve 2013-2015 yılları arasında C-Radio'da MC'lik yapmıştır. 2014 yılında 'One and a Half Summer' dizisiyle oyunculuk kariyerine adım atmıştır. Mayıs 2016 tarihinde JYP ile olan sözleşmesini yenilemeyerek Miss A grubundan ve şirketten ayrılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "opiliones_d945b180",
+    "title": "Opiliones",
+    "url": "https://tr.wikipedia.org/wiki/Opiliones",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:12.868659",
+    "content": "Otbiçenler veya Otbiçerler, bilimsel adı ile Opiliones, Arachnida sınıfına bağlı bir örümceğimsi takımıdır. 6700'den fazla türleri bulunur. == Özellikleri == Bazı örümceğimsilerin aksine, otbiçenlerin kafa tarafı (prosoma) arka tarafından (opisthosoma) ayrı değildir. Otbiçenler ne zehir bezlerine, ne de ağ bezlerine sahiptir. Bütün örümceğimsiler (Arachnida) gibi sekiz bacakları vardır. Saldırı anında bacaklarını bedeninden ayrılabilirler (autotomi) ve bu kopan bacak, saldırganın dikkatini dağıtmak için, devamlı seğirir. Genç otbiçenlerde kopan bacaklar genellikle iki üç deri değişiminden sonra yenilenir. Kendilerini tehdit altında hissederlerse rahatsız edici bir koku yayabilirler veya ölü taklidi yapabilirler. Birçok türünün pedipalp'ları bacağa benzer. Görme yetileri çok zayıftır ve noktürnal canlılardır. == Ekoloji == === Yaşam döngüsü === Yumurtadan çıktıktan yetişkin oluncaya kadar 6 kere deri değiştirirler. Çoğu eşeyli ürerler ama eşeysiz üreyen (Partenogenez) türleri de vardır. Genelde yumurtaları koruyanlar dişilerdir ancak bazı türlerde erkekler korur. Tür ve hava sıcaklığına bağlı olarak yavrular 1-6 ay içinde yumurtadan çıkabilir. === Besin kaynağı === Otbiçenler hepçildir ve ölü sümüklüböcekler, kuş pisliği, meyve ve diğer bitki yapıları gibi birçok şeyin yanında yakalayabildikleri küçük böcekleri de yerler. == Konuyla ilgili yayınlar == Heiko Bellmann: Kosmos Atlas Spinnentiere Europas. Kosmos, Stuttgart 3. A. 2006, ISBN 978-3-440-10746-1 PLATEN, R.; BROEN, V. B.; HERRMANN, A.; RATSCHKER, U. M.; U. SACHER, P.; 1999: Gesamtartenliste und Rote Liste der Webspinnen, Weberknechte und Pseudoskorpione des Landes Brandenburg (Arachnida: Araneae, Opiliones, Pseudoscorpiones) mit Angaben zur Häufigkeit und Ökologie. Hsg. Landesumweltamt Brandenburg. Natursch. u. Landschaftspfl. i. Bbg. 8(2): Beilage == Kaynakça == == Dış bağlantılar == Orta ve Kuzey Avrupa'daki opilioneslerin listesi1 Ocak 2009 tarihinde Wayback Machine sitesinde arşivlendi. Wikimedia Commons'ta Opiliones ile ilgili çoklu ortam belgeleri bulunur. Vikitür'de Opiliones ile ilgili ayrıntılı taksonomik bilgiler bulunur.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 273,
+      "char_count": 2124,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.057969",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 140,
+      "content": "Otbiçenler veya Otbiçerler, bilimsel adı ile Opiliones, Arachnida sınıfına bağlı bir örümceğimsi takımıdır. 6700'den fazla türleri bulunur.",
+      "char_count": 139,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 140,
+      "end_char": 820,
+      "content": "== Özellikleri == Bazı örümceğimsilerin aksine, otbiçenlerin kafa tarafı (prosoma) arka tarafından (opisthosoma) ayrı değildir. Otbiçenler ne zehir bezlerine, ne de ağ bezlerine sahiptir. Bütün örümceğimsiler (Arachnida) gibi sekiz bacakları vardır. Saldırı anında bacaklarını bedeninden ayrılabilirler (autotomi) ve bu kopan bacak, saldırganın dikkatini dağıtmak için, devamlı seğirir. Genç otbiçenlerde kopan bacaklar genellikle iki üç deri değişiminden sonra yenilenir. Kendilerini tehdit altında hissederlerse rahatsız edici bir koku yayabilirler veya ölü taklidi yapabilirler. Birçok türünün pedipalp'ları bacağa benzer. Görme yetileri çok zayıftır ve noktürnal canlılardır.",
+      "char_count": 679,
+      "token_estimate": 169
+    },
+    {
+      "id": "c0002",
+      "section": "=== Yaşam döngüsü ===",
+      "heading_path": "=== Yaşam döngüsü ===",
+      "start_char": 834,
+      "end_char": 1161,
+      "content": "=== Yaşam döngüsü === Yumurtadan çıktıktan yetişkin oluncaya kadar 6 kere deri değiştirirler. Çoğu eşeyli ürerler ama eşeysiz üreyen (Partenogenez) türleri de vardır. Genelde yumurtaları koruyanlar dişilerdir ancak bazı türlerde erkekler korur. Tür ve hava sıcaklığına bağlı olarak yavrular 1-6 ay içinde yumurtadan çıkabilir.",
+      "char_count": 326,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0003",
+      "section": "=== Besin kaynağı ===",
+      "heading_path": "=== Besin kaynağı ===",
+      "start_char": 1161,
+      "end_char": 1343,
+      "content": "=== Besin kaynağı === Otbiçenler hepçildir ve ölü sümüklüböcekler, kuş pisliği, meyve ve diğer bitki yapıları gibi birçok şeyin yanında yakalayabildikleri küçük böcekleri de yerler.",
+      "char_count": 181,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0004",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 1343,
+      "end_char": 1836,
+      "content": "== Konuyla ilgili yayınlar == Heiko Bellmann: Kosmos Atlas Spinnentiere Europas. Kosmos, Stuttgart 3. A. 2006, ISBN 978-3-440-10746-1 PLATEN, R.; BROEN, V. B.; HERRMANN, A.; RATSCHKER, U. M.; U. SACHER, P.; 1999: Gesamtartenliste und Rote Liste der Webspinnen, Weberknechte und Pseudoskorpione des Landes Brandenburg (Arachnida: Araneae, Opiliones, Pseudoscorpiones) mit Angaben zur Häufigkeit und Ökologie. Hsg. Landesumweltamt Brandenburg. Natursch. u. Landschaftspfl. i. Bbg. 8(2): Beilage",
+      "char_count": 492,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1851,
+      "end_char": 2124,
+      "content": "== Dış bağlantılar == Orta ve Kuzey Avrupa'daki opilioneslerin listesi1 Ocak 2009 tarihinde Wayback Machine sitesinde arşivlendi. Wikimedia Commons'ta Opiliones ile ilgili çoklu ortam belgeleri bulunur. Vikitür'de Opiliones ile ilgili ayrıntılı taksonomik bilgiler bulunur.",
+      "char_count": 273,
+      "token_estimate": 68
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Otbiçenler, saldırganın dikkatini dağıtmak için hangi savunma mekanizmasını kullanabilirler?",
+        "answer": "Saldırı anında bacaklarını bedenlerinden ayırabilirler (autotomi) ve bu kopan bacak, saldırganın dikkatini dağıtmak için devamlı seğirir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Otbiçenler, Arachnida sınıfına ait bir örümceğimsi takımı olmalarına rağmen, bu sınıfın diğer üyelerinden ayıran belirgin fiziksel özellikleri nelerdir ve tüm örümceğimsilerle paylaştıkları temel bir özellik var mıdır?",
+        "answer": "Otbiçenler, kafa ve arka taraflarının ayrı olmaması, zehir bezlerine veya ağ bezlerine sahip olmamaları gibi özelliklerle bazı örümceğimsilerden ayrılırlar. Ancak, tüm örümceğimsiler gibi sekiz bacakları vardır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

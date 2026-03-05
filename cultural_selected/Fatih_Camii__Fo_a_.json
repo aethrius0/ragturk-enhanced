@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "fatihcamiifoa_69489b75",
+    "title": "Fatih Camii (Foça)",
+    "url": "https://tr.wikipedia.org/wiki/Fatih_Camii_%28Fo%C3%A7a%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:56.284846",
+    "content": "Fatih Camii, adını bânîsi olan Fatih Sultan Mehmed'den alan, İzmir'in Foça ilçesinde bulunan camidir. == Yapımı == II. Mehmed tarafından Foça'nın ele geçirilmesi sonrası bölgeye yönelik önemli imar faaliyetlerinden birisidir. 1455 senesinde yaptırılmıştır. Foça'nın Türk dönemine ait ilk önemli yapısı olarak sayılır ve ilçede Osmanlı döneminden kalma olan en eski yapıdır. Osmanlı padişahının yaptırdığı bir cami olması nedeniyle selatin camisidir ancak ilk inşa edildiği halinde değildir. Fatih Camii'nin iki kitabesi vardır. Bunlardan avlu kapısında bulunan kitabe 1531 tarihlidir. Avlusu bu tarihte çevrelendiğini ve avlu kapısının Mustafa Ağa adlı bir kişi tarafından yaptırıldığını nakleder. Diğer kitabe ise ana giriş üzerinde bulunur ve caminin Kanuni Sultan Süleyman'ın emriyle 1569-1570 yıllarında yeniden inşa ettirildiğini aktarır. Bu kitabede: \"Bu mübarek camiyi, hayır ve iyilik sahibi Sultan Selim Han oğlu Sultan Süleyman Han inşa ettirdi. Temmet, Camian, Cediden. Sene 977\" yazmaktadır. Cami 1709 ve 1739 tarihli depremlerde zarar görmüştür ve taş kapısı üzerindeki yazıtta Hicri 1307 (Miladi 1890) tarihinde caminin onarıldığı yazılıdır. == Mimari == Dikdörtgen planlı cami bir sıra kesme taş bir sıra tuğla hatıl ile örülü yığma duvarlara sahiptir ve çatısı ahşaptır. Caminin altı sütunlu bir son cemaat yeri vardır. İbadet mekanı, alttaki dikdörtgen üstteki alçı vitraylı iki sıra pencere ile aydınlatılmıştır. Mihrap yuvarlak bir niş şeklindedir. Caminin minaresi kesme taş kaideli, yuvarlak gövdeli ve tek şerefelidir. == Ayrıca bakınız == Selatin camileri == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 223,
+      "char_count": 1593,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.129029",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 102,
+      "content": "Fatih Camii, adını bânîsi olan Fatih Sultan Mehmed'den alan, İzmir'in Foça ilçesinde bulunan camidir.",
+      "char_count": 101,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0001",
+      "section": "== Yapımı ==",
+      "heading_path": "== Yapımı ==",
+      "start_char": 102,
+      "end_char": 1102,
+      "content": "== Yapımı == II. Mehmed tarafından Foça'nın ele geçirilmesi sonrası bölgeye yönelik önemli imar faaliyetlerinden birisidir. 1455 senesinde yaptırılmıştır. Foça'nın Türk dönemine ait ilk önemli yapısı olarak sayılır ve ilçede Osmanlı döneminden kalma olan en eski yapıdır. Osmanlı padişahının yaptırdığı bir cami olması nedeniyle selatin camisidir ancak ilk inşa edildiği halinde değildir. Fatih Camii'nin iki kitabesi vardır. Bunlardan avlu kapısında bulunan kitabe 1531 tarihlidir. Avlusu bu tarihte çevrelendiğini ve avlu kapısının Mustafa Ağa adlı bir kişi tarafından yaptırıldığını nakleder. Diğer kitabe ise ana giriş üzerinde bulunur ve caminin Kanuni Sultan Süleyman'ın emriyle 1569-1570 yıllarında yeniden inşa ettirildiğini aktarır. Bu kitabede: \"Bu mübarek camiyi, hayır ve iyilik sahibi Sultan Selim Han oğlu Sultan Süleyman Han inşa ettirdi. Temmet, Camian, Cediden. Sene 977\" yazmaktadır. Cami 1709 ve 1739 tarihli depremlerde zarar görmüştür ve taş kapısı üzerindeki yazıtta Hicri 1307 ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yapımı ==",
+      "heading_path": "== Yapımı ==",
+      "start_char": 902,
+      "end_char": 1155,
+      "content": "ltan Selim Han oğlu Sultan Süleyman Han inşa ettirdi. Temmet, Camian, Cediden. Sene 977\" yazmaktadır. Cami 1709 ve 1739 tarihli depremlerde zarar görmüştür ve taş kapısı üzerindeki yazıtta Hicri 1307 (Miladi 1890) tarihinde caminin onarıldığı yazılıdır.",
+      "char_count": 253,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0003",
+      "section": "== Mimari ==",
+      "heading_path": "== Mimari ==",
+      "start_char": 1156,
+      "end_char": 1541,
+      "content": "== Mimari == Dikdörtgen planlı cami bir sıra kesme taş bir sıra tuğla hatıl ile örülü yığma duvarlara sahiptir ve çatısı ahşaptır. Caminin altı sütunlu bir son cemaat yeri vardır. İbadet mekanı, alttaki dikdörtgen üstteki alçı vitraylı iki sıra pencere ile aydınlatılmıştır. Mihrap yuvarlak bir niş şeklindedir. Caminin minaresi kesme taş kaideli, yuvarlak gövdeli ve tek şerefelidir.",
+      "char_count": 384,
+      "token_estimate": 96
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1541,
+      "end_char": 1579,
+      "content": "== Ayrıca bakınız == Selatin camileri",
+      "char_count": 37,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Fatih Camii'nin avlu kapısında bulunan kitabe hangi tarihlidir?",
+        "answer": "Avlu kapısında bulunan kitabe 1531 tarihlidir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fatih Camii'nin banisinin kim olduğu bilgisi ile yapısının zaman içindeki değişimi arasındaki ilişkiyi açıklayınız.",
+        "answer": "Fatih Camii, adını bânîsi olan Fatih Sultan Mehmed'den almaktadır. Cami, II. Mehmed tarafından 1455 senesinde yaptırılmış olmasına rağmen orijinal haliyle kalmamıştır. Kanuni Sultan Süleyman'ın emriyle 1569-1570 yıllarında yeniden inşa ettirilmiş ve 1709 ile 1739 tarihlerindeki depremlerde de zarar görmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

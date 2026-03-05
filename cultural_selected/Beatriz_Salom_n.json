@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "beatrizsalomn_2ac551c8",
+    "title": "Beatriz Salomón",
+    "url": "https://tr.wikipedia.org/wiki/Beatriz_Salom%C3%B3n",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:49.595540",
+    "content": "Beatriz Salomón (9 Ekim 1953 -15 Haziran 2019), Arjantinli model, oyuncu, şarkıcı ve televizyon sunucusu. == Kariyeri == Çeşitli film ve televizyon dizilerinde rol alan Salomón özellikle Arjantinli komedyen Alberto Olmedo ile beraber yer aldığı projelerle dikkat çekti. Olmedo ile çalışmaya başlamadan önce, reklam filmlerinde tanıtım modeli olarak çalışmıştır. 1980'li yıllarda Arjantin'in en güzel vamp kadınları arasında yer almış \"Playboy Dergisi\" 'ne bir dönem kapak olmuştur. 1990'lı ve 2000'li yıllar boyunca televizyon yapımı pembe dizilerde oyuncu olarak ekranlara gelmiş, televizyon programları sunmuştur. == Ölümü == Arjantinli oyuncu, model, şarkıcı ve televizyon sunucusu Beatriz Salomón 15 Haziran 2019'da Buenos Aires'te kolon kanserine yenik düşerek 65 yaşında ölmüştür. == Filmografi == Blue Commandos (1980) Chocolates and champagne (1984) Do not Touch Button (1985 The Black can not (1986) The loons on the attack (1987) The manosanta is loaded (1987) Terror Gallery (1987) We were so poor (1988) Peculiar attraction (1988) Shopping Center (1988) Mix (1988) Paradise Relax (House of massage) (1988) Punk Professor (1988) There is party in the tenement (1989) Porcel's kittens and mice (1989) Maximum force (1990) Jorge Corona and women (1990) Extermineitors II, revenge of the Dragon (1990) Enough for Me (1990) Beatriz Salomón en privado (1990) Corrupt Magazine (1991) Berugo love (1991) It rotted all (1992) Humor in the face (1992) Hard to peel' (1992) Hilarious, hot magazine (1993) Corona President (1994) The last Argentine virgin (1995) The mood of Fashion Café (1999) Let us vote for the humor (2000) Beatriz's house (2000) I choose to be happy (2001) Fascinating Night (2003) The clone recharged with laughter (2004) Humor in custody (2005) Dancing for a Dream3 (2006) Movete Cristina, movete (2008) Humor and Glamour (2010) == Kaynakça == == Dış bağlantılar == IMDb'de Beatriz Salomón",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 287,
+      "char_count": 1913,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.130831",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 106,
+      "content": "Beatriz Salomón (9 Ekim 1953 -15 Haziran 2019), Arjantinli model, oyuncu, şarkıcı ve televizyon sunucusu.",
+      "char_count": 105,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 106,
+      "end_char": 616,
+      "content": "== Kariyeri == Çeşitli film ve televizyon dizilerinde rol alan Salomón özellikle Arjantinli komedyen Alberto Olmedo ile beraber yer aldığı projelerle dikkat çekti. Olmedo ile çalışmaya başlamadan önce, reklam filmlerinde tanıtım modeli olarak çalışmıştır. 1980'li yıllarda Arjantin'in en güzel vamp kadınları arasında yer almış \"Playboy Dergisi\" 'ne bir dönem kapak olmuştur. 1990'lı ve 2000'li yıllar boyunca televizyon yapımı pembe dizilerde oyuncu olarak ekranlara gelmiş, televizyon programları sunmuştur.",
+      "char_count": 509,
+      "token_estimate": 127
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 616,
+      "end_char": 787,
+      "content": "== Ölümü == Arjantinli oyuncu, model, şarkıcı ve televizyon sunucusu Beatriz Salomón 15 Haziran 2019'da Buenos Aires'te kolon kanserine yenik düşerek 65 yaşında ölmüştür.",
+      "char_count": 170,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0003",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 787,
+      "end_char": 1787,
+      "content": "== Filmografi == Blue Commandos (1980) Chocolates and champagne (1984) Do not Touch Button (1985 The Black can not (1986) The loons on the attack (1987) The manosanta is loaded (1987) Terror Gallery (1987) We were so poor (1988) Peculiar attraction (1988) Shopping Center (1988) Mix (1988) Paradise Relax (House of massage) (1988) Punk Professor (1988) There is party in the tenement (1989) Porcel's kittens and mice (1989) Maximum force (1990) Jorge Corona and women (1990) Extermineitors II, revenge of the Dragon (1990) Enough for Me (1990) Beatriz Salomón en privado (1990) Corrupt Magazine (1991) Berugo love (1991) It rotted all (1992) Humor in the face (1992) Hard to peel' (1992) Hilarious, hot magazine (1993) Corona President (1994) The last Argentine virgin (1995) The mood of Fashion Café (1999) Let us vote for the humor (2000) Beatriz's house (2000) I choose to be happy (2001) Fascinating Night (2003) The clone recharged with laughter (2004) Humor in custody (2005) Dancing for a Drea",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 1587,
+      "end_char": 1852,
+      "content": " (1999) Let us vote for the humor (2000) Beatriz's house (2000) I choose to be happy (2001) Fascinating Night (2003) The clone recharged with laughter (2004) Humor in custody (2005) Dancing for a Dream3 (2006) Movete Cristina, movete (2008) Humor and Glamour (2010)",
+      "char_count": 265,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1868,
+      "end_char": 1913,
+      "content": "== Dış bağlantılar == IMDb'de Beatriz Salomón",
+      "char_count": 45,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1980 yılında hangi film yayımlanmıştır?",
+        "answer": "Blue Commandos",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Beatriz Salomón'un kariyeri boyunca hangi farklı profesyonel rollerde yer aldığı ve özellikle kiminle olan işbirliğinin onu öne çıkardığı açıklanabilir mi?",
+        "answer": "Beatriz Salomón, kariyerine reklam filmlerinde tanıtım modeli olarak başlamış, sonrasında çeşitli film ve televizyon dizilerinde oyuncu olarak yer almıştır. Özellikle Arjantinli komedyen Alberto Olmedo ile beraber yer aldığı projelerle dikkat çekmiş, 1980'li yıllarda 'Playboy Dergisi'ne kapak olmuştur. 1990'lı ve 2000'li yıllar boyunca da televizyon yapımı pembe dizilerde oyuncu ve televizyon programı sunucusu olarak ekranlara gelmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

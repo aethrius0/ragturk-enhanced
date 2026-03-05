@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "jessalyngilsig_a284bda9",
+    "title": "Jessalyn Gilsig",
+    "url": "https://tr.wikipedia.org/wiki/Jessalyn_Gilsig",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:39.464588",
+    "content": "Jessalyn Gilsig (d. 30 Kasım 1971), Kanadalı oyuncu. Daha çok Boston Public, Nip/Tuck ve Will Schuester'ın eski eşi Terri Schuester'ı canlandırdığı Glee ile tanınmaktadır. Ayrıca NYPD Blue, Prison Break ve Heroes gibi dizilerin birçok bölümünde yer aldı. == Kişisel hayatı == Gilsig, Montreal, Québec'te yazar ve çevirmen Claire ile mühendis Toby Gilsig'in kızı olarak dünyaya geldi. On iki yaşındayken sahne ile ilgilenmeye başladı. Liseyi kızlar için olan Trafalgar Okulu'nda geçirdi. Daha sonra Harvard Üniversitesi'nin American Repertory Theater'ında okudu ve McGill Üniversitesi'nde eğitim aldı. 1993 yılında İngilizce alanında edebiyat fakültesi mezunu oldu. Gilsig, her ikisi de Montreal lise öğrencisiyken Bobby Salomon ile tanıştı. Çıkmaya başladılar. Gilsig, Salomon'u \"cool adam\" ve futbol takımı oyun kurucusu olarak tanımladı. Şu an bir film yapımcısı olan Salomon'dan sonra Hollywood'a taşındı ve Salomon ile tekrar arkadaşlığı ardından çıkmaya başladı. Çift, 1 Ocak 2005 tarihinde evlendi.. Salomon'un Yahudi ve Gilsig'in baba tarafından Yahudi olmasıyla çift, geleneksel Yahudi evliliği yaptı. Gilsig ve Salomon, 26 Eylül 2006'da doğan Penelope adında bir kız çocuğuna sahiptir. Gilsig, Salomon'a karşı \"uzlaşmaz farklılıklar\"ı öne sürerek 8 Eylül 2010 tarihinde boşanma davası açtı. Çift, 2009 yılında boşandı. == Kariyeri == Gilsig, kariyerine seslendirme ile başladı. Mascarade ve The Journey Home gibi filmler ile The Little Flying Bears, Young Robin Hood ile Gulliver's Travels gibi televizyon dizilerinde seslendirme yaptı. 1995 yılında, New York'a taşındı ve burada, birkaç off-Broadway oyunlarında yer aldı. Ayrıca 1980'lerin sonu ile 1990'ların başında birkaç Kanada yapımında yer aldı. Televizyon dizisi alanındaki kariyeri ise Viper ile Seven Days gibi yapımlarda konuk oyuncu olarak yer almasıyla başladı. David E. Kelley ile olan iş birliğiyle Boston Public dizisinde başrol olarak yer aldı. Kelley'in The Practice çalışmasına konuk olduktan sonra kısa ömürlü diğer Kelley programı Snoop'un iki bölümünün kadrosunda yer aldı. Fakat Gilsig'in bölümleri yayınlanmadan dizi iptal edildi. Kelley, Boston Public dizisindeki Lauren Davis kısmını özellikle onun için yazdı. Dizi, FOX'ta Eylül 2000'de yayınlandı. Gilsig, Mayıs 2002'de diziden ayrıldı. Buradan ayrılmasından sonra Gilsig, 2003 yılında Gina Russo rolüyle Nip/Tuck'a katıldı ve karakterinin 2008'de öldürülüşüne kadar dizide yer aldı. 2004'te NYPD Blue yapımının dört; 2005'te FOX'un Prison Break dizisinin beş bölümünde gözüktü. 2006'nın başlarında Law & Order dizisinde de konuk olarak yer aldı. Televizyon ve tiyatroya ek olarak bazı filmlerde de gözüktü. Atlara Fısıldayan Adam adlı 1998 filminde küçük bir rol aldı ve Quest for Camelot adlı anismayon filminde Kayley karakterini seslendirdi. 2007-2008'de, televizyon dizilerinde yinelenen rollerde yer aldı. NBC'deki Friday Night Lights'ta Tami Taylor'ın kız kardeşi Shelley rolünü canlandırdı. Heroes'ta Claire Bennet'in biyoloji annesini oynadı. 2009'da yayınlanan Glee dizisinde Terri Schuester adında yardımcı rolü canlandırmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 423,
+      "char_count": 3093,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.059156",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 255,
+      "content": "Jessalyn Gilsig (d. 30 Kasım 1971), Kanadalı oyuncu. Daha çok Boston Public, Nip/Tuck ve Will Schuester'ın eski eşi Terri Schuester'ı canlandırdığı Glee ile tanınmaktadır. Ayrıca NYPD Blue, Prison Break ve Heroes gibi dizilerin birçok bölümünde yer aldı.",
+      "char_count": 254,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0001",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 255,
+      "end_char": 1255,
+      "content": "== Kişisel hayatı == Gilsig, Montreal, Québec'te yazar ve çevirmen Claire ile mühendis Toby Gilsig'in kızı olarak dünyaya geldi. On iki yaşındayken sahne ile ilgilenmeye başladı. Liseyi kızlar için olan Trafalgar Okulu'nda geçirdi. Daha sonra Harvard Üniversitesi'nin American Repertory Theater'ında okudu ve McGill Üniversitesi'nde eğitim aldı. 1993 yılında İngilizce alanında edebiyat fakültesi mezunu oldu. Gilsig, her ikisi de Montreal lise öğrencisiyken Bobby Salomon ile tanıştı. Çıkmaya başladılar. Gilsig, Salomon'u \"cool adam\" ve futbol takımı oyun kurucusu olarak tanımladı. Şu an bir film yapımcısı olan Salomon'dan sonra Hollywood'a taşındı ve Salomon ile tekrar arkadaşlığı ardından çıkmaya başladı. Çift, 1 Ocak 2005 tarihinde evlendi.. Salomon'un Yahudi ve Gilsig'in baba tarafından Yahudi olmasıyla çift, geleneksel Yahudi evliliği yaptı. Gilsig ve Salomon, 26 Eylül 2006'da doğan Penelope adında bir kız çocuğuna sahiptir. Gilsig, Salomon'a karşı \"uzlaşmaz farklılıklar\"ı öne sürerek",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 1055,
+      "end_char": 1327,
+      "content": "hudi olmasıyla çift, geleneksel Yahudi evliliği yaptı. Gilsig ve Salomon, 26 Eylül 2006'da doğan Penelope adında bir kız çocuğuna sahiptir. Gilsig, Salomon'a karşı \"uzlaşmaz farklılıklar\"ı öne sürerek 8 Eylül 2010 tarihinde boşanma davası açtı. Çift, 2009 yılında boşandı.",
+      "char_count": 272,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1328,
+      "end_char": 2328,
+      "content": "== Kariyeri == Gilsig, kariyerine seslendirme ile başladı. Mascarade ve The Journey Home gibi filmler ile The Little Flying Bears, Young Robin Hood ile Gulliver's Travels gibi televizyon dizilerinde seslendirme yaptı. 1995 yılında, New York'a taşındı ve burada, birkaç off-Broadway oyunlarında yer aldı. Ayrıca 1980'lerin sonu ile 1990'ların başında birkaç Kanada yapımında yer aldı. Televizyon dizisi alanındaki kariyeri ise Viper ile Seven Days gibi yapımlarda konuk oyuncu olarak yer almasıyla başladı. David E. Kelley ile olan iş birliğiyle Boston Public dizisinde başrol olarak yer aldı. Kelley'in The Practice çalışmasına konuk olduktan sonra kısa ömürlü diğer Kelley programı Snoop'un iki bölümünün kadrosunda yer aldı. Fakat Gilsig'in bölümleri yayınlanmadan dizi iptal edildi. Kelley, Boston Public dizisindeki Lauren Davis kısmını özellikle onun için yazdı. Dizi, FOX'ta Eylül 2000'de yayınlandı. Gilsig, Mayıs 2002'de diziden ayrıldı. Buradan ayrılmasından sonra Gilsig, 2003 yılında Gina ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 2128,
+      "end_char": 3078,
+      "content": " Public dizisindeki Lauren Davis kısmını özellikle onun için yazdı. Dizi, FOX'ta Eylül 2000'de yayınlandı. Gilsig, Mayıs 2002'de diziden ayrıldı. Buradan ayrılmasından sonra Gilsig, 2003 yılında Gina Russo rolüyle Nip/Tuck'a katıldı ve karakterinin 2008'de öldürülüşüne kadar dizide yer aldı. 2004'te NYPD Blue yapımının dört; 2005'te FOX'un Prison Break dizisinin beş bölümünde gözüktü. 2006'nın başlarında Law & Order dizisinde de konuk olarak yer aldı. Televizyon ve tiyatroya ek olarak bazı filmlerde de gözüktü. Atlara Fısıldayan Adam adlı 1998 filminde küçük bir rol aldı ve Quest for Camelot adlı anismayon filminde Kayley karakterini seslendirdi. 2007-2008'de, televizyon dizilerinde yinelenen rollerde yer aldı. NBC'deki Friday Night Lights'ta Tami Taylor'ın kız kardeşi Shelley rolünü canlandırdı. Heroes'ta Claire Bennet'in biyoloji annesini oynadı. 2009'da yayınlanan Glee dizisinde Terri Schuester adında yardımcı rolü canlandırmaktadır.",
+      "char_count": 950,
+      "token_estimate": 237
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gilsig, McGill Üniversitesi'nden hangi alanda ve hangi yıl mezun olmuştur?",
+        "answer": "Gilsig, 1993 yılında İngilizce alanında edebiyat fakültesi mezunu olmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jessalyn Gilsig'in Montreal'deki eğitim geçmişi ve erken sahne ilgi alanları, onu Boston Public ve Glee gibi dizilerdeki rolleriyle tanınan bir aktris olarak nasıl bir kariyere hazırlamıştır?",
+        "answer": "Montreal, Québec'te dünyaya gelen Jessalyn Gilsig, on iki yaşındayken sahne ile ilgilenmeye başlamıştır. Daha sonra Harvard Üniversitesi'nin American Repertory Theater'ında okumuş ve McGill Üniversitesi'nde İngilizce alanında edebiyat fakültesinden mezun olmuştur. Bu eğitim geçmişi ve erken ilgisi, onu Boston Public, Nip/Tuck ve Glee gibi dizilerdeki rolleriyle tanınan bir aktris olma yolunda hazırlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

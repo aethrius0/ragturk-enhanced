@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "2mays1808_281bd21c",
+    "title": "2 Mayıs 1808",
+    "url": "https://tr.wikipedia.org/wiki/2_May%C4%B1s_1808",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:20:51.580829",
+    "content": "2 Mayıs 1808 (ayrıca Memlükler'in Saldırısı olarak da bilinmektedir), İspanyol ressam Francisco de Goya'nın tablosu. Eser, eş resmi 3 Mayıs 1808 ile birlikte Madrid'deki Prado Müzesi'nde sergilenmektedir. Ressam, bu iki eseri 1814 yılında iki ay arayla çizmiştir. == Geçmiş == 1808 yılında Fransızlar, İspanya'yı işgal etti. Napolyon, Portekiz'deki ordusunu büyütmeyi bahane ederek, İspanya hanedanını ele geçirmek ve burada kazandığı gücü abisi Joseph Bonaparte'a bırakmak istiyordu. İspanya kraliyet ailesini ortadan kaldırmaya çalışmaları Madrid'de büyük bir isyan başlattı. Bu isyan, 2 Mayıs ile 3 Mayıs 1808 tarihleri arasında Mareşal Joachim Murat komutasındaki orduya karşı gerçekleşti. 2 Mayıs 1808, Fransız ordusunda yer alan seçilmiş Memlükler'in isyan eden halka saldırısının başlangıcını anlatır. Kalabalık, Memlükler'i Mağribiler olarak görür ve kızgın bir tepki verir. Dağılmak yerine, Memlükler'e saldırırlar ve vahşi bir arbede çıkar. Resim, Puerta del Sol yakınlarındaki Calle de Alcalá'da çizildi. == Eser == Goya'ya bu eser, 1814 yılında, Fransızlar'ın İspanya'yı terk etmesi sonrası, geçici İspanyol hükûmeti tarafından ısmarlandı. Bu hükûmet daha sonra yerini VII. Fernando'ya bırakacaktı. Ressam, Madrid halkını, bıçak gibi kaba silahlar kullanan, tanınmayan kahramanlar olarak resmetti. Bu da geri dönen kralı çok memnun etmedi. Bu yüzden iki tablo da uzun yıllar boyunca kamuya açık alanlarda sergilenmedi. Goya tek bir hareketi ya da noktayı resmetmeyi reddedip, dramatik bir şekilde kaotik bir manzara çizmeyi tercih etti. Böylece eser gerçekçilik akımına daha da yaklaştı. == Zarar == İspanya İç Savaşı sırasında, Madrid, Franco'nun alayı tarafından bombalanırken İkinci Cumhuriyetçiler'in oluşturduğu hükûmet eserleri Prado Müzesi'nden taşımaya karar verdi. Goya'nın tablolarını taşıyan kamyon kaza yapınca 2 Mayıs çok büyük ölçüde zarar gördü. Kaybolan kısımları bile oldu. Tablo daha sonra onarıldı fakat izleyenlere iç savaşı hatırlatması için sol tarafı onarılmadan bırakıldı. == Ayrıca bakınız == 3 Mayıs 1808 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 282,
+      "char_count": 2057,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.351191",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 264,
+      "content": "2 Mayıs 1808 (ayrıca Memlükler'in Saldırısı olarak da bilinmektedir), İspanyol ressam Francisco de Goya'nın tablosu. Eser, eş resmi 3 Mayıs 1808 ile birlikte Madrid'deki Prado Müzesi'nde sergilenmektedir. Ressam, bu iki eseri 1814 yılında iki ay arayla çizmiştir.",
+      "char_count": 263,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0001",
+      "section": "== Geçmiş ==",
+      "heading_path": "== Geçmiş ==",
+      "start_char": 264,
+      "end_char": 1016,
+      "content": "== Geçmiş == 1808 yılında Fransızlar, İspanya'yı işgal etti. Napolyon, Portekiz'deki ordusunu büyütmeyi bahane ederek, İspanya hanedanını ele geçirmek ve burada kazandığı gücü abisi Joseph Bonaparte'a bırakmak istiyordu. İspanya kraliyet ailesini ortadan kaldırmaya çalışmaları Madrid'de büyük bir isyan başlattı. Bu isyan, 2 Mayıs ile 3 Mayıs 1808 tarihleri arasında Mareşal Joachim Murat komutasındaki orduya karşı gerçekleşti. 2 Mayıs 1808, Fransız ordusunda yer alan seçilmiş Memlükler'in isyan eden halka saldırısının başlangıcını anlatır. Kalabalık, Memlükler'i Mağribiler olarak görür ve kızgın bir tepki verir. Dağılmak yerine, Memlükler'e saldırırlar ve vahşi bir arbede çıkar. Resim, Puerta del Sol yakınlarındaki Calle de Alcalá'da çizildi.",
+      "char_count": 751,
+      "token_estimate": 187
+    },
+    {
+      "id": "c0002",
+      "section": "== Eser ==",
+      "heading_path": "== Eser ==",
+      "start_char": 1016,
+      "end_char": 1600,
+      "content": "== Eser == Goya'ya bu eser, 1814 yılında, Fransızlar'ın İspanya'yı terk etmesi sonrası, geçici İspanyol hükûmeti tarafından ısmarlandı. Bu hükûmet daha sonra yerini VII. Fernando'ya bırakacaktı. Ressam, Madrid halkını, bıçak gibi kaba silahlar kullanan, tanınmayan kahramanlar olarak resmetti. Bu da geri dönen kralı çok memnun etmedi. Bu yüzden iki tablo da uzun yıllar boyunca kamuya açık alanlarda sergilenmedi. Goya tek bir hareketi ya da noktayı resmetmeyi reddedip, dramatik bir şekilde kaotik bir manzara çizmeyi tercih etti. Böylece eser gerçekçilik akımına daha da yaklaştı.",
+      "char_count": 583,
+      "token_estimate": 145
+    },
+    {
+      "id": "c0003",
+      "section": "== Zarar ==",
+      "heading_path": "== Zarar ==",
+      "start_char": 1600,
+      "end_char": 2009,
+      "content": "== Zarar == İspanya İç Savaşı sırasında, Madrid, Franco'nun alayı tarafından bombalanırken İkinci Cumhuriyetçiler'in oluşturduğu hükûmet eserleri Prado Müzesi'nden taşımaya karar verdi. Goya'nın tablolarını taşıyan kamyon kaza yapınca 2 Mayıs çok büyük ölçüde zarar gördü. Kaybolan kısımları bile oldu. Tablo daha sonra onarıldı fakat izleyenlere iç savaşı hatırlatması için sol tarafı onarılmadan bırakıldı.",
+      "char_count": 408,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2009,
+      "end_char": 2043,
+      "content": "== Ayrıca bakınız == 3 Mayıs 1808",
+      "char_count": 33,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Madrid'deki isyan sırasında Fransız ordusuna kim komuta ediyordu?",
+        "answer": "Mareşal Joachim Murat.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Goya'nın \"2 Mayıs 1808\" tablosunun, eserin konusu olan isyan ile eserin sipariş edilme koşulları ve sonuçları arasındaki bağlantı göz önüne alındığında, kamuya açık sergilenmesindeki gecikmenin temel nedenleri nelerdi?",
+        "answer": "Goya'nın \"2 Mayıs 1808\" tablosu, Madrid'deki 2 Mayıs 1808 isyanını tasvir etmektedir ve Fransızlar'ın İspanya'yı terk etmesi sonrası geçici İspanyol hükûmeti tarafından 1814'te sipariş edilmiştir. Ressam, Madrid halkını bıçak gibi kaba silahlar kullanan, tanınmayan kahramanlar olarak resmetmeyi tercih etti. Bu tasvir, geri dönen kral VII. Fernando'yu memnun etmediği için, iki tablo da uzun yıllar boyunca kamuya açık alanlarda sergilenmedi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "vikunya_d8846611",
+    "title": "Vikunya",
+    "url": "https://tr.wikipedia.org/wiki/Vikunya",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:34.422790",
+    "content": "Vikunya (Vicugna vicugna), devegiller (Camelidae) familyasından Vicugna cinsinden bir memeli türü. Guanakoya benzer ama daha küçük ve daha incedir. == Özellikler, dağılım ve davranış == Boyu 150 cm tutarken omuz yüksekliği 1 m, ağırlığı 50 kg'dır. Üst kısmı açık kahverengi alt kısmı beyaz renktedir. Anatomik bir özelliği, alt kesici dişlerinin kemirgenlerdeki gibi sürekli değişmesidir. Bunun Artiodactyla takımında diğer bir örneği yoktur. Postu akrabası olan türlerden epeyce daha zariftir ve soğuğa karşı etkili şekilde, izolasyon tabakası gibi sıktır. Vikunya, Ekvador, Peru, Bolivya, Arjantin ve Şili'nin yüksek Andlar'ında dağılmıştır. Burada 3500 ile 5500 m arasındaki yükseklikte görülür. Vikunya, guanako gibi kendilerine ait bölgede, her biri bir erkek tarafından yönetilen aile grupları olarak yaşar. Bunun yanında, küçük yaşları sebebiyle henüz kendilerine ait bölge savunamayan bekar erkeklerin grupları ve genç erkekler tarafından aileden kovulmuş yaşlı erkekler vardır. == Ehlileştirme == Klasik düşünce, vikunyanın hiç evcilleştirilmemiş olduğu ve lama ile alpakanın, guanakodan geldiği yönündeydi. Bugün, alpakanın vikunyadan gelmiş olabileceği şeklinde şaşırtıcı DNA araştırması bulguları vardır. Alpakalar, lamalar, guanakolar ve vikunyalar, aralarında üreyebildiklerinden ve hatlar, aralarında karışmış olduğundan, bugün evcil hayvan formunun kökeni, son tahlilde kesin olarak karara bağlanmaz. Kesin olan, İnkaların vikunyaların binlercesini kafeslere aldıkları, yünleri sadece asillerce kullanıldıktan sonra serbest bıraktıklarıdır. İspanyollar bu geleneği sürdürmemişlerdir. Vikunyaları büyük sayılar halinde vurmuşlar ve önce mera alanı yaratmak, sonra da postları için sıklıkla bu hayvanların su kaynaklarına zehir katmışlardır. Vikunyanın yünü dünyanın en ender ve en pahalı yünü olarak geçerlidir. İnkalar zamanında Andlar'da yaklaşık 1.5 milyon vikunya mevcutken, bu sayı 1965'e kadar 6000'e gerilemiştir. O zamandan beri alınan koruyucu önlemler, mevcudiyetlerini hızlı bir toparlanmaya götürmüş, böylece bugün tekrar 200.000 vikunyaya ulaşılmıştır. == Taksonomi == Vikunyanın sıklıkla Lama vicugna bilimsel adı da kullanılır. Yani lamalar ile ortak cinsdir. Kendine has bir cins için, diğer lamalardan ayrılan diş yapısı özelliği konuşulur. Kuşkusuz guanakolar ve vikunyalar yine de, çok yakın akarabalıklarının göstergesi olarak aralarında üreyebilirler. Bu yüzden kendine has bir Vicugna cinsinin ileri sürülmesi tartışmalıdır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 318,
+      "char_count": 2476,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.513299",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 148,
+      "content": "Vikunya (Vicugna vicugna), devegiller (Camelidae) familyasından Vicugna cinsinden bir memeli türü. Guanakoya benzer ama daha küçük ve daha incedir.",
+      "char_count": 147,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikler, dağılım ve davranış ==",
+      "heading_path": "== Özellikler, dağılım ve davranış ==",
+      "start_char": 148,
+      "end_char": 987,
+      "content": "== Özellikler, dağılım ve davranış == Boyu 150 cm tutarken omuz yüksekliği 1 m, ağırlığı 50 kg'dır. Üst kısmı açık kahverengi alt kısmı beyaz renktedir. Anatomik bir özelliği, alt kesici dişlerinin kemirgenlerdeki gibi sürekli değişmesidir. Bunun Artiodactyla takımında diğer bir örneği yoktur. Postu akrabası olan türlerden epeyce daha zariftir ve soğuğa karşı etkili şekilde, izolasyon tabakası gibi sıktır. Vikunya, Ekvador, Peru, Bolivya, Arjantin ve Şili'nin yüksek Andlar'ında dağılmıştır. Burada 3500 ile 5500 m arasındaki yükseklikte görülür. Vikunya, guanako gibi kendilerine ait bölgede, her biri bir erkek tarafından yönetilen aile grupları olarak yaşar. Bunun yanında, küçük yaşları sebebiyle henüz kendilerine ait bölge savunamayan bekar erkeklerin grupları ve genç erkekler tarafından aileden kovulmuş yaşlı erkekler vardır.",
+      "char_count": 838,
+      "token_estimate": 209
+    },
+    {
+      "id": "c0002",
+      "section": "== Ehlileştirme ==",
+      "heading_path": "== Ehlileştirme ==",
+      "start_char": 987,
+      "end_char": 1987,
+      "content": "== Ehlileştirme == Klasik düşünce, vikunyanın hiç evcilleştirilmemiş olduğu ve lama ile alpakanın, guanakodan geldiği yönündeydi. Bugün, alpakanın vikunyadan gelmiş olabileceği şeklinde şaşırtıcı DNA araştırması bulguları vardır. Alpakalar, lamalar, guanakolar ve vikunyalar, aralarında üreyebildiklerinden ve hatlar, aralarında karışmış olduğundan, bugün evcil hayvan formunun kökeni, son tahlilde kesin olarak karara bağlanmaz. Kesin olan, İnkaların vikunyaların binlercesini kafeslere aldıkları, yünleri sadece asillerce kullanıldıktan sonra serbest bıraktıklarıdır. İspanyollar bu geleneği sürdürmemişlerdir. Vikunyaları büyük sayılar halinde vurmuşlar ve önce mera alanı yaratmak, sonra da postları için sıklıkla bu hayvanların su kaynaklarına zehir katmışlardır. Vikunyanın yünü dünyanın en ender ve en pahalı yünü olarak geçerlidir. İnkalar zamanında Andlar'da yaklaşık 1.5 milyon vikunya mevcutken, bu sayı 1965'e kadar 6000'e gerilemiştir. O zamandan beri alınan koruyucu önlemler, mevcudiye",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Ehlileştirme ==",
+      "heading_path": "== Ehlileştirme ==",
+      "start_char": 1787,
+      "end_char": 2080,
+      "content": "er ve en pahalı yünü olarak geçerlidir. İnkalar zamanında Andlar'da yaklaşık 1.5 milyon vikunya mevcutken, bu sayı 1965'e kadar 6000'e gerilemiştir. O zamandan beri alınan koruyucu önlemler, mevcudiyetlerini hızlı bir toparlanmaya götürmüş, böylece bugün tekrar 200.000 vikunyaya ulaşılmıştır.",
+      "char_count": 293,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0004",
+      "section": "== Taksonomi ==",
+      "heading_path": "== Taksonomi ==",
+      "start_char": 2081,
+      "end_char": 2462,
+      "content": "== Taksonomi == Vikunyanın sıklıkla Lama vicugna bilimsel adı da kullanılır. Yani lamalar ile ortak cinsdir. Kendine has bir cins için, diğer lamalardan ayrılan diş yapısı özelliği konuşulur. Kuşkusuz guanakolar ve vikunyalar yine de, çok yakın akarabalıklarının göstergesi olarak aralarında üreyebilirler. Bu yüzden kendine has bir Vicugna cinsinin ileri sürülmesi tartışmalıdır.",
+      "char_count": 380,
+      "token_estimate": 95
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1965 yılına gelindiğinde vikunya popülasyonu hangi sayıya gerilemiştir?",
+        "answer": "6000'e.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Vikunyanın guanakoyla benzerlikleri nelerdir ve evcilleştirilmiş devegillerin kökenine dair tartışmalarda her bir türün rolü nasıl açıklanmaktadır?",
+        "answer": "Vikunya, fiziksel olarak guanakoya benzer ancak daha küçük ve incedir. Davranışsal olarak da, guanako gibi kendi bölgelerinde, her biri bir erkek tarafından yönetilen aile grupları halinde yaşarlar. Evcilleştirilmiş lama ve alpakanın kökeniyle ilgili klasik düşünce, bu türlerin guanakodan geldiği yönündeyken, güncel DNA araştırmaları alpakanın vikunyadan gelmiş olabileceğini göstermektedir. Ancak, vikunyanın alpakalar, lamalar ve guanakolarla üreyebilmesi ve hatların karışması nedeniyle, evcil hayvan formunun kökeni kesin olarak belirlenememektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "sasklah_e022e658",
+    "title": "Saskılah",
+    "url": "https://tr.wikipedia.org/wiki/Sask%C4%B1lah",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:38.175831",
+    "content": "Saskılah (Yakutça: Сааскылаах Rusça:Саскылах), Rusya'nın Yakutistan Cumhuriyeti'nde bulunan bir kırsal yerleşim yeridir. Anabar ulusu'nun idari merkezi konumundadır. == Ad Kökeni == Saskılah yerleşiminin adı, Türkçe kökenlidir ve iki Yakutça kelimenin birleşimiyle oluşmuştur: \"saaskı\" ve \"laah\", bu da \"bahar; bahar yerleşimi\" anlamına gelir. Bir rivayete göre, buraya bahar, bölgenin diğer yerlerine göre daha erken gelir. == Coğrafya == Saskılah, Yakutsk'un yaklaşık 800 kilometre kuzeybatısında, Anabar Nehri'nin sağ kıyısında yer almaktadır. İklimi oldukça sert olup, uzun ve soğuk kışlar ile kısa ve serin yazlar yaşanmaktadır. == Nüfus == Yerleşim yerinin nüfusu 2021 yılında 2345 olarak kaydedilmiştir. == Tarih == Saskılah, 20. yüzyılın ortalarında kurulmuş bir yerleşimdir ve zamanla bölgenin idari merkezi haline gelmiştir. == Ekonomi ve Altyapı == Yerleşim, esas olarak hayvancılık ve balıkçılıkla geçimini sağlamaktadır. Bölgede ayrıca kürk ticareti ve yerel el sanatları da önemlidir. Saskılah'ta sağlık hizmetleri, bir okul ve kültürel tesisler bulunmaktadır. == İklim == Saskılah'ta Subarktik iklim (Köppen iklim sınıflandırmasına göre Dfc) hakimdir. Yıllık ortalama sıcaklık -12.5 °C olup, Ocak ayında ortalama -34 °C, Temmuz ayında ise 12 °C'dir. == Ulaşım == Bölgeye erişim kara ve hava yoluyla sağlanmaktadır. Saskılah'ta küçük bir havaalanı bulunmakta ve kış aylarında nehir yoluyla ulaşım mümkün olmaktadır. == Kaynakça == == Dış Bağlantılar == Resmi web sitesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1483,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.532217",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 166,
+      "content": "Saskılah (Yakutça: Сааскылаах Rusça:Саскылах), Rusya'nın Yakutistan Cumhuriyeti'nde bulunan bir kırsal yerleşim yeridir. Anabar ulusu'nun idari merkezi konumundadır.",
+      "char_count": 165,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0001",
+      "section": "== Ad Kökeni ==",
+      "heading_path": "== Ad Kökeni ==",
+      "start_char": 166,
+      "end_char": 425,
+      "content": "== Ad Kökeni == Saskılah yerleşiminin adı, Türkçe kökenlidir ve iki Yakutça kelimenin birleşimiyle oluşmuştur: \"saaskı\" ve \"laah\", bu da \"bahar; bahar yerleşimi\" anlamına gelir. Bir rivayete göre, buraya bahar, bölgenin diğer yerlerine göre daha erken gelir.",
+      "char_count": 258,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 425,
+      "end_char": 634,
+      "content": "== Coğrafya == Saskılah, Yakutsk'un yaklaşık 800 kilometre kuzeybatısında, Anabar Nehri'nin sağ kıyısında yer almaktadır. İklimi oldukça sert olup, uzun ve soğuk kışlar ile kısa ve serin yazlar yaşanmaktadır.",
+      "char_count": 208,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0003",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 634,
+      "end_char": 711,
+      "content": "== Nüfus == Yerleşim yerinin nüfusu 2021 yılında 2345 olarak kaydedilmiştir.",
+      "char_count": 76,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0004",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 711,
+      "end_char": 835,
+      "content": "== Tarih == Saskılah, 20. yüzyılın ortalarında kurulmuş bir yerleşimdir ve zamanla bölgenin idari merkezi haline gelmiştir.",
+      "char_count": 123,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0005",
+      "section": "== Ekonomi ve Altyapı ==",
+      "heading_path": "== Ekonomi ve Altyapı ==",
+      "start_char": 835,
+      "end_char": 1075,
+      "content": "== Ekonomi ve Altyapı == Yerleşim, esas olarak hayvancılık ve balıkçılıkla geçimini sağlamaktadır. Bölgede ayrıca kürk ticareti ve yerel el sanatları da önemlidir. Saskılah'ta sağlık hizmetleri, bir okul ve kültürel tesisler bulunmaktadır.",
+      "char_count": 239,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0006",
+      "section": "== İklim ==",
+      "heading_path": "== İklim ==",
+      "start_char": 1075,
+      "end_char": 1265,
+      "content": "== İklim == Saskılah'ta Subarktik iklim (Köppen iklim sınıflandırmasına göre Dfc) hakimdir. Yıllık ortalama sıcaklık -12.5 °C olup, Ocak ayında ortalama -34 °C, Temmuz ayında ise 12 °C'dir.",
+      "char_count": 189,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0007",
+      "section": "== Ulaşım ==",
+      "heading_path": "== Ulaşım ==",
+      "start_char": 1265,
+      "end_char": 1430,
+      "content": "== Ulaşım == Bölgeye erişim kara ve hava yoluyla sağlanmaktadır. Saskılah'ta küçük bir havaalanı bulunmakta ve kış aylarında nehir yoluyla ulaşım mümkün olmaktadır.",
+      "char_count": 164,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış Bağlantılar ==",
+      "heading_path": "== Dış Bağlantılar ==",
+      "start_char": 1445,
+      "end_char": 1483,
+      "content": "== Dış Bağlantılar == Resmi web sitesi",
+      "char_count": 38,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Saskılah adını oluşturan \"saaskı\" ve \"laah\" kelimeleri ne anlama gelmektedir?",
+        "answer": "Bahara; bahar yerleşimi anlamına gelmektedir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rusya'nın Yakutistan Cumhuriyeti'nde bulunan kırsal yerleşim yeri Saskılah'ın adı, bölgenin bir özelliğiyle nasıl bir ilişki içindedir?",
+        "answer": "Saskılah adının kökeni Türkçe olup \"bahar; bahar yerleşimi\" anlamına gelmektedir. Bu isim, bir rivayete göre bölgenin diğer yerlerine göre baharın daha erken geldiği bir yer olması özelliğiyle ilişkilidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

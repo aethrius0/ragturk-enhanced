@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "ayatriadamanastr_12b11ee9",
+    "title": "Aya Triada Manastırı",
+    "url": "https://tr.wikipedia.org/wiki/Aya_Triada_Manast%C4%B1r%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:45.491223",
+    "content": "Aya Triada Manastırı (Yunanca: Μονή Αγίας Τριάδος Moní Ayías Triádhas), Batı Girit'te Akrotiri Yarımadasında bir Rum Ortodoks manastırı. Manastır, sonradan Ortodoks kilisesine katılan iki Venedikli keşiş olan Jeremias ve Laurentius Zangarola (Giancarolo) tarafından 17. yüzyılda kurulmuştur. Bu kardeşler, Mourtari ailesinin bağışladığı eski bir manastırı yenilemişlerdir. Zeytin ve portakal bahçeleri içinde yer alan manastıra ait yapılar yaylada ve havalimanına gelen uçaklardan görülebilmektedir. Keşişler manastırda şarap ve zeytinyağı üretip satmaktadırlar. == Mimari == Manastırın anıtsal giriş kapısı, Rönesans unsurları barındıran kilise cephesi ve muhtemelen daha geç döneme ait çan kulesi, Venedik mimari etkisi göstermektedir. Haç planlı kilisenin ana kubbesi, iki küçük kubbeli şapel ile çevrilidir. Ana kilise Kutsal Teslis'e adanmıştır ve kilisenin ön tarafında ana nefe dik açılarda bir narteks vardır. Ana girişin her iki yanında iki büyük Dor tarzı sütun ve daha küçük Korint tarzı sütunlar vardır. Kilisenin cephesi İyon ve Korint üslubunda çift sütunlu olup, üzerinde 1631 tarihli Yunanca bir yazıt bulunmaktadır. Manastırın mahzen kapısı 1613 tarihlidir. 19. yüzyılda manastır, 1833'ten itibaren önemli bir ilahiyat okulu olarak hizmet vermiştir. Manastırın çan kulesi 1864'e tarihlenmektedir. Manastır Osmanlı döneminde Türklerle olan çatışmalar sırasında büyük ölçüde hasar görmüştür. == Müze == Manastırda ayrıca bazı nadir kitapların bulunduğu bir kütüphane, ikon ve kodeks koleksiyonu içeren bir müze bulunmaktadır. Sergilenenler arasında 1500 yılına tarihlenen Aziz Yuhanna'nın taşınabilir bir ikonu, Emmanuel Skordiles'in 17. yüzyıldan kalma Son Yargı isimli ikonu gibi önemli ikonlar bulunmaktadır. == Galeri == == Ayrıca bakınız == Guverneto Manastırı == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1795,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.491629",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 563,
+      "content": "Aya Triada Manastırı (Yunanca: Μονή Αγίας Τριάδος Moní Ayías Triádhas), Batı Girit'te Akrotiri Yarımadasında bir Rum Ortodoks manastırı. Manastır, sonradan Ortodoks kilisesine katılan iki Venedikli keşiş olan Jeremias ve Laurentius Zangarola (Giancarolo) tarafından 17. yüzyılda kurulmuştur. Bu kardeşler, Mourtari ailesinin bağışladığı eski bir manastırı yenilemişlerdir. Zeytin ve portakal bahçeleri içinde yer alan manastıra ait yapılar yaylada ve havalimanına gelen uçaklardan görülebilmektedir. Keşişler manastırda şarap ve zeytinyağı üretip satmaktadırlar.",
+      "char_count": 562,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0001",
+      "section": "== Mimari ==",
+      "heading_path": "== Mimari ==",
+      "start_char": 563,
+      "end_char": 1407,
+      "content": "== Mimari == Manastırın anıtsal giriş kapısı, Rönesans unsurları barındıran kilise cephesi ve muhtemelen daha geç döneme ait çan kulesi, Venedik mimari etkisi göstermektedir. Haç planlı kilisenin ana kubbesi, iki küçük kubbeli şapel ile çevrilidir. Ana kilise Kutsal Teslis'e adanmıştır ve kilisenin ön tarafında ana nefe dik açılarda bir narteks vardır. Ana girişin her iki yanında iki büyük Dor tarzı sütun ve daha küçük Korint tarzı sütunlar vardır. Kilisenin cephesi İyon ve Korint üslubunda çift sütunlu olup, üzerinde 1631 tarihli Yunanca bir yazıt bulunmaktadır. Manastırın mahzen kapısı 1613 tarihlidir. 19. yüzyılda manastır, 1833'ten itibaren önemli bir ilahiyat okulu olarak hizmet vermiştir. Manastırın çan kulesi 1864'e tarihlenmektedir. Manastır Osmanlı döneminde Türklerle olan çatışmalar sırasında büyük ölçüde hasar görmüştür.",
+      "char_count": 843,
+      "token_estimate": 210
+    },
+    {
+      "id": "c0002",
+      "section": "== Müze ==",
+      "heading_path": "== Müze ==",
+      "start_char": 1407,
+      "end_char": 1727,
+      "content": "== Müze == Manastırda ayrıca bazı nadir kitapların bulunduğu bir kütüphane, ikon ve kodeks koleksiyonu içeren bir müze bulunmaktadır. Sergilenenler arasında 1500 yılına tarihlenen Aziz Yuhanna'nın taşınabilir bir ikonu, Emmanuel Skordiles'in 17. yüzyıldan kalma Son Yargı isimli ikonu gibi önemli ikonlar bulunmaktadır.",
+      "char_count": 319,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1740,
+      "end_char": 1781,
+      "content": "== Ayrıca bakınız == Guverneto Manastırı",
+      "char_count": 40,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Manastırın kilise cephesinde bulunan Yunanca yazıt hangi yıla aittir?",
+        "answer": "1631",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Aya Triada Manastırı'nın Venedikli kurucularının, yapının mimarisi ve erken inşa tarihlerine nasıl bir etkisi olmuştur?",
+        "answer": "Manastır, 17. yüzyılda Venedikli keşişler Jeremias ve Laurentius Zangarola tarafından kurulmuştur. Bu Venedikli köken, manastırın anıtsal giriş kapısı, Rönesans unsurları barındıran kilise cephesi ve genel mimarisinde Venedik etkisini göstermektedir. Ayrıca, mahzen kapısının 1613 ve kilise cephesindeki Yunanca yazıtın 1631 gibi erken tarihleri, Venedik etkisinin manastırın kuruluş dönemindeki yapısal unsurlarında mevcut olduğunu düşündürmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

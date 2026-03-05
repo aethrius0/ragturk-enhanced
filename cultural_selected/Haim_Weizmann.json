@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "haimweizmann_c170f67d",
+    "title": "Haim Weizmann",
+    "url": "https://tr.wikipedia.org/wiki/Haim_Weizmann",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:57.719445",
+    "content": "Haim Azriel Weizmann (27 Kasım 1874 – 9 Kasım 1952), Rus İmparatorluğu doğumlu Yahudi siyonist lider, biyokimyacı, politikacı ve İsrail'in ilk Devlet Başkanı. Siyonizmin önemli liderlerinden biri olarak, modern İsrail Devleti’nin kurulmasında kilit bir rol oynadı. Motal kasabasında doğan Weizmann, eğitimini Almanya ve İsviçre’de tamamladıktan sonra bir biyokimyacı olarak, kimya alanında Endüstriyel fermantasyon ve \"Weizmann süreci\" olarak da bilinen Aseton-bütanol-etanol fermantasyonu (ABE) gibi önemli buluşlara imza attı. Birinci Dünya Savaşı sırasında İngiltere için aseton üretimi sürecini geliştirerek Britanya hükûmetiyle güçlü bağlar kurdu. Siyonist hareketin diplomatik yüzü olarak, 1917'de yayımlanan Balfour Deklarasyonu'nun hazırlanmasında etkili oldu. Paris Barış Konferansı'nda ve Filistin'de Yahudi yerleşimi için yürütülen müzakerelerde önemli görevler üstlendi. 1920'de Dünya Siyonist Teşkilatı'nın başkanı seçildi ve Filistin'de İbrani Üniversitesi'nin kurulmasına öncülük etti. İkinci Dünya Savaşı sonrasında İsrail'in bağımsızlık sürecine katkıda bulundu ve 1949'da ülkenin ilk Cumhurbaşkanı oldu. Bilim ve siyaseti birleştiren Weizmann, aynı zamanda biyokimya alanında çalışmalarıyla tanınır. Weizmann Enstitüsü'nün kurulmasına öncülük eden Weizmann, 1952'de öldü. == İlk yılları ve eğitimi == Weizmann, 1874 yılında Rus İmparatorluğu'nun Belarus bölgesindeki Pinsk kentinde doğdu. 1892-1899 yılları arasında Darmstadt ve Charlottenburg Üniversiteleri'nde öğrenim gördü. Freiburg Üniversitesi'nden kimyager olarak mezun oldu. Cenova ve Manchester Üniversiteleri'nde kimya okutmanlığı yaptı. İngiltere'deyken bakteriyel fermantasyon alanında kendisine ün getiren çalışmalar yaptı. Endüstriyel Fermantasyon'un babası olarak adlandırıldı. Aseton üretmeye yarayan Weizmann organizmasını buldu. Aseton üretimi haklarını bir şirkete devretti. 1916-1919 yılları arasında İngiliz Deniz Kuvvetleri Laboratuvalarının direktörü oldu. Weizmann 1897 yılındaki ilk Siyonist Kongresi'ni kaçırmıştı ancak diğerlerinde bulundu. İsrail Devleti'nin kuruluşunda önemli rol oynayan Balfour Deklarasyonu'nun yayımlanması için uğraştı. 3 Ocak 1919 tarihinde Irak Kralı Faysal bin Hüseyin ile beraber Ortadoğu'da Arap-Yahudi ilişkilerini kurmayı amaçlayan bir anlaşma imzaladı. 1920-31 ve 1935-46 yılları arasında Siyonist Hareket başkanlığı yaptı. 1934 yılında büyük uğraşları sonunda bir İbrani zengin olan İsrael Sieff'in ölen oğlu adına Daniel Sieff Araştırma Enstitüsü açıldı. Organik kimya alanında özellikle uğraş veren Weizmann'ın ismi 1949 yılında bu enstitüye verildi. == Devlet başkanlığı == İsrail'in kurucularındandır. İsrail Devleti'nin ilk başkanıdır. ABD'den İsrail'in kuruluşu için destek isteyen Weizmann 1948 yılında İsrail Devlet Başkanlığına seçildi. Bu görevi 1952 Kasım ayında ölene dek sürdürdü ve ölümünden sonra naaşı kurduğu enstitünün bahçesine gömüldü. == Özel yaşamı == Haim Weizmann, Vera Weizmann ile evli ve iki çocuk babasıydı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 364,
+      "char_count": 2977,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.695262",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Haim Azriel Weizmann (27 Kasım 1874 – 9 Kasım 1952), Rus İmparatorluğu doğumlu Yahudi siyonist lider, biyokimyacı, politikacı ve İsrail'in ilk Devlet Başkanı. Siyonizmin önemli liderlerinden biri olarak, modern İsrail Devleti’nin kurulmasında kilit bir rol oynadı. Motal kasabasında doğan Weizmann, eğitimini Almanya ve İsviçre’de tamamladıktan sonra bir biyokimyacı olarak, kimya alanında Endüstriyel fermantasyon ve \"Weizmann süreci\" olarak da bilinen Aseton-bütanol-etanol fermantasyonu (ABE) gibi önemli buluşlara imza attı. Birinci Dünya Savaşı sırasında İngiltere için aseton üretimi sürecini geliştirerek Britanya hükûmetiyle güçlü bağlar kurdu. Siyonist hareketin diplomatik yüzü olarak, 1917'de yayımlanan Balfour Deklarasyonu'nun hazırlanmasında etkili oldu. Paris Barış Konferansı'nda ve Filistin'de Yahudi yerleşimi için yürütülen müzakerelerde önemli görevler üstlendi. 1920'de Dünya Siyonist Teşkilatı'nın başkanı seçildi ve Filistin'de İbrani Üniversitesi'nin kurulmasına öncülük etti.",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1289,
+      "content": "ilistin'de Yahudi yerleşimi için yürütülen müzakerelerde önemli görevler üstlendi. 1920'de Dünya Siyonist Teşkilatı'nın başkanı seçildi ve Filistin'de İbrani Üniversitesi'nin kurulmasına öncülük etti. İkinci Dünya Savaşı sonrasında İsrail'in bağımsızlık sürecine katkıda bulundu ve 1949'da ülkenin ilk Cumhurbaşkanı oldu. Bilim ve siyaseti birleştiren Weizmann, aynı zamanda biyokimya alanında çalışmalarıyla tanınır. Weizmann Enstitüsü'nün kurulmasına öncülük eden Weizmann, 1952'de öldü.",
+      "char_count": 489,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0002",
+      "section": "== İlk yılları ve eğitimi ==",
+      "heading_path": "== İlk yılları ve eğitimi ==",
+      "start_char": 1290,
+      "end_char": 2290,
+      "content": "== İlk yılları ve eğitimi == Weizmann, 1874 yılında Rus İmparatorluğu'nun Belarus bölgesindeki Pinsk kentinde doğdu. 1892-1899 yılları arasında Darmstadt ve Charlottenburg Üniversiteleri'nde öğrenim gördü. Freiburg Üniversitesi'nden kimyager olarak mezun oldu. Cenova ve Manchester Üniversiteleri'nde kimya okutmanlığı yaptı. İngiltere'deyken bakteriyel fermantasyon alanında kendisine ün getiren çalışmalar yaptı. Endüstriyel Fermantasyon'un babası olarak adlandırıldı. Aseton üretmeye yarayan Weizmann organizmasını buldu. Aseton üretimi haklarını bir şirkete devretti. 1916-1919 yılları arasında İngiliz Deniz Kuvvetleri Laboratuvalarının direktörü oldu. Weizmann 1897 yılındaki ilk Siyonist Kongresi'ni kaçırmıştı ancak diğerlerinde bulundu. İsrail Devleti'nin kuruluşunda önemli rol oynayan Balfour Deklarasyonu'nun yayımlanması için uğraştı. 3 Ocak 1919 tarihinde Irak Kralı Faysal bin Hüseyin ile beraber Ortadoğu'da Arap-Yahudi ilişkilerini kurmayı amaçlayan bir anlaşma imzaladı. 1920-31 ve ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== İlk yılları ve eğitimi ==",
+      "heading_path": "== İlk yılları ve eğitimi ==",
+      "start_char": 2090,
+      "end_char": 2579,
+      "content": "our Deklarasyonu'nun yayımlanması için uğraştı. 3 Ocak 1919 tarihinde Irak Kralı Faysal bin Hüseyin ile beraber Ortadoğu'da Arap-Yahudi ilişkilerini kurmayı amaçlayan bir anlaşma imzaladı. 1920-31 ve 1935-46 yılları arasında Siyonist Hareket başkanlığı yaptı. 1934 yılında büyük uğraşları sonunda bir İbrani zengin olan İsrael Sieff'in ölen oğlu adına Daniel Sieff Araştırma Enstitüsü açıldı. Organik kimya alanında özellikle uğraş veren Weizmann'ın ismi 1949 yılında bu enstitüye verildi.",
+      "char_count": 489,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0004",
+      "section": "== Devlet başkanlığı ==",
+      "heading_path": "== Devlet başkanlığı ==",
+      "start_char": 2580,
+      "end_char": 2883,
+      "content": "== Devlet başkanlığı == İsrail'in kurucularındandır. İsrail Devleti'nin ilk başkanıdır. ABD'den İsrail'in kuruluşu için destek isteyen Weizmann 1948 yılında İsrail Devlet Başkanlığına seçildi. Bu görevi 1952 Kasım ayında ölene dek sürdürdü ve ölümünden sonra naaşı kurduğu enstitünün bahçesine gömüldü.",
+      "char_count": 302,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0005",
+      "section": "== Özel yaşamı ==",
+      "heading_path": "== Özel yaşamı ==",
+      "start_char": 2883,
+      "end_char": 2963,
+      "content": "== Özel yaşamı == Haim Weizmann, Vera Weizmann ile evli ve iki çocuk babasıydı.",
+      "char_count": 79,
+      "token_estimate": 19
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İsrail'in ilk Devlet Başkanı kimdir?",
+        "answer": "Haim Azriel Weizmann",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Haim Azriel Weizmann'ın bilimsel çalışmaları, özellikle aseton üretimi alanındaki buluşları, siyasi kariyerini ve Siyonist hareket içindeki diplomatik etkisini nasıl etkilemiştir?",
+        "answer": "Weizmann, Birinci Dünya Savaşı sırasında İngiltere için aseton üretimi sürecini geliştirerek Britanya hükûmetiyle güçlü bağlar kurmuştur. Aseton üretmeye yarayan Weizmann organizmasını bulmuş ve 1916-1919 yılları arasında İngiliz Deniz Kuvvetleri Laboratuvarlarının direktörlüğünü yapmıştır. Bu bilimsel katkıları ve kurduğu bağlar sayesinde, Siyonist hareketin diplomatik yüzü olarak 1917'de yayımlanan Balfour Deklarasyonu'nun hazırlanmasında etkili olmuş ve İsrail Devleti'nin kuruluşunda önemli bir rol oynamıştır. Ayrıca, Filistin'de Yahudi yerleşimi için yürütülen müzakerelerde önemli görevler üstlenerek siyasi etkisini pekiştirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

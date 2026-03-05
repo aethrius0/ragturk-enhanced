@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "teknoloji_20833351",
+    "title": "Teknoloji",
+    "url": "https://tr.wikipedia.org/wiki/Teknoloji",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:14.563340",
+    "content": "Teknoloji ya da uygulayım bilimi, (Yunanca: τέχνη, tekno; \"zanaat, beceri, el sanatları\"; Yunanca: -λογία; -loji) İnsanlığın, içinde bulunduğu koşullarla baş etmedeki yetersizliğini gidermek üzere faydalanabileceği malzeme, alet, araç ve yöntemlerin; bulunması, geliştirilmesi ve üretilmesi süreçlerine verilen addır. Avcı-Toplayıcı çağlarda kullanılan taş, sopa, ok, yay, kütük kano, tekerlekten; tarım toplumlarında kullanılan toprak kap kacak, pulluk, at/öküz arabası, taş yapılar, yelkenli kayıklara; yerleşik düzene geçen topluluklarda kullanılan kerpiç barınaklar, köprüler, yel değirmenleri, piramidler, çelik, baruttan; günümüzde, uzay araştırmalarında veya parçacık hızlandırma deneylerinde kullanılan gelişmiş laboratuvar donanımlarına kadar tüm araç ve gereçler, insanın doğa karşısındaki zayıflık veya yetersizliğini gidermek üzere üretilmişlerdir. Aynı zamanda, insanın doğaya karşı en yıkıcı silahı olmuştur. Teknolojik bilgi ve üretim seviyesi, tarihi boyunca devletlerin kurulması ve yıkılmasında, en güçlü etkenlerden biri haline gelmiştir. Silah, sağlık ve besin sektörleri, teknolojinin en gelişmiş araçlarını kullanmaya eğilim gösterirlerken, teknolojinin geliştirilmesinde de en çok yatırım yapan sahalardır. Teknolojik çalışmalar ile bilimsel araştırmalar aynı alanlar değillerdir fakat birbirini destekler. Bilim, bilimsel bilgiyi üretir; teknoloji ise bu bilgiyi araç geliştirilmesi ve yapımında kullanır. Teknoloji kullanımı farklı sanayi kollarının gelişimini sağlamıştır. == Teknoloji ve Kısıtları == Teknoloji 19. yüzyılda buharlı makinelerin geliştirilmesi ve ardından elektriğin güç kaynağı olarak kullanılmasıyla, üretimde ciddi artışlar olmuştur. Bunu takiben, hızla artan enerji ihtiyacı ve enerji kaynaklarının sınırlı olması, teknolojik gelişmelerin önünde duran en önemli sorunlardan biri olagelmiştir. 20. yüzyıl sonu ve 21. yüzyıl başlarında bilgisayar ve internet teknolojilerinin hızla devreye girmesiyle, bu teknolojilerin gereksinim duyduğu yüksek özellikli malzemelerin kıtlığı, bir diğer kısıtlayıcı etken olarak öne çıkmıştır. Günümüzde, enerji kaynaklarının kıtlığı ve malzemelerin sınırlayıcı etkilerine rağmen; kuantum fiziğinin bulguları, yapay zekâ yazılımlarının geliştirilmesi ve bu bilgilerin makinelerde kullanılmaya başlanması, insanlık tarihi boyunca yaşanan en büyük uygarlık sıçramalarından biri olarak öngörülüyor. == Teknoloji ve toplumlar üzerindeki etkisi == Teknolojik araçların sağladığı kolaylıklar ve bolluk; insan etkinliği, etkileşimi, davranışları üzerinde önemli farklılaşmalara ön açmıştır. Bu kolaylıklardan dolayı insanın kendi doğal beceri ve yeteneklerine yabancılaşması veya bilişsel özelliklerinin zayıflaması veya yitmesi, insanın tümüyle doğasından ve doğadan kopup kopmayacağı, kopuyorsa bunun ne tür sonuçlar doğuracağı, her zaman merak ve tartışma konusu olmuştur. Yeni teknolojilerin birkaç dev şirketin tekelinde toplanıyor olması, alışılagelmiş olan devlet ve toplum yapılarında çözülmelere yol açıp açmayacağı sorgulanmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 359,
+      "char_count": 3028,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.294130",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Teknoloji ya da uygulayım bilimi, (Yunanca: τέχνη, tekno; \"zanaat, beceri, el sanatları\"; Yunanca: -λογία; -loji) İnsanlığın, içinde bulunduğu koşullarla baş etmedeki yetersizliğini gidermek üzere faydalanabileceği malzeme, alet, araç ve yöntemlerin; bulunması, geliştirilmesi ve üretilmesi süreçlerine verilen addır. Avcı-Toplayıcı çağlarda kullanılan taş, sopa, ok, yay, kütük kano, tekerlekten; tarım toplumlarında kullanılan toprak kap kacak, pulluk, at/öküz arabası, taş yapılar, yelkenli kayıklara; yerleşik düzene geçen topluluklarda kullanılan kerpiç barınaklar, köprüler, yel değirmenleri, piramidler, çelik, baruttan; günümüzde, uzay araştırmalarında veya parçacık hızlandırma deneylerinde kullanılan gelişmiş laboratuvar donanımlarına kadar tüm araç ve gereçler, insanın doğa karşısındaki zayıflık veya yetersizliğini gidermek üzere üretilmişlerdir. Aynı zamanda, insanın doğaya karşı en yıkıcı silahı olmuştur. Teknolojik bilgi ve üretim seviyesi, tarihi boyunca devletlerin kurulması ve ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1498,
+      "content": "zayıflık veya yetersizliğini gidermek üzere üretilmişlerdir. Aynı zamanda, insanın doğaya karşı en yıkıcı silahı olmuştur. Teknolojik bilgi ve üretim seviyesi, tarihi boyunca devletlerin kurulması ve yıkılmasında, en güçlü etkenlerden biri haline gelmiştir. Silah, sağlık ve besin sektörleri, teknolojinin en gelişmiş araçlarını kullanmaya eğilim gösterirlerken, teknolojinin geliştirilmesinde de en çok yatırım yapan sahalardır. Teknolojik çalışmalar ile bilimsel araştırmalar aynı alanlar değillerdir fakat birbirini destekler. Bilim, bilimsel bilgiyi üretir; teknoloji ise bu bilgiyi araç geliştirilmesi ve yapımında kullanır. Teknoloji kullanımı farklı sanayi kollarının gelişimini sağlamıştır.",
+      "char_count": 698,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0002",
+      "section": "== Teknoloji ve Kısıtları ==",
+      "heading_path": "== Teknoloji ve Kısıtları ==",
+      "start_char": 1499,
+      "end_char": 2374,
+      "content": "== Teknoloji ve Kısıtları == Teknoloji 19. yüzyılda buharlı makinelerin geliştirilmesi ve ardından elektriğin güç kaynağı olarak kullanılmasıyla, üretimde ciddi artışlar olmuştur. Bunu takiben, hızla artan enerji ihtiyacı ve enerji kaynaklarının sınırlı olması, teknolojik gelişmelerin önünde duran en önemli sorunlardan biri olagelmiştir. 20. yüzyıl sonu ve 21. yüzyıl başlarında bilgisayar ve internet teknolojilerinin hızla devreye girmesiyle, bu teknolojilerin gereksinim duyduğu yüksek özellikli malzemelerin kıtlığı, bir diğer kısıtlayıcı etken olarak öne çıkmıştır. Günümüzde, enerji kaynaklarının kıtlığı ve malzemelerin sınırlayıcı etkilerine rağmen; kuantum fiziğinin bulguları, yapay zekâ yazılımlarının geliştirilmesi ve bu bilgilerin makinelerde kullanılmaya başlanması, insanlık tarihi boyunca yaşanan en büyük uygarlık sıçramalarından biri olarak öngörülüyor.",
+      "char_count": 874,
+      "token_estimate": 218
+    },
+    {
+      "id": "c0003",
+      "section": "== Teknoloji ve toplumlar üzerindeki etkisi ==",
+      "heading_path": "== Teknoloji ve toplumlar üzerindeki etkisi ==",
+      "start_char": 2374,
+      "end_char": 3014,
+      "content": "== Teknoloji ve toplumlar üzerindeki etkisi == Teknolojik araçların sağladığı kolaylıklar ve bolluk; insan etkinliği, etkileşimi, davranışları üzerinde önemli farklılaşmalara ön açmıştır. Bu kolaylıklardan dolayı insanın kendi doğal beceri ve yeteneklerine yabancılaşması veya bilişsel özelliklerinin zayıflaması veya yitmesi, insanın tümüyle doğasından ve doğadan kopup kopmayacağı, kopuyorsa bunun ne tür sonuçlar doğuracağı, her zaman merak ve tartışma konusu olmuştur. Yeni teknolojilerin birkaç dev şirketin tekelinde toplanıyor olması, alışılagelmiş olan devlet ve toplum yapılarında çözülmelere yol açıp açmayacağı sorgulanmaktadır.",
+      "char_count": 639,
+      "token_estimate": 159
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Teknoloji (uygulayım bilimi) ne anlama gelir?",
+        "answer": "Teknoloji ya da uygulayım bilimi, insanlığın içinde bulunduğu koşullarla baş etmedeki yetersizliğini gidermek üzere faydalanabileceği malzeme, alet, araç ve yöntemlerin; bulunması, geliştirilmesi ve üretilmesi süreçlerine verilen addır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Teknoloji, insanlığın yetersizliklerini giderme ve uygarlık gelişimindeki rolünü nasıl sürdürmüş, aynı zamanda hangi kısıtlamalarla karşılaşmış ve günümüzde ne tür yeni sıçramalara yol açmıştır?",
+        "answer": "Teknoloji, insanın doğa karşısındaki zayıflık veya yetersizliğini gidermek üzere malzeme, alet, araç ve yöntemlerin geliştirilmesiyle ortaya çıkmıştır ve tarih boyunca devletlerin kurulması ve yıkılmasında, farklı sanayi kollarının gelişiminde en güçlü etkenlerden biri olmuştur. Ancak 19. yüzyıldaki buharlı makineler ve elektrikle sağlanan ciddi üretim artışlarına rağmen, hızla artan enerji ihtiyacı, sınırlı enerji kaynakları ve yüksek özellikli malzemelerin kıtlığı gibi önemli kısıtlamalarla karşılaşmıştır. Günümüzde ise, bu kısıtlamalara rağmen kuantum fiziğinin bulguları, yapay zekâ yazılımlarının geliştirilmesi ve makinelerde kullanılmasıyla insanlık tarihi boyunca yaşanan en büyük uygarlık sıçramalarından biri öngörülmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

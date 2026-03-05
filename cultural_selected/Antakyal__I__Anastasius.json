@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "antakyalianastasius_7e1ea13d",
+    "title": "Antakyalı I. Anastasius",
+    "url": "https://tr.wikipedia.org/wiki/Antakyal%C4%B1_I._Anastasius",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:42.246896",
+    "content": "Antakyalı I. Anastasius (d.? Filistin – ö. 21 Nisan 599, Antakya) Antakya Patriği (561-571 ve 593-599 yılları arası) Hem Katolik hem de Ortodokslar tarafından aziz kabul edilir. Nisan ayının 21'de anılır. == Hayatı == Kendisi muhtemelen Filistin kökenliydi ve Antakya patriği olmadan önce İskenderiye patriğiydi. Anastasius bazı teolojik konulardaki emperyal doktrinlere karşı geldiği için imparator Justinianus ile ters düşmüştür. Justinianus öldüğünde görevinden edilmiş be sürgüne gönderilmiştir. II. Justinus sürgün kararını uygulamış ve beş yıl sonra başka bir patrik, Antakyalı I. Gregorius, yerine geçmiştir. Antakyalı I. Gregorius 593 yılında öldüğünde Anastasius görevine tekrar dönmüştür. Bunun asıl sebeplerinden birisi, Papa Büyük Gregorius'un müdahalesidir, İmparator Mauricius ve oğlu Theodosius'tan Anastasius'un Antakya görevine geri verilmeyecekse Roma'ya gitmesini istemiştir. Anastasius Papa I. Gregorius'un bir dostuydu. Papa'nın kendisine yazdığı dokuz mektup korunmuştur. == Eserleri == Sadece Latince çevirileri korunmuş olan ve kendisinin olduğu düşünülen beş dogmatik incelemesi vardır: De sanctissima Trinitate, Söz'ün ebediliği, Baba ve Kutsal Ruh ile özdeşliği, doğalarının ve ilahi eylemlerinin birliği üzerinedir. De incircumscripto, Tanrı'nın her yerde olduğu ve yaratılışta daimi olarak bulunmasını anlatır. De divina œconomia id est de incarnatione, eserinde iki farklı ve aşikar doğanın hipostatik birliği temasına değinir. De passione et impassibilitate Christi De resurrectione Christi Dört Vaazı: Biri transfigürasyon üzerine, ikisi tebliğ üzerine, birisi ise üç oruç dönemi üzerine (ancak bunun sahte olduğu aşikardır). Ayrıca Antakya'ya dönüşünde yaptığı 25 Mart 593 tarihli konuşma da korunmuştur. Kendisi (ya da halefi) ayrıca De fide orthodoxa adında sorular ve cevaplar şeklinde hazırlanmış bir ufak kateşizminde yazarı olduğu düşünülmektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 249,
+      "char_count": 1901,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.815268",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 205,
+      "content": "Antakyalı I. Anastasius (d.? Filistin – ö. 21 Nisan 599, Antakya) Antakya Patriği (561-571 ve 593-599 yılları arası) Hem Katolik hem de Ortodokslar tarafından aziz kabul edilir. Nisan ayının 21'de anılır.",
+      "char_count": 204,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 205,
+      "end_char": 994,
+      "content": "== Hayatı == Kendisi muhtemelen Filistin kökenliydi ve Antakya patriği olmadan önce İskenderiye patriğiydi. Anastasius bazı teolojik konulardaki emperyal doktrinlere karşı geldiği için imparator Justinianus ile ters düşmüştür. Justinianus öldüğünde görevinden edilmiş be sürgüne gönderilmiştir. II. Justinus sürgün kararını uygulamış ve beş yıl sonra başka bir patrik, Antakyalı I. Gregorius, yerine geçmiştir. Antakyalı I. Gregorius 593 yılında öldüğünde Anastasius görevine tekrar dönmüştür. Bunun asıl sebeplerinden birisi, Papa Büyük Gregorius'un müdahalesidir, İmparator Mauricius ve oğlu Theodosius'tan Anastasius'un Antakya görevine geri verilmeyecekse Roma'ya gitmesini istemiştir. Anastasius Papa I. Gregorius'un bir dostuydu. Papa'nın kendisine yazdığı dokuz mektup korunmuştur.",
+      "char_count": 788,
+      "token_estimate": 197
+    },
+    {
+      "id": "c0002",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 994,
+      "end_char": 1887,
+      "content": "== Eserleri == Sadece Latince çevirileri korunmuş olan ve kendisinin olduğu düşünülen beş dogmatik incelemesi vardır: De sanctissima Trinitate, Söz'ün ebediliği, Baba ve Kutsal Ruh ile özdeşliği, doğalarının ve ilahi eylemlerinin birliği üzerinedir. De incircumscripto, Tanrı'nın her yerde olduğu ve yaratılışta daimi olarak bulunmasını anlatır. De divina œconomia id est de incarnatione, eserinde iki farklı ve aşikar doğanın hipostatik birliği temasına değinir. De passione et impassibilitate Christi De resurrectione Christi Dört Vaazı: Biri transfigürasyon üzerine, ikisi tebliğ üzerine, birisi ise üç oruç dönemi üzerine (ancak bunun sahte olduğu aşikardır). Ayrıca Antakya'ya dönüşünde yaptığı 25 Mart 593 tarihli konuşma da korunmuştur. Kendisi (ya da halefi) ayrıca De fide orthodoxa adında sorular ve cevaplar şeklinde hazırlanmış bir ufak kateşizminde yazarı olduğu düşünülmektedir.",
+      "char_count": 892,
+      "token_estimate": 223
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "De incircumscripto adlı dogmatik inceleme neyi anlatır?",
+        "answer": "Tanrı'nın her yerde olduğu ve yaratılışta daimi olarak bulunmasını.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Antakyalı I. Anastasius'un imparator Justinianus ile yaşadığı teolojik anlaşmazlıklar sonucunda görevinden alınması ve sürgün edilmesi, onun kaleme aldığı dogmatik incelemeler ile hem Katolikler hem de Ortodokslar tarafından aziz kabul edilmesi arasında nasıl bir bağlantı kurulabilir?",
+        "answer": "Antakyalı I. Anastasius'un imparator Justinianus ile teolojik konulardaki emperyal doktrinlere karşı geldiği için görevinden alınması ve sürgüne gönderilmesi, onun \"De sanctissima Trinitate\" ve \"De divina œconomia id est de incarnatione\" gibi eserlerinde ele aldığı derin dogmatik incelemelerle ortaya koyduğu inançlarındaki kararlılığını göstermektedir. Bu zorluklara ve patriklik görevindeki kesintilere rağmen hem Katolikler hem de Ortodokslar tarafından aziz kabul edilmesi, onun teolojik görüşlerindeki sadakatinin ve katkılarının kalıcı bir miras bıraktığını ve bu durumun zaman içinde tanındığını ve onurlandırıldığını göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

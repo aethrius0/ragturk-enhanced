@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "jessykramer_fdcb0642",
+    "title": "Jessy Kramer",
+    "url": "https://tr.wikipedia.org/wiki/Jessy_Kramer",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:41.041318",
+    "content": "Jessy Anna Kramer (d. 16 Şubat 1990), Hollandalı hentbolcudur. Toulon Handball ve Hollanda millî takımında oynamaktadır. == Kariyeri == === Kulüp === Kramer, 2010 yılında 2007'den beri oynadığı Hollanda kulübü Zeeman Vastgoed SEW'den Almanya Bundesliga takımlarından Frankfurt (Oder) şehrinin takımı olan Frankfurter HC'ye transfer oldu. FHC'de geçirdiği iki sezondan sonra, ligdeki rakipleri HC Leipzig'e geçti. Temmuz 2013'te sözleşmesi karşılıklı anlaşma ile sonlandırıldı. Sonra Norveç birinci ligi kulüplerinden Vipers Kristiansand ile bir sözleşme imzaladı. 2016-17 sezonundan bu yana, Fransa birinci ligi ekiplerinden Toulon Saint-Cyr Var Handball için oynamaktadır. === Millî takım === Şu ana kadar 2011, 2013, 2015 ve 2017'deki dünya şampiyonalarına katıldığı Hollanda millî takımıyla 128 uluslararası maçta oynayan Jessy Kramer, Hollanda ile 2015 Dünya Kadınlar Hentbol Şampiyonası ve 2016 Avrupa Kadınlar Hentbol Şampiyonası'nda gümüş madalyanın yanı sıra 2017 Dünya Kadınlar Hentbol Şampiyonası ve 2018 Avrupa Kadınlar Hentbol Şampiyonası'nda bronz madalya kazanmıştır. == Başarıları == === Millî takım === Dünya Şampiyonası: 2015 2017 Avrupa Şampiyonası: 2016 2018 === Kulüp === Almanya Ligi: 2012-13 (Handball-Club Leipzig) Almanya Kupası: 2012-13 (Handball-Club Leipzig) Fransa Kupası: 2017-18 (Toulon Saint Cyr Var Handball) == Kaynakça == == Dış bağlantılar == EHF'nin web sitesinde oyuncunun profili2 Ağustos 2019 tarihinde Wayback Machine sitesinde arşivlendi. İngilizce: LFH'nin web sitesinde oyuncunun profili18 Ağustos 2019 tarihinde Wayback Machine sitesinde arşivlendi. Fransızca: vipers.no sitesindeki profili",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 214,
+      "char_count": 1634,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.076774",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 121,
+      "content": "Jessy Anna Kramer (d. 16 Şubat 1990), Hollandalı hentbolcudur. Toulon Handball ve Hollanda millî takımında oynamaktadır.",
+      "char_count": 120,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kulüp ===",
+      "heading_path": "=== Kulüp ===",
+      "start_char": 136,
+      "end_char": 674,
+      "content": "=== Kulüp === Kramer, 2010 yılında 2007'den beri oynadığı Hollanda kulübü Zeeman Vastgoed SEW'den Almanya Bundesliga takımlarından Frankfurt (Oder) şehrinin takımı olan Frankfurter HC'ye transfer oldu. FHC'de geçirdiği iki sezondan sonra, ligdeki rakipleri HC Leipzig'e geçti. Temmuz 2013'te sözleşmesi karşılıklı anlaşma ile sonlandırıldı. Sonra Norveç birinci ligi kulüplerinden Vipers Kristiansand ile bir sözleşme imzaladı. 2016-17 sezonundan bu yana, Fransa birinci ligi ekiplerinden Toulon Saint-Cyr Var Handball için oynamaktadır.",
+      "char_count": 537,
+      "token_estimate": 134
+    },
+    {
+      "id": "c0002",
+      "section": "=== Millî takım ===",
+      "heading_path": "=== Millî takım ===",
+      "start_char": 674,
+      "end_char": 1082,
+      "content": "=== Millî takım === Şu ana kadar 2011, 2013, 2015 ve 2017'deki dünya şampiyonalarına katıldığı Hollanda millî takımıyla 128 uluslararası maçta oynayan Jessy Kramer, Hollanda ile 2015 Dünya Kadınlar Hentbol Şampiyonası ve 2016 Avrupa Kadınlar Hentbol Şampiyonası'nda gümüş madalyanın yanı sıra 2017 Dünya Kadınlar Hentbol Şampiyonası ve 2018 Avrupa Kadınlar Hentbol Şampiyonası'nda bronz madalya kazanmıştır.",
+      "char_count": 407,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0003",
+      "section": "=== Millî takım ===",
+      "heading_path": "=== Millî takım ===",
+      "start_char": 1099,
+      "end_char": 1178,
+      "content": "=== Millî takım === Dünya Şampiyonası: 2015 2017 Avrupa Şampiyonası: 2016 2018",
+      "char_count": 78,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0004",
+      "section": "=== Kulüp ===",
+      "heading_path": "=== Kulüp ===",
+      "start_char": 1178,
+      "end_char": 1341,
+      "content": "=== Kulüp === Almanya Ligi: 2012-13 (Handball-Club Leipzig) Almanya Kupası: 2012-13 (Handball-Club Leipzig) Fransa Kupası: 2017-18 (Toulon Saint Cyr Var Handball)",
+      "char_count": 162,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1356,
+      "end_char": 1634,
+      "content": "== Dış bağlantılar == EHF'nin web sitesinde oyuncunun profili2 Ağustos 2019 tarihinde Wayback Machine sitesinde arşivlendi. İngilizce: LFH'nin web sitesinde oyuncunun profili18 Ağustos 2019 tarihinde Wayback Machine sitesinde arşivlendi. Fransızca: vipers.no sitesindeki profili",
+      "char_count": 278,
+      "token_estimate": 69
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kramer, 2010 yılında hangi Hollanda kulübünden Almanya Bundesliga takımlarından Frankfurter HC'ye transfer oldu?",
+        "answer": "Zeeman Vastgoed SEW",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jessy Anna Kramer'ın şu anki kulübü Toulon Handball'a ne zaman katılmıştır ve bu kulüp Fransa'daki hangi ligde oynamaktadır?",
+        "answer": "Jessy Anna Kramer, 2016-17 sezonundan bu yana Fransa birinci ligi ekiplerinden Toulon Saint-Cyr Var Handball için oynamaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

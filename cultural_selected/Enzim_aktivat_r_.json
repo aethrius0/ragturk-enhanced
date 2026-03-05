@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "enzimaktivatr_c2ed70a2",
+    "title": "Enzim aktivatörü",
+    "url": "https://tr.wikipedia.org/wiki/Enzim_aktivat%C3%B6r%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:57.478630",
+    "content": "Enzim aktivatörleri, enzimlere bağlanan ve onların aktivitelerini artıran moleküllerdir. Bu moleküller enzim inhibitörlerinin tam tersi olarak görev yapar ve çoğunlukla allosterik düzenlemeler yoluyla metabolizmanın kontrol edilmesini sağlarlar. Bu şekilde işlev gören bir enzim aktivatörü olan fruktoz 2,6-bisfosfat, fosfofruktokinaz 1'i aktive eder ve glukagon hormonuna yanıt olarak glikolizin artmasına neden olur. Bazı durumlarda, eğer bir substrat bir enzimin katalitik alt birimine bağlanırsa, enzimin diğer alt birimlerinde hem substrat afinitesinde hem de katalitik aktivitede artışa yol açarak bir aktivatör olarak işlev görebilir. == Enzim aktivatörü örnekleri == === Hekzokinaz-I === Hekzokinaz-I (HK-I), glikozun glikoliz yolağına girmesini sağlayan bir enzim aktivatörü olarak işlev görür. HK-I'in temel fonksiyonu, glikozu fosforilasyon yoluyla glikoz-6-fosfata (G6P) dönüştürmektir. HK-I, glikolizi başlatmanın yanı sıra, glikozun düşük bir seviyede kalmasını sağlayarak glikozun hücrelere verimli bir şekilde difüzyonun sağlanmasına da yardımcı olur. HK-I, bir α-sarmal ile birbirine bağlanan N-terminal bölgesi ve C-terminal bölgesi olmak üzere iki katalitik bölgeden oluşur. N-terminal bölgesi, C-terminal bölgesi için allosterik bir düzenleyici görevi görürken, C-terminal bölgesi yalnızca katalitik aktiviteden sorumludur. G6P konsantrasyonu, HK-I seviyesi için bir düzenleyici olarak işlev görürken, aynı zamanda bir geri besleme inhibitörü olarak da görev yapar. Düşük G6P konsantrasyonu HK-I'i aktive ederken, yüksek G6P konsantrasyonu ise HK-I'i inhibe eder. === Glukokinaz === Glikolitik yolakta önemli bir enzim olan glukokinaz, vücuttaki glukoz metabolizmasının düzenlenmesinde çok önemli bir rol oynar. Bu enzim, glukozun glikoliz sürecinde önemli bir adım olan glukoz-6-fosfata (G6P) dönüştürülmesinden sorumludur. Heksokinazın bir izozimi olan glukokinaz, glukoz tarafından tetiklenen insülin salgılanmasına yardımcı olduğu pankreas β hücrelerinde bulunur. Karaciğer, bağırsak ve beyin hücreleri gibi çeşitli dokularda da mevcut olan glukokinaz, bu bölgelerde glukozun hücre içi alımını ve metabolizmasını destekler. Glukokinaz aktivatörleri, karaciğerde glukoz alımını artıran ve pankreatik β hücrelerinde insülin üretimini artıran, böylece enzimin aktivitesini artıran bileşiklerdir. Bu aktivatörler özellikle tip 2 diabetes mellituslu bireylerde kan glukoz konsantrasyonlarını düşürücü etkilere sahiptir. Glukokinazın özelliklerinden biri, glukoz düzenleyici proteinin (GKRP) glukoz seviyeleri düşük olduğunda hücre çekirdeğindeki enzimin inaktif formuna bağlandığı tek allosterik bölgesidir. Glukoz konsantrasyonu arttığında, glukokinaz-GKRP kompleksi parçalanır ve enzim glukozu fosforillemek için sitoplazmaya doğru hareket eder. glukozun kendisi glukokinaz için bir enzim aktivatörü görevi görerek karaciğer ve kas hücrelerinde glukoz alımını ve glikojen üretimini artırır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 355,
+      "char_count": 2926,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.634081",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 642,
+      "content": "Enzim aktivatörleri, enzimlere bağlanan ve onların aktivitelerini artıran moleküllerdir. Bu moleküller enzim inhibitörlerinin tam tersi olarak görev yapar ve çoğunlukla allosterik düzenlemeler yoluyla metabolizmanın kontrol edilmesini sağlarlar. Bu şekilde işlev gören bir enzim aktivatörü olan fruktoz 2,6-bisfosfat, fosfofruktokinaz 1'i aktive eder ve glukagon hormonuna yanıt olarak glikolizin artmasına neden olur. Bazı durumlarda, eğer bir substrat bir enzimin katalitik alt birimine bağlanırsa, enzimin diğer alt birimlerinde hem substrat afinitesinde hem de katalitik aktivitede artışa yol açarak bir aktivatör olarak işlev görebilir.",
+      "char_count": 641,
+      "token_estimate": 160
+    },
+    {
+      "id": "c0001",
+      "section": "=== Hekzokinaz-I ===",
+      "heading_path": "=== Hekzokinaz-I ===",
+      "start_char": 675,
+      "end_char": 1584,
+      "content": "=== Hekzokinaz-I === Hekzokinaz-I (HK-I), glikozun glikoliz yolağına girmesini sağlayan bir enzim aktivatörü olarak işlev görür. HK-I'in temel fonksiyonu, glikozu fosforilasyon yoluyla glikoz-6-fosfata (G6P) dönüştürmektir. HK-I, glikolizi başlatmanın yanı sıra, glikozun düşük bir seviyede kalmasını sağlayarak glikozun hücrelere verimli bir şekilde difüzyonun sağlanmasına da yardımcı olur. HK-I, bir α-sarmal ile birbirine bağlanan N-terminal bölgesi ve C-terminal bölgesi olmak üzere iki katalitik bölgeden oluşur. N-terminal bölgesi, C-terminal bölgesi için allosterik bir düzenleyici görevi görürken, C-terminal bölgesi yalnızca katalitik aktiviteden sorumludur. G6P konsantrasyonu, HK-I seviyesi için bir düzenleyici olarak işlev görürken, aynı zamanda bir geri besleme inhibitörü olarak da görev yapar. Düşük G6P konsantrasyonu HK-I'i aktive ederken, yüksek G6P konsantrasyonu ise HK-I'i inhibe eder.",
+      "char_count": 908,
+      "token_estimate": 227
+    },
+    {
+      "id": "c0002",
+      "section": "=== Glukokinaz ===",
+      "heading_path": "=== Glukokinaz ===",
+      "start_char": 1584,
+      "end_char": 2584,
+      "content": "=== Glukokinaz === Glikolitik yolakta önemli bir enzim olan glukokinaz, vücuttaki glukoz metabolizmasının düzenlenmesinde çok önemli bir rol oynar. Bu enzim, glukozun glikoliz sürecinde önemli bir adım olan glukoz-6-fosfata (G6P) dönüştürülmesinden sorumludur. Heksokinazın bir izozimi olan glukokinaz, glukoz tarafından tetiklenen insülin salgılanmasına yardımcı olduğu pankreas β hücrelerinde bulunur. Karaciğer, bağırsak ve beyin hücreleri gibi çeşitli dokularda da mevcut olan glukokinaz, bu bölgelerde glukozun hücre içi alımını ve metabolizmasını destekler. Glukokinaz aktivatörleri, karaciğerde glukoz alımını artıran ve pankreatik β hücrelerinde insülin üretimini artıran, böylece enzimin aktivitesini artıran bileşiklerdir. Bu aktivatörler özellikle tip 2 diabetes mellituslu bireylerde kan glukoz konsantrasyonlarını düşürücü etkilere sahiptir. Glukokinazın özelliklerinden biri, glukoz düzenleyici proteinin (GKRP) glukoz seviyeleri düşük olduğunda hücre çekirdeğindeki enzimin inaktif for",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Glukokinaz ===",
+      "heading_path": "=== Glukokinaz ===",
+      "start_char": 2384,
+      "end_char": 2911,
+      "content": "glukoz konsantrasyonlarını düşürücü etkilere sahiptir. Glukokinazın özelliklerinden biri, glukoz düzenleyici proteinin (GKRP) glukoz seviyeleri düşük olduğunda hücre çekirdeğindeki enzimin inaktif formuna bağlandığı tek allosterik bölgesidir. Glukoz konsantrasyonu arttığında, glukokinaz-GKRP kompleksi parçalanır ve enzim glukozu fosforillemek için sitoplazmaya doğru hareket eder. glukozun kendisi glukokinaz için bir enzim aktivatörü görevi görerek karaciğer ve kas hücrelerinde glukoz alımını ve glikojen üretimini artırır.",
+      "char_count": 527,
+      "token_estimate": 131
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Glukokinaz aktivatörlerinin tip 2 diabetes mellituslu bireyler üzerindeki etkisi nedir?",
+        "answer": "Kan glukoz konsantrasyonlarını düşürücü etkilere sahiptir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Enzim aktivatörlerinin genel tanımı ve işlevi, Hekzokinaz-I'in glikoz-6-fosfat (G6P) tarafından geri besleme mekanizmasıyla düzenlenmesi ve Glukokinaz aktivatörlerinin fizyolojik etkileri gibi spesifik enzim düzenleme örnekleriyle nasıl ilişkilidir?",
+        "answer": "Genel olarak, enzim aktivatörleri enzimlere bağlanarak aktivitelerini artıran ve allosterik düzenlemeler yoluyla metabolizma kontrolü sağlayan moleküllerdir. Bu prensip Hekzokinaz-I'in düzenlenmesinde G6P'nin rolünde görülür; düşük G6P konsantrasyonları HK-I'i aktive ederken, yüksek G6P konsantrasyonları onu inhibe ederek bir geri besleme mekanizmasıyla aktiviteyi düzenler. Benzer şekilde, Glukokinaz için geliştirilen aktivatörler, enzimin karaciğerde glukoz alımını ve pankreas β hücrelerinde insülin üretimini artırarak aktivitesini yükseltir, böylece tip 2 diyabet hastalarında kan glukozunu düşürme gibi fizyolojik etkilere yol açar. Bu örnekler, aktivatörlerin enzim aktivitesini artırarak hücresel metabolizma üzerindeki kontrolünü yansıtır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

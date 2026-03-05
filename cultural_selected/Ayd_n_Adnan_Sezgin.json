@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "aydnadnansezgin_e35a4a41",
+    "title": "Aydın Adnan Sezgin",
+    "url": "https://tr.wikipedia.org/wiki/Ayd%C4%B1n_Adnan_Sezgin",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:50.315484",
+    "content": "Aydın Adnan Sezgin (d. 13 Temmuz 1956, Aydın), Türk büyükelçi ve siyasetçi. == Yaşamı ve kariyeri == Ankara ve Paris'te ilk ve ortaöğrenimini tamamladı. Tevfik Fikret Lisesini bitirdi. Hacettepe Üniversitesi İktisadi ve İdari Bilimler Fakültesi İktisat Bölümünde lisansını, Panthéon - Assas Üniversitesinde Ekonomi ve Antropoloji alanında yüksek lisansını tamamladı. 1982'de Dışişleri Bakanlığında göreve başladı. Dışişleri Bakanlığı (DB) Uluslararası Ekonomik İşler Genel Müdürlüğünde Üçüncü Kâtip, Avrupa Ekonomik Topluluğu nezdindeki Daimi Temsilciliğinde Üçüncü ve İkinci Kâtip, Bağdat Büyükelçiliğinde, DB Orta Doğu Genel Müdürlüğünde, Birleşmiş Milletler Cenevre Daimi Temsilciliğinde Başkâtip, Cumhurbaşkanlığı nezdinde Özel Danışman ve Şube Müdürü, DB Avrupa Konseyi ve İnsan Hakları Dairesi Başkanı, Başbakanlık Basın Yayın ve Enformasyon Genel Müdürü, Paris Başkonsolosu, Dışişleri Bakanlığı Güvenlik ve İstihbarat Genel Müdür Yardımcısı, Genel Müdürü; Moskova, Roma ve San Marino Büyükelçilikleri ve Roma'daki Birleşmiş Milletler Kuruluşları nezdinde Daimi Temsilci olarak görev yaptı. Adalet Partisi Ankara Gençlik Kolları İl Sekreteri olarak görev aldı. Türkiye Felsefe ve İnsan Hakları Vakfı Kurucu Üyesi, Türkiye Felsefe Kurumu Üyesi oldu. TBMM XXVII. Dönem Aydın milletvekilidir. Büyükelçi Ayşe Sezgin ile evli olup bir çocuk babasıdır. Ayrıca Büyükelçi Aydın Sezgin, eski TBMM Başkanı İsmet Sezgin'in yeğenidir. 2002 seçimlerinde DYP'den Denizli milletvekili adayı olmuştur. İYİ Parti kurucusu olup 5 Nisan 2018 tarihi itibarıyla partinin uluslararası ilişkiler ve Türk Dünyasından sorumlu genel başkan yardımcısı olmuş ve bu görevi Ağustos 2018'e dek sürdürmüştür. Kasım 2019 itibarıyla İYİ Parti Siyaset Akademisi Başkanı olmuştur. 25 Eylül 2023 tarihinde İYİ Parti'den istifa etmiştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1820,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.533546",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 76,
+      "content": "Aydın Adnan Sezgin (d. 13 Temmuz 1956, Aydın), Türk büyükelçi ve siyasetçi.",
+      "char_count": 75,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 76,
+      "end_char": 1076,
+      "content": "== Yaşamı ve kariyeri == Ankara ve Paris'te ilk ve ortaöğrenimini tamamladı. Tevfik Fikret Lisesini bitirdi. Hacettepe Üniversitesi İktisadi ve İdari Bilimler Fakültesi İktisat Bölümünde lisansını, Panthéon - Assas Üniversitesinde Ekonomi ve Antropoloji alanında yüksek lisansını tamamladı. 1982'de Dışişleri Bakanlığında göreve başladı. Dışişleri Bakanlığı (DB) Uluslararası Ekonomik İşler Genel Müdürlüğünde Üçüncü Kâtip, Avrupa Ekonomik Topluluğu nezdindeki Daimi Temsilciliğinde Üçüncü ve İkinci Kâtip, Bağdat Büyükelçiliğinde, DB Orta Doğu Genel Müdürlüğünde, Birleşmiş Milletler Cenevre Daimi Temsilciliğinde Başkâtip, Cumhurbaşkanlığı nezdinde Özel Danışman ve Şube Müdürü, DB Avrupa Konseyi ve İnsan Hakları Dairesi Başkanı, Başbakanlık Basın Yayın ve Enformasyon Genel Müdürü, Paris Başkonsolosu, Dışişleri Bakanlığı Güvenlik ve İstihbarat Genel Müdür Yardımcısı, Genel Müdürü; Moskova, Roma ve San Marino Büyükelçilikleri ve Roma'daki Birleşmiş Milletler Kuruluşları nezdinde Daimi Temsilci",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 876,
+      "end_char": 1805,
+      "content": "losu, Dışişleri Bakanlığı Güvenlik ve İstihbarat Genel Müdür Yardımcısı, Genel Müdürü; Moskova, Roma ve San Marino Büyükelçilikleri ve Roma'daki Birleşmiş Milletler Kuruluşları nezdinde Daimi Temsilci olarak görev yaptı. Adalet Partisi Ankara Gençlik Kolları İl Sekreteri olarak görev aldı. Türkiye Felsefe ve İnsan Hakları Vakfı Kurucu Üyesi, Türkiye Felsefe Kurumu Üyesi oldu. TBMM XXVII. Dönem Aydın milletvekilidir. Büyükelçi Ayşe Sezgin ile evli olup bir çocuk babasıdır. Ayrıca Büyükelçi Aydın Sezgin, eski TBMM Başkanı İsmet Sezgin'in yeğenidir. 2002 seçimlerinde DYP'den Denizli milletvekili adayı olmuştur. İYİ Parti kurucusu olup 5 Nisan 2018 tarihi itibarıyla partinin uluslararası ilişkiler ve Türk Dünyasından sorumlu genel başkan yardımcısı olmuş ve bu görevi Ağustos 2018'e dek sürdürmüştür. Kasım 2019 itibarıyla İYİ Parti Siyaset Akademisi Başkanı olmuştur. 25 Eylül 2023 tarihinde İYİ Parti'den istifa etmiştir.",
+      "char_count": 929,
+      "token_estimate": 232
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dışişleri Bakanlığında ne zaman göreve başladı?",
+        "answer": "1982'de",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Aydın Adnan Sezgin'in hem diplomatik hem de siyasi kariyerindeki başlıca görevleri ve geçişleri nelerdir?",
+        "answer": "Aydın Adnan Sezgin, 1982'de Dışişleri Bakanlığında göreve başlayarak Avrupa Ekonomik Topluluğu nezdindeki Daimi Temsilcilik, Bağdat Büyükelçiliği, Birleşmiş Milletler Cenevre Daimi Temsilciliği, Paris Başkonsolosluğu, Moskova, Roma ve San Marino Büyükelçilikleri gibi birçok önemli diplomatik görevde bulunmuştur. Siyasi kariyerinde ise Adalet Partisi Ankara Gençlik Kolları İl Sekreterliği, 2002'de DYP'den milletvekili adaylığı, İYİ Parti kuruculuğu, Uluslararası İlişkiler ve Türk Dünyasından Sorumlu Genel Başkan Yardımcılığı ve Siyaset Akademisi Başkanlığı görevlerini üstlenmiş, 2023 yılında ise İYİ Parti'den istifa etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

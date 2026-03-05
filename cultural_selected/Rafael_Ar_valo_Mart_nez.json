@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "rafaelarvalomartnez_08a341d3",
+    "title": "Rafael Arévalo Martínez",
+    "url": "https://tr.wikipedia.org/wiki/Rafael_Ar%C3%A9valo_Mart%C3%ADnez",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:24.989988",
+    "content": "Rafael Arévalo Martínez (25 Temmuz 1884, Guatemala City – 12 Haziran 1975, Guatemala City), Guatemalalı bir yazardır. 20 yıldan fazla bir süre romancılık, kısa öykü yazarlığı, şairlik, diplomatlık ve Guatemala ulusal kütüphanesinin yöneticiliğini yapmıştır. Arévalo Martínez'in şöhreti azalmış olsa da, kısa öyküleri ve özellikle deAta benzeyen adam ve başkan Manuel Estrada Cabrera'nın biyografisi, ¡Ecce Pericles! eserleriyle hala önemli sayılmaktadır. Arévalo Martínez, 1926'dan 1946'ya kadar Guatemala Ulusal Kütüphanesi'nin direktörlüğünü yaptı, aynı zaman içerisinde bir yıllığına kendisinden daha ünlü hemşehrisi olan Nobel Ödülü sahibi siyasi ve edebi meslektaşıydı. Miguel Ángel Asturias'ın yerine Washington DC'deki Pan Amerikan Birliği nezdinde Guatemala'nın temsilcisi oldu. Arévalo Martínez Amerika Birleşik Devletleri'nin pişmanlık duymayan bir hayranı iken Asturias, ülkesini yağmaladığını hissettiği New Orleans merkezli United Fruit Company'nin (şu anda United Brands Company'nin bir parçası) sert bir eleştirmeniydi. == Eserleri == === Anlatı === Una vida, 1914 El adam que parecía un caballo, 1914 El Trovador Kolombiyalı, 1920 El sinyor Monitot, 1922 La oficina de paz de Orolandia, 1925 El mundo de los maharachías, 1938 Viaje a Ipanda, 1939 Manuel Aldano, 1914 (tiyatro) Ecce Perikles (Manuel Estrada Cabrera'nın biyografisi) === Şiir === Maya, 1911 Los Atormentados, 1914 Las rosas de Engaddi, 1927 Bir caminito así tarafından, 1947 \"Entregate por entero\", 1950 == Kaynakça == === Bibliyografi === === Eserleri === == Dış bağlantılar == Rafael Arevalo Martinez (Guatemalalı yazar) - Encyclopædia Britannica",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 223,
+      "char_count": 1629,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.137478",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Rafael Arévalo Martínez (25 Temmuz 1884, Guatemala City – 12 Haziran 1975, Guatemala City), Guatemalalı bir yazardır. 20 yıldan fazla bir süre romancılık, kısa öykü yazarlığı, şairlik, diplomatlık ve Guatemala ulusal kütüphanesinin yöneticiliğini yapmıştır. Arévalo Martínez'in şöhreti azalmış olsa da, kısa öyküleri ve özellikle deAta benzeyen adam ve başkan Manuel Estrada Cabrera'nın biyografisi, ¡Ecce Pericles! eserleriyle hala önemli sayılmaktadır. Arévalo Martínez, 1926'dan 1946'ya kadar Guatemala Ulusal Kütüphanesi'nin direktörlüğünü yaptı, aynı zaman içerisinde bir yıllığına kendisinden daha ünlü hemşehrisi olan Nobel Ödülü sahibi siyasi ve edebi meslektaşıydı. Miguel Ángel Asturias'ın yerine Washington DC'deki Pan Amerikan Birliği nezdinde Guatemala'nın temsilcisi oldu. Arévalo Martínez Amerika Birleşik Devletleri'nin pişmanlık duymayan bir hayranı iken Asturias, ülkesini yağmaladığını hissettiği New Orleans merkezli United Fruit Company'nin (şu anda United Brands Company'nin bir",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1034,
+      "content": "nez Amerika Birleşik Devletleri'nin pişmanlık duymayan bir hayranı iken Asturias, ülkesini yağmaladığını hissettiği New Orleans merkezli United Fruit Company'nin (şu anda United Brands Company'nin bir parçası) sert bir eleştirmeniydi.",
+      "char_count": 234,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0002",
+      "section": "=== Anlatı ===",
+      "heading_path": "=== Anlatı ===",
+      "start_char": 1050,
+      "end_char": 1348,
+      "content": "=== Anlatı === Una vida, 1914 El adam que parecía un caballo, 1914 El Trovador Kolombiyalı, 1920 El sinyor Monitot, 1922 La oficina de paz de Orolandia, 1925 El mundo de los maharachías, 1938 Viaje a Ipanda, 1939 Manuel Aldano, 1914 (tiyatro) Ecce Perikles (Manuel Estrada Cabrera'nın biyografisi)",
+      "char_count": 297,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0003",
+      "section": "=== Şiir ===",
+      "heading_path": "=== Şiir ===",
+      "start_char": 1348,
+      "end_char": 1485,
+      "content": "=== Şiir === Maya, 1911 Los Atormentados, 1914 Las rosas de Engaddi, 1927 Bir caminito así tarafından, 1947 \"Entregate por entero\", 1950",
+      "char_count": 136,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1538,
+      "end_char": 1629,
+      "content": "== Dış bağlantılar == Rafael Arevalo Martinez (Guatemalalı yazar) - Encyclopædia Britannica",
+      "char_count": 91,
+      "token_estimate": 22
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rafael Arévalo Martínez hangi yıllar arasında Guatemala Ulusal Kütüphanesi'nin direktörlüğünü yapmıştır?",
+        "answer": "1926'dan 1946'ya kadar",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rafael Arévalo Martínez ve Miguel Ángel Asturias'ın Amerika Birleşik Devletleri'ne ve Amerikan şirketlerinin Guatemala'daki rolüne ilişkin farklı bakış açıları nelerdi?",
+        "answer": "Rafael Arévalo Martínez, Amerika Birleşik Devletleri'nin pişmanlık duymayan bir hayranıydı. Buna karşılık, Miguel Ángel Asturias, ülkesini yağmaladığını hissettiği New Orleans merkezli United Fruit Company'nin sert bir eleştirmeniydi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

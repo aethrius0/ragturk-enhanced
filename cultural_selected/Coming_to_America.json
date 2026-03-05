@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "comingtoamerica_2904df05",
+    "title": "Coming to America",
+    "url": "https://tr.wikipedia.org/wiki/Coming_to_America",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:52.551545",
+    "content": "Amerika Rüyası (İngilizce özgün adıyla: Coming to America) John Landis tarafından yönetilen ve aynı zamanda başrolde de rol alan Eddie Murphy tarafından yaratılan bir hikâyeye dayanan 1988 Amerikan romantik komedi filmidir. Filmde ayrıca Arsenio Hall, James Earl Jones, Shari Headley ve John Amos da rol alıyor. Coming to America film serisinin ilk filmi olarak 29 Haziran 1988'de Amerika Birleşik Devletleri'nde gösterime girdi. Eddie Murphy, kurgusal Afrika ülkesi Zamunda'nın veliaht prensi Akeem Joffer'ı canlandırıyor ve evlenebileceği bir kadın bulma konusunda umutlarla Amerika'ya seyahat ediyor. 1989'da, bir dizi için asla seçilmemiş olmasına rağmen, planlanan bir yan televizyon dizisi için bir pilot yapıldı. Coming 2 America adlı devam filmi 5 Mart 2021'de gösterime girdi. == Konusu == Zengin Afrika ülkesi Zamunda'da veliaht prens Akeem Joffer 21. doğum gününde şımartılmış yaşam tarzından bıkar ve kendisi için daha fazlasını yapmak ister. Ebeveynleri Kral Jaffe ve Kraliçe Aoleon ona müstakbel bir gelin bulunca Akeem harekete geçer. Onu sosyal statüsü için değil kendisi için seven bağımsız bir kadın arayan Akeem ve en yakın arkadaşı ve yardımcısı Semmi, New York City'nin Queens ilçesine seyahat eder ve Long Island City mahallesinde fakir yabancı öğrencilerin bulunduğu bakımsız bir apartman dairesi kiralar. == Kaynakça == == Dış bağlantılar == IMDb'de Coming to America Paramount Movies 3 Şubat 2021 tarihinde Wayback Machine sitesinde arşivlendi. Box Office Mojo'da Coming to America Rotten Tomatoes'ta Coming to America Filming Locations",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 225,
+      "char_count": 1561,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.743618",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 786,
+      "content": "Amerika Rüyası (İngilizce özgün adıyla: Coming to America) John Landis tarafından yönetilen ve aynı zamanda başrolde de rol alan Eddie Murphy tarafından yaratılan bir hikâyeye dayanan 1988 Amerikan romantik komedi filmidir. Filmde ayrıca Arsenio Hall, James Earl Jones, Shari Headley ve John Amos da rol alıyor. Coming to America film serisinin ilk filmi olarak 29 Haziran 1988'de Amerika Birleşik Devletleri'nde gösterime girdi. Eddie Murphy, kurgusal Afrika ülkesi Zamunda'nın veliaht prensi Akeem Joffer'ı canlandırıyor ve evlenebileceği bir kadın bulma konusunda umutlarla Amerika'ya seyahat ediyor. 1989'da, bir dizi için asla seçilmemiş olmasına rağmen, planlanan bir yan televizyon dizisi için bir pilot yapıldı. Coming 2 America adlı devam filmi 5 Mart 2021'de gösterime girdi.",
+      "char_count": 785,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 786,
+      "end_char": 1329,
+      "content": "== Konusu == Zengin Afrika ülkesi Zamunda'da veliaht prens Akeem Joffer 21. doğum gününde şımartılmış yaşam tarzından bıkar ve kendisi için daha fazlasını yapmak ister. Ebeveynleri Kral Jaffe ve Kraliçe Aoleon ona müstakbel bir gelin bulunca Akeem harekete geçer. Onu sosyal statüsü için değil kendisi için seven bağımsız bir kadın arayan Akeem ve en yakın arkadaşı ve yardımcısı Semmi, New York City'nin Queens ilçesine seyahat eder ve Long Island City mahallesinde fakir yabancı öğrencilerin bulunduğu bakımsız bir apartman dairesi kiralar.",
+      "char_count": 542,
+      "token_estimate": 135
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1344,
+      "end_char": 1561,
+      "content": "== Dış bağlantılar == IMDb'de Coming to America Paramount Movies 3 Şubat 2021 tarihinde Wayback Machine sitesinde arşivlendi. Box Office Mojo'da Coming to America Rotten Tomatoes'ta Coming to America Filming Locations",
+      "char_count": 217,
+      "token_estimate": 54
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Amerika Rüyası (Coming to America) filminin yönetmeni kimdir?",
+        "answer": "John Landis",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Amerika Rüyası filmindeki Prens Akeem Joffer'ı, ülkesi Zamunda'daki şımartılmış yaşam tarzından bıkması ve evlilik beklentilerinden kaçınmak istemesi sonucunda Amerika'ya seyahat etmeye iten temel sebepler nelerdir?",
+        "answer": "Prens Akeem Joffer, Zamunda'daki şımartılmış yaşam tarzından sıkılmıştır ve ebeveynlerinin kendisine bulduğu müstakbel bir geline karşı çıkarak, kendisini sosyal statüsü için değil, bizzat kendisi için sevecek bağımsız bir kadın bulma umuduyla Amerika'ya seyahat eder.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

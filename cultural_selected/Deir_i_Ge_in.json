@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "deirigein_1e6bd0f1",
+    "title": "Deir i Geçin",
+    "url": "https://tr.wikipedia.org/wiki/Deir_i_Ge%C3%A7in",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:56.281783",
+    "content": "Deir i Geçin, İran'da, Ray'den Kum'a giden tarihi yol üzerinde, Kavir Milli Parkı'nın merkezinde yer alan bir kervansaraydır. Deir i Geçin, İran'daki en büyük kervansaraylardan biridir ve bu eserin kendine özgü özellikleri onu \"İran kervansaraylarının anası\" olarak adlandırmıştır. Deir i Geçin, Kum şehrinin orta kesiminde, Kum şehrinin 80 km kuzeydoğusunda (Garmsar otoyolunun 60 km) ve Varamin'in 35 km güneybatısında yer almaktadır. Alçıdan yapılmış bir kubbesi olduğu için bu binaya Deir i Geçin adı verilmişse de, günümüzde böyle bir kubbe yoktur. Kervansarayın binası Sasani dönemine ait olup, Selçuklu, Safevi ve Kaçar dönemlerinde restore edilerek yenilenmiştir. Bugünkü şekli Safevi dönemine aittir. Bu kervansaray, \"Dir Yolu\" olarak bilinen, İsfahan'a giden antik yol üzerinde yer almaktadır. Emin el-Sultan döneminde Tahran'dan Kum'a giden yolun Deir'den Hasan Abad'a değiştirilmesinin ardından Deir i Geçin terk edildi ve yerel halk burayı hayvancılık için kullandı. Deir i Geçin binası Selçuklu döneminden kalma dört revak şeklinde olup yaklaşık 12.000 metrekare alana sahiptir. İçerisindeki mekanlar insan, hayvan ve refah alanları olarak ayrılabilir. Bu yapının köşelerinde dört yuvarlak kule ve güney duvarının ortasında yer alan ana girişin iki yanında yarı oval tabanlı iki kule yer almaktadır. Deir i Geçin'de ayrıca 44 konut odası veya hücresi, 4 büyük salon (ahır), bir cami, özel bir ahır (bağımsız bir birim ve bir soylu bölümü), bir yem deposu, bir değirmen, bir banyo ve 6 tuvalet bulunmaktadır. Deir i Geçin'de kullanılan malzemeler tuğla, kireç, kil ve alçıdır . Muhtemelen bir Sasani ateş tapınağının yerine inşa edilen cami dört kemerlidir ve içinde herhangi bir süsleme görülmemektedir. Deir i Geçin Kervansarayı çevresinde bir dizi yapı vardır; Batı cephesinin arkasında ve hamamın yanında iki hazne gibi, güneybatı cephesinde mezarları tuğla ile örtülü olan bir tuğla ocağı, baraj ve İslam dönemine ait bir mezarlık yer almaktadır. Kervansarayın 500 metre doğusunda, Kaçarlar dönemine ait, kale şeklinde, tek giriş kapısı olan kerpiç bir yapı vardır.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 302,
+      "char_count": 2083,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.318029",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Deir i Geçin, İran'da, Ray'den Kum'a giden tarihi yol üzerinde, Kavir Milli Parkı'nın merkezinde yer alan bir kervansaraydır. Deir i Geçin, İran'daki en büyük kervansaraylardan biridir ve bu eserin kendine özgü özellikleri onu \"İran kervansaraylarının anası\" olarak adlandırmıştır. Deir i Geçin, Kum şehrinin orta kesiminde, Kum şehrinin 80 km kuzeydoğusunda (Garmsar otoyolunun 60 km) ve Varamin'in 35 km güneybatısında yer almaktadır. Alçıdan yapılmış bir kubbesi olduğu için bu binaya Deir i Geçin adı verilmişse de, günümüzde böyle bir kubbe yoktur. Kervansarayın binası Sasani dönemine ait olup, Selçuklu, Safevi ve Kaçar dönemlerinde restore edilerek yenilenmiştir. Bugünkü şekli Safevi dönemine aittir. Bu kervansaray, \"Dir Yolu\" olarak bilinen, İsfahan'a giden antik yol üzerinde yer almaktadır. Emin el-Sultan döneminde Tahran'dan Kum'a giden yolun Deir'den Hasan Abad'a değiştirilmesinin ardından Deir i Geçin terk edildi ve yerel halk burayı hayvancılık için kullandı. Deir i Geçin binası ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "ır. Emin el-Sultan döneminde Tahran'dan Kum'a giden yolun Deir'den Hasan Abad'a değiştirilmesinin ardından Deir i Geçin terk edildi ve yerel halk burayı hayvancılık için kullandı. Deir i Geçin binası Selçuklu döneminden kalma dört revak şeklinde olup yaklaşık 12.000 metrekare alana sahiptir. İçerisindeki mekanlar insan, hayvan ve refah alanları olarak ayrılabilir. Bu yapının köşelerinde dört yuvarlak kule ve güney duvarının ortasında yer alan ana girişin iki yanında yarı oval tabanlı iki kule yer almaktadır. Deir i Geçin'de ayrıca 44 konut odası veya hücresi, 4 büyük salon (ahır), bir cami, özel bir ahır (bağımsız bir birim ve bir soylu bölümü), bir yem deposu, bir değirmen, bir banyo ve 6 tuvalet bulunmaktadır. Deir i Geçin'de kullanılan malzemeler tuğla, kireç, kil ve alçıdır . Muhtemelen bir Sasani ateş tapınağının yerine inşa edilen cami dört kemerlidir ve içinde herhangi bir süsleme görülmemektedir. Deir i Geçin Kervansarayı çevresinde bir dizi yapı vardır; Batı cephesinin arkasın",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2083,
+      "content": "n bir Sasani ateş tapınağının yerine inşa edilen cami dört kemerlidir ve içinde herhangi bir süsleme görülmemektedir. Deir i Geçin Kervansarayı çevresinde bir dizi yapı vardır; Batı cephesinin arkasında ve hamamın yanında iki hazne gibi, güneybatı cephesinde mezarları tuğla ile örtülü olan bir tuğla ocağı, baraj ve İslam dönemine ait bir mezarlık yer almaktadır. Kervansarayın 500 metre doğusunda, Kaçarlar dönemine ait, kale şeklinde, tek giriş kapısı olan kerpiç bir yapı vardır.",
+      "char_count": 483,
+      "token_estimate": 120
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Deir i Geçin kervansarayı, hangi döneme ait olarak inşa edilmiş ve hangi dönemde günümüzdeki şeklini almıştır?",
+        "answer": "Kervansarayın binası Sasani dönemine aittir ve günümüzdeki şekli Safevi dönemine aittir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Deir i Geçin Kervansarayı'nın Sasani döneminden günümüze kadar olan tarihsel gelişimini ve işlevsel değişimlerini, yapının restore edildiği dönemleri ve terk edilmesine yol açan olayı belirterek açıklayınız.",
+        "answer": "Deir i Geçin Kervansarayı, Sasani dönemine ait bir yapı olup, Selçuklu, Safevi ve Kaçar dönemlerinde restore edilerek yenilenmiştir; bugünkü şekli Safevi dönemine aittir. Yapının Selçuklu döneminden kalma dört revaklı şekli, insan, hayvan ve refah alanlarını içeren 44 konut odası, 4 ahır, cami, banyo ve tuvalet gibi geniş tesisleriyle bir kervansaray olarak işlev görmüştür. Cami ise muhtemelen bir Sasani ateş tapınağının yerine inşa edilmiştir. Kervansaray, Emin el-Sultan döneminde Tahran'dan Kum'a giden yolun Deir'den Hasan Abad'a değiştirilmesinin ardından terk edilmiş ve yerel halk tarafından hayvancılık için kullanılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

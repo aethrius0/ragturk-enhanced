@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "rustockbotnet_1941a9d5",
+    "title": "Rustock botnet",
+    "url": "https://tr.wikipedia.org/wiki/Rustock_botnet",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:40.325404",
+    "content": "Rustock botnet, 2006'dan Mart 2011'e kadar çalışan bir botnet'ti . Microsoft Windows çalıştıran bilgisayarlardan oluşuyordu ve virüs bulaşmış bir bilgisayar saatte 25.000 kadar spam mesaj gönderebiliyordu. Faaliyetlerinin zirvesinde, güvenliği ihlal edilmiş makine başına dakikada ortalama 192 istenmeyen posta mesajı gönderdi. Botnet'in 150.000 ila 2.400.000 cihazdan oluştuğu iddiasıyla, boyutuna ilişkin bildirilen tahminler kaynaklar arasında büyük farklılıklar gösteriyor. Botnet boyutunu artırdı ve çoğunlukla kendi kendini yayma yoluyla varlığını sürdürdü; sonrasında yazılım, hedef makineyi botnet'e dahil edecek bir truva atı içeren ve diğer makinelere bulaşmayı hedefleyen birçok kötü amaçlı e-posta gönderdi. Botnet'in komuta ve kontrol sunucularının çoğunu barındırmaktan sorumlu bir ISP olan McColo'nun 2008'de kaldırılmasından sonra, Botnet ağır darbe aldı. McColo, İnternet bağlantısını birkaç saatliğine yeniden sağladı ve bu saatlerde saniyede 15 Mbit'e kadar trafik gözlemlendi, bu muhtemelen komuta ve kontrolün Rusya'ya devredildiğini gösteriyor. Bu eylemler küresel spam düzeylerini geçici olarak yaklaşık %75 oranında azaltsa da, etkisi uzun sürmedi: istenmeyen posta düzeyleri Ocak ve Haziran 2009 arasında %60 arttı ve bunun %40'ı Rustock botnet'e bağlandı. 16 Mart 2011'de, botnet, başlıca İnternet servis sağlayıcıları ve yazılım satıcıları tarafından koordineli bir çaba olarak bildirme yoluyla kaldırıldı. Ertesi gün, b107 Operasyonu adı verilen yayından kaldırmanın Microsoft, ABD federal kolluk kuvvetleri, FireEye ve Washington Üniversitesi'nin eylemi olduğu ortaya çıktı. Microsoft, Rustock botnet'ine karışan kişileri yakalamak için 18 Temmuz 2011'de \"bu tür kişi(ler)in kimliğinin tespit edilmesi, tutuklanması ve mahkum edilmesiyle sonuçlanan yeni bilgiler için 250.000 ABD Doları tutarında parasal bir ödül\" teklif ediyor. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 238,
+      "char_count": 1873,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.685958",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Rustock botnet, 2006'dan Mart 2011'e kadar çalışan bir botnet'ti . Microsoft Windows çalıştıran bilgisayarlardan oluşuyordu ve virüs bulaşmış bir bilgisayar saatte 25.000 kadar spam mesaj gönderebiliyordu. Faaliyetlerinin zirvesinde, güvenliği ihlal edilmiş makine başına dakikada ortalama 192 istenmeyen posta mesajı gönderdi. Botnet'in 150.000 ila 2.400.000 cihazdan oluştuğu iddiasıyla, boyutuna ilişkin bildirilen tahminler kaynaklar arasında büyük farklılıklar gösteriyor. Botnet boyutunu artırdı ve çoğunlukla kendi kendini yayma yoluyla varlığını sürdürdü; sonrasında yazılım, hedef makineyi botnet'e dahil edecek bir truva atı içeren ve diğer makinelere bulaşmayı hedefleyen birçok kötü amaçlı e-posta gönderdi. Botnet'in komuta ve kontrol sunucularının çoğunu barındırmaktan sorumlu bir ISP olan McColo'nun 2008'de kaldırılmasından sonra, Botnet ağır darbe aldı. McColo, İnternet bağlantısını birkaç saatliğine yeniden sağladı ve bu saatlerde saniyede 15 Mbit'e kadar trafik gözlemlendi, bu ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "olan McColo'nun 2008'de kaldırılmasından sonra, Botnet ağır darbe aldı. McColo, İnternet bağlantısını birkaç saatliğine yeniden sağladı ve bu saatlerde saniyede 15 Mbit'e kadar trafik gözlemlendi, bu muhtemelen komuta ve kontrolün Rusya'ya devredildiğini gösteriyor. Bu eylemler küresel spam düzeylerini geçici olarak yaklaşık %75 oranında azaltsa da, etkisi uzun sürmedi: istenmeyen posta düzeyleri Ocak ve Haziran 2009 arasında %60 arttı ve bunun %40'ı Rustock botnet'e bağlandı. 16 Mart 2011'de, botnet, başlıca İnternet servis sağlayıcıları ve yazılım satıcıları tarafından koordineli bir çaba olarak bildirme yoluyla kaldırıldı. Ertesi gün, b107 Operasyonu adı verilen yayından kaldırmanın Microsoft, ABD federal kolluk kuvvetleri, FireEye ve Washington Üniversitesi'nin eylemi olduğu ortaya çıktı. Microsoft, Rustock botnet'ine karışan kişileri yakalamak için 18 Temmuz 2011'de \"bu tür kişi(ler)in kimliğinin tespit edilmesi, tutuklanması ve mahkum edilmesiyle sonuçlanan yeni bilgiler için 250",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1858,
+      "content": "tı. Microsoft, Rustock botnet'ine karışan kişileri yakalamak için 18 Temmuz 2011'de \"bu tür kişi(ler)in kimliğinin tespit edilmesi, tutuklanması ve mahkum edilmesiyle sonuçlanan yeni bilgiler için 250.000 ABD Doları tutarında parasal bir ödül\" teklif ediyor.",
+      "char_count": 258,
+      "token_estimate": 64
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rustock botnet hangi yıllar arasında faaliyet gösterdi?",
+        "answer": "2006'dan Mart 2011'e kadar.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "McColo'nun 2008'de kaldırılmasından sonra Rustock botnet'inin faaliyetleri nasıl değişti ve nihayetinde 2011'de nasıl ortadan kaldırıldı?",
+        "answer": "McColo'nun 2008'de kaldırılmasıyla Rustock botnet'i ağır bir darbe alarak küresel spam seviyelerini geçici olarak %75 oranında azalttı. Ancak, bu etki uzun sürmedi ve 2009'da spam seviyeleri tekrar %60 arttı, bunun %40'ı Rustock'a atfedildi, bu da komuta ve kontrolün Rusya'ya devredildiğini gösteriyordu. Botnet, 16 Mart 2011'de Microsoft, ABD federal kolluk kuvvetleri, FireEye ve Washington Üniversitesi'nin koordineli çabalarıyla Operation b107 adı verilen bir işlemle kaldırıldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

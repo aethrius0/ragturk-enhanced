@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "elkonevada_1f4307ba",
+    "title": "Elko, Nevada",
+    "url": "https://tr.wikipedia.org/wiki/Elko%2C_Nevada",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:34.268528",
+    "content": "Elko, ABD'nin Nevada eyaletinin kuzeydoğusundaki Elko County'de bulunan bir şehirdir. Şehrin nüfusu 2020 Nüfus Sayımı'na göre 20.564 kişidir. Şehir, Humboldt Nehri'nin iki yakasına doğru uzanmıştır. Adını verdiği 53.702 nüfuslu Elko County'nin başkenti olan Elko 200 km'lik bir alan boyunca en büyük şehir konumundadır. Bu yüzden şehrin sloganı olarak \"Kuzeydoğu Nevada'nın Kalbi\" kullanılır. == Tarih == Tarihi Kaliforniya göç yolu üzerinde yer alan Elko, Kaliforniya'dan Utah'a doğru inşa edilen demiryolu hattının burada sona ermesi nedeniyle Central Pacific Railroad tarafından kuruldu. Demiryolu çalışanları şehri terk ettikten sonra şehir çiftçilik, madencilik, demiryolu nakliyesi gibi sektörlere evsahipliği yaparak gelişmeye devam etti. Elko isminin Central Pacific Railroad yöneticisi Charles Crocker tarafından civardaki Kanada geyiği sürülerinin fazlalığından esinlenerek verildiği söylenir. İngilizcesi Elk olan bu kelimeye Crocker \"O\" harfi eklemiş ve şehir böylece Elko adını almıştır. Bu isme ait kesin bir kanıt bulunmasa da yaygın olarak hikâyenin kabul gören versiyonu budur. Şehre ilk yerleşimler 1868'de başlamasına rağmen, Elko resmi olarak ancak 1917'de şehir sıfatını alabilmiştir. == İklim == Yarı kurak iklimin özelliklerini taşıyan şehir yılın en soğuk ayını günlük ortalama −3.8 °C ile ocak ayında yaşar. Yılın en sıcak ayı ise günlük ortalama 21.2 °C ile temmuz ayıdır. Yılda genellikle 130 gün güneşlidir. Şehirde kaydedilen en yüksek sıcaklık 42 °C ile 4 Temmuz 1981'de, en soğuk sıcaklık ise −42 °C ile 21 Aralık 1937'de yaşanmıştır. Günlük en fazla yağış 104.9 mm ile 27 Ağustos 1970'te, aylık en fazla kar yağışı ise 175 cm ile Ocak 1890'da kaydedilmiştir. == Ekonomi == Elko'nun ekonomisi genel olarak altın madenciliği, çiftçilik ve turizm odaklı işlere dayanır. Şehir Nevada'nın altın kuşağı olarak görülür. Konumu ve sert çöl koşulları şehre farklı sanayi sektörlerinin getirilmesini zorlaştırmaktadır. Şehirde kumarhaneler ve genelevler yasal statüdedir. == Ulaşım == Şehir Interstate 80 yolu boyunca Salt Lake City ve Reno arasındaki en büyük şehirdir. Interstate yoluna ek olarak Nevada State Route 225 Elko'yu Owyhee'ye ve Idaho'nun güneyine bağlarken, Nevada State Route 227 şehrin güneydoğusundaki Spring Creek ve Lamoille kadar uzanır. Greyhound'un şehre otobüs seferleri olmakla birlikte Amtrak'ın California Zephyr treni günde iki kez Elko Tren İstasyonu’nda durmaktadır. Ayrıca şehirdeki Elko Bölgesel Havalimanı’ndan Salt Lake City'e seferler düzenlenmektedir. == Kaynakça == == Dış bağlantılar == Elko resmi sitesi 6 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. Elko Chamber of Commerce 7 Temmuz 2015 tarihinde Wayback Machine sitesinde arşivlendi. Elko County 6 Temmuz 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 388,
+      "char_count": 2786,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.435333",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 393,
+      "content": "Elko, ABD'nin Nevada eyaletinin kuzeydoğusundaki Elko County'de bulunan bir şehirdir. Şehrin nüfusu 2020 Nüfus Sayımı'na göre 20.564 kişidir. Şehir, Humboldt Nehri'nin iki yakasına doğru uzanmıştır. Adını verdiği 53.702 nüfuslu Elko County'nin başkenti olan Elko 200 km'lik bir alan boyunca en büyük şehir konumundadır. Bu yüzden şehrin sloganı olarak \"Kuzeydoğu Nevada'nın Kalbi\" kullanılır.",
+      "char_count": 392,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 393,
+      "end_char": 1206,
+      "content": "== Tarih == Tarihi Kaliforniya göç yolu üzerinde yer alan Elko, Kaliforniya'dan Utah'a doğru inşa edilen demiryolu hattının burada sona ermesi nedeniyle Central Pacific Railroad tarafından kuruldu. Demiryolu çalışanları şehri terk ettikten sonra şehir çiftçilik, madencilik, demiryolu nakliyesi gibi sektörlere evsahipliği yaparak gelişmeye devam etti. Elko isminin Central Pacific Railroad yöneticisi Charles Crocker tarafından civardaki Kanada geyiği sürülerinin fazlalığından esinlenerek verildiği söylenir. İngilizcesi Elk olan bu kelimeye Crocker \"O\" harfi eklemiş ve şehir böylece Elko adını almıştır. Bu isme ait kesin bir kanıt bulunmasa da yaygın olarak hikâyenin kabul gören versiyonu budur. Şehre ilk yerleşimler 1868'de başlamasına rağmen, Elko resmi olarak ancak 1917'de şehir sıfatını alabilmiştir.",
+      "char_count": 812,
+      "token_estimate": 203
+    },
+    {
+      "id": "c0002",
+      "section": "== İklim ==",
+      "heading_path": "== İklim ==",
+      "start_char": 1206,
+      "end_char": 1691,
+      "content": "== İklim == Yarı kurak iklimin özelliklerini taşıyan şehir yılın en soğuk ayını günlük ortalama −3.8 °C ile ocak ayında yaşar. Yılın en sıcak ayı ise günlük ortalama 21.2 °C ile temmuz ayıdır. Yılda genellikle 130 gün güneşlidir. Şehirde kaydedilen en yüksek sıcaklık 42 °C ile 4 Temmuz 1981'de, en soğuk sıcaklık ise −42 °C ile 21 Aralık 1937'de yaşanmıştır. Günlük en fazla yağış 104.9 mm ile 27 Ağustos 1970'te, aylık en fazla kar yağışı ise 175 cm ile Ocak 1890'da kaydedilmiştir.",
+      "char_count": 484,
+      "token_estimate": 121
+    },
+    {
+      "id": "c0003",
+      "section": "== Ekonomi ==",
+      "heading_path": "== Ekonomi ==",
+      "start_char": 1691,
+      "end_char": 1994,
+      "content": "== Ekonomi == Elko'nun ekonomisi genel olarak altın madenciliği, çiftçilik ve turizm odaklı işlere dayanır. Şehir Nevada'nın altın kuşağı olarak görülür. Konumu ve sert çöl koşulları şehre farklı sanayi sektörlerinin getirilmesini zorlaştırmaktadır. Şehirde kumarhaneler ve genelevler yasal statüdedir.",
+      "char_count": 302,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0004",
+      "section": "== Ulaşım ==",
+      "heading_path": "== Ulaşım ==",
+      "start_char": 1994,
+      "end_char": 2510,
+      "content": "== Ulaşım == Şehir Interstate 80 yolu boyunca Salt Lake City ve Reno arasındaki en büyük şehirdir. Interstate yoluna ek olarak Nevada State Route 225 Elko'yu Owyhee'ye ve Idaho'nun güneyine bağlarken, Nevada State Route 227 şehrin güneydoğusundaki Spring Creek ve Lamoille kadar uzanır. Greyhound'un şehre otobüs seferleri olmakla birlikte Amtrak'ın California Zephyr treni günde iki kez Elko Tren İstasyonu’nda durmaktadır. Ayrıca şehirdeki Elko Bölgesel Havalimanı’ndan Salt Lake City'e seferler düzenlenmektedir.",
+      "char_count": 515,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2525,
+      "end_char": 2786,
+      "content": "== Dış bağlantılar == Elko resmi sitesi 6 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. Elko Chamber of Commerce 7 Temmuz 2015 tarihinde Wayback Machine sitesinde arşivlendi. Elko County 6 Temmuz 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 261,
+      "token_estimate": 65
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Elko şehri hangi şirket tarafından kurulmuştur?",
+        "answer": "Central Pacific Railroad.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Central Pacific Railroad tarafından kurulan ve adını alan Elko'nun kuruluşundan itibaren gelişimi, şehrin \"Kuzeydoğu Nevada'nın Kalbi\" olarak tanımlanmasında nasıl bir rol oynamıştır?",
+        "answer": "Elko, başlangıçta Central Pacific Railroad tarafından Kaliforniya'dan Utah'a doğru uzanan demiryolu hattının son noktası olarak kurulmuş ve adını civardaki Kanada geyiği sürülerinden almıştır. Demiryolu çalışanları ayrıldıktan sonra bile çiftçilik, madencilik ve demiryolu nakliyesi gibi sektörlerle gelişmeye devam etmiştir. Bu tarihi gelişim ve ekonomik çeşitlilik sayesinde, 200 km'lik bir alanda en büyük şehir haline gelerek \"Kuzeydoğu Nevada'nın Kalbi\" sloganıyla bölgesel öneme sahip olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

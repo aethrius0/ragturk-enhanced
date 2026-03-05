@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "lucfrieden_c54a6046",
+    "title": "Luc Frieden",
+    "url": "https://tr.wikipedia.org/wiki/Luc_Frieden",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:09.724043",
+    "content": "Luc Frieden (d. 16 Eylül 1963, Esch-sur-Alzette) 2023 yılı itibarıyla Lüksemburg başbakanıdır. == Eğitimi == Lüksemburg'da hukuk eğitimi almış, Paris I-Pantheon-Sorbonne Üniversitesi'nde hukuk alanında 1986 yılında yüksek lisans yapmış, Cambridge Üniversitesi'nde 1987 yılında Karşılaştırmalı Hukuk ve Hukuk Felsefesi alanında yüksek lisans ve Harvard Üniversitesi'nde 1988'de yüksek lisans eğitimini almıştır. == Mesleki Kariyeri == 1989'da Lüksemburg barosuna kayıtlı avukat olarak görev yapmaya başlamıştır. Gelecekte Lüksemburg Üniversitesi adını alan kurumda hukuk dersleri vermiştir. RTL Lüksemburg Radyosu'nda yayınlanan hukuki ve uluslararası siyasi konulara dair programlara katılmıştır. == Siyasi Kariyeri == 1994'te Hristiyan Sosyal Halk Partisi'nden milletvekili seçilmiştir. 1998 yılında Adalet, Bütçe ve Parlamento ile İlişkiler Bakanı olarak atanmış, 1999-2009 yılları arasında ise Adalet, Bütçe ve Hazine Bakanı olmuştur ayrıca 2004-2006 yılları arasında ise Savunma Bakanlığı ve 2009-2013 yılları arasında Maliye Bakanlığı görevini yürütmüştür. 2023 yılında yapılan seçimlerle beraber 10 yıl aradan sonra tekrar milletvekili seçilmiştir. == Siyaset Sonrası == Siyasetten ayrıldıktan sonra Deutsche Bank'a katılarak başkan yardımcısı olmuştur. Mart 2015 tarihi itibarıyla Deutsche Bank Lüksemburg Denetim Kurulu başkanı olmuştur. == Özel Yaşamı == Evli ve 2 çocuk babasıdır. == Görevleri == 4 Şubat 1998 - 7 Ağustos 1999: Parlamento ile İlişkiler Bakanı 4 Şubat 1998 - 23 Temmuz 2009: Adalet Bakanı 4 Şubat 1998 - 23 Temmuz 2009: Bütçe Bakanı 7 Ağustos 1999 - 23 Temmuz 2009: Hazine Bakanı 31 Temmuz 2004 - 22 Şubat 2006: Savunma Bakanı 23 Temmuz 2009 - 4 Aralık 2013: Maliye Bakanı 30 Nisan 2013 - 4 Aralık 2013: Medya ve İletişim Bakanı 17 Kasım 2023 - ... : Başbakan",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 252,
+      "char_count": 1785,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.630844",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 95,
+      "content": "Luc Frieden (d. 16 Eylül 1963, Esch-sur-Alzette) 2023 yılı itibarıyla Lüksemburg başbakanıdır.",
+      "char_count": 94,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0001",
+      "section": "== Eğitimi ==",
+      "heading_path": "== Eğitimi ==",
+      "start_char": 95,
+      "end_char": 411,
+      "content": "== Eğitimi == Lüksemburg'da hukuk eğitimi almış, Paris I-Pantheon-Sorbonne Üniversitesi'nde hukuk alanında 1986 yılında yüksek lisans yapmış, Cambridge Üniversitesi'nde 1987 yılında Karşılaştırmalı Hukuk ve Hukuk Felsefesi alanında yüksek lisans ve Harvard Üniversitesi'nde 1988'de yüksek lisans eğitimini almıştır.",
+      "char_count": 315,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0002",
+      "section": "== Mesleki Kariyeri ==",
+      "heading_path": "== Mesleki Kariyeri ==",
+      "start_char": 411,
+      "end_char": 697,
+      "content": "== Mesleki Kariyeri == 1989'da Lüksemburg barosuna kayıtlı avukat olarak görev yapmaya başlamıştır. Gelecekte Lüksemburg Üniversitesi adını alan kurumda hukuk dersleri vermiştir. RTL Lüksemburg Radyosu'nda yayınlanan hukuki ve uluslararası siyasi konulara dair programlara katılmıştır.",
+      "char_count": 285,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0003",
+      "section": "== Siyasi Kariyeri ==",
+      "heading_path": "== Siyasi Kariyeri ==",
+      "start_char": 697,
+      "end_char": 1155,
+      "content": "== Siyasi Kariyeri == 1994'te Hristiyan Sosyal Halk Partisi'nden milletvekili seçilmiştir. 1998 yılında Adalet, Bütçe ve Parlamento ile İlişkiler Bakanı olarak atanmış, 1999-2009 yılları arasında ise Adalet, Bütçe ve Hazine Bakanı olmuştur ayrıca 2004-2006 yılları arasında ise Savunma Bakanlığı ve 2009-2013 yılları arasında Maliye Bakanlığı görevini yürütmüştür. 2023 yılında yapılan seçimlerle beraber 10 yıl aradan sonra tekrar milletvekili seçilmiştir.",
+      "char_count": 457,
+      "token_estimate": 114
+    },
+    {
+      "id": "c0004",
+      "section": "== Siyaset Sonrası ==",
+      "heading_path": "== Siyaset Sonrası ==",
+      "start_char": 1155,
+      "end_char": 1346,
+      "content": "== Siyaset Sonrası == Siyasetten ayrıldıktan sonra Deutsche Bank'a katılarak başkan yardımcısı olmuştur. Mart 2015 tarihi itibarıyla Deutsche Bank Lüksemburg Denetim Kurulu başkanı olmuştur.",
+      "char_count": 190,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0005",
+      "section": "== Özel Yaşamı ==",
+      "heading_path": "== Özel Yaşamı ==",
+      "start_char": 1346,
+      "end_char": 1391,
+      "content": "== Özel Yaşamı == Evli ve 2 çocuk babasıdır.",
+      "char_count": 44,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0006",
+      "section": "== Görevleri ==",
+      "heading_path": "== Görevleri ==",
+      "start_char": 1391,
+      "end_char": 1785,
+      "content": "== Görevleri == 4 Şubat 1998 - 7 Ağustos 1999: Parlamento ile İlişkiler Bakanı 4 Şubat 1998 - 23 Temmuz 2009: Adalet Bakanı 4 Şubat 1998 - 23 Temmuz 2009: Bütçe Bakanı 7 Ağustos 1999 - 23 Temmuz 2009: Hazine Bakanı 31 Temmuz 2004 - 22 Şubat 2006: Savunma Bakanı 23 Temmuz 2009 - 4 Aralık 2013: Maliye Bakanı 30 Nisan 2013 - 4 Aralık 2013: Medya ve İletişim Bakanı 17 Kasım 2023 - ... : Başbakan",
+      "char_count": 394,
+      "token_estimate": 98
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1998 yılında hangi bakanlık görevine atanmıştır?",
+        "answer": "Adalet, Bütçe ve Parlamento ile İlişkiler Bakanı olarak atanmıştır.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Lüksemburg Başbakanı Luc Frieden'in eğitim geçmişi, uluslararası alandaki yeterliliğine nasıl işaret etmektedir?",
+        "answer": "Lüksemburg Başbakanı Luc Frieden, Paris I-Pantheon-Sorbonne Üniversitesi'nde hukuk alanında yüksek lisans, Cambridge Üniversitesi'nde Karşılaştırmalı Hukuk ve Hukuk Felsefesi alanında yüksek lisans ve Harvard Üniversitesi'nde yüksek lisans eğitimi alarak uluslararası hukuk ve karşılaştırmalı hukuk alanındaki geniş akademik yeterliliğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

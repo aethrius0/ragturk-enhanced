@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "rizeninileleri_e170083a",
+    "title": "Rize'nin ilçeleri",
+    "url": "https://tr.wikipedia.org/wiki/Rize%27nin_il%C3%A7eleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:09.885458",
+    "content": "Rize ilinin ilçeleri, Rize (il merkezi) Ardeşen Çamlıhemşin Çayeli Derepazarı Fındıklı Güneysu Hemşin İkizdere İyidere Kalkandere Pazar == Kaymakamlar == Görevde olan vali ve kaymakamlar aşağıdaki tabloda gösterilmiştir. (Mayıs 2025) == Belediyeler == === Belediye Başkanları === 31 Mart 2024 Yerel seçimleri sonucu seçilerek göreve başlayan ilçe belediye başkanlıklarının bilgileri aşağıdadır. 2024Yerel seçimleri sonucu seçilerek göreve başlayan belde belediye başkanlıklarının bilgileri aşağıdadır. === Belediye Meclisleri === Rize İl Genel Meclisi üye sayısı 30'dur. Rize Belediyesi meclisi üye sayısı 31'dir. İlçe belediyelerinin toplam üye sayısı 194'tür. Belediye Meclis üyelerinin sayıları ilçenin son nüfus sayımına göre 9 ile 55 üye, İl genel meclisi üye sayıları 100.000 nüfusa kadar 2 ile 5 üye olarak belirlenir. İl genel meclisi ve belediye meclisi üyelikleri için yapılan seçimlerde, onda birlik baraj uygulamalı nispi temsil sistemi, belediye başkanlığı seçiminde ise çoğunluk sistemi uygulanır İl genel meclisi ve belediye meclisi üye sayıları ilçe nüfusuna göre, kontenjandan kalan sayıların partilere dağılımı ise D'Hondt Sistemine göre belirlenir (Kanun:2972-Madde:23) == Nüfus == Güncel Nüfus Değerleri (TÜİK 6 Şubat 2025 verileri) Rize ili nüfusu: 346.977'dir. Bu nüfusun %71,62'si şehirlerde yaşamaktadır (2024 sonu). İlin yüzölçümü 3.835 km2dir. İlde km2ye 90 kişi düşmektedir. (Bu sayı merkezde 599'dur.) İldeki nüfus azalış oranı %1,87 olmuştur. Merkez ilçe dışındaki tüm ilçelerde nüfus azalmıştır. Oysa geçen yıl (2023) ise tüm ilçelerde nüfus artmıştır. Nüfusu en çok azalan ilçe İkizdere: -%20,02 (Bu ilçenin nüfusu 2023 yılında %33,99 oranında artmıştı.) 6 Şubat 2025 TÜİK verilerine göre merkez ilçeyle beraber 12 ilçe, 18 belediye, bu belediyelerde 215 mahalle ve ayrıca 343 köy vardır. === Yıllara göre ilçe nüfusları === == Konum == == Ayrıca bakınız == Rize (il) Rize ilindeki yerleşim yerleri listesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 275,
+      "char_count": 1952,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.464414",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 136,
+      "content": "Rize ilinin ilçeleri, Rize (il merkezi) Ardeşen Çamlıhemşin Çayeli Derepazarı Fındıklı Güneysu Hemşin İkizdere İyidere Kalkandere Pazar",
+      "char_count": 135,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0001",
+      "section": "== Kaymakamlar ==",
+      "heading_path": "== Kaymakamlar ==",
+      "start_char": 136,
+      "end_char": 234,
+      "content": "== Kaymakamlar == Görevde olan vali ve kaymakamlar aşağıdaki tabloda gösterilmiştir. (Mayıs 2025)",
+      "char_count": 97,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0002",
+      "section": "=== Belediye Başkanları ===",
+      "heading_path": "=== Belediye Başkanları ===",
+      "start_char": 252,
+      "end_char": 502,
+      "content": "=== Belediye Başkanları === 31 Mart 2024 Yerel seçimleri sonucu seçilerek göreve başlayan ilçe belediye başkanlıklarının bilgileri aşağıdadır. 2024Yerel seçimleri sonucu seçilerek göreve başlayan belde belediye başkanlıklarının bilgileri aşağıdadır.",
+      "char_count": 249,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0003",
+      "section": "=== Belediye Meclisleri ===",
+      "heading_path": "=== Belediye Meclisleri ===",
+      "start_char": 502,
+      "end_char": 1189,
+      "content": "=== Belediye Meclisleri === Rize İl Genel Meclisi üye sayısı 30'dur. Rize Belediyesi meclisi üye sayısı 31'dir. İlçe belediyelerinin toplam üye sayısı 194'tür. Belediye Meclis üyelerinin sayıları ilçenin son nüfus sayımına göre 9 ile 55 üye, İl genel meclisi üye sayıları 100.000 nüfusa kadar 2 ile 5 üye olarak belirlenir. İl genel meclisi ve belediye meclisi üyelikleri için yapılan seçimlerde, onda birlik baraj uygulamalı nispi temsil sistemi, belediye başkanlığı seçiminde ise çoğunluk sistemi uygulanır İl genel meclisi ve belediye meclisi üye sayıları ilçe nüfusuna göre, kontenjandan kalan sayıların partilere dağılımı ise D'Hondt Sistemine göre belirlenir (Kanun:2972-Madde:23)",
+      "char_count": 686,
+      "token_estimate": 171
+    },
+    {
+      "id": "c0004",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 1189,
+      "end_char": 1820,
+      "content": "== Nüfus == Güncel Nüfus Değerleri (TÜİK 6 Şubat 2025 verileri) Rize ili nüfusu: 346.977'dir. Bu nüfusun %71,62'si şehirlerde yaşamaktadır (2024 sonu). İlin yüzölçümü 3.835 km2dir. İlde km2ye 90 kişi düşmektedir. (Bu sayı merkezde 599'dur.) İldeki nüfus azalış oranı %1,87 olmuştur. Merkez ilçe dışındaki tüm ilçelerde nüfus azalmıştır. Oysa geçen yıl (2023) ise tüm ilçelerde nüfus artmıştır. Nüfusu en çok azalan ilçe İkizdere: -%20,02 (Bu ilçenin nüfusu 2023 yılında %33,99 oranında artmıştı.) 6 Şubat 2025 TÜİK verilerine göre merkez ilçeyle beraber 12 ilçe, 18 belediye, bu belediyelerde 215 mahalle ve ayrıca 343 köy vardır.",
+      "char_count": 630,
+      "token_estimate": 157
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1868,
+      "end_char": 1938,
+      "content": "== Ayrıca bakınız == Rize (il) Rize ilindeki yerleşim yerleri listesi",
+      "char_count": 69,
+      "token_estimate": 17
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rize İl Genel Meclisi'nin üye sayısı kaçtır?",
+        "answer": "30",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rize ilinin listelenen ilçelerini dikkate alarak, Mayıs 2025 itibarıyla kaç kaymakamın görevde olması beklenmektedir?",
+        "answer": "Rize ilinin listelenen on iki ilçesi için on iki kaymakamın görevde olması beklenmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

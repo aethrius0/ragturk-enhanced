@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "hilalavc_fceafd8a",
+    "title": "Hilal Avcı",
+    "url": "https://tr.wikipedia.org/wiki/Hilal_Avc%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:55.340310",
+    "content": "Hilal Avcı (d. 7 Aralık 1995, Rize), Türk kanocudur. K-1 sınıfı kanolarda 200 metre, 500 metre, 1000 metre yarışlarında ve K-2 sınıfı kanolarda (karma takım) 200 metre ve 500 metre yarışlarında yarışmaktadır. == Hayatı == Kano sporuna 11 yaşında başladı. 2013 yılında Mingeçevir'de düzenlenen Uluslararası Azerbaycan Cumhurbaşkanlığı Kano Şampiyonası'nda altın madalya kazandı. 2017 yılında Sırbistan'ın Belgrad kentinde düzenlenen Avrupa Gençler Kano Şampiyonası'nda U23 kategorisinde yarıştı ve 500 metre yarışında 12. ve 1000 metre yarışında 9. oldu. Polonya'daki Zaslavl Regatta Parkuru'nda düzenlenen 2019 Avrupa Şampiyonası'ndaki 500 metre yarışında 6. oldu. Macaristan'ın Szeged kentinde düzenlenen 2019 ICF Kano Sprint Dünya Şampiyonası'nda ise 500 metre yarışında 3. oldu. COVID-19 pandemisi sırasında, antrenmanlarını sürdürebilmesi için ihtiyaç duyduğu antrenman ekipmanları Rize Gençlik ve Spor İl Müdürlüğü tarafından evine gönderildi. Her yıl Türk Kurtuluş Savaşı'nın anısına kutlanan Atatürk'ü Anma, Gençlik ve Spor Bayramı kapsamında, 18 Mayıs 2020'de 19 dakika 19 saniye boyunca kürek çekti. Polonya'nın Kryspinów kentinde düzenlenen 2023 Avrupa Oyunları'ndaki 200 metre yarı finalinde 43.616'lık derecesiyle finale kalamadı. 500 metre yarışını ise 17. sırada tamamladı. Macaristan'ın Szeged kentinde yapılan 2023 Kano Sprint Dünya Kupası'nın 1. Ayağı'nın 200 metre yarışında 22., 500 metre yarışında ise 32. oldu. Takım arkadaşı Fahri Ayvaz ile birlikte katıldığı Karışık 500 metre yarışında ise 9. sırayı elde etti. Almanya'nın Duisburg kentinde düzenlenen 2023 ICF Kano Sprint Dünya Şampiyonası'nda 200 ve 500 metre yarışlarında finale çıkamadı. Macaristan'ın Szeged kentinde düzenlenen 2024 Kano Sprint Avrupa Olimpiyat Elemeleri ve Dünya Kupası'nda 200 metre yarışının yarı finalini 5. sırada tamamladı. 500 metre yarışında ise E serisi finalinde ikinci oldu. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 257,
+      "char_count": 1896,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.218752",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 209,
+      "content": "Hilal Avcı (d. 7 Aralık 1995, Rize), Türk kanocudur. K-1 sınıfı kanolarda 200 metre, 500 metre, 1000 metre yarışlarında ve K-2 sınıfı kanolarda (karma takım) 200 metre ve 500 metre yarışlarında yarışmaktadır.",
+      "char_count": 208,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 209,
+      "end_char": 1209,
+      "content": "== Hayatı == Kano sporuna 11 yaşında başladı. 2013 yılında Mingeçevir'de düzenlenen Uluslararası Azerbaycan Cumhurbaşkanlığı Kano Şampiyonası'nda altın madalya kazandı. 2017 yılında Sırbistan'ın Belgrad kentinde düzenlenen Avrupa Gençler Kano Şampiyonası'nda U23 kategorisinde yarıştı ve 500 metre yarışında 12. ve 1000 metre yarışında 9. oldu. Polonya'daki Zaslavl Regatta Parkuru'nda düzenlenen 2019 Avrupa Şampiyonası'ndaki 500 metre yarışında 6. oldu. Macaristan'ın Szeged kentinde düzenlenen 2019 ICF Kano Sprint Dünya Şampiyonası'nda ise 500 metre yarışında 3. oldu. COVID-19 pandemisi sırasında, antrenmanlarını sürdürebilmesi için ihtiyaç duyduğu antrenman ekipmanları Rize Gençlik ve Spor İl Müdürlüğü tarafından evine gönderildi. Her yıl Türk Kurtuluş Savaşı'nın anısına kutlanan Atatürk'ü Anma, Gençlik ve Spor Bayramı kapsamında, 18 Mayıs 2020'de 19 dakika 19 saniye boyunca kürek çekti. Polonya'nın Kryspinów kentinde düzenlenen 2023 Avrupa Oyunları'ndaki 200 metre yarı finalinde 43.616",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1009,
+      "end_char": 1881,
+      "content": "Anma, Gençlik ve Spor Bayramı kapsamında, 18 Mayıs 2020'de 19 dakika 19 saniye boyunca kürek çekti. Polonya'nın Kryspinów kentinde düzenlenen 2023 Avrupa Oyunları'ndaki 200 metre yarı finalinde 43.616'lık derecesiyle finale kalamadı. 500 metre yarışını ise 17. sırada tamamladı. Macaristan'ın Szeged kentinde yapılan 2023 Kano Sprint Dünya Kupası'nın 1. Ayağı'nın 200 metre yarışında 22., 500 metre yarışında ise 32. oldu. Takım arkadaşı Fahri Ayvaz ile birlikte katıldığı Karışık 500 metre yarışında ise 9. sırayı elde etti. Almanya'nın Duisburg kentinde düzenlenen 2023 ICF Kano Sprint Dünya Şampiyonası'nda 200 ve 500 metre yarışlarında finale çıkamadı. Macaristan'ın Szeged kentinde düzenlenen 2024 Kano Sprint Avrupa Olimpiyat Elemeleri ve Dünya Kupası'nda 200 metre yarışının yarı finalini 5. sırada tamamladı. 500 metre yarışında ise E serisi finalinde ikinci oldu.",
+      "char_count": 872,
+      "token_estimate": 218
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kano sporuna kaç yaşında başladı?",
+        "answer": "11 yaşında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hilal Avcı'nın kariyeri boyunca katıldığı başlıca yarış mesafeleri nelerdir ve uluslararası şampiyonalardaki performansında nasıl bir gelişim gözlemlenmiştir?",
+        "answer": "Hilal Avcı, kariyeri boyunca K-1 sınıfında 200 metre, 500 metre ve 1000 metre, K-2 sınıfında ise 200 metre ve 500 metre yarışlarında mücadele etmiştir. Performansında farklılıklar gözlemlenmiştir; 2013 yılında Uluslararası Azerbaycan Cumhurbaşkanlığı Kano Şampiyonası'nda altın madalya kazanmış ve 2019 ICF Kano Sprint Dünya Şampiyonası'nda 500 metrede 3. olarak önemli bir başarı elde etmiştir. Ancak 2017'deki Avrupa Gençler Kano Şampiyonası'nda 500 metrede 12. ve 1000 metrede 9. sırayı alırken, 2023 Avrupa Oyunları'nda 200 metre yarı finalinde finale kalamamış ve 500 metre yarışını 17. sırada tamamlamıştır. 2023 Kano Sprint Dünya Kupası'nda 200 metrede 22. ve 500 metrede 32. olmuş, karışık 500 metrede ise 9. sırayı elde etmiştir. Genel olarak, sonraki yıllardaki uluslararası yarışlarda finale kalamama veya alt sıralarda yer alma durumu daha sık görülmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "kladogenez_ced746eb",
+    "title": "Kladogenez",
+    "url": "https://tr.wikipedia.org/wiki/Kladogenez",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:14.808594",
+    "content": "Kladogenez, bir türün iki farklı türe evrilerek klad oluşturduğu evrimsel ayrılma olayı. Bu durum genelde bir türün bazı üyeleri yeni ve uzak bir bölgeyi mesken edindiğinde veya çevresel değişiklikler yüzünden bazı diğer türlerin nesli tükendiğinde açılan farklı ekolojik nişlere yerleştiğinde gözlenir. Türün iki grubunun birbirinden uzaklaşmasına yol açan olaylara rağmen oluşan iki yeni tür eşit hayatta kalma şansına sahip olabilir. Önmaymunların filogenisi kladogenezin bir örneğidir. Kladogenezin anagenezden farkı, anagenezde ana türün zamanla biriken değişiklikler sayesinde özgün formundan ayrı bir tür kabul edilecek kadar değişmesidir. Anagenezin aksine, kladogenezde filogenetik ağaçta ayrılma yaşanır. Evrimsel bir ayrılma olayının kladogenez olup olmadığının belirlenmesi simülasyon, fosil kanıtları, modelleme veya yaşayan farklı bir türün DNA'sının sunduğu moleküler kanıtlar aracılığıyla gerçekleştirilir. Bunun yanı sıra evrim literatüründe anagenez ve kladogenez arasında bir ayrım yapılmasının herhangi bir anlam ifade edip etmediği de sorgulanmaktadır. Kladogenez hızının ölçümü evrimsel biyolojide gerçekleştirilir. Bunun yapılabilmesi için iki yöntem mevcuttur. Bunların ilkinde filogenetik ağacın topolojisi incelenir. Burada her klad içindeki her türün bilinmesi, ağacın farklı kladlar açısından ne kadar dengeli olduğunun ölçümü açısından önemlidir. Bunun yanı sıra \"kardeş\" taksonların belirlenmesi açısından önem arz eder. Diğer yöntem filogenetik ağacın dallarının uzunluğunu kullanır; bu her bir kladın varoluş süresini gösterir. Bu yöntemde moleküler veri kullanılarak tüm türlere dair bilgi sahibi olmadan kladogenez hızı hesaplanabilir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 211,
+      "char_count": 1684,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.524597",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Kladogenez, bir türün iki farklı türe evrilerek klad oluşturduğu evrimsel ayrılma olayı. Bu durum genelde bir türün bazı üyeleri yeni ve uzak bir bölgeyi mesken edindiğinde veya çevresel değişiklikler yüzünden bazı diğer türlerin nesli tükendiğinde açılan farklı ekolojik nişlere yerleştiğinde gözlenir. Türün iki grubunun birbirinden uzaklaşmasına yol açan olaylara rağmen oluşan iki yeni tür eşit hayatta kalma şansına sahip olabilir. Önmaymunların filogenisi kladogenezin bir örneğidir. Kladogenezin anagenezden farkı, anagenezde ana türün zamanla biriken değişiklikler sayesinde özgün formundan ayrı bir tür kabul edilecek kadar değişmesidir. Anagenezin aksine, kladogenezde filogenetik ağaçta ayrılma yaşanır. Evrimsel bir ayrılma olayının kladogenez olup olmadığının belirlenmesi simülasyon, fosil kanıtları, modelleme veya yaşayan farklı bir türün DNA'sının sunduğu moleküler kanıtlar aracılığıyla gerçekleştirilir. Bunun yanı sıra evrim literatüründe anagenez ve kladogenez arasında bir ayrım",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1669,
+      "content": "sil kanıtları, modelleme veya yaşayan farklı bir türün DNA'sının sunduğu moleküler kanıtlar aracılığıyla gerçekleştirilir. Bunun yanı sıra evrim literatüründe anagenez ve kladogenez arasında bir ayrım yapılmasının herhangi bir anlam ifade edip etmediği de sorgulanmaktadır. Kladogenez hızının ölçümü evrimsel biyolojide gerçekleştirilir. Bunun yapılabilmesi için iki yöntem mevcuttur. Bunların ilkinde filogenetik ağacın topolojisi incelenir. Burada her klad içindeki her türün bilinmesi, ağacın farklı kladlar açısından ne kadar dengeli olduğunun ölçümü açısından önemlidir. Bunun yanı sıra \"kardeş\" taksonların belirlenmesi açısından önem arz eder. Diğer yöntem filogenetik ağacın dallarının uzunluğunu kullanır; bu her bir kladın varoluş süresini gösterir. Bu yöntemde moleküler veri kullanılarak tüm türlere dair bilgi sahibi olmadan kladogenez hızı hesaplanabilir.",
+      "char_count": 869,
+      "token_estimate": 217
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kladogenez nedir?",
+        "answer": "Bir türün iki farklı türe evrilerek klad oluşturduğu evrimsel ayrılma olayıdır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kladogenezin bir evrimsel ayrılma olayı olup olmadığı nasıl belirlenir ve evrimsel biyolojide kladogenez hızını ölçmek için hangi iki ana yöntem kullanılır?",
+        "answer": "Kladogenezin bir ayrılma olayı olup olmadığı simülasyon, fosil kanıtları, modelleme veya yaşayan farklı bir türün DNA'sının sunduğu moleküler kanıtlar aracılığıyla belirlenir. Kladogenez hızını ölçmek için iki ana yöntem mevcuttur: ilki filogenetik ağacın topolojisini inceleyerek (her klad içindeki her türün bilinmesi, ağacın dengesinin ölçülmesi ve kardeş taksonların belirlenmesi), diğeri ise filogenetik ağacın dallarının uzunluğunu kullanarak (her bir kladın varoluş süresini gösterir ve moleküler veriyle tüm türlere dair bilgi sahibi olmadan hesaplama yapar).",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "realizmedebiyat_8bc824ce",
+    "title": "Realizm (edebiyat)",
+    "url": "https://tr.wikipedia.org/wiki/Realizm_%28edebiyat%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:41.113956",
+    "content": "Realizm ya da gerçekçilik, bir estetik ve edebi kavram olarak 19. yüzyıl ortalarında Fransa'da ortaya çıkmıştır. Nasıl ki romantizm klasisizme bir başkaldırı niteliğinde ise gerçekçilik yani realizm, hem klasisizme hem de romantizme bir başkaldırıdır. Amaç, sanatı klasik ve romantik akımların yapaylığından kurtarmak, yenilikçi eserler üretmek ve konularını öncelikle yüksek sınıflar ve temalarla ilgili değil, toplumsal sınıflar ve temalar arasından seçmekti. Realizmin amacı, günlük yaşamın önyargısız, bilimsel bir tutumla incelenmesi ve edebi eserlerin bir bilim insanının klinik bulgularına benzer nesnel bir bakış açısıyla ortaya konmasıdır. Örneğin, realizmin iki güçlü temsilcisi Gustave Flaubert'in Madame Bovary adlı romanı ile Emile Zola'nın Nana adlı romanında cinsellik ve şiddet edebi bir mikroskop altında incelenecek olursa çıplaklığıyla ortaya konulmuştur. Realizm felsefesinin altında güçlü bir felsefi belirlenimcilik yatar. Fransız edebiyatında Flaubert ile Zola'nın yanı sıra Honore de Balzac, Stendhal, Rusya'da Lev Tolstoy, İvan Sergeyeviç Turgenyev, Dostoyevski, İngiltere'de Charles Dickens ve Anthony Trollope, Amerika'da Theodore Dreiser, Ernest Hemingway, John Steinbeck İrlanda'da James Joyce realizmin önemli temsilcileridir. Realizm, 20. yüzyıl romanının gelişimini de önemli ölçüde etkilemiştir. Ancak birçok sanat kuramcısı ve sanat eleştirmeni açısından Gustave Flaubert ve Emile Zola realist (gerçekçi) olmaktan çok natüralist (doğalcı) olarak tanımlanmaktadır. == Realizmin önemli temsilcileri == Honoré de Balzac Stendhal Gustave Flaubert Fyodor Dostoyevski Lev Nikolayeviç Tolstoy Anton Çehov Maksim Gorki Daniel Defoe Charles Dickens Ernest Hemingway Jack London Mark Twain İvan Sergeyeviç Turgenyev Halit Ziya Uşaklıgil Nikolay Gogol == İlgili başlıklar == Realizm Klasisizm Romantizm Eleştirel gerçekçilik Toplumsal gerçekçilik Büyülü gerçekçilik Aydınlık gerçekçilik Toplumcu gerçekçilik (Sosyalist realizm) Natüralizm == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 249,
+      "char_count": 1976,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.243046",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Realizm ya da gerçekçilik, bir estetik ve edebi kavram olarak 19. yüzyıl ortalarında Fransa'da ortaya çıkmıştır. Nasıl ki romantizm klasisizme bir başkaldırı niteliğinde ise gerçekçilik yani realizm, hem klasisizme hem de romantizme bir başkaldırıdır. Amaç, sanatı klasik ve romantik akımların yapaylığından kurtarmak, yenilikçi eserler üretmek ve konularını öncelikle yüksek sınıflar ve temalarla ilgili değil, toplumsal sınıflar ve temalar arasından seçmekti. Realizmin amacı, günlük yaşamın önyargısız, bilimsel bir tutumla incelenmesi ve edebi eserlerin bir bilim insanının klinik bulgularına benzer nesnel bir bakış açısıyla ortaya konmasıdır. Örneğin, realizmin iki güçlü temsilcisi Gustave Flaubert'in Madame Bovary adlı romanı ile Emile Zola'nın Nana adlı romanında cinsellik ve şiddet edebi bir mikroskop altında incelenecek olursa çıplaklığıyla ortaya konulmuştur. Realizm felsefesinin altında güçlü bir felsefi belirlenimcilik yatar. Fransız edebiyatında Flaubert ile Zola'nın yanı sıra Ho",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1497,
+      "content": "bir mikroskop altında incelenecek olursa çıplaklığıyla ortaya konulmuştur. Realizm felsefesinin altında güçlü bir felsefi belirlenimcilik yatar. Fransız edebiyatında Flaubert ile Zola'nın yanı sıra Honore de Balzac, Stendhal, Rusya'da Lev Tolstoy, İvan Sergeyeviç Turgenyev, Dostoyevski, İngiltere'de Charles Dickens ve Anthony Trollope, Amerika'da Theodore Dreiser, Ernest Hemingway, John Steinbeck İrlanda'da James Joyce realizmin önemli temsilcileridir. Realizm, 20. yüzyıl romanının gelişimini de önemli ölçüde etkilemiştir. Ancak birçok sanat kuramcısı ve sanat eleştirmeni açısından Gustave Flaubert ve Emile Zola realist (gerçekçi) olmaktan çok natüralist (doğalcı) olarak tanımlanmaktadır.",
+      "char_count": 697,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0002",
+      "section": "== Realizmin önemli temsilcileri ==",
+      "heading_path": "== Realizmin önemli temsilcileri ==",
+      "start_char": 1498,
+      "end_char": 1775,
+      "content": "== Realizmin önemli temsilcileri == Honoré de Balzac Stendhal Gustave Flaubert Fyodor Dostoyevski Lev Nikolayeviç Tolstoy Anton Çehov Maksim Gorki Daniel Defoe Charles Dickens Ernest Hemingway Jack London Mark Twain İvan Sergeyeviç Turgenyev Halit Ziya Uşaklıgil Nikolay Gogol",
+      "char_count": 276,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0003",
+      "section": "== İlgili başlıklar ==",
+      "heading_path": "== İlgili başlıklar ==",
+      "start_char": 1775,
+      "end_char": 1962,
+      "content": "== İlgili başlıklar == Realizm Klasisizm Romantizm Eleştirel gerçekçilik Toplumsal gerçekçilik Büyülü gerçekçilik Aydınlık gerçekçilik Toplumcu gerçekçilik (Sosyalist realizm) Natüralizm",
+      "char_count": 186,
+      "token_estimate": 46
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Realizm bir estetik ve edebi kavram olarak ne zaman ve nerede ortaya çıkmıştır?",
+        "answer": "19. yüzyıl ortalarında Fransa'da ortaya çıkmıştır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gustave Flaubert ve Emile Zola, realizm akımıyla nasıl ilişkilendirilmektedir ve sanat eleştirmenleri tarafından hangi farklı kategoriye yerleştirilmişlerdir?",
+        "answer": "Gustave Flaubert ve Emile Zola, günlük yaşamın önyargısız incelenmesi ve eserlerde nesnel bir bakış açısı sunulması gibi realizmin amaçlarını yansıtan güçlü temsilciler olarak gösterilmektedir. Ancak birçok sanat kuramcısı ve eleştirmeni, onları realist (gerçekçi) olmaktan çok natüralist (doğalcı) olarak tanımlamaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

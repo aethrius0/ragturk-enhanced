@@ -1,0 +1,174 @@
+{
+  "article": {
+    "id": "prattwhitneycanadapw_66fdb7fa",
+    "title": "Pratt & Whitney Canada PW200",
+    "url": "https://tr.wikipedia.org/wiki/Pratt_%26_Whitney_Canada_PW200",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:03.203690",
+    "content": "Pratt & Whitney Canada PW200, özellikle helikopter için geliştirilmiş bir turboşaft motorları ailesidir. 1990'larda hizmete girdi. == Varyantlar == PW205B İlk çalıştırma 1987. Çift motorlu MBB BO105'te yalnızca gösteri amaçlı uçtu. PW206A MD Explorer'da kullanım için maksimum sürekli güç 550 shp (410 kW) PW206B Maksimum sürekli güç 431 mil beygir gücü (321 kW), Eurocopter EC135'te kullanım için PW206B2 Maksimum sürekli güç 431 mil beygir gücü (321 kW) . PW206C Maksimum sürekli güç 561 mil beygir gücü (418 kW), Agusta A109 Power'da kullanım için PW206E Maksimum sürekli güç 572 mil beygir gücü (427 kW) . MD Explorer'da kullanım için PW207C Maksimum sürekli güç 572 mil beygir gücü (427 kW) . PW207D Maksimum sürekli güç 572 mil beygir gücü (427 kW) . PW207D1 Arttırılmış mekanik güç, maksimum sürekli güç 610 mil beygir gücü (450 kW) ile PW207 varyantı . PW207D2 PW207D1'in bir yakıt ısıtıcısı takılı varyantı, maksimum sürekli güç 610 mil beygir gücü (450 kW) . PW207E Maksimum sürekli güç 572 mil beygir gücü (427 kW) . MD 902'de kullanım için PW209T Maksimum sürekli güç 800 mil beygir gücü (600 kW) . \"İkiz paket\" İlk çalıştırma 1985, 1987'de iptal edildi. Bell TwinRanger için tasarlanmıştır PW210 PW200'ün geliştirilmiş versiyonu. Geliştirmeler arasında; Daha düşük yakıt tüketimi, Çift Kanallı Tam Yetkili Dijital Motor Kontrolü (FADEC), Azaltılmış çevresel emisyonlar ve 800 mil beygir gücü (600 kW) değişen güç çıkışında artış ila 1.000 mil beygir gücü (750 kW) == Uygulamalar == AgustaWestland AW109 AgustaWestland AW169 Airbus Helicopters H160 (yalnızca prototip) Bell 360 Invictus (planlanmış) Bell 429 GlobalRanger Boeing A160 Hummingbird Eurocopter EC135 MD Explorer Sikorsky S-76D == Teknik Özellikler == Veri kaynağı ==== Genel özellikler ==== Tür: Turboshaft Uzunluk: 35.9 in (91.2 cm) Çap: 19.7 in (50 cm) Boş ağırlık: 237 lb (107.5 kg) ==== Bileşenler ==== Kompresör: Single-stage centrifugal. PW210: Two-stage mixed flow and centrifugal Yanma odaları: Annular Türbin: Single-stage high pressure turbine, single-stage power turbine. PW210: Two-stage power turbine ==== Performans ==== Maksimum güç çıkışı: 561 shp (418 kW) Özgül yakıt tüketimi: 0.542 lb/hp-hr Güç-ağırlık oranı: 2.4 hp/lb === Genel Özellikler === Tip: Turboshaft Uzunluk: 35.9 in (91.2 cm) Çap: 19.7 in (50 cm) Kuru ağırlık: 237 lb (107.5 kg) === Bileşenler === Kompresör: Tek aşamalı santrifüj. PW210: İki aşamalı karışık akış ve santrifüj Combustor: Annular Türbin: Tek aşamalı yüksek basınç türbini, tek aşamalı güç türbini. PW210: İki aşamalı güç türbini === Performans === Maksimum güç çıkışı: 561 shp (418 kW) Specific fuel consumption: 0.542 lb/hp-hr Power-to-weight ratio: 2.4 hp/lb == Kaynakça == == Dış bağlantılar == Pratt & Whitney Canada PW200 web sayfası 2 Temmuz 2018 tarihinde Wayback Machine sitesinde arşivlendi. Pratt & Whitney Canada PW210 web sayfası 12 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 442,
+      "char_count": 2926,
+      "num_chunks": 12,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.908651",
+    "total_chunks": 12,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 131,
+      "content": "Pratt & Whitney Canada PW200, özellikle helikopter için geliştirilmiş bir turboşaft motorları ailesidir. 1990'larda hizmete girdi.",
+      "char_count": 130,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0001",
+      "section": "== Varyantlar ==",
+      "heading_path": "== Varyantlar ==",
+      "start_char": 131,
+      "end_char": 1131,
+      "content": "== Varyantlar == PW205B İlk çalıştırma 1987. Çift motorlu MBB BO105'te yalnızca gösteri amaçlı uçtu. PW206A MD Explorer'da kullanım için maksimum sürekli güç 550 shp (410 kW) PW206B Maksimum sürekli güç 431 mil beygir gücü (321 kW), Eurocopter EC135'te kullanım için PW206B2 Maksimum sürekli güç 431 mil beygir gücü (321 kW) . PW206C Maksimum sürekli güç 561 mil beygir gücü (418 kW), Agusta A109 Power'da kullanım için PW206E Maksimum sürekli güç 572 mil beygir gücü (427 kW) . MD Explorer'da kullanım için PW207C Maksimum sürekli güç 572 mil beygir gücü (427 kW) . PW207D Maksimum sürekli güç 572 mil beygir gücü (427 kW) . PW207D1 Arttırılmış mekanik güç, maksimum sürekli güç 610 mil beygir gücü (450 kW) ile PW207 varyantı . PW207D2 PW207D1'in bir yakıt ısıtıcısı takılı varyantı, maksimum sürekli güç 610 mil beygir gücü (450 kW) . PW207E Maksimum sürekli güç 572 mil beygir gücü (427 kW) . MD 902'de kullanım için PW209T Maksimum sürekli güç 800 mil beygir gücü (600 kW) . \"İkiz paket\" İlk çal",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Varyantlar ==",
+      "heading_path": "== Varyantlar ==",
+      "start_char": 931,
+      "end_char": 1476,
+      "content": "li güç 610 mil beygir gücü (450 kW) . PW207E Maksimum sürekli güç 572 mil beygir gücü (427 kW) . MD 902'de kullanım için PW209T Maksimum sürekli güç 800 mil beygir gücü (600 kW) . \"İkiz paket\" İlk çalıştırma 1985, 1987'de iptal edildi. Bell TwinRanger için tasarlanmıştır PW210 PW200'ün geliştirilmiş versiyonu. Geliştirmeler arasında; Daha düşük yakıt tüketimi, Çift Kanallı Tam Yetkili Dijital Motor Kontrolü (FADEC), Azaltılmış çevresel emisyonlar ve 800 mil beygir gücü (600 kW) değişen güç çıkışında artış ila 1.000 mil beygir gücü (750 kW)",
+      "char_count": 545,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0003",
+      "section": "== Uygulamalar ==",
+      "heading_path": "== Uygulamalar ==",
+      "start_char": 1477,
+      "end_char": 1702,
+      "content": "== Uygulamalar == AgustaWestland AW109 AgustaWestland AW169 Airbus Helicopters H160 (yalnızca prototip) Bell 360 Invictus (planlanmış) Bell 429 GlobalRanger Boeing A160 Hummingbird Eurocopter EC135 MD Explorer Sikorsky S-76D",
+      "char_count": 224,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0004",
+      "section": "== Teknik Özellikler ==",
+      "heading_path": "== Teknik Özellikler ==",
+      "start_char": 1702,
+      "end_char": 1739,
+      "content": "== Teknik Özellikler == Veri kaynağı",
+      "char_count": 36,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0005",
+      "section": "==== Genel özellikler ====",
+      "heading_path": "==== Genel özellikler ====",
+      "start_char": 1739,
+      "end_char": 1861,
+      "content": "==== Genel özellikler ==== Tür: Turboshaft Uzunluk: 35.9 in (91.2 cm) Çap: 19.7 in (50 cm) Boş ağırlık: 237 lb (107.5 kg)",
+      "char_count": 121,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0006",
+      "section": "==== Bileşenler ====",
+      "heading_path": "==== Bileşenler ====",
+      "start_char": 1861,
+      "end_char": 2089,
+      "content": "==== Bileşenler ==== Kompresör: Single-stage centrifugal. PW210: Two-stage mixed flow and centrifugal Yanma odaları: Annular Türbin: Single-stage high pressure turbine, single-stage power turbine. PW210: Two-stage power turbine",
+      "char_count": 227,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0007",
+      "section": "==== Performans ====",
+      "heading_path": "==== Performans ====",
+      "start_char": 2089,
+      "end_char": 2214,
+      "content": "==== Performans ==== Maksimum güç çıkışı: 561 shp (418 kW) Özgül yakıt tüketimi: 0.542 lb/hp-hr Güç-ağırlık oranı: 2.4 hp/lb",
+      "char_count": 124,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0008",
+      "section": "=== Genel Özellikler ===",
+      "heading_path": "=== Genel Özellikler ===",
+      "start_char": 2214,
+      "end_char": 2335,
+      "content": "=== Genel Özellikler === Tip: Turboshaft Uzunluk: 35.9 in (91.2 cm) Çap: 19.7 in (50 cm) Kuru ağırlık: 237 lb (107.5 kg)",
+      "char_count": 120,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0009",
+      "section": "=== Bileşenler ===",
+      "heading_path": "=== Bileşenler ===",
+      "start_char": 2335,
+      "end_char": 2551,
+      "content": "=== Bileşenler === Kompresör: Tek aşamalı santrifüj. PW210: İki aşamalı karışık akış ve santrifüj Combustor: Annular Türbin: Tek aşamalı yüksek basınç türbini, tek aşamalı güç türbini. PW210: İki aşamalı güç türbini",
+      "char_count": 215,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0010",
+      "section": "=== Performans ===",
+      "heading_path": "=== Performans ===",
+      "start_char": 2551,
+      "end_char": 2683,
+      "content": "=== Performans === Maksimum güç çıkışı: 561 shp (418 kW) Specific fuel consumption: 0.542 lb/hp-hr Power-to-weight ratio: 2.4 hp/lb",
+      "char_count": 131,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0011",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2698,
+      "end_char": 2926,
+      "content": "== Dış bağlantılar == Pratt & Whitney Canada PW200 web sayfası 2 Temmuz 2018 tarihinde Wayback Machine sitesinde arşivlendi. Pratt & Whitney Canada PW210 web sayfası 12 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 228,
+      "token_estimate": 57
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "PW205B varyantının ilk çalıştırması hangi yılda gerçekleşti?",
+        "answer": "1987",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Pratt & Whitney Canada PW200 motor ailesinin 1990'larda hizmete girdiği belirtilirken, bu ailenin hangi varyantlarının ilk çalıştırma tarihleri bu genel hizmete giriş süresinden önceye dayanmaktadır ve bu tarihler nelerdir?",
+        "answer": "PW205B varyantının ilk çalıştırması 1987'dir. Ayrıca, PW209T varyantının ilk çalıştırması 1985'tir. Bu varyantların ilk çalıştırma tarihleri motor ailesinin genel hizmete giriş yılı olan 1990'lardan öncedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

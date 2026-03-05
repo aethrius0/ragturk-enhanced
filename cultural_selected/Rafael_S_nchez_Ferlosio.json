@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "rafaelsnchezferlosio_a7fe7b5f",
+    "title": "Rafael Sánchez Ferlosio",
+    "url": "https://tr.wikipedia.org/wiki/Rafael_S%C3%A1nchez_Ferlosio",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:28.757836",
+    "content": "Rafael Sánchez Ferlosio (4 Aralık 1927 – 1 Nisan 2019), İspanyol yazar ve romancı. == Kariyeri == 2004 yılında İspanyolca dilinde yazdığı eserleriyle \"Miguel de Cervantes Ödülü\" 'nü kazanmıştır. Sánchez Ferlosio, 1955'te kaleme aldığı roman çalışması El Jarama ile Nadal Ödülü'nü aldı. İspanya İç Savaşı'ndan sonra Juan Goytisolo ve Ana María Matute gibi diğer genç yazarlarla birlikte İspanyol Edebiyatı'nın yeniden popülerleşmesine yardımcı oldu. Daha sonra yaklaşık yirmi yıl yazmayı bıraktı. Bunun neden olduğunu açık bir şekilde söylemedi ama eleştirmenler yazarın, İspanya'daki Francisco Franco yönetimindeki askeri diktatör yönetiminden hoşlanmadığı için bu kararı aldığı belirtmişlerdir. == Özel yaşamı ve ölümü == Yazar ve romancı Sánchez Ferlosio 4 Aralık 1927'de Roma, Lazio, İtalya'da doğdu Annesi İtalyan, İspanyol olan babası Rafael Sánchez Mazas (1894-1966) ise yazar ve aşırı milliyetçi parti Flanş'ın lideriydi. Sánchez Ferlosio, yazar Carmen Martín Gaite ile evliydi. İspanyol yazar ve romancı Rafael Sánchez Ferlosio 1 Nisan 2019'da Madrid, İspanya'da 91 yaşında öldü. == Eserleri == Industrias y andanzas de Alfanhuí (1951) El Jarama (1955) Las semanas del jardín (1974) Mientras no cambien los dioses, nada ha cambiado (1986) El testimonio de Yarfoz (1986) Vendrán más años malos y nos harán más ciegos (1992) Non Olet (2002) El Geco (2005) Sobre la guerra (2007) God & Gun. Apuntes de polemología (2008) Guapo y sus isótopos (2009) Campo de retamas (2015) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 221,
+      "char_count": 1492,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.159150",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 83,
+      "content": "Rafael Sánchez Ferlosio (4 Aralık 1927 – 1 Nisan 2019), İspanyol yazar ve romancı.",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 83,
+      "end_char": 696,
+      "content": "== Kariyeri == 2004 yılında İspanyolca dilinde yazdığı eserleriyle \"Miguel de Cervantes Ödülü\" 'nü kazanmıştır. Sánchez Ferlosio, 1955'te kaleme aldığı roman çalışması El Jarama ile Nadal Ödülü'nü aldı. İspanya İç Savaşı'ndan sonra Juan Goytisolo ve Ana María Matute gibi diğer genç yazarlarla birlikte İspanyol Edebiyatı'nın yeniden popülerleşmesine yardımcı oldu. Daha sonra yaklaşık yirmi yıl yazmayı bıraktı. Bunun neden olduğunu açık bir şekilde söylemedi ama eleştirmenler yazarın, İspanya'daki Francisco Franco yönetimindeki askeri diktatör yönetiminden hoşlanmadığı için bu kararı aldığı belirtmişlerdir.",
+      "char_count": 612,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0002",
+      "section": "== Özel yaşamı ve ölümü ==",
+      "heading_path": "== Özel yaşamı ve ölümü ==",
+      "start_char": 696,
+      "end_char": 1088,
+      "content": "== Özel yaşamı ve ölümü == Yazar ve romancı Sánchez Ferlosio 4 Aralık 1927'de Roma, Lazio, İtalya'da doğdu Annesi İtalyan, İspanyol olan babası Rafael Sánchez Mazas (1894-1966) ise yazar ve aşırı milliyetçi parti Flanş'ın lideriydi. Sánchez Ferlosio, yazar Carmen Martín Gaite ile evliydi. İspanyol yazar ve romancı Rafael Sánchez Ferlosio 1 Nisan 2019'da Madrid, İspanya'da 91 yaşında öldü.",
+      "char_count": 391,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0003",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1088,
+      "end_char": 1478,
+      "content": "== Eserleri == Industrias y andanzas de Alfanhuí (1951) El Jarama (1955) Las semanas del jardín (1974) Mientras no cambien los dioses, nada ha cambiado (1986) El testimonio de Yarfoz (1986) Vendrán más años malos y nos harán más ciegos (1992) Non Olet (2002) El Geco (2005) Sobre la guerra (2007) God & Gun. Apuntes de polemología (2008) Guapo y sus isótopos (2009) Campo de retamas (2015)",
+      "char_count": 389,
+      "token_estimate": 97
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sánchez Ferlosio, 1955 yılında yazdığı El Jarama romanıyla hangi ödülü kazanmıştır?",
+        "answer": "Nadal Ödülü'nü",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İspanyol yazar ve romancı Rafael Sánchez Ferlosio'nun kariyerini tanımlayan başlıca başarıları ve edebi katkıları nelerdir?",
+        "answer": "Rafael Sánchez Ferlosio, İspanyol bir yazar ve romancıydı. Kariyeri boyunca 2004'te İspanyolca dilinde yazdığı eserleriyle \"Miguel de Cervantes Ödülü\"nü ve 1955'te romanı El Jarama ile \"Nadal Ödülü\"nü kazanmıştır. Ayrıca, İspanya İç Savaşı'ndan sonra Juan Goytisolo ve Ana María Matute gibi diğer genç yazarlarla birlikte İspanyol Edebiyatı'nın yeniden popülerleşmesine yardımcı olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

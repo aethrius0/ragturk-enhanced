@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "alaraay_4fbbae8c",
+    "title": "Alara Çayı",
+    "url": "https://tr.wikipedia.org/wiki/Alara_%C3%87ay%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:21.994034",
+    "content": "Alara (Ulugüney) Çayı, Antalya ili sınırlarında, Orta Toroslardan doğan, Akdeniz'e dökülen 82 km uzunluğundaki akarsu. 2.647 m yüksekliğindeki Kuşakdağı ve Akdağ'dan kaynağını alır, önce Gündoğmuş–Alanya, sonra da Alanya–Manavgat ilçe sınırlarını oluşturarak denize ulaşır. Debisi 31,2 m3/sn, akarsu yüzey alanı 293 ha, yer üstü su potansiyeli 1.224 hm³/yıl, yer altı su potansiyeli 263 hm³/yıl, havzaya düşen ortalama yağış 819 mm'dir. == Genel özellikleri == Gündoğmuş ilçesinin güneydoğusunda, Oğuz, Çakalsakmak, Alıkpazı ve Yukarıbük derelerinin birleşimi ile oluşur. Alara Çayı vadisi, Alanya'nın batı kesimini iç kısımlara bağlayan bir geçit görevi görür. Genelde doğu–batı doğrultusunda akan çay, Güneycik'in güneyinde kuzey–güney akarak, Boztepe, Manavgat köyü sınırlarında denize ulaşır. Eski adı Pamfilya olan Antalya Ovası'nı oluşturan akarsulardan biridir. Batısında Karpuz Çayı, doğusunda Kargı Çayı havzası bulunur. Hızlı akışlı akarsu, sahilde taşıdığı çakılların kapladığı plaj oluşturmuştur. Eski zamanlarda üzerinde fazla sayıda su değirmeni bulunurdu. Alara Çayı yapılan analizlerde Yer üstü su kalitesi yönetmeliğine göre Çok İyi Su, kıta içi su kalitesine göre 1. sınıf su niteliğindedir. == Tarih == Akarsu üzerinde Selçukluların yaptığı dört köprüden ikisi günümüze ulaşmıştır. Alara vadisinde tarihi öneme sahip Alara Kalesi ve Alarahan bulunmaktadır. == Kullanım == Güzelbağ ile Alara Kalesi arasında kano ve rafting yapılmaktadır. Akarsu ve çevresinde yüzme, yürüyüş, piknik, fotoğraf çekimi, balık avı gibi etkinlikle yapılabilir. Alarahan ve Alara Kalesi gezilebilir. Kaynağa yakın bölgelerde alabalık çiftlikleri bulunur. Alara'dan sulama kanalları ile alınan sular sahil düzlüğünde sulamada kullanılmaktadır. Manavgat'da 7 köy, bir beldenin, Alanya'da 10 köy, 4 beldenin toprakları sulanmaktadır. Alanya'nın Avsallar ve Okurcalar köylerinin içme suyu kaynağıdır. Eskibağ ve Kayabükü köyleri sınırında Gündoğmuş Uçansu Şelalesi yer alır. Sular yaklaşık 50 metreden, birkaç kol halinde düşer. == Balıklar == Alara Çayı'nda yapılan araştırmada aşağıdaki balıkların bulunduğu belirlenmiştir: Yılan balığı (Anguilla anguilla), Alabalık (Dağalabalığı, Salmo trutta macrostigma), Gökkuşağı alabalığı (Oncorhynchus mykiss), sazan (Cyprinus carpio), Siraz (Karabalık, Capoeta capoeta angorae), Sivrisinek balığı (Gambusia affinis), Has kefal (Topan kefal, Mankafa, Mugil cephalus), Kefal balığı (İncedudaklı kefal, Ceran, Liza ramada), Horozbina balığı (Salaria fluviatilis). Gökkuşağı alabalığı varlığının azaldığı görülmüştür. == Barajlar == Alara Çayı üzerinde biri baraj, yedisi nehir tipi hes olmak üzere toplam sekiz HES projesi bulunmaktadır. Heslerin üçü ile ilgili hukuki süreç devam etmektedir. Projelendirilen Alara barajı için, kireçtaşı katmanları arasından baraj sularında kaçak oluşacağı tahmin edilmektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 367,
+      "char_count": 2859,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.156903",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 437,
+      "content": "Alara (Ulugüney) Çayı, Antalya ili sınırlarında, Orta Toroslardan doğan, Akdeniz'e dökülen 82 km uzunluğundaki akarsu. 2.647 m yüksekliğindeki Kuşakdağı ve Akdağ'dan kaynağını alır, önce Gündoğmuş–Alanya, sonra da Alanya–Manavgat ilçe sınırlarını oluşturarak denize ulaşır. Debisi 31,2 m3/sn, akarsu yüzey alanı 293 ha, yer üstü su potansiyeli 1.224 hm³/yıl, yer altı su potansiyeli 263 hm³/yıl, havzaya düşen ortalama yağış 819 mm'dir.",
+      "char_count": 436,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0001",
+      "section": "== Genel özellikleri ==",
+      "heading_path": "== Genel özellikleri ==",
+      "start_char": 437,
+      "end_char": 1210,
+      "content": "== Genel özellikleri == Gündoğmuş ilçesinin güneydoğusunda, Oğuz, Çakalsakmak, Alıkpazı ve Yukarıbük derelerinin birleşimi ile oluşur. Alara Çayı vadisi, Alanya'nın batı kesimini iç kısımlara bağlayan bir geçit görevi görür. Genelde doğu–batı doğrultusunda akan çay, Güneycik'in güneyinde kuzey–güney akarak, Boztepe, Manavgat köyü sınırlarında denize ulaşır. Eski adı Pamfilya olan Antalya Ovası'nı oluşturan akarsulardan biridir. Batısında Karpuz Çayı, doğusunda Kargı Çayı havzası bulunur. Hızlı akışlı akarsu, sahilde taşıdığı çakılların kapladığı plaj oluşturmuştur. Eski zamanlarda üzerinde fazla sayıda su değirmeni bulunurdu. Alara Çayı yapılan analizlerde Yer üstü su kalitesi yönetmeliğine göre Çok İyi Su, kıta içi su kalitesine göre 1. sınıf su niteliğindedir.",
+      "char_count": 772,
+      "token_estimate": 193
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1210,
+      "end_char": 1376,
+      "content": "== Tarih == Akarsu üzerinde Selçukluların yaptığı dört köprüden ikisi günümüze ulaşmıştır. Alara vadisinde tarihi öneme sahip Alara Kalesi ve Alarahan bulunmaktadır.",
+      "char_count": 165,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0003",
+      "section": "== Kullanım ==",
+      "heading_path": "== Kullanım ==",
+      "start_char": 1376,
+      "end_char": 2021,
+      "content": "== Kullanım == Güzelbağ ile Alara Kalesi arasında kano ve rafting yapılmaktadır. Akarsu ve çevresinde yüzme, yürüyüş, piknik, fotoğraf çekimi, balık avı gibi etkinlikle yapılabilir. Alarahan ve Alara Kalesi gezilebilir. Kaynağa yakın bölgelerde alabalık çiftlikleri bulunur. Alara'dan sulama kanalları ile alınan sular sahil düzlüğünde sulamada kullanılmaktadır. Manavgat'da 7 köy, bir beldenin, Alanya'da 10 köy, 4 beldenin toprakları sulanmaktadır. Alanya'nın Avsallar ve Okurcalar köylerinin içme suyu kaynağıdır. Eskibağ ve Kayabükü köyleri sınırında Gündoğmuş Uçansu Şelalesi yer alır. Sular yaklaşık 50 metreden, birkaç kol halinde düşer.",
+      "char_count": 644,
+      "token_estimate": 161
+    },
+    {
+      "id": "c0004",
+      "section": "== Balıklar ==",
+      "heading_path": "== Balıklar ==",
+      "start_char": 2021,
+      "end_char": 2550,
+      "content": "== Balıklar == Alara Çayı'nda yapılan araştırmada aşağıdaki balıkların bulunduğu belirlenmiştir: Yılan balığı (Anguilla anguilla), Alabalık (Dağalabalığı, Salmo trutta macrostigma), Gökkuşağı alabalığı (Oncorhynchus mykiss), sazan (Cyprinus carpio), Siraz (Karabalık, Capoeta capoeta angorae), Sivrisinek balığı (Gambusia affinis), Has kefal (Topan kefal, Mankafa, Mugil cephalus), Kefal balığı (İncedudaklı kefal, Ceran, Liza ramada), Horozbina balığı (Salaria fluviatilis). Gökkuşağı alabalığı varlığının azaldığı görülmüştür.",
+      "char_count": 528,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0005",
+      "section": "== Barajlar ==",
+      "heading_path": "== Barajlar ==",
+      "start_char": 2550,
+      "end_char": 2845,
+      "content": "== Barajlar == Alara Çayı üzerinde biri baraj, yedisi nehir tipi hes olmak üzere toplam sekiz HES projesi bulunmaktadır. Heslerin üçü ile ilgili hukuki süreç devam etmektedir. Projelendirilen Alara barajı için, kireçtaşı katmanları arasından baraj sularında kaçak oluşacağı tahmin edilmektedir.",
+      "char_count": 294,
+      "token_estimate": 73
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Alara Çayı hangi derelerin birleşimiyle oluşur?",
+        "answer": "Oğuz, Çakalsakmak, Alıkpazı ve Yukarıbük derelerinin birleşimiyle oluşur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Alara Çayı, Orta Toroslar'daki kaynaklarından Akdeniz'e ulaşan 82 km'lik akışı boyunca hangi coğrafi oluşumlarla ve su özellikleriyle tanımlanmaktadır?",
+        "answer": "Alara Çayı, Orta Toroslar'daki 2.647 m yüksekliğindeki Kuşakdağı ve Akdağ'dan kaynağını alır, aynı zamanda Gündoğmuş ilçesinin güneydoğusundaki Oğuz, Çakalsakmak, Alıkpazı ve Yukarıbük derelerinin birleşimiyle oluşur. 82 km uzunluğundaki akışı boyunca Gündoğmuş–Alanya ve Alanya–Manavgat ilçe sınırlarını oluşturur, Alanya'nın batı kesimini iç kısımlara bağlayan bir geçit görevi görür ve Antalya Ovası'nı oluşturan akarsulardan biridir. Hızlı akışlı olmasıyla bilinen çay, sahilde taşıdığı çakılların kapladığı plajlar oluşturmuştur. Debisi 31,2 m³/sn olup, yapılan analizlerde yer üstü su kalitesi yönetmeliğine göre Çok İyi Su ve kıta içi su kalitesine göre 1. sınıf niteliğindedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "cihatbaban_1ef493e0",
+    "title": "Cihat Baban",
+    "url": "https://tr.wikipedia.org/wiki/Cihat_Baban",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:40.060830",
+    "content": "Mustafa Cihat Baban (d. 1911, İstanbul - ö. 28 Eylül 1984), Türk gazeteci ve siyasetçi. İstanbul Üniversitesi Hukuk Fakültesi'ni bitirdi. İstanbul Hakim Muavinliği, Yeni Sabah ve Cumhuriyet gazeteleri Yazı İşleri Müdürlüğü, Tasvir gazetesi sahipliği ve başyazarlığı, VIII. ve 1. (XII) Dönem İstanbul, IX. ve X. Dönem İzmir, 2. (XIII) Dönem Çanakkale Milletvekilliği, Kurucu Meclis Cumhuriyet Halk Partisi Temsilciliği (6 Ocak 1961 - 15 Ekim 1961), Basın, Yayın ve Turizm Bakanlığı ve dışarıdan Kültür Bakanlığı yaptı. Evliydi. == \"İsa Öncesinden Günümüze Kadar Çin Tarihi\" kitabı arka kapak yazısı == Eski Piyade Dairesi Başkanlarından Borlu Mirliva Pirizade Sadık Paşa ile eski Hicaz ve Yanya Valisi Mustafa Zihni Paşa'nın torunu olan Cihat Baban, 1911'de İstanbul'da doğdu, annesi Ayşe Seniha Hanım, babası Süleyman Hikmet Bey'dir. İlk ve orta öğrenimini Galatasaray Lisesi'nde tamamlayan Cihat Baban bu okuldan 1931 yılında mezun olduktan sonra 1934'te de İstanbul Hukuk Fakültesi'ni bitirdi. Cihat Baban, bir süre Adliye'ye hizmet etti, İstanbul Ağır Ceza Mahkemesi'nde Aza Yardımcılığı yaptı, daha üniversitede iken gazetelere çeviri yapar Yazı İşleri Müdürlüğü'nde çalışırdı. Doğunun kalkındırılması çalışmaları sırasında Erzurum Doğu gazetesini çıkamaya gitti, dönüşünde Yeni Sabah ve Cumhuriyet gazetelerinde çalıştı, Tasvir-i Efkar Yazı İşleri Müdürü oldu. Bu gazetenin Başyazarı Velid Ebüzziya'nın vefatından sonra 1946'da Tasvir gazetesinin başına geçti. 1946 seçimlerinde İstanbul Milletvekili olan Cihat Baban, 1950 ve 1954'te İzmir Milletvekili oldu. 27 Mayıs 1960'ta Basın Yayın ve Turizm Bakanlığı'na getirilen Baban, 1961'de İstanbul'dan, 1965'te de Çanakkale'den Milletvekili seçildi. Bütün bu faaliyetleri arasında kalemini elinden bırakmadı. Ankara'da Yeni Gün, Ulus Başyazarlığı yaptı, 1980'de de Kültür Bakanlığı vazifesine getirildi. Kitapları arasında (Politikası galerisi, Büstler ve portreler) çok okundu, bu kitap (İsa Öncesinden Günümüze Kadar Çin Tarihi) son eserinden biridir. == Cihat Baban'ın bugüne kadar yayınlanmış eserleri == Hitler ve Nasyonal Sosyalizm - 1933 İsyan (Roman Georges Simenon'dan tercüme - 1944 Mezada çıkarılan kadınlar (tercüme roman) (Clement Vautel) - 1945 Çörçil - 1958 Adenauer (Biyografi) - 1965 Çin - Rus anlaşmazlığı (Etüd) - 1965 Truman'ın Hatıraları - 1965 Politika Galerisi (Büst ve portreler) - 1970 Meydan Sohbetleri - 1983 İsa Öncesinden Günümüze Kadar Çin Tarihi - 1983 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 340,
+      "char_count": 2451,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.624384",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 527,
+      "content": "Mustafa Cihat Baban (d. 1911, İstanbul - ö. 28 Eylül 1984), Türk gazeteci ve siyasetçi. İstanbul Üniversitesi Hukuk Fakültesi'ni bitirdi. İstanbul Hakim Muavinliği, Yeni Sabah ve Cumhuriyet gazeteleri Yazı İşleri Müdürlüğü, Tasvir gazetesi sahipliği ve başyazarlığı, VIII. ve 1. (XII) Dönem İstanbul, IX. ve X. Dönem İzmir, 2. (XIII) Dönem Çanakkale Milletvekilliği, Kurucu Meclis Cumhuriyet Halk Partisi Temsilciliği (6 Ocak 1961 - 15 Ekim 1961), Basın, Yayın ve Turizm Bakanlığı ve dışarıdan Kültür Bakanlığı yaptı. Evliydi.",
+      "char_count": 526,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0001",
+      "section": "== \"İsa Öncesinden Günümüze Kadar Çin Tarihi\" kitabı arka kapak yazısı ==",
+      "heading_path": "== \"İsa Öncesinden Günümüze Kadar Çin Tarihi\" kitabı arka kapak yazısı ==",
+      "start_char": 527,
+      "end_char": 1527,
+      "content": "== \"İsa Öncesinden Günümüze Kadar Çin Tarihi\" kitabı arka kapak yazısı == Eski Piyade Dairesi Başkanlarından Borlu Mirliva Pirizade Sadık Paşa ile eski Hicaz ve Yanya Valisi Mustafa Zihni Paşa'nın torunu olan Cihat Baban, 1911'de İstanbul'da doğdu, annesi Ayşe Seniha Hanım, babası Süleyman Hikmet Bey'dir. İlk ve orta öğrenimini Galatasaray Lisesi'nde tamamlayan Cihat Baban bu okuldan 1931 yılında mezun olduktan sonra 1934'te de İstanbul Hukuk Fakültesi'ni bitirdi. Cihat Baban, bir süre Adliye'ye hizmet etti, İstanbul Ağır Ceza Mahkemesi'nde Aza Yardımcılığı yaptı, daha üniversitede iken gazetelere çeviri yapar Yazı İşleri Müdürlüğü'nde çalışırdı. Doğunun kalkındırılması çalışmaları sırasında Erzurum Doğu gazetesini çıkamaya gitti, dönüşünde Yeni Sabah ve Cumhuriyet gazetelerinde çalıştı, Tasvir-i Efkar Yazı İşleri Müdürü oldu. Bu gazetenin Başyazarı Velid Ebüzziya'nın vefatından sonra 1946'da Tasvir gazetesinin başına geçti. 1946 seçimlerinde İstanbul Milletvekili olan Cihat Baban, 195",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== \"İsa Öncesinden Günümüze Kadar Çin Tarihi\" kitabı arka kapak yazısı ==",
+      "heading_path": "== \"İsa Öncesinden Günümüze Kadar Çin Tarihi\" kitabı arka kapak yazısı ==",
+      "start_char": 1327,
+      "end_char": 2006,
+      "content": "asvir-i Efkar Yazı İşleri Müdürü oldu. Bu gazetenin Başyazarı Velid Ebüzziya'nın vefatından sonra 1946'da Tasvir gazetesinin başına geçti. 1946 seçimlerinde İstanbul Milletvekili olan Cihat Baban, 1950 ve 1954'te İzmir Milletvekili oldu. 27 Mayıs 1960'ta Basın Yayın ve Turizm Bakanlığı'na getirilen Baban, 1961'de İstanbul'dan, 1965'te de Çanakkale'den Milletvekili seçildi. Bütün bu faaliyetleri arasında kalemini elinden bırakmadı. Ankara'da Yeni Gün, Ulus Başyazarlığı yaptı, 1980'de de Kültür Bakanlığı vazifesine getirildi. Kitapları arasında (Politikası galerisi, Büstler ve portreler) çok okundu, bu kitap (İsa Öncesinden Günümüze Kadar Çin Tarihi) son eserinden biridir.",
+      "char_count": 679,
+      "token_estimate": 169
+    },
+    {
+      "id": "c0003",
+      "section": "== Cihat Baban'ın bugüne kadar yayınlanmış eserleri ==",
+      "heading_path": "== Cihat Baban'ın bugüne kadar yayınlanmış eserleri ==",
+      "start_char": 2007,
+      "end_char": 2437,
+      "content": "== Cihat Baban'ın bugüne kadar yayınlanmış eserleri == Hitler ve Nasyonal Sosyalizm - 1933 İsyan (Roman Georges Simenon'dan tercüme - 1944 Mezada çıkarılan kadınlar (tercüme roman) (Clement Vautel) - 1945 Çörçil - 1958 Adenauer (Biyografi) - 1965 Çin - Rus anlaşmazlığı (Etüd) - 1965 Truman'ın Hatıraları - 1965 Politika Galerisi (Büst ve portreler) - 1970 Meydan Sohbetleri - 1983 İsa Öncesinden Günümüze Kadar Çin Tarihi - 1983",
+      "char_count": 429,
+      "token_estimate": 107
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cihat Baban Galatasaray Lisesi'nden hangi yıl mezun olmuştur?",
+        "answer": "1931 yılında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cihat Baban, milletvekilliği ve bakanlık gibi önemli siyasi görevlerde bulunurken gazetecilik kariyerine nasıl devam etmiştir?",
+        "answer": "Cihat Baban, üniversite yıllarından itibaren gazetecilikle ilgilenmiş, Yeni Sabah ve Cumhuriyet gazetelerinde Yazı İşleri Müdürlüğü yapmış ve Tasvir gazetesinin başına geçmiştir. Milletvekilliği ve Basın, Yayın ve Turizm Bakanlığı ile Kültür Bakanlığı gibi siyasi faaliyetleri arasında dahi kalemini elinden bırakmamış, Ankara'da Yeni Gün ve Ulus gazetelerinde başyazarlık görevini sürdürmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

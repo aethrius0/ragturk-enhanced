@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "akrobasi_00e0dc61",
+    "title": "Akrobasi",
+    "url": "https://tr.wikipedia.org/wiki/Akrobasi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:11.931077",
+    "content": "Akrobasi geleneksel olarak yerde, ip, tel, bisiklet veya at üstünde yapılan; insan bedeninin denge, koordinasyon ve kıvraklıkla ilgili tüm yetkinliklerinden yararlanan, vücut kontrolüne dayalı bir gösteri sanatıdır. Günümüzde spor olarak da kabul edilir. == Tarihçe == === Avrupa === Batı kültüründe kökenleri oldukça eskiye dayanır. Minoan Uygarlığı'ndan (M.Ö. 2000) kalma eserlerde boğa sırtında akrobasi sergileyen figürler yer alır. Bunların o döneme ait dinsel ritüeller oldukları sanılmaktadır. Orta Çağ'da ise, Avrupalı asillerden oluşan meclislerde çeşitli hokkabazlık gösterileri yapıldığı bilinir. Önceleri ip üstünde yapılan gösteriler için kullanılmakla birlikte tanım, daha sonraları jimnastik sporunu ve bazı sirk gösterini de kapsayacak şekilde genişledi. Akrobasi ve jimnastik yarışmaları 19. yüzyılda Avrupa'da yaygınlaşmıştır. === Çin === Çin kültüründe akrobasi, 2500 yıl önce yapılmakta olan hasat festivallerine dayanır. Tang Hanedanlığı boyunca, Orta Çağ avrupasında oldugu gibi önem kazanmış ve imparatorlar için gösteriler yapılmıştır. Günümüzde Çin'de yüz yirmiden fazla akrobasi grubu ülke çapında gösteriler düzenlemekte, Çinli akrobatlar uluslararası festivallerde başarılar kazanmaktadır. === Türkiye === Türkiye'de akrobasinin, dünya turları düzenleyen avrupalı akrobatların Türkiye'ye gelmeleri sonucu sevildiği sanılır. Cumhuriyet'in ilk yıllarında İp ten tele geçiş ile birlikte bu sanata ilgi duyulmuş çeşitli akrobatlar yetişmiştir. Bu dönemde yetişen akrobatlardan Muğlalı Yakup ya da halk arasında bilinen adıyla Tel Cambazı Yakubi ve Farabi takma adıyla bilinen Selanik 'li sihirbaz Selim Öktülmüş bunlardan birkaçıdır. O dönemlerde akrobatlık Cambazhane adı verilen yerlerde yapılırdı. Cambazhanelerde tel cambazlığının dışında Karagöz ve Hacivat, Kukla tiyatrosu, Meddah, Sihirbaz, Ateş yutan adam ve Tahta bacak gibi vazgeçilmez geleneksel etkinliklere yer verilirdi. == Ayrıca bakınız == Aerobasi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 247,
+      "char_count": 1938,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.057835",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 255,
+      "content": "Akrobasi geleneksel olarak yerde, ip, tel, bisiklet veya at üstünde yapılan; insan bedeninin denge, koordinasyon ve kıvraklıkla ilgili tüm yetkinliklerinden yararlanan, vücut kontrolüne dayalı bir gösteri sanatıdır. Günümüzde spor olarak da kabul edilir.",
+      "char_count": 254,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0001",
+      "section": "=== Avrupa ===",
+      "heading_path": "=== Avrupa ===",
+      "start_char": 269,
+      "end_char": 845,
+      "content": "=== Avrupa === Batı kültüründe kökenleri oldukça eskiye dayanır. Minoan Uygarlığı'ndan (M.Ö. 2000) kalma eserlerde boğa sırtında akrobasi sergileyen figürler yer alır. Bunların o döneme ait dinsel ritüeller oldukları sanılmaktadır. Orta Çağ'da ise, Avrupalı asillerden oluşan meclislerde çeşitli hokkabazlık gösterileri yapıldığı bilinir. Önceleri ip üstünde yapılan gösteriler için kullanılmakla birlikte tanım, daha sonraları jimnastik sporunu ve bazı sirk gösterini de kapsayacak şekilde genişledi. Akrobasi ve jimnastik yarışmaları 19. yüzyılda Avrupa'da yaygınlaşmıştır.",
+      "char_count": 575,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0002",
+      "section": "=== Çin ===",
+      "heading_path": "=== Çin ===",
+      "start_char": 845,
+      "end_char": 1218,
+      "content": "=== Çin === Çin kültüründe akrobasi, 2500 yıl önce yapılmakta olan hasat festivallerine dayanır. Tang Hanedanlığı boyunca, Orta Çağ avrupasında oldugu gibi önem kazanmış ve imparatorlar için gösteriler yapılmıştır. Günümüzde Çin'de yüz yirmiden fazla akrobasi grubu ülke çapında gösteriler düzenlemekte, Çinli akrobatlar uluslararası festivallerde başarılar kazanmaktadır.",
+      "char_count": 372,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0003",
+      "section": "=== Türkiye ===",
+      "heading_path": "=== Türkiye ===",
+      "start_char": 1218,
+      "end_char": 1909,
+      "content": "=== Türkiye === Türkiye'de akrobasinin, dünya turları düzenleyen avrupalı akrobatların Türkiye'ye gelmeleri sonucu sevildiği sanılır. Cumhuriyet'in ilk yıllarında İp ten tele geçiş ile birlikte bu sanata ilgi duyulmuş çeşitli akrobatlar yetişmiştir. Bu dönemde yetişen akrobatlardan Muğlalı Yakup ya da halk arasında bilinen adıyla Tel Cambazı Yakubi ve Farabi takma adıyla bilinen Selanik 'li sihirbaz Selim Öktülmüş bunlardan birkaçıdır. O dönemlerde akrobatlık Cambazhane adı verilen yerlerde yapılırdı. Cambazhanelerde tel cambazlığının dışında Karagöz ve Hacivat, Kukla tiyatrosu, Meddah, Sihirbaz, Ateş yutan adam ve Tahta bacak gibi vazgeçilmez geleneksel etkinliklere yer verilirdi.",
+      "char_count": 690,
+      "token_estimate": 172
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1909,
+      "end_char": 1938,
+      "content": "== Ayrıca bakınız == Aerobasi",
+      "char_count": 29,
+      "token_estimate": 7
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "O dönemlerde Cambazhanelerde tel cambazlığının yanı sıra hangi geleneksel etkinliklere yer verilirdi?",
+        "answer": "Karagöz ve Hacivat, Kukla tiyatrosu, Meddah, Sihirbaz, Ateş yutan adam ve Tahta bacak gibi vazgeçilmez geleneksel etkinliklere yer verilirdi.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Akrobasinin tanımı ve spor olarak kabul edilişi, Avrupa'daki tarihi gelişim sürecinde nasıl bir dönüşüm geçirmiştir?",
+        "answer": "Akrobasi, başlangıçta yerde, ip, tel, bisiklet veya at üstünde denge, koordinasyon ve kıvraklıkla ilgili yetkinliklerden yararlanan vücut kontrolüne dayalı bir gösteri sanatı iken, Avrupa'daki tarihi süreçte kapsamını genişletmiştir. Minoan Uygarlığı'ndaki dinsel ritüellerden ve Orta Çağ'daki asillerin meclislerindeki hokkabazlık gösterilerinden sonra, tanımı sadece ip üstünde yapılan gösterilerle sınırlı kalmamış; jimnastik sporunu ve bazı sirk gösterilerini de içine alacak şekilde genişlemiştir. Bu genişleme sonucunda, 19. yüzyılda Avrupa'da akrobasi ve jimnastik yarışmaları yaygınlaşarak, günümüzde bir spor olarak kabul edilmesini sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

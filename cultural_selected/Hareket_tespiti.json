@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "harekettespiti_e78b2cbd",
+    "title": "Hareket tespiti",
+    "url": "https://tr.wikipedia.org/wiki/Hareket_tespiti",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:13.922819",
+    "content": "Hareket algılama, bir nesnenin konumuna göre çevresindeki bir değişikliği veya bir nesneye göre çevredeki bir değişikliği algılama işlemidir. Hareket algılama, mekanik veya elektronik yöntemlerle gerçekleştirilebilir. Hareket tespiti doğal organizmalar tarafından gerçekleştirildiğinde buna hareket algısı denir. == Yöntemler == Hareket aşağıdaki yollarla tespit edilebilir: Kızılötesi (pasif ve aktif sensörler) Optik (video ve kamera sistemleri) Radyo Frekans Enerjisi (radar, mikrodalga ve tomografik hareket algılama) Ses (mikrofonlar ve akustik sensörler) Titreşim (triboelektrik, sismik ve atalet anahtarı sensörleri) Manyetizma (manyetik sensörler ve manyetometreler) === Mekanik === Mekanik hareketleri algılamanın en temel şekli bir anahtar veya tetiktir. Örneğin, bir daktilonun tuşları, hareketi tespit etmek için mekanik bir yöntem kullanır. Her tuş, kapalı veya açık olan manuel bir anahtardır. Görünen her harf, ilgili tuşa yapılan hareketin ve anahtarın açılmasının bir sonucudur. === Elektronik === Hareketin elektronik olarak tespit edilebileceği başlıca yöntemler optik algılama ve akustik algılamadır. Optik algılama için kızılötesi ışık veya lazer teknolojisi kullanılabilir. PIR hareket dedektörleri gibi hareket algılama cihazları, kızılötesi spektrumda bozukluğu tespit eden bir sensöre sahiptir. Bir kez tespit edildiğinde, sinyal, hareket ettiricinin görüntüsünü veya videosunu yakalayabilen bir alarmı veya kamerayı etkinleştirebilir. Bu tür bir tespit için başlıca uygulamalar, yetkisiz girişin tespiti, aydınlatmayı söndürmek için bir alanın boşalması ve olayları kaydetmek için bir kamerayı tetikleyen hareketli bir nesnenin tespit edilmesidir. Sabit bir kameranın hareket algılaması için basit bir algoritma, geçerli görüntüyü bir referans görüntü ile karşılaştırır ve sadece farklı piksel sayısını sayar. Değişen aydınlatma, kamera titremesi ve CCD karanlık akımları gibi faktörler nedeniyle görüntüler doğal olarak farklılık göstereceğinden, hatalı pozitif alarmların sayısını azaltmak için kullanışlıdır. Fotoğraf makinesinin kendisi hareket ederken veya belirli bir nesnenin hareketi göz ardı edilebilecek bir alanda hareket tespit edilmesi gerektiğinde, hareketi tespit etmek için daha karmaşık algoritmalar gerekir. Örnek olarak, bir sanat galerisinde ziyaretçilerin çevrelediği bir resim olabilir. Hareketli bir kamera söz konusu olduğunda, kamera hareketinden ve hareket eden bağımsız nesnelerin hareketinden kaynaklanan belirgin arka plan hareketi arasında ayrım yapmak için optik akışa dayalı modeller kullanılır. == Cihazlar == Hareket detektörü, hareketli nesneleri, özellikle de insanları tespit eden bir cihazdır. Böyle bir cihaz, genellikle görevi otomatik olarak gerçekleştiren veya bir alandaki hareket kullanıcısını uyaran sistemin bileşeni olarak entegre edilir. Bir doluluk sensörü, belirli bir alandaki bir şeyin varlığını algılar. Hareket detektörleri, oyun kumandası olarak da kullanılır (ör. Wii). Bir kamera ayrıca vücudun hareketlerinin Kinect sistemi gibi bir giriş cihazı olarak kullanılmasına izin verebilir. == Kaynakça == == Dış bağlantılar == https://www.youtube.com/watch?v=_tdzQyFsv4s 6 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi. https://dl.acm.org/doi/10.1016/j.imavis.2006.10.001 9 Haziran 2020 tarihinde Wayback Machine sitesinde arşivlendi. https://www.cs.rochester.edu/u/nelson/research/motion/motion.html 20 Mayıs 2020 tarihinde Wayback Machine sitesinde arşivlendi. https://web.archive.org/web/20140930143856/http://blog.sparksdirect.co.uk/the-presence-detectors-and-the-absence-detectors-explained-energy-saving-solutions/ https://www.youtube.com/watch?v=5yHdful_uvI 6 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 429,
+      "char_count": 3715,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.875545",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 313,
+      "content": "Hareket algılama, bir nesnenin konumuna göre çevresindeki bir değişikliği veya bir nesneye göre çevredeki bir değişikliği algılama işlemidir. Hareket algılama, mekanik veya elektronik yöntemlerle gerçekleştirilebilir. Hareket tespiti doğal organizmalar tarafından gerçekleştirildiğinde buna hareket algısı denir.",
+      "char_count": 312,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0001",
+      "section": "== Yöntemler ==",
+      "heading_path": "== Yöntemler ==",
+      "start_char": 313,
+      "end_char": 675,
+      "content": "== Yöntemler == Hareket aşağıdaki yollarla tespit edilebilir: Kızılötesi (pasif ve aktif sensörler) Optik (video ve kamera sistemleri) Radyo Frekans Enerjisi (radar, mikrodalga ve tomografik hareket algılama) Ses (mikrofonlar ve akustik sensörler) Titreşim (triboelektrik, sismik ve atalet anahtarı sensörleri) Manyetizma (manyetik sensörler ve manyetometreler)",
+      "char_count": 361,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0002",
+      "section": "=== Mekanik ===",
+      "heading_path": "=== Mekanik ===",
+      "start_char": 675,
+      "end_char": 996,
+      "content": "=== Mekanik === Mekanik hareketleri algılamanın en temel şekli bir anahtar veya tetiktir. Örneğin, bir daktilonun tuşları, hareketi tespit etmek için mekanik bir yöntem kullanır. Her tuş, kapalı veya açık olan manuel bir anahtardır. Görünen her harf, ilgili tuşa yapılan hareketin ve anahtarın açılmasının bir sonucudur.",
+      "char_count": 320,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0003",
+      "section": "=== Elektronik ===",
+      "heading_path": "=== Elektronik ===",
+      "start_char": 996,
+      "end_char": 1996,
+      "content": "=== Elektronik === Hareketin elektronik olarak tespit edilebileceği başlıca yöntemler optik algılama ve akustik algılamadır. Optik algılama için kızılötesi ışık veya lazer teknolojisi kullanılabilir. PIR hareket dedektörleri gibi hareket algılama cihazları, kızılötesi spektrumda bozukluğu tespit eden bir sensöre sahiptir. Bir kez tespit edildiğinde, sinyal, hareket ettiricinin görüntüsünü veya videosunu yakalayabilen bir alarmı veya kamerayı etkinleştirebilir. Bu tür bir tespit için başlıca uygulamalar, yetkisiz girişin tespiti, aydınlatmayı söndürmek için bir alanın boşalması ve olayları kaydetmek için bir kamerayı tetikleyen hareketli bir nesnenin tespit edilmesidir. Sabit bir kameranın hareket algılaması için basit bir algoritma, geçerli görüntüyü bir referans görüntü ile karşılaştırır ve sadece farklı piksel sayısını sayar. Değişen aydınlatma, kamera titremesi ve CCD karanlık akımları gibi faktörler nedeniyle görüntüler doğal olarak farklılık göstereceğinden, hatalı pozitif alarmla",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "=== Elektronik ===",
+      "heading_path": "=== Elektronik ===",
+      "start_char": 1796,
+      "end_char": 2553,
+      "content": "ve sadece farklı piksel sayısını sayar. Değişen aydınlatma, kamera titremesi ve CCD karanlık akımları gibi faktörler nedeniyle görüntüler doğal olarak farklılık göstereceğinden, hatalı pozitif alarmların sayısını azaltmak için kullanışlıdır. Fotoğraf makinesinin kendisi hareket ederken veya belirli bir nesnenin hareketi göz ardı edilebilecek bir alanda hareket tespit edilmesi gerektiğinde, hareketi tespit etmek için daha karmaşık algoritmalar gerekir. Örnek olarak, bir sanat galerisinde ziyaretçilerin çevrelediği bir resim olabilir. Hareketli bir kamera söz konusu olduğunda, kamera hareketinden ve hareket eden bağımsız nesnelerin hareketinden kaynaklanan belirgin arka plan hareketi arasında ayrım yapmak için optik akışa dayalı modeller kullanılır.",
+      "char_count": 757,
+      "token_estimate": 189
+    },
+    {
+      "id": "c0005",
+      "section": "== Cihazlar ==",
+      "heading_path": "== Cihazlar ==",
+      "start_char": 2554,
+      "end_char": 3068,
+      "content": "== Cihazlar == Hareket detektörü, hareketli nesneleri, özellikle de insanları tespit eden bir cihazdır. Böyle bir cihaz, genellikle görevi otomatik olarak gerçekleştiren veya bir alandaki hareket kullanıcısını uyaran sistemin bileşeni olarak entegre edilir. Bir doluluk sensörü, belirli bir alandaki bir şeyin varlığını algılar. Hareket detektörleri, oyun kumandası olarak da kullanılır (ör. Wii). Bir kamera ayrıca vücudun hareketlerinin Kinect sistemi gibi bir giriş cihazı olarak kullanılmasına izin verebilir.",
+      "char_count": 513,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3083,
+      "end_char": 3715,
+      "content": "== Dış bağlantılar == https://www.youtube.com/watch?v=_tdzQyFsv4s 6 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi. https://dl.acm.org/doi/10.1016/j.imavis.2006.10.001 9 Haziran 2020 tarihinde Wayback Machine sitesinde arşivlendi. https://www.cs.rochester.edu/u/nelson/research/motion/motion.html 20 Mayıs 2020 tarihinde Wayback Machine sitesinde arşivlendi. https://web.archive.org/web/20140930143856/http://blog.sparksdirect.co.uk/the-presence-detectors-and-the-absence-detectors-explained-energy-saving-solutions/ https://www.youtube.com/watch?v=5yHdful_uvI 6 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 632,
+      "token_estimate": 158
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hareketin elektronik olarak tespit edilebileceği başlıca yöntemler nelerdir?",
+        "answer": "Optik algılama ve akustik algılama.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hareket algılama tanımına göre, bu sürecin gerçekleştirilebileceği başlıca elektronik yöntemler nelerdir?",
+        "answer": "Hareket algılama, bir nesnenin konumuna göre çevresindeki bir değişikliği veya bir nesneye göre çevredeki bir değişikliği algılama işlemidir ve elektronik yöntemlerle gerçekleştirilebilir. Bu elektronik yöntemler arasında Kızılötesi, Optik, Radyo Frekans Enerjisi, Ses, Titreşim ve Manyetizma bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

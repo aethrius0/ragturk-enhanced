@@ -1,0 +1,344 @@
+{
+  "article": {
+    "id": "belirlemekuram_69744fbc",
+    "title": "Belirleme kuramı",
+    "url": "https://tr.wikipedia.org/wiki/Belirleme_kuram%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:05.523761",
+    "content": "Belirleme kuramı veya sinyal belirleme kuramı, bilgi taşıyan örüntüler (canlı organizmalarda uyaran Sinyal, makinelerde sinyal olarak adlandırılır) ile bilgiden uzaklaştıran rastgele örüntüler (belirleme makinesinin ve operatörün sinir sisteminin arka plan uyaranlarının rastgele hareketlerinden oluşan gürültü olarak adlandırılır) arasında ayrım yapma yeteneğini ölçmek için kullanılan bir araçtır. Elektronik alanında, bu tür örüntülerin gizlenen bir arka plandan ayrılması, sinyal kurtarma olarak adlandırılır. Bu kurama göre, bir belirleme sisteminin bir sinyalin nasıl belirleneceğine ve eşik değeri seviyelerinin nerede olacağına dair bir takım belirteçler bulunur. Bu kuram, eşik değerinin değiştirilmesinin ayırt etme yeteneğini nasıl etkileyeceğini açıklayabilir, genellikle sistemin hedeflendiği göreve, amaca veya hedefe ne kadar uyarlandığını açığa çıkarır. Belirleyen sistem bir insan olduğunda, deneyim, beklentiler, fizyolojik durum (örneğin yorgunluk) ve diğer faktörler gibi özellikler uygulanan eşik değerini etkileyebilir. Örneğin, savaş zamanında bir nöbetçi asker, daha düşük bir kriter nedeniyle barış zamanındaki aynı nöbetçi askere göre, daha zayıf uyaranları algılayabilir, ancak zararsız uyaranları bir tehdit olarak ele alma olasılıkları daha yüksek olabilir. Belirleme kuramına dair erken dönem çalışmaların çoğu, radar araştırmacıları tarafından yapılmıştır. 1954 yılına gelindiğinde, bu kuram Peterson, Birdsall ve Fox tarafından tarif edildiği gibi kuramsal açıdan tamamen geliştirildi ve psikolojik kuramın temeli Wilson P. Tanner, David M. Green ve John A. Swets tarafından yapıldı. 1954 yılında. Belirleme teorisi 1966'da John A. Swets ve David M. Green tarafından psikofizik için kullanıldı. Green ve Swets, geleneksel psikofizik yöntemlerini, öznelerin gerçek duyarlılığı ile (potansiyel) tepki önyargıları arasında ayrım yapamamaları nedeniyle eleştirdiler. Belirleme kuramının her türlü tanı , kalite kontrol, telekomünikasyon ve psikoloji gibi birçok alanda uygulamaları bulunmaktadır. Kavram, bu bilimlerde kullanılan sinyal-gürültü oranı ve yapay zekada kullanılan karmaşıklık matrislerine benzer. Ayrıca, önemli olayları arka plan gürültüsünden ayırmanın önemli olduğu alarm yönetiminde de kullanılabilir. == Psikoloji == Sinyal belirleme kuramı (SBK), psikologlar, sisli hava koşullarında mesafe algısı ya da görgü tanığı teşhisi gibi belirsiz koşullar altında karar veriş biçimimizi ölçmek istediğinde kullanılır. Sinyal belirleme kuramı, belirsiz koşullar altındaki zorlu algı yargıları yapan karar vericinin pasif bir bilgi alıcısı değil aktif olarak karar veren olduğunu kabul eder. Sisli koşullarda, bir objenin bizden ne kadar uzakta olduğuna sadece sis yüzünden bulanıklaşmış olan görsel uyarana dayanarak karar vermek zorunda kalırız. Beyin, örneğin trafik ışığı gibi bir objenin parlaklığını objenin mesafesini kestirmek için kullandığından sis tarafından parlaklığı azaltılmış nesneyi gerçekte olduğundan çok daha uzakta farz eder. (bknz: karar teorisi) SBK'ye göre, görgü tanığı teşhisi sırasında tanıklar, şüphelinin suçlu olup olmadığına dair kararlarını, şüpheliyi algıladıkları aşinalık düzeyine dayandırmaktadır. . Sinyal belirleme kuramı, uyarıcının bazı durumlarda var bazı durumlarda yok olduğu bir veri grubuna uygulanınca, her denemede uyarıcının varlığını ve yokluğunu dile getiren gözlemcinin cevabı dört kategoriden birine girer: Bu tür denemelerin oranlarına dayalı olarak, duyarlılık indeksi d' ve A', gibi istatistiklerle duyarlılık sayısal tahminleri elde edilebilir ve c ve β gibi istatistiklerle yanıt yanlılığı tahmin edilebilir. Sinyal algılama teorisi, öğelerin daha sonra test edilmek üzere bir çalışma listesinde sunulduğu bellek deneylerine de uygulanabilir. Bu 'eski' öğeler ile çalışma listesinde yer almayan yeni, 'yeni' öğeler ile birleştirilerek bir test listesi oluşturulur. Her test denemesinde denek 'evet, bu çalışma listesindeydi' veya 'hayır, bu çalışma listesinde değildi' yanıtını verecektir. Çalışma listesinde sunulan öğelere Hedefler, yeni öğelere Çeldiriciler denir. Bir hedefe 'Evet' demek bir İsabet teşkil ederken, bir çeldiriciye 'Evet' demek bir Yanlış Alarm teşkil eder. == Uygulamalar == Sinyal Belirleme Kuramı, hem insanlarda hem de hayvanlarda geniş bir uygulama alanına sahiptir. Uygulandığı konular arasında hafıza, pekiştirme programlarının uyarıcı özellikleri vb. yer almaktadır. === Hassasiyet (duyarlılık) veya ayırt edilebilirlik === Kavramsal olarak duyarlılık (hassasiyet), arka plan olaylarından bir hedef uyarıcının mevcut olduğunu tespit etmenin ne kadar zor veya kolay olduğunu ifade eder. Örneğin, bir tanıma belleği paradigmasında, hatırlanacak sözcüklerin daha uzun süre çalışılması, daha önce görülen veya duyulan sözcüklerin tanınmasını kolaylaştırır. Buna karşılık, 5 yerine 30 kelimeyi hatırlamak zorunda kalmak, ayırt etmeyi zorlaştırmaktadır. Duyarlılığı hesaplamak için en yaygın olarak kullanılan istatistiklerden biri, sözde duyarlılık indeksi veya d' dir . ROC eğrisinin altındaki alan gibi parametrik olmayan ölçüler de vardır. === Önyargı === Önyargı, bir yanıtın diğerinden daha olası olma derecesidir. Yani, bir alıcının bir uyaranın mevcut olduğuna yanıt verme olasılığı daha yüksek olabilir veya bir uyaranın mevcut olmadığına yanıt verme olasılığı daha yüksek olabilir. Önyargı, hassasiyetten bağımsızdır. Örneğin, yanlış alarmlar veya ıskalar için bir ceza varsa, bu önyargıyı etkileyebilir. Uyarıcı bir bombardıman uçağıysa, o zaman bir ıskalama (uçağı tespit edememek) ölümleri artırabilir, bu nedenle liberal bir önyargı muhtemeldir. Buna karşılık, çok sık var bildirimi (yanlış alarm) insanları tepki verme olasılığını azaltarak muhafazakar bir önyargıya zemin hazırlayabilir. === Sıkıştırılmış hissetme === Sinyal algılama teorisi ile yakından ilgili olan başka bir alan, sıkıştırılmış algılama (veya sıkışık algılama) olarak adlandırılır. Sıkıştırılmış algılamanın amacı, yalnızca birkaç ölçümden yüksek boyutlu ancak karmaşıklığı düşük varlıkları kurtarmaktır. Bu nedenle, sıkıştırılmış algılamanın en önemli uygulamalarından biri, yalnızca birkaç doğrusal ölçümle seyrek (veya neredeyse seyrek) olarak bilinen yüksek boyutlu sinyallerin kurtarılmasıdır. Sinyallerin geri kazanılması için gereken ölçüm sayısı, sinyalin seyrek olması, yani yalnızca birkaç sıfır olmayan öğe içermesi koşuluyla, Nyquist örnekleme teoreminin gerektirdiğinden çok daha küçüktür. Sıkıştırılmış algılamada temel takip, genişletici kurtarma algoritması , CoSaMP ve ayrıca hızlı yinelemeli olmayan algoritma dahil olmak üzere farklı sinyal kurtarma yöntemleri vardır. Yukarıda bahsedilen tüm geri kazanım yöntemlerinde, olasılıklı yapılar veya deterministik yapılar kullanılarak uygun bir ölçüm matrisinin seçilmesi büyük önem taşımaktadır. Başka bir deyişle, ölçüm matrisleri, sağlam seyrek kurtarma elde etmek için RIP (Sınırlı İzometri Özelliği) veya Boş-Uzay özelliği gibi belirli belirli koşulları karşılamalıdır. == Matematik == === P(H1|y) > P(H2|y) / MAP testi === İki hipotez arasında bir karar verilmesi gerekirken ve belirli bir gözlem yapılırken, H1' in bulunmayan ve H2'nin bulunan olduğunu farz edersek, y, p(H1|y) > p(H2|y) olduğu durumda H1'i, ters durumda H2'yi seçmek klasik bir yaklaşım olacaktır . a posteriori ihtimallerin iki olay arasında eşit olduğu durumda ise, birinin sadece bir seçeneği seçeceği varsayılır (ya her zaman H1' i seçer ya da her zaman H2' yi) ya da H1 ve H2 arasında rastgele bir seçim yapar. H1 ve H2'nin a priori olasılıkları yapılan seçime rehberlik eder, her zaman a priori olasılığı yüksek olan bir hipotezi seçmek buna örnek olarak gösterilebilir. Bu yaklaşımı kullanırken, genellikle kişinin bildiği koşullu olasılıklar, p(y|H1) ve p(y|H2) ve a priori olasılıklar olan p ( H 1 ) = π 1 {\\displaystyle p(H1)=\\pi _{1}} ve p ( H 2 ) = π 2 {\\displaystyle p(H2)=\\pi _{2}} 'dır. Bu durumda, p ( H 1 | y ) = p ( y | H 1 ) ⋅ π 1 p ( y ) {\\displaystyle p(H1|y)={\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y)}}} , p ( H 2 | y ) = p ( y | H 2 ) ⋅ π 2 p ( y ) {\\displaystyle p(H2|y)={\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y)}}} p(y)' nin, y'nin bütün olasıkları olduğu durumda, p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}} . durumunda H2 seçilir p ( y | H 2 ) ⋅ π 2 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 ≥ p ( y | H 1 ) ⋅ π 1 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}\\geq {\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}} ⇒ p ( y | H 2 ) p ( y | H 1 ) ≥ π 1 π 2 {\\displaystyle \\Rightarrow {\\frac {p(y|H2)}{p(y|H1)}}\\geq {\\frac {\\pi _{1}}{\\pi _{2}}}} ve aksi halde H1 seçilir. Çoğu zaman, π 1 π 2 {\\displaystyle {\\frac {\\pi _{1}}{\\pi _{2}}}} oranına τ M A P {\\displaystyle \\tau _{MAP}} denirken p ( y | H 2 ) p ( y | H 1 ) {\\displaystyle {\\frac {p(y|H2)}{p(y|H1)}}} oranına L ( y ) {\\displaystyle L(y)} , olabilirlik oranı, denir. Bu terminolojiyi kullanarak, L ( y ) ≥ τ M A P {\\displaystyle L(y)\\geq \\tau _{MAP}} olduğu durumda H2 seçilir. MAP' in maksimum a posteriori' nin kısaltması olduğu bu duruma MAP testi denir. Bu yaklaşımı kullanmak, kişinin yapacağı beklenen hata sayısını en aza indirir. === Bayes kriteri === Bazı durumlarda H1 e uygun cevap vermek, H2 ye uygun cevap vermekten çok daha önemlidir. Örneğin, H1'i (gelen bombardıman uçağı nükleer silah taşıyor) vurgulayarak bir alarm çalarsa ve H1= DOĞRU ise bombardıman uçağını vurmak, yanlış alarmı (başka bir deyişle H1= YANLIŞ, H2=DOĞRU) denetlemek için hava filosu yollamaktansa, çok daha önemlidir. Bayes kriteri bu tür durumlar için uygun bir yaklaşımdır. Dört farklı durumla ilişkilendirilen olanaklar: U 11 {\\displaystyle U_{11}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H1 doğruysa: Hava filosu bombacı uçağı yok eder; bu hava filosu bir miktar yakıt, bakım ücreti, silah kaynağı kaybederler ve filodan bazılarının vurulma riskini göze alırlar; U 12 {\\displaystyle U_{12}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H2 doğruysa: Hava filosu gönderilir; bu hava filosu bir miktar yakıt ve bakım ücreti kaybeder ve bombacı uçağın yeri tespit edilemez. U 21 {\\displaystyle U_{21}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H1 doğruysa: şehir yıkılır; U 22 {\\displaystyle U_{22}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H2 doğruysa: hava filosu çıkış yapmaz ve bombacı uçağın yeri tespit edilemez. Aşağıda gösterildiği gibi, önemli olan farklılıklardır, U 11 − U 21 {\\displaystyle U_{11}-U_{21}} ve U 22 − U 12 {\\displaystyle U_{22}-U_{12}} . Benzer şekilde, ortada 4 olasılık vardır ve P 11 {\\displaystyle P_{11}} , P 12 {\\displaystyle P_{12}} , vb., kişinin karar verme stratejisine bağlı olan farklı durumları sembolize eder. Bayes kriter yaklaşımı, beklenen faydayı maksimize etmektir: U = P 11 ⋅ U 11 + P 21 ⋅ U 21 + P 12 ⋅ U 12 + P 22 ⋅ U 22 {\\displaystyle U=P_{11}\\cdot U_{11}+P_{21}\\cdot U_{21}+P_{12}\\cdot U_{12}+P_{22}\\cdot U_{22}} U = P 11 ⋅ U 11 + ( 1 − P 11 ) ⋅ U 21 + P 12 ⋅ U 12 + ( 1 − P 12 ) ⋅ U 22 {\\displaystyle U=P_{11}\\cdot U_{11}+(1-P_{11})\\cdot U_{21}+P_{12}\\cdot U_{12}+(1-P_{12})\\cdot U_{22}} U = U 21 + U 22 + P 11 ⋅ ( U 11 − U 21 ) − P 12 ⋅ ( U 22 − U 12 ) {\\displaystyle U=U_{21}+U_{22}+P_{11}\\cdot (U_{11}-U_{21})-P_{12}\\cdot (U_{22}-U_{12})} Etkili bir şekilde, kişi toplamı maksimize edebilir, U ′ = P 11 ⋅ ( U 11 − U 21 ) − P 12 ⋅ ( U 22 − U 12 ) {\\displaystyle U'=P_{11}\\cdot (U_{11}-U_{21})-P_{12}\\cdot (U_{22}-U_{12})} , ve aşağıdaki değişiklikleri yapar: P 11 = π 1 ⋅ ∫ R 1 p ( y | H 1 ) d y {\\displaystyle P_{11}=\\pi _{1}\\cdot \\int _{R_{1}}p(y|H1)\\,dy} P 12 = π 2 ⋅ ∫ R 1 p ( y | H 2 ) d y {\\displaystyle P_{12}=\\pi _{2}\\cdot \\int _{R_{1}}p(y|H2)\\,dy} π 1 {\\displaystyle \\pi _{1}} ve π 2 {\\displaystyle \\pi _{2}} a priori olasılıklar olduğu yerde, P ( H 1 ) {\\displaystyle P(H1)} ve P ( H 2 ) {\\displaystyle P(H2)} ve R 1 {\\displaystyle R_{1}} H1, y, doğruymuş gibi yanıt verilen gözlem olaylarının bölgesidir. ⇒ U ′ = ∫ R 1 { π 1 ⋅ ( U 11 − U 21 ) ⋅ p ( y | H 1 ) − π 2 ⋅ ( U 22 − U 12 ) ⋅ p ( y | H 2 ) } d y {\\displaystyle \\Rightarrow U'=\\int _{R_{1}}\\left\\{\\pi _{1}\\cdot (U_{11}-U_{21})\\cdot p(y|H1)-\\pi _{2}\\cdot (U_{22}-U_{12})\\cdot p(y|H2)\\right\\}\\,dy} U ′ {\\displaystyle U'} ve U ′ {\\displaystyle U'} ' ya bağlı olarak U {\\displaystyle U} , R 1 {\\displaystyle R_{1}} üzerindeki bölge üzerine uzatılarak maksimize edilir π 1 ⋅ ( U 11 − U 21 ) ⋅ p ( y | H 1 ) − π 2 ⋅ ( U 22 − U 12 ) ⋅ p ( y | H 2 ) > 0 {\\displaystyle \\pi _{1}\\cdot (U_{11}-U_{21})\\cdot p(y|H1)-\\pi _{2}\\cdot (U_{22}-U_{12})\\cdot p(y|H2)>0} Bu, aşağıdaki durumlarda H2'ye karar vererek gerçekleştirilir: π 2 ⋅ ( U 22 − U 12 ) ⋅ p ( y | H 2 ) ≥ π 1 ⋅ ( U 11 − U 21 ) ⋅ p ( y | H 1 ) {\\displaystyle \\pi _{2}\\cdot (U_{22}-U_{12})\\cdot p(y|H2)\\geq \\pi _{1}\\cdot (U_{11}-U_{21})\\cdot p(y|H1)} ⇒ L ( y ) ≡ p ( y | H 2 ) p ( y | H 1 ) ≥ π 1 ⋅ ( U 11 − U 21 ) π 2 ⋅ ( U 22 − U 12 ) ≡ τ B {\\displaystyle \\Rightarrow L(y)\\equiv {\\frac {p(y|H2)}{p(y|H1)}}\\geq {\\frac {\\pi _{1}\\cdot (U_{11}-U_{21})}{\\pi _{2}\\cdot (U_{22}-U_{12})}}\\equiv \\tau _{B}} ve aksi halde H1, burada L(y) bu şekilde tanımlanan olabilirlik oranıdır . Coren, S., Ward, LM, Enns, JT (1994) Duyum ve Algı . (4. Baskı) Toronto: Harcourt Brace. Kay, SM. İstatistiksel Sinyal İşlemenin Temelleri: Tespit Teorisi (0-13-504135-X ) McNichol, D. (1972) Sinyal Algılama Teorisinin Bir Astarı . Londra: George Allen & Unwin. Van Ağaçları HL. Algılama, Tahmin ve Modülasyon Teorisi, Bölüm 1 (0-471-09517-6 ; web sitesi ) Wickens, Thomas D., (2002) Temel Sinyal Algılama Teorisi . New York: Oxford University Press. (0-19-509250-3 ) Sinyal Algılama Teorisinin Açıklaması 15 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi. Güvenlik için bir SDT uygulaması Garrett Neske tarafından Sinyal Algılama Teorisi 15 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi., Wolfram Gösterileri Projesi Steven Pinker'ın anlatımı 15 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 2175,
+      "char_count": 13973,
+      "num_chunks": 29,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.239402",
+    "total_chunks": 29,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Belirleme kuramı veya sinyal belirleme kuramı, bilgi taşıyan örüntüler (canlı organizmalarda uyaran Sinyal, makinelerde sinyal olarak adlandırılır) ile bilgiden uzaklaştıran rastgele örüntüler (belirleme makinesinin ve operatörün sinir sisteminin arka plan uyaranlarının rastgele hareketlerinden oluşan gürültü olarak adlandırılır) arasında ayrım yapma yeteneğini ölçmek için kullanılan bir araçtır. Elektronik alanında, bu tür örüntülerin gizlenen bir arka plandan ayrılması, sinyal kurtarma olarak adlandırılır. Bu kurama göre, bir belirleme sisteminin bir sinyalin nasıl belirleneceğine ve eşik değeri seviyelerinin nerede olacağına dair bir takım belirteçler bulunur. Bu kuram, eşik değerinin değiştirilmesinin ayırt etme yeteneğini nasıl etkileyeceğini açıklayabilir, genellikle sistemin hedeflendiği göreve, amaca veya hedefe ne kadar uyarlandığını açığa çıkarır. Belirleyen sistem bir insan olduğunda, deneyim, beklentiler, fizyolojik durum (örneğin yorgunluk) ve diğer faktörler gibi özellikl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "ndiği göreve, amaca veya hedefe ne kadar uyarlandığını açığa çıkarır. Belirleyen sistem bir insan olduğunda, deneyim, beklentiler, fizyolojik durum (örneğin yorgunluk) ve diğer faktörler gibi özellikler uygulanan eşik değerini etkileyebilir. Örneğin, savaş zamanında bir nöbetçi asker, daha düşük bir kriter nedeniyle barış zamanındaki aynı nöbetçi askere göre, daha zayıf uyaranları algılayabilir, ancak zararsız uyaranları bir tehdit olarak ele alma olasılıkları daha yüksek olabilir. Belirleme kuramına dair erken dönem çalışmaların çoğu, radar araştırmacıları tarafından yapılmıştır. 1954 yılına gelindiğinde, bu kuram Peterson, Birdsall ve Fox tarafından tarif edildiği gibi kuramsal açıdan tamamen geliştirildi ve psikolojik kuramın temeli Wilson P. Tanner, David M. Green ve John A. Swets tarafından yapıldı. 1954 yılında. Belirleme teorisi 1966'da John A. Swets ve David M. Green tarafından psikofizik için kullanıldı. Green ve Swets, geleneksel psikofizik yöntemlerini, öznelerin gerçek duya",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2247,
+      "content": "fından yapıldı. 1954 yılında. Belirleme teorisi 1966'da John A. Swets ve David M. Green tarafından psikofizik için kullanıldı. Green ve Swets, geleneksel psikofizik yöntemlerini, öznelerin gerçek duyarlılığı ile (potansiyel) tepki önyargıları arasında ayrım yapamamaları nedeniyle eleştirdiler. Belirleme kuramının her türlü tanı , kalite kontrol, telekomünikasyon ve psikoloji gibi birçok alanda uygulamaları bulunmaktadır. Kavram, bu bilimlerde kullanılan sinyal-gürültü oranı ve yapay zekada kullanılan karmaşıklık matrislerine benzer. Ayrıca, önemli olayları arka plan gürültüsünden ayırmanın önemli olduğu alarm yönetiminde de kullanılabilir.",
+      "char_count": 647,
+      "token_estimate": 161
+    },
+    {
+      "id": "c0003",
+      "section": "== Psikoloji ==",
+      "heading_path": "== Psikoloji ==",
+      "start_char": 2248,
+      "end_char": 3248,
+      "content": "== Psikoloji == Sinyal belirleme kuramı (SBK), psikologlar, sisli hava koşullarında mesafe algısı ya da görgü tanığı teşhisi gibi belirsiz koşullar altında karar veriş biçimimizi ölçmek istediğinde kullanılır. Sinyal belirleme kuramı, belirsiz koşullar altındaki zorlu algı yargıları yapan karar vericinin pasif bir bilgi alıcısı değil aktif olarak karar veren olduğunu kabul eder. Sisli koşullarda, bir objenin bizden ne kadar uzakta olduğuna sadece sis yüzünden bulanıklaşmış olan görsel uyarana dayanarak karar vermek zorunda kalırız. Beyin, örneğin trafik ışığı gibi bir objenin parlaklığını objenin mesafesini kestirmek için kullandığından sis tarafından parlaklığı azaltılmış nesneyi gerçekte olduğundan çok daha uzakta farz eder. (bknz: karar teorisi) SBK'ye göre, görgü tanığı teşhisi sırasında tanıklar, şüphelinin suçlu olup olmadığına dair kararlarını, şüpheliyi algıladıkları aşinalık düzeyine dayandırmaktadır. . Sinyal belirleme kuramı, uyarıcının bazı durumlarda var bazı durumlarda yo",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Psikoloji ==",
+      "heading_path": "== Psikoloji ==",
+      "start_char": 3048,
+      "end_char": 4048,
+      "content": "da tanıklar, şüphelinin suçlu olup olmadığına dair kararlarını, şüpheliyi algıladıkları aşinalık düzeyine dayandırmaktadır. . Sinyal belirleme kuramı, uyarıcının bazı durumlarda var bazı durumlarda yok olduğu bir veri grubuna uygulanınca, her denemede uyarıcının varlığını ve yokluğunu dile getiren gözlemcinin cevabı dört kategoriden birine girer: Bu tür denemelerin oranlarına dayalı olarak, duyarlılık indeksi d' ve A', gibi istatistiklerle duyarlılık sayısal tahminleri elde edilebilir ve c ve β gibi istatistiklerle yanıt yanlılığı tahmin edilebilir. Sinyal algılama teorisi, öğelerin daha sonra test edilmek üzere bir çalışma listesinde sunulduğu bellek deneylerine de uygulanabilir. Bu 'eski' öğeler ile çalışma listesinde yer almayan yeni, 'yeni' öğeler ile birleştirilerek bir test listesi oluşturulur. Her test denemesinde denek 'evet, bu çalışma listesindeydi' veya 'hayır, bu çalışma listesinde değildi' yanıtını verecektir. Çalışma listesinde sunulan öğelere Hedefler, yeni öğelere Çeldi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Psikoloji ==",
+      "heading_path": "== Psikoloji ==",
+      "start_char": 3848,
+      "end_char": 4172,
+      "content": "luşturulur. Her test denemesinde denek 'evet, bu çalışma listesindeydi' veya 'hayır, bu çalışma listesinde değildi' yanıtını verecektir. Çalışma listesinde sunulan öğelere Hedefler, yeni öğelere Çeldiriciler denir. Bir hedefe 'Evet' demek bir İsabet teşkil ederken, bir çeldiriciye 'Evet' demek bir Yanlış Alarm teşkil eder.",
+      "char_count": 324,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0006",
+      "section": "== Uygulamalar ==",
+      "heading_path": "== Uygulamalar ==",
+      "start_char": 4173,
+      "end_char": 4390,
+      "content": "== Uygulamalar == Sinyal Belirleme Kuramı, hem insanlarda hem de hayvanlarda geniş bir uygulama alanına sahiptir. Uygulandığı konular arasında hafıza, pekiştirme programlarının uyarıcı özellikleri vb. yer almaktadır.",
+      "char_count": 216,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0007",
+      "section": "=== Hassasiyet (duyarlılık) veya ayırt edilebilirlik ===",
+      "heading_path": "=== Hassasiyet (duyarlılık) veya ayırt edilebilirlik ===",
+      "start_char": 4390,
+      "end_char": 5061,
+      "content": "=== Hassasiyet (duyarlılık) veya ayırt edilebilirlik === Kavramsal olarak duyarlılık (hassasiyet), arka plan olaylarından bir hedef uyarıcının mevcut olduğunu tespit etmenin ne kadar zor veya kolay olduğunu ifade eder. Örneğin, bir tanıma belleği paradigmasında, hatırlanacak sözcüklerin daha uzun süre çalışılması, daha önce görülen veya duyulan sözcüklerin tanınmasını kolaylaştırır. Buna karşılık, 5 yerine 30 kelimeyi hatırlamak zorunda kalmak, ayırt etmeyi zorlaştırmaktadır. Duyarlılığı hesaplamak için en yaygın olarak kullanılan istatistiklerden biri, sözde duyarlılık indeksi veya d' dir . ROC eğrisinin altındaki alan gibi parametrik olmayan ölçüler de vardır.",
+      "char_count": 670,
+      "token_estimate": 167
+    },
+    {
+      "id": "c0008",
+      "section": "=== Önyargı ===",
+      "heading_path": "=== Önyargı ===",
+      "start_char": 5061,
+      "end_char": 5721,
+      "content": "=== Önyargı === Önyargı, bir yanıtın diğerinden daha olası olma derecesidir. Yani, bir alıcının bir uyaranın mevcut olduğuna yanıt verme olasılığı daha yüksek olabilir veya bir uyaranın mevcut olmadığına yanıt verme olasılığı daha yüksek olabilir. Önyargı, hassasiyetten bağımsızdır. Örneğin, yanlış alarmlar veya ıskalar için bir ceza varsa, bu önyargıyı etkileyebilir. Uyarıcı bir bombardıman uçağıysa, o zaman bir ıskalama (uçağı tespit edememek) ölümleri artırabilir, bu nedenle liberal bir önyargı muhtemeldir. Buna karşılık, çok sık var bildirimi (yanlış alarm) insanları tepki verme olasılığını azaltarak muhafazakar bir önyargıya zemin hazırlayabilir.",
+      "char_count": 659,
+      "token_estimate": 164
+    },
+    {
+      "id": "c0009",
+      "section": "=== Sıkıştırılmış hissetme ===",
+      "heading_path": "=== Sıkıştırılmış hissetme ===",
+      "start_char": 5721,
+      "end_char": 6721,
+      "content": "=== Sıkıştırılmış hissetme === Sinyal algılama teorisi ile yakından ilgili olan başka bir alan, sıkıştırılmış algılama (veya sıkışık algılama) olarak adlandırılır. Sıkıştırılmış algılamanın amacı, yalnızca birkaç ölçümden yüksek boyutlu ancak karmaşıklığı düşük varlıkları kurtarmaktır. Bu nedenle, sıkıştırılmış algılamanın en önemli uygulamalarından biri, yalnızca birkaç doğrusal ölçümle seyrek (veya neredeyse seyrek) olarak bilinen yüksek boyutlu sinyallerin kurtarılmasıdır. Sinyallerin geri kazanılması için gereken ölçüm sayısı, sinyalin seyrek olması, yani yalnızca birkaç sıfır olmayan öğe içermesi koşuluyla, Nyquist örnekleme teoreminin gerektirdiğinden çok daha küçüktür. Sıkıştırılmış algılamada temel takip, genişletici kurtarma algoritması , CoSaMP ve ayrıca hızlı yinelemeli olmayan algoritma dahil olmak üzere farklı sinyal kurtarma yöntemleri vardır. Yukarıda bahsedilen tüm geri kazanım yöntemlerinde, olasılıklı yapılar veya deterministik yapılar kullanılarak uygun bir ölçüm mat",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0010",
+      "section": "=== Sıkıştırılmış hissetme ===",
+      "heading_path": "=== Sıkıştırılmış hissetme ===",
+      "start_char": 6521,
+      "end_char": 6941,
+      "content": "algoritma dahil olmak üzere farklı sinyal kurtarma yöntemleri vardır. Yukarıda bahsedilen tüm geri kazanım yöntemlerinde, olasılıklı yapılar veya deterministik yapılar kullanılarak uygun bir ölçüm matrisinin seçilmesi büyük önem taşımaktadır. Başka bir deyişle, ölçüm matrisleri, sağlam seyrek kurtarma elde etmek için RIP (Sınırlı İzometri Özelliği) veya Boş-Uzay özelliği gibi belirli belirli koşulları karşılamalıdır.",
+      "char_count": 420,
+      "token_estimate": 105
+    },
+    {
+      "id": "c0011",
+      "section": "=== P(H1|y) > P(H2|y) / MAP testi ===",
+      "heading_path": "=== P(H1|y) > P(H2|y) / MAP testi ===",
+      "start_char": 6958,
+      "end_char": 7751,
+      "content": "=== P(H1|y) > P(H2|y) / MAP testi === İki hipotez arasında bir karar verilmesi gerekirken ve belirli bir gözlem yapılırken, H1' in bulunmayan ve H2'nin bulunan olduğunu farz edersek, y, p(H1|y) > p(H2|y) olduğu durumda H1'i, ters durumda H2'yi seçmek klasik bir yaklaşım olacaktır . a posteriori ihtimallerin iki olay arasında eşit olduğu durumda ise, birinin sadece bir seçeneği seçeceği varsayılır (ya her zaman H1' i seçer ya da her zaman H2' yi) ya da H1 ve H2 arasında rastgele bir seçim yapar. H1 ve H2'nin a priori olasılıkları yapılan seçime rehberlik eder, her zaman a priori olasılığı yüksek olan bir hipotezi seçmek buna örnek olarak gösterilebilir. Bu yaklaşımı kullanırken, genellikle kişinin bildiği koşullu olasılıklar, p(y|H1) ve p(y|H2) ve a priori olasılıklar olan p ( H 1 )",
+      "char_count": 792,
+      "token_estimate": 198
+    },
+    {
+      "id": "c0012",
+      "section": "= π 1 {\\displaystyle p(H1)=\\pi _{1}} ve p ( H 2 ) =",
+      "heading_path": "= π 1 {\\displaystyle p(H1)=\\pi _{1}} ve p ( H 2 ) =",
+      "start_char": 7751,
+      "end_char": 7827,
+      "content": "= π 1 {\\displaystyle p(H1)=\\pi _{1}} ve p ( H 2 ) = π 2 {\\displaystyle p(H2)",
+      "char_count": 76,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0013",
+      "section": "= \\pi _{2}} 'dır. Bu durumda, p ( H 1 | y ) =",
+      "heading_path": "= \\pi _{2}} 'dır. Bu durumda, p ( H 1 | y ) =",
+      "start_char": 7827,
+      "end_char": 7922,
+      "content": "=\\pi _{2}} 'dır. Bu durumda, p ( H 1 | y ) = p ( y | H 1 ) ⋅ π 1 p ( y ) {\\displaystyle p(H1|y)",
+      "char_count": 95,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0014",
+      "section": "= {\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y)}}} , p ( H 2 | y ) =",
+      "heading_path": "= {\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y)}}} , p ( H 2 | y ) =",
+      "start_char": 7922,
+      "end_char": 8030,
+      "content": "={\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y)}}} , p ( H 2 | y ) = p ( y | H 2 ) ⋅ π 2 p ( y ) {\\displaystyle p(H2|y)",
+      "char_count": 108,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0015",
+      "section": "= {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y)}}} p(y)' nin, y'nin bütün olasıkları olduğu durumda, p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}} . durumunda H2 seçilir p ( y | H 2 ) ⋅ π 2 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 ≥ p ( y | H 1 ) ⋅ π 1 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}\\geq {\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}} ⇒ p ( y | H 2 ) p ( y | H 1 ) ≥ π 1 π 2 {\\displaystyle \\Rightarrow {\\frac {p(y|H2)}{p(y|H1)}}\\geq {\\frac {\\pi _{1}}{\\pi _{2}}}} ve aksi halde H1 seçilir. Çoğu zaman, π 1 π 2 {\\displaystyle {\\frac {\\pi _{1}}{\\pi _{2}}}} oranına τ M A P {\\displaystyle \\tau _{MAP}} denirken p ( y | H 2 ) p ( y | H 1 ) {\\displaystyle {\\frac {p(y|H2)}{p(y|H1)}}} oranına L ( y ) {\\displaystyle L(y)} , olabilirlik oranı, denir. Bu terminolojiyi kullanarak, L ( y ) ≥ τ M A P {\\displaystyle L(y)\\geq \\tau _{MAP}} olduğu durumda H2 seçilir. MAP' in maksimum a posteriori' nin kısaltması olduğu bu duruma MAP testi denir. Bu yaklaşımı kullanmak, kişinin yapacağı beklenen hata sayısını en aza indirir. == =",
+      "heading_path": "= {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y)}}} p(y)' nin, y'nin bütün olasıkları olduğu durumda, p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}} . durumunda H2 seçilir p ( y | H 2 ) ⋅ π 2 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 ≥ p ( y | H 1 ) ⋅ π 1 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}\\geq {\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}} ⇒ p ( y | H 2 ) p ( y | H 1 ) ≥ π 1 π 2 {\\displaystyle \\Rightarrow {\\frac {p(y|H2)}{p(y|H1)}}\\geq {\\frac {\\pi _{1}}{\\pi _{2}}}} ve aksi halde H1 seçilir. Çoğu zaman, π 1 π 2 {\\displaystyle {\\frac {\\pi _{1}}{\\pi _{2}}}} oranına τ M A P {\\displaystyle \\tau _{MAP}} denirken p ( y | H 2 ) p ( y | H 1 ) {\\displaystyle {\\frac {p(y|H2)}{p(y|H1)}}} oranına L ( y ) {\\displaystyle L(y)} , olabilirlik oranı, denir. Bu terminolojiyi kullanarak, L ( y ) ≥ τ M A P {\\displaystyle L(y)\\geq \\tau _{MAP}} olduğu durumda H2 seçilir. MAP' in maksimum a posteriori' nin kısaltması olduğu bu duruma MAP testi denir. Bu yaklaşımı kullanmak, kişinin yapacağı beklenen hata sayısını en aza indirir. == =",
+      "start_char": 8030,
+      "end_char": 9030,
+      "content": "={\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y)}}} p(y)' nin, y'nin bütün olasıkları olduğu durumda, p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}} . durumunda H2 seçilir p ( y | H 2 ) ⋅ π 2 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 ≥ p ( y | H 1 ) ⋅ π 1 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}\\geq {\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}} ⇒ p ( y | H 2 ) p ( y | H 1 ) ≥ π 1 π 2 {\\displaystyle \\Rightarrow {\\frac {p(y|H2)}{p(y|H1)}}\\geq {\\frac {\\pi _{1}}{\\pi _{2}}}} ve aksi halde H1 seçilir. Çoğu zaman, π 1 π 2 {\\displaystyle {\\frac {\\pi _{1}}{\\pi _{2}}}} oranına τ M A P {\\displaystyle \\tau _{MAP}} denirken p ( y | H 2 ) p ( y | H 1 ) {\\displaystyle {\\frac {p(y|H2)}{p(y|H1)}}} oranına L ( y ) {\\displaystyle L(y)} , olabilirlik oranı, denir. Bu terminolojiyi kullanarak, L ( y ) ≥ τ M A P {\\displaystyle L(y)\\geq \\tau _",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0016",
+      "section": "= {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y)}}} p(y)' nin, y'nin bütün olasıkları olduğu durumda, p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}} . durumunda H2 seçilir p ( y | H 2 ) ⋅ π 2 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 ≥ p ( y | H 1 ) ⋅ π 1 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}\\geq {\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}} ⇒ p ( y | H 2 ) p ( y | H 1 ) ≥ π 1 π 2 {\\displaystyle \\Rightarrow {\\frac {p(y|H2)}{p(y|H1)}}\\geq {\\frac {\\pi _{1}}{\\pi _{2}}}} ve aksi halde H1 seçilir. Çoğu zaman, π 1 π 2 {\\displaystyle {\\frac {\\pi _{1}}{\\pi _{2}}}} oranına τ M A P {\\displaystyle \\tau _{MAP}} denirken p ( y | H 2 ) p ( y | H 1 ) {\\displaystyle {\\frac {p(y|H2)}{p(y|H1)}}} oranına L ( y ) {\\displaystyle L(y)} , olabilirlik oranı, denir. Bu terminolojiyi kullanarak, L ( y ) ≥ τ M A P {\\displaystyle L(y)\\geq \\tau _{MAP}} olduğu durumda H2 seçilir. MAP' in maksimum a posteriori' nin kısaltması olduğu bu duruma MAP testi denir. Bu yaklaşımı kullanmak, kişinin yapacağı beklenen hata sayısını en aza indirir. == =",
+      "heading_path": "= {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y)}}} p(y)' nin, y'nin bütün olasıkları olduğu durumda, p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}} . durumunda H2 seçilir p ( y | H 2 ) ⋅ π 2 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 ≥ p ( y | H 1 ) ⋅ π 1 p ( y | H 1 ) ⋅ π 1 + p ( y | H 2 ) ⋅ π 2 {\\displaystyle {\\frac {p(y|H2)\\cdot \\pi _{2}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}\\geq {\\frac {p(y|H1)\\cdot \\pi _{1}}{p(y|H1)\\cdot \\pi _{1}+p(y|H2)\\cdot \\pi _{2}}}} ⇒ p ( y | H 2 ) p ( y | H 1 ) ≥ π 1 π 2 {\\displaystyle \\Rightarrow {\\frac {p(y|H2)}{p(y|H1)}}\\geq {\\frac {\\pi _{1}}{\\pi _{2}}}} ve aksi halde H1 seçilir. Çoğu zaman, π 1 π 2 {\\displaystyle {\\frac {\\pi _{1}}{\\pi _{2}}}} oranına τ M A P {\\displaystyle \\tau _{MAP}} denirken p ( y | H 2 ) p ( y | H 1 ) {\\displaystyle {\\frac {p(y|H2)}{p(y|H1)}}} oranına L ( y ) {\\displaystyle L(y)} , olabilirlik oranı, denir. Bu terminolojiyi kullanarak, L ( y ) ≥ τ M A P {\\displaystyle L(y)\\geq \\tau _{MAP}} olduğu durumda H2 seçilir. MAP' in maksimum a posteriori' nin kısaltması olduğu bu duruma MAP testi denir. Bu yaklaşımı kullanmak, kişinin yapacağı beklenen hata sayısını en aza indirir. == =",
+      "start_char": 8830,
+      "end_char": 9241,
+      "content": " p ( y | H 1 ) {\\displaystyle {\\frac {p(y|H2)}{p(y|H1)}}} oranına L ( y ) {\\displaystyle L(y)} , olabilirlik oranı, denir. Bu terminolojiyi kullanarak, L ( y ) ≥ τ M A P {\\displaystyle L(y)\\geq \\tau _{MAP}} olduğu durumda H2 seçilir. MAP' in maksimum a posteriori' nin kısaltması olduğu bu duruma MAP testi denir. Bu yaklaşımı kullanmak, kişinin yapacağı beklenen hata sayısını en aza indirir. === Bayes kriteri",
+      "char_count": 411,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0017",
+      "section": "= = =",
+      "heading_path": "= = =",
+      "start_char": 9242,
+      "end_char": 9433,
+      "content": "=== Bazı durumlarda H1 e uygun cevap vermek, H2 ye uygun cevap vermekten çok daha önemlidir. Örneğin, H1'i (gelen bombardıman uçağı nükleer silah taşıyor) vurgulayarak bir alarm çalarsa ve H1",
+      "char_count": 191,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0018",
+      "section": "= DOĞRU ise bombardıman uçağını vurmak, yanlış alarmı (başka bir deyişle H1 =",
+      "heading_path": "= DOĞRU ise bombardıman uçağını vurmak, yanlış alarmı (başka bir deyişle H1 =",
+      "start_char": 9433,
+      "end_char": 9520,
+      "content": "= DOĞRU ise bombardıman uçağını vurmak, yanlış alarmı (başka bir deyişle H1= YANLIŞ, H2",
+      "char_count": 87,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0019",
+      "section": "= DOĞRU) denetlemek için hava filosu yollamaktansa, çok daha önemlidir. Bayes kriteri bu tür durumlar için uygun bir yaklaşımdır. Dört farklı durumla ilişkilendirilen olanaklar: U 11 {\\displaystyle U_{11}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H1 doğruysa: Hava filosu bombacı uçağı yok eder; bu hava filosu bir miktar yakıt, bakım ücreti, silah kaynağı kaybederler ve filodan bazılarının vurulma riskini göze alırlar; U 12 {\\displaystyle U_{12}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H2 doğruysa: Hava filosu gönderilir; bu hava filosu bir miktar yakıt ve bakım ücreti kaybeder ve bombacı uçağın yeri tespit edilemez. U 21 {\\displaystyle U_{21}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H1 doğruysa: şehir yıkılır; U 22 {\\displaystyle U_{22}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H2 doğruysa: hava filosu çıkış yapmaz ve bombacı uçağın yeri tespit edilemez. Aşağıda gösterildiği gibi, önemli olan farklılıklardır, U 11 − U 21 {\\displaystyle U_{11}-U_{21}} ve U 22 − U 12 {\\displaystyle U_{22}-U_{12}} . Benzer şekilde, ortada 4 olasılık vardır ve P 11 {\\displaystyle P_{11}} , P 12 {\\displaystyle P_{12}} , vb., kişinin karar verme stratejisine bağlı olan farklı durumları sembolize eder. Bayes kriter yaklaşımı, beklenen faydayı maksimize etmektir: U =",
+      "heading_path": "= DOĞRU) denetlemek için hava filosu yollamaktansa, çok daha önemlidir. Bayes kriteri bu tür durumlar için uygun bir yaklaşımdır. Dört farklı durumla ilişkilendirilen olanaklar: U 11 {\\displaystyle U_{11}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H1 doğruysa: Hava filosu bombacı uçağı yok eder; bu hava filosu bir miktar yakıt, bakım ücreti, silah kaynağı kaybederler ve filodan bazılarının vurulma riskini göze alırlar; U 12 {\\displaystyle U_{12}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H2 doğruysa: Hava filosu gönderilir; bu hava filosu bir miktar yakıt ve bakım ücreti kaybeder ve bombacı uçağın yeri tespit edilemez. U 21 {\\displaystyle U_{21}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H1 doğruysa: şehir yıkılır; U 22 {\\displaystyle U_{22}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H2 doğruysa: hava filosu çıkış yapmaz ve bombacı uçağın yeri tespit edilemez. Aşağıda gösterildiği gibi, önemli olan farklılıklardır, U 11 − U 21 {\\displaystyle U_{11}-U_{21}} ve U 22 − U 12 {\\displaystyle U_{22}-U_{12}} . Benzer şekilde, ortada 4 olasılık vardır ve P 11 {\\displaystyle P_{11}} , P 12 {\\displaystyle P_{12}} , vb., kişinin karar verme stratejisine bağlı olan farklı durumları sembolize eder. Bayes kriter yaklaşımı, beklenen faydayı maksimize etmektir: U =",
+      "start_char": 9520,
+      "end_char": 10520,
+      "content": "=DOĞRU) denetlemek için hava filosu yollamaktansa, çok daha önemlidir. Bayes kriteri bu tür durumlar için uygun bir yaklaşımdır. Dört farklı durumla ilişkilendirilen olanaklar: U 11 {\\displaystyle U_{11}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H1 doğruysa: Hava filosu bombacı uçağı yok eder; bu hava filosu bir miktar yakıt, bakım ücreti, silah kaynağı kaybederler ve filodan bazılarının vurulma riskini göze alırlar; U 12 {\\displaystyle U_{12}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H2 doğruysa: Hava filosu gönderilir; bu hava filosu bir miktar yakıt ve bakım ücreti kaybeder ve bombacı uçağın yeri tespit edilemez. U 21 {\\displaystyle U_{21}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H1 doğruysa: şehir yıkılır; U 22 {\\displaystyle U_{22}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H2 doğruysa: hava filosu çıkış yapmaz ve bombacı uçağın yeri tespit edilemez. Aşağıda gösterildiği gibi, önemli olan farklılıklardır, U 11 − U 21 {\\displaystyle U_{11}-U_{21}} ve U",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0020",
+      "section": "= DOĞRU) denetlemek için hava filosu yollamaktansa, çok daha önemlidir. Bayes kriteri bu tür durumlar için uygun bir yaklaşımdır. Dört farklı durumla ilişkilendirilen olanaklar: U 11 {\\displaystyle U_{11}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H1 doğruysa: Hava filosu bombacı uçağı yok eder; bu hava filosu bir miktar yakıt, bakım ücreti, silah kaynağı kaybederler ve filodan bazılarının vurulma riskini göze alırlar; U 12 {\\displaystyle U_{12}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H2 doğruysa: Hava filosu gönderilir; bu hava filosu bir miktar yakıt ve bakım ücreti kaybeder ve bombacı uçağın yeri tespit edilemez. U 21 {\\displaystyle U_{21}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H1 doğruysa: şehir yıkılır; U 22 {\\displaystyle U_{22}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H2 doğruysa: hava filosu çıkış yapmaz ve bombacı uçağın yeri tespit edilemez. Aşağıda gösterildiği gibi, önemli olan farklılıklardır, U 11 − U 21 {\\displaystyle U_{11}-U_{21}} ve U 22 − U 12 {\\displaystyle U_{22}-U_{12}} . Benzer şekilde, ortada 4 olasılık vardır ve P 11 {\\displaystyle P_{11}} , P 12 {\\displaystyle P_{12}} , vb., kişinin karar verme stratejisine bağlı olan farklı durumları sembolize eder. Bayes kriter yaklaşımı, beklenen faydayı maksimize etmektir: U =",
+      "heading_path": "= DOĞRU) denetlemek için hava filosu yollamaktansa, çok daha önemlidir. Bayes kriteri bu tür durumlar için uygun bir yaklaşımdır. Dört farklı durumla ilişkilendirilen olanaklar: U 11 {\\displaystyle U_{11}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H1 doğruysa: Hava filosu bombacı uçağı yok eder; bu hava filosu bir miktar yakıt, bakım ücreti, silah kaynağı kaybederler ve filodan bazılarının vurulma riskini göze alırlar; U 12 {\\displaystyle U_{12}} : Kişi H1' e uygun bir şekilde yanıt verirse ve H2 doğruysa: Hava filosu gönderilir; bu hava filosu bir miktar yakıt ve bakım ücreti kaybeder ve bombacı uçağın yeri tespit edilemez. U 21 {\\displaystyle U_{21}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H1 doğruysa: şehir yıkılır; U 22 {\\displaystyle U_{22}} : Kişi H2' ye uygun bir şekilde yanıt verirse ve H2 doğruysa: hava filosu çıkış yapmaz ve bombacı uçağın yeri tespit edilemez. Aşağıda gösterildiği gibi, önemli olan farklılıklardır, U 11 − U 21 {\\displaystyle U_{11}-U_{21}} ve U 22 − U 12 {\\displaystyle U_{22}-U_{12}} . Benzer şekilde, ortada 4 olasılık vardır ve P 11 {\\displaystyle P_{11}} , P 12 {\\displaystyle P_{12}} , vb., kişinin karar verme stratejisine bağlı olan farklı durumları sembolize eder. Bayes kriter yaklaşımı, beklenen faydayı maksimize etmektir: U =",
+      "start_char": 10320,
+      "end_char": 10884,
+      "content": "de yanıt verirse ve H2 doğruysa: hava filosu çıkış yapmaz ve bombacı uçağın yeri tespit edilemez. Aşağıda gösterildiği gibi, önemli olan farklılıklardır, U 11 − U 21 {\\displaystyle U_{11}-U_{21}} ve U 22 − U 12 {\\displaystyle U_{22}-U_{12}} . Benzer şekilde, ortada 4 olasılık vardır ve P 11 {\\displaystyle P_{11}} , P 12 {\\displaystyle P_{12}} , vb., kişinin karar verme stratejisine bağlı olan farklı durumları sembolize eder. Bayes kriter yaklaşımı, beklenen faydayı maksimize etmektir: U = P 11 ⋅ U 11 + P 21 ⋅ U 21 + P 12 ⋅ U 12 + P 22 ⋅ U 22 {\\displaystyle U",
+      "char_count": 564,
+      "token_estimate": 141
+    },
+    {
+      "id": "c0021",
+      "section": "= P_{11}\\cdot U_{11}+P_{21}\\cdot U_{21}+P_{12}\\cdot U_{12}+P_{22}\\cdot U_{22}} U =",
+      "heading_path": "= P_{11}\\cdot U_{11}+P_{21}\\cdot U_{21}+P_{12}\\cdot U_{12}+P_{22}\\cdot U_{22}} U =",
+      "start_char": 10884,
+      "end_char": 11052,
+      "content": "=P_{11}\\cdot U_{11}+P_{21}\\cdot U_{21}+P_{12}\\cdot U_{12}+P_{22}\\cdot U_{22}} U = P 11 ⋅ U 11 + ( 1 − P 11 ) ⋅ U 21 + P 12 ⋅ U 12 + ( 1 − P 12 ) ⋅ U 22 {\\displaystyle U",
+      "char_count": 168,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0022",
+      "section": "= P_{11}\\cdot U_{11}+(1-P_{11})\\cdot U_{21}+P_{12}\\cdot U_{12}+(1-P_{12})\\cdot U_{22}} U =",
+      "heading_path": "= P_{11}\\cdot U_{11}+(1-P_{11})\\cdot U_{21}+P_{12}\\cdot U_{12}+(1-P_{12})\\cdot U_{22}} U =",
+      "start_char": 11052,
+      "end_char": 11220,
+      "content": "=P_{11}\\cdot U_{11}+(1-P_{11})\\cdot U_{21}+P_{12}\\cdot U_{12}+(1-P_{12})\\cdot U_{22}} U = U 21 + U 22 + P 11 ⋅ ( U 11 − U 21 ) − P 12 ⋅ ( U 22 − U 12 ) {\\displaystyle U",
+      "char_count": 168,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0023",
+      "section": "= U_{21}+U_{22}+P_{11}\\cdot (U_{11}-U_{21})-P_{12}\\cdot (U_{22}-U_{12})} Etkili bir şekilde, kişi toplamı maksimize edebilir, U ′ =",
+      "heading_path": "= U_{21}+U_{22}+P_{11}\\cdot (U_{11}-U_{21})-P_{12}\\cdot (U_{22}-U_{12})} Etkili bir şekilde, kişi toplamı maksimize edebilir, U ′ =",
+      "start_char": 11220,
+      "end_char": 11416,
+      "content": "=U_{21}+U_{22}+P_{11}\\cdot (U_{11}-U_{21})-P_{12}\\cdot (U_{22}-U_{12})} Etkili bir şekilde, kişi toplamı maksimize edebilir, U ′ = P 11 ⋅ ( U 11 − U 21 ) − P 12 ⋅ ( U 22 − U 12 ) {\\displaystyle U'",
+      "char_count": 196,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0024",
+      "section": "= P_{11}\\cdot (U_{11}-U_{21})-P_{12}\\cdot (U_{22}-U_{12})} , ve aşağıdaki değişiklikleri yapar: P 11 =",
+      "heading_path": "= P_{11}\\cdot (U_{11}-U_{21})-P_{12}\\cdot (U_{22}-U_{12})} , ve aşağıdaki değişiklikleri yapar: P 11 =",
+      "start_char": 11416,
+      "end_char": 11569,
+      "content": "=P_{11}\\cdot (U_{11}-U_{21})-P_{12}\\cdot (U_{22}-U_{12})} , ve aşağıdaki değişiklikleri yapar: P 11 = π 1 ⋅ ∫ R 1 p ( y | H 1 ) d y {\\displaystyle P_{11}",
+      "char_count": 153,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0025",
+      "section": "= \\pi _{1}\\cdot \\int _{R_{1}}p(y|H1)\\,dy} P 12 =",
+      "heading_path": "= \\pi _{1}\\cdot \\int _{R_{1}}p(y|H1)\\,dy} P 12 =",
+      "start_char": 11569,
+      "end_char": 11668,
+      "content": "=\\pi _{1}\\cdot \\int _{R_{1}}p(y|H1)\\,dy} P 12 = π 2 ⋅ ∫ R 1 p ( y | H 2 ) d y {\\displaystyle P_{12}",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0026",
+      "section": "= \\pi _{2}\\cdot \\int _{R_{1}}p(y|H2)\\,dy} π 1 {\\displaystyle \\pi _{1}} ve π 2 {\\displaystyle \\pi _{2}} a priori olasılıklar olduğu yerde, P ( H 1 ) {\\displaystyle P(H1)} ve P ( H 2 ) {\\displaystyle P(H2)} ve R 1 {\\displaystyle R_{1}} H1, y, doğruymuş gibi yanıt verilen gözlem olaylarının bölgesidir. ⇒ U ′ =",
+      "heading_path": "= \\pi _{2}\\cdot \\int _{R_{1}}p(y|H2)\\,dy} π 1 {\\displaystyle \\pi _{1}} ve π 2 {\\displaystyle \\pi _{2}} a priori olasılıklar olduğu yerde, P ( H 1 ) {\\displaystyle P(H1)} ve P ( H 2 ) {\\displaystyle P(H2)} ve R 1 {\\displaystyle R_{1}} H1, y, doğruymuş gibi yanıt verilen gözlem olaylarının bölgesidir. ⇒ U ′ =",
+      "start_char": 11668,
+      "end_char": 12668,
+      "content": "=\\pi _{2}\\cdot \\int _{R_{1}}p(y|H2)\\,dy} π 1 {\\displaystyle \\pi _{1}} ve π 2 {\\displaystyle \\pi _{2}} a priori olasılıklar olduğu yerde, P ( H 1 ) {\\displaystyle P(H1)} ve P ( H 2 ) {\\displaystyle P(H2)} ve R 1 {\\displaystyle R_{1}} H1, y, doğruymuş gibi yanıt verilen gözlem olaylarının bölgesidir. ⇒ U ′ = ∫ R 1 { π 1 ⋅ ( U 11 − U 21 ) ⋅ p ( y | H 1 ) − π 2 ⋅ ( U 22 − U 12 ) ⋅ p ( y | H 2 ) } d y {\\displaystyle \\Rightarrow U'=\\int _{R_{1}}\\left\\{\\pi _{1}\\cdot (U_{11}-U_{21})\\cdot p(y|H1)-\\pi _{2}\\cdot (U_{22}-U_{12})\\cdot p(y|H2)\\right\\}\\,dy} U ′ {\\displaystyle U'} ve U ′ {\\displaystyle U'} ' ya bağlı olarak U {\\displaystyle U} , R 1 {\\displaystyle R_{1}} üzerindeki bölge üzerine uzatılarak maksimize edilir π 1 ⋅ ( U 11 − U 21 ) ⋅ p ( y | H 1 ) − π 2 ⋅ ( U 22 − U 12 ) ⋅ p ( y | H 2 ) > 0 {\\displaystyle \\pi _{1}\\cdot (U_{11}-U_{21})\\cdot p(y|H1)-\\pi _{2}\\cdot (U_{22}-U_{12})\\cdot p(y|H2)>0} Bu, aşağıdaki durumlarda H2'ye karar vererek gerçekleştirilir: π 2 ⋅ ( U 22 − U 12 ) ⋅ p ( y | H ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0027",
+      "section": "= \\pi _{2}\\cdot \\int _{R_{1}}p(y|H2)\\,dy} π 1 {\\displaystyle \\pi _{1}} ve π 2 {\\displaystyle \\pi _{2}} a priori olasılıklar olduğu yerde, P ( H 1 ) {\\displaystyle P(H1)} ve P ( H 2 ) {\\displaystyle P(H2)} ve R 1 {\\displaystyle R_{1}} H1, y, doğruymuş gibi yanıt verilen gözlem olaylarının bölgesidir. ⇒ U ′ =",
+      "heading_path": "= \\pi _{2}\\cdot \\int _{R_{1}}p(y|H2)\\,dy} π 1 {\\displaystyle \\pi _{1}} ve π 2 {\\displaystyle \\pi _{2}} a priori olasılıklar olduğu yerde, P ( H 1 ) {\\displaystyle P(H1)} ve P ( H 2 ) {\\displaystyle P(H2)} ve R 1 {\\displaystyle R_{1}} H1, y, doğruymuş gibi yanıt verilen gözlem olaylarının bölgesidir. ⇒ U ′ =",
+      "start_char": 12468,
+      "end_char": 13468,
+      "content": "\\displaystyle \\pi _{1}\\cdot (U_{11}-U_{21})\\cdot p(y|H1)-\\pi _{2}\\cdot (U_{22}-U_{12})\\cdot p(y|H2)>0} Bu, aşağıdaki durumlarda H2'ye karar vererek gerçekleştirilir: π 2 ⋅ ( U 22 − U 12 ) ⋅ p ( y | H 2 ) ≥ π 1 ⋅ ( U 11 − U 21 ) ⋅ p ( y | H 1 ) {\\displaystyle \\pi _{2}\\cdot (U_{22}-U_{12})\\cdot p(y|H2)\\geq \\pi _{1}\\cdot (U_{11}-U_{21})\\cdot p(y|H1)} ⇒ L ( y ) ≡ p ( y | H 2 ) p ( y | H 1 ) ≥ π 1 ⋅ ( U 11 − U 21 ) π 2 ⋅ ( U 22 − U 12 ) ≡ τ B {\\displaystyle \\Rightarrow L(y)\\equiv {\\frac {p(y|H2)}{p(y|H1)}}\\geq {\\frac {\\pi _{1}\\cdot (U_{11}-U_{21})}{\\pi _{2}\\cdot (U_{22}-U_{12})}}\\equiv \\tau _{B}} ve aksi halde H1, burada L(y) bu şekilde tanımlanan olabilirlik oranıdır . Coren, S., Ward, LM, Enns, JT (1994) Duyum ve Algı . (4. Baskı) Toronto: Harcourt Brace. Kay, SM. İstatistiksel Sinyal İşlemenin Temelleri: Tespit Teorisi (0-13-504135-X ) McNichol, D. (1972) Sinyal Algılama Teorisinin Bir Astarı . Londra: George Allen & Unwin. Van Ağaçları HL. Algılama, Tahmin ve Modülasyon Teorisi, Bölüm 1",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0028",
+      "section": "= \\pi _{2}\\cdot \\int _{R_{1}}p(y|H2)\\,dy} π 1 {\\displaystyle \\pi _{1}} ve π 2 {\\displaystyle \\pi _{2}} a priori olasılıklar olduğu yerde, P ( H 1 ) {\\displaystyle P(H1)} ve P ( H 2 ) {\\displaystyle P(H2)} ve R 1 {\\displaystyle R_{1}} H1, y, doğruymuş gibi yanıt verilen gözlem olaylarının bölgesidir. ⇒ U ′ =",
+      "heading_path": "= \\pi _{2}\\cdot \\int _{R_{1}}p(y|H2)\\,dy} π 1 {\\displaystyle \\pi _{1}} ve π 2 {\\displaystyle \\pi _{2}} a priori olasılıklar olduğu yerde, P ( H 1 ) {\\displaystyle P(H1)} ve P ( H 2 ) {\\displaystyle P(H2)} ve R 1 {\\displaystyle R_{1}} H1, y, doğruymuş gibi yanıt verilen gözlem olaylarının bölgesidir. ⇒ U ′ =",
+      "start_char": 13268,
+      "end_char": 13973,
+      "content": "in Temelleri: Tespit Teorisi (0-13-504135-X ) McNichol, D. (1972) Sinyal Algılama Teorisinin Bir Astarı . Londra: George Allen & Unwin. Van Ağaçları HL. Algılama, Tahmin ve Modülasyon Teorisi, Bölüm 1 (0-471-09517-6 ; web sitesi ) Wickens, Thomas D., (2002) Temel Sinyal Algılama Teorisi . New York: Oxford University Press. (0-19-509250-3 ) Sinyal Algılama Teorisinin Açıklaması 15 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi. Güvenlik için bir SDT uygulaması Garrett Neske tarafından Sinyal Algılama Teorisi 15 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi., Wolfram Gösterileri Projesi Steven Pinker'ın anlatımı 15 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 705,
+      "token_estimate": 176
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Belirleme kuramı veya sinyal belirleme kuramı neyi ölçmek için kullanılan bir araçtır?",
+        "answer": "Bilgi taşıyan örüntüler (sinyal) ile bilgiden uzaklaştıran rastgele örüntüler (gürültü) arasında ayrım yapma yeteneğini ölçmek için kullanılan bir araçtır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Belirleme kuramı, bilgi taşıyan örüntüler ile rastgele örüntüler arasında ayrım yapma yeteneğini ölçmek için nasıl bir araç olarak tanımlanır ve bu kuramın psikofizik alanına katkısı ve geniş uygulama alanları nelerdir?",
+        "answer": "Belirleme kuramı, bilgi taşıyan örüntüler (sinyal) ile bilgiden uzaklaştıran rastgele örüntüler (gürültü) arasında ayrım yapma yeteneğini ölçmek için kullanılan bir araçtır. Bu kuram, özellikle 1966'da John A. Swets ve David M. Green tarafından psikofizik için kullanılmış, geleneksel psikofizik yöntemlerinin öznelerin gerçek duyarlılığı ile tepki önyargıları arasında ayrım yapamaması eleştirisine bir çözüm sunmuştur. Bu sayede, belirleme kuramı tanı, kalite kontrol, telekomünikasyon, psikoloji ve alarm yönetimi gibi birçok alanda uygulama alanı bulmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

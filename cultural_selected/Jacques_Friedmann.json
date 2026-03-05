@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "jacquesfriedmann_529f52f5",
+    "title": "Jacques Friedmann",
+    "url": "https://tr.wikipedia.org/wiki/Jacques_Friedmann",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:16.463843",
+    "content": "Jacques Friedmann (d. 15 Ekim 1932, 8. arrondissement (Paris) - ö. 15 Aralık 2009, 15. arrondissement (Paris)) Fransız üst düzey yönetici. == Eğitimi == Paris Siyasal Bilgiler Enstitüsü ve Ulusal İdare Okulu'nu bitirmiştir. == Kariyeri == 1959'da maliye müfettişi, 1964-1966 yıllarında Maliye ve Ekonomi Bakanı Valéry Giscard d'Estaing'in danışmanı, 1966-1967 yıllarında Bakanlıklararası Avrupa Ekonomik İşbirliği Konuları Komitesi Genel Sekreter Yardımcılığı yapmış, Maliye ve Ekonomi Devlet Sekreteri Jacques Chirac'ın 1969-1970 yıllarında, Parlamento ile İlişkiler Bakanı Chirac'ın 1971'de kabine direktörü olmuştur. 1972-1974 yıllarında Başbakan Pierre Messmer'in ekonomik ve mali işler danışmanı ve 1974'te kısa bir süre kabine direktörü olmuş, Chirac'ın 1974'te başbakan olması ile beraber, yetkili danışmanı olmuştur. Kamusal ve özel şirketlerde yöneticilik yapmış, Denizcilik Genel Şirketi başkanı (1974-1982), Paris Tasarruf Fonu denetim ve yürütme kurulları başkanı (1985-1995), Air France yönetim kurulu başkanı (1987-1988), Paris Sigortalar Birliği (UAP) yönetim kurulu başkanı (1993-1997), AXA-UAP denetim kurulu başkanı (1997-1999) ve AXA denetim kurulu başkanı (1999-2000) olarak görev yapmış, 1997 yılında maliye başmüfettişi olarak emekli olmuştur. 1986-1987 yılları arasında Maliye, Ekonomi ve Özelleştirmeler Bakanı Édouard Balladur'ün yetkili danışmanı olmuş, çeşitli özelleştirmelere dair çalışmaları hazırlamıştır. 1993'te Balladur'ün başbakanlığı döneminde çeşitli konulara dair özellikle, Canal+'ın imtiyazı ile ilgili (1994) olmak üzere, görevlendirilmiştir. 1995 Fransa cumhurbaşkanlığı seçimi için Jacques Chirac ve Édouard Balladur'ü bir araya getirmeye çalışmıştır. Kendisine sunulan siyasi makam ve bakanlıkları reddetmiştir. Chirac'a her zaman yakın olmuştur. Son olarak Quai Branly Müzesi yürütme kurulu başkanı ve onursal başkanı olmuştur. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 236,
+      "char_count": 1887,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.916584",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 139,
+      "content": "Jacques Friedmann (d. 15 Ekim 1932, 8. arrondissement (Paris) - ö. 15 Aralık 2009, 15. arrondissement (Paris)) Fransız üst düzey yönetici.",
+      "char_count": 138,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0001",
+      "section": "== Eğitimi ==",
+      "heading_path": "== Eğitimi ==",
+      "start_char": 139,
+      "end_char": 224,
+      "content": "== Eğitimi == Paris Siyasal Bilgiler Enstitüsü ve Ulusal İdare Okulu'nu bitirmiştir.",
+      "char_count": 84,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 224,
+      "end_char": 1224,
+      "content": "== Kariyeri == 1959'da maliye müfettişi, 1964-1966 yıllarında Maliye ve Ekonomi Bakanı Valéry Giscard d'Estaing'in danışmanı, 1966-1967 yıllarında Bakanlıklararası Avrupa Ekonomik İşbirliği Konuları Komitesi Genel Sekreter Yardımcılığı yapmış, Maliye ve Ekonomi Devlet Sekreteri Jacques Chirac'ın 1969-1970 yıllarında, Parlamento ile İlişkiler Bakanı Chirac'ın 1971'de kabine direktörü olmuştur. 1972-1974 yıllarında Başbakan Pierre Messmer'in ekonomik ve mali işler danışmanı ve 1974'te kısa bir süre kabine direktörü olmuş, Chirac'ın 1974'te başbakan olması ile beraber, yetkili danışmanı olmuştur. Kamusal ve özel şirketlerde yöneticilik yapmış, Denizcilik Genel Şirketi başkanı (1974-1982), Paris Tasarruf Fonu denetim ve yürütme kurulları başkanı (1985-1995), Air France yönetim kurulu başkanı (1987-1988), Paris Sigortalar Birliği (UAP) yönetim kurulu başkanı (1993-1997), AXA-UAP denetim kurulu başkanı (1997-1999) ve AXA denetim kurulu başkanı (1999-2000) olarak görev yapmış, 1997 yılında ma",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1024,
+      "end_char": 1872,
+      "content": "1987-1988), Paris Sigortalar Birliği (UAP) yönetim kurulu başkanı (1993-1997), AXA-UAP denetim kurulu başkanı (1997-1999) ve AXA denetim kurulu başkanı (1999-2000) olarak görev yapmış, 1997 yılında maliye başmüfettişi olarak emekli olmuştur. 1986-1987 yılları arasında Maliye, Ekonomi ve Özelleştirmeler Bakanı Édouard Balladur'ün yetkili danışmanı olmuş, çeşitli özelleştirmelere dair çalışmaları hazırlamıştır. 1993'te Balladur'ün başbakanlığı döneminde çeşitli konulara dair özellikle, Canal+'ın imtiyazı ile ilgili (1994) olmak üzere, görevlendirilmiştir. 1995 Fransa cumhurbaşkanlığı seçimi için Jacques Chirac ve Édouard Balladur'ü bir araya getirmeye çalışmıştır. Kendisine sunulan siyasi makam ve bakanlıkları reddetmiştir. Chirac'a her zaman yakın olmuştur. Son olarak Quai Branly Müzesi yürütme kurulu başkanı ve onursal başkanı olmuştur.",
+      "char_count": 848,
+      "token_estimate": 212
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bu kişi hangi yıllarda Air France yönetim kurulu başkanı olarak görev yapmıştır?",
+        "answer": "1987-1988 yılları arasında",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jacques Friedmann'ın Paris Siyasal Bilgiler Enstitüsü ve Ulusal İdare Okulu'ndaki eğitimi, uzun kariyeri boyunca üstlendiği hem kamu hem de özel sektördeki çeşitli üst düzey görevleri nasıl etkilemiştir?",
+        "answer": "Jacques Friedmann'ın bu prestijli okullardaki eğitimi, kendisini 1932'deki doğumundan 2009'daki vefatına kadar süren kariyerinde maliye müfettişliğinden bakan danışmanlığına, Başbakan kabine direktörlüğünden Denizcilik Genel Şirketi, Air France ve UAP gibi büyük şirketlerin yönetim kurulu başkanlığına kadar uzanan çok çeşitli ve yüksek sorumluluk gerektiren pozisyonlara hazırlamıştır. Bu eğitim, onun hem kamusal hem de özel alanda liderlik yapabilme yeteneğinin temellerini atmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "balketi_bd13a8fa",
+    "title": "Balık eti",
+    "url": "https://tr.wikipedia.org/wiki/Bal%C4%B1k_eti",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:22.733041",
+    "content": "Balık eti, deniz, nehir, göl ve diğer tatlı sularda yakalanan soğuk kanlı solungaçları ile solunum yapan hayvanların besin olarak kullanılan etleridir. Midye, yengeç, karides, ıstakoz gibi etleri yenen birçok kabuklu deniz ürünleri mevcuttur ancak bunlar balık eti sayılmaz. Bunlar balık etiyle birlikte deniz ürünleri olarak sınıflandırılır. Birçok balık türü insanlar tarafından yakalanır ve dünyanın hemen her yerinde gıda olarak tüketilir. Balık ürünleri, insanlık tarihi boyunca önemli bir protein ve diğer besin kaynağı olmuştur. Balık eti, tavuk eti ve hindi eti gibi kümes hayvanlarının etleriyle birlikte beyaz et olarak tanınır. Balık etinde doymuş yağ veya kolesterol oranı çok düşük olduğu gibi balık yağı, protein ve Omega-3 yağ asidi oranı çok yüksektir. Balıkçılık endüstrisi'nde deniz ürünleri yetiştiriciliği, balık işleme, balık konserveleme işlemleri büyük öneme sahiptir. Balık etinin tek kötü tarafı kirlenen denizlerde yakalanan balıklarda sağlığa zararlı bazı maddelerin bulunabilmesidir. Çok miktarda tüketildiği zaman bazı balıklarda bulunan cıva oranı sağlığa zararlı boyutlara ulaşabilmektedir. == Balıkçılık == Balıkçılık denizlerde, göllerde ve akarsularda balıkların çeşitli yöntemlerle avlanmasıdır. Gölet, havuz ya da denizlerde balık ve öbür deniz hayvanlarının üretilmesi de balıkçılığın bir parçasıdır. İnsanların en eski çağlardan bu yana balık avladıkları bilinmektedir. Günümüzden 5 bin yıl öncesinden kalma, kemikten yapılmış ve bugün kullanılan örneklerine benzeyen iğneler bulunmuştur. == Yiyecek olarak hazırlanması == Balık eti kızartma, ızgara, buğulama, fırında veya yahni olarak yenebilir. Bazen balık eti bol olduğu mevsimlerde çiroz halinde kurutularak saklanır ve sonradan yenir. Sardalya ve ton balığı gibi bazı balıklar konserve yapılarak satılırlar. Balık eti pirinç veya ekmek içiyle doldurularak dolma halinde de hazırlanabilir. Uskumru dolması Türk mutfağının ilginç yemeklerinden biridir. Balık etini pirinçle sararak yapılan suşi de Japon mutfağının en tanınmış yemeklerindendir. Hazar denizinde yaşayan Mersin balığının yumurtasından yapılan havyar çok sevilen ama çok pahalı bir balık ürünüdür. Balık eti genelde bütün büyük dünya dinleri tarafından helal kabul edilir ve tüketilebilir. Vejetaryanların çoğu diğer etler gibi balık etinden de sakınırlar. Katoliklik ve Ortodoksluk'ta Paskalya civarındaki Büyük Perhiz döneminde et yemek haramdır ama balık etinin tüketilmesi serbesttir. Tuzlanmış balık, kurutulmuş balık, kürlenmiş balık, tütsülenmiş balık, fermente balık, haşlanmış balık da en yaygın kullanılan balık gıdalarındandır. == Kaynakça == == Ayrıca bakınız ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 348,
+      "char_count": 2630,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.871048",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Balık eti, deniz, nehir, göl ve diğer tatlı sularda yakalanan soğuk kanlı solungaçları ile solunum yapan hayvanların besin olarak kullanılan etleridir. Midye, yengeç, karides, ıstakoz gibi etleri yenen birçok kabuklu deniz ürünleri mevcuttur ancak bunlar balık eti sayılmaz. Bunlar balık etiyle birlikte deniz ürünleri olarak sınıflandırılır. Birçok balık türü insanlar tarafından yakalanır ve dünyanın hemen her yerinde gıda olarak tüketilir. Balık ürünleri, insanlık tarihi boyunca önemli bir protein ve diğer besin kaynağı olmuştur. Balık eti, tavuk eti ve hindi eti gibi kümes hayvanlarının etleriyle birlikte beyaz et olarak tanınır. Balık etinde doymuş yağ veya kolesterol oranı çok düşük olduğu gibi balık yağı, protein ve Omega-3 yağ asidi oranı çok yüksektir. Balıkçılık endüstrisi'nde deniz ürünleri yetiştiriciliği, balık işleme, balık konserveleme işlemleri büyük öneme sahiptir. Balık etinin tek kötü tarafı kirlenen denizlerde yakalanan balıklarda sağlığa zararlı bazı maddelerin buluna",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1121,
+      "content": " ürünleri yetiştiriciliği, balık işleme, balık konserveleme işlemleri büyük öneme sahiptir. Balık etinin tek kötü tarafı kirlenen denizlerde yakalanan balıklarda sağlığa zararlı bazı maddelerin bulunabilmesidir. Çok miktarda tüketildiği zaman bazı balıklarda bulunan cıva oranı sağlığa zararlı boyutlara ulaşabilmektedir.",
+      "char_count": 321,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0002",
+      "section": "== Balıkçılık ==",
+      "heading_path": "== Balıkçılık ==",
+      "start_char": 1122,
+      "end_char": 1527,
+      "content": "== Balıkçılık == Balıkçılık denizlerde, göllerde ve akarsularda balıkların çeşitli yöntemlerle avlanmasıdır. Gölet, havuz ya da denizlerde balık ve öbür deniz hayvanlarının üretilmesi de balıkçılığın bir parçasıdır. İnsanların en eski çağlardan bu yana balık avladıkları bilinmektedir. Günümüzden 5 bin yıl öncesinden kalma, kemikten yapılmış ve bugün kullanılan örneklerine benzeyen iğneler bulunmuştur.",
+      "char_count": 404,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0003",
+      "section": "== Yiyecek olarak hazırlanması ==",
+      "heading_path": "== Yiyecek olarak hazırlanması ==",
+      "start_char": 1527,
+      "end_char": 2527,
+      "content": "== Yiyecek olarak hazırlanması == Balık eti kızartma, ızgara, buğulama, fırında veya yahni olarak yenebilir. Bazen balık eti bol olduğu mevsimlerde çiroz halinde kurutularak saklanır ve sonradan yenir. Sardalya ve ton balığı gibi bazı balıklar konserve yapılarak satılırlar. Balık eti pirinç veya ekmek içiyle doldurularak dolma halinde de hazırlanabilir. Uskumru dolması Türk mutfağının ilginç yemeklerinden biridir. Balık etini pirinçle sararak yapılan suşi de Japon mutfağının en tanınmış yemeklerindendir. Hazar denizinde yaşayan Mersin balığının yumurtasından yapılan havyar çok sevilen ama çok pahalı bir balık ürünüdür. Balık eti genelde bütün büyük dünya dinleri tarafından helal kabul edilir ve tüketilebilir. Vejetaryanların çoğu diğer etler gibi balık etinden de sakınırlar. Katoliklik ve Ortodoksluk'ta Paskalya civarındaki Büyük Perhiz döneminde et yemek haramdır ama balık etinin tüketilmesi serbesttir. Tuzlanmış balık, kurutulmuş balık, kürlenmiş balık, tütsülenmiş balık, fermente ba",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Yiyecek olarak hazırlanması ==",
+      "heading_path": "== Yiyecek olarak hazırlanması ==",
+      "start_char": 2327,
+      "end_char": 2594,
+      "content": "Ortodoksluk'ta Paskalya civarındaki Büyük Perhiz döneminde et yemek haramdır ama balık etinin tüketilmesi serbesttir. Tuzlanmış balık, kurutulmuş balık, kürlenmiş balık, tütsülenmiş balık, fermente balık, haşlanmış balık da en yaygın kullanılan balık gıdalarındandır.",
+      "char_count": 267,
+      "token_estimate": 66
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Balık etinin besin değeri açısından doymuş yağ ve kolesterol oranı nasıldır?",
+        "answer": "Balık etinde doymuş yağ veya kolesterol oranı çok düşüktür.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Balık etinin sağladığı temel besin değerleri nelerdir ve kirlilikle ilişkili olası sağlık riskleri nelerdir?",
+        "answer": "Balık eti, protein, balık yağı ve Omega-3 yağ asitleri açısından çok yüksek olup, doymuş yağ veya kolesterol oranı çok düşüktür. Ancak kirlenen denizlerde yakalanan balıklarda sağlığa zararlı bazı maddeler bulunabilir ve çok miktarda tüketildiğinde bazı balıklarda bulunan cıva oranı sağlığa zararlı boyutlara ulaşabilmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

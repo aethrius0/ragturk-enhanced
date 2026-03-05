@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "louisdebroglie_a17a1a46",
+    "title": "Louis de Broglie",
+    "url": "https://tr.wikipedia.org/wiki/Louis_de_Broglie",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:11.865040",
+    "content": "Louis-Victor Pierre Raymond de Broglie (d. 15 Ağustos 1892 - ö. 19 Mart 1987), Nobel Ödülü sahibi Fransız fizikçi. De Broglie ayrıca Académie des sciences'ın daimi sekreteriydi. == Biyografi == Louis De Broglie; 5. de Broglie dükü Victor'un oğlu ve Madame de Staël'in torunlarından biri olarak doğdu. 1960'ta büyük ağabeyi aynı zamanda fizikçi de olan altıncı dük Maurice de Broglie geriye bir varis bırakmadan öldüğünde Louis yedinci de Broglie dükü oldu. Louis de Broglie hiç evlenmedi bu yüzden de Louveciennes'de öldüğünde yerine uzaktan kuzeni Victor-François de Broglie geçti. De Broglie başlangıçta hümanist olarak bir kariyer planlamıştı ve ilk öğrenim derecesini tarih üzerine aldı. Buna rağmen sonrasında dikkati matematik ve fiziğe döndü. 1914'te I. Dünya Savaşı'nın başlamasıyla radyo iletişiminin gelişmesi için orduya hizmetini teklif etti. Hareket eden bir parçacığa bir dalga eşlik eder hipotezi Louis de Broglie'ye aittir. == Çalışmaları == 1924 yılında Erwin Schrödinger ile birlikte hareket eden bir parçacığa bir dalga eşlik eder hipotezini ileri sürerek dalga mekaniğinin temellerini oluşturdular. De Broglie, Albert Einstein ve Max Planck'in çalışmalarını birleştirerek yeni bir bağıntı elde etti. Einstein'ın E = mc2 eşitliği ile Planck'in kuantum teorisi sonuçlarıyla elde ettiği denklem, ışık hızıyla hareket eden ve kütlesi olan bir taneciğin yaptığı dalga hareketinin dalga boyunu(λ) hesaplamayı sağladı. Bağıntıdaki ışık hızı yerine ışık hızına yakın bir hıza sahip parçacığın hızı, mesela elektronun hızı \"V\" yerine yazılır. Bu şekilde çalışan de Broglie eşitliği ile hareket halindeki bir taneciğin hem dalga hem de tanecik (foton) özelliği gösterdiğini ispatlar.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 242,
+      "char_count": 1693,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.649820",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 178,
+      "content": "Louis-Victor Pierre Raymond de Broglie (d. 15 Ağustos 1892 - ö. 19 Mart 1987), Nobel Ödülü sahibi Fransız fizikçi. De Broglie ayrıca Académie des sciences'ın daimi sekreteriydi.",
+      "char_count": 177,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 178,
+      "end_char": 940,
+      "content": "== Biyografi == Louis De Broglie; 5. de Broglie dükü Victor'un oğlu ve Madame de Staël'in torunlarından biri olarak doğdu. 1960'ta büyük ağabeyi aynı zamanda fizikçi de olan altıncı dük Maurice de Broglie geriye bir varis bırakmadan öldüğünde Louis yedinci de Broglie dükü oldu. Louis de Broglie hiç evlenmedi bu yüzden de Louveciennes'de öldüğünde yerine uzaktan kuzeni Victor-François de Broglie geçti. De Broglie başlangıçta hümanist olarak bir kariyer planlamıştı ve ilk öğrenim derecesini tarih üzerine aldı. Buna rağmen sonrasında dikkati matematik ve fiziğe döndü. 1914'te I. Dünya Savaşı'nın başlamasıyla radyo iletişiminin gelişmesi için orduya hizmetini teklif etti. Hareket eden bir parçacığa bir dalga eşlik eder hipotezi Louis de Broglie'ye aittir.",
+      "char_count": 761,
+      "token_estimate": 190
+    },
+    {
+      "id": "c0002",
+      "section": "== Çalışmaları ==",
+      "heading_path": "== Çalışmaları ==",
+      "start_char": 940,
+      "end_char": 1693,
+      "content": "== Çalışmaları == 1924 yılında Erwin Schrödinger ile birlikte hareket eden bir parçacığa bir dalga eşlik eder hipotezini ileri sürerek dalga mekaniğinin temellerini oluşturdular. De Broglie, Albert Einstein ve Max Planck'in çalışmalarını birleştirerek yeni bir bağıntı elde etti. Einstein'ın E = mc2 eşitliği ile Planck'in kuantum teorisi sonuçlarıyla elde ettiği denklem, ışık hızıyla hareket eden ve kütlesi olan bir taneciğin yaptığı dalga hareketinin dalga boyunu(λ) hesaplamayı sağladı. Bağıntıdaki ışık hızı yerine ışık hızına yakın bir hıza sahip parçacığın hızı, mesela elektronun hızı \"V\" yerine yazılır. Bu şekilde çalışan de Broglie eşitliği ile hareket halindeki bir taneciğin hem dalga hem de tanecik (foton) özelliği gösterdiğini ispatlar.",
+      "char_count": 753,
+      "token_estimate": 188
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Louis de Broglie'ye atfedilen temel hipotez nedir?",
+        "answer": "Hareket eden bir parçacığa bir dalga eşlik eder hipotezi Louis de Broglie'ye aittir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Louis de Broglie'nin başlangıçtaki kariyer planlarının nasıl bir dönüşüm geçirdiği, bilimsel ilgi alanlarının değişimi ve bu değişimin hareket eden parçacıkların dalga-tanecik ikiliğini açıklayan temel hipotezi ve dalga mekaniğinin geliştirilmesi üzerindeki etkisi nedir?",
+        "answer": "Louis de Broglie başlangıçta hümanist olarak bir kariyer planlamış ve ilk öğrenim derecesini tarih üzerine almıştır. Buna rağmen sonrasında dikkati matematik ve fiziğe dönmüştür. Bu değişim, hareket eden bir parçacığa bir dalga eşlik eder hipotezini ileri sürmesine yol açmış ve Erwin Schrödinger ile birlikte dalga mekaniğinin temellerini oluşturarak, de Broglie eşitliği aracılığıyla hareket halindeki bir taneciğin hem dalga hem de tanecik özelliği gösterdiğini ispatlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

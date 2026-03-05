@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "tunesconnect_d359f101",
+    "title": "İTunes Connect",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0Tunes_Connect",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:15.013349",
+    "content": "iTunes Connect App Store'da iPhone, iPad, Mac, Apple Watch, Apple TV ve iMessage için satılan uygulamaları yönetmek için web tabanlı araçlardan oluşan bir pakettir. Ayrıca iTunes Store ve iBooks Store'daki içeriği yönetmek için kullanılır. Apple Geliştirici Programı üyesi olarak, uygulamaları göndermek ve yönetmek, kullanıcıları TestFlight ile test etmeye davet etmek, vergi ve bankacılık bilgilerini eklemek, satış raporlarına erişmek vb. işlemler için iTunes Connect'i kullanabilirler. Ek olarak, iOS Geliştirici Programı (iOS SDK) ve Mac Geliştirici Programı üyelerinin uygulamalarını yüklemek, açıklamalarını ve meta verilerini düzenlemek ve kazanılan finansmanları görüntülemek için kullandığı yöntemdir. iTunes Connect, kitap yayıncılarının kitaplarını Apple'ın iBookstore mağaza'sında satması için de kullanılır. == ITunes Connecte Erişme == Apple Developer Program'da kaydetmeyi tamamladıktan sonra, kullanıcı iTunes Connect'te kayıt yaptırmak için kullandığı Apple ID kimliğiyle oturum açabilir. Uygulamalar (müzik, TV, film veya kitap) dışında başka bir medya türünü dağıtmak veya Toplu Satın Alma Programına katılmak için iTunes Connect hesabı varsa, kullanıcı uygulamaları yönetmek için aynı Apple kimliğini kullanamaz. Kullanıcı Apple Geliştirici Programına kaydolduğunda, farklı bir Apple Kimliğini kullanması gerekir. Bir geliştirme ekibine katılmaya davet edildiyse, varsayılan olarak iTunes Connect'e erişemezse, Team Agent'tan kullanıcı için bir iTunes Connect kullanıcı hesabı oluşturması gerekir. == Kaynakça == == Dış bağlantılar == iTunes Connect developer17 Ocak 2018 tarihinde Wayback Machine sitesinde arşivlendi. iTunes Connect sitesi24 Şubat 2018 tarihinde Wayback Machine sitesinde arşivlendi. iTunes Connect podcast30 Ocak 2018 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 226,
+      "char_count": 1806,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.192353",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 822,
+      "content": "iTunes Connect App Store'da iPhone, iPad, Mac, Apple Watch, Apple TV ve iMessage için satılan uygulamaları yönetmek için web tabanlı araçlardan oluşan bir pakettir. Ayrıca iTunes Store ve iBooks Store'daki içeriği yönetmek için kullanılır. Apple Geliştirici Programı üyesi olarak, uygulamaları göndermek ve yönetmek, kullanıcıları TestFlight ile test etmeye davet etmek, vergi ve bankacılık bilgilerini eklemek, satış raporlarına erişmek vb. işlemler için iTunes Connect'i kullanabilirler. Ek olarak, iOS Geliştirici Programı (iOS SDK) ve Mac Geliştirici Programı üyelerinin uygulamalarını yüklemek, açıklamalarını ve meta verilerini düzenlemek ve kazanılan finansmanları görüntülemek için kullandığı yöntemdir. iTunes Connect, kitap yayıncılarının kitaplarını Apple'ın iBookstore mağaza'sında satması için de kullanılır.",
+      "char_count": 821,
+      "token_estimate": 205
+    },
+    {
+      "id": "c0001",
+      "section": "== ITunes Connecte Erişme ==",
+      "heading_path": "== ITunes Connecte Erişme ==",
+      "start_char": 822,
+      "end_char": 1519,
+      "content": "== ITunes Connecte Erişme == Apple Developer Program'da kaydetmeyi tamamladıktan sonra, kullanıcı iTunes Connect'te kayıt yaptırmak için kullandığı Apple ID kimliğiyle oturum açabilir. Uygulamalar (müzik, TV, film veya kitap) dışında başka bir medya türünü dağıtmak veya Toplu Satın Alma Programına katılmak için iTunes Connect hesabı varsa, kullanıcı uygulamaları yönetmek için aynı Apple kimliğini kullanamaz. Kullanıcı Apple Geliştirici Programına kaydolduğunda, farklı bir Apple Kimliğini kullanması gerekir. Bir geliştirme ekibine katılmaya davet edildiyse, varsayılan olarak iTunes Connect'e erişemezse, Team Agent'tan kullanıcı için bir iTunes Connect kullanıcı hesabı oluşturması gerekir.",
+      "char_count": 696,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1534,
+      "end_char": 1806,
+      "content": "== Dış bağlantılar == iTunes Connect developer17 Ocak 2018 tarihinde Wayback Machine sitesinde arşivlendi. iTunes Connect sitesi24 Şubat 2018 tarihinde Wayback Machine sitesinde arşivlendi. iTunes Connect podcast30 Ocak 2018 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 272,
+      "token_estimate": 68
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "iTunes Connect hangi platformlar için satılan uygulamaları yönetmek için kullanılan web tabanlı bir araç paketidir?",
+        "answer": "iTunes Connect; iPhone, iPad, Mac, Apple Watch, Apple TV ve iMessage için satılan uygulamaları yönetmek için kullanılan web tabanlı bir araç paketidir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "iTunes Connect hem uygulamaları hem de diğer medya türlerini yönetmek için kullanılmasına rağmen, bir Apple Geliştirici Programı üyesinin uygulama yönetimi için neden farklı bir Apple Kimliği kullanması gerekebilir?",
+        "answer": "Eğer bir kullanıcı zaten uygulamalar dışında (müzik, TV, film veya kitap gibi) başka bir medya türünü dağıtmak veya Toplu Satın Alma Programına katılmak için bir iTunes Connect hesabına sahipse, uygulamaları yönetmek için aynı Apple kimliğini kullanamaz. Bu durumda, Apple Geliştirici Programına kaydolurken farklı bir Apple Kimliği kullanması gerekmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

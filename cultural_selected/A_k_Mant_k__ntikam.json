@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "akmantkntikam_64474f95",
+    "title": "Aşk Mantık İntikam",
+    "url": "https://tr.wikipedia.org/wiki/A%C5%9Fk_Mant%C4%B1k_%C4%B0ntikam",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:14.414983",
+    "content": "Aşk Mantık İntikam, No Dokuz Productions imzalı, ilk bölümü 18 Haziran 2021 tarihinde yayınlanan dram ve romantik komedi türündeki Türk televizyon dizisi. Dizinin başrollerinde Burcu Özberk ve İlhan Şen yer almaktadır. Dizi, bir Güney Kore yapımı olan Cunning Single Lady dizisinden uyarlanmıştır. Dizi, 22 Nisan 2022 tarihinde yayınlanan 42. bölümü ile final yaparak sona erdi. == Teknik ekip == Dizinin yönetmeni Koray Kerimoğlu, yapımcısı Yağmur Ünal'dır. Senaryo ekibi Özlem İnci Hekimoğlu ve Nil Güleç Ünsal'dan oluşmaktadır. Dizinin görüntü yönetmeni Tarık Erkan, yardımcı yönetmeni Hülya Akdemir, 2. yönetmeni Deniz Bulut Güner, sanat yönetmeni Mert Kalender ve ışık şefi Selçuk Erkan'dır. Kurgusu Çağrı Ece tarafından yapılmaktadır. Dizinin müziklerini Batuhan Fırat ve Mustafa Güzel hazırlamaktadır. Dizinin uygulayıcı yapımcısı Meral Kınalı, yapım koordinatörü Hilal Duygu'dur. Dizinin cast direktörü Nalan Yıldırım, stil danışmanı Aslı Parlak'tır. == Konusu == == Oyuncu kadrosu ve karakterler == === Ana karakterler === === Yardımcı karakterler === === Konuk karakterler === == Genel bakış == == Bölümler == == İzlenme oranları == == Yapım == Dizinin çekimleri İstanbul'un Maltepe ve Ataşehir ilçelerinde gerçekleştirilmektedir. == Ödüller == Dizi, 47. Altın Kelebek Ödülleri’nde ve Magazin Gazetecileri Derneği tarafından dağıtılan 25. Altın Objektif Ödülleri’nde ödüle aday olmuştur. == Kaynakça == == Dış bağlantılar == FOX'nin resmî sitesinde Aşk Mantık İntikam 22 Haziran 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 215,
+      "char_count": 1541,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.543002",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 379,
+      "content": "Aşk Mantık İntikam, No Dokuz Productions imzalı, ilk bölümü 18 Haziran 2021 tarihinde yayınlanan dram ve romantik komedi türündeki Türk televizyon dizisi. Dizinin başrollerinde Burcu Özberk ve İlhan Şen yer almaktadır. Dizi, bir Güney Kore yapımı olan Cunning Single Lady dizisinden uyarlanmıştır. Dizi, 22 Nisan 2022 tarihinde yayınlanan 42. bölümü ile final yaparak sona erdi.",
+      "char_count": 378,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0001",
+      "section": "== Teknik ekip ==",
+      "heading_path": "== Teknik ekip ==",
+      "start_char": 379,
+      "end_char": 959,
+      "content": "== Teknik ekip == Dizinin yönetmeni Koray Kerimoğlu, yapımcısı Yağmur Ünal'dır. Senaryo ekibi Özlem İnci Hekimoğlu ve Nil Güleç Ünsal'dan oluşmaktadır. Dizinin görüntü yönetmeni Tarık Erkan, yardımcı yönetmeni Hülya Akdemir, 2. yönetmeni Deniz Bulut Güner, sanat yönetmeni Mert Kalender ve ışık şefi Selçuk Erkan'dır. Kurgusu Çağrı Ece tarafından yapılmaktadır. Dizinin müziklerini Batuhan Fırat ve Mustafa Güzel hazırlamaktadır. Dizinin uygulayıcı yapımcısı Meral Kınalı, yapım koordinatörü Hilal Duygu'dur. Dizinin cast direktörü Nalan Yıldırım, stil danışmanı Aslı Parlak'tır.",
+      "char_count": 579,
+      "token_estimate": 144
+    },
+    {
+      "id": "c0002",
+      "section": "== Yapım ==",
+      "heading_path": "== Yapım ==",
+      "start_char": 1143,
+      "end_char": 1241,
+      "content": "== Yapım == Dizinin çekimleri İstanbul'un Maltepe ve Ataşehir ilçelerinde gerçekleştirilmektedir.",
+      "char_count": 97,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 1241,
+      "end_char": 1398,
+      "content": "== Ödüller == Dizi, 47. Altın Kelebek Ödülleri’nde ve Magazin Gazetecileri Derneği tarafından dağıtılan 25. Altın Objektif Ödülleri’nde ödüle aday olmuştur.",
+      "char_count": 156,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1413,
+      "end_char": 1541,
+      "content": "== Dış bağlantılar == FOX'nin resmî sitesinde Aşk Mantık İntikam 22 Haziran 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 128,
+      "token_estimate": 32
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dizinin yönetmeni kimdir?",
+        "answer": "Koray Kerimoğlu",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dram ve romantik komedi türündeki 'Aşk Mantık İntikam' dizisinin No Dokuz Productions tarafından üretilen bir yapım olduğu düşünüldüğünde, bu dizinin yaratılmasında ve tamamlanmasında hangi kilit teknik ekip üyeleri yer almıştır?",
+        "answer": "Dizinin yaratılmasında ve tamamlanmasında yönetmen Koray Kerimoğlu, yapımcı Yağmur Ünal, senaryo ekibinden Özlem İnci Hekimoğlu ve Nil Güleç Ünsal, görüntü yönetmeni Tarık Erkan, kurgu sorumlusu Çağrı Ece ve müziklerini hazırlayan Batuhan Fırat ile Mustafa Güzel gibi kilit teknik ekip üyeleri yer almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

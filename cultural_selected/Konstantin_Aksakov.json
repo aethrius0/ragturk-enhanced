@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "konstantinaksakov_cc5cd625",
+    "title": "Konstantin Aksakov",
+    "url": "https://tr.wikipedia.org/wiki/Konstantin_Aksakov",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:47.130971",
+    "content": "Konstantin Sergeyeviç Aksakov (Rusça: Константи́н Серге́евич Акса́ков; 10 Nisan 1817 - 19 Aralık 1860), en eski ve en önemli Slavofillerden biri olan Rus eleştirmen ve yazardı. Eski Rus sosyal düzeninin oyunlarını, sosyal eleştirilerini ve tarihlerini yazdı. Babası Sergey Aksakov ve kız kardeşi Vera Aksakova yazardı ve küçük kardeşi İvan Aksakov bir gazeteciydi. Konstantin, Gogol'un Ölü Ruhları'nı İyonyalı Homeros ile karşılaştıran bir analizini yayınlayan ilk kişiydi. Çar II. Aleksandr'ın tahta geçmesinden sonra, ona zemsky sobor'u yeniden kurmasını tavsiye eden bir mektup gönderdi (1855). Aksakov ayrıca Slav dilbilimiyle ilgili bir dizi makale kaleme aldı. == Kişisel hayatı == Aksakov, tanınmış Rus yazar Sergey Timofeeviç Aksakov (1791-1859) ve eşi Olga Semyonovna Zaplatina'nın (1793-1878) oğlu olarak doğdu. Babasının dedesi Timofey Stepanovich Aksakov, üyeleri Šimon'un soyundan olduklarını iddia eden eski bir soylu Aksakov ailesine mensuptu. Belgelenen ilk ataları, 15. yüzyılda yaşamış olan Oksak lakaplı İvan Feodoriviç Velyaminov'du. Aile arması, Polonya'da Tatar kökenli olduğu düşünülen Polonya Przyjaciel arması (Aksak olarak da bilinir) temeline dayanıyordu (\"oksak\" kelimesi Türk dillerinde \"topal\" anlamına geliyor). Bütün bunlar, bazı araştırmaların, Polonyalı soylu hanedanla hiçbir ilgisi olmamasına rağmen, Aksakov ailesinin de Tatarlardan geldiğine inanılmasına yol açtı. Aksakov'un anne tarafından büyükbabası, Aleksandr Suvorov komutasında savaşan ve tutsak bir Türk Igel-Syum ile evlenen Rus General Semyon Grigorievich Zaplatin'di. Aksakov, ailesiyle birlikte Moskova'ya taşınmadan önce bir kır arazisinde büyüdü. Hiç evlenmeden veya evden ayrılmadan hayatı boyunca ailesiyle birlikte kaldı. Moskova Devlet Üniversitesi'nde okudu ve bir grup Rus Hegelcisi ve Rus demokrasisinin ilk inananları olan Stankevitç Çevresi'nin bir üyesi oldu. Aksakov sonunda Ivan Kireyevsky ve Aleksey Homyakov'la tanıştı, Slavofilizm felsefesini benimsedi ve Stankevitç Çevresi ile tüm ilişkilerini kesti. == Felsefesi == Aksakov'un Mihail Lomonosov (1846) üzerine teziyle, Rus köylüsünün dini ve tarihi misyonuna ilişkin görüşünü Hegel'in felsefesiyle sentezlemeye çalıştı. Aksakov, III. Aleksandr'ı etkilemiş ve ona \"Rusya'daki otokrasinin misyonunun köylülere belirli bir refah sağlamak olduğu\" şeklindeki radikal anlayışını aşılamıştı. Aksakov, kariyerinin ilerleyen dönemlerinde Hegelci felsefeyi terk etti ve radikal bir şekilde Avrupa karşıtı oldu. == Kaynakça == == Bibliyografya == Imperial Moscow University: 1755-1917: encyclopedic dictionary. Moskova: Russian political encyclopedia (ROSSPEN). A. Andreev, D. Tsygankov. 2010. ss. 17-18. ISBN 978-5-8243-1429-8.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 343,
+      "char_count": 2686,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.875947",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 667,
+      "content": "Konstantin Sergeyeviç Aksakov (Rusça: Константи́н Серге́евич Акса́ков; 10 Nisan 1817 - 19 Aralık 1860), en eski ve en önemli Slavofillerden biri olan Rus eleştirmen ve yazardı. Eski Rus sosyal düzeninin oyunlarını, sosyal eleştirilerini ve tarihlerini yazdı. Babası Sergey Aksakov ve kız kardeşi Vera Aksakova yazardı ve küçük kardeşi İvan Aksakov bir gazeteciydi. Konstantin, Gogol'un Ölü Ruhları'nı İyonyalı Homeros ile karşılaştıran bir analizini yayınlayan ilk kişiydi. Çar II. Aleksandr'ın tahta geçmesinden sonra, ona zemsky sobor'u yeniden kurmasını tavsiye eden bir mektup gönderdi (1855). Aksakov ayrıca Slav dilbilimiyle ilgili bir dizi makale kaleme aldı.",
+      "char_count": 666,
+      "token_estimate": 166
+    },
+    {
+      "id": "c0001",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 667,
+      "end_char": 1667,
+      "content": "== Kişisel hayatı == Aksakov, tanınmış Rus yazar Sergey Timofeeviç Aksakov (1791-1859) ve eşi Olga Semyonovna Zaplatina'nın (1793-1878) oğlu olarak doğdu. Babasının dedesi Timofey Stepanovich Aksakov, üyeleri Šimon'un soyundan olduklarını iddia eden eski bir soylu Aksakov ailesine mensuptu. Belgelenen ilk ataları, 15. yüzyılda yaşamış olan Oksak lakaplı İvan Feodoriviç Velyaminov'du. Aile arması, Polonya'da Tatar kökenli olduğu düşünülen Polonya Przyjaciel arması (Aksak olarak da bilinir) temeline dayanıyordu (\"oksak\" kelimesi Türk dillerinde \"topal\" anlamına geliyor). Bütün bunlar, bazı araştırmaların, Polonyalı soylu hanedanla hiçbir ilgisi olmamasına rağmen, Aksakov ailesinin de Tatarlardan geldiğine inanılmasına yol açtı. Aksakov'un anne tarafından büyükbabası, Aleksandr Suvorov komutasında savaşan ve tutsak bir Türk Igel-Syum ile evlenen Rus General Semyon Grigorievich Zaplatin'di. Aksakov, ailesiyle birlikte Moskova'ya taşınmadan önce bir kır arazisinde büyüdü. Hiç evlenmeden vey",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 1467,
+      "end_char": 2019,
+      "content": "sında savaşan ve tutsak bir Türk Igel-Syum ile evlenen Rus General Semyon Grigorievich Zaplatin'di. Aksakov, ailesiyle birlikte Moskova'ya taşınmadan önce bir kır arazisinde büyüdü. Hiç evlenmeden veya evden ayrılmadan hayatı boyunca ailesiyle birlikte kaldı. Moskova Devlet Üniversitesi'nde okudu ve bir grup Rus Hegelcisi ve Rus demokrasisinin ilk inananları olan Stankevitç Çevresi'nin bir üyesi oldu. Aksakov sonunda Ivan Kireyevsky ve Aleksey Homyakov'la tanıştı, Slavofilizm felsefesini benimsedi ve Stankevitç Çevresi ile tüm ilişkilerini kesti.",
+      "char_count": 552,
+      "token_estimate": 138
+    },
+    {
+      "id": "c0003",
+      "section": "== Felsefesi ==",
+      "heading_path": "== Felsefesi ==",
+      "start_char": 2020,
+      "end_char": 2470,
+      "content": "== Felsefesi == Aksakov'un Mihail Lomonosov (1846) üzerine teziyle, Rus köylüsünün dini ve tarihi misyonuna ilişkin görüşünü Hegel'in felsefesiyle sentezlemeye çalıştı. Aksakov, III. Aleksandr'ı etkilemiş ve ona \"Rusya'daki otokrasinin misyonunun köylülere belirli bir refah sağlamak olduğu\" şeklindeki radikal anlayışını aşılamıştı. Aksakov, kariyerinin ilerleyen dönemlerinde Hegelci felsefeyi terk etti ve radikal bir şekilde Avrupa karşıtı oldu.",
+      "char_count": 449,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0004",
+      "section": "== Bibliyografya ==",
+      "heading_path": "== Bibliyografya ==",
+      "start_char": 2485,
+      "end_char": 2686,
+      "content": "== Bibliyografya == Imperial Moscow University: 1755-1917: encyclopedic dictionary. Moskova: Russian political encyclopedia (ROSSPEN). A. Andreev, D. Tsygankov. 2010. ss. 17-18. ISBN 978-5-8243-1429-8.",
+      "char_count": 201,
+      "token_estimate": 50
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Aksakov'ın annesinin adı neydi?",
+        "answer": "Olga Semyonovna Zaplatina.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Konstantin Aksakov'un Slavofil felsefesini benimseme süreci nasıl şekillendi ve bu dönüşümün ardından Rus toplumuna yönelik başlıca entelektüel katkıları nelerdi?",
+        "answer": "Aksakov, yazar Sergey Timofeeviç Aksakov'un oğlu olarak dünyaya geldi ve hayatı boyunca ailesiyle birlikte yaşadı. Moskova Devlet Üniversitesi'nde eğitim gördü ve başlangıçta Rus Hegelcileri ve demokrasinin ilk inananlarından oluşan Stankevitç Çevresi'nin bir üyesiydi. Daha sonra Ivan Kireyevsky ve Aleksey Homyakov ile tanıştıktan sonra Slavofilizmi benimsedi ve Stankevitç Çevresi ile ilişkilerini sonlandırdı. Bir Slavofil olarak, eski Rus sosyal düzeninin oyunlarını, sosyal eleştirilerini ve tarihlerini yazdı. Ayrıca Gogol'un Ölü Ruhları'nı İyonyalı Homeros ile karşılaştıran bir analiz yayınladı, 1855'te Çar II. Aleksandr'a zemsky sobor'u yeniden kurmasını tavsiye eden bir mektup gönderdi ve Slav dilbilimi üzerine makaleler kaleme aldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

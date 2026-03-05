@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "edmondabout_eb1a63fc",
+    "title": "Edmond About",
+    "url": "https://tr.wikipedia.org/wiki/Edmond_About",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:13.445355",
+    "content": "Edmond François Valentin About (14 Şubat 1828; Dieuze, Fransa - 16 Ocak 1885; Paris), Fransız yazar, romancı ve yayıncıdır. == Hayatı == About, Dieuze'de, Fransa Lorraine bölgesindeki Moselle'de doğdu. Üniversite hayatının sonunda Atina'daki Fransız okuluna katıldı, ancak École Normale'nin hazırlık sınıfı olduğu profesyonel kariyerine hiç başlamayı istemediğini iddia etti ve 1853'te Fransa'ya döndü ve kendini edebiyat ve gazetecilik çalışmalarına verdi 23 Ocak 1884'te Académie Française üyeliğine seçildi, ancak koltuğuna sahip olamadan öldü. Paris'teki Père Lachaise Mezarlığı'ndaki mezarında bulunan heykelini Gustave Crauck yapmıştır. == Eserleri (seçme) == L'île d'Égine. Paris 1854. La Grèce contemporaine. Paris 1853. als e-Datei der 5. Auflage, Librairie de L. Hachette & Cie, Paris 1863: 28 Ocak 2017 tarihinde Wayback Machine sitesinde arşivlendi. Tolla Feraldi. Paris 1855. Les mariages de Paris. Paris 1856. Paris royale. Paris 1856. Le roi des montages (1856) Germaine (1857) Les échasses de maître Pierre (1858) La question romaine. Brüssel 1859. L'homme à l’oreille cassée (1862) Le nez d’un notaie (1862) Le cas de Mr. Guérin (1862) Madelon (1863) Trente et quarante (1865) [Digitalisat bei Spiegel-Gutenberg 23 Ekim 2017 tarihinde Wayback Machine sitesinde [https://web.archive.org/web/20171023230119/http://gutenberg.spiegel.de/buch/die-spielholle-in-baden-baden-2808/1 arşivlendi.]] La vieille roche (1865), 3 Bde. L'Infâme (1867) Les mariages de province (1868) Le Fellah (1869). Le progrès (1864) Les questions d’argent (1865) Causeries (1865–1866), 2 Bde L'assurance (1866) ABC du travailleur (1868) Alsace 1871–1872 (1872) Roman d'un brave homme (1880) De Pontoise à Stamboul (1884) == Kaynakça == == Dış bağlantılar == Edmond About çalışmaları – Gutenberg Projesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 241,
+      "char_count": 1791,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.000387",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 124,
+      "content": "Edmond François Valentin About (14 Şubat 1828; Dieuze, Fransa - 16 Ocak 1885; Paris), Fransız yazar, romancı ve yayıncıdır.",
+      "char_count": 123,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 124,
+      "end_char": 643,
+      "content": "== Hayatı == About, Dieuze'de, Fransa Lorraine bölgesindeki Moselle'de doğdu. Üniversite hayatının sonunda Atina'daki Fransız okuluna katıldı, ancak École Normale'nin hazırlık sınıfı olduğu profesyonel kariyerine hiç başlamayı istemediğini iddia etti ve 1853'te Fransa'ya döndü ve kendini edebiyat ve gazetecilik çalışmalarına verdi 23 Ocak 1884'te Académie Française üyeliğine seçildi, ancak koltuğuna sahip olamadan öldü. Paris'teki Père Lachaise Mezarlığı'ndaki mezarında bulunan heykelini Gustave Crauck yapmıştır.",
+      "char_count": 518,
+      "token_estimate": 129
+    },
+    {
+      "id": "c0002",
+      "section": "== Eserleri (seçme) ==",
+      "heading_path": "== Eserleri (seçme) ==",
+      "start_char": 643,
+      "end_char": 1643,
+      "content": "== Eserleri (seçme) == L'île d'Égine. Paris 1854. La Grèce contemporaine. Paris 1853. als e-Datei der 5. Auflage, Librairie de L. Hachette & Cie, Paris 1863: 28 Ocak 2017 tarihinde Wayback Machine sitesinde arşivlendi. Tolla Feraldi. Paris 1855. Les mariages de Paris. Paris 1856. Paris royale. Paris 1856. Le roi des montages (1856) Germaine (1857) Les échasses de maître Pierre (1858) La question romaine. Brüssel 1859. L'homme à l’oreille cassée (1862) Le nez d’un notaie (1862) Le cas de Mr. Guérin (1862) Madelon (1863) Trente et quarante (1865) [Digitalisat bei Spiegel-Gutenberg 23 Ekim 2017 tarihinde Wayback Machine sitesinde [https://web.archive.org/web/20171023230119/http://gutenberg.spiegel.de/buch/die-spielholle-in-baden-baden-2808/1 arşivlendi.]] La vieille roche (1865), 3 Bde. L'Infâme (1867) Les mariages de province (1868) Le Fellah (1869). Le progrès (1864) Les questions d’argent (1865) Causeries (1865–1866), 2 Bde L'assurance (1866) ABC du travailleur (1868) Alsace 1871–1872 ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Eserleri (seçme) ==",
+      "heading_path": "== Eserleri (seçme) ==",
+      "start_char": 1443,
+      "end_char": 1709,
+      "content": "âme (1867) Les mariages de province (1868) Le Fellah (1869). Le progrès (1864) Les questions d’argent (1865) Causeries (1865–1866), 2 Bde L'assurance (1866) ABC du travailleur (1868) Alsace 1871–1872 (1872) Roman d'un brave homme (1880) De Pontoise à Stamboul (1884)",
+      "char_count": 266,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1725,
+      "end_char": 1791,
+      "content": "== Dış bağlantılar == Edmond About çalışmaları – Gutenberg Projesi",
+      "char_count": 66,
+      "token_estimate": 16
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1855 yılında yayımlanan eserin adı nedir?",
+        "answer": "Tolla Feraldi",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Edmond About'un edebiyat ve gazetecilik alanındaki profesyonel kariyeri ne zaman başladı ve bu döneme ait ilk eserlerinden bazıları nelerdir?",
+        "answer": "Edmond About, 1853 yılında Fransa'ya döndükten sonra kendini edebiyat ve gazetecilik çalışmalarına vererek profesyonel kariyerine başladı. Bu döneme ait ilk eserleri arasında 1853'te yayımlanan La Grèce contemporaine, 1854'te yayımlanan L'île d'Égine ve 1855'te yayımlanan Tolla Feraldi bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

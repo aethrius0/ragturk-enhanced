@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "m40kundamotorluobs_8a90fe8e",
+    "title": "M40 (kundağı motorlu obüs)",
+    "url": "https://tr.wikipedia.org/wiki/M40_%28kunda%C4%9F%C4%B1_motorlu_ob%C3%BCs%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:29.437179",
+    "content": "M40 155 mm Kundağı Motorlu Obüs (İngilizce Gun Motor Carriage GMC) Amerikan Ordusu'na ait kundağı motorlu obüs toplarından biridir. Yapımında daha geniş ve uzun imal edilen M4 Sherman tank şasesi, motor olarak Continental model motor ve HVSS model süspansiyonlar kullanılmıştır. Silah olarak 155 mm M2 topu ki bu top daha önce M12 Kundağı Motorlu Obüs aracında da kullanılmıştır. İlk prototipi T38 adıyla üretildi ancak Mart 1945 tarihinde M40 olarak değiştirildi. Çok az sayıda araç çatışmada kullanıldı. İlk olarak Almanya'da Köln'de daha sonra da Kore Savaşı sırasında kullanıldı. İngiliz Ordusu II. Dünya Savaşı sırasında bu aracı 155 mm SP, M40 adıyla kullandı. == Modelleri == Ordu T38 şasesini diğer kundağı motorlu obüslerde de kullanmayı planlamıştı. T30 Kargo Taşıyıcı - Aralık 1944 tarihine kadar birkaç tane üretildi daha sonra kundağı motorlu obüse dönüştürüldü. M43 8 inç Kundağı Motorlu Obüs, Ağustos 1945 araç standart hale getirildi, 48 adet üretildi. T94 250 mm Kundağı Motorlu Havan - Şubat 1945 çalışılmaya başlandı. 1946 yılında bir adet prototip üretildi. == Kaynakça == Leland Ness(2002)Janes World War II Tanks and Fighting Vehicles, Harper Collins, ISBN 0-00-711228-9 == Dış bağlantılar == II.DS Araçları ZSA bilgileri5 Aralık 2012 tarihinde Archive.is sitesinde arşivlendi == Ayrıca bakınız == II. Dünya Savaşı Zırhlı Araç Listesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 203,
+      "char_count": 1356,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.756081",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 667,
+      "content": "M40 155 mm Kundağı Motorlu Obüs (İngilizce Gun Motor Carriage GMC) Amerikan Ordusu'na ait kundağı motorlu obüs toplarından biridir. Yapımında daha geniş ve uzun imal edilen M4 Sherman tank şasesi, motor olarak Continental model motor ve HVSS model süspansiyonlar kullanılmıştır. Silah olarak 155 mm M2 topu ki bu top daha önce M12 Kundağı Motorlu Obüs aracında da kullanılmıştır. İlk prototipi T38 adıyla üretildi ancak Mart 1945 tarihinde M40 olarak değiştirildi. Çok az sayıda araç çatışmada kullanıldı. İlk olarak Almanya'da Köln'de daha sonra da Kore Savaşı sırasında kullanıldı. İngiliz Ordusu II. Dünya Savaşı sırasında bu aracı 155 mm SP, M40 adıyla kullandı.",
+      "char_count": 666,
+      "token_estimate": 166
+    },
+    {
+      "id": "c0001",
+      "section": "== Modelleri ==",
+      "heading_path": "== Modelleri ==",
+      "start_char": 667,
+      "end_char": 1078,
+      "content": "== Modelleri == Ordu T38 şasesini diğer kundağı motorlu obüslerde de kullanmayı planlamıştı. T30 Kargo Taşıyıcı - Aralık 1944 tarihine kadar birkaç tane üretildi daha sonra kundağı motorlu obüse dönüştürüldü. M43 8 inç Kundağı Motorlu Obüs, Ağustos 1945 araç standart hale getirildi, 48 adet üretildi. T94 250 mm Kundağı Motorlu Havan - Şubat 1945 çalışılmaya başlandı. 1946 yılında bir adet prototip üretildi.",
+      "char_count": 410,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1078,
+      "end_char": 1193,
+      "content": "== Kaynakça == Leland Ness(2002)Janes World War II Tanks and Fighting Vehicles, Harper Collins, ISBN 0-00-711228-9",
+      "char_count": 114,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1193,
+      "end_char": 1299,
+      "content": "== Dış bağlantılar == II.DS Araçları ZSA bilgileri5 Aralık 2012 tarihinde Archive.is sitesinde arşivlendi",
+      "char_count": 105,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1299,
+      "end_char": 1356,
+      "content": "== Ayrıca bakınız == II. Dünya Savaşı Zırhlı Araç Listesi",
+      "char_count": 57,
+      "token_estimate": 14
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "M40 155 mm Kundağı Motorlu Obüs'ün ilk prototipi hangi adla üretildi ve adı ne zaman M40 olarak değiştirildi?",
+        "answer": "İlk prototipi T38 adıyla üretildi ancak Mart 1945 tarihinde M40 olarak değiştirildi.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "M40'ın yanı sıra, T38 şasesini kullanması planlanan diğer araç modelleri hangileriydi?",
+        "answer": "T30 Kargo Taşıyıcı, M43 8 inç Kundağı Motorlu Obüs ve T94 250 mm Kundağı Motorlu Havan'dır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

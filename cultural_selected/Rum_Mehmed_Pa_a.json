@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "rummehmedpaa_4373f699",
+    "title": "Rum Mehmed Paşa",
+    "url": "https://tr.wikipedia.org/wiki/Rum_Mehmed_Pa%C5%9Fa",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:36.110944",
+    "content": "Rum Mehmed Paşa II. Mehmed saltanatı sırasında, 1466-1469 yılları arasında sadrazamlık yapmış Osmanlı devlet adamıdır. == Hayatı == İstanbul yerli rumlardan bir ailenin çocuğu olup, sonrasında devşirme sistemine alınmış ve müslüman olmuştur. Özellikle Rum ailelere maden de dahil çeşitli yer üstü kaynaklarının, gümrük vergilerinin iltizama verilmesini ve bu sayede devlet gelirlerinin toplanmasında verimin ve artışın olabileceğini belirtmiş ve bu konuda II.Mehmed'i ikna etmiştir. Tekel ve iltizam usulleri konusundaki yaklaşımları bu dönemde Osmanlı maliyesinde kaynakların artmasını sağlasa da; bunun çok uzun dönemdeki etkisi olumsuz olmuştur. Zira bu sayede Osmanlının özellikle duraklama döneminde, devlet zayıfladığında yolsuzluklar baş göstermiş yine ticari hayat belli azınlıkların eline geçmiştir. Bununla birlikte sadrazamlığı döneminde bilinen diğer bir olayda Karaman Seferi esnasında sergilediği tarihe geçen kıyım ve talanıdır. Karamanoğulları Osmanlı imparatorluğunun elindeki toprakların bir kısmını almak için ordu seferdeyken saldırıda bulunmuş ancak sonrasında bu saldırılar geri püskürtülüp Karamanoğulları Osmanlılara bağlı hale getirilmişti.Ancak aynı durum tekrar ortaya çıkınca Rum Mehmet Paşa, Karamanoğulları seferine çıkmıştır. Seferde komutasındaki Osmanlı askerleri halka son derece acımasızca davranmıştır. O devirlerin tarihçilerinden Aşıkpaşazâde eserinde onun için şöyle demektedir: Rum Mehmet, yürüdü. Larende'ye vardı. Mescitlerini ve medreselerini yaktı,yıktı ve bozdu. Babasının evi gibi harap eyledi. Şehrin kadınlarını ve oğlanlarını soydurdu. Çıplak ettirdi. Larende'den gitti. Vardı,Ereğli'ye çıktı. Ereğli'nin ilini ve köylerini harap eyledi...\" Bu icraatını devşirme kökeni ile ilişkilendiren hatta Rum olmasından ötürü İstanbul'un acısı için yaptığını söyleyen tarihçiler de bulunmaktadır. Varsak Türkmenleri üzerine hareket etmiş ancak Varsak beylerinden Uyuz Bey tarafından mağlup edilmiş, Karaman seferinde ele geçirdiği bütün mal ve para Türkmenlerin eline geçmiştir. Karamanlı Mehmet Paşa' nın teşvikiyle azledilmiş ve 1470 yılında boğularak öldürülmüştür. Mezarı Üsküdar'da yaptırmış olduğu Rum Mehmed Paşa Camii yanında bulunan türbesindedir. Ankara'da günümüzde Anadolu Medeniyetleri Müzesi olan Kurşunlu Han da Rum Mehmed Paşa tarafından yaptırılmıştır. == Kaynakça == == Dış bağlantılar == Danişmend, İsmail Hâmi, (1961) Osmanlı Devlet Erkânı, İstanbul:Türkiye Yayınevi. Babinger, Franz (1992) Mehmed the Conqueror and His Time Princeton: University Press ISBN 0-691-09900-6. (İngilizce) J. H. Kramers: Muhammad Paşa, Rūm Kaynak: M Th Houtsma, T W Arnold, A. J. Wensinck: (ed) (1993) Encyclopaedia of Islam, 1913-1936 First Edition, Brill say.692 ISBN 9789004097964 GoogleBooks (İngilizce) A. H.de Groot, Mehmed Paşa, Rūm. Kaynak: The Encyclopaedia of Islam. New Edition. Cilt 6, Leiden: Brill, say.1000. (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 364,
+      "char_count": 2872,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.643923",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 119,
+      "content": "Rum Mehmed Paşa II. Mehmed saltanatı sırasında, 1466-1469 yılları arasında sadrazamlık yapmış Osmanlı devlet adamıdır.",
+      "char_count": 118,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 119,
+      "end_char": 1119,
+      "content": "== Hayatı == İstanbul yerli rumlardan bir ailenin çocuğu olup, sonrasında devşirme sistemine alınmış ve müslüman olmuştur. Özellikle Rum ailelere maden de dahil çeşitli yer üstü kaynaklarının, gümrük vergilerinin iltizama verilmesini ve bu sayede devlet gelirlerinin toplanmasında verimin ve artışın olabileceğini belirtmiş ve bu konuda II.Mehmed'i ikna etmiştir. Tekel ve iltizam usulleri konusundaki yaklaşımları bu dönemde Osmanlı maliyesinde kaynakların artmasını sağlasa da; bunun çok uzun dönemdeki etkisi olumsuz olmuştur. Zira bu sayede Osmanlının özellikle duraklama döneminde, devlet zayıfladığında yolsuzluklar baş göstermiş yine ticari hayat belli azınlıkların eline geçmiştir. Bununla birlikte sadrazamlığı döneminde bilinen diğer bir olayda Karaman Seferi esnasında sergilediği tarihe geçen kıyım ve talanıdır. Karamanoğulları Osmanlı imparatorluğunun elindeki toprakların bir kısmını almak için ordu seferdeyken saldırıda bulunmuş ancak sonrasında bu saldırılar geri püskürtülüp Karama",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 919,
+      "end_char": 1919,
+      "content": "eçen kıyım ve talanıdır. Karamanoğulları Osmanlı imparatorluğunun elindeki toprakların bir kısmını almak için ordu seferdeyken saldırıda bulunmuş ancak sonrasında bu saldırılar geri püskürtülüp Karamanoğulları Osmanlılara bağlı hale getirilmişti.Ancak aynı durum tekrar ortaya çıkınca Rum Mehmet Paşa, Karamanoğulları seferine çıkmıştır. Seferde komutasındaki Osmanlı askerleri halka son derece acımasızca davranmıştır. O devirlerin tarihçilerinden Aşıkpaşazâde eserinde onun için şöyle demektedir: Rum Mehmet, yürüdü. Larende'ye vardı. Mescitlerini ve medreselerini yaktı,yıktı ve bozdu. Babasının evi gibi harap eyledi. Şehrin kadınlarını ve oğlanlarını soydurdu. Çıplak ettirdi. Larende'den gitti. Vardı,Ereğli'ye çıktı. Ereğli'nin ilini ve köylerini harap eyledi...\" Bu icraatını devşirme kökeni ile ilişkilendiren hatta Rum olmasından ötürü İstanbul'un acısı için yaptığını söyleyen tarihçiler de bulunmaktadır. Varsak Türkmenleri üzerine hareket etmiş ancak Varsak beylerinden Uyuz Bey tarafınd",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1719,
+      "end_char": 2308,
+      "content": "ile ilişkilendiren hatta Rum olmasından ötürü İstanbul'un acısı için yaptığını söyleyen tarihçiler de bulunmaktadır. Varsak Türkmenleri üzerine hareket etmiş ancak Varsak beylerinden Uyuz Bey tarafından mağlup edilmiş, Karaman seferinde ele geçirdiği bütün mal ve para Türkmenlerin eline geçmiştir. Karamanlı Mehmet Paşa' nın teşvikiyle azledilmiş ve 1470 yılında boğularak öldürülmüştür. Mezarı Üsküdar'da yaptırmış olduğu Rum Mehmed Paşa Camii yanında bulunan türbesindedir. Ankara'da günümüzde Anadolu Medeniyetleri Müzesi olan Kurşunlu Han da Rum Mehmed Paşa tarafından yaptırılmıştır.",
+      "char_count": 589,
+      "token_estimate": 147
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2324,
+      "end_char": 2872,
+      "content": "== Dış bağlantılar == Danişmend, İsmail Hâmi, (1961) Osmanlı Devlet Erkânı, İstanbul:Türkiye Yayınevi. Babinger, Franz (1992) Mehmed the Conqueror and His Time Princeton: University Press ISBN 0-691-09900-6. (İngilizce) J. H. Kramers: Muhammad Paşa, Rūm Kaynak: M Th Houtsma, T W Arnold, A. J. Wensinck: (ed) (1993) Encyclopaedia of Islam, 1913-1936 First Edition, Brill say.692 ISBN 9789004097964 GoogleBooks (İngilizce) A. H.de Groot, Mehmed Paşa, Rūm. Kaynak: The Encyclopaedia of Islam. New Edition. Cilt 6, Leiden: Brill, say.1000. (İngilizce)",
+      "char_count": 548,
+      "token_estimate": 137
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tekel ve iltizam usullerinin Osmanlı maliyesinde kısa dönemdeki etkisi ne olmuştur?",
+        "answer": "Osmanlı maliyesinde kaynakların artmasını sağlamıştır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rum Mehmed Paşa'nın sadrazamlığı dönemindeki ekonomik yaklaşımları ve Karaman Seferi'ndeki uygulamaları Osmanlı Devleti ve sonraki tarihi yorumlar açısından nasıl bir etki yaratmıştır?",
+        "answer": "II. Mehmed döneminde 1466-1469 yılları arasında sadrazamlık yapan Rum Mehmed Paşa'nın iltizam usulleriyle maden ve gümrük vergilerinin toplanmasını teşvik etmesi, kısa vadede devlet gelirlerini artırmış; ancak uzun vadede yolsuzluklara ve ticari hayatın belli azınlıkların eline geçmesine neden olarak Osmanlı maliyesi üzerinde olumsuz bir etki yaratmıştır. Karaman Seferi sırasında sergilediği acımasız tutumla Larende ve Ereğli gibi yerlerde mescitleri, medreseleri yakıp yıkmış, halkı soymuş ve harap etmiştir. Bu icraatları, bazı tarihçiler tarafından onun devşirme kökeni veya Rum olmasından kaynaklanan 'İstanbul'un acısı' için yapıldığı şeklinde yorumlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

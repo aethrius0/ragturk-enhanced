@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "pnarakyol_aee007b4",
+    "title": "Pınar Akyol",
+    "url": "https://tr.wikipedia.org/wiki/P%C4%B1nar_Akyol",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:33.750208",
+    "content": "Pınar Akyol (d. 2 Ekim 2003, Eskişehir), Türk gülle atıcı. Türkiye'yi ulusal ve uluslararası düzeyde temsil eden Akyol, gençler ve büyükler kategorilerinde çeşitli şampiyonalarda madalyalar elde etmiştir. == Kariyeri == Pınar Akyol, atletizme Eskişehir'de başladı. 2019 yılında, Balkan U20 Salon Atletizm Şampiyonası'nda İstanbul'da ve Balkan U20 Atletizm Şampiyonası'nda Cluj-Napoca'da altın madalya kazandı. Aynı yıl Borås'ta düzenlenen Avrupa U20 Atletizm Şampiyonası'nda gülle atmada 16,19 m'lik derecesiyle gümüş madalya aldı. Yine 2019'da Bakü'deki Avrupa Gençlik Olimpik Yaz Festivali'nde (EYOF) 17,88 m ile altın madalya elde etti. 2021'de Tallinn'de yapılan Avrupa U20 Atletizm Şampiyonası'nda altın madalya kazandı. Aynı yıl Nairobi'deki Dünya U20 Atletizm Şampiyonası'nda 16,72 m atarak gümüş madalya elde etti. 2021'de ayrıca Split'teki Avrupa Atmalar Kupası'nda 17,65 m ile birincilik elde etti. 2022 yılında, Belgrad'daki Balkan U20 Salon Şampiyonası ve İstanbul'daki Balkan Salon Atletizm Şampiyonası'nda altın madalya kazandı. Ağustos 2022'de Cali'deki Dünya U20 Atletizm Şampiyonası'nda gümüş madalya kazandı ve böylece iki farklı Dünya Gençler Atletizm Şampiyonası'nda madalya kazanan ilk Türk atlet oldu. Aynı yıl Konya'da düzenlenen İslami Dayanışma Oyunları'nda Emel Dereli'nin ardından gümüş madalya elde etti. 2023 yılında Espoo'daki Avrupa U23 Atletizm Şampiyonası'nda finale yükseldi ancak geçerli atış yapamadı. 2024'te İzmir'deki Balkan Atletizm Şampiyonası'nda bronz madalya aldı. == Kaynakça == == Dış bağlantılar == World Athletics profili",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 205,
+      "char_count": 1569,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.244765",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 205,
+      "content": "Pınar Akyol (d. 2 Ekim 2003, Eskişehir), Türk gülle atıcı. Türkiye'yi ulusal ve uluslararası düzeyde temsil eden Akyol, gençler ve büyükler kategorilerinde çeşitli şampiyonalarda madalyalar elde etmiştir.",
+      "char_count": 204,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 205,
+      "end_char": 1205,
+      "content": "== Kariyeri == Pınar Akyol, atletizme Eskişehir'de başladı. 2019 yılında, Balkan U20 Salon Atletizm Şampiyonası'nda İstanbul'da ve Balkan U20 Atletizm Şampiyonası'nda Cluj-Napoca'da altın madalya kazandı. Aynı yıl Borås'ta düzenlenen Avrupa U20 Atletizm Şampiyonası'nda gülle atmada 16,19 m'lik derecesiyle gümüş madalya aldı. Yine 2019'da Bakü'deki Avrupa Gençlik Olimpik Yaz Festivali'nde (EYOF) 17,88 m ile altın madalya elde etti. 2021'de Tallinn'de yapılan Avrupa U20 Atletizm Şampiyonası'nda altın madalya kazandı. Aynı yıl Nairobi'deki Dünya U20 Atletizm Şampiyonası'nda 16,72 m atarak gümüş madalya elde etti. 2021'de ayrıca Split'teki Avrupa Atmalar Kupası'nda 17,65 m ile birincilik elde etti. 2022 yılında, Belgrad'daki Balkan U20 Salon Şampiyonası ve İstanbul'daki Balkan Salon Atletizm Şampiyonası'nda altın madalya kazandı. Ağustos 2022'de Cali'deki Dünya U20 Atletizm Şampiyonası'nda gümüş madalya kazandı ve böylece iki farklı Dünya Gençler Atletizm Şampiyonası'nda madalya kazanan il",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1005,
+      "end_char": 1508,
+      "content": "ampiyonası'nda altın madalya kazandı. Ağustos 2022'de Cali'deki Dünya U20 Atletizm Şampiyonası'nda gümüş madalya kazandı ve böylece iki farklı Dünya Gençler Atletizm Şampiyonası'nda madalya kazanan ilk Türk atlet oldu. Aynı yıl Konya'da düzenlenen İslami Dayanışma Oyunları'nda Emel Dereli'nin ardından gümüş madalya elde etti. 2023 yılında Espoo'daki Avrupa U23 Atletizm Şampiyonası'nda finale yükseldi ancak geçerli atış yapamadı. 2024'te İzmir'deki Balkan Atletizm Şampiyonası'nda bronz madalya aldı.",
+      "char_count": 503,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1524,
+      "end_char": 1569,
+      "content": "== Dış bağlantılar == World Athletics profili",
+      "char_count": 45,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Pınar Akyol atletizme nerede başladı?",
+        "answer": "Eskişehir'de.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Pınar Akyol, hangi başarısıyla iki farklı Dünya Gençler Atletizm Şampiyonası'nda madalya kazanan ilk Türk atlet olmuştur ve bu madalyaları hangi yıllarda elde etmiştir?",
+        "answer": "Pınar Akyol, 2021'de Nairobi'deki Dünya U20 Atletizm Şampiyonası'nda gümüş madalya ve 2022'de Cali'deki Dünya U20 Atletizm Şampiyonası'nda gümüş madalya kazanarak iki farklı Dünya Gençler Atletizm Şampiyonası'nda madalya kazanan ilk Türk atlet olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

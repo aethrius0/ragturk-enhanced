@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "thurgoodmarshall_903363b4",
+    "title": "Thurgood Marshall",
+    "url": "https://tr.wikipedia.org/wiki/Thurgood_Marshall",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:48.831548",
+    "content": "Thurgood Marshall (2 Temmuz 1908, Baltimore - 24 Ocak 1993, Bethesda, Maryland), Amerikalı hukukçu. ABD Yüksek Mahkemesi'nin ilk siyah üyesi. Brown-Topeka Eğitim Kurulu Davası'nda (1954) avukat olarak ABD Yüksek Mahkemesi önünde yaptığı başarılı savunma sonucunda devlet okullarında ırk ayrımcılığının anayasaya aykırı olduğu kabul edilmiştir. == Hayatı == 1930'da Lincoln Üniversitesi'nden (Pensilvanya), 1933'te de sınıf birincisi olarak Howard Üniversitesi Hukuk Okulu'ndan (Washington) mezun oldu. 1936'da Siyahları Geliştirme Ulusal Derneği'nde (NAACP) çalışmaya başladı. 1940'ta derneğin hukuk bürosunun başına geçti. Yüksek Mahkeme önünde savunduğu 32 davadan 29'unu kazandı. Bunlar arasında Brown Davası; Yüksek Mahkeme'nin bir Güney eyâletinde siyah seçmenlerin önseçimlerde oy kullanmasının engellenmesini anayasaya aykırı bulduğu Smith-Allwright Davası (1944); konut edinmede ırka göre kısıtlayıcı hükümler'in uygulanmasının anayasaya aykırı bulunduğu Shelley-Kraemer Davası (1948); Sweat-Painter Davası (1950) ve eyâlet üniversitelerinde siyah meslek sahiplerine ve lisansütü öğrencilerine ayrı ama eşit olanaklar sağlanmasının karara bağlandığı McLaurin-Oklahoma State Regents Davası (1950) sayılabilir. Başkan John F. Kennedy Eylül 1961'de Marshall'ı İkinci Bölge (New York, Connecticut ve Vermont) için ABD Temyiz Mahkemesi'ne aday gösterdi. Ama Güneyli senatörlerin karşı çıkması yüzünden atanması birkaç aylık bir gecikmeden sonra onaylandı. Başkan Lyndon B. Johnson Temmuz 1965'te Marshall'ı ABD Başsavcılığına, Haziran 1967'de de Yüksek Mahkeme üyeliğine atadı. Görevi süresince ödünsüz bir liberal olarak davranan Marshall, eyâletlerin ve federal hükûmetlerin ülkedeki azınlıklara eşit ve adil davranması gerektiği yönündeki görüşlerini korudu. 1991'de görevinden ayrıldı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 221,
+      "char_count": 1807,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.564188",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 344,
+      "content": "Thurgood Marshall (2 Temmuz 1908, Baltimore - 24 Ocak 1993, Bethesda, Maryland), Amerikalı hukukçu. ABD Yüksek Mahkemesi'nin ilk siyah üyesi. Brown-Topeka Eğitim Kurulu Davası'nda (1954) avukat olarak ABD Yüksek Mahkemesi önünde yaptığı başarılı savunma sonucunda devlet okullarında ırk ayrımcılığının anayasaya aykırı olduğu kabul edilmiştir.",
+      "char_count": 343,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 344,
+      "end_char": 1344,
+      "content": "== Hayatı == 1930'da Lincoln Üniversitesi'nden (Pensilvanya), 1933'te de sınıf birincisi olarak Howard Üniversitesi Hukuk Okulu'ndan (Washington) mezun oldu. 1936'da Siyahları Geliştirme Ulusal Derneği'nde (NAACP) çalışmaya başladı. 1940'ta derneğin hukuk bürosunun başına geçti. Yüksek Mahkeme önünde savunduğu 32 davadan 29'unu kazandı. Bunlar arasında Brown Davası; Yüksek Mahkeme'nin bir Güney eyâletinde siyah seçmenlerin önseçimlerde oy kullanmasının engellenmesini anayasaya aykırı bulduğu Smith-Allwright Davası (1944); konut edinmede ırka göre kısıtlayıcı hükümler'in uygulanmasının anayasaya aykırı bulunduğu Shelley-Kraemer Davası (1948); Sweat-Painter Davası (1950) ve eyâlet üniversitelerinde siyah meslek sahiplerine ve lisansütü öğrencilerine ayrı ama eşit olanaklar sağlanmasının karara bağlandığı McLaurin-Oklahoma State Regents Davası (1950) sayılabilir. Başkan John F. Kennedy Eylül 1961'de Marshall'ı İkinci Bölge (New York, Connecticut ve Vermont) için ABD Temyiz Mahkemesi'ne ad",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1144,
+      "end_char": 1792,
+      "content": "ra bağlandığı McLaurin-Oklahoma State Regents Davası (1950) sayılabilir. Başkan John F. Kennedy Eylül 1961'de Marshall'ı İkinci Bölge (New York, Connecticut ve Vermont) için ABD Temyiz Mahkemesi'ne aday gösterdi. Ama Güneyli senatörlerin karşı çıkması yüzünden atanması birkaç aylık bir gecikmeden sonra onaylandı. Başkan Lyndon B. Johnson Temmuz 1965'te Marshall'ı ABD Başsavcılığına, Haziran 1967'de de Yüksek Mahkeme üyeliğine atadı. Görevi süresince ödünsüz bir liberal olarak davranan Marshall, eyâletlerin ve federal hükûmetlerin ülkedeki azınlıklara eşit ve adil davranması gerektiği yönündeki görüşlerini korudu. 1991'de görevinden ayrıldı.",
+      "char_count": 648,
+      "token_estimate": 162
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Siyahları Geliştirme Ulusal Derneği (NAACP) hukuk bürosunun başına ne zaman geçti?",
+        "answer": "1940'ta.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Thurgood Marshall'ın avukat olarak Yüksek Mahkeme önündeki sivil haklar davalarındaki erken başarıları, Yüksek Mahkeme üyeliği sırasındaki yargı felsefesini nasıl şekillendirmiştir?",
+        "answer": "Thurgood Marshall'ın NAACP'deki çalışmaları sırasında Yüksek Mahkeme önünde kazandığı, özellikle Brown Davası gibi ırk ayrımcılığını hedef alan davalardaki başarıları, onun yargı felsefesinin temelini oluşturmuştur. Bu deneyimler, onu azınlıklar için eşit ve adil muameleyi savunan ödünsüz bir liberal olarak şekillendirmiş, böylece eyaletlerin ve federal hükümetlerin bu konularda eşitlik prensiplerine uyması gerektiği yönündeki görüşlerini Yüksek Mahkeme'deki görev süresi boyunca kararlılıkla sürdürmesine yol açmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

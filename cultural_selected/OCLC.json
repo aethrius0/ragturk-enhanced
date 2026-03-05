@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "oclc_7382d50e",
+    "title": "OCLC",
+    "url": "https://tr.wikipedia.org/wiki/OCLC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:49.231292",
+    "content": "OCLC Online Computer Library Center, Inc. (OCLC) (Türkçe: Çevrimiçi Bilgisayar Kütüphanesi Merkezi), kâr amacı gütmeyen, üyelikli bir bilgisayar kütüphanesi hizmeti ve dünyadaki daha fazla bilgiye daha ucuza ulaşmayı hedefleyen bir araştırma kuruluşudur. 1967 yılında Ohio College Library Center (Ohio Üniversitesi Kütüphane Merkezi) adıyla kurulan OCLC ve üye kütüphaneleri dünyadaki en büyük çevrimiçi kamu erişim kataloğu olan WorldCat'i üretmekte ve geliştirmektedir. == Tarihi == 6 Temmuz 1967'de kâr amacı gütmeyen bir kuruluş olarak Ohio Üniversitesi Kütüphane Merkezi adıyla kuruldu. 170 ülke ve bölgede 72,000'den fazla kütüphane, kütüphane gereçlerini belirlemek, ödünç almak, kataloglamak gibi işler için OCLC hizmetlerini kullanmaktadır. Kuruluş Fred Kilgour tarafından kurulmuş ve merkezi Ohio eyaletindeki Dublin şehrindedir. == Hizmetler == OCLC, herkese bibliyografik özet ve tüm metin bilgileri sunmaktadır. OCLC ve üye kütüphaneler, WorldCat kataloğunu geliştirmekte ve kullanmaktadır. WorldCat, devlet ve özel kütüphanelerden gelen kayıtları saklamaktadır. Open WorldCat programı kütüphane sahipliğindeki materyallerin OCLC WorldCat veritabanında saklanması sağlamakta ve İnternet aramaları, bibliyografik ve kitap satış sitelerinde bu bilgilerin İnternet kullanıcıları tarafından görüntülenebilmesine imkân vermektedir. Ekim 2005'te OCLC teknik ekibi, herhangi bir WorldCat kaydı hakkında okuyucuların yorum ve bilgi girebilmesini sağlayan bir wiki projesi başlatmıştır. == Çevrimiçi veritabanı == OCLC, kütüphaneler ve kullanıcılar tarafından kataloglama ve arama amaçlı kullanılabilen bir veritabanına sahiptir. 2001 yılında tanıtılan güncel bilgisayar programı Connexion ve ondan önce kullanılan OCLC Passport Mayıs 2005'te kullanım dışı bırakıldı. Bu veritabanı, kataloglama aracı olarak OCLC'yi kullanan kişiler tarafından girilmiş MAchine Readable Cataloging (MARC) formatında kayıtlar içermektedir. Bu kayıtlar daha sonra kütüphanelerin yerel katalog sistemlerine indirilir. Şubat 2007 itibarıyla veritabanı 1.1 milyardan fazla kataloglanmış madde içermektedir. WorldCat, Open WorldCat dışında FirstSearch21 Şubat 2013 tarihinde Wayback Machine sitesinde arşivlendi. isimli web tabanlı bir hizmet aracılığıyla da aramaya açıktır. == Kaynakça == == Dış bağlantılar == Resmî site WorldCat1 Mayıs 2010 tarihinde Wayback Machine sitesinde arşivlendi. Open WorldCat Programı7 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi. Netlibrary.org anasayfası 1 Mayıs 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 313,
+      "char_count": 2544,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.890770",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 472,
+      "content": "OCLC Online Computer Library Center, Inc. (OCLC) (Türkçe: Çevrimiçi Bilgisayar Kütüphanesi Merkezi), kâr amacı gütmeyen, üyelikli bir bilgisayar kütüphanesi hizmeti ve dünyadaki daha fazla bilgiye daha ucuza ulaşmayı hedefleyen bir araştırma kuruluşudur. 1967 yılında Ohio College Library Center (Ohio Üniversitesi Kütüphane Merkezi) adıyla kurulan OCLC ve üye kütüphaneleri dünyadaki en büyük çevrimiçi kamu erişim kataloğu olan WorldCat'i üretmekte ve geliştirmektedir.",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 472,
+      "end_char": 840,
+      "content": "== Tarihi == 6 Temmuz 1967'de kâr amacı gütmeyen bir kuruluş olarak Ohio Üniversitesi Kütüphane Merkezi adıyla kuruldu. 170 ülke ve bölgede 72,000'den fazla kütüphane, kütüphane gereçlerini belirlemek, ödünç almak, kataloglamak gibi işler için OCLC hizmetlerini kullanmaktadır. Kuruluş Fred Kilgour tarafından kurulmuş ve merkezi Ohio eyaletindeki Dublin şehrindedir.",
+      "char_count": 367,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0002",
+      "section": "== Hizmetler ==",
+      "heading_path": "== Hizmetler ==",
+      "start_char": 840,
+      "end_char": 1491,
+      "content": "== Hizmetler == OCLC, herkese bibliyografik özet ve tüm metin bilgileri sunmaktadır. OCLC ve üye kütüphaneler, WorldCat kataloğunu geliştirmekte ve kullanmaktadır. WorldCat, devlet ve özel kütüphanelerden gelen kayıtları saklamaktadır. Open WorldCat programı kütüphane sahipliğindeki materyallerin OCLC WorldCat veritabanında saklanması sağlamakta ve İnternet aramaları, bibliyografik ve kitap satış sitelerinde bu bilgilerin İnternet kullanıcıları tarafından görüntülenebilmesine imkân vermektedir. Ekim 2005'te OCLC teknik ekibi, herhangi bir WorldCat kaydı hakkında okuyucuların yorum ve bilgi girebilmesini sağlayan bir wiki projesi başlatmıştır.",
+      "char_count": 650,
+      "token_estimate": 162
+    },
+    {
+      "id": "c0003",
+      "section": "== Çevrimiçi veritabanı ==",
+      "heading_path": "== Çevrimiçi veritabanı ==",
+      "start_char": 1491,
+      "end_char": 2257,
+      "content": "== Çevrimiçi veritabanı == OCLC, kütüphaneler ve kullanıcılar tarafından kataloglama ve arama amaçlı kullanılabilen bir veritabanına sahiptir. 2001 yılında tanıtılan güncel bilgisayar programı Connexion ve ondan önce kullanılan OCLC Passport Mayıs 2005'te kullanım dışı bırakıldı. Bu veritabanı, kataloglama aracı olarak OCLC'yi kullanan kişiler tarafından girilmiş MAchine Readable Cataloging (MARC) formatında kayıtlar içermektedir. Bu kayıtlar daha sonra kütüphanelerin yerel katalog sistemlerine indirilir. Şubat 2007 itibarıyla veritabanı 1.1 milyardan fazla kataloglanmış madde içermektedir. WorldCat, Open WorldCat dışında FirstSearch21 Şubat 2013 tarihinde Wayback Machine sitesinde arşivlendi. isimli web tabanlı bir hizmet aracılığıyla da aramaya açıktır.",
+      "char_count": 765,
+      "token_estimate": 191
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2272,
+      "end_char": 2544,
+      "content": "== Dış bağlantılar == Resmî site WorldCat1 Mayıs 2010 tarihinde Wayback Machine sitesinde arşivlendi. Open WorldCat Programı7 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi. Netlibrary.org anasayfası 1 Mayıs 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 272,
+      "token_estimate": 68
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "OCLC'nin çevrimiçi veritabanı Şubat 2007 itibarıyla kaçtan fazla kataloglanmış madde içermekteydi?",
+        "answer": "1.1 milyardan fazla",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "OCLC'nin küresel bilgiye daha ucuza erişim sağlama hedefine ulaşmasına hangi faktörler katkıda bulunmaktadır?",
+        "answer": "OCLC'nin bu hedefe ulaşmasına, üye kütüphanelerle birlikte geliştirdiği ve devlet ile özel kütüphanelerden gelen kayıtları saklayan dünyanın en büyük çevrimiçi kamu erişim kataloğu olan WorldCat büyük katkı sağlamaktadır. Ayrıca, Open WorldCat programı kütüphane materyallerinin internet üzerinden görüntülenmesini mümkün kılarken, teknik ekibin başlattığı wiki projesi de okuyucuların WorldCat kayıtlarına yorum ve bilgi eklemesini sağlamaktadır. Bu hizmetlerin 170 ülke ve bölgede 72.000'den fazla kütüphane tarafından kullanılması, OCLC'nin küresel bilgi paylaşımını ve erişilebilirliğini artırma misyonunu desteklemektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

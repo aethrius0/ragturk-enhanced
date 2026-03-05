@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "m380ler_0e455efe",
+    "title": "MÖ 380'ler",
+    "url": "https://tr.wikipedia.org/wiki/M%C3%96_380%27ler",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:16.711238",
+    "content": "MÖ 380'ler, 1 Ocak MÖ 389 günü başlayıp 31 Aralık MÖ 380 günü sona eren onyıldır. == Olaylar == ==== MÖ 389 ==== II. Agisilaos komutasındaki Sparta güçleri Acarnania'yı ele geçirdi. ==== MÖ 388 ==== Aristofanes'in Plutus adlı komedyası revize edilerek tekrar oynandı. ==== MÖ 387 ==== Yunan filozof Platon, Atina'da Academus'a ait topraklarda adına Akademi adını verdiği yüksekokulu kurdu. Kalkedon, Pers İmparatorluğu'nun yönetimi altına girdi. ==== MÖ 386 ==== ==== MÖ 385 ==== Platon, Akademi'yi kurdu, matematik ve astronomi öğretmeye başladı. Demokritos, samanyolu'nun bir sürü yıldızdan oluştuğunu söyledi. ==== MÖ 384 ==== ==== MÖ 383 ==== Leukai antik kenti, Pers amirali Takhos tarafından kuruldu. ==== MÖ 382 ==== ==== MÖ 381 ==== Tiribazus ve I. Orontes adlı Pers generaller Kıbrıs'ı işgal etti. ==== MÖ 380 ==== == Doğumlar == MÖ 389 Aishines, Grek devlet adamı, Atinalı hatip (ö. MÖ 314) MÖ 384 Aristoteles ya da kısaca Aristo, Antik Yunan filozof, klasik Yunan felsefesinin kurucularından Platon'un öğrencisi (ö. MÖ 322) Dimosthenis, Atinalı ünlü politikacı (ö. MÖ 322) MÖ 382 II. Filip, Büyük İskender'in babası, Makedonya kralı (ö. MÖ 336) MÖ 381 Kersebleptes, Trak kralı (ö. MÖ 341) MÖ 380 III. Darius ya da Kodomannus, İran'da Ahameniş İmparatorluğu'nun son hükümdarı (ö. MÖ 330) Piteas, Yunan coğrafyacı, denizci ve kâşif (ö. y. MÖ 310) == Ölümler == MÖ 388 Thrasybulus, Atinalı general MÖ 386 Aristippos, Sokrates'in öğrencisi olan Yunan düşünür (d. MÖ 435) Aristofanes, komedya yazarı (d. MÖ 446) MÖ 385 Camisarres, Pers Kilikya satrapı Filolaos, Pisagorcu okulun önemli filozoflarından biri (d. MÖ 470) MÖ 381 Wu Qi, Çinli general (d. MÖ 440) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 264,
+      "char_count": 1679,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.672692",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 82,
+      "content": "MÖ 380'ler, 1 Ocak MÖ 389 günü başlayıp 31 Aralık MÖ 380 günü sona eren onyıldır.",
+      "char_count": 81,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "==== MÖ 389 ====",
+      "heading_path": "==== MÖ 389 ====",
+      "start_char": 96,
+      "end_char": 182,
+      "content": "==== MÖ 389 ==== II. Agisilaos komutasındaki Sparta güçleri Acarnania'yı ele geçirdi.",
+      "char_count": 85,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0002",
+      "section": "==== MÖ 388 ====",
+      "heading_path": "==== MÖ 388 ====",
+      "start_char": 182,
+      "end_char": 268,
+      "content": "==== MÖ 388 ==== Aristofanes'in Plutus adlı komedyası revize edilerek tekrar oynandı.",
+      "char_count": 85,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0003",
+      "section": "==== MÖ 387 ====",
+      "heading_path": "==== MÖ 387 ====",
+      "start_char": 268,
+      "end_char": 446,
+      "content": "==== MÖ 387 ==== Yunan filozof Platon, Atina'da Academus'a ait topraklarda adına Akademi adını verdiği yüksekokulu kurdu. Kalkedon, Pers İmparatorluğu'nun yönetimi altına girdi.",
+      "char_count": 177,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0004",
+      "section": "==== MÖ 385 ====",
+      "heading_path": "==== MÖ 385 ====",
+      "start_char": 463,
+      "end_char": 613,
+      "content": "==== MÖ 385 ==== Platon, Akademi'yi kurdu, matematik ve astronomi öğretmeye başladı. Demokritos, samanyolu'nun bir sürü yıldızdan oluştuğunu söyledi.",
+      "char_count": 149,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0005",
+      "section": "==== MÖ 383 ====",
+      "heading_path": "==== MÖ 383 ====",
+      "start_char": 630,
+      "end_char": 707,
+      "content": "==== MÖ 383 ==== Leukai antik kenti, Pers amirali Takhos tarafından kuruldu.",
+      "char_count": 76,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0006",
+      "section": "==== MÖ 381 ====",
+      "heading_path": "==== MÖ 381 ====",
+      "start_char": 724,
+      "end_char": 807,
+      "content": "==== MÖ 381 ==== Tiribazus ve I. Orontes adlı Pers generaller Kıbrıs'ı işgal etti.",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0007",
+      "section": "== Doğumlar ==",
+      "heading_path": "== Doğumlar ==",
+      "start_char": 824,
+      "end_char": 1356,
+      "content": "== Doğumlar == MÖ 389 Aishines, Grek devlet adamı, Atinalı hatip (ö. MÖ 314) MÖ 384 Aristoteles ya da kısaca Aristo, Antik Yunan filozof, klasik Yunan felsefesinin kurucularından Platon'un öğrencisi (ö. MÖ 322) Dimosthenis, Atinalı ünlü politikacı (ö. MÖ 322) MÖ 382 II. Filip, Büyük İskender'in babası, Makedonya kralı (ö. MÖ 336) MÖ 381 Kersebleptes, Trak kralı (ö. MÖ 341) MÖ 380 III. Darius ya da Kodomannus, İran'da Ahameniş İmparatorluğu'nun son hükümdarı (ö. MÖ 330) Piteas, Yunan coğrafyacı, denizci ve kâşif (ö. y. MÖ 310)",
+      "char_count": 531,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0008",
+      "section": "== Ölümler ==",
+      "heading_path": "== Ölümler ==",
+      "start_char": 1356,
+      "end_char": 1665,
+      "content": "== Ölümler == MÖ 388 Thrasybulus, Atinalı general MÖ 386 Aristippos, Sokrates'in öğrencisi olan Yunan düşünür (d. MÖ 435) Aristofanes, komedya yazarı (d. MÖ 446) MÖ 385 Camisarres, Pers Kilikya satrapı Filolaos, Pisagorcu okulun önemli filozoflarından biri (d. MÖ 470) MÖ 381 Wu Qi, Çinli general (d. MÖ 440)",
+      "char_count": 308,
+      "token_estimate": 77
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Büyük İskender'in babası olan Makedonya kralı kimdir?",
+        "answer": "II. Filip",
+        "related_chunk_ids": [
+          "c0007"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "MÖ 380'ler onyılının başladığı yıl olan MÖ 389'da, II. Agisilaos komutasındaki Sparta güçleri hangi bölgeyi ele geçirdi?",
+        "answer": "Acarnania",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

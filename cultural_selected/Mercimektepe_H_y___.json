@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "mercimektepehy_3269f233",
+    "title": "Mercimektepe Höyüğü",
+    "url": "https://tr.wikipedia.org/wiki/Mercimektepe_H%C3%B6y%C3%BC%C4%9F%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:45:06.394655",
+    "content": "Mercimektepe Höyüğü, Yozgat İl merkezinin hemen doğusunda yer alan bir höyüktür. Çengeltepe Höyüğü ile karşı karşıyadır. İki höyüğü arasından Yozgat - Sivas karayolu geçmektedir. Tepe 140 x 100 metre boyutlarındadır. == Kazılar == Höyükte kazılar 1975 yılında Anadolu Medeniyetleri Müzesi ve Kayseri Müzesi işbirliği ile Prof Dr. K. Levent Zoroğlu başkanlığında bir sondaj çalışması olarak yapılmıştır. Daha sonra Yozgat Arkeoloji Müzesi Müdürü Musa Özcan başkanlığında 1986-87, 199194 yıllarında Yozgat Arkeoloji Müzesi adına kurtarma kazıları yapılmıştır. == Buluntular == Höyükte iki tabaka saptanmıştır. En üstteki tabakanın mimarisi belirsizdir. Taş temelli, kerpiç duvarlı yapılar ortaya çıkarılmıştır ve 40 cm. kalınlığında bir yangın kalıntıları bulunmuştur. Alttaki ikinci tabakanın yapıları da taş temel ve kerpiç duvarlıdır ve tümüyle yandığı belirtilmektedir. == Değerlendirme == Höyük, MÖ 3. binyıl sonunda, Erken Tunç Çağı'nda iskan edilmeye başlanmıştır. Hitit Dönemi'nde MÖ 2. binyılda basit koruma duvarları ile çevrili bir yerleşimdi ve aynı binyıl içinde terk edilmiştir. kurtarma kazısı niteliğinde olduğu için fazla bir bilgi sağlamadığı, şimdilik Erken Tunç Çağı III. evreye tarihlendiği belirtilmektedir. == Tahribat durumu == Höyüğün doğu tarafın yapı kooperatifleri tarafından, batı tarafı ise belediyenin su deposu ve boru çukurları tarafından tahrip edilmiştir. Öte yandan uzun süredir üzerinde tarım yapılmasından dolayı höyükteki yerleşimin üst tabakası zarar görmüştür. == Dış bağlantılar == Fotoğraf == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 209,
+      "char_count": 1545,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.576838",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 217,
+      "content": "Mercimektepe Höyüğü, Yozgat İl merkezinin hemen doğusunda yer alan bir höyüktür. Çengeltepe Höyüğü ile karşı karşıyadır. İki höyüğü arasından Yozgat - Sivas karayolu geçmektedir. Tepe 140 x 100 metre boyutlarındadır.",
+      "char_count": 216,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0001",
+      "section": "== Kazılar ==",
+      "heading_path": "== Kazılar ==",
+      "start_char": 217,
+      "end_char": 558,
+      "content": "== Kazılar == Höyükte kazılar 1975 yılında Anadolu Medeniyetleri Müzesi ve Kayseri Müzesi işbirliği ile Prof Dr. K. Levent Zoroğlu başkanlığında bir sondaj çalışması olarak yapılmıştır. Daha sonra Yozgat Arkeoloji Müzesi Müdürü Musa Özcan başkanlığında 1986-87, 199194 yıllarında Yozgat Arkeoloji Müzesi adına kurtarma kazıları yapılmıştır.",
+      "char_count": 340,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0002",
+      "section": "== Buluntular ==",
+      "heading_path": "== Buluntular ==",
+      "start_char": 558,
+      "end_char": 872,
+      "content": "== Buluntular == Höyükte iki tabaka saptanmıştır. En üstteki tabakanın mimarisi belirsizdir. Taş temelli, kerpiç duvarlı yapılar ortaya çıkarılmıştır ve 40 cm. kalınlığında bir yangın kalıntıları bulunmuştur. Alttaki ikinci tabakanın yapıları da taş temel ve kerpiç duvarlıdır ve tümüyle yandığı belirtilmektedir.",
+      "char_count": 313,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0003",
+      "section": "== Değerlendirme ==",
+      "heading_path": "== Değerlendirme ==",
+      "start_char": 872,
+      "end_char": 1228,
+      "content": "== Değerlendirme == Höyük, MÖ 3. binyıl sonunda, Erken Tunç Çağı'nda iskan edilmeye başlanmıştır. Hitit Dönemi'nde MÖ 2. binyılda basit koruma duvarları ile çevrili bir yerleşimdi ve aynı binyıl içinde terk edilmiştir. kurtarma kazısı niteliğinde olduğu için fazla bir bilgi sağlamadığı, şimdilik Erken Tunç Çağı III. evreye tarihlendiği belirtilmektedir.",
+      "char_count": 355,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0004",
+      "section": "== Tahribat durumu ==",
+      "heading_path": "== Tahribat durumu ==",
+      "start_char": 1228,
+      "end_char": 1500,
+      "content": "== Tahribat durumu == Höyüğün doğu tarafın yapı kooperatifleri tarafından, batı tarafı ise belediyenin su deposu ve boru çukurları tarafından tahrip edilmiştir. Öte yandan uzun süredir üzerinde tarım yapılmasından dolayı höyükteki yerleşimin üst tabakası zarar görmüştür.",
+      "char_count": 271,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1500,
+      "end_char": 1531,
+      "content": "== Dış bağlantılar == Fotoğraf",
+      "char_count": 30,
+      "token_estimate": 7
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Höyük hangi dönemde iskan edilmeye başlanmıştır?",
+        "answer": "MÖ 3. binyıl sonunda, Erken Tunç Çağı'nda.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yozgat'ın doğusunda yer alan Mercimeptepe Höyüğü'nün fiziksel konumu ve boyutları göz önünde bulundurulduğunda, höyükte bugüne kadar hangi yıllarda ve hangi kurumların katılımıyla kazı çalışmaları yapılmıştır?",
+        "answer": "Mercimeptepe Höyüğü, Yozgat İl merkezinin hemen doğusunda, Çengeltepe Höyüğü ile karşı karşıya konumlanmış ve arasından Yozgat - Sivas karayolunun geçtiği, 140 x 100 metre boyutlarında bir tepedir. Höyükte ilk olarak 1975 yılında Anadolu Medeniyetleri Müzesi ve Kayseri Müzesi işbirliğiyle bir sondaj çalışması yapılmıştır. Daha sonra 1986-87 ve 1991-94 yıllarında Yozgat Arkeoloji Müzesi adına kurtarma kazıları gerçekleştirilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

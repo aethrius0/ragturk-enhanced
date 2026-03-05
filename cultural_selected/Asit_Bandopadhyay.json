@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "asitbandopadhyay_f95f8e81",
+    "title": "Asit Bandopadhyay",
+    "url": "https://tr.wikipedia.org/wiki/Asit_Bandopadhyay",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:16.149878",
+    "content": "Asit Bandopadhyay (veya Banerjee) Bengalli oyun yazarı, senarist ve oyuncu. Nandikar tiyatro grubuna dahildi. Kalküta'da yaşadı ve çalıştı. 1984 ve 1998'de iki kez Batı Bengal Hükûmeti En İyi Yönetmen ödülüne layık görüldü. Dishari Ödülü, Pramathesh Chandra Barua Ödülü ve Uttam Kumar Ödülü'nü kazandı. Mahaprithivi, Mrigayaa'da En İyi Yardımcı Erkek Oyuncu dalında Bengal Film Gazetecileri Derneği Ödüllerine layık görüldü. Ağustos ayında bir huzurevinde COVID-19'a yakalandıktan sonra 18 Eylül 2020'de 84 yaşında öldü. == Kaynakça == \"53 years on, an actor remembers his journey - Times of India\". The Times of India. 16 Ağustos 2013 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. \"Film to explore Ajitesh-Keya bond - Times of India\". The Times of India. 5 Ocak 2017 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. \"Chemistry of Utpal & Ajitesh to come alive on stage - Times of India\". The Times of India. 23 Şubat 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. APU'DA 80'DE 'MEŞGUL DEĞİL' 8 Nisan 2016 tarihinde Wayback Machine sitesinde arşivlendi. \"Aagomoni rocks it\". www.telegraphindia.com. 4 Mart 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. \"TAGORE FESTIVAL\". allevents.in. 1 Mayıs 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. \"Leaders, legends wish Mrinal Sen on his 92nd birthday - Times of India\". The Times of India. 5 Ocak 2017 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 223,
+      "char_count": 1503,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.104297",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 521,
+      "content": "Asit Bandopadhyay (veya Banerjee) Bengalli oyun yazarı, senarist ve oyuncu. Nandikar tiyatro grubuna dahildi. Kalküta'da yaşadı ve çalıştı. 1984 ve 1998'de iki kez Batı Bengal Hükûmeti En İyi Yönetmen ödülüne layık görüldü. Dishari Ödülü, Pramathesh Chandra Barua Ödülü ve Uttam Kumar Ödülü'nü kazandı. Mahaprithivi, Mrigayaa'da En İyi Yardımcı Erkek Oyuncu dalında Bengal Film Gazetecileri Derneği Ödüllerine layık görüldü. Ağustos ayında bir huzurevinde COVID-19'a yakalandıktan sonra 18 Eylül 2020'de 84 yaşında öldü.",
+      "char_count": 520,
+      "token_estimate": 130
+    },
+    {
+      "id": "c0001",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 521,
+      "end_char": 1503,
+      "content": "== Kaynakça == \"53 years on, an actor remembers his journey - Times of India\". The Times of India. 16 Ağustos 2013 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. \"Film to explore Ajitesh-Keya bond - Times of India\". The Times of India. 5 Ocak 2017 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. \"Chemistry of Utpal & Ajitesh to come alive on stage - Times of India\". The Times of India. 23 Şubat 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. APU'DA 80'DE 'MEŞGUL DEĞİL' 8 Nisan 2016 tarihinde Wayback Machine sitesinde arşivlendi. \"Aagomoni rocks it\". www.telegraphindia.com. 4 Mart 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. \"TAGORE FESTIVAL\". allevents.in. 1 Mayıs 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016. \"Leaders, legends wish Mrinal Sen on his 92nd birthday - Times of India\". The Times of India. 5 Ocak 2017 tarihinde kaynağından arşivlendi. Erişim tarihi: 8 Mayıs 2016.",
+      "char_count": 982,
+      "token_estimate": 245
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "The Times of India'da yayınlanan \"53 years on, an actor remembers his journey\" başlıklı haberin arşivlenme tarihi nedir?",
+        "answer": "16 Ağustos 2013",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Asit Bandopadhyay'ın kariyerinin detayları ve kaynakçada listelenen makalelerin konuları göz önüne alındığında, her iki metin parçasında belirginleşen ortak kültürel alan veya bağlam nedir?",
+        "answer": "Her iki parça da, Asit Bandopadhyay'ın oyun yazarlığı, senaristliği ve oyunculuğu ile kaynakçada adı geçen diğer önemli figürler ve kültürel etkinlikler aracılığıyla Batı Bengal'in Bengal tiyatrosu, sineması ve genel kültürel sahnesini yansıtmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "tombala_52d8ffbd",
+    "title": "Tombala",
+    "url": "https://tr.wikipedia.org/wiki/Tombala",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:06.148951",
+    "content": "Tombala, torbadan numaralı taşlar çekilerek üzerinde numara yazılı kâğıtlarla oynanan bir şans oyunudur. Ayrıca bu kartta bütün numaraların doldurulmasıyla kazanılan en büyük ödüle ya da bütün numaraların kapatılmasına da \"tombala\" denir. Kelime, İtalyanca kökenli olan \"tombola\"dan dilimize geçmiştir. Oyun İtalya'nın güneyindeki çoğu şehirde eldeki kazancı yükselterek hayır yapmak ya da gelir elde etme amaçlı olarak çıkmıştır. Avustralya ve Minnesota'da, \"et tombalaları\" gece kulüplerinde oynanır. Deniz mahsulü ya da et dolu tepsiler tombala ödülü olarak verilir. Tombala; piknikler, karnavallar, fuarlar, otomobil gösterileri ve buna benzeyen etkinliklerde de oynanmaktadır. Çoğu insanın çeşitli ödüller için şansını denemesini sağlar. Ayrıca her yerde satılan veya evde yapılabilen bir oyun olma ayrıcalığından dolayı diğer pahalı şans oyunlara karşı tercih edilebilmektedir. == Oynanışı == Genellikle bezden yapılan bir torbaya 1'den 90'a kadar sayıların yazılı olduğu taşlar ya da küçük ve eşit büyüklükteki kâğıt parçaları konur. Ayrıca bu rakamların rastgele yazılı olduğu 24 veya 30 dikdörtgen biçimli kart oynayanlara 1 veya daha fazla sayıda dağıtılır. Bu kartlardaki sayılar genellikle üç satırdan oluşur. Oyunda bir kişi tombala torbasını alır ve sırayla sayı çekmeye başlar. Bu kişi de karta sahip olabilir ve numaraları kendi kartından takip eder. Torbadan çekilen her sayı yüksek sesle okunur ve eğer kartında bu numaraya sahip olan varsa numaranın üzeri küçük ve boş kâğıt parçasıyla kapatılır. Torbadan çıkan hiçbir sayı karttakiyle uyuşmayabilir, bu durumda oyuncu kazanamaz, ancak tombala bitinceye kadar oyuna devam eder. Bir kart üzerindeki bir satır tamamen kapatılırsa buna \"birinci çinko\" denir ve kişi isterse bunu yüksek sesle duyurur. İkinci sıra dolduğunda \"ikinci çinko\", kâğıdın tamamındaki numaralar kapatılırsa \"tombala\" diye bağırılır. Tombala diyen ilk kişinin kartı kontrol edilir ve varsa ödül verilir. Aynı anda tombala yapan kişiler ödülü paylaşır. Oyunda temel noktalardan biri, tombala torbasının iyi sallanarak numaranın çekilmesidir; aksi halde sıralı sayılar üst üste gelebilir. == Türkiye'de tombala == Türkiye'de özellikle yılbaşı ve kış geceleri ile ramazan aylarıyla bağdaştırılan tombala, aynı zamanda köy kahveleri ya da eğlence mekânlarında da oynanır. Ayrıca, tombalacılığı meslek edinmiş kişiler de genellikle kahvelere girerek bu oyunu bir nevi kumar şeklinde oynatırlar. Ancak bu çeşit tombala torbalarında içerisine yapılmış ek bir hile gözü bulunabilmektedir. == Kaynakça == Wikimedia Commons'ta Tombala ile ilgili çoklu ortam belgeleri bulunur.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 357,
+      "char_count": 2606,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.692232",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 884,
+      "content": "Tombala, torbadan numaralı taşlar çekilerek üzerinde numara yazılı kâğıtlarla oynanan bir şans oyunudur. Ayrıca bu kartta bütün numaraların doldurulmasıyla kazanılan en büyük ödüle ya da bütün numaraların kapatılmasına da \"tombala\" denir. Kelime, İtalyanca kökenli olan \"tombola\"dan dilimize geçmiştir. Oyun İtalya'nın güneyindeki çoğu şehirde eldeki kazancı yükselterek hayır yapmak ya da gelir elde etme amaçlı olarak çıkmıştır. Avustralya ve Minnesota'da, \"et tombalaları\" gece kulüplerinde oynanır. Deniz mahsulü ya da et dolu tepsiler tombala ödülü olarak verilir. Tombala; piknikler, karnavallar, fuarlar, otomobil gösterileri ve buna benzeyen etkinliklerde de oynanmaktadır. Çoğu insanın çeşitli ödüller için şansını denemesini sağlar. Ayrıca her yerde satılan veya evde yapılabilen bir oyun olma ayrıcalığından dolayı diğer pahalı şans oyunlara karşı tercih edilebilmektedir.",
+      "char_count": 883,
+      "token_estimate": 220
+    },
+    {
+      "id": "c0001",
+      "section": "== Oynanışı ==",
+      "heading_path": "== Oynanışı ==",
+      "start_char": 884,
+      "end_char": 1884,
+      "content": "== Oynanışı == Genellikle bezden yapılan bir torbaya 1'den 90'a kadar sayıların yazılı olduğu taşlar ya da küçük ve eşit büyüklükteki kâğıt parçaları konur. Ayrıca bu rakamların rastgele yazılı olduğu 24 veya 30 dikdörtgen biçimli kart oynayanlara 1 veya daha fazla sayıda dağıtılır. Bu kartlardaki sayılar genellikle üç satırdan oluşur. Oyunda bir kişi tombala torbasını alır ve sırayla sayı çekmeye başlar. Bu kişi de karta sahip olabilir ve numaraları kendi kartından takip eder. Torbadan çekilen her sayı yüksek sesle okunur ve eğer kartında bu numaraya sahip olan varsa numaranın üzeri küçük ve boş kâğıt parçasıyla kapatılır. Torbadan çıkan hiçbir sayı karttakiyle uyuşmayabilir, bu durumda oyuncu kazanamaz, ancak tombala bitinceye kadar oyuna devam eder. Bir kart üzerindeki bir satır tamamen kapatılırsa buna \"birinci çinko\" denir ve kişi isterse bunu yüksek sesle duyurur. İkinci sıra dolduğunda \"ikinci çinko\", kâğıdın tamamındaki numaralar kapatılırsa \"tombala\" diye bağırılır. Tombala di",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Oynanışı ==",
+      "heading_path": "== Oynanışı ==",
+      "start_char": 1684,
+      "end_char": 2126,
+      "content": " kapatılırsa buna \"birinci çinko\" denir ve kişi isterse bunu yüksek sesle duyurur. İkinci sıra dolduğunda \"ikinci çinko\", kâğıdın tamamındaki numaralar kapatılırsa \"tombala\" diye bağırılır. Tombala diyen ilk kişinin kartı kontrol edilir ve varsa ödül verilir. Aynı anda tombala yapan kişiler ödülü paylaşır. Oyunda temel noktalardan biri, tombala torbasının iyi sallanarak numaranın çekilmesidir; aksi halde sıralı sayılar üst üste gelebilir.",
+      "char_count": 442,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0003",
+      "section": "== Türkiye'de tombala ==",
+      "heading_path": "== Türkiye'de tombala ==",
+      "start_char": 2127,
+      "end_char": 2521,
+      "content": "== Türkiye'de tombala == Türkiye'de özellikle yılbaşı ve kış geceleri ile ramazan aylarıyla bağdaştırılan tombala, aynı zamanda köy kahveleri ya da eğlence mekânlarında da oynanır. Ayrıca, tombalacılığı meslek edinmiş kişiler de genellikle kahvelere girerek bu oyunu bir nevi kumar şeklinde oynatırlar. Ancak bu çeşit tombala torbalarında içerisine yapılmış ek bir hile gözü bulunabilmektedir.",
+      "char_count": 393,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2521,
+      "end_char": 2606,
+      "content": "== Kaynakça == Wikimedia Commons'ta Tombala ile ilgili çoklu ortam belgeleri bulunur.",
+      "char_count": 85,
+      "token_estimate": 21
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tombala oyununda torbaya konulan taşlarda veya kâğıt parçalarında hangi sayı aralığı bulunur?",
+        "answer": "1'den 90'a kadar sayılar.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Oyunun oynanış mekaniklerine göre, bir oyuncunun Tombala'da ulaşmayı hedeflediği en büyük başarı nedir ve bu başarı nasıl adlandırılır?",
+        "answer": "Bir oyuncunun Tombala'da ulaşmayı hedeflediği en büyük başarı, elindeki karttaki tüm numaraları kapatmaktır. Bu duruma aynı zamanda \"tombala\" denir ve oyunun en büyük ödülü olarak kabul edilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

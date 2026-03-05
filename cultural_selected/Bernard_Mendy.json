@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "bernardmendy_a8a54f8c",
+    "title": "Bernard Mendy",
+    "url": "https://tr.wikipedia.org/wiki/Bernard_Mendy",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:27.333659",
+    "content": "Bernard Mendy (20 Ağustos 1981, Evreux), Fransız eski futbolcudur. Müthiş hızıyla dikkat çekmiştir. == Kariyeri == === Kulüp kariyeri === 1998 yılında Caen'de profesyonel olan Mendy, 2000 yılına kadar Jérôme Rothen ile harika işler yaptı. 2000 yılında Mendy, Paris Saint-Germain'e transfer olurken Rothen ise, Troyes'in yolunu tutmuştu. 2002 yılında İngiltere'nin takımı olan Bolton Wanderers'ye kiralandı. 2008 yılında Coupe de la Ligue finalinde 90+3. dakikasında penaltıdan gol atarak takımının Coupe de la Ligue'ni kazanmasını sağladı. Ardından Mendy, 2008 yılında Hull City ile 3 yıllık sözleşme imzaladı. Hull forması altındaki ilk golünü 4-3 kaybettikleri maçta Manchester United'a karşı attı. 17 Mayıs 2010'da Hull City ile sözleşmesini feshetti. 9 Şubat 2011 yılında Danimarka'nın takımı olan Odense ile 1,5 yıllık sözleşme imzaladı. === Millî takım kariyeri === Mendy, Fransa formasını 4 kez giydi ama gol atma başarısı gösteremedi. == Başarıları == === Kulüp === Paris Saint-Germain Coupe de France: Şampiyon (2): 2004 ve 2006 Coupe de la Ligue: Şampiyon (1): 2008 == Kaynakça == == Dış bağlantılar == Transfermarkt'ta Bernard Mendy National-Football-Teams.com'da Bernard Mendy Bernard Mendy LFP profili lfp.fr sitesindeki bilgiler (Fransızca) Soccerbase'te Bernard Mendy UEFA Profili23 Kasım 2007 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) L'Equipe Profili17 Ağustos 2011 tarihinde Wayback Machine sitesinde arşivlendi. (Fransızca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1460,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.488080",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 100,
+      "content": "Bernard Mendy (20 Ağustos 1981, Evreux), Fransız eski futbolcudur. Müthiş hızıyla dikkat çekmiştir.",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kulüp kariyeri ===",
+      "heading_path": "=== Kulüp kariyeri ===",
+      "start_char": 115,
+      "end_char": 843,
+      "content": "=== Kulüp kariyeri === 1998 yılında Caen'de profesyonel olan Mendy, 2000 yılına kadar Jérôme Rothen ile harika işler yaptı. 2000 yılında Mendy, Paris Saint-Germain'e transfer olurken Rothen ise, Troyes'in yolunu tutmuştu. 2002 yılında İngiltere'nin takımı olan Bolton Wanderers'ye kiralandı. 2008 yılında Coupe de la Ligue finalinde 90+3. dakikasında penaltıdan gol atarak takımının Coupe de la Ligue'ni kazanmasını sağladı. Ardından Mendy, 2008 yılında Hull City ile 3 yıllık sözleşme imzaladı. Hull forması altındaki ilk golünü 4-3 kaybettikleri maçta Manchester United'a karşı attı. 17 Mayıs 2010'da Hull City ile sözleşmesini feshetti. 9 Şubat 2011 yılında Danimarka'nın takımı olan Odense ile 1,5 yıllık sözleşme imzaladı.",
+      "char_count": 727,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0002",
+      "section": "=== Millî takım kariyeri ===",
+      "heading_path": "=== Millî takım kariyeri ===",
+      "start_char": 843,
+      "end_char": 943,
+      "content": "=== Millî takım kariyeri === Mendy, Fransa formasını 4 kez giydi ama gol atma başarısı gösteremedi.",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0003",
+      "section": "=== Kulüp ===",
+      "heading_path": "=== Kulüp ===",
+      "start_char": 960,
+      "end_char": 1076,
+      "content": "=== Kulüp === Paris Saint-Germain Coupe de France: Şampiyon (2): 2004 ve 2006 Coupe de la Ligue: Şampiyon (1): 2008",
+      "char_count": 115,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1091,
+      "end_char": 1460,
+      "content": "== Dış bağlantılar == Transfermarkt'ta Bernard Mendy National-Football-Teams.com'da Bernard Mendy Bernard Mendy LFP profili lfp.fr sitesindeki bilgiler (Fransızca) Soccerbase'te Bernard Mendy UEFA Profili23 Kasım 2007 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) L'Equipe Profili17 Ağustos 2011 tarihinde Wayback Machine sitesinde arşivlendi. (Fransızca)",
+      "char_count": 369,
+      "token_estimate": 92
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mendy, 2008 yılında Coupe de la Ligue finalinde takımının kupayı kazanmasını nasıl sağladı?",
+        "answer": "90+3. dakikasında penaltıdan gol atarak.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Evreux'de doğmuş bir Fransız futbolcu olan Bernard Mendy'nin profesyonel kariyerine Fransa'da başlayıp daha sonra İngiltere ve Danimarka gibi farklı ülkelerdeki kulüplere transfer olması, onun kariyer gidişatı hakkında ne tür bir çıkarım yapmamızı sağlar?",
+        "answer": "Bernard Mendy'nin kariyerine kendi ülkesi Fransa'da başlayıp ardından uluslararası transferler yapması, onun futbolculuk kariyerinde farklı liglerde ve kültürlerde deneyim kazanarak uluslararası bir oyuncu haline geldiğini gösterir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

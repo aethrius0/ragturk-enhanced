@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "balahisar_fe2e7088",
+    "title": "Bala Hisar",
+    "url": "https://tr.wikipedia.org/wiki/Bala_Hisar",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:27.880154",
+    "content": "Bala Hisar Afganistan'ın Kâbil kentinde yer alan eski bir kaledir. Tahminen 5. yüzyılda inşa edilmiştir. Bala Hisar, Kuh-e-Sherdarwaza Dağı arkasında modern şehir merkezinin güneyinde yer alır. Surları çok yüksek ve kalın (20 feet (6,1 m) yükseklik ve 12 feet (3,7 m) kalınlık) olan kabil surları Kuh-e-Sherdarwaza Dağından başlayarak nehre kadar uzanır. Bala Hisar aslında iki parçaya ayrılır. Aşağıda kalan kısmı Ahır, kışla ve kraliyet sarayları içerirken; yukarıda kalan kısımda konut, cephanelik ve Kabil zindanları nedeniyle kötü bir şöhrete sahiptir. Bu nedenle yerel halk tarafından Siyah Kuyu olarak da adlandırılır. == Tarihçe == Bala Hisar I. İngiliz-Afgan Savaşı (1838-1842) ve II. İngiliz-Afgan Savaşı (1878-1880) sırasında işgalci İngiliz ile çatışmaya girdiği 19. yüzyılda Afganistan'ın en kanlı çarpışmaların bazı yerdir. 1839 yılından itibaren İngilizler, 1879 yılında da isyancı Afgan askerleri tarafından İngiliz Misyonlerinin katliamına kadar kışla olarak kullanılır. 1879 Cephanelik patladığında İngiliz konaklama alanları yanmıştır. Daha sonra İkinci Anglo-Afgan Savaşı sırasında kale büyük hasar gördü. General Frederick Roberts 1880 yılında birliklerin takviye ederek bahar aylarında tekrar kaleyi ele geçirmiştir. 5 Ağustos 1979 günü Afganistan Kurtuluş Örgütü Rus yanlısı rejime karşı ayaklanma başlattı. Ancak ayaklanma kanlı bir şekilde bastırıldı ve isyancıların onlarcası rejim yanlıları tarafından tutuklandı ve idam edildi. Bala Hisar bir kez daha Mesud taraftarları ve Hikmetyar'ın güçleri arasında 1990'lı yılların başlarında Afgan iç savaşı döneminde gruplar arasındaki çatışmanın odak noktası oldu. == Günümüzde Bala Hisar == Kalenin dış duvarına bakıldığında, bu yıkım ve yeniden tahkimat yaşından yapı malzemelerinin katmanlarını görmek mümkündür. 30 yıl öncesinin savaş malzemeleri hala tepenin üstünde yer alır. Tepede çok sayıda tünel ve mağarada bulunmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 259,
+      "char_count": 1917,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.902167",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 626,
+      "content": "Bala Hisar Afganistan'ın Kâbil kentinde yer alan eski bir kaledir. Tahminen 5. yüzyılda inşa edilmiştir. Bala Hisar, Kuh-e-Sherdarwaza Dağı arkasında modern şehir merkezinin güneyinde yer alır. Surları çok yüksek ve kalın (20 feet (6,1 m) yükseklik ve 12 feet (3,7 m) kalınlık) olan kabil surları Kuh-e-Sherdarwaza Dağından başlayarak nehre kadar uzanır. Bala Hisar aslında iki parçaya ayrılır. Aşağıda kalan kısmı Ahır, kışla ve kraliyet sarayları içerirken; yukarıda kalan kısımda konut, cephanelik ve Kabil zindanları nedeniyle kötü bir şöhrete sahiptir. Bu nedenle yerel halk tarafından Siyah Kuyu olarak da adlandırılır.",
+      "char_count": 625,
+      "token_estimate": 156
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 626,
+      "end_char": 1626,
+      "content": "== Tarihçe == Bala Hisar I. İngiliz-Afgan Savaşı (1838-1842) ve II. İngiliz-Afgan Savaşı (1878-1880) sırasında işgalci İngiliz ile çatışmaya girdiği 19. yüzyılda Afganistan'ın en kanlı çarpışmaların bazı yerdir. 1839 yılından itibaren İngilizler, 1879 yılında da isyancı Afgan askerleri tarafından İngiliz Misyonlerinin katliamına kadar kışla olarak kullanılır. 1879 Cephanelik patladığında İngiliz konaklama alanları yanmıştır. Daha sonra İkinci Anglo-Afgan Savaşı sırasında kale büyük hasar gördü. General Frederick Roberts 1880 yılında birliklerin takviye ederek bahar aylarında tekrar kaleyi ele geçirmiştir. 5 Ağustos 1979 günü Afganistan Kurtuluş Örgütü Rus yanlısı rejime karşı ayaklanma başlattı. Ancak ayaklanma kanlı bir şekilde bastırıldı ve isyancıların onlarcası rejim yanlıları tarafından tutuklandı ve idam edildi. Bala Hisar bir kez daha Mesud taraftarları ve Hikmetyar'ın güçleri arasında 1990'lı yılların başlarında Afgan iç savaşı döneminde gruplar arasındaki çatışmanın odak nokta",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1426,
+      "end_char": 1634,
+      "content": "an tutuklandı ve idam edildi. Bala Hisar bir kez daha Mesud taraftarları ve Hikmetyar'ın güçleri arasında 1990'lı yılların başlarında Afgan iç savaşı döneminde gruplar arasındaki çatışmanın odak noktası oldu.",
+      "char_count": 208,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0003",
+      "section": "== Günümüzde Bala Hisar ==",
+      "heading_path": "== Günümüzde Bala Hisar ==",
+      "start_char": 1635,
+      "end_char": 1903,
+      "content": "== Günümüzde Bala Hisar == Kalenin dış duvarına bakıldığında, bu yıkım ve yeniden tahkimat yaşından yapı malzemelerinin katmanlarını görmek mümkündür. 30 yıl öncesinin savaş malzemeleri hala tepenin üstünde yer alır. Tepede çok sayıda tünel ve mağarada bulunmaktadır.",
+      "char_count": 267,
+      "token_estimate": 66
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bala Hisar, 19. yüzyılda hangi savaşlar sırasında kanlı çarpışmalara sahne olmuştur?",
+        "answer": "I. İngiliz-Afgan Savaşı (1838-1842) ve II. İngiliz-Afgan Savaşı (1878-1880).",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bala Hisar'ın yaklaşık 5. yüzyıla dayanan eski bir kale olarak fiziksel özellikleri ve işlevleri, 19. ve 20. yüzyıllardaki çeşitli önemli askeri ve siyasi çatışmalardaki rolünü nasıl şekillendirmiştir?",
+        "answer": "Bala Hisar, 5. yüzyılda inşa edilmiş eski bir kale olarak Kuh-e-Sherdarwaza Dağı arkasındaki konumu, yüksek ve kalın surları ile Ahır, kışla, kraliyet sarayları, konut, cephanelik ve zindanlar gibi kısımları sayesinde doğal bir savunma ve stratejik merkez olmuştur. Bu fiziksel yapı ve sahip olduğu bölümler, 19. yüzyıldaki İngiliz-Afgan Savaşları sırasında İngilizler tarafından kışla olarak kullanılmasına, 1879'da cephanelik patlamasıyla hasar görmesine, General Frederick Roberts tarafından ele geçirilmesine ve 1979 ayaklanması ile 1990'lı yıllardaki Afgan iç savaşı gibi çatışmalarda odak noktası haline gelmesine zemin hazırlayarak, bu olaylarda önemli bir rol oynamasını sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

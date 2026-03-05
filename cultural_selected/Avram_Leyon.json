@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "avramleyon_ce0c770e",
+    "title": "Avram Leyon",
+    "url": "https://tr.wikipedia.org/wiki/Avram_Leyon",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:38.259102",
+    "content": "Avram Leyon (d.1912, İstanbul - 2 Ağustos 1985, İstanbul), gazeteci ve yazardır ve Türkiye Yahudileri cemaati’nin tek yayın organı olan Şalom gazetesinin kurucusu. Avram Leyon, İstanbul’un Türk Yahudileri cemaati’nin eskiden yoğun olarak yaşadığı Balat semtinde doğdu. 1912 yılında dünyaya geldiğinde ailesinin üçüncü, kardeşlerin de ilk erkek çocuğuydu. Daha sonra bir erkek kardeşi daha oldu ama o küçük yaşta öldü. I. Dünya Savaşı döneminde, babası ile birlikte üç amcası yaşamlarını yitirdiler. Baba Rafael Leyon öldüğünde Avram Leyon iki yaşındaydı. Anne Luna Leyon çalışarak çocuklarını büyüttü. Lisenin son sınıfına geçtiğinde, evlenmek üzere olan ablasına drahoma sağlayabilmek için çalışmak amacıyla okulu bırakmak zorunda kaldı. Cumhuriyet Gazetesinde çalışmaya başladı. Yıllar sonra matbaacılığa başladı ve 1947 yılında, artık Türkiye Yahudileri cemaati’nin tek yayın organı olan Şalom gazetesini kurdu. 1976 yılında Basın Şeref Kartı sahibi oldu. 1983 yılında “Basında 50 Yıl Hizmet Plaketi” aldığında gazetecilikte elli beş yılını doldurmuştu. 2 Ağustos 1985'te 73 yaşında, İstanbul'da öldü. == Kaynakça == Avram Leyon’u andık13 Ağustos 2009 tarihinde Wayback Machine sitesinde arşivlendi., Şalom Gazetesi, 5 Ağustos 2009. Şalom Gazetesi 60. yılını okurlarıyla birlikte kutladı, Şalom Gazetesi, 7 Ekim 2007. Avram Leyon’u andık Şalom Gazetesi, 1 Ağustos 2007. Şalom Gazetesi'nin 50'nci kuruluş yılı etkinlikleri ve Suzan Tarablus ve Teri Galimidi ile söyleyiş: \"Türkiye'nin parçasıyız\" www.nuriyeakman.net, 18 Mayıs 1997",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 208,
+      "char_count": 1533,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.344870",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Avram Leyon (d.1912, İstanbul - 2 Ağustos 1985, İstanbul), gazeteci ve yazardır ve Türkiye Yahudileri cemaati’nin tek yayın organı olan Şalom gazetesinin kurucusu. Avram Leyon, İstanbul’un Türk Yahudileri cemaati’nin eskiden yoğun olarak yaşadığı Balat semtinde doğdu. 1912 yılında dünyaya geldiğinde ailesinin üçüncü, kardeşlerin de ilk erkek çocuğuydu. Daha sonra bir erkek kardeşi daha oldu ama o küçük yaşta öldü. I. Dünya Savaşı döneminde, babası ile birlikte üç amcası yaşamlarını yitirdiler. Baba Rafael Leyon öldüğünde Avram Leyon iki yaşındaydı. Anne Luna Leyon çalışarak çocuklarını büyüttü. Lisenin son sınıfına geçtiğinde, evlenmek üzere olan ablasına drahoma sağlayabilmek için çalışmak amacıyla okulu bırakmak zorunda kaldı. Cumhuriyet Gazetesinde çalışmaya başladı. Yıllar sonra matbaacılığa başladı ve 1947 yılında, artık Türkiye Yahudileri cemaati’nin tek yayın organı olan Şalom gazetesini kurdu. 1976 yılında Basın Şeref Kartı sahibi oldu. 1983 yılında “Basında 50 Yıl Hizmet Plake",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1104,
+      "content": "cılığa başladı ve 1947 yılında, artık Türkiye Yahudileri cemaati’nin tek yayın organı olan Şalom gazetesini kurdu. 1976 yılında Basın Şeref Kartı sahibi oldu. 1983 yılında “Basında 50 Yıl Hizmet Plaketi” aldığında gazetecilikte elli beş yılını doldurmuştu. 2 Ağustos 1985'te 73 yaşında, İstanbul'da öldü.",
+      "char_count": 304,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1105,
+      "end_char": 1533,
+      "content": "== Kaynakça == Avram Leyon’u andık13 Ağustos 2009 tarihinde Wayback Machine sitesinde arşivlendi., Şalom Gazetesi, 5 Ağustos 2009. Şalom Gazetesi 60. yılını okurlarıyla birlikte kutladı, Şalom Gazetesi, 7 Ekim 2007. Avram Leyon’u andık Şalom Gazetesi, 1 Ağustos 2007. Şalom Gazetesi'nin 50'nci kuruluş yılı etkinlikleri ve Suzan Tarablus ve Teri Galimidi ile söyleyiş: \"Türkiye'nin parçasıyız\" www.nuriyeakman.net, 18 Mayıs 1997",
+      "char_count": 428,
+      "token_estimate": 107
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Avram Leyon, Türkiye Yahudileri cemaati'nin tek yayın organı olan Şalom gazetesini hangi yıl kurmuştur?",
+        "answer": "1947",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Avram Leyon'un Şalom gazetesini kurması ve 'Basında 50 Yıl Hizmet Plaketi'ni alması gibi önemli kariyer dönüm noktaları, gazetecilik kariyerinin toplam süresi ve yaşam süresiyle nasıl bir bağlantı içindedir?",
+        "answer": "Avram Leyon, Türkiye Yahudileri cemaatinin tek yayın organı olan Şalom gazetesini 1947 yılında kurmuştur. 1983 yılında 'Basında 50 Yıl Hizmet Plaketi'ni aldığında ise gazetecilikte elli beş yılını doldurmuştu; bu, Şalom'u kurmasından 36 yıl sonra gerçekleşmiştir. Plaketi almasından sadece iki yıl sonra, 2 Ağustos 1985'te 73 yaşında İstanbul'da vefat etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

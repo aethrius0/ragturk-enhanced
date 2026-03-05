@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "yetkilendirme_238e7750",
+    "title": "Yetkilendirme",
+    "url": "https://tr.wikipedia.org/wiki/Yetkilendirme",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:06.911646",
+    "content": "Yetkilendirme, genel bilgi güvenliği ve bilgisayar güvenliği ve özellikle erişim kontrolü ile ilgili kaynaklara erişim haklarını / ayrıcalıklarını belirleme işlevidir. Daha resmi olarak, \"yetkilendirmek\" bir erişim politikası tanımlamaktır. Örneğin, insan kaynakları personeli normalde çalışan kayıtlarına erişim yetkisine sahiptir ve bu politika genellikle bir bilgisayar sisteminde erişim kontrol kuralları olarak resmîleştirilir. İşletim sırasında, sistem, (doğrulanmış) tüketicilerden gelen erişim taleplerinin onaylanmasına (verileceğine) veya reddedileceğine (reddedileceğine) karar vermek için erişim kontrol kurallarını kullanır. Kaynaklar, tek tek dosyaları veya bir öğenin verilerini, bilgisayar programlarını, bilgisayar aygıtlarını ve bilgisayar uygulamaları tarafından sağlanan işlevleri içerir. Tüketici örnekleri bilgisayar kullanıcıları, bilgisayar yazılımı ve bilgisayardaki diğer donanımlardır . == Genel bakış == Bilgisayar sistemlerinde ve ağlarda erişim kontrolü, erişim politikalarına dayanır. Erişim kontrol süreci şu aşamalara bölünebilir: erişimin yetkilendirildiği politika tanımlama aşaması ve erişim taleplerinin onaylandığı veya reddedildiği politika uygulama aşaması. Yetkilendirme, erişim taleplerinin önceden tanımlanmış yetkilere göre onaylandığı veya reddedildiği politika uygulama aşamasından önce gelen politika tanımlama aşamasının işlevidir. Çoğu modern, çok kullanıcılı işletim sistemleri, rol tabanlı erişim denetimi (RBAC) içerir ve bu nedenle yetkilendirmeye dayanır. Erişim kontrolü de müşterilerin kimliklerini doğrulamak için yetkilendirme kullanır. Bir tüketici bir kaynağa erişmeye çalıştığında, erişim kontrol süreci, tüketicinin o kaynağı kullanmak için yetkilendirilip yetkilendirilmediğini kontrol eder. Yetkilendirme, uygulama etki alanındaki bir departman yöneticisi gibi bir yetkilinin sorumluluğundadır, ancak genellikle sistem yöneticisi gibi bir sorumlunun yetkisine atanır. Yetkiler, bazı \"politika tanımlama uygulaması\" türlerinde, örneğin bir erişim kontrol listesi veya bir kabiliyet veya bir politika yönetim noktası biçiminde, erişim politikaları olarak ifade edilir örneğin: XACML . \"En az ayrıcalık ilkesi \" temelinde: tüketiciler, yalnızca işlerini yapmak için ihtiyaç duydukları her şeye erişme yetkisine sahip olmalıdır. Daha eski ve tek kullanıcılı işletim sistemleri genellikle zayıf veya var olmayan kimlik doğrulama ve erişim kontrol sistemlerine sahipti. \"Anonim tüketiciler\" veya \"misafirler\", kimlik doğrulaması zorunlu olmayan tüketicilerdir. Genellikle sınırlı yetkiye sahiptirler. Dağıtılmış bir sistemde, genellikle kişinin kimliği gerektirmeden erişim verilmesi arzu edilir. Bilinen erişim belirteçleri örnekleri arasında anahtarlar, sertifikalar ve biletler bulunur: kimlik kanıtlamadan erişim sağlarlar. Güvenilir tüketiciler genellikle bir sistemdeki kaynaklara sınırsız erişim için yetkilidir, ancak erişim kontrol sisteminin erişim onayı kararını verebilmesi için doğrulanması gerekir. \"Kısmen güvenilir\" ve misafirler, kaynakları uygunsuz erişim ve kullanıma karşı korumak için genellikle kısıtlanmış yetkiye sahip olacaktır. Bazı işletim sistemlerindeki erişim politikası, varsayılan olarak tüm tüketicilere tüm kaynaklara tam erişim sağlar. Diğerleri ise, yöneticinin bir tüketiciye her bir kaynağı kullanabilmesi için açıkça yetki vermesi konusunda ısrar ederek bunun tersini yapar. Erişim, kimlik doğrulama ve erişim kontrol listelerinin bir kombinasyonu yoluyla kontrol edildiğinde bile, yetkilendirme verilerinin muhafaza edilmesine ilişkin sorunlar önemsiz değildir ve çoğu zaman kimlik doğrulama bilgilerini yönetmek kadar idari yükü temsil eder. Genellikle bir kullanıcının yetkisini değiştirmek veya kaldırmak gerekir: bu, sistemdeki ilgili erişim kurallarını değiştirerek veya silerek yapılır. Atomik yetkilendirmeyi kullanmak, güvenilir bir üçüncü tarafın yetkilendirme bilgilerini güvenli bir şekilde dağıttığı sistem başına yetkilendirme yönetimine bir alternatiftir. == İlgili yorumlar == === Kamu politikası === Kamu politikasında yetkilendirme, güvenlik veya sosyal kontrol için kullanılan güvenilir sistemlerin bir özelliğidir. === Bankacılık === Bankacılıkta, yetkilendirme, bir banka kartı veya kredi kartı kullanılarak bir satın alma yapıldığında bir müşterinin hesabına uygulanan bir bekletmedir. === Yayıncılık === Yayıncılıkta, bazen halka açık konferanslar ve diğer ücretsiz metinler yazarın onayı olmadan yayınlanır. Bunlara yetkisiz metinler denir. Buna bir örnek, Stephen Hawking'in konferanslarından toplanan ve telif hakkı yasası uyarınca izni olmadan yayınlanan 2002 'The Theory of Everything: The Origin and Fate of the Universe' . == Ayrıca bakınız == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 558,
+      "char_count": 4685,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.179844",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 914,
+      "content": "Yetkilendirme, genel bilgi güvenliği ve bilgisayar güvenliği ve özellikle erişim kontrolü ile ilgili kaynaklara erişim haklarını / ayrıcalıklarını belirleme işlevidir. Daha resmi olarak, \"yetkilendirmek\" bir erişim politikası tanımlamaktır. Örneğin, insan kaynakları personeli normalde çalışan kayıtlarına erişim yetkisine sahiptir ve bu politika genellikle bir bilgisayar sisteminde erişim kontrol kuralları olarak resmîleştirilir. İşletim sırasında, sistem, (doğrulanmış) tüketicilerden gelen erişim taleplerinin onaylanmasına (verileceğine) veya reddedileceğine (reddedileceğine) karar vermek için erişim kontrol kurallarını kullanır. Kaynaklar, tek tek dosyaları veya bir öğenin verilerini, bilgisayar programlarını, bilgisayar aygıtlarını ve bilgisayar uygulamaları tarafından sağlanan işlevleri içerir. Tüketici örnekleri bilgisayar kullanıcıları, bilgisayar yazılımı ve bilgisayardaki diğer donanımlardır .",
+      "char_count": 913,
+      "token_estimate": 228
+    },
+    {
+      "id": "c0001",
+      "section": "== Genel bakış ==",
+      "heading_path": "== Genel bakış ==",
+      "start_char": 914,
+      "end_char": 1914,
+      "content": "== Genel bakış == Bilgisayar sistemlerinde ve ağlarda erişim kontrolü, erişim politikalarına dayanır. Erişim kontrol süreci şu aşamalara bölünebilir: erişimin yetkilendirildiği politika tanımlama aşaması ve erişim taleplerinin onaylandığı veya reddedildiği politika uygulama aşaması. Yetkilendirme, erişim taleplerinin önceden tanımlanmış yetkilere göre onaylandığı veya reddedildiği politika uygulama aşamasından önce gelen politika tanımlama aşamasının işlevidir. Çoğu modern, çok kullanıcılı işletim sistemleri, rol tabanlı erişim denetimi (RBAC) içerir ve bu nedenle yetkilendirmeye dayanır. Erişim kontrolü de müşterilerin kimliklerini doğrulamak için yetkilendirme kullanır. Bir tüketici bir kaynağa erişmeye çalıştığında, erişim kontrol süreci, tüketicinin o kaynağı kullanmak için yetkilendirilip yetkilendirilmediğini kontrol eder. Yetkilendirme, uygulama etki alanındaki bir departman yöneticisi gibi bir yetkilinin sorumluluğundadır, ancak genellikle sistem yöneticisi gibi bir sorumlunun ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Genel bakış ==",
+      "heading_path": "== Genel bakış ==",
+      "start_char": 1714,
+      "end_char": 2714,
+      "content": "ilip yetkilendirilmediğini kontrol eder. Yetkilendirme, uygulama etki alanındaki bir departman yöneticisi gibi bir yetkilinin sorumluluğundadır, ancak genellikle sistem yöneticisi gibi bir sorumlunun yetkisine atanır. Yetkiler, bazı \"politika tanımlama uygulaması\" türlerinde, örneğin bir erişim kontrol listesi veya bir kabiliyet veya bir politika yönetim noktası biçiminde, erişim politikaları olarak ifade edilir örneğin: XACML . \"En az ayrıcalık ilkesi \" temelinde: tüketiciler, yalnızca işlerini yapmak için ihtiyaç duydukları her şeye erişme yetkisine sahip olmalıdır. Daha eski ve tek kullanıcılı işletim sistemleri genellikle zayıf veya var olmayan kimlik doğrulama ve erişim kontrol sistemlerine sahipti. \"Anonim tüketiciler\" veya \"misafirler\", kimlik doğrulaması zorunlu olmayan tüketicilerdir. Genellikle sınırlı yetkiye sahiptirler. Dağıtılmış bir sistemde, genellikle kişinin kimliği gerektirmeden erişim verilmesi arzu edilir. Bilinen erişim belirteçleri örnekleri arasında anahtarlar, ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Genel bakış ==",
+      "heading_path": "== Genel bakış ==",
+      "start_char": 2514,
+      "end_char": 3514,
+      "content": "dir. Genellikle sınırlı yetkiye sahiptirler. Dağıtılmış bir sistemde, genellikle kişinin kimliği gerektirmeden erişim verilmesi arzu edilir. Bilinen erişim belirteçleri örnekleri arasında anahtarlar, sertifikalar ve biletler bulunur: kimlik kanıtlamadan erişim sağlarlar. Güvenilir tüketiciler genellikle bir sistemdeki kaynaklara sınırsız erişim için yetkilidir, ancak erişim kontrol sisteminin erişim onayı kararını verebilmesi için doğrulanması gerekir. \"Kısmen güvenilir\" ve misafirler, kaynakları uygunsuz erişim ve kullanıma karşı korumak için genellikle kısıtlanmış yetkiye sahip olacaktır. Bazı işletim sistemlerindeki erişim politikası, varsayılan olarak tüm tüketicilere tüm kaynaklara tam erişim sağlar. Diğerleri ise, yöneticinin bir tüketiciye her bir kaynağı kullanabilmesi için açıkça yetki vermesi konusunda ısrar ederek bunun tersini yapar. Erişim, kimlik doğrulama ve erişim kontrol listelerinin bir kombinasyonu yoluyla kontrol edildiğinde bile, yetkilendirme verilerinin muhafaza ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Genel bakış ==",
+      "heading_path": "== Genel bakış ==",
+      "start_char": 3314,
+      "end_char": 3967,
+      "content": "yetki vermesi konusunda ısrar ederek bunun tersini yapar. Erişim, kimlik doğrulama ve erişim kontrol listelerinin bir kombinasyonu yoluyla kontrol edildiğinde bile, yetkilendirme verilerinin muhafaza edilmesine ilişkin sorunlar önemsiz değildir ve çoğu zaman kimlik doğrulama bilgilerini yönetmek kadar idari yükü temsil eder. Genellikle bir kullanıcının yetkisini değiştirmek veya kaldırmak gerekir: bu, sistemdeki ilgili erişim kurallarını değiştirerek veya silerek yapılır. Atomik yetkilendirmeyi kullanmak, güvenilir bir üçüncü tarafın yetkilendirme bilgilerini güvenli bir şekilde dağıttığı sistem başına yetkilendirme yönetimine bir alternatiftir.",
+      "char_count": 653,
+      "token_estimate": 163
+    },
+    {
+      "id": "c0005",
+      "section": "=== Kamu politikası ===",
+      "heading_path": "=== Kamu politikası ===",
+      "start_char": 3990,
+      "end_char": 4132,
+      "content": "=== Kamu politikası === Kamu politikasında yetkilendirme, güvenlik veya sosyal kontrol için kullanılan güvenilir sistemlerin bir özelliğidir.",
+      "char_count": 141,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0006",
+      "section": "=== Bankacılık ===",
+      "heading_path": "=== Bankacılık ===",
+      "start_char": 4132,
+      "end_char": 4305,
+      "content": "=== Bankacılık === Bankacılıkta, yetkilendirme, bir banka kartı veya kredi kartı kullanılarak bir satın alma yapıldığında bir müşterinin hesabına uygulanan bir bekletmedir.",
+      "char_count": 172,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0007",
+      "section": "=== Yayıncılık ===",
+      "heading_path": "=== Yayıncılık ===",
+      "start_char": 4305,
+      "end_char": 4650,
+      "content": "=== Yayıncılık === Yayıncılıkta, bazen halka açık konferanslar ve diğer ücretsiz metinler yazarın onayı olmadan yayınlanır. Bunlara yetkisiz metinler denir. Buna bir örnek, Stephen Hawking'in konferanslarından toplanan ve telif hakkı yasası uyarınca izni olmadan yayınlanan 2002 'The Theory of Everything: The Origin and Fate of the Universe' .",
+      "char_count": 344,
+      "token_estimate": 86
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Erişim kontrol süreci hangi aşamalara ayrılabilir?",
+        "answer": "Erişimin yetkilendirildiği politika tanımlama aşaması ve erişim taleplerinin onaylandığı veya reddedildiği politika uygulama aşaması.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bilgisayar sistemlerinde erişim kontrolü sürecinde yetkilendirme hangi aşamayı oluşturur, bu yetkilendirme sorumluluğu genellikle kimlere aittir ve yetkiler ne şekilde ifade edilir?",
+        "answer": "Yetkilendirme, bilgisayar sistemlerinde erişim kontrol sürecinin politika tanımlama aşamasını oluşturur ve politika uygulama aşamasından önce gelir. Bu yetkilendirme sorumluluğu genellikle uygulama etki alanındaki bir departman yöneticisine veya bir sistem yöneticisine aittir. Yetkiler, bir erişim kontrol listesi, bir kabiliyet veya XACML gibi bir politika yönetim noktası biçiminde erişim politikaları olarak ifade edilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

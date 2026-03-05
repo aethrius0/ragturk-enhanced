@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "ohmygirl_9190bfb8",
+    "title": "Oh My Girl",
+    "url": "https://tr.wikipedia.org/wiki/Oh_My_Girl",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:50.545091",
+    "content": "WM Entertainment adı altında kurulmuş, B1A4'un kardeş grubu olarak da bilinen Oh My Girl; Mimi, Jiho, Arin, Seunghee, Binnie, Yooa ve Hyojung olmak üzere yedi üyeye sahiptir. Fanlarına verilen resmi isim Miracle idir. İlk Müzik Videoları Cupid'tir. 19 Nisanda debut yapmışlardır. Üyelerden JinE'nin Anoreksiya hastalığı vardır ve uzun bir dinlenme sürecinden sonra 2017'de resmi olarak gruptan ayrılmıştır. Cupid'ten sonra sırasıyla Müzik Videoları Closer, Liar Liar, Windy Day... == Grup Üyeleri == Hyojung (효정) Gerçek Adı: Choi Hyo Jung Korece: 최효정 Doğum Tarihi: 28 Temmuz 1994 Pozisyonu: Lider, Ana Vokalist JinE (Eski Üye) Gerçek Adı: Shin Hye Jin Korece: 신혜진 Doğum Tarihi: 22 Ocak 1995 Pozisyonu: Vokalist Mimi (미미) Gerçek Adı: Kim Mi Hyun Korece: 김미현 Doğum Tarihi: 1 Mayıs 1995 Pozisyonu: Ana Rapçi, Ana Dansçı, Vokalist YooA (유아) Gerçek Adı: Yoo Yeon Joo Korece: 유연주 Doğum Tarihi: 17 Temmuz 1995 Pozisyonu: Ana Dansçı, Lider Vokalist, Grubun Yüzü Seung Hee (승희) Gerçek Adı: Hyun Seung Hee 현승희 Korece: 현승희 Doğum Tarihi: 25 Ocak 1996 Pozisyonu: Ana Vokalist JiHo (지호) Gerçek Adı: Kim Ji Ho Korece: 김지호 Doğum Tarihi: 4 Nisan 1997 Pozisyonu: Lider Dansçı, Lider Vokalist, Visual Binnie (비니) Gerçek Adı: Bae Yoo Bin Korece: 배유빈 Doğum Tarihi: 9 Eylül 1997 Pozisyonu: Vokalist Arin (아린) Gerçek Adı: Choi Ye Won Korece: 최예원 Doğum Tarihi: 18 Haziran 1999 Pozisyonu: Lider Dansçı, Maknae, Vokalist = Diskografi = Oh My Girl Closer Pink Ocean Coloring Book Secret Garden Remember Me The Fifth Season Nonstop Dear Oh My Girl",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 244,
+      "char_count": 1519,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.904342",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 481,
+      "content": "WM Entertainment adı altında kurulmuş, B1A4'un kardeş grubu olarak da bilinen Oh My Girl; Mimi, Jiho, Arin, Seunghee, Binnie, Yooa ve Hyojung olmak üzere yedi üyeye sahiptir. Fanlarına verilen resmi isim Miracle idir. İlk Müzik Videoları Cupid'tir. 19 Nisanda debut yapmışlardır. Üyelerden JinE'nin Anoreksiya hastalığı vardır ve uzun bir dinlenme sürecinden sonra 2017'de resmi olarak gruptan ayrılmıştır. Cupid'ten sonra sırasıyla Müzik Videoları Closer, Liar Liar, Windy Day...",
+      "char_count": 480,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0001",
+      "section": "== Grup Üyeleri ==",
+      "heading_path": "== Grup Üyeleri ==",
+      "start_char": 481,
+      "end_char": 1395,
+      "content": "== Grup Üyeleri == Hyojung (효정) Gerçek Adı: Choi Hyo Jung Korece: 최효정 Doğum Tarihi: 28 Temmuz 1994 Pozisyonu: Lider, Ana Vokalist JinE (Eski Üye) Gerçek Adı: Shin Hye Jin Korece: 신혜진 Doğum Tarihi: 22 Ocak 1995 Pozisyonu: Vokalist Mimi (미미) Gerçek Adı: Kim Mi Hyun Korece: 김미현 Doğum Tarihi: 1 Mayıs 1995 Pozisyonu: Ana Rapçi, Ana Dansçı, Vokalist YooA (유아) Gerçek Adı: Yoo Yeon Joo Korece: 유연주 Doğum Tarihi: 17 Temmuz 1995 Pozisyonu: Ana Dansçı, Lider Vokalist, Grubun Yüzü Seung Hee (승희) Gerçek Adı: Hyun Seung Hee 현승희 Korece: 현승희 Doğum Tarihi: 25 Ocak 1996 Pozisyonu: Ana Vokalist JiHo (지호) Gerçek Adı: Kim Ji Ho Korece: 김지호 Doğum Tarihi: 4 Nisan 1997 Pozisyonu: Lider Dansçı, Lider Vokalist, Visual Binnie (비니) Gerçek Adı: Bae Yoo Bin Korece: 배유빈 Doğum Tarihi: 9 Eylül 1997 Pozisyonu: Vokalist Arin (아린) Gerçek Adı: Choi Ye Won Korece: 최예원 Doğum Tarihi: 18 Haziran 1999 Pozisyonu: Lider Dansçı, Maknae, Vokalist",
+      "char_count": 913,
+      "token_estimate": 228
+    },
+    {
+      "id": "c0002",
+      "section": "= Diskografi =",
+      "heading_path": "= Diskografi =",
+      "start_char": 1395,
+      "end_char": 1519,
+      "content": "= Diskografi = Oh My Girl Closer Pink Ocean Coloring Book Secret Garden Remember Me The Fifth Season Nonstop Dear Oh My Girl",
+      "char_count": 124,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hyojung'un doğum tarihi nedir?",
+        "answer": "28 Temmuz 1994",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Oh My Girl grubundan ayrılan eski üye JinE'nin temel pozisyonu neydi ve gruptan neden ayrıldı?",
+        "answer": "Eski üye JinE'nin pozisyonu vokalistti. Anoreksiya hastalığı nedeniyle uzun bir dinlenme sürecinden sonra 2017 yılında gruptan resmi olarak ayrılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

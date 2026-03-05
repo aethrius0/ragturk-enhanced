@@ -1,0 +1,173 @@
+{
+  "article": {
+    "id": "gpsizlemebirimi_e6316fdb",
+    "title": "GPS izleme birimi",
+    "url": "https://tr.wikipedia.org/wiki/GPS_izleme_birimi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:22.045408",
+    "content": "GPS izleme ünitesi, bir aracın tam yerini belirlemek için Küresel Konumlandırma Sistemi kullanan bir aygıttır. Kaydedilen konum verileri izleme birimi içinde saklanabilir ya da birimi gömülü, radyo veya hücresel uydu modem (GPRS veya SMS) kullanarak, merkezi bir konum veritabanı ya da internet bağlantılı bir bilgisayara aktarılabilir. Bu varlığın konumu, daha sonra parça çözümleme izleme yazılımı, GPS kullanarak bir harita arka planında ya gerçek zamanlı ya da aldığınız sırada görüntülenmesini sağlar. Veri izleme yazılımı, GPS özelliği ile akıllı telefonlar için kullanılabilir. == GPS izleme ünitesi mimarisi == Bir GPS izcisi esas GPS sinyali almak ve koordinatları hesaplamak için GPS modülü içermektedir. Veri kaydedicileri için bu koordinatları saklamak için büyük bellek içermektedir, veri iticileri ya ek SMS yoluyla ya da IP paketleri şeklinde GPRS üzerinden merkezi bilgisayara bu bilgiyi iletmek için, GSM / GPRS modem içermektedir. Diyagramı gelişmiş bir GPS izci bir donanım mimarisini göstermektedir. == GPS izleyici türleri == Çoğu akıllı telefonlar, GPS telefonları, mobil uygulamalar yüklü olduğuna bağlı olarak, tüm bu modlarda çalışabilir olsa da genellikle, bir GPS izcisi, bu üç kategoriden birine düşecektir: === Veri kaydediciler === GPS kaydedicisi sadece kendi dahili hafızasına düzenli aralıklarla cihazın konumunu kaydeder. Modern GPS kaydedicilerinin hafıza kartı yuvası ya da dahili flash bellek ve USB bağlantı noktası vardır. USB flash sürücü gibi bazı eylemi vardır. Bu da bir bilgisayarda çözümleme yapmak için parça günlük verilerinin indirilmesini sağlar. İzlem listesi veya ilgi listesinin noktası GPX, KML, NMEA veya diğer biçimlerde olabilir. Çoğu sayısal kameralar fotoğraf çekildiği zaman bu yeteneği kazandırır. Kamera saati zamanı kaynağı olarak uygun doğru ya da kullanılan GPS kaydıyla, bu kez doğru bir konumu sağlamak için, GPS kayıt verileri ile ilişkili olabilir. Bu resim dosyasında bulunan bilgiler mevcut olarak eklenebilir. GPS alıcısı ile kameralar doğrudan böyle bir coğrafi etiketli fotoğraf üretebilir. Bazı özel soruşturma durumlarında, veri kaydedicileri bir hedef taşıtı izlemek için kullanılır. PI çok yakından hedef izlemesi, her zaman bir veri yedekleme kaynağı gerektirmez. === Veri iticileri === Veri itici varlık takibi, kişisel izleme ve araç takip sistemi için kullanılan GPS izleme ünitesi, en sık görülen tipidir. Ayrıca GPS işaretçisi olarak bilinen, cihazın bu tür depolama ve anında kararlı sunucuya veri analiz edebilir, cihazın konumunun yanı sıra düzenli aralıklarla hız veya yükseklik gibi diğer bilgileri, gönderir. Bir GPS yön bulma cihazı ve bir cep telefonu aynı pille, aynı kutuda yan yana bulunabilir. Düzenli aralıklarla, telefon, GPS alıcısından gelen verileri içeren, SMS veya GPRS üzerinden bir kısa mesaj gönderir. Bir veri itici (veya kaydedicisi) cihazı içine telefon açabilirsiniz, izleme yazılımı GPS ile çalışan yeni GPS bütünleşik akıllı telefonlar; 2009 itibarıyla açık kaynak ve özel uygulamalar ortak Java ME etkin telefonlar, iPhone, Android, Windows Mobile, Symbian ile mevcuttur. Çoğu 21. yüzyıldan kalma GPS izcileri gibi ticari filo olarak özellikle iş ortamlarında mobil işgücü, istihdam örgütleri izlemede sofistike GPS sağlayan, veri \"itme\" teknolojisi sağlar. Ticari filo yönetiminde yaygın olarak kullanılan tipik GPS izleme sistemleri iki ana bölümden oluşur: konum donanımı (veya izleme cihazı) ile izleme yazılımı. Bu birleşim genellikle otomatik araç konumlama sistemi olarak adlandırılır. İzleme aygıtı en sık araca kablolu monte olan; CAN-Bus, ateşleme sistemi anahtarı ile aküye bağlıdır. Bu, daha sonra GPS izleme sunucusuna aktarılan ilave verilerin toplanmasına izin verir, filo etkinliği canlı ya da tarihsel sayısal haritalar ve raporlar kullanılarak izlenebilir, internet üzerinden erişilen bir internet sitesi üzerinden çoğu durumda, görüntüleme için kullanılabilir olmaktadır. Ticari filoları kullanılan GPS izleme sistemleri genellikle bir dizi güncelleme oranı veya bir olay (kapı açık / kapalı, yardımcı ekipman / kapama, çarmıhta coğrafik çit sınırı) veri iletimi için ünitesini tetikler ve konumunu telemetri giriş verileri iletmek için yapılandırabilir. Ticari filoları kullanılan canlı GPS takibi, genellikle düzenli ateşleme durumunda iken 1 dakika, 2 dakika veya 5 dakika aralıklarla üzerinde güncelleme sistemlerine karşılık gelir. Bazı izleme sistemleri değişim başlığı ile zamanlanmış güncellemeleri tetikleyerek birleştirir. GPS izleme çözümleri son zamanlarda bazen Telematik 2.0 denilir ana ticari otomatik sigorta kullanılmaktadır. Bu tür izleyici uygulamaları şunlardır: ==== Kişisel izleme ==== Kanun uygulayıcı. Kefaletle bir tutuklu sanık dışında, GPS izci giymek zorunda kalabilirsiniz. Yarış denetimi. Böyle kayma gibi bazı spor dallarında, katılımcıların bir izleyiciyi taşıması gerekmektedir. Casusluk / gözetleme. Bu cihazlar, aynı zamanda çocuk izlemek için bir ebeveyn tarafından kullanılır. GPS kişisel takip cihazları yaşlı ile savunmasız bakımında kullanılır. Bazı Internet Web 2.0 öncüleri kendi internet sitesi içinde bir harita üzerinde, kendi kişisel sürekli konumlarını gösteren sayfaları ve gerçek zamanlı olarak yaratır. Sporlar. Macera sporları. Çalışanların izlenmesi. ==== Varlık izleme ==== Güneş enerjili. Hayvan denetimi. === Veri çekicileri === GPS verileri çekiciler GPS transponder olarak bilinir. Düzenli aralıklarla (itme teknolojisi) ile cihazların konumunu göndermek veri iticileri aksine, bu cihazların her zaman açık ve gerekli (çekme teknolojisi) olduğu gibi sık sorgulanabilir. Bu teknoloji, yaygın kullanımda değildir, cihaz bu tür bir örnekte, internet ve çalışan gpsd bağlı bir bilgisayardır. Bunlar genellikle izleyiciyi konumunu sadece ara sıra, örneğin bilinen olduğu durumda kullanılabilir. Veri çekicileri bir GPS alıcısı ve konumu ile iletiye özel bir SMS mesajı ile cevap gönderir, bir cep telefonu içeren cihazlar şeklinde daha yaygın hale gelmektedir. == Ayrıca bakınız == Otomatik Paket Raporlama Sistemi Elektronik etiketleme GPS yön bulma cihazı GPS izleme sunucusu GPS saat GPS yaban hayatı izleme Akıllı ulaşım sistemi (ITS) Cep telefonu Radyo saati#GPS saatler Gerçek zamanlı yerleştirme Gözetleme Telematik Telematik 2.0 Araç altyapı bütünleşmesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 859,
+      "char_count": 6260,
+      "num_chunks": 12,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.839609",
+    "total_chunks": 12,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 585,
+      "content": "GPS izleme ünitesi, bir aracın tam yerini belirlemek için Küresel Konumlandırma Sistemi kullanan bir aygıttır. Kaydedilen konum verileri izleme birimi içinde saklanabilir ya da birimi gömülü, radyo veya hücresel uydu modem (GPRS veya SMS) kullanarak, merkezi bir konum veritabanı ya da internet bağlantılı bir bilgisayara aktarılabilir. Bu varlığın konumu, daha sonra parça çözümleme izleme yazılımı, GPS kullanarak bir harita arka planında ya gerçek zamanlı ya da aldığınız sırada görüntülenmesini sağlar. Veri izleme yazılımı, GPS özelliği ile akıllı telefonlar için kullanılabilir.",
+      "char_count": 584,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0001",
+      "section": "== GPS izleme ünitesi mimarisi ==",
+      "heading_path": "== GPS izleme ünitesi mimarisi ==",
+      "start_char": 585,
+      "end_char": 1020,
+      "content": "== GPS izleme ünitesi mimarisi == Bir GPS izcisi esas GPS sinyali almak ve koordinatları hesaplamak için GPS modülü içermektedir. Veri kaydedicileri için bu koordinatları saklamak için büyük bellek içermektedir, veri iticileri ya ek SMS yoluyla ya da IP paketleri şeklinde GPRS üzerinden merkezi bilgisayara bu bilgiyi iletmek için, GSM / GPRS modem içermektedir. Diyagramı gelişmiş bir GPS izci bir donanım mimarisini göstermektedir.",
+      "char_count": 434,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0002",
+      "section": "== GPS izleyici türleri ==",
+      "heading_path": "== GPS izleyici türleri ==",
+      "start_char": 1020,
+      "end_char": 1236,
+      "content": "== GPS izleyici türleri == Çoğu akıllı telefonlar, GPS telefonları, mobil uygulamalar yüklü olduğuna bağlı olarak, tüm bu modlarda çalışabilir olsa da genellikle, bir GPS izcisi, bu üç kategoriden birine düşecektir:",
+      "char_count": 215,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0003",
+      "section": "=== Veri kaydediciler ===",
+      "heading_path": "=== Veri kaydediciler ===",
+      "start_char": 1236,
+      "end_char": 2236,
+      "content": "=== Veri kaydediciler === GPS kaydedicisi sadece kendi dahili hafızasına düzenli aralıklarla cihazın konumunu kaydeder. Modern GPS kaydedicilerinin hafıza kartı yuvası ya da dahili flash bellek ve USB bağlantı noktası vardır. USB flash sürücü gibi bazı eylemi vardır. Bu da bir bilgisayarda çözümleme yapmak için parça günlük verilerinin indirilmesini sağlar. İzlem listesi veya ilgi listesinin noktası GPX, KML, NMEA veya diğer biçimlerde olabilir. Çoğu sayısal kameralar fotoğraf çekildiği zaman bu yeteneği kazandırır. Kamera saati zamanı kaynağı olarak uygun doğru ya da kullanılan GPS kaydıyla, bu kez doğru bir konumu sağlamak için, GPS kayıt verileri ile ilişkili olabilir. Bu resim dosyasında bulunan bilgiler mevcut olarak eklenebilir. GPS alıcısı ile kameralar doğrudan böyle bir coğrafi etiketli fotoğraf üretebilir. Bazı özel soruşturma durumlarında, veri kaydedicileri bir hedef taşıtı izlemek için kullanılır. PI çok yakından hedef izlemesi, her zaman bir veri yedekleme kaynağı gerekti",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "=== Veri kaydediciler ===",
+      "heading_path": "=== Veri kaydediciler ===",
+      "start_char": 2036,
+      "end_char": 2241,
+      "content": "iketli fotoğraf üretebilir. Bazı özel soruşturma durumlarında, veri kaydedicileri bir hedef taşıtı izlemek için kullanılır. PI çok yakından hedef izlemesi, her zaman bir veri yedekleme kaynağı gerektirmez.",
+      "char_count": 205,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0005",
+      "section": "=== Veri iticileri ===",
+      "heading_path": "=== Veri iticileri ===",
+      "start_char": 2242,
+      "end_char": 3242,
+      "content": "=== Veri iticileri === Veri itici varlık takibi, kişisel izleme ve araç takip sistemi için kullanılan GPS izleme ünitesi, en sık görülen tipidir. Ayrıca GPS işaretçisi olarak bilinen, cihazın bu tür depolama ve anında kararlı sunucuya veri analiz edebilir, cihazın konumunun yanı sıra düzenli aralıklarla hız veya yükseklik gibi diğer bilgileri, gönderir. Bir GPS yön bulma cihazı ve bir cep telefonu aynı pille, aynı kutuda yan yana bulunabilir. Düzenli aralıklarla, telefon, GPS alıcısından gelen verileri içeren, SMS veya GPRS üzerinden bir kısa mesaj gönderir. Bir veri itici (veya kaydedicisi) cihazı içine telefon açabilirsiniz, izleme yazılımı GPS ile çalışan yeni GPS bütünleşik akıllı telefonlar; 2009 itibarıyla açık kaynak ve özel uygulamalar ortak Java ME etkin telefonlar, iPhone, Android, Windows Mobile, Symbian ile mevcuttur. Çoğu 21. yüzyıldan kalma GPS izcileri gibi ticari filo olarak özellikle iş ortamlarında mobil işgücü, istihdam örgütleri izlemede sofistike GPS sağlayan, veri",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "=== Veri iticileri ===",
+      "heading_path": "=== Veri iticileri ===",
+      "start_char": 3042,
+      "end_char": 4042,
+      "content": "d, Windows Mobile, Symbian ile mevcuttur. Çoğu 21. yüzyıldan kalma GPS izcileri gibi ticari filo olarak özellikle iş ortamlarında mobil işgücü, istihdam örgütleri izlemede sofistike GPS sağlayan, veri \"itme\" teknolojisi sağlar. Ticari filo yönetiminde yaygın olarak kullanılan tipik GPS izleme sistemleri iki ana bölümden oluşur: konum donanımı (veya izleme cihazı) ile izleme yazılımı. Bu birleşim genellikle otomatik araç konumlama sistemi olarak adlandırılır. İzleme aygıtı en sık araca kablolu monte olan; CAN-Bus, ateşleme sistemi anahtarı ile aküye bağlıdır. Bu, daha sonra GPS izleme sunucusuna aktarılan ilave verilerin toplanmasına izin verir, filo etkinliği canlı ya da tarihsel sayısal haritalar ve raporlar kullanılarak izlenebilir, internet üzerinden erişilen bir internet sitesi üzerinden çoğu durumda, görüntüleme için kullanılabilir olmaktadır. Ticari filoları kullanılan GPS izleme sistemleri genellikle bir dizi güncelleme oranı veya bir olay (kapı açık / kapalı, yardımcı ekipman /",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "=== Veri iticileri ===",
+      "heading_path": "=== Veri iticileri ===",
+      "start_char": 3842,
+      "end_char": 4613,
+      "content": "en çoğu durumda, görüntüleme için kullanılabilir olmaktadır. Ticari filoları kullanılan GPS izleme sistemleri genellikle bir dizi güncelleme oranı veya bir olay (kapı açık / kapalı, yardımcı ekipman / kapama, çarmıhta coğrafik çit sınırı) veri iletimi için ünitesini tetikler ve konumunu telemetri giriş verileri iletmek için yapılandırabilir. Ticari filoları kullanılan canlı GPS takibi, genellikle düzenli ateşleme durumunda iken 1 dakika, 2 dakika veya 5 dakika aralıklarla üzerinde güncelleme sistemlerine karşılık gelir. Bazı izleme sistemleri değişim başlığı ile zamanlanmış güncellemeleri tetikleyerek birleştirir. GPS izleme çözümleri son zamanlarda bazen Telematik 2.0 denilir ana ticari otomatik sigorta kullanılmaktadır. Bu tür izleyici uygulamaları şunlardır:",
+      "char_count": 771,
+      "token_estimate": 192
+    },
+    {
+      "id": "c0008",
+      "section": "==== Kişisel izleme ====",
+      "heading_path": "==== Kişisel izleme ====",
+      "start_char": 4614,
+      "end_char": 5234,
+      "content": "==== Kişisel izleme ==== Kanun uygulayıcı. Kefaletle bir tutuklu sanık dışında, GPS izci giymek zorunda kalabilirsiniz. Yarış denetimi. Böyle kayma gibi bazı spor dallarında, katılımcıların bir izleyiciyi taşıması gerekmektedir. Casusluk / gözetleme. Bu cihazlar, aynı zamanda çocuk izlemek için bir ebeveyn tarafından kullanılır. GPS kişisel takip cihazları yaşlı ile savunmasız bakımında kullanılır. Bazı Internet Web 2.0 öncüleri kendi internet sitesi içinde bir harita üzerinde, kendi kişisel sürekli konumlarını gösteren sayfaları ve gerçek zamanlı olarak yaratır. Sporlar. Macera sporları. Çalışanların izlenmesi.",
+      "char_count": 619,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0009",
+      "section": "==== Varlık izleme ====",
+      "heading_path": "==== Varlık izleme ====",
+      "start_char": 5234,
+      "end_char": 5291,
+      "content": "==== Varlık izleme ==== Güneş enerjili. Hayvan denetimi.",
+      "char_count": 56,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0010",
+      "section": "=== Veri çekicileri ===",
+      "heading_path": "=== Veri çekicileri ===",
+      "start_char": 5291,
+      "end_char": 5944,
+      "content": "=== Veri çekicileri === GPS verileri çekiciler GPS transponder olarak bilinir. Düzenli aralıklarla (itme teknolojisi) ile cihazların konumunu göndermek veri iticileri aksine, bu cihazların her zaman açık ve gerekli (çekme teknolojisi) olduğu gibi sık sorgulanabilir. Bu teknoloji, yaygın kullanımda değildir, cihaz bu tür bir örnekte, internet ve çalışan gpsd bağlı bir bilgisayardır. Bunlar genellikle izleyiciyi konumunu sadece ara sıra, örneğin bilinen olduğu durumda kullanılabilir. Veri çekicileri bir GPS alıcısı ve konumu ile iletiye özel bir SMS mesajı ile cevap gönderir, bir cep telefonu içeren cihazlar şeklinde daha yaygın hale gelmektedir.",
+      "char_count": 652,
+      "token_estimate": 163
+    },
+    {
+      "id": "c0011",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 5944,
+      "end_char": 6246,
+      "content": "== Ayrıca bakınız == Otomatik Paket Raporlama Sistemi Elektronik etiketleme GPS yön bulma cihazı GPS izleme sunucusu GPS saat GPS yaban hayatı izleme Akıllı ulaşım sistemi (ITS) Cep telefonu Radyo saati#GPS saatler Gerçek zamanlı yerleştirme Gözetleme Telematik Telematik 2.0 Araç altyapı bütünleşmesi",
+      "char_count": 301,
+      "token_estimate": 75
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Modern GPS kaydedicilerinde hangi donanım bileşenleri bulunur?",
+        "answer": "Modern GPS kaydedicilerinde hafıza kartı yuvası, dahili flash bellek ve USB bağlantı noktası bulunur.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bir GPS izleme ünitesinin, konumu belirleme ve kaydedilen bu konum verilerini merkezi bir yere iletme gibi temel işlevlerini sağlayan mimari bileşenleri nelerdir?",
+        "answer": "Konumu belirleme işlevi, GPS sinyallerini alan ve koordinatları hesaplayan bir GPS modülü tarafından sağlanır. Kaydedilen konum verilerini merkezi bir yere iletme işlevi ise, bu bilgiyi SMS yoluyla veya GPRS üzerinden IP paketleri şeklinde aktaran bir GSM/GPRS modem tarafından yerine getirilir. Ayrıca, veri kaydedicilerinde koordinatları saklamak için büyük bellek bulunur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

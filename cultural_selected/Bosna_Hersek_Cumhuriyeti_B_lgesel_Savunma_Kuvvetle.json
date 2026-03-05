@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "bosnahersekcumhuriye_d7d310bd",
+    "title": "Bosna-Hersek Cumhuriyeti Bölgesel Savunma Kuvvetleri",
+    "url": "https://tr.wikipedia.org/wiki/Bosna-Hersek_Cumhuriyeti_B%C3%B6lgesel_Savunma_Kuvvetleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:09.241957",
+    "content": "Bosna-Hersek Cumhuriyeti Bölgesel Savunma Kuvvetleri (Teritorijalna odbrana Bosne i Hercegovine (TO BiH)), daha sonralarında Bosna-Hersek Cumhuriyeti Ordusu'na dönüşecek olan TOBİH, Bosna Savaşı'nın başlarında Bosna-Hersek'in ilk resmi silahlı kuvvetleriydi. == Tarihi == Teritorijalna odbrana (TO), eski Yugoslav Ordusu'nun yerel yedek savunma kuvvetlerinin adıydı.TO, eski Yugoslavya'da JNA'dan (Yugoslavya Halk Ordusu) ayrı olarak organize ve komuta edilmişti. TO, sivil vatan muhafızlarıydı kabaca paramiliter ya da reserv askeri kuvvetlerdi. Bölgesel Savunma'nın bölgelerinde TO yerel halkın yardımı ile seferberlikten sorumluydu. == Bosna'da TORBİH == Sefer Halilović tarafından kurulan Vatanseverler İttifakı'nın silahlı kuvvetlerinden ayrı olarak TO, Bosna-Hersek Cumhuriyeti'nin resmi ordusuydu. TO, 1991'den Nisan 1992'ye kadar Vatanseverler İttifakı'nın bütün birliklerini ve askeri oluşumlarını içine aldı ve 1992'nin Mayıs sonunda Bosna-Hersek Cumhuriyeti Ordusu'na dönüştü. == Örgütlenmesi == TO, her biri 12 ilçeyi kontrol eden (toplamda 73 bölge, 36 bölge katılmayı reddetti.) 7 bölge içinde örgütlenmişti. (iki bölge TORBİH'e katılmayı reddetti.) 15 Nisan 1992'de bütün Vatansever İttifakı birlikleri TORBİH'e katıldı. Nisan 1992'nin sonunda Bölgesel Savunma Kuvvetleri 4 bölge içinde;(Bihać, Sarajevo, Tuzla ve Zenica) içinde iki taktiksel grup, katılan Vatanseverler İttifakı birlikleri ve yeni kurulan tugaylar ile yeniden düzenlendi. Saraybosna Bölgesel Savunması ise genel komutanlığa dönüştürüldü. 20 Mayıs 1992'de TORBİH, Bosna-Hersek Cumhuriyeti Ordusu olarak yeniden adlandırıldı. == TORBiH Komutanlığı == === Nisan 1992 – Mayıs 1992 === TORBiH Merkez Komutanlığı, Saraybosna Albay Hasan Efendić (TORBiH Komutanı) Albay Stjepan Šiber (Genelkurmay Başkanı) Albay Jovan Divjak (Yardımcı Genelkurmay Başkanı) == TORBiH Birlikleri == === Mart 1991 – Mart 1992 === Bosna etrafındaki bütün bağımsız müfrezeler TORBİH kontrolü altına girdi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 250,
+      "char_count": 1974,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.849665",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 259,
+      "content": "Bosna-Hersek Cumhuriyeti Bölgesel Savunma Kuvvetleri (Teritorijalna odbrana Bosne i Hercegovine (TO BiH)), daha sonralarında Bosna-Hersek Cumhuriyeti Ordusu'na dönüşecek olan TOBİH, Bosna Savaşı'nın başlarında Bosna-Hersek'in ilk resmi silahlı kuvvetleriydi.",
+      "char_count": 258,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 259,
+      "end_char": 636,
+      "content": "== Tarihi == Teritorijalna odbrana (TO), eski Yugoslav Ordusu'nun yerel yedek savunma kuvvetlerinin adıydı.TO, eski Yugoslavya'da JNA'dan (Yugoslavya Halk Ordusu) ayrı olarak organize ve komuta edilmişti. TO, sivil vatan muhafızlarıydı kabaca paramiliter ya da reserv askeri kuvvetlerdi. Bölgesel Savunma'nın bölgelerinde TO yerel halkın yardımı ile seferberlikten sorumluydu.",
+      "char_count": 376,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0002",
+      "section": "== Bosna'da TORBİH ==",
+      "heading_path": "== Bosna'da TORBİH ==",
+      "start_char": 636,
+      "end_char": 988,
+      "content": "== Bosna'da TORBİH == Sefer Halilović tarafından kurulan Vatanseverler İttifakı'nın silahlı kuvvetlerinden ayrı olarak TO, Bosna-Hersek Cumhuriyeti'nin resmi ordusuydu. TO, 1991'den Nisan 1992'ye kadar Vatanseverler İttifakı'nın bütün birliklerini ve askeri oluşumlarını içine aldı ve 1992'nin Mayıs sonunda Bosna-Hersek Cumhuriyeti Ordusu'na dönüştü.",
+      "char_count": 351,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0003",
+      "section": "== Örgütlenmesi ==",
+      "heading_path": "== Örgütlenmesi ==",
+      "start_char": 988,
+      "end_char": 1607,
+      "content": "== Örgütlenmesi == TO, her biri 12 ilçeyi kontrol eden (toplamda 73 bölge, 36 bölge katılmayı reddetti.) 7 bölge içinde örgütlenmişti. (iki bölge TORBİH'e katılmayı reddetti.) 15 Nisan 1992'de bütün Vatansever İttifakı birlikleri TORBİH'e katıldı. Nisan 1992'nin sonunda Bölgesel Savunma Kuvvetleri 4 bölge içinde;(Bihać, Sarajevo, Tuzla ve Zenica) içinde iki taktiksel grup, katılan Vatanseverler İttifakı birlikleri ve yeni kurulan tugaylar ile yeniden düzenlendi. Saraybosna Bölgesel Savunması ise genel komutanlığa dönüştürüldü. 20 Mayıs 1992'de TORBİH, Bosna-Hersek Cumhuriyeti Ordusu olarak yeniden adlandırıldı.",
+      "char_count": 618,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0004",
+      "section": "=== Nisan 1992 – Mayıs 1992 ===",
+      "heading_path": "=== Nisan 1992 – Mayıs 1992 ===",
+      "start_char": 1632,
+      "end_char": 1832,
+      "content": "=== Nisan 1992 – Mayıs 1992 === TORBiH Merkez Komutanlığı, Saraybosna Albay Hasan Efendić (TORBiH Komutanı) Albay Stjepan Šiber (Genelkurmay Başkanı) Albay Jovan Divjak (Yardımcı Genelkurmay Başkanı)",
+      "char_count": 199,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0005",
+      "section": "=== Mart 1991 – Mart 1992 ===",
+      "heading_path": "=== Mart 1991 – Mart 1992 ===",
+      "start_char": 1856,
+      "end_char": 1960,
+      "content": "=== Mart 1991 – Mart 1992 === Bosna etrafındaki bütün bağımsız müfrezeler TORBİH kontrolü altına girdi.",
+      "char_count": 103,
+      "token_estimate": 25
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "TORBİH, Bosna-Hersek Cumhuriyeti Ordusu olarak ne zaman yeniden adlandırıldı?",
+        "answer": "20 Mayıs 1992'de",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Eski Yugoslavya'nın Teritorijalna odbrana (TO) sistemi bağlamında, Bosna-Hersek Cumhuriyeti Bölgesel Savunma Kuvvetleri'nin (TO BiH) kuruluşu ve temel karakteri neydi?",
+        "answer": "Teritorijalna odbrana (TO), eski Yugoslavya'da Yugoslavya Halk Ordusu'ndan (JNA) ayrı olarak organize edilmiş yerel yedek savunma kuvvetleri veya sivil vatan muhafızlarıydı. Bu genel sistem içinde, Bosna-Hersek Cumhuriyeti Bölgesel Savunma Kuvvetleri (TO BiH), Bosna Savaşı'nın başlarında Bosna-Hersek'in ilk resmi silahlı kuvvetleri olarak ortaya çıktı ve daha sonraları Bosna-Hersek Cumhuriyeti Ordusu'na dönüşecekti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

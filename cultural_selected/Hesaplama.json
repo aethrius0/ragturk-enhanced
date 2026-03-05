@@ -1,0 +1,184 @@
+{
+  "article": {
+    "id": "hesaplama_7f374cec",
+    "title": "Hesaplama",
+    "url": "https://tr.wikipedia.org/wiki/Hesaplama",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:50.348476",
+    "content": "Hesaplama, iyi tanımlanmış herhangi bir aritmetik veya aritmetik olmayan işlemi ifade eder. Yaygın hesaplama örnekleri arasında matematiksel denklemleri çözme ve bilgisayar algoritmalarının yürütülmesi yer alır. Mekanik veya elektronik cihazlar tarafından gerçekleştirilen hesaplamalar, bu işlemleri yapan sistemlere bilgisayar denilmesine yol açmıştır. Bilgisayar bilimi, hesaplama kavramını inceleyen akademik bir disiplindir. == Giriş == Matematiksel ifadelerin iyi tanımlanmış olması gerektiği fikri, en az 1600'lerden beri matematikçiler arasında tartışılan bir konuydu. Ancak, bu kavramın uygun bir tanımında uzlaşmak uzun süre mümkün olmadı. 1930’larda, birkaç matematikçi bağımsız olarak bir aday tanım önerdi. Bu tanımlardan en bilineni, matematikçi Alan Turing tarafından geliştirilmiştir. Turing, iyi tanımlanmış bir ifadeyi veya hesaplamayı, bir Turing makinesinin başlangıç parametreleri cinsinden ifade edilebilen herhangi bir ifade olarak tanımlamıştır. Matematiksel olarak eşdeğer diğer tanımlar arasında Alonzo Church’ün lambda tanımlanabilirliği, Herbrand-Gödel-Kleene’nin genel öznitelik ve Emil Post’un tanımlanabilirliği yer alır. Günümüzde, bu özelliği taşıyan herhangi bir resmi ifade veya hesaplama \"hesaplanabilir\" olarak adlandırılır ve bu tür işlemler hesaplama terimiyle tanımlanır. Turing’in tanımı, iyi tanımlanmış kavramını çok geniş bir matematiksel ifade sınıfına uygulamıştır. Bu tanım, tüm düzgün biçimlendirilmiş cebirsel ifadeleri ve modern programlama dillerinde yazılmış tüm ifadeleri kapsamaktadır. Bu tanımın geniş kabul görmesine rağmen, bazı matematiksel kavramlar hala bu tanıma göre iyi tanımlanmış değildir. Örneğin, durdurma problemi gibi problemler bu kapsamın dışında kalmaktadır. Hem hesaplanabilir hem de hesaplanamaz ifadeleri kapsayan daha güçlü bir iyi tanımının olup olmadığı ise halen açık bir sorudur. === Matematiksel İfadeler (Hesaplanabilir) === Aşağıdaki ifadeler hesaplanabilir: C++, Python ve Java gibi modern programlama dillerinde tanımlanan tüm ifadeler. Elektronik bilgisayarlar, hesap makineleri veya abaküsler tarafından yapılan tüm hesaplamalar. Analitik makine üzerinde gerçekleştirilen tüm hesaplamalar. Bir Turing makinesi üzerinde yürütülebilen tüm hesaplamalar. Matematik ders kitaplarında verilen hesaplama ifadelerin büyük çoğunluğu. === Matematiksel İfadeler (Hesaplanamayan) === Aşağıdaki ifadeler hesaplanamaz: İyi tanımlanmamış ve bu nedenle bir Turing makinesine açık bir şekilde kodlanamayan ifadeler (\"Eren beni Cihan'dan iki kat daha fazla seviyor\" gibi). İyi tanımlanmış gibi görünen ancak herhangi bir Turing makinesiyle çözülemeyeceği kanıtlanmış problemler (durdurma problemi gibi). === Hesaplamanın Fiziksel Süreci === Hesaplama, bilgisayar adı verilen kapalı bir fiziksel sistem içinde gerçekleşen tamamen fiziksel bir süreç olarak görülebilir. Turing’in 1937 tarihli \"On Computable Numbers, with an Application to the Entscheidungsproblem\" adlı çalışması, hesaplanabilir ifadeler ile belirli fiziksel sistemler arasında resmi bir eşdeğerlik olduğunu göstermiştir. == Alternatif Hesaplama Yaklaşımları == === Haritalama Yaklaşımı === Hilary Putnam ve diğer filozofların çalışmalarında yer alan alternatif bir hesaplama anlayışı, haritalama yaklaşımı olarak adlandırılır. Peter Godfrey-Smith tarafından \"basit haritalama yaklaşımı\" olarak adlandırılan bu model, Gualtiero Piccinini tarafından şöyle özetlenmiştir: Bir fiziksel sistemin belirli bir hesaplamayı gerçekleştirdiği söylenebilir, eğer bu sistemin durumu ile hesaplama arasında bir eşleme varsa. Bu eşleme, sistemin mikro-fiziksel durumlarının, hesaplama durumları arasındaki geçişleri yansıtacak şekilde olması gerektiğini belirtir. === Anlamsal Yaklaşım === Jerry Fodor gibi filozoflar, hesaplamanın ancak anlamsal içerik taşıması durumunda gerçekleşebileceğini öne süren farklı açıklamalar sunmuşlardır. Bu yaklaşıma göre, hesaplama yapan bir sistemi rastgele bir fiziksel sistemden ayıran temel özellik, hesaplama süreçlerinde kullanılan işlenenlerin belirli bir şeyi temsil etmesidir. Bu anlayış, fiziksel sistemlerde hesaplama (pancomputationalism) olarak bilinen ve her şeyin aslında her şeyi hesapladığı fikrini içeren aşırı soyutlamayı engellemeye çalışır. === Mekanik Yaklaşım === Gualtiero Piccinini, hesaplamayı mekanik felsefe temelinde açıklayan bir model önermektedir. Bu modele göre, fiziksel hesaplama sistemleri, belirli bir tasarıma sahip mekanizmalar olarak kabul edilir. Bu mekanizmalar, belirli kurallara göre ortamdan bağımsız bilgi taşıyıcılarını manipüle ederek fiziksel hesaplama gerçekleştirirler. Ortamdan bağımsızlık: Bir hesaplama sisteminin fiziksel ortamdan bağımsız olarak farklı türde \"gerçekleştiriciler\" tarafından uygulanabilir olması anlamına gelir. Kural: Fiziksel hesaplama sisteminin girdileri, çıktıları ve iç durumları arasındaki eşlemeyi tanımlar. Bu yaklaşım, geleneksel dijital bilgisayarlarda olduğu gibi yalnızca voltaj değişimlerine dayanan hesaplamaların ötesine geçerek, beynin hesaplama süreçleri veya kuantum bilgisayarlar gibi farklı hesaplama biçimlerini de içerebilecek bir model sunar. == Matematiksel Modeller == Hesaplama teorisinde, bir dizi matematiksel hesaplama modeli geliştirilmiştir. Tipik matematiksel bilgisayar modelleri şunlardır: Durum modelleri, Turing makinesi, yığıt otomatonu, sonlu durumlu otomaton ve PRAM (Fonksiyonel modeller) Lambda kalkülüsü (Mantıksal modeller) Mantık programlama (Eşzamanlı modeller) Aktör modeli ve süreç hesaplamaları Giunti, hesaplama teorisinin incelediği modelleri hesaplama sistemleri olarak adlandırır ve bunların hepsinin ayrık zaman ve ayrık durum uzayına sahip matematiksel dinamik sistemler olduğunu savunur. Bir hesaplama sisteminin üç bölümden oluşan karmaşık bir nesne olduğunu iddia eder. Birincisi, ayrık zaman ve ayrık durum uzayına sahip bir matematiksel dinamik sistem D S {\\displaystyle DS} ikincisi, bir teorik parça F {\\displaystyle F} ve bir gerçek parça B F {\\displaystyle B_{F}} 'den oluşan bir hesaplama düzeni I D S , H {\\displaystyle I_{DS,H}} üçüncüsü, dinamik sistemi D S {\\displaystyle DS} ile düzeni H {\\displaystyle H} birbirine bağlayan bir yorum H = ( F , B F ) {\\displaystyle H=\\left(F,B_{F}\\right)} 'dır. == Ayrıca bakınız == Evrimsel hesaplama Paralel hesaplama Bilimsel hesaplama Dağıtık hesaplama == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 768,
+      "char_count": 6301,
+      "num_chunks": 13,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.165931",
+    "total_chunks": 13,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 429,
+      "content": "Hesaplama, iyi tanımlanmış herhangi bir aritmetik veya aritmetik olmayan işlemi ifade eder. Yaygın hesaplama örnekleri arasında matematiksel denklemleri çözme ve bilgisayar algoritmalarının yürütülmesi yer alır. Mekanik veya elektronik cihazlar tarafından gerçekleştirilen hesaplamalar, bu işlemleri yapan sistemlere bilgisayar denilmesine yol açmıştır. Bilgisayar bilimi, hesaplama kavramını inceleyen akademik bir disiplindir.",
+      "char_count": 428,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0001",
+      "section": "== Giriş ==",
+      "heading_path": "== Giriş ==",
+      "start_char": 429,
+      "end_char": 1429,
+      "content": "== Giriş == Matematiksel ifadelerin iyi tanımlanmış olması gerektiği fikri, en az 1600'lerden beri matematikçiler arasında tartışılan bir konuydu. Ancak, bu kavramın uygun bir tanımında uzlaşmak uzun süre mümkün olmadı. 1930’larda, birkaç matematikçi bağımsız olarak bir aday tanım önerdi. Bu tanımlardan en bilineni, matematikçi Alan Turing tarafından geliştirilmiştir. Turing, iyi tanımlanmış bir ifadeyi veya hesaplamayı, bir Turing makinesinin başlangıç parametreleri cinsinden ifade edilebilen herhangi bir ifade olarak tanımlamıştır. Matematiksel olarak eşdeğer diğer tanımlar arasında Alonzo Church’ün lambda tanımlanabilirliği, Herbrand-Gödel-Kleene’nin genel öznitelik ve Emil Post’un tanımlanabilirliği yer alır. Günümüzde, bu özelliği taşıyan herhangi bir resmi ifade veya hesaplama \"hesaplanabilir\" olarak adlandırılır ve bu tür işlemler hesaplama terimiyle tanımlanır. Turing’in tanımı, iyi tanımlanmış kavramını çok geniş bir matematiksel ifade sınıfına uygulamıştır. Bu tanım, tüm düzg",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Giriş ==",
+      "heading_path": "== Giriş ==",
+      "start_char": 1229,
+      "end_char": 1858,
+      "content": "lanabilir\" olarak adlandırılır ve bu tür işlemler hesaplama terimiyle tanımlanır. Turing’in tanımı, iyi tanımlanmış kavramını çok geniş bir matematiksel ifade sınıfına uygulamıştır. Bu tanım, tüm düzgün biçimlendirilmiş cebirsel ifadeleri ve modern programlama dillerinde yazılmış tüm ifadeleri kapsamaktadır. Bu tanımın geniş kabul görmesine rağmen, bazı matematiksel kavramlar hala bu tanıma göre iyi tanımlanmış değildir. Örneğin, durdurma problemi gibi problemler bu kapsamın dışında kalmaktadır. Hem hesaplanabilir hem de hesaplanamaz ifadeleri kapsayan daha güçlü bir iyi tanımının olup olmadığı ise halen açık bir sorudur.",
+      "char_count": 629,
+      "token_estimate": 157
+    },
+    {
+      "id": "c0003",
+      "section": "=== Matematiksel İfadeler (Hesaplanabilir) ===",
+      "heading_path": "=== Matematiksel İfadeler (Hesaplanabilir) ===",
+      "start_char": 1859,
+      "end_char": 2311,
+      "content": "=== Matematiksel İfadeler (Hesaplanabilir) === Aşağıdaki ifadeler hesaplanabilir: C++, Python ve Java gibi modern programlama dillerinde tanımlanan tüm ifadeler. Elektronik bilgisayarlar, hesap makineleri veya abaküsler tarafından yapılan tüm hesaplamalar. Analitik makine üzerinde gerçekleştirilen tüm hesaplamalar. Bir Turing makinesi üzerinde yürütülebilen tüm hesaplamalar. Matematik ders kitaplarında verilen hesaplama ifadelerin büyük çoğunluğu.",
+      "char_count": 451,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0004",
+      "section": "=== Matematiksel İfadeler (Hesaplanamayan) ===",
+      "heading_path": "=== Matematiksel İfadeler (Hesaplanamayan) ===",
+      "start_char": 2311,
+      "end_char": 2672,
+      "content": "=== Matematiksel İfadeler (Hesaplanamayan) === Aşağıdaki ifadeler hesaplanamaz: İyi tanımlanmamış ve bu nedenle bir Turing makinesine açık bir şekilde kodlanamayan ifadeler (\"Eren beni Cihan'dan iki kat daha fazla seviyor\" gibi). İyi tanımlanmış gibi görünen ancak herhangi bir Turing makinesiyle çözülemeyeceği kanıtlanmış problemler (durdurma problemi gibi).",
+      "char_count": 360,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0005",
+      "section": "=== Hesaplamanın Fiziksel Süreci ===",
+      "heading_path": "=== Hesaplamanın Fiziksel Süreci ===",
+      "start_char": 2672,
+      "end_char": 3056,
+      "content": "=== Hesaplamanın Fiziksel Süreci === Hesaplama, bilgisayar adı verilen kapalı bir fiziksel sistem içinde gerçekleşen tamamen fiziksel bir süreç olarak görülebilir. Turing’in 1937 tarihli \"On Computable Numbers, with an Application to the Entscheidungsproblem\" adlı çalışması, hesaplanabilir ifadeler ile belirli fiziksel sistemler arasında resmi bir eşdeğerlik olduğunu göstermiştir.",
+      "char_count": 383,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0006",
+      "section": "=== Haritalama Yaklaşımı ===",
+      "heading_path": "=== Haritalama Yaklaşımı ===",
+      "start_char": 3096,
+      "end_char": 3684,
+      "content": "=== Haritalama Yaklaşımı === Hilary Putnam ve diğer filozofların çalışmalarında yer alan alternatif bir hesaplama anlayışı, haritalama yaklaşımı olarak adlandırılır. Peter Godfrey-Smith tarafından \"basit haritalama yaklaşımı\" olarak adlandırılan bu model, Gualtiero Piccinini tarafından şöyle özetlenmiştir: Bir fiziksel sistemin belirli bir hesaplamayı gerçekleştirdiği söylenebilir, eğer bu sistemin durumu ile hesaplama arasında bir eşleme varsa. Bu eşleme, sistemin mikro-fiziksel durumlarının, hesaplama durumları arasındaki geçişleri yansıtacak şekilde olması gerektiğini belirtir.",
+      "char_count": 587,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0007",
+      "section": "=== Anlamsal Yaklaşım ===",
+      "heading_path": "=== Anlamsal Yaklaşım ===",
+      "start_char": 3684,
+      "end_char": 4216,
+      "content": "=== Anlamsal Yaklaşım === Jerry Fodor gibi filozoflar, hesaplamanın ancak anlamsal içerik taşıması durumunda gerçekleşebileceğini öne süren farklı açıklamalar sunmuşlardır. Bu yaklaşıma göre, hesaplama yapan bir sistemi rastgele bir fiziksel sistemden ayıran temel özellik, hesaplama süreçlerinde kullanılan işlenenlerin belirli bir şeyi temsil etmesidir. Bu anlayış, fiziksel sistemlerde hesaplama (pancomputationalism) olarak bilinen ve her şeyin aslında her şeyi hesapladığı fikrini içeren aşırı soyutlamayı engellemeye çalışır.",
+      "char_count": 531,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0008",
+      "section": "=== Mekanik Yaklaşım ===",
+      "heading_path": "=== Mekanik Yaklaşım ===",
+      "start_char": 4216,
+      "end_char": 5093,
+      "content": "=== Mekanik Yaklaşım === Gualtiero Piccinini, hesaplamayı mekanik felsefe temelinde açıklayan bir model önermektedir. Bu modele göre, fiziksel hesaplama sistemleri, belirli bir tasarıma sahip mekanizmalar olarak kabul edilir. Bu mekanizmalar, belirli kurallara göre ortamdan bağımsız bilgi taşıyıcılarını manipüle ederek fiziksel hesaplama gerçekleştirirler. Ortamdan bağımsızlık: Bir hesaplama sisteminin fiziksel ortamdan bağımsız olarak farklı türde \"gerçekleştiriciler\" tarafından uygulanabilir olması anlamına gelir. Kural: Fiziksel hesaplama sisteminin girdileri, çıktıları ve iç durumları arasındaki eşlemeyi tanımlar. Bu yaklaşım, geleneksel dijital bilgisayarlarda olduğu gibi yalnızca voltaj değişimlerine dayanan hesaplamaların ötesine geçerek, beynin hesaplama süreçleri veya kuantum bilgisayarlar gibi farklı hesaplama biçimlerini de içerebilecek bir model sunar.",
+      "char_count": 876,
+      "token_estimate": 219
+    },
+    {
+      "id": "c0009",
+      "section": "== Matematiksel Modeller ==",
+      "heading_path": "== Matematiksel Modeller ==",
+      "start_char": 5093,
+      "end_char": 6093,
+      "content": "== Matematiksel Modeller == Hesaplama teorisinde, bir dizi matematiksel hesaplama modeli geliştirilmiştir. Tipik matematiksel bilgisayar modelleri şunlardır: Durum modelleri, Turing makinesi, yığıt otomatonu, sonlu durumlu otomaton ve PRAM (Fonksiyonel modeller) Lambda kalkülüsü (Mantıksal modeller) Mantık programlama (Eşzamanlı modeller) Aktör modeli ve süreç hesaplamaları Giunti, hesaplama teorisinin incelediği modelleri hesaplama sistemleri olarak adlandırır ve bunların hepsinin ayrık zaman ve ayrık durum uzayına sahip matematiksel dinamik sistemler olduğunu savunur. Bir hesaplama sisteminin üç bölümden oluşan karmaşık bir nesne olduğunu iddia eder. Birincisi, ayrık zaman ve ayrık durum uzayına sahip bir matematiksel dinamik sistem D S {\\displaystyle DS} ikincisi, bir teorik parça F {\\displaystyle F} ve bir gerçek parça B F {\\displaystyle B_{F}} 'den oluşan bir hesaplama düzeni I D S , H {\\displaystyle I_{DS,H}} üçüncüsü, dinamik sistemi D S {\\displaystyle DS} ile düzeni H {\\display",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0010",
+      "section": "== Matematiksel Modeller ==",
+      "heading_path": "== Matematiksel Modeller ==",
+      "start_char": 5893,
+      "end_char": 6132,
+      "content": "isplaystyle F} ve bir gerçek parça B F {\\displaystyle B_{F}} 'den oluşan bir hesaplama düzeni I D S , H {\\displaystyle I_{DS,H}} üçüncüsü, dinamik sistemi D S {\\displaystyle DS} ile düzeni H {\\displaystyle H} birbirine bağlayan bir yorum H",
+      "char_count": 239,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0011",
+      "section": "= ( F , B F ) {\\displaystyle H=\\left(F,B_{F}\\right)} 'dır. = =",
+      "heading_path": "= ( F , B F ) {\\displaystyle H=\\left(F,B_{F}\\right)} 'dır. = =",
+      "start_char": 6133,
+      "end_char": 6210,
+      "content": "= ( F , B F ) {\\displaystyle H=\\left(F,B_{F}\\right)} 'dır. == Ayrıca bakınız",
+      "char_count": 76,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0012",
+      "section": "== Evrimsel hesaplama Paralel hesaplama Bilimsel hesaplama Dağıtık hesaplama ==",
+      "heading_path": "== Evrimsel hesaplama Paralel hesaplama Bilimsel hesaplama Dağıtık hesaplama ==",
+      "start_char": 6210,
+      "end_char": 6301,
+      "content": "== Evrimsel hesaplama Paralel hesaplama Bilimsel hesaplama Dağıtık hesaplama == Kaynakça ==",
+      "char_count": 91,
+      "token_estimate": 22
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İyi tanımlanmış bir matematiksel ifadenin veya hesaplamanın en bilinen tanımı kim tarafından geliştirilmiştir?",
+        "answer": "Alan Turing",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Alan Turing'in \"iyi tanımlanmış\" bir ifade veya hesaplama tanımı, \"hesaplanabilir\" kavramının temelini nasıl atmış ve modern programlama dillerindeki ifadeler de dahil olmak üzere hangi alanları kapsamıştır, buna karşın hangi sınırlamalara sahiptir?",
+        "answer": "Turing, iyi tanımlanmış bir ifadeyi veya hesaplamayı, bir Turing makinesinin başlangıç parametreleri cinsinden ifade edilebilen herhangi bir ifade olarak tanımlamıştır. Bu tanım, günümüzde bu özelliği taşıyan resmi ifadelerin ve hesaplamaların \"hesaplanabilir\" olarak adlandırılmasının temelini atmıştır ve hesaplama terimi bu işlemleri tanımlar. Turing'in tanımı, tüm düzgün biçimlendirilmiş cebirsel ifadeleri ve modern programlama dillerinde yazılmış tüm ifadeleri kapsayan çok geniş bir matematiksel ifade sınıfına uygulanmıştır. Ancak, durdurma problemi gibi bazı matematiksel kavramlar bu tanıma göre iyi tanımlanmış değildir ve bu tanımın sınırlılıklarını göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

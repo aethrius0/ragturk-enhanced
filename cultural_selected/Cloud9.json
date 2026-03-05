@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "cloud9_abe841d7",
+    "title": "Cloud9",
+    "url": "https://tr.wikipedia.org/wiki/Cloud9",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:46.885261",
+    "content": "Cloud9 veya kısaca C9, 2013 yılında Jack Etienne tarafından kurulan bir espor organizasyonudur. 2018'de Cloud9'ın CS:GO takımı ELEAGUE Major: Boston 2018'i kazanarak CS:GO'da major kazan ilk Amerikan takımı olmuştur. == League of Legends == 2012 yılında Quantum Gaming faaliyetlerini sonlandırdıktan sonra takımın oyuncuları $15,000'a eski Team SoloMid menajeri Jack Etienne tarafından satın alınmıştır. Ocak 2013'te tekrar kurulduktan sonra 1 Nisan'da Quantum Gaming takımı tekrar satın almıştır. == Counter-Strike 2 == Cloud9 Counter-Strike: Global Offensive sahnesine 2014 yılında girdi. İlk turnuvaları olan ESL One: Cologne 2014'te çeyrek finalde turnuvaya veda ettiler. MLG Colombus 2016 major'unu sonuncu sırada bitirdiler. Kötü sonuç kadro değişikliğine sebep oldu. ELEAGUE Major: Boston 2018 major'ünde takım finalde FaZe Clan'i 2–1 mağlup ederek ilk major kazanan Kuzey Amerika takımı oldu. Takımın kadrosunda Türk asıllı Tarık Çelik de bulunmaktaydı. Turnuvadan sonra takımın büyük bi kısmı emekliliğe ayrıldı veya başka bir takıma geçti. 2020 yılında takım büyük bir değişime giderek 4 yeni oyuncu transfer etti. Ancak takım bekleneni karşılayamayınca takımın AWP oyuncusu Özgür Eker takımdan ayrıldı. Son kadronun dağılmasından yaklaşık bir yıl sonra 24 Nisan 2022 tarihinde Gambit Esports'un kadrosu transfer edildi. == Valorant == Cloud9 ilk Valorant oyuncusu TenZ'i 12 Nisan 2020'de duyurdu. Cloud9'ın Cloud9 Blue adında bir erkek, Cloud9 White adında bir kadın takımı vardır. == Diğer == Cloud9'ın Fortnite, Halo, Overwatch, Rainbow 6, Super Smash Bros ve World of Warcraft takımları da bulunmaktadır. == Dış bağlantılar == Facebook'ta Cloud9 Twitter'da Cloud9 Instagram'da Cloud9 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1712,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.699819",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 217,
+      "content": "Cloud9 veya kısaca C9, 2013 yılında Jack Etienne tarafından kurulan bir espor organizasyonudur. 2018'de Cloud9'ın CS:GO takımı ELEAGUE Major: Boston 2018'i kazanarak CS:GO'da major kazan ilk Amerikan takımı olmuştur.",
+      "char_count": 216,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0001",
+      "section": "== League of Legends ==",
+      "heading_path": "== League of Legends ==",
+      "start_char": 217,
+      "end_char": 498,
+      "content": "== League of Legends == 2012 yılında Quantum Gaming faaliyetlerini sonlandırdıktan sonra takımın oyuncuları $15,000'a eski Team SoloMid menajeri Jack Etienne tarafından satın alınmıştır. Ocak 2013'te tekrar kurulduktan sonra 1 Nisan'da Quantum Gaming takımı tekrar satın almıştır.",
+      "char_count": 280,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0002",
+      "section": "== Counter-Strike 2 ==",
+      "heading_path": "== Counter-Strike 2 ==",
+      "start_char": 498,
+      "end_char": 1331,
+      "content": "== Counter-Strike 2 == Cloud9 Counter-Strike: Global Offensive sahnesine 2014 yılında girdi. İlk turnuvaları olan ESL One: Cologne 2014'te çeyrek finalde turnuvaya veda ettiler. MLG Colombus 2016 major'unu sonuncu sırada bitirdiler. Kötü sonuç kadro değişikliğine sebep oldu. ELEAGUE Major: Boston 2018 major'ünde takım finalde FaZe Clan'i 2–1 mağlup ederek ilk major kazanan Kuzey Amerika takımı oldu. Takımın kadrosunda Türk asıllı Tarık Çelik de bulunmaktaydı. Turnuvadan sonra takımın büyük bi kısmı emekliliğe ayrıldı veya başka bir takıma geçti. 2020 yılında takım büyük bir değişime giderek 4 yeni oyuncu transfer etti. Ancak takım bekleneni karşılayamayınca takımın AWP oyuncusu Özgür Eker takımdan ayrıldı. Son kadronun dağılmasından yaklaşık bir yıl sonra 24 Nisan 2022 tarihinde Gambit Esports'un kadrosu transfer edildi.",
+      "char_count": 832,
+      "token_estimate": 208
+    },
+    {
+      "id": "c0003",
+      "section": "== Valorant ==",
+      "heading_path": "== Valorant ==",
+      "start_char": 1331,
+      "end_char": 1493,
+      "content": "== Valorant == Cloud9 ilk Valorant oyuncusu TenZ'i 12 Nisan 2020'de duyurdu. Cloud9'ın Cloud9 Blue adında bir erkek, Cloud9 White adında bir kadın takımı vardır.",
+      "char_count": 161,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0004",
+      "section": "== Diğer ==",
+      "heading_path": "== Diğer ==",
+      "start_char": 1493,
+      "end_char": 1619,
+      "content": "== Diğer == Cloud9'ın Fortnite, Halo, Overwatch, Rainbow 6, Super Smash Bros ve World of Warcraft takımları da bulunmaktadır.",
+      "char_count": 125,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1619,
+      "end_char": 1698,
+      "content": "== Dış bağlantılar == Facebook'ta Cloud9 Twitter'da Cloud9 Instagram'da Cloud9",
+      "char_count": 78,
+      "token_estimate": 19
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cloud9, hangi major turnuvasını kazanarak ilk Kuzey Amerika takımı olmuştur?",
+        "answer": "ELEAGUE Major: Boston 2018",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jack Etienne'in erken dönemdeki espor takımı edinimleri, Cloud9 organizasyonunun kuruluşuna ve Counter-Strike: Global Offensive sahnesindeki ilk büyük başarısına nasıl bir zemin hazırladı?",
+        "answer": "Jack Etienne, 2012 yılında Quantum Gaming'in League of Legends oyuncularını satın alarak espor dünyasına adım attı. Bu takımın yeniden yapılanmasının ardından, Etienne 2013 yılında Cloud9 espor organizasyonunu kurdu. Cloud9 çatısı altında, Counter-Strike: Global Offensive takımı 2018 yılında ELEAGUE Major: Boston 2018'i kazanarak Kuzey Amerika'dan major kazanan ilk ekip oldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

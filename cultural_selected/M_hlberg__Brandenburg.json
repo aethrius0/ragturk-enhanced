@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "mhlbergbrandenburg_0e46d9fe",
+    "title": "Mühlberg, Brandenburg",
+    "url": "https://tr.wikipedia.org/wiki/M%C3%BChlberg%2C_Brandenburg",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:25.117509",
+    "content": "Mühlberg, Almanya'nın Brandenburg kentinin en güneybatısındaki Elbe-Elster bölgesinde bir kasabadır. Elbe nehrinin sağ kıyısında, güneyde Riesa ile kuzeybatıda Torgau'nun yaklaşık ortasında yer alır. Leipzig'in yaklaşık 60 km doğusundadır. Elbe'nin sol yakasındaki Bundesstraße 182 (Riesa - Torgau - Wittenberg) üzerinden ulaşılır ve 2008 yılında açılan bir köprü ile kasabaya bağlanır. Mühlberg, Ortsteile Mühlberg, Altenau, Brottewitz, Fichtenberg, Koßdorf ve Martinskirchen köylerinden oluşur. == Tarih == Mühlberg'den ilk kez 1230 tarihindeki belɡelerden bahsedilir. Kasaba, Elbe Nehri'nin geçilebildiği kumlu bir ada üzerinde kurulmuştur. MÖ 2000'lere kadar uzanan mezar şeklinde arkeolojik kanıtlar vardır. 1939'dan 1945'e kadar Mühlberg yakınlarında İkinci Dünya Savaşı zamanında yapılan savaş esiri kampı (Stalag IV-B) bulunmaktaydı. 300.000 mahkûm kampta yaşadı ve çoğu Sovyet askeri olan yaklaşık 3.000 kişi orada öldü. İkinci Dünya Savaşı'ndan sonra kamp, Sovyet gizli servisi NKVD tarafından NKVD 1 Nolu Özel Kamp ismiyle yeniden kullanıldı. NKVD'nin 22.000 mahkûmundan yaklaşık 6.700'ü kamp alanı yakınındaki toplu mezarlara gömüldü. Günümüzde bir anı alanı yapılmış olup, her iki kamp döneminin kurbanları anılmaktadır. Mühlberg, 1952'den 1990'a kadar Doğu Almanya'ya bağlı Bezirk Cottbus'unun bir parçasıydı. == Dış bağlantılar == Gilman, D. C.; Thurston, H. T.; Colby, F. M., (Ed.) (1905). \"makale adı gerekli\". New International Encyclopedia (İngilizce) (1. bas.). New York: Dodd, Mead. Website on the history of POW camp Stalag IVb and Soviet special camp No.1 near Mühlberg",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 214,
+      "char_count": 1592,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.716674",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 497,
+      "content": "Mühlberg, Almanya'nın Brandenburg kentinin en güneybatısındaki Elbe-Elster bölgesinde bir kasabadır. Elbe nehrinin sağ kıyısında, güneyde Riesa ile kuzeybatıda Torgau'nun yaklaşık ortasında yer alır. Leipzig'in yaklaşık 60 km doğusundadır. Elbe'nin sol yakasındaki Bundesstraße 182 (Riesa - Torgau - Wittenberg) üzerinden ulaşılır ve 2008 yılında açılan bir köprü ile kasabaya bağlanır. Mühlberg, Ortsteile Mühlberg, Altenau, Brottewitz, Fichtenberg, Koßdorf ve Martinskirchen köylerinden oluşur.",
+      "char_count": 496,
+      "token_estimate": 124
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 497,
+      "end_char": 1324,
+      "content": "== Tarih == Mühlberg'den ilk kez 1230 tarihindeki belɡelerden bahsedilir. Kasaba, Elbe Nehri'nin geçilebildiği kumlu bir ada üzerinde kurulmuştur. MÖ 2000'lere kadar uzanan mezar şeklinde arkeolojik kanıtlar vardır. 1939'dan 1945'e kadar Mühlberg yakınlarında İkinci Dünya Savaşı zamanında yapılan savaş esiri kampı (Stalag IV-B) bulunmaktaydı. 300.000 mahkûm kampta yaşadı ve çoğu Sovyet askeri olan yaklaşık 3.000 kişi orada öldü. İkinci Dünya Savaşı'ndan sonra kamp, Sovyet gizli servisi NKVD tarafından NKVD 1 Nolu Özel Kamp ismiyle yeniden kullanıldı. NKVD'nin 22.000 mahkûmundan yaklaşık 6.700'ü kamp alanı yakınındaki toplu mezarlara gömüldü. Günümüzde bir anı alanı yapılmış olup, her iki kamp döneminin kurbanları anılmaktadır. Mühlberg, 1952'den 1990'a kadar Doğu Almanya'ya bağlı Bezirk Cottbus'unun bir parçasıydı.",
+      "char_count": 826,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1324,
+      "end_char": 1592,
+      "content": "== Dış bağlantılar == Gilman, D. C.; Thurston, H. T.; Colby, F. M., (Ed.) (1905). \"makale adı gerekli\". New International Encyclopedia (İngilizce) (1. bas.). New York: Dodd, Mead. Website on the history of POW camp Stalag IVb and Soviet special camp No.1 near Mühlberg",
+      "char_count": 268,
+      "token_estimate": 67
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mühlberg'den ilk kez hangi yıldaki belgelerde bahsedilmiştir?",
+        "answer": "1230",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mühlberg'in Elbe Nehri üzerindeki coğrafi konumu, kasabanın hem kuruluşunda hem de modern tarihindeki önemli olaylarda nasıl bir rol oynamıştır?",
+        "answer": "Mühlberg, Elbe Nehri'nin geçilebildiği kumlu bir ada üzerinde kurulmuştur, bu da kasabaya ilk başlarda stratejik bir geçiş noktası rolü kazandırmıştır. Daha sonra, kasabanın Elbe kıyısındaki genel coğrafi konumu, İkinci Dünya Savaşı sırasında ve sonrasında trajik savaş esiri kamplarına (Stalag IV-B ve NKVD 1 Nolu Özel Kamp) ev sahipliği yapması gibi önemli olayların yaşandığı bir yer olmasında rol oynamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

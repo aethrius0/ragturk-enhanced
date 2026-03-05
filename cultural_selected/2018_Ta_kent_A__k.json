@@ -1,0 +1,153 @@
+{
+  "article": {
+    "id": "2018takentak_b28681cd",
+    "title": "2018 Taşkent Açık",
+    "url": "https://tr.wikipedia.org/wiki/2018_Ta%C5%9Fkent_A%C3%A7%C4%B1k",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:20:16.411908",
+    "content": "2018 Taşkent Açık, açık sert kortlarda oynanan bir WTA International tenis turnuvasıdır. Taşkent Açık'ın 20. yılı ve 2018 WTA Tour'un bir parçasıdır. 24- 29 Eylül 2018 tarihleri arasında Özbekistan'ın Taşkent şehrindeki Olympic Tennis School'da gerçekleştirildi. == Puanlar ve para ödülü == === Puan dağılımı === === Para ödülü === 1 Elemeleri geçen tenisçilerin para ödülü de son 32 turundaki para ödülüne denktir. * takım başına == Tekler ana tablo == === Seribaşları === 1 Sıralamalar 17 Eylül 2018 tarihine aittir. === Diğer katılanlar === Aşağıdaki oyuncular tekler ana tablosuna wild card aldı: Nigina Abduraimova Anna Kalinskaya Vera Zvonaryova Aşağıdaki oyuncular korunmuş sıralama kullanarak turnuvaya katıldı: Margarita Gasparyan Bojana Jovanovski Petrović Aşağıdaki oyuncular elemeleri geçerek turnuvaya katılmaya hak kazandı: Ivana Jorović Anastasiya Potapova Dejana Radanović Fanny Stollár === Çekilenler === Vitaliya Dyaçenko → yerini Marta Kostyuk aldı Pauline Parmentier → yerini Nao Hibino aldı == Çiftler ana tablo == === Seribaşları === 1 Sıralamalar 17 Eylül 2018 tarihine aittir. === Diğer katılanlar === Aşağıdaki çiftler, çiftler ana tablosuna wild card aldı: Nigina Abduraimova / Anna Kalinskaya Akgül Amanmuradova / Eugenie Bouchard == Şampiyonlar == === Tekler === Margarita Gasparyan yen. Anastasiya Potapova 6-2, 6-1 === Çiftler === Olga Danilović / Tamara Zidanšek yen. Irina-Camelia Begu / Raluca Olaru, 7-5, 6-3 == Dış bağlantılar == Resmî site Şablon:Taşkent Açık turnuvaları",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 218,
+      "char_count": 1507,
+      "num_chunks": 10,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:42.970052",
+    "total_chunks": 10,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 263,
+      "content": "2018 Taşkent Açık, açık sert kortlarda oynanan bir WTA International tenis turnuvasıdır. Taşkent Açık'ın 20. yılı ve 2018 WTA Tour'un bir parçasıdır. 24- 29 Eylül 2018 tarihleri arasında Özbekistan'ın Taşkent şehrindeki Olympic Tennis School'da gerçekleştirildi.",
+      "char_count": 262,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0001",
+      "section": "=== Para ödülü ===",
+      "heading_path": "=== Para ödülü ===",
+      "start_char": 313,
+      "end_char": 431,
+      "content": "=== Para ödülü === 1 Elemeleri geçen tenisçilerin para ödülü de son 32 turundaki para ödülüne denktir. * takım başına",
+      "char_count": 117,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0002",
+      "section": "=== Seribaşları ===",
+      "heading_path": "=== Seribaşları ===",
+      "start_char": 454,
+      "end_char": 519,
+      "content": "=== Seribaşları === 1 Sıralamalar 17 Eylül 2018 tarihine aittir.",
+      "char_count": 64,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0003",
+      "section": "=== Diğer katılanlar ===",
+      "heading_path": "=== Diğer katılanlar ===",
+      "start_char": 519,
+      "end_char": 903,
+      "content": "=== Diğer katılanlar === Aşağıdaki oyuncular tekler ana tablosuna wild card aldı: Nigina Abduraimova Anna Kalinskaya Vera Zvonaryova Aşağıdaki oyuncular korunmuş sıralama kullanarak turnuvaya katıldı: Margarita Gasparyan Bojana Jovanovski Petrović Aşağıdaki oyuncular elemeleri geçerek turnuvaya katılmaya hak kazandı: Ivana Jorović Anastasiya Potapova Dejana Radanović Fanny Stollár",
+      "char_count": 383,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0004",
+      "section": "=== Çekilenler ===",
+      "heading_path": "=== Çekilenler ===",
+      "start_char": 903,
+      "end_char": 1012,
+      "content": "=== Çekilenler === Vitaliya Dyaçenko → yerini Marta Kostyuk aldı Pauline Parmentier → yerini Nao Hibino aldı",
+      "char_count": 108,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0005",
+      "section": "=== Seribaşları ===",
+      "heading_path": "=== Seribaşları ===",
+      "start_char": 1036,
+      "end_char": 1101,
+      "content": "=== Seribaşları === 1 Sıralamalar 17 Eylül 2018 tarihine aittir.",
+      "char_count": 64,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0006",
+      "section": "=== Diğer katılanlar ===",
+      "heading_path": "=== Diğer katılanlar ===",
+      "start_char": 1101,
+      "end_char": 1258,
+      "content": "=== Diğer katılanlar === Aşağıdaki çiftler, çiftler ana tablosuna wild card aldı: Nigina Abduraimova / Anna Kalinskaya Akgül Amanmuradova / Eugenie Bouchard",
+      "char_count": 156,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0007",
+      "section": "=== Tekler ===",
+      "heading_path": "=== Tekler ===",
+      "start_char": 1276,
+      "end_char": 1345,
+      "content": "=== Tekler === Margarita Gasparyan yen. Anastasiya Potapova 6-2, 6-1",
+      "char_count": 68,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0008",
+      "section": "=== Çiftler ===",
+      "heading_path": "=== Çiftler ===",
+      "start_char": 1345,
+      "end_char": 1443,
+      "content": "=== Çiftler === Olga Danilović / Tamara Zidanšek yen. Irina-Camelia Begu / Raluca Olaru, 7-5, 6-3",
+      "char_count": 97,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0009",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1443,
+      "end_char": 1507,
+      "content": "== Dış bağlantılar == Resmî site Şablon:Taşkent Açık turnuvaları",
+      "char_count": 64,
+      "token_estimate": 16
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tekler ana tablosuna wild card alan oyuncular kimlerdir?",
+        "answer": "Nigina Abduraimova, Anna Kalinskaya, Vera Zvonaryova",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "2018 WTA Turu'nun bir parçası olan 2018 Taşkent Açık'ta, elemeleri geçen tenisçiler için para ödülü dağıtımı nasıldır?",
+        "answer": "Elemeleri geçen tenisçilerin para ödülü, son 32 turundaki para ödülüne denktir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

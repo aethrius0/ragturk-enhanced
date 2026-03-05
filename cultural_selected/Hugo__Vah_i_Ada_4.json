@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "hugovahiada4_2bbca072",
+    "title": "Hugo: Vahşi Ada 4",
+    "url": "https://tr.wikipedia.org/wiki/Hugo%3A_Vah%C5%9Fi_Ada_4",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:20.002124",
+    "content": "Hugo: Vahşi Ada 4, ITE Media tarafından geliştirilen ve Windows için yayınlanan 2005 yapımı bir platform video oyunudur. Bu oyunda Balıkçılık, Meyve Çılgınlığı, Jean Paul'ün Parti Grubu, Mağara Dalgıcı ve Sihirli El adlı mini oyunlar yer almaktadır. Oyun 2005 yılında Türkiye'de Türkçe dil seçeneğiyle satışa sunulmuştur. Bu oyun Hugo in the Hut (2000) oyununun Türkiye basımıdır. == Hikâye == Ormandaki her şey sessiz ve huzurluydu. Hatta o kadar sessiz ve huzurluydu ki hayvanlar gerçek bir orman partisiyle bunu kutlamaya karar verdiler. Ancak şimdi, partiden tam bir gün önce her şey birdenbire yanlış gitmeye başladı. Salata için meyve toplamak ve büyük büfe için balık yakalamakla görevli olan tembeller işlerini iyice boşladılar ve Parti Grubu'nun şefi hastalandı. Şimdi partiyi kurtarmaları için Hugo ve arkadaşlarına yardım etmeniz gerekiyor. == Oynanış == Oyun Hugo'nun kulübesinde başlamaktadır. Oradan menüye ve çeşitli seviyelere giriş yapabilirsiniz. Her oyunun başlangıcında, Hugo size ne yapmanız gerektiğini anlatacak. Böylece Büyük Partiye doğru şekilde başlamak için biraz yardım alabilirsiniz. Eğer sabrınız çabuk tükeniyorsa ve hızlıca devam etmek istiyorsanız, boşluk tuşuna basabilirsiniz. Alt sağdaki yıldıza tıklayarak mola da verebilirsiniz. Balıkçılık: Partideki tüm orman hayvanlarının yiyecek bir şeyler yemesi için Hugo'nun balık tutmasına yardım edin. (Fare, sağ ve sol tıkla oynanmaktadır.) Meyve Çılgınlığı: Fernando ile meyve salatası için meyve toplayın. Ancak dallara, kuşlara, yarasalara ve diğer engellere dikkat edin. (Fare ve sol tıkla oynanmaktadır.) Jean Paul'ün Parti Grubu: Doğru tonu bulması için Jean Paul'e yardım etmelisiniz. Böylece herkes harika bir akşam geçirerek bütün gece dans edebilir. (Ok tuşları, Ctrl ve Shift tuşlarıyla oynanmaktadır.) Mağara Dalgıcı: Hugo'ya denizaltındaki mağaraların derinliklerinde ilerlerken, toplayabildiği kadar çok elmas toplaması için yardım etmelisiniz. Fakat tehlikeli denizanalarına ve yılanbalıklarına dikkat etmeniz gerekiyor. Sihirli El: Hugolina'yı ve çocukları özgür bırakmalısınız. Hugo, Sila ve Don Croco'yu küçültecek iksirin olduğu doğru şişeyi bulmanız gerekiyor. == Seslendirme Kadrosu == Türkçe seslendirme Jingle Box Stüdyoları tarafından yapılmıştır. Kayıt işlemi Uluğ Aydeniz, mastering işlemi Murat Oktay, Türkçe tercüme Yamaç Erdil tarafından yapılmıştır. Hugo: Beyti Engin Fernando: Ali Ekber Diribaş Sila: Mine Turgay Hugolina: Mine Turgay Croco: Ahmet Eres Seagull: Ahmet Eres == Ayrıca bakınız == Hugo video oyunlarının listesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 347,
+      "char_count": 2552,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.394002",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 381,
+      "content": "Hugo: Vahşi Ada 4, ITE Media tarafından geliştirilen ve Windows için yayınlanan 2005 yapımı bir platform video oyunudur. Bu oyunda Balıkçılık, Meyve Çılgınlığı, Jean Paul'ün Parti Grubu, Mağara Dalgıcı ve Sihirli El adlı mini oyunlar yer almaktadır. Oyun 2005 yılında Türkiye'de Türkçe dil seçeneğiyle satışa sunulmuştur. Bu oyun Hugo in the Hut (2000) oyununun Türkiye basımıdır.",
+      "char_count": 380,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0001",
+      "section": "== Hikâye ==",
+      "heading_path": "== Hikâye ==",
+      "start_char": 381,
+      "end_char": 852,
+      "content": "== Hikâye == Ormandaki her şey sessiz ve huzurluydu. Hatta o kadar sessiz ve huzurluydu ki hayvanlar gerçek bir orman partisiyle bunu kutlamaya karar verdiler. Ancak şimdi, partiden tam bir gün önce her şey birdenbire yanlış gitmeye başladı. Salata için meyve toplamak ve büyük büfe için balık yakalamakla görevli olan tembeller işlerini iyice boşladılar ve Parti Grubu'nun şefi hastalandı. Şimdi partiyi kurtarmaları için Hugo ve arkadaşlarına yardım etmeniz gerekiyor.",
+      "char_count": 470,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0002",
+      "section": "== Oynanış ==",
+      "heading_path": "== Oynanış ==",
+      "start_char": 852,
+      "end_char": 1852,
+      "content": "== Oynanış == Oyun Hugo'nun kulübesinde başlamaktadır. Oradan menüye ve çeşitli seviyelere giriş yapabilirsiniz. Her oyunun başlangıcında, Hugo size ne yapmanız gerektiğini anlatacak. Böylece Büyük Partiye doğru şekilde başlamak için biraz yardım alabilirsiniz. Eğer sabrınız çabuk tükeniyorsa ve hızlıca devam etmek istiyorsanız, boşluk tuşuna basabilirsiniz. Alt sağdaki yıldıza tıklayarak mola da verebilirsiniz. Balıkçılık: Partideki tüm orman hayvanlarının yiyecek bir şeyler yemesi için Hugo'nun balık tutmasına yardım edin. (Fare, sağ ve sol tıkla oynanmaktadır.) Meyve Çılgınlığı: Fernando ile meyve salatası için meyve toplayın. Ancak dallara, kuşlara, yarasalara ve diğer engellere dikkat edin. (Fare ve sol tıkla oynanmaktadır.) Jean Paul'ün Parti Grubu: Doğru tonu bulması için Jean Paul'e yardım etmelisiniz. Böylece herkes harika bir akşam geçirerek bütün gece dans edebilir. (Ok tuşları, Ctrl ve Shift tuşlarıyla oynanmaktadır.) Mağara Dalgıcı: Hugo'ya denizaltındaki mağaraların derin",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Oynanış ==",
+      "heading_path": "== Oynanış ==",
+      "start_char": 1652,
+      "end_char": 2162,
+      "content": "e yardım etmelisiniz. Böylece herkes harika bir akşam geçirerek bütün gece dans edebilir. (Ok tuşları, Ctrl ve Shift tuşlarıyla oynanmaktadır.) Mağara Dalgıcı: Hugo'ya denizaltındaki mağaraların derinliklerinde ilerlerken, toplayabildiği kadar çok elmas toplaması için yardım etmelisiniz. Fakat tehlikeli denizanalarına ve yılanbalıklarına dikkat etmeniz gerekiyor. Sihirli El: Hugolina'yı ve çocukları özgür bırakmalısınız. Hugo, Sila ve Don Croco'yu küçültecek iksirin olduğu doğru şişeyi bulmanız gerekiyor.",
+      "char_count": 510,
+      "token_estimate": 127
+    },
+    {
+      "id": "c0004",
+      "section": "== Seslendirme Kadrosu ==",
+      "heading_path": "== Seslendirme Kadrosu ==",
+      "start_char": 2163,
+      "end_char": 2486,
+      "content": "== Seslendirme Kadrosu == Türkçe seslendirme Jingle Box Stüdyoları tarafından yapılmıştır. Kayıt işlemi Uluğ Aydeniz, mastering işlemi Murat Oktay, Türkçe tercüme Yamaç Erdil tarafından yapılmıştır. Hugo: Beyti Engin Fernando: Ali Ekber Diribaş Sila: Mine Turgay Hugolina: Mine Turgay Croco: Ahmet Eres Seagull: Ahmet Eres",
+      "char_count": 322,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2486,
+      "end_char": 2538,
+      "content": "== Ayrıca bakınız == Hugo video oyunlarının listesi",
+      "char_count": 51,
+      "token_estimate": 12
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Oyun nerede başlamaktadır?",
+        "answer": "Oyun Hugo'nun kulübesinde başlamaktadır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hugo: Vahşi Ada 4'teki mini oyunlar, orman partisi hazırlıklarında yaşanan sorunları çözme konusunda hangi role sahiptir?",
+        "answer": "Hugo: Vahşi Ada 4'teki mini oyunlar, orman partisi hazırlıklarında ortaya çıkan sorunları doğrudan çözmeyi amaçlar. Hikayede tembellerin meyve toplama ve balık yakalama görevlerini aksatması ve Parti Grubu şefinin hastalanması nedeniyle parti tehlikeye girmiştir. Bu bağlamda, \"Balıkçılık\" mini oyunu partideki tüm orman hayvanları için yiyecek sağlamak amacıyla balık tutmaya yardımcı olurken, \"Meyve Çılgınlığı\" mini oyunu meyve salatası için meyve toplanmasını sağlar. \"Jean Paul'ün Parti Grubu\" mini oyunu ise, herkesin dans edebilmesi için Jean Paul'e doğru tonu bulmasında yardım ederek müzik eksikliğini giderir ve böylece Hugo ve arkadaşları partiyi kurtarır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

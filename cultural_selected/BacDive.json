@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "bacdive_c1d43394",
+    "title": "BacDive",
+    "url": "https://tr.wikipedia.org/wiki/BacDive",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:20.758970",
+    "content": "BacDive (the Bacterial Diversity Metadatabase, Türkçe: Bakteriyel Çeşitlilik Metaveritabanı), bakteriyel ve arkeal biyoçeşitlilik hakkında suş bağlantılı bilgi sağlayan bir bakteriyel metaveritabanıdır. == Giriş == BacDive, taksonomi, morfoloji, fizyoloji, çevre ve moleküler biyoloji gibi farklı türde meta veriler için bir kaynaktır. Verilerin çoğu manuel olarak açıklanmış ve düzenlenmiştir. Aralık 2022'deki sürümle BacDive, 19.313 tip suş dahil olmak üzere 93.254 suş için bilgi sunmaktadır. Veritabanı, Leibniz Enstitüsü DSMZ - German Collection of Microorganisms and Cell Cultures GmbH tarafından barındırılmaktadır ve Alman Biyoinformatik Altyapı Ağı de.NBI'nin yanı sıra Avrupa Biyoinformatik Ağı Elixir'in bir parçasıdır. Aralık 2022'de BacDive, Global Biodata Coalition tarafından Global Core Biodata Resource (GCBR) olarak seçilmiştir. GCBR'ler, yaşam bilimleri ve biyotıp alanındaki küresel araştırma çabaları için kritik veri kaynakları olarak kabul edilmektedir. == İçerik == === Veritabanı === Veri tabanının Aralık sürümü, \"İsim ve taksonomik sınıflandırma\", \"Morfoloji\", \"Kültür ve büyüme koşulları\", \"Fizyoloji ve metabolizma\", \"İzolasyon, örnekleme ve çevresel bilgiler\", \"Güvenlik bilgileri\", \"Dizi bilgileri\" ve \"Suş mevcudiyeti\" kategorilerine ayrılmış 1000'den fazla farklı veri alanını kapsıyordu. Veritabanı, ilgili suş ve referansla bağlantılı 1.922.166 girişten oluşmaktadır. Veriler, kültür koleksiyonlarının dahili açıklamalarından, uzmanlarca derlenen derlemelerden ve tür açıklamaları gibi birincil bilimsel literatürden alınmıştır. === Veri erişimi === Verilere bir GUI veya RESTful web hizmeti aracılığıyla erişilebilir. Kullanıcı GUI'yi kullanarak suşları isim, Kültür koleksiyon numarası, NCBI Vergi Kimliği veya INSDC sekans erişim numarasına göre aramak için basit bir arama arasında seçim yapabilir veya kullanıcı 130 veri alanında arama yapılmasını sağlayan ve birkaç alanı birleştirerek karmaşık sorgulara fırsat veren gelişmiş aramayı kullanabilir. Veriler PDF formatında (tek suşlar için) veya daha büyük veri setleri için CSV formatında (çoklu suşlar için) indirilebilir. RESTful web hizmeti portalı aracılığıyla BacDive içeriğine otomatik olarak erişilebilir (ücretsiz kayıt gereklidir).API kullanımını desteklemek için Python ve R dillerinde yazılım istemcileri mevcuttur. == Diğer veritabanları == BacDive'ın odağı dışında kalan veriler için, suşla ilişkili verileri sağlayan diğer veritabanlarına bağlantılar verilmiştir: SILVA BRENDA LPSN Straininfo.net EBI NCBI MicrobeAtlas == Kaynakça == == Dış bağlantılar == BacDive'da basit arama BacDive'da gelişmiş arama BacDive'daki web hizmetleri 17 Eylül 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 335,
+      "char_count": 2700,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.853440",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 203,
+      "content": "BacDive (the Bacterial Diversity Metadatabase, Türkçe: Bakteriyel Çeşitlilik Metaveritabanı), bakteriyel ve arkeal biyoçeşitlilik hakkında suş bağlantılı bilgi sağlayan bir bakteriyel metaveritabanıdır.",
+      "char_count": 202,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0001",
+      "section": "== Giriş ==",
+      "heading_path": "== Giriş ==",
+      "start_char": 203,
+      "end_char": 978,
+      "content": "== Giriş == BacDive, taksonomi, morfoloji, fizyoloji, çevre ve moleküler biyoloji gibi farklı türde meta veriler için bir kaynaktır. Verilerin çoğu manuel olarak açıklanmış ve düzenlenmiştir. Aralık 2022'deki sürümle BacDive, 19.313 tip suş dahil olmak üzere 93.254 suş için bilgi sunmaktadır. Veritabanı, Leibniz Enstitüsü DSMZ - German Collection of Microorganisms and Cell Cultures GmbH tarafından barındırılmaktadır ve Alman Biyoinformatik Altyapı Ağı de.NBI'nin yanı sıra Avrupa Biyoinformatik Ağı Elixir'in bir parçasıdır. Aralık 2022'de BacDive, Global Biodata Coalition tarafından Global Core Biodata Resource (GCBR) olarak seçilmiştir. GCBR'ler, yaşam bilimleri ve biyotıp alanındaki küresel araştırma çabaları için kritik veri kaynakları olarak kabul edilmektedir.",
+      "char_count": 774,
+      "token_estimate": 193
+    },
+    {
+      "id": "c0002",
+      "section": "=== Veritabanı ===",
+      "heading_path": "=== Veritabanı ===",
+      "start_char": 991,
+      "end_char": 1565,
+      "content": "=== Veritabanı === Veri tabanının Aralık sürümü, \"İsim ve taksonomik sınıflandırma\", \"Morfoloji\", \"Kültür ve büyüme koşulları\", \"Fizyoloji ve metabolizma\", \"İzolasyon, örnekleme ve çevresel bilgiler\", \"Güvenlik bilgileri\", \"Dizi bilgileri\" ve \"Suş mevcudiyeti\" kategorilerine ayrılmış 1000'den fazla farklı veri alanını kapsıyordu. Veritabanı, ilgili suş ve referansla bağlantılı 1.922.166 girişten oluşmaktadır. Veriler, kültür koleksiyonlarının dahili açıklamalarından, uzmanlarca derlenen derlemelerden ve tür açıklamaları gibi birincil bilimsel literatürden alınmıştır.",
+      "char_count": 573,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0003",
+      "section": "=== Veri erişimi ===",
+      "heading_path": "=== Veri erişimi ===",
+      "start_char": 1565,
+      "end_char": 2319,
+      "content": "=== Veri erişimi === Verilere bir GUI veya RESTful web hizmeti aracılığıyla erişilebilir. Kullanıcı GUI'yi kullanarak suşları isim, Kültür koleksiyon numarası, NCBI Vergi Kimliği veya INSDC sekans erişim numarasına göre aramak için basit bir arama arasında seçim yapabilir veya kullanıcı 130 veri alanında arama yapılmasını sağlayan ve birkaç alanı birleştirerek karmaşık sorgulara fırsat veren gelişmiş aramayı kullanabilir. Veriler PDF formatında (tek suşlar için) veya daha büyük veri setleri için CSV formatında (çoklu suşlar için) indirilebilir. RESTful web hizmeti portalı aracılığıyla BacDive içeriğine otomatik olarak erişilebilir (ücretsiz kayıt gereklidir).API kullanımını desteklemek için Python ve R dillerinde yazılım istemcileri mevcuttur.",
+      "char_count": 753,
+      "token_estimate": 188
+    },
+    {
+      "id": "c0004",
+      "section": "== Diğer veritabanları ==",
+      "heading_path": "== Diğer veritabanları ==",
+      "start_char": 2319,
+      "end_char": 2525,
+      "content": "== Diğer veritabanları == BacDive'ın odağı dışında kalan veriler için, suşla ilişkili verileri sağlayan diğer veritabanlarına bağlantılar verilmiştir: SILVA BRENDA LPSN Straininfo.net EBI NCBI MicrobeAtlas",
+      "char_count": 205,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2540,
+      "end_char": 2700,
+      "content": "== Dış bağlantılar == BacDive'da basit arama BacDive'da gelişmiş arama BacDive'daki web hizmetleri 17 Eylül 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 160,
+      "token_estimate": 40
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Aralık 2022 sürümünde BacDive kaç adet suş için bilgi sağlamaktadır?",
+        "answer": "19.313'ü tip suşu olmak üzere toplam 93.254 suş.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "BacDive nedir ve sunduğu kapsamlı bilgilere, titiz veri yönetimine ve aldığı uluslararası tanınmaya dayanarak yaşam bilimleri araştırmaları için neden kritik bir kaynak olarak kabul edilmektedir?",
+        "answer": "BacDive, bakteriyel ve arkeal biyoçeşitlilik hakkında suş bağlantılı bilgi sağlayan bir bakteriyel metaveritabanıdır. Yaşam bilimleri araştırmaları için kritik bir kaynak olarak kabul edilir çünkü taksonomi, morfoloji, fizyoloji ve moleküler biyoloji gibi 1000'den fazla farklı veri alanını kapsayan, 93.254'ten fazla suş için manuel olarak açıklanmış ve düzenlenmiş kapsamlı meta veriler sunar. Ayrıca, Aralık 2022'de Global Biodata Coalition tarafından Global Core Biodata Resource (GCBR) olarak seçilerek küresel araştırma çabaları için önemi uluslararası alanda tanınmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

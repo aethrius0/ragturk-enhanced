@@ -1,0 +1,274 @@
+{
+  "article": {
+    "id": "taraycgvenlii_306ca29d",
+    "title": "Tarayıcı güvenliği",
+    "url": "https://tr.wikipedia.org/wiki/Taray%C4%B1c%C4%B1_g%C3%BCvenli%C4%9Fi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:00.528248",
+    "content": "Tarayıcı güvenliği, ağ bağlantılı verileri ve bilgisayar sistemlerini gizlilik ihlallerinden veya kötü amaçlı yazılımlardan korumak için İnternet güvenliğinin web tarayıcılarına uygulanmasıdır. Tarayıcıların güvenlik açıkları genellikle JavaScript ile bazen Adobe Flash kullanan ikincil bir yüke sahip siteler arası komut dosyası (XSS) kullanır. Güvenlik açıkları ayrıca tüm tarayıcılarda (Mozilla Firefox, Google Chrome, Opera, Microsoft Internet Explorer ve Safari dahil) yaygın olarak kullanılan güvenlik açıklarından (güvenlik açıkları) yararlanabilir.). == Güvenlik == Web tarayıcıları, aşağıdaki yollardan biri veya daha fazlasıyla ihlal edilebilir: İşletim sistemi ihlal edildi ve kötü amaçlı yazılım ayrıcalık modunda tarayıcı bellek alanını okuyor/değiştiriyor İşletim sisteminde, ayrıcalıklı modda tarayıcı bellek alanını okuyan/değiştiren, arka plan işlemi olarak çalışan bir kötü amaçlı yazılım var Yürütülebilir ana tarayıcı hacklenebilir Tarayıcı bileşenleri saldırıya uğramış olabilir Tarayıcı eklentileri saldırıya uğrayabilir Tarayıcı ağ iletişimleri makinenin dışından kesilebilir Tarayıcı, yukarıdaki ihlallerin hiçbirinden haberdar olmayabilir ve kullanıcıya güvenli bir bağlantı yapıldığını gösterebilir. Bir tarayıcı bir web sitesiyle her iletişim kurduğunda, web sitesi bu iletişimin bir parçası olarak tarayıcı hakkında bazı bilgiler toplar (hiç değilse teslim edilecek sayfanın biçimlendirmesini işlemek için). Web sitesinin içeriğine kötü amaçlı kod eklenmişse veya en kötü senaryoda, söz konusu web sitesi özellikle kötü amaçlı kod barındırmak üzere tasarlanmışsa, belirli bir tarayıcıya özgü güvenlik açıkları, bu kötü amaçlı kodun tarayıcı uygulamasında işlemler yürütmesine izin verebilir. istenmeyen şekillerde (ve unutmayın, bir web sitesinin bir tarayıcı iletişiminden topladığı bilgi parçalarından biri de tarayıcının kimliğidir - belirli güvenlik açıklarının kullanılmasına izin verir). Bir saldırgan ziyaretçinin makinesinde işlemler çalıştırabildiğinde, bilinen güvenlik açıklarından yararlanmak saldırganın makinede ve hatta kurbanın tüm ağında çok daha çeşitli kötü amaçlı işlemler ve etkinlikler gerçekleştirmek için \"virüslü\" sisteme ayrıcalıklı erişim (tarayıcı zaten ayrıcalıklı erişimle çalışmıyorsa) elde etmesine olanak sağlayabilir Web tarayıcısı güvenliğinin ihlali genellikle korumaları atlayarak pop-up reklamları görüntülemek, İnternet pazarlaması veya kimlik hırsızlığı için kişisel olarak tanımlanabilir bilgileri (PII) toplamak, web böcekleri, Clickjacking, Likejacking (Facebook'un beğen düğmesinin hedeflendiği yer), HTTP çerezleri, zombi çerezleri veya Flash çerezleri (Yerel Paylaşılan Nesneler veya LSO'lar) gibi araçları kullanarak bir kullanıcı hakkında kendi iradesi dışında web sitesi izleme veya web analizi yapmak amacıyla yapılır; reklam yazılımları, virüsler, Truva atları gibi casus yazılımlar (kırma yoluyla kullanıcıların kişisel bilgisayarlarına erişim sağlamak için) veya tarayıcıdaki adam saldırılarını kullanarak çevrimiçi bankacılık hırsızlığı dahil olmak üzere diğer kötü amaçlı yazılımları yüklemek. Chromium web tarayıcısındaki güvenlik açıklarının derinlemesine incelenmesi, Güvenlik açıklarının en çok ortaya çıkan temel nedenlerinin Improper Input Validation (CWE-20) ve Improper Access Control (CWE-284) olduğunu göstermektedir. Ayrıca, bu çalışma sırasında incelenen güvenlik açıkları arasında, üçüncü taraf kitaplıkların savunmasız sürümlerinin yeniden kullanılması veya içe aktarılması nedeniyle Chromium'da 106 güvenlik açığı meydana geldi. Web tarayıcı yazılımındaki güvenlik açıkları, tarayıcı yazılımı güncel tutularak en aza indirilebilir, ancak temeldeki işletim sisteminin, örneğin bir rootkit tarafından tehlikeye girmesi durumunda yeterli olmayacaktır. Komut dosyası oluşturma, eklentiler ve tanımlama bilgileri gibi tarayıcıların bazı alt bileşenleri özellikle savunmasızdır (\"kafası karışmış vekil sorunu \") ve ayrıca ele alınması gerekir. Derinlemesine savunma ilkesine uygun olarak, tamamen yamalı ve doğru şekilde yapılandırılmış bir tarayıcı, tarayıcıyla ilgili güvenlik sorunlarının ortaya çıkmamasını sağlamak için yeterli olmayabilir. Örneğin, bir rootkit, birisi bir bankacılık web sitesinde oturum açarken tuş vuruşlarını yakalayabilir veya bir web tarayıcısına gelen ve buradan gelen ağ trafiğini değiştirerek ortadaki adam saldırısı gerçekleştirebilir. DNS ele geçirme veya DNS sahtekarlığı, yanlış yazılan web sitesi adları için yanlış pozitifler döndürmek veya popüler arama motorları için arama sonuçlarını bozmak için kullanılabilir. RSPlug gibi kötü amaçlı yazılımlar, yalnızca bir sistemin yapılandırmasını hileli DNS sunucularını işaret edecek şekilde değiştirir. Tarayıcılar, bu saldırılardan bazılarını önlemeye yardımcı olmak için daha güvenli ağ iletişimi yöntemleri kullanabilir: DNS : DNSSec ve DNSCrypt, örneğin Google Public DNS veya OpenDNS gibi varsayılan olmayan DNS sunucularıyla . HTTP : Dijital olarak imzalanmış ortak anahtar sertifikaları veya Genişletilmiş Doğrulama Sertifikaları ile HTTP Secure ve SPDY . Genellikle güvenlik duvarları ve kötü amaçlı web sitelerini engelleyen ve herhangi bir dosya indirme işleminde antivirüs taramaları gerçekleştiren filtreleme proxy sunucularının kullanımı yoluyla çevre savunmaları, büyük kuruluşlarda kötü amaçlı ağ trafiğini bir tarayıcıya ulaşmadan önce engellemek için genellikle en iyi uygulama olarak uygulanır. Tarayıcı güvenliği konusu, görünüşte tarayıcıları ve ağ sistemlerini güvenlik açıkları için test etmek amacıyla tarayıcı güvenliğini ihlal edecek araçları toplamak için platformlar oluşturan The Browser Exploitation Framework Project gibi tüm kuruluşların oluşturulması noktasına kadar büyüdü. === Eklentiler ve uzantılar === Kendi başına tarayıcının bir parçası olmasa da, tarayıcı eklentileri ve uzantıları saldırı yüzeyini genişleterek Adobe Flash Player, Adobe (Acrobat) Reader, Java eklentisi ve ActiveX'te yaygın olarak kullanılan güvenlik açıklarını ortaya çıkarır. Araştırmacılar özellikle tak ve çalıştır tasarımlarına dayanan çeşitli web tarayıcılarının güvenlik mimarisini kapsamlı bir şekilde incelediler. Bu çalışma, 16 yaygın güvenlik açığı türü ve 19 potansiyel hafifletme yöntemi belirlemiştir. Kötü amaçlı yazılım, Internet Explorer durumunda bir tarayıcı yardımcı nesnesi gibi bir tarayıcı uzantısı olarak da uygulanabilir. Orijinal görünmek üzere tasarlanmış ve kötü amaçlı yazılım yüklerini yerlerine indirmek için görsel ipuçları olarak tasarlanmış hileli 'Adobe Flash'ı güncelle' açılır pencerelerini içeren çeşitli diğer istismar web sitelerinde. Google Chrome ve Mozilla Firefox gibi bazı tarayıcılar, güvenli olmayan eklentileri engelleyebilir veya kullanıcıları uyarabilir. === Adobe Flash === Social Science Research Network tarafından Ağustos 2009'da yapılan bir araştırma, Flash kullanan web sitelerinin %50'sinin aynı zamanda Flash tanımlama bilgileri kullandığını, ancak gizlilik politikalarının bunları nadiren ifşa ettiğini ve gizlilik tercihleri için kullanıcı denetimlerinin eksik olduğunu ortaya koydu. Çoğu tarayıcının önbellek ve geçmiş silme işlevleri, Flash Player'ın Yerel Paylaşılan Nesneleri kendi önbelleğine yazmasını etkilemez ve kullanıcı topluluğu, Flash tanımlama bilgilerinin varlığından ve işlevinden HTTP tanımlama bilgilerine göre çok daha az haberdardır. Bu nedenle, HTTP tanımlama bilgilerini silen ve tarayıcı geçmişi dosyalarını ve önbelleklerini temizleyen kullanıcılar, aslında Flash tarama geçmişi kalırken bilgisayarlarındaki tüm izleme verilerini temizlediklerine inanabilirler. Firefox için BetterPrivacy eklentisi, elle kaldırmanın yanı sıra Flash tanımlama bilgilerini de kaldırabilir. Adblock Plus, belirli tehditleri filtrelemek için kullanılabilir ve Flashblock, normalde güvenilen sitelerdeki içeriğe izin vermeden önce bir seçenek sunmak için kullanılabilir. Charlie Miller, CanSecWest bilgisayar güvenliği konferansında \"Flash'ın yüklenmemesini\" önerdi. Diğer birkaç güvenlik uzmanı da Adobe Flash Player'ı yüklememeyi veya engellemeyi önerir. == Parola güvenlik modeli == Bir web sayfasının içeriği isteğe bağlıdır ve adres çubuğunda görüntülenen alan adının sahibi olan varlık tarafından kontrol edilir. HTTPS kullanılıyorsa, ağa erişimi olan saldırganların yol boyunca sayfa içeriğini değiştirmesine karşı koruma sağlamak için şifreleme kullanılır. Bir web sayfasında bir şifre alanı sunulduğunda, kullanıcının adres çubuğundaki alan adının şifreyi göndermek için doğru yer olup olmadığını belirlemek için adres çubuğuna bakması gerekir. Örneğin, Google'ın tek oturum açma sistemi için (örneğin youtube.com'da kullanılır), kullanıcı şifresini girmeden önce her zaman adres çubuğunda \" https://accounts.google.com \" yazdığını kontrol etmelidir. Güvenliğinden ödün verilmemiş bir tarayıcı, adres çubuğunun doğru olduğunu garanti eder. Bu garanti, tarayıcıların genellikle tam ekran moduna girerken adres çubuğunun normalde olacağı yerde bir uyarı görüntülemesinin bir nedenidir, böylece tam ekran bir web sitesi sahte bir adres çubuğuyla sahte bir tarayıcı kullanıcı arabirimi oluşturamaz. == Donanım tarayıcısı == Yazılamaz, salt okunur dosya sistemlerinden çalışan donanım tabanlı tarayıcıları pazarlama girişimleri olmuştur. Veriler cihazda depolanamaz ve ortamın üzerine yazılamaz, bu da her yüklendiğinde temiz bir yürütülebilir dosya sunar. Bu türden ilk cihaz, 2013'ün sonlarında piyasaya sürülen ZeusGard Secure Hardware Browser. ZeusGard web sitesi 2016 yılının ortasından beri çalışmıyor. Başka bir cihaz, iCloak web sitesinden 12 Ocak 2019 tarihinde Wayback Machine sitesinde arşivlendi. iCloak® Stik, bilgisayarın tüm işletim sistemini tamamen değiştiren ve salt okunur sistemden iki web tarayıcısı sunan eksiksiz bir Canlı İşletim Sistemi sağlar. iCloak ile, anonim tarama için Tor tarayıcısının yanı sıra anonim olmayan tarama için normal bir Firefox tarayıcısı sağlarlar. Güvenli olmayan herhangi bir web trafiği (örneğin, https kullanılmayan), yine de ortadaki adam değişikliğine veya diğer ağ trafiğine dayalı manipülasyonlara tabi olabilir. == Canlı CD == Yazılabilir olmayan bir kaynaktan işletim sistemi çalıştıran LiveCD'ler, genellikle varsayılan görüntülerinin bir parçası olarak Web tarayıcılarıyla birlikte gelir. Orijinal LiveCD görüntüsünde kötü amaçlı yazılım yoksa, Web tarayıcısı da dahil olmak üzere kullanılan tüm yazılımlar, LiveCD görüntüsü her başlatıldığında kötü amaçlı yazılımdan arındırılmış olarak yüklenir. == Tarayıcı güçlendirme == En az ayrıcalıklı bir kullanıcı hesabı olarak (yani yönetici ayrıcalıkları olmaksızın) İnternette gezinmek, bir web tarayıcısındaki bir güvenlik açığının tüm işletim sistemini tehlikeye atmasını sınırlar. Internet Explorer 4 ve sonraki sürümleri, ActiveX denetimlerinin, eklentilerinin ve tarayıcı uzantılarının kara listeye alınmasına ve beyaz listeye alınmasına çeşitli şekillerde izin verir. Internet Explorer 7, Windows Vista'nın Zorunlu Bütünlük Denetimi adı verilen bir güvenlik korumalı alan oluşturma özelliğinin uygulanmasıyla tarayıcıyı güçlendiren bir teknoloji olan \"korumalı mod\" ekledi. Google Chrome, işletim sistemine web sayfası erişimini sınırlamak için bir korumalı alan sağlar. Google'a bildirilen ve Google tarafından onaylanan şüpheli kötü amaçlı yazılım siteleri, belirli tarayıcılarda kötü amaçlı yazılım barındırıyor olarak işaretlenir. En yeni tarayıcıları bile güçlendirmek için üçüncü taraf uzantılar ve eklentiler mevcuttur ve bazıları daha eski tarayıcılar ve işletim sistemleri için. NoScript gibi beyaz liste tabanlı yazılımlar, gizliliğe yönelik çoğu saldırıda kullanılan JavaScript ve Adobe Flash'ı engelleyerek kullanıcıların yalnızca güvenli olduğunu bildikleri siteleri seçmelerine olanak tanır - AdBlock Plus ayrıca, hem yazılımın kendisi hem de filtreleme listesi koruyucuları, varsayılan olarak bazı sitelerin önceden ayarlanmış filtreleri geçmesine izin verdiği için tartışma konusu oldu. US-CERT, NoScript kullanarak Flash'ın engellenmesini önerir. == Fuzzing == Modern web tarayıcıları, güvenlik açıklarını ortaya çıkarmak için kapsamlı bir şekilde bulanıklaştırılır. Google Chrome'un Chromium kodu, 15.000 çekirdeğe sahip Chrome Güvenlik Ekibi tarafından sürekli olarak belirsizleştirilir. Microsoft Edge ve Internet Explorer için Microsoft, ürün geliştirme sırasında 670 makine yılı ile bulanık test gerçekleştirerek 1 milyar HTML dosyasından 400 milyardan fazla DOM manipülasyonu oluşturdu. == En iyi yöntem == Temiz yazılım yükleyin: Temiz olduğu bilinen bir Web tarayıcısına sahip olduğu bilinen temiz bir işletim sisteminden önyükleme yapın Kaynaklar Arası Kaynak Paylaşımı (CORS) güvenlik açığına 29 Ocak 2020 tarihinde Wayback Machine sitesinde arşivlendi. karşı yeterli önlemleri alın (örnek yamalar WebKit tabanlı tarayıcılar için sağlanmıştır) Üçüncü taraf yazılımlar aracılığıyla saldırıları önleyin: Güçlendirilmiş bir Web tarayıcısı veya eklentisiz tarama modu kullanın DNS manipülasyonunu önleyin: Güvenilir ve güvenli DNS kullanın Web sitesi tabanlı istismarlardan kaçının: İnternet güvenlik yazılımlarında yaygın olarak bulunan bağlantı denetleme tarayıcı eklentilerini kullanın Kötü amaçlı içerikten kaçının: Çevre savunmaları ve kötü amaçlı yazılımdan koruma yazılımı kullanın == Ayrıca bakınız == Filtre balonu Frame enjeksiyonu Kimlik odaklı ağ İnternet güvenliği Ağ güvenlik politikası Uygulama güvenliği == Kaynakça == == İleri okumalar == \"Browser Security White Paper\" (PDF). X41D SEC GmbH. 19 Eylül 2017. 19 Eylül 2017 tarihinde kaynağından (PDF) arşivlendi. \"Cure53 Browser Security White Paper\" (PDF). Cure53. 29 Kasım 2017. 19 Eylül 2017 tarihinde kaynağından (PDF) arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 1678,
+      "char_count": 13584,
+      "num_chunks": 22,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.175991",
+    "total_chunks": 22,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 559,
+      "content": "Tarayıcı güvenliği, ağ bağlantılı verileri ve bilgisayar sistemlerini gizlilik ihlallerinden veya kötü amaçlı yazılımlardan korumak için İnternet güvenliğinin web tarayıcılarına uygulanmasıdır. Tarayıcıların güvenlik açıkları genellikle JavaScript ile bazen Adobe Flash kullanan ikincil bir yüke sahip siteler arası komut dosyası (XSS) kullanır. Güvenlik açıkları ayrıca tüm tarayıcılarda (Mozilla Firefox, Google Chrome, Opera, Microsoft Internet Explorer ve Safari dahil) yaygın olarak kullanılan güvenlik açıklarından (güvenlik açıkları) yararlanabilir.).",
+      "char_count": 558,
+      "token_estimate": 139
+    },
+    {
+      "id": "c0001",
+      "section": "== Güvenlik ==",
+      "heading_path": "== Güvenlik ==",
+      "start_char": 559,
+      "end_char": 1559,
+      "content": "== Güvenlik == Web tarayıcıları, aşağıdaki yollardan biri veya daha fazlasıyla ihlal edilebilir: İşletim sistemi ihlal edildi ve kötü amaçlı yazılım ayrıcalık modunda tarayıcı bellek alanını okuyor/değiştiriyor İşletim sisteminde, ayrıcalıklı modda tarayıcı bellek alanını okuyan/değiştiren, arka plan işlemi olarak çalışan bir kötü amaçlı yazılım var Yürütülebilir ana tarayıcı hacklenebilir Tarayıcı bileşenleri saldırıya uğramış olabilir Tarayıcı eklentileri saldırıya uğrayabilir Tarayıcı ağ iletişimleri makinenin dışından kesilebilir Tarayıcı, yukarıdaki ihlallerin hiçbirinden haberdar olmayabilir ve kullanıcıya güvenli bir bağlantı yapıldığını gösterebilir. Bir tarayıcı bir web sitesiyle her iletişim kurduğunda, web sitesi bu iletişimin bir parçası olarak tarayıcı hakkında bazı bilgiler toplar (hiç değilse teslim edilecek sayfanın biçimlendirmesini işlemek için). Web sitesinin içeriğine kötü amaçlı kod eklenmişse veya en kötü senaryoda, söz konusu web sitesi özellikle kötü amaçlı kod ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Güvenlik ==",
+      "heading_path": "== Güvenlik ==",
+      "start_char": 1359,
+      "end_char": 2359,
+      "content": "oplar (hiç değilse teslim edilecek sayfanın biçimlendirmesini işlemek için). Web sitesinin içeriğine kötü amaçlı kod eklenmişse veya en kötü senaryoda, söz konusu web sitesi özellikle kötü amaçlı kod barındırmak üzere tasarlanmışsa, belirli bir tarayıcıya özgü güvenlik açıkları, bu kötü amaçlı kodun tarayıcı uygulamasında işlemler yürütmesine izin verebilir. istenmeyen şekillerde (ve unutmayın, bir web sitesinin bir tarayıcı iletişiminden topladığı bilgi parçalarından biri de tarayıcının kimliğidir - belirli güvenlik açıklarının kullanılmasına izin verir). Bir saldırgan ziyaretçinin makinesinde işlemler çalıştırabildiğinde, bilinen güvenlik açıklarından yararlanmak saldırganın makinede ve hatta kurbanın tüm ağında çok daha çeşitli kötü amaçlı işlemler ve etkinlikler gerçekleştirmek için \"virüslü\" sisteme ayrıcalıklı erişim (tarayıcı zaten ayrıcalıklı erişimle çalışmıyorsa) elde etmesine olanak sağlayabilir Web tarayıcısı güvenliğinin ihlali genellikle korumaları atlayarak pop-up reklam",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Güvenlik ==",
+      "heading_path": "== Güvenlik ==",
+      "start_char": 2159,
+      "end_char": 3159,
+      "content": "irüslü\" sisteme ayrıcalıklı erişim (tarayıcı zaten ayrıcalıklı erişimle çalışmıyorsa) elde etmesine olanak sağlayabilir Web tarayıcısı güvenliğinin ihlali genellikle korumaları atlayarak pop-up reklamları görüntülemek, İnternet pazarlaması veya kimlik hırsızlığı için kişisel olarak tanımlanabilir bilgileri (PII) toplamak, web böcekleri, Clickjacking, Likejacking (Facebook'un beğen düğmesinin hedeflendiği yer), HTTP çerezleri, zombi çerezleri veya Flash çerezleri (Yerel Paylaşılan Nesneler veya LSO'lar) gibi araçları kullanarak bir kullanıcı hakkında kendi iradesi dışında web sitesi izleme veya web analizi yapmak amacıyla yapılır; reklam yazılımları, virüsler, Truva atları gibi casus yazılımlar (kırma yoluyla kullanıcıların kişisel bilgisayarlarına erişim sağlamak için) veya tarayıcıdaki adam saldırılarını kullanarak çevrimiçi bankacılık hırsızlığı dahil olmak üzere diğer kötü amaçlı yazılımları yüklemek. Chromium web tarayıcısındaki güvenlik açıklarının derinlemesine incelenmesi, Güven",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Güvenlik ==",
+      "heading_path": "== Güvenlik ==",
+      "start_char": 2959,
+      "end_char": 3959,
+      "content": "am saldırılarını kullanarak çevrimiçi bankacılık hırsızlığı dahil olmak üzere diğer kötü amaçlı yazılımları yüklemek. Chromium web tarayıcısındaki güvenlik açıklarının derinlemesine incelenmesi, Güvenlik açıklarının en çok ortaya çıkan temel nedenlerinin Improper Input Validation (CWE-20) ve Improper Access Control (CWE-284) olduğunu göstermektedir. Ayrıca, bu çalışma sırasında incelenen güvenlik açıkları arasında, üçüncü taraf kitaplıkların savunmasız sürümlerinin yeniden kullanılması veya içe aktarılması nedeniyle Chromium'da 106 güvenlik açığı meydana geldi. Web tarayıcı yazılımındaki güvenlik açıkları, tarayıcı yazılımı güncel tutularak en aza indirilebilir, ancak temeldeki işletim sisteminin, örneğin bir rootkit tarafından tehlikeye girmesi durumunda yeterli olmayacaktır. Komut dosyası oluşturma, eklentiler ve tanımlama bilgileri gibi tarayıcıların bazı alt bileşenleri özellikle savunmasızdır (\"kafası karışmış vekil sorunu \") ve ayrıca ele alınması gerekir. Derinlemesine savunma i",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Güvenlik ==",
+      "heading_path": "== Güvenlik ==",
+      "start_char": 3759,
+      "end_char": 4759,
+      "content": "ı oluşturma, eklentiler ve tanımlama bilgileri gibi tarayıcıların bazı alt bileşenleri özellikle savunmasızdır (\"kafası karışmış vekil sorunu \") ve ayrıca ele alınması gerekir. Derinlemesine savunma ilkesine uygun olarak, tamamen yamalı ve doğru şekilde yapılandırılmış bir tarayıcı, tarayıcıyla ilgili güvenlik sorunlarının ortaya çıkmamasını sağlamak için yeterli olmayabilir. Örneğin, bir rootkit, birisi bir bankacılık web sitesinde oturum açarken tuş vuruşlarını yakalayabilir veya bir web tarayıcısına gelen ve buradan gelen ağ trafiğini değiştirerek ortadaki adam saldırısı gerçekleştirebilir. DNS ele geçirme veya DNS sahtekarlığı, yanlış yazılan web sitesi adları için yanlış pozitifler döndürmek veya popüler arama motorları için arama sonuçlarını bozmak için kullanılabilir. RSPlug gibi kötü amaçlı yazılımlar, yalnızca bir sistemin yapılandırmasını hileli DNS sunucularını işaret edecek şekilde değiştirir. Tarayıcılar, bu saldırılardan bazılarını önlemeye yardımcı olmak için daha güvenl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "== Güvenlik ==",
+      "heading_path": "== Güvenlik ==",
+      "start_char": 4559,
+      "end_char": 5559,
+      "content": "tü amaçlı yazılımlar, yalnızca bir sistemin yapılandırmasını hileli DNS sunucularını işaret edecek şekilde değiştirir. Tarayıcılar, bu saldırılardan bazılarını önlemeye yardımcı olmak için daha güvenli ağ iletişimi yöntemleri kullanabilir: DNS : DNSSec ve DNSCrypt, örneğin Google Public DNS veya OpenDNS gibi varsayılan olmayan DNS sunucularıyla . HTTP : Dijital olarak imzalanmış ortak anahtar sertifikaları veya Genişletilmiş Doğrulama Sertifikaları ile HTTP Secure ve SPDY . Genellikle güvenlik duvarları ve kötü amaçlı web sitelerini engelleyen ve herhangi bir dosya indirme işleminde antivirüs taramaları gerçekleştiren filtreleme proxy sunucularının kullanımı yoluyla çevre savunmaları, büyük kuruluşlarda kötü amaçlı ağ trafiğini bir tarayıcıya ulaşmadan önce engellemek için genellikle en iyi uygulama olarak uygulanır. Tarayıcı güvenliği konusu, görünüşte tarayıcıları ve ağ sistemlerini güvenlik açıkları için test etmek amacıyla tarayıcı güvenliğini ihlal edecek araçları toplamak için pl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "== Güvenlik ==",
+      "heading_path": "== Güvenlik ==",
+      "start_char": 5359,
+      "end_char": 5681,
+      "content": "i uygulama olarak uygulanır. Tarayıcı güvenliği konusu, görünüşte tarayıcıları ve ağ sistemlerini güvenlik açıkları için test etmek amacıyla tarayıcı güvenliğini ihlal edecek araçları toplamak için platformlar oluşturan The Browser Exploitation Framework Project gibi tüm kuruluşların oluşturulması noktasına kadar büyüdü.",
+      "char_count": 322,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0008",
+      "section": "=== Eklentiler ve uzantılar ===",
+      "heading_path": "=== Eklentiler ve uzantılar ===",
+      "start_char": 5682,
+      "end_char": 6682,
+      "content": "=== Eklentiler ve uzantılar === Kendi başına tarayıcının bir parçası olmasa da, tarayıcı eklentileri ve uzantıları saldırı yüzeyini genişleterek Adobe Flash Player, Adobe (Acrobat) Reader, Java eklentisi ve ActiveX'te yaygın olarak kullanılan güvenlik açıklarını ortaya çıkarır. Araştırmacılar özellikle tak ve çalıştır tasarımlarına dayanan çeşitli web tarayıcılarının güvenlik mimarisini kapsamlı bir şekilde incelediler. Bu çalışma, 16 yaygın güvenlik açığı türü ve 19 potansiyel hafifletme yöntemi belirlemiştir. Kötü amaçlı yazılım, Internet Explorer durumunda bir tarayıcı yardımcı nesnesi gibi bir tarayıcı uzantısı olarak da uygulanabilir. Orijinal görünmek üzere tasarlanmış ve kötü amaçlı yazılım yüklerini yerlerine indirmek için görsel ipuçları olarak tasarlanmış hileli 'Adobe Flash'ı güncelle' açılır pencerelerini içeren çeşitli diğer istismar web sitelerinde. Google Chrome ve Mozilla Firefox gibi bazı tarayıcılar, güvenli olmayan eklentileri engelleyebilir veya kullanıcıları uyarab",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0009",
+      "section": "=== Eklentiler ve uzantılar ===",
+      "heading_path": "=== Eklentiler ve uzantılar ===",
+      "start_char": 6482,
+      "end_char": 6687,
+      "content": "ncelle' açılır pencerelerini içeren çeşitli diğer istismar web sitelerinde. Google Chrome ve Mozilla Firefox gibi bazı tarayıcılar, güvenli olmayan eklentileri engelleyebilir veya kullanıcıları uyarabilir.",
+      "char_count": 205,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0010",
+      "section": "=== Adobe Flash ===",
+      "heading_path": "=== Adobe Flash ===",
+      "start_char": 6688,
+      "end_char": 7688,
+      "content": "=== Adobe Flash === Social Science Research Network tarafından Ağustos 2009'da yapılan bir araştırma, Flash kullanan web sitelerinin %50'sinin aynı zamanda Flash tanımlama bilgileri kullandığını, ancak gizlilik politikalarının bunları nadiren ifşa ettiğini ve gizlilik tercihleri için kullanıcı denetimlerinin eksik olduğunu ortaya koydu. Çoğu tarayıcının önbellek ve geçmiş silme işlevleri, Flash Player'ın Yerel Paylaşılan Nesneleri kendi önbelleğine yazmasını etkilemez ve kullanıcı topluluğu, Flash tanımlama bilgilerinin varlığından ve işlevinden HTTP tanımlama bilgilerine göre çok daha az haberdardır. Bu nedenle, HTTP tanımlama bilgilerini silen ve tarayıcı geçmişi dosyalarını ve önbelleklerini temizleyen kullanıcılar, aslında Flash tarama geçmişi kalırken bilgisayarlarındaki tüm izleme verilerini temizlediklerine inanabilirler. Firefox için BetterPrivacy eklentisi, elle kaldırmanın yanı sıra Flash tanımlama bilgilerini de kaldırabilir. Adblock Plus, belirli tehditleri filtrelemek için",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0011",
+      "section": "=== Adobe Flash ===",
+      "heading_path": "=== Adobe Flash ===",
+      "start_char": 7488,
+      "end_char": 8002,
+      "content": "rilerini temizlediklerine inanabilirler. Firefox için BetterPrivacy eklentisi, elle kaldırmanın yanı sıra Flash tanımlama bilgilerini de kaldırabilir. Adblock Plus, belirli tehditleri filtrelemek için kullanılabilir ve Flashblock, normalde güvenilen sitelerdeki içeriğe izin vermeden önce bir seçenek sunmak için kullanılabilir. Charlie Miller, CanSecWest bilgisayar güvenliği konferansında \"Flash'ın yüklenmemesini\" önerdi. Diğer birkaç güvenlik uzmanı da Adobe Flash Player'ı yüklememeyi veya engellemeyi önerir.",
+      "char_count": 514,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0012",
+      "section": "== Parola güvenlik modeli ==",
+      "heading_path": "== Parola güvenlik modeli ==",
+      "start_char": 8003,
+      "end_char": 9003,
+      "content": "== Parola güvenlik modeli == Bir web sayfasının içeriği isteğe bağlıdır ve adres çubuğunda görüntülenen alan adının sahibi olan varlık tarafından kontrol edilir. HTTPS kullanılıyorsa, ağa erişimi olan saldırganların yol boyunca sayfa içeriğini değiştirmesine karşı koruma sağlamak için şifreleme kullanılır. Bir web sayfasında bir şifre alanı sunulduğunda, kullanıcının adres çubuğundaki alan adının şifreyi göndermek için doğru yer olup olmadığını belirlemek için adres çubuğuna bakması gerekir. Örneğin, Google'ın tek oturum açma sistemi için (örneğin youtube.com'da kullanılır), kullanıcı şifresini girmeden önce her zaman adres çubuğunda \" https://accounts.google.com \" yazdığını kontrol etmelidir. Güvenliğinden ödün verilmemiş bir tarayıcı, adres çubuğunun doğru olduğunu garanti eder. Bu garanti, tarayıcıların genellikle tam ekran moduna girerken adres çubuğunun normalde olacağı yerde bir uyarı görüntülemesinin bir nedenidir, böylece tam ekran bir web sitesi sahte bir adres çubuğuyla sahte",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0013",
+      "section": "== Parola güvenlik modeli ==",
+      "heading_path": "== Parola güvenlik modeli ==",
+      "start_char": 8803,
+      "end_char": 9049,
+      "content": "ti, tarayıcıların genellikle tam ekran moduna girerken adres çubuğunun normalde olacağı yerde bir uyarı görüntülemesinin bir nedenidir, böylece tam ekran bir web sitesi sahte bir adres çubuğuyla sahte bir tarayıcı kullanıcı arabirimi oluşturamaz.",
+      "char_count": 246,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0014",
+      "section": "== Donanım tarayıcısı ==",
+      "heading_path": "== Donanım tarayıcısı ==",
+      "start_char": 9050,
+      "end_char": 10019,
+      "content": "== Donanım tarayıcısı == Yazılamaz, salt okunur dosya sistemlerinden çalışan donanım tabanlı tarayıcıları pazarlama girişimleri olmuştur. Veriler cihazda depolanamaz ve ortamın üzerine yazılamaz, bu da her yüklendiğinde temiz bir yürütülebilir dosya sunar. Bu türden ilk cihaz, 2013'ün sonlarında piyasaya sürülen ZeusGard Secure Hardware Browser. ZeusGard web sitesi 2016 yılının ortasından beri çalışmıyor. Başka bir cihaz, iCloak web sitesinden 12 Ocak 2019 tarihinde Wayback Machine sitesinde arşivlendi. iCloak® Stik, bilgisayarın tüm işletim sistemini tamamen değiştiren ve salt okunur sistemden iki web tarayıcısı sunan eksiksiz bir Canlı İşletim Sistemi sağlar. iCloak ile, anonim tarama için Tor tarayıcısının yanı sıra anonim olmayan tarama için normal bir Firefox tarayıcısı sağlarlar. Güvenli olmayan herhangi bir web trafiği (örneğin, https kullanılmayan), yine de ortadaki adam değişikliğine veya diğer ağ trafiğine dayalı manipülasyonlara tabi olabilir.",
+      "char_count": 968,
+      "token_estimate": 242
+    },
+    {
+      "id": "c0015",
+      "section": "== Canlı CD ==",
+      "heading_path": "== Canlı CD ==",
+      "start_char": 10019,
+      "end_char": 10408,
+      "content": "== Canlı CD == Yazılabilir olmayan bir kaynaktan işletim sistemi çalıştıran LiveCD'ler, genellikle varsayılan görüntülerinin bir parçası olarak Web tarayıcılarıyla birlikte gelir. Orijinal LiveCD görüntüsünde kötü amaçlı yazılım yoksa, Web tarayıcısı da dahil olmak üzere kullanılan tüm yazılımlar, LiveCD görüntüsü her başlatıldığında kötü amaçlı yazılımdan arındırılmış olarak yüklenir.",
+      "char_count": 388,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0016",
+      "section": "== Tarayıcı güçlendirme ==",
+      "heading_path": "== Tarayıcı güçlendirme ==",
+      "start_char": 10408,
+      "end_char": 11408,
+      "content": "== Tarayıcı güçlendirme == En az ayrıcalıklı bir kullanıcı hesabı olarak (yani yönetici ayrıcalıkları olmaksızın) İnternette gezinmek, bir web tarayıcısındaki bir güvenlik açığının tüm işletim sistemini tehlikeye atmasını sınırlar. Internet Explorer 4 ve sonraki sürümleri, ActiveX denetimlerinin, eklentilerinin ve tarayıcı uzantılarının kara listeye alınmasına ve beyaz listeye alınmasına çeşitli şekillerde izin verir. Internet Explorer 7, Windows Vista'nın Zorunlu Bütünlük Denetimi adı verilen bir güvenlik korumalı alan oluşturma özelliğinin uygulanmasıyla tarayıcıyı güçlendiren bir teknoloji olan \"korumalı mod\" ekledi. Google Chrome, işletim sistemine web sayfası erişimini sınırlamak için bir korumalı alan sağlar. Google'a bildirilen ve Google tarafından onaylanan şüpheli kötü amaçlı yazılım siteleri, belirli tarayıcılarda kötü amaçlı yazılım barındırıyor olarak işaretlenir. En yeni tarayıcıları bile güçlendirmek için üçüncü taraf uzantılar ve eklentiler mevcuttur ve bazıları daha esk",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0017",
+      "section": "== Tarayıcı güçlendirme ==",
+      "heading_path": "== Tarayıcı güçlendirme ==",
+      "start_char": 11208,
+      "end_char": 11925,
+      "content": "lım siteleri, belirli tarayıcılarda kötü amaçlı yazılım barındırıyor olarak işaretlenir. En yeni tarayıcıları bile güçlendirmek için üçüncü taraf uzantılar ve eklentiler mevcuttur ve bazıları daha eski tarayıcılar ve işletim sistemleri için. NoScript gibi beyaz liste tabanlı yazılımlar, gizliliğe yönelik çoğu saldırıda kullanılan JavaScript ve Adobe Flash'ı engelleyerek kullanıcıların yalnızca güvenli olduğunu bildikleri siteleri seçmelerine olanak tanır - AdBlock Plus ayrıca, hem yazılımın kendisi hem de filtreleme listesi koruyucuları, varsayılan olarak bazı sitelerin önceden ayarlanmış filtreleri geçmesine izin verdiği için tartışma konusu oldu. US-CERT, NoScript kullanarak Flash'ın engellenmesini önerir.",
+      "char_count": 717,
+      "token_estimate": 179
+    },
+    {
+      "id": "c0018",
+      "section": "== Fuzzing ==",
+      "heading_path": "== Fuzzing ==",
+      "start_char": 11926,
+      "end_char": 12372,
+      "content": "== Fuzzing == Modern web tarayıcıları, güvenlik açıklarını ortaya çıkarmak için kapsamlı bir şekilde bulanıklaştırılır. Google Chrome'un Chromium kodu, 15.000 çekirdeğe sahip Chrome Güvenlik Ekibi tarafından sürekli olarak belirsizleştirilir. Microsoft Edge ve Internet Explorer için Microsoft, ürün geliştirme sırasında 670 makine yılı ile bulanık test gerçekleştirerek 1 milyar HTML dosyasından 400 milyardan fazla DOM manipülasyonu oluşturdu.",
+      "char_count": 445,
+      "token_estimate": 111
+    },
+    {
+      "id": "c0019",
+      "section": "== En iyi yöntem ==",
+      "heading_path": "== En iyi yöntem ==",
+      "start_char": 12372,
+      "end_char": 13174,
+      "content": "== En iyi yöntem == Temiz yazılım yükleyin: Temiz olduğu bilinen bir Web tarayıcısına sahip olduğu bilinen temiz bir işletim sisteminden önyükleme yapın Kaynaklar Arası Kaynak Paylaşımı (CORS) güvenlik açığına 29 Ocak 2020 tarihinde Wayback Machine sitesinde arşivlendi. karşı yeterli önlemleri alın (örnek yamalar WebKit tabanlı tarayıcılar için sağlanmıştır) Üçüncü taraf yazılımlar aracılığıyla saldırıları önleyin: Güçlendirilmiş bir Web tarayıcısı veya eklentisiz tarama modu kullanın DNS manipülasyonunu önleyin: Güvenilir ve güvenli DNS kullanın Web sitesi tabanlı istismarlardan kaçının: İnternet güvenlik yazılımlarında yaygın olarak bulunan bağlantı denetleme tarayıcı eklentilerini kullanın Kötü amaçlı içerikten kaçının: Çevre savunmaları ve kötü amaçlı yazılımdan koruma yazılımı kullanın",
+      "char_count": 801,
+      "token_estimate": 200
+    },
+    {
+      "id": "c0020",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 13174,
+      "end_char": 13305,
+      "content": "== Ayrıca bakınız == Filtre balonu Frame enjeksiyonu Kimlik odaklı ağ İnternet güvenliği Ağ güvenlik politikası Uygulama güvenliği",
+      "char_count": 130,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0021",
+      "section": "== İleri okumalar ==",
+      "heading_path": "== İleri okumalar ==",
+      "start_char": 13320,
+      "end_char": 13584,
+      "content": "== İleri okumalar == \"Browser Security White Paper\" (PDF). X41D SEC GmbH. 19 Eylül 2017. 19 Eylül 2017 tarihinde kaynağından (PDF) arşivlendi. \"Cure53 Browser Security White Paper\" (PDF). Cure53. 29 Kasım 2017. 19 Eylül 2017 tarihinde kaynağından (PDF) arşivlendi.",
+      "char_count": 264,
+      "token_estimate": 66
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Web tarayıcıları hangi yollarla ihlal edilebilir?",
+        "answer": "Web tarayıcıları, işletim sistemi ihlal edildiğinde, ayrıcalıklı modda tarayıcı bellek alanını okuyan/değiştiren arka plan kötü amaçlı yazılımları olduğunda, yürütülebilir ana tarayıcının veya tarayıcı bileşenlerinin/eklentilerinin saldırıya uğramasıyla, tarayıcı ağ iletişimlerinin kesilmesiyle veya web sitesi içeriğine kötü amaçlı kod eklenmesiyle ihlal edilebilirler.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Web tarayıcısı güvenliği, siteler arası komut dosyası gibi güvenlik açıklarını kullanarak veya diğer yollarla nasıl ihlal edilebilir ve bu ihlaller bir saldırganın kurbanın sisteminde neler yapmasına olanak tanır?",
+        "answer": "Tarayıcı güvenliği, genellikle JavaScript kullanan siteler arası komut dosyası (XSS) gibi güvenlik açıklarından veya tüm tarayıcılarda yaygın olarak kullanılan diğer zafiyetlerden yararlanılarak ihlal edilebilir. Ayrıca, işletim sistemi ihlal edildiğinde kötü amaçlı yazılımlar tarayıcı bellek alanını okuyup değiştirebilir, ana tarayıcı veya bileşenleri/eklentileri saldırıya uğrayabilir ya da tarayıcı ağ iletişimleri kesilebilir. Bir web sitesi, iletişim sırasında tarayıcı hakkında bilgi toplayarak ve içeriğine kötü amaçlı kod ekleyerek belirli tarayıcı güvenlik açıklarını kullanabilir. Bu ihlaller, saldırganın ziyaretçinin makinesinde işlemler yürütmesine ve \"virüslü\" sistemde ayrıcalıklı erişim elde ederek makinede ve hatta kurbanın tüm ağında çeşitli kötü amaçlı işlemler ve etkinlikler gerçekleştirmesine olanak tanır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

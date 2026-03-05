@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "linz_a0b431c6",
+    "title": "Linz",
+    "url": "https://tr.wikipedia.org/wiki/Linz",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:56.009103",
+    "content": "Linz, Avusturya'nın kuzeybatısında Tuna Nehri yanında yer alan bir şehir. Yukarı Avusturya eyaletinin başkentidir. Linz, 48° 18′ 11″ K, 14° 17′ 26″ D koordinatlarında yer alır. Yüzölçümü 96 km²'dir. Şehir nüfusu 204.846'dır, fakat civarındaki kasabalar ve banliyölerle 789.811'i bulmaktadır (2017). == Tarihçe == Şehir, Lentia adını veren Romalılar tarafından kuruldu. Linz şehrinin (eski Lentia) bir ticaret fuarı olarak geçen ilk bilgileri 788'den kalmadır. Yolların kavşağında elverişli konumu nedeniyle, Tuna Nehri üzerindeki şehir, onuncu yüzyıldan beri önemli bir ticaret merkezi haline gelmiştir. İlk başta, Bavyera Babenbergs'e aitti. Ancak sonunda, Linz ve Yukarı Avusturya, burada bir konut inşa eden Habsburg Evi'nin mülkiyetine geçti. Besteci Wolfgang Amadeus Mozart 36. Senfoni'yi (1783) burada gerçekleşecek bir konser için Linz'de yazdı ve eser bugün Linz Senfonisi olarak biliniyor. Anton Bruckner'ın Do minör Senfoni 1'inin ilk versiyonu Linz'in versiyonu olarak bilinir. Adolf Hitler, Linz'deki okula (\"Fadingergymnasium\") gitti, ancak bitirmeden önce ayrıldı ve Steyr, Yukarı Avusturya'da bir okula geçti. == Mahalleler == Linz'in 12 mahallesi vardır: Ebelsberg Pichling Neue Heimat Kleinmünchen, Scharlinz Franckviertel, Hafenviertel Bindermichl, Spallerhof, Oed Bulgariplatz Freinberg, Froschberg, Bahnhofsviertel Linz-Zentrum Uhrfahr-Zentrum, Pöstlingberg Dornach, Auhof, Magdalena Gründberg, Harbach, Heilham == Siyaset == === Belediye Başkanı === 2013'ten beri Linz'in belediye başkanı Klaus Luger'dir. === Belediye Meclisi === SPÖ 26 ÖVP 17 FPÖ 9 Yeşiller 7 KPÖ 1 BZÖ 1 == Konuşulan diller == Almanca %84,4 Türkçe %3,4 Sırpça %2,4 Hırvatça %2,1 == Kardeş şehirler == Eskişehir, Türkiye == Kaynakça == == Dış bağlantılar == Linz Resimleri 8 Şubat 2010 tarihinde Wayback Machine sitesinde arşivlendi. Linz Linz 360° Virtual Tours Linz 360° Photo 21 Aralık 2007 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 263,
+      "char_count": 1931,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.524909",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 299,
+      "content": "Linz, Avusturya'nın kuzeybatısında Tuna Nehri yanında yer alan bir şehir. Yukarı Avusturya eyaletinin başkentidir. Linz, 48° 18′ 11″ K, 14° 17′ 26″ D koordinatlarında yer alır. Yüzölçümü 96 km²'dir. Şehir nüfusu 204.846'dır, fakat civarındaki kasabalar ve banliyölerle 789.811'i bulmaktadır (2017).",
+      "char_count": 298,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 299,
+      "end_char": 1125,
+      "content": "== Tarihçe == Şehir, Lentia adını veren Romalılar tarafından kuruldu. Linz şehrinin (eski Lentia) bir ticaret fuarı olarak geçen ilk bilgileri 788'den kalmadır. Yolların kavşağında elverişli konumu nedeniyle, Tuna Nehri üzerindeki şehir, onuncu yüzyıldan beri önemli bir ticaret merkezi haline gelmiştir. İlk başta, Bavyera Babenbergs'e aitti. Ancak sonunda, Linz ve Yukarı Avusturya, burada bir konut inşa eden Habsburg Evi'nin mülkiyetine geçti. Besteci Wolfgang Amadeus Mozart 36. Senfoni'yi (1783) burada gerçekleşecek bir konser için Linz'de yazdı ve eser bugün Linz Senfonisi olarak biliniyor. Anton Bruckner'ın Do minör Senfoni 1'inin ilk versiyonu Linz'in versiyonu olarak bilinir. Adolf Hitler, Linz'deki okula (\"Fadingergymnasium\") gitti, ancak bitirmeden önce ayrıldı ve Steyr, Yukarı Avusturya'da bir okula geçti.",
+      "char_count": 825,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0002",
+      "section": "== Mahalleler ==",
+      "heading_path": "== Mahalleler ==",
+      "start_char": 1125,
+      "end_char": 1432,
+      "content": "== Mahalleler == Linz'in 12 mahallesi vardır: Ebelsberg Pichling Neue Heimat Kleinmünchen, Scharlinz Franckviertel, Hafenviertel Bindermichl, Spallerhof, Oed Bulgariplatz Freinberg, Froschberg, Bahnhofsviertel Linz-Zentrum Uhrfahr-Zentrum, Pöstlingberg Dornach, Auhof, Magdalena Gründberg, Harbach, Heilham",
+      "char_count": 306,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0003",
+      "section": "=== Belediye Başkanı ===",
+      "heading_path": "=== Belediye Başkanı ===",
+      "start_char": 1446,
+      "end_char": 1527,
+      "content": "=== Belediye Başkanı === 2013'ten beri Linz'in belediye başkanı Klaus Luger'dir.",
+      "char_count": 80,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0004",
+      "section": "=== Belediye Meclisi ===",
+      "heading_path": "=== Belediye Meclisi ===",
+      "start_char": 1527,
+      "end_char": 1595,
+      "content": "=== Belediye Meclisi === SPÖ 26 ÖVP 17 FPÖ 9 Yeşiller 7 KPÖ 1 BZÖ 1",
+      "char_count": 67,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0005",
+      "section": "== Konuşulan diller ==",
+      "heading_path": "== Konuşulan diller ==",
+      "start_char": 1595,
+      "end_char": 1670,
+      "content": "== Konuşulan diller == Almanca %84,4 Türkçe %3,4 Sırpça %2,4 Hırvatça %2,1",
+      "char_count": 74,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0006",
+      "section": "== Kardeş şehirler ==",
+      "heading_path": "== Kardeş şehirler ==",
+      "start_char": 1670,
+      "end_char": 1711,
+      "content": "== Kardeş şehirler == Eskişehir, Türkiye",
+      "char_count": 40,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1726,
+      "end_char": 1931,
+      "content": "== Dış bağlantılar == Linz Resimleri 8 Şubat 2010 tarihinde Wayback Machine sitesinde arşivlendi. Linz Linz 360° Virtual Tours Linz 360° Photo 21 Aralık 2007 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 205,
+      "token_estimate": 51
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Linz şehrinin bir ticaret fuarı olarak geçen ilk bilgileri hangi yıldan kalmadır?",
+        "answer": "788",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Linz'in coğrafi konumu, şehrin tarihi gelişimini ve ticari önemini nasıl etkilemiştir?",
+        "answer": "Linz'in Avusturya'nın kuzeybatısında Tuna Nehri yanında elverişli bir konumda yer alması ve yolların kavşağında bulunması, şehrin onuncu yüzyıldan itibaren önemli bir ticaret merkezi haline gelmesinde etkili olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

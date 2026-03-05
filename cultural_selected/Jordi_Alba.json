@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "jordialba_24a3ae9a",
+    "title": "Jordi Alba",
+    "url": "https://tr.wikipedia.org/wiki/Jordi_Alba",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:01.000779",
+    "content": "Jordi Alba Ramos (d. 21 Mart 1989), MLS takımlarından Inter Miami'de oynayan İspanyol futbolcudur. Sol bek pozisyonunda oynamakta olup, geçmişte asıl pozisyonu orta sahanın soluydu. 2012 Avrupa Şampiyonası'nda gösterdiği performansla Barcelona'ya transfer olmuştur. == Futbol kariyeri == Katalonya'nın Barselona bölgesine bağlı L'Hospitalet de Llobregat'ta doğdu. Futbola doğduğu yerde yani Barcelona altyapısında başladı, ama 2006'da Valencia'ya transfer oldu. Yeni takımında profesyonel oldu. Oynadığı ilk profesyonel resmi maça 2008-09 sezonunda çıktı ve ikinci lig takımlarından CG Tarragona'ya kiralandı. Alba burada bir sezon mücadele ettikten sonra yeniden eski takımına döndü ve burada ilk maçını 13 Eylül 2009'da Valladolid'e karşı 4-2 kazandıkları maçta oynadı. Daha sonra ise UEFA Avrupa Ligi'nde Lille ve Slavia Praha'ye karşı forma giydi. 2012-2013 sezonu öncesi Barcelona'ya 14 milyon € bonservis ücreti karşılığında transfer olmuş, 5 senelik sözleşme imzalamıştır. Barcelona formasıyla 6 kez La Liga'yı, 1 kez UEFA Şampiyonlar Ligi'ni ve 1 kez FIFA Kulüpler Dünya Kupası'nı kazanmıştır. 2023 yılında Barcelona'dan ayrılıp Major League Soccer kulübü Inter Miami'ye transfer olmuştur. == Kaynakça == == Dış bağlantılar == Valencia resmi profili 27 Mart 2012 tarihinde Wayback Machine sitesinde arşivlendi. (Katalanca) BDFutbol profili18 Eylül 2012 tarihinde Wayback Machine sitesinde arşivlendi. Transfermarkt'ta Jordi Alba Ciberche biyografisi12 Mart 2014 tarihinde Wayback Machine sitesinde arşivlendi. (İspanyolca) FIFA.com'da Jordi Alba",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1553,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.227124",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 266,
+      "content": "Jordi Alba Ramos (d. 21 Mart 1989), MLS takımlarından Inter Miami'de oynayan İspanyol futbolcudur. Sol bek pozisyonunda oynamakta olup, geçmişte asıl pozisyonu orta sahanın soluydu. 2012 Avrupa Şampiyonası'nda gösterdiği performansla Barcelona'ya transfer olmuştur.",
+      "char_count": 265,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0001",
+      "section": "== Futbol kariyeri ==",
+      "heading_path": "== Futbol kariyeri ==",
+      "start_char": 266,
+      "end_char": 1198,
+      "content": "== Futbol kariyeri == Katalonya'nın Barselona bölgesine bağlı L'Hospitalet de Llobregat'ta doğdu. Futbola doğduğu yerde yani Barcelona altyapısında başladı, ama 2006'da Valencia'ya transfer oldu. Yeni takımında profesyonel oldu. Oynadığı ilk profesyonel resmi maça 2008-09 sezonunda çıktı ve ikinci lig takımlarından CG Tarragona'ya kiralandı. Alba burada bir sezon mücadele ettikten sonra yeniden eski takımına döndü ve burada ilk maçını 13 Eylül 2009'da Valladolid'e karşı 4-2 kazandıkları maçta oynadı. Daha sonra ise UEFA Avrupa Ligi'nde Lille ve Slavia Praha'ye karşı forma giydi. 2012-2013 sezonu öncesi Barcelona'ya 14 milyon € bonservis ücreti karşılığında transfer olmuş, 5 senelik sözleşme imzalamıştır. Barcelona formasıyla 6 kez La Liga'yı, 1 kez UEFA Şampiyonlar Ligi'ni ve 1 kez FIFA Kulüpler Dünya Kupası'nı kazanmıştır. 2023 yılında Barcelona'dan ayrılıp Major League Soccer kulübü Inter Miami'ye transfer olmuştur.",
+      "char_count": 931,
+      "token_estimate": 232
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1213,
+      "end_char": 1553,
+      "content": "== Dış bağlantılar == Valencia resmi profili 27 Mart 2012 tarihinde Wayback Machine sitesinde arşivlendi. (Katalanca) BDFutbol profili18 Eylül 2012 tarihinde Wayback Machine sitesinde arşivlendi. Transfermarkt'ta Jordi Alba Ciberche biyografisi12 Mart 2014 tarihinde Wayback Machine sitesinde arşivlendi. (İspanyolca) FIFA.com'da Jordi Alba",
+      "char_count": 340,
+      "token_estimate": 85
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Futbolcu, 2012-2013 sezonu öncesinde Barcelona'ya kaç milyon € bonservis ücreti karşılığında transfer olmuştur?",
+        "answer": "14 milyon €",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jordi Alba'nın Barcelona'ya transferine yol açan faktörler nelerdi ve bu kulüpteki kariyerinde hangi önemli başarıları elde ettikten sonra hangi takıma geçiş yaptı?",
+        "answer": "Jordi Alba, 2012 Avrupa Şampiyonası'nda gösterdiği performansla dikkat çekerek 2012-2013 sezonu öncesinde 14 milyon € bonservis ücreti karşılığında Barcelona'ya transfer oldu. Barcelona formasıyla 6 kez La Liga'yı, 1 kez UEFA Şampiyonlar Ligi'ni ve 1 kez FIFA Kulüpler Dünya Kupası'nı kazandı. 2023 yılında Barcelona'dan ayrılarak Major League Soccer kulübü Inter Miami'ye transfer oldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

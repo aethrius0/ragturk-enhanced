@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "akhikayesialbm_4c7c3721",
+    "title": "Aşk Hikayesi (albüm)",
+    "url": "https://tr.wikipedia.org/wiki/A%C5%9Fk_Hikayesi_%28alb%C3%BCm%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:15.079227",
+    "content": "Aşk Hikâyesi, Funda Arar'ın 17 Mart 2017 tarihinde yayınlanan on birinci stüdyo albümüdür. Albümünde yer alan şarkıların biri hariç (Bırakma Beni) hepsinin düzenlemesini Febyo Taşel yapmıştır. == Albüm hakkında bilgi == Aşk Hikâyesi albümü, Funda Arar'ın bir önceki albümü olan Hoşgeldin adlı albümünden 2 sene sonra yayınlanmış ve toplam 13 şarkı bulunmaktadır. Ayrıca albümünde Soner Sarıkabadayı, Gülşen, Febyo Taşel, Gökhan Tepe, Şebnem Sungur, Süleyman Billor, Günay Çoban, Tuğçe Ören, MC Murad, Namık Naghdaliyev, Onur Baştürk, Gözde Ançel, Buray, Ferdi Quliyev, Terlan Memmedhüseynov, Serdar Aslan gibi isimlerim imzası taşıyor. == Promosyon çalışması == Albümün ilk çıkış parçası sözleri Günay Çoban'a müziği ve düzenlemesi Febyo Taşel'e ait olan \"Düşman Gibi\" isimli şarkı Nihat Odabaşı yönetmenliğinde çekildi. == Şarkı listesi == \"Düşman Gibi\" (söz: Günay Çoban - müzik/düzenleme: Febyo Taşel) \"Sen Benden Gittiğinde\" (söz: Ferdi Quliyev - müzik: Torlan Memmedhuseynov - düzenleme: Febyo Taşel) \"Bırakma Beni\" (söz - müzik: Gülşen - düzenleme: Ozan Çolakoğlu) \"Armağansın\" (söz - müzik: Süleyman Billor - düzenleme: Febyo Taşel) \"Kalabalık\" (söz - müzik: MC Murad - düzenleme: Febyo Taşel) \"Of Makamından\" (söz - müzik: Onur Baştürk - düzenleme: Febyo Taşel) \"Ayrılık Geldi\" (söz: Şebnem Sungur - müzik/düzenleme: Febyo Taşel) \"İnci Tanesi\" (söz - müzik: Tuğçe Ören - düzenleme: Febyo taşel) \"Unutur mu Bir Kadın?\" (söz: Serdar Aslan - müzik: Gökhan Tepe - düzenleme: Febyo Taşel) \"Sana Değmez\" (söz: Gözde Ançel - müzik: Gözde Ançel, Buray Hoşsöz - düzenleme: Febyo Taşel) \"Rum Havası\" (söz: Şebnem Sungur - müzik: Gökhan Tepe - düzenleme: Febyo Taşel) \"Demli\" (söz - müzik: Soner Sarıkabadayı - düzenleme: Febyo Taşel) \"Mutlu Son\" (söz: Şebnem Sungur - müzik: Namık Naghdaliyev - düzenleme: Febyo Taşel) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 271,
+      "char_count": 1831,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.552395",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 193,
+      "content": "Aşk Hikâyesi, Funda Arar'ın 17 Mart 2017 tarihinde yayınlanan on birinci stüdyo albümüdür. Albümünde yer alan şarkıların biri hariç (Bırakma Beni) hepsinin düzenlemesini Febyo Taşel yapmıştır.",
+      "char_count": 192,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0001",
+      "section": "== Albüm hakkında bilgi ==",
+      "heading_path": "== Albüm hakkında bilgi ==",
+      "start_char": 193,
+      "end_char": 636,
+      "content": "== Albüm hakkında bilgi == Aşk Hikâyesi albümü, Funda Arar'ın bir önceki albümü olan Hoşgeldin adlı albümünden 2 sene sonra yayınlanmış ve toplam 13 şarkı bulunmaktadır. Ayrıca albümünde Soner Sarıkabadayı, Gülşen, Febyo Taşel, Gökhan Tepe, Şebnem Sungur, Süleyman Billor, Günay Çoban, Tuğçe Ören, MC Murad, Namık Naghdaliyev, Onur Baştürk, Gözde Ançel, Buray, Ferdi Quliyev, Terlan Memmedhüseynov, Serdar Aslan gibi isimlerim imzası taşıyor.",
+      "char_count": 442,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0002",
+      "section": "== Promosyon çalışması ==",
+      "heading_path": "== Promosyon çalışması ==",
+      "start_char": 636,
+      "end_char": 821,
+      "content": "== Promosyon çalışması == Albümün ilk çıkış parçası sözleri Günay Çoban'a müziği ve düzenlemesi Febyo Taşel'e ait olan \"Düşman Gibi\" isimli şarkı Nihat Odabaşı yönetmenliğinde çekildi.",
+      "char_count": 184,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0003",
+      "section": "== Şarkı listesi ==",
+      "heading_path": "== Şarkı listesi ==",
+      "start_char": 821,
+      "end_char": 1817,
+      "content": "== Şarkı listesi == \"Düşman Gibi\" (söz: Günay Çoban - müzik/düzenleme: Febyo Taşel) \"Sen Benden Gittiğinde\" (söz: Ferdi Quliyev - müzik: Torlan Memmedhuseynov - düzenleme: Febyo Taşel) \"Bırakma Beni\" (söz - müzik: Gülşen - düzenleme: Ozan Çolakoğlu) \"Armağansın\" (söz - müzik: Süleyman Billor - düzenleme: Febyo Taşel) \"Kalabalık\" (söz - müzik: MC Murad - düzenleme: Febyo Taşel) \"Of Makamından\" (söz - müzik: Onur Baştürk - düzenleme: Febyo Taşel) \"Ayrılık Geldi\" (söz: Şebnem Sungur - müzik/düzenleme: Febyo Taşel) \"İnci Tanesi\" (söz - müzik: Tuğçe Ören - düzenleme: Febyo taşel) \"Unutur mu Bir Kadın?\" (söz: Serdar Aslan - müzik: Gökhan Tepe - düzenleme: Febyo Taşel) \"Sana Değmez\" (söz: Gözde Ançel - müzik: Gözde Ançel, Buray Hoşsöz - düzenleme: Febyo Taşel) \"Rum Havası\" (söz: Şebnem Sungur - müzik: Gökhan Tepe - düzenleme: Febyo Taşel) \"Demli\" (söz - müzik: Soner Sarıkabadayı - düzenleme: Febyo Taşel) \"Mutlu Son\" (söz: Şebnem Sungur - müzik: Namık Naghdaliyev - düzenleme: Febyo Taşel)",
+      "char_count": 995,
+      "token_estimate": 248
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Süleyman Billor, 'Armağansın' adlı şarkının hangi bölümlerini yapmıştır?",
+        "answer": "Süleyman Billor, 'Armağansın' adlı şarkının söz ve müziğini yapmıştır.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Funda Arar'ın \"Aşk Hikâyesi\" albümünde Febyo Taşel'in diğer belirtilen isimlerden farklı olarak hangi özel katkıyı sağladığı belirtilmiştir?",
+        "answer": "Febyo Taşel, albümde yer alan şarkıların 'Bırakma Beni' adlı parça hariç hepsinin düzenlemesini yapmıştır. Diğer isimler ise albüme çeşitli alanlarda katkı sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

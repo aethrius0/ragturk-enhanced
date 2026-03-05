@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "kaynarcamerkez_d08ac5e3",
+    "title": "Kaynarca Merkez",
+    "url": "https://tr.wikipedia.org/wiki/Kaynarca_Merkez",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:34.898264",
+    "content": "Kaynarca Merkez (M4) Metro İstasyonu, İstanbul Metrosu'nun M4 (Kadıköy - Sabiha Gökçen Havalimanı) Metro Hattı'nda yer alan inşaatı durdulan yer altı metro istasyonudur. Pendik'in Fevzi Çakmak Mahallesi'nde Tevfik İleri Caddesi üzerinde yer alan istasyon M10 istasyonunun üst kotunda yer almaktadır. M4 platformu, hattaki çatallanmadan dolayı İstanbul Metrosu'ndaki diğer platformlardan farklı olarak paralel şekilde tasarlanmamıştır. Kaynarca Merkez (M10) Metro İstasyonu, İstanbul Metrosu'nun M10 (Pendik Merkez - Sabiha Gökçen Havalimanı) Metro Hattı'nda yer alan inşaatı durdulan yer altı metro istasyonudur. Pendik'in Fevzi Çakmak Mahallesi'nde Tevfik İleri Caddesi ile D.100 üzerinde yer alan istasyon M4 istasyonunun alt kotunda yer almaktadır. İstasyon M4 ve M10 hatlarının aktarma istasyonudur. İstasyonlar için biri D.100'ün güneyinde ikisi kuzeyinde olmak üzere toplam 3 giriş bulunmaktadır. M4 ve M10 hatları aynı istasyon yapısını kullanacak şekilde planlanmıştır. İstasyon ayrıca arazi kullanımındaki kısıtlamalar sebebiyle yaklaşık 40 metre çapa sahip 27 metre derinlikte 4 katlı bir şaft yapısı içermektedir. Bu şaftın içerisinde bilet holü, platform, teknik hatlar ve giriş yer almaktadır. == Hatlar == (Kadıköy - İçmeler/Tuzla Belediyesi) (Pendik Merkez - Sabiha Gökçen Havalimanı) == Hizmetler == === Peron yapısı === === Güzergâh === == Çevre alanı == Özel Pendik Yüzyıl Hastanesi == Görseller == == Kaynakça == == Dış bağlantılar == Metro İstanbul resmî sitesi 24 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 212,
+      "char_count": 1542,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.189959",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Kaynarca Merkez (M4) Metro İstasyonu, İstanbul Metrosu'nun M4 (Kadıköy - Sabiha Gökçen Havalimanı) Metro Hattı'nda yer alan inşaatı durdulan yer altı metro istasyonudur. Pendik'in Fevzi Çakmak Mahallesi'nde Tevfik İleri Caddesi üzerinde yer alan istasyon M10 istasyonunun üst kotunda yer almaktadır. M4 platformu, hattaki çatallanmadan dolayı İstanbul Metrosu'ndaki diğer platformlardan farklı olarak paralel şekilde tasarlanmamıştır. Kaynarca Merkez (M10) Metro İstasyonu, İstanbul Metrosu'nun M10 (Pendik Merkez - Sabiha Gökçen Havalimanı) Metro Hattı'nda yer alan inşaatı durdulan yer altı metro istasyonudur. Pendik'in Fevzi Çakmak Mahallesi'nde Tevfik İleri Caddesi ile D.100 üzerinde yer alan istasyon M4 istasyonunun alt kotunda yer almaktadır. İstasyon M4 ve M10 hatlarının aktarma istasyonudur. İstasyonlar için biri D.100'ün güneyinde ikisi kuzeyinde olmak üzere toplam 3 giriş bulunmaktadır. M4 ve M10 hatları aynı istasyon yapısını kullanacak şekilde planlanmıştır. İstasyon ayrıca arazi ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1206,
+      "content": "ur. İstasyonlar için biri D.100'ün güneyinde ikisi kuzeyinde olmak üzere toplam 3 giriş bulunmaktadır. M4 ve M10 hatları aynı istasyon yapısını kullanacak şekilde planlanmıştır. İstasyon ayrıca arazi kullanımındaki kısıtlamalar sebebiyle yaklaşık 40 metre çapa sahip 27 metre derinlikte 4 katlı bir şaft yapısı içermektedir. Bu şaftın içerisinde bilet holü, platform, teknik hatlar ve giriş yer almaktadır.",
+      "char_count": 406,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0002",
+      "section": "== Hatlar ==",
+      "heading_path": "== Hatlar ==",
+      "start_char": 1207,
+      "end_char": 1300,
+      "content": "== Hatlar == (Kadıköy - İçmeler/Tuzla Belediyesi) (Pendik Merkez - Sabiha Gökçen Havalimanı)",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0003",
+      "section": "== Çevre alanı ==",
+      "heading_path": "== Çevre alanı ==",
+      "start_char": 1354,
+      "end_char": 1401,
+      "content": "== Çevre alanı == Özel Pendik Yüzyıl Hastanesi",
+      "char_count": 46,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1432,
+      "end_char": 1542,
+      "content": "== Dış bağlantılar == Metro İstanbul resmî sitesi 24 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 110,
+      "token_estimate": 27
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kaynarca Merkez Metro İstasyonu için toplam kaç giriş bulunmaktadır?",
+        "answer": "Toplam 3 giriş bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kaynarca Merkez İstasyonu'nda M4 ve M10 metro hatları aynı istasyon yapısını kullanarak nasıl entegre edilmiştir ve bu entegrasyonu mümkün kılan temel yapısal özellikler nelerdir?",
+        "answer": "M4 ve M10 hatları, M4'ün M10 istasyonunun üst kotunda, M10'un ise M4'ün alt kotunda yer alması ve aynı istasyon yapısını kullanacak şekilde planlanmasıyla entegre edilmiştir. Bu entegrasyonu mümkün kılan temel yapısal özelliklerden biri, arazi kullanımındaki kısıtlamalar nedeniyle inşa edilen yaklaşık 40 metre çapında ve 27 metre derinliğinde, bilet holü, platform, teknik hatlar ve girişi içeren 4 katlı bir şaft yapısıdır. Ayrıca M4 platformu, hattaki çatallanmadan dolayı diğer platformlardan farklı olarak paralel şekilde tasarlanmamıştır ve istasyonlar için toplam 3 giriş bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

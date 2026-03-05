@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "cenevrekonferans1932_b8c35241",
+    "title": "Cenevre Konferansı (1932)",
+    "url": "https://tr.wikipedia.org/wiki/Cenevre_Konferans%C4%B1_%281932%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:12.955474",
+    "content": "İkinci Cenevre Deniz Hukuku Konferansı, 1932 yılında İsviçre'nin Cenevre kentinde düzenlenmiş olan ve donanmalara silah sınırlaması getirilmesini öngören konferans. Konferans, silahsızlanmayı temel alan öncülü Cenevre Deniz Hukuku Konferansı'ndan (1927) tümüyle ayrı bir nitelik taşımaktadır. Donanmaların yanı sıra kara kuvvetlerine de silahlanma sınırı getirmeyi amaçlayan konferansa ABD, SSCB ve Almanya'nın da aralarında bulunduğu 61 ülke katılmıştır. Belirli bir düzeye dek ilerleyen görüşmeler Hitler'in 1933'te iktidara gelmesinin ardından yarıda kalmıştır. Almanya'nın görüşmeleri yarıda keserek Milletler Cemiyeti'nden ayrılması bu durumun başlıca nedenlerindendir. == Almanya'nın Milletler Cemiyeti'nden çekilme nedenleri == 61 ülkenin katılımıyla gerçekleşen Cenevre Konferansı'na Almanya'da katılmıştı. Konferans sebebi, dünya barışını devam ettirmek adına, bütün ülkelerin silahlarına kısıtlama getirilmesiydi. Adolf Hitler iktidara geldikten sonra hem konferanstan, hem de Milletler Cemiyeti'nden çekilme kararı almıştır. Bu kararı neden verdiğini 1939 Yılında Roosevelt'e cevap verirken açıklıyordu. Şöyle diyordu: Yaptıkları konferansa bizden önceki hükûmetler iştirak etmişti. Ben, geri çekilme kararı aldım. Bildiğiniz üzere Bay Roosevelt'e istişare ederek, birtakım pratiklerde bulunmuş, dünyadaki silahları minimum seviyeye çekmemiz gerektiğine dair bir tartışmada bulunmuştum. Ülkelerdeki ordu büyüklüğünü (askerî personel) en fazla 200 bin olarak kalmasını önerdim. Ayrıca, zehirli gazlar ve bombacı uçakların elden çıkarılmasını talep ettim. Elbette Almanya tümden silahsızlandırılmışken bunları kimsenin yapması mümkün değildi. Daha sonra, en fazla 300 bin kişilik ordu olmasını talep ettim. Önerim aynı cevapsızlıkla karşılandı. Daha önce, dünyaya söylemeden birçok kongrede ve Reichstag'ta silahsızlanma önerilerinde bulundum, daha sonra bunların bahsi bile geçmedi. Ayrıca, dünyadaki diğer devletler 300 binin üzerinde askerî personele doğru silahlanmaya başlamıştı. Benim 300 bin kişilik talebim kadar cevaplanmadı. Ben de, şu anda çok kapsamlı silahlanma emrini vermiş oldum! (28 Nisan 1939, Hitler, Roosevelt'in sorularını yanıtlıyor.) Hitler, bu konuşmasında 1939 yılında silahlanmaya mecbur bırakıldıklarını ileri sürecekti ve Milletler Cemiyeti'nin taraflı olduğunu, sadece büyük devletlerin işlerini görmek adına kurdukları bir oluşum olduklarını savunacaktı. Ayrıca, Cenevre Konferansı'nın dağılması sonucunda Fransa ve Britanya'da silahlanmaya başlamıştı. Britanya'da kısmi seferberlik ilan edilmişti. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 306,
+      "char_count": 2552,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.404095",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 675,
+      "content": "İkinci Cenevre Deniz Hukuku Konferansı, 1932 yılında İsviçre'nin Cenevre kentinde düzenlenmiş olan ve donanmalara silah sınırlaması getirilmesini öngören konferans. Konferans, silahsızlanmayı temel alan öncülü Cenevre Deniz Hukuku Konferansı'ndan (1927) tümüyle ayrı bir nitelik taşımaktadır. Donanmaların yanı sıra kara kuvvetlerine de silahlanma sınırı getirmeyi amaçlayan konferansa ABD, SSCB ve Almanya'nın da aralarında bulunduğu 61 ülke katılmıştır. Belirli bir düzeye dek ilerleyen görüşmeler Hitler'in 1933'te iktidara gelmesinin ardından yarıda kalmıştır. Almanya'nın görüşmeleri yarıda keserek Milletler Cemiyeti'nden ayrılması bu durumun başlıca nedenlerindendir.",
+      "char_count": 674,
+      "token_estimate": 168
+    },
+    {
+      "id": "c0001",
+      "section": "== Almanya'nın Milletler Cemiyeti'nden çekilme nedenleri ==",
+      "heading_path": "== Almanya'nın Milletler Cemiyeti'nden çekilme nedenleri ==",
+      "start_char": 675,
+      "end_char": 1675,
+      "content": "== Almanya'nın Milletler Cemiyeti'nden çekilme nedenleri == 61 ülkenin katılımıyla gerçekleşen Cenevre Konferansı'na Almanya'da katılmıştı. Konferans sebebi, dünya barışını devam ettirmek adına, bütün ülkelerin silahlarına kısıtlama getirilmesiydi. Adolf Hitler iktidara geldikten sonra hem konferanstan, hem de Milletler Cemiyeti'nden çekilme kararı almıştır. Bu kararı neden verdiğini 1939 Yılında Roosevelt'e cevap verirken açıklıyordu. Şöyle diyordu: Yaptıkları konferansa bizden önceki hükûmetler iştirak etmişti. Ben, geri çekilme kararı aldım. Bildiğiniz üzere Bay Roosevelt'e istişare ederek, birtakım pratiklerde bulunmuş, dünyadaki silahları minimum seviyeye çekmemiz gerektiğine dair bir tartışmada bulunmuştum. Ülkelerdeki ordu büyüklüğünü (askerî personel) en fazla 200 bin olarak kalmasını önerdim. Ayrıca, zehirli gazlar ve bombacı uçakların elden çıkarılmasını talep ettim. Elbette Almanya tümden silahsızlandırılmışken bunları kimsenin yapması mümkün değildi. Daha sonra, en fazla 30",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Almanya'nın Milletler Cemiyeti'nden çekilme nedenleri ==",
+      "heading_path": "== Almanya'nın Milletler Cemiyeti'nden çekilme nedenleri ==",
+      "start_char": 1475,
+      "end_char": 2475,
+      "content": "ını önerdim. Ayrıca, zehirli gazlar ve bombacı uçakların elden çıkarılmasını talep ettim. Elbette Almanya tümden silahsızlandırılmışken bunları kimsenin yapması mümkün değildi. Daha sonra, en fazla 300 bin kişilik ordu olmasını talep ettim. Önerim aynı cevapsızlıkla karşılandı. Daha önce, dünyaya söylemeden birçok kongrede ve Reichstag'ta silahsızlanma önerilerinde bulundum, daha sonra bunların bahsi bile geçmedi. Ayrıca, dünyadaki diğer devletler 300 binin üzerinde askerî personele doğru silahlanmaya başlamıştı. Benim 300 bin kişilik talebim kadar cevaplanmadı. Ben de, şu anda çok kapsamlı silahlanma emrini vermiş oldum! (28 Nisan 1939, Hitler, Roosevelt'in sorularını yanıtlıyor.) Hitler, bu konuşmasında 1939 yılında silahlanmaya mecbur bırakıldıklarını ileri sürecekti ve Milletler Cemiyeti'nin taraflı olduğunu, sadece büyük devletlerin işlerini görmek adına kurdukları bir oluşum olduklarını savunacaktı. Ayrıca, Cenevre Konferansı'nın dağılması sonucunda Fransa ve Britanya'da silahlan",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Almanya'nın Milletler Cemiyeti'nden çekilme nedenleri ==",
+      "heading_path": "== Almanya'nın Milletler Cemiyeti'nden çekilme nedenleri ==",
+      "start_char": 2275,
+      "end_char": 2537,
+      "content": "ti'nin taraflı olduğunu, sadece büyük devletlerin işlerini görmek adına kurdukları bir oluşum olduklarını savunacaktı. Ayrıca, Cenevre Konferansı'nın dağılması sonucunda Fransa ve Britanya'da silahlanmaya başlamıştı. Britanya'da kısmi seferberlik ilan edilmişti.",
+      "char_count": 262,
+      "token_estimate": 65
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Adolf Hitler, 1939 yılında Roosevelt'e verdiği cevapta ülkelerdeki ordu büyüklüğü için en fazla kaç askeri personel önermiştir?",
+        "answer": "En fazla 200 bin.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Adolf Hitler'in iktidara gelmesinin Cenevre Konferansı'nın seyrini ve Almanya'nın uluslararası silahsızlanma çabalarındaki konumunu nasıl etkilediği ve Hitler'in bu kararları daha sonra nasıl savunduğu açıklanmaktadır?",
+        "answer": "Adolf Hitler'in 1933'te iktidara gelmesinin ardından, İkinci Cenevre Deniz Hukuku Konferansı'ndaki görüşmeler yarıda kalmıştır. Almanya, görüşmeleri keserek Milletler Cemiyeti'nden ayrılmış ve konferanstan çekilmiştir. Hitler, bu kararları 1939'da Roosevelt'e açıklarken, kendinden önceki hükümetlerin katıldığı konferansta silahsızlanma önerilerinde bulunduğunu, orduların büyüklüğünü önce 200 bin, ardından 300 bin askerle sınırlamayı ve zehirli gazlar ile bombacı uçakların elden çıkarılmasını teklif ettiğini belirtmiştir. Ancak bu önerilerinin cevapsız kaldığını, diğer devletlerin 300 binin üzerinde askerî personele doğru silahlanmaya başladığını ve Almanya'nın zaten silahsızlandırılmış olduğunu savunmuştur. Bu durumlar karşısında kendisini kapsamlı silahlanma emri vermeye mecbur hissettiğini ve Milletler Cemiyeti'nin taraflı, sadece büyük devletlerin işlerine hizmet eden bir oluşum olduğunu iddia etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

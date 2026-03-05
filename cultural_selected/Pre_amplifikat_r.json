@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "preamplifikatr_2471a27b",
+    "title": "Pre amplifikatör",
+    "url": "https://tr.wikipedia.org/wiki/Pre_amplifikat%C3%B6r",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:07.553576",
+    "content": "Pre amplifikatör, kaynaktan (pikap, CD çalar gibi) alınan ses sinyallerinin güç amplifikatörüne aktarılmadan önce kuvvetlendirildiği bir amplifikatör çeşididir. Genel anlamda bir potansiyometre vasıtası ise, ses kontrolünün yapıldığı, güç amplifikatörüne hangi kaynaktan sinyal yollanacağının seçildiği bir mekanizmaya sahiptir. Bunların yanı sıra ton kontrolleri (bas ve tiz için), hoparlör balans ayarı gibi çeşitli ek işlevleri de içerebilir. Özellikle 1990'lar ve 2000'li yıllarda ortaya çıkan \"sinyal yollarında mümkün olan en basit yapı\" felsefesinin getirisi olarak bahsi geçen ek işlevleri içeren tüm düğmeler kaldırılmıştır. Böylelikle sinyal yolunun kısaltılması sağlanmış, mümkün olan en basit hale getirilmiştir. == Türleri == 1. Aktif pre amplifikatör Transistör veya lamba tarafından kaynaktan gelen sinyallerin büyütülerek güç amplifikatörüne aktarıldığı, pre amplifikatör türüdür. Özellikle 2000'li yılların başına kadar çok yaygın olarak kullanılsa da, özellikle kullanılan transistör ve lambaların seste belli renklendirmeler yaptığı varsayımı ile farklı arayışlar başlamıştır. Şu an bile kullanılan en yaygın pre amplifikatör türüdür. 2.Pasif pre amplifikatör Seste renklendirilmenin önlenmesi adına ortaya çıkan bu pre amplifikatör türü, içerisinde herhangi bir transistör, lamba veya devre yapısı içermemekte, sadece bir kaynak seçici ve ses kontrolü için potansiyometre kullanılan özel bir pre amplifikatör türüdür. 3.Fono pre amplifikatörleri Pikapların sinyal karakteristiğinden kaynaklanan daha düşük güçte sinyallerin yükseltilme gereksinimi dolayısı ile çoğu pre amplifikatörde bir fono katı bulunur. Bu katın olmadığı pre amplifikatörler için, sadece pikap sinyallerinin yükseltilmesi amacı ile, ayrı fono pre amplifikatörleri de üretilmiştir. Bunlarında lambalı veya transistörlü yapıda olanları vardır. Genel olarak pikap ilk önce fono pre amplifikatörüne bağlanır, bu da pre amplifikatör vasıtası ile güç amplifikatörüne bağlanmaktadır. Bazı ses kontrolüne sahip varyasyonları da üretildiği için, direkt güç amplifikatörüne bağlananları da bulunmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 264,
+      "char_count": 2100,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.954894",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 725,
+      "content": "Pre amplifikatör, kaynaktan (pikap, CD çalar gibi) alınan ses sinyallerinin güç amplifikatörüne aktarılmadan önce kuvvetlendirildiği bir amplifikatör çeşididir. Genel anlamda bir potansiyometre vasıtası ise, ses kontrolünün yapıldığı, güç amplifikatörüne hangi kaynaktan sinyal yollanacağının seçildiği bir mekanizmaya sahiptir. Bunların yanı sıra ton kontrolleri (bas ve tiz için), hoparlör balans ayarı gibi çeşitli ek işlevleri de içerebilir. Özellikle 1990'lar ve 2000'li yıllarda ortaya çıkan \"sinyal yollarında mümkün olan en basit yapı\" felsefesinin getirisi olarak bahsi geçen ek işlevleri içeren tüm düğmeler kaldırılmıştır. Böylelikle sinyal yolunun kısaltılması sağlanmış, mümkün olan en basit hale getirilmiştir.",
+      "char_count": 724,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0001",
+      "section": "== Türleri ==",
+      "heading_path": "== Türleri ==",
+      "start_char": 725,
+      "end_char": 1725,
+      "content": "== Türleri == 1. Aktif pre amplifikatör Transistör veya lamba tarafından kaynaktan gelen sinyallerin büyütülerek güç amplifikatörüne aktarıldığı, pre amplifikatör türüdür. Özellikle 2000'li yılların başına kadar çok yaygın olarak kullanılsa da, özellikle kullanılan transistör ve lambaların seste belli renklendirmeler yaptığı varsayımı ile farklı arayışlar başlamıştır. Şu an bile kullanılan en yaygın pre amplifikatör türüdür. 2.Pasif pre amplifikatör Seste renklendirilmenin önlenmesi adına ortaya çıkan bu pre amplifikatör türü, içerisinde herhangi bir transistör, lamba veya devre yapısı içermemekte, sadece bir kaynak seçici ve ses kontrolü için potansiyometre kullanılan özel bir pre amplifikatör türüdür. 3.Fono pre amplifikatörleri Pikapların sinyal karakteristiğinden kaynaklanan daha düşük güçte sinyallerin yükseltilme gereksinimi dolayısı ile çoğu pre amplifikatörde bir fono katı bulunur. Bu katın olmadığı pre amplifikatörler için, sadece pikap sinyallerinin yükseltilmesi amacı ile, a",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Türleri ==",
+      "heading_path": "== Türleri ==",
+      "start_char": 1525,
+      "end_char": 2085,
+      "content": " güçte sinyallerin yükseltilme gereksinimi dolayısı ile çoğu pre amplifikatörde bir fono katı bulunur. Bu katın olmadığı pre amplifikatörler için, sadece pikap sinyallerinin yükseltilmesi amacı ile, ayrı fono pre amplifikatörleri de üretilmiştir. Bunlarında lambalı veya transistörlü yapıda olanları vardır. Genel olarak pikap ilk önce fono pre amplifikatörüne bağlanır, bu da pre amplifikatör vasıtası ile güç amplifikatörüne bağlanmaktadır. Bazı ses kontrolüne sahip varyasyonları da üretildiği için, direkt güç amplifikatörüne bağlananları da bulunmaktadır.",
+      "char_count": 560,
+      "token_estimate": 140
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Günümüzde en yaygın kullanılan pre amplifikatör türü hangisidir?",
+        "answer": "Aktif pre amplifikatör",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Metinlerde bahsedilen aktif, pasif ve fono pre-amplifikatör türleri, genel bir pre-amplifikatörün işlevini yerine getirirken tasarım ve amaç açısından nasıl farklılık gösterir?",
+        "answer": "Bir pre-amplifikatörün genel işlevi, kaynaklardan (pikap, CD çalar gibi) gelen ses sinyallerini güç amplifikatörüne aktarılmadan önce kuvvetlendirmek, ses kontrolü sağlamak ve kaynak seçimi yapmaktır. Bu genel işlevi yerine getirirken pre-amplifikatör türleri farklı yaklaşımlar sergiler: Aktif pre-amplifikatörler, sinyalleri yükseltmek için transistör veya lamba kullanır, ancak bu durum bazen seste renklendirmelere yol açtığı varsayımıyla alternatif arayışlara neden olmuştur. Pasif pre-amplifikatörler ise seste renklendirmenin önüne geçmek amacıyla herhangi bir transistör, lamba veya devre yapısı içermez; sadece bir kaynak seçici ve ses kontrolü için potansiyometre kullanarak sinyal yolunda mümkün olan en basit yapıyı hedefler. Fono pre-amplifikatörleri ise pikaplardan gelen daha düşük güçteki özel sinyalleri yükseltme gereksinimine odaklanmıştır. Bu türler, genellikle ana pre-amplifikatöre bağlanırken, bazı varyasyonları doğrudan güç amplifikatörüne de bağlanabilir. Her bir tür, temel yükseltme ve kontrol işlevini yerine getirirken, belirli tasarım felsefeleri veya kaynaklara özgü ihtiyaçlar doğrultusunda farklılaşır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

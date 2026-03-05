@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "eliminationchamber20_e51ea662",
+    "title": "Elimination Chamber (2023)",
+    "url": "https://tr.wikipedia.org/wiki/Elimination_Chamber_%282023%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:36.682267",
+    "content": "2023 Elimination Chamber (Almanya'da bilinen adıyla No Escape), WWE tarafından her yıl düzenlenen Elimination Chamber'ın 13. profesyonel güreş izle ve öde (PPV) canlı yayın etkinliğidir. 18 Şubat 2023 Cumartesi günü, Montreal, Quebec, Kanada'daki Bell Centre'da gerçekleştirilen etkinlik, organizasyonun Raw ve SmackDown markasındaki güreşçiler için düzenlendi. Kanada'da düzenlenen ilk Elimination Chamber etkinliği ve üst üste ikinci kez Amerika Birleşik Devletleri'nde düzenlenen ikinci Elimination Chamber etkinliği oldu. Aynı zamanda, Eylül 2009'daki Breaking Point'ten beri Montreal'da düzenlenen ilk büyük WWE etkinliğiydi. Ayrıca 2020'deki etkinlikten bu yana bir dünya şampiyonluğu kemerinin Elimination Chamber içerisinde savunulmadığı ilk Elimination Chamber etkinliği oldu. Etkinlikte beş maç yapıldı. Ana etkinlikte Roman Reigns, Sami Zayn'i yenerek Undisputed WWE Universal Championship kemerini korudu. Etkinlikte biri erkekler, biri kadınlar arasında olmak üzere iki Elimination Chamber maçı yapıldı. Erkekler maçında Austin Theory, United States Championship kemerini korurken, ilk kez bu kemer ilgili kafes içerisinde savunulmuş oldu. Açılışta yapılan kadınlar maçını Asuka kazandı ve WrestleMania 39'da Raw Women's Championship kemer maçına çıkmaya hak kazandı. Bunun sonucunda Asuka, Royal Rumble, Money in the Bank ve Elimination Chamber maçlarını kazanan ilk kadın güreşçi oldu. == Sonuçlar == === Kadınlar Elimination Chamber maçı === === United States Championship Elimination Chamber maçı === == Kaynakça == == Dış bağlantılar == Elimination Chamber resmî sitesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 207,
+      "char_count": 1587,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.452387",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "2023 Elimination Chamber (Almanya'da bilinen adıyla No Escape), WWE tarafından her yıl düzenlenen Elimination Chamber'ın 13. profesyonel güreş izle ve öde (PPV) canlı yayın etkinliğidir. 18 Şubat 2023 Cumartesi günü, Montreal, Quebec, Kanada'daki Bell Centre'da gerçekleştirilen etkinlik, organizasyonun Raw ve SmackDown markasındaki güreşçiler için düzenlendi. Kanada'da düzenlenen ilk Elimination Chamber etkinliği ve üst üste ikinci kez Amerika Birleşik Devletleri'nde düzenlenen ikinci Elimination Chamber etkinliği oldu. Aynı zamanda, Eylül 2009'daki Breaking Point'ten beri Montreal'da düzenlenen ilk büyük WWE etkinliğiydi. Ayrıca 2020'deki etkinlikten bu yana bir dünya şampiyonluğu kemerinin Elimination Chamber içerisinde savunulmadığı ilk Elimination Chamber etkinliği oldu. Etkinlikte beş maç yapıldı. Ana etkinlikte Roman Reigns, Sami Zayn'i yenerek Undisputed WWE Universal Championship kemerini korudu. Etkinlikte biri erkekler, biri kadınlar arasında olmak üzere iki Elimination Chamb",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1400,
+      "content": " maç yapıldı. Ana etkinlikte Roman Reigns, Sami Zayn'i yenerek Undisputed WWE Universal Championship kemerini korudu. Etkinlikte biri erkekler, biri kadınlar arasında olmak üzere iki Elimination Chamber maçı yapıldı. Erkekler maçında Austin Theory, United States Championship kemerini korurken, ilk kez bu kemer ilgili kafes içerisinde savunulmuş oldu. Açılışta yapılan kadınlar maçını Asuka kazandı ve WrestleMania 39'da Raw Women's Championship kemer maçına çıkmaya hak kazandı. Bunun sonucunda Asuka, Royal Rumble, Money in the Bank ve Elimination Chamber maçlarını kazanan ilk kadın güreşçi oldu.",
+      "char_count": 600,
+      "token_estimate": 150
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1533,
+      "end_char": 1587,
+      "content": "== Dış bağlantılar == Elimination Chamber resmî sitesi",
+      "char_count": 54,
+      "token_estimate": 13
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2023 Elimination Chamber etkinliği nerede düzenlendi?",
+        "answer": "Montreal, Quebec, Kanada'daki Bell Centre'da.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "2023 Elimination Chamber etkinliğinde dünya şampiyonluğu kemerinin ve diğer şampiyonlukların Elimination Chamber maçları bağlamındaki durumu nasıldı?",
+        "answer": "Dünya şampiyonluğu kemeri (Undisputed WWE Universal Championship) main event'te Roman Reigns tarafından savunulmasına rağmen, Elimination Chamber kafesi içinde savunulmadı; bu, 2020'den bu yana bir dünya şampiyonluğunun kafes içinde savunulmadığı ilk etkinlikti. Buna karşılık, Birleşik Devletler Şampiyonluğu (United States Championship) ilk kez kafes içinde savunuldu ve bu maçta Austin Theory kemerini korudu. Ayrıca, Raw Kadınlar Şampiyonluğu için bir numaralı seri pozisyonunu belirlemek üzere kadınlar arasında bir Elimination Chamber maçı yapıldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

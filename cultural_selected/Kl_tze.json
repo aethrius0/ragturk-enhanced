@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "kltze_66c989f6",
+    "title": "Klötze",
+    "url": "https://tr.wikipedia.org/wiki/Kl%C3%B6tze",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:15.195834",
+    "content": "Klötze, Almanya'nın Saksonya-Anhalt eyaletinde yer alan ve Altmarkkreis Salzwedel ilçesine bağlı bir şehirdir. 31 Aralık 2023 itibarıyla nüfusu 9.794'tür. == Coğrafya == Klötze şehri, Güney Sırtları olarak adlandırılan tepelik bir bölgede yer alır. Bununla birlikte, Drömling gibi düz alanlara da sahiptir; bu bölge, yaklaşık 60 metre yükseklikteki Kunrau yakınlarında bulunur. Şehrin güneydoğusunda, en yüksek noktası Krügersberg'de 127 metreye ulaşan geniş Klötze Ormanı yer alır. Şehir sınırlarının ötesine geçerek Hellberge bölgesine kadar devam eden alanlarda yükseklik 159,9 metreye kadar çıkmaktadır. Klötze'nin kuzeyinde ise Purnitz Nehri boyunca, yaklaşık 45 metre yükseklikte şehrin en alçak noktaları yer almaktadır. Şehir, Altmark bölgesinde; Wolfsburg'un yaklaşık 40 kilometre kuzeydoğusunda, Gardelegen'in yaklaşık 23 kilometre kuzeybatısında ve Salzwedel'in yaklaşık 30 kilometre güneyinde yer almaktadır. == İdari yapı == Şehir, 13 yerleşim birimine (eski belediyeler) ve bu yerleşim birimleri içinde toplam 24 mahalleye ayrılmış tek tip (birleşik) bir belediyedir. Yerleşim birimlerine, aynı adı taşıyan ve başka adlara sahip mahalleler ile yerleşim yerleri dahildir. Klötze: Hasselbusch, Döllnitz, Klötze Nord, Pansau, Zartau, Nesenitz Dönitz: Dönitz, Altferchau, Schwarzendamm Immekath: Hoppenmühle, Neulingsmühle, Siebenruthen Jahrstedt: Jahrstedt, Germenau, Böckwitz Kunrau: Kunrau, Belfort, Hahnenberg, Kolonie I, Kolonie II, Rappin Kusey: Kusey, Köbbelitz, Lupitz, Röwitz Neuendorf: Neuendorf, Hohenhenningen, Lockstedt, Siedentramm Neuferchau Ristedt: Ristedt, Neu-Ristedt Schwiesau Steimke Trippigleben Wenze: Wenze, Quarnebeck 1 Temmuz 2019 tarihinde Trippigleben adlı yeni bir yerleşim birimi, Trippigleben mahallesiyle birlikte oluşturulmuştur. Bu tarihten itibaren Wenze yerleşim birimi yalnızca Wenze ve Quarnebeck mahallelerinden oluşmaktadır. == Dış bağlantılar == Resmî web sitesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1928,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.526576",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 155,
+      "content": "Klötze, Almanya'nın Saksonya-Anhalt eyaletinde yer alan ve Altmarkkreis Salzwedel ilçesine bağlı bir şehirdir. 31 Aralık 2023 itibarıyla nüfusu 9.794'tür.",
+      "char_count": 154,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 155,
+      "end_char": 921,
+      "content": "== Coğrafya == Klötze şehri, Güney Sırtları olarak adlandırılan tepelik bir bölgede yer alır. Bununla birlikte, Drömling gibi düz alanlara da sahiptir; bu bölge, yaklaşık 60 metre yükseklikteki Kunrau yakınlarında bulunur. Şehrin güneydoğusunda, en yüksek noktası Krügersberg'de 127 metreye ulaşan geniş Klötze Ormanı yer alır. Şehir sınırlarının ötesine geçerek Hellberge bölgesine kadar devam eden alanlarda yükseklik 159,9 metreye kadar çıkmaktadır. Klötze'nin kuzeyinde ise Purnitz Nehri boyunca, yaklaşık 45 metre yükseklikte şehrin en alçak noktaları yer almaktadır. Şehir, Altmark bölgesinde; Wolfsburg'un yaklaşık 40 kilometre kuzeydoğusunda, Gardelegen'in yaklaşık 23 kilometre kuzeybatısında ve Salzwedel'in yaklaşık 30 kilometre güneyinde yer almaktadır.",
+      "char_count": 765,
+      "token_estimate": 191
+    },
+    {
+      "id": "c0002",
+      "section": "== İdari yapı ==",
+      "heading_path": "== İdari yapı ==",
+      "start_char": 921,
+      "end_char": 1875,
+      "content": "== İdari yapı == Şehir, 13 yerleşim birimine (eski belediyeler) ve bu yerleşim birimleri içinde toplam 24 mahalleye ayrılmış tek tip (birleşik) bir belediyedir. Yerleşim birimlerine, aynı adı taşıyan ve başka adlara sahip mahalleler ile yerleşim yerleri dahildir. Klötze: Hasselbusch, Döllnitz, Klötze Nord, Pansau, Zartau, Nesenitz Dönitz: Dönitz, Altferchau, Schwarzendamm Immekath: Hoppenmühle, Neulingsmühle, Siebenruthen Jahrstedt: Jahrstedt, Germenau, Böckwitz Kunrau: Kunrau, Belfort, Hahnenberg, Kolonie I, Kolonie II, Rappin Kusey: Kusey, Köbbelitz, Lupitz, Röwitz Neuendorf: Neuendorf, Hohenhenningen, Lockstedt, Siedentramm Neuferchau Ristedt: Ristedt, Neu-Ristedt Schwiesau Steimke Trippigleben Wenze: Wenze, Quarnebeck 1 Temmuz 2019 tarihinde Trippigleben adlı yeni bir yerleşim birimi, Trippigleben mahallesiyle birlikte oluşturulmuştur. Bu tarihten itibaren Wenze yerleşim birimi yalnızca Wenze ve Quarnebeck mahallelerinden oluşmaktadır.",
+      "char_count": 953,
+      "token_estimate": 238
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1875,
+      "end_char": 1914,
+      "content": "== Dış bağlantılar == Resmî web sitesi",
+      "char_count": 38,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Şehir kaç yerleşim birimine ayrılmıştır?",
+        "answer": "Şehir, 13 yerleşim birimine ayrılmıştır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "31 Aralık 2023 itibarıyla 9.794 nüfusa sahip bir şehir olan Klötze'nin, hem coğrafi açıdan Güney Sırtları gibi tepelik ve Drömling gibi düz bölgeleri barındırması hem de idari olarak 13 yerleşim birimine ve 24 mahalleye ayrılmış olması, bu yerleşim yerlerinin genel karakteri ve şehrin yapısı hakkında ne gibi çıkarımlar yapılmasına olanak tanır?",
+        "answer": "Klötze'nin nispeten düşük bir nüfusa (9.794) sahip olmasına rağmen, geniş bir coğrafi alana yayılan (tepelik bölgelerden düz alanlara, ormanlardan nehir boyunca alçak noktalara kadar) ve karmaşık bir idari yapıya (13 yerleşim birimi ve 24 mahalle) sahip olması, şehrin muhtemelen dağınık bir yerleşim düzenine sahip olduğunu ve coğrafi olarak çeşitlilik gösteren, tarihsel olarak birbirinden bağımsız gelişmiş küçük toplulukları bünyesinde barındırdığını düşündürmektedir. Bu durum, Klötze'nin tek bir yoğun merkezden ziyade, farklı karakteristiklere sahip birçok bölgenin birleşimiyle oluşmuş bir şehir olduğunu gösterir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

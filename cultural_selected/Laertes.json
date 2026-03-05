@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "laertes_00b5278a",
+    "title": "Laertes",
+    "url": "https://tr.wikipedia.org/wiki/Laertes",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:22.109447",
+    "content": "Laertes (Grekçe: Λαέρτης), antik Kilikya'da bir kasabadır. Yunan filozof Diogenes Laertius'un bu kasabadan geldiği düşünülür. Strabon ise burayı bir kale olarak adlandırmıştır. Antik kent günümüzde, Antalya ilinin Alanya ilçesinin Gözüküçüklü köyü yakınlarında bulunur. Laertes, Alanya'nın 25 kilometre doğusunda Toroslar'da bir vadi ağzında yükselen yamacın eteğinde 850 metre deniz seviyesinden yükseklikte savunmaya uygun bir coğrafyada kuruludur. Kent, Antik Çağ'da Dağlık Kilikya olarak bilinen bölgenin içindedir. İç kesimde olmasına karşın kentin limanı da vardır. Kentten günümüze kalan ve Roma dönemine ait kalıntılar arasında gözetleme kuleleri, halkın agorada sohbet için kullandığı yarım daire biçiminde oturma birimi, İmparatorlar caddesi, odeon veya tiyatro; Zeus, Apollon ve Sezar adına yapılmış tapınaklar, agora, hamam ve nekropol sayılabilir. Kent M.S. 1. yüzyıldan 3. yüzyıla kadar en parlak dönemini yaşamıştır. Kazılar sırasında bulunan ve Alanya Müzesi'nde sergilenen bir askere ait diploma, geçmişteki yaşama ışık tutacak niteliktedir. İsa'dan sonra 138 yılına ait Pamfilya Valisi'nin adının geçtiği belgede Suriyeli bir asker 25 yıllık şerefli hizmetlerinden sonra terhis edilmekte ve kendisine Roma vatandaşlığı ile Pamfilya'lı bir kadınla evlenme hakkı verilmektedir. Laertes'te ikincil bir konumda bulunmuş MÖ 7. yüzyıla ait ve üç yanı Fenike dilindeki Cebelireis Dağı Yazıtı, Alanya Müzesi'nde sergilenmektedir. Yazıt Laertes buluntuları arasında Roma öncesi döneme ait tek örnektir. Ören yeri ücretsiz gezilmektedir. == Kaynakça == == Dış bağlantılar == OpenStreetMap'te Laertes ile ilgili coğrafi veriler",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 215,
+      "char_count": 1634,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.284991",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Laertes (Grekçe: Λαέρτης), antik Kilikya'da bir kasabadır. Yunan filozof Diogenes Laertius'un bu kasabadan geldiği düşünülür. Strabon ise burayı bir kale olarak adlandırmıştır. Antik kent günümüzde, Antalya ilinin Alanya ilçesinin Gözüküçüklü köyü yakınlarında bulunur. Laertes, Alanya'nın 25 kilometre doğusunda Toroslar'da bir vadi ağzında yükselen yamacın eteğinde 850 metre deniz seviyesinden yükseklikte savunmaya uygun bir coğrafyada kuruludur. Kent, Antik Çağ'da Dağlık Kilikya olarak bilinen bölgenin içindedir. İç kesimde olmasına karşın kentin limanı da vardır. Kentten günümüze kalan ve Roma dönemine ait kalıntılar arasında gözetleme kuleleri, halkın agorada sohbet için kullandığı yarım daire biçiminde oturma birimi, İmparatorlar caddesi, odeon veya tiyatro; Zeus, Apollon ve Sezar adına yapılmış tapınaklar, agora, hamam ve nekropol sayılabilir. Kent M.S. 1. yüzyıldan 3. yüzyıla kadar en parlak dönemini yaşamıştır. Kazılar sırasında bulunan ve Alanya Müzesi'nde sergilenen bir askere",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1545,
+      "content": "a yapılmış tapınaklar, agora, hamam ve nekropol sayılabilir. Kent M.S. 1. yüzyıldan 3. yüzyıla kadar en parlak dönemini yaşamıştır. Kazılar sırasında bulunan ve Alanya Müzesi'nde sergilenen bir askere ait diploma, geçmişteki yaşama ışık tutacak niteliktedir. İsa'dan sonra 138 yılına ait Pamfilya Valisi'nin adının geçtiği belgede Suriyeli bir asker 25 yıllık şerefli hizmetlerinden sonra terhis edilmekte ve kendisine Roma vatandaşlığı ile Pamfilya'lı bir kadınla evlenme hakkı verilmektedir. Laertes'te ikincil bir konumda bulunmuş MÖ 7. yüzyıla ait ve üç yanı Fenike dilindeki Cebelireis Dağı Yazıtı, Alanya Müzesi'nde sergilenmektedir. Yazıt Laertes buluntuları arasında Roma öncesi döneme ait tek örnektir. Ören yeri ücretsiz gezilmektedir.",
+      "char_count": 745,
+      "token_estimate": 186
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1561,
+      "end_char": 1634,
+      "content": "== Dış bağlantılar == OpenStreetMap'te Laertes ile ilgili coğrafi veriler",
+      "char_count": 73,
+      "token_estimate": 18
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Laertes antik kenti günümüzde hangi ilçe ve il sınırları içinde yer almaktadır?",
+        "answer": "Antalya ilinin Alanya ilçesinin Gözüküçüklü köyü yakınlarında bulunur.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Alanya Müzesi'nde sergilenen Laertes buluntuları hangi farklı tarihi dönemleri temsil etmektedir ve bu dönemleri gösteren belirli eserler nelerdir?",
+        "answer": "Alanya Müzesi'nde sergilenen Laertes buluntuları, M.Ö. 7. yüzyıla ait Fenike dilindeki Cebelireis Dağı Yazıtı ile temsil edilen Roma öncesi dönemi ve M.S. 1. yüzyıldan 3. yüzyıla kadar en parlak dönemini yaşayan Roma dönemine ait M.S. 138 yılına ait bir askere ait diploma ve diğer kalıntıları kapsayan farklı tarihi dönemleri yansıtmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

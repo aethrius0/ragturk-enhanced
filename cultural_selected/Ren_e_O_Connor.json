@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "reneoconnor_7fb8f796",
+    "title": "Renée O'Connor",
+    "url": "https://tr.wikipedia.org/wiki/Ren%C3%A9e_O%27Connor",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:48.303804",
+    "content": "Evelyn Renée O'Connor (d. 15 Şubat 1971, Katy, Teksas), Amerikalı oyuncudur. Zeyna adlı (1995-2001) televizyon dizisinde rol almıştır. Biyolojik anne ve babası Sandra ve Walter O'Connor'dır. Onun annesi Sandra, üvey babası ise Eddie Wilson'dur. İlk rolü sekiz yaşında almıştır. Televizyon kariyeri 16 yaşında başlamıştır. Evli olup, bir oğlu ve bir kızı vardır. == Filmografi == === Sinema === 2001: Accidents Don't Happen 2008: Diamonds and Guns 2011: Deadrise 2011: Are You Kidding Me 2015: Beyond the Farthest Star 2017: A Question of Faith 2017: Watch the Sky === TV dizileri === 1989: Teen Angel 1991: FBI: The Untold Stories 1995: Xena: Warrior Princess 2007: Filmnut 2009: Ark 2012: From the Mouths of Babes === TV filmleri === 1989: Match Point 1994: Hercules: The Legendary Journeys - Hercules and the Lost Kingdom 1995: The Rockford Files: A Blessing in Disguise 2005: Alien Apocalypse 2008: Monster Ark 2014: Broken Things 2015: Last Chance === Video filmler === 1995: Darkman II: The Return of Durant 1998: Hercules and Xena - The Animated Movie: The Battle for Mount Olympus 2005: Xena Warrior Princess: The Final Season 2008: Behind the Scenes of 'Ghost Town: The Movie' 2010: 2010: Moby Dick == Dış bağlantılar == http://www.reneeoconnorfanclub.com18 Mart 2011 tarihinde Wayback Machine sitesinde arşivlendi.- Fanclub http://www.reneeoconnor.info/index.php12 Ekim 2008 tarihinde Wayback Machine sitesinde arşivlendi.- Ausxip http://thestarscoop.com/archives/renee-oconnor.php20 Ağustos 2008 tarihinde Wayback Machine sitesinde arşivlendi.- Thestascoop",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 226,
+      "char_count": 1566,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.283802",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 362,
+      "content": "Evelyn Renée O'Connor (d. 15 Şubat 1971, Katy, Teksas), Amerikalı oyuncudur. Zeyna adlı (1995-2001) televizyon dizisinde rol almıştır. Biyolojik anne ve babası Sandra ve Walter O'Connor'dır. Onun annesi Sandra, üvey babası ise Eddie Wilson'dur. İlk rolü sekiz yaşında almıştır. Televizyon kariyeri 16 yaşında başlamıştır. Evli olup, bir oğlu ve bir kızı vardır.",
+      "char_count": 361,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0001",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 379,
+      "end_char": 564,
+      "content": "=== Sinema === 2001: Accidents Don't Happen 2008: Diamonds and Guns 2011: Deadrise 2011: Are You Kidding Me 2015: Beyond the Farthest Star 2017: A Question of Faith 2017: Watch the Sky",
+      "char_count": 184,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0002",
+      "section": "=== TV dizileri ===",
+      "heading_path": "=== TV dizileri ===",
+      "start_char": 564,
+      "end_char": 715,
+      "content": "=== TV dizileri === 1989: Teen Angel 1991: FBI: The Untold Stories 1995: Xena: Warrior Princess 2007: Filmnut 2009: Ark 2012: From the Mouths of Babes",
+      "char_count": 150,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0003",
+      "section": "=== TV filmleri ===",
+      "heading_path": "=== TV filmleri ===",
+      "start_char": 715,
+      "end_char": 952,
+      "content": "=== TV filmleri === 1989: Match Point 1994: Hercules: The Legendary Journeys - Hercules and the Lost Kingdom 1995: The Rockford Files: A Blessing in Disguise 2005: Alien Apocalypse 2008: Monster Ark 2014: Broken Things 2015: Last Chance",
+      "char_count": 236,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0004",
+      "section": "=== Video filmler ===",
+      "heading_path": "=== Video filmler ===",
+      "start_char": 952,
+      "end_char": 1207,
+      "content": "=== Video filmler === 1995: Darkman II: The Return of Durant 1998: Hercules and Xena - The Animated Movie: The Battle for Mount Olympus 2005: Xena Warrior Princess: The Final Season 2008: Behind the Scenes of 'Ghost Town: The Movie' 2010: 2010: Moby Dick",
+      "char_count": 254,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1207,
+      "end_char": 1566,
+      "content": "== Dış bağlantılar == http://www.reneeoconnorfanclub.com18 Mart 2011 tarihinde Wayback Machine sitesinde arşivlendi.- Fanclub http://www.reneeoconnor.info/index.php12 Ekim 2008 tarihinde Wayback Machine sitesinde arşivlendi.- Ausxip http://thestarscoop.com/archives/renee-oconnor.php20 Ağustos 2008 tarihinde Wayback Machine sitesinde arşivlendi.- Thestascoop",
+      "char_count": 359,
+      "token_estimate": 89
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Evelyn Renée O'Connor ne zaman ve nerede doğmuştur?",
+        "answer": "15 Şubat 1971 tarihinde Katy, Teksas'ta doğmuştur.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Evelyn Renée O'Connor'ın televizyon kariyerindeki önemli bir rolü olan Zeyna dizisinin bitişi ile sinema kariyerine başlaması arasında nasıl bir ilişki gözlemlenmektedir?",
+        "answer": "Evelyn Renée O'Connor'ın Zeyna dizisindeki rolü 2001 yılında sona ermiş ve sinema kariyerindeki ilk filmleri de aynı yıl olan 2001'de başlamıştır, bu da televizyon projesinin bitimiyle sinema projelerine geçtiğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

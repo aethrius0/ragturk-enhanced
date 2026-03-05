@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "1048feodosia_f2974bf6",
+    "title": "1048 Feodosia",
+    "url": "https://tr.wikipedia.org/wiki/1048_Feodosia",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:47.082220",
+    "content": "1048 Feodosia, geçici ismi 1924 TP, yaklaşık 70 kilometre çapında, asteroit kuşağının orta bölgesinden gelen karbonlu bir asteroittir. 29 Kasım 1924'te Alman gök bilimci Karl Reinmuth tarafından güneybatı Almanya'daki Heidelberg Gözlemevi'nde keşfedilmiş ve Kırım'ın Feodosiya şehrinden adını almıştır. == Sınıflandırma ve yörünge == Feodosia, Güneş'in orta ana kuşağında 2,2–3,2 AB uzaklıkta; her 4 yıl ve 6 ayda bir (1.650 gün) döner. Yörüngesi, ekliptik ile ilgili olarak 0,18'lik bir eksantrikliğe ve 16°'lik bir eğime sahiptir. Gövdenin gözlem arkı, Heidelberg'deki resmi keşif gözleminden 3 yıl sonra Johannesburg'da başlar. 22 Kasım 2005'te TYC 1236-138 yıldızını örtmüş ve böylece Dünya'dan görülmüştür. == Fiziksel özellikler == Koyu C tipi asteroit, Tholen ve SMASS taksonomisinde sırasıyla XC ve Ch orta tipi olarak sınıflandırılır. === Fotometri === Mart 1985'te, Avrupalı astronom tarafından Şili'deki ESO'nun La Silla Gözlemevi'nde üç gece boyunca Bochum 0.61-metre Teleskopu kullanılarak Feodosia'nın dönen bir ışık eğrisi elde edildi. 0,14 büyüklük (U=2) parlaklık değişimi ile 10,46 saatlik bir dönüş periyodu verdi. Asteroit ayrıca Ocak 2007'de Fransız amatör astronom Pierre Antonini ve Şubat 2016'da İspanyol Observadores de Asteroides (OBAS) grubu tarafından gözlemlendi. Bununla birlikte, elde edilen ışık eğrileri yalnızca parça parçaydı ve sırasıyla 0,04 ve 0,13 büyüklük ve amplitüdü ile 23 ve 35,2 saatlik farklı bir süre verdi (U=1+/1). === Çapı ve albedosu === Kızılötesi Astronomik Uydu IRAS, Japon Akari uydusu ve ardından NEOWISE göreviyle NASA'nın Geniş Alan Kızılötesi Araştırma Gezgini tarafından gerçekleştirilen çalışmalara göre, asteroidin çapı 54,98 ile 85,14 kilometre arasında ve yüzeyi arasında 0,031 ve 0,06 bir albedo bulunuyor. Collaborative Asteroid Lightcurve Link, IRAS tarafından elde edilen sonuçları, yani 0,0452'lik bir albedo ve 9,75'lik mutlak kadire dayalı olarak 70,16 kilometrelik bir çapı benimser. == İsimlendirme == Bu küçük gezegen, Kırım yarımadasındaki Feodosiya kentinin adını almıştır. İsim, gövdenin yörünge ögelerini hesaplayan I. Putilin tarafından önerilmiştir. == Kaynakça == == Dış bağlantılar == Year 2008, 1048 Feodosia Occulation event (archived) Asteroid Lightcurve Database (LCDB) 10 Aralık 2017 tarihinde Wayback Machine sitesinde arşivlendi., query form (info 16 Aralık 2017 tarihinde Wayback Machine sitesinde arşivlendi.) Dictionary of Minor Planet Names, Google books Asteroids and comets rotation curves, CdR 29 Temmuz 2016 tarihinde Wayback Machine sitesinde arşivlendi. – Observatoire de Genève, Raoul Behrend Discovery Circumstances: Numbered Minor Planets (1)-(5000) 22 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. – Minor Planet Center 1048 Feodosia - AstDyS-2, Asteroitler—Dinamik Site Gök günlüğü · Gözlem tahmini · Yörünge bilgisi · Uygun yörünge öğeleri · Gözlem bilgisi 1048 Feodosia - JPL Small-Body Database En yakın yaklaşmalar · Keşif · Gök günlüğü · Yörünge grafiği · Yörünge öğeleri · Fiziksel parametreler",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 416,
+      "char_count": 3017,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:42.065411",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 303,
+      "content": "1048 Feodosia, geçici ismi 1924 TP, yaklaşık 70 kilometre çapında, asteroit kuşağının orta bölgesinden gelen karbonlu bir asteroittir. 29 Kasım 1924'te Alman gök bilimci Karl Reinmuth tarafından güneybatı Almanya'daki Heidelberg Gözlemevi'nde keşfedilmiş ve Kırım'ın Feodosiya şehrinden adını almıştır.",
+      "char_count": 302,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0001",
+      "section": "== Sınıflandırma ve yörünge ==",
+      "heading_path": "== Sınıflandırma ve yörünge ==",
+      "start_char": 303,
+      "end_char": 712,
+      "content": "== Sınıflandırma ve yörünge == Feodosia, Güneş'in orta ana kuşağında 2,2–3,2 AB uzaklıkta; her 4 yıl ve 6 ayda bir (1.650 gün) döner. Yörüngesi, ekliptik ile ilgili olarak 0,18'lik bir eksantrikliğe ve 16°'lik bir eğime sahiptir. Gövdenin gözlem arkı, Heidelberg'deki resmi keşif gözleminden 3 yıl sonra Johannesburg'da başlar. 22 Kasım 2005'te TYC 1236-138 yıldızını örtmüş ve böylece Dünya'dan görülmüştür.",
+      "char_count": 408,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0002",
+      "section": "== Fiziksel özellikler ==",
+      "heading_path": "== Fiziksel özellikler ==",
+      "start_char": 712,
+      "end_char": 844,
+      "content": "== Fiziksel özellikler == Koyu C tipi asteroit, Tholen ve SMASS taksonomisinde sırasıyla XC ve Ch orta tipi olarak sınıflandırılır.",
+      "char_count": 131,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0003",
+      "section": "=== Fotometri ===",
+      "heading_path": "=== Fotometri ===",
+      "start_char": 844,
+      "end_char": 1067,
+      "content": "=== Fotometri === Mart 1985'te, Avrupalı astronom tarafından Şili'deki ESO'nun La Silla Gözlemevi'nde üç gece boyunca Bochum 0.61-metre Teleskopu kullanılarak Feodosia'nın dönen bir ışık eğrisi elde edildi. 0,14 büyüklük (U",
+      "char_count": 223,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0004",
+      "section": "= 2) parlaklık değişimi ile 10,46 saatlik bir dönüş periyodu verdi. Asteroit ayrıca Ocak 2007'de Fransız amatör astronom Pierre Antonini ve Şubat 2016'da İspanyol Observadores de Asteroides (OBAS) grubu tarafından gözlemlendi. Bununla birlikte, elde edilen ışık eğrileri yalnızca parça parçaydı ve sırasıyla 0,04 ve 0,13 büyüklük ve amplitüdü ile 23 ve 35,2 saatlik farklı bir süre verdi (U=1+/1). == =",
+      "heading_path": "= 2) parlaklık değişimi ile 10,46 saatlik bir dönüş periyodu verdi. Asteroit ayrıca Ocak 2007'de Fransız amatör astronom Pierre Antonini ve Şubat 2016'da İspanyol Observadores de Asteroides (OBAS) grubu tarafından gözlemlendi. Bununla birlikte, elde edilen ışık eğrileri yalnızca parça parçaydı ve sırasıyla 0,04 ve 0,13 büyüklük ve amplitüdü ile 23 ve 35,2 saatlik farklı bir süre verdi (U=1+/1). == =",
+      "start_char": 1067,
+      "end_char": 1485,
+      "content": "=2) parlaklık değişimi ile 10,46 saatlik bir dönüş periyodu verdi. Asteroit ayrıca Ocak 2007'de Fransız amatör astronom Pierre Antonini ve Şubat 2016'da İspanyol Observadores de Asteroides (OBAS) grubu tarafından gözlemlendi. Bununla birlikte, elde edilen ışık eğrileri yalnızca parça parçaydı ve sırasıyla 0,04 ve 0,13 büyüklük ve amplitüdü ile 23 ve 35,2 saatlik farklı bir süre verdi (U=1+/1). === Çapı ve albedosu",
+      "char_count": 417,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0005",
+      "section": "== = Kızılötesi Astronomik Uydu IRAS, Japon Akari uydusu ve ardından NEOWISE göreviyle NASA'nın Geniş Alan Kızılötesi Araştırma Gezgini tarafından gerçekleştirilen çalışmalara göre, asteroidin çapı 54,98 ile 85,14 kilometre arasında ve yüzeyi arasında 0,031 ve 0,06 bir albedo bulunuyor. Collaborative Asteroid Lightcurve Link, IRAS tarafından elde edilen sonuçları, yani 0,0452'lik bir albedo ve 9,75'lik mutlak kadire dayalı olarak 70,16 kilometrelik bir çapı benimser. ==",
+      "heading_path": "== = Kızılötesi Astronomik Uydu IRAS, Japon Akari uydusu ve ardından NEOWISE göreviyle NASA'nın Geniş Alan Kızılötesi Araştırma Gezgini tarafından gerçekleştirilen çalışmalara göre, asteroidin çapı 54,98 ile 85,14 kilometre arasında ve yüzeyi arasında 0,031 ve 0,06 bir albedo bulunuyor. Collaborative Asteroid Lightcurve Link, IRAS tarafından elde edilen sonuçları, yani 0,0452'lik bir albedo ve 9,75'lik mutlak kadire dayalı olarak 70,16 kilometrelik bir çapı benimser. ==",
+      "start_char": 1485,
+      "end_char": 1972,
+      "content": "=== Kızılötesi Astronomik Uydu IRAS, Japon Akari uydusu ve ardından NEOWISE göreviyle NASA'nın Geniş Alan Kızılötesi Araştırma Gezgini tarafından gerçekleştirilen çalışmalara göre, asteroidin çapı 54,98 ile 85,14 kilometre arasında ve yüzeyi arasında 0,031 ve 0,06 bir albedo bulunuyor. Collaborative Asteroid Lightcurve Link, IRAS tarafından elde edilen sonuçları, yani 0,0452'lik bir albedo ve 9,75'lik mutlak kadire dayalı olarak 70,16 kilometrelik bir çapı benimser. == İsimlendirme",
+      "char_count": 486,
+      "token_estimate": 121
+    },
+    {
+      "id": "c0006",
+      "section": "== Bu küçük gezegen, Kırım yarımadasındaki Feodosiya kentinin adını almıştır. İsim, gövdenin yörünge ögelerini hesaplayan I. Putilin tarafından önerilmiştir. ==",
+      "heading_path": "== Bu küçük gezegen, Kırım yarımadasındaki Feodosiya kentinin adını almıştır. İsim, gövdenin yörünge ögelerini hesaplayan I. Putilin tarafından önerilmiştir. ==",
+      "start_char": 1972,
+      "end_char": 2142,
+      "content": "== Bu küçük gezegen, Kırım yarımadasındaki Feodosiya kentinin adını almıştır. İsim, gövdenin yörünge ögelerini hesaplayan I. Putilin tarafından önerilmiştir. == Kaynakça",
+      "char_count": 169,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0007",
+      "section": "== == Dış bağlantılar ==",
+      "heading_path": "== == Dış bağlantılar ==",
+      "start_char": 2142,
+      "end_char": 3017,
+      "content": "== == Dış bağlantılar == Year 2008, 1048 Feodosia Occulation event (archived) Asteroid Lightcurve Database (LCDB) 10 Aralık 2017 tarihinde Wayback Machine sitesinde arşivlendi., query form (info 16 Aralık 2017 tarihinde Wayback Machine sitesinde arşivlendi.) Dictionary of Minor Planet Names, Google books Asteroids and comets rotation curves, CdR 29 Temmuz 2016 tarihinde Wayback Machine sitesinde arşivlendi. – Observatoire de Genève, Raoul Behrend Discovery Circumstances: Numbered Minor Planets (1)-(5000) 22 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. – Minor Planet Center 1048 Feodosia - AstDyS-2, Asteroitler—Dinamik Site Gök günlüğü · Gözlem tahmini · Yörünge bilgisi · Uygun yörünge öğeleri · Gözlem bilgisi 1048 Feodosia - JPL Small-Body Database En yakın yaklaşmalar · Keşif · Gök günlüğü · Yörünge grafiği · Yörünge öğeleri · Fiziksel parametreler",
+      "char_count": 875,
+      "token_estimate": 218
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1048 Feodosia Örtülme olayı hangi yılda gerçekleşmiştir?",
+        "answer": "2008",
+        "related_chunk_ids": [
+          "c0007"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "1048 Feodosia, asteroit kuşağındaki bir gök cismi olarak, keşfedildiği zaman ve yörünge özelliklerine göre nasıl bir tanımlama alır?",
+        "answer": "1924 yılında Karl Reinmuth tarafından Heidelberg'de keşfedilen yaklaşık 70 kilometre çapında karbonlu bir asteroittir. Güneş'in orta ana kuşağında, 2,2–3,2 AB uzaklıkta her 4 yıl 6 ayda bir döner, 0,18'lik bir eksantrikliğe ve 16°'lik bir eğime sahip bir yörüngeye sahiptir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

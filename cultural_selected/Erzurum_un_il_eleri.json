@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "erzurumunileleri_e50a34e3",
+    "title": "Erzurum'un ilçeleri",
+    "url": "https://tr.wikipedia.org/wiki/Erzurum%27un_il%C3%A7eleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:12.995531",
+    "content": "Erzurum iline bağlı 20 ilçe bulunmaktadır. Aşkale Aziziye Çat Hınıs Horasan İspir Karaçoban Karayazı Köprüköy Narman Oltu Olur Palandöken Pasinler Pazaryolu Şenkaya Tekman Tortum Uzundere Yakutiye == Kaymakamlar == Görevde olan vali ve kaymakamlar aşağıdaki tabloda gösterilmiştir. (Mayıs 2025) == Belediyeler == === Belediye Başkanları === 31 Mart 2024 Yerel seçimleri sonucu seçilerek göreve başlayan Büyükşehir ve ilçe belediye başkanlıklarının bilgileri aşağıdadır. İYİ Parti'den Horasan Belediye Başkanı seçilen Hayrettin Özdemir, Yeniden Refah Partisi'nden Aziziye Belediye Başkanı seçilen Emrullah Akpunar ve Yeniden Refah Parti'sinden Köprüköy Belediye Başkanı seçilen Nevzat Karasu partilerinden istifa ederek AK Parti'ye katıldılar. === Belediye Meclisleri === Büyükşehir Belediye Meclisi, ilçelerin meclis üyelerinin bir kısmından oluşur. Bu sayılar genel toplama eklenmez. İlçe belediye başkanları ve seçecekleri kontenjan adayları, büyükşehir meclisinin bir kısmını oluşturur. Diğerleri ilçe nüfusu ve partinin aldığı oy oranına göre belirlenir. Erzurum Büyükşehir Belediye Meclisi üye sayısı 77, İlçe belediyelerinin toplam üye sayısı 300'dür. == Nüfus == Güncel Nüfus Değerleri (TÜİK 6 Şubat 2025 verileri) Erzurum İl Nüfusu: 745.005 (2024 sonu). İlin yüzölçümü 25.005 km2dir. İlde km2ye 30 kişi düşmektedir. (Yoğunluğun en fazla olduğu ilçe: 269 kişi ile Palandöken'dir.) İlde yıllık nüfus -%0,67 oranunda azalmıştır. Nüfus artış oranı en yüksek ve en düşük ilçeler: Yakutiye (%2,77) - Tortum (-%15,11) 06 Şubat 2025 TÜİK verilerine göre 20 ilçe ve belediye, bu belediyelerde toplam 1188 mahalle bulunmaktadır. === Yıllara göre ilçe nüfusları === ^a 2008 yılında yürürlüğe giren Büyükşehir Belediyesi Kanunu'nda yapılan değişiklik nedeniyle bu yıldan itibaren il merkezi nüfusu yer almamıştır. == Konum == *Metropol ilçelerin merkeze uzaklıkları, kaymakamlık ile valilik arasındaki uzaklıktır. == Ayrıca bakınız == Erzurum ilindeki yerleşim yerleri listesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 268,
+      "char_count": 1987,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.751099",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 197,
+      "content": "Erzurum iline bağlı 20 ilçe bulunmaktadır. Aşkale Aziziye Çat Hınıs Horasan İspir Karaçoban Karayazı Köprüköy Narman Oltu Olur Palandöken Pasinler Pazaryolu Şenkaya Tekman Tortum Uzundere Yakutiye",
+      "char_count": 196,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0001",
+      "section": "== Kaymakamlar ==",
+      "heading_path": "== Kaymakamlar ==",
+      "start_char": 197,
+      "end_char": 295,
+      "content": "== Kaymakamlar == Görevde olan vali ve kaymakamlar aşağıdaki tabloda gösterilmiştir. (Mayıs 2025)",
+      "char_count": 97,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0002",
+      "section": "=== Belediye Başkanları ===",
+      "heading_path": "=== Belediye Başkanları ===",
+      "start_char": 313,
+      "end_char": 743,
+      "content": "=== Belediye Başkanları === 31 Mart 2024 Yerel seçimleri sonucu seçilerek göreve başlayan Büyükşehir ve ilçe belediye başkanlıklarının bilgileri aşağıdadır. İYİ Parti'den Horasan Belediye Başkanı seçilen Hayrettin Özdemir, Yeniden Refah Partisi'nden Aziziye Belediye Başkanı seçilen Emrullah Akpunar ve Yeniden Refah Parti'sinden Köprüköy Belediye Başkanı seçilen Nevzat Karasu partilerinden istifa ederek AK Parti'ye katıldılar.",
+      "char_count": 429,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0003",
+      "section": "=== Belediye Meclisleri ===",
+      "heading_path": "=== Belediye Meclisleri ===",
+      "start_char": 743,
+      "end_char": 1158,
+      "content": "=== Belediye Meclisleri === Büyükşehir Belediye Meclisi, ilçelerin meclis üyelerinin bir kısmından oluşur. Bu sayılar genel toplama eklenmez. İlçe belediye başkanları ve seçecekleri kontenjan adayları, büyükşehir meclisinin bir kısmını oluşturur. Diğerleri ilçe nüfusu ve partinin aldığı oy oranına göre belirlenir. Erzurum Büyükşehir Belediye Meclisi üye sayısı 77, İlçe belediyelerinin toplam üye sayısı 300'dür.",
+      "char_count": 414,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0004",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 1158,
+      "end_char": 1627,
+      "content": "== Nüfus == Güncel Nüfus Değerleri (TÜİK 6 Şubat 2025 verileri) Erzurum İl Nüfusu: 745.005 (2024 sonu). İlin yüzölçümü 25.005 km2dir. İlde km2ye 30 kişi düşmektedir. (Yoğunluğun en fazla olduğu ilçe: 269 kişi ile Palandöken'dir.) İlde yıllık nüfus -%0,67 oranunda azalmıştır. Nüfus artış oranı en yüksek ve en düşük ilçeler: Yakutiye (%2,77) - Tortum (-%15,11) 06 Şubat 2025 TÜİK verilerine göre 20 ilçe ve belediye, bu belediyelerde toplam 1188 mahalle bulunmaktadır.",
+      "char_count": 468,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0005",
+      "section": "=== Yıllara göre ilçe nüfusları ===",
+      "heading_path": "=== Yıllara göre ilçe nüfusları ===",
+      "start_char": 1627,
+      "end_char": 1810,
+      "content": "=== Yıllara göre ilçe nüfusları === ^a 2008 yılında yürürlüğe giren Büyükşehir Belediyesi Kanunu'nda yapılan değişiklik nedeniyle bu yıldan itibaren il merkezi nüfusu yer almamıştır.",
+      "char_count": 182,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0006",
+      "section": "== Konum ==",
+      "heading_path": "== Konum ==",
+      "start_char": 1810,
+      "end_char": 1910,
+      "content": "== Konum == *Metropol ilçelerin merkeze uzaklıkları, kaymakamlık ile valilik arasındaki uzaklıktır.",
+      "char_count": 99,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0007",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1910,
+      "end_char": 1973,
+      "content": "== Ayrıca bakınız == Erzurum ilindeki yerleşim yerleri listesi",
+      "char_count": 62,
+      "token_estimate": 15
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2024 sonu itibarıyla Erzurum ilinin nüfusu kaçtır?",
+        "answer": "745.005",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Erzurum'un ilçeleriyle ilişkili olarak metinde hangi idari rol belirtilmiştir ve Mayıs 2025 itibarıyla Erzurum'daki hangi ilçelerin bu role sahip olması beklenir?",
+        "answer": "Metinde belirtilen idari rol kaymakamlıktır. Mayıs 2025 itibarıyla Erzurum'daki Aşkale, Aziziye, Çat, Hınıs, Horasan, İspir, Karaçoban, Karayazı, Köprüköy, Narman, Oltu, Olur, Palandöken, Pasinler, Pazaryolu, Şenkaya, Tekman, Tortum, Uzundere ve Yakutiye ilçelerinin kaymakamları olması beklenir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "akustik_6f90cde3",
+    "title": "Akustik",
+    "url": "https://tr.wikipedia.org/wiki/Akustik",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:13.489984",
+    "content": "Akustik (ses bilimi), sesi inceleyen bir bilim dalıdır. Katı, sıvı veya gaz halindeki maddelerde dalga yayılımının fiziksel özelliklerini inceler. Bunlar arasında gürültüye yol açan titreşimlerin ve gürültünün kontrolü de vardır. == Çalışmalar == Akustik ile uğraşan bilim insanları ve mühendisler, sesi ve insan işitmesini incelerler. Farklı nesnelerin sesle ne şekilde etkilendiklerini de araştırırlar. Mühendisler, uygun seste iletişim sistemleri ve binaları tasarımda bulunurlar. Zararlı yüksek seslerden insanları koruma yollarını bulurlar. Tüm çalışmalar insanların duymak istemedikleri zararsız seslere yöneliktir. Gürültüyü kontrol etmenin bir yolu, gürültü kaynağını daha sessiz hale getirmektir. Gürültü ile çalışan bir serinletici yanında hiç bulundunuz mu? Düşük hızda dönen büyük bir pervane, yüksek hızda dönen küçük bir pervaneden daha az gürültü çıkarır. Gürültü, bir yerden diğer bir yere geçmesini önlemekle azaltılabilir. Gürültü gelen bir odanın kapısını hiç kapattığınız oldu mu? Böyle yapmakla, perdeler ve akustik gereçler sesi soğururlar (yutarlar). Yansımış bir sesi işitirseniz buna yankı (akis) adı verilir. Geniş bir odayı uygun bir şekilde döşemekle yankılar giderilebilir. Bir sesten sonra saniyenin 1/20 si kadar bir süre içinde kulağınıza ulaşan bir yankı hiçbir problem yaratmaz. Zaman aralığı uzadığı takdirde, yankı sinirlendirici olabilir. Rahatsız edici diğer bir seste çoklu yankıdır. Reverberasyon adı verilen bu ses, yansımış birçok seslerin birleşip, yavaş yavaş sönümlenmesidir. Bir müzik salonunda bunlar bir saniyeden fazla sürmemelidir. Uzun perdelerin asılması, döşeme ve koltukların, duvarların yumuşak malzemelerden yapılması yankıları ve reverberasyonları azaltır. Çünkü ses daha kolaylıkla yutulmuş olur. Biyolojik akustik: Sesin balina, yunus, yarasa ve baykuş gibi hayvanlar tarafından nasıl kullanıldığını inceler. Su altı akustiği: Deniz yatağı ve su altında ses dalgalarının yayılımı, saçılımı ve etkileşimini inceler. Psikolojik ve fizyolojik akustik: İnsanların ve hayvanların seslere karşı olan fizyolojik ve psikolojik tepkilerini inceler. Elektro akustik: Sinyal işleme kuramının yankılanım alanındaki uygulamalarını inceler (akustik tecritçisi). Konuşma akustiği: Konuşma iletişimi için gereken ses dalgalarının insanlar tarafından üretimi, iletimi ve algısını inceler. Müziksel akustik: Müzik fiziğini, müziksel algıyı, müzik aletleri seslerinin çözümlenmesini ve birleşimini inceler. Mimari akustik: Kapalı alanların ve mimari yapıların akustik özelliklerini inceler. Gürültü akustiği: Gürültünün nasıl üretildiği ve yayıldığı, etken-edilgen gürültü denetimi ve gürültünün etkilerini inceler. Fiziksel akustik: Ses dalga yayılımının fiziksel özelliklerini (iletim,yansıma, kırınım, etkileşim, kırınım, dağılım, emilim vs.) inceler. Yapısal akustik ve titreşim yankılanımı: Mekanik dizgelerin bulundukları ortamla olan ilişkilerini ve ilgili ölçüm, çözümleme ve den inceler. == Dış bağlantılar == Anadolu Üniversitesi Türk Akustik Derneği 29 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. Audio Engineering Society 13 Kasım 2012 tarihinde Wayback Machine sitesinde arşivlendi. European Acoustics Association 1 Ağustos 2015 tarihinde Wayback Machine sitesinde arşivlendi. Acoustical Society of America",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 412,
+      "char_count": 3274,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.061434",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 230,
+      "content": "Akustik (ses bilimi), sesi inceleyen bir bilim dalıdır. Katı, sıvı veya gaz halindeki maddelerde dalga yayılımının fiziksel özelliklerini inceler. Bunlar arasında gürültüye yol açan titreşimlerin ve gürültünün kontrolü de vardır.",
+      "char_count": 229,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0001",
+      "section": "== Çalışmalar ==",
+      "heading_path": "== Çalışmalar ==",
+      "start_char": 230,
+      "end_char": 1230,
+      "content": "== Çalışmalar == Akustik ile uğraşan bilim insanları ve mühendisler, sesi ve insan işitmesini incelerler. Farklı nesnelerin sesle ne şekilde etkilendiklerini de araştırırlar. Mühendisler, uygun seste iletişim sistemleri ve binaları tasarımda bulunurlar. Zararlı yüksek seslerden insanları koruma yollarını bulurlar. Tüm çalışmalar insanların duymak istemedikleri zararsız seslere yöneliktir. Gürültüyü kontrol etmenin bir yolu, gürültü kaynağını daha sessiz hale getirmektir. Gürültü ile çalışan bir serinletici yanında hiç bulundunuz mu? Düşük hızda dönen büyük bir pervane, yüksek hızda dönen küçük bir pervaneden daha az gürültü çıkarır. Gürültü, bir yerden diğer bir yere geçmesini önlemekle azaltılabilir. Gürültü gelen bir odanın kapısını hiç kapattığınız oldu mu? Böyle yapmakla, perdeler ve akustik gereçler sesi soğururlar (yutarlar). Yansımış bir sesi işitirseniz buna yankı (akis) adı verilir. Geniş bir odayı uygun bir şekilde döşemekle yankılar giderilebilir. Bir sesten sonra saniyenin ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Çalışmalar ==",
+      "heading_path": "== Çalışmalar ==",
+      "start_char": 1030,
+      "end_char": 2030,
+      "content": "kustik gereçler sesi soğururlar (yutarlar). Yansımış bir sesi işitirseniz buna yankı (akis) adı verilir. Geniş bir odayı uygun bir şekilde döşemekle yankılar giderilebilir. Bir sesten sonra saniyenin 1/20 si kadar bir süre içinde kulağınıza ulaşan bir yankı hiçbir problem yaratmaz. Zaman aralığı uzadığı takdirde, yankı sinirlendirici olabilir. Rahatsız edici diğer bir seste çoklu yankıdır. Reverberasyon adı verilen bu ses, yansımış birçok seslerin birleşip, yavaş yavaş sönümlenmesidir. Bir müzik salonunda bunlar bir saniyeden fazla sürmemelidir. Uzun perdelerin asılması, döşeme ve koltukların, duvarların yumuşak malzemelerden yapılması yankıları ve reverberasyonları azaltır. Çünkü ses daha kolaylıkla yutulmuş olur. Biyolojik akustik: Sesin balina, yunus, yarasa ve baykuş gibi hayvanlar tarafından nasıl kullanıldığını inceler. Su altı akustiği: Deniz yatağı ve su altında ses dalgalarının yayılımı, saçılımı ve etkileşimini inceler. Psikolojik ve fizyolojik akustik: İnsanların ve hayvanla",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Çalışmalar ==",
+      "heading_path": "== Çalışmalar ==",
+      "start_char": 1830,
+      "end_char": 2830,
+      "content": "afından nasıl kullanıldığını inceler. Su altı akustiği: Deniz yatağı ve su altında ses dalgalarının yayılımı, saçılımı ve etkileşimini inceler. Psikolojik ve fizyolojik akustik: İnsanların ve hayvanların seslere karşı olan fizyolojik ve psikolojik tepkilerini inceler. Elektro akustik: Sinyal işleme kuramının yankılanım alanındaki uygulamalarını inceler (akustik tecritçisi). Konuşma akustiği: Konuşma iletişimi için gereken ses dalgalarının insanlar tarafından üretimi, iletimi ve algısını inceler. Müziksel akustik: Müzik fiziğini, müziksel algıyı, müzik aletleri seslerinin çözümlenmesini ve birleşimini inceler. Mimari akustik: Kapalı alanların ve mimari yapıların akustik özelliklerini inceler. Gürültü akustiği: Gürültünün nasıl üretildiği ve yayıldığı, etken-edilgen gürültü denetimi ve gürültünün etkilerini inceler. Fiziksel akustik: Ses dalga yayılımının fiziksel özelliklerini (iletim,yansıma, kırınım, etkileşim, kırınım, dağılım, emilim vs.) inceler. Yapısal akustik ve titreşim yankıla",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Çalışmalar ==",
+      "heading_path": "== Çalışmalar ==",
+      "start_char": 2630,
+      "end_char": 2936,
+      "content": "tünün etkilerini inceler. Fiziksel akustik: Ses dalga yayılımının fiziksel özelliklerini (iletim,yansıma, kırınım, etkileşim, kırınım, dağılım, emilim vs.) inceler. Yapısal akustik ve titreşim yankılanımı: Mekanik dizgelerin bulundukları ortamla olan ilişkilerini ve ilgili ölçüm, çözümleme ve den inceler.",
+      "char_count": 306,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2937,
+      "end_char": 3274,
+      "content": "== Dış bağlantılar == Anadolu Üniversitesi Türk Akustik Derneği 29 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. Audio Engineering Society 13 Kasım 2012 tarihinde Wayback Machine sitesinde arşivlendi. European Acoustics Association 1 Ağustos 2015 tarihinde Wayback Machine sitesinde arşivlendi. Acoustical Society of America",
+      "char_count": 337,
+      "token_estimate": 84
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Akustik ile uğraşan bilim insanları ve mühendisler ne gibi çalışmalar yaparlar?",
+        "answer": "Sesi ve insan işitmesini incelerler, farklı nesnelerin sesle ne şekilde etkilendiklerini araştırırlar. Ayrıca, uygun seste iletişim sistemleri ve binaları tasarlar ve insanları zararlı yüksek seslerden koruma yolları bulurlar.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Akustik bilimi, istenmeyen işitsel olaylar olan gürültü, yankı ve reverberasyonu yönetmeye ve azaltmaya nasıl katkıda bulunur?",
+        "answer": "Akustik, sesi ve dalga yayılımının fiziksel özelliklerini inceleyen bir bilim dalı olarak, istenmeyen işitsel olayların yönetilmesine çeşitli yollarla katkıda bulunur. Akustik bilim insanları ve mühendisleri, sesi ve insan işitmesini inceler, nesnelerin sesten nasıl etkilendiğini araştırır. Gürültüyü, kaynağını sessizleştirerek veya bir yerden bir yere geçişini engelleyerek kontrol edebilirler. Ayrıca, perdeler, yumuşak malzemelerle döşeme ve koltuklar gibi akustik gereçler kullanarak sesi soğurarak yankıları ve reverberasyonları azaltma yollarını bulurlar. Bu çalışmalarla, zararlı yüksek seslerden insanları korur ve uygun ses kalitesine sahip iletişim sistemleri ve binalar tasarlarlar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

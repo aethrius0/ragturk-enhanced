@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "agostinhoneto_bcd39b4a",
+    "title": "Agostinho Neto",
+    "url": "https://tr.wikipedia.org/wiki/Agostinho_Neto",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:53.859217",
+    "content": "António Agostinho Neto (17 Eylül 1922 - 10 Eylül 1979), Angolalı doktor, şair ve siyasetçidir. Neto, Afrika ülkesi Angola'nın bağımsızlığını kazandığı 1975 yılından itibaren 1979 yılındaki ölümüne kadar Cumhurbaşkanı olarak görev yapmıştır. Ülkesinin kurtuluş savaşına önderlik eden lider olarak görülen Neto'nun doğum günü Angola'da Ulusal Kahramanlar Günü olarak kutlanmaktadır. == Hayatı ve çalışmaları == Angola'nın Bengo şehrinde 1922 yılında doğdu. Luanda'da lise öğrenimi gördü. Portekiz'de Lizbon Coimbra Üniversitesi'nde tıp eğitimi aldı, 1959'da ülkesine dönerek bir süre doğduğu şehirde doktorluk yaptı. Bu sıralarda Angola ulusal kültürünü canlandırma hareketine katıldı. 1960'ta harekete liderlik etmeye başladı ve olaylar esnasında Portekizlilerce 30 sivil öldürüldü, yaklaşık 200 kişi yaralandı. Neto, Portekiz koloni makamlarınca önce Yeşil Burun Adaları'na sürgüne gönderilmiş, aynı yıl tutuklanarak Lizbon'da hapse atılmıştır. Hapisten kaçan Neto önce Fas'a sonra da Zaire'ye gitti. 1962 yılında kurtuluş savaşına devam etmek üzere ülkesine döndü. Angola halkının Portekiz sömürgeciliğine karşı verdiği kurtuluş savaşı, Şair Neto'nun önderliğinde daha yaygın ve daha güçlü bir yapıya ulaştı. 1962'de Washington ABD'ye giden şair, ülkesinin kurtuluş savaşına yardım için John F. Kennedy ile görüştü. 1969-1970 Asya Afrika Yazarlar Birliği'nden Lotus Ödülü'nü aldı. (1975-1976) yılında Lenin Barış Ödülü'nü kazandı. Angola bağımsızlıktan sonra SSCB ve diğer Doğu Bloku ülkeleriyle birlikte içe kapandı. Neto, Angola'nın cumhurbaşkanlığı makamında bulunmaktayken, 10 Eylül 1979 günü kanser tedavisi gördüğü Moskova'da bir hastanede öldü. Ülkesinde adını taşıyan bir üniversite bulunmaktadır. == Dış bağlantılar == Encyclopedia 15 Ocak 2006 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 233,
+      "char_count": 1802,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.886896",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 381,
+      "content": "António Agostinho Neto (17 Eylül 1922 - 10 Eylül 1979), Angolalı doktor, şair ve siyasetçidir. Neto, Afrika ülkesi Angola'nın bağımsızlığını kazandığı 1975 yılından itibaren 1979 yılındaki ölümüne kadar Cumhurbaşkanı olarak görev yapmıştır. Ülkesinin kurtuluş savaşına önderlik eden lider olarak görülen Neto'nun doğum günü Angola'da Ulusal Kahramanlar Günü olarak kutlanmaktadır.",
+      "char_count": 380,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ve çalışmaları ==",
+      "heading_path": "== Hayatı ve çalışmaları ==",
+      "start_char": 381,
+      "end_char": 1381,
+      "content": "== Hayatı ve çalışmaları == Angola'nın Bengo şehrinde 1922 yılında doğdu. Luanda'da lise öğrenimi gördü. Portekiz'de Lizbon Coimbra Üniversitesi'nde tıp eğitimi aldı, 1959'da ülkesine dönerek bir süre doğduğu şehirde doktorluk yaptı. Bu sıralarda Angola ulusal kültürünü canlandırma hareketine katıldı. 1960'ta harekete liderlik etmeye başladı ve olaylar esnasında Portekizlilerce 30 sivil öldürüldü, yaklaşık 200 kişi yaralandı. Neto, Portekiz koloni makamlarınca önce Yeşil Burun Adaları'na sürgüne gönderilmiş, aynı yıl tutuklanarak Lizbon'da hapse atılmıştır. Hapisten kaçan Neto önce Fas'a sonra da Zaire'ye gitti. 1962 yılında kurtuluş savaşına devam etmek üzere ülkesine döndü. Angola halkının Portekiz sömürgeciliğine karşı verdiği kurtuluş savaşı, Şair Neto'nun önderliğinde daha yaygın ve daha güçlü bir yapıya ulaştı. 1962'de Washington ABD'ye giden şair, ülkesinin kurtuluş savaşına yardım için John F. Kennedy ile görüştü. 1969-1970 Asya Afrika Yazarlar Birliği'nden Lotus Ödülü'nü aldı.",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ve çalışmaları ==",
+      "heading_path": "== Hayatı ve çalışmaları ==",
+      "start_char": 1181,
+      "end_char": 1706,
+      "content": "aha güçlü bir yapıya ulaştı. 1962'de Washington ABD'ye giden şair, ülkesinin kurtuluş savaşına yardım için John F. Kennedy ile görüştü. 1969-1970 Asya Afrika Yazarlar Birliği'nden Lotus Ödülü'nü aldı. (1975-1976) yılında Lenin Barış Ödülü'nü kazandı. Angola bağımsızlıktan sonra SSCB ve diğer Doğu Bloku ülkeleriyle birlikte içe kapandı. Neto, Angola'nın cumhurbaşkanlığı makamında bulunmaktayken, 10 Eylül 1979 günü kanser tedavisi gördüğü Moskova'da bir hastanede öldü. Ülkesinde adını taşıyan bir üniversite bulunmaktadır.",
+      "char_count": 525,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1707,
+      "end_char": 1802,
+      "content": "== Dış bağlantılar == Encyclopedia 15 Ocak 2006 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 95,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Agostinho Neto ne zaman ve nerede doğmuştur?",
+        "answer": "1922 yılında Angola'nın Bengo şehrinde doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "António Agostinho Neto'nun Portekiz sömürgeciliğine karşı Angola'nın kurtuluş mücadelesindeki rolünü, bu süreçteki uluslararası temaslarını ve ülkesinin bağımsızlık sonrası siyasi yönelimini bir bütün olarak nasıl değerlendirebiliriz?",
+        "answer": "António Agostinho Neto, Angola'nın ulusal kültürünü canlandırma hareketini başlattıktan sonra Portekiz sömürgeciliğine karşı verilen kurtuluş savaşına liderlik etmiştir. Bu mücadele sırasında sürgüne gönderilmiş, hapsedilmiş ve 1962'de ABD Başkanı John F. Kennedy ile görüşerek uluslararası destek aramıştır. Angola'nın 1975'te bağımsızlığını kazanmasının ardından ilk Cumhurbaşkanı olarak görev yapmıştır ve bu dönemde ülkesi SSCB ile Doğu Bloku ülkeleriyle birlikte içe kapanmıştır. Neto, cumhurbaşkanlığı görevini sürdürürken 1979'da kanser tedavisi gördüğü Moskova'da vefat etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "appleweather_5b10155c",
+    "title": "Apple Weather",
+    "url": "https://tr.wikipedia.org/wiki/Apple_Weather",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:53.029690",
+    "content": "Apple Weather Apple tarafından yapılan, iPhone OS 1'den bu yana iPhone ve iPad'lerde önceden yüklenmiş bir uygulamadır. Kullanıcı Hava Durumu uygulamasıyla, şehir adı, posta kodu ve hava alanı koduna göre hava durumunu arayabilir. Ayrıca, bir şehir listesi oluşturarak şehirleri istediği sırada izleyip düzenleyebilir. == Özellikleri == Hava Durumu uygulaması, kullanıcı izin verirse geçerli konumundaki iklimi ve sıcaklığı otomatik olarak takip eder. Bununla birlikte, kullanıcılar takip etmek isteyebileceği diğer konumları da ekleyebilir. İster seyahat ediyorsa, isterse dünyadaki aile, arkadaş ya da meslektaşları varsa, tüm bilgileri bir bakışta kolayca saklayabilir. Uygulama, kullanıcıya seçilen birtakım şehirlerin hava durumunu görme imkânı verir. IHava Durumu uygulaması, şehirlerin bir listesini, yerel saat ve sıcaklıklarla birlikte gösterebilir; bu da, geniş bir bilgi yelpazesine bakmak inanılmaz kolaylaştırır. Geçerli konumun hava durumuna ek olarak, şehir adı, posta veya posta kodu veya havaalanı kodu temel alınarak ek yerler de ekleyebilir. İstediğiniz sırayla tüm şehirleri düzenleyebilir ve artık istemediğiniz şehirleri kaldırabilirsiniz.Liste simgesine ve kullanıcının şehrin adını, posta kodunu veya posta kodunu veya havaalanı kodunu girmesini sağlayan artı simgesine basarak konumlar eklenebilir. Liste simgesine hafifçe vurarak ve kullanıcının silmek istediği yerde hızlıca kaydırarak konumlar kaldırılabilir. iOS 7'de, Apple'ın yerli hava durumu uygulaması, yerel koşullar hakkında oldukça seyrek bilgiye sahipti ve bulmak zordu. IOS 7'de varsayılan sunum, şehir, bulut koşulları ve sıcaklıktır. Bu çok seyrek bilgi verdi. iOS 8 tüm bunları düzeltir ve gün doğumu, günbatımı, atmosferik basınç ve daha iyi bir sunum içerir. iOS 9-da Apple, Yahoo Hava Durumu Kanalı uygulamasını iOS ürün yazılımından kaldırdı ve \"The Weather Channel\"in hava durumu uygulamasını ekledi. == Kaynakça == == Dış bağlantılar == Hava Durumu uygulaması 7 Nisan 2017 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 269,
+      "char_count": 2018,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.896985",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 319,
+      "content": "Apple Weather Apple tarafından yapılan, iPhone OS 1'den bu yana iPhone ve iPad'lerde önceden yüklenmiş bir uygulamadır. Kullanıcı Hava Durumu uygulamasıyla, şehir adı, posta kodu ve hava alanı koduna göre hava durumunu arayabilir. Ayrıca, bir şehir listesi oluşturarak şehirleri istediği sırada izleyip düzenleyebilir.",
+      "char_count": 318,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 319,
+      "end_char": 1319,
+      "content": "== Özellikleri == Hava Durumu uygulaması, kullanıcı izin verirse geçerli konumundaki iklimi ve sıcaklığı otomatik olarak takip eder. Bununla birlikte, kullanıcılar takip etmek isteyebileceği diğer konumları da ekleyebilir. İster seyahat ediyorsa, isterse dünyadaki aile, arkadaş ya da meslektaşları varsa, tüm bilgileri bir bakışta kolayca saklayabilir. Uygulama, kullanıcıya seçilen birtakım şehirlerin hava durumunu görme imkânı verir. IHava Durumu uygulaması, şehirlerin bir listesini, yerel saat ve sıcaklıklarla birlikte gösterebilir; bu da, geniş bir bilgi yelpazesine bakmak inanılmaz kolaylaştırır. Geçerli konumun hava durumuna ek olarak, şehir adı, posta veya posta kodu veya havaalanı kodu temel alınarak ek yerler de ekleyebilir. İstediğiniz sırayla tüm şehirleri düzenleyebilir ve artık istemediğiniz şehirleri kaldırabilirsiniz.Liste simgesine ve kullanıcının şehrin adını, posta kodunu veya posta kodunu veya havaalanı kodunu girmesini sağlayan artı simgesine basarak konumlar eklenebi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 1119,
+      "end_char": 1897,
+      "content": "istemediğiniz şehirleri kaldırabilirsiniz.Liste simgesine ve kullanıcının şehrin adını, posta kodunu veya posta kodunu veya havaalanı kodunu girmesini sağlayan artı simgesine basarak konumlar eklenebilir. Liste simgesine hafifçe vurarak ve kullanıcının silmek istediği yerde hızlıca kaydırarak konumlar kaldırılabilir. iOS 7'de, Apple'ın yerli hava durumu uygulaması, yerel koşullar hakkında oldukça seyrek bilgiye sahipti ve bulmak zordu. IOS 7'de varsayılan sunum, şehir, bulut koşulları ve sıcaklıktır. Bu çok seyrek bilgi verdi. iOS 8 tüm bunları düzeltir ve gün doğumu, günbatımı, atmosferik basınç ve daha iyi bir sunum içerir. iOS 9-da Apple, Yahoo Hava Durumu Kanalı uygulamasını iOS ürün yazılımından kaldırdı ve \"The Weather Channel\"in hava durumu uygulamasını ekledi.",
+      "char_count": 778,
+      "token_estimate": 194
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1913,
+      "end_char": 2018,
+      "content": "== Dış bağlantılar == Hava Durumu uygulaması 7 Nisan 2017 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 105,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hava Durumu uygulamasında yeni bir konum nasıl eklenebilir?",
+        "answer": "Liste simgesine ve kullanıcının şehrin adını, posta kodunu veya havaalanı kodunu girmesini sağlayan artı simgesine basılarak konumlar eklenebilir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Apple Hava Durumu uygulamasında, kullanıcıların farklı konumları takip edebilme özelliği korunurken, iOS sürümleri arasında sunulan hava durumu bilgilerinde ne gibi önemli gelişmeler yaşanmıştır?",
+        "answer": "Apple Hava Durumu uygulaması, kullanıcıların şehir adı, posta kodu veya havaalanı koduna göre birden fazla konumu aramasına, listelemesine, düzenlemesine ve kaldırmasına olanak tanıyarak bu özelliği iOS 1'den beri sürdürmüştür. Bununla birlikte, sunulan hava durumu bilgileri zamanla gelişmiştir. iOS 7'de sadece şehir, bulut koşulları ve sıcaklık gibi seyrek bilgiler sunulurken, iOS 8 bu durumu gün doğumu, gün batımı, atmosferik basınç gibi daha detaylı bilgiler ve daha iyi bir sunumla düzeltmiştir. Ayrıca, iOS 9'da uygulamanın veri kaynağı Yahoo Hava Durumu Kanalı'ndan The Weather Channel'a değiştirilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

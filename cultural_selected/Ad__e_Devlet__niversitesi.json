@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "adedevletniversitesi_6dfaac0f",
+    "title": "Adığe Devlet Üniversitesi",
+    "url": "https://tr.wikipedia.org/wiki/Ad%C4%B1%C4%9Fe_Devlet_%C3%9Cniversitesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:32.141547",
+    "content": "Adığe Devlet Üniversitesi (Adigece: Адыгэ Къэралыгъо Университет), Adığe Cumhuriyeti'nin başkenti Maykop'ta bulunan bir yüksek öğretim kurumudur. == Tarihçe == Adığe Devlet Üniversitesi'nin tarihi, 1940 yılında, Maykop'ta 1952'de Adığe Pedagoji Enstitüsü ve 1993'te bir devlet üniversitesi olan Öğretmen Enstitüsünün açılmasıyla başlar. Şu anda ADÜ, Adığe Cumhuriyeti'nin önde gelen eğitim ve araştırma merkezidir. == Yapı == Enstitüler: Sanat Enstitüsü Fiziksel Kültür ve Judo Enstitüsü Karmaşık Problemler Araştırma Enstitüsü Fakülteler: Matematik ve bilgisayar bilimi Mühendislik Fiziği Doğal bilim Tarihi Filolojik Adığe filolojisi ve kültürü Yabancı Diller Yasal Ekonomik Pedagojik Sosyal teknolojiler ve turizm Uluslararası Üniversitenin Apşeronsk, Beloreçensk, Yeysk, Novokubansk, Soçi şehirlerinde ve Koşhabl köyünde şubeleri bulunmaktadır. == Aktivite == Üniversite, yüksek ve orta mesleki eğitimin 42 uzmanlık alanında eğitim vermektedir. Üniversitede yaklaşık 2.000'i yabancı öğrenci olmak üzere yaklaşık 12.000 öğrenci eğitim görmektedir. Öğretim kadrosu - yakl. 650 kişi, bunların yakl. 100 Doktora ve yakl. 400 Doktora == Genel bilgi == Üniversite adresi: Rusya, 385000, Maykop, st. Pervomayskaya, 208. Üniversitenin rektörü Mamıy Daud Kazbekoviç'tir . == Rektörler == == Dış bağlantılar == Resmi site 5 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Adığe Devlet Üniversitesi (ADÜ) 29 Haziran 2023 tarihinde Wayback Machine sitesinde arşivlendi. Yüksek Mesleki Eğitim Federal Devlet Bütçe Eğitim Kurumu \"Adığe Devlet Üniversitesi\" (GOU VPO \"AGU\") MGGTK ASU 27 Haziran 2023 tarihinde Wayback Machine sitesinde arşivlendi. Devlet Üniversitesi (ASÜ) Adığe Devlet Üniversitesi 6 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 231,
+      "char_count": 1777,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.697960",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 146,
+      "content": "Adığe Devlet Üniversitesi (Adigece: Адыгэ Къэралыгъо Университет), Adığe Cumhuriyeti'nin başkenti Maykop'ta bulunan bir yüksek öğretim kurumudur.",
+      "char_count": 145,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 146,
+      "end_char": 415,
+      "content": "== Tarihçe == Adığe Devlet Üniversitesi'nin tarihi, 1940 yılında, Maykop'ta 1952'de Adığe Pedagoji Enstitüsü ve 1993'te bir devlet üniversitesi olan Öğretmen Enstitüsünün açılmasıyla başlar. Şu anda ADÜ, Adığe Cumhuriyeti'nin önde gelen eğitim ve araştırma merkezidir.",
+      "char_count": 268,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0002",
+      "section": "== Yapı ==",
+      "heading_path": "== Yapı ==",
+      "start_char": 415,
+      "end_char": 849,
+      "content": "== Yapı == Enstitüler: Sanat Enstitüsü Fiziksel Kültür ve Judo Enstitüsü Karmaşık Problemler Araştırma Enstitüsü Fakülteler: Matematik ve bilgisayar bilimi Mühendislik Fiziği Doğal bilim Tarihi Filolojik Adığe filolojisi ve kültürü Yabancı Diller Yasal Ekonomik Pedagojik Sosyal teknolojiler ve turizm Uluslararası Üniversitenin Apşeronsk, Beloreçensk, Yeysk, Novokubansk, Soçi şehirlerinde ve Koşhabl köyünde şubeleri bulunmaktadır.",
+      "char_count": 433,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0003",
+      "section": "== Aktivite ==",
+      "heading_path": "== Aktivite ==",
+      "start_char": 849,
+      "end_char": 1133,
+      "content": "== Aktivite == Üniversite, yüksek ve orta mesleki eğitimin 42 uzmanlık alanında eğitim vermektedir. Üniversitede yaklaşık 2.000'i yabancı öğrenci olmak üzere yaklaşık 12.000 öğrenci eğitim görmektedir. Öğretim kadrosu - yakl. 650 kişi, bunların yakl. 100 Doktora ve yakl. 400 Doktora",
+      "char_count": 283,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0004",
+      "section": "== Genel bilgi ==",
+      "heading_path": "== Genel bilgi ==",
+      "start_char": 1133,
+      "end_char": 1267,
+      "content": "== Genel bilgi == Üniversite adresi: Rusya, 385000, Maykop, st. Pervomayskaya, 208. Üniversitenin rektörü Mamıy Daud Kazbekoviç'tir .",
+      "char_count": 133,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1283,
+      "end_char": 1763,
+      "content": "== Dış bağlantılar == Resmi site 5 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Adığe Devlet Üniversitesi (ADÜ) 29 Haziran 2023 tarihinde Wayback Machine sitesinde arşivlendi. Yüksek Mesleki Eğitim Federal Devlet Bütçe Eğitim Kurumu \"Adığe Devlet Üniversitesi\" (GOU VPO \"AGU\") MGGTK ASU 27 Haziran 2023 tarihinde Wayback Machine sitesinde arşivlendi. Devlet Üniversitesi (ASÜ) Adığe Devlet Üniversitesi 6 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 479,
+      "token_estimate": 119
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Metinde bahsedilen üniversitelerden biri hangisidir?",
+        "answer": "Adığe Devlet Üniversitesi",
+        "related_chunk_ids": [
+          "c0005"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Adığe Cumhuriyeti'nin başkenti Maykop'ta yer alan Adığe Devlet Üniversitesi'nin tarihsel gelişimi ve günümüzdeki konumu nedir?",
+        "answer": "Adığe Devlet Üniversitesi'nin tarihi, Adığe Cumhuriyeti'nin başkenti Maykop'ta 1940 yılında Öğretmen Enstitüsü'nün açılmasıyla başlamıştır. Bu enstitü, 1952'de Adığe Pedagoji Enstitüsü'ne dönüşmüş ve 1993 yılında bir devlet üniversitesi olmuştur. Günümüzde, Adığe Cumhuriyeti'nin önde gelen eğitim ve araştırma merkezidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

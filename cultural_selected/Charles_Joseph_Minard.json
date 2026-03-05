@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "charlesjosephminard_6eecfdc2",
+    "title": "Charles Joseph Minard",
+    "url": "https://tr.wikipedia.org/wiki/Charles_Joseph_Minard",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:22.046585",
+    "content": "Charles Joseph Minard (27 Mart 1781 – 24 Ekim 1870, Bordeaux), bilgi grafiği sahasındaki buluşları ile anılan bir Fransız inşaat mühendisiydi. == Biyografi == Minard Dijon'da doğdu ve École Polytechnique'te bilim ve matematik, ardından École nationale des ponts et chaussées 'de (Köprü ve Yollar Okulu'nda) inşaat mühendisliği okudu. İnşaat mühendisi olarak Avrupa'nın çeşitli yerlerinde baraj, kanal ve köprü projelerinde uzun süre çalıştıktan sonra, 1830'da École nationale des ponts et chaussées (Köprü ve Yollar Okulu) müdürlüğüne atandı, 1836'ya kadar bu mevkide kaldı. Daha sonra Köprüler İdaresi'nde (Corps des Ponts) müfetiş olup 1851'de emekli olana kadar bu görevi sürdürdü. Emekliliğinden sonra kendini özel araştırmalarına verdi. == Çalışmaları == === Bilgi grafiği === Minard mühendislik ve istatistikte grafik kullanımında bir öncüydü. Carte figurative des pertes successives en hommes de l'Armée Française dans la campagne de Russie 1812-1813 adlı grafiği ile meşhurdur, 1869'da yayımlanan bu akı haritası Napolyon'un hezimetle sonuçlanan 1812 Rusya Seferi hakkındaydı. Grafik iki-boyutlu bir resim üzerinde birkaç değişkeni birden göstermekteydi: Ordunun konumu ve yönü, bazı birliklerin ayrılıp sonra tekrar katıldıkları yerler de dahil olmak üzere. Ordunun azalan büyüklüğü (örneğin Berezina nehri geçişine bakınız). Geri çekilme sırasındaki düşük sıcaklıklar. Napolyon ordusunun Rusya Seferindeki akıbetinin bu dramatik sunumuna ilk Étienne-Jules Marey dikkati çekmiş, \"acımasız belagatıyla tarihçinin kalemine meydan okuyor\" demiştir. Edward Tufte, bu grafik için \"gelmiş geçmiş en iyi istatistik grafik olabilir\" demiş ve The Visual Display of Quantitative Information (Nicel Bilginin Görsel Sunumu) adlı eserinde onu ana örnek olarak kullanmıştır. Howard Wainer de onu bilgi grafiğinin bir mücevheri olarak tespit etmiş ve onu \"Grafikte Dünya Şampiyonu\" olmaya aday göstermiştir. Minard benzer tipte pek çok başka harita üretmiştir; Arthur Robinson toplam 51 tane saymaktadır. Bunlar çeşitli konular hakkındadır. == Ayrıca bakınız == Pasta grafiği William Playfair John Snow (hekim) == Kaynakça == == Daha çok okumak için == Michael Friendly (2002). Visions and re-visions of Charles Joseph Minard. Journal of Educational and Behavioral Statistics. 27 (1), 31–52. (İngilizce) Edward R. Tufte (2001). The Visual Display of Quantitative Information (2nd edition bas.). Graphics Press. ISBN 0961392142. KB1 bakım: Fazladan yazı (link) (İngilizce) == Dış bağlantılar == Minard için anma yazısı  12 Eylül 2011 tarihinde Wayback Machine sitesinde arşivlendi. (Fransızca) ve yazının Edward Tufte'nin sitesindeki İngilizce çevirisi  16 Mart 2010 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Minard'ın grafiği hakkında genel bilgiler ve özgün kaynaklar  6 Nisan 2020 tarihinde Wayback Machine sitesinde arşivlendi. Charles Joseph Minard'ın grafik eserleri 25 Nisan 2009 tarihinde Wayback Machine sitesinde arşivlendi. (Michael Friendly).",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 402,
+      "char_count": 2965,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.474332",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 143,
+      "content": "Charles Joseph Minard (27 Mart 1781 – 24 Ekim 1870, Bordeaux), bilgi grafiği sahasındaki buluşları ile anılan bir Fransız inşaat mühendisiydi.",
+      "char_count": 142,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 143,
+      "end_char": 742,
+      "content": "== Biyografi == Minard Dijon'da doğdu ve École Polytechnique'te bilim ve matematik, ardından École nationale des ponts et chaussées 'de (Köprü ve Yollar Okulu'nda) inşaat mühendisliği okudu. İnşaat mühendisi olarak Avrupa'nın çeşitli yerlerinde baraj, kanal ve köprü projelerinde uzun süre çalıştıktan sonra, 1830'da École nationale des ponts et chaussées (Köprü ve Yollar Okulu) müdürlüğüne atandı, 1836'ya kadar bu mevkide kaldı. Daha sonra Köprüler İdaresi'nde (Corps des Ponts) müfetiş olup 1851'de emekli olana kadar bu görevi sürdürdü. Emekliliğinden sonra kendini özel araştırmalarına verdi.",
+      "char_count": 598,
+      "token_estimate": 149
+    },
+    {
+      "id": "c0002",
+      "section": "=== Bilgi grafiği ===",
+      "heading_path": "=== Bilgi grafiği ===",
+      "start_char": 760,
+      "end_char": 1760,
+      "content": "=== Bilgi grafiği === Minard mühendislik ve istatistikte grafik kullanımında bir öncüydü. Carte figurative des pertes successives en hommes de l'Armée Française dans la campagne de Russie 1812-1813 adlı grafiği ile meşhurdur, 1869'da yayımlanan bu akı haritası Napolyon'un hezimetle sonuçlanan 1812 Rusya Seferi hakkındaydı. Grafik iki-boyutlu bir resim üzerinde birkaç değişkeni birden göstermekteydi: Ordunun konumu ve yönü, bazı birliklerin ayrılıp sonra tekrar katıldıkları yerler de dahil olmak üzere. Ordunun azalan büyüklüğü (örneğin Berezina nehri geçişine bakınız). Geri çekilme sırasındaki düşük sıcaklıklar. Napolyon ordusunun Rusya Seferindeki akıbetinin bu dramatik sunumuna ilk Étienne-Jules Marey dikkati çekmiş, \"acımasız belagatıyla tarihçinin kalemine meydan okuyor\" demiştir. Edward Tufte, bu grafik için \"gelmiş geçmiş en iyi istatistik grafik olabilir\" demiş ve The Visual Display of Quantitative Information (Nicel Bilginin Görsel Sunumu) adlı eserinde onu ana örnek olarak kull",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Bilgi grafiği ===",
+      "heading_path": "=== Bilgi grafiği ===",
+      "start_char": 1560,
+      "end_char": 2034,
+      "content": "d Tufte, bu grafik için \"gelmiş geçmiş en iyi istatistik grafik olabilir\" demiş ve The Visual Display of Quantitative Information (Nicel Bilginin Görsel Sunumu) adlı eserinde onu ana örnek olarak kullanmıştır. Howard Wainer de onu bilgi grafiğinin bir mücevheri olarak tespit etmiş ve onu \"Grafikte Dünya Şampiyonu\" olmaya aday göstermiştir. Minard benzer tipte pek çok başka harita üretmiştir; Arthur Robinson toplam 51 tane saymaktadır. Bunlar çeşitli konular hakkındadır.",
+      "char_count": 474,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2035,
+      "end_char": 2105,
+      "content": "== Ayrıca bakınız == Pasta grafiği William Playfair John Snow (hekim)",
+      "char_count": 69,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0005",
+      "section": "== Daha çok okumak için ==",
+      "heading_path": "== Daha çok okumak için ==",
+      "start_char": 2120,
+      "end_char": 2466,
+      "content": "== Daha çok okumak için == Michael Friendly (2002). Visions and re-visions of Charles Joseph Minard. Journal of Educational and Behavioral Statistics. 27 (1), 31–52. (İngilizce) Edward R. Tufte (2001). The Visual Display of Quantitative Information (2nd edition bas.). Graphics Press. ISBN 0961392142. KB1 bakım: Fazladan yazı (link) (İngilizce)",
+      "char_count": 345,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2466,
+      "end_char": 2965,
+      "content": "== Dış bağlantılar == Minard için anma yazısı  12 Eylül 2011 tarihinde Wayback Machine sitesinde arşivlendi. (Fransızca) ve yazının Edward Tufte'nin sitesindeki İngilizce çevirisi  16 Mart 2010 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Minard'ın grafiği hakkında genel bilgiler ve özgün kaynaklar  6 Nisan 2020 tarihinde Wayback Machine sitesinde arşivlendi. Charles Joseph Minard'ın grafik eserleri 25 Nisan 2009 tarihinde Wayback Machine sitesinde arşivlendi. (Michael Friendly).",
+      "char_count": 499,
+      "token_estimate": 124
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Minard'ın meşhur Carte figurative des pertes successives en hommes de l'Armée Française dans la campagne de Russie 1812-1813 adlı akı haritası hangi yıl yayımlanmıştır?",
+        "answer": "1869",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Charles Joseph Minard'ın kariyerindeki farklı aşamalar, bilgi grafiği alanındaki öncü çalışmalarıyla nasıl bir bağlantı taşımaktadır?",
+        "answer": "Minard, inşaat mühendisi olarak Avrupa genelinde baraj, kanal ve köprü projelerinde çalıştı, ardından Köprü ve Yollar Okulu'nda müdürlük ve Köprüler İdaresi'nde müfettişlik gibi idari görevlerde bulundu. Emekliliğinden sonra kendini özel araştırmalarına vererek mühendislik ve istatistikte grafik kullanımında öncü oldu ve \"Carte figurative des pertes successives en hommes de l'Armée Française dans la campagne de Russie 1812-1813\" gibi ünlü bilgi grafikleri yarattı. Onun mühendislik ve idari birikimi, bilgi grafiği alanındaki yenilikçi yaklaşımına temel oluşturmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

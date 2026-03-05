@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "adamtoledonunldrlmes_5d4b577e",
+    "title": "Adam Toledo'nun öldürülmesi",
+    "url": "https://tr.wikipedia.org/wiki/Adam_Toledo%27nun_%C3%B6ld%C3%BCr%C3%BClmesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:37.832669",
+    "content": "29 Mart 2021'de, 13 yaşındaki Latino Amerikalı Adam Toledo, Chicago'nun Batı Yakası'ndaki Little Village semtinde Chicago Polis Departmanı memuru Eric Stillman tarafından vurularak öldürüldü. Olaydan sonra, Chicago Polis Departmanı, Toledo'nun vurulmasının polisle \"silahlı çatışma\" sonrasında gerçekleştiğini açıkladı; daha sonra ise \"silahlı\" kelimesini kaldıran bir basın açıklaması yayınladı. 15 Nisan'da Stillman'ın vücut kamerası görüntüleri yayınlandı, Toledo'nun polise vücudunu dönmeden hemen önce elindeki tabancayı bıraktığını ve ellerini silahsız kaldırdığını gösteriyordu. CPD'ye göre, olay yerinde bulunan tabanca boştu. Toledo'nun ailesinin avukatı, yayınlanan görüntülerin, Toledo'nun polis memurunun tüm söylediklerini yerine getirdiğini gösterdiğini söyledi. Bir görgü tanığı, Toledo'nun öldürülmeden önce polis memurunun isteklerini yerine getirdiğini doğruladı. Görüntülerin yayınlanması Chicago'da ve ülke çapında protestoları ateşledi. Toledo, son yıllarda Illinois eyaletinde polis tarafından öldürülen en genç insanlardan biri oldu Ölümü, bazı araştırmacılar tarafından Latinolara ve diğer beyaz olmayan çocuklara yönelik, son zamanlarda artan orantısız polis şiddetine bağlanmıştır. Olay ayrıca Amerika Birleşik Devletleri'nde, silahsız ve beyaz olmayan insanları öldüren diğer birçok polis davasıyla boğuşurken meydana geldi. == İlgili kişiler == === Adam Toledo === Adam Toledo, Chicago'daki Little Village mahallesinden Gary İlköğretim Okulu'ndaki özel eğitim programında yedinci sınıf öğrencisiydi. Öldürüldüğünde ise 13 yaşındaydı. === Ruben Roman === Ruben Roman, 29 Mart'ta Toledo'yla birlikte olan 21 yaşındaki genç, olay yerinde Chicago Polis Teşkilatı tarafından tutuklandı. === Eric Stillman === Eric Stillman, Toledo'yu vuran 34 yaşındaki polis memuru. 2015'ten beri Chicago Polis Departmanında çalışıyordu. Olayı takiben 30 gün idari izne alındı == Olay == === Raporlar === == Tepkiler == === Protestolar === Toledo'nun ölümünü izle günlerde Chicago'da protestolar patlak verdi. == Dış bağlantılar == WLS-TV'nin Youtube üzerinden yayınladığı vücut kamera görüntüleri 22 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi. Illinois Başsavcısına göre Chicago Polis Mutabakat Kararı 24 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi. Little Village Hikayesi, 22 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça == == Ayrıca bakınız == George Floyd'un öldürülmesi 2014 Ferguson protestoları Michael Brown Amadou Diallo cinayeti 1992 Los Angeles olayları Trayvon Martin'in vurulması",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 321,
+      "char_count": 2555,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.745732",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "29 Mart 2021'de, 13 yaşındaki Latino Amerikalı Adam Toledo, Chicago'nun Batı Yakası'ndaki Little Village semtinde Chicago Polis Departmanı memuru Eric Stillman tarafından vurularak öldürüldü. Olaydan sonra, Chicago Polis Departmanı, Toledo'nun vurulmasının polisle \"silahlı çatışma\" sonrasında gerçekleştiğini açıkladı; daha sonra ise \"silahlı\" kelimesini kaldıran bir basın açıklaması yayınladı. 15 Nisan'da Stillman'ın vücut kamerası görüntüleri yayınlandı, Toledo'nun polise vücudunu dönmeden hemen önce elindeki tabancayı bıraktığını ve ellerini silahsız kaldırdığını gösteriyordu. CPD'ye göre, olay yerinde bulunan tabanca boştu. Toledo'nun ailesinin avukatı, yayınlanan görüntülerin, Toledo'nun polis memurunun tüm söylediklerini yerine getirdiğini gösterdiğini söyledi. Bir görgü tanığı, Toledo'nun öldürülmeden önce polis memurunun isteklerini yerine getirdiğini doğruladı. Görüntülerin yayınlanması Chicago'da ve ülke çapında protestoları ateşledi. Toledo, son yıllarda Illinois eyaletinde p",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1351,
+      "content": "o'nun öldürülmeden önce polis memurunun isteklerini yerine getirdiğini doğruladı. Görüntülerin yayınlanması Chicago'da ve ülke çapında protestoları ateşledi. Toledo, son yıllarda Illinois eyaletinde polis tarafından öldürülen en genç insanlardan biri oldu Ölümü, bazı araştırmacılar tarafından Latinolara ve diğer beyaz olmayan çocuklara yönelik, son zamanlarda artan orantısız polis şiddetine bağlanmıştır. Olay ayrıca Amerika Birleşik Devletleri'nde, silahsız ve beyaz olmayan insanları öldüren diğer birçok polis davasıyla boğuşurken meydana geldi.",
+      "char_count": 551,
+      "token_estimate": 137
+    },
+    {
+      "id": "c0002",
+      "section": "=== Adam Toledo ===",
+      "heading_path": "=== Adam Toledo ===",
+      "start_char": 1373,
+      "end_char": 1562,
+      "content": "=== Adam Toledo === Adam Toledo, Chicago'daki Little Village mahallesinden Gary İlköğretim Okulu'ndaki özel eğitim programında yedinci sınıf öğrencisiydi. Öldürüldüğünde ise 13 yaşındaydı.",
+      "char_count": 188,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0003",
+      "section": "=== Ruben Roman ===",
+      "heading_path": "=== Ruben Roman ===",
+      "start_char": 1562,
+      "end_char": 1710,
+      "content": "=== Ruben Roman === Ruben Roman, 29 Mart'ta Toledo'yla birlikte olan 21 yaşındaki genç, olay yerinde Chicago Polis Teşkilatı tarafından tutuklandı.",
+      "char_count": 147,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0004",
+      "section": "=== Eric Stillman ===",
+      "heading_path": "=== Eric Stillman ===",
+      "start_char": 1710,
+      "end_char": 1884,
+      "content": "=== Eric Stillman === Eric Stillman, Toledo'yu vuran 34 yaşındaki polis memuru. 2015'ten beri Chicago Polis Departmanında çalışıyordu. Olayı takiben 30 gün idari izne alındı",
+      "char_count": 173,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0005",
+      "section": "=== Protestolar ===",
+      "heading_path": "=== Protestolar ===",
+      "start_char": 1927,
+      "end_char": 2017,
+      "content": "=== Protestolar === Toledo'nun ölümünü izle günlerde Chicago'da protestolar patlak verdi.",
+      "char_count": 89,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2017,
+      "end_char": 2374,
+      "content": "== Dış bağlantılar == WLS-TV'nin Youtube üzerinden yayınladığı vücut kamera görüntüleri 22 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi. Illinois Başsavcısına göre Chicago Polis Mutabakat Kararı 24 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi. Little Village Hikayesi, 22 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 356,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0007",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2389,
+      "end_char": 2555,
+      "content": "== Ayrıca bakınız == George Floyd'un öldürülmesi 2014 Ferguson protestoları Michael Brown Amadou Diallo cinayeti 1992 Los Angeles olayları Trayvon Martin'in vurulması",
+      "char_count": 166,
+      "token_estimate": 41
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "29 Mart 2021'de Chicago'da polis memuru Eric Stillman tarafından vurularak öldürülen 13 yaşındaki Latino Amerikalı çocuğun adı neydi?",
+        "answer": "Adam Toledo.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Adam Toledo'nun öldürülmesi ve Eric Stillman'ın vücut kamerası görüntülerinin yayınlanmasının hem doğrudan hem de daha geniş kapsamlı etkileri neler oldu?",
+        "answer": "Adam Toledo'nun öldürülmesi ve görüntülerinin yayınlanması doğrudan Chicago'da ve ülke çapında protestoları ateşledi. Daha geniş kapsamlı olarak ise, Toledo son yıllarda Illinois'de polis tarafından öldürülen en genç insanlardan biri oldu ve ölümü, bazı araştırmacılar tarafından Latinolara ve diğer beyaz olmayan çocuklara yönelik orantısız polis şiddetindeki artışla ilişkilendirildi. Bu olay, Amerika Birleşik Devletleri'nin silahsız ve beyaz olmayan insanları öldüren diğer birçok polis davasıyla boğuştuğu bir dönemde gerçekleşti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "rukenylmaz_f8e6806e",
+    "title": "Ruken Yılmaz",
+    "url": "https://tr.wikipedia.org/wiki/Ruken_Y%C4%B1lmaz",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:29.509634",
+    "content": "Ruken Yılmaz, (d. 1990, İstanbul) kürtçe müzikler yapan Kürt şarkıcı ve müzik öğretmenidir. Ruken, Siirt'in Eruh ilçesinden İstanbul'a taşınan Kürt bir ailenin kızıdır. 12 yaşında gitar öğrenmeye başladı ve küçük yaşta okul bandosunda müzik çalmaya başladı. == Biyografi == Ruken Yılmaz, 1990 yılında İstanbul'da doğan Kürt şarkıcı ve müzik öğretmenidir. Ruken, Türkiye'nin Siirt ilçesine bağlı Eruh ilçesinden İstanbul'a taşınan Kürt bir ailenin kızıdır. 12 yaşında gitar öğrenmeye başladı ve küçük yaşta okul bandosunda müzik çalmaya başladı. 2017 yılında Koma Asiyan adlı müzik grubu ile müzik yapmaya başladı. İstanbul Üniversitesi'nde müzik öğretmenliği bölümünden mezun oldu. == Diskografi == === Albüm === Zelî (2018) Sê Çiya (2022) === Single === 2018 - Tu Bihata 2020 - Xerîbe 2020 - Çi Çeme 2020 - Umut 2021 - Çoxo 2021 - Nêrgis 2021 - Depo Derave 2021 - Min Te Dîti Bu 2021 - Da Teyka Da Prika == Filmografi == === Klip === Zembîlfroş (2018) Min Te Dîti Bû (2021) == Kaynakça == == Dış bağlantılar == Ruken Yılmaz Spotify 17 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi. Ruken Yılmaz YouTube 24 Şubat 2023 tarihinde Wayback Machine sitesinde arşivlendi. Ruken Yılmaz Instagram Resmi web sitesi 17 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi. Twitter'da Ruken Yilmaz",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 203,
+      "char_count": 1301,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.628541",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 258,
+      "content": "Ruken Yılmaz, (d. 1990, İstanbul) kürtçe müzikler yapan Kürt şarkıcı ve müzik öğretmenidir. Ruken, Siirt'in Eruh ilçesinden İstanbul'a taşınan Kürt bir ailenin kızıdır. 12 yaşında gitar öğrenmeye başladı ve küçük yaşta okul bandosunda müzik çalmaya başladı.",
+      "char_count": 257,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 258,
+      "end_char": 682,
+      "content": "== Biyografi == Ruken Yılmaz, 1990 yılında İstanbul'da doğan Kürt şarkıcı ve müzik öğretmenidir. Ruken, Türkiye'nin Siirt ilçesine bağlı Eruh ilçesinden İstanbul'a taşınan Kürt bir ailenin kızıdır. 12 yaşında gitar öğrenmeye başladı ve küçük yaşta okul bandosunda müzik çalmaya başladı. 2017 yılında Koma Asiyan adlı müzik grubu ile müzik yapmaya başladı. İstanbul Üniversitesi'nde müzik öğretmenliği bölümünden mezun oldu.",
+      "char_count": 423,
+      "token_estimate": 105
+    },
+    {
+      "id": "c0002",
+      "section": "=== Albüm ===",
+      "heading_path": "=== Albüm ===",
+      "start_char": 699,
+      "end_char": 740,
+      "content": "=== Albüm === Zelî (2018) Sê Çiya (2022)",
+      "char_count": 40,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0003",
+      "section": "=== Single ===",
+      "heading_path": "=== Single ===",
+      "start_char": 740,
+      "end_char": 905,
+      "content": "=== Single === 2018 - Tu Bihata 2020 - Xerîbe 2020 - Çi Çeme 2020 - Umut 2021 - Çoxo 2021 - Nêrgis 2021 - Depo Derave 2021 - Min Te Dîti Bu 2021 - Da Teyka Da Prika",
+      "char_count": 164,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0004",
+      "section": "=== Klip ===",
+      "heading_path": "=== Klip ===",
+      "start_char": 922,
+      "end_char": 975,
+      "content": "=== Klip === Zembîlfroş (2018) Min Te Dîti Bû (2021)",
+      "char_count": 52,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 990,
+      "end_char": 1301,
+      "content": "== Dış bağlantılar == Ruken Yılmaz Spotify 17 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi. Ruken Yılmaz YouTube 24 Şubat 2023 tarihinde Wayback Machine sitesinde arşivlendi. Ruken Yılmaz Instagram Resmi web sitesi 17 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi. Twitter'da Ruken Yilmaz",
+      "char_count": 311,
+      "token_estimate": 77
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ruken Yılmaz hangi yıl doğmuştur?",
+        "answer": "1990",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ruken Yılmaz'ın erken yaşta müziğe olan ilgisi ve eğitimi, onun profesyonel müzik kariyerini nasıl şekillendirmiştir?",
+        "answer": "Ruken Yılmaz'ın 12 yaşında gitar öğrenmeye başlaması ve küçük yaşta okul bandosunda müzik çalmasıyla ortaya çıkan erken müzik ilgisi, onun profesyonel yaşamında müzik öğretmeni ve şarkıcı olarak devam etmesini sağlamıştır. İstanbul Üniversitesi'nde müzik öğretmenliği bölümünden mezun olması ve 2017 yılında Koma Asiyan adlı müzik grubu ile müzik yapmaya başlaması, bu erken ilginin profesyonel bir kariyere dönüşümünü göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

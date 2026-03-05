@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "carloazegliociampi_27fae75f",
+    "title": "Carlo Azeglio Ciampi",
+    "url": "https://tr.wikipedia.org/wiki/Carlo_Azeglio_Ciampi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:03.365377",
+    "content": "Carlo Azeglio Ciampi (d. 9 Aralık 1920, Livorno - ö. 16 Eylül 2016, Roma) İtalyan siyasetçi ve bankacı, 1993–1994 yılları arasında İtalya başbakanı ve 1999 - 2006 yılları arasında İtalya Cumhurbaşkanlığı görevini yürüttü. 2006'dan itibaren İtalyan Senatosu'nda 7 tabii senatörden biridir. == Hayatı == Livorno'da doğan 1941 yılında Pisa Üniversitesi'nin edebiyat bölümünden mezun oldu. Yarbay rütbesiyle Arnavutluk'ta görev yapması için çağrıldı. İtalyan Direniş Hareketi'ne katıldı. 1946'da Franca Pila ile evlendi. Aynı yıl Pisa Üniversitesi hukuk bölümünden mezun olup İtalyan Bankasında işe başladı. 2005 Mart ayında Oxford Üniversitesi tarafından kendisine fahri doktora verildi. == İtalyan Bankası == 1960 yılında bankanın merkez yönetimine seçilen Ciampi 1973'te genel sekreter, 1976'da genel müdür yardımcısı, 1978'de Genel Müdür oldu. 1979 Ekim ayında Guvernör atanan bu görevini 1993 yılında Başbakan olana kadar sürdürdü. == Başbakanlığı == 1993 yılının Nisan ayında teknokratlar hükûmetinin başbakanı olarak atandı. 1994 yılındaki erken seçime kadar bu görevi yürüten Ciampi 1996-1999 yılları arasında Prodi ve D'Alema hükûmetlerinde Hazine Bakanlığı yaptı. Bu dönemde Euro'ya geçiş çalışmalarıyla ilgilendi. == Cumhurbaşkanlığı == Hazine Bakanlığı görevinde iken Mayıs 1999'da yapılan seçimle İtalyan tarihine geçecek bir şekilde ilk turda Cumhurbaşkanı seçildi. Cumhurbaşkanlığı devrinde güncel politik konulara karışmamış ve herkesin anayasaya saygılı olması gerektiğini sık sık dile getirmiştir. Döneminde tüm partiler tarafından saygı görmüş olan Cumhurbaşkanı Ciampi görev süresinin dolmasına kısa bir süre kala yapılan ikinci dönem cumhurbaşkanı olması yönündeki teklifleri reddetmiştir. Cumhurbaşkanı olarak Vatikan ile ilişkilerde pek yakınlık göstermemiş, tüm İtalyan ulusu ideali yerine bölgesel milliyetçilik fikrini desteklemiştir. Ciampi 2005'te Charlemagne Ödülü ve École Normale Supérieure tarafından kendisine verilen fahri doktora ile taltif edilmiştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 260,
+      "char_count": 1998,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.328969",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 289,
+      "content": "Carlo Azeglio Ciampi (d. 9 Aralık 1920, Livorno - ö. 16 Eylül 2016, Roma) İtalyan siyasetçi ve bankacı, 1993–1994 yılları arasında İtalya başbakanı ve 1999 - 2006 yılları arasında İtalya Cumhurbaşkanlığı görevini yürüttü. 2006'dan itibaren İtalyan Senatosu'nda 7 tabii senatörden biridir.",
+      "char_count": 288,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 289,
+      "end_char": 685,
+      "content": "== Hayatı == Livorno'da doğan 1941 yılında Pisa Üniversitesi'nin edebiyat bölümünden mezun oldu. Yarbay rütbesiyle Arnavutluk'ta görev yapması için çağrıldı. İtalyan Direniş Hareketi'ne katıldı. 1946'da Franca Pila ile evlendi. Aynı yıl Pisa Üniversitesi hukuk bölümünden mezun olup İtalyan Bankasında işe başladı. 2005 Mart ayında Oxford Üniversitesi tarafından kendisine fahri doktora verildi.",
+      "char_count": 395,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0002",
+      "section": "== İtalyan Bankası ==",
+      "heading_path": "== İtalyan Bankası ==",
+      "start_char": 685,
+      "end_char": 933,
+      "content": "== İtalyan Bankası == 1960 yılında bankanın merkez yönetimine seçilen Ciampi 1973'te genel sekreter, 1976'da genel müdür yardımcısı, 1978'de Genel Müdür oldu. 1979 Ekim ayında Guvernör atanan bu görevini 1993 yılında Başbakan olana kadar sürdürdü.",
+      "char_count": 247,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0003",
+      "section": "== Başbakanlığı ==",
+      "heading_path": "== Başbakanlığı ==",
+      "start_char": 933,
+      "end_char": 1221,
+      "content": "== Başbakanlığı == 1993 yılının Nisan ayında teknokratlar hükûmetinin başbakanı olarak atandı. 1994 yılındaki erken seçime kadar bu görevi yürüten Ciampi 1996-1999 yılları arasında Prodi ve D'Alema hükûmetlerinde Hazine Bakanlığı yaptı. Bu dönemde Euro'ya geçiş çalışmalarıyla ilgilendi.",
+      "char_count": 287,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0004",
+      "section": "== Cumhurbaşkanlığı ==",
+      "heading_path": "== Cumhurbaşkanlığı ==",
+      "start_char": 1221,
+      "end_char": 1984,
+      "content": "== Cumhurbaşkanlığı == Hazine Bakanlığı görevinde iken Mayıs 1999'da yapılan seçimle İtalyan tarihine geçecek bir şekilde ilk turda Cumhurbaşkanı seçildi. Cumhurbaşkanlığı devrinde güncel politik konulara karışmamış ve herkesin anayasaya saygılı olması gerektiğini sık sık dile getirmiştir. Döneminde tüm partiler tarafından saygı görmüş olan Cumhurbaşkanı Ciampi görev süresinin dolmasına kısa bir süre kala yapılan ikinci dönem cumhurbaşkanı olması yönündeki teklifleri reddetmiştir. Cumhurbaşkanı olarak Vatikan ile ilişkilerde pek yakınlık göstermemiş, tüm İtalyan ulusu ideali yerine bölgesel milliyetçilik fikrini desteklemiştir. Ciampi 2005'te Charlemagne Ödülü ve École Normale Supérieure tarafından kendisine verilen fahri doktora ile taltif edilmiştir.",
+      "char_count": 762,
+      "token_estimate": 190
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ciampi, 2005 yılında hangi ödüllerle taltif edilmiştir?",
+        "answer": "Charlemagne Ödülü ve École Normale Supérieure tarafından verilen fahri doktora.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Carlo Azeglio Ciampi'nin, İtalya Başbakanı ve Cumhurbaşkanı gibi önemli siyasi görevleri üstlenmeden önceki eğitim ve erken mesleki yaşamı nasıldı?",
+        "answer": "Ciampi, 1941 yılında Pisa Üniversitesi'nin edebiyat bölümünden ve 1946'da hukuk bölümünden mezun oldu. Aynı yıl İtalyan Bankası'nda işe başlayarak bankacılık kariyerine adım attı. Ayrıca Yarbay rütbesiyle Arnavutluk'ta görev yaptı ve İtalyan Direniş Hareketi'ne katıldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

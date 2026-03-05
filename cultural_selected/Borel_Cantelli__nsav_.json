@@ -1,0 +1,163 @@
+{
+  "article": {
+    "id": "borelcantellinsav_06ee8844",
+    "title": "Borel-Cantelli önsavı",
+    "url": "https://tr.wikipedia.org/wiki/Borel-Cantelli_%C3%B6nsav%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:05.125532",
+    "content": "Olasılık kuramında Borel–Cantelli önsavı ya da Borel–Cantelli önermesi, ölçü kuramıyla elde edilen ve olay dizilerine ilişkin bir sonuçtur. Önerme, Émile Borel ve Francesco Paolo Cantelli'nin adlarını taşımaktadır. == Olasılık uzayları == (En) bir olasılık uzayında dizi olmak üzere, En'nin olasılıkları toplamı sonlu ise, ∑ n = 1 ∞ Pr ( E n ) < ∞ {\\displaystyle \\sum _{n=1}^{\\infty }\\Pr(E_{n})<\\infty } sonsuz sayıda olayın gerçekleşme olasılığı sıfır olarak hesaplanır. Pr ( lim sup n → ∞ E n ) = 0 {\\displaystyle \\Pr \\left(\\limsup _{n\\to \\infty }E_{n}\\right)=0} Burada, \"lim sup\" olay dizisinin üst limitini belirtmekte ve her olay bir sonuç dizisi olarak tanımlanmaktadır. lim sup En ise sonuçların (En) sonsuz olay dizisi içinde sonsuz sayıda gerçekleşmesi olasılığını göstermektedir. Bu olgu lim sup n → ∞ E n = ⋂ n = 1 ∞ ⋃ k = n ∞ E k {\\displaystyle \\limsup _{n\\to \\infty }E_{n}=\\bigcap _{n=1}^{\\infty }\\bigcup _{k=n}^{\\infty }E_{k}} biçiminde de ifade edilebilmektedir. Sav, En olaylarının gerçekleşme olasılıkları toplamının sonlu olması durumunda sonsuz kez 'yinelenen' sonuçların oluşturduğu kümenin meydana gelme olasılığının sıfıra eşit olduğunu ortaya koymaktadır. Bu sonuca varmak için herhangi bir bağımsızlık varsayımına gerek duyulmamaktadır. === Örnek === (Xn) her n için Pr(Xn = 0) = 1/n2 eşitliğini sağlayan bir rassal değişken dizisi olmak üzere, Xn = 0 ifadesinin sonsuz sayıda n için geçerli olma olasılığı sonsuz sayıda [Xn = 0] olaydan elde edilen bir kesitin gerçekleşme olasılığına eşittir. Burada sözü edilen kesit, her olayda ortak olarak gözlenen sonuçların oluşturduğu bir küme olarak tanımlanmaktadır. Buna karşın, ∑Pr(Xn = 0) dizisinin yakınsak olması (bu dizi π2/6 değerine eşit olan bir Riemann zeta işlevi olarak da görülebilir) sonsuz sayıda olayın her birinde gözlemlenen sonuçlar kümesinin meydana gelme olasılığının sıfır olmasına yol açmaktadır. Bu, Xn = 0 ifadesinin sonsuz sayıda n için gerçekleşme olasılığının 0 olduğunu göstermektedir. Xn'nin sonsuz sayıda n değeri için sıfırdan farklı olduğu neredeyse kesin (1 olasılıklı) olarak söylenebilir. == Genel ölçü uzayları == Borel–Cantelli önermesi genel ölçü uzayları için şu biçimde tanımlanmaktadır: μ bir X kümesi üzerinde tanımlı bir ölçü ve (An) F σ-cebirinde bir dizi olmak üzere ∑ n = 1 ∞ μ ( A n ) < ∞ {\\displaystyle \\sum _{n=1}^{\\infty }\\mu (A_{n})<\\infty } koşulu sağlanıyorsa μ ( lim sup n → ∞ A n ) = 0 {\\displaystyle \\mu \\left(\\limsup _{n\\to \\infty }A_{n}\\right)=0} eşitliği elde edilir. == Karşıt sonuç == İlk Borel–Cantelli önermesine kısmen karşıt bir sonuç üreten ve zaman zaman ikinci Borel–Cantelli önermesi olarak adlandırılan sav şöyle tanımlanmaktadır: En olayları bağımsızsa ve bu olayların gerçekleşme olasılıkları toplamı ıraksıyorsa bu tür sonsuz sayıda olayın meydana gelme olasılığı 1'dir. Bağımsızlık varsayımı parçalı bağımsızlığa indirgenebilmektedir, ancak bu durum önermenin kanıtını güçleştirmektedir. Sonsuz maymun kuramının özel bir durumu olan önerme Rn'de tanımlı bir kapsayıcı sav içermektedir. Ej ∑ j μ ( E j ) = ∞ {\\displaystyle \\sum _{j}\\mu (E_{j})=\\infty } koşulunu sağlayan ve Rn'de tanımlı bir tıkız kümenin Lebesgue ölçülü altkümelerinden oluşan bir yığın ise, lim sup F j = ⋂ n = 1 ∞ ⋃ k = n ∞ F k = R n {\\displaystyle \\lim \\sup F_{j}=\\bigcap _{n=1}^{\\infty }\\bigcup _{k=n}^{\\infty }F_{k}=\\mathbb {R} ^{n}} eşitliğini sağlayan bir Fj dizisi tanımlıdır. == Eş önerme == Eş Borel–Cantelli önermesi olarak da adlandırılan sav, özgün önermenin üst limitinin 1 olması için gerekli ve yeterli koşulları tanımlamaktadır. Sav, bağımsızlık varsayımını tümüyle değiştirerek ( A n ) {\\displaystyle (A_{n})} 'nin yeterince büyük n değerleri için sürekli artan bir örüntü oluşturduğunu kabullenmektedir. Önerme şöyle özetlenebilir: A k ⊆ A k + 1 {\\displaystyle A_{k}\\subseteq A_{k+1}} koşulunu sağlayan bir ( A n ) {\\displaystyle (A_{n})} tanımlı ve A ¯ {\\displaystyle {\\bar {A}}} A {\\displaystyle A} 'nın tümleyeni ise, sonsuz sayıda A k {\\displaystyle A_{k}} olayının gerçekleşme olasılığı ancak ve ancak ∑ k Pr ( A t k + 1 | A ¯ t k ) = ∞ {\\displaystyle \\sum _{k}\\Pr(A_{t_{k+1}}|{\\bar {A}}_{t_{k}})=\\infty } koşulunu sağlayan ve sürekli artan bir pozitif tam sayı dizisi tanımlıysa 1'e eşittir. == Notlar == == Kaynakça == == Dış bağlantılar == Borel–Cantelli önermesinin kanıtı 7 Ekim 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 662,
+      "char_count": 4370,
+      "num_chunks": 11,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.821143",
+    "total_chunks": 11,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 215,
+      "content": "Olasılık kuramında Borel–Cantelli önsavı ya da Borel–Cantelli önermesi, ölçü kuramıyla elde edilen ve olay dizilerine ilişkin bir sonuçtur. Önerme, Émile Borel ve Francesco Paolo Cantelli'nin adlarını taşımaktadır.",
+      "char_count": 214,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0001",
+      "section": "== Olasılık uzayları ==",
+      "heading_path": "== Olasılık uzayları ==",
+      "start_char": 215,
+      "end_char": 327,
+      "content": "== Olasılık uzayları == (En) bir olasılık uzayında dizi olmak üzere, En'nin olasılıkları toplamı sonlu ise, ∑ n",
+      "char_count": 111,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0002",
+      "section": "= 1 ∞ Pr ( E n ) < ∞ {\\displaystyle \\sum _{n=1}^{\\infty }\\Pr(E_{n})<\\infty } sonsuz sayıda olayın gerçekleşme olasılığı sıfır olarak hesaplanır. Pr ( lim sup n → ∞ E n ) =",
+      "heading_path": "= 1 ∞ Pr ( E n ) < ∞ {\\displaystyle \\sum _{n=1}^{\\infty }\\Pr(E_{n})<\\infty } sonsuz sayıda olayın gerçekleşme olasılığı sıfır olarak hesaplanır. Pr ( lim sup n → ∞ E n ) =",
+      "start_char": 327,
+      "end_char": 561,
+      "content": "= 1 ∞ Pr ( E n ) < ∞ {\\displaystyle \\sum _{n=1}^{\\infty }\\Pr(E_{n})<\\infty } sonsuz sayıda olayın gerçekleşme olasılığı sıfır olarak hesaplanır. Pr ( lim sup n → ∞ E n ) = 0 {\\displaystyle \\Pr \\left(\\limsup _{n\\to \\infty }E_{n}\\right)",
+      "char_count": 234,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0003",
+      "section": "= 0} Burada, \"lim sup\" olay dizisinin üst limitini belirtmekte ve her olay bir sonuç dizisi olarak tanımlanmaktadır. lim sup En ise sonuçların (En) sonsuz olay dizisi içinde sonsuz sayıda gerçekleşmesi olasılığını göstermektedir. Bu olgu lim sup n → ∞ E n =",
+      "heading_path": "= 0} Burada, \"lim sup\" olay dizisinin üst limitini belirtmekte ve her olay bir sonuç dizisi olarak tanımlanmaktadır. lim sup En ise sonuçların (En) sonsuz olay dizisi içinde sonsuz sayıda gerçekleşmesi olasılığını göstermektedir. Bu olgu lim sup n → ∞ E n =",
+      "start_char": 561,
+      "end_char": 822,
+      "content": "=0} Burada, \"lim sup\" olay dizisinin üst limitini belirtmekte ve her olay bir sonuç dizisi olarak tanımlanmaktadır. lim sup En ise sonuçların (En) sonsuz olay dizisi içinde sonsuz sayıda gerçekleşmesi olasılığını göstermektedir. Bu olgu lim sup n → ∞ E n = ⋂ n",
+      "char_count": 260,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0004",
+      "section": "= 1 ∞ ⋃ k =",
+      "heading_path": "= 1 ∞ ⋃ k =",
+      "start_char": 822,
+      "end_char": 885,
+      "content": "= 1 ∞ ⋃ k = n ∞ E k {\\displaystyle \\limsup _{n\\to \\infty }E_{n}",
+      "char_count": 63,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0005",
+      "section": "= \\bigcap _{n=1}^{\\infty }\\bigcup _{k=n}^{\\infty }E_{k}} biçiminde de ifade edilebilmektedir. Sav, En olaylarının gerçekleşme olasılıkları toplamının sonlu olması durumunda sonsuz kez 'yinelenen' sonuçların oluşturduğu kümenin meydana gelme olasılığının sıfıra eşit olduğunu ortaya koymaktadır. Bu sonuca varmak için herhangi bir bağımsızlık varsayımına gerek duyulmamaktadır. == =",
+      "heading_path": "= \\bigcap _{n=1}^{\\infty }\\bigcup _{k=n}^{\\infty }E_{k}} biçiminde de ifade edilebilmektedir. Sav, En olaylarının gerçekleşme olasılıkları toplamının sonlu olması durumunda sonsuz kez 'yinelenen' sonuçların oluşturduğu kümenin meydana gelme olasılığının sıfıra eşit olduğunu ortaya koymaktadır. Bu sonuca varmak için herhangi bir bağımsızlık varsayımına gerek duyulmamaktadır. == =",
+      "start_char": 885,
+      "end_char": 1271,
+      "content": "=\\bigcap _{n=1}^{\\infty }\\bigcup _{k=n}^{\\infty }E_{k}} biçiminde de ifade edilebilmektedir. Sav, En olaylarının gerçekleşme olasılıkları toplamının sonlu olması durumunda sonsuz kez 'yinelenen' sonuçların oluşturduğu kümenin meydana gelme olasılığının sıfıra eşit olduğunu ortaya koymaktadır. Bu sonuca varmak için herhangi bir bağımsızlık varsayımına gerek duyulmamaktadır. === Örnek",
+      "char_count": 385,
+      "token_estimate": 96
+    },
+    {
+      "id": "c0006",
+      "section": "== = (Xn) her n için Pr(Xn = 0) = 1/n2 eşitliğini sağlayan bir rassal değişken dizisi olmak üzere, Xn = 0 ifadesinin sonsuz sayıda n için geçerli olma olasılığı sonsuz sayıda [Xn = 0] olaydan elde edilen bir kesitin gerçekleşme olasılığına eşittir. Burada sözü edilen kesit, her olayda ortak olarak gözlenen sonuçların oluşturduğu bir küme olarak tanımlanmaktadır. Buna karşın, ∑Pr(Xn = 0) dizisinin yakınsak olması (bu dizi π2/6 değerine eşit olan bir Riemann zeta işlevi olarak da görülebilir) sonsuz sayıda olayın her birinde gözlemlenen sonuçlar kümesinin meydana gelme olasılığının sıfır olmasına yol açmaktadır. Bu, Xn = 0 ifadesinin sonsuz sayıda n için gerçekleşme olasılığının 0 olduğunu göstermektedir. Xn'nin sonsuz sayıda n değeri için sıfırdan farklı olduğu neredeyse kesin (1 olasılıklı) olarak söylenebilir. ==",
+      "heading_path": "== = (Xn) her n için Pr(Xn = 0) = 1/n2 eşitliğini sağlayan bir rassal değişken dizisi olmak üzere, Xn = 0 ifadesinin sonsuz sayıda n için geçerli olma olasılığı sonsuz sayıda [Xn = 0] olaydan elde edilen bir kesitin gerçekleşme olasılığına eşittir. Burada sözü edilen kesit, her olayda ortak olarak gözlenen sonuçların oluşturduğu bir küme olarak tanımlanmaktadır. Buna karşın, ∑Pr(Xn = 0) dizisinin yakınsak olması (bu dizi π2/6 değerine eşit olan bir Riemann zeta işlevi olarak da görülebilir) sonsuz sayıda olayın her birinde gözlemlenen sonuçlar kümesinin meydana gelme olasılığının sıfır olmasına yol açmaktadır. Bu, Xn = 0 ifadesinin sonsuz sayıda n için gerçekleşme olasılığının 0 olduğunu göstermektedir. Xn'nin sonsuz sayıda n değeri için sıfırdan farklı olduğu neredeyse kesin (1 olasılıklı) olarak söylenebilir. ==",
+      "start_char": 1271,
+      "end_char": 2116,
+      "content": "=== (Xn) her n için Pr(Xn = 0) = 1/n2 eşitliğini sağlayan bir rassal değişken dizisi olmak üzere, Xn = 0 ifadesinin sonsuz sayıda n için geçerli olma olasılığı sonsuz sayıda [Xn = 0] olaydan elde edilen bir kesitin gerçekleşme olasılığına eşittir. Burada sözü edilen kesit, her olayda ortak olarak gözlenen sonuçların oluşturduğu bir küme olarak tanımlanmaktadır. Buna karşın, ∑Pr(Xn = 0) dizisinin yakınsak olması (bu dizi π2/6 değerine eşit olan bir Riemann zeta işlevi olarak da görülebilir) sonsuz sayıda olayın her birinde gözlemlenen sonuçlar kümesinin meydana gelme olasılığının sıfır olmasına yol açmaktadır. Bu, Xn = 0 ifadesinin sonsuz sayıda n için gerçekleşme olasılığının 0 olduğunu göstermektedir. Xn'nin sonsuz sayıda n değeri için sıfırdan farklı olduğu neredeyse kesin (1 olasılıklı) olarak söylenebilir. == Genel ölçü uzayları",
+      "char_count": 844,
+      "token_estimate": 211
+    },
+    {
+      "id": "c0007",
+      "section": "== Borel–Cantelli önermesi genel ölçü uzayları için şu biçimde tanımlanmaktadır: μ bir X kümesi üzerinde tanımlı bir ölçü ve (An) F σ-cebirinde bir dizi olmak üzere ∑ n = 1 ∞ μ ( A n ) < ∞ {\\displaystyle \\sum _{n=1}^{\\infty }\\mu (A_{n})<\\infty } koşulu sağlanıyorsa μ ( lim sup n → ∞ A n ) = 0 {\\displaystyle \\mu \\left(\\limsup _{n\\to \\infty }A_{n}\\right)=0} eşitliği elde edilir. ==",
+      "heading_path": "== Borel–Cantelli önermesi genel ölçü uzayları için şu biçimde tanımlanmaktadır: μ bir X kümesi üzerinde tanımlı bir ölçü ve (An) F σ-cebirinde bir dizi olmak üzere ∑ n = 1 ∞ μ ( A n ) < ∞ {\\displaystyle \\sum _{n=1}^{\\infty }\\mu (A_{n})<\\infty } koşulu sağlanıyorsa μ ( lim sup n → ∞ A n ) = 0 {\\displaystyle \\mu \\left(\\limsup _{n\\to \\infty }A_{n}\\right)=0} eşitliği elde edilir. ==",
+      "start_char": 2116,
+      "end_char": 2512,
+      "content": "== Borel–Cantelli önermesi genel ölçü uzayları için şu biçimde tanımlanmaktadır: μ bir X kümesi üzerinde tanımlı bir ölçü ve (An) F σ-cebirinde bir dizi olmak üzere ∑ n = 1 ∞ μ ( A n ) < ∞ {\\displaystyle \\sum _{n=1}^{\\infty }\\mu (A_{n})<\\infty } koşulu sağlanıyorsa μ ( lim sup n → ∞ A n ) = 0 {\\displaystyle \\mu \\left(\\limsup _{n\\to \\infty }A_{n}\\right)=0} eşitliği elde edilir. == Karşıt sonuç",
+      "char_count": 395,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0008",
+      "section": "== İlk Borel–Cantelli önermesine kısmen karşıt bir sonuç üreten ve zaman zaman ikinci Borel–Cantelli önermesi olarak adlandırılan sav şöyle tanımlanmaktadır: En olayları bağımsızsa ve bu olayların gerçekleşme olasılıkları toplamı ıraksıyorsa bu tür sonsuz sayıda olayın meydana gelme olasılığı 1'dir. Bağımsızlık varsayımı parçalı bağımsızlığa indirgenebilmektedir, ancak bu durum önermenin kanıtını güçleştirmektedir. Sonsuz maymun kuramının özel bir durumu olan önerme Rn'de tanımlı bir kapsayıcı sav içermektedir. Ej ∑ j μ ( E j ) = ∞ {\\displaystyle \\sum _{j}\\mu (E_{j})=\\infty } koşulunu sağlayan ve Rn'de tanımlı bir tıkız kümenin Lebesgue ölçülü altkümelerinden oluşan bir yığın ise, lim sup F j = ⋂ n = 1 ∞ ⋃ k = n ∞ F k = R n {\\displaystyle \\lim \\sup F_{j}=\\bigcap _{n=1}^{\\infty }\\bigcup _{k=n}^{\\infty }F_{k}=\\mathbb {R} ^{n}} eşitliğini sağlayan bir Fj dizisi tanımlıdır. ==",
+      "heading_path": "== İlk Borel–Cantelli önermesine kısmen karşıt bir sonuç üreten ve zaman zaman ikinci Borel–Cantelli önermesi olarak adlandırılan sav şöyle tanımlanmaktadır: En olayları bağımsızsa ve bu olayların gerçekleşme olasılıkları toplamı ıraksıyorsa bu tür sonsuz sayıda olayın meydana gelme olasılığı 1'dir. Bağımsızlık varsayımı parçalı bağımsızlığa indirgenebilmektedir, ancak bu durum önermenin kanıtını güçleştirmektedir. Sonsuz maymun kuramının özel bir durumu olan önerme Rn'de tanımlı bir kapsayıcı sav içermektedir. Ej ∑ j μ ( E j ) = ∞ {\\displaystyle \\sum _{j}\\mu (E_{j})=\\infty } koşulunu sağlayan ve Rn'de tanımlı bir tıkız kümenin Lebesgue ölçülü altkümelerinden oluşan bir yığın ise, lim sup F j = ⋂ n = 1 ∞ ⋃ k = n ∞ F k = R n {\\displaystyle \\lim \\sup F_{j}=\\bigcap _{n=1}^{\\infty }\\bigcup _{k=n}^{\\infty }F_{k}=\\mathbb {R} ^{n}} eşitliğini sağlayan bir Fj dizisi tanımlıdır. ==",
+      "start_char": 2512,
+      "end_char": 3408,
+      "content": "== İlk Borel–Cantelli önermesine kısmen karşıt bir sonuç üreten ve zaman zaman ikinci Borel–Cantelli önermesi olarak adlandırılan sav şöyle tanımlanmaktadır: En olayları bağımsızsa ve bu olayların gerçekleşme olasılıkları toplamı ıraksıyorsa bu tür sonsuz sayıda olayın meydana gelme olasılığı 1'dir. Bağımsızlık varsayımı parçalı bağımsızlığa indirgenebilmektedir, ancak bu durum önermenin kanıtını güçleştirmektedir. Sonsuz maymun kuramının özel bir durumu olan önerme Rn'de tanımlı bir kapsayıcı sav içermektedir. Ej ∑ j μ ( E j ) = ∞ {\\displaystyle \\sum _{j}\\mu (E_{j})=\\infty } koşulunu sağlayan ve Rn'de tanımlı bir tıkız kümenin Lebesgue ölçülü altkümelerinden oluşan bir yığın ise, lim sup F j = ⋂ n = 1 ∞ ⋃ k = n ∞ F k = R n {\\displaystyle \\lim \\sup F_{j}=\\bigcap _{n=1}^{\\infty }\\bigcup _{k=n}^{\\infty }F_{k}=\\mathbb {R} ^{n}} eşitliğini sağlayan bir Fj dizisi tanımlıdır. == Eş önerme",
+      "char_count": 895,
+      "token_estimate": 223
+    },
+    {
+      "id": "c0009",
+      "section": "== Eş Borel–Cantelli önermesi olarak da adlandırılan sav, özgün önermenin üst limitinin 1 olması için gerekli ve yeterli koşulları tanımlamaktadır. Sav, bağımsızlık varsayımını tümüyle değiştirerek ( A n ) {\\displaystyle (A_{n})} 'nin yeterince büyük n değerleri için sürekli artan bir örüntü oluşturduğunu kabullenmektedir. Önerme şöyle özetlenebilir: A k ⊆ A k + 1 {\\displaystyle A_{k}\\subseteq A_{k+1}} koşulunu sağlayan bir ( A n ) {\\displaystyle (A_{n})} tanımlı ve A ¯ {\\displaystyle {\\bar {A}}} A {\\displaystyle A} 'nın tümleyeni ise, sonsuz sayıda A k {\\displaystyle A_{k}} olayının gerçekleşme olasılığı ancak ve ancak ∑ k Pr ( A t k + 1 | A ¯ t k ) = ∞ {\\displaystyle \\sum _{k}\\Pr(A_{t_{k+1}}|{\\bar {A}}_{t_{k}})=\\infty } koşulunu sağlayan ve sürekli artan bir pozitif tam sayı dizisi tanımlıysa 1'e eşittir. ==",
+      "heading_path": "== Eş Borel–Cantelli önermesi olarak da adlandırılan sav, özgün önermenin üst limitinin 1 olması için gerekli ve yeterli koşulları tanımlamaktadır. Sav, bağımsızlık varsayımını tümüyle değiştirerek ( A n ) {\\displaystyle (A_{n})} 'nin yeterince büyük n değerleri için sürekli artan bir örüntü oluşturduğunu kabullenmektedir. Önerme şöyle özetlenebilir: A k ⊆ A k + 1 {\\displaystyle A_{k}\\subseteq A_{k+1}} koşulunu sağlayan bir ( A n ) {\\displaystyle (A_{n})} tanımlı ve A ¯ {\\displaystyle {\\bar {A}}} A {\\displaystyle A} 'nın tümleyeni ise, sonsuz sayıda A k {\\displaystyle A_{k}} olayının gerçekleşme olasılığı ancak ve ancak ∑ k Pr ( A t k + 1 | A ¯ t k ) = ∞ {\\displaystyle \\sum _{k}\\Pr(A_{t_{k+1}}|{\\bar {A}}_{t_{k}})=\\infty } koşulunu sağlayan ve sürekli artan bir pozitif tam sayı dizisi tanımlıysa 1'e eşittir. ==",
+      "start_char": 3408,
+      "end_char": 4237,
+      "content": "== Eş Borel–Cantelli önermesi olarak da adlandırılan sav, özgün önermenin üst limitinin 1 olması için gerekli ve yeterli koşulları tanımlamaktadır. Sav, bağımsızlık varsayımını tümüyle değiştirerek ( A n ) {\\displaystyle (A_{n})} 'nin yeterince büyük n değerleri için sürekli artan bir örüntü oluşturduğunu kabullenmektedir. Önerme şöyle özetlenebilir: A k ⊆ A k + 1 {\\displaystyle A_{k}\\subseteq A_{k+1}} koşulunu sağlayan bir ( A n ) {\\displaystyle (A_{n})} tanımlı ve A ¯ {\\displaystyle {\\bar {A}}} A {\\displaystyle A} 'nın tümleyeni ise, sonsuz sayıda A k {\\displaystyle A_{k}} olayının gerçekleşme olasılığı ancak ve ancak ∑ k Pr ( A t k + 1 | A ¯ t k ) = ∞ {\\displaystyle \\sum _{k}\\Pr(A_{t_{k+1}}|{\\bar {A}}_{t_{k}})=\\infty } koşulunu sağlayan ve sürekli artan bir pozitif tam sayı dizisi tanımlıysa 1'e eşittir. == Notlar",
+      "char_count": 828,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0010",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 4255,
+      "end_char": 4370,
+      "content": "== Dış bağlantılar == Borel–Cantelli önermesinin kanıtı 7 Ekim 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 115,
+      "token_estimate": 28
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İkinci Borel–Cantelli önermesine göre, olaylar bağımsızsa ve gerçekleşme olasılıklarının toplamı ıraksıyorsa, bu tür sonsuz sayıda olayın meydana gelme olasılığı kaçtır?",
+        "answer": "1'dir.",
+        "related_chunk_ids": [
+          "c0008"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Olasılık kuramındaki Borel-Cantelli önsavı ile En dizisinin olasılıkları toplamının sonlu olması koşulu arasındaki ilişki nedir?",
+        "answer": "Émile Borel ve Francesco Paolo Cantelli'nin adını taşıyan Borel-Cantelli önsavı, olasılık kuramında ölçü kuramıyla elde edilen bir sonuç olup, bir olasılık uzayında En dizisinin olasılıkları toplamının sonlu olması koşuluyla ilgili olay dizilerini ele alır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

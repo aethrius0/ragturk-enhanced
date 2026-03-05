@@ -1,0 +1,413 @@
+{
+  "article": {
+    "id": "miesalmas_488dafb8",
+    "title": "Mie saçılması",
+    "url": "https://tr.wikipedia.org/wiki/Mie_sa%C3%A7%C4%B1lmas%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:45:30.174097",
+    "content": "Mie saçılması veya Mie teorisi, düzlem bir elektromanyetik dalganın (ışık) homojen bir küre tarafından saçılmasını ifade eder. Maxwell denklemlerinin Lorenz–Mie–Debye çözümü olarak da bilinmektedir. Denklemlerin çözümü sonsuz bir vektör küresel harmonik serisi şeklinde yazılır. Saçılma ismini fizikçi Gustav Mie'den almaktadır; analitik çözümü ilk kez 1908 yılında yayınlanmıştır. \"Mie saçılması\" terimi aynı zamanda ışığın dalga boyunun kürenin yarıçapı ile yaklaşık eşit olduğu saçılma durumları için de kullanılmaktadır; bu saçılma özellikle atmosferde görülür. Genel Mie saçılmasının teknik olarak bir boyut limiti yoktur: saçılma sonuçları kürenin dalga boyundan küçük olduğunu durumlarda Rayleigh saçılmasına, büyük olduğu özel durumlarda ise geometrik optiğe yakınsar. Mie saçılması ve tesir kesitinin hesaplanması için birçok kod bulunmaktadır; Mie teorisinin konsentrik küreler, sonsuz silindir ve küre kümelerine uygulandığı kodlar da mevcuttur. == Teori == Mie saçılmasında çarpan ve saçılan elektrik alanlar vektör küresel harmonikleri olarak yazılır. Helmholtz denkleminin küresel koordinat sisteminde değişkenlerin ayrımı ile çözülmesi ile elde edilir. Kürenin yüzeyinde elektromanyetik sınır koşulları sağlanarak saçılan dalga farklı katsayılarda çok kutuplu harmonikler cinsinden gösterilir. Işık saçılma oranı genellikle optik tesir kesiti ile ifade edilir ve bu katsayı Mie saçılması ile elde edilebilir. Teori kullanarak Mie rezonansları ve saçılma katsayıları da bulunabilmektedir. Işığın dalga boyunun kürenin yarıçapına oranına ve malzeme özelliklerine göre farklı yaklaşım ve tanımlamalarda bulunulabilir. Rayleigh saçılması dalga boyundan çok daha küçük parçacıklardaki ışık saçılmasını belirtir. Bu dalga boyları için yarı-statik yaklaşım kullanılarak Laplace denklemi de çözülebilir. Rayleigh–Gans yaklaşımı ve ayrıksı kırınım teorisi (van de Hulst yaklaşımı) parçacığın kırılma indisinin bulunduğu ortamınkine çok yakın olduğu durumlarda kullanılabilir. Yaklaşımlar her ne kadar birçok uygulamada iş görse de atmosferdeki su damlacıklarındaki, hücrelerdeki ve emülsiyonlardaki saçılmaların hesaplanması için tam teorinin kullanılması esastır. == Matematiksel temeller == === Mie saçılmasının türetilmesi === Mie saçılmasının standart analitik çözümü genelde z-ekseninde hareket eden ve x-ekseninde polarize olmuş bir düzlem dalga için yapılır. Parçacığın yalıtkanlık sabiti ve manyetik geçirgenliği ε 1 {\\displaystyle \\varepsilon _{1}} ve μ 1 {\\displaystyle \\mu _{1}} ile gösterilirken, parçacığın bulunduğu ortamdaki değerler ε {\\displaystyle \\varepsilon } ve μ {\\displaystyle \\mu } ile gösterilir. Saçılma probleminin çözümü için öncelikle vektör Helmholtz denklemi küresel koordinatlarda yazılır. Helmholtz denklemi, elektrik ve manyetik alanlar için şu şekilde gösterilir: ∇ 2 E + k 2 E = 0 , ∇ 2 H + k 2 H = 0 {\\displaystyle \\nabla ^{2}\\mathbf {E} +{k}^{2}\\mathbf {E} =0,\\ \\ \\ \\ \\nabla ^{2}\\mathbf {H} +{k}^{2}\\mathbf {H} =0} Helmholtz denklemi dışında, alanların ∇ ⋅ E = ∇ ⋅ H = 0 {\\displaystyle \\nabla \\cdot \\mathbf {E} =\\nabla \\cdot \\mathbf {H} =0} , ∇ × E = i ω μ H {\\displaystyle \\nabla \\times \\mathbf {E} =i\\omega \\mu \\mathbf {H} } ve ∇ × H = − i ω ε E {\\displaystyle \\nabla \\times \\mathbf {H} =-i\\omega \\varepsilon \\mathbf {E} } koşullarını sağlaması gerekir. Daha sonra M {\\displaystyle \\mathbf {M} } ve N {\\displaystyle \\mathbf {N} } küresel harmoniklerinin üreten fonksiyonu olarak kabul edebileceğimiz skalar ψ {\\displaystyle \\psi } fonksiyonu denkleme eklenir; vektör küresel harmonikler gerekli koşulları sağlamaktadır. Küresel koordinatlarda açılan dalga denklemi şu şekilde ifade edilebilir: 1 r 2 ∂ ∂ r ( r 2 ∂ ψ ∂ r ) + 1 r 2 s i n θ ∂ ∂ θ ( s i n θ ∂ ψ ∂ θ ) + 1 r 2 s i n θ ( ∂ 2 ψ ∂ ϕ 2 ) + k 2 ψ = 0 {\\displaystyle {\\frac {1}{r^{2}}}{\\frac {\\partial }{\\partial r}}\\left(r^{2}{\\frac {\\partial \\psi }{\\partial r}}\\right)+{\\frac {1}{r^{2}sin\\theta }}{\\frac {\\partial }{\\partial \\theta }}\\left(sin\\theta {\\frac {\\partial \\psi }{\\partial \\theta }}\\right)+{\\frac {1}{r^{2}sin\\theta }}\\left({\\frac {\\partial ^{2}\\psi }{\\partial \\phi ^{2}}}\\right)+k^{2}\\psi =0} Bu denklem değişkenlerin ayrımı yöntemi ile çözülür. Denklemin çözümüne göre üreten fonksiyonunu sağlayan vektör küresel harmonikler şu şekilde ifade edilir: M o e m n = ∇ × ( r ψ o e m n ) {\\displaystyle \\mathbf {M} _{^{e}_{o}mn}=\\nabla \\times \\left(\\mathbf {r} \\psi _{^{e}_{o}mn}\\right)} — manyetik harmonikler (TE) N o e m n = ∇ × M o e m n k {\\displaystyle \\mathbf {N} _{^{e}_{o}mn}={\\frac {\\nabla \\times \\mathbf {M} _{^{e}_{o}mn}}{\\mathbf {k} }}} — elektrik harmonikler (TM) ve ψ e m n = cos ⁡ m φ P n m ( cos ⁡ ϑ ) z n ( k r ) {\\displaystyle {\\psi _{emn}=\\cos m\\varphi P_{n}^{m}(\\cos \\vartheta )z_{n}({k}r)}} ψ o m n = sin ⁡ m φ P n m ( cos ⁡ ϑ ) z n ( k r ) {\\displaystyle {\\psi _{omn}=\\sin m\\varphi P_{n}^{m}(\\cos \\vartheta )z_{n}({k}r)}} P n m ( cos ⁡ θ ) {\\displaystyle P_{n}^{m}(\\cos \\theta )} Asosiye Legendre polinomlarını ve z n ( k r ) {\\displaystyle z_{n}({k}r)} ise küresel Bessel fonksiyonlarını gösterir. Daha sonrasında küreye çarpan düzlem dalga vektör küresel harmonikler cinsinden açılır: E i n c = E 0 e i k r cos ⁡ θ e x = E 0 ∑ n = 1 ∞ i n 2 n + 1 n ( n + 1 ) ( M o 1 n ( 1 ) ( k , r ) − i N e 1 n ( 1 ) ( k , r ) ) {\\displaystyle \\mathbf {E} _{inc}=E_{0}e^{ikr\\cos \\theta }\\mathbf {e} _{x}=E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{o1n}^{(1)}(k,\\mathbf {r} )-i\\mathbf {N} _{e1n}^{(1)}(k,\\mathbf {r} )\\right)} H i n c = − k ω μ E 0 ∑ n = 1 ∞ i n 2 n + 1 n ( n + 1 ) ( M e 1 n ( 1 ) ( k , r ) + i N o 1 n ( 1 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{inc}={\\frac {-k}{\\omega \\mu }}E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{e1n}^{(1)}(k,\\mathbf {r} )+i\\mathbf {N} _{o1n}^{(1)}(k,\\mathbf {r} )\\right)} Buradaki ( 1 ) {\\displaystyle (1)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Bessel fonksiyonu olduğunu belirtir. Açılım katsayıları ise şu integraller ile elde edilir: ∫ 0 2 π ∫ 0 π E i n c ⋅ M o e m n ( 1 ) sin ⁡ θ d θ d φ ∫ 0 2 π ∫ 0 π | M o e m n ( 1 ) | 2 sin ⁡ θ d θ d φ {\\displaystyle {\\frac {\\int _{0}^{2\\pi }\\int _{0}^{\\pi }\\mathbf {E} _{inc}\\cdot \\mathbf {M} _{^{e}_{o}mn}^{(1)}\\sin \\theta d\\theta d\\varphi }{\\int _{0}^{2\\pi }\\int _{0}^{\\pi }|\\mathbf {M} _{^{e}_{o}mn}^{(1)}|^{2}\\sin \\theta d\\theta d\\varphi }}} m ≠ 1 {\\displaystyle m\\neq 1} 'ı sağlayan tüm katsayılar 0'dır. Sonrasında şu koşullar çözümde göz önünde bulundurulur: Kürenin yüzeyinde elektromanyetik sınır koşulları sağlanmalıdır. Saçılma probleminin çözümü orijinde sınırlandırılmalıdır: bu nedenle kürenin içindeki alanların üreten fonksiyonu olarak küresel Bessel fonksiyonları seçilir. Saçılan alan, orijinden sonsuza doğru hareket etmelidir; bunun için birinci tip Hankel fonksiyonları seçilir. Saçılan alanlar, daha sonra vektör harmonik açılımla şu şekilde yazılır: E s = ∑ n = 1 ∞ E n ( i a n N e 1 n ( 3 ) ( k , r ) − b n M o 1 n ( 3 ) ( k , r ) ) {\\displaystyle \\mathbf {E} _{s}=\\sum _{n=1}^{\\infty }E_{n}\\left(ia_{n}\\mathbf {N} _{e1n}^{(3)}(k,\\mathbf {r} )-b_{n}\\mathbf {M} _{o1n}^{(3)}(k,\\mathbf {r} )\\right)} H s = k ω μ ∑ n = 1 ∞ E n ( a n M e 1 n ( 3 ) ( k , r ) + i b n N o 1 n ( 3 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{s}={\\frac {k}{\\omega \\mu }}\\sum _{n=1}^{\\infty }E_{n}\\left(a_{n}\\mathbf {M} _{e1n}^{(3)}(k,\\mathbf {r} )+ib_{n}\\mathbf {N} _{o1n}^{(3)}(k,\\mathbf {r} )\\right)} Bu denklemlerde ( 3 ) {\\displaystyle (3)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Hankel fonksiyonu olduğunu belirtir. Kürenin içindeki alanlar ise şu şekilde açılabilir: E 1 = ∑ n = 1 ∞ E n ( − i d n N e 1 n ( 1 ) ( k 1 , r ) + c n M o 1 n ( 1 ) ( k 1 , r ) ) {\\displaystyle \\mathbf {E} _{1}=\\sum _{n=1}^{\\infty }E_{n}\\left(-id_{n}\\mathbf {N} _{e1n}^{(1)}(k_{1},\\mathbf {r} )+c_{n}\\mathbf {M} _{o1n}^{(1)}(k_{1},\\mathbf {r} )\\right)} H 1 = − k 1 ω μ 1 ∑ n = 1 ∞ E n ( d n M e 1 n ( 1 ) ( k 1 , r ) + i c n N o 1 n ( 1 ) ( k 1 , r ) ) {\\displaystyle \\mathbf {H} _{1}={\\frac {-k_{1}}{\\omega \\mu _{1}}}\\sum _{n=1}^{\\infty }E_{n}\\left(d_{n}\\mathbf {M} _{e1n}^{(1)}(k_{1},\\mathbf {r} )+ic_{n}\\mathbf {N} _{o1n}^{(1)}(k_{1},\\mathbf {r} )\\right)} k = ω c n {\\displaystyle k={\\frac {\\omega }{c}}n} ve k 1 = ω c n 1 {\\displaystyle k_{1}={\\frac {\\omega }{c}}{n_{1}}} küre dışındaki ve içindeki dalga vektörünü ifade eder. Kürenin dışı ve içindeki kırılma indisleri n {\\displaystyle n} ve n 1 {\\displaystyle n_{1}} ile gösterilir. Sınır koşulları denklemlere uygulandıktan sonra Mie katsayıları elde edilir: c n ( ω ) = μ 1 [ ρ h n ( ρ ) ] ′ j n ( ρ ) − μ 1 [ ρ j n ( ρ ) ] ′ h n ( ρ ) μ 1 [ ρ h n ( ρ ) ] ′ j n ( ρ 1 ) − μ [ ρ 1 j n ( ρ 1 ) ] ′ h n ( ρ ) {\\displaystyle c_{n}(\\omega )={\\frac {\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho )-\\mu _{1}\\left[\\rho j_{n}(\\rho )\\right]'h_{n}(\\rho )}{\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}}} d n ( ω ) = μ 1 n 1 n [ ρ h n ( ρ ) ] ′ j n ( ρ ) − μ 1 n 1 n [ ρ j n ( ρ ) ] ′ h n ( ρ ) μ n 1 2 [ ρ h n ( ρ ) ] ′ j n ( ρ 1 ) − μ 1 n 2 [ ρ 1 j n ( ρ 1 ) ] ′ h n ( ρ ) , {\\displaystyle d_{n}(\\omega )={\\frac {\\mu _{1}n_{1}n\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho )-\\mu _{1}n_{1}n\\left[\\rho j_{n}(\\rho )\\right]'h_{n}(\\rho )}{\\mu n_{1}^{2}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}},} b n ( ω ) = μ 1 [ ρ j n ( ρ ) ] ′ j n ( ρ 1 ) − μ [ ρ 1 j n ( ρ 1 ) ] ′ j n ( ρ ) μ 1 [ ρ h n ( ρ ) ] ′ j n ( ρ 1 ) − μ [ ρ 1 j n ( ρ 1 ) ] ′ h n ( ρ ) {\\displaystyle b_{n}(\\omega )={\\frac {\\mu _{1}\\left[\\rho j_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'j_{n}(\\rho )}{\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}}} a n ( ω ) = μ n 1 2 [ ρ j n ( ρ ) ] ′ j n ( ρ 1 ) − μ 1 n 2 [ ρ 1 j n ( ρ 1 ) ] ′ j n ( ρ ) μ n 1 2 [ ρ h n ( ρ ) ] ′ j n ( ρ 1 ) − μ 1 n 2 [ ρ 1 j n ( ρ 1 ) ] ′ h n ( ρ ) , {\\displaystyle a_{n}(\\omega )={\\frac {\\mu n_{1}^{2}\\left[\\rho j_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'j_{n}(\\rho )}{\\mu n_{1}^{2}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}},} ρ = k a {\\displaystyle \\rho =ka} ρ 1 = k 1 a {\\displaystyle \\rho _{1}=k_{1}a} Bu katsayılarda a {\\displaystyle a} kürenin yarıçapına, j n {\\displaystyle j_{n}} ile h n {\\displaystyle h_{n}} fonksiyonları da sırasıyla birince tip küresel Bessel ve Hankel fonksiyonlarına tekabül eder. Mie saçılması nümerik olarak hesaplanırken sonsuz seri toplamının bir yerden sonra kesilmesi gerekir. Bununla ilgili en yaygın kriterlerden biri Wiscombe'un kriteridir ve L m a x = x + 4 x 1 / 3 + 2 {\\displaystyle L_{max}=x+4x^{1/3}+2} terimlerin doğruya yakın sonuçlar için yeterli olduğunu belirtir. Bu denklem de x, ρ {\\displaystyle \\rho } ile eştir. === Saçılma ve yok olma tesir kesitleri === Mie teorisinde ve saçılmada etkinlik katsayıları sıklıkla kullanılan parametrelerdendir. Bu katsayılar yok olma ( Q e ) {\\displaystyle (Q_{e})} , saçılma ( Q s ) {\\displaystyle (Q_{s})} ve soğurma ( Q a ) {\\displaystyle (Q_{a})} için tanımlanabilir. Bu katsayılar ilgili tesir kesitlerinin ışığın saçıldığı kürenin kesit alanına oranıdır. Örnek olarak, bir Mie saçılmasında saçılma etkinlik katsayısı Q s = σ s π a 2 {\\displaystyle Q_{s}={\\frac {\\sigma _{s}}{\\pi a^{2}}}} formülü ile hesaplanabilir; bu denklemde σ s {\\displaystyle \\sigma _{s}} saçılma tesir kesiti ve a da parçacık yarıçapıdır. Yok olma kesiti, Mie teorisinde şu şekilde tanımlanır: σ e = σ s + σ a {\\displaystyle \\sigma _{e}=\\sigma _{s}+\\sigma _{a}} and Q e = Q s + Q a {\\displaystyle Q_{e}=Q_{s}+Q_{a}} Gene Mie teorisine göre, saçılma ve yok olma katsayıları sonsuz bir seri ile gösterilebilir: Q s = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ( | a n | 2 + | b n | 2 ) {\\displaystyle Q_{s}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)(|a_{n}|^{2}+|b_{n}|^{2})} Q e = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ℜ ( a n + b n ) {\\displaystyle Q_{e}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)\\Re (a_{n}+b_{n})} == Uygulamalar == Mie teorisi, atmosfer biliminde bulut ve tozlardaki ışık saçılmasının incelenmesi için sıkça kullanılmaktadır. Teorinin diğer kullanım alanları arasında biyomedikal sistemler ile radarlar bulunmaktadır. Mie saçılımı aynı zamanda bazı metamateryal ve plazmonik yapıların teorisinde yer edinmiştir. == Kaynakça == == Kitap kaynakları == Bohren, C. F.; Huffmann, D. R. (2010). Absorption and scattering of light by small particles (İngilizce). New York: Wiley-Interscience. ISBN 978-3-527-40664-7. Jackson, John David (1998). Classical Electrodynamics (İngilizce). New York: Wiley. ISBN 9780471309321. Maier, S. A. (2007). Plasmonics: Fundamentals and applications (İngilizce). New York: Springer. ISBN 9780387378251. van de Hulst, H. C. (1957). Light scattering by small particles (İngilizce). New York: John Wiley and Sons. ISBN 9780486139753. == Dış bağlantılar == SCATTERLIB: Işık saçılması kodları koleksiyonu 26 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. Online Mie saçılması hesaplayıcısı 29 Ocak 2020 tarihinde Wayback Machine sitesinde arşivlendi. PyMieScatt 21 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi., Mie saçılması Python kodu",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 2288,
+      "char_count": 13351,
+      "num_chunks": 36,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.758452",
+    "total_chunks": 36,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 957,
+      "content": "Mie saçılması veya Mie teorisi, düzlem bir elektromanyetik dalganın (ışık) homojen bir küre tarafından saçılmasını ifade eder. Maxwell denklemlerinin Lorenz–Mie–Debye çözümü olarak da bilinmektedir. Denklemlerin çözümü sonsuz bir vektör küresel harmonik serisi şeklinde yazılır. Saçılma ismini fizikçi Gustav Mie'den almaktadır; analitik çözümü ilk kez 1908 yılında yayınlanmıştır. \"Mie saçılması\" terimi aynı zamanda ışığın dalga boyunun kürenin yarıçapı ile yaklaşık eşit olduğu saçılma durumları için de kullanılmaktadır; bu saçılma özellikle atmosferde görülür. Genel Mie saçılmasının teknik olarak bir boyut limiti yoktur: saçılma sonuçları kürenin dalga boyundan küçük olduğunu durumlarda Rayleigh saçılmasına, büyük olduğu özel durumlarda ise geometrik optiğe yakınsar. Mie saçılması ve tesir kesitinin hesaplanması için birçok kod bulunmaktadır; Mie teorisinin konsentrik küreler, sonsuz silindir ve küre kümelerine uygulandığı kodlar da mevcuttur.",
+      "char_count": 956,
+      "token_estimate": 239
+    },
+    {
+      "id": "c0001",
+      "section": "== Teori ==",
+      "heading_path": "== Teori ==",
+      "start_char": 957,
+      "end_char": 1957,
+      "content": "== Teori == Mie saçılmasında çarpan ve saçılan elektrik alanlar vektör küresel harmonikleri olarak yazılır. Helmholtz denkleminin küresel koordinat sisteminde değişkenlerin ayrımı ile çözülmesi ile elde edilir. Kürenin yüzeyinde elektromanyetik sınır koşulları sağlanarak saçılan dalga farklı katsayılarda çok kutuplu harmonikler cinsinden gösterilir. Işık saçılma oranı genellikle optik tesir kesiti ile ifade edilir ve bu katsayı Mie saçılması ile elde edilebilir. Teori kullanarak Mie rezonansları ve saçılma katsayıları da bulunabilmektedir. Işığın dalga boyunun kürenin yarıçapına oranına ve malzeme özelliklerine göre farklı yaklaşım ve tanımlamalarda bulunulabilir. Rayleigh saçılması dalga boyundan çok daha küçük parçacıklardaki ışık saçılmasını belirtir. Bu dalga boyları için yarı-statik yaklaşım kullanılarak Laplace denklemi de çözülebilir. Rayleigh–Gans yaklaşımı ve ayrıksı kırınım teorisi (van de Hulst yaklaşımı) parçacığın kırılma indisinin bulunduğu ortamınkine çok yakın olduğu du",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Teori ==",
+      "heading_path": "== Teori ==",
+      "start_char": 1757,
+      "end_char": 2170,
+      "content": "aklaşım kullanılarak Laplace denklemi de çözülebilir. Rayleigh–Gans yaklaşımı ve ayrıksı kırınım teorisi (van de Hulst yaklaşımı) parçacığın kırılma indisinin bulunduğu ortamınkine çok yakın olduğu durumlarda kullanılabilir. Yaklaşımlar her ne kadar birçok uygulamada iş görse de atmosferdeki su damlacıklarındaki, hücrelerdeki ve emülsiyonlardaki saçılmaların hesaplanması için tam teorinin kullanılması esastır.",
+      "char_count": 413,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0003",
+      "section": "=== Mie saçılmasının türetilmesi ===",
+      "heading_path": "=== Mie saçılmasının türetilmesi ===",
+      "start_char": 2199,
+      "end_char": 2819,
+      "content": "=== Mie saçılmasının türetilmesi === Mie saçılmasının standart analitik çözümü genelde z-ekseninde hareket eden ve x-ekseninde polarize olmuş bir düzlem dalga için yapılır. Parçacığın yalıtkanlık sabiti ve manyetik geçirgenliği ε 1 {\\displaystyle \\varepsilon _{1}} ve μ 1 {\\displaystyle \\mu _{1}} ile gösterilirken, parçacığın bulunduğu ortamdaki değerler ε {\\displaystyle \\varepsilon } ve μ {\\displaystyle \\mu } ile gösterilir. Saçılma probleminin çözümü için öncelikle vektör Helmholtz denklemi küresel koordinatlarda yazılır. Helmholtz denklemi, elektrik ve manyetik alanlar için şu şekilde gösterilir: ∇ 2 E + k 2 E",
+      "char_count": 619,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0004",
+      "section": "= 0 , ∇ 2 H + k 2 H =",
+      "heading_path": "= 0 , ∇ 2 H + k 2 H =",
+      "start_char": 2819,
+      "end_char": 2901,
+      "content": "= 0 , ∇ 2 H + k 2 H = 0 {\\displaystyle \\nabla ^{2}\\mathbf {E} +{k}^{2}\\mathbf {E}",
+      "char_count": 81,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0005",
+      "section": "= 0,\\ \\ \\ \\ \\nabla ^{2}\\mathbf {H} +{k}^{2}\\mathbf {H} =0} Helmholtz denklemi dışında, alanların ∇ ⋅ E =",
+      "heading_path": "= 0,\\ \\ \\ \\ \\nabla ^{2}\\mathbf {H} +{k}^{2}\\mathbf {H} =0} Helmholtz denklemi dışında, alanların ∇ ⋅ E =",
+      "start_char": 2901,
+      "end_char": 3011,
+      "content": "=0,\\ \\ \\ \\ \\nabla ^{2}\\mathbf {H} +{k}^{2}\\mathbf {H} =0} Helmholtz denklemi dışında, alanların ∇ ⋅ E = ∇ ⋅ H",
+      "char_count": 109,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0006",
+      "section": "= 0 {\\displaystyle \\nabla \\cdot \\mathbf {E} =\\nabla \\cdot \\mathbf {H} =0} , ∇ × E =",
+      "heading_path": "= 0 {\\displaystyle \\nabla \\cdot \\mathbf {E} =\\nabla \\cdot \\mathbf {H} =0} , ∇ × E =",
+      "start_char": 3011,
+      "end_char": 3144,
+      "content": "= 0 {\\displaystyle \\nabla \\cdot \\mathbf {E} =\\nabla \\cdot \\mathbf {H} =0} , ∇ × E = i ω μ H {\\displaystyle \\nabla \\times \\mathbf {E}",
+      "char_count": 132,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0007",
+      "section": "= i\\omega \\mu \\mathbf {H} } ve ∇ × H =",
+      "heading_path": "= i\\omega \\mu \\mathbf {H} } ve ∇ × H =",
+      "start_char": 3144,
+      "end_char": 3233,
+      "content": "=i\\omega \\mu \\mathbf {H} } ve ∇ × H = − i ω ε E {\\displaystyle \\nabla \\times \\mathbf {H}",
+      "char_count": 88,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0008",
+      "section": "= -i\\omega \\varepsilon \\mathbf {E} } koşullarını sağlaması gerekir. Daha sonra M {\\displaystyle \\mathbf {M} } ve N {\\displaystyle \\mathbf {N} } küresel harmoniklerinin üreten fonksiyonu olarak kabul edebileceğimiz skalar ψ {\\displaystyle \\psi } fonksiyonu denkleme eklenir; vektör küresel harmonikler gerekli koşulları sağlamaktadır. Küresel koordinatlarda açılan dalga denklemi şu şekilde ifade edilebilir: 1 r 2 ∂ ∂ r ( r 2 ∂ ψ ∂ r ) + 1 r 2 s i n θ ∂ ∂ θ ( s i n θ ∂ ψ ∂ θ ) + 1 r 2 s i n θ ( ∂ 2 ψ ∂ ϕ 2 ) + k 2 ψ =",
+      "heading_path": "= -i\\omega \\varepsilon \\mathbf {E} } koşullarını sağlaması gerekir. Daha sonra M {\\displaystyle \\mathbf {M} } ve N {\\displaystyle \\mathbf {N} } küresel harmoniklerinin üreten fonksiyonu olarak kabul edebileceğimiz skalar ψ {\\displaystyle \\psi } fonksiyonu denkleme eklenir; vektör küresel harmonikler gerekli koşulları sağlamaktadır. Küresel koordinatlarda açılan dalga denklemi şu şekilde ifade edilebilir: 1 r 2 ∂ ∂ r ( r 2 ∂ ψ ∂ r ) + 1 r 2 s i n θ ∂ ∂ θ ( s i n θ ∂ ψ ∂ θ ) + 1 r 2 s i n θ ( ∂ 2 ψ ∂ ϕ 2 ) + k 2 ψ =",
+      "start_char": 3233,
+      "end_char": 4104,
+      "content": "=-i\\omega \\varepsilon \\mathbf {E} } koşullarını sağlaması gerekir. Daha sonra M {\\displaystyle \\mathbf {M} } ve N {\\displaystyle \\mathbf {N} } küresel harmoniklerinin üreten fonksiyonu olarak kabul edebileceğimiz skalar ψ {\\displaystyle \\psi } fonksiyonu denkleme eklenir; vektör küresel harmonikler gerekli koşulları sağlamaktadır. Küresel koordinatlarda açılan dalga denklemi şu şekilde ifade edilebilir: 1 r 2 ∂ ∂ r ( r 2 ∂ ψ ∂ r ) + 1 r 2 s i n θ ∂ ∂ θ ( s i n θ ∂ ψ ∂ θ ) + 1 r 2 s i n θ ( ∂ 2 ψ ∂ ϕ 2 ) + k 2 ψ = 0 {\\displaystyle {\\frac {1}{r^{2}}}{\\frac {\\partial }{\\partial r}}\\left(r^{2}{\\frac {\\partial \\psi }{\\partial r}}\\right)+{\\frac {1}{r^{2}sin\\theta }}{\\frac {\\partial }{\\partial \\theta }}\\left(sin\\theta {\\frac {\\partial \\psi }{\\partial \\theta }}\\right)+{\\frac {1}{r^{2}sin\\theta }}\\left({\\frac {\\partial ^{2}\\psi }{\\partial \\phi ^{2}}}\\right)+k^{2}\\psi",
+      "char_count": 870,
+      "token_estimate": 217
+    },
+    {
+      "id": "c0009",
+      "section": "= 0} Bu denklem değişkenlerin ayrımı yöntemi ile çözülür. Denklemin çözümüne göre üreten fonksiyonunu sağlayan vektör küresel harmonikler şu şekilde ifade edilir: M o e m n =",
+      "heading_path": "= 0} Bu denklem değişkenlerin ayrımı yöntemi ile çözülür. Denklemin çözümüne göre üreten fonksiyonunu sağlayan vektör küresel harmonikler şu şekilde ifade edilir: M o e m n =",
+      "start_char": 4104,
+      "end_char": 4338,
+      "content": "=0} Bu denklem değişkenlerin ayrımı yöntemi ile çözülür. Denklemin çözümüne göre üreten fonksiyonunu sağlayan vektör küresel harmonikler şu şekilde ifade edilir: M o e m n = ∇ × ( r ψ o e m n ) {\\displaystyle \\mathbf {M} _{^{e}_{o}mn}",
+      "char_count": 234,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0010",
+      "section": "= \\nabla \\times \\left(\\mathbf {r} \\psi _{^{e}_{o}mn}\\right)} — manyetik harmonikler (TE) N o e m n =",
+      "heading_path": "= \\nabla \\times \\left(\\mathbf {r} \\psi _{^{e}_{o}mn}\\right)} — manyetik harmonikler (TE) N o e m n =",
+      "start_char": 4338,
+      "end_char": 4494,
+      "content": "=\\nabla \\times \\left(\\mathbf {r} \\psi _{^{e}_{o}mn}\\right)} — manyetik harmonikler (TE) N o e m n = ∇ × M o e m n k {\\displaystyle \\mathbf {N} _{^{e}_{o}mn}",
+      "char_count": 156,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0011",
+      "section": "= {\\frac {\\nabla \\times \\mathbf {M} _{^{e}_{o}mn}}{\\mathbf {k} }}} — elektrik harmonikler (TM) ve ψ e m n =",
+      "heading_path": "= {\\frac {\\nabla \\times \\mathbf {M} _{^{e}_{o}mn}}{\\mathbf {k} }}} — elektrik harmonikler (TM) ve ψ e m n =",
+      "start_char": 4494,
+      "end_char": 4668,
+      "content": "={\\frac {\\nabla \\times \\mathbf {M} _{^{e}_{o}mn}}{\\mathbf {k} }}} — elektrik harmonikler (TM) ve ψ e m n = cos ⁡ m φ P n m ( cos ⁡ ϑ ) z n ( k r ) {\\displaystyle {\\psi _{emn}",
+      "char_count": 174,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0012",
+      "section": "= \\cos m\\varphi P_{n}^{m}(\\cos \\vartheta )z_{n}({k}r)}} ψ o m n =",
+      "heading_path": "= \\cos m\\varphi P_{n}^{m}(\\cos \\vartheta )z_{n}({k}r)}} ψ o m n =",
+      "start_char": 4668,
+      "end_char": 4800,
+      "content": "=\\cos m\\varphi P_{n}^{m}(\\cos \\vartheta )z_{n}({k}r)}} ψ o m n = sin ⁡ m φ P n m ( cos ⁡ ϑ ) z n ( k r ) {\\displaystyle {\\psi _{omn}",
+      "char_count": 132,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0013",
+      "section": "= \\sin m\\varphi P_{n}^{m}(\\cos \\vartheta )z_{n}({k}r)}} P n m ( cos ⁡ θ ) {\\displaystyle P_{n}^{m}(\\cos \\theta )} Asosiye Legendre polinomlarını ve z n ( k r ) {\\displaystyle z_{n}({k}r)} ise küresel Bessel fonksiyonlarını gösterir. Daha sonrasında küreye çarpan düzlem dalga vektör küresel harmonikler cinsinden açılır: E i n c =",
+      "heading_path": "= \\sin m\\varphi P_{n}^{m}(\\cos \\vartheta )z_{n}({k}r)}} P n m ( cos ⁡ θ ) {\\displaystyle P_{n}^{m}(\\cos \\theta )} Asosiye Legendre polinomlarını ve z n ( k r ) {\\displaystyle z_{n}({k}r)} ise küresel Bessel fonksiyonlarını gösterir. Daha sonrasında küreye çarpan düzlem dalga vektör küresel harmonikler cinsinden açılır: E i n c =",
+      "start_char": 4800,
+      "end_char": 5154,
+      "content": "=\\sin m\\varphi P_{n}^{m}(\\cos \\vartheta )z_{n}({k}r)}} P n m ( cos ⁡ θ ) {\\displaystyle P_{n}^{m}(\\cos \\theta )} Asosiye Legendre polinomlarını ve z n ( k r ) {\\displaystyle z_{n}({k}r)} ise küresel Bessel fonksiyonlarını gösterir. Daha sonrasında küreye çarpan düzlem dalga vektör küresel harmonikler cinsinden açılır: E i n c = E 0 e i k r cos ⁡ θ e x",
+      "char_count": 353,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0014",
+      "section": "= E 0 ∑ n =",
+      "heading_path": "= E 0 ∑ n =",
+      "start_char": 5154,
+      "end_char": 5283,
+      "content": "= E 0 ∑ n = 1 ∞ i n 2 n + 1 n ( n + 1 ) ( M o 1 n ( 1 ) ( k , r ) − i N e 1 n ( 1 ) ( k , r ) ) {\\displaystyle \\mathbf {E} _{inc}",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0015",
+      "section": "= E_{0}e^{ikr\\cos \\theta }\\mathbf {e} _{x}=E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{o1n}^{(1)}(k,\\mathbf {r} )-i\\mathbf {N} _{e1n}^{(1)}(k,\\mathbf {r} )\\right)} H i n c =",
+      "heading_path": "= E_{0}e^{ikr\\cos \\theta }\\mathbf {e} _{x}=E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{o1n}^{(1)}(k,\\mathbf {r} )-i\\mathbf {N} _{e1n}^{(1)}(k,\\mathbf {r} )\\right)} H i n c =",
+      "start_char": 5283,
+      "end_char": 5501,
+      "content": "=E_{0}e^{ikr\\cos \\theta }\\mathbf {e} _{x}=E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{o1n}^{(1)}(k,\\mathbf {r} )-i\\mathbf {N} _{e1n}^{(1)}(k,\\mathbf {r} )\\right)} H i n c = − k ω μ E 0 ∑ n",
+      "char_count": 217,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0016",
+      "section": "= 1 ∞ i n 2 n + 1 n ( n + 1 ) ( M e 1 n ( 1 ) ( k , r ) + i N o 1 n ( 1 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{inc}={\\frac {-k}{\\omega \\mu }}E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{e1n}^{(1)}(k,\\mathbf {r} )+i\\mathbf {N} _{o1n}^{(1)}(k,\\mathbf {r} )\\right)} Buradaki ( 1 ) {\\displaystyle (1)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Bessel fonksiyonu olduğunu belirtir. Açılım katsayıları ise şu integraller ile elde edilir: ∫ 0 2 π ∫ 0 π E i n c ⋅ M o e m n ( 1 ) sin ⁡ θ d θ d φ ∫ 0 2 π ∫ 0 π | M o e m n ( 1 ) | 2 sin ⁡ θ d θ d φ {\\displaystyle {\\frac {\\int _{0}^{2\\pi }\\int _{0}^{\\pi }\\mathbf {E} _{inc}\\cdot \\mathbf {M} _{^{e}_{o}mn}^{(1)}\\sin \\theta d\\theta d\\varphi }{\\int _{0}^{2\\pi }\\int _{0}^{\\pi }|\\mathbf {M} _{^{e}_{o}mn}^{(1)}|^{2}\\sin \\theta d\\theta d\\varphi }}} m ≠ 1 {\\displaystyle m\\neq 1} 'ı sağlayan tüm katsayılar 0'dır. Sonrasında şu koşullar çözümde göz önünde bulundurulur: Kürenin yüzeyinde elektromanyetik sınır koşulları sağlanmalıdır. Saçılma probleminin çözümü orijinde sınırlandırılmalıdır: bu nedenle kürenin içindeki alanların üreten fonksiyonu olarak küresel Bessel fonksiyonları seçilir. Saçılan alan, orijinden sonsuza doğru hareket etmelidir; bunun için birinci tip Hankel fonksiyonları seçilir. Saçılan alanlar, daha sonra vektör harmonik açılımla şu şekilde yazılır: E s =",
+      "heading_path": "= 1 ∞ i n 2 n + 1 n ( n + 1 ) ( M e 1 n ( 1 ) ( k , r ) + i N o 1 n ( 1 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{inc}={\\frac {-k}{\\omega \\mu }}E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{e1n}^{(1)}(k,\\mathbf {r} )+i\\mathbf {N} _{o1n}^{(1)}(k,\\mathbf {r} )\\right)} Buradaki ( 1 ) {\\displaystyle (1)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Bessel fonksiyonu olduğunu belirtir. Açılım katsayıları ise şu integraller ile elde edilir: ∫ 0 2 π ∫ 0 π E i n c ⋅ M o e m n ( 1 ) sin ⁡ θ d θ d φ ∫ 0 2 π ∫ 0 π | M o e m n ( 1 ) | 2 sin ⁡ θ d θ d φ {\\displaystyle {\\frac {\\int _{0}^{2\\pi }\\int _{0}^{\\pi }\\mathbf {E} _{inc}\\cdot \\mathbf {M} _{^{e}_{o}mn}^{(1)}\\sin \\theta d\\theta d\\varphi }{\\int _{0}^{2\\pi }\\int _{0}^{\\pi }|\\mathbf {M} _{^{e}_{o}mn}^{(1)}|^{2}\\sin \\theta d\\theta d\\varphi }}} m ≠ 1 {\\displaystyle m\\neq 1} 'ı sağlayan tüm katsayılar 0'dır. Sonrasında şu koşullar çözümde göz önünde bulundurulur: Kürenin yüzeyinde elektromanyetik sınır koşulları sağlanmalıdır. Saçılma probleminin çözümü orijinde sınırlandırılmalıdır: bu nedenle kürenin içindeki alanların üreten fonksiyonu olarak küresel Bessel fonksiyonları seçilir. Saçılan alan, orijinden sonsuza doğru hareket etmelidir; bunun için birinci tip Hankel fonksiyonları seçilir. Saçılan alanlar, daha sonra vektör harmonik açılımla şu şekilde yazılır: E s =",
+      "start_char": 5501,
+      "end_char": 6501,
+      "content": "= 1 ∞ i n 2 n + 1 n ( n + 1 ) ( M e 1 n ( 1 ) ( k , r ) + i N o 1 n ( 1 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{inc}={\\frac {-k}{\\omega \\mu }}E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{e1n}^{(1)}(k,\\mathbf {r} )+i\\mathbf {N} _{o1n}^{(1)}(k,\\mathbf {r} )\\right)} Buradaki ( 1 ) {\\displaystyle (1)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Bessel fonksiyonu olduğunu belirtir. Açılım katsayıları ise şu integraller ile elde edilir: ∫ 0 2 π ∫ 0 π E i n c ⋅ M o e m n ( 1 ) sin ⁡ θ d θ d φ ∫ 0 2 π ∫ 0 π | M o e m n ( 1 ) | 2 sin ⁡ θ d θ d φ {\\displaystyle {\\frac {\\int _{0}^{2\\pi }\\int _{0}^{\\pi }\\mathbf {E} _{inc}\\cdot \\mathbf {M} _{^{e}_{o}mn}^{(1)}\\sin \\theta d\\theta d\\varphi }{\\int _{0}^{2\\pi }\\int _{0}^{\\pi }|\\mathbf {M} _{^{e}_{o}mn}^{(1)}|^{2}\\sin \\theta d\\theta d\\varphi }}} m ≠ 1 {\\displaystyle m\\neq 1} 'ı sağlayan tüm katsayılar 0'dır. Sonrasında şu koşullar çözümde göz önünde bulundurulur: Kürenin yüzeyind",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0017",
+      "section": "= 1 ∞ i n 2 n + 1 n ( n + 1 ) ( M e 1 n ( 1 ) ( k , r ) + i N o 1 n ( 1 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{inc}={\\frac {-k}{\\omega \\mu }}E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{e1n}^{(1)}(k,\\mathbf {r} )+i\\mathbf {N} _{o1n}^{(1)}(k,\\mathbf {r} )\\right)} Buradaki ( 1 ) {\\displaystyle (1)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Bessel fonksiyonu olduğunu belirtir. Açılım katsayıları ise şu integraller ile elde edilir: ∫ 0 2 π ∫ 0 π E i n c ⋅ M o e m n ( 1 ) sin ⁡ θ d θ d φ ∫ 0 2 π ∫ 0 π | M o e m n ( 1 ) | 2 sin ⁡ θ d θ d φ {\\displaystyle {\\frac {\\int _{0}^{2\\pi }\\int _{0}^{\\pi }\\mathbf {E} _{inc}\\cdot \\mathbf {M} _{^{e}_{o}mn}^{(1)}\\sin \\theta d\\theta d\\varphi }{\\int _{0}^{2\\pi }\\int _{0}^{\\pi }|\\mathbf {M} _{^{e}_{o}mn}^{(1)}|^{2}\\sin \\theta d\\theta d\\varphi }}} m ≠ 1 {\\displaystyle m\\neq 1} 'ı sağlayan tüm katsayılar 0'dır. Sonrasında şu koşullar çözümde göz önünde bulundurulur: Kürenin yüzeyinde elektromanyetik sınır koşulları sağlanmalıdır. Saçılma probleminin çözümü orijinde sınırlandırılmalıdır: bu nedenle kürenin içindeki alanların üreten fonksiyonu olarak küresel Bessel fonksiyonları seçilir. Saçılan alan, orijinden sonsuza doğru hareket etmelidir; bunun için birinci tip Hankel fonksiyonları seçilir. Saçılan alanlar, daha sonra vektör harmonik açılımla şu şekilde yazılır: E s =",
+      "heading_path": "= 1 ∞ i n 2 n + 1 n ( n + 1 ) ( M e 1 n ( 1 ) ( k , r ) + i N o 1 n ( 1 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{inc}={\\frac {-k}{\\omega \\mu }}E_{0}\\sum _{n=1}^{\\infty }i^{n}{\\frac {2n+1}{n(n+1)}}\\left(\\mathbf {M} _{e1n}^{(1)}(k,\\mathbf {r} )+i\\mathbf {N} _{o1n}^{(1)}(k,\\mathbf {r} )\\right)} Buradaki ( 1 ) {\\displaystyle (1)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Bessel fonksiyonu olduğunu belirtir. Açılım katsayıları ise şu integraller ile elde edilir: ∫ 0 2 π ∫ 0 π E i n c ⋅ M o e m n ( 1 ) sin ⁡ θ d θ d φ ∫ 0 2 π ∫ 0 π | M o e m n ( 1 ) | 2 sin ⁡ θ d θ d φ {\\displaystyle {\\frac {\\int _{0}^{2\\pi }\\int _{0}^{\\pi }\\mathbf {E} _{inc}\\cdot \\mathbf {M} _{^{e}_{o}mn}^{(1)}\\sin \\theta d\\theta d\\varphi }{\\int _{0}^{2\\pi }\\int _{0}^{\\pi }|\\mathbf {M} _{^{e}_{o}mn}^{(1)}|^{2}\\sin \\theta d\\theta d\\varphi }}} m ≠ 1 {\\displaystyle m\\neq 1} 'ı sağlayan tüm katsayılar 0'dır. Sonrasında şu koşullar çözümde göz önünde bulundurulur: Kürenin yüzeyinde elektromanyetik sınır koşulları sağlanmalıdır. Saçılma probleminin çözümü orijinde sınırlandırılmalıdır: bu nedenle kürenin içindeki alanların üreten fonksiyonu olarak küresel Bessel fonksiyonları seçilir. Saçılan alan, orijinden sonsuza doğru hareket etmelidir; bunun için birinci tip Hankel fonksiyonları seçilir. Saçılan alanlar, daha sonra vektör harmonik açılımla şu şekilde yazılır: E s =",
+      "start_char": 6301,
+      "end_char": 6901,
+      "content": "bf {M} _{^{e}_{o}mn}^{(1)}|^{2}\\sin \\theta d\\theta d\\varphi }}} m ≠ 1 {\\displaystyle m\\neq 1} 'ı sağlayan tüm katsayılar 0'dır. Sonrasında şu koşullar çözümde göz önünde bulundurulur: Kürenin yüzeyinde elektromanyetik sınır koşulları sağlanmalıdır. Saçılma probleminin çözümü orijinde sınırlandırılmalıdır: bu nedenle kürenin içindeki alanların üreten fonksiyonu olarak küresel Bessel fonksiyonları seçilir. Saçılan alan, orijinden sonsuza doğru hareket etmelidir; bunun için birinci tip Hankel fonksiyonları seçilir. Saçılan alanlar, daha sonra vektör harmonik açılımla şu şekilde yazılır: E s = ∑ n",
+      "char_count": 600,
+      "token_estimate": 150
+    },
+    {
+      "id": "c0018",
+      "section": "= 1 ∞ E n ( i a n N e 1 n ( 3 ) ( k , r ) − b n M o 1 n ( 3 ) ( k , r ) ) {\\displaystyle \\mathbf {E} _{s}=\\sum _{n=1}^{\\infty }E_{n}\\left(ia_{n}\\mathbf {N} _{e1n}^{(3)}(k,\\mathbf {r} )-b_{n}\\mathbf {M} _{o1n}^{(3)}(k,\\mathbf {r} )\\right)} H s =",
+      "heading_path": "= 1 ∞ E n ( i a n N e 1 n ( 3 ) ( k , r ) − b n M o 1 n ( 3 ) ( k , r ) ) {\\displaystyle \\mathbf {E} _{s}=\\sum _{n=1}^{\\infty }E_{n}\\left(ia_{n}\\mathbf {N} _{e1n}^{(3)}(k,\\mathbf {r} )-b_{n}\\mathbf {M} _{o1n}^{(3)}(k,\\mathbf {r} )\\right)} H s =",
+      "start_char": 6902,
+      "end_char": 7157,
+      "content": "= 1 ∞ E n ( i a n N e 1 n ( 3 ) ( k , r ) − b n M o 1 n ( 3 ) ( k , r ) ) {\\displaystyle \\mathbf {E} _{s}=\\sum _{n=1}^{\\infty }E_{n}\\left(ia_{n}\\mathbf {N} _{e1n}^{(3)}(k,\\mathbf {r} )-b_{n}\\mathbf {M} _{o1n}^{(3)}(k,\\mathbf {r} )\\right)} H s = k ω μ ∑ n",
+      "char_count": 254,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0019",
+      "section": "= 1 ∞ E n ( a n M e 1 n ( 3 ) ( k , r ) + i b n N o 1 n ( 3 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{s}={\\frac {k}{\\omega \\mu }}\\sum _{n=1}^{\\infty }E_{n}\\left(a_{n}\\mathbf {M} _{e1n}^{(3)}(k,\\mathbf {r} )+ib_{n}\\mathbf {N} _{o1n}^{(3)}(k,\\mathbf {r} )\\right)} Bu denklemlerde ( 3 ) {\\displaystyle (3)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Hankel fonksiyonu olduğunu belirtir. Kürenin içindeki alanlar ise şu şekilde açılabilir: E 1 =",
+      "heading_path": "= 1 ∞ E n ( a n M e 1 n ( 3 ) ( k , r ) + i b n N o 1 n ( 3 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{s}={\\frac {k}{\\omega \\mu }}\\sum _{n=1}^{\\infty }E_{n}\\left(a_{n}\\mathbf {M} _{e1n}^{(3)}(k,\\mathbf {r} )+ib_{n}\\mathbf {N} _{o1n}^{(3)}(k,\\mathbf {r} )\\right)} Bu denklemlerde ( 3 ) {\\displaystyle (3)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Hankel fonksiyonu olduğunu belirtir. Kürenin içindeki alanlar ise şu şekilde açılabilir: E 1 =",
+      "start_char": 7157,
+      "end_char": 7650,
+      "content": "= 1 ∞ E n ( a n M e 1 n ( 3 ) ( k , r ) + i b n N o 1 n ( 3 ) ( k , r ) ) {\\displaystyle \\mathbf {H} _{s}={\\frac {k}{\\omega \\mu }}\\sum _{n=1}^{\\infty }E_{n}\\left(a_{n}\\mathbf {M} _{e1n}^{(3)}(k,\\mathbf {r} )+ib_{n}\\mathbf {N} _{o1n}^{(3)}(k,\\mathbf {r} )\\right)} Bu denklemlerde ( 3 ) {\\displaystyle (3)} üst-imi ψ o e m n {\\displaystyle \\psi _{^{e}_{o}mn}} fonksiyonun radyal kısmının küresel Hankel fonksiyonu olduğunu belirtir. Kürenin içindeki alanlar ise şu şekilde açılabilir: E 1 = ∑ n",
+      "char_count": 492,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0020",
+      "section": "= 1 ∞ E n ( − i d n N e 1 n ( 1 ) ( k 1 , r ) + c n M o 1 n ( 1 ) ( k 1 , r ) ) {\\displaystyle \\mathbf {E} _{1}=\\sum _{n=1}^{\\infty }E_{n}\\left(-id_{n}\\mathbf {N} _{e1n}^{(1)}(k_{1},\\mathbf {r} )+c_{n}\\mathbf {M} _{o1n}^{(1)}(k_{1},\\mathbf {r} )\\right)} H 1 =",
+      "heading_path": "= 1 ∞ E n ( − i d n N e 1 n ( 1 ) ( k 1 , r ) + c n M o 1 n ( 1 ) ( k 1 , r ) ) {\\displaystyle \\mathbf {E} _{1}=\\sum _{n=1}^{\\infty }E_{n}\\left(-id_{n}\\mathbf {N} _{e1n}^{(1)}(k_{1},\\mathbf {r} )+c_{n}\\mathbf {M} _{o1n}^{(1)}(k_{1},\\mathbf {r} )\\right)} H 1 =",
+      "start_char": 7650,
+      "end_char": 7926,
+      "content": "= 1 ∞ E n ( − i d n N e 1 n ( 1 ) ( k 1 , r ) + c n M o 1 n ( 1 ) ( k 1 , r ) ) {\\displaystyle \\mathbf {E} _{1}=\\sum _{n=1}^{\\infty }E_{n}\\left(-id_{n}\\mathbf {N} _{e1n}^{(1)}(k_{1},\\mathbf {r} )+c_{n}\\mathbf {M} _{o1n}^{(1)}(k_{1},\\mathbf {r} )\\right)} H 1 = − k 1 ω μ 1 ∑ n",
+      "char_count": 275,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0021",
+      "section": "= 1 ∞ E n ( d n M e 1 n ( 1 ) ( k 1 , r ) + i c n N o 1 n ( 1 ) ( k 1 , r ) ) {\\displaystyle \\mathbf {H} _{1}={\\frac {-k_{1}}{\\omega \\mu _{1}}}\\sum _{n=1}^{\\infty }E_{n}\\left(d_{n}\\mathbf {M} _{e1n}^{(1)}(k_{1},\\mathbf {r} )+ic_{n}\\mathbf {N} _{o1n}^{(1)}(k_{1},\\mathbf {r} )\\right)} k =",
+      "heading_path": "= 1 ∞ E n ( d n M e 1 n ( 1 ) ( k 1 , r ) + i c n N o 1 n ( 1 ) ( k 1 , r ) ) {\\displaystyle \\mathbf {H} _{1}={\\frac {-k_{1}}{\\omega \\mu _{1}}}\\sum _{n=1}^{\\infty }E_{n}\\left(d_{n}\\mathbf {M} _{e1n}^{(1)}(k_{1},\\mathbf {r} )+ic_{n}\\mathbf {N} _{o1n}^{(1)}(k_{1},\\mathbf {r} )\\right)} k =",
+      "start_char": 7926,
+      "end_char": 8236,
+      "content": "= 1 ∞ E n ( d n M e 1 n ( 1 ) ( k 1 , r ) + i c n N o 1 n ( 1 ) ( k 1 , r ) ) {\\displaystyle \\mathbf {H} _{1}={\\frac {-k_{1}}{\\omega \\mu _{1}}}\\sum _{n=1}^{\\infty }E_{n}\\left(d_{n}\\mathbf {M} _{e1n}^{(1)}(k_{1},\\mathbf {r} )+ic_{n}\\mathbf {N} _{o1n}^{(1)}(k_{1},\\mathbf {r} )\\right)} k = ω c n {\\displaystyle k",
+      "char_count": 310,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0022",
+      "section": "= {\\frac {\\omega }{c}}n} ve k 1 =",
+      "heading_path": "= {\\frac {\\omega }{c}}n} ve k 1 =",
+      "start_char": 8236,
+      "end_char": 8297,
+      "content": "={\\frac {\\omega }{c}}n} ve k 1 = ω c n 1 {\\displaystyle k_{1}",
+      "char_count": 61,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0023",
+      "section": "= {\\frac {\\omega }{c}}{n_{1}}} küre dışındaki ve içindeki dalga vektörünü ifade eder. Kürenin dışı ve içindeki kırılma indisleri n {\\displaystyle n} ve n 1 {\\displaystyle n_{1}} ile gösterilir. Sınır koşulları denklemlere uygulandıktan sonra Mie katsayıları elde edilir: c n ( ω ) =",
+      "heading_path": "= {\\frac {\\omega }{c}}{n_{1}}} küre dışındaki ve içindeki dalga vektörünü ifade eder. Kürenin dışı ve içindeki kırılma indisleri n {\\displaystyle n} ve n 1 {\\displaystyle n_{1}} ile gösterilir. Sınır koşulları denklemlere uygulandıktan sonra Mie katsayıları elde edilir: c n ( ω ) =",
+      "start_char": 8297,
+      "end_char": 8744,
+      "content": "={\\frac {\\omega }{c}}{n_{1}}} küre dışındaki ve içindeki dalga vektörünü ifade eder. Kürenin dışı ve içindeki kırılma indisleri n {\\displaystyle n} ve n 1 {\\displaystyle n_{1}} ile gösterilir. Sınır koşulları denklemlere uygulandıktan sonra Mie katsayıları elde edilir: c n ( ω ) = μ 1 [ ρ h n ( ρ ) ] ′ j n ( ρ ) − μ 1 [ ρ j n ( ρ ) ] ′ h n ( ρ ) μ 1 [ ρ h n ( ρ ) ] ′ j n ( ρ 1 ) − μ [ ρ 1 j n ( ρ 1 ) ] ′ h n ( ρ ) {\\displaystyle c_{n}(\\omega )",
+      "char_count": 447,
+      "token_estimate": 111
+    },
+    {
+      "id": "c0024",
+      "section": "= {\\frac {\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho )-\\mu _{1}\\left[\\rho j_{n}(\\rho )\\right]'h_{n}(\\rho )}{\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}}} d n ( ω ) =",
+      "heading_path": "= {\\frac {\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho )-\\mu _{1}\\left[\\rho j_{n}(\\rho )\\right]'h_{n}(\\rho )}{\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}}} d n ( ω ) =",
+      "start_char": 8744,
+      "end_char": 9174,
+      "content": "={\\frac {\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho )-\\mu _{1}\\left[\\rho j_{n}(\\rho )\\right]'h_{n}(\\rho )}{\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}}} d n ( ω ) = μ 1 n 1 n [ ρ h n ( ρ ) ] ′ j n ( ρ ) − μ 1 n 1 n [ ρ j n ( ρ ) ] ′ h n ( ρ ) μ n 1 2 [ ρ h n ( ρ ) ] ′ j n ( ρ 1 ) − μ 1 n 2 [ ρ 1 j n ( ρ 1 ) ] ′ h n ( ρ ) , {\\displaystyle d_{n}(\\omega )",
+      "char_count": 430,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0025",
+      "section": "= {\\frac {\\mu _{1}n_{1}n\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho )-\\mu _{1}n_{1}n\\left[\\rho j_{n}(\\rho )\\right]'h_{n}(\\rho )}{\\mu n_{1}^{2}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}},} b n ( ω ) =",
+      "heading_path": "= {\\frac {\\mu _{1}n_{1}n\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho )-\\mu _{1}n_{1}n\\left[\\rho j_{n}(\\rho )\\right]'h_{n}(\\rho )}{\\mu n_{1}^{2}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}},} b n ( ω ) =",
+      "start_char": 9174,
+      "end_char": 9611,
+      "content": "={\\frac {\\mu _{1}n_{1}n\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho )-\\mu _{1}n_{1}n\\left[\\rho j_{n}(\\rho )\\right]'h_{n}(\\rho )}{\\mu n_{1}^{2}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}},} b n ( ω ) = μ 1 [ ρ j n ( ρ ) ] ′ j n ( ρ 1 ) − μ [ ρ 1 j n ( ρ 1 ) ] ′ j n ( ρ ) μ 1 [ ρ h n ( ρ ) ] ′ j n ( ρ 1 ) − μ [ ρ 1 j n ( ρ 1 ) ] ′ h n ( ρ ) {\\displaystyle b_{n}(\\omega )",
+      "char_count": 437,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0026",
+      "section": "= {\\frac {\\mu _{1}\\left[\\rho j_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'j_{n}(\\rho )}{\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}}} a n ( ω ) =",
+      "heading_path": "= {\\frac {\\mu _{1}\\left[\\rho j_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'j_{n}(\\rho )}{\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}}} a n ( ω ) =",
+      "start_char": 9611,
+      "end_char": 10051,
+      "content": "={\\frac {\\mu _{1}\\left[\\rho j_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'j_{n}(\\rho )}{\\mu _{1}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu \\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}}} a n ( ω ) = μ n 1 2 [ ρ j n ( ρ ) ] ′ j n ( ρ 1 ) − μ 1 n 2 [ ρ 1 j n ( ρ 1 ) ] ′ j n ( ρ ) μ n 1 2 [ ρ h n ( ρ ) ] ′ j n ( ρ 1 ) − μ 1 n 2 [ ρ 1 j n ( ρ 1 ) ] ′ h n ( ρ ) , {\\displaystyle a_{n}(\\omega )",
+      "char_count": 440,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0027",
+      "section": "= {\\frac {\\mu n_{1}^{2}\\left[\\rho j_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'j_{n}(\\rho )}{\\mu n_{1}^{2}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}},} ρ =",
+      "heading_path": "= {\\frac {\\mu n_{1}^{2}\\left[\\rho j_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'j_{n}(\\rho )}{\\mu n_{1}^{2}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}},} ρ =",
+      "start_char": 10051,
+      "end_char": 10345,
+      "content": "={\\frac {\\mu n_{1}^{2}\\left[\\rho j_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'j_{n}(\\rho )}{\\mu n_{1}^{2}\\left[\\rho h_{n}(\\rho )\\right]'j_{n}(\\rho _{1})-\\mu _{1}n^{2}\\left[\\rho _{1}j_{n}(\\rho _{1})\\right]'h_{n}(\\rho )}},} ρ = k a {\\displaystyle \\rho",
+      "char_count": 293,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0028",
+      "section": "= ka} ρ 1 =",
+      "heading_path": "= ka} ρ 1 =",
+      "start_char": 10345,
+      "end_char": 10386,
+      "content": "=ka} ρ 1 = k 1 a {\\displaystyle \\rho _{1}",
+      "char_count": 41,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0029",
+      "section": "= k_{1}a} Bu katsayılarda a {\\displaystyle a} kürenin yarıçapına, j n {\\displaystyle j_{n}} ile h n {\\displaystyle h_{n}} fonksiyonları da sırasıyla birince tip küresel Bessel ve Hankel fonksiyonlarına tekabül eder. Mie saçılması nümerik olarak hesaplanırken sonsuz seri toplamının bir yerden sonra kesilmesi gerekir. Bununla ilgili en yaygın kriterlerden biri Wiscombe'un kriteridir ve L m a x =",
+      "heading_path": "= k_{1}a} Bu katsayılarda a {\\displaystyle a} kürenin yarıçapına, j n {\\displaystyle j_{n}} ile h n {\\displaystyle h_{n}} fonksiyonları da sırasıyla birince tip küresel Bessel ve Hankel fonksiyonlarına tekabül eder. Mie saçılması nümerik olarak hesaplanırken sonsuz seri toplamının bir yerden sonra kesilmesi gerekir. Bununla ilgili en yaygın kriterlerden biri Wiscombe'un kriteridir ve L m a x =",
+      "start_char": 10386,
+      "end_char": 10822,
+      "content": "=k_{1}a} Bu katsayılarda a {\\displaystyle a} kürenin yarıçapına, j n {\\displaystyle j_{n}} ile h n {\\displaystyle h_{n}} fonksiyonları da sırasıyla birince tip küresel Bessel ve Hankel fonksiyonlarına tekabül eder. Mie saçılması nümerik olarak hesaplanırken sonsuz seri toplamının bir yerden sonra kesilmesi gerekir. Bununla ilgili en yaygın kriterlerden biri Wiscombe'un kriteridir ve L m a x = x + 4 x 1 / 3 + 2 {\\displaystyle L_{max}",
+      "char_count": 436,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0030",
+      "section": "= x+4x^{1/3}+2} terimlerin doğruya yakın sonuçlar için yeterli olduğunu belirtir. Bu denklem de x, ρ {\\displaystyle \\rho } ile eştir. == =",
+      "heading_path": "= x+4x^{1/3}+2} terimlerin doğruya yakın sonuçlar için yeterli olduğunu belirtir. Bu denklem de x, ρ {\\displaystyle \\rho } ile eştir. == =",
+      "start_char": 10822,
+      "end_char": 10995,
+      "content": "=x+4x^{1/3}+2} terimlerin doğruya yakın sonuçlar için yeterli olduğunu belirtir. Bu denklem de x, ρ {\\displaystyle \\rho } ile eştir. === Saçılma ve yok olma tesir kesitleri",
+      "char_count": 172,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0031",
+      "section": "== = Mie teorisinde ve saçılmada etkinlik katsayıları sıklıkla kullanılan parametrelerdendir. Bu katsayılar yok olma ( Q e ) {\\displaystyle (Q_{e})} , saçılma ( Q s ) {\\displaystyle (Q_{s})} ve soğurma ( Q a ) {\\displaystyle (Q_{a})} için tanımlanabilir. Bu katsayılar ilgili tesir kesitlerinin ışığın saçıldığı kürenin kesit alanına oranıdır. Örnek olarak, bir Mie saçılmasında saçılma etkinlik katsayısı Q s = σ s π a 2 {\\displaystyle Q_{s}={\\frac {\\sigma _{s}}{\\pi a^{2}}}} formülü ile hesaplanabilir; bu denklemde σ s {\\displaystyle \\sigma _{s}} saçılma tesir kesiti ve a da parçacık yarıçapıdır. Yok olma kesiti, Mie teorisinde şu şekilde tanımlanır: σ e = σ s + σ a {\\displaystyle \\sigma _{e}=\\sigma _{s}+\\sigma _{a}} and Q e = Q s + Q a {\\displaystyle Q_{e}=Q_{s}+Q_{a}} Gene Mie teorisine göre, saçılma ve yok olma katsayıları sonsuz bir seri ile gösterilebilir: Q s = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ( | a n | 2 + | b n | 2 ) {\\displaystyle Q_{s}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)(|a_{n}|^{2}+|b_{n}|^{2})} Q e = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ℜ ( a n + b n ) {\\displaystyle Q_{e}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)\\Re (a_{n}+b_{n})} ==",
+      "heading_path": "== = Mie teorisinde ve saçılmada etkinlik katsayıları sıklıkla kullanılan parametrelerdendir. Bu katsayılar yok olma ( Q e ) {\\displaystyle (Q_{e})} , saçılma ( Q s ) {\\displaystyle (Q_{s})} ve soğurma ( Q a ) {\\displaystyle (Q_{a})} için tanımlanabilir. Bu katsayılar ilgili tesir kesitlerinin ışığın saçıldığı kürenin kesit alanına oranıdır. Örnek olarak, bir Mie saçılmasında saçılma etkinlik katsayısı Q s = σ s π a 2 {\\displaystyle Q_{s}={\\frac {\\sigma _{s}}{\\pi a^{2}}}} formülü ile hesaplanabilir; bu denklemde σ s {\\displaystyle \\sigma _{s}} saçılma tesir kesiti ve a da parçacık yarıçapıdır. Yok olma kesiti, Mie teorisinde şu şekilde tanımlanır: σ e = σ s + σ a {\\displaystyle \\sigma _{e}=\\sigma _{s}+\\sigma _{a}} and Q e = Q s + Q a {\\displaystyle Q_{e}=Q_{s}+Q_{a}} Gene Mie teorisine göre, saçılma ve yok olma katsayıları sonsuz bir seri ile gösterilebilir: Q s = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ( | a n | 2 + | b n | 2 ) {\\displaystyle Q_{s}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)(|a_{n}|^{2}+|b_{n}|^{2})} Q e = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ℜ ( a n + b n ) {\\displaystyle Q_{e}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)\\Re (a_{n}+b_{n})} ==",
+      "start_char": 10995,
+      "end_char": 11995,
+      "content": "=== Mie teorisinde ve saçılmada etkinlik katsayıları sıklıkla kullanılan parametrelerdendir. Bu katsayılar yok olma ( Q e ) {\\displaystyle (Q_{e})} , saçılma ( Q s ) {\\displaystyle (Q_{s})} ve soğurma ( Q a ) {\\displaystyle (Q_{a})} için tanımlanabilir. Bu katsayılar ilgili tesir kesitlerinin ışığın saçıldığı kürenin kesit alanına oranıdır. Örnek olarak, bir Mie saçılmasında saçılma etkinlik katsayısı Q s = σ s π a 2 {\\displaystyle Q_{s}={\\frac {\\sigma _{s}}{\\pi a^{2}}}} formülü ile hesaplanabilir; bu denklemde σ s {\\displaystyle \\sigma _{s}} saçılma tesir kesiti ve a da parçacık yarıçapıdır. Yok olma kesiti, Mie teorisinde şu şekilde tanımlanır: σ e = σ s + σ a {\\displaystyle \\sigma _{e}=\\sigma _{s}+\\sigma _{a}} and Q e = Q s + Q a {\\displaystyle Q_{e}=Q_{s}+Q_{a}} Gene Mie teorisine göre, saçılma ve yok olma katsayıları sonsuz bir seri ile gösterilebilir: Q s = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ( | a n | 2 + | b n | 2 ) {\\displaystyle Q_{s}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0032",
+      "section": "== = Mie teorisinde ve saçılmada etkinlik katsayıları sıklıkla kullanılan parametrelerdendir. Bu katsayılar yok olma ( Q e ) {\\displaystyle (Q_{e})} , saçılma ( Q s ) {\\displaystyle (Q_{s})} ve soğurma ( Q a ) {\\displaystyle (Q_{a})} için tanımlanabilir. Bu katsayılar ilgili tesir kesitlerinin ışığın saçıldığı kürenin kesit alanına oranıdır. Örnek olarak, bir Mie saçılmasında saçılma etkinlik katsayısı Q s = σ s π a 2 {\\displaystyle Q_{s}={\\frac {\\sigma _{s}}{\\pi a^{2}}}} formülü ile hesaplanabilir; bu denklemde σ s {\\displaystyle \\sigma _{s}} saçılma tesir kesiti ve a da parçacık yarıçapıdır. Yok olma kesiti, Mie teorisinde şu şekilde tanımlanır: σ e = σ s + σ a {\\displaystyle \\sigma _{e}=\\sigma _{s}+\\sigma _{a}} and Q e = Q s + Q a {\\displaystyle Q_{e}=Q_{s}+Q_{a}} Gene Mie teorisine göre, saçılma ve yok olma katsayıları sonsuz bir seri ile gösterilebilir: Q s = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ( | a n | 2 + | b n | 2 ) {\\displaystyle Q_{s}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)(|a_{n}|^{2}+|b_{n}|^{2})} Q e = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ℜ ( a n + b n ) {\\displaystyle Q_{e}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)\\Re (a_{n}+b_{n})} ==",
+      "heading_path": "== = Mie teorisinde ve saçılmada etkinlik katsayıları sıklıkla kullanılan parametrelerdendir. Bu katsayılar yok olma ( Q e ) {\\displaystyle (Q_{e})} , saçılma ( Q s ) {\\displaystyle (Q_{s})} ve soğurma ( Q a ) {\\displaystyle (Q_{a})} için tanımlanabilir. Bu katsayılar ilgili tesir kesitlerinin ışığın saçıldığı kürenin kesit alanına oranıdır. Örnek olarak, bir Mie saçılmasında saçılma etkinlik katsayısı Q s = σ s π a 2 {\\displaystyle Q_{s}={\\frac {\\sigma _{s}}{\\pi a^{2}}}} formülü ile hesaplanabilir; bu denklemde σ s {\\displaystyle \\sigma _{s}} saçılma tesir kesiti ve a da parçacık yarıçapıdır. Yok olma kesiti, Mie teorisinde şu şekilde tanımlanır: σ e = σ s + σ a {\\displaystyle \\sigma _{e}=\\sigma _{s}+\\sigma _{a}} and Q e = Q s + Q a {\\displaystyle Q_{e}=Q_{s}+Q_{a}} Gene Mie teorisine göre, saçılma ve yok olma katsayıları sonsuz bir seri ile gösterilebilir: Q s = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ( | a n | 2 + | b n | 2 ) {\\displaystyle Q_{s}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)(|a_{n}|^{2}+|b_{n}|^{2})} Q e = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ℜ ( a n + b n ) {\\displaystyle Q_{e}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)\\Re (a_{n}+b_{n})} ==",
+      "start_char": 11795,
+      "end_char": 12179,
+      "content": ", saçılma ve yok olma katsayıları sonsuz bir seri ile gösterilebilir: Q s = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ( | a n | 2 + | b n | 2 ) {\\displaystyle Q_{s}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)(|a_{n}|^{2}+|b_{n}|^{2})} Q e = 2 π k 2 ∑ n = 1 ∞ ( 2 n + 1 ) ℜ ( a n + b n ) {\\displaystyle Q_{e}={\\frac {2\\pi }{k^{2}}}\\sum _{n=1}^{\\infty }(2n+1)\\Re (a_{n}+b_{n})} == Uygulamalar",
+      "char_count": 384,
+      "token_estimate": 96
+    },
+    {
+      "id": "c0033",
+      "section": "== Mie teorisi, atmosfer biliminde bulut ve tozlardaki ışık saçılmasının incelenmesi için sıkça kullanılmaktadır. Teorinin diğer kullanım alanları arasında biyomedikal sistemler ile radarlar bulunmaktadır. Mie saçılımı aynı zamanda bazı metamateryal ve plazmonik yapıların teorisinde yer edinmiştir. ==",
+      "heading_path": "== Mie teorisi, atmosfer biliminde bulut ve tozlardaki ışık saçılmasının incelenmesi için sıkça kullanılmaktadır. Teorinin diğer kullanım alanları arasında biyomedikal sistemler ile radarlar bulunmaktadır. Mie saçılımı aynı zamanda bazı metamateryal ve plazmonik yapıların teorisinde yer edinmiştir. ==",
+      "start_char": 12180,
+      "end_char": 12492,
+      "content": "== Mie teorisi, atmosfer biliminde bulut ve tozlardaki ışık saçılmasının incelenmesi için sıkça kullanılmaktadır. Teorinin diğer kullanım alanları arasında biyomedikal sistemler ile radarlar bulunmaktadır. Mie saçılımı aynı zamanda bazı metamateryal ve plazmonik yapıların teorisinde yer edinmiştir. == Kaynakça",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0034",
+      "section": "== == Kitap kaynakları ==",
+      "heading_path": "== == Kitap kaynakları ==",
+      "start_char": 12492,
+      "end_char": 13026,
+      "content": "== == Kitap kaynakları == Bohren, C. F.; Huffmann, D. R. (2010). Absorption and scattering of light by small particles (İngilizce). New York: Wiley-Interscience. ISBN 978-3-527-40664-7. Jackson, John David (1998). Classical Electrodynamics (İngilizce). New York: Wiley. ISBN 9780471309321. Maier, S. A. (2007). Plasmonics: Fundamentals and applications (İngilizce). New York: Springer. ISBN 9780387378251. van de Hulst, H. C. (1957). Light scattering by small particles (İngilizce). New York: John Wiley and Sons. ISBN 9780486139753.",
+      "char_count": 533,
+      "token_estimate": 133
+    },
+    {
+      "id": "c0035",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 13026,
+      "end_char": 13351,
+      "content": "== Dış bağlantılar == SCATTERLIB: Işık saçılması kodları koleksiyonu 26 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. Online Mie saçılması hesaplayıcısı 29 Ocak 2020 tarihinde Wayback Machine sitesinde arşivlendi. PyMieScatt 21 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi., Mie saçılması Python kodu",
+      "char_count": 325,
+      "token_estimate": 81
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mie saçılmasında çarpan ve saçılan elektrik alanlar ne olarak ifade edilir?",
+        "answer": "Vektör küresel harmonikleri olarak ifade edilir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mie saçılması teorisi hangi durumlarda Rayleigh saçılmasına yaklaşır ve bu özel durumda Rayleigh saçılmasını açıklamak için hangi teorik yaklaşım kullanılabilir?",
+        "answer": "Mie saçılması, ışığın dalga boyunun kürenin yarıçapından çok daha büyük olduğu, yani kürenin dalga boyundan çok daha küçük olduğu durumlarda Rayleigh saçılmasına yakınsar. Bu durumdaki ışık saçılmasını açıklamak için yarı-statik yaklaşım kullanılarak Laplace denklemi çözülebilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

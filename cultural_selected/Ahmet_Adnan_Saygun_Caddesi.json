@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "ahmetadnansayguncadd_597e9b43",
+    "title": "Ahmet Adnan Saygun Caddesi",
+    "url": "https://tr.wikipedia.org/wiki/Ahmet_Adnan_Saygun_Caddesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:59.738012",
+    "content": "Ahmet Adnan Saygun Caddesi veya eski adıyla Hasırcılar Caddesi; Ankara'nın Altındağ ilçesinde bulunan bir caddedir. Opera Meydanı'ndan başlayıp yaklaşık 1.5 kilometrelik bir hat boyunca devam ederek Çankaya sınırları içerisinde, Aksu Caddesi ile kesiştiği noktada son bulur. Adını, ilk Türk operasının bestecisi olan Ahmet Adnan Saygun'dan almıştır. == Tarihçe == Bugün Ahmet Adnan Saygun Caddesi'nin Hacı Bayram Mahallesi sınırları içerisinde kalan kısmında bir zamanlar \"Yahudi Mahallesi\" adıyla da anılan İstiklal Mahallesi bulunmaktaydı. Şehirdeki gayrimüslim nüfusun yoğun olarak yaşadığı ve iki katlı, avlulu evlerden oluşan bu mahalle Büyük Ankara Yangını sırasında ciddi oranda hasar almıştı. Jansen Planı'yla birlikte mahallenin orijinal dokusu korunmaya çalışıldıysa da ilerleyen dönemlerde Yücel-Uybadin Planı'nın hayata geçirilmesiyle birlikte söz konusu mahalle üzerindeki sıkı imar kuralları gevşetilerek yapılaşmanın önü açıldı. Bu tarihten itibaren önü kesilemeyen şehirleşme adımları, mevcut ulaşım arterlerinin her geçen gün yetersizleşmesine neden olmaya başladı. 1980 yılında Ankara Belediyesi tarafından alınan bir kararla, Altındağ ve Çankaya ilçelerini birbirine bağlayacak olan yeni bir yolun açılması için harekete geçildi. Kuzey-güney aksında uzanan bu yol, İstiklal Mahallesi'nin batı kanadında kalan kısmında büyük bir yıkım çalışmasını da beraberinde getirmekteydi. Söz konusu proje kapsamında pek çok tarihi konut ve işyerinin yıkılmasıyla o zamanki adıyla Hasırcılar Caddesi kullanıma açıldı. İlk etapta Opera Meydanı ile Denizciler Caddesi'ni birbirine bağlaması düşünülen bu caddenin yapımında tarihi Mukaddem Camii tamamen yıkıldığı gibi Eynebey Hamamı'nın yola bakan cephesinde de tahribatlar meydana geldi. 1983'te Anıtlar Yüksek Kurulu'nun sit alanlarındaki yapılaşmanın kısıtlanmasına yönelik kararı ise uzun bir süre boyunca Hasırcılar Caddesi'nde iki kattan fazla olan binaların inşa edilmesine olanak vermedi. 2005 yılında, Ankara Büyükşehir Belediyesi tarafından Ulus semtini de kapsayan ve şehrin tarihi merkezinin dönüştürülerek korunmasını öngören bir plan ilan edildi. \"Ankara Tarihi Kent Merkezi Yenileme Alanı Koruma Amaçlı İmar Planı\" olarak adlandırılan bu proje, Opera Meydanı'nda çok katlı bir otopark ile Hasırcılar Caddesi'nin paralelinde uzanacak olan bir turizm tesisi inşa edilmesini öngörmekteydi. Böylesi bir projenin ilçeyi yenilemekten ziyade mevcut kültürel mirasına zarar vereceğini öne süren sivil toplum kuruluşlarının belediyeye açtığı dava sonucunda Ankara 10. İdare Mahkemesi söz konusu imar planının yürütmeden kaldırılmasına ve iptaline karar verdi. == Cadde üzerindeki yapılar == Melike Hatun Camii Gazi Lisesi Eynebey Hamamı Ankara Üniversitesi Tıp Fakültesi Ankara Üniversitesi İbni Sina Araştırma ve Uygulama Hastanesi Hacettepe Üniversitesi Sağlık Bilimleri Fakültesi Hacettepe Üniversitesi Hastaneleri Hacettepe Üniversitesi Hemşirelik Fakültesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 375,
+      "char_count": 2936,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.948238",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 350,
+      "content": "Ahmet Adnan Saygun Caddesi veya eski adıyla Hasırcılar Caddesi; Ankara'nın Altındağ ilçesinde bulunan bir caddedir. Opera Meydanı'ndan başlayıp yaklaşık 1.5 kilometrelik bir hat boyunca devam ederek Çankaya sınırları içerisinde, Aksu Caddesi ile kesiştiği noktada son bulur. Adını, ilk Türk operasının bestecisi olan Ahmet Adnan Saygun'dan almıştır.",
+      "char_count": 349,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 350,
+      "end_char": 1350,
+      "content": "== Tarihçe == Bugün Ahmet Adnan Saygun Caddesi'nin Hacı Bayram Mahallesi sınırları içerisinde kalan kısmında bir zamanlar \"Yahudi Mahallesi\" adıyla da anılan İstiklal Mahallesi bulunmaktaydı. Şehirdeki gayrimüslim nüfusun yoğun olarak yaşadığı ve iki katlı, avlulu evlerden oluşan bu mahalle Büyük Ankara Yangını sırasında ciddi oranda hasar almıştı. Jansen Planı'yla birlikte mahallenin orijinal dokusu korunmaya çalışıldıysa da ilerleyen dönemlerde Yücel-Uybadin Planı'nın hayata geçirilmesiyle birlikte söz konusu mahalle üzerindeki sıkı imar kuralları gevşetilerek yapılaşmanın önü açıldı. Bu tarihten itibaren önü kesilemeyen şehirleşme adımları, mevcut ulaşım arterlerinin her geçen gün yetersizleşmesine neden olmaya başladı. 1980 yılında Ankara Belediyesi tarafından alınan bir kararla, Altındağ ve Çankaya ilçelerini birbirine bağlayacak olan yeni bir yolun açılması için harekete geçildi. Kuzey-güney aksında uzanan bu yol, İstiklal Mahallesi'nin batı kanadında kalan kısmında büyük bir yık",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1150,
+      "end_char": 2150,
+      "content": "dağ ve Çankaya ilçelerini birbirine bağlayacak olan yeni bir yolun açılması için harekete geçildi. Kuzey-güney aksında uzanan bu yol, İstiklal Mahallesi'nin batı kanadında kalan kısmında büyük bir yıkım çalışmasını da beraberinde getirmekteydi. Söz konusu proje kapsamında pek çok tarihi konut ve işyerinin yıkılmasıyla o zamanki adıyla Hasırcılar Caddesi kullanıma açıldı. İlk etapta Opera Meydanı ile Denizciler Caddesi'ni birbirine bağlaması düşünülen bu caddenin yapımında tarihi Mukaddem Camii tamamen yıkıldığı gibi Eynebey Hamamı'nın yola bakan cephesinde de tahribatlar meydana geldi. 1983'te Anıtlar Yüksek Kurulu'nun sit alanlarındaki yapılaşmanın kısıtlanmasına yönelik kararı ise uzun bir süre boyunca Hasırcılar Caddesi'nde iki kattan fazla olan binaların inşa edilmesine olanak vermedi. 2005 yılında, Ankara Büyükşehir Belediyesi tarafından Ulus semtini de kapsayan ve şehrin tarihi merkezinin dönüştürülerek korunmasını öngören bir plan ilan edildi. \"Ankara Tarihi Kent Merkezi Yenilem",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1950,
+      "end_char": 2619,
+      "content": " 2005 yılında, Ankara Büyükşehir Belediyesi tarafından Ulus semtini de kapsayan ve şehrin tarihi merkezinin dönüştürülerek korunmasını öngören bir plan ilan edildi. \"Ankara Tarihi Kent Merkezi Yenileme Alanı Koruma Amaçlı İmar Planı\" olarak adlandırılan bu proje, Opera Meydanı'nda çok katlı bir otopark ile Hasırcılar Caddesi'nin paralelinde uzanacak olan bir turizm tesisi inşa edilmesini öngörmekteydi. Böylesi bir projenin ilçeyi yenilemekten ziyade mevcut kültürel mirasına zarar vereceğini öne süren sivil toplum kuruluşlarının belediyeye açtığı dava sonucunda Ankara 10. İdare Mahkemesi söz konusu imar planının yürütmeden kaldırılmasına ve iptaline karar verdi.",
+      "char_count": 669,
+      "token_estimate": 167
+    },
+    {
+      "id": "c0004",
+      "section": "== Cadde üzerindeki yapılar ==",
+      "heading_path": "== Cadde üzerindeki yapılar ==",
+      "start_char": 2620,
+      "end_char": 2922,
+      "content": "== Cadde üzerindeki yapılar == Melike Hatun Camii Gazi Lisesi Eynebey Hamamı Ankara Üniversitesi Tıp Fakültesi Ankara Üniversitesi İbni Sina Araştırma ve Uygulama Hastanesi Hacettepe Üniversitesi Sağlık Bilimleri Fakültesi Hacettepe Üniversitesi Hastaneleri Hacettepe Üniversitesi Hemşirelik Fakültesi",
+      "char_count": 301,
+      "token_estimate": 75
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İstiklal Mahallesi, ne zaman ciddi oranda hasar almıştır?",
+        "answer": "Büyük Ankara Yangını sırasında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ahmet Adnan Saygun Caddesi'nin yapımı, hangi eski mahallede büyük çaplı bir yıkıma yol açmış ve bu süreçte hangi tarihi yapılar zarar görmüştür?",
+        "answer": "Ahmet Adnan Saygun Caddesi'nin yapımı, bir zamanlar \"Yahudi Mahallesi\" adıyla da anılan İstiklal Mahallesi'nin batı kanadında büyük bir yıkıma neden olmuştur. Bu süreçte tarihi Mukaddem Camii tamamen yıkılmış, Eynebey Hamamı'nın yola bakan cephesinde ise tahribatlar meydana gelmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "haccafercamii_1868d453",
+    "title": "Hacı Cafer Camii",
+    "url": "https://tr.wikipedia.org/wiki/Hac%C4%B1_Cafer_Camii",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:52.059326",
+    "content": "Hacı Cafer Camii, Azerbaycan'ın Kuba şehrinde 19. yüzyılın başlarında inşa edilmiş tarihi-mimari bir anıttır. Anıt, Azerbaycan Cumhuriyeti Bakanlar Kurulunun 2 Ağustos 2001 tarih ve 132 sayılı kararı ile ulusal öneme sahip taşınmaz tarihi ve kültürel anıtlar listesine dahil edilmiştir. == Hakkında == Hacı Cafer Camii, 1905 yılında Kuba şehrinin merkezinde inşa edilmiştir. Şehrin en büyük camisi olup 400 metrekarelik bir alana sahiptir. İnşa eden kişi olarak Hacı Cafer'in adı verilmiştir. Şehrin yaşlılarına göre, Kuba soykırımı sırasında Ermeniler yaşlıları, kadınları ve çocukları bu camide toplayarak canlı canlı yakmak istemişlerdir. Ancak o dönemde caminin imamı olan Hacı Baba bunu engellemiştir. Hacı Baba, katliamdan sonra yalnız kalmış Ermeni kızlarını kendi kızları gibi büyütmüş ve korumuştur. Ermenilere, \"Siz bizim çocuklarımız gibi kendi kızlarınıza bakıyorsunuz, bizim öldürmek istediğiniz insanları koruyoruz\" demiştir. Bu olaydan sonra Ermeniler insanları yakmaktan vazgeçmişlerdir. === Sovyet işgali sırasında === Sovyet işgalı sırasında dinle mücadele resmi olarak 1928'de başladı. Aynı yılın Aralık ayında Azerbaycan Komünist Partisi Merkez Komitesi birçok cami, kilise ve sinagogu eğitim amaçlı kulüplerin bakiyesine verdi. Eğer 1917'de Azerbaycan'da 3.000 cami varsa, bu rakam 1927'de 1.700'e, 1933'te ise 17'ye düştü. İşgal sonrası cami kapatıldı. 1930'larda caminin minaresi yıkıldı. İlk dönemlerde öğrenci yurdu olarak kullanılmış olsa da daha sonra depo olarak kullanıldı. Daha sonra 1943'te yerel halk tarafından minare restore edildi ve 1944'ten itibaren tekrar cami olarak faaliyet göstermeye başladı. Camide hem Şiiler hem de Sünniler namaz kılmaktadır. === Bağımsızlıktan sonra === Anıt, Azerbaycan Cumhuriyeti Bakanlar Kurulunun 2 Ağustos 2001 tarih ve 132 sayılı kararıyla ulusal öneme sahip taşınmaz tarihi ve kültürel anıtlar listesine dahil edilmiştir. == Mimari == Pişmiş tuğlalardan inşa edilen camii'nin yapısı 4 odaya sahiptir. Camii, ana ibadet salonu ve önünde bulunan yardımcı odalardan oluşan dikdörtgen bir plana sahiptir. Camii'nin ana girişi kuzey tarafından yapılmıştır. Mihrap kapının karşısında yer almaktadır. Ana salonun tavanını desteklemek için ortasında iki sütun bulunmaktadır. Kadınlar için ayrılan küçük salon ikinci katta yer almaktadır. Camii'nin kubbesi dışarıdan beyaz demirle kaplanmıştır. Camii'nin minaresi kubbenin üstünde yer almaktadır. Minareye çıkmak için sağ tarafta merdivenler bulunmaktadır. Mihrabın yapısı basittir ve ceviz ağacından yapılmıştır. Çivisiz yapılan antik oymalı ahşap kapı günümüze kadar korunmuş ve korunmaktadır. == Ayrıca bakınız == Erdebil Camii == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 356,
+      "char_count": 2657,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.629296",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 287,
+      "content": "Hacı Cafer Camii, Azerbaycan'ın Kuba şehrinde 19. yüzyılın başlarında inşa edilmiş tarihi-mimari bir anıttır. Anıt, Azerbaycan Cumhuriyeti Bakanlar Kurulunun 2 Ağustos 2001 tarih ve 132 sayılı kararı ile ulusal öneme sahip taşınmaz tarihi ve kültürel anıtlar listesine dahil edilmiştir.",
+      "char_count": 286,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0001",
+      "section": "== Hakkında ==",
+      "heading_path": "== Hakkında ==",
+      "start_char": 287,
+      "end_char": 1004,
+      "content": "== Hakkında == Hacı Cafer Camii, 1905 yılında Kuba şehrinin merkezinde inşa edilmiştir. Şehrin en büyük camisi olup 400 metrekarelik bir alana sahiptir. İnşa eden kişi olarak Hacı Cafer'in adı verilmiştir. Şehrin yaşlılarına göre, Kuba soykırımı sırasında Ermeniler yaşlıları, kadınları ve çocukları bu camide toplayarak canlı canlı yakmak istemişlerdir. Ancak o dönemde caminin imamı olan Hacı Baba bunu engellemiştir. Hacı Baba, katliamdan sonra yalnız kalmış Ermeni kızlarını kendi kızları gibi büyütmüş ve korumuştur. Ermenilere, \"Siz bizim çocuklarımız gibi kendi kızlarınıza bakıyorsunuz, bizim öldürmek istediğiniz insanları koruyoruz\" demiştir. Bu olaydan sonra Ermeniler insanları yakmaktan vazgeçmişlerdir.",
+      "char_count": 716,
+      "token_estimate": 179
+    },
+    {
+      "id": "c0002",
+      "section": "=== Sovyet işgali sırasında ===",
+      "heading_path": "=== Sovyet işgali sırasında ===",
+      "start_char": 1004,
+      "end_char": 1688,
+      "content": "=== Sovyet işgali sırasında === Sovyet işgalı sırasında dinle mücadele resmi olarak 1928'de başladı. Aynı yılın Aralık ayında Azerbaycan Komünist Partisi Merkez Komitesi birçok cami, kilise ve sinagogu eğitim amaçlı kulüplerin bakiyesine verdi. Eğer 1917'de Azerbaycan'da 3.000 cami varsa, bu rakam 1927'de 1.700'e, 1933'te ise 17'ye düştü. İşgal sonrası cami kapatıldı. 1930'larda caminin minaresi yıkıldı. İlk dönemlerde öğrenci yurdu olarak kullanılmış olsa da daha sonra depo olarak kullanıldı. Daha sonra 1943'te yerel halk tarafından minare restore edildi ve 1944'ten itibaren tekrar cami olarak faaliyet göstermeye başladı. Camide hem Şiiler hem de Sünniler namaz kılmaktadır.",
+      "char_count": 683,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0003",
+      "section": "=== Bağımsızlıktan sonra ===",
+      "heading_path": "=== Bağımsızlıktan sonra ===",
+      "start_char": 1688,
+      "end_char": 1893,
+      "content": "=== Bağımsızlıktan sonra === Anıt, Azerbaycan Cumhuriyeti Bakanlar Kurulunun 2 Ağustos 2001 tarih ve 132 sayılı kararıyla ulusal öneme sahip taşınmaz tarihi ve kültürel anıtlar listesine dahil edilmiştir.",
+      "char_count": 204,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0004",
+      "section": "== Mimari ==",
+      "heading_path": "== Mimari ==",
+      "start_char": 1893,
+      "end_char": 2608,
+      "content": "== Mimari == Pişmiş tuğlalardan inşa edilen camii'nin yapısı 4 odaya sahiptir. Camii, ana ibadet salonu ve önünde bulunan yardımcı odalardan oluşan dikdörtgen bir plana sahiptir. Camii'nin ana girişi kuzey tarafından yapılmıştır. Mihrap kapının karşısında yer almaktadır. Ana salonun tavanını desteklemek için ortasında iki sütun bulunmaktadır. Kadınlar için ayrılan küçük salon ikinci katta yer almaktadır. Camii'nin kubbesi dışarıdan beyaz demirle kaplanmıştır. Camii'nin minaresi kubbenin üstünde yer almaktadır. Minareye çıkmak için sağ tarafta merdivenler bulunmaktadır. Mihrabın yapısı basittir ve ceviz ağacından yapılmıştır. Çivisiz yapılan antik oymalı ahşap kapı günümüze kadar korunmuş ve korunmaktadır.",
+      "char_count": 714,
+      "token_estimate": 178
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2608,
+      "end_char": 2643,
+      "content": "== Ayrıca bakınız == Erdebil Camii",
+      "char_count": 34,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hacı Cafer Camii kaç metrekarelik bir alana sahiptir?",
+        "answer": "400 metrekare.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hacı Cafer Camii'nin inşaat dönemiyle ilgili çelişkili bilgiler ve sonraki tarihsel süreçlerdeki işlev ve statüsündeki değişiklikler nelerdir?",
+        "answer": "Hacı Cafer Camii, bir parçaya göre 19. yüzyılın başlarında, başka bir parçaya göre ise 1905 yılında Kuba şehrinde inşa edilmiştir. Camii, 2001 yılında ulusal öneme sahip bir anıt olarak kabul edilmiştir. Kuba soykırımı sırasında, caminin imamı Hacı Baba, insanların yakılmasını engelleyerek ve Ermeni kızlarını koruyarak önemli bir sosyal ve insani rol oynamıştır. Sovyet işgali döneminde ise cami kapatılmış, minaresi yıkılmış, önce öğrenci yurdu sonra da depo olarak kullanılmıştır. Ancak 1943'te minaresi restore edilmiş ve 1944'ten itibaren tekrar ibadethane olarak faaliyet göstermeye başlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

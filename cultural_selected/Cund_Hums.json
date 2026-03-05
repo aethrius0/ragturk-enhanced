@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "cundhums_49992fe5",
+    "title": "Cund Hums",
+    "url": "https://tr.wikipedia.org/wiki/Cund_Hums",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:12.975909",
+    "content": "Cund Hums (Arapça: جند حمص, \"Cund Hums\") Suriye'nin Halifelik askeri eyaletlerinden biriydi. == Coğrafya == Cund Hums'in başkenti, eyaletin adını aldığı Humus'tur. 10. yüzyıldaki başlıca kent merkezleri Lazkiye, Palmira, Jableh, Kafartab, Tarsus, Salamiyah, Bulunyas ve Havabi Kalesi'ydi. Cund Hums'un güney sınır çizgisi Kara'nın hemen güneyinde uzanırken, kuzey sınırı Akdeniz kıyısındaki bir köy olan Kureyşiyye köyünün ötesinde uzanıyordu. Doğuda Palmira ve el-Karyeteyn kasabaları vardı. == Valileri == === Raşidun dönemi (638–661) === İyaz bin Ganm (639–641) Said bin Amir el-Cumahi (641–642) Ümeyr bin Sa'd (642–646) Muaviye bin Ebu Süfyan (646–661) Abdurrahman bin Halid bin Velid (653/654–666) === Emevi dönemi (661–750) === Numan bin Beşir (666–678; Muaviye döneminde) Malik bin Hübeyre (belirsiz dönem 661–680; Muaviye döneminde) Husayn bin Nümeyr (680–683; Yezid I yönetiminde) Numan bin Beşir (684–684; Mekke merkezli halifelik iddia sahibi Abdullah bin Zübeyr tarafından atandı) Halid bin Yezid (684–685; I. Yezid'in oğlu, Emevi Halifesi I. Mervan yönetiminde) Eban bin Velid bin Ukbe (684–685; Halid'in yardımcısı olarak görev yapmış olabilir) Eban bin Velid bin Ukbe (685–691; uzak Emevi akrabası Halife Abdülmelik yönetimi altında Abdullah bin Abdülmelik (y. 703–704) Abbas bin Velid (705–715) Yezid bin Husayn bin Nümayr al-Sakuni (717–720) Abdümelik bin Ka'ka bin Hulayd al-Absi (belirsiz dönem 724–743) Mervan ibn Abdullah ibn Abd al-Malik ve/veya Osman ibn Velid ibn Yezid (743–744) Muaviye ibn Yezid ibn Hüseyn al-Sakuni (744–745) Abdullah ibn Şacara el-Kindi (745) Sa'id ibn Hisham ibn Abd al-Malik (745; isyancı vali Süleyman ibn Hişam) === Abbasi dönemi === Suriye'de Abbasi hakimiyeti 750'den itibaren başlamış, 861'den sonra ise zayıflamaya başlamıştır. Suriye'deki Abbasi hakimiyeti 10. yüzyılın ortalarında tamamlanıp sona ermiştir. Abdullah bin Ali (750–753) Salih bin Ali bin Abdullah bin Abbas (756–757) Abdülmelik ibn Salih (793–795) İshak bin Sülayman bin Ali bin Abdullah bin Abbas (809) Abdullah bin Said el-Haraşi (809–810) El-Mu'ayyad (854–855) Salih el-Abbasi et-Türki (855–856) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 298,
+      "char_count": 2132,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.912955",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 93,
+      "content": "Cund Hums (Arapça: جند حمص, \"Cund Hums\") Suriye'nin Halifelik askeri eyaletlerinden biriydi.",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 93,
+      "end_char": 493,
+      "content": "== Coğrafya == Cund Hums'in başkenti, eyaletin adını aldığı Humus'tur. 10. yüzyıldaki başlıca kent merkezleri Lazkiye, Palmira, Jableh, Kafartab, Tarsus, Salamiyah, Bulunyas ve Havabi Kalesi'ydi. Cund Hums'un güney sınır çizgisi Kara'nın hemen güneyinde uzanırken, kuzey sınırı Akdeniz kıyısındaki bir köy olan Kureyşiyye köyünün ötesinde uzanıyordu. Doğuda Palmira ve el-Karyeteyn kasabaları vardı.",
+      "char_count": 399,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0002",
+      "section": "=== Raşidun dönemi (638–661) ===",
+      "heading_path": "=== Raşidun dönemi (638–661) ===",
+      "start_char": 508,
+      "end_char": 703,
+      "content": "=== Raşidun dönemi (638–661) === İyaz bin Ganm (639–641) Said bin Amir el-Cumahi (641–642) Ümeyr bin Sa'd (642–646) Muaviye bin Ebu Süfyan (646–661) Abdurrahman bin Halid bin Velid (653/654–666)",
+      "char_count": 194,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0003",
+      "section": "=== Emevi dönemi (661–750) ===",
+      "heading_path": "=== Emevi dönemi (661–750) ===",
+      "start_char": 703,
+      "end_char": 1661,
+      "content": "=== Emevi dönemi (661–750) === Numan bin Beşir (666–678; Muaviye döneminde) Malik bin Hübeyre (belirsiz dönem 661–680; Muaviye döneminde) Husayn bin Nümeyr (680–683; Yezid I yönetiminde) Numan bin Beşir (684–684; Mekke merkezli halifelik iddia sahibi Abdullah bin Zübeyr tarafından atandı) Halid bin Yezid (684–685; I. Yezid'in oğlu, Emevi Halifesi I. Mervan yönetiminde) Eban bin Velid bin Ukbe (684–685; Halid'in yardımcısı olarak görev yapmış olabilir) Eban bin Velid bin Ukbe (685–691; uzak Emevi akrabası Halife Abdülmelik yönetimi altında Abdullah bin Abdülmelik (y. 703–704) Abbas bin Velid (705–715) Yezid bin Husayn bin Nümayr al-Sakuni (717–720) Abdümelik bin Ka'ka bin Hulayd al-Absi (belirsiz dönem 724–743) Mervan ibn Abdullah ibn Abd al-Malik ve/veya Osman ibn Velid ibn Yezid (743–744) Muaviye ibn Yezid ibn Hüseyn al-Sakuni (744–745) Abdullah ibn Şacara el-Kindi (745) Sa'id ibn Hisham ibn Abd al-Malik (745; isyancı vali Süleyman ibn Hişam)",
+      "char_count": 957,
+      "token_estimate": 239
+    },
+    {
+      "id": "c0004",
+      "section": "=== Abbasi dönemi ===",
+      "heading_path": "=== Abbasi dönemi ===",
+      "start_char": 1661,
+      "end_char": 2118,
+      "content": "=== Abbasi dönemi === Suriye'de Abbasi hakimiyeti 750'den itibaren başlamış, 861'den sonra ise zayıflamaya başlamıştır. Suriye'deki Abbasi hakimiyeti 10. yüzyılın ortalarında tamamlanıp sona ermiştir. Abdullah bin Ali (750–753) Salih bin Ali bin Abdullah bin Abbas (756–757) Abdülmelik ibn Salih (793–795) İshak bin Sülayman bin Ali bin Abdullah bin Abbas (809) Abdullah bin Said el-Haraşi (809–810) El-Mu'ayyad (854–855) Salih el-Abbasi et-Türki (855–856)",
+      "char_count": 456,
+      "token_estimate": 114
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Abdullah bin Zübeyr tarafından 684 yılında atanan kişi kimdir?",
+        "answer": "Numan bin Beşir",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cund Hums'un hem Halifelik askeri eyaletlerinden biri olması hem de Humus'u başkent olarak içermesi ve çeşitli önemli kent merkezlerine sahip olması, bölgenin Halifelik dönemindeki rolüne dair ne ifade eder?",
+        "answer": "Cund Hums'un bir Halifelik askeri eyaleti olması ve Humus'u başkent olarak barındırması, Lazkiye, Palmira ve Tarsus gibi önemli kent merkezlerine ev sahipliği yapması, bölgenin Halifelik için hem stratejik hem de idari açıdan merkezi bir öneme sahip olduğunu gösterir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

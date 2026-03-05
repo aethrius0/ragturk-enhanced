@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "thomasmartyn_e4b3f673",
+    "title": "Thomas Martyn",
+    "url": "https://tr.wikipedia.org/wiki/Thomas_Martyn",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:50.408263",
+    "content": "Thomas Martyn (23 Eylül 1735 - 3 Haziran 1825), İngiliz botanikçi ve Cambridge Üniversitesi'nde Botanik Profesörü idi. Bazen aynı adı taşıyan konkolog ve böcek bilimci Thomas Martyn (zoolog) ile karıştırılır. == Hayatı == Thomas Martyn, botanikçi John Martyn'in (1699–1768) oğludur. Chelsea'de ve Cambridge'deki Emmanuel Koleji'nde eğitim gördü, 1756'da lisans mezunu oldu ve Sidney Sussex Koleji'nin bir üyesi oldu. 1758'de papaz olarak atandı. 1759'da yüksek lisans yaptı ve rahip oldu. 1762'de üniversitede Botanik Profesörü olarak babasının yerini aldı ve 1825'teki ölümüne kadar bu görevi sürdürdü, ancak \"konu popüler olmadığı için\" yalnızca 1796'ya kadar ders verdi. Thomas Martyn'in Cambridge'deki profesörlüğü 63 yıl sürerken, babası aynı görevi 29 yıl sürdürmüştür. Thomas Martyn, 1786'da Royal Society üyeliğine seçildi. == Çalışmaları == Martyn'in başlıca eserlerinden ikisi Plantæ Cantabrigiensis (1763) ve Flora Rustica, 4 cilt. (1792–1794) dir. Jean-Jacques Rousseau'nun Lettres sur la botanique adlı çalışmasını tercüme etti. 1799'da Carl Linnaeus tarafından tasarlanan bitki sistemini gösteren Thirty-eight Plates with Explanations adı çalışmasını yayımladı. Anglikan kilisesinde bir rahip olarak Thomas Martyn 82 yaşına kadar vaaz verdi; 1825'teki ölümünün ardından, 1830'da küratörü George Cornelius Gorham, Thomas Martyn'in babasıyla ilgili hatıralarına, Martyn'in otobiyografik hatıralarını da ekleyerek yayımladı. (Memoirs of John Martyn, F.R.S., and of Thomas Martyn, B.D., F.R.S, F.L.S., Professors of Botany in the University of Cambridge, London, Hatchard & Son). Thomas Martyn'in diğer yazılı eserleri şunlardır: The English Connoisseur (1766); The Gentleman's Guide in his Tour through Italy (1787) The Language of Botany (1793). 1807'de yayımlanan The Gardeners' and Botanists' Dictionary adlı kitabıyla, Philip Miller'in 1731 tarihli The Gardeners Dictionary kitabını geliştirdi ve genişletti. == Yayınları == Thomas Martyn, Some account of the late John Martyn, F.R.S., and his writings. Londra: 1770. Bu hatıratın genişletilmiş bir versiyonu George Gorham tarafından 1830'da Memoirs Of John Martyn And Of Thomas Martyn: Professors Of Botany In The University Of Cambridge adıyla hazırlandı ve yayımlandı Tam liste için bkz. Gorham s. 267 == Kaynakça == Özel Genel",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 314,
+      "char_count": 2295,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.578984",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 209,
+      "content": "Thomas Martyn (23 Eylül 1735 - 3 Haziran 1825), İngiliz botanikçi ve Cambridge Üniversitesi'nde Botanik Profesörü idi. Bazen aynı adı taşıyan konkolog ve böcek bilimci Thomas Martyn (zoolog) ile karıştırılır.",
+      "char_count": 208,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 209,
+      "end_char": 832,
+      "content": "== Hayatı == Thomas Martyn, botanikçi John Martyn'in (1699–1768) oğludur. Chelsea'de ve Cambridge'deki Emmanuel Koleji'nde eğitim gördü, 1756'da lisans mezunu oldu ve Sidney Sussex Koleji'nin bir üyesi oldu. 1758'de papaz olarak atandı. 1759'da yüksek lisans yaptı ve rahip oldu. 1762'de üniversitede Botanik Profesörü olarak babasının yerini aldı ve 1825'teki ölümüne kadar bu görevi sürdürdü, ancak \"konu popüler olmadığı için\" yalnızca 1796'ya kadar ders verdi. Thomas Martyn'in Cambridge'deki profesörlüğü 63 yıl sürerken, babası aynı görevi 29 yıl sürdürmüştür. Thomas Martyn, 1786'da Royal Society üyeliğine seçildi.",
+      "char_count": 622,
+      "token_estimate": 155
+    },
+    {
+      "id": "c0002",
+      "section": "== Çalışmaları ==",
+      "heading_path": "== Çalışmaları ==",
+      "start_char": 832,
+      "end_char": 1832,
+      "content": "== Çalışmaları == Martyn'in başlıca eserlerinden ikisi Plantæ Cantabrigiensis (1763) ve Flora Rustica, 4 cilt. (1792–1794) dir. Jean-Jacques Rousseau'nun Lettres sur la botanique adlı çalışmasını tercüme etti. 1799'da Carl Linnaeus tarafından tasarlanan bitki sistemini gösteren Thirty-eight Plates with Explanations adı çalışmasını yayımladı. Anglikan kilisesinde bir rahip olarak Thomas Martyn 82 yaşına kadar vaaz verdi; 1825'teki ölümünün ardından, 1830'da küratörü George Cornelius Gorham, Thomas Martyn'in babasıyla ilgili hatıralarına, Martyn'in otobiyografik hatıralarını da ekleyerek yayımladı. (Memoirs of John Martyn, F.R.S., and of Thomas Martyn, B.D., F.R.S, F.L.S., Professors of Botany in the University of Cambridge, London, Hatchard & Son). Thomas Martyn'in diğer yazılı eserleri şunlardır: The English Connoisseur (1766); The Gentleman's Guide in his Tour through Italy (1787) The Language of Botany (1793). 1807'de yayımlanan The Gardeners' and Botanists' Dictionary adlı kitabıyla",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Çalışmaları ==",
+      "heading_path": "== Çalışmaları ==",
+      "start_char": 1632,
+      "end_char": 1923,
+      "content": "lardır: The English Connoisseur (1766); The Gentleman's Guide in his Tour through Italy (1787) The Language of Botany (1793). 1807'de yayımlanan The Gardeners' and Botanists' Dictionary adlı kitabıyla, Philip Miller'in 1731 tarihli The Gardeners Dictionary kitabını geliştirdi ve genişletti.",
+      "char_count": 291,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0004",
+      "section": "== Yayınları ==",
+      "heading_path": "== Yayınları ==",
+      "start_char": 1924,
+      "end_char": 2270,
+      "content": "== Yayınları == Thomas Martyn, Some account of the late John Martyn, F.R.S., and his writings. Londra: 1770. Bu hatıratın genişletilmiş bir versiyonu George Gorham tarafından 1830'da Memoirs Of John Martyn And Of Thomas Martyn: Professors Of Botany In The University Of Cambridge adıyla hazırlandı ve yayımlandı Tam liste için bkz. Gorham s. 267",
+      "char_count": 345,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0005",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2270,
+      "end_char": 2295,
+      "content": "== Kaynakça == Özel Genel",
+      "char_count": 25,
+      "token_estimate": 6
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Thomas Martyn'in başlıca eserlerinden ikisi nelerdir?",
+        "answer": "Plantæ Cantabrigiensis (1763) ve Flora Rustica (1792–1794).",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Thomas Martyn ve babası John Martyn'in Cambridge Üniversitesi'nde paylaştığı ortak mesleki unvan neydi ve Thomas bu görevde babasından ne kadar daha uzun süre hizmet verdi?",
+        "answer": "Thomas Martyn ve babası John Martyn, Cambridge Üniversitesi'nde Botanik Profesörü unvanını paylaştılar. Thomas, bu görevde 63 yıl hizmet verirken babası 29 yıl hizmet verdi, bu da Thomas'ın babasından 34 yıl daha uzun süre görev yaptığı anlamına gelir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

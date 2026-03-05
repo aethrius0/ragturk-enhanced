@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "mehmetsaliholu_abacedb1",
+    "title": "Mehmet Salihoğlu",
+    "url": "https://tr.wikipedia.org/wiki/Mehmet_Saliho%C4%9Flu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:52.010841",
+    "content": "Mehmet Salihoğlu (25 Aralık 1922 - 27 Temmuz 2010), Türk şair, deneme ve eleştiri yazarıdır. == Yaşamı == Saniye Hanım ile tüccar Mehmet Salihoğlu'nun çocuğu olarak Rize, Çayeli'ne bağlı Limanköy mahallesinde doğdu. Çayeli İlkokulu, İstanbul Eyüp Ortaokulu ve İstanbul Erkek Lisesi'nde öğrenim gördükten sonra 1947'de İstanbul Teknik Üniversitesi İnşaat Fakültesi'nden mezun oldu. 1962'de Türkiye ve Orta Doğu Amme İdaresi Enstitüsü'nü tamamladıktan sonra Devlet Demiryolları ve Karayolları'nda çalıştı. Daha sonra uzun süre İmar ve İskan Bakanlığı'nda genel müdür yardımcısı, genel müdür ve tetkik kurulu üyesi olarak çalıştı. 1971'de müsteşar, 1973'te ise danışman olarak görev yaptı, 1982'de emekliye ayrıldı. Salihoğlu'nun ilk şiiri 1941'de İstanbul dergisinde yayımlandı. Şiir, deneme ve eleştiri yazılarını Türk Dili, Yeditepe, Varlık, Dost, Salkım, Ilgaz, Yeni Ufuklar, Akşam, Milliyet, Güney ve Yeni Ortam gibi dergi ve gazetelerde yayımladı. Alfred de Musset ve Baudelaire'in bazı yapıtlarını Türkçeye çevirdi. Türk Dil Kurumu'nda yöneticilik yaptı ve uzun yıllar Türk Dili dergisinin yazı kadrosunda bulundu. 1955'te Türk Dil Kurumunun ÖzTürkçe Deneme Yarışması'nda birincilik ödülü, 1970-1971'de TRT Bilim Kültür ve Sanat Ödüllerinde Deneme Başarı Ödülü aldı. Öz Türkçe'yi savunan yazılar yazdı. Şiirlerinde aşk, doğa, dostluk, yurt ve insan sevgisi gibi temalarını işlerken; düz yazılarında ise çoğunlukla toplumsal sorunlara eğildi. 27 Temmuz 2010'da Ankara'da yaşamını yitirdi. Karşıyaka Mezarlığı'na defnedildi. == Eserleri == Ağacın Derdi (şiir) - 1955 Duman Duman Üstüne (şiir) - 1959 Bana Sensin Yaşamak (şiir) - 1966 Işıklanan Ülke: Türk Dili ve Dil Devrimi Üzerine Bir İnceleme (deneme) - 1966 Ataç'la Gelen (deneme) - 1968 Atatürkçü Düşünce (deneme) - 1972 Esintiler Kavşağı (şiir) - 1973 Gün Işığına Çıktıkça (deneme) - 1975 Sevgi Tutanağı (şiir) - 1979 Son 37 Hypospadias Tamirinde Uyguladığımız Cerrahi Yöntemler (araştırma) - 1983 Okuyup Düşündükçe (deneme) - 1989 Güz Şarkıları (şiir) - 1991 Güzellik Ortasında (şiir) - 1992 Günlerle Gelen: Denemeler, Eleştirmeler, Öyküler - 1994 Günlerle Gelen III: Denemeler-Eleştiriler - 1994 Piramidin Tepesinden (deneme) - 1994 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 309,
+      "char_count": 2207,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.496402",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 93,
+      "content": "Mehmet Salihoğlu (25 Aralık 1922 - 27 Temmuz 2010), Türk şair, deneme ve eleştiri yazarıdır.",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 93,
+      "end_char": 1093,
+      "content": "== Yaşamı == Saniye Hanım ile tüccar Mehmet Salihoğlu'nun çocuğu olarak Rize, Çayeli'ne bağlı Limanköy mahallesinde doğdu. Çayeli İlkokulu, İstanbul Eyüp Ortaokulu ve İstanbul Erkek Lisesi'nde öğrenim gördükten sonra 1947'de İstanbul Teknik Üniversitesi İnşaat Fakültesi'nden mezun oldu. 1962'de Türkiye ve Orta Doğu Amme İdaresi Enstitüsü'nü tamamladıktan sonra Devlet Demiryolları ve Karayolları'nda çalıştı. Daha sonra uzun süre İmar ve İskan Bakanlığı'nda genel müdür yardımcısı, genel müdür ve tetkik kurulu üyesi olarak çalıştı. 1971'de müsteşar, 1973'te ise danışman olarak görev yaptı, 1982'de emekliye ayrıldı. Salihoğlu'nun ilk şiiri 1941'de İstanbul dergisinde yayımlandı. Şiir, deneme ve eleştiri yazılarını Türk Dili, Yeditepe, Varlık, Dost, Salkım, Ilgaz, Yeni Ufuklar, Akşam, Milliyet, Güney ve Yeni Ortam gibi dergi ve gazetelerde yayımladı. Alfred de Musset ve Baudelaire'in bazı yapıtlarını Türkçeye çevirdi. Türk Dil Kurumu'nda yöneticilik yaptı ve uzun yıllar Türk Dili dergisinin",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 893,
+      "end_char": 1526,
+      "content": " Güney ve Yeni Ortam gibi dergi ve gazetelerde yayımladı. Alfred de Musset ve Baudelaire'in bazı yapıtlarını Türkçeye çevirdi. Türk Dil Kurumu'nda yöneticilik yaptı ve uzun yıllar Türk Dili dergisinin yazı kadrosunda bulundu. 1955'te Türk Dil Kurumunun ÖzTürkçe Deneme Yarışması'nda birincilik ödülü, 1970-1971'de TRT Bilim Kültür ve Sanat Ödüllerinde Deneme Başarı Ödülü aldı. Öz Türkçe'yi savunan yazılar yazdı. Şiirlerinde aşk, doğa, dostluk, yurt ve insan sevgisi gibi temalarını işlerken; düz yazılarında ise çoğunlukla toplumsal sorunlara eğildi. 27 Temmuz 2010'da Ankara'da yaşamını yitirdi. Karşıyaka Mezarlığı'na defnedildi.",
+      "char_count": 633,
+      "token_estimate": 158
+    },
+    {
+      "id": "c0003",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1527,
+      "end_char": 2193,
+      "content": "== Eserleri == Ağacın Derdi (şiir) - 1955 Duman Duman Üstüne (şiir) - 1959 Bana Sensin Yaşamak (şiir) - 1966 Işıklanan Ülke: Türk Dili ve Dil Devrimi Üzerine Bir İnceleme (deneme) - 1966 Ataç'la Gelen (deneme) - 1968 Atatürkçü Düşünce (deneme) - 1972 Esintiler Kavşağı (şiir) - 1973 Gün Işığına Çıktıkça (deneme) - 1975 Sevgi Tutanağı (şiir) - 1979 Son 37 Hypospadias Tamirinde Uyguladığımız Cerrahi Yöntemler (araştırma) - 1983 Okuyup Düşündükçe (deneme) - 1989 Güz Şarkıları (şiir) - 1991 Güzellik Ortasında (şiir) - 1992 Günlerle Gelen: Denemeler, Eleştirmeler, Öyküler - 1994 Günlerle Gelen III: Denemeler-Eleştiriler - 1994 Piramidin Tepesinden (deneme) - 1994",
+      "char_count": 665,
+      "token_estimate": 166
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Salihoğlu, İstanbul Teknik Üniversitesi İnşaat Fakültesi'nden ne zaman mezun oldu?",
+        "answer": "1947'de mezun oldu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mehmet Salihoğlu'nun yaşamı boyunca hem kamu hizmeti alanında hem de edebiyat dünyasında üstlendiği farklı rolleri ve bu rollerle ilişkili önemli başarılarını özetleyiniz.",
+        "answer": "1922'de doğup 2010'da vefat eden Mehmet Salihoğlu, yaşamı boyunca hem kamu hizmetinde hem de edebiyat alanında aktif olmuştur. Eğitimini İstanbul Teknik Üniversitesi İnşaat Fakültesi'nde tamamladıktan sonra Devlet Demiryolları, Karayolları, İmar ve İskan Bakanlığı'nda genel müdür yardımcılığı, genel müdürlük, müsteşarlık ve danışmanlık gibi çeşitli kademelerde görev yapmış ve 1982'de emekli olmuştur. Edebi kariyerine 1941'de ilk şiirini yayımlayarak başlamış, şiir, deneme ve eleştiri yazılarını Türk Dili, Varlık, Milliyet gibi önemli dergi ve gazetelerde yayımlamıştır. Ayrıca Alfred de Musset ve Baudelaire'den çeviriler yapmış, Türk Dil Kurumu'nda yöneticilik görevinde bulunmuş ve Türk Dili dergisinin yazı kadrosunda yer almıştır. Edebi başarıları arasında 1955 ÖzTürkçe Deneme Yarışması birincilik ödülü ile 1970-1971 TRT Bilim Kültür ve Sanat Ödüllerinde Deneme Başarı Ödülü bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

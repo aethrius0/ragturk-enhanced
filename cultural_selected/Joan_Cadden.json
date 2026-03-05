@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "joancadden_05a51931",
+    "title": "Joan Cadden",
+    "url": "https://tr.wikipedia.org/wiki/Joan_Cadden",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:49.279672",
+    "content": "Joan Cadden (d. 1944), akademisyen ve tarihçi. Bilim Tarihi Derneği'nin eski başkanıdır. == Hayatı == Davis, Kaliforniya Üniversitesi Tarih Bölümü'nde Orta Çağ tarihi ve edebiyatı profesörü Emerita'dır. 2006-2007 yılları arasında Bilim Tarihi Derneği (HSS) Başkanı olarak görev yaptı. Orta Çağ bilim tarihi, Orta Çağ'da toplumsal cinsiyet ve cinsellik üzerine kapsamlı yazılar yazmıştır. Orta Çağ'da Cinsiyet Farkının Anlamları: Tıp, Bilim ve Kültür (1993) kitabı, bilim tarihi üzerine seçkin kitap olarak 1994 yılında Bilim Tarihi Derneği tarafında verilen Pfizer Ödülü'nü kazandı. === Eğitimi === Joan Cadden lisans derecesini 1965'te Vassar Koleji'nden, 1967 yılında yüksek lisans derecesini Columbia Üniversitesi'nden almıştır. 1971'de Indiana Üniversitesi'nde bilim tarihi ve felsefesi alanında doktora yaptı. Tezi, \"The Medieval Philosophy and Biology of Growth\" idi. == Kariyeri == Cadden, 1971-1976 yılları arasında Harvard Üniversitesi Bilim Tarihi Bölümü'nde yardımcı doçent olarak ders verdi. 1977-1978'de Colorado Üniversitesi, Boulder'da misafir öğretim görevlisiydi. 1978-1996 yılları arasında Kenyon Koleji'nde öğretmenlik yaptı. 1996-1997'de Purdue Üniversitesi'nde ziyaretçi bilim tarihçisiydi. 1996'da Davis'teki Kaliforniya Üniversitesi'ne Tarih Profesörü olarak katıldı.  Cadden, 2006-2007 yılları arasında Bilim Tarihi Derneği'nin (HSS) Başkanı olarak görev yapmıştır. 2008'de Kaliforniya Üniversitesi'nden emekli olarak, Emeritus Profesör oldu. Çalışmaları, bilim tarihi, cinsiyet tarihi, cinsellik tarihi, sosyal tarih ve entelektüel tarih arasındaki bağlantıları \"disiplinlerin ana damarlarını\" keşfetmek olarak nitelendirildi. \"Orta Çağ'da Cinsiyet Farkının Anlamları: Tıp, Bilim ve Kültür (1993)\" adlı kitabı, Orta Çağ'da cinsiyet ve toplumsal cinsiyet incelemesinde bulunmuştu. \"Doğal Olan Hiçbir Şey Utanç Verici Değildir: Geç Orta Çağ Avrupa'sında Sodomi ve Bilim (2013)\" adlı kitabında, Orta Çağ'da homoseksüel arzu anlayışının karmaşıklıklarını araştırmaya devam etti. Kitap, \"cinsiyet ve cinsellik üzerine sofistike bir yansıma\" olarak tanımlandı. Tarihçi, Profesör Monica Green, Joan Cadden'in çalışmalarına şöyle özetlemiştir. \"Birden fazla sesi dinleyerek, sentezini kendi yaşamında ve kariyerinde somutlaştırarak yapan Joan, her zaman orada olan ancak yetenekli bir tercümanın bunu açığa çıkarmasını bekleyen bir Orta Çağ görmemize olanak sağladı.\" == Ödüller == Orta Çağ'da Cinsiyet Farkının Anlamları: Tıp, Bilim ve Kültür (1993) adlı kitabı, Bilim Tarihi Derneği'nin 1994 Pfizer Ödülü'nü kazandı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 321,
+      "char_count": 2550,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.140197",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 89,
+      "content": "Joan Cadden (d. 1944), akademisyen ve tarihçi. Bilim Tarihi Derneği'nin eski başkanıdır.",
+      "char_count": 88,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 89,
+      "end_char": 583,
+      "content": "== Hayatı == Davis, Kaliforniya Üniversitesi Tarih Bölümü'nde Orta Çağ tarihi ve edebiyatı profesörü Emerita'dır. 2006-2007 yılları arasında Bilim Tarihi Derneği (HSS) Başkanı olarak görev yaptı. Orta Çağ bilim tarihi, Orta Çağ'da toplumsal cinsiyet ve cinsellik üzerine kapsamlı yazılar yazmıştır. Orta Çağ'da Cinsiyet Farkının Anlamları: Tıp, Bilim ve Kültür (1993) kitabı, bilim tarihi üzerine seçkin kitap olarak 1994 yılında Bilim Tarihi Derneği tarafında verilen Pfizer Ödülü'nü kazandı.",
+      "char_count": 493,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0002",
+      "section": "=== Eğitimi ===",
+      "heading_path": "=== Eğitimi ===",
+      "start_char": 583,
+      "end_char": 874,
+      "content": "=== Eğitimi === Joan Cadden lisans derecesini 1965'te Vassar Koleji'nden, 1967 yılında yüksek lisans derecesini Columbia Üniversitesi'nden almıştır. 1971'de Indiana Üniversitesi'nde bilim tarihi ve felsefesi alanında doktora yaptı. Tezi, \"The Medieval Philosophy and Biology of Growth\" idi.",
+      "char_count": 290,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 874,
+      "end_char": 1874,
+      "content": "== Kariyeri == Cadden, 1971-1976 yılları arasında Harvard Üniversitesi Bilim Tarihi Bölümü'nde yardımcı doçent olarak ders verdi. 1977-1978'de Colorado Üniversitesi, Boulder'da misafir öğretim görevlisiydi. 1978-1996 yılları arasında Kenyon Koleji'nde öğretmenlik yaptı. 1996-1997'de Purdue Üniversitesi'nde ziyaretçi bilim tarihçisiydi. 1996'da Davis'teki Kaliforniya Üniversitesi'ne Tarih Profesörü olarak katıldı.  Cadden, 2006-2007 yılları arasında Bilim Tarihi Derneği'nin (HSS) Başkanı olarak görev yapmıştır. 2008'de Kaliforniya Üniversitesi'nden emekli olarak, Emeritus Profesör oldu. Çalışmaları, bilim tarihi, cinsiyet tarihi, cinsellik tarihi, sosyal tarih ve entelektüel tarih arasındaki bağlantıları \"disiplinlerin ana damarlarını\" keşfetmek olarak nitelendirildi. \"Orta Çağ'da Cinsiyet Farkının Anlamları: Tıp, Bilim ve Kültür (1993)\" adlı kitabı, Orta Çağ'da cinsiyet ve toplumsal cinsiyet incelemesinde bulunmuştu. \"Doğal Olan Hiçbir Şey Utanç Verici Değildir: Geç Orta Çağ Avrupa'sın",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1674,
+      "end_char": 2384,
+      "content": "Farkının Anlamları: Tıp, Bilim ve Kültür (1993)\" adlı kitabı, Orta Çağ'da cinsiyet ve toplumsal cinsiyet incelemesinde bulunmuştu. \"Doğal Olan Hiçbir Şey Utanç Verici Değildir: Geç Orta Çağ Avrupa'sında Sodomi ve Bilim (2013)\" adlı kitabında, Orta Çağ'da homoseksüel arzu anlayışının karmaşıklıklarını araştırmaya devam etti. Kitap, \"cinsiyet ve cinsellik üzerine sofistike bir yansıma\" olarak tanımlandı. Tarihçi, Profesör Monica Green, Joan Cadden'in çalışmalarına şöyle özetlemiştir. \"Birden fazla sesi dinleyerek, sentezini kendi yaşamında ve kariyerinde somutlaştırarak yapan Joan, her zaman orada olan ancak yetenekli bir tercümanın bunu açığa çıkarmasını bekleyen bir Orta Çağ görmemize olanak sağladı.\"",
+      "char_count": 710,
+      "token_estimate": 177
+    },
+    {
+      "id": "c0005",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 2385,
+      "end_char": 2536,
+      "content": "== Ödüller == Orta Çağ'da Cinsiyet Farkının Anlamları: Tıp, Bilim ve Kültür (1993) adlı kitabı, Bilim Tarihi Derneği'nin 1994 Pfizer Ödülü'nü kazandı.",
+      "char_count": 150,
+      "token_estimate": 37
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cadden, Bilim Tarihi Derneği'nin (HSS) Başkanı olarak hangi yıllar arasında görev yapmıştır?",
+        "answer": "2006-2007 yılları arasında.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Joan Cadden'ın Bilim Tarihi Derneği'ndeki önemli rolü neydi ve bu görevi hangi dönemde üstlenmişti?",
+        "answer": "Joan Cadden, Bilim Tarihi Derneği'nin eski başkanıdır ve bu görevi 2006-2007 yılları arasında üstlenmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

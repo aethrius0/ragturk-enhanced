@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "swanseacityafc_e0754fd8",
+    "title": "Swansea City AFC",
+    "url": "https://tr.wikipedia.org/wiki/Swansea_City_AFC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:00.905394",
+    "content": "Swansea City Association Football Club, Swansea'de kurulmuş olan profesyonel Galli futbol kulübüdür. Premier League'de mücadele eden kulüp 1912'de kurulmuş, 1920'de ise English Football League'e katılmıştır. 2005'ten bu yana iç saha maçlarını oynadıkları Liberty Stadyumu'nu ragbi birliği takımı Ospreys ile ortak kullanmaktadırlar. 2005'ten önce ise Vetch Field'te maçlarını oynamakta idiler. Swansea City ve taraftarları 17. yüzyıldaki denizcilerden gelen bir gelenekle 'Jacks' olarak bilinir. Ayrıca logolarında bulunan kuğu figüründen ötürü 'Kuğular' olarak da bilinmektedirler. 2011-12 sezonu itibarıyla Premier League'e yükselme başarısı gösteren kulüp, böylece 100. yılında lig tarihindeki en büyük başarısını elde etmiştir ve 2013-14 sezonunda İngiltere Lig Kupasaını alakarak ilk üst düzey kupasını kazanmıştır . Ayrıca Swansea City, Premier League'de yer alan ilk Galler takımıdır. == Futbolcular == === Kadro === 31 Ocak 2022 itibarıyla Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler. === Kiralık gidenler === Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler. ==== Müzeye kaldırılan numaralar ==== Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler. ==== PFA Yılın Takımı ==== PFA Yılın Takımı'na seçilen Swensealı futbolcular: 2004 Lee Trundle (Third Division) 2006 Andy Robinson, Lee Trundle (League One) 2008 Jason Scotland, Andy Robinson, Ferrie Bodde, Garry Monk, Angel Rangel (League One) 2009 Jason Scotland, Jordi Gómez (Championship) 2010 Ashley Williams (Championship) ==== Football League 100 Efsane ==== Trevor Ford Ivor Allchurch Cliff Jones Tommy Smith ==== Dünya Kupası'nda oynayanlar ==== Ivor Allchurch (1958) Len Allchurch (1958) Mel Charles (1958) Cliff Jones (1958) == Teknik direktörler == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 274,
+      "char_count": 2066,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.652527",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 892,
+      "content": "Swansea City Association Football Club, Swansea'de kurulmuş olan profesyonel Galli futbol kulübüdür. Premier League'de mücadele eden kulüp 1912'de kurulmuş, 1920'de ise English Football League'e katılmıştır. 2005'ten bu yana iç saha maçlarını oynadıkları Liberty Stadyumu'nu ragbi birliği takımı Ospreys ile ortak kullanmaktadırlar. 2005'ten önce ise Vetch Field'te maçlarını oynamakta idiler. Swansea City ve taraftarları 17. yüzyıldaki denizcilerden gelen bir gelenekle 'Jacks' olarak bilinir. Ayrıca logolarında bulunan kuğu figüründen ötürü 'Kuğular' olarak da bilinmektedirler. 2011-12 sezonu itibarıyla Premier League'e yükselme başarısı gösteren kulüp, böylece 100. yılında lig tarihindeki en büyük başarısını elde etmiştir ve 2013-14 sezonunda İngiltere Lig Kupasaını alakarak ilk üst düzey kupasını kazanmıştır . Ayrıca Swansea City, Premier League'de yer alan ilk Galler takımıdır.",
+      "char_count": 891,
+      "token_estimate": 222
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kadro ===",
+      "heading_path": "=== Kadro ===",
+      "start_char": 910,
+      "end_char": 1108,
+      "content": "=== Kadro === 31 Ocak 2022 itibarıyla Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler.",
+      "char_count": 197,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0002",
+      "section": "=== Kiralık gidenler ===",
+      "heading_path": "=== Kiralık gidenler ===",
+      "start_char": 1108,
+      "end_char": 1293,
+      "content": "=== Kiralık gidenler === Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler.",
+      "char_count": 184,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0003",
+      "section": "==== Müzeye kaldırılan numaralar ====",
+      "heading_path": "==== Müzeye kaldırılan numaralar ====",
+      "start_char": 1293,
+      "end_char": 1491,
+      "content": "==== Müzeye kaldırılan numaralar ==== Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler.",
+      "char_count": 197,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0004",
+      "section": "==== PFA Yılın Takımı ====",
+      "heading_path": "==== PFA Yılın Takımı ====",
+      "start_char": 1491,
+      "end_char": 1820,
+      "content": "==== PFA Yılın Takımı ==== PFA Yılın Takımı'na seçilen Swensealı futbolcular: 2004 Lee Trundle (Third Division) 2006 Andy Robinson, Lee Trundle (League One) 2008 Jason Scotland, Andy Robinson, Ferrie Bodde, Garry Monk, Angel Rangel (League One) 2009 Jason Scotland, Jordi Gómez (Championship) 2010 Ashley Williams (Championship)",
+      "char_count": 328,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0005",
+      "section": "==== Football League 100 Efsane ====",
+      "heading_path": "==== Football League 100 Efsane ====",
+      "start_char": 1820,
+      "end_char": 1908,
+      "content": "==== Football League 100 Efsane ==== Trevor Ford Ivor Allchurch Cliff Jones Tommy Smith",
+      "char_count": 87,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0006",
+      "section": "==== Dünya Kupası'nda oynayanlar ====",
+      "heading_path": "==== Dünya Kupası'nda oynayanlar ====",
+      "start_char": 1908,
+      "end_char": 2027,
+      "content": "==== Dünya Kupası'nda oynayanlar ==== Ivor Allchurch (1958) Len Allchurch (1958) Mel Charles (1958) Cliff Jones (1958)",
+      "char_count": 118,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Swansea City Association Football Club hangi yılda kurulmuştur?",
+        "answer": "1912",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Swansea City Association Football Club ne zaman kurulmuştur ve kadrosuyla ilgili bilgiler en son hangi tarihe göre belirtilmiştir?",
+        "answer": "Swansea City Association Football Club 1912'de kurulmuş olup, kadrosuyla ilgili bilgiler 31 Ocak 2022 tarihi itibarıyla belirtilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

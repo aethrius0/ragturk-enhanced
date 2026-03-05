@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "sanmarcobazilikas_5b0af49c",
+    "title": "San Marco Bazilikası",
+    "url": "https://tr.wikipedia.org/wiki/San_Marco_Bazilikas%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:28.674405",
+    "content": "San Marco Bazilikası (İtalyanca: Basilica di San Marco a Venezia, Türkçe: Aziz Marko Bazilikası), Venedik'in San Marco Meydanı'nda yer alan Bizans mimarisi sanatının en iyi bilinen örneklerinden biri olarak şehrin en meşhur kilise yapılarından biri olan bir katedraldir. Yapı Düka'nın Sarayı'na bitişik ve bağlantılıdır. Orijinal olarak yapı Venedik dükalarının şapelidir ve şehrin katedrali değildir. 1807 yılından beri Venedik Patriği'nin, Venedik piskoposluk ruhani dairesi Roma Katolik Başpiskoposunun ikâmetgâhıdır. Yapının zengin dizaynı için Bizans mozaikleri Venedik'in zenginlik ve gücünün bir sembolü olarak yaldızlandı. 11. yüzyıldan beri yapı onun takma adı Chiesa d'Oro (Church of gold) altın kilise ile bilinir. == Tarih == === Yapı === Yapı ilk olarak 828 yılında Venedikli tüccarlar Malamoccolu Bono ve Torcellolu Rustico'nun İskenderiye'den Evangelist Aziz Marko'nun kutsal emanetlerini çaldıklarında yapıldığı zaman Düka'nın Sarayı'nda geçici bir yapıydı. Yeni kilise 976 yılı isyanında yandı, 978 yılında ise yeniden inşa edildi ve 1063'ten beri günümüzdeki basilikanın ana şekline uygun çalışma tekrarlandı. Basilika 1094 yılında kutsandı, aynı yıl güya Aziz Marko'nun vücudu bir sütun içinde Venedik Dükası Vitale Falier tarafından keşfedildi. Yapı ayrıca aşağı bir kuleyle birleşir (şimdi Aziz Marko'nun hazine odasıdır), bazılarınca Düka'nın Sarayının orijinal bir kısmı olduğuna inanılır. 13. yüzyılın ilk yarısı içinde kilisenin girişi (veya lobi alanı) ve yapının ön cephesi inşa edildi, mozaiklerin çoğu tamamlandı ve kubbeler daha yüksek odunla kaplandı, kubbeler Gotik mimari tarzında yeniden inşa edilen Düka'nın Sarayı'na uyum sağlaması açısından kurşunla kaplandı. Ayrıca San Marco Bazilikası 2009 Kasım ayında piyasaya sürülen Assassin's Creed II adlı oyunda da aynı şekilde görünmektedir. == Kaynakça == Guida d'Italia del Touring Club Italiano – Venezia. 3° ed M. Da Villa Urbani. La Basilica di San Marco. 2001, Storti Edizioni, Venezia. S. Vianello (a cura di) Le chiese di Venezia. Electa, 1993 == Ayrıca bakınız == San Marco Bazilikası'ndaki at heykelleri == Dış bağlantılar == Cathedral of San Marco, Venice28 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İtalyanca) San Marco Museum Satellite image from Google Maps4 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Visit St Mark's Basilica at imageLinka Video Introduction to Basilica San Marco3 Mart 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 343,
+      "char_count": 2472,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.444215",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 726,
+      "content": "San Marco Bazilikası (İtalyanca: Basilica di San Marco a Venezia, Türkçe: Aziz Marko Bazilikası), Venedik'in San Marco Meydanı'nda yer alan Bizans mimarisi sanatının en iyi bilinen örneklerinden biri olarak şehrin en meşhur kilise yapılarından biri olan bir katedraldir. Yapı Düka'nın Sarayı'na bitişik ve bağlantılıdır. Orijinal olarak yapı Venedik dükalarının şapelidir ve şehrin katedrali değildir. 1807 yılından beri Venedik Patriği'nin, Venedik piskoposluk ruhani dairesi Roma Katolik Başpiskoposunun ikâmetgâhıdır. Yapının zengin dizaynı için Bizans mozaikleri Venedik'in zenginlik ve gücünün bir sembolü olarak yaldızlandı. 11. yüzyıldan beri yapı onun takma adı Chiesa d'Oro (Church of gold) altın kilise ile bilinir.",
+      "char_count": 725,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0001",
+      "section": "=== Yapı ===",
+      "heading_path": "=== Yapı ===",
+      "start_char": 738,
+      "end_char": 1738,
+      "content": "=== Yapı === Yapı ilk olarak 828 yılında Venedikli tüccarlar Malamoccolu Bono ve Torcellolu Rustico'nun İskenderiye'den Evangelist Aziz Marko'nun kutsal emanetlerini çaldıklarında yapıldığı zaman Düka'nın Sarayı'nda geçici bir yapıydı. Yeni kilise 976 yılı isyanında yandı, 978 yılında ise yeniden inşa edildi ve 1063'ten beri günümüzdeki basilikanın ana şekline uygun çalışma tekrarlandı. Basilika 1094 yılında kutsandı, aynı yıl güya Aziz Marko'nun vücudu bir sütun içinde Venedik Dükası Vitale Falier tarafından keşfedildi. Yapı ayrıca aşağı bir kuleyle birleşir (şimdi Aziz Marko'nun hazine odasıdır), bazılarınca Düka'nın Sarayının orijinal bir kısmı olduğuna inanılır. 13. yüzyılın ilk yarısı içinde kilisenin girişi (veya lobi alanı) ve yapının ön cephesi inşa edildi, mozaiklerin çoğu tamamlandı ve kubbeler daha yüksek odunla kaplandı, kubbeler Gotik mimari tarzında yeniden inşa edilen Düka'nın Sarayı'na uyum sağlaması açısından kurşunla kaplandı. Ayrıca San Marco Bazilikası 2009 Kasım ay",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "=== Yapı ===",
+      "heading_path": "=== Yapı ===",
+      "start_char": 1538,
+      "end_char": 1822,
+      "content": "ndı ve kubbeler daha yüksek odunla kaplandı, kubbeler Gotik mimari tarzında yeniden inşa edilen Düka'nın Sarayı'na uyum sağlaması açısından kurşunla kaplandı. Ayrıca San Marco Bazilikası 2009 Kasım ayında piyasaya sürülen Assassin's Creed II adlı oyunda da aynı şekilde görünmektedir.",
+      "char_count": 284,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1823,
+      "end_char": 2033,
+      "content": "== Kaynakça == Guida d'Italia del Touring Club Italiano – Venezia. 3° ed M. Da Villa Urbani. La Basilica di San Marco. 2001, Storti Edizioni, Venezia. S. Vianello (a cura di) Le chiese di Venezia. Electa, 1993",
+      "char_count": 209,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2033,
+      "end_char": 2095,
+      "content": "== Ayrıca bakınız == San Marco Bazilikası'ndaki at heykelleri",
+      "char_count": 61,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2095,
+      "end_char": 2472,
+      "content": "== Dış bağlantılar == Cathedral of San Marco, Venice28 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İtalyanca) San Marco Museum Satellite image from Google Maps4 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Visit St Mark's Basilica at imageLinka Video Introduction to Basilica San Marco3 Mart 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 377,
+      "token_estimate": 94
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "San Marco Bazilikası ne zaman kutsandı?",
+        "answer": "Bazilika 1094 yılında kutsandı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "San Marco Bazilikası'nın Venedik Dükalık Sarayı ile ilişkisi ve mimari gelişimi, şehrin değişen kimliğini ve hedeflerini nasıl yansıtmıştır?",
+        "answer": "San Marco Bazilikası, ilk olarak Dükalık Sarayı'nda geçici bir yapı ve Venedik dükalarının özel şapeliydi. Zamanla, şehrin zenginlik ve gücünün bir sembolü haline gelerek zengin Bizans mozaikleriyle yaldızlandı ve 'Altın Kilise' olarak tanındı. 13. yüzyılın ilk yarısında, kubbeleri Gotik mimari tarzında yeniden inşa edilen Dükalık Sarayı'na uyum sağlamak üzere kaplandı. 1807'den itibaren ise Venedik Patriği'nin ikametgahı olarak şehrin katedrali rolünü üstlendi. Bu dönüşümler, bazilikanın Dükalık Sarayı ile sürekli bağlantısı ve estetik uyumu aracılığıyla Venedik'in hem dini hem de siyasi önemindeki artışı ve büyüyen gücünü yansıtmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

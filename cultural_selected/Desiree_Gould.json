@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "desireegould_abbc4bf1",
+    "title": "Desiree Gould",
+    "url": "https://tr.wikipedia.org/wiki/Desiree_Gould",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:02.335939",
+    "content": "Desiree Joan Gould (d. 27 Mart 1945, New York Şehri, New York – ö. 25 Mayıs 2021, New York Şehri, New York, ABD.), Amerikalı oyuncu ve iş insanı. == Yaşamı ve kariyeri == Gould, 27 Mart 1945'te New York'ta doğdu. 1979'da başladığı oyunculuk kariyerini 2021 yılındaki ölümüne kadar sürdürdü. Harry Garland, Roger Leonard, Herb Greene ve Pat Doukodovsky'den bale ve şan dersleri aldı. Gene Feist Tiyatro Vakfı, Barbara Loden Oyunculuk Atölyesi, Paul Mann Oyunculuk Atölyesi, Warren Robinson, HB Stüdyosu ve Boston Sanat Merkezi'nde oyunculuk alanında çalışmalar yaptı. 1983 yapımı korku türünde Martha teyze rolünde olduğu Sleepaway Camp adlı film ile dikkat çekti. Yer aldığı diğer bazı yapımlar arasında TV dizileri; One Life to Live, Joe Zaso's Cafe Himbo, The Edge of Night ve Love of Life ile sinema filmleri; Caesar and Otto meet Dracula's Lawyer, Tales of Poe, The Switch, Morning Glory ve Going the Distance sayılabilir. Ekran Oyuncuları Locası (SAG) ve Amerikan Televizyon ve Radyo Sanatçıları Federasyonu (AFTRA) üyesiydi. == Emlakçılık kariyeri ve ölümü == Gould, 1992'de iş ortağı Douglas Elliman ile gayrimenkul işine girdiysede arada filmlerde rol almaya devam etti. 2012'de Elliman ile olan iş ortaklığını bıraktı. 2013'ten 2021'deki ölümüne kadar Halstead Yönetim Organizasyon firmasında emlak sektöründe hizmet verdi. Yaşamının son dönemlerinde New York Emlakçılar Yönetim Kurulu ile Long Island Emlakçılar Kurulu üyesi olarak New York ve Florida'da mülk satma izini alarak gayrimenkul çalışmaları yaptı. Gold, 25 Mayıs 2021'de doğum yeri, New York Şehri, New York'ta 75 yaşında yaşama veda etti. == Filmografi == === Filmler === === Televizyon === == Tiyatro == Bomb Shelter ... rolü: Mary Anne (Nat Horne Tiyatrosu, New York Şehri) Women of the Wild West ... rolü: Abigail (Nat Horne Tiyatrosu, New York Şehri) Your Child's Secret Life ... (rolü: Arlene) (St. Clement's Tiyatrosu, New York Şehri) The Stronger ... rolü: Miss \"Y\" (Amelie) (Bristol Valley Oyunevi, Naples, New York) The Witch ... rolü: Wife (Bristol Valley Oyunevi, Naples, New York) Queens of France ... rolü: Wife (Marie Sidonie Cressaux) (Bristol Valley Oyunevi, Naples, New York) The Taming of the Shrew ... rolü: Kate (Ulusal Tiyatro, Boston, Massachusetts) A Streetcar Named Desire ... rolü: Blanche (Boston Güzel Sanatlar Merkezi, Boston, Massachusetts) == Kaynaklar == == Dış bağlantılar == IMDb'de Desiree Gould",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 368,
+      "char_count": 2402,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.365520",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 146,
+      "content": "Desiree Joan Gould (d. 27 Mart 1945, New York Şehri, New York – ö. 25 Mayıs 2021, New York Şehri, New York, ABD.), Amerikalı oyuncu ve iş insanı.",
+      "char_count": 145,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 146,
+      "end_char": 1031,
+      "content": "== Yaşamı ve kariyeri == Gould, 27 Mart 1945'te New York'ta doğdu. 1979'da başladığı oyunculuk kariyerini 2021 yılındaki ölümüne kadar sürdürdü. Harry Garland, Roger Leonard, Herb Greene ve Pat Doukodovsky'den bale ve şan dersleri aldı. Gene Feist Tiyatro Vakfı, Barbara Loden Oyunculuk Atölyesi, Paul Mann Oyunculuk Atölyesi, Warren Robinson, HB Stüdyosu ve Boston Sanat Merkezi'nde oyunculuk alanında çalışmalar yaptı. 1983 yapımı korku türünde Martha teyze rolünde olduğu Sleepaway Camp adlı film ile dikkat çekti. Yer aldığı diğer bazı yapımlar arasında TV dizileri; One Life to Live, Joe Zaso's Cafe Himbo, The Edge of Night ve Love of Life ile sinema filmleri; Caesar and Otto meet Dracula's Lawyer, Tales of Poe, The Switch, Morning Glory ve Going the Distance sayılabilir. Ekran Oyuncuları Locası (SAG) ve Amerikan Televizyon ve Radyo Sanatçıları Federasyonu (AFTRA) üyesiydi.",
+      "char_count": 884,
+      "token_estimate": 221
+    },
+    {
+      "id": "c0002",
+      "section": "== Emlakçılık kariyeri ve ölümü ==",
+      "heading_path": "== Emlakçılık kariyeri ve ölümü ==",
+      "start_char": 1031,
+      "end_char": 1612,
+      "content": "== Emlakçılık kariyeri ve ölümü == Gould, 1992'de iş ortağı Douglas Elliman ile gayrimenkul işine girdiysede arada filmlerde rol almaya devam etti. 2012'de Elliman ile olan iş ortaklığını bıraktı. 2013'ten 2021'deki ölümüne kadar Halstead Yönetim Organizasyon firmasında emlak sektöründe hizmet verdi. Yaşamının son dönemlerinde New York Emlakçılar Yönetim Kurulu ile Long Island Emlakçılar Kurulu üyesi olarak New York ve Florida'da mülk satma izini alarak gayrimenkul çalışmaları yaptı. Gold, 25 Mayıs 2021'de doğum yeri, New York Şehri, New York'ta 75 yaşında yaşama veda etti.",
+      "char_count": 580,
+      "token_estimate": 145
+    },
+    {
+      "id": "c0003",
+      "section": "== Tiyatro ==",
+      "heading_path": "== Tiyatro ==",
+      "start_char": 1664,
+      "end_char": 2343,
+      "content": "== Tiyatro == Bomb Shelter ... rolü: Mary Anne (Nat Horne Tiyatrosu, New York Şehri) Women of the Wild West ... rolü: Abigail (Nat Horne Tiyatrosu, New York Şehri) Your Child's Secret Life ... (rolü: Arlene) (St. Clement's Tiyatrosu, New York Şehri) The Stronger ... rolü: Miss \"Y\" (Amelie) (Bristol Valley Oyunevi, Naples, New York) The Witch ... rolü: Wife (Bristol Valley Oyunevi, Naples, New York) Queens of France ... rolü: Wife (Marie Sidonie Cressaux) (Bristol Valley Oyunevi, Naples, New York) The Taming of the Shrew ... rolü: Kate (Ulusal Tiyatro, Boston, Massachusetts) A Streetcar Named Desire ... rolü: Blanche (Boston Güzel Sanatlar Merkezi, Boston, Massachusetts)",
+      "char_count": 678,
+      "token_estimate": 169
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2359,
+      "end_char": 2402,
+      "content": "== Dış bağlantılar == IMDb'de Desiree Gould",
+      "char_count": 43,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gould ne zaman ve nerede doğdu?",
+        "answer": "Gould, 27 Mart 1945'te New York'ta doğdu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Desiree Joan Gould'un oyunculuk ve emlakçılık kariyerlerinin zaman çizelgesi ve aralarındaki ilişki nasıldı?",
+        "answer": "Desiree Joan Gould, 1979'da başladığı oyunculuk kariyerini 2021'deki ölümüne kadar sürdürdü. 1992 yılında gayrimenkul işine girerek ikinci bir kariyere adım attı ve bu alanda da 2021'deki ölümüne kadar aktif kaldı. Bu durum, 1992'den 2021'e kadar oyunculuk ve emlakçılık kariyerlerini paralel olarak yürüttüğünü göstermektedir. Özellikle, emlakçılık kariyerine 1992'de Douglas Elliman ile başlamış, 2012'de bu ortaklıktan ayrılmış ve 2013'ten vefatına kadar Halstead Yönetim Organizasyon firmasında hizmet vermiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "becauseofyoukellycla_48aa9545",
+    "title": "Because of You (Kelly Clarkson şarkısı)",
+    "url": "https://tr.wikipedia.org/wiki/Because_of_You_%28Kelly_Clarkson_%C5%9Fark%C4%B1s%C4%B1%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:54.952789",
+    "content": "\"Because of You\", Amerikalı şarkıcı Kelly Clarkson tarafından ikinci stüdyo albümü Breakaway için kaydedilen bir şarkıdır. Yazarlığını ve yapımcılığını eski Evanescence üyeleri David Hodges ve Ben Moody üstlendi. Şarkı, albümün Amerika Birleşik Devletleri'nde dördüncü ve Avrupa'da üçüncü teklisi olarak yayımlandı. 31 Ocak 2008'de, ABD'de bir buçuk milyonu aşkın satış rakamına ulaşan şarkı, RIAA tarafından platin plak ile ödüllendirildi. 2007'de, Clarkson şarkıyı Reba McEntire ile tekrar kaydetti ve 2007 yazında tekli olarak yayımladı. Billboard Hot Country Songs listesinde iki numaraya yükselmeyi başaran şarkı, Clarkson'ın bu listeye ilk şarkısı oldu. == Video == \"Because of You\"nun video klibi Vadim Perelman yönetmenliğinde çekildi. Video klibin ilk gösterimi 3 Ekim 2005'te Total Request Live programında yapıldı. Programın listesinde zirveye ulaşan şarkı, MuchMusic listesinde de zirveyi gördü. 18 Haziran 2006'da, Clarkson'a \"People's Choice Favori Uluslararası Sanatçı\" dalında bir MuchMusic Video Ödülü de kazandırdı. Ayrıca, \"En İyi Kadın Video\" kategorisinde bir de MTV Video Müzik Ödülü kazandırdı. == Liste başarıları == Breakaway albümünün önceki üç teklisi gibi \"Because of You\" da, ABD Billboard Hot 100 listesinde ilk ona girmeyi başardı ve Ekim 2005'te yedi numaraya yükseldi. Top 40 Mainstream listesinde zirveye ulaşan şarkı, zirvedeki yerini altı hafta boyunca korumayı başardı. \"Because of You\", uzun süre listelerde yer aldı ve albümün Billboard 200 listesine yeni yıla girerken tekrar giriş yapmasını sağladı. Şarkı, ABD'de internet üzerinden 1.070.000'dan fazla kez satın alındı. \"Because of You\", dört numaraya ulaştığı Avustralya listesinin yıl sonu listelerinde elli sekiz numarada yer aldı. İngiltere'de yedi numaraya yükseldi ve Almanya'da da ilk beşe girerken hit olmayı başardı. == Yayımlanma tarihleri == == Listeler == == Reba McEntire versiyonu == \"Because of You\", 2007 yılı başında Kelly Clarkson tarafından country sanatçısı Reba McEntire ile McEntire'ın Eylül 2007'de piyasaya sürülen Reba: Duets albümü için yeniden kaydedildi. Clarkson ve McEntire, şarkının ABD radyolarına verildiği 15 Mayıs 2007'de şarkıyı Academy of Country Music ödül töreninde seslendirdiler. Billboard Hot Country Songs listesine 2 Haziran 2007'de 42 numaradan giriş yapan şarkı, iki numaraya kadar yükselmeyi başardı. Ayrıca, 2008 yılında \"En İyi Country İş birliği\" kategorisinde Grammy ödülüne aday gösterildi. === Video === Düetin video klibi ilk kez 20 Haziran 2007'de yayınlandı. Video klipte McEntire ve Clarkson, 1930'ların lounge şarkıcılarını canlandırmaktadırlar. === Listeler === == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 365,
+      "char_count": 2627,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.175922",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 660,
+      "content": "\"Because of You\", Amerikalı şarkıcı Kelly Clarkson tarafından ikinci stüdyo albümü Breakaway için kaydedilen bir şarkıdır. Yazarlığını ve yapımcılığını eski Evanescence üyeleri David Hodges ve Ben Moody üstlendi. Şarkı, albümün Amerika Birleşik Devletleri'nde dördüncü ve Avrupa'da üçüncü teklisi olarak yayımlandı. 31 Ocak 2008'de, ABD'de bir buçuk milyonu aşkın satış rakamına ulaşan şarkı, RIAA tarafından platin plak ile ödüllendirildi. 2007'de, Clarkson şarkıyı Reba McEntire ile tekrar kaydetti ve 2007 yazında tekli olarak yayımladı. Billboard Hot Country Songs listesinde iki numaraya yükselmeyi başaran şarkı, Clarkson'ın bu listeye ilk şarkısı oldu.",
+      "char_count": 659,
+      "token_estimate": 164
+    },
+    {
+      "id": "c0001",
+      "section": "== Video ==",
+      "heading_path": "== Video ==",
+      "start_char": 660,
+      "end_char": 1118,
+      "content": "== Video == \"Because of You\"nun video klibi Vadim Perelman yönetmenliğinde çekildi. Video klibin ilk gösterimi 3 Ekim 2005'te Total Request Live programında yapıldı. Programın listesinde zirveye ulaşan şarkı, MuchMusic listesinde de zirveyi gördü. 18 Haziran 2006'da, Clarkson'a \"People's Choice Favori Uluslararası Sanatçı\" dalında bir MuchMusic Video Ödülü de kazandırdı. Ayrıca, \"En İyi Kadın Video\" kategorisinde bir de MTV Video Müzik Ödülü kazandırdı.",
+      "char_count": 457,
+      "token_estimate": 114
+    },
+    {
+      "id": "c0002",
+      "section": "== Liste başarıları ==",
+      "heading_path": "== Liste başarıları ==",
+      "start_char": 1118,
+      "end_char": 1818,
+      "content": "== Liste başarıları == Breakaway albümünün önceki üç teklisi gibi \"Because of You\" da, ABD Billboard Hot 100 listesinde ilk ona girmeyi başardı ve Ekim 2005'te yedi numaraya yükseldi. Top 40 Mainstream listesinde zirveye ulaşan şarkı, zirvedeki yerini altı hafta boyunca korumayı başardı. \"Because of You\", uzun süre listelerde yer aldı ve albümün Billboard 200 listesine yeni yıla girerken tekrar giriş yapmasını sağladı. Şarkı, ABD'de internet üzerinden 1.070.000'dan fazla kez satın alındı. \"Because of You\", dört numaraya ulaştığı Avustralya listesinin yıl sonu listelerinde elli sekiz numarada yer aldı. İngiltere'de yedi numaraya yükseldi ve Almanya'da da ilk beşe girerken hit olmayı başardı.",
+      "char_count": 699,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0003",
+      "section": "== Reba McEntire versiyonu ==",
+      "heading_path": "== Reba McEntire versiyonu ==",
+      "start_char": 1860,
+      "end_char": 2435,
+      "content": "== Reba McEntire versiyonu == \"Because of You\", 2007 yılı başında Kelly Clarkson tarafından country sanatçısı Reba McEntire ile McEntire'ın Eylül 2007'de piyasaya sürülen Reba: Duets albümü için yeniden kaydedildi. Clarkson ve McEntire, şarkının ABD radyolarına verildiği 15 Mayıs 2007'de şarkıyı Academy of Country Music ödül töreninde seslendirdiler. Billboard Hot Country Songs listesine 2 Haziran 2007'de 42 numaradan giriş yapan şarkı, iki numaraya kadar yükselmeyi başardı. Ayrıca, 2008 yılında \"En İyi Country İş birliği\" kategorisinde Grammy ödülüne aday gösterildi.",
+      "char_count": 574,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0004",
+      "section": "=== Video ===",
+      "heading_path": "=== Video ===",
+      "start_char": 2435,
+      "end_char": 2596,
+      "content": "=== Video === Düetin video klibi ilk kez 20 Haziran 2007'de yayınlandı. Video klipte McEntire ve Clarkson, 1930'ların lounge şarkıcılarını canlandırmaktadırlar.",
+      "char_count": 160,
+      "token_estimate": 40
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "\"Because of You\" şarkısı ABD'de internet üzerinden kaç kez satın alındı?",
+        "answer": "1.070.000'dan fazla kez.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kelly Clarkson'ın \"Because of You\" şarkısı, hem ticari başarısı hem de video klibiyle hangi önemli başarılara imza atmıştır?",
+        "answer": "Şarkı, ABD'de bir buçuk milyonu aşkın satış rakamına ulaşmış ve RIAA tarafından platin plak ile ödüllendirilmiştir. Ayrıca, Reba McEntire ile kaydedilen versiyonu Billboard Hot Country Songs listesinde iki numaraya yükselmiştir. ABD Billboard Hot 100 listesinde yedi numaraya, Top 40 Mainstream listesinde ise altı hafta boyunca zirvede kalmıştır. ABD'de internet üzerinden 1.070.000'dan fazla kez satın alınmıştır ve Avustralya'da dört, İngiltere'de yedi, Almanya'da ise ilk beşe girerek uluslararası listelerde başarı elde etmiştir. Video klibiyle \"People's Choice Favori Uluslararası Sanatçı\" dalında bir MuchMusic Video Ödülü ve \"En İyi Kadın Video\" kategorisinde bir MTV Video Müzik Ödülü kazanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

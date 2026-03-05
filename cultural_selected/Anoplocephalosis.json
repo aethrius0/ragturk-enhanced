@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "anoplocephalosis_d9ee5594",
+    "title": "Anoplocephalosis",
+    "url": "https://tr.wikipedia.org/wiki/Anoplocephalosis",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:35.533242",
+    "content": "Anoplocephalosis atlar, eşekler ve katırlarda Anoplocephala perfoliata,Anoplocephala magna ve Paranoplocephala mamillana türü cestodlar tarafından oluşturulan bir enfestasyondur. Bu enfestasyon at koliğine yol açabilir. Oribatidae familyasına bağlı gözsüz akarları ara konak olarak kullanırlar. Larva formları cysticercoid şeklindedir. enfestasyon cysticercoidleri taşıyan akarların ağız yolu ile alınması sonucu oluşur. Genellikle ölümlere neden olmamakla birlikte çok yaygın alduğu ve önlem alınmadığı durumlarda ölüme varabilen etkileri olabilmektedir. == Etiyoloji == Gelişimleri indirekttir. Son konaktan dışkı yoluyla dışarı atılan olgun halkalar parçalanarak yumurtalar dışarı çıkar ve Orbatid cinsi akarlar beslenirken bu yumurtaları alırlar. Yumurtalar akarların vücur boşluğunda 18 C'de ve 145-150 günde gelişirler. Atlar bu cysticercoid taşıyan akarları beslenirken otlarla beraber alırlar. cysticercoidler 6 ila 10 hafta sonra bağırsaklarında olgun parazit haline gelir. Olgun parazitlerin eni 2,5 boyu 80 cm'ye kadar çıkabilmektedirler ve ömürleri birkaç yıl olabilmekredir. == Tanı ve tedavi == Tanı, dışkı örneklerinde yumurta aramasıyla ve serolojik yöntemlerle yapılır. Tedavide niclosamide, bithionol asetat, dichlorphen, bithionol, resorantel, pyrantel embonate (tartarate), praziquantel, morantel, pyrantel pamoate gibi anthelmintikler kullanılır. == Dış bağlantılar == http://ercivet.erciyes.edu.tr/arsiv/2005-1/3-atlarda-anoplocephalosis-ve-sagaltim-secenekleri.pdf 17 Aralık 2010 tarihinde Wayback Machine sitesinde arşivlendi. http://parazitoloji.dergisi.org/pdf/pdf_TPD_141.pdf Alejandro Bohórquez, Aránzazu Meana & Mónica Luzón (2012). \"Differential diagnosis of equine cestodosis based on E/S and somatic Anoplocephala perfoliata and Anoplocephala magna antigens\". Veterinary Parasitology. 190 (in press). ss. 87-94. doi:10.1016/j.vetpar.2012.06.001. PMID 22763349.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 210,
+      "char_count": 1892,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.779937",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 556,
+      "content": "Anoplocephalosis atlar, eşekler ve katırlarda Anoplocephala perfoliata,Anoplocephala magna ve Paranoplocephala mamillana türü cestodlar tarafından oluşturulan bir enfestasyondur. Bu enfestasyon at koliğine yol açabilir. Oribatidae familyasına bağlı gözsüz akarları ara konak olarak kullanırlar. Larva formları cysticercoid şeklindedir. enfestasyon cysticercoidleri taşıyan akarların ağız yolu ile alınması sonucu oluşur. Genellikle ölümlere neden olmamakla birlikte çok yaygın alduğu ve önlem alınmadığı durumlarda ölüme varabilen etkileri olabilmektedir.",
+      "char_count": 555,
+      "token_estimate": 138
+    },
+    {
+      "id": "c0001",
+      "section": "== Etiyoloji ==",
+      "heading_path": "== Etiyoloji ==",
+      "start_char": 556,
+      "end_char": 1088,
+      "content": "== Etiyoloji == Gelişimleri indirekttir. Son konaktan dışkı yoluyla dışarı atılan olgun halkalar parçalanarak yumurtalar dışarı çıkar ve Orbatid cinsi akarlar beslenirken bu yumurtaları alırlar. Yumurtalar akarların vücur boşluğunda 18 C'de ve 145-150 günde gelişirler. Atlar bu cysticercoid taşıyan akarları beslenirken otlarla beraber alırlar. cysticercoidler 6 ila 10 hafta sonra bağırsaklarında olgun parazit haline gelir. Olgun parazitlerin eni 2,5 boyu 80 cm'ye kadar çıkabilmektedirler ve ömürleri birkaç yıl olabilmekredir.",
+      "char_count": 531,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0002",
+      "section": "== Tanı ve tedavi ==",
+      "heading_path": "== Tanı ve tedavi ==",
+      "start_char": 1088,
+      "end_char": 1368,
+      "content": "== Tanı ve tedavi == Tanı, dışkı örneklerinde yumurta aramasıyla ve serolojik yöntemlerle yapılır. Tedavide niclosamide, bithionol asetat, dichlorphen, bithionol, resorantel, pyrantel embonate (tartarate), praziquantel, morantel, pyrantel pamoate gibi anthelmintikler kullanılır.",
+      "char_count": 279,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1368,
+      "end_char": 1892,
+      "content": "== Dış bağlantılar == http://ercivet.erciyes.edu.tr/arsiv/2005-1/3-atlarda-anoplocephalosis-ve-sagaltim-secenekleri.pdf 17 Aralık 2010 tarihinde Wayback Machine sitesinde arşivlendi. http://parazitoloji.dergisi.org/pdf/pdf_TPD_141.pdf Alejandro Bohórquez, Aránzazu Meana & Mónica Luzón (2012). \"Differential diagnosis of equine cestodosis based on E/S and somatic Anoplocephala perfoliata and Anoplocephala magna antigens\". Veterinary Parasitology. 190 (in press). ss. 87-94. doi:10.1016/j.vetpar.2012.06.001. PMID 22763349.",
+      "char_count": 524,
+      "token_estimate": 131
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Anoplocephalosis'a neden olan cestod türleri nelerdir?",
+        "answer": "Anoplocephala perfoliata, Anoplocephala magna ve Paranoplocephala mamillana.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Atlar, eşekler ve katırlarda Anoplocephalosis enfestasyonu nasıl gerçekleşir ve bu süreçte Oribatid akarlarının rolü nedir?",
+        "answer": "Anoplocephalosis enfestasyonu, son konaktan dışkı yoluyla dışarı atılan yumurtaları Orbatid cinsi akarların beslenirken almasıyla başlar. Yumurtalar, akarların vücut boşluğunda 145-150 gün içinde cysticercoid şekline gelişir. Atlar, bu cysticercoidleri taşıyan akarları otlarla beraber ağız yoluyla aldıklarında enfekte olurlar ve cysticercoidler 6 ila 10 hafta sonra bağırsaklarında olgun parazit haline gelir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "otomobildekikadn_3324ca04",
+    "title": "Otomobildeki Kadın",
+    "url": "https://tr.wikipedia.org/wiki/Otomobildeki_Kad%C4%B1n",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:28.882185",
+    "content": "Otomobildeki Kadın (İn:The Lady in the Car with Glasses and a Gun, Fr:La Dame dans l'auto avec des lunettes et un fusil) 1970 yapımı bir Amerikan–Fransız korku filmidir. Sébastien Japrisot'un bir romanından beyaz perdeye aktarılmış olan filmin yönetmeni Anatole Litvak’tır. Filmin müziği Petula Clark tarafından seslendirilmiştir. == Konu == Kısaca Dany olarak bilinen İngiliz sekreter Danielle Lang Paris’te bir reklam firmasında çalışmaktadır. Firmanın patronu Dany’nin eski ev arkadaşı Anita ile evlenmiş olan Michael Caldwell’dir. Bir hafta sonu Michael Dany’nin haftalık ücretini öder ve uçakla Cenevre’ye gideceğini bildirerek, lüks otomobilini Dany’ye emanet eder. Dany Michael ve Anita’yı hava alanına bıraktıktan sonra otomobil ile kısa bir hafta sonu kaçamağı yapmaya karar verir. O güne kadar görmediği Akdeniz kıyılarını görecektir. Ancak Dany güneye doğru giderken bir dizi şaşırtıcı olayla karşılaşır. Benzin istasyonu ve diğer mola yerlerinde herkes Dany’i daha o sabah kuzeye doğru giderken gördüğünü söylemektedir. Oysa Dany bu yoldan daha önce hiç geçmemiştir. Dany yolda arabasına Philippe adlı bir otostopçuyu alır. Geceyi birlikte geçirirler, ama Philippe otomobili çalıp Marsilya’ya gider. Dany Philippe’yi izler ve otomobili bulur. Ama otomobili kontrol ederken bagajda bir ceset ve bir tabanca olduğunu görür. Cesedin ceplerini karıştıran Dany cesedin adresini öğrenir ve Avignon kentindeki evine gider. Ancak eve girdiğinde patronu Michael ile karşılaşır. Michael aslında Cenevre'ye gitmemiştir. Dany’i öldürmek ve buna intıhar süsü vermek niyetindedir. Ama önce durumu açıklar. Anita kendisini rahat bırakmayan eski sevgilisini öldürmüş, Michael de eşini korumak amacıyla suçu Dany’nin üzerine atmak için bu planı yapmıştır. Anita Dany gibi giyinerek yoldaki insanları aldatmıştır. Polis cinayeti Dany‘nin işlediğini ve daha sonra Dany’nin intıhar ettiğine inanacaktır. Michael polisi buna inandırmak için ev arkadaşlığı döneminde Anita’nın çekmiş olduğu Dany’nin çıplak fotoğraflarını da ölen adamın evine getirmiştir. Ancak, Michael Dany’nin komployu az çok çözdüğünün ve polise bilgi verdiğinin farkında değildir. == Oyuncular ve Karakterler == Samantha Eggar : Danielle \"Dany\" Lang Oliver Reed : Michael Caldwell, Dany'nin patronu John McEnery : Philippe, otostopçu Stéphane Audran : Anita Caldwell; Michael'in eşi, Dany'nin eski ev arkadaşı == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 328,
+      "char_count": 2386,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.203052",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 331,
+      "content": "Otomobildeki Kadın (İn:The Lady in the Car with Glasses and a Gun, Fr:La Dame dans l'auto avec des lunettes et un fusil) 1970 yapımı bir Amerikan–Fransız korku filmidir. Sébastien Japrisot'un bir romanından beyaz perdeye aktarılmış olan filmin yönetmeni Anatole Litvak’tır. Filmin müziği Petula Clark tarafından seslendirilmiştir.",
+      "char_count": 330,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0001",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 331,
+      "end_char": 1331,
+      "content": "== Konu == Kısaca Dany olarak bilinen İngiliz sekreter Danielle Lang Paris’te bir reklam firmasında çalışmaktadır. Firmanın patronu Dany’nin eski ev arkadaşı Anita ile evlenmiş olan Michael Caldwell’dir. Bir hafta sonu Michael Dany’nin haftalık ücretini öder ve uçakla Cenevre’ye gideceğini bildirerek, lüks otomobilini Dany’ye emanet eder. Dany Michael ve Anita’yı hava alanına bıraktıktan sonra otomobil ile kısa bir hafta sonu kaçamağı yapmaya karar verir. O güne kadar görmediği Akdeniz kıyılarını görecektir. Ancak Dany güneye doğru giderken bir dizi şaşırtıcı olayla karşılaşır. Benzin istasyonu ve diğer mola yerlerinde herkes Dany’i daha o sabah kuzeye doğru giderken gördüğünü söylemektedir. Oysa Dany bu yoldan daha önce hiç geçmemiştir. Dany yolda arabasına Philippe adlı bir otostopçuyu alır. Geceyi birlikte geçirirler, ama Philippe otomobili çalıp Marsilya’ya gider. Dany Philippe’yi izler ve otomobili bulur. Ama otomobili kontrol ederken bagajda bir ceset ve bir tabanca olduğunu görü",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 1131,
+      "end_char": 2131,
+      "content": "lır. Geceyi birlikte geçirirler, ama Philippe otomobili çalıp Marsilya’ya gider. Dany Philippe’yi izler ve otomobili bulur. Ama otomobili kontrol ederken bagajda bir ceset ve bir tabanca olduğunu görür. Cesedin ceplerini karıştıran Dany cesedin adresini öğrenir ve Avignon kentindeki evine gider. Ancak eve girdiğinde patronu Michael ile karşılaşır. Michael aslında Cenevre'ye gitmemiştir. Dany’i öldürmek ve buna intıhar süsü vermek niyetindedir. Ama önce durumu açıklar. Anita kendisini rahat bırakmayan eski sevgilisini öldürmüş, Michael de eşini korumak amacıyla suçu Dany’nin üzerine atmak için bu planı yapmıştır. Anita Dany gibi giyinerek yoldaki insanları aldatmıştır. Polis cinayeti Dany‘nin işlediğini ve daha sonra Dany’nin intıhar ettiğine inanacaktır. Michael polisi buna inandırmak için ev arkadaşlığı döneminde Anita’nın çekmiş olduğu Dany’nin çıplak fotoğraflarını da ölen adamın evine getirmiştir. Ancak, Michael Dany’nin komployu az çok çözdüğünün ve polise bilgi verdiğinin farkınd",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 1931,
+      "end_char": 2142,
+      "content": " ev arkadaşlığı döneminde Anita’nın çekmiş olduğu Dany’nin çıplak fotoğraflarını da ölen adamın evine getirmiştir. Ancak, Michael Dany’nin komployu az çok çözdüğünün ve polise bilgi verdiğinin farkında değildir.",
+      "char_count": 211,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0004",
+      "section": "== Oyuncular ve Karakterler ==",
+      "heading_path": "== Oyuncular ve Karakterler ==",
+      "start_char": 2143,
+      "end_char": 2372,
+      "content": "== Oyuncular ve Karakterler == Samantha Eggar : Danielle \"Dany\" Lang Oliver Reed : Michael Caldwell, Dany'nin patronu John McEnery : Philippe, otostopçu Stéphane Audran : Anita Caldwell; Michael'in eşi, Dany'nin eski ev arkadaşı",
+      "char_count": 228,
+      "token_estimate": 57
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Danielle Lang (Dany) hangi şehirde bir reklam firmasında çalışmaktadır?",
+        "answer": "Paris",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Otomobildeki Kadın filminin 1970 yapımı bir Amerikan-Fransız korku filmi olduğu bilgisi göz önüne alındığında, Michael ve Anita'nın Dany'yi bir cinayet ve intihar senaryosuna dahil etme planının karmaşıklığı ve detayları, filmin gerilimli yapısına ve \"korku\" sınıflandırmasına nasıl katkıda bulunmaktadır?",
+        "answer": "Michael ve Anita'nın planı, Anita'nın eski sevgilisini öldürmesi üzerine suçu Dany'nin üzerine yıkmak ve ardından onu intihar etmiş gibi göstermek üzerine kuruludur. Michael'ın Dany'ye arabasını emanet etmesi, Anita'nın Dany kılığına girerek insanları aldatması ve Dany'nin yolculuk sırasında yaşadığı kafa karıştırıcı olaylar bu planın parçalarıdır. En nihayetinde Michael, Dany'yi öldürüp intihar süsü vermek için Anita'nın daha önce çekmiş olduğu çıplak fotoğraflarını kullanmayı amaçlar. Bu detaylı ve manipülatif komplo, Dany'nin sürekli olarak gerçeklikle bağının koparıldığı, kendisini tanımadığı bir suçun faili olarak bulduğu ve hayatta kalma mücadelesi verdiği psikolojik bir çıkmaza iter. Bu durum, izleyicide derin bir belirsizlik, paranoya ve dehşet hissi uyandırarak, filmin korku ve gerilim temasını güçlendirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "sakotrg_2110eb70",
+    "title": "Sako TRG",
+    "url": "https://tr.wikipedia.org/wiki/Sako_TRG",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:14.294210",
+    "content": "Sako TRG, Finlandiya yapımı bir keskin nişancı tüfeğidir. Silah, SAKO tarafından üretilmektedir. TRG tüfekleri genellikle geri tepmeyi, atlamayı ve ateşi azaltmak için namlu ağzı frenleriyle donatılmıştır. Genellikle TRG'ler, sabit veya değişken büyütme özelliğine sahip bir Zeiss veya Schmidt & Bender PM II teleskobik nişangahlar ile donatılmıştır. Zeytin yeşili, çöl veya çakal kahverengi, koyu renkli toprak veya siyah renkli gövdeler birlikte mevcutturlar ve ayrıca katlanabilir bir stok ile de mevcuttur. == Varyantlar == TRG-21: 7.62×51mm NATO (.308 Winchester) mühimmat kullanan model. TRG-22: 7.62×51mm NATO (.308 Winchester) mühimmat kullanan geliştirilmiş model. TRG-41: .338 Lapua Magnum mühimmat kullanan model. TRG-42: .300 Winchester ve .338 Lapua Magnum mühimmat kullanan model. == Kullanıcılar == == Kaynakça == == Dış bağlantılar == Official Sako TRG website15 Ekim 2017 tarihinde Wayback Machine sitesinde arşivlendi. (11. Jan. 2016) demigodllc.com: Military .338 Shootout: Sako TRG-42 vs. Accuracy International AWSM by Zak Smith (image collection) uvson308.com TRG-42 black & green by Julien Cartier (image collection)16 Ekim 2018 tarihinde Wayback Machine sitesinde arşivlendi. uvson308.com TRG-42 vs. PGM .338 LM by Julien Cartier (image collection)29 Nisan 2019 tarihinde Wayback Machine sitesinde arşivlendi. Guns Magazine, April, 2002: Sako's sniper: The TRG-22 precision rifle by David M. Fortier29 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1485,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.319047",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 511,
+      "content": "Sako TRG, Finlandiya yapımı bir keskin nişancı tüfeğidir. Silah, SAKO tarafından üretilmektedir. TRG tüfekleri genellikle geri tepmeyi, atlamayı ve ateşi azaltmak için namlu ağzı frenleriyle donatılmıştır. Genellikle TRG'ler, sabit veya değişken büyütme özelliğine sahip bir Zeiss veya Schmidt & Bender PM II teleskobik nişangahlar ile donatılmıştır. Zeytin yeşili, çöl veya çakal kahverengi, koyu renkli toprak veya siyah renkli gövdeler birlikte mevcutturlar ve ayrıca katlanabilir bir stok ile de mevcuttur.",
+      "char_count": 510,
+      "token_estimate": 127
+    },
+    {
+      "id": "c0001",
+      "section": "== Varyantlar ==",
+      "heading_path": "== Varyantlar ==",
+      "start_char": 511,
+      "end_char": 795,
+      "content": "== Varyantlar == TRG-21: 7.62×51mm NATO (.308 Winchester) mühimmat kullanan model. TRG-22: 7.62×51mm NATO (.308 Winchester) mühimmat kullanan geliştirilmiş model. TRG-41: .338 Lapua Magnum mühimmat kullanan model. TRG-42: .300 Winchester ve .338 Lapua Magnum mühimmat kullanan model.",
+      "char_count": 283,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 829,
+      "end_char": 1485,
+      "content": "== Dış bağlantılar == Official Sako TRG website15 Ekim 2017 tarihinde Wayback Machine sitesinde arşivlendi. (11. Jan. 2016) demigodllc.com: Military .338 Shootout: Sako TRG-42 vs. Accuracy International AWSM by Zak Smith (image collection) uvson308.com TRG-42 black & green by Julien Cartier (image collection)16 Ekim 2018 tarihinde Wayback Machine sitesinde arşivlendi. uvson308.com TRG-42 vs. PGM .338 LM by Julien Cartier (image collection)29 Nisan 2019 tarihinde Wayback Machine sitesinde arşivlendi. Guns Magazine, April, 2002: Sako's sniper: The TRG-22 precision rifle by David M. Fortier29 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 656,
+      "token_estimate": 164
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "David M. Fortier tarafından yazılan 'Sako's sniper: The TRG-22 precision rifle' makalesi hangi dergide yayınlanmıştır?",
+        "answer": "Guns Magazine",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sako TRG tüfeklerinin genel özelliklerinin ve varyantlarının, özellikle TRG-22 ve TRG-42 modellerinin, çevrimiçi incelemelerde ve karşılaştırmalarda yer almasına nasıl yansıdığı açıklanabilir?",
+        "answer": "Sako TRG tüfekleri, geri tepme ve atlamayı azaltan namlu ağzı frenleri ve Zeiss veya Schmidt & Bender PM II gibi yüksek kaliteli teleskobik nişangahlar gibi genel özellikleriyle bilinir. TRG-22'nin 7.62×51mm NATO mühimmatı ve TRG-42'nin .300 Winchester veya .338 Lapua Magnum gibi daha ağır kalibre seçenekleri, bu modellerin demigodllc.com'daki Military .338 Shootout gibi uzman karşılaştırmalarında ve Guns Magazine'deki TRG-22 hassas tüfek incelemesinde öne çıkmasını sağlayarak, teknik yeteneklerini ve çeşitli kullanım amaçlarına uygunluğunu vurgular.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

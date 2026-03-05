@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "struansutherland_b512effb",
+    "title": "Struan Sutherland",
+    "url": "https://tr.wikipedia.org/wiki/Struan_Sutherland",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:43.930624",
+    "content": "Struan Sutherland (17 Haziran 1936-11 Ocak 2002) Avustralyalı tıbbi araştırmacı. Avustralya vahşi yaşamında ısırılan veya sokulan insanlar için geliştirdiği etkili panzehirler ile bilinir. == Hayatı == 1936'da Sidney'de doğdu ve Bendigo, Victoria'da büyüdü. Melbourne Üniversitesi'nde tıp okudu ve 1960'ta mezun oldu. 1962-1965 yılları arasında Avustralya Kraliyet Donanması'nda hizmet verdi. == CSL'deki yılları == 1966'da Commonwealth Serum Laboratories'e katıldı, kısa bir süre sonra İmmünoloji Araştırmaları'nın başında geçti ve bu görevi 28 yıl boyunca sürdürdü. 1979'un Ocak ayında Christine Sturges adlı genç bir kızın huni ağ örümceğinin ısırması sonucu ölmesi Sutherland'ı bu örümceğin zehirine karşı bir antivenom üretmesi için harekete geçirdi. Daha önce pek çok araştırmacı buna benzer bir antivenom üretmekte başarısız olmuştu ancak Sutherland azimle devam etti. Bundan iki yıl sonra Ocak 1980'de James Culley adlı iki yaşındaki bir çocuk örümcek tarafından ısırıldı ve üç gün sonra da öldü. Bu örümceğin kayda geçmiş on üçüncü kurbanıydı. Aynı yıl daha sonra Sutherland ve ekibi etkili bir antivenom geliştirdiler ve ondan beri huni ağ örümceği ısırıkları sonucu kayda geçmiş herhangi bir ölüm bulunmamaktadır. Antivenom ilk başarısını Sydneyli 49 yaşındaki Gordon Wheatley'e uygulandığında gösterdi. Wheatley hastanedeki iki günlük tedavinin ardından tamamen iyileşmişti. Sutherland ayrıca yılan ısırığı tedavisi konusunda da bir araştırma yürüttü. Antivenom ve hastane personeline ısırık için uygun tedavi belirleyebilecekleri zehir belirleme kitleri geliştirmek için çalıştı. Ayrıca yılan ve huni ağ örümceği ısırıklarında hastaya zarar veren turnike yerine baskılı sargı tedavisini savundu. == Son yılları == 1994'te CSL özelleştirildi ve antivenom araştırma programı kapatıldı. Sutherland organizasyondan ayrılarak Melbourne Üniversitesi'ne katıldı. Burada Avustralya Zehir Araştırma Birimi'ni kurdu. 1999'da Parkinson hastalığına benzer bir durum olan striatonigral dejenerasyon yüzünden emekli olmak zorunda kaldı. Emekli olduğu dönemde üç kitabın ortak yazarı oldu. Bunlardan \"Venomous Creatures of Australia\" yayımcısının (Oxford University Press) en çok satan Avustralya kitabı oldu. Sutherland'in otobiyografisi \"A Venomous Life\" (Zehirli Bir Yaşam) 1999'da Highland House Publishing tarafından Melbourne'de yayımlandı. O ayrıca hobilerinden biri hakkında \"Hydroponics For Everyone\" kitabının da yazarıdır. == Kişisel hayatı == Sutherland üç kez evlendi. == Dış bağlantılar == Medical Journal of Australia obituary25 Şubat 2010 tarihinde Wayback Machine sitesinde arşivlendi. BMG obituary26 Haziran 2003 tarihinde Wayback Machine sitesinde arşivlendi. Entry at PM&C Awards site == Kaynakça == Struan K Sutherland, A Venomous Life: the Autobiography of Professor Struan Sutherland (Melbourne: Hyland House, 1998). Mark Whitaker, Spiderman, Weekend Australian Magazine, 13-14 March 1999.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 382,
+      "char_count": 2910,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.487854",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 189,
+      "content": "Struan Sutherland (17 Haziran 1936-11 Ocak 2002) Avustralyalı tıbbi araştırmacı. Avustralya vahşi yaşamında ısırılan veya sokulan insanlar için geliştirdiği etkili panzehirler ile bilinir.",
+      "char_count": 188,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 189,
+      "end_char": 393,
+      "content": "== Hayatı == 1936'da Sidney'de doğdu ve Bendigo, Victoria'da büyüdü. Melbourne Üniversitesi'nde tıp okudu ve 1960'ta mezun oldu. 1962-1965 yılları arasında Avustralya Kraliyet Donanması'nda hizmet verdi.",
+      "char_count": 203,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0002",
+      "section": "== CSL'deki yılları ==",
+      "heading_path": "== CSL'deki yılları ==",
+      "start_char": 393,
+      "end_char": 1393,
+      "content": "== CSL'deki yılları == 1966'da Commonwealth Serum Laboratories'e katıldı, kısa bir süre sonra İmmünoloji Araştırmaları'nın başında geçti ve bu görevi 28 yıl boyunca sürdürdü. 1979'un Ocak ayında Christine Sturges adlı genç bir kızın huni ağ örümceğinin ısırması sonucu ölmesi Sutherland'ı bu örümceğin zehirine karşı bir antivenom üretmesi için harekete geçirdi. Daha önce pek çok araştırmacı buna benzer bir antivenom üretmekte başarısız olmuştu ancak Sutherland azimle devam etti. Bundan iki yıl sonra Ocak 1980'de James Culley adlı iki yaşındaki bir çocuk örümcek tarafından ısırıldı ve üç gün sonra da öldü. Bu örümceğin kayda geçmiş on üçüncü kurbanıydı. Aynı yıl daha sonra Sutherland ve ekibi etkili bir antivenom geliştirdiler ve ondan beri huni ağ örümceği ısırıkları sonucu kayda geçmiş herhangi bir ölüm bulunmamaktadır. Antivenom ilk başarısını Sydneyli 49 yaşındaki Gordon Wheatley'e uygulandığında gösterdi. Wheatley hastanedeki iki günlük tedavinin ardından tamamen iyileşmişti. Suther",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== CSL'deki yılları ==",
+      "heading_path": "== CSL'deki yılları ==",
+      "start_char": 1193,
+      "end_char": 1708,
+      "content": "hangi bir ölüm bulunmamaktadır. Antivenom ilk başarısını Sydneyli 49 yaşındaki Gordon Wheatley'e uygulandığında gösterdi. Wheatley hastanedeki iki günlük tedavinin ardından tamamen iyileşmişti. Sutherland ayrıca yılan ısırığı tedavisi konusunda da bir araştırma yürüttü. Antivenom ve hastane personeline ısırık için uygun tedavi belirleyebilecekleri zehir belirleme kitleri geliştirmek için çalıştı. Ayrıca yılan ve huni ağ örümceği ısırıklarında hastaya zarar veren turnike yerine baskılı sargı tedavisini savundu.",
+      "char_count": 515,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0004",
+      "section": "== Son yılları ==",
+      "heading_path": "== Son yılları ==",
+      "start_char": 1709,
+      "end_char": 2432,
+      "content": "== Son yılları == 1994'te CSL özelleştirildi ve antivenom araştırma programı kapatıldı. Sutherland organizasyondan ayrılarak Melbourne Üniversitesi'ne katıldı. Burada Avustralya Zehir Araştırma Birimi'ni kurdu. 1999'da Parkinson hastalığına benzer bir durum olan striatonigral dejenerasyon yüzünden emekli olmak zorunda kaldı. Emekli olduğu dönemde üç kitabın ortak yazarı oldu. Bunlardan \"Venomous Creatures of Australia\" yayımcısının (Oxford University Press) en çok satan Avustralya kitabı oldu. Sutherland'in otobiyografisi \"A Venomous Life\" (Zehirli Bir Yaşam) 1999'da Highland House Publishing tarafından Melbourne'de yayımlandı. O ayrıca hobilerinden biri hakkında \"Hydroponics For Everyone\" kitabının da yazarıdır.",
+      "char_count": 722,
+      "token_estimate": 180
+    },
+    {
+      "id": "c0005",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 2432,
+      "end_char": 2480,
+      "content": "== Kişisel hayatı == Sutherland üç kez evlendi.",
+      "char_count": 47,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2480,
+      "end_char": 2703,
+      "content": "== Dış bağlantılar == Medical Journal of Australia obituary25 Şubat 2010 tarihinde Wayback Machine sitesinde arşivlendi. BMG obituary26 Haziran 2003 tarihinde Wayback Machine sitesinde arşivlendi. Entry at PM&C Awards site",
+      "char_count": 222,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0007",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2703,
+      "end_char": 2910,
+      "content": "== Kaynakça == Struan K Sutherland, A Venomous Life: the Autobiography of Professor Struan Sutherland (Melbourne: Hyland House, 1998). Mark Whitaker, Spiderman, Weekend Australian Magazine, 13-14 March 1999.",
+      "char_count": 207,
+      "token_estimate": 51
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sutherland ve ekibi huni ağ örümceği ısırıklarına karşı etkili antivenomu ne zaman geliştirdi?",
+        "answer": "1980 yılında.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Struan Sutherland'ın tıp eğitimi ve Commonwealth Serum Laboratories'teki uzun süreli görevi, onu Avustralya vahşi yaşamından kaynaklanan ısırık ve sokmalara karşı etkili panzehirler geliştiren tanınmış bir tıbbi araştırmacı haline getirmesinde nasıl bir rol oynamıştır?",
+        "answer": "Struan Sutherland, Melbourne Üniversitesi'nde tıp eğitimi aldıktan sonra 1966'da Commonwealth Serum Laboratories'e katıldı ve 28 yıl boyunca İmmünoloji Araştırmaları'nın başında bulundu. Bu uzun ve özel görevi sırasında, özellikle huni ağ örümceğinin neden olduğu ölümlerden motive olarak, daha önce birçok araştırmacının başarısız olduğu etkili antivenomlar geliştirerek Avustralya vahşi yaşamındaki zehirli ısırıklara karşı çığır açan çözümler sunmasıyla tanınan bir tıbbi araştırmacı haline geldi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

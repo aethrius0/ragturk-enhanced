@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "armcortexa53_532ec1cb",
+    "title": "ARM Cortex-A53",
+    "url": "https://tr.wikipedia.org/wiki/ARM_Cortex-A53",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:19.633454",
+    "content": "ARM Cortex-A53, ARM Holding'in Cambridge tasarım merkezi tarafından tasarlanan 64 bitlik bir komut seti olan ARMv8'i uygulayan ilk iki merkezi işlem biriminden biridir. Cortex-A53, bazı talimatları çift yayınlayabilen 2 genişlikte bir kod çözme süperskalar işlemcisidir. 30 Ekim 2012 tarihinde duyuruldu ve ARM tarafından daha güçlü Cortex-A57 mikromimarisine tek başına, daha enerji verimli bir alternatif olarak veya daha güçlü bir mikromimarinin yanında bir big.LITTLE yapılandırmasında kullanılmak üzere pazarlanıyor. Diğer ARM fikrî mülkiyet ve işlemci tasarımları gibi lisans sahipleri için bir IP çekirdeği olarak mevcuttur. == Genel bakış == 2 yollu süperskalar, sıralı yürütme işlem hattına sahip 8 aşamalı ardışık düzen işlemcisi Çekirdek başına DSP ve NEON SIMD uzantıları zorunludur Yerleşik VFPv4 Kayan Nokta Birimi (çekirdek başına) Donanım sanallaştırma desteği TrustZone güvenlik uzantıları 64 bayt önbellek satırları 10 girişli L1 TLB ve 512 girişli L2 TLB 4 KiB koşullu dallanma öngörüsü, 256 girişli dolaylı şube tahmincisi == Kullanım == Cortex-A53, 2014'ten günümüze mobil SoC'ler için en yaygın kullanılan mimaridir ve onu mobil cihazlar için en uzun süredir çalışan ARM işlemcilerden biri yapar. Şu anda çoğu giriş seviyesi ve daha düşük orta sınıf SoC'lerde yer alırken, üst düzey SoC'ler daha yeni ARM Cortex-A55'i kullanıyordu. Hâlâ Cortex-A53'ü kullanan en yeni SoC'ler, her ikisi de bütçeli akıllı telefonlar için tasarlanmış giriş seviyesi SoC'ler olan MediaTek Helio G36'dır. ARM Cortex-A53 işlemcisi, 2015 yılından beri LeMaker Hikey'de, Şubat 2016 tarihinden beri Raspberry Pi 3'te ve Ekim 2021 tarihinden beri Raspberry Pi Zero 2 W'de kullanılıyor. Cortex-A53 ayrıca Qualcomm, Samsung ve MediaTek SoC'larda da kullanılır. Cortex-A53'ün yarı özel türevleri Qualcomm'un Kryo 250 ve Kryo 260 CPU'larında kullanıldı. İşlemci, ODROİD-C2'de ve Roku akışlı medya oynatıcılarda (2016 yılının üst düzey modellerinde ve 2017 ile 2019 arasında piyasaya sürülen tüm modellerde) kullanılır. Bir diğer önemli Cortex-A53 uygulaması ise Pine A64/A64+ tek kartlı bilgisayardır. Bu çekirdekler, 24 çekirdekli bir SoC'de, Socionext SynQuacer SC2A11'de kullanılmaktadır. Bu işlemci, Fire HD 8 ve Fire HD 10 (ayrıca ikincisi Cortex-A72 çekirdeklerini de içermektedir) ve Nintendo Switch de dahil olmak üzere Amazon Fire tabletlerinde kullanılmaktadır. Echo Show 5, Echo Show 8 ve Echo Show 5 (2. Nesil) gibi bazı Amazon Echo Show modellerinde de kullanılmaktadır. Bu işlemci, Fortinet'in Fortigate 81F giriş seviyesi güvenlik duvarlarında kullanılmaktadır. == Ayrıca bakınız == ARMv8-A çekirdeklerinin karşılaştırılması == Kaynakça == == Dış bağlantılar == Resmî site",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 374,
+      "char_count": 2679,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.584003",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 632,
+      "content": "ARM Cortex-A53, ARM Holding'in Cambridge tasarım merkezi tarafından tasarlanan 64 bitlik bir komut seti olan ARMv8'i uygulayan ilk iki merkezi işlem biriminden biridir. Cortex-A53, bazı talimatları çift yayınlayabilen 2 genişlikte bir kod çözme süperskalar işlemcisidir. 30 Ekim 2012 tarihinde duyuruldu ve ARM tarafından daha güçlü Cortex-A57 mikromimarisine tek başına, daha enerji verimli bir alternatif olarak veya daha güçlü bir mikromimarinin yanında bir big.LITTLE yapılandırmasında kullanılmak üzere pazarlanıyor. Diğer ARM fikrî mülkiyet ve işlemci tasarımları gibi lisans sahipleri için bir IP çekirdeği olarak mevcuttur.",
+      "char_count": 631,
+      "token_estimate": 157
+    },
+    {
+      "id": "c0001",
+      "section": "== Genel bakış ==",
+      "heading_path": "== Genel bakış ==",
+      "start_char": 632,
+      "end_char": 1043,
+      "content": "== Genel bakış == 2 yollu süperskalar, sıralı yürütme işlem hattına sahip 8 aşamalı ardışık düzen işlemcisi Çekirdek başına DSP ve NEON SIMD uzantıları zorunludur Yerleşik VFPv4 Kayan Nokta Birimi (çekirdek başına) Donanım sanallaştırma desteği TrustZone güvenlik uzantıları 64 bayt önbellek satırları 10 girişli L1 TLB ve 512 girişli L2 TLB 4 KiB koşullu dallanma öngörüsü, 256 girişli dolaylı şube tahmincisi",
+      "char_count": 410,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0002",
+      "section": "== Kullanım ==",
+      "heading_path": "== Kullanım ==",
+      "start_char": 1043,
+      "end_char": 2043,
+      "content": "== Kullanım == Cortex-A53, 2014'ten günümüze mobil SoC'ler için en yaygın kullanılan mimaridir ve onu mobil cihazlar için en uzun süredir çalışan ARM işlemcilerden biri yapar. Şu anda çoğu giriş seviyesi ve daha düşük orta sınıf SoC'lerde yer alırken, üst düzey SoC'ler daha yeni ARM Cortex-A55'i kullanıyordu. Hâlâ Cortex-A53'ü kullanan en yeni SoC'ler, her ikisi de bütçeli akıllı telefonlar için tasarlanmış giriş seviyesi SoC'ler olan MediaTek Helio G36'dır. ARM Cortex-A53 işlemcisi, 2015 yılından beri LeMaker Hikey'de, Şubat 2016 tarihinden beri Raspberry Pi 3'te ve Ekim 2021 tarihinden beri Raspberry Pi Zero 2 W'de kullanılıyor. Cortex-A53 ayrıca Qualcomm, Samsung ve MediaTek SoC'larda da kullanılır. Cortex-A53'ün yarı özel türevleri Qualcomm'un Kryo 250 ve Kryo 260 CPU'larında kullanıldı. İşlemci, ODROİD-C2'de ve Roku akışlı medya oynatıcılarda (2016 yılının üst düzey modellerinde ve 2017 ile 2019 arasında piyasaya sürülen tüm modellerde) kullanılır. Bir diğer önemli Cortex-A53 uygu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kullanım ==",
+      "heading_path": "== Kullanım ==",
+      "start_char": 1843,
+      "end_char": 2568,
+      "content": "ı. İşlemci, ODROİD-C2'de ve Roku akışlı medya oynatıcılarda (2016 yılının üst düzey modellerinde ve 2017 ile 2019 arasında piyasaya sürülen tüm modellerde) kullanılır. Bir diğer önemli Cortex-A53 uygulaması ise Pine A64/A64+ tek kartlı bilgisayardır. Bu çekirdekler, 24 çekirdekli bir SoC'de, Socionext SynQuacer SC2A11'de kullanılmaktadır. Bu işlemci, Fire HD 8 ve Fire HD 10 (ayrıca ikincisi Cortex-A72 çekirdeklerini de içermektedir) ve Nintendo Switch de dahil olmak üzere Amazon Fire tabletlerinde kullanılmaktadır. Echo Show 5, Echo Show 8 ve Echo Show 5 (2. Nesil) gibi bazı Amazon Echo Show modellerinde de kullanılmaktadır. Bu işlemci, Fortinet'in Fortigate 81F giriş seviyesi güvenlik duvarlarında kullanılmaktadır.",
+      "char_count": 725,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2569,
+      "end_char": 2632,
+      "content": "== Ayrıca bakınız == ARMv8-A çekirdeklerinin karşılaştırılması",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2647,
+      "end_char": 2679,
+      "content": "== Dış bağlantılar == Resmî site",
+      "char_count": 32,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "ARM Cortex-A53 işlemcisi hangi tarihten itibaren Raspberry Pi 3'te kullanılmaktadır?",
+        "answer": "Şubat 2016",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "ARM Cortex-A53'ün teknik özellikleri ve ilk pazarlama konumlandırması, mobil cihazlar ve diğer platformlarda neden bu kadar yaygın ve uzun süreli bir kullanıma yol açmıştır?",
+        "answer": "30 Ekim 2012'de duyurulan ARM Cortex-A53, ARM tarafından tek başına enerji verimli bir alternatif olarak veya big.LITTLE yapılandırmasında kullanılmak üzere pazarlanmıştır. 2 yollu süperskalar, 8 aşamalı sıralı yürütme işlem hattına sahip olması ve DSP, NEON SIMD uzantıları ile VFPv4 Kayan Nokta Birimi gibi zorunlu teknik özellikleri, bu enerji verimliliği ve performans dengesine katkıda bulunmuştur. Bu özellikler, işlemcinin 2014'ten itibaren mobil SoC'ler için en yaygın kullanılan mimari olmasını sağlamış ve Raspberry Pi 3, Roku akışlı medya oynatıcılar ve MediaTek Helio G36 gibi çeşitli giriş seviyesi ve orta sınıf cihazlarda kullanılmasında etkili olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "lawenforcementassist_12d80d06",
+    "title": "Law Enforcement Assistance Administration",
+    "url": "https://tr.wikipedia.org/wiki/Law_Enforcement_Assistance_Administration",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:30.377853",
+    "content": "Law Enforcement Assistance Administration (LEAA), Amerika Birleşik Devletleri Adalet Bakanlığına bağlı bir devlet kurumudur. Eyalet çapındaki ve yerel kolluk kuvvetlerine federal çapta kaynak sağlanması işini yönetir ve eğitim programları, araştırma, eyalet planlama ajansları ile yerel suçları önleme girişimlerini mali açıdan destekler. LEAA Omnibus Crime Control and Safe Streets Act of 1968 (1968 Omnibus Suç Kontrolü ve Güvenli Sokaklar Kanunu) ile kuruldu ve 1982'de lağvedildi. Selefi olan kurum Office of Law Enforcement Assistance (1965–1968) idi. Halefleri ise, Office of Justice Assistance, Research, and Statistics (1982–1984) ve Office of Justice Programs (1984–) oldu. LEAA, sonradan 27 Aralık 1979'da Justice System Improvement Act of 1979'ın (1979 Adalet Sistemi Geliştirme Yasası) yürürlüğe girmesiyle yetkileri National Institute of Justice'a (Ulusal Adalet Enstitüsü) geçen National Institute of Law Enforcement and Criminal Justice'ı da kapsamaktaydı. Omnibus Crime Control and Safe Streets Act of 1968'i düzelten yasa, aynı zamanda Bureau of Justice Statistics'in de (Adalet İstatistikleri Bürosu) kurulmasına yol açtı. LEAA ayrıca National Advisory Commission on Criminal Justice Standards and Goals'ı da içermekteydi. Mart 1979'da LEAA federal fondan yararlanan tüm polis departmanlarının çoğu kadının karşılayamadığı asgari boy şartının kaldırılmasını emretti. == Kaynakça == == Konuyla ilgili yayınlar == \"LEAA/OJP retrospective\" (PDF). Office of Justice Programs, U.S. Dept. of Justice. 11 Temmuz 1996. 14 Şubat 2016 tarihinde kaynağından arşivlendi (PDF). Erişim tarihi: 15 Mart 2013. == Ayrıca bakınız == Polis",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 221,
+      "char_count": 1638,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.331678",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Law Enforcement Assistance Administration (LEAA), Amerika Birleşik Devletleri Adalet Bakanlığına bağlı bir devlet kurumudur. Eyalet çapındaki ve yerel kolluk kuvvetlerine federal çapta kaynak sağlanması işini yönetir ve eğitim programları, araştırma, eyalet planlama ajansları ile yerel suçları önleme girişimlerini mali açıdan destekler. LEAA Omnibus Crime Control and Safe Streets Act of 1968 (1968 Omnibus Suç Kontrolü ve Güvenli Sokaklar Kanunu) ile kuruldu ve 1982'de lağvedildi. Selefi olan kurum Office of Law Enforcement Assistance (1965–1968) idi. Halefleri ise, Office of Justice Assistance, Research, and Statistics (1982–1984) ve Office of Justice Programs (1984–) oldu. LEAA, sonradan 27 Aralık 1979'da Justice System Improvement Act of 1979'ın (1979 Adalet Sistemi Geliştirme Yasası) yürürlüğe girmesiyle yetkileri National Institute of Justice'a (Ulusal Adalet Enstitüsü) geçen National Institute of Law Enforcement and Criminal Justice'ı da kapsamaktaydı. Omnibus Crime Control and Sa",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1384,
+      "content": "rürlüğe girmesiyle yetkileri National Institute of Justice'a (Ulusal Adalet Enstitüsü) geçen National Institute of Law Enforcement and Criminal Justice'ı da kapsamaktaydı. Omnibus Crime Control and Safe Streets Act of 1968'i düzelten yasa, aynı zamanda Bureau of Justice Statistics'in de (Adalet İstatistikleri Bürosu) kurulmasına yol açtı. LEAA ayrıca National Advisory Commission on Criminal Justice Standards and Goals'ı da içermekteydi. Mart 1979'da LEAA federal fondan yararlanan tüm polis departmanlarının çoğu kadının karşılayamadığı asgari boy şartının kaldırılmasını emretti.",
+      "char_count": 584,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0002",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 1400,
+      "end_char": 1612,
+      "content": "== Konuyla ilgili yayınlar == \"LEAA/OJP retrospective\" (PDF). Office of Justice Programs, U.S. Dept. of Justice. 11 Temmuz 1996. 14 Şubat 2016 tarihinde kaynağından arşivlendi (PDF). Erişim tarihi: 15 Mart 2013.",
+      "char_count": 211,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1612,
+      "end_char": 1638,
+      "content": "== Ayrıca bakınız == Polis",
+      "char_count": 26,
+      "token_estimate": 6
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Law Enforcement Assistance Administration (LEAA) ne zaman lağvedildi?",
+        "answer": "1982'de.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Law Enforcement Assistance Administration (LEAA) hangi kanunla kurulmuştur ve bu kanunun düzeltilmesiyle Adalet Bakanlığına bağlı başka hangi önemli kurumun kurulması sağlanmıştır?",
+        "answer": "LEAA, 1968 Omnibus Suç Kontrolü ve Güvenli Sokaklar Kanunu ile kurulmuştur. Aynı kanunun düzeltilmesiyle ise Adalet İstatistikleri Bürosu (Bureau of Justice Statistics) kurulmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

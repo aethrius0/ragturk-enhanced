@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "josefineswoboda_7efc9313",
+    "title": "Josefine Swoboda",
+    "url": "https://tr.wikipedia.org/wiki/Josefine_Swoboda",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:08.959009",
+    "content": "Josefine Swoboda (29 Ocak 1861 Viyana - 27 Ekim 1924 Viyana) Avusturyalı bir portre ressamıydı. Dönemimin en aktif Viyana portre ressamlarından biridir. == Yaşamı == Josefine Swoboda Viyanalı bir sanatçı ailesinden gelmektedir. Portre ressamı Eduard Swoboda'nın (1814-1902) ve ikinci eşi Josefine'nin (1839-1906) kızı ve ressam Rudolf Swoboda'nın (1859 -1914) kız kardeşidir. Amcaları manzara ve hayvan ressamı Rudolf Swoboda (1819-1859) ve oryantalist Leopold Carl Müller (1834-1892) idir. Babasıyla ilk resim derslerinden sonra 1878'den 1886'ya kadar Viyana Uygulamalı Sanatlar Üniversitesi'nde Ferdinand Laufberger ve Julius Victor Berger altında Österreichisches Museum für Kunst und Industrie'de (Avusturya İmparatorluk Kraliyet Sanat ve Sanayi Müzesi) çalışmalara katıldı. Constantin von Wurzbach, 1880'de Avusturya İmparatorluğu Biyografik Ansiklopedisi'nde onun hakkında şunları yazmıştır: \"Mükemmel çalışması hızlı satış buluyor ve 19 yaşındaki en güzel umutlara hak kazanan tek sanatçı.\" Josefine Swoboda'nın eserleri çoğunlukla suluboya, çoğunlukla portrelerdir. 1886'dan itibaren düzenli olarak Viyana Künstlerhaus'ta temsil edildi ve Hamburg (1887), Münih ve Berlin'de (1888) sergilere katıldı. Resimleri 1893 Chicago Dünya Fuarı'nda da sergilendi. Muhtemelen erkek kardeşi ve İngiliz kraliyet evinde ressam olarak çalışan Heinrich von Angeli'nin tavsiyesi üzerine, 1890'da Kraliçe Victoria'nın saray ressamı unvanını aldı. Kesintilerle ve genellikle sadece yaz aylarında 1899'a kadar İngiltere'de bulundu ve burada kraliyet ailesini ve saraydaki kişileri sayısız suluboyada tasvir etti. Resimleri bugün hala Windsor Kalesi'ndeki Kraliyet Koleksiyonu'nda sergilenmektedir. Josefine Swoboda ayrıca, Franz Joseph I'den ve çevresindeki diğer soylu evlerden sayısız sipariş alarak Viyana'nın en aktif portrecilerinden biri oldu. 1902'den itibaren \"Salon Pisko\" da \"Gruppe der 8 Künstlerinnen\" tarafından \"Acht Künstlerinnen und ihre Gäste\" (Sekiz kadın sanatçı ve misafirleri) sergilerinde temsil edildi. Çalışmalarından bazıları Viyana Müzesi'nde ve Albertina Müzesi'nin Viyana'daki grafik koleksiyonunda bulunmaktadır. 1886'dan itibaren \"Avusturya (güzel sanatlar) Sanatçılar Topluluğu\" olan \"Künstlerhaus\"'a üye oldu. == Okumalar == Zemen, Herbert (2004): Die Porträtmalerin Josefine Swoboda. 1861–1924. Leben und Werk. Viyana ((Almanca)) Ulrich Thieme, Felix Becker at all (1938). Allgemeines Lexikon der Bildenden Künstler von der Antike bis zur Gegenwart (Almanca). Vol. 32. E. A. Seemann, Leipzig. s. 355. Şablon:ÖBL Constantin von Wurzbach (1880). Biographisches Lexikon des Kaiserthums Oesterreich [Biographical dictionary of the Austrian Empire] (Almanca). Theil. 41. Kaiserlich-königliche Hof- und Staatsdruckerei, Wien. s. 84. (\"S. 84\" e doğrudan bağlantı 1 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi.) == Kaynakça == == Dış bağlantılar == Kraliyet Koleksiyonundaki bazı resimler Josefine Swoboda'nın Bazı Eserleri - Artnet 14 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 381,
+      "char_count": 3020,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.302239",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 153,
+      "content": "Josefine Swoboda (29 Ocak 1861 Viyana - 27 Ekim 1924 Viyana) Avusturyalı bir portre ressamıydı. Dönemimin en aktif Viyana portre ressamlarından biridir.",
+      "char_count": 152,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 153,
+      "end_char": 1153,
+      "content": "== Yaşamı == Josefine Swoboda Viyanalı bir sanatçı ailesinden gelmektedir. Portre ressamı Eduard Swoboda'nın (1814-1902) ve ikinci eşi Josefine'nin (1839-1906) kızı ve ressam Rudolf Swoboda'nın (1859 -1914) kız kardeşidir. Amcaları manzara ve hayvan ressamı Rudolf Swoboda (1819-1859) ve oryantalist Leopold Carl Müller (1834-1892) idir. Babasıyla ilk resim derslerinden sonra 1878'den 1886'ya kadar Viyana Uygulamalı Sanatlar Üniversitesi'nde Ferdinand Laufberger ve Julius Victor Berger altında Österreichisches Museum für Kunst und Industrie'de (Avusturya İmparatorluk Kraliyet Sanat ve Sanayi Müzesi) çalışmalara katıldı. Constantin von Wurzbach, 1880'de Avusturya İmparatorluğu Biyografik Ansiklopedisi'nde onun hakkında şunları yazmıştır: \"Mükemmel çalışması hızlı satış buluyor ve 19 yaşındaki en güzel umutlara hak kazanan tek sanatçı.\" Josefine Swoboda'nın eserleri çoğunlukla suluboya, çoğunlukla portrelerdir. 1886'dan itibaren düzenli olarak Viyana Künstlerhaus'ta temsil edildi ve Hambur",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 953,
+      "end_char": 1953,
+      "content": " en güzel umutlara hak kazanan tek sanatçı.\" Josefine Swoboda'nın eserleri çoğunlukla suluboya, çoğunlukla portrelerdir. 1886'dan itibaren düzenli olarak Viyana Künstlerhaus'ta temsil edildi ve Hamburg (1887), Münih ve Berlin'de (1888) sergilere katıldı. Resimleri 1893 Chicago Dünya Fuarı'nda da sergilendi. Muhtemelen erkek kardeşi ve İngiliz kraliyet evinde ressam olarak çalışan Heinrich von Angeli'nin tavsiyesi üzerine, 1890'da Kraliçe Victoria'nın saray ressamı unvanını aldı. Kesintilerle ve genellikle sadece yaz aylarında 1899'a kadar İngiltere'de bulundu ve burada kraliyet ailesini ve saraydaki kişileri sayısız suluboyada tasvir etti. Resimleri bugün hala Windsor Kalesi'ndeki Kraliyet Koleksiyonu'nda sergilenmektedir. Josefine Swoboda ayrıca, Franz Joseph I'den ve çevresindeki diğer soylu evlerden sayısız sipariş alarak Viyana'nın en aktif portrecilerinden biri oldu. 1902'den itibaren \"Salon Pisko\" da \"Gruppe der 8 Künstlerinnen\" tarafından \"Acht Künstlerinnen und ihre Gäste\" (Sek",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1753,
+      "end_char": 2229,
+      "content": "oylu evlerden sayısız sipariş alarak Viyana'nın en aktif portrecilerinden biri oldu. 1902'den itibaren \"Salon Pisko\" da \"Gruppe der 8 Künstlerinnen\" tarafından \"Acht Künstlerinnen und ihre Gäste\" (Sekiz kadın sanatçı ve misafirleri) sergilerinde temsil edildi. Çalışmalarından bazıları Viyana Müzesi'nde ve Albertina Müzesi'nin Viyana'daki grafik koleksiyonunda bulunmaktadır. 1886'dan itibaren \"Avusturya (güzel sanatlar) Sanatçılar Topluluğu\" olan \"Künstlerhaus\"'a üye oldu.",
+      "char_count": 476,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0004",
+      "section": "== Okumalar ==",
+      "heading_path": "== Okumalar ==",
+      "start_char": 2230,
+      "end_char": 2838,
+      "content": "== Okumalar == Zemen, Herbert (2004): Die Porträtmalerin Josefine Swoboda. 1861–1924. Leben und Werk. Viyana ((Almanca)) Ulrich Thieme, Felix Becker at all (1938). Allgemeines Lexikon der Bildenden Künstler von der Antike bis zur Gegenwart (Almanca). Vol. 32. E. A. Seemann, Leipzig. s. 355. Şablon:ÖBL Constantin von Wurzbach (1880). Biographisches Lexikon des Kaiserthums Oesterreich [Biographical dictionary of the Austrian Empire] (Almanca). Theil. 41. Kaiserlich-königliche Hof- und Staatsdruckerei, Wien. s. 84. (\"S. 84\" e doğrudan bağlantı 1 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi.)",
+      "char_count": 607,
+      "token_estimate": 151
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2853,
+      "end_char": 3020,
+      "content": "== Dış bağlantılar == Kraliyet Koleksiyonundaki bazı resimler Josefine Swoboda'nın Bazı Eserleri - Artnet 14 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 167,
+      "token_estimate": 41
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Josefine Swoboda, Viyana Uygulamalı Sanatlar Üniversitesi'nde hangi yıllar arasında eğitim almıştır?",
+        "answer": "1878'den 1886'ya kadar",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Josefine Swoboda'nın kariyeri hem Viyana'da aktif bir portre ressamı olarak hem de uluslararası alanda tanınan bir sanatçı olarak nasıl iki yönlü bir gelişim gösterdi?",
+        "answer": "Josefine Swoboda, Franz Joseph I'den ve çevresindeki diğer soylu ailelerden sayısız sipariş alarak Viyana'nın en aktif portrecilerinden biri oldu. Uluslararası alandaki tanınırlığı ise 1890'da Kraliçe Victoria'nın saray ressamı unvanını alması, İngiliz kraliyet ailesini tasvir etmesi ve eserlerinin bugün hala Windsor Kalesi'ndeki Kraliyet Koleksiyonu'nda sergilenmesiyle kanıtlanmıştır. Ayrıca, Hamburg, Münih, Berlin gibi şehirlerde ve 1893 Chicago Dünya Fuarı'nda sergilere katılımı da uluslararası çapta tanınmasına katkıda bulunmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "alleinzudirherrjesuc_6acae03d",
+    "title": "Allein zu dir, Herr Jesu Christ, BWV 33",
+    "url": "https://tr.wikipedia.org/wiki/Allein_zu_dir%2C_Herr_Jesu_Christ%2C_BWV_33",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:46.685411",
+    "content": "Allein zu dir, Herr Jesu Christ, Johann Sebastian Bach'ın BWV 33 numaralı kantatı. 1724 yılında Trinity'den sonraki on üçüncü pazar günü için Leipzig'de bestelenmiş, ilk temsili 3 Eylül günü yapılmıştır. == Yapısı == Eser obualar, kemanlar, viyola, basso continuo, üç solist (alto, tenor, bass) ve koro için yazılmıştır. == Bölümleri == Kantat 6 bölümden oluşur; (coro): Allein zu dir, herr jesu christ recitativo: Mein gott und richter aria: Wie furchtsam wankten meine schritte recitativo: Mein gott, verwirf mich nicht aria (duetto): Gott, der du die liebe heißt chorale: Ehr sei gott in dem höchsten thron == Metinleri == (coro) allein zu dir, herr jesu christ, mein hoffnung steht auf erden; ich weiß, dass du mein tröster bist, kein trost mag mir sonst werden. von anbeginn ist nichts erkorn, auf erden war kein mensch geborn, der mir aus nöten helfen kann. ich ruf dich an, zu dem ich mein vertrauen hab. recitativo (bass) mein gott und richter, willt du mich aus dem gesetze fragen, so kann ich nicht, weil mein gewissen widerspricht, auf tausend eines sagen. an seelenkräften arm und an der liebe bloß, und meine sünd ist schwer und übergroß; doch weil sie mich von herzen reuen, wirst du, mein gott und hort, durch ein vergebungswort mich wiederum erfreuen. aria (altus) wie furchtsam wankten meine schritte, doch jesus hört auf meine bitte und zeigt mich seinem vater an. mich drückten sündenlasten nieder, doch hilft mir jesu trostwort wieder, dass er für mich genung getan. recitativo (tenor) mein gott, verwirf mich nicht, wiewohl ich dein gebot noch täglich übertrete, von deinem angesicht! das kleinste ist mir schon zu halten viel zu schwer; doch, wenn ich um nichts mehr als jesu beistand bete, so wird mich kein gewissensstreit der zuversicht berauben; gib mir nur aus barmherzigkeit den wahren christenglauben! so stellt er sich mit guten früchten ein und wird durch liebe tätig sein. duetto (tenor & bass) gott, der du die liebe heißt, ach, entzünde meinen geist, laß zu dir vor allen dingen meine liebe kräftig dringen! gib, dass ich aus reinem triebe als mich selbst den nächsten liebe; stören feinde meine ruh, sende du mir hülfe zu! chorale ehr sei gott in dem höchsten thron, dem vater aller güte, und jesu christ, sein'm liebsten sohn, der uns allzeit behüte, und gott dem heiligen geiste, der uns sein hülf allzeit leiste, damit wir ihm gefällig sein, hier in dieser zeit und folgends in der ewigkeit.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 403,
+      "char_count": 2429,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.352279",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 204,
+      "content": "Allein zu dir, Herr Jesu Christ, Johann Sebastian Bach'ın BWV 33 numaralı kantatı. 1724 yılında Trinity'den sonraki on üçüncü pazar günü için Leipzig'de bestelenmiş, ilk temsili 3 Eylül günü yapılmıştır.",
+      "char_count": 203,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0001",
+      "section": "== Yapısı ==",
+      "heading_path": "== Yapısı ==",
+      "start_char": 204,
+      "end_char": 321,
+      "content": "== Yapısı == Eser obualar, kemanlar, viyola, basso continuo, üç solist (alto, tenor, bass) ve koro için yazılmıştır.",
+      "char_count": 116,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0002",
+      "section": "== Bölümleri ==",
+      "heading_path": "== Bölümleri ==",
+      "start_char": 321,
+      "end_char": 610,
+      "content": "== Bölümleri == Kantat 6 bölümden oluşur; (coro): Allein zu dir, herr jesu christ recitativo: Mein gott und richter aria: Wie furchtsam wankten meine schritte recitativo: Mein gott, verwirf mich nicht aria (duetto): Gott, der du die liebe heißt chorale: Ehr sei gott in dem höchsten thron",
+      "char_count": 288,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0003",
+      "section": "== Metinleri ==",
+      "heading_path": "== Metinleri ==",
+      "start_char": 610,
+      "end_char": 1610,
+      "content": "== Metinleri == (coro) allein zu dir, herr jesu christ, mein hoffnung steht auf erden; ich weiß, dass du mein tröster bist, kein trost mag mir sonst werden. von anbeginn ist nichts erkorn, auf erden war kein mensch geborn, der mir aus nöten helfen kann. ich ruf dich an, zu dem ich mein vertrauen hab. recitativo (bass) mein gott und richter, willt du mich aus dem gesetze fragen, so kann ich nicht, weil mein gewissen widerspricht, auf tausend eines sagen. an seelenkräften arm und an der liebe bloß, und meine sünd ist schwer und übergroß; doch weil sie mich von herzen reuen, wirst du, mein gott und hort, durch ein vergebungswort mich wiederum erfreuen. aria (altus) wie furchtsam wankten meine schritte, doch jesus hört auf meine bitte und zeigt mich seinem vater an. mich drückten sündenlasten nieder, doch hilft mir jesu trostwort wieder, dass er für mich genung getan. recitativo (tenor) mein gott, verwirf mich nicht, wiewohl ich dein gebot noch täglich übertrete, von deinem angesicht! das ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Metinleri ==",
+      "heading_path": "== Metinleri ==",
+      "start_char": 1410,
+      "end_char": 2410,
+      "content": "nieder, doch hilft mir jesu trostwort wieder, dass er für mich genung getan. recitativo (tenor) mein gott, verwirf mich nicht, wiewohl ich dein gebot noch täglich übertrete, von deinem angesicht! das kleinste ist mir schon zu halten viel zu schwer; doch, wenn ich um nichts mehr als jesu beistand bete, so wird mich kein gewissensstreit der zuversicht berauben; gib mir nur aus barmherzigkeit den wahren christenglauben! so stellt er sich mit guten früchten ein und wird durch liebe tätig sein. duetto (tenor & bass) gott, der du die liebe heißt, ach, entzünde meinen geist, laß zu dir vor allen dingen meine liebe kräftig dringen! gib, dass ich aus reinem triebe als mich selbst den nächsten liebe; stören feinde meine ruh, sende du mir hülfe zu! chorale ehr sei gott in dem höchsten thron, dem vater aller güte, und jesu christ, sein'm liebsten sohn, der uns allzeit behüte, und gott dem heiligen geiste, der uns sein hülf allzeit leiste, damit wir ihm gefällig sein, hier in dieser zeit und folgen",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Metinleri ==",
+      "heading_path": "== Metinleri ==",
+      "start_char": 2210,
+      "end_char": 2429,
+      "content": "r aller güte, und jesu christ, sein'm liebsten sohn, der uns allzeit behüte, und gott dem heiligen geiste, der uns sein hülf allzeit leiste, damit wir ihm gefällig sein, hier in dieser zeit und folgends in der ewigkeit.",
+      "char_count": 219,
+      "token_estimate": 54
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Konuşmacının umudu kimdir?",
+        "answer": "Herr Jesu Christ (Rab İsa Mesih).",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Johann Sebastian Bach'ın BWV 33 numaralı \"Allein zu dir, Herr Jesu Christ\" kantatının ne zaman ve nerede bestelendiğini, ayrıca enstrümantal ve vokal yapısını belirtiniz.",
+        "answer": "\"Allein zu dir, Herr Jesu Christ\", Johann Sebastian Bach'ın BWV 33 numaralı kantatıdır. 1724 yılında Trinity'den sonraki on üçüncü pazar günü için Leipzig'de bestelenmiş, ilk temsili 3 Eylül'de yapılmıştır. Eser obualar, kemanlar, viyola, basso continuo, üç solist (alto, tenor, bass) ve koro için yazılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

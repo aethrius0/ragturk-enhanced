@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "vincentscully_d416cdce",
+    "title": "Vincent Scully",
+    "url": "https://tr.wikipedia.org/wiki/Vincent_Scully",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:37.514933",
+    "content": "Vincent Joseph Scully Jr. (21 Ağustos 1920 – 30 Kasım 2017),İngiliz asıllı Amerikalı sanat tarihçisi ve profesördür. Yale Üniversitesi Mimarlık Bölümü'nde tarih uzmanı olarak çalışmış ayrıca sanat tarihinde mimariyi konu alan kitaplar yazmıştır. Ara sıra ziyaretçileride cezbeden Yale'deki dersleri tüm bölümleri doldurur ve alkışlarla başladı. == Yaşamı == Scully, Connecticut'taki New Haven'da doğup büyüdü, Hillhouse Lisesine gitti. 16 yaşında Yale Üniversitesi'ne girdi. 1940 yılında Yale'de lisans eğitimini, 1947'de M.A. ve 1949'da doktora derecesiyle tamamladı. Yale'de 1947'den başlayarak dersler verdi, girdiği dersler hep kalabalık doluydu. Ayrıca Miami Üniversitesinde Sanat Profesörlüğü yaptı. Scully, 1991 yılında Yale'den resmi olarak emekli olmuş ancak orada ve Miami Üniversitesi'nde dersler vermeye devam etmiştir. Ancak, 2009 yılında, 89 yaşındayken artık öğretim vermek için yeterli olmadığı kendisine söylenerek köşesine çekilmiştir. Scully'nin mesleki çalışmalarında tezlerini savunduğu iki mimar Louis I. Kahn ve Robert Venturi önemli birer 20. Yüzyıl mimarı olarak öne çıkmaktadır. Scully, 1963'te New York'un Pennsylvania tren istasyonunun orijinal halinin yıkılmasına şiddetle karşı çıkmış e şu sözleri; \"Bir tanrı gibi bu şehire girdi, bir tanesi bir fare gibi ilerledi.\" ifade etmiştir. == Ödülleri ve ölümü == Scully ve yazdığı eserin ortak yazar Antoinette Downing 1952'de Alice Davis Hitchcock Ödülünü \"Newport Mimari Mirası\" adlı kitapla 1952'de kazanmıştır. 1995'te Humanities for the Humanities, Scully'yi ABD federal hükûmetinin en yüksek beşeri saygınlığı olan Jefferson Lecture Ödülü'nü sunması için seçmiştir. Kurucusu olduğu Sanat Mimarları Derneği, mimarlık felsefesinin merkezinde yer alan bir kavram olan \"Topluluğun Mimarisi\" konusunda çalışmalar yapmaktaydı. 1999'da adına düzenlenen Vincent Scully Ödülü, mimari, tarihi koruma ve kentsel tasarımda örnek uygulama, burs veya eleştiri sergileyen bireylere verilmek için Ulusal Yapı Müzesi tarafından oluşturuldu. Scully, ilk onur üyesi olmuştur. 2003 yılında Urban Land Enstitü'sü Scully'ye J.C. Nichols Visionary Urban Development Ödülü'nü vermiştir. 2004 yılında dönemin Amerika Birleşik Devletleri Başkanı George W. Bush, Scully'yi Amerika Birleşik Devletleri'nin sanatçılar ve sanata hizmet edenler için verilen en büyük onur ödülü olan Ulusal Sanat Madalyası ile ödüllendirmiştir. Madalya ödülü şu şekilde; \"Mimarlık tarihçisi olarak etkili öğretisi de dahil olmak üzere, tasarım ve modern mimarlık tarihine olan kayda değer katkıları için\" ifadesiyle kendiasine takdim edilmiştir. Amerikalı ünlü sanat profesörü ve tarihçisi Vincent Scully 30 Kasım 2017'de 97 yaşında ölmüştür. == Çalışmaları == Architecture: The Natural and the Manmade The Villas of Palladio Frank Lloyd Wright 1960 Modern Architecture - The Architecture of Democracy 1961, 1974 \"The Shingle Style: Architectural Theory and Design from Richardson to the Origins of Wright\" 1955, Library of Congress catalog card number 55-5988 The Shingle Style Today 1974 The Earth, the Temple, and the Gods: Greek Sacred Architecture 1979 American Architecture and Urbanism 1988 Pueblo: Mountain, Village, Dance 1989 Louis I. Kahn 1961 Modern Architecture and Other Essays 2003 == Kaynakça == == Dış bağlantılar == Interview with Vincent Scully, November 2014, by Daniel Sherer and Yehuda Safran. In Potlatch 4 (2016)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 459,
+      "char_count": 3369,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.531363",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 345,
+      "content": "Vincent Joseph Scully Jr. (21 Ağustos 1920 – 30 Kasım 2017),İngiliz asıllı Amerikalı sanat tarihçisi ve profesördür. Yale Üniversitesi Mimarlık Bölümü'nde tarih uzmanı olarak çalışmış ayrıca sanat tarihinde mimariyi konu alan kitaplar yazmıştır. Ara sıra ziyaretçileride cezbeden Yale'deki dersleri tüm bölümleri doldurur ve alkışlarla başladı.",
+      "char_count": 344,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 345,
+      "end_char": 1314,
+      "content": "== Yaşamı == Scully, Connecticut'taki New Haven'da doğup büyüdü, Hillhouse Lisesine gitti. 16 yaşında Yale Üniversitesi'ne girdi. 1940 yılında Yale'de lisans eğitimini, 1947'de M.A. ve 1949'da doktora derecesiyle tamamladı. Yale'de 1947'den başlayarak dersler verdi, girdiği dersler hep kalabalık doluydu. Ayrıca Miami Üniversitesinde Sanat Profesörlüğü yaptı. Scully, 1991 yılında Yale'den resmi olarak emekli olmuş ancak orada ve Miami Üniversitesi'nde dersler vermeye devam etmiştir. Ancak, 2009 yılında, 89 yaşındayken artık öğretim vermek için yeterli olmadığı kendisine söylenerek köşesine çekilmiştir. Scully'nin mesleki çalışmalarında tezlerini savunduğu iki mimar Louis I. Kahn ve Robert Venturi önemli birer 20. Yüzyıl mimarı olarak öne çıkmaktadır. Scully, 1963'te New York'un Pennsylvania tren istasyonunun orijinal halinin yıkılmasına şiddetle karşı çıkmış e şu sözleri; \"Bir tanrı gibi bu şehire girdi, bir tanesi bir fare gibi ilerledi.\" ifade etmiştir.",
+      "char_count": 968,
+      "token_estimate": 242
+    },
+    {
+      "id": "c0002",
+      "section": "== Ödülleri ve ölümü ==",
+      "heading_path": "== Ödülleri ve ölümü ==",
+      "start_char": 1314,
+      "end_char": 2314,
+      "content": "== Ödülleri ve ölümü == Scully ve yazdığı eserin ortak yazar Antoinette Downing 1952'de Alice Davis Hitchcock Ödülünü \"Newport Mimari Mirası\" adlı kitapla 1952'de kazanmıştır. 1995'te Humanities for the Humanities, Scully'yi ABD federal hükûmetinin en yüksek beşeri saygınlığı olan Jefferson Lecture Ödülü'nü sunması için seçmiştir. Kurucusu olduğu Sanat Mimarları Derneği, mimarlık felsefesinin merkezinde yer alan bir kavram olan \"Topluluğun Mimarisi\" konusunda çalışmalar yapmaktaydı. 1999'da adına düzenlenen Vincent Scully Ödülü, mimari, tarihi koruma ve kentsel tasarımda örnek uygulama, burs veya eleştiri sergileyen bireylere verilmek için Ulusal Yapı Müzesi tarafından oluşturuldu. Scully, ilk onur üyesi olmuştur. 2003 yılında Urban Land Enstitü'sü Scully'ye J.C. Nichols Visionary Urban Development Ödülü'nü vermiştir. 2004 yılında dönemin Amerika Birleşik Devletleri Başkanı George W. Bush, Scully'yi Amerika Birleşik Devletleri'nin sanatçılar ve sanata hizmet edenler için verilen en büy",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ve ölümü ==",
+      "heading_path": "== Ödülleri ve ölümü ==",
+      "start_char": 2114,
+      "end_char": 2675,
+      "content": "velopment Ödülü'nü vermiştir. 2004 yılında dönemin Amerika Birleşik Devletleri Başkanı George W. Bush, Scully'yi Amerika Birleşik Devletleri'nin sanatçılar ve sanata hizmet edenler için verilen en büyük onur ödülü olan Ulusal Sanat Madalyası ile ödüllendirmiştir. Madalya ödülü şu şekilde; \"Mimarlık tarihçisi olarak etkili öğretisi de dahil olmak üzere, tasarım ve modern mimarlık tarihine olan kayda değer katkıları için\" ifadesiyle kendiasine takdim edilmiştir. Amerikalı ünlü sanat profesörü ve tarihçisi Vincent Scully 30 Kasım 2017'de 97 yaşında ölmüştür.",
+      "char_count": 561,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0004",
+      "section": "== Çalışmaları ==",
+      "heading_path": "== Çalışmaları ==",
+      "start_char": 2676,
+      "end_char": 3230,
+      "content": "== Çalışmaları == Architecture: The Natural and the Manmade The Villas of Palladio Frank Lloyd Wright 1960 Modern Architecture - The Architecture of Democracy 1961, 1974 \"The Shingle Style: Architectural Theory and Design from Richardson to the Origins of Wright\" 1955, Library of Congress catalog card number 55-5988 The Shingle Style Today 1974 The Earth, the Temple, and the Gods: Greek Sacred Architecture 1979 American Architecture and Urbanism 1988 Pueblo: Mountain, Village, Dance 1989 Louis I. Kahn 1961 Modern Architecture and Other Essays 2003",
+      "char_count": 553,
+      "token_estimate": 138
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3245,
+      "end_char": 3369,
+      "content": "== Dış bağlantılar == Interview with Vincent Scully, November 2014, by Daniel Sherer and Yehuda Safran. In Potlatch 4 (2016)",
+      "char_count": 124,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ulusal Yapı Müzesi tarafından 1999 yılında Scully'nin adına oluşturulan ödülün adı nedir?",
+        "answer": "Vincent Scully Ödülü",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Vincent Scully, mimarlık tarihçisi ve profesör olarak kariyeri boyunca mimarlık alanına nasıl katkılarda bulunmuş ve bu katkılarıyla ne tür takdirler görmüştür?",
+        "answer": "Vincent Scully, Yale Üniversitesi'nde mimarlık tarihçisi ve profesör olarak dersler vermiş, mimariyi konu alan kitaplar yazmıştır. Louis I. Kahn ve Robert Venturi gibi önemli 20. Yüzyıl mimarlarının tezlerini savunarak onları etkilemiş ve New York'un Pennsylvania tren istasyonunun orijinal halinin yıkılmasına şiddetle karşı çıkarak önemli bir duruş sergilemiştir. Katkıları arasında \"Newport Mimari Mirası\" adlı kitabıyla Alice Davis Hitchcock Ödülü'nü kazanması, ABD federal hükûmetinin en yüksek beşeri saygınlığı olan Jefferson Lecture Ödülü'nü alması ve J.C. Nichols Visionary Urban Development Ödülü'ne layık görülmesi yer almaktadır. Ayrıca, mimari, tarihi koruma ve kentsel tasarımda örnek uygulama, burs veya eleştiri sergileyen bireylere verilmek üzere adına Vincent Scully Ödülü oluşturulmuştur ve kendisi Sanat Mimarları Derneği'nin kurucusudur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

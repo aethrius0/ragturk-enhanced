@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "iftedmba_39e00265",
+    "title": "Çifte düğüm bağı",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87ifte_d%C3%BC%C4%9F%C3%BCm_ba%C4%9F%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:40.118850",
+    "content": "Çifte düğüm bağı, bir adi düğümdeki ucun başlangıç etrafında bir dolanma yerine fazladan bir daha dolanmasıyla oluşan düğümdür. İp üzerine tek başına durup hiçbir şey bağlamadığında çifte düğüm denir ve bir durdurma düğümü olarak işe yarar. Bu hali Quipu'da 2 sayısını belirtir. Çifte düğüm bağı birçok düğümün içinde yer alır. Cerrah bağı çifte düğüm bağı ile başlar, adi düğüm ya da çifte düğüm bağı ile biter. Boğucu bağ çifte düğüm bağının bir nesne etrafında yeniden düzenlemiş bir şeklidir. Bir nesneyi örneğin bir direğe tutturmak için kullanılır. Ip eklemeye yarayan çifte balıkçı bağının yarısı çifte düğüm bağıdır. Bir ipin ucu öbür ip bedeni etrafında bir boğucu bağ oluşturur. Demir bağı da yeniden düzenlemiş bir çifte düğüm bağı ile başlar; emniyet için çıması (ucu) ana ip etrafında fazladan bir döndürülüp sıkıştırılır, öyle ki orada bir tam kazık bağı oluşur. == Çok dolamalı çeşitleri == Adi düğümdeki ucun başlangıç etrafında bir dolanma yerine fazladan 1 yerine 2, 3, hatta daha da fazla dolanmasıyla oluşan düğümler vardır. Örneğin Adi piyan çok dolamalı bir Boğucu bağdır. Fransiskan rahiplerinin kemer ucu bağı 3 dolamalı, halkasız, düğümü içeride, sıkıştırılmış bir durdurma düğümüdür. Bu 3 dolama ettikleri 3 yemini temsil eder. Bu tür, halkası dışarıda, çok dolamalı durdurma düğümü çeşitleri Quipu'da sırasıyla daha büyük sayıları belirtir. === Çok dolamalılarda düzenleme değişimi === Soldaki resimde A, Quipu'da 5 anlamına gelen, 5 dolamalı halkası dışarıda bir durdurma düğümünün sıkıştırılmış şekli, B ise onun sıkıştırılmamış şeklidir. B şeklindeki düğümün s noktasından tutup öbür taraf etrafında birkaç dolanırsa C de görülen şekle ulaşılır; s noktası biraz inmiş, üst taraf, sTde görülene benzemiştir. Yeşil/sarı okun gösterdiği yönde sarmaya devam eder sonra da sıkıştırılırsa sTde görülen 5 dolamalı, halkasız, düğümü içeride, sıkıştırılmış durdurma düğümü elde edilir. bu düğüme daha kolay bir ulaşma yöntemi E de görüleni bağlayıp sıkıştırmaktır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 297,
+      "char_count": 2000,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.861715",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 877,
+      "content": "Çifte düğüm bağı, bir adi düğümdeki ucun başlangıç etrafında bir dolanma yerine fazladan bir daha dolanmasıyla oluşan düğümdür. İp üzerine tek başına durup hiçbir şey bağlamadığında çifte düğüm denir ve bir durdurma düğümü olarak işe yarar. Bu hali Quipu'da 2 sayısını belirtir. Çifte düğüm bağı birçok düğümün içinde yer alır. Cerrah bağı çifte düğüm bağı ile başlar, adi düğüm ya da çifte düğüm bağı ile biter. Boğucu bağ çifte düğüm bağının bir nesne etrafında yeniden düzenlemiş bir şeklidir. Bir nesneyi örneğin bir direğe tutturmak için kullanılır. Ip eklemeye yarayan çifte balıkçı bağının yarısı çifte düğüm bağıdır. Bir ipin ucu öbür ip bedeni etrafında bir boğucu bağ oluşturur. Demir bağı da yeniden düzenlemiş bir çifte düğüm bağı ile başlar; emniyet için çıması (ucu) ana ip etrafında fazladan bir döndürülüp sıkıştırılır, öyle ki orada bir tam kazık bağı oluşur.",
+      "char_count": 876,
+      "token_estimate": 219
+    },
+    {
+      "id": "c0001",
+      "section": "== Çok dolamalı çeşitleri ==",
+      "heading_path": "== Çok dolamalı çeşitleri ==",
+      "start_char": 877,
+      "end_char": 1368,
+      "content": "== Çok dolamalı çeşitleri == Adi düğümdeki ucun başlangıç etrafında bir dolanma yerine fazladan 1 yerine 2, 3, hatta daha da fazla dolanmasıyla oluşan düğümler vardır. Örneğin Adi piyan çok dolamalı bir Boğucu bağdır. Fransiskan rahiplerinin kemer ucu bağı 3 dolamalı, halkasız, düğümü içeride, sıkıştırılmış bir durdurma düğümüdür. Bu 3 dolama ettikleri 3 yemini temsil eder. Bu tür, halkası dışarıda, çok dolamalı durdurma düğümü çeşitleri Quipu'da sırasıyla daha büyük sayıları belirtir.",
+      "char_count": 490,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0002",
+      "section": "=== Çok dolamalılarda düzenleme değişimi ===",
+      "heading_path": "=== Çok dolamalılarda düzenleme değişimi ===",
+      "start_char": 1368,
+      "end_char": 1986,
+      "content": "=== Çok dolamalılarda düzenleme değişimi === Soldaki resimde A, Quipu'da 5 anlamına gelen, 5 dolamalı halkası dışarıda bir durdurma düğümünün sıkıştırılmış şekli, B ise onun sıkıştırılmamış şeklidir. B şeklindeki düğümün s noktasından tutup öbür taraf etrafında birkaç dolanırsa C de görülen şekle ulaşılır; s noktası biraz inmiş, üst taraf, sTde görülene benzemiştir. Yeşil/sarı okun gösterdiği yönde sarmaya devam eder sonra da sıkıştırılırsa sTde görülen 5 dolamalı, halkasız, düğümü içeride, sıkıştırılmış durdurma düğümü elde edilir. bu düğüme daha kolay bir ulaşma yöntemi E de görüleni bağlayıp sıkıştırmaktır.",
+      "char_count": 617,
+      "token_estimate": 154
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Çifte düğüm bağı, Quipu'da hangi sayıyı belirtir?",
+        "answer": "2 sayısını.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Çifte düğüm bağının temel alınarak çok dolamalı düğümlerin nasıl çeşitlendiğini ve bu çeşitliliğin Quipu'daki sayısal temsili veya diğer düğümlerin oluşturulmasındaki rolünü açıklayın.",
+        "answer": "Çifte düğüm bağı, adi düğümdeki ucun fazladan bir dolanmasıyla oluşan ve Quipu'da 2 sayısını belirten bir durdurma düğümüdür. Bu temel yapı, ucun başlangıç etrafında 2, 3 veya daha fazla dolanmasıyla çok dolamalı düğümlere çeşitlenir. Örneğin, Fransiskan rahiplerinin kemer ucu bağı 3 dolamalıdır. Genel olarak, halkası dışarıda olan çok dolamalı durdurma düğümleri Quipu'da 5 dolamalı düğümün 5'i temsil etmesi gibi daha büyük sayıları belirtir. Ayrıca, çifte düğüm bağının bir nesne etrafında yeniden düzenlenmesiyle Boğucu bağ gibi farklı işlevlere sahip düğümler oluşabilir veya Demir bağı gibi düğümler çifte düğüm bağı ile başlayabilir. Çok dolamalı düğümlerin düzenleme değişimi de, örneğin 5 dolamalı bir düğümün halkası dışarıda bir şekilden halkasız, düğümü içeride bir şekle dönüştürülmesiyle düğümün yapısını ve görünümünü değiştirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

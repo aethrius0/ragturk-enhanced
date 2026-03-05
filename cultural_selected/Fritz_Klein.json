@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "fritzklein_05338d6b",
+    "title": "Fritz Klein",
+    "url": "https://tr.wikipedia.org/wiki/Fritz_Klein",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:55.356687",
+    "content": "Fritz Klein (24 Kasım 1888 – 13 Aralık 1945), Rumen-Alman Nazi doktoru ve savaş suçlusuydu. Holokost sırasında Auschwitz toplama kampı ve Bergen-Belsen toplama kampındaki vahşetlerdeki rolü nedeniyle asıldı. == İlk yılları, eğitimi ve Nazi kariyeri == Klein, Avusturya-Macaristan'ın Feketehalom kentinde (günümüzde Romanya'nın merkezindeki Codlea) doğdu. Klein, Volksdeutsche veya etnik Alman olarak kabul ediliyordu. Budapeşte Üniversitesi'nde tıp okudu ve askerlik hizmetini Romanya'da tamamladı. I. Dünya Savaşı'ndan sonra eğitimini Budapeşte'de tamamladı. Romanya'nın Siebenbürgen (Transilvanya) kentinde yaşadı ve doktor olarak çalıştı. 1939'da Rumen vatandaşı olarak Rumen ordusuna alındı ve 1941'de Sovyetler Birliği ile savaşın başlamasının ardından doğu cephesinde sağlık görevlisi olarak görev yaptı. Mayıs 1943'te, Rumen faşist diktatör Mareşal Ion Antonescu, Hitler'in Rumen ordusundaki etnik Almanları serbest bırakması talebi üzerine onları Alman ordusuna aldı. Bunun üzerine Klein, Waffen-SS'de Nazi askeri oldu, SS Personalhauptamt'a kaydoldu ve Yugoslavya'ya gönderildi. == Nazi kamp doktoru ve infazı == 15 Aralık 1943'te Auschwitz toplama kampına vardı ve ilk başta Birkenau'daki kadın kampında kamp doktoru olarak görev yaptı. Daha sonra Çingene kampında kamp doktoru olarak çalıştı. Ayrıca çok sayıda gaz odası seçimlerine (\"Selektionen\") katıldı. Aralık 1944'te Neuengamme toplama kampına transfer edildi ve oradan Ocak 1945'te Bergen-Belsen toplama kampına gönderildi. Kampta komutan Josef Kramer ile birlikte kaldı ve kampı İngiliz birliklerine teslim etti. Klein hapse atıldı ve gömülmemiş tüm cesetlerin toplu mezarlara gömülmesine yardım etmek zorunda bırakıldı. İngiliz Ordusu Film ve 5. Fotoğraf Birimi, Klein'ı 1945 tarihli ünlü bir fotoğrafta (solda görülüyor) toplu mezarda ayakta dururken fotoğrafladı. Klein ve diğer 44 kamp personeli, Lüneburg'daki bir İngiliz askeri mahkemesinde Belsen Davası'nda yargılandı. Duruşma, Eylül'den Kasım 1945'e kadar birkaç hafta sürdü. Duruşma sırasında Anita Lasker, Klein'ın gaz odası seçimlerine katıldığını ifade etti. Klein, 13 Aralık 1945'te Hamelin hapishanesinde ölüm cezasına çarptırıldı ve Albert Pierrepoint tarafından asılarak infaz edildi. == Kaynakça == == Dış bağlantılar == Fritz Klein (nazi) == Daha fazla okuma == Lifton, Robert Jay (1986). The Nazi doctors: medical killing and the psychology of genocide. Basic Books.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 317,
+      "char_count": 2405,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.609415",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 208,
+      "content": "Fritz Klein (24 Kasım 1888 – 13 Aralık 1945), Rumen-Alman Nazi doktoru ve savaş suçlusuydu. Holokost sırasında Auschwitz toplama kampı ve Bergen-Belsen toplama kampındaki vahşetlerdeki rolü nedeniyle asıldı.",
+      "char_count": 207,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk yılları, eğitimi ve Nazi kariyeri ==",
+      "heading_path": "== İlk yılları, eğitimi ve Nazi kariyeri ==",
+      "start_char": 208,
+      "end_char": 1088,
+      "content": "== İlk yılları, eğitimi ve Nazi kariyeri == Klein, Avusturya-Macaristan'ın Feketehalom kentinde (günümüzde Romanya'nın merkezindeki Codlea) doğdu. Klein, Volksdeutsche veya etnik Alman olarak kabul ediliyordu. Budapeşte Üniversitesi'nde tıp okudu ve askerlik hizmetini Romanya'da tamamladı. I. Dünya Savaşı'ndan sonra eğitimini Budapeşte'de tamamladı. Romanya'nın Siebenbürgen (Transilvanya) kentinde yaşadı ve doktor olarak çalıştı. 1939'da Rumen vatandaşı olarak Rumen ordusuna alındı ve 1941'de Sovyetler Birliği ile savaşın başlamasının ardından doğu cephesinde sağlık görevlisi olarak görev yaptı. Mayıs 1943'te, Rumen faşist diktatör Mareşal Ion Antonescu, Hitler'in Rumen ordusundaki etnik Almanları serbest bırakması talebi üzerine onları Alman ordusuna aldı. Bunun üzerine Klein, Waffen-SS'de Nazi askeri oldu, SS Personalhauptamt'a kaydoldu ve Yugoslavya'ya gönderildi.",
+      "char_count": 879,
+      "token_estimate": 219
+    },
+    {
+      "id": "c0002",
+      "section": "== Nazi kamp doktoru ve infazı ==",
+      "heading_path": "== Nazi kamp doktoru ve infazı ==",
+      "start_char": 1088,
+      "end_char": 2088,
+      "content": "== Nazi kamp doktoru ve infazı == 15 Aralık 1943'te Auschwitz toplama kampına vardı ve ilk başta Birkenau'daki kadın kampında kamp doktoru olarak görev yaptı. Daha sonra Çingene kampında kamp doktoru olarak çalıştı. Ayrıca çok sayıda gaz odası seçimlerine (\"Selektionen\") katıldı. Aralık 1944'te Neuengamme toplama kampına transfer edildi ve oradan Ocak 1945'te Bergen-Belsen toplama kampına gönderildi. Kampta komutan Josef Kramer ile birlikte kaldı ve kampı İngiliz birliklerine teslim etti. Klein hapse atıldı ve gömülmemiş tüm cesetlerin toplu mezarlara gömülmesine yardım etmek zorunda bırakıldı. İngiliz Ordusu Film ve 5. Fotoğraf Birimi, Klein'ı 1945 tarihli ünlü bir fotoğrafta (solda görülüyor) toplu mezarda ayakta dururken fotoğrafladı. Klein ve diğer 44 kamp personeli, Lüneburg'daki bir İngiliz askeri mahkemesinde Belsen Davası'nda yargılandı. Duruşma, Eylül'den Kasım 1945'e kadar birkaç hafta sürdü. Duruşma sırasında Anita Lasker, Klein'ın gaz odası seçimlerine katıldığını ifade ett",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Nazi kamp doktoru ve infazı ==",
+      "heading_path": "== Nazi kamp doktoru ve infazı ==",
+      "start_char": 1888,
+      "end_char": 2220,
+      "content": "İngiliz askeri mahkemesinde Belsen Davası'nda yargılandı. Duruşma, Eylül'den Kasım 1945'e kadar birkaç hafta sürdü. Duruşma sırasında Anita Lasker, Klein'ın gaz odası seçimlerine katıldığını ifade etti. Klein, 13 Aralık 1945'te Hamelin hapishanesinde ölüm cezasına çarptırıldı ve Albert Pierrepoint tarafından asılarak infaz edildi.",
+      "char_count": 332,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2236,
+      "end_char": 2277,
+      "content": "== Dış bağlantılar == Fritz Klein (nazi)",
+      "char_count": 40,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0005",
+      "section": "== Daha fazla okuma ==",
+      "heading_path": "== Daha fazla okuma ==",
+      "start_char": 2277,
+      "end_char": 2405,
+      "content": "== Daha fazla okuma == Lifton, Robert Jay (1986). The Nazi doctors: medical killing and the psychology of genocide. Basic Books.",
+      "char_count": 128,
+      "token_estimate": 32
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Klein, Auschwitz toplama kampına ne zaman vardı?",
+        "answer": "15 Aralık 1943'te",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fritz Klein'ın Rumen ordusundaki ilk hizmeti ile Waffen-SS'deki daha sonraki görevi arasındaki temel fark neydi ve toplama kamplarındaki eylemlerinin nihai sonucu ne oldu?",
+        "answer": "Fritz Klein, başlangıçta 1939'da Rumen vatandaşı olarak Rumen ordusuna alındı ve 1941'den itibaren doğu cephesinde sağlık görevlisi olarak hizmet verdi. Mayıs 1943'te, Rumen ordusundaki etnik Almanların serbest bırakılması talebi üzerine Waffen-SS'ye katılarak bir Nazi askeri oldu. Auschwitz ve Bergen-Belsen toplama kamplarında kamp doktoru olarak görev yaptığı ve gaz odası seçimlerine katıldığı vahşetlerdeki rolü nedeniyle yargılandı ve asılarak infaz edildi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

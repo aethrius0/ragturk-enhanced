@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "130bpmquartet_7a489995",
+    "title": "130 Bpm Quartet",
+    "url": "https://tr.wikipedia.org/wiki/130_Bpm_Quartet",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:54.418075",
+    "content": "130 Bpm Quartet, Ozan Doğulu'nun 130 Bpm serisinden 3 tane albümünün ve Dağılmak İstiyorum şarkısının yer aldığı bir toplama albümdür. 16 Ocak 2015'te DMC etiketiyle yayımlanmıştır. == Albüm hakkında bilgi == Albüm yapımcılığını Ozan Doğulu'nun üstlendiği albüm bir derleme albümüdür ve 4 diskten oluşmuştur. == Şarkı listesi == CD-1 130 Bpm \"Kaybolan Yıllar\" (Ft. Sezen Aksu) \"Unutmamalı\" (feat. Tarkan) \"Bunlar da Geçer\" (Ft. Kenan Doğulu) \"Alain Delon\" (Ft. Sıla) (Söz: Sıla - Müzik: Ozan Doğulu) \"Ay Yüzlüm\" (Ft. Ferhat Göçer & Funky 'C') \"Bir Garip Yolcuyum\" (Ft. Ajda Pekkan) \"Hata\" (Ft. Mustafa Ceceli) \"Pare Pare\" (Ft. Tarkan) \"Sen Mutlu Ol\" (Ft. Ziynet Sali) \"Herkes Oynuyor\" (feat. Agusev Brass Band) \"Tutamıyorum Zamanı\" (Ft. Kenan Doğulu) \"Öp\" (Ft. Kenan Doğulu) CD-2 130 Bpm Allegro Gidiyorum (feat. Sezen Aksu) Petrol (feat. Ajda Pekkan) Kalp Kalbe Karşı (feat. Kenan Doğulu) Daha (feat. Yalın) Aşkistan (feat. Atiye) Koy Koy Koy (feat. Teoman) Kahır Mektubu (feat. Sibel Can) Yazmışsa Bozmak Olmaz (feat. Murat Boz) Müptelayım Sana (feat. Ziynet Sali) Ayı (feat. Okan Bayülgen) CD-3 130 Bpm Dağılmak İstiyorum (single) Dağılmak İstiyorum (Ft. Model) CD-4 130 Bpm Moderato \"İstanbul İstanbul Olalı\" (Ft. Sezen Aksu) \"Harika\" (Ft. Ajda Pekkan Ft. Kenan Doğulu) \"Namus\" (Ft. Gülşen) \"Meyhaneci\" (Ft. Ebru Gündeş) \"Büyük Yürürüm\" (Ft. Kenan Doğulu) \"Sözlerimi Geri Alamam\" (Ft. Şebnem Ferah) \"Böyle Akşamlar\" (Ft. Model) \"Hangisine Yanayım\" (Ft. Yonca Lodi) \"Haram Geceler\" (Ft. Mustafa Ceceli) \"Naparsan Yap\" (Ft. Ziynet Sali) \"Hoşuna mı Gidiyor\" (Ft. Ece Seçkin) \"Yaşamak Ne Güzel Şey\" (Ft. Burcu Güneş) \"Dans Et\" (Ft. Özlem Tekin) === Ek parça === 14. \"Hoşuna mı Gidiyor\" (DJ Eyüp Remix) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 263,
+      "char_count": 1716,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:42.140422",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 182,
+      "content": "130 Bpm Quartet, Ozan Doğulu'nun 130 Bpm serisinden 3 tane albümünün ve Dağılmak İstiyorum şarkısının yer aldığı bir toplama albümdür. 16 Ocak 2015'te DMC etiketiyle yayımlanmıştır.",
+      "char_count": 181,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0001",
+      "section": "== Albüm hakkında bilgi ==",
+      "heading_path": "== Albüm hakkında bilgi ==",
+      "start_char": 182,
+      "end_char": 309,
+      "content": "== Albüm hakkında bilgi == Albüm yapımcılığını Ozan Doğulu'nun üstlendiği albüm bir derleme albümüdür ve 4 diskten oluşmuştur.",
+      "char_count": 126,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0002",
+      "section": "== Şarkı listesi ==",
+      "heading_path": "== Şarkı listesi ==",
+      "start_char": 309,
+      "end_char": 1309,
+      "content": "== Şarkı listesi == CD-1 130 Bpm \"Kaybolan Yıllar\" (Ft. Sezen Aksu) \"Unutmamalı\" (feat. Tarkan) \"Bunlar da Geçer\" (Ft. Kenan Doğulu) \"Alain Delon\" (Ft. Sıla) (Söz: Sıla - Müzik: Ozan Doğulu) \"Ay Yüzlüm\" (Ft. Ferhat Göçer & Funky 'C') \"Bir Garip Yolcuyum\" (Ft. Ajda Pekkan) \"Hata\" (Ft. Mustafa Ceceli) \"Pare Pare\" (Ft. Tarkan) \"Sen Mutlu Ol\" (Ft. Ziynet Sali) \"Herkes Oynuyor\" (feat. Agusev Brass Band) \"Tutamıyorum Zamanı\" (Ft. Kenan Doğulu) \"Öp\" (Ft. Kenan Doğulu) CD-2 130 Bpm Allegro Gidiyorum (feat. Sezen Aksu) Petrol (feat. Ajda Pekkan) Kalp Kalbe Karşı (feat. Kenan Doğulu) Daha (feat. Yalın) Aşkistan (feat. Atiye) Koy Koy Koy (feat. Teoman) Kahır Mektubu (feat. Sibel Can) Yazmışsa Bozmak Olmaz (feat. Murat Boz) Müptelayım Sana (feat. Ziynet Sali) Ayı (feat. Okan Bayülgen) CD-3 130 Bpm Dağılmak İstiyorum (single) Dağılmak İstiyorum (Ft. Model) CD-4 130 Bpm Moderato \"İstanbul İstanbul Olalı\" (Ft. Sezen Aksu) \"Harika\" (Ft. Ajda Pekkan Ft. Kenan Doğulu) \"Namus\" (Ft. Gülşen) \"Meyhaneci\" (F",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Şarkı listesi ==",
+      "heading_path": "== Şarkı listesi ==",
+      "start_char": 1109,
+      "end_char": 1644,
+      "content": "ılmak İstiyorum (single) Dağılmak İstiyorum (Ft. Model) CD-4 130 Bpm Moderato \"İstanbul İstanbul Olalı\" (Ft. Sezen Aksu) \"Harika\" (Ft. Ajda Pekkan Ft. Kenan Doğulu) \"Namus\" (Ft. Gülşen) \"Meyhaneci\" (Ft. Ebru Gündeş) \"Büyük Yürürüm\" (Ft. Kenan Doğulu) \"Sözlerimi Geri Alamam\" (Ft. Şebnem Ferah) \"Böyle Akşamlar\" (Ft. Model) \"Hangisine Yanayım\" (Ft. Yonca Lodi) \"Haram Geceler\" (Ft. Mustafa Ceceli) \"Naparsan Yap\" (Ft. Ziynet Sali) \"Hoşuna mı Gidiyor\" (Ft. Ece Seçkin) \"Yaşamak Ne Güzel Şey\" (Ft. Burcu Güneş) \"Dans Et\" (Ft. Özlem Tekin)",
+      "char_count": 535,
+      "token_estimate": 133
+    },
+    {
+      "id": "c0004",
+      "section": "=== Ek parça ===",
+      "heading_path": "=== Ek parça ===",
+      "start_char": 1645,
+      "end_char": 1702,
+      "content": "=== Ek parça === 14. \"Hoşuna mı Gidiyor\" (DJ Eyüp Remix)",
+      "char_count": 56,
+      "token_estimate": 14
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "CD-1'de yer alan \"Unutmamalı\" şarkısında kim yer almaktadır?",
+        "answer": "Tarkan.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ozan Doğulu'nun 130 Bpm Quartet albümü, 130 Bpm serisindeki üç albümü ve 'Dağılmak İstiyorum' şarkısını disk yapısında nasıl bir araya getirmektedir?",
+        "answer": "130 Bpm Quartet albümü, dört diskten oluşmaktadır. Bu disklerden CD-1 '130 Bpm', CD-2 '130 Bpm Allegro' ve CD-4 '130 Bpm Moderato' isimli üç albümü içerirken, CD-3 ise 'Dağılmak İstiyorum' adlı single'a ayrılmıştır. Bu şekilde üç albüm ve tek şarkı ayrı disklere bölünerek toplama albüm oluşturulmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

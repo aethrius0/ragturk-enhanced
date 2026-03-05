@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "guardiagrele_eab7e26b",
+    "title": "Guardiagrele",
+    "url": "https://tr.wikipedia.org/wiki/Guardiagrele",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:25.654537",
+    "content": "Guardiagrele, güney İtalya'nın Abruzzo bölgesinde Chieti ili'ne bağlı (2008 itibarıyla) 9.605 kişi nüfuslu bir tepe uzerinde kurulu yerleşim yeri ve bir komündür. == Coğrafi konumu == Guardiagrele Maiella Dağı'nın eteklerinde 576 m rakımlı bir tepe üzerinde kurulu tarihsel bir kasabadır. Kasabanın bazı mevkilerinden Maiella Dağı ve etraftaki vadilerin çok güzel manzaraları görünür. Bu manzaraları görüp hayran kalan 20. yüzyıl ünlü İtalyan şairi Gabriele d'Annunzio Guardiagrele kasabasına la terrazza d'Abruzzo (Abrüzzo'nun terası) sıfatını uygun görmüştür. Guardiagrele \"Maiella Mili Parkı\" merkezidir. Kasaba \"Borghi più belli d'İtalia (İtlay'nin en güzel beldeleri)\" adlı klübe üyedir. == Nüfus gelişmesi == Guardiagrele kasabasının komün sınırları içindeki nüfusu (1.12.2009 tahminleri itibarıyla) 5.649 kişidir ve nüfus yoğunluğu 353,06 kişi/km² olur. Guardiagrele komün nüfusunun 19. ve 20. yüzyıllarda gelişmesi resmî nüfus sayımı sonuçlarına göre şu gösterimde özetlenmiştir: Kişi == Görülecek yerler == Konaklar, saraylar ve kuleler: Palazzo De Lucia: 16t. yy Palazzo Elisii: 15.-18. yy. Palazzo Marini: 1391 Chiostro del Palazzo Comunale (Belediye Sarayı Üstü Kapalı Yaya yolu): 17. yy. \"Piazza San Francesco\" meydanında. Torrione Orsini (Orsini Kulesi): Yapım yak. 1340. Şehir amblemi Torre Adriana (Adriana Kulesi: Porta della Fiera\\deki sanatkar dükkanları yakınında. Torre Stella (Stella Kulesi: Adriana Kulesi eşi Müzeler: Müseo Civico (Şehir Müzesi) Müseo del Coştume e della Tradızione della Nostra Gente (Halk Giysi ve Folkor Müzesi : Palazzo Comunale (Belediye Sarayı) eki Müseo del Duomo (\"Katedral Müzesi): Santa Maria Maggiore kilisesine bağlı. Müseo Archeologico (Arkeoloji Müzesi). Kiliseler: Santa Maria Maggiore: Katedral. Yapımı 14. yüzyıl. On cephe Abruzzi-Gotik mimari stilinde ve merasim giriş kapısı solunda Nicola di Guardiagrele ekolü tarafından yapılan heykel ve bir saat bulunur. İçerisi 18. yy.daki depremle yıkıldığı için Barok mimari stilinde restore edilmiş ve birkaç ilgi çeker dinsel tablo bulunmakta. San Nicola di Bari Kilisesi: Yapımı 4. yüzyıl İl Convento dei Cappuccini (Capuçinler Manastıri): 16. yy == Belediyeye bağlı semt ve köyler == Guardiagrele beldesine bağlı şu semt ve köyler bulunmaktadır: Anello, Bocca di Valle, Caporosso, Caprafico, Cerchiara, Colle Barone, Colle Luna, Colle Spedale, Comino, Melone, Piana San Bartolomeo, Piano delle Fonti, San Biase, San Domenico, Colle Bianco, San Leonardo, Santa Lucia, Sciorilli, Tiballo, Villa San Vincenzo, Voire. == Komşu komünler == Guardiagrele beldesinin şu belediyelerle ortak sınırları bulunmaktadır: Casoli, Castel Frentano, Filetto, Orsogna, Palombaro, Pennapiedimonte, Rapino, San Martino sulla Marrucina, Sant'Eusanio del Sangro == Resimler == == Kaynakça == == Ayrıca bakınız == Abruzzo Chieti ili == Dış bağlantılar == Guardiagrele Belediyesi resmî websitesi (İtalyanca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 393,
+      "char_count": 2887,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.374996",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 163,
+      "content": "Guardiagrele, güney İtalya'nın Abruzzo bölgesinde Chieti ili'ne bağlı (2008 itibarıyla) 9.605 kişi nüfuslu bir tepe uzerinde kurulu yerleşim yeri ve bir komündür.",
+      "char_count": 162,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafi konumu ==",
+      "heading_path": "== Coğrafi konumu ==",
+      "start_char": 163,
+      "end_char": 693,
+      "content": "== Coğrafi konumu == Guardiagrele Maiella Dağı'nın eteklerinde 576 m rakımlı bir tepe üzerinde kurulu tarihsel bir kasabadır. Kasabanın bazı mevkilerinden Maiella Dağı ve etraftaki vadilerin çok güzel manzaraları görünür. Bu manzaraları görüp hayran kalan 20. yüzyıl ünlü İtalyan şairi Gabriele d'Annunzio Guardiagrele kasabasına la terrazza d'Abruzzo (Abrüzzo'nun terası) sıfatını uygun görmüştür. Guardiagrele \"Maiella Mili Parkı\" merkezidir. Kasaba \"Borghi più belli d'İtalia (İtlay'nin en güzel beldeleri)\" adlı klübe üyedir.",
+      "char_count": 529,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0002",
+      "section": "== Nüfus gelişmesi ==",
+      "heading_path": "== Nüfus gelişmesi ==",
+      "start_char": 693,
+      "end_char": 993,
+      "content": "== Nüfus gelişmesi == Guardiagrele kasabasının komün sınırları içindeki nüfusu (1.12.2009 tahminleri itibarıyla) 5.649 kişidir ve nüfus yoğunluğu 353,06 kişi/km² olur. Guardiagrele komün nüfusunun 19. ve 20. yüzyıllarda gelişmesi resmî nüfus sayımı sonuçlarına göre şu gösterimde özetlenmiştir: Kişi",
+      "char_count": 299,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0003",
+      "section": "== Görülecek yerler ==",
+      "heading_path": "== Görülecek yerler ==",
+      "start_char": 993,
+      "end_char": 1993,
+      "content": "== Görülecek yerler == Konaklar, saraylar ve kuleler: Palazzo De Lucia: 16t. yy Palazzo Elisii: 15.-18. yy. Palazzo Marini: 1391 Chiostro del Palazzo Comunale (Belediye Sarayı Üstü Kapalı Yaya yolu): 17. yy. \"Piazza San Francesco\" meydanında. Torrione Orsini (Orsini Kulesi): Yapım yak. 1340. Şehir amblemi Torre Adriana (Adriana Kulesi: Porta della Fiera\\deki sanatkar dükkanları yakınında. Torre Stella (Stella Kulesi: Adriana Kulesi eşi Müzeler: Müseo Civico (Şehir Müzesi) Müseo del Coştume e della Tradızione della Nostra Gente (Halk Giysi ve Folkor Müzesi : Palazzo Comunale (Belediye Sarayı) eki Müseo del Duomo (\"Katedral Müzesi): Santa Maria Maggiore kilisesine bağlı. Müseo Archeologico (Arkeoloji Müzesi). Kiliseler: Santa Maria Maggiore: Katedral. Yapımı 14. yüzyıl. On cephe Abruzzi-Gotik mimari stilinde ve merasim giriş kapısı solunda Nicola di Guardiagrele ekolü tarafından yapılan heykel ve bir saat bulunur. İçerisi 18. yy.daki depremle yıkıldığı için Barok mimari stilinde restore ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Görülecek yerler ==",
+      "heading_path": "== Görülecek yerler ==",
+      "start_char": 1793,
+      "end_char": 2150,
+      "content": "k mimari stilinde ve merasim giriş kapısı solunda Nicola di Guardiagrele ekolü tarafından yapılan heykel ve bir saat bulunur. İçerisi 18. yy.daki depremle yıkıldığı için Barok mimari stilinde restore edilmiş ve birkaç ilgi çeker dinsel tablo bulunmakta. San Nicola di Bari Kilisesi: Yapımı 4. yüzyıl İl Convento dei Cappuccini (Capuçinler Manastıri): 16. yy",
+      "char_count": 357,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0005",
+      "section": "== Belediyeye bağlı semt ve köyler ==",
+      "heading_path": "== Belediyeye bağlı semt ve köyler ==",
+      "start_char": 2151,
+      "end_char": 2519,
+      "content": "== Belediyeye bağlı semt ve köyler == Guardiagrele beldesine bağlı şu semt ve köyler bulunmaktadır: Anello, Bocca di Valle, Caporosso, Caprafico, Cerchiara, Colle Barone, Colle Luna, Colle Spedale, Comino, Melone, Piana San Bartolomeo, Piano delle Fonti, San Biase, San Domenico, Colle Bianco, San Leonardo, Santa Lucia, Sciorilli, Tiballo, Villa San Vincenzo, Voire.",
+      "char_count": 367,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0006",
+      "section": "== Komşu komünler ==",
+      "heading_path": "== Komşu komünler ==",
+      "start_char": 2519,
+      "end_char": 2744,
+      "content": "== Komşu komünler == Guardiagrele beldesinin şu belediyelerle ortak sınırları bulunmaktadır: Casoli, Castel Frentano, Filetto, Orsogna, Palombaro, Pennapiedimonte, Rapino, San Martino sulla Marrucina, Sant'Eusanio del Sangro",
+      "char_count": 224,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0007",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2774,
+      "end_char": 2814,
+      "content": "== Ayrıca bakınız == Abruzzo Chieti ili",
+      "char_count": 39,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2814,
+      "end_char": 2887,
+      "content": "== Dış bağlantılar == Guardiagrele Belediyesi resmî websitesi (İtalyanca)",
+      "char_count": 73,
+      "token_estimate": 18
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Torrione Orsini yaklaşık olarak hangi yılda inşa edilmiştir?",
+        "answer": "1340",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Abruzzo bölgesinde yer alan Guardiagrele'nin hem coğrafi konumu hem de kültürel önemi hakkında sağlanan metinlerde hangi bilgiler belirtilmiştir?",
+        "answer": "Guardiagrele, güney İtalya'nın Abruzzo bölgesinde, Chieti ili'ne bağlı, 9.605 kişi nüfuslu, tepe üzerinde kurulu bir yerleşim yeridir. Maiella Dağı'nın eteklerinde, 576 metre rakımlı tarihsel bir kasaba olup, Maiella Dağı ve çevresindeki vadilerin güzel manzaraları nedeniyle 20. yüzyıl şairi Gabriele d'Annunzio tarafından 'la terrazza d'Abruzzo' (Abrüzzo'nun terası) olarak tanımlanmıştır. Aynı zamanda 'Maiella Mili Parkı'nın merkezi ve 'Borghi più belli d'İtalia (İtalya'nın en güzel beldeleri)' adlı kulübün üyesidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

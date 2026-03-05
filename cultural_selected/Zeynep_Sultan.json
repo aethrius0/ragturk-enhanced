@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "zeynepsultan_2c6d09c2",
+    "title": "Zeynep Sultan",
+    "url": "https://tr.wikipedia.org/wiki/Zeynep_Sultan",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:41.199790",
+    "content": "Zeynep Sultan veya Zeynep Âsımâ Sultan (y. 1715, İstanbul - 25 Mart 1774, İstanbul), Osmanlı padişahı III. Ahmed'in kızı, III. Mustafa ile I. Abdülhamid'in kız kardeşi. == Doğum == Zeynep Sultan, 1715 yılında Topkapı Sarayı'nda doğdu. Babası Sultan III. Ahmed'dir. == İlk evlilik == Zeynep Sultan, 1728'de (Küçük) Sinek Mustafa Paşa ile (Küçük) vezir'in yeğeni Nevşehirli Damat İbrahim Paşa ile evlendi. Düğün töreni Topkapı Sarayı'nda gerçekleşti. 8 Aralık'ta Zeynep'in çeyizini Kıbleli Sarayı olarak bilinen sarayına göndermiş ve ertesi gün düğün alayı gerçekleştirilmiştir. == İkinci evlilik == 1764 yılında Mustafa Paşa'nın ölümünden sonra Zeynep Sultan, daha önce üvey kardeşi III. Mustafa döneminde Osmanlı donanmasının büyük amirali olan Melek Mehmed Paşa ile 1765 yılında evlenmiştir. Melek Mehmed Paşa, iki kez Kaptan-ı derya olarak görev yapmış ve 1792'de sadrazamlık yapmıştır. == Hayır kurumları == Zeynep Sultan, 1769'da Eminönü'nde \"Ruh-i Sultaniye Camii\" olarak bilinen bir cami bağışladı. Caminin yanında bir okul ve çeşme inşaası da vakfın bir parçası. Bugün Zeynep Sultan Camii. Gülhane Parkı karşısında eğimli ve dar bir araziye yerleşen külliye binaları ihata duvarıyla çevrili, doğu ve batı yönünde iki girişi bulunan bir bahçe içerisinde yer alır. Sıbyan mektebinin olduğu batı tarafındaki kapı üzerine “Duâcızâde” imzalı, 1769 tarihli, celî sülüsle Yâsîn sûresinin 58. âyeti yazılmış, kitâbenin üstü mermer bir tepelikle taçlandırılmıştır. Külliye arsasının eğimi ve yükseklik farkı cami, sıbyan mektebi ve medresenin kat görünüşlerini etkilemiş, batı tarafında bodrum katı açıklıklarına yer verilememiştir. == Ölüm == Zeynep Sultan 25 Mart 1774'te öldü ve Eminönü'nde bulunan kendi camisine gömüldü. == Kaynakça == == Dış bağlantılar == M. Cağatay, Uluçay (2011). Padişahların kadınları ve kızları. Ankara: Oğlak Yayınları. Necdet, Sakaoğlu (2008). Bu mülkün kadın sultanları: Vâlide sultanlar, hâtunlar, hasekiler, kadınefendiler, sultanefendiler. Oğlak Yayınları. 978-9-753-29623-6.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 278,
+      "char_count": 2008,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.394072",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 169,
+      "content": "Zeynep Sultan veya Zeynep Âsımâ Sultan (y. 1715, İstanbul - 25 Mart 1774, İstanbul), Osmanlı padişahı III. Ahmed'in kızı, III. Mustafa ile I. Abdülhamid'in kız kardeşi.",
+      "char_count": 168,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0001",
+      "section": "== Doğum ==",
+      "heading_path": "== Doğum ==",
+      "start_char": 169,
+      "end_char": 265,
+      "content": "== Doğum == Zeynep Sultan, 1715 yılında Topkapı Sarayı'nda doğdu. Babası Sultan III. Ahmed'dir.",
+      "char_count": 95,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0002",
+      "section": "== İlk evlilik ==",
+      "heading_path": "== İlk evlilik ==",
+      "start_char": 265,
+      "end_char": 577,
+      "content": "== İlk evlilik == Zeynep Sultan, 1728'de (Küçük) Sinek Mustafa Paşa ile (Küçük) vezir'in yeğeni Nevşehirli Damat İbrahim Paşa ile evlendi. Düğün töreni Topkapı Sarayı'nda gerçekleşti. 8 Aralık'ta Zeynep'in çeyizini Kıbleli Sarayı olarak bilinen sarayına göndermiş ve ertesi gün düğün alayı gerçekleştirilmiştir.",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0003",
+      "section": "== İkinci evlilik ==",
+      "heading_path": "== İkinci evlilik ==",
+      "start_char": 577,
+      "end_char": 889,
+      "content": "== İkinci evlilik == 1764 yılında Mustafa Paşa'nın ölümünden sonra Zeynep Sultan, daha önce üvey kardeşi III. Mustafa döneminde Osmanlı donanmasının büyük amirali olan Melek Mehmed Paşa ile 1765 yılında evlenmiştir. Melek Mehmed Paşa, iki kez Kaptan-ı derya olarak görev yapmış ve 1792'de sadrazamlık yapmıştır.",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0004",
+      "section": "== Hayır kurumları ==",
+      "heading_path": "== Hayır kurumları ==",
+      "start_char": 889,
+      "end_char": 1631,
+      "content": "== Hayır kurumları == Zeynep Sultan, 1769'da Eminönü'nde \"Ruh-i Sultaniye Camii\" olarak bilinen bir cami bağışladı. Caminin yanında bir okul ve çeşme inşaası da vakfın bir parçası. Bugün Zeynep Sultan Camii. Gülhane Parkı karşısında eğimli ve dar bir araziye yerleşen külliye binaları ihata duvarıyla çevrili, doğu ve batı yönünde iki girişi bulunan bir bahçe içerisinde yer alır. Sıbyan mektebinin olduğu batı tarafındaki kapı üzerine “Duâcızâde” imzalı, 1769 tarihli, celî sülüsle Yâsîn sûresinin 58. âyeti yazılmış, kitâbenin üstü mermer bir tepelikle taçlandırılmıştır. Külliye arsasının eğimi ve yükseklik farkı cami, sıbyan mektebi ve medresenin kat görünüşlerini etkilemiş, batı tarafında bodrum katı açıklıklarına yer verilememiştir.",
+      "char_count": 741,
+      "token_estimate": 185
+    },
+    {
+      "id": "c0005",
+      "section": "== Ölüm ==",
+      "heading_path": "== Ölüm ==",
+      "start_char": 1631,
+      "end_char": 1724,
+      "content": "== Ölüm == Zeynep Sultan 25 Mart 1774'te öldü ve Eminönü'nde bulunan kendi camisine gömüldü.",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1739,
+      "end_char": 2008,
+      "content": "== Dış bağlantılar == M. Cağatay, Uluçay (2011). Padişahların kadınları ve kızları. Ankara: Oğlak Yayınları. Necdet, Sakaoğlu (2008). Bu mülkün kadın sultanları: Vâlide sultanlar, hâtunlar, hasekiler, kadınefendiler, sultanefendiler. Oğlak Yayınları. 978-9-753-29623-6.",
+      "char_count": 269,
+      "token_estimate": 67
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Zeynep Sultan, Eminönü'ndeki camiyi hangi yıl bağışlamıştır?",
+        "answer": "1769",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Zeynep Sultan'ın Topkapı Sarayı'nda 1715 yılında doğmuş olması, onun Osmanlı hanedanındaki konumunu nasıl pekiştirmektedir?",
+        "answer": "Zeynep Sultan'ın 1715 yılında Topkapı Sarayı'nda doğması, onun babası Sultan III. Ahmed'in kızı ve padişahlar III. Mustafa ile I. Abdülhamid'in kız kardeşi olmasıyla, Osmanlı hanedanındaki merkezi ve yüksek konumunu pekiştirmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

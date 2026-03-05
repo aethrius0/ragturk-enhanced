@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "kasmglek_b1fccadd",
+    "title": "Kasım Gülek",
+    "url": "https://tr.wikipedia.org/wiki/Kas%C4%B1m_G%C3%BClek",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:23.024302",
+    "content": "Kasım Gülek (13 Aralık 1905, Adana - 19 Ocak 1996, Washington, DC), Türk ekonomist, siyasetçi, Cumhuriyet Halk Partisi (CHP) Genel Sekreteri (1950-59). == Hayatı == Gülekzade Mustafa Rıfat Bey ve Tayyibe Hanım'ın oğludur. Küçük yaştan itibaren memleket meselelerinin tartışıldığı ortamda büyüdü. İlkokulu Adana Turan Mektebinde başladı, daha sonra gittiği Galatasaray Lisesinden (o zamanki adıyla Mektebi Sultani), Robert Koleje geçti ve buradan mezun oldu. 1928'de Paris’teki Institut d'études politiques de Paris'i bitirdikten sonra Columbia Üniversitesi'nde iktisat dalında doktorasını tamamladı. Rockefeller Vakfı kursiyeri olarak daha sonra Londra Üniversitesinde ve Keynes’in öğrencisi olduğu Cambridge Üniversitesi'nde İktisat ve Maliye bölümlerinde öğrenim gördü. Daha sonra Almanya’da Berlin ve Hamburg Üniversitelerinde doktora sonrası çalışmalar yaparak hukuk eğitimini tamamladı. Mustafa Kemal Atatürk'ün talimatıyla siyasete giren Kasım Gülek, Bilecik’ten milletvekili seçilerek Türkiye Büyük Millet Meclisi’ne girdi, iki dönem Bilecik Millekvekilliğinden sonra 1946 yılında Adana’dan Milletvekili seçildi. TBMM Ticaret Komisyonu Başkanlığı yapan Gülek, 1947’de Hasan Saka Kabinesi'nin en genç bakanı olarak Bayındırlık Bakanlığı'na, 1948’de de Ulaştırma Bakanlığı'na getirildi. 1949 yılında Kore’ye giderek orada yeni göreve başlamış olan Birleşmiş Milletler Kore Komisyonu’nun Başkanlığına seçildi. 1950 seçimlerinde büyük yenilgiye uğrayan CHP’nin Genel Sekreteri seçme yetkisinin Parti Meclisi'nden alınarak delegelere verildiği ilk kurultay olan VIII. Kurultay’ında Genel Sekreter seçildi. Bundan sonra XV’inci Kurultay’a kadar yapılan tüm Kurultay’larda da Genel Sekreter seçilen Gülek, 1950 ile 1959 yılları arası aralıksız olarak CHP Genel Sekreterliği görevini sürdürdü. Gülek, yoğun memleket gezileri sayesinde siyaseti halkla iç içe yapan ve ‘çarıklı politikacı’ lakabı ile anılan siyasetçi olarak tanındı. 1959 yılında görevinden istifa etti. 1961 yılında Adana İli temsilcisi olarak Temsilciler Meclisine seçildi. Aynı yıl Lütfü Akdoğan ile Tanin gazetesini çıkarttı. 1961 ve 1965 yıllarında Adana'dan Milletvekili seçilen Gülek, 1968 yılında NATO Parlamenter Asamblesi Başkanlığına seçildi. 1969 yılından 1971'e kadar Cumhuriyet Senatosu üyeliği yaptı. Uluslararası kariyerinde ise, Birleşmiş Milletler Kore Komisyonu Başkanlığı, Kuzey Atlantik Asamblesi Başkanlığı, Avrupa Konseyi Kurucu Üyeliği, Avrupa Konseyi Parlamenter Asamblesi Başkan Yardımcılığı, NATO Parlamenterler Konferansı Başkan Yardımcılığı, Atlantik Enstitüsü Başkanlığı, Doğu Akdeniz Kalkınma Enstitüsü İkinci Başkanı görevlerinde bulundu. Kasım Gülek, 19 Ocak 1996'da nefes darlığı tedavisi gördüğü Washington'daki Walter Reed Askeri Hastanesi'nde 91 yaşında öldü. Cenazesi Türkiye'ye getirilen Gülek, Ankara'da Kocatepe Camii'nde kılınan cenaze namazından sonra Adana'da defnedildi. Cenaze namazını Fethullah Gülen kıldırmıştır. Nilüfer Şakire H. (1932) ile evli olup XXI. Dönem Adana Milletvekili Tayyibe (1969), Mehmet Mustafa Rıfat'ın (1971) babasıdır. == Ardından == Anısına Adana şehir merkezinde bir viyadüğe, bir camiye, bir bulvara, bir köprüye ve bir çocuk parkına Kasım Gülek adı verilmiştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 403,
+      "char_count": 3214,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.106475",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 152,
+      "content": "Kasım Gülek (13 Aralık 1905, Adana - 19 Ocak 1996, Washington, DC), Türk ekonomist, siyasetçi, Cumhuriyet Halk Partisi (CHP) Genel Sekreteri (1950-59).",
+      "char_count": 151,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 152,
+      "end_char": 1152,
+      "content": "== Hayatı == Gülekzade Mustafa Rıfat Bey ve Tayyibe Hanım'ın oğludur. Küçük yaştan itibaren memleket meselelerinin tartışıldığı ortamda büyüdü. İlkokulu Adana Turan Mektebinde başladı, daha sonra gittiği Galatasaray Lisesinden (o zamanki adıyla Mektebi Sultani), Robert Koleje geçti ve buradan mezun oldu. 1928'de Paris’teki Institut d'études politiques de Paris'i bitirdikten sonra Columbia Üniversitesi'nde iktisat dalında doktorasını tamamladı. Rockefeller Vakfı kursiyeri olarak daha sonra Londra Üniversitesinde ve Keynes’in öğrencisi olduğu Cambridge Üniversitesi'nde İktisat ve Maliye bölümlerinde öğrenim gördü. Daha sonra Almanya’da Berlin ve Hamburg Üniversitelerinde doktora sonrası çalışmalar yaparak hukuk eğitimini tamamladı. Mustafa Kemal Atatürk'ün talimatıyla siyasete giren Kasım Gülek, Bilecik’ten milletvekili seçilerek Türkiye Büyük Millet Meclisi’ne girdi, iki dönem Bilecik Millekvekilliğinden sonra 1946 yılında Adana’dan Milletvekili seçildi. TBMM Ticaret Komisyonu Başkanlığ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 952,
+      "end_char": 1952,
+      "content": "lek, Bilecik’ten milletvekili seçilerek Türkiye Büyük Millet Meclisi’ne girdi, iki dönem Bilecik Millekvekilliğinden sonra 1946 yılında Adana’dan Milletvekili seçildi. TBMM Ticaret Komisyonu Başkanlığı yapan Gülek, 1947’de Hasan Saka Kabinesi'nin en genç bakanı olarak Bayındırlık Bakanlığı'na, 1948’de de Ulaştırma Bakanlığı'na getirildi. 1949 yılında Kore’ye giderek orada yeni göreve başlamış olan Birleşmiş Milletler Kore Komisyonu’nun Başkanlığına seçildi. 1950 seçimlerinde büyük yenilgiye uğrayan CHP’nin Genel Sekreteri seçme yetkisinin Parti Meclisi'nden alınarak delegelere verildiği ilk kurultay olan VIII. Kurultay’ında Genel Sekreter seçildi. Bundan sonra XV’inci Kurultay’a kadar yapılan tüm Kurultay’larda da Genel Sekreter seçilen Gülek, 1950 ile 1959 yılları arası aralıksız olarak CHP Genel Sekreterliği görevini sürdürdü. Gülek, yoğun memleket gezileri sayesinde siyaseti halkla iç içe yapan ve ‘çarıklı politikacı’ lakabı ile anılan siyasetçi olarak tanındı. 1959 yılında görevind",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1752,
+      "end_char": 2752,
+      "content": "HP Genel Sekreterliği görevini sürdürdü. Gülek, yoğun memleket gezileri sayesinde siyaseti halkla iç içe yapan ve ‘çarıklı politikacı’ lakabı ile anılan siyasetçi olarak tanındı. 1959 yılında görevinden istifa etti. 1961 yılında Adana İli temsilcisi olarak Temsilciler Meclisine seçildi. Aynı yıl Lütfü Akdoğan ile Tanin gazetesini çıkarttı. 1961 ve 1965 yıllarında Adana'dan Milletvekili seçilen Gülek, 1968 yılında NATO Parlamenter Asamblesi Başkanlığına seçildi. 1969 yılından 1971'e kadar Cumhuriyet Senatosu üyeliği yaptı. Uluslararası kariyerinde ise, Birleşmiş Milletler Kore Komisyonu Başkanlığı, Kuzey Atlantik Asamblesi Başkanlığı, Avrupa Konseyi Kurucu Üyeliği, Avrupa Konseyi Parlamenter Asamblesi Başkan Yardımcılığı, NATO Parlamenterler Konferansı Başkan Yardımcılığı, Atlantik Enstitüsü Başkanlığı, Doğu Akdeniz Kalkınma Enstitüsü İkinci Başkanı görevlerinde bulundu. Kasım Gülek, 19 Ocak 1996'da nefes darlığı tedavisi gördüğü Washington'daki Walter Reed Askeri Hastanesi'nde 91 yaşın",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 2552,
+      "end_char": 3052,
+      "content": "ü Başkanlığı, Doğu Akdeniz Kalkınma Enstitüsü İkinci Başkanı görevlerinde bulundu. Kasım Gülek, 19 Ocak 1996'da nefes darlığı tedavisi gördüğü Washington'daki Walter Reed Askeri Hastanesi'nde 91 yaşında öldü. Cenazesi Türkiye'ye getirilen Gülek, Ankara'da Kocatepe Camii'nde kılınan cenaze namazından sonra Adana'da defnedildi. Cenaze namazını Fethullah Gülen kıldırmıştır. Nilüfer Şakire H. (1932) ile evli olup XXI. Dönem Adana Milletvekili Tayyibe (1969), Mehmet Mustafa Rıfat'ın (1971) babasıdır.",
+      "char_count": 500,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0005",
+      "section": "== Ardından ==",
+      "heading_path": "== Ardından ==",
+      "start_char": 3053,
+      "end_char": 3200,
+      "content": "== Ardından == Anısına Adana şehir merkezinde bir viyadüğe, bir camiye, bir bulvara, bir köprüye ve bir çocuk parkına Kasım Gülek adı verilmiştir.",
+      "char_count": 146,
+      "token_estimate": 36
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kasım Gülek siyasete kimin talimatıyla girmiştir?",
+        "answer": "Mustafa Kemal Atatürk'ün talimatıyla.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kasım Gülek'in geniş akademik eğitimi ve erken dönem siyasi kariyeri, Cumhuriyet Halk Partisi Genel Sekreterliği görevindeki uzun süreli pozisyonuna nasıl bir temel oluşturdu?",
+        "answer": "Kasım Gülek, Paris, Columbia, Londra, Cambridge, Berlin ve Hamburg Üniversitelerinde iktisat ve hukuk alanlarında eğitim alarak önemli bir akademik birikim edindi. Mustafa Kemal Atatürk'ün talimatıyla siyasete atıldıktan sonra Bilecik ve Adana milletvekilliği, Bayındırlık ve Ulaştırma Bakanlığı ile Birleşmiş Milletler Kore Komisyonu Başkanlığı gibi çeşitli görevlerde bulundu. Bu zengin akademik ve siyasi tecrübeleri, onun 1950'den 1959'a kadar aralıksız olarak Cumhuriyet Halk Partisi Genel Sekreterliği görevini üstlenmesine bir zemin hazırladı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

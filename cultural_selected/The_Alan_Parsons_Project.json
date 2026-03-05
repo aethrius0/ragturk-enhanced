@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "thealanparsonsprojec_a19fec46",
+    "title": "The Alan Parsons Project",
+    "url": "https://tr.wikipedia.org/wiki/The_Alan_Parsons_Project",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:33.186117",
+    "content": "The Alan Parsons Project, kalıcı üyeleri Alan Parsons ve Eric Woolfson olan, 1975-1990 yılları arasında faaliyet gösteren İngiliz rock grubudur. Albüm kayıtlarında ve konserlerde bu ikiliye çeşitli müzisyenler eşlik etmiştir. Parsons'ın mesleği ses mühendisliği ve yapımcılıktı ama aynı zamanda müzik aletleri çalıyor ve beste de yapıyordu. Mesleği söz yazarlığı olan Woolfson ise aynı zamanda beste yapıyor, piyano çalıyor ve vokal yapıyordu. The Alan Parsons Project albümlerindeki hemen hemen tüm parçalar \"Woolfson/Parsons\" imzasını taşır. == Üyeleri == Grubun değişmeyen üyeleri Alan Parsons ve Eric Woolfson'dur.Beraber çalıştıkları sanatçılar: Andrew Powell - klavye, orkestral ayarlamalar Ian Bairnson - gitar David Paton - bass, vokal Stuart Tosh - davul Stuart Elliott - davul, perküsyon Richard Cottle - klavye, saksofon Laurence Cottle - bass Mel Collins - saksofon Lenny Zakatek - vokal Chris Rainbow - vokal Elmer Gantry - vokal John Miles - vokal Colin Blunstone - vokal Arthur Brown - vokal Graham Dye - vokal Steven Dye - vokal Steve Harley - vokal Allan Clarke - vokal Dean Ford - vokal == Diskografi == === Albümleri === Tales of Mystery and Imagination - 1976 Kavram: Yazar Edgar Allan Poe'nun öykülerinden esinlenilerek üretilmiş bir albüm. I Robot - 1977 Kavram: Isaac Asimov'un \"Ben Robot\" romanından esinlenilerek ortaya çıkarılan bir albüm. Pyramid - 1978 Kavram: Eski Mısır ve piramitler referans alınarak hazırlanmış bir albüm. Eve - 1979 Kavram: Konusu kadınlar olan bir albüm. Ön vokallerde kadınların yer aldığı tek Alan Parsons albümü. The Turn of a Friendly Card - 1980 Kavram: Kumar ile ilgili bir albüm. Yazar Philip K. Dick'in The Game-Players of Titan romanından etkilenilmiş. Eye in the Sky - 1982 Kavram: Gözetim, kameralarla göz altında bulundurma ile ilgili bir albüm. Ayrıca yaşam ve evren'i de sorgulamakta. Ammonia Avenue - 1984 Kavram: Toplumların endüstriyel ve bilimsel gelişmeleri yanlış veya eksik anlaması üzerine odaklanmış bir albüm. Vulture Culture - 1985 Kavram: Tüketim hastalığını, özellikle Amerikan popüler kültürünü eleştiren bir albüm. Stereotomy - 1985 Kavram: Şöhret ve talihin belirli kişiler, örneğin şarkıcılar veya aktörler üzerindeki etkilerini konu alan bir albüm. Gaudi - 1987 Kavram: Katalan mimar Antoni Gaudí'nin yaşamı ve çalışmalarından ilham alınarak oluşturulmuş bir albüm. == Dış bağlantılar == The Alan Parsons Project resmi web sitesi 27 Eylül 2007 tarihinde Wayback Machine sitesinde arşivlendi. Eric Woolfson resmi web sitesi 6 Ekim 2007 tarihinde Wayback Machine sitesinde arşivlendi. Grup ile ilgili bir site",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 386,
+      "char_count": 2590,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.447401",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 544,
+      "content": "The Alan Parsons Project, kalıcı üyeleri Alan Parsons ve Eric Woolfson olan, 1975-1990 yılları arasında faaliyet gösteren İngiliz rock grubudur. Albüm kayıtlarında ve konserlerde bu ikiliye çeşitli müzisyenler eşlik etmiştir. Parsons'ın mesleği ses mühendisliği ve yapımcılıktı ama aynı zamanda müzik aletleri çalıyor ve beste de yapıyordu. Mesleği söz yazarlığı olan Woolfson ise aynı zamanda beste yapıyor, piyano çalıyor ve vokal yapıyordu. The Alan Parsons Project albümlerindeki hemen hemen tüm parçalar \"Woolfson/Parsons\" imzasını taşır.",
+      "char_count": 543,
+      "token_estimate": 135
+    },
+    {
+      "id": "c0001",
+      "section": "== Üyeleri ==",
+      "heading_path": "== Üyeleri ==",
+      "start_char": 544,
+      "end_char": 1105,
+      "content": "== Üyeleri == Grubun değişmeyen üyeleri Alan Parsons ve Eric Woolfson'dur.Beraber çalıştıkları sanatçılar: Andrew Powell - klavye, orkestral ayarlamalar Ian Bairnson - gitar David Paton - bass, vokal Stuart Tosh - davul Stuart Elliott - davul, perküsyon Richard Cottle - klavye, saksofon Laurence Cottle - bass Mel Collins - saksofon Lenny Zakatek - vokal Chris Rainbow - vokal Elmer Gantry - vokal John Miles - vokal Colin Blunstone - vokal Arthur Brown - vokal Graham Dye - vokal Steven Dye - vokal Steve Harley - vokal Allan Clarke - vokal Dean Ford - vokal",
+      "char_count": 560,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0002",
+      "section": "=== Albümleri ===",
+      "heading_path": "=== Albümleri ===",
+      "start_char": 1122,
+      "end_char": 2122,
+      "content": "=== Albümleri === Tales of Mystery and Imagination - 1976 Kavram: Yazar Edgar Allan Poe'nun öykülerinden esinlenilerek üretilmiş bir albüm. I Robot - 1977 Kavram: Isaac Asimov'un \"Ben Robot\" romanından esinlenilerek ortaya çıkarılan bir albüm. Pyramid - 1978 Kavram: Eski Mısır ve piramitler referans alınarak hazırlanmış bir albüm. Eve - 1979 Kavram: Konusu kadınlar olan bir albüm. Ön vokallerde kadınların yer aldığı tek Alan Parsons albümü. The Turn of a Friendly Card - 1980 Kavram: Kumar ile ilgili bir albüm. Yazar Philip K. Dick'in The Game-Players of Titan romanından etkilenilmiş. Eye in the Sky - 1982 Kavram: Gözetim, kameralarla göz altında bulundurma ile ilgili bir albüm. Ayrıca yaşam ve evren'i de sorgulamakta. Ammonia Avenue - 1984 Kavram: Toplumların endüstriyel ve bilimsel gelişmeleri yanlış veya eksik anlaması üzerine odaklanmış bir albüm. Vulture Culture - 1985 Kavram: Tüketim hastalığını, özellikle Amerikan popüler kültürünü eleştiren bir albüm. Stereotomy - 1985 Kavram: Ş",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Albümleri ===",
+      "heading_path": "=== Albümleri ===",
+      "start_char": 1922,
+      "end_char": 2348,
+      "content": "eleri yanlış veya eksik anlaması üzerine odaklanmış bir albüm. Vulture Culture - 1985 Kavram: Tüketim hastalığını, özellikle Amerikan popüler kültürünü eleştiren bir albüm. Stereotomy - 1985 Kavram: Şöhret ve talihin belirli kişiler, örneğin şarkıcılar veya aktörler üzerindeki etkilerini konu alan bir albüm. Gaudi - 1987 Kavram: Katalan mimar Antoni Gaudí'nin yaşamı ve çalışmalarından ilham alınarak oluşturulmuş bir albüm.",
+      "char_count": 426,
+      "token_estimate": 106
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2349,
+      "end_char": 2590,
+      "content": "== Dış bağlantılar == The Alan Parsons Project resmi web sitesi 27 Eylül 2007 tarihinde Wayback Machine sitesinde arşivlendi. Eric Woolfson resmi web sitesi 6 Ekim 2007 tarihinde Wayback Machine sitesinde arşivlendi. Grup ile ilgili bir site",
+      "char_count": 241,
+      "token_estimate": 60
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Alan Parsons'ın 'Eve' albümünün ana konusu nedir ve bu albümün dikkat çekici bir özelliği nedir?",
+        "answer": "Konusu kadınlar olan bir albümdür ve ön vokallerde kadınların yer aldığı tek Alan Parsons albümüdür.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "The Alan Parsons Project'ın çekirdek üyeleri Alan Parsons ve Eric Woolfson'ın temel görevleri ve albümlerinde yer alan geniş sanatçı kadrosu göz önüne alındığında, grubun \"Tales of Mystery and Imagination\"dan \"Vulture Culture\"a kadar uzanan çeşitli konsept albümlerini nasıl gerçekleştirdiği açıklanabilir mi?",
+        "answer": "The Alan Parsons Project, Alan Parsons'ın ses mühendisliği ve yapımcılık becerileriyle Eric Woolfson'ın söz yazarlığı ve beste yeteneklerini temel alarak faaliyet gösterdi. Bu değişmez ikili, albüm kayıtlarında ve konserlerde Andrew Powell (klavye, orkestral ayarlamalar) ve Ian Bairnson (gitar) gibi çeşitli müzisyenler ve Lenny Zakatek ve Chris Rainbow gibi vokalistler dahil olmak üzere geniş bir sanatçı kadrosuyla çalıştı. Bu esnek yapı, grubun \"Tales of Mystery and Imagination\" (Edgar Allan Poe), \"I Robot\" (Isaac Asimov) ve \"Eve\" (kadın teması) gibi farklı edebi eserlerden ve kavramlardan ilham alan çeşitli tematik albümleri başarıyla üretmesini sağladı, çünkü her albümün gerektirdiği özel müzikal ve vokal yeteneklerini karşılamak için uygun sanatçıları seçebildiler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

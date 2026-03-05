@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "thepiratebay_2b7c5621",
+    "title": "The Pirate Bay",
+    "url": "https://tr.wikipedia.org/wiki/The_Pirate_Bay",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:45.299031",
+    "content": "The Pirate Bay, dünyanın en büyük Bittorrent izleyicisidir ve 2008'in en çok ziyaret edilen torrent sitesi seçilmiştir. Pirate bay, korsan koyu anlamına gelir. İsveç'teki merkezine yapılan polis baskınıyla kapatılmıştır. == BayIMG == BayImg The Pirate Bay tarafından 2007 yılında kurulan ve resim hosting hizmeti sağlayan sitedir. BayImg üyelik gerektirmeyen ve resim yüklerken telif hakkı bilgisi zorunlu kılmayan bir sistem kullanmaktadır. BayImg şu anda 100 mb dosya limiti ve 140 farklı dosya formatını desteklemektedir. Yüklenen resimler otomatik olarak JPG formatına dönüştürmektedir. Resimler arasında dolaşmak için etiket bulutu (tag cloud) sistemini kullanılmaktadır. Kullanıcılar isimsiz olarak yükleme yaptığı için dosya yükleyen kullanıcıların takibi zorlaşmaktadır. == The Pirate Bay davası == 31 Mayıs 2006 tarihinde telif hakları korunan eserlerin korsan olarak dağıtılmasına izin verdiği gerekçesiyle İsveç'te sitenin sunucularına el konulmuş ve 3 yıl süren bir dava süreci başlamıştır. Yaklaşık 4000 sayfalık bir iddia raporu hazırlanmış ve davanın ilk duruşması 18 Şubat 2009 tarihinde yapılmıştır ve binlerce The Pirate Bay destekleyicisi mahkemenin önünde mahkemenin The Pirate Bay lehine sonuçlanması için toplanmıştır. Mahkemenin ikinci gününde telif haklarının çiğnenmesi iddiaları düşmüş ve bundan sonra telif haklarının çiğnenmesine olanak sağlaması iddiaları üzerinden mahkeme devam etmiştir. Mahkeme 9 gün sürmüş ve 17 Nisan 2009 tarihinde karar açıklanmıştır. Ciddi iddiaların düşmesine ve The Pirate Bay cephesinin zafer beklentisine karşın, paylaşıma göz yumdukları gerekçesiyle sitenin kurucuları Peter Sunde, Fredrik Neij, Gottfrid Svartholm ve Carl Lundström birer yıl hapis cezasına ve The Pirate Bay sitesi de 30 milyon İsveç kronluk para cezasına çarptırılmıştır. Mahkemenin bu kararı büyük tepki toplamış ve İsveç'te yüzlerce kişi Korsan Partisi'nin düzenlediği eyleme katılmıştır. Ayrıca internet üzerinden de The Pirate Bay sempatizanları davayı açan IFPI'nin web sitesini hackleyerek davaya tepkilerini göstermişlerdir. Kararın açıklanmasının ardından The Pirate Bay yöneticileri de temyiz başvurusunda bulunup karara itiraz etmişlerdir. Ayrıca site yöneticileri davaya bakan hakim Tomas Nortsröm'ün davanın davacılarından olan İsveç Sınaî Mülkiyeti Koruma Derneği'nin yönetim kurulunda olması ve davanın diğer davacılarından olan bir telif hakkı topluluğuna da üye olması nedeniyle davanın tarafsız olmadığı gerekçesiyle davanın tüm sürecinin yeniden gözden geçirilmesi gerektiğini iddia ettiler. Google zararlı site olarak engelledi. Google, thepiratebay.se adresini Chrome ve Firefox internet tarayıcıları üzerinden engelledi.7 Mayıs 2016 günü siteye girmek isteyenler \" zararlı site\" uyarısı ile karşılaşmaktadır. == Kaynakça == == Dış bağlantılar == The Pirate Bay16 Eylül 2017 tarihinde Wayback Machine sitesinde arşivlendi. The Pirate Bay Davası Belgeseli4 Mayıs 2013 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 388,
+      "char_count": 2962,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.541615",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 221,
+      "content": "The Pirate Bay, dünyanın en büyük Bittorrent izleyicisidir ve 2008'in en çok ziyaret edilen torrent sitesi seçilmiştir. Pirate bay, korsan koyu anlamına gelir. İsveç'teki merkezine yapılan polis baskınıyla kapatılmıştır.",
+      "char_count": 220,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0001",
+      "section": "== BayIMG ==",
+      "heading_path": "== BayIMG ==",
+      "start_char": 221,
+      "end_char": 779,
+      "content": "== BayIMG == BayImg The Pirate Bay tarafından 2007 yılında kurulan ve resim hosting hizmeti sağlayan sitedir. BayImg üyelik gerektirmeyen ve resim yüklerken telif hakkı bilgisi zorunlu kılmayan bir sistem kullanmaktadır. BayImg şu anda 100 mb dosya limiti ve 140 farklı dosya formatını desteklemektedir. Yüklenen resimler otomatik olarak JPG formatına dönüştürmektedir. Resimler arasında dolaşmak için etiket bulutu (tag cloud) sistemini kullanılmaktadır. Kullanıcılar isimsiz olarak yükleme yaptığı için dosya yükleyen kullanıcıların takibi zorlaşmaktadır.",
+      "char_count": 557,
+      "token_estimate": 139
+    },
+    {
+      "id": "c0002",
+      "section": "== The Pirate Bay davası ==",
+      "heading_path": "== The Pirate Bay davası ==",
+      "start_char": 779,
+      "end_char": 1779,
+      "content": "== The Pirate Bay davası == 31 Mayıs 2006 tarihinde telif hakları korunan eserlerin korsan olarak dağıtılmasına izin verdiği gerekçesiyle İsveç'te sitenin sunucularına el konulmuş ve 3 yıl süren bir dava süreci başlamıştır. Yaklaşık 4000 sayfalık bir iddia raporu hazırlanmış ve davanın ilk duruşması 18 Şubat 2009 tarihinde yapılmıştır ve binlerce The Pirate Bay destekleyicisi mahkemenin önünde mahkemenin The Pirate Bay lehine sonuçlanması için toplanmıştır. Mahkemenin ikinci gününde telif haklarının çiğnenmesi iddiaları düşmüş ve bundan sonra telif haklarının çiğnenmesine olanak sağlaması iddiaları üzerinden mahkeme devam etmiştir. Mahkeme 9 gün sürmüş ve 17 Nisan 2009 tarihinde karar açıklanmıştır. Ciddi iddiaların düşmesine ve The Pirate Bay cephesinin zafer beklentisine karşın, paylaşıma göz yumdukları gerekçesiyle sitenin kurucuları Peter Sunde, Fredrik Neij, Gottfrid Svartholm ve Carl Lundström birer yıl hapis cezasına ve The Pirate Bay sitesi de 30 milyon İsveç kronluk para cezas",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== The Pirate Bay davası ==",
+      "heading_path": "== The Pirate Bay davası ==",
+      "start_char": 1579,
+      "end_char": 2579,
+      "content": "a göz yumdukları gerekçesiyle sitenin kurucuları Peter Sunde, Fredrik Neij, Gottfrid Svartholm ve Carl Lundström birer yıl hapis cezasına ve The Pirate Bay sitesi de 30 milyon İsveç kronluk para cezasına çarptırılmıştır. Mahkemenin bu kararı büyük tepki toplamış ve İsveç'te yüzlerce kişi Korsan Partisi'nin düzenlediği eyleme katılmıştır. Ayrıca internet üzerinden de The Pirate Bay sempatizanları davayı açan IFPI'nin web sitesini hackleyerek davaya tepkilerini göstermişlerdir. Kararın açıklanmasının ardından The Pirate Bay yöneticileri de temyiz başvurusunda bulunup karara itiraz etmişlerdir. Ayrıca site yöneticileri davaya bakan hakim Tomas Nortsröm'ün davanın davacılarından olan İsveç Sınaî Mülkiyeti Koruma Derneği'nin yönetim kurulunda olması ve davanın diğer davacılarından olan bir telif hakkı topluluğuna da üye olması nedeniyle davanın tarafsız olmadığı gerekçesiyle davanın tüm sürecinin yeniden gözden geçirilmesi gerektiğini iddia ettiler. Google zararlı site olarak engelledi. Goo",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== The Pirate Bay davası ==",
+      "heading_path": "== The Pirate Bay davası ==",
+      "start_char": 2379,
+      "end_char": 2757,
+      "content": "f hakkı topluluğuna da üye olması nedeniyle davanın tarafsız olmadığı gerekçesiyle davanın tüm sürecinin yeniden gözden geçirilmesi gerektiğini iddia ettiler. Google zararlı site olarak engelledi. Google, thepiratebay.se adresini Chrome ve Firefox internet tarayıcıları üzerinden engelledi.7 Mayıs 2016 günü siteye girmek isteyenler \" zararlı site\" uyarısı ile karşılaşmaktadır.",
+      "char_count": 378,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2773,
+      "end_char": 2962,
+      "content": "== Dış bağlantılar == The Pirate Bay16 Eylül 2017 tarihinde Wayback Machine sitesinde arşivlendi. The Pirate Bay Davası Belgeseli4 Mayıs 2013 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 189,
+      "token_estimate": 47
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "The Pirate Bay davasının ilk duruşması ne zaman yapılmıştır?",
+        "answer": "18 Şubat 2009 tarihinde",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "The Pirate Bay'in dünyanın en büyük Bittorrent izleyicisi olarak işleyişi, BayIMG gibi yan hizmetlerinin özellikleri ve telif hakları ihlallerine olanak sağlamasıyla ilgili yasal süreçleri, içerik dağıtımı ve kullanıcı anonimliği konularındaki genel yaklaşımını nasıl yansıtmaktadır?",
+        "answer": "The Pirate Bay'in dünyanın en büyük Bittorrent izleyicisi olması ve 'korsan koyu' anlamına gelmesi, ayrıca BayIMG'nin üyelik gerektirmeyen, telif hakkı bilgisi zorunlu kılmayan ve isimsiz yüklemelerle kullanıcı takibini zorlaştıran bir sistem kullanması, sitenin içeriklerin serbestçe paylaşımını desteklediğini ve kullanıcı anonimliğine önem verdiğini göstermektedir. Bu yaklaşım, telif hakları korunan eserlerin dağıtılmasına izin verdiği gerekçesiyle sunucularına el konulması ve kurucularına hapis cezası ile siteye para cezası verilmesiyle sonuçlanan davada açıkça ortaya konmuştur. Mahkeme, telif haklarının çiğnenmesine olanak sağlaması iddiaları üzerinden devam etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

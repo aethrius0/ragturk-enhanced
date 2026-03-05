@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "konstantinosviimihai_fe719ab4",
+    "title": "Konstantinos (VII. Mihail'in oğlu)",
+    "url": "https://tr.wikipedia.org/wiki/Konstantinos_%28VII._Mihail%27in_o%C4%9Flu%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:37.305749",
+    "content": "Konstantinos Dukas ya da Ducas (Yunanca: Κωνσταντίνος Δούκας, Kōnstantinos Doukas), (yak. 1074 - yak. 1095) yak. 1074 ile 1078 ve 1081 ile 1087 yılları arasında Bizans ortak imparatoru. Bizans imparatoru VII. Mihail ile Gürcü karısı Maria Bagrationi'nin oğludur. == Hayatı == Konstantin bir Porfirogennetos idi, \"Mor Oda'da Doğan\" anlamına gelmektedir. ve babasının tac giydikten sonra doğduğunu gösterir. Hemen Bizans imparatorluk diplomasisinin bir parçası oldu ve yeni doğan olarak, Norman lider Robert Guiscard ile Sikelgaita'nın kızı Apulialı Olympias ile nişanlandırıldı, Bizans geleneklerine göre Bizans Helena ismini aldı 1078 yılında babası tahttan feragat etmeye zorlandığında, Konstantinos'un annesi Maria yeni imparator III. Nikiforos ile evlendi, fakat oğlunun veliahtlık hakkı ve imparatorluk statüsü konusunda onu ikna etmekte başarılı olamadı. Konstantin'in statüsünün düşmesi aynı zamanda Robert Guiscard'ın kızıyla olan nişanının bozulmasına da neden oldu, Robert bunu Bizans İmparatorluğu'na karşı askeri hareket başlatmak için bahane olarak kullandı. 1081 yılında Nikiforos'un da düşüşünden sonra, Maria'nın, Nikiforos'un ardılı I. Aleksios ile yakınlığı (hangi tabiatta ise) ve Aleksios'un Dükas Hanedanı ile ittifakı Konstantinos'a ortak imparatorluğu tekrar getirdi. İmzası, Aleksios'un yayınladığı tüm dokümanlarda ilave edildi ve halka açık toplantılarda imparatora eşlik etti. Aleksios ile İrini Dukena'nın ilk çocukları Anna Komnini doğduğunda hemen Konstantinos ile nişanlandırıldı, böylece Konstantinos'un tahttaki geleceği onaylandı. Maria'nın isteği ile dönemin en önemli filozof Ohri'li Teohilaktos genç prensin eğitimi için bir yazı kaleme aldı. Fakat Konstantinos'un durumu zayıf anayasa ve I. Aleksios'un 1087 yılında oğlu (geleceğin II. İoannis'u) olması nedeniyle belirsizdi. Ortak imparatorluk statüsünden ve tahttaki geleceği yok olsa da, Konstantinos imparatorun gözdesi kaldı ve iyi şartları devam etti. Annesi Maria, bir manastıra kapatılmaya zorlandı. Aleksios'un 1094 yılında Sırbistan'a yaptığı sefer sırasında, Konstantinos, imparatora masraflarını kendi ödediği yemek ve eğlence sundu. Sonra Aleksios'a karşı bir ayaklanmaya katılmayı reddetti. Konstantinos Dukas yaklaşık 1095 yılında öldü. == Kaynakça == Özel Genel Norwich, John Julius (1996), Byzantium: The Decline and Fall (İngilizce), Penguin, ISBN 0-14-011449-1 Canduci, Alexander (2010), Triumph & Tragedy: The Rise and Fall of Rome's Immortal Emperors, Pier 9, ISBN 978-1741965988 Alexander Kazhdan, (Ed.) (1991). The Oxford Dictionary of Byzantium (İngilizce). Oxford ve New York: Oxford University Press. ISBN 0-19-504652-8. Finlay, George (1854), History of the Byzantine and Greek Empires from 1057 - 1453 (İngilizce), 2, William Blackwood & Sons == Konuyla ilgili yayınlar == Polemis, D.I. (1968). The Doukai. Londra. J. M. Hussey, (Ed.) (1966). The Cambridge Medieval History, Volume IV The Byzantine Empire, Part 1 Byzantium and Its Neighbours. Londra: The Syndics of the Cambridge University Press. s. 793.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 403,
+      "char_count": 3021,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.801042",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 263,
+      "content": "Konstantinos Dukas ya da Ducas (Yunanca: Κωνσταντίνος Δούκας, Kōnstantinos Doukas), (yak. 1074 - yak. 1095) yak. 1074 ile 1078 ve 1081 ile 1087 yılları arasında Bizans ortak imparatoru. Bizans imparatoru VII. Mihail ile Gürcü karısı Maria Bagrationi'nin oğludur.",
+      "char_count": 262,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 263,
+      "end_char": 1263,
+      "content": "== Hayatı == Konstantin bir Porfirogennetos idi, \"Mor Oda'da Doğan\" anlamına gelmektedir. ve babasının tac giydikten sonra doğduğunu gösterir. Hemen Bizans imparatorluk diplomasisinin bir parçası oldu ve yeni doğan olarak, Norman lider Robert Guiscard ile Sikelgaita'nın kızı Apulialı Olympias ile nişanlandırıldı, Bizans geleneklerine göre Bizans Helena ismini aldı 1078 yılında babası tahttan feragat etmeye zorlandığında, Konstantinos'un annesi Maria yeni imparator III. Nikiforos ile evlendi, fakat oğlunun veliahtlık hakkı ve imparatorluk statüsü konusunda onu ikna etmekte başarılı olamadı. Konstantin'in statüsünün düşmesi aynı zamanda Robert Guiscard'ın kızıyla olan nişanının bozulmasına da neden oldu, Robert bunu Bizans İmparatorluğu'na karşı askeri hareket başlatmak için bahane olarak kullandı. 1081 yılında Nikiforos'un da düşüşünden sonra, Maria'nın, Nikiforos'un ardılı I. Aleksios ile yakınlığı (hangi tabiatta ise) ve Aleksios'un Dükas Hanedanı ile ittifakı Konstantinos'a ortak imp",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1063,
+      "end_char": 2063,
+      "content": "llandı. 1081 yılında Nikiforos'un da düşüşünden sonra, Maria'nın, Nikiforos'un ardılı I. Aleksios ile yakınlığı (hangi tabiatta ise) ve Aleksios'un Dükas Hanedanı ile ittifakı Konstantinos'a ortak imparatorluğu tekrar getirdi. İmzası, Aleksios'un yayınladığı tüm dokümanlarda ilave edildi ve halka açık toplantılarda imparatora eşlik etti. Aleksios ile İrini Dukena'nın ilk çocukları Anna Komnini doğduğunda hemen Konstantinos ile nişanlandırıldı, böylece Konstantinos'un tahttaki geleceği onaylandı. Maria'nın isteği ile dönemin en önemli filozof Ohri'li Teohilaktos genç prensin eğitimi için bir yazı kaleme aldı. Fakat Konstantinos'un durumu zayıf anayasa ve I. Aleksios'un 1087 yılında oğlu (geleceğin II. İoannis'u) olması nedeniyle belirsizdi. Ortak imparatorluk statüsünden ve tahttaki geleceği yok olsa da, Konstantinos imparatorun gözdesi kaldı ve iyi şartları devam etti. Annesi Maria, bir manastıra kapatılmaya zorlandı. Aleksios'un 1094 yılında Sırbistan'a yaptığı sefer sırasında, Konsta",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1863,
+      "end_char": 2238,
+      "content": "i yok olsa da, Konstantinos imparatorun gözdesi kaldı ve iyi şartları devam etti. Annesi Maria, bir manastıra kapatılmaya zorlandı. Aleksios'un 1094 yılında Sırbistan'a yaptığı sefer sırasında, Konstantinos, imparatora masraflarını kendi ödediği yemek ve eğlence sundu. Sonra Aleksios'a karşı bir ayaklanmaya katılmayı reddetti. Konstantinos Dukas yaklaşık 1095 yılında öldü.",
+      "char_count": 375,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2239,
+      "end_char": 2758,
+      "content": "== Kaynakça == Özel Genel Norwich, John Julius (1996), Byzantium: The Decline and Fall (İngilizce), Penguin, ISBN 0-14-011449-1 Canduci, Alexander (2010), Triumph & Tragedy: The Rise and Fall of Rome's Immortal Emperors, Pier 9, ISBN 978-1741965988 Alexander Kazhdan, (Ed.) (1991). The Oxford Dictionary of Byzantium (İngilizce). Oxford ve New York: Oxford University Press. ISBN 0-19-504652-8. Finlay, George (1854), History of the Byzantine and Greek Empires from 1057 - 1453 (İngilizce), 2, William Blackwood & Sons",
+      "char_count": 518,
+      "token_estimate": 129
+    },
+    {
+      "id": "c0005",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 2758,
+      "end_char": 3021,
+      "content": "== Konuyla ilgili yayınlar == Polemis, D.I. (1968). The Doukai. Londra. J. M. Hussey, (Ed.) (1966). The Cambridge Medieval History, Volume IV The Byzantine Empire, Part 1 Byzantium and Its Neighbours. Londra: The Syndics of the Cambridge University Press. s. 793.",
+      "char_count": 263,
+      "token_estimate": 65
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Konstantin'in unvanı olan Porfirogennetos ne anlama gelmektedir?",
+        "answer": "\"Mor Oda'da Doğan\" anlamına gelmektedir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Konstantinos Dukas'ın ortak imparatorluk statüsünün zaman içinde nasıl değiştiğini ve bu değişikliklere etki eden ana faktörlerin neler olduğunu açıklayın.",
+        "answer": "Konstantinos Dukas, başlangıçta babası VII. Mihail'in Bizans ortak imparatoru olarak yaklaşık 1074-1078 yılları arasında görev yapmıştır. Babasının tahttan çekilmesi ve annesi Maria'nın yeni imparator III. Nikiforos ile evlenmesi üzerine veliahtlık hakkını ve imparatorluk statüsünü kaybetmiştir. Bu dönemde Norman lider Robert Guiscard'ın kızıyla olan nişanı da bozulmuştur. Daha sonra, 1081 yılında Nikiforos'un düşüşünden sonra, annesi Maria'nın I. Aleksios ile yakınlığı ve Dükas Hanedanı ile olan ittifakı sayesinde ortak imparatorluğu yeniden kazanmış ve Aleksios'un kızı Anna Komnini ile nişanlanmıştır. Ancak, Konstantinos'un kendi zayıf anayasası ve I. Aleksios'un 1087'de oğlu (gelecekteki II. İoannis) olması nedeniyle ortak imparatorluk statüsü ve tahttaki geleceği tekrar belirsiz hale gelmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

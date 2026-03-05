@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "muhteremdinsfat_a59d0ddb",
+    "title": "Muhterem (dinî sıfat)",
+    "url": "https://tr.wikipedia.org/wiki/Muhterem_%28din%C3%AE_s%C4%B1fat%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:25.331345",
+    "content": "Saygıdeğer — İngilizcede genellikle The Venerable olarak bilinir — bazı Hristiyan kiliselerinde kullanılan bir hitap, unvan veya lakaptır. Bu unvan, genellikle ruhsal olgunlukları ve bilgelikleri nedeniyle kutsal kişilere verilir. == Katolik == Katolik Kilisesi’nde, vefat etmiş bir Katolik, bir piskopos tarafından Tanrı'nın Hizmetkârı ilan edildikten ve Papa tarafından kutluluk için önerildikten sonra, azizlik süreci kapsamında yapılan soruşturma ve değerlendirme sonucunda “erdemde kahramanlık” gösterdiği ilan edilerek saygıdeğer ilan edilebilir. Saygıdeğer ilanı, kişinin Cennette olduğuna dair kesin bir hüküm değildir; bu beyan, kişinin Cennette olduğunun muhtemel görüldüğünü ifade eder, ancak kişinin hâlen Arafta olma ihtimali de vardır. Bir kişinin saygıdeğer ilan edilmesinden önce, Papa tarafından onaylanmış bir bildiriyle, o kişinin yaşamında “erdemde kahramanlık” sergilediği ilan edilmelidir. Bu erdemler arasında teolojik erdemler olan iman, umut ve sevgi ile kardinal erdemler olan sağduyu, adalet, metanet ve ölçülülük yer alır. Sonraki aşama kutluluktur; bu genellikle adayın aracılığıyla gerçekleşen bir mucizenin doğrulanmasını gerektirir. Bu aşamadan itibaren kişi “Kutlu” olarak anılır. Kutlu ilanı, kişinin Cennette olup Tanrı’yı görme nimetini yaşadığını ima eder; ancak bu, zorunlu bir şart değildir. Azizlik süreci, kişinin bir mucizeye aracılık etmesiyle (genellikle bu ikinci mucizedir) tamamlanır ve kişi aziz ilan edilir. İstisnai azizlik ilanları da mevcuttur. Azizlik ilanı, yalnızca Katolik Kilisesi’nin kişinin lütuf hâlinde öldüğünü ve beatific vision’a eriştiğini iddia ettiği ölçüde kesinlik taşır. Örneğin, Papa XII. Pius ve Papa II. Jean Paul, Aralık 2009’da Papa XVI. Benediktus tarafından saygıdeğer ilan edilmiş; II. Jean Paul, 2014 yılında aziz ilan edilmiştir. Saygıdeğer ilan edilen diğer örnekler arasında Piskopos Fulton J. Sheen, Fransa Prensesi Louise, Francis Libermann ve Rahibe Mary Potter yer alır. 7. ve 8. yüzyılda yaşamış İngiliz keşiş Aziz Bede, ölümünden kısa süre sonra “saygıdeğer” olarak anılmaya başlanmış ve 1899 yılında aziz ilan edilmesine rağmen hâlen sıklıkla “Saygıdeğer Bede” veya “Bede Saygıdeğer” olarak anılmaktadır. Bu unvan aynı zamanda Şartrö tarikatına mensup münzevîler için, geleneksel rahip hitabının yerine kullanılan bir onursal unvandır. == Ayrıca bakınız == Aziz == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 316,
+      "char_count": 2365,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.273050",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 231,
+      "content": "Saygıdeğer — İngilizcede genellikle The Venerable olarak bilinir — bazı Hristiyan kiliselerinde kullanılan bir hitap, unvan veya lakaptır. Bu unvan, genellikle ruhsal olgunlukları ve bilgelikleri nedeniyle kutsal kişilere verilir.",
+      "char_count": 230,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0001",
+      "section": "== Katolik ==",
+      "heading_path": "== Katolik ==",
+      "start_char": 231,
+      "end_char": 1231,
+      "content": "== Katolik == Katolik Kilisesi’nde, vefat etmiş bir Katolik, bir piskopos tarafından Tanrı'nın Hizmetkârı ilan edildikten ve Papa tarafından kutluluk için önerildikten sonra, azizlik süreci kapsamında yapılan soruşturma ve değerlendirme sonucunda “erdemde kahramanlık” gösterdiği ilan edilerek saygıdeğer ilan edilebilir. Saygıdeğer ilanı, kişinin Cennette olduğuna dair kesin bir hüküm değildir; bu beyan, kişinin Cennette olduğunun muhtemel görüldüğünü ifade eder, ancak kişinin hâlen Arafta olma ihtimali de vardır. Bir kişinin saygıdeğer ilan edilmesinden önce, Papa tarafından onaylanmış bir bildiriyle, o kişinin yaşamında “erdemde kahramanlık” sergilediği ilan edilmelidir. Bu erdemler arasında teolojik erdemler olan iman, umut ve sevgi ile kardinal erdemler olan sağduyu, adalet, metanet ve ölçülülük yer alır. Sonraki aşama kutluluktur; bu genellikle adayın aracılığıyla gerçekleşen bir mucizenin doğrulanmasını gerektirir. Bu aşamadan itibaren kişi “Kutlu” olarak anılır. Kutlu ilanı, kişi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Katolik ==",
+      "heading_path": "== Katolik ==",
+      "start_char": 1031,
+      "end_char": 2031,
+      "content": "ölçülülük yer alır. Sonraki aşama kutluluktur; bu genellikle adayın aracılığıyla gerçekleşen bir mucizenin doğrulanmasını gerektirir. Bu aşamadan itibaren kişi “Kutlu” olarak anılır. Kutlu ilanı, kişinin Cennette olup Tanrı’yı görme nimetini yaşadığını ima eder; ancak bu, zorunlu bir şart değildir. Azizlik süreci, kişinin bir mucizeye aracılık etmesiyle (genellikle bu ikinci mucizedir) tamamlanır ve kişi aziz ilan edilir. İstisnai azizlik ilanları da mevcuttur. Azizlik ilanı, yalnızca Katolik Kilisesi’nin kişinin lütuf hâlinde öldüğünü ve beatific vision’a eriştiğini iddia ettiği ölçüde kesinlik taşır. Örneğin, Papa XII. Pius ve Papa II. Jean Paul, Aralık 2009’da Papa XVI. Benediktus tarafından saygıdeğer ilan edilmiş; II. Jean Paul, 2014 yılında aziz ilan edilmiştir. Saygıdeğer ilan edilen diğer örnekler arasında Piskopos Fulton J. Sheen, Fransa Prensesi Louise, Francis Libermann ve Rahibe Mary Potter yer alır. 7. ve 8. yüzyılda yaşamış İngiliz keşiş Aziz Bede, ölümünden kısa süre son",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Katolik ==",
+      "heading_path": "== Katolik ==",
+      "start_char": 1831,
+      "end_char": 2324,
+      "content": "n diğer örnekler arasında Piskopos Fulton J. Sheen, Fransa Prensesi Louise, Francis Libermann ve Rahibe Mary Potter yer alır. 7. ve 8. yüzyılda yaşamış İngiliz keşiş Aziz Bede, ölümünden kısa süre sonra “saygıdeğer” olarak anılmaya başlanmış ve 1899 yılında aziz ilan edilmesine rağmen hâlen sıklıkla “Saygıdeğer Bede” veya “Bede Saygıdeğer” olarak anılmaktadır. Bu unvan aynı zamanda Şartrö tarikatına mensup münzevîler için, geleneksel rahip hitabının yerine kullanılan bir onursal unvandır.",
+      "char_count": 493,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2325,
+      "end_char": 2351,
+      "content": "== Ayrıca bakınız == Aziz",
+      "char_count": 25,
+      "token_estimate": 6
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Katolik Kilisesi'nde azizlik sürecinde bir kişi \"Saygıdeğer\" ilan edildikten sonraki aşama nedir?",
+        "answer": "Saygıdeğer ilanından sonraki aşama, genellikle adayın aracılığıyla gerçekleşen bir mucizenin doğrulanmasını gerektiren kutluluktur ve bu aşamadan itibaren kişi \"Kutlu\" olarak anılır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hristiyan kiliselerinde 'Saygıdeğer' unvanının genel anlamı ile Katolik Kilisesi'ndeki azizlik sürecinde bir kişinin 'saygıdeğer' ilan edilmesinin özel anlamı ve bu ilanın ardından gelen sonraki aşamalar nelerdir?",
+        "answer": "'Saygıdeğer' unvanı, bazı Hristiyan kiliselerinde ruhsal olgunlukları ve bilgelikleri nedeniyle kutsal kişilere verilen genel bir hitap veya lakaptır. Katolik Kilisesi'nde ise bu, azizlik sürecinin belirli bir aşamasıdır. Vefat eden bir Katolik, bir piskopos tarafından 'Tanrı'nın Hizmetkârı' ilan edilip Papa tarafından kutluluk için önerildikten sonra, 'erdemde kahramanlık' gösterdiği ilan edilerek saygıdeğer unvanını alır. Bu ilan, kişinin Cennette olduğunun muhtemel olduğunu ifade eder, ancak kesin bir hüküm değildir ve Arafta olma ihtimali de vardır. Bu aşamadan sonraki adım, genellikle adayın aracılığıyla gerçekleşen bir mucizenin doğrulanmasını gerektiren kutluluktur; bu aşamada kişi 'Kutlu' olarak anılır. Süreç, genellikle ikinci bir mucizeyle tamamlanır ve kişi aziz ilan edilir, bu da kişinin lütuf hâlinde öldüğünü ve beatific vision’a eriştiğini kesin olarak iddia eder.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

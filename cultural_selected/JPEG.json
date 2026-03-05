@@ -1,0 +1,174 @@
+{
+  "article": {
+    "id": "jpeg_e38ff1ba",
+    "title": "JPEG",
+    "url": "https://tr.wikipedia.org/wiki/JPEG",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:13.808158",
+    "content": "JPEG, Joint Photographic Experts Group (Birleşik Fotoğraf Uzmanları Grubu) tarafından standartlaştırılmış bir sayısal görüntü kodlama biçimidir. Bu biçim, 1994 yılında ISO 10918-1 adıyla standartlaşmıştır. == Dosya biçimi == JPEG standardında görüntü saklayan dosya biçimi de çoğunluk tarafından JPEG olarak adlandırılır. Bu dosyalar genellikle .jpg, .jpe ya da .jfif uzantılıdır, ancak çoğunlukla .jpg uzantısı kullanılır. Ancak, JPEG standardı sadece görüntünün nasıl kodlanacağını tanımlar, görüntünün herhangi bir saklama ortamında depolanma biçimini belirtmez. JPEG olarak bildiğimiz dosya biçimi, Independent JPEG Group adlı başka bir grubun JFIF (JPEG File Interchange Format - JPEG Dosya Alışveriş Biçimi) adlı standardı tarafından tanımlanmıştır. Bu dosya biçimi, WWW üzerinden görüntü iletmek ve fotoğrafik görüntü saklamak için en popüler dosya biçimi olmuştur. JPEG / JFIF formatı, web için gerçekten de başarılı bir depolama ve veri transfer yapısına sahiptir. Çünkü bu işi yapan GIF formatı sadece 256 rengi desteklediğinden fotoğrafik görüntülerde yetersiz kalmaktadır. PNG'nin görüntü kalitesi daha iyi olsa da web için yeterli boyut optimizasyonunu yapamadığı için büyük boyutlu resimler ortaya çıkmaktadır. Bu da fotoğrafik resimlerin web için kullanılacağı durumlarda da JPEG'i kullanışlı ve tercih edilir bir format hâline getirmektedir. Genel dilde JPEG kısaltması, JPEG standardından çok JFIF dosya biçimine karşılık gelir. Ancak TIFF gibi başka dosya biçimleri de JPEG standardında görüntü saklayabilmektedir. JPEG dijital kameralarda ve diğer fotoğrafik görüntü yakalama cihazları tarafından kullanılan en yaygın görüntü biçimidir.JPEG / JFIF birlikte fotoğrafik görüntülerin saklanması ve iletiminde World Wide Web üzerindeki en yaygın biçimdir. Diğer varyasyonlar seçkin değildirler, sadece JPEG olarak adlandırılır. Dijital ortamda, JPEG dijital fotoğraf (resim) için kayıplı sıkıştırma yaygın olarak kullanılan bir yöntemdir. depolama boyutu ve görüntü kalitesi arasında seçilebilir değişim sağlayan ayarlanabilir dereceli sıkıştırmadır. JPEG genellikle görüntü kalitesinde az algılanabilir kaybı ile 10:01 sıkıştırma sağlar. == Görüntü kodlama yöntemi == JPEG, ayarlanabilir kayıplı sıkıştırma kullanır, dolayısıyla JPEG verisinden okunan görüntü ile veriyi yaratmak için kullanılan görüntü aynı değildir. Ancak, kayıplar insan görme sisteminin daha az önem verdiği detaylarda gerçekleştiği için çoğu zaman fark edilmez. === Renk uzayı dönüşümü ve alt örnekleme === JPEG kodlamada ilk adım, görüntünün RGB uzayından farklı bir uzay olan YCbCr uzayına dönüştürülmesidir. Böylelikle görüntü pikselleri birer parlaklık ve ikişer renk bileşeni ile gösterebilirler. YCbCr, renkli televizyon yayınlarında da kullanılan YUV uzayına benzer bir uzaydır. İnsan retinası, yapısı nedeniyle bir görüntüdeki renk verisini parlaklık verisine göre daha düşük çözünürlükte görür. Dolayısıyla renk verisinin parlaklığa göre daha düşük bir çözünürlükte örneklenmesi, çoğunlukla hissedilir bir değişikliğe neden olmaz. JPEG, yatayda ve/veya düşeyde renk verisinin parlaklığın yarısı çözünürlükte örneklenmesine imkân verir. === Ayrık kosinüs dönüşümü ve nicemleme === Her renk bileşeni, 8x8 bloklar halinde ayrık kosinüs dönüşümü ile dönüştürülür, bu sayede resmin enerjisi az sayıda (dönüşüm uzayındaki) pikselde yoğunlaştırılır. Dönüştürülen blokların nicemlenmesi sonrasında da sıfırdan farklı az sayıda değer ile bloku ifade etmek mümkün olur. Dönüşüm uzayındaki yüksek frekans pikselleri, resmin görsel kalitesinde görece az rol oynarlar, dolayısıyla yüksek frekans pikselleri daha az sayıda değere nicemlenir. Nicemleme, sıkıştırma miktarının ayarlanabilmesini de sağlar. Daha çok nicemleme ile aslından uzak ama daha çok sıkıştırılmış görüntüler elde edilebilir. Nicemlemenin bu yan etkisi görüntüden görüntüye değişen bir nicemleme miktarına kadar büyük miktarda görsel bozulmalara neden olmaz. Nicemleme sonrasında görüntü blokları nicemleme öncesine göre daha az çeşit sayı(sembol) ile ifade edilir hale gelir. Sık rastlanan semboller daha az, seyrek semboller daha çok bitle kodlanarak bilginin daha yoğun ifade edilmesi sağlanabilir. Nicemlenmiş görüntü blokları, standart ya da görüntüye özgü kod tabloları kullanılarak kodlanır ve dosyada depolanırlar. Nicemlenmiş blokların aritmetik kodlama ile kodlanması da mümkündür, ancak aritmetik kodlamanın üstündeki patentler nedeniyle bu yöntem popüler değildir. === Sıkıştırma kaynaklı görüntü bozulmaları === Sıkıştırma oranı arttıkça görsel detayda azalma görülür. Oranın artmasıyla keskin hatların etrafında dalgalanmalar ve detay kaybı, yüksek sıkıştırma oranlarında da bloklanma belirgin hâle gelir. JPEG görüntülerin çeşitli dönüşümler geçirmesi (ör. ölçeklenme) sıkıştırma yan etkilerini daha belirgin hâle getirebilir. JPEG kodlanmış görüntüde yüksek frekans bileşenleri görüntü detay bilgisinin önemli bir kısmını içerir. Sıkıştırma oranı yükseldikçe yüksek frekans bileşenlerinin daha fazlası kaybedilir. En yüksek sıkıştırma oranlarında ise sadece en düşük frekans bileşeni sıfırdan farklıdır, bu nedenle görüntü bloklar hâlinde görülür. == Diğer görüntü biçimleriyle karşılaştırması == === JPEG ve PNG === Fotoğraf ve fotoğraf benzeri resimlerde JPEG, PNG'ye göre çok daha küçük dosyaları küçük kalite kayıpları bedeliyle üretecektir. Ancak çizim ya da metin gibi keskin geçişler içeren resimlerde PNG çok daha iyi sonuç verecektir, çünkü bu tür resimler frekans domaininde kompakt biçimde gösterilemezler. JPEG ile sıkıştırıldıklarında bu resimlerdeki çizgi ve metinlerin etraflarında basamaklanmalar ve bulanıklıklar görülür. PNG'nin JPEG'e genelde tercih edilmemesindeki en büyük etken, kayıplı bir sıkıştırma algoritmasını kullanan JPEG'e kıyasla, PNG dosyalarının kimi zaman 4-5 kat daha büyük alan kaplamasıdır. PNG keskin kenarlı, vektörel ve metin içeren resimlerde daha başarılı sonuç verirken, İnternet'teki yüklenme hızının kabul edilebilir kalite kaybına tercih edildiği durumlarda JPEG kullanılmaktadır. JPEG, özellikle doğa görüntüleri gibi yüksek frekanslı bileşenleri görece önemsiz görüntüleri çok az görsel kayıpla, kayıpsız sıkıştırma yöntemlerinden çok daha yüksek verimle sıkıştırabilir. JPEG, kullanılan sıkıştırma algoritmasının yüksekliğiyle orantılı olarak, özellikle kenar ve renk geçişlerinde (gradient) kalite kaybına uğrayan bir biçimdir. Ancak yüksek sıkıştırma yeteneği ve EXIF bilgilerini saklayabilmesi gibi üstünlükleri, sayısal kameralarda JPEG biçiminin yaygınlaşmasını sağlamıştır. == JPEG'in kullanım alanları == JPEG, özellikle doğa görüntüleri gibi yüksek frekanslı bileşenleri görece önemsiz görüntüleri çok az görsel kayıpla, kayıpsız sıkıştırma yöntemlerinden çok daha yüksek verimle sıkıştırabilir. Ancak, çizimler ya da keskin hatlı cisimler içeren görüntülerde sıkıştırma miktarı arttıkça keskin hatların etrafında dalgalanma görülür.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 872,
+      "char_count": 6860,
+      "num_chunks": 12,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.894423",
+    "total_chunks": 12,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 206,
+      "content": "JPEG, Joint Photographic Experts Group (Birleşik Fotoğraf Uzmanları Grubu) tarafından standartlaştırılmış bir sayısal görüntü kodlama biçimidir. Bu biçim, 1994 yılında ISO 10918-1 adıyla standartlaşmıştır.",
+      "char_count": 205,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0001",
+      "section": "== Dosya biçimi ==",
+      "heading_path": "== Dosya biçimi ==",
+      "start_char": 206,
+      "end_char": 1206,
+      "content": "== Dosya biçimi == JPEG standardında görüntü saklayan dosya biçimi de çoğunluk tarafından JPEG olarak adlandırılır. Bu dosyalar genellikle .jpg, .jpe ya da .jfif uzantılıdır, ancak çoğunlukla .jpg uzantısı kullanılır. Ancak, JPEG standardı sadece görüntünün nasıl kodlanacağını tanımlar, görüntünün herhangi bir saklama ortamında depolanma biçimini belirtmez. JPEG olarak bildiğimiz dosya biçimi, Independent JPEG Group adlı başka bir grubun JFIF (JPEG File Interchange Format - JPEG Dosya Alışveriş Biçimi) adlı standardı tarafından tanımlanmıştır. Bu dosya biçimi, WWW üzerinden görüntü iletmek ve fotoğrafik görüntü saklamak için en popüler dosya biçimi olmuştur. JPEG / JFIF formatı, web için gerçekten de başarılı bir depolama ve veri transfer yapısına sahiptir. Çünkü bu işi yapan GIF formatı sadece 256 rengi desteklediğinden fotoğrafik görüntülerde yetersiz kalmaktadır. PNG'nin görüntü kalitesi daha iyi olsa da web için yeterli boyut optimizasyonunu yapamadığı için büyük boyutlu resimler o",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Dosya biçimi ==",
+      "heading_path": "== Dosya biçimi ==",
+      "start_char": 1006,
+      "end_char": 2006,
+      "content": "adece 256 rengi desteklediğinden fotoğrafik görüntülerde yetersiz kalmaktadır. PNG'nin görüntü kalitesi daha iyi olsa da web için yeterli boyut optimizasyonunu yapamadığı için büyük boyutlu resimler ortaya çıkmaktadır. Bu da fotoğrafik resimlerin web için kullanılacağı durumlarda da JPEG'i kullanışlı ve tercih edilir bir format hâline getirmektedir. Genel dilde JPEG kısaltması, JPEG standardından çok JFIF dosya biçimine karşılık gelir. Ancak TIFF gibi başka dosya biçimleri de JPEG standardında görüntü saklayabilmektedir. JPEG dijital kameralarda ve diğer fotoğrafik görüntü yakalama cihazları tarafından kullanılan en yaygın görüntü biçimidir.JPEG / JFIF birlikte fotoğrafik görüntülerin saklanması ve iletiminde World Wide Web üzerindeki en yaygın biçimdir. Diğer varyasyonlar seçkin değildirler, sadece JPEG olarak adlandırılır. Dijital ortamda, JPEG dijital fotoğraf (resim) için kayıplı sıkıştırma yaygın olarak kullanılan bir yöntemdir. depolama boyutu ve görüntü kalitesi arasında seçileb",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Dosya biçimi ==",
+      "heading_path": "== Dosya biçimi ==",
+      "start_char": 1806,
+      "end_char": 2153,
+      "content": "er, sadece JPEG olarak adlandırılır. Dijital ortamda, JPEG dijital fotoğraf (resim) için kayıplı sıkıştırma yaygın olarak kullanılan bir yöntemdir. depolama boyutu ve görüntü kalitesi arasında seçilebilir değişim sağlayan ayarlanabilir dereceli sıkıştırmadır. JPEG genellikle görüntü kalitesinde az algılanabilir kaybı ile 10:01 sıkıştırma sağlar.",
+      "char_count": 347,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0004",
+      "section": "== Görüntü kodlama yöntemi ==",
+      "heading_path": "== Görüntü kodlama yöntemi ==",
+      "start_char": 2154,
+      "end_char": 2450,
+      "content": "== Görüntü kodlama yöntemi == JPEG, ayarlanabilir kayıplı sıkıştırma kullanır, dolayısıyla JPEG verisinden okunan görüntü ile veriyi yaratmak için kullanılan görüntü aynı değildir. Ancak, kayıplar insan görme sisteminin daha az önem verdiği detaylarda gerçekleştiği için çoğu zaman fark edilmez.",
+      "char_count": 295,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0005",
+      "section": "=== Renk uzayı dönüşümü ve alt örnekleme ===",
+      "heading_path": "=== Renk uzayı dönüşümü ve alt örnekleme ===",
+      "start_char": 2450,
+      "end_char": 3133,
+      "content": "=== Renk uzayı dönüşümü ve alt örnekleme === JPEG kodlamada ilk adım, görüntünün RGB uzayından farklı bir uzay olan YCbCr uzayına dönüştürülmesidir. Böylelikle görüntü pikselleri birer parlaklık ve ikişer renk bileşeni ile gösterebilirler. YCbCr, renkli televizyon yayınlarında da kullanılan YUV uzayına benzer bir uzaydır. İnsan retinası, yapısı nedeniyle bir görüntüdeki renk verisini parlaklık verisine göre daha düşük çözünürlükte görür. Dolayısıyla renk verisinin parlaklığa göre daha düşük bir çözünürlükte örneklenmesi, çoğunlukla hissedilir bir değişikliğe neden olmaz. JPEG, yatayda ve/veya düşeyde renk verisinin parlaklığın yarısı çözünürlükte örneklenmesine imkân verir.",
+      "char_count": 682,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0006",
+      "section": "=== Ayrık kosinüs dönüşümü ve nicemleme ===",
+      "heading_path": "=== Ayrık kosinüs dönüşümü ve nicemleme ===",
+      "start_char": 3133,
+      "end_char": 4133,
+      "content": "=== Ayrık kosinüs dönüşümü ve nicemleme === Her renk bileşeni, 8x8 bloklar halinde ayrık kosinüs dönüşümü ile dönüştürülür, bu sayede resmin enerjisi az sayıda (dönüşüm uzayındaki) pikselde yoğunlaştırılır. Dönüştürülen blokların nicemlenmesi sonrasında da sıfırdan farklı az sayıda değer ile bloku ifade etmek mümkün olur. Dönüşüm uzayındaki yüksek frekans pikselleri, resmin görsel kalitesinde görece az rol oynarlar, dolayısıyla yüksek frekans pikselleri daha az sayıda değere nicemlenir. Nicemleme, sıkıştırma miktarının ayarlanabilmesini de sağlar. Daha çok nicemleme ile aslından uzak ama daha çok sıkıştırılmış görüntüler elde edilebilir. Nicemlemenin bu yan etkisi görüntüden görüntüye değişen bir nicemleme miktarına kadar büyük miktarda görsel bozulmalara neden olmaz. Nicemleme sonrasında görüntü blokları nicemleme öncesine göre daha az çeşit sayı(sembol) ile ifade edilir hale gelir. Sık rastlanan semboller daha az, seyrek semboller daha çok bitle kodlanarak bilginin daha yoğun ifade e",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "=== Ayrık kosinüs dönüşümü ve nicemleme ===",
+      "heading_path": "=== Ayrık kosinüs dönüşümü ve nicemleme ===",
+      "start_char": 3933,
+      "end_char": 4429,
+      "content": "görüntü blokları nicemleme öncesine göre daha az çeşit sayı(sembol) ile ifade edilir hale gelir. Sık rastlanan semboller daha az, seyrek semboller daha çok bitle kodlanarak bilginin daha yoğun ifade edilmesi sağlanabilir. Nicemlenmiş görüntü blokları, standart ya da görüntüye özgü kod tabloları kullanılarak kodlanır ve dosyada depolanırlar. Nicemlenmiş blokların aritmetik kodlama ile kodlanması da mümkündür, ancak aritmetik kodlamanın üstündeki patentler nedeniyle bu yöntem popüler değildir.",
+      "char_count": 496,
+      "token_estimate": 124
+    },
+    {
+      "id": "c0008",
+      "section": "=== Sıkıştırma kaynaklı görüntü bozulmaları ===",
+      "heading_path": "=== Sıkıştırma kaynaklı görüntü bozulmaları ===",
+      "start_char": 4430,
+      "end_char": 5117,
+      "content": "=== Sıkıştırma kaynaklı görüntü bozulmaları === Sıkıştırma oranı arttıkça görsel detayda azalma görülür. Oranın artmasıyla keskin hatların etrafında dalgalanmalar ve detay kaybı, yüksek sıkıştırma oranlarında da bloklanma belirgin hâle gelir. JPEG görüntülerin çeşitli dönüşümler geçirmesi (ör. ölçeklenme) sıkıştırma yan etkilerini daha belirgin hâle getirebilir. JPEG kodlanmış görüntüde yüksek frekans bileşenleri görüntü detay bilgisinin önemli bir kısmını içerir. Sıkıştırma oranı yükseldikçe yüksek frekans bileşenlerinin daha fazlası kaybedilir. En yüksek sıkıştırma oranlarında ise sadece en düşük frekans bileşeni sıfırdan farklıdır, bu nedenle görüntü bloklar hâlinde görülür.",
+      "char_count": 686,
+      "token_estimate": 171
+    },
+    {
+      "id": "c0009",
+      "section": "=== JPEG ve PNG ===",
+      "heading_path": "=== JPEG ve PNG ===",
+      "start_char": 5166,
+      "end_char": 6166,
+      "content": "=== JPEG ve PNG === Fotoğraf ve fotoğraf benzeri resimlerde JPEG, PNG'ye göre çok daha küçük dosyaları küçük kalite kayıpları bedeliyle üretecektir. Ancak çizim ya da metin gibi keskin geçişler içeren resimlerde PNG çok daha iyi sonuç verecektir, çünkü bu tür resimler frekans domaininde kompakt biçimde gösterilemezler. JPEG ile sıkıştırıldıklarında bu resimlerdeki çizgi ve metinlerin etraflarında basamaklanmalar ve bulanıklıklar görülür. PNG'nin JPEG'e genelde tercih edilmemesindeki en büyük etken, kayıplı bir sıkıştırma algoritmasını kullanan JPEG'e kıyasla, PNG dosyalarının kimi zaman 4-5 kat daha büyük alan kaplamasıdır. PNG keskin kenarlı, vektörel ve metin içeren resimlerde daha başarılı sonuç verirken, İnternet'teki yüklenme hızının kabul edilebilir kalite kaybına tercih edildiği durumlarda JPEG kullanılmaktadır. JPEG, özellikle doğa görüntüleri gibi yüksek frekanslı bileşenleri görece önemsiz görüntüleri çok az görsel kayıpla, kayıpsız sıkıştırma yöntemlerinden çok daha yüksek v",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0010",
+      "section": "=== JPEG ve PNG ===",
+      "heading_path": "=== JPEG ve PNG ===",
+      "start_char": 5966,
+      "end_char": 6498,
+      "content": "umlarda JPEG kullanılmaktadır. JPEG, özellikle doğa görüntüleri gibi yüksek frekanslı bileşenleri görece önemsiz görüntüleri çok az görsel kayıpla, kayıpsız sıkıştırma yöntemlerinden çok daha yüksek verimle sıkıştırabilir. JPEG, kullanılan sıkıştırma algoritmasının yüksekliğiyle orantılı olarak, özellikle kenar ve renk geçişlerinde (gradient) kalite kaybına uğrayan bir biçimdir. Ancak yüksek sıkıştırma yeteneği ve EXIF bilgilerini saklayabilmesi gibi üstünlükleri, sayısal kameralarda JPEG biçiminin yaygınlaşmasını sağlamıştır.",
+      "char_count": 532,
+      "token_estimate": 133
+    },
+    {
+      "id": "c0011",
+      "section": "== JPEG'in kullanım alanları ==",
+      "heading_path": "== JPEG'in kullanım alanları ==",
+      "start_char": 6499,
+      "end_char": 6860,
+      "content": "== JPEG'in kullanım alanları == JPEG, özellikle doğa görüntüleri gibi yüksek frekanslı bileşenleri görece önemsiz görüntüleri çok az görsel kayıpla, kayıpsız sıkıştırma yöntemlerinden çok daha yüksek verimle sıkıştırabilir. Ancak, çizimler ya da keskin hatlı cisimler içeren görüntülerde sıkıştırma miktarı arttıkça keskin hatların etrafında dalgalanma görülür.",
+      "char_count": 361,
+      "token_estimate": 90
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "JPEG olarak bilinen dosya biçimini tanımlayan grup hangisidir?",
+        "answer": "Independent JPEG Group",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Joint Photographic Experts Group tarafından standartlaştırılan görüntü kodlama biçimi ile Independent JPEG Group tarafından tanımlanan JFIF dosya biçiminin, web ve dijital fotoğrafçılık alanında neden en yaygın format haline geldiğini açıklayınız.",
+        "answer": "JPEG standardı, Joint Photographic Experts Group tarafından sayısal görüntü kodlama biçimini tanımlarken, görüntünün depolanma biçimini belirtmez. Yaygın olarak JPEG adıyla bilinen dosya biçimi ise Independent JPEG Group'un JFIF (JPEG File Interchange Format) standardı tarafından tanımlanmıştır. Bu JPEG/JFIF kombinasyonu, web üzerinden görüntü iletmek ve fotoğrafik görüntüleri saklamak için en popüler dosya biçimi olmuştur. Bunun nedeni, sadece 256 rengi destekleyen GIF formatının fotoğrafik görüntülerde yetersiz kalması ve PNG'nin görüntü kalitesi daha iyi olsa da web için yeterli boyut optimizasyonunu yapamamasıdır. Bu durum, JPEG'i dijital kameralarda ve World Wide Web üzerindeki fotoğrafik görüntülerin saklanması ve iletimi için kullanışlı ve tercih edilen bir format haline getirmiştir. Dijital ortamda, JPEG dijital fotoğraf için yaygın olarak kullanılan kayıplı sıkıştırma yöntemidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

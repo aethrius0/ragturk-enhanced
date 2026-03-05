@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "muhteemkralie_d45ae1ee",
+    "title": "Muhteşem Kraliçe",
+    "url": "https://tr.wikipedia.org/wiki/Muhte%C5%9Fem_Krali%C3%A7e",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:21.742197",
+    "content": "Muhteşem Kraliçe (Seondeok Yeowang, Queen Seon Deok veya The Great Queen Seondeok), Güney Kore televizyon kanalı MBC tarafından 2009 yılında yapılmış dizisi. Türkiye'de, 7 Aralık 2009'dan itibaren TRT 1'de yayınlanmıştır. == Özet == Deokman (daha sonra bilinecek adıyla Kraliçe Seondeok) ikiz olarak doğmuş ama ikizlerin felaket getireceği kehaneti sebebiyle bebekken terk edilmiştir. Daha sonra saraya geri getirilince gücü ele geçirmek isteyen Lady Mishil 'in karşısında ikizi Prenses Chongmyeong'un tarafına katılır. Lady Mishil iki Silla prensesini ve savaştaki Prenses Deokman'ı öldürmek için ketum bir plan yapar. Prenses Chongmyong, Lady Misil'in adamları tarafından suikaste uğrar. Fakat, Prenses Deokman kurnazca yazdığı bir notla General Kim Yusin, Hwarang Alchun ve Lady Mishil 'den nefret edenlerle birlik olup uzun savaşlar sonucu Lady Mishil 'i ortadan kaldırır. Prenses Deokman sonunda Silla Krallığının ilk kraliçesi Kraliçe Seondeok olarak tahta çıkar. == Tarihi bağlantısı == === Kraliçe Seon Duk (biyografi) === Seondeok (선덕여왕), Kore Yarımadasının Güneyinde bulunan Silla Krallığı'nın (mö.57-ms.935) 27. Hükümdarı ve ilk kadın yöneticisidir. M.s 632 - 647 yılları arasında Silla'ya hükmetmiştir. === Veliaht seçimi === Kraliçe olmadan önce, Seon Deok, \"Deok Man\" adı ile bilinirdi. Kral Jingpyeong'un iki kızından en küçüğüydü. Kral Jingpeyong'un erkek çocuğu olamadığı için Seon Deok'u varisi olarak seçti. Bu durum Silla hanedanında şaşkınlıkla karşılandı ve Deok Man'ın kraliçe olmaması için bazı planlar yaptılar amaçları ikiz kardeşinin oğlu olan Kim Chun Chu'yu tahta geçirmekti ama başarılı olamadılar. === Hükümdarlığı === Milattan sonra 634 yılında kraliçe olmuştur. Silla tarihindeki 3 kraliçeden ilkiydi. Seondeok'un yönetimindeki dönem olmuştu. Komşu Krallık Baekje(Bekçe)'de yaşanan isyanlar onun günlerini yiyordu. Hüküm sürdüğü 14 yıl boyunca, onun tek avantajı zekası olmuştu. Silla'nın bütünlüğünü korumuş ve Çin (Tang Hanedanı) ile bağları genişletmiş, Tang Hanedanına öğrenciler göndermiştir. Uzakdoğunun ilk gözlemevlerinden birini inşa ettirmiştir. Cheomseongdae adındaki bu gözlemevi hala sapasağlam ayakta durmakta ve bugünkü Gyeongju bölgesinde bulunmaktadır. === Dizideki Başlıca Karakterler === Deokman : Lee Yo-won Bidam : Kim Nam-gil Yushin : Uhm Tae-woong Mishil : Ko Hyun Jung == Dış bağlantılar == Muhteşem Kraliçe (Queen Seon Duk) resmi websitesi8 Şubat 2010 tarihinde Wayback Machine sitesinde arşivlendi. {{|url=https://web.archive.org/web/20100208215053/http://www.imbc.com/broad/tv/drama/seonduk/index.html |tarih=8 Şubat 2010 }} (MBC) (Korece) Muhteşem Kraliçe (Queen Seon Duk) MBC Amerika Sitesi10 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 357,
+      "char_count": 2724,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.231558",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 222,
+      "content": "Muhteşem Kraliçe (Seondeok Yeowang, Queen Seon Deok veya The Great Queen Seondeok), Güney Kore televizyon kanalı MBC tarafından 2009 yılında yapılmış dizisi. Türkiye'de, 7 Aralık 2009'dan itibaren TRT 1'de yayınlanmıştır.",
+      "char_count": 221,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0001",
+      "section": "== Özet ==",
+      "heading_path": "== Özet ==",
+      "start_char": 222,
+      "end_char": 970,
+      "content": "== Özet == Deokman (daha sonra bilinecek adıyla Kraliçe Seondeok) ikiz olarak doğmuş ama ikizlerin felaket getireceği kehaneti sebebiyle bebekken terk edilmiştir. Daha sonra saraya geri getirilince gücü ele geçirmek isteyen Lady Mishil 'in karşısında ikizi Prenses Chongmyeong'un tarafına katılır. Lady Mishil iki Silla prensesini ve savaştaki Prenses Deokman'ı öldürmek için ketum bir plan yapar. Prenses Chongmyong, Lady Misil'in adamları tarafından suikaste uğrar. Fakat, Prenses Deokman kurnazca yazdığı bir notla General Kim Yusin, Hwarang Alchun ve Lady Mishil 'den nefret edenlerle birlik olup uzun savaşlar sonucu Lady Mishil 'i ortadan kaldırır. Prenses Deokman sonunda Silla Krallığının ilk kraliçesi Kraliçe Seondeok olarak tahta çıkar.",
+      "char_count": 747,
+      "token_estimate": 186
+    },
+    {
+      "id": "c0002",
+      "section": "=== Kraliçe Seon Duk (biyografi) ===",
+      "heading_path": "=== Kraliçe Seon Duk (biyografi) ===",
+      "start_char": 994,
+      "end_char": 1215,
+      "content": "=== Kraliçe Seon Duk (biyografi) === Seondeok (선덕여왕), Kore Yarımadasının Güneyinde bulunan Silla Krallığı'nın (mö.57-ms.935) 27. Hükümdarı ve ilk kadın yöneticisidir. M.s 632 - 647 yılları arasında Silla'ya hükmetmiştir.",
+      "char_count": 220,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0003",
+      "section": "=== Veliaht seçimi ===",
+      "heading_path": "=== Veliaht seçimi ===",
+      "start_char": 1215,
+      "end_char": 1629,
+      "content": "=== Veliaht seçimi === Kraliçe olmadan önce, Seon Deok, \"Deok Man\" adı ile bilinirdi. Kral Jingpyeong'un iki kızından en küçüğüydü. Kral Jingpeyong'un erkek çocuğu olamadığı için Seon Deok'u varisi olarak seçti. Bu durum Silla hanedanında şaşkınlıkla karşılandı ve Deok Man'ın kraliçe olmaması için bazı planlar yaptılar amaçları ikiz kardeşinin oğlu olan Kim Chun Chu'yu tahta geçirmekti ama başarılı olamadılar.",
+      "char_count": 413,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0004",
+      "section": "=== Hükümdarlığı ===",
+      "heading_path": "=== Hükümdarlığı ===",
+      "start_char": 1629,
+      "end_char": 2203,
+      "content": "=== Hükümdarlığı === Milattan sonra 634 yılında kraliçe olmuştur. Silla tarihindeki 3 kraliçeden ilkiydi. Seondeok'un yönetimindeki dönem olmuştu. Komşu Krallık Baekje(Bekçe)'de yaşanan isyanlar onun günlerini yiyordu. Hüküm sürdüğü 14 yıl boyunca, onun tek avantajı zekası olmuştu. Silla'nın bütünlüğünü korumuş ve Çin (Tang Hanedanı) ile bağları genişletmiş, Tang Hanedanına öğrenciler göndermiştir. Uzakdoğunun ilk gözlemevlerinden birini inşa ettirmiştir. Cheomseongdae adındaki bu gözlemevi hala sapasağlam ayakta durmakta ve bugünkü Gyeongju bölgesinde bulunmaktadır.",
+      "char_count": 573,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0005",
+      "section": "=== Dizideki Başlıca Karakterler ===",
+      "heading_path": "=== Dizideki Başlıca Karakterler ===",
+      "start_char": 2203,
+      "end_char": 2326,
+      "content": "=== Dizideki Başlıca Karakterler === Deokman : Lee Yo-won Bidam : Kim Nam-gil Yushin : Uhm Tae-woong Mishil : Ko Hyun Jung",
+      "char_count": 122,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2326,
+      "end_char": 2724,
+      "content": "== Dış bağlantılar == Muhteşem Kraliçe (Queen Seon Duk) resmi websitesi8 Şubat 2010 tarihinde Wayback Machine sitesinde arşivlendi. {{|url=https://web.archive.org/web/20100208215053/http://www.imbc.com/broad/tv/drama/seonduk/index.html |tarih=8 Şubat 2010 }} (MBC) (Korece) Muhteşem Kraliçe (Queen Seon Duk) MBC Amerika Sitesi10 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+      "char_count": 398,
+      "token_estimate": 99
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Deokman bebekken neden terk edilmiştir?",
+        "answer": "İkizlerin felaket getireceği kehaneti sebebiyle.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "'Muhteşem Kraliçe' dizisinin başlığında adı geçen Kraliçe Seondeok figürü, dizinin özetinde anlatılan Deokman karakterinin hangi önemli aşamaları ve mücadeleleri sonucunda bu unvana ulaştığını yansıtmaktadır?",
+        "answer": "Kraliçe Seondeok figürü, Deokman'ın ikiz kehaneti nedeniyle bebekken terk edilmesi, saraya geri getirilip Lady Mishil'e karşı Prenses Chongmyeong'un tarafına katılması, ikizinin suikaste uğraması ve General Kim Yusin, Hwarang Alchun gibi müttefiklerle birlikte Lady Mishil'i ortadan kaldırarak Silla Krallığı'nın ilk kraliçesi olarak tahta çıkması gibi önemli aşamaları ve mücadeleleri sonucunda bu unvana ulaştığını yansıtmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

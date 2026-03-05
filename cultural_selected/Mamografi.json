@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "mamografi_e87d8e2e",
+    "title": "Mamografi",
+    "url": "https://tr.wikipedia.org/wiki/Mamografi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:59.726448",
+    "content": "Mamografi, memenin filmini çeken özel bir cihaz. Meme kanserinin teşhisindeki en etkin görüntüleme yöntemlerinden biridir. Memede, muayene ile saptanamayacak kadar küçük anormalliklerin tespit edilmesi amacıyla uygulanan mamografi yönteminde elde edilen sonuç, meme kanseri tanısında büyük önem taşımaktadır. Her yaştaki kadına tıbbi gereklilik halinde mamografi uygulaması yapılabilir ancak yakınması olmayan hastaların da 35-40 yaş aralığında en az 1 kez mamografi yaptırması öngörülmektedir. Hiçbir şikayeti olmayan kadınların yaşlarına uygun yıllık takipler yaptırması, meme kanserine karşı tek korunma yoludur. Çekim yapılırken meme, cihazın iki tabakası arasında birkaç saniye süreyle hafifçe sıkıştırılır. Bu nedenle memelerin en az hassas olduğu zamanda mamografi çekilmesi, özellikle memeleri hassas kadınlara önerilir. Adet bitimi sonrasındaki hafta en uygun süreçtir. Çekilecek filmi etkilememesi amacıyla koltuk altı deodorantı, pudrası, losyon vb. koku ve maddeler kullanılmamalıdır. Normal mamografide, meme dokusu 2 plaka arasında sıkıştırılarak iki pozisyonda filmleri alınır. Bu şekilde tüm meme dokusu ancak 2 boyutlu olarak değerlendirilebilir. Bütün meme dokusu sadece iki kesitle değerlendirildiğinden, özellikle yoğun meme dokusu söz konusu olduğunda kanserli alan diğer dokular arasında gizlenebilir. Bu kısıtlılık nedeniyle mamografinin doğru tanı koyabilme oranı en iyi merkezlerde bile % 85 sınırında kalmaktadır. Tomosentez ile bu problem aşılmıştır. Dijital Tomosentez cihazı ile memenin milimetrik kesitleri alınmakta ve 3 boyutlu görüntüsü elde edilmektedir. Bu şekilde memenin iç yapısı daha net olarak görüntülenmekte ve varsa tümörün 3 boyutlu olarak yeri tespit edilebilmektedir.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 219,
+      "char_count": 1713,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.020688",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Mamografi, memenin filmini çeken özel bir cihaz. Meme kanserinin teşhisindeki en etkin görüntüleme yöntemlerinden biridir. Memede, muayene ile saptanamayacak kadar küçük anormalliklerin tespit edilmesi amacıyla uygulanan mamografi yönteminde elde edilen sonuç, meme kanseri tanısında büyük önem taşımaktadır. Her yaştaki kadına tıbbi gereklilik halinde mamografi uygulaması yapılabilir ancak yakınması olmayan hastaların da 35-40 yaş aralığında en az 1 kez mamografi yaptırması öngörülmektedir. Hiçbir şikayeti olmayan kadınların yaşlarına uygun yıllık takipler yaptırması, meme kanserine karşı tek korunma yoludur. Çekim yapılırken meme, cihazın iki tabakası arasında birkaç saniye süreyle hafifçe sıkıştırılır. Bu nedenle memelerin en az hassas olduğu zamanda mamografi çekilmesi, özellikle memeleri hassas kadınlara önerilir. Adet bitimi sonrasındaki hafta en uygun süreçtir. Çekilecek filmi etkilememesi amacıyla koltuk altı deodorantı, pudrası, losyon vb. koku ve maddeler kullanılmamalıdır. Nor",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1713,
+      "content": "i hassas kadınlara önerilir. Adet bitimi sonrasındaki hafta en uygun süreçtir. Çekilecek filmi etkilememesi amacıyla koltuk altı deodorantı, pudrası, losyon vb. koku ve maddeler kullanılmamalıdır. Normal mamografide, meme dokusu 2 plaka arasında sıkıştırılarak iki pozisyonda filmleri alınır. Bu şekilde tüm meme dokusu ancak 2 boyutlu olarak değerlendirilebilir. Bütün meme dokusu sadece iki kesitle değerlendirildiğinden, özellikle yoğun meme dokusu söz konusu olduğunda kanserli alan diğer dokular arasında gizlenebilir. Bu kısıtlılık nedeniyle mamografinin doğru tanı koyabilme oranı en iyi merkezlerde bile % 85 sınırında kalmaktadır. Tomosentez ile bu problem aşılmıştır. Dijital Tomosentez cihazı ile memenin milimetrik kesitleri alınmakta ve 3 boyutlu görüntüsü elde edilmektedir. Bu şekilde memenin iç yapısı daha net olarak görüntülenmekte ve varsa tümörün 3 boyutlu olarak yeri tespit edilebilmektedir.",
+      "char_count": 913,
+      "token_estimate": 228
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yakınması olmayan hastaların hangi yaş aralığında en az bir kez mamografi yaptırması öngörülmektedir?",
+        "answer": "35-40 yaş aralığında.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mamografi, meme kanserinin teşhisinde etkin bir yöntem olarak tanımlanmasına rağmen, normal mamografide karşılaşılan temel zorluk nedir ve Dijital Tomosentez bu zorluğu nasıl ele almaktadır?",
+        "answer": "Normal mamografideki temel zorluk, meme dokusunun iki plaka arasında sıkıştırılarak yalnızca iki boyutlu olarak değerlendirilmesi nedeniyle, özellikle yoğun meme dokusu durumunda kanserli alanların diğer dokular arasında gizlenebilmesidir. Dijital Tomosentez, memenin milimetrik kesitlerini alarak 3 boyutlu görüntü elde etmesi ve böylece iç yapıyı daha net görüntülemesi ile bu zorluğu aşar, tümörün 3 boyutlu yerini tespit edebilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

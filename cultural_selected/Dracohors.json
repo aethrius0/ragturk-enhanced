@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "dracohors_b19504f2",
+    "title": "Dracohors",
+    "url": "https://tr.wikipedia.org/wiki/Dracohors",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:50.781561",
+    "content": "Dracohors, dinozorları ve silesauridleri içeren dinosauriform arkozorların bir dalıdır. Bilinen en eski dracohortiyen, Orta Triyas döneminin Anisiyen çağında yaklaşık 245 milyon yıl öncesine tarihlenen Asilisaurus'tur. Andrea Cau'ya (2018) göre, dracohortiyenlerin sinapomorfileri şunlardır: Cau, grubu \"Megalosaurus bucklandii Mantell, 1827'yi içeren, ancak Marasuchus lilloensis'i (Romer, 1971) hariç tutan en kapsamlı dal\" olarak tanımladı. Filogenetik çalışmanın iyi bir fikir birliği, silesauridler ve dinozorların kardeş gruplaşmasını desteklemektedir, ancak Dinozor içindeki karşılıklı ilişkiler tartışılmaktadır. Eodromaeus, Daemonosaurus, Pisanosaurus, ve herrerasauridler gibi çeşitli bazal Triyas dinozorlarının konumları özellikle tartışılmaktadır; ayrıca büyük dinozor grupları Sauropodomorpha, Theropoda ve Ornithischia arasındaki ilişkiler de hâla tartışma konusudur. Bu belirsizliğin nedeni, takson örnekleme boyutu ve bunların filogenetik ağaç için kodlamayı nasıl etkilediğine ilişkin çıkarımlardır. Cau (2018), kuş bauplanının aşamalı evrimi hakkındaki makalesinde, tutumluluk analizinde herrerasaur dereceli taksonlar, Sauropodomorpha ve tartışmalı Ornithoscelida arasında bir politomi buldu. Bununla birlikte Bayes analizi, Dinosauria ve Herrerasauria'nın kardeş gruplaması için zayıf destek buldu, ancak aşağıda gösterildiği gibi Sauropodomorpha ve Ornithoscelida arasındaki ikilik için güçlü destek buldu. == Etimoloji == Adı, Latince draco (ejderha, [büyük] yılan) ve kohorlardan (kohort (askeri birim)) gelen haplolojiden oluşur. Latince genitifi dracohortis'tir. Hayvan dallarının çoğunun ismi çoğuldur (örn. Saurischia = \"kertenkelelerin kalçaları gibi kalçaları olanlar\"), ancak Dracohors (\"ejderha kohortu\" anlamına gelir) toplu bir ismin tekilidir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 205,
+      "char_count": 1793,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.801068",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Dracohors, dinozorları ve silesauridleri içeren dinosauriform arkozorların bir dalıdır. Bilinen en eski dracohortiyen, Orta Triyas döneminin Anisiyen çağında yaklaşık 245 milyon yıl öncesine tarihlenen Asilisaurus'tur. Andrea Cau'ya (2018) göre, dracohortiyenlerin sinapomorfileri şunlardır: Cau, grubu \"Megalosaurus bucklandii Mantell, 1827'yi içeren, ancak Marasuchus lilloensis'i (Romer, 1971) hariç tutan en kapsamlı dal\" olarak tanımladı. Filogenetik çalışmanın iyi bir fikir birliği, silesauridler ve dinozorların kardeş gruplaşmasını desteklemektedir, ancak Dinozor içindeki karşılıklı ilişkiler tartışılmaktadır. Eodromaeus, Daemonosaurus, Pisanosaurus, ve herrerasauridler gibi çeşitli bazal Triyas dinozorlarının konumları özellikle tartışılmaktadır; ayrıca büyük dinozor grupları Sauropodomorpha, Theropoda ve Ornithischia arasındaki ilişkiler de hâla tartışma konusudur. Bu belirsizliğin nedeni, takson örnekleme boyutu ve bunların filogenetik ağaç için kodlamayı nasıl etkilediğine ilişk",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1428,
+      "content": "morpha, Theropoda ve Ornithischia arasındaki ilişkiler de hâla tartışma konusudur. Bu belirsizliğin nedeni, takson örnekleme boyutu ve bunların filogenetik ağaç için kodlamayı nasıl etkilediğine ilişkin çıkarımlardır. Cau (2018), kuş bauplanının aşamalı evrimi hakkındaki makalesinde, tutumluluk analizinde herrerasaur dereceli taksonlar, Sauropodomorpha ve tartışmalı Ornithoscelida arasında bir politomi buldu. Bununla birlikte Bayes analizi, Dinosauria ve Herrerasauria'nın kardeş gruplaması için zayıf destek buldu, ancak aşağıda gösterildiği gibi Sauropodomorpha ve Ornithoscelida arasındaki ikilik için güçlü destek buldu.",
+      "char_count": 628,
+      "token_estimate": 157
+    },
+    {
+      "id": "c0002",
+      "section": "== Etimoloji ==",
+      "heading_path": "== Etimoloji ==",
+      "start_char": 1429,
+      "end_char": 1646,
+      "content": "== Etimoloji == Adı, Latince draco (ejderha, [büyük] yılan) ve kohorlardan (kohort (askeri birim)) gelen haplolojiden oluşur. Latince genitifi dracohortis'tir. Hayvan dallarının çoğunun ismi çoğuldur (örn. Saurischia",
+      "char_count": 216,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0003",
+      "section": "= \"kertenkelelerin kalçaları gibi kalçaları olanlar\"), ancak Dracohors (\"ejderha kohortu\" anlamına gelir) toplu bir ismin tekilidir. = =",
+      "heading_path": "= \"kertenkelelerin kalçaları gibi kalçaları olanlar\"), ancak Dracohors (\"ejderha kohortu\" anlamına gelir) toplu bir ismin tekilidir. = =",
+      "start_char": 1646,
+      "end_char": 1793,
+      "content": "= \"kertenkelelerin kalçaları gibi kalçaları olanlar\"), ancak Dracohors (\"ejderha kohortu\" anlamına gelir) toplu bir ismin tekilidir. == Kaynakça ==",
+      "char_count": 147,
+      "token_estimate": 36
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bilinen en eski dracohortiyen nedir ve yaklaşık olarak ne zaman yaşamıştır?",
+        "answer": "Bilinen en eski dracohortiyen Asilisaurus'tur ve yaklaşık 245 milyon yıl öncesine, Orta Triyas döneminin Anisiyen çağına tarihlenmektedir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dinozorlar içindeki karşılıklı ilişkilerle ilgili temel tartışma konuları nelerdir ve Andrea Cau'nun 2018'deki analizi bu belirsizliklere nasıl farklı sonuçlar sunmuştur?",
+        "answer": "Dinozorlar içinde, Eodromaeus, Daemonosaurus, Pisanosaurus ve herrerasauridler gibi çeşitli bazal Triyas dinozorlarının konumları ile Sauropodomorpha, Theropoda ve Ornithischia gibi büyük dinozor grupları arasındaki ilişkiler tartışılmaktadır. Andrea Cau'nun 2018'deki analizine göre, tutumluluk analizi herrerasaur dereceli taksonlar, Sauropodomorpha ve tartışmalı Ornithoscelida arasında bir politomi bulurken; Bayes analizi, Dinosauria ve Herrerasauria'nın kardeş gruplaması için zayıf destek, ancak Sauropodomorpha ve Ornithoscelida arasındaki ikilik için güçlü destek bulmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

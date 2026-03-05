@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "kuledibi_c63c4390",
+    "title": "Kuledibi",
+    "url": "https://tr.wikipedia.org/wiki/Kuledibi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:52.474532",
+    "content": "Kuledibi, Galata Kulesi'nin bulunduğu yer ve yakın çevresi. Kuledibi olarak bilinen yöre, güneyde Voyvoda Caddesi'nin paralelindeki sokaklara, batıda (Bankalar Caddesi'nin yukarı bölümünü oluşturan) Okçu Musa Caddesi'ne, doğuda Yüksek Kaldırım Caddesi'ne, kuzeyde ise Tımarcı Sokağı ile Şahkulu Sokağı'nın kesiştiği açıklığa kadar uzanan, bir başka deyişle sadece kulenin dikili bulunduğu mevki ile sınırlı olmayan ve en kalın çizgileriyle söylenirse, Bankalar Caddesi ile Yüksek Kaldırım arasında kalan, yokuş aşağı bir yelpazeye benzeyen genişçe alanı kapsar. == Yapılar == Galata-Kuledibi havalisine giren bellibaşlı yapılardan bugüne değin kalmış olanlardan, Ceneviz kolonisinin yönetim yeri olan 1316'da kalma Palazzo del Comune adlı bina (Ceneviz Sarayı), Kart Çınar Sokağı'ndaki Sankt Georg Kilisesi ve Okulu (Avusturya Lisesi binası), Sankt Georg Hastanesi, Galata Kulesi Sokağı'ndaki Saint Pierre Kilisesi, Eski Banka Sokağı'ndaki Saint Pierre Hanı, Şair Eşref Sokağı'ndaki 18. yy'ın sonlarında İtalyan Levantenlerince yaptırılan Neve Şalom Sinagogu, Terziler Sinagogu (Kart Çınar Sokağı), Şehsuvar Bey Mescidi, Çeşme Sokağı Çeşmesi, 19. yüzyılda inşa edilen eski İngiliz Bahriye Hastanesi ve İngiliz Başkonsolosluğu binalarında bulunan Prof. Dr. N. Reşat Belger Beyoğlu Göz Eğitim ve Araştırma Hastanesi (eski Beyoğlu Belediye Hastanesi) sayılabilir. Kuledibi ve civarındaki Büyük Hendek, Küçük Hendek, Lüleci Hendek gibi sokakların adları da Galata Surları'nın kuzey hendeklerinden kalmadır. == Kaynakça == \"Kuledibi\", \"Dünden Bugüne İstanbul Ansiklopedisi, c. 5, s. 114-115, İstanbul, 1994.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 208,
+      "char_count": 1602,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.995167",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 562,
+      "content": "Kuledibi, Galata Kulesi'nin bulunduğu yer ve yakın çevresi. Kuledibi olarak bilinen yöre, güneyde Voyvoda Caddesi'nin paralelindeki sokaklara, batıda (Bankalar Caddesi'nin yukarı bölümünü oluşturan) Okçu Musa Caddesi'ne, doğuda Yüksek Kaldırım Caddesi'ne, kuzeyde ise Tımarcı Sokağı ile Şahkulu Sokağı'nın kesiştiği açıklığa kadar uzanan, bir başka deyişle sadece kulenin dikili bulunduğu mevki ile sınırlı olmayan ve en kalın çizgileriyle söylenirse, Bankalar Caddesi ile Yüksek Kaldırım arasında kalan, yokuş aşağı bir yelpazeye benzeyen genişçe alanı kapsar.",
+      "char_count": 561,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0001",
+      "section": "== Yapılar ==",
+      "heading_path": "== Yapılar ==",
+      "start_char": 562,
+      "end_char": 1503,
+      "content": "== Yapılar == Galata-Kuledibi havalisine giren bellibaşlı yapılardan bugüne değin kalmış olanlardan, Ceneviz kolonisinin yönetim yeri olan 1316'da kalma Palazzo del Comune adlı bina (Ceneviz Sarayı), Kart Çınar Sokağı'ndaki Sankt Georg Kilisesi ve Okulu (Avusturya Lisesi binası), Sankt Georg Hastanesi, Galata Kulesi Sokağı'ndaki Saint Pierre Kilisesi, Eski Banka Sokağı'ndaki Saint Pierre Hanı, Şair Eşref Sokağı'ndaki 18. yy'ın sonlarında İtalyan Levantenlerince yaptırılan Neve Şalom Sinagogu, Terziler Sinagogu (Kart Çınar Sokağı), Şehsuvar Bey Mescidi, Çeşme Sokağı Çeşmesi, 19. yüzyılda inşa edilen eski İngiliz Bahriye Hastanesi ve İngiliz Başkonsolosluğu binalarında bulunan Prof. Dr. N. Reşat Belger Beyoğlu Göz Eğitim ve Araştırma Hastanesi (eski Beyoğlu Belediye Hastanesi) sayılabilir. Kuledibi ve civarındaki Büyük Hendek, Küçük Hendek, Lüleci Hendek gibi sokakların adları da Galata Surları'nın kuzey hendeklerinden kalmadır.",
+      "char_count": 940,
+      "token_estimate": 235
+    },
+    {
+      "id": "c0002",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1503,
+      "end_char": 1602,
+      "content": "== Kaynakça == \"Kuledibi\", \"Dünden Bugüne İstanbul Ansiklopedisi, c. 5, s. 114-115, İstanbul, 1994.",
+      "char_count": 99,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ceneviz kolonisinin yönetim yeri olan 1316 tarihli yapının adı nedir?",
+        "answer": "Palazzo del Comune (Ceneviz Sarayı)",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kuledibi'nin coğrafi tanımı ile bölgede bulunan yapılar ve sokak adları arasında nasıl bir bağlantı kurulabilir?",
+        "answer": "Kuledibi'nin güneyde Voyvoda Caddesi'nden kuzeyde Tımarcı ve Şahkulu Sokağı'nın kesişimine kadar uzanan coğrafi tanımı, Ceneviz Sarayı, Sankt Georg Kilisesi, Saint Pierre Kilisesi ve Neve Şalom Sinagogu gibi çeşitli tarihi yapıları barındırır. Ayrıca, Büyük Hendek ve Küçük Hendek gibi sokak adlarının Galata Surları'nın kuzey hendeklerinden gelmesi, Kuledibi'nin tanımlanmış sınırları içindeki zengin tarihi dokuyu pekiştirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

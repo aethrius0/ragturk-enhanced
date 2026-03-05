@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "luisbarragn_c8e637eb",
+    "title": "Luis Barragán",
+    "url": "https://tr.wikipedia.org/wiki/Luis_Barrag%C3%A1n",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:18.803912",
+    "content": "Luis Barragán Morfin (9 Mart 1902, Guadalajara - 22 Kasım 1988, Meksiko), Meksikalı mimar. == Hayatı == Luis Barragán 1923 yılında, Meksika'nın Guadalajara şehrinde yer alan Escuela Libre de Ingenieros'dan mühendis olarak mezun oldu. İlerleyen yıllarda ise kendini mimar olarak eğitti. Mezun olduktan sonra İspanya, Fransa (burada Le Corbusier'in derslerine katılmıştır.) ve Fas'ı gezdi. Fransa iken Alman kökenli bir Fransız yazar olan Ferdinand Bac'in yazılarını tanıma fırsatı buldu ve bu yazılar mimarlık kariyeri için dönüm noktası oldu. 1927 ile 1936 yılları arasında Guadalajara'da mimarlık tasarımlarını uygulama fırsatı elde eden Luis Barragán, bu tarihten sonra Meksiko'da mimarlık çalışmalarına devam etti. Luis Barragán'in eserlerinde, özellikle yaşama mekanlarında, en sıklıkla rastlanan bir mimari öğe 3,5 metreden daha yüksek ve farklı renkler ile boyanmış duvarlardır. Bu tasarım ögesini geleneksel Meksika yapılarından almıştır. Eserlerinde, volkanik kayalar veya ölü ağaç kökleri gibi doğal ortamlarda gerçekleştirmeyi tercih etmiştir. 1975 yılına kadar pek tanınmayan Luis Barragán, bu tarihte New York'ta yer alan Modern Sanat Müzesi'nde (MoMa) kendisine adanmış bir sergiden sonra oldukça ünlendi. 1980 yılında Pritzker Mimarlık Ödülü'nü kazandı. 1948 yılında Meksiko'de inşa ettiğı evi ve stüdyosu UNESCO tarafından 2004 yılında UNESCO Dünya Mirasları listesine konulup korunmaya alınmıştır. == Önde gelen projeleri == 1945-1953 Jardines del Pedregal Bölgesi, Meksiko, Meksika 1947-1948 Luis Barragán Evi, Mexico City, Meksika 1954-1960 Tlalpan Mabedi, Mexico City, Meksika 1955 Gálvez Evi, Mexico City, Meksika 1955-1958 Jardines del Bosque Bölgesi, Guadalajara, Meksika 1955-1961 Las Arboledas, Mexico City, Meksika 1957-1958 Torres de Satélite (Mathias Goeritz ile birlikte), Meksika 1966-1968 Cuadra San Cristóbal, Los Clubes, Mexico City, Meksika 1975-1977 Gilardi Evi, Mexico City, Meksika == Resim Galerisi == == Kaynakça == Luis Barragan Vakfı Web Sitesi8 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi. == Dipnotlar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 280,
+      "char_count": 2059,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.680701",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 91,
+      "content": "Luis Barragán Morfin (9 Mart 1902, Guadalajara - 22 Kasım 1988, Meksiko), Meksikalı mimar.",
+      "char_count": 90,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 91,
+      "end_char": 1091,
+      "content": "== Hayatı == Luis Barragán 1923 yılında, Meksika'nın Guadalajara şehrinde yer alan Escuela Libre de Ingenieros'dan mühendis olarak mezun oldu. İlerleyen yıllarda ise kendini mimar olarak eğitti. Mezun olduktan sonra İspanya, Fransa (burada Le Corbusier'in derslerine katılmıştır.) ve Fas'ı gezdi. Fransa iken Alman kökenli bir Fransız yazar olan Ferdinand Bac'in yazılarını tanıma fırsatı buldu ve bu yazılar mimarlık kariyeri için dönüm noktası oldu. 1927 ile 1936 yılları arasında Guadalajara'da mimarlık tasarımlarını uygulama fırsatı elde eden Luis Barragán, bu tarihten sonra Meksiko'da mimarlık çalışmalarına devam etti. Luis Barragán'in eserlerinde, özellikle yaşama mekanlarında, en sıklıkla rastlanan bir mimari öğe 3,5 metreden daha yüksek ve farklı renkler ile boyanmış duvarlardır. Bu tasarım ögesini geleneksel Meksika yapılarından almıştır. Eserlerinde, volkanik kayalar veya ölü ağaç kökleri gibi doğal ortamlarda gerçekleştirmeyi tercih etmiştir. 1975 yılına kadar pek tanınmayan Luis",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 891,
+      "end_char": 1413,
+      "content": "arım ögesini geleneksel Meksika yapılarından almıştır. Eserlerinde, volkanik kayalar veya ölü ağaç kökleri gibi doğal ortamlarda gerçekleştirmeyi tercih etmiştir. 1975 yılına kadar pek tanınmayan Luis Barragán, bu tarihte New York'ta yer alan Modern Sanat Müzesi'nde (MoMa) kendisine adanmış bir sergiden sonra oldukça ünlendi. 1980 yılında Pritzker Mimarlık Ödülü'nü kazandı. 1948 yılında Meksiko'de inşa ettiğı evi ve stüdyosu UNESCO tarafından 2004 yılında UNESCO Dünya Mirasları listesine konulup korunmaya alınmıştır.",
+      "char_count": 522,
+      "token_estimate": 130
+    },
+    {
+      "id": "c0003",
+      "section": "== Önde gelen projeleri ==",
+      "heading_path": "== Önde gelen projeleri ==",
+      "start_char": 1414,
+      "end_char": 1918,
+      "content": "== Önde gelen projeleri == 1945-1953 Jardines del Pedregal Bölgesi, Meksiko, Meksika 1947-1948 Luis Barragán Evi, Mexico City, Meksika 1954-1960 Tlalpan Mabedi, Mexico City, Meksika 1955 Gálvez Evi, Mexico City, Meksika 1955-1958 Jardines del Bosque Bölgesi, Guadalajara, Meksika 1955-1961 Las Arboledas, Mexico City, Meksika 1957-1958 Torres de Satélite (Mathias Goeritz ile birlikte), Meksika 1966-1968 Cuadra San Cristóbal, Los Clubes, Mexico City, Meksika 1975-1977 Gilardi Evi, Mexico City, Meksika",
+      "char_count": 503,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1939,
+      "end_char": 2044,
+      "content": "== Kaynakça == Luis Barragan Vakfı Web Sitesi8 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 104,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Luis Barragán, hangi yıl ve kurumdan mühendis olarak mezun oldu?",
+        "answer": "Luis Barragán, 1923 yılında Meksika'nın Guadalajara şehrinde yer alan Escuela Libre de Ingenieros'dan mühendis olarak mezun oldu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Luis Barragán'ın mimarlık kariyeri ve aldığı uluslararası tanınma nasıl bir gelişim göstermiştir?",
+        "answer": "Luis Barragán, 1902'de doğup 1923'te mühendis olarak mezun olduktan sonra kendini mimar olarak eğitti. İlerleyen yıllarda İspanya, Fransa ve Fas'ı gezerek Le Corbusier ve Ferdinand Bac'in etkisiyle mimarlık anlayışını şekillendirdi. 1927'den itibaren Guadalajara'da ve daha sonra Meksiko'da mimarlık çalışmalarına devam etti. Eserlerinde geleneksel Meksika yapılarından esinlenen yüksek, renkli duvarlar ve volkanik kayalar gibi doğal öğeleri kullanmasıyla öne çıktı. Kendi döneminde 1975 yılına kadar pek tanınmayan Barragán, bu tarihte New York'taki Modern Sanat Müzesi'ndeki sergiyle ünlendi ve 1980 yılında Pritzker Mimarlık Ödülü'nü kazandı. Ölümünden sonra bile 1948'de inşa ettiği evi ve stüdyosu 2004 yılında UNESCO Dünya Mirasları listesine dahil edilerek çalışmaları uluslararası düzeyde kalıcı bir değer kazandı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

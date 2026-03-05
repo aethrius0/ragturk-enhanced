@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "deterjan_4671d6cd",
+    "title": "Deterjan",
+    "url": "https://tr.wikipedia.org/wiki/Deterjan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:07.072603",
+    "content": "Deterjan ya da arıtıcı, petrol türevlerinden elde edilen, temizleme ve arıtma özelliği bulunan, toz, sıvı veya krem durumunda olabilen temizlik maddelerine verilen genel addır. Deterjanın sözlükteki tam karşılığı kir sökücü olup sabun dışındaki temizleyicilerin tümünü kapsar. Yüzey aktif özelliği nedeniyle temizleme işlerinde kullanılan, içinde yardımcı kimyasal maddeler de bulunduran karışımlara deterjan denilmektedir. Çoğu ev ortamında, deterjan terimi kendi başına çamaşır deterjanı veya bulaşık deterjanı (veya bulaşık temizleyicisi) ile ilgilidir. == Tarihi == İlk deterjanı 1917 yılında Alman kimyager Charles Frederick Gunther buldu. Gunther, naftalini alkilleştirerek elde ettiği maddeyi sülfonlamış ve böylece ilk deterjanın aktif maddesini elde etmiştir. Bunu sonraki yıllarda özellikle Alman kimyacıların araştırmaları takip etmiş ve 1932 yılında Henkel'in Fewa ve Procter & Gamble'ın Dreft markalarıyla piyasaya çıkardığı yağ alkolü sülfatı bazlı deterjanlar ilk deterjanlar olarak tarihe geçmiştir. Bugün batıda üretilen deterjanların %50-60'ı endüstride ve temizlik amacıyla büyük kuruluşlarda, %25-30'u temizlik amacıyla evlerde ve geri kalanı kozmetik ve kişisel bakım ürünlerinin formülasyonlarında kullanılmaktadır. == Deterjan katkı maddeleri == Kompleksleştiriciler Ağartıcılar ve Stabilizatörler Korozyon önleyiciler Optik beyazlatıcılar Kolloidal taşıyıcılar Köpük ayarlayıcılar pH ayarlayıcılar Dolgu maddeleri (nem çekiciler ve topaklamayı önleyiciler) Dezenfektanlar Parfüm Ovucular, enzimler ve diğer aktif madde katkıları Boraks (Kompleksleştirici çeşidi olup çok düşük bir etkiye sahiptir, çamaşır sodası ya da yemek sodası çok daha fazla etkili olacaktır.) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 212,
+      "char_count": 1704,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.403783",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 557,
+      "content": "Deterjan ya da arıtıcı, petrol türevlerinden elde edilen, temizleme ve arıtma özelliği bulunan, toz, sıvı veya krem durumunda olabilen temizlik maddelerine verilen genel addır. Deterjanın sözlükteki tam karşılığı kir sökücü olup sabun dışındaki temizleyicilerin tümünü kapsar. Yüzey aktif özelliği nedeniyle temizleme işlerinde kullanılan, içinde yardımcı kimyasal maddeler de bulunduran karışımlara deterjan denilmektedir. Çoğu ev ortamında, deterjan terimi kendi başına çamaşır deterjanı veya bulaşık deterjanı (veya bulaşık temizleyicisi) ile ilgilidir.",
+      "char_count": 556,
+      "token_estimate": 139
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 557,
+      "end_char": 1238,
+      "content": "== Tarihi == İlk deterjanı 1917 yılında Alman kimyager Charles Frederick Gunther buldu. Gunther, naftalini alkilleştirerek elde ettiği maddeyi sülfonlamış ve böylece ilk deterjanın aktif maddesini elde etmiştir. Bunu sonraki yıllarda özellikle Alman kimyacıların araştırmaları takip etmiş ve 1932 yılında Henkel'in Fewa ve Procter & Gamble'ın Dreft markalarıyla piyasaya çıkardığı yağ alkolü sülfatı bazlı deterjanlar ilk deterjanlar olarak tarihe geçmiştir. Bugün batıda üretilen deterjanların %50-60'ı endüstride ve temizlik amacıyla büyük kuruluşlarda, %25-30'u temizlik amacıyla evlerde ve geri kalanı kozmetik ve kişisel bakım ürünlerinin formülasyonlarında kullanılmaktadır.",
+      "char_count": 680,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0002",
+      "section": "== Deterjan katkı maddeleri ==",
+      "heading_path": "== Deterjan katkı maddeleri ==",
+      "start_char": 1238,
+      "end_char": 1690,
+      "content": "== Deterjan katkı maddeleri == Kompleksleştiriciler Ağartıcılar ve Stabilizatörler Korozyon önleyiciler Optik beyazlatıcılar Kolloidal taşıyıcılar Köpük ayarlayıcılar pH ayarlayıcılar Dolgu maddeleri (nem çekiciler ve topaklamayı önleyiciler) Dezenfektanlar Parfüm Ovucular, enzimler ve diğer aktif madde katkıları Boraks (Kompleksleştirici çeşidi olup çok düşük bir etkiye sahiptir, çamaşır sodası ya da yemek sodası çok daha fazla etkili olacaktır.)",
+      "char_count": 451,
+      "token_estimate": 112
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İlk deterjanı kim ve hangi yılda bulmuştur?",
+        "answer": "İlk deterjanı 1917 yılında Alman kimyager Charles Frederick Gunther bulmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Deterjanların petrol türevlerinden elde edilen temizleyici maddeler olarak genel tanımı ve yüzey aktif özellikleri, ilk bulunuşundan itibaren pazarlaşma süreciyle birleştiğinde, günümüzdeki çeşitli kullanım alanlarına nasıl yansımıştır?",
+        "answer": "Deterjanların sabun dışındaki tüm temizleyicileri kapsayan, petrol türevlerinden elde edilen, yüzey aktif özellikli genel tanımı, Charles Frederick Gunther'ın 1917'deki ilk buluşu ve 1932'de Fewa ile Dreft gibi markaların piyasaya sürülmesiyle başlayan tarihsel pazarlaşma süreciyle birleşerek geniş bir kullanım yelpazesine yol açmıştır. Bugün, üretilen deterjanların %50-60'ı endüstri ve büyük kuruluşlarda, %25-30'u evlerde temizlik amacıyla ve geri kalanı kozmetik ve kişisel bakım ürünlerinin formülasyonlarında kullanılmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

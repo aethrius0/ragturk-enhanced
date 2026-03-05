@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "takesenbayburt_6c6f8ae7",
+    "title": "Taşkesen, Bayburt",
+    "url": "https://tr.wikipedia.org/wiki/Ta%C5%9Fkesen%2C_Bayburt",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:37.813835",
+    "content": "Taşkesen, Bayburt ilinin Merkez ilçesine bağlı bir köydür. == Tarihçe == Köydeki yerleşimin başlangıç tarihi bilinmemektedir. Köyün 1 km güneyindeki Hıdrellez mevkisinde 1630 m kotunda bulunan küçük ölçekli höyükte, Erken Tunç Çağı ve Demir Çağı'na tarihlenen keramik parçalarına rastlanılmıştır. Günümüz köyünün eski adı Aşağı Hınzeverek'dir. 1530 yılı Osmanlı tahririnde, Hınzeverek adıyla Bayburd kazasına bağlı bir köy olarak görülmektedir. 1591 yılı tahririnde sadece erkek nüfus kaydedilmiş olup söz konusu kayıtta Hinzi(r)verek adıyla iki ayrı köy olup, birisinde sadece Müslümanlardan oluşan 10 nefer (erkek), diğerinde ise sadece Hristiyanlardan oluşan 34 nefer (erkek) yaşamaktadır. 1642 yılı avarız defterinde Hınzaverek adıyla tek bir köy olarak yer alan köyde, 9 Hristiyan ve 7 Müslüman avarız hanesi kaydedilmiştir. 19. yüzyıl üçüncü çeyreğine kadar Kovans (Kale) nahiyesine bağlı görülen yerleşim 1876 yılında Bayburd'a bağlanmıştır. 19. yüzyılda Müslüman ve Hristiyanların birlikte yaşadığı görülen köyde, 27 hanede 67 erkek nüfus sayılmış olup bunun 42'sini Hristiyanlar, 25'ini Müslümanlar oluşturmaktadır. Türkiye Cumhuriyetinin kuruluşuyla birlikte nüfus sayımlarında Aşağıhınzeverek olarak görülen köyün adı 1959 yılında, \"yabancı kökten geldiği ve iltibasa yol açtığı\" gerekçesiyle 7267 sayılı kanunla Taşkesen olarak değiştirilmiş ve 1960 yılı nüfus sayımından itibaren bu adıyla kayıtlarda yer almaya başlamıştır. == Coğrafya == Köy, Bayburt il merkezine 9 km uzaklıktadır. == Nüfus == == Kaynakça == == Dış bağlantılar == Yerelnet Taşkesen, Bayburt için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 218,
+      "char_count": 1629,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.963914",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 59,
+      "content": "Taşkesen, Bayburt ilinin Merkez ilçesine bağlı bir köydür.",
+      "char_count": 58,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 59,
+      "end_char": 1059,
+      "content": "== Tarihçe == Köydeki yerleşimin başlangıç tarihi bilinmemektedir. Köyün 1 km güneyindeki Hıdrellez mevkisinde 1630 m kotunda bulunan küçük ölçekli höyükte, Erken Tunç Çağı ve Demir Çağı'na tarihlenen keramik parçalarına rastlanılmıştır. Günümüz köyünün eski adı Aşağı Hınzeverek'dir. 1530 yılı Osmanlı tahririnde, Hınzeverek adıyla Bayburd kazasına bağlı bir köy olarak görülmektedir. 1591 yılı tahririnde sadece erkek nüfus kaydedilmiş olup söz konusu kayıtta Hinzi(r)verek adıyla iki ayrı köy olup, birisinde sadece Müslümanlardan oluşan 10 nefer (erkek), diğerinde ise sadece Hristiyanlardan oluşan 34 nefer (erkek) yaşamaktadır. 1642 yılı avarız defterinde Hınzaverek adıyla tek bir köy olarak yer alan köyde, 9 Hristiyan ve 7 Müslüman avarız hanesi kaydedilmiştir. 19. yüzyıl üçüncü çeyreğine kadar Kovans (Kale) nahiyesine bağlı görülen yerleşim 1876 yılında Bayburd'a bağlanmıştır. 19. yüzyılda Müslüman ve Hristiyanların birlikte yaşadığı görülen köyde, 27 hanede 67 erkek nüfus sayılmış olu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 859,
+      "end_char": 1437,
+      "content": "adar Kovans (Kale) nahiyesine bağlı görülen yerleşim 1876 yılında Bayburd'a bağlanmıştır. 19. yüzyılda Müslüman ve Hristiyanların birlikte yaşadığı görülen köyde, 27 hanede 67 erkek nüfus sayılmış olup bunun 42'sini Hristiyanlar, 25'ini Müslümanlar oluşturmaktadır. Türkiye Cumhuriyetinin kuruluşuyla birlikte nüfus sayımlarında Aşağıhınzeverek olarak görülen köyün adı 1959 yılında, \"yabancı kökten geldiği ve iltibasa yol açtığı\" gerekçesiyle 7267 sayılı kanunla Taşkesen olarak değiştirilmiş ve 1960 yılı nüfus sayımından itibaren bu adıyla kayıtlarda yer almaya başlamıştır.",
+      "char_count": 578,
+      "token_estimate": 144
+    },
+    {
+      "id": "c0003",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 1438,
+      "end_char": 1498,
+      "content": "== Coğrafya == Köy, Bayburt il merkezine 9 km uzaklıktadır.",
+      "char_count": 59,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1525,
+      "end_char": 1629,
+      "content": "== Dış bağlantılar == Yerelnet Taşkesen, Bayburt için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+      "char_count": 104,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Köyün 1 km güneyindeki Hıdrellez mevkisinde hangi dönemlere ait keramik parçaları bulunmuştur?",
+        "answer": "Erken Tunç Çağı ve Demir Çağı",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tarihsel olarak Aşağıhınzeverek adıyla bilinen köyün günümüzdeki adı nedir ve bu isim değişikliği hangi yıl ve hangi gerekçeyle yapılmıştır?",
+        "answer": "Tarihsel olarak Aşağıhınzeverek adıyla bilinen köyün günümüzdeki adı Taşkesen'dir. Bu isim değişikliği, 1959 yılında 7267 sayılı kanunla \"yabancı kökten geldiği ve iltibasa yol açtığı\" gerekçesiyle yapılmış ve 1960 yılı nüfus sayımından itibaren bu adıyla kayıtlarda yer almaya başlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

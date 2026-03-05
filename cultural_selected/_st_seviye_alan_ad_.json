@@ -1,0 +1,154 @@
+{
+  "article": {
+    "id": "stseviyealanad_0959f946",
+    "title": "Üst seviye alan adı",
+    "url": "https://tr.wikipedia.org/wiki/%C3%9Cst_seviye_alan_ad%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:11.479690",
+    "content": "Üst seviye alan adı veya İngilizce özgün kısaltmasıyla (TLD), Alan Adı Sistemi'ndeki (DNS) bir internet alan adının en üst hiyerarşiye sahip parçasıdır. Örneğin \"tr.wikipedia.org\" alan adındaki üst seviye alan adı \"org\"dur. DNS kök bölgesinde kayıtlıdırlar. Yönetim ve sorumlulukları İnternet Tahsisli Sayılar Otoritesi'nin (IANA) kontrolünde olmasına karşın bir sözleşme ve bazen açık arttırma ile devredilebilir. == Tarihçe == Üst düzey alan adları, başlangıçta üç ana gruba, ve bir harici gruba, ayrılmıştı. Harici grup, ilk TLD olan \".arpa\"yı barındırıyordu. Üç ana grup ise ülkeler, uluslararası kuruluşlar ve diğer kuruluşlar tarafından kullanılmak üzere planlanmıştı. Ülke grubundaki TLD'lere \".tr\", \".eg\"; uluslararası kuruluş grubundaki TLD'lere \".nato\", \".cern\"; diğer kuruluşlar grubundakilere de \".com\", \".net\" örnek verilebilir. == Türleri == Üst düzey alan adları, 2015'te IANA tarafından şu türlere ayrılmıştır: Altyapı alan adı: Bu grup yalnızca \"Address and Routing Parameter Area\"nın kısltması ile oluşan \".arpa\" alan adını içerir. IANA kontrolündeki IETF tarafından çeşitli RFC'leri yerine getirme amacıyla yönetilir. Eskiden \".int\" de bu amaç için kullanılıyordu ancak sonrasında gruptan çıkarıldı ve Uluslararası kuruluşlar tarafından kullanılmaya başlandı. Genel üst seviye alan adı (gTLD): Üç veya daha fazla alan karakterden oluşan TLD'leri barındıran bu grupta genel amaçlı alan adları bulunur. Kısıtlı genel üst düzey alan adı (grTLD): ICANN tarafından akredite edilen bazı kuruluşlarca yönetilir. Sponsorlu üst düzey alan adı (sTLD): ICANN tarafından akredite edilen kayıt şirketleri tarafından yönetilen bu gruptaki alan adları, bir kuruluş tarafından fonlanırken bir diğeri tarafından yönetilir. İnternet ülke üst seviye alan adı (ccTLD): İki harften oluşan bu alan adları, genellikle ülkenin ISO 3166 kodundan türetilir ve ülkelerce yönetilir. Uluslararası ülke üst düzey alan adı (IDN ccTLD): Latin harfleri içermeyen ülke üst düzey alan adlarıdır. Test üst seviye alan adları (tTLD): Sadece .test alan adını kapsar ve testler için kullanılır. == Uluslararası ülke üst seviye alan adları == Latin alfabesi kullanmayan bazı ülkeler, kendi ülke üst düzey alan adlarına (ccTLD) ek olarak uluslararası ülke üst seviye alan adı (IDN ccTLD) kullanmaya başlamıştır. IDN ccTLD'ler genellikle ülkenin kullandığı alfabelerin harflerinden oluşur ve iki karakterden uzun olabilir. Örneğin Mısır'ın .eg alan adına ek olarak مصر. alan adı da mevcuttur. ICANN, IDN ccTLD başvurularını Kasım 2009'da başlattı ve 2010'da ilki Mısır olmak üzere Mısır, Suudi Arabistan ve BAE'nin IDN ccTLD'leri ortaya çıktı. == Altyapı alan adları == .arpa alan adı, ilk üst düzey alan adıdır ve altyapı alan adı sınıfına giren tek alan adıdır. Eski ARPANET ana bilgisayar adlarının alan adı sistemine geçişine yardımcı olmak için geçici olarak kullanılması amaçlanmıştır. Ancak, ters DNS araması için kullanıldıktan sonra, kullanımdan kaldırmanın pratik olmadığına karak kılındı ve bugün yalnızca IPv4 için in-addr.arpa ve IPv6 ters DNS çözümlemesi için ip6.arpa, Dinamik Delegasyon Keşif Sistemi için uri.arpa ve urn.arpa ve NAPTR DNS kayıtlarına dayalı telefon numarası eşlemesi için e164.arpa gibi sayıca sınırlı internet altyapısı adresleri için kullanılmaktadır. == IETF tarafından rezerve edilen alan adları == Bazı alan adları İnternet Mühendisliği Görev Gücü (IETF) tarafından belli teknik alanlarda kullanılabilmesi için rezerve edilmiştir. Uygulama, 1994'te ayrılmış adres tahsisleri için RFC 1597'de ve 1999'da RFC 2606'da ayrılmış üst düzey alan adlarında ortaya çıktı ve daha sonraki RFC'lerde ek rezervasyonlar yapıldı. Bu ayrılmış adlar, genel üst seviye alan adı (gTLD) sistemini kullanan üretim ağlarında kullanılmamaktadır. Test amaçlı veya teknik işlemler için kullanılırlar. == Kullanımdan kaldırılan üst seviye alan adları == Bazı üst düzey alan adları, artık işe yaramadığı için kullanımdan kaldırılmıştır. Kaldırılanlar arasında yıkılan ülkelere ait olanlar, kurumlar tarafından kullanılıp yerini başka alan adlarına bırakanlar mevcuttur. Kaldırılan TLD'lerin bir listesi tabloda verilmiştir. Listede eksiklikler olabilir. == Ayrıca bakınız == İnternet üst seviye alan adları listesi İkinci seviye alan adı == Kaynakça == == Dış bağlantılar == i̇ana.org/domains/root/db - Var olan tüm üst düzey alan adlarının bir listesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 598,
+      "char_count": 4341,
+      "num_chunks": 10,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.169048",
+    "total_chunks": 10,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 415,
+      "content": "Üst seviye alan adı veya İngilizce özgün kısaltmasıyla (TLD), Alan Adı Sistemi'ndeki (DNS) bir internet alan adının en üst hiyerarşiye sahip parçasıdır. Örneğin \"tr.wikipedia.org\" alan adındaki üst seviye alan adı \"org\"dur. DNS kök bölgesinde kayıtlıdırlar. Yönetim ve sorumlulukları İnternet Tahsisli Sayılar Otoritesi'nin (IANA) kontrolünde olmasına karşın bir sözleşme ve bazen açık arttırma ile devredilebilir.",
+      "char_count": 414,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 415,
+      "end_char": 842,
+      "content": "== Tarihçe == Üst düzey alan adları, başlangıçta üç ana gruba, ve bir harici gruba, ayrılmıştı. Harici grup, ilk TLD olan \".arpa\"yı barındırıyordu. Üç ana grup ise ülkeler, uluslararası kuruluşlar ve diğer kuruluşlar tarafından kullanılmak üzere planlanmıştı. Ülke grubundaki TLD'lere \".tr\", \".eg\"; uluslararası kuruluş grubundaki TLD'lere \".nato\", \".cern\"; diğer kuruluşlar grubundakilere de \".com\", \".net\" örnek verilebilir.",
+      "char_count": 426,
+      "token_estimate": 106
+    },
+    {
+      "id": "c0002",
+      "section": "== Türleri ==",
+      "heading_path": "== Türleri ==",
+      "start_char": 842,
+      "end_char": 1842,
+      "content": "== Türleri == Üst düzey alan adları, 2015'te IANA tarafından şu türlere ayrılmıştır: Altyapı alan adı: Bu grup yalnızca \"Address and Routing Parameter Area\"nın kısltması ile oluşan \".arpa\" alan adını içerir. IANA kontrolündeki IETF tarafından çeşitli RFC'leri yerine getirme amacıyla yönetilir. Eskiden \".int\" de bu amaç için kullanılıyordu ancak sonrasında gruptan çıkarıldı ve Uluslararası kuruluşlar tarafından kullanılmaya başlandı. Genel üst seviye alan adı (gTLD): Üç veya daha fazla alan karakterden oluşan TLD'leri barındıran bu grupta genel amaçlı alan adları bulunur. Kısıtlı genel üst düzey alan adı (grTLD): ICANN tarafından akredite edilen bazı kuruluşlarca yönetilir. Sponsorlu üst düzey alan adı (sTLD): ICANN tarafından akredite edilen kayıt şirketleri tarafından yönetilen bu gruptaki alan adları, bir kuruluş tarafından fonlanırken bir diğeri tarafından yönetilir. İnternet ülke üst seviye alan adı (ccTLD): İki harften oluşan bu alan adları, genellikle ülkenin ISO 3166 kodundan tü",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Türleri ==",
+      "heading_path": "== Türleri ==",
+      "start_char": 1642,
+      "end_char": 2074,
+      "content": "i alan adları, bir kuruluş tarafından fonlanırken bir diğeri tarafından yönetilir. İnternet ülke üst seviye alan adı (ccTLD): İki harften oluşan bu alan adları, genellikle ülkenin ISO 3166 kodundan türetilir ve ülkelerce yönetilir. Uluslararası ülke üst düzey alan adı (IDN ccTLD): Latin harfleri içermeyen ülke üst düzey alan adlarıdır. Test üst seviye alan adları (tTLD): Sadece .test alan adını kapsar ve testler için kullanılır.",
+      "char_count": 432,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0004",
+      "section": "== Uluslararası ülke üst seviye alan adları ==",
+      "heading_path": "== Uluslararası ülke üst seviye alan adları ==",
+      "start_char": 2075,
+      "end_char": 2621,
+      "content": "== Uluslararası ülke üst seviye alan adları == Latin alfabesi kullanmayan bazı ülkeler, kendi ülke üst düzey alan adlarına (ccTLD) ek olarak uluslararası ülke üst seviye alan adı (IDN ccTLD) kullanmaya başlamıştır. IDN ccTLD'ler genellikle ülkenin kullandığı alfabelerin harflerinden oluşur ve iki karakterden uzun olabilir. Örneğin Mısır'ın .eg alan adına ek olarak مصر. alan adı da mevcuttur. ICANN, IDN ccTLD başvurularını Kasım 2009'da başlattı ve 2010'da ilki Mısır olmak üzere Mısır, Suudi Arabistan ve BAE'nin IDN ccTLD'leri ortaya çıktı.",
+      "char_count": 545,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0005",
+      "section": "== Altyapı alan adları ==",
+      "heading_path": "== Altyapı alan adları ==",
+      "start_char": 2621,
+      "end_char": 3265,
+      "content": "== Altyapı alan adları == .arpa alan adı, ilk üst düzey alan adıdır ve altyapı alan adı sınıfına giren tek alan adıdır. Eski ARPANET ana bilgisayar adlarının alan adı sistemine geçişine yardımcı olmak için geçici olarak kullanılması amaçlanmıştır. Ancak, ters DNS araması için kullanıldıktan sonra, kullanımdan kaldırmanın pratik olmadığına karak kılındı ve bugün yalnızca IPv4 için in-addr.arpa ve IPv6 ters DNS çözümlemesi için ip6.arpa, Dinamik Delegasyon Keşif Sistemi için uri.arpa ve urn.arpa ve NAPTR DNS kayıtlarına dayalı telefon numarası eşlemesi için e164.arpa gibi sayıca sınırlı internet altyapısı adresleri için kullanılmaktadır.",
+      "char_count": 643,
+      "token_estimate": 160
+    },
+    {
+      "id": "c0006",
+      "section": "== IETF tarafından rezerve edilen alan adları ==",
+      "heading_path": "== IETF tarafından rezerve edilen alan adları ==",
+      "start_char": 3265,
+      "end_char": 3792,
+      "content": "== IETF tarafından rezerve edilen alan adları == Bazı alan adları İnternet Mühendisliği Görev Gücü (IETF) tarafından belli teknik alanlarda kullanılabilmesi için rezerve edilmiştir. Uygulama, 1994'te ayrılmış adres tahsisleri için RFC 1597'de ve 1999'da RFC 2606'da ayrılmış üst düzey alan adlarında ortaya çıktı ve daha sonraki RFC'lerde ek rezervasyonlar yapıldı. Bu ayrılmış adlar, genel üst seviye alan adı (gTLD) sistemini kullanan üretim ağlarında kullanılmamaktadır. Test amaçlı veya teknik işlemler için kullanılırlar.",
+      "char_count": 526,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0007",
+      "section": "== Kullanımdan kaldırılan üst seviye alan adları ==",
+      "heading_path": "== Kullanımdan kaldırılan üst seviye alan adları ==",
+      "start_char": 3792,
+      "end_char": 4143,
+      "content": "== Kullanımdan kaldırılan üst seviye alan adları == Bazı üst düzey alan adları, artık işe yaramadığı için kullanımdan kaldırılmıştır. Kaldırılanlar arasında yıkılan ülkelere ait olanlar, kurumlar tarafından kullanılıp yerini başka alan adlarına bırakanlar mevcuttur. Kaldırılan TLD'lerin bir listesi tabloda verilmiştir. Listede eksiklikler olabilir.",
+      "char_count": 350,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0008",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 4143,
+      "end_char": 4227,
+      "content": "== Ayrıca bakınız == İnternet üst seviye alan adları listesi İkinci seviye alan adı",
+      "char_count": 83,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0009",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 4242,
+      "end_char": 4341,
+      "content": "== Dış bağlantılar == i̇ana.org/domains/root/db - Var olan tüm üst düzey alan adlarının bir listesi",
+      "char_count": 99,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Üst düzey alan adları IANA tarafından hangi yılda türlere ayrılmıştır?",
+        "answer": "2015",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "IANA'nın 2015'teki sınıflandırmasına göre, \".arpa\" ve \".int\" gibi üst düzey alan adlarının tarihsel gruplandırmalarındaki konumları ile günümüzdeki sınıflandırmaları arasında nasıl bir ilişki bulunmaktadır?",
+        "answer": "Tarihsel olarak, \".arpa\" ilk üst düzey alan adı olarak harici grupta yer alırken, 2015'teki IANA sınıflandırmasında yalnızca \"Altyapı alan adı\" grubunu oluşturmaktadır. \".int\" ise tarihsel olarak uluslararası kuruluşlar için planlanmış gruplardan birine uyarken, modern sınıflandırmada başlangıçta \"Altyapı alan adı\" grubunda yer almış, ancak daha sonra bu gruptan çıkarılarak uluslararası kuruluşlar tarafından kullanılmaya başlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "francealbertren_320fece5",
+    "title": "France-Albert René",
+    "url": "https://tr.wikipedia.org/wiki/France-Albert_Ren%C3%A9",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:39.825713",
+    "content": "France-Albert René (d. 16 Kasım 1935 - ö. 27 Şubat 2019), Seyşelli siyasetçi. René, Afrika ada ülkesi Seyşeller'de ülkenin ikinci devlet başkanı olarak 1977-2004 yılları arasında devlet başkanlığı makamında bulunmuştur. René'nin ailesi Avrupa kökenli bir aile olmasına rağmen adanın orta sınıf toplumu arasında yer almış, René bağışlar sonucu öğrenim hayatına devam edebilmiştir. Adadaki öğrenim hayatı sonrasında lisans eğitimi için Büyük Britanya'ya giden René, burada Saint Mary’s College ve King’s College London okullarını ziyaret etmiş buradan da İsviçre'ye geçmiştir. René 1957 ile 1961 yıllarında o dönem Birleşik Krallık koloni bölgesi olan ülkesinde avukat olarak görev yapmıştır. 1964 yılında kurduğu Seyşeller Halk Birliği Partisi (Seychelles People's United Party - SPUP) ile yine aynı yıl James Mancham tarafından kurulan Seyşeller Demokratik Partisi'ne (Seychelles Democratic Party - SDP) rakip olmuştur. 1967 yılında gerçekleştirilen ilk seçimleri kazanan SDP, aynı başarıyı 1970 yılında göstererek SPUP'un muhalefette kalmasını sağlamıştır. Uzun yıllar boyunca gerçekleştirilecek olan son bağımsız ve özgür seçimlerde de başarısını tekrarlayan SDP, 1976 yılında elde edilen bağımsızlık ile de devlet başkanlığın genel başkanları Mancham tarafından yürütülmesini sağlamışlardır. Mancham makama çıktıktan sonra ülkenin başbakanı olarak René'yi atamış, René 5 Temmuz 1977'de Mancham'ın İngiliz Milletler Topluluğu toplantısı için Londra'da olduğu bir dönemde kendisini görevden uzaklaştırarak devlet başkanlığı koltuğuna oturmuştur. 1978 yılında adını Seyşeller İleri Halk Cephesi (Seychelles People's Progressive Front - SPPF) olarak değiştirdiği partisini zaman içerisinde ülkedeki tek yasal parti haline getiren René, 1979, 1984 ve 1989 yıllarında tek aday olarak girdiği seçimleri kazanarak makamda kalmaya devam etmiştir. 1981 yılında çoğunluğunu Güney Afrika ve Rodezya kökenli askerlerin oluşturduğu kendisine karşı planlanan darbeyi önleyen René, bu darbeden Macham'ı sorumlu tutmuştur. Bu süreçte tutuklanan Güney Afrikalı askerlerin serbest bırakılması için de Güney Afrika hükûmeti René'ye 3 Milyon $ ödemek zorunda kalmıştır. 1991 yılında yeninden çok partili demokratik bir siyasi yapıya geçiş ile 1993 yılında 1974'ten sonra yapılan ilk demokratik seçimlerde eski başkan Mancham'a karşı zafer elde eden René, 1998 ve 2001 seçimlerinde de rakiplerini geçerek makamını korumuştur. 24 Şubat 2004 tarihinde yaptığı açıklama ile görevi başbakan ve başkan yardımcılığı görevlerinde bulunan James Michel lehine bırakacağını açıklamıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 340,
+      "char_count": 2573,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.490036",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "France-Albert René (d. 16 Kasım 1935 - ö. 27 Şubat 2019), Seyşelli siyasetçi. René, Afrika ada ülkesi Seyşeller'de ülkenin ikinci devlet başkanı olarak 1977-2004 yılları arasında devlet başkanlığı makamında bulunmuştur. René'nin ailesi Avrupa kökenli bir aile olmasına rağmen adanın orta sınıf toplumu arasında yer almış, René bağışlar sonucu öğrenim hayatına devam edebilmiştir. Adadaki öğrenim hayatı sonrasında lisans eğitimi için Büyük Britanya'ya giden René, burada Saint Mary’s College ve King’s College London okullarını ziyaret etmiş buradan da İsviçre'ye geçmiştir. René 1957 ile 1961 yıllarında o dönem Birleşik Krallık koloni bölgesi olan ülkesinde avukat olarak görev yapmıştır. 1964 yılında kurduğu Seyşeller Halk Birliği Partisi (Seychelles People's United Party - SPUP) ile yine aynı yıl James Mancham tarafından kurulan Seyşeller Demokratik Partisi'ne (Seychelles Democratic Party - SDP) rakip olmuştur. 1967 yılında gerçekleştirilen ilk seçimleri kazanan SDP, aynı başarıyı 1970 yılı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "ıl James Mancham tarafından kurulan Seyşeller Demokratik Partisi'ne (Seychelles Democratic Party - SDP) rakip olmuştur. 1967 yılında gerçekleştirilen ilk seçimleri kazanan SDP, aynı başarıyı 1970 yılında göstererek SPUP'un muhalefette kalmasını sağlamıştır. Uzun yıllar boyunca gerçekleştirilecek olan son bağımsız ve özgür seçimlerde de başarısını tekrarlayan SDP, 1976 yılında elde edilen bağımsızlık ile de devlet başkanlığın genel başkanları Mancham tarafından yürütülmesini sağlamışlardır. Mancham makama çıktıktan sonra ülkenin başbakanı olarak René'yi atamış, René 5 Temmuz 1977'de Mancham'ın İngiliz Milletler Topluluğu toplantısı için Londra'da olduğu bir dönemde kendisini görevden uzaklaştırarak devlet başkanlığı koltuğuna oturmuştur. 1978 yılında adını Seyşeller İleri Halk Cephesi (Seychelles People's Progressive Front - SPPF) olarak değiştirdiği partisini zaman içerisinde ülkedeki tek yasal parti haline getiren René, 1979, 1984 ve 1989 yıllarında tek aday olarak girdiği seçimleri k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2558,
+      "content": "helles People's Progressive Front - SPPF) olarak değiştirdiği partisini zaman içerisinde ülkedeki tek yasal parti haline getiren René, 1979, 1984 ve 1989 yıllarında tek aday olarak girdiği seçimleri kazanarak makamda kalmaya devam etmiştir. 1981 yılında çoğunluğunu Güney Afrika ve Rodezya kökenli askerlerin oluşturduğu kendisine karşı planlanan darbeyi önleyen René, bu darbeden Macham'ı sorumlu tutmuştur. Bu süreçte tutuklanan Güney Afrikalı askerlerin serbest bırakılması için de Güney Afrika hükûmeti René'ye 3 Milyon $ ödemek zorunda kalmıştır. 1991 yılında yeninden çok partili demokratik bir siyasi yapıya geçiş ile 1993 yılında 1974'ten sonra yapılan ilk demokratik seçimlerde eski başkan Mancham'a karşı zafer elde eden René, 1998 ve 2001 seçimlerinde de rakiplerini geçerek makamını korumuştur. 24 Şubat 2004 tarihinde yaptığı açıklama ile görevi başbakan ve başkan yardımcılığı görevlerinde bulunan James Michel lehine bırakacağını açıklamıştır.",
+      "char_count": 958,
+      "token_estimate": 239
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "France-Albert René, 1964 yılında hangi siyasi partiyi kurmuştur?",
+        "answer": "Seyşeller Halk Birliği Partisi (Seychelles People's United Party - SPUP)",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fransa-Albert René ve James Mancham arasındaki siyasi ilişki, partilerinin kuruluşundan René'nin devlet başkanlığına yükselişine kadar nasıl bir gelişim göstermiştir?",
+        "answer": "René ve Mancham, 1964 yılında sırasıyla Seyşeller Halk Birliği Partisi (SPUP) ve Seyşeller Demokratik Partisi'ni (SDP) kurarak siyasi rakipler oldular. SDP başlangıçta seçimleri kazanarak René'nin partisini muhalefette tuttu. 1976'da bağımsızlığın ardından Mancham devlet başkanı olurken, René'yi başbakan olarak atadı. Ancak René, 5 Temmuz 1977'de Mancham'ı görevden uzaklaştırarak kendisi devlet başkanı oldu. Yıllar sonra René, 1981'deki darbe girişiminden Mancham'ı sorumlu tuttu ve çok partili demokrasiye geçişin ardından 1993 seçimlerinde Mancham'ı bir kez daha mağlup etti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

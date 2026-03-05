@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "penelope_87f691d1",
+    "title": "Penelope",
+    "url": "https://tr.wikipedia.org/wiki/Penelope",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:12.198771",
+    "content": "Penelope (Yunanca Πηνελόπη, Pinelopi), Homeros'un Odysseia destanında Odysseus'un eşidir. Odysseus'un yokluğunda saraya yerleşen erkekler arasından eş seçmesini ertelemek için gündüz ördüğü örgüyü gece sökmesi ile tanınır ve sadakat imgesi olarak bilinir. Odysseus Tyndareos'un kızı Helene'ye talip olacakken ondan vazgeçer ve akrabası Penelope ile evlenir. Bu çiftin Telemakhos adlı bir çocukları olur, ama o daha çok küçükken babası Troya savaşına gitmek zorunda kalır. Penelope'in çilesi o zaman başlar. Odysseia destanı başladığı sırada İthake sarayının Penelope'un talipleriyle dolu olduğunu, taliplerin bu güzel kadını almayı ve zengin krallığını ele geçirmeyi istediğini öğreniriz. Üstelik oğlu Telemakhos çocuk olduğu için saraya yerleşen ve mal varlıklarını sömüren bu taliplere engel olamamaktadır. Telemakhos talipleri oyalarken annesi de başka bir yol bulmuştur. Taliplerine dokuduğu bezi bitirmesi için beklemelerini söyler ve ondan sonra evleneceği vaadini verir. Dokuduğu bezi her gece tekrar söker ta ki 3 yıl sonra bu diğer taliplerce öğrenilene kadar. Kocası kadar akıllı ve kurnaz olan Penelope taliplere bir yarışma önerir. Odysseus'a bir dostu tarafından hediye edilen yayı getirterek, onu gerip ok atmayı kim becerebilirse ona varacağını taliplere bildirir ve böylece destanın son sahnesine yani taliplerin öldürülmesine yol açan çareyi düşünür. Odysseus taliplerini yenince kendini eşine tanıtmakta zorluk çeker ve onu denemelere sokar. En sonunda karısının ne kadar akıllı ve şüpheci olduğunu anlar ve kavuşmalarını anlamlılaştırır.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 209,
+      "char_count": 1556,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.589421",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Penelope (Yunanca Πηνελόπη, Pinelopi), Homeros'un Odysseia destanında Odysseus'un eşidir. Odysseus'un yokluğunda saraya yerleşen erkekler arasından eş seçmesini ertelemek için gündüz ördüğü örgüyü gece sökmesi ile tanınır ve sadakat imgesi olarak bilinir. Odysseus Tyndareos'un kızı Helene'ye talip olacakken ondan vazgeçer ve akrabası Penelope ile evlenir. Bu çiftin Telemakhos adlı bir çocukları olur, ama o daha çok küçükken babası Troya savaşına gitmek zorunda kalır. Penelope'in çilesi o zaman başlar. Odysseia destanı başladığı sırada İthake sarayının Penelope'un talipleriyle dolu olduğunu, taliplerin bu güzel kadını almayı ve zengin krallığını ele geçirmeyi istediğini öğreniriz. Üstelik oğlu Telemakhos çocuk olduğu için saraya yerleşen ve mal varlıklarını sömüren bu taliplere engel olamamaktadır. Telemakhos talipleri oyalarken annesi de başka bir yol bulmuştur. Taliplerine dokuduğu bezi bitirmesi için beklemelerini söyler ve ondan sonra evleneceği vaadini verir. Dokuduğu bezi her gece",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1556,
+      "content": "aktadır. Telemakhos talipleri oyalarken annesi de başka bir yol bulmuştur. Taliplerine dokuduğu bezi bitirmesi için beklemelerini söyler ve ondan sonra evleneceği vaadini verir. Dokuduğu bezi her gece tekrar söker ta ki 3 yıl sonra bu diğer taliplerce öğrenilene kadar. Kocası kadar akıllı ve kurnaz olan Penelope taliplere bir yarışma önerir. Odysseus'a bir dostu tarafından hediye edilen yayı getirterek, onu gerip ok atmayı kim becerebilirse ona varacağını taliplere bildirir ve böylece destanın son sahnesine yani taliplerin öldürülmesine yol açan çareyi düşünür. Odysseus taliplerini yenince kendini eşine tanıtmakta zorluk çeker ve onu denemelere sokar. En sonunda karısının ne kadar akıllı ve şüpheci olduğunu anlar ve kavuşmalarını anlamlılaştırır.",
+      "char_count": 756,
+      "token_estimate": 189
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Homeros'un Odysseia destanında Odysseus'un eşinin adı nedir?",
+        "answer": "Penelope",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Penelope, Odysseus'un yokluğunda talipleri oyalamak ve onların ortadan kaldırılmasına zemin hazırlamak için hangi iki ana stratejiyi kullanmıştır?",
+        "answer": "Penelope, talipleri oyalamak için ilk olarak gündüz ördüğü bezi gece sökerek evlilik vaadini ertelemiştir. Bu hilenin ortaya çıkmasından sonra ise taliplere Odysseus'un yayını gerip ok atma yarışması önermiştir, bu strateji taliplerin öldürülmesiyle sonuçlanan olaylar dizisinin başlangıcı olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

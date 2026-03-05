@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "babaiskambiloyunu_3f55d75f",
+    "title": "Baba (iskambil oyunu)",
+    "url": "https://tr.wikipedia.org/wiki/Baba_%28iskambil_oyunu%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:18.661582",
+    "content": "Baba, kozlu bir iskambil oyunudur. Türkiye'de Koç Üniversitesi öğrencileri tarafından klasik koz oyunlarından Batak oyununa bir takım eklemelerle geliştirilmiştir. Özellikle son birkaç yılda bu oyuna görülen ilgi artmıştır. == Oyun ve kurallar == Oyun basitçe 4 kişi ve 52 kartla oynanır. Her oyuncuya on üçer kart dağıtıldıktan sonra her oyuncu istediği bir kartı önüne kapalı olarak koyar, dağıtanın sağından başlanarak her oyuncu kartını sırayla açar ve saat yönünün tersine oynanır. Oyun açılan kartların durumuna göre 5 durumla başlayabilir. 2 oyuncunun açtığı kartın rengi aynı, diğer ikisininki farklı ise(örn: 2 sinek, 1 kupa, 1 maça) koz aynı olan kart olur. 2 oyuncunun açtığı kartın rengi aynı, diğer ikisininki onlardan farklı olarak aynı ise(örn: 2 maça, 2 kupa) açılan kâğıtların toplamı küçük olan grubun kozuyla oyuna başlanır. Eğer toplamları aynı ise kartlar yeniden dağıtılır ve ortaya sadece önceki dağıtımda açılan 2 kart türünden konulabilir. 3 oyuncunun açtığı kartın rengi aynıysa(örn: 3 maça, 1karo), 4. oyuncunun açtığı koz oynanır. 4 oyuncu aynı kozu açarsa herkes 13 batar. El tekrar dağıtılır. Tüm oyuncular farklı renk açarsa sanzatu eli yani kozsuz oyun oynanır. Baba, artırmanın zorunlu olduğu bir iskambil oyunudur. Yani eğer bir sonraki oyuncunun elinde yerdeki kağıdın renginden ve daha yüksek numaralısı varsa atmak zorundadır. Birden fazla yüksek numaralı kâğıttan seçim yapabilir. Aynı şekilde bir sonraki oyuncu da onun attığı kartı geçebiliyorsa geçmelidir. Yere atılan kâğıttan kendinde olmayan oyuncu koz atmak zorundadır. Aynı şekilde 2 kişi koz çakıyorsa yine ikincinin arttırması zorunludur == Oyun ve puanlama == Oyuncuların aldığı eller toplanır. 1 el 1 puandır. Hiç el alamayan oyuncu, en yükseksayıda el alanın aldığı el sayısına batar. (Sanzatu elleri bu kural haricindedir). Oyun, isteğe göre, bir oyuncu 51 81 101 ya da 201'e ulaştığında biter. Buna limit puan denir. Oyunun tek kazananı vardır. Eğer iki kişi aynı elde limiti geçerse puana bakılmaksızın son elde o iki oyuncudan çok el alan kazanır. Eğer son elde eşit almışlarsa berabere biter. Kazanan ya da kaybeden olmaz.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 319,
+      "char_count": 2128,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.847208",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 224,
+      "content": "Baba, kozlu bir iskambil oyunudur. Türkiye'de Koç Üniversitesi öğrencileri tarafından klasik koz oyunlarından Batak oyununa bir takım eklemelerle geliştirilmiştir. Özellikle son birkaç yılda bu oyuna görülen ilgi artmıştır.",
+      "char_count": 223,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0001",
+      "section": "== Oyun ve kurallar ==",
+      "heading_path": "== Oyun ve kurallar ==",
+      "start_char": 224,
+      "end_char": 1224,
+      "content": "== Oyun ve kurallar == Oyun basitçe 4 kişi ve 52 kartla oynanır. Her oyuncuya on üçer kart dağıtıldıktan sonra her oyuncu istediği bir kartı önüne kapalı olarak koyar, dağıtanın sağından başlanarak her oyuncu kartını sırayla açar ve saat yönünün tersine oynanır. Oyun açılan kartların durumuna göre 5 durumla başlayabilir. 2 oyuncunun açtığı kartın rengi aynı, diğer ikisininki farklı ise(örn: 2 sinek, 1 kupa, 1 maça) koz aynı olan kart olur. 2 oyuncunun açtığı kartın rengi aynı, diğer ikisininki onlardan farklı olarak aynı ise(örn: 2 maça, 2 kupa) açılan kâğıtların toplamı küçük olan grubun kozuyla oyuna başlanır. Eğer toplamları aynı ise kartlar yeniden dağıtılır ve ortaya sadece önceki dağıtımda açılan 2 kart türünden konulabilir. 3 oyuncunun açtığı kartın rengi aynıysa(örn: 3 maça, 1karo), 4. oyuncunun açtığı koz oynanır. 4 oyuncu aynı kozu açarsa herkes 13 batar. El tekrar dağıtılır. Tüm oyuncular farklı renk açarsa sanzatu eli yani kozsuz oyun oynanır. Baba, artırmanın zorunlu olduğ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyun ve kurallar ==",
+      "heading_path": "== Oyun ve kurallar ==",
+      "start_char": 1024,
+      "end_char": 1635,
+      "content": ", 4. oyuncunun açtığı koz oynanır. 4 oyuncu aynı kozu açarsa herkes 13 batar. El tekrar dağıtılır. Tüm oyuncular farklı renk açarsa sanzatu eli yani kozsuz oyun oynanır. Baba, artırmanın zorunlu olduğu bir iskambil oyunudur. Yani eğer bir sonraki oyuncunun elinde yerdeki kağıdın renginden ve daha yüksek numaralısı varsa atmak zorundadır. Birden fazla yüksek numaralı kâğıttan seçim yapabilir. Aynı şekilde bir sonraki oyuncu da onun attığı kartı geçebiliyorsa geçmelidir. Yere atılan kâğıttan kendinde olmayan oyuncu koz atmak zorundadır. Aynı şekilde 2 kişi koz çakıyorsa yine ikincinin arttırması zorunludur",
+      "char_count": 611,
+      "token_estimate": 152
+    },
+    {
+      "id": "c0003",
+      "section": "== Oyun ve puanlama ==",
+      "heading_path": "== Oyun ve puanlama ==",
+      "start_char": 1636,
+      "end_char": 2128,
+      "content": "== Oyun ve puanlama == Oyuncuların aldığı eller toplanır. 1 el 1 puandır. Hiç el alamayan oyuncu, en yükseksayıda el alanın aldığı el sayısına batar. (Sanzatu elleri bu kural haricindedir). Oyun, isteğe göre, bir oyuncu 51 81 101 ya da 201'e ulaştığında biter. Buna limit puan denir. Oyunun tek kazananı vardır. Eğer iki kişi aynı elde limiti geçerse puana bakılmaksızın son elde o iki oyuncudan çok el alan kazanır. Eğer son elde eşit almışlarsa berabere biter. Kazanan ya da kaybeden olmaz.",
+      "char_count": 492,
+      "token_estimate": 123
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Oyun kaç kişi ve kaç kartla oynanır?",
+        "answer": "Oyun 4 kişi ve 52 kartla oynanır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Baba oyunu, klasik koz oyunlarına ve özellikle Batak'a kıyasla hangi temel kurallarla ayırt edici eklemeler sunmaktadır?",
+        "answer": "Baba oyunu, oyuncuların aynı renkten daha yüksek bir kartı varsa onu atmak zorunda olduğu veya o renk yoksa koz atmak zorunda olduğu zorunlu artırma/yükseltme sistemini getirir. Ayrıca, oyunun başında dört oyuncunun açtığı kart renklerine göre (örneğin, iki aynı renk, dört aynı renk veya tümü farklı renkler gibi) kozun belirlenmesi için detaylı ve çeşitli kurallar sunar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

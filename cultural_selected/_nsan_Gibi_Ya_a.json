@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "nsangibiyaa_da9522ad",
+    "title": "İnsan Gibi Yaşa",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0nsan_Gibi_Ya%C5%9Fa",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:43.083358",
+    "content": "İnsan Gibi Yaşa, 1983 ABD yapımı aksiyon filmidir. Özgün adı Never Say Never Again olan film Türkiye'de televizyonda özgün adının tam çevirisi olan Asla Asla Deme adıyla da gösterilmişti. Sean Connery'nin James Bond olarak oynadığı en son filmdir. 1965 yapımı James Bond filmi Thunderball'un bir yeniden yapımı olan Asla Asla Deme, Bond rolünün ilk ve belki de en iyi aktörü olan Sean Connery'i bir kez daha tehlikeli görevlere sokuyor. Ölümcül SPECTRE organizasyonu, bu kez dünyayı yok etmekle tehdit etmektedir. Örgütün 2 numaralı adamı olan Maximilian Largo, 2 nükleer başlıklı füze ele geçirmiştir ve 1 numara Blofeld, NATO'yu, füzeleri büyük şehirlerde patlatmakla tehdit etmektedir. İngiliz Gizli Servisi, SPECTRE konusunda en tecrübeli ajanları olan 007'i tehlikeyi engellemekle görevlendirir. Bond ve Largo arasında nefes kesici bir savaş başlar. Filmin adı ile ilgili şöyle bir enstantane vardır: Sean Connery 1971 yılında Ölümsüz Elmaslar filminde 6. kez Bond rolünde oynamış ve Bundan sonra asla Bond rolü oynamayacağım demiştir. 12 yıl sonra tekrar Bond rolünü kabul ettiğinde filmin adı olan Asla Asla Deme bu sözüne bir atıftır. Bu filmin dövüş koreografı olan Steven Seagal, antrenman sırasında Connery'nin bileğini kırdı. Connery, Jay Leno ile The Tonight Show'un bir bölümünde on yıldan uzun bir süre sonra bileğinin kırıldığını bilmediğini açıkladı. == Oyuncular == Sean Connery - James Bond Kim Basinger - Domino Petachi Klaus Maria Brandauer - Maximillian Largo Barbara Carrera - Fatima Blush Bernie Casey - Felix Leiter Max von Sydow - Ernst Stavro Blofeld Edward Fox - M Alec McCowen - Q Pamela Salem - Bayan Moneypenny Rowan Atkinson - Nigel Small-Fawcett Prunella Gee - Patricia Fearing Valerie Leon - Lady in Bahamas Gavan O'Herlihy - Jack Petachi Saskia Cohen Tanugi - Nicole == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 280,
+      "char_count": 1816,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.423275",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "İnsan Gibi Yaşa, 1983 ABD yapımı aksiyon filmidir. Özgün adı Never Say Never Again olan film Türkiye'de televizyonda özgün adının tam çevirisi olan Asla Asla Deme adıyla da gösterilmişti. Sean Connery'nin James Bond olarak oynadığı en son filmdir. 1965 yapımı James Bond filmi Thunderball'un bir yeniden yapımı olan Asla Asla Deme, Bond rolünün ilk ve belki de en iyi aktörü olan Sean Connery'i bir kez daha tehlikeli görevlere sokuyor. Ölümcül SPECTRE organizasyonu, bu kez dünyayı yok etmekle tehdit etmektedir. Örgütün 2 numaralı adamı olan Maximilian Largo, 2 nükleer başlıklı füze ele geçirmiştir ve 1 numara Blofeld, NATO'yu, füzeleri büyük şehirlerde patlatmakla tehdit etmektedir. İngiliz Gizli Servisi, SPECTRE konusunda en tecrübeli ajanları olan 007'i tehlikeyi engellemekle görevlendirir. Bond ve Largo arasında nefes kesici bir savaş başlar. Filmin adı ile ilgili şöyle bir enstantane vardır: Sean Connery 1971 yılında Ölümsüz Elmaslar filminde 6. kez Bond rolünde oynamış ve Bundan sonr",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1367,
+      "content": " Bond ve Largo arasında nefes kesici bir savaş başlar. Filmin adı ile ilgili şöyle bir enstantane vardır: Sean Connery 1971 yılında Ölümsüz Elmaslar filminde 6. kez Bond rolünde oynamış ve Bundan sonra asla Bond rolü oynamayacağım demiştir. 12 yıl sonra tekrar Bond rolünü kabul ettiğinde filmin adı olan Asla Asla Deme bu sözüne bir atıftır. Bu filmin dövüş koreografı olan Steven Seagal, antrenman sırasında Connery'nin bileğini kırdı. Connery, Jay Leno ile The Tonight Show'un bir bölümünde on yıldan uzun bir süre sonra bileğinin kırıldığını bilmediğini açıkladı.",
+      "char_count": 567,
+      "token_estimate": 141
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 1368,
+      "end_char": 1802,
+      "content": "== Oyuncular == Sean Connery - James Bond Kim Basinger - Domino Petachi Klaus Maria Brandauer - Maximillian Largo Barbara Carrera - Fatima Blush Bernie Casey - Felix Leiter Max von Sydow - Ernst Stavro Blofeld Edward Fox - M Alec McCowen - Q Pamela Salem - Bayan Moneypenny Rowan Atkinson - Nigel Small-Fawcett Prunella Gee - Patricia Fearing Valerie Leon - Lady in Bahamas Gavan O'Herlihy - Jack Petachi Saskia Cohen Tanugi - Nicole",
+      "char_count": 433,
+      "token_estimate": 108
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İnsan Gibi Yaşa filminin özgün adı nedir?",
+        "answer": "Never Say Never Again",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "1983 yapımı \"İnsan Gibi Yaşa\" (Asla Asla Deme) filminin başlığının Sean Connery'nin James Bond rolünü canlandırmasıyla olan ilişkisi nedir?",
+        "answer": "Filmin \"Asla Asla Deme\" başlığı, Sean Connery'nin 1971'deki \"Ölümsüz Elmaslar\" filminden sonra bir daha Bond rolü oynamayacağını belirtmesine rağmen 12 yıl sonra bu role geri dönmesine bir atıftır. Bu film aynı zamanda Connery'nin James Bond olarak oynadığı son filmdir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

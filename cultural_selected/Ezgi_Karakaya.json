@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "ezgikarakaya_2518d092",
+    "title": "Ezgi Karakaya",
+    "url": "https://tr.wikipedia.org/wiki/Ezgi_Karakaya",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:45.388090",
+    "content": "Ezgi Karakaya, Türk opera sanatçısı. Ankara Devlet Opera ve Balesi solist sanatçısıdır. == Yaşamı ve Kariyeri == Ezgi Karakaya 2005 yılında Anadolu Üniversitesi Devlet Konservatuvarı Sahne Sanatları Bölümü Opera Anasanat Dalı’nda başladığı müzik eğitimini 2010 yılında yüksek onur öğrencisi olarak birincilikle tamamladı. Yine aynı yıl Ankara Devlet Opera ve Balesi'nde çalışmaya başladı. 2016 yılında kazandığı bir özel ödül nedeniyle ustalık sınıfına katılmak üzere davet edildiği Savonlinna Music Academy’de ünlü İngiliz bariton Prof. Konrad Jarnot ile de çalıştı. 2017 yılında katıldığı bir yarışma sonrası davet aldığı ünlü Amerikalı mezzo soprano Grace Bumbry ile ustalık sınıfı çalışmaları yaptı. 2020’de Romanya Iasi Ulusal Operası’nda sahnelenen Aida operasında Amneris rolünde oynadı. == Opera Rolleri == Rossini, La Cambiale di Matrimonio - Clarina Joseph Haydn, Lo Speziale - Volpino Johann Strauss II, Die Fledermaus - Prince Orlofsky Puccini, Madama Butterfly - Suzuki Johann Strauss II, Der Zigeunerbaron - Czipra Umberto Giordano, Andrea Chénier - Bersi Jacques Offenbach, La Vie Parisienne - Metella Charles Gounod, Roméo et Juliette - Stéphano Giuseppe Verdi, Un Ballo in Maschera - Ulrica Alexander Borodin, Prince Igor - Konchakovna Giuseppe Verdi, Aida - Amneris Pietro Mascagni, Cavalleria Rusticana - Santuzza Georges Bizet, Carmen - Carmen == Ödülleri == 2016 - 9. Ulusal Genç Solistler Yarışması – Profesyonel Kategori birincilik ödülü, İzmir 2017 - BBC Cardiff Dünyanın En İyi Şarkıcısı Yarışması – Son yirmiye kaldı 2018 – 37. Uluslararası Hans Gabor Belvedere Singing Yarışması İstanbul elemeleri - Belkıs Aran Özel Ödülü 2018 - En İyi Genç Kuşak Opera Sanatçısı Ödülü - Semiha Berksoy Opera Vakfı 2018 - 9. Uluslararası Leyla Gencer Şan Yarışması Birincilik Ödülü, Borusan İstanbul Filarmoni Orkestrası Özel Ödülü ve Leyla Gencer Halk Ödülü 2019 - 17. Uluslararası Marie Kraja Şan Yarışması’nda ikincilik ödülü, Arnavutluk 2019 - Prof. Yalçın Davran Şan Yarışması Birincilik Ödülü, Ankara Devlet Konservatuvarlılar Derneği 2022 - 21. Uluslararası Ottavio Ziino Opera Yarışması Birincilik Ödülü, Roma == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 312,
+      "char_count": 2143,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.048079",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 88,
+      "content": "Ezgi Karakaya, Türk opera sanatçısı. Ankara Devlet Opera ve Balesi solist sanatçısıdır.",
+      "char_count": 87,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve Kariyeri ==",
+      "heading_path": "== Yaşamı ve Kariyeri ==",
+      "start_char": 88,
+      "end_char": 795,
+      "content": "== Yaşamı ve Kariyeri == Ezgi Karakaya 2005 yılında Anadolu Üniversitesi Devlet Konservatuvarı Sahne Sanatları Bölümü Opera Anasanat Dalı’nda başladığı müzik eğitimini 2010 yılında yüksek onur öğrencisi olarak birincilikle tamamladı. Yine aynı yıl Ankara Devlet Opera ve Balesi'nde çalışmaya başladı. 2016 yılında kazandığı bir özel ödül nedeniyle ustalık sınıfına katılmak üzere davet edildiği Savonlinna Music Academy’de ünlü İngiliz bariton Prof. Konrad Jarnot ile de çalıştı. 2017 yılında katıldığı bir yarışma sonrası davet aldığı ünlü Amerikalı mezzo soprano Grace Bumbry ile ustalık sınıfı çalışmaları yaptı. 2020’de Romanya Iasi Ulusal Operası’nda sahnelenen Aida operasında Amneris rolünde oynadı.",
+      "char_count": 706,
+      "token_estimate": 176
+    },
+    {
+      "id": "c0002",
+      "section": "== Opera Rolleri ==",
+      "heading_path": "== Opera Rolleri ==",
+      "start_char": 795,
+      "end_char": 1364,
+      "content": "== Opera Rolleri == Rossini, La Cambiale di Matrimonio - Clarina Joseph Haydn, Lo Speziale - Volpino Johann Strauss II, Die Fledermaus - Prince Orlofsky Puccini, Madama Butterfly - Suzuki Johann Strauss II, Der Zigeunerbaron - Czipra Umberto Giordano, Andrea Chénier - Bersi Jacques Offenbach, La Vie Parisienne - Metella Charles Gounod, Roméo et Juliette - Stéphano Giuseppe Verdi, Un Ballo in Maschera - Ulrica Alexander Borodin, Prince Igor - Konchakovna Giuseppe Verdi, Aida - Amneris Pietro Mascagni, Cavalleria Rusticana - Santuzza Georges Bizet, Carmen - Carmen",
+      "char_count": 568,
+      "token_estimate": 142
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1364,
+      "end_char": 2129,
+      "content": "== Ödülleri == 2016 - 9. Ulusal Genç Solistler Yarışması – Profesyonel Kategori birincilik ödülü, İzmir 2017 - BBC Cardiff Dünyanın En İyi Şarkıcısı Yarışması – Son yirmiye kaldı 2018 – 37. Uluslararası Hans Gabor Belvedere Singing Yarışması İstanbul elemeleri - Belkıs Aran Özel Ödülü 2018 - En İyi Genç Kuşak Opera Sanatçısı Ödülü - Semiha Berksoy Opera Vakfı 2018 - 9. Uluslararası Leyla Gencer Şan Yarışması Birincilik Ödülü, Borusan İstanbul Filarmoni Orkestrası Özel Ödülü ve Leyla Gencer Halk Ödülü 2019 - 17. Uluslararası Marie Kraja Şan Yarışması’nda ikincilik ödülü, Arnavutluk 2019 - Prof. Yalçın Davran Şan Yarışması Birincilik Ödülü, Ankara Devlet Konservatuvarlılar Derneği 2022 - 21. Uluslararası Ottavio Ziino Opera Yarışması Birincilik Ödülü, Roma",
+      "char_count": 764,
+      "token_estimate": 191
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2022 yılında kazanılan '21. Uluslararası Ottavio Ziino Opera Yarışması Birincilik Ödülü' nerede alınmıştır?",
+        "answer": "Roma",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ezgi Karakaya'nın Ankara Devlet Opera ve Balesi solist sanatçısı kimliğinin, aldığı müzik eğitimi, uluslararası ustalık sınıfı deneyimleri ve Romanya'da sahnelenen Aida operasında Amneris rolü gibi önemli performanslarıyla nasıl birleşerek şekillendiğini açıklayın.",
+        "answer": "Ezgi Karakaya, müzik eğitimini 2010 yılında tamamlayıp aynı yıl Ankara Devlet Opera ve Balesi'nde çalışmaya başladı. Solist sanatçı olarak kariyerini sürdürürken, 2016 ve 2017 yıllarında Prof. Konrad Jarnot ve Grace Bumbry ile yaptığı ustalık sınıfı çalışmalarıyla uluslararası deneyimler edindi. Bu deneyimler ve repertuvarında yer alan çeşitli roller, onun 2020'de Romanya Iasi Ulusal Operası'nda Aida'daki Amneris rolünü başarıyla canlandırarak hem yerel hem de uluslararası alanda tanınan bir opera sanatçısı olarak kimliğini pekiştirmesini sağladı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

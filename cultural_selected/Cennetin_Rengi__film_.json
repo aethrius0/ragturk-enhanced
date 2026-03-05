@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "cennetinrengifilm_c30cc5aa",
+    "title": "Cennetin Rengi (film)",
+    "url": "https://tr.wikipedia.org/wiki/Cennetin_Rengi_%28film%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:15.518176",
+    "content": "Cennetin Rengi 1999 İran yapımı dramatik filmdir. Özgün adı Rang-e khoda dır. İngilizce konuşulan ülkelerde The Color of Paradise adı ile gösterime sunulmuştur. Özgün ismi Tanrı'nın Rengi anlamına gelmektedir. Majid Majidi'nin senaryosu yazıp yönettiği filmin önemli rollerinde Hossein Mahjoub, Mohsen Ramezani ve Salameh Feyzi oynamışlardır. Film, çevresini sadece dokunarak ve duyarak anlamaya çalışan görme engelli küçük bir çocuğun dünyasını masalsı bir üslupla anlatır. == Özet == Küçük Muhammed (Mohsen Ramezani), Tahran'daki bir körler okulunda yatılı olarak eğitim görmektedir. Kör olarak doğmuştur ve çevresindeki dünyayı dokunarak ve işiterek anlamaya çalışmaktadır. Okulu yazın tatile girdiğinde babası onu almak ve köyüne götürmek üzere okula gelir. Muhammed'in annesi ölmüştür ve babası yeni bir evlilik planlamaktadır. Özürlü bir çocuğun evlilik planlarını bozacağından endişelenen baba sürekli olarak ondan kurtulmak için çareler arar. Köyde ise Muhammed'i yazı birlikte geçirecekleri sevecen iki kız kardeş ve yaşlı ninesi beklemektedir. Ayrıca filmin sonunda çocuk yine masalsı bir şekilde canlanmaktadır. == Oyuncu kadrosu == == Film hakkında notlar == Filmin yönetmeni Majid Majidi'nin bir önceki filmi Bacheha-Ye Aseman (Cennetin Çocukları)(1997) Amerikan Akademi Ödülü'ne aday gösterilen ilk İran filmi olmuştu. \"Cennetin Rengi\" ise bir Asya filmi olmasına rağmen ABD'de gişe rekoru kırarak yine bir ilki gerçekleştirmiş ve dikkatleri tekrar yönetmenin üzerine çekmişti. Filme çeşitli yarışmalarda 10 ödül verilmiş, 8 kez de ödüle aday gösterilmiştir. Film İran dışında ilk kez 1 Eylül 1999'da Kanada'da Montréal Film Festivali'nde gösterilmiştir. Bu festivalde \"Büyük Amerika Ödülü\" yönetmen Majid Majidi'ye verilmiştir. Filmdeki çocuk oyuncu Mohsen Ramezani (Muhammed) gerçek hayatta da görme engellidir. == Kaynakça == == Dış bağlantılar == IMDb'de Cennetin Rengi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 255,
+      "char_count": 1887,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.411471",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 475,
+      "content": "Cennetin Rengi 1999 İran yapımı dramatik filmdir. Özgün adı Rang-e khoda dır. İngilizce konuşulan ülkelerde The Color of Paradise adı ile gösterime sunulmuştur. Özgün ismi Tanrı'nın Rengi anlamına gelmektedir. Majid Majidi'nin senaryosu yazıp yönettiği filmin önemli rollerinde Hossein Mahjoub, Mohsen Ramezani ve Salameh Feyzi oynamışlardır. Film, çevresini sadece dokunarak ve duyarak anlamaya çalışan görme engelli küçük bir çocuğun dünyasını masalsı bir üslupla anlatır.",
+      "char_count": 474,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0001",
+      "section": "== Özet ==",
+      "heading_path": "== Özet ==",
+      "start_char": 475,
+      "end_char": 1123,
+      "content": "== Özet == Küçük Muhammed (Mohsen Ramezani), Tahran'daki bir körler okulunda yatılı olarak eğitim görmektedir. Kör olarak doğmuştur ve çevresindeki dünyayı dokunarak ve işiterek anlamaya çalışmaktadır. Okulu yazın tatile girdiğinde babası onu almak ve köyüne götürmek üzere okula gelir. Muhammed'in annesi ölmüştür ve babası yeni bir evlilik planlamaktadır. Özürlü bir çocuğun evlilik planlarını bozacağından endişelenen baba sürekli olarak ondan kurtulmak için çareler arar. Köyde ise Muhammed'i yazı birlikte geçirecekleri sevecen iki kız kardeş ve yaşlı ninesi beklemektedir. Ayrıca filmin sonunda çocuk yine masalsı bir şekilde canlanmaktadır.",
+      "char_count": 647,
+      "token_estimate": 161
+    },
+    {
+      "id": "c0002",
+      "section": "== Film hakkında notlar ==",
+      "heading_path": "== Film hakkında notlar ==",
+      "start_char": 1144,
+      "end_char": 1828,
+      "content": "== Film hakkında notlar == Filmin yönetmeni Majid Majidi'nin bir önceki filmi Bacheha-Ye Aseman (Cennetin Çocukları)(1997) Amerikan Akademi Ödülü'ne aday gösterilen ilk İran filmi olmuştu. \"Cennetin Rengi\" ise bir Asya filmi olmasına rağmen ABD'de gişe rekoru kırarak yine bir ilki gerçekleştirmiş ve dikkatleri tekrar yönetmenin üzerine çekmişti. Filme çeşitli yarışmalarda 10 ödül verilmiş, 8 kez de ödüle aday gösterilmiştir. Film İran dışında ilk kez 1 Eylül 1999'da Kanada'da Montréal Film Festivali'nde gösterilmiştir. Bu festivalde \"Büyük Amerika Ödülü\" yönetmen Majid Majidi'ye verilmiştir. Filmdeki çocuk oyuncu Mohsen Ramezani (Muhammed) gerçek hayatta da görme engellidir.",
+      "char_count": 683,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1843,
+      "end_char": 1887,
+      "content": "== Dış bağlantılar == IMDb'de Cennetin Rengi",
+      "char_count": 44,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Majid Majidi'nin 'Cennetin Çocukları' adlı filmi hangi yılda çekilmiştir?",
+        "answer": "1997",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yönetmen Majid Majidi'nin önceki filmi \"Cennetin Çocukları\"nın başarısı, \"Cennetin Rengi\"nin uluslararası arenadaki gişe performansı ve aldığı ödüllerle nasıl bir ilişki içindedir ve \"Cennetin Rengi\"ndeki başrol oyuncusunun karakteri canlandırmasındaki özgün katkısı nedir?",
+        "answer": "Majid Majidi'nin \"Cennetin Çocukları\" filmi Amerikan Akademi Ödülü'ne aday gösterilen ilk İran filmi olarak yönetmene uluslararası bir tanınırlık kazandırmıştır. Bu durum, \"Cennetin Rengi\" filminin bir Asya filmi olmasına rağmen ABD'de gişe rekoru kırması ve Majidi'ye Montréal Film Festivali'nde \"Büyük Amerika Ödülü\"nün verilmesi gibi önemli uluslararası başarılara zemin hazırlamıştır. \"Cennetin Rengi\"nde görme engelli Muhammed karakterini canlandıran Mohsen Ramezani'nin gerçek hayatta da görme engelli olması, karakterin canlandırılmasına eşsiz bir özgünlük ve derinlik katmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

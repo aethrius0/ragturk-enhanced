@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "mimikkaslar_0d284e37",
+    "title": "Mimik kasları",
+    "url": "https://tr.wikipedia.org/wiki/Mimik_kaslar%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:45:40.829758",
+    "content": "Mimik kasları, fasiyal sinir (kranial sinir VII) tarafından kontrol edilen mimik hareketlerinin yapılmasını sağlayan bir grup çizgili iskelet kasıdır . Bu kaslara yüz kasları da denir. == Yapı == Yüz kasları, cildin hemen altında yer alırlar ve yüz ifadeleriyle mimikleri kontrol ederler. Genellikle yüz kemiklerinden cilde doğru uzanırlar. Kasıldıklarında cilt hareket eder. Bu kaslar ayrıca kasların hareket çizgisine dik olacak şekilde yüzde kırışıklıklara neden olurlar. === Sinir kaynağı === Yüz kasları fasiyal sinir (VII. kraniyal sinir) tarafından uyarılır. her sinir yüzün bir yarımını uyarır. Buna karşılık, çiğneme kasları, trigeminal sinirin (kranial sinir V) bir kolu olan mandibular sinir tarafından uyarılır. === Kasların listesi === Mimik kasları şu şekildedir: Occipitofrontalis Temporoparietalis Procerus Nasalis Depressor septi nasi Orbicularis oculi Corrugator supercilii Depressor supercilii Auricular kaslar (ön, üst ve arka) Orbicularis oris Depressor anguli oris Risorius Zygomaticus major Zygomaticus minor Levator labii superioris Levator labii superioris alaeque nasi Depressor labii inferioris Levator anguli oris Buccinator Mentalis Platisma fasiyal sinir tarafından uyarılır. Çoğunlukla boyunda olmasına ve boyun kasları grubunda yer almasına rağmen, ortak sinir kaynağı nedeniyle mimik kası olarak düşünülebilir. Digastrik kasın arka karnı, stylohyoid kası, stapedius kası da fasiyal sinir tarafından uyarılır, ancak bu kaslar mimik yüz kasları olarak kabul edilmez. == Embriyoloji == Yüz kasları ikinci faringeal arktan gelişir. == Klinik önemi == Yüzün bir tarafında yüz ifadeleri oluşturamama, bu kasların sinirinin ilk hasar belirtisi olabilir. Fasiyal sinirin hasar görmesi, ilgili taraftaki yüz ifadesi kaslarının felci ile sonuçlanır. Felç, istemli kas hareketinin kaybıdır; fasiyal sinir kalıcı veya geçici olarak hasar gördüğünde meydana gelir. Bu hasar inme, Bell paralizisi veya parotis bezi tümörleri nedeniyle ortaya çıkabilir, çünkü fasiyal sinir parotis bezi içinden geçmektedir. Parotis bezi cerrahisi esnasında da fasiyal sinir geçici veya kalıcı olarak hasar görebilir. Bu felç durumları sadece yüz ifadesini bozmakla kalmaz, aynı zamanda hastanın kalıcı veya geçici olarak konuşma yeteneğini de ciddi şekilde bozar. == Ayrıca bakınız == Çiğneme kasları Yüz Eylem Kodlama Sistemi Modiolus == Kaynakça == == Dış bağlantılar == ARTNATOMY: Yüz İfadesi Öğrenme Aracının Anatomik Temelleri 18 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi. PracticeAnatomy'de yüz kasları 23 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 348,
+      "char_count": 2588,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.889769",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 185,
+      "content": "Mimik kasları, fasiyal sinir (kranial sinir VII) tarafından kontrol edilen mimik hareketlerinin yapılmasını sağlayan bir grup çizgili iskelet kasıdır . Bu kaslara yüz kasları da denir.",
+      "char_count": 184,
+      "token_estimate": 46
+    },
+    {
+      "id": "c0001",
+      "section": "== Yapı ==",
+      "heading_path": "== Yapı ==",
+      "start_char": 185,
+      "end_char": 475,
+      "content": "== Yapı == Yüz kasları, cildin hemen altında yer alırlar ve yüz ifadeleriyle mimikleri kontrol ederler. Genellikle yüz kemiklerinden cilde doğru uzanırlar. Kasıldıklarında cilt hareket eder. Bu kaslar ayrıca kasların hareket çizgisine dik olacak şekilde yüzde kırışıklıklara neden olurlar.",
+      "char_count": 289,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0002",
+      "section": "=== Sinir kaynağı ===",
+      "heading_path": "=== Sinir kaynağı ===",
+      "start_char": 475,
+      "end_char": 724,
+      "content": "=== Sinir kaynağı === Yüz kasları fasiyal sinir (VII. kraniyal sinir) tarafından uyarılır. her sinir yüzün bir yarımını uyarır. Buna karşılık, çiğneme kasları, trigeminal sinirin (kranial sinir V) bir kolu olan mandibular sinir tarafından uyarılır.",
+      "char_count": 248,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0003",
+      "section": "=== Kasların listesi ===",
+      "heading_path": "=== Kasların listesi ===",
+      "start_char": 724,
+      "end_char": 1498,
+      "content": "=== Kasların listesi === Mimik kasları şu şekildedir: Occipitofrontalis Temporoparietalis Procerus Nasalis Depressor septi nasi Orbicularis oculi Corrugator supercilii Depressor supercilii Auricular kaslar (ön, üst ve arka) Orbicularis oris Depressor anguli oris Risorius Zygomaticus major Zygomaticus minor Levator labii superioris Levator labii superioris alaeque nasi Depressor labii inferioris Levator anguli oris Buccinator Mentalis Platisma fasiyal sinir tarafından uyarılır. Çoğunlukla boyunda olmasına ve boyun kasları grubunda yer almasına rağmen, ortak sinir kaynağı nedeniyle mimik kası olarak düşünülebilir. Digastrik kasın arka karnı, stylohyoid kası, stapedius kası da fasiyal sinir tarafından uyarılır, ancak bu kaslar mimik yüz kasları olarak kabul edilmez.",
+      "char_count": 773,
+      "token_estimate": 193
+    },
+    {
+      "id": "c0004",
+      "section": "== Embriyoloji ==",
+      "heading_path": "== Embriyoloji ==",
+      "start_char": 1498,
+      "end_char": 1561,
+      "content": "== Embriyoloji == Yüz kasları ikinci faringeal arktan gelişir.",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0005",
+      "section": "== Klinik önemi ==",
+      "heading_path": "== Klinik önemi ==",
+      "start_char": 1561,
+      "end_char": 2266,
+      "content": "== Klinik önemi == Yüzün bir tarafında yüz ifadeleri oluşturamama, bu kasların sinirinin ilk hasar belirtisi olabilir. Fasiyal sinirin hasar görmesi, ilgili taraftaki yüz ifadesi kaslarının felci ile sonuçlanır. Felç, istemli kas hareketinin kaybıdır; fasiyal sinir kalıcı veya geçici olarak hasar gördüğünde meydana gelir. Bu hasar inme, Bell paralizisi veya parotis bezi tümörleri nedeniyle ortaya çıkabilir, çünkü fasiyal sinir parotis bezi içinden geçmektedir. Parotis bezi cerrahisi esnasında da fasiyal sinir geçici veya kalıcı olarak hasar görebilir. Bu felç durumları sadece yüz ifadesini bozmakla kalmaz, aynı zamanda hastanın kalıcı veya geçici olarak konuşma yeteneğini de ciddi şekilde bozar.",
+      "char_count": 704,
+      "token_estimate": 176
+    },
+    {
+      "id": "c0006",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2266,
+      "end_char": 2338,
+      "content": "== Ayrıca bakınız == Çiğneme kasları Yüz Eylem Kodlama Sistemi Modiolus",
+      "char_count": 71,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2353,
+      "end_char": 2588,
+      "content": "== Dış bağlantılar == ARTNATOMY: Yüz İfadesi Öğrenme Aracının Anatomik Temelleri 18 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi. PracticeAnatomy'de yüz kasları 23 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 235,
+      "token_estimate": 58
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mimik kasları hangi sinir tarafından uyarılır?",
+        "answer": "Mimik kasları fasiyal sinir tarafından uyarılır.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fasiyal sinirin kontrol ettiği mimik kasları, yüz ifadelerinin oluşumunu anatomik yapısıyla nasıl mümkün kılar?",
+        "answer": "Fasiyal sinir (kranial sinir VII) tarafından kontrol edilen bu çizgili iskelet kasları, cildin hemen altında yer alarak genellikle yüz kemiklerinden cilde uzanır. Kasıldıklarında cildi hareket ettirerek yüz ifadelerini ve mimikleri oluştururlar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

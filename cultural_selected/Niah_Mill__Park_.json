@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "niahmillpark_4876d466",
+    "title": "Niah Millî Parkı",
+    "url": "https://tr.wikipedia.org/wiki/Niah_Mill%C3%AE_Park%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:14.192658",
+    "content": "Niah Millî Parkı (Malayca: Taman Negara Gua Niah), Malezya'nın Sarawak eyaletinde bulunan bir millî parktır. 1974 yılında kurulmuş olup arkeolojik bir sit olan Niah Mağarası'na ev sahipliği yapmaktadır. Alan, 1950'lerde İngiliz kaşif Tom Harrisson tarafından keşfedildi. 1974 yılında millî park statüsü kazandı. 1999'dan itibaren İngiliz arkeologlar tarafından daha ileri kazılara konu oldu. Mağara, 40.000 yıl öncesine ait insan kalıntılarının bulunduğu önemli bir tarih öncesi alandır. Bu, Doğu Malezya'daki en eski kayıtlı insan yerleşimidir. 2006'da yayınlanan daha yeni çalışmalar, Niah mağaralarında yaklaşık 46.000 ila 34.000 yıl öncesine ait ilk insan faaliyetine dair kanıtlar göstermiştir. Büyük Mağara bloğunun güneydoğu ucundan yaklaşık 150 metre uzaklıkta, kendi başına çok daha küçük bir kireçtaşı bloğunda bulunan Boyalı Mağara'da 1.200 yıllık kaya resimleri bulunmaktadır. Arkeologlar, Sabah'taki Lahad Datu yakınlarındaki Mansuli Vadisi'nde bulunan taş aletler için çok daha erken bir tarih iddia ettiler, ancak henüz kesin bir tarihleme analizi yayınlanmadı. Niah Millî Parkı Mağara Kompleksi'nin Arkeolojik Mirası, 27 Temmuz 2024 tarihinde UNESCO Dünya Mirası listesine dahil edildi. == Kaynakça == == Ek okuma == Kennedy, Kenneth A. R., \"The Deep Skull of Niah: an Assessment of Twenty Years of Speculation Concerning its Evolutionary Significance\", Asian Perspectives, XX(I), 1977 == Dış bağlantılar == Tourism Malaysia - Niah National Park A short description of the caves as a touristic destination. Summary of the article \"A short history of birds' nests management in the Niah caves (Sarawak).\" by Quentin Gausset from the \"Borneo Research Bulletin\" published in 2002. Another version from the Sarawak Forestry with a map of the caves Article with a picture of some paintings and death ships. Picture of some cave paintings.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 265,
+      "char_count": 1849,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.635664",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Niah Millî Parkı (Malayca: Taman Negara Gua Niah), Malezya'nın Sarawak eyaletinde bulunan bir millî parktır. 1974 yılında kurulmuş olup arkeolojik bir sit olan Niah Mağarası'na ev sahipliği yapmaktadır. Alan, 1950'lerde İngiliz kaşif Tom Harrisson tarafından keşfedildi. 1974 yılında millî park statüsü kazandı. 1999'dan itibaren İngiliz arkeologlar tarafından daha ileri kazılara konu oldu. Mağara, 40.000 yıl öncesine ait insan kalıntılarının bulunduğu önemli bir tarih öncesi alandır. Bu, Doğu Malezya'daki en eski kayıtlı insan yerleşimidir. 2006'da yayınlanan daha yeni çalışmalar, Niah mağaralarında yaklaşık 46.000 ila 34.000 yıl öncesine ait ilk insan faaliyetine dair kanıtlar göstermiştir. Büyük Mağara bloğunun güneydoğu ucundan yaklaşık 150 metre uzaklıkta, kendi başına çok daha küçük bir kireçtaşı bloğunda bulunan Boyalı Mağara'da 1.200 yıllık kaya resimleri bulunmaktadır. Arkeologlar, Sabah'taki Lahad Datu yakınlarındaki Mansuli Vadisi'nde bulunan taş aletler için çok daha erken bi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1202,
+      "content": "r kireçtaşı bloğunda bulunan Boyalı Mağara'da 1.200 yıllık kaya resimleri bulunmaktadır. Arkeologlar, Sabah'taki Lahad Datu yakınlarındaki Mansuli Vadisi'nde bulunan taş aletler için çok daha erken bir tarih iddia ettiler, ancak henüz kesin bir tarihleme analizi yayınlanmadı. Niah Millî Parkı Mağara Kompleksi'nin Arkeolojik Mirası, 27 Temmuz 2024 tarihinde UNESCO Dünya Mirası listesine dahil edildi.",
+      "char_count": 402,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0002",
+      "section": "== Ek okuma ==",
+      "heading_path": "== Ek okuma ==",
+      "start_char": 1218,
+      "end_char": 1402,
+      "content": "== Ek okuma == Kennedy, Kenneth A. R., \"The Deep Skull of Niah: an Assessment of Twenty Years of Speculation Concerning its Evolutionary Significance\", Asian Perspectives, XX(I), 1977",
+      "char_count": 183,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1402,
+      "end_char": 1849,
+      "content": "== Dış bağlantılar == Tourism Malaysia - Niah National Park A short description of the caves as a touristic destination. Summary of the article \"A short history of birds' nests management in the Niah caves (Sarawak).\" by Quentin Gausset from the \"Borneo Research Bulletin\" published in 2002. Another version from the Sarawak Forestry with a map of the caves Article with a picture of some paintings and death ships. Picture of some cave paintings.",
+      "char_count": 447,
+      "token_estimate": 111
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Niah Millî Parkı hangi yıl kurulmuştur?",
+        "answer": "1974",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Niah Millî Parkı'nın arkeolojik önemi, bilinen en eski insan yerleşimlerinden birini içermesinden, yakın zamanda UNESCO Dünya Mirası listesine dahil edilmesine kadar nasıl bir zaman çizelgesi içinde gelişmiştir?",
+        "answer": "Niah Millî Parkı, ilk olarak 46.000 ila 34.000 yıl öncesine ait ilk insan faaliyetine dair kanıtlar barındırmasıyla arkeolojik değer kazanmıştır. Bu alan, 1950'lerde İngiliz kaşif Tom Harrisson tarafından keşfedilmiş ve 1974 yılında millî park statüsü almıştır. Parkın arkeolojik mirası, 27 Temmuz 2024 tarihinde UNESCO Dünya Mirası listesine dahil edilerek uluslararası düzeyde tescillenmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

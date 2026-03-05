@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "jossantamara_e8b8f09b",
+    "title": "José Santamaría",
+    "url": "https://tr.wikipedia.org/wiki/Jos%C3%A9_Santamar%C3%ADa",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:05.426713",
+    "content": "José Santamaría (31 Temmuz 1929), İspanyol eski millî futbolcu ve teknik direktör. Nacional ve Real Madrid'de 18 yıl geçiren ve 17 kupa kaldıran futbolcudur. Uruguay'da doğan Santamaría, hem Uruguay hem de İspanya millî takımlarının formalarını giydi. Futbolu bıraktıktan 2 yıl sonra teknik direktör oldu. == Kariyeri == 5 şampiyonluk kazandığı Nacional'da futbola profesyonel olarak başladı. 1957 yılında, Santamaría 28 yaşındayken Real Madrid'e transfer oldu ve kariyerinin sonuna kadar burada forma giydi. Santamaria 39 yaşında futbolu bıraktı. Santamaria Real Madrid ile 227 resmî maça çıktı. Santamaria ilk teknik direktörlük deneyimini 1971 yaz aylarında Espanyol ile başladı. 1972-73 sezonunda Espanyol'u ligde 3.sıra tamamlattırdı. Espanyol'da 6 yıl görev yaptı. 21 Aralık 1977 tarihinde, Atletico Madrid'e 4-0 mağlıp olmasından sonra görevinden alındı. 15 Ekim 1958 yılında İspanya adına ilk kez Kuzey İrlanda karşısında forma giydi. İspanya 21 yaş altı millî futbol takımı ile 4 yıl çalıştıktan sonra İspanya millî futbol takımının teknik direktörlüğüne getirildi. == Başarılar == === Kulüp === Nacional Primera División (Uruguay): 1950, 1952, 1955, 1956, 1957 Real Madrid UEFA Şampiyonlar Ligi: 1957-58, 1958-59, 1959-60, 1965-66 Kıtalararası Kupa: 1960 La Liga: 1957-58, 1960-61, 1961-62, 1962-63, 1963-64, 1964-65 Copa del Rey: 1962 === Bireysel === FIFA Dünya Kupası: Yıldız Takım 1954 == Dış bağlantılar == Transfermarkt'ta José Santamaría National-Football-Teams.com'da José Santamaría FIFA.com'da José Santamaría",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 211,
+      "char_count": 1529,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.263153",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 306,
+      "content": "José Santamaría (31 Temmuz 1929), İspanyol eski millî futbolcu ve teknik direktör. Nacional ve Real Madrid'de 18 yıl geçiren ve 17 kupa kaldıran futbolcudur. Uruguay'da doğan Santamaría, hem Uruguay hem de İspanya millî takımlarının formalarını giydi. Futbolu bıraktıktan 2 yıl sonra teknik direktör oldu.",
+      "char_count": 305,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 306,
+      "end_char": 1075,
+      "content": "== Kariyeri == 5 şampiyonluk kazandığı Nacional'da futbola profesyonel olarak başladı. 1957 yılında, Santamaría 28 yaşındayken Real Madrid'e transfer oldu ve kariyerinin sonuna kadar burada forma giydi. Santamaria 39 yaşında futbolu bıraktı. Santamaria Real Madrid ile 227 resmî maça çıktı. Santamaria ilk teknik direktörlük deneyimini 1971 yaz aylarında Espanyol ile başladı. 1972-73 sezonunda Espanyol'u ligde 3.sıra tamamlattırdı. Espanyol'da 6 yıl görev yaptı. 21 Aralık 1977 tarihinde, Atletico Madrid'e 4-0 mağlıp olmasından sonra görevinden alındı. 15 Ekim 1958 yılında İspanya adına ilk kez Kuzey İrlanda karşısında forma giydi. İspanya 21 yaş altı millî futbol takımı ile 4 yıl çalıştıktan sonra İspanya millî futbol takımının teknik direktörlüğüne getirildi.",
+      "char_count": 768,
+      "token_estimate": 192
+    },
+    {
+      "id": "c0002",
+      "section": "=== Kulüp ===",
+      "heading_path": "=== Kulüp ===",
+      "start_char": 1091,
+      "end_char": 1346,
+      "content": "=== Kulüp === Nacional Primera División (Uruguay): 1950, 1952, 1955, 1956, 1957 Real Madrid UEFA Şampiyonlar Ligi: 1957-58, 1958-59, 1959-60, 1965-66 Kıtalararası Kupa: 1960 La Liga: 1957-58, 1960-61, 1961-62, 1962-63, 1963-64, 1964-65 Copa del Rey: 1962",
+      "char_count": 254,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0003",
+      "section": "=== Bireysel ===",
+      "heading_path": "=== Bireysel ===",
+      "start_char": 1346,
+      "end_char": 1400,
+      "content": "=== Bireysel === FIFA Dünya Kupası: Yıldız Takım 1954",
+      "char_count": 53,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1400,
+      "end_char": 1529,
+      "content": "== Dış bağlantılar == Transfermarkt'ta José Santamaría National-Football-Teams.com'da José Santamaría FIFA.com'da José Santamaría",
+      "char_count": 129,
+      "token_estimate": 32
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Santamaria futbolu kaç yaşında bıraktı?",
+        "answer": "39 yaşında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "José Santamaría'nın futbolculuk kariyeri hangi yıl sona ermiş ve teknik direktörlük kariyerine ne zaman başlamıştır, bu iki dönem arasındaki geçişi parçalardaki bilgilere göre açıklayınız.",
+        "answer": "José Santamaría, 1929 doğumlu olup 39 yaşında futbolu bıraktığına göre futbolculuk kariyerini 1968 yılında sonlandırmıştır. Futbolu bıraktıktan 2 yıl sonra teknik direktör olmuş ve ilk teknik direktörlük deneyimine 1971 yaz aylarında Espanyol ile başlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

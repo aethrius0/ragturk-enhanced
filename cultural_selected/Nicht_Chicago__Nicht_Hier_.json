@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "nichtchicagonichthie_58a900db",
+    "title": "Nicht Chicago. Nicht Hier.",
+    "url": "https://tr.wikipedia.org/wiki/Nicht_Chicago._Nicht_Hier.",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:12.938461",
+    "content": "Nicht Chicago. Nicht hier. Alman yazar Kirsten Boie'nin bir gençlik romanıdır. Kitap ilk kez Friedrich Oetinger Yayınevi tarafından 1999 yılında Hamburg'da yayımlandı. Daha sonra da Deutsche Taschenbuch Verlag (Alman Cep Kitapları Yayınevi) tarafından basıldı. Alman eğitim sisteminin ikinci kademesinde (Türkiye için İlköğretim II. Kademe ve Lise) öğrenciler arasında şiddet temasını tartışmak için okutuluyor. == Kitabın İçeriği == Niklas'ın sınıfına Karl adında yeni bir öğrenci gelir. Niklas onunla okul için bir projede beraber çalışmak zorunda kalır. Bir gün Karl Niklas'a çalışmaya geldiğinde Niklas'ın bir CDsi kaybolur. Diğer bir gelişinde ise geri getirmek vaadiyle Niklas'ın babasının bilgisayarının CD sürücüsünü alıyor. Bunlar daha hiçbir şey: Niklas Karl tarafından tehdit ediliyor. Niklas ailesinden yardım istiyoor ve nihayet ailesi de Niklas'a inandığında Beraber polise gidiyorlar. Zira polis de bunun için kanıt bulamıyor ve işi başından atmaya çalışıyor. Niklas'ın anlattıklarına ailesinden başka kimse inanmamaktadır, öğretmeni Frau (Bayan) Römer bile. Tüm aile Karl'a, arkadaşı Rocky'ye ve diğer suç ortaklarına karşı hiçbir şey yapamayacak durumdadır. Son olarak Karl Niklas'ın ada tavşanı Rex'i garajlarından çalıyor ve öldürüyor. Şimdi Niklas Karl'ı öldürmek için ant içiyor. Kitabın sonu açık bırakılmıştır. == Anlatım Biçimi == Yazar yaklaşık her 12 sayfada bir geri dönüşler yapmıştır. Bu, yazarın kitabı iki ayrı zamanda yazdığı anlamına gelir. İlk zaman orada neler yaşandığını anlatıyor (anlatıcı perspektifi), ikinci zaman ise olayları yaşıyor (monolog). == Ödüller == Kitap Alman Gençlik Kitapları Ödülü'nü almıştır. Ayrıca 2006 yılında Orhan Pamuk'un Kar adlı romanıyla kazandığı Ein buch für die Stadt(Şehir için bir kitap) ödülünü 2008 yılında almıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 248,
+      "char_count": 1804,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.633041",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 412,
+      "content": "Nicht Chicago. Nicht hier. Alman yazar Kirsten Boie'nin bir gençlik romanıdır. Kitap ilk kez Friedrich Oetinger Yayınevi tarafından 1999 yılında Hamburg'da yayımlandı. Daha sonra da Deutsche Taschenbuch Verlag (Alman Cep Kitapları Yayınevi) tarafından basıldı. Alman eğitim sisteminin ikinci kademesinde (Türkiye için İlköğretim II. Kademe ve Lise) öğrenciler arasında şiddet temasını tartışmak için okutuluyor.",
+      "char_count": 411,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0001",
+      "section": "== Kitabın İçeriği ==",
+      "heading_path": "== Kitabın İçeriği ==",
+      "start_char": 412,
+      "end_char": 1334,
+      "content": "== Kitabın İçeriği == Niklas'ın sınıfına Karl adında yeni bir öğrenci gelir. Niklas onunla okul için bir projede beraber çalışmak zorunda kalır. Bir gün Karl Niklas'a çalışmaya geldiğinde Niklas'ın bir CDsi kaybolur. Diğer bir gelişinde ise geri getirmek vaadiyle Niklas'ın babasının bilgisayarının CD sürücüsünü alıyor. Bunlar daha hiçbir şey: Niklas Karl tarafından tehdit ediliyor. Niklas ailesinden yardım istiyoor ve nihayet ailesi de Niklas'a inandığında Beraber polise gidiyorlar. Zira polis de bunun için kanıt bulamıyor ve işi başından atmaya çalışıyor. Niklas'ın anlattıklarına ailesinden başka kimse inanmamaktadır, öğretmeni Frau (Bayan) Römer bile. Tüm aile Karl'a, arkadaşı Rocky'ye ve diğer suç ortaklarına karşı hiçbir şey yapamayacak durumdadır. Son olarak Karl Niklas'ın ada tavşanı Rex'i garajlarından çalıyor ve öldürüyor. Şimdi Niklas Karl'ı öldürmek için ant içiyor. Kitabın sonu açık bırakılmıştır.",
+      "char_count": 921,
+      "token_estimate": 230
+    },
+    {
+      "id": "c0002",
+      "section": "== Anlatım Biçimi ==",
+      "heading_path": "== Anlatım Biçimi ==",
+      "start_char": 1334,
+      "end_char": 1587,
+      "content": "== Anlatım Biçimi == Yazar yaklaşık her 12 sayfada bir geri dönüşler yapmıştır. Bu, yazarın kitabı iki ayrı zamanda yazdığı anlamına gelir. İlk zaman orada neler yaşandığını anlatıyor (anlatıcı perspektifi), ikinci zaman ise olayları yaşıyor (monolog).",
+      "char_count": 252,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 1587,
+      "end_char": 1790,
+      "content": "== Ödüller == Kitap Alman Gençlik Kitapları Ödülü'nü almıştır. Ayrıca 2006 yılında Orhan Pamuk'un Kar adlı romanıyla kazandığı Ein buch für die Stadt(Şehir için bir kitap) ödülünü 2008 yılında almıştır.",
+      "char_count": 202,
+      "token_estimate": 50
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Karl, Niklas'ın hangi evcil hayvanını çalıp öldürdü?",
+        "answer": "Ada tavşanı Rex'i.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kirsten Boie'nin 'Nicht Chicago. Nicht hier.' romanının konusu, Alman eğitim sisteminde hangi temayı tartışmak için kullanıldığını nasıl desteklemektedir?",
+        "answer": "Romanın konusu, Niklas'ın yeni öğrenci Karl tarafından yaşadığı hırsızlık, tehditler ve ada tavşanının öldürülmesi gibi olaylarla tırmanan şiddet ve zorbalığı detaylandırmaktadır. Bu olaylar, öğrencilerin maruz kaldığı şiddetin gerçekliğini ve sonuçlarını açıkça göstererek, kitabın Alman eğitim sisteminde öğrenciler arasında şiddet temasını tartışmak için kullanılması amacını güçlü bir şekilde desteklemektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

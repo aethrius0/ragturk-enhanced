@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "kazanngali_bcaa8856",
+    "title": "Kazan'ın İşgali",
+    "url": "https://tr.wikipedia.org/wiki/Kazan%27%C4%B1n_%C4%B0%C5%9Fgali",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:43.275281",
+    "content": "Kazan'ın İşgali veya Kazan Kuşatması, Rus-Kazan Savaşları'nın sonuncusu ve Kazan Hanlığı'nın yıkılmasıyla sonuçlanan savaş. Rusların, Kazan Hanlığı'nın tamamını ele geçirmeleri kitlesel ayaklanmaların bastırılmasıyla 16. yüzyılın sonunda gerçekleşmiştir. == İşgalin sebepleri ve işgal == Ruslar 1480 yılından itibaren Tatarlara vergi vermeyi kesmiş ve hanların seçiminde söz sahibi olmuşlardı. 1519'da Rusların tahta çıkarttığı Şah Ali'ye karşı Kırım Hanlığı'ndan yardım isteyen muhaliflerin sayesinde tahta 1521 yılında Sahib Giray Han çıktı. 1523'te Kırım-Kazan Hanlıklarının işbirliği bozulunca Kazan hanı Osmanlı İmparatorluğu'ndan yardım istedi ancak bir sonuç elde edemedi. 1524'te Ruslar Kazan'ı kuşattı ancak bir netice elde edemediler. 1530'da tekrar kuşattılar ve bu sefer antlaşma yapılarak Ruslara her yıl vergi verilmesi kabul edildi. 1552'de Yadigar Muhammed'in Kazan tahtına çıkmasıyla Kazan'ın dağ tarafı Ruslara karşı ayaklanarak Kazan Hanlığı ile birleşti. Bu sırada Kırım Moskova'ya karşı savaş açtı ve Tula'ya kadar ilerlediler. Bu durum karşısında Korkunç İvan Kazan'a sefer açmaya karar verdi. Rus ordusu 5 Ağustos 1552'de iki ülke arasında sınır olan Sura nehrini geçerek hiçbir engelle karşılaşmadan Züye kalesine kadar ilerlemiştir. Bu kalede bulunan Şah-Ali akrabası olan Kazan Han'ı Yadigar Muhammed'e teslim olması çağrısında bulunmuş fakat sert bir cevapla reddedilmiştir. Bunun üzerine Rus ordusu 20 Ağustos 1552'de Kazan şehri yakınlarına gelmiş ve 23 Ağustos'ta şehri tamamen kuşatma altına almıştı. İki ay devam eden çatışmaların ardından 15 Ekim 1552'de Kazan şehri ele geçirildi ve böylece 4. yüzyıldan beri devam eden Türk egemenliği son buldu. Ruslara karşı yapılan askeri seferlerde yakalanan ve esir tutulan bir dizi Rus serbest bırakıldı ve Kazan Tatarlarına uygulanan büyük bir katliamın yanı sıra camiler dahil olmak üzere hemen hemen bütün Tatar binaları tahrip edildi şehir yağmalandı.ı. Şehrin düşüşünde Rus birliklerinin yanı sıra, Moskova ve Kasım Hanlığı'nın düzensiz feodal süvarileri ve Muskovit topçuları ve istihkam erleri ile birlikte hem Rus hem de yabancılar hayati bir rol oynadılar. Kuşatmadan önce IV. İvan, ordusuna Gürcü Kraliçe Tamar'ın savaşlarından örnekler vererek, “İberya'nın en bilge kraliçesi, bir insanın zekası ve cesareti ile donatılmış” olarak nitelendirmiştir. == Kültürel yansıması == Mihail Heraskov, Kazan'ın ele geçirilişini destansı şiiri Rossiada'da (1771-1779) işlemiştir. == Galeri == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 336,
+      "char_count": 2480,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.260592",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 255,
+      "content": "Kazan'ın İşgali veya Kazan Kuşatması, Rus-Kazan Savaşları'nın sonuncusu ve Kazan Hanlığı'nın yıkılmasıyla sonuçlanan savaş. Rusların, Kazan Hanlığı'nın tamamını ele geçirmeleri kitlesel ayaklanmaların bastırılmasıyla 16. yüzyılın sonunda gerçekleşmiştir.",
+      "char_count": 254,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0001",
+      "section": "== İşgalin sebepleri ve işgal ==",
+      "heading_path": "== İşgalin sebepleri ve işgal ==",
+      "start_char": 255,
+      "end_char": 1255,
+      "content": "== İşgalin sebepleri ve işgal == Ruslar 1480 yılından itibaren Tatarlara vergi vermeyi kesmiş ve hanların seçiminde söz sahibi olmuşlardı. 1519'da Rusların tahta çıkarttığı Şah Ali'ye karşı Kırım Hanlığı'ndan yardım isteyen muhaliflerin sayesinde tahta 1521 yılında Sahib Giray Han çıktı. 1523'te Kırım-Kazan Hanlıklarının işbirliği bozulunca Kazan hanı Osmanlı İmparatorluğu'ndan yardım istedi ancak bir sonuç elde edemedi. 1524'te Ruslar Kazan'ı kuşattı ancak bir netice elde edemediler. 1530'da tekrar kuşattılar ve bu sefer antlaşma yapılarak Ruslara her yıl vergi verilmesi kabul edildi. 1552'de Yadigar Muhammed'in Kazan tahtına çıkmasıyla Kazan'ın dağ tarafı Ruslara karşı ayaklanarak Kazan Hanlığı ile birleşti. Bu sırada Kırım Moskova'ya karşı savaş açtı ve Tula'ya kadar ilerlediler. Bu durum karşısında Korkunç İvan Kazan'a sefer açmaya karar verdi. Rus ordusu 5 Ağustos 1552'de iki ülke arasında sınır olan Sura nehrini geçerek hiçbir engelle karşılaşmadan Züye kalesine kadar ilerlemişti",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== İşgalin sebepleri ve işgal ==",
+      "heading_path": "== İşgalin sebepleri ve işgal ==",
+      "start_char": 1055,
+      "end_char": 2055,
+      "content": "um karşısında Korkunç İvan Kazan'a sefer açmaya karar verdi. Rus ordusu 5 Ağustos 1552'de iki ülke arasında sınır olan Sura nehrini geçerek hiçbir engelle karşılaşmadan Züye kalesine kadar ilerlemiştir. Bu kalede bulunan Şah-Ali akrabası olan Kazan Han'ı Yadigar Muhammed'e teslim olması çağrısında bulunmuş fakat sert bir cevapla reddedilmiştir. Bunun üzerine Rus ordusu 20 Ağustos 1552'de Kazan şehri yakınlarına gelmiş ve 23 Ağustos'ta şehri tamamen kuşatma altına almıştı. İki ay devam eden çatışmaların ardından 15 Ekim 1552'de Kazan şehri ele geçirildi ve böylece 4. yüzyıldan beri devam eden Türk egemenliği son buldu. Ruslara karşı yapılan askeri seferlerde yakalanan ve esir tutulan bir dizi Rus serbest bırakıldı ve Kazan Tatarlarına uygulanan büyük bir katliamın yanı sıra camiler dahil olmak üzere hemen hemen bütün Tatar binaları tahrip edildi şehir yağmalandı.ı. Şehrin düşüşünde Rus birliklerinin yanı sıra, Moskova ve Kasım Hanlığı'nın düzensiz feodal süvarileri ve Muskovit topçuları",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== İşgalin sebepleri ve işgal ==",
+      "heading_path": "== İşgalin sebepleri ve işgal ==",
+      "start_char": 1855,
+      "end_char": 2333,
+      "content": "mak üzere hemen hemen bütün Tatar binaları tahrip edildi şehir yağmalandı.ı. Şehrin düşüşünde Rus birliklerinin yanı sıra, Moskova ve Kasım Hanlığı'nın düzensiz feodal süvarileri ve Muskovit topçuları ve istihkam erleri ile birlikte hem Rus hem de yabancılar hayati bir rol oynadılar. Kuşatmadan önce IV. İvan, ordusuna Gürcü Kraliçe Tamar'ın savaşlarından örnekler vererek, “İberya'nın en bilge kraliçesi, bir insanın zekası ve cesareti ile donatılmış” olarak nitelendirmiştir.",
+      "char_count": 478,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0004",
+      "section": "== Kültürel yansıması ==",
+      "heading_path": "== Kültürel yansıması ==",
+      "start_char": 2334,
+      "end_char": 2453,
+      "content": "== Kültürel yansıması == Mihail Heraskov, Kazan'ın ele geçirilişini destansı şiiri Rossiada'da (1771-1779) işlemiştir.",
+      "char_count": 118,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ruslar Tatarlara vergi vermeyi hangi tarihten itibaren kesmişlerdir?",
+        "answer": "1480 yılından itibaren.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Korkunç İvan'ın 1552'de Kazan'a sefer düzenlemesine yol açan başlıca olaylar nelerdi ve bu seferin Kazan Hanlığı için nihai sonucu ne oldu?",
+        "answer": "Korkunç İvan'ın 1552 seferine, Yadigar Muhammed'in Kazan tahtına çıkmasıyla Kazan'ın dağ tarafının Ruslara karşı ayaklanarak Kazan Hanlığı ile birleşmesi ve Kırım Hanlığı'nın Moskova'ya karşı savaş açarak Tula'ya kadar ilerlemesi sebep oldu. Rus ordusu 5 Ağustos 1552'de Sura nehrini geçerek ilerledi, Kazan Hanı Yadigar Muhammed'in teslim olma çağrısını reddetmesi üzerine şehri 23 Ağustos'ta kuşattı ve iki ay süren çatışmaların ardından 15 Ekim 1552'de ele geçirdi. Bu işgal, Rus-Kazan Savaşları'nın sonuncusu oldu, 4. yüzyıldan beri devam eden Türk egemenliğini sona erdirdi ve Kazan Hanlığı'nın yıkılmasıyla sonuçlandı; Ruslar kitlesel ayaklanmaları bastırarak 16. yüzyılın sonunda hanlığın tamamını ele geçirdi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

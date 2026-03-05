@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "deathsgame_1be6fd98",
+    "title": "Death's Game",
+    "url": "https://tr.wikipedia.org/wiki/Death%27s_Game",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:50.334693",
+    "content": "Death's Game (Korece: 이재, 곧 죽습니다), Seo In-guk ve Park So-dam'ın başrollerini paylaştığı, Ha Byung-hoon'un yazıp yönettiği fantastik, antoloji, gizem ve gerilim türlerindeki Güney Kore dizisidir. 2019'da Naver'da yayımlanan Lee Won-sik ve Ggulchan'ın aynı adlı webtoon'undan uyarlanan dizi, yaşadığı zorluklar nedeniyle umudunu kaybetmiş bir adamın ölümle birlikte yeni bir hayata başlamasını konu alır. Dizi, 15 Aralık 2023 ile 5 Ocak 2024 tarihleri arasında saat 12:00’de (KST) TVING platformunda yayımlanmıştır. Güney Kore ve Çin haricinde, Amazon Prime Video üzerinden izlenebilmektedir. == Konu == Yedi yıl boyunca iş bulmak için çabalamış ve başarısız olmuş Choi Yee-jae intihar eder. Ancak Ölüm, Yee-jae'nin ölüme karşı kayıtsızlığından rahatsız olarak, onu cehenneme göndermeden önce, 12 kez yeninden doğması ve ölmesi gereken bir oyun oynatarak cezalandırır. Ancak Yee-jae, 12 yeniden doğumunun herhangi birinde hayatta kalmayı başarırsa yaşamaya devam edebilecektir; nihayetinde, kendi hayatına son verdikten sonra, başkalarının hayatlarını yaşayarak gidişatın nasıl daha farklı olabileceğini düşünmeye başlayacaktır. == Oyuncu kadrosu == === Ana karakterler === Seo In-guk - Choi Yee-jae Park So-dam - Ölüm === Yardımcı karakterler === ==== Choi Yee-jae'nin reenkarnasyonları ==== Choi Si-won - Park Jin-tae Sung Hoon - Song Jae-seop Kim Kang-hoon - Kwon Hyeok-su Jang Seung-jo - Lee Ju-hun Lee Jae-wook - Cho Tae-sang Lee Do-hyun - Jang Geon-u Kim Jae-wook - Jeong Gyu-cheol Oh Jung-se - An Ji-hyeong Kim Won-hae - Evsiz bir adam ==== Diğerleri ==== Kim Ji-hoon - Park Tae-woo Go Youn-jung - Lee Ji-su Yoo In-soo - Lee Jin-sang Kim Mi-kyung - Yee-jae'nin annesi Choi Woo-jin - Woo Ji-hun Oh Ji-yul - Woo Seul-gi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 256,
+      "char_count": 1737,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.268530",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 591,
+      "content": "Death's Game (Korece: 이재, 곧 죽습니다), Seo In-guk ve Park So-dam'ın başrollerini paylaştığı, Ha Byung-hoon'un yazıp yönettiği fantastik, antoloji, gizem ve gerilim türlerindeki Güney Kore dizisidir. 2019'da Naver'da yayımlanan Lee Won-sik ve Ggulchan'ın aynı adlı webtoon'undan uyarlanan dizi, yaşadığı zorluklar nedeniyle umudunu kaybetmiş bir adamın ölümle birlikte yeni bir hayata başlamasını konu alır. Dizi, 15 Aralık 2023 ile 5 Ocak 2024 tarihleri arasında saat 12:00’de (KST) TVING platformunda yayımlanmıştır. Güney Kore ve Çin haricinde, Amazon Prime Video üzerinden izlenebilmektedir.",
+      "char_count": 590,
+      "token_estimate": 147
+    },
+    {
+      "id": "c0001",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 591,
+      "end_char": 1127,
+      "content": "== Konu == Yedi yıl boyunca iş bulmak için çabalamış ve başarısız olmuş Choi Yee-jae intihar eder. Ancak Ölüm, Yee-jae'nin ölüme karşı kayıtsızlığından rahatsız olarak, onu cehenneme göndermeden önce, 12 kez yeninden doğması ve ölmesi gereken bir oyun oynatarak cezalandırır. Ancak Yee-jae, 12 yeniden doğumunun herhangi birinde hayatta kalmayı başarırsa yaşamaya devam edebilecektir; nihayetinde, kendi hayatına son verdikten sonra, başkalarının hayatlarını yaşayarak gidişatın nasıl daha farklı olabileceğini düşünmeye başlayacaktır.",
+      "char_count": 535,
+      "token_estimate": 133
+    },
+    {
+      "id": "c0002",
+      "section": "=== Ana karakterler ===",
+      "heading_path": "=== Ana karakterler ===",
+      "start_char": 1148,
+      "end_char": 1217,
+      "content": "=== Ana karakterler === Seo In-guk - Choi Yee-jae Park So-dam - Ölüm",
+      "char_count": 68,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0003",
+      "section": "==== Choi Yee-jae'nin reenkarnasyonları ====",
+      "heading_path": "==== Choi Yee-jae'nin reenkarnasyonları ====",
+      "start_char": 1246,
+      "end_char": 1541,
+      "content": "==== Choi Yee-jae'nin reenkarnasyonları ==== Choi Si-won - Park Jin-tae Sung Hoon - Song Jae-seop Kim Kang-hoon - Kwon Hyeok-su Jang Seung-jo - Lee Ju-hun Lee Jae-wook - Cho Tae-sang Lee Do-hyun - Jang Geon-u Kim Jae-wook - Jeong Gyu-cheol Oh Jung-se - An Ji-hyeong Kim Won-hae - Evsiz bir adam",
+      "char_count": 294,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0004",
+      "section": "==== Diğerleri ====",
+      "heading_path": "==== Diğerleri ====",
+      "start_char": 1541,
+      "end_char": 1723,
+      "content": "==== Diğerleri ==== Kim Ji-hoon - Park Tae-woo Go Youn-jung - Lee Ji-su Yoo In-soo - Lee Jin-sang Kim Mi-kyung - Yee-jae'nin annesi Choi Woo-jin - Woo Ji-hun Oh Ji-yul - Woo Seul-gi",
+      "char_count": 181,
+      "token_estimate": 45
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Death's Game dizisinin başrollerini kimler paylaşmaktadır?",
+        "answer": "Seo In-guk ve Park So-dam",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Death's Game dizisinde, umudunu kaybetmiş bir adamın ölümle yeni bir hayata başlaması teması, baş karakter Choi Yee-jae'nin hikayesinde nasıl somutlaşmaktadır?",
+        "answer": "Dizi, yedi yıl boyunca iş bulma çabalarında başarısız olduktan sonra intihar eden Choi Yee-jae aracılığıyla bu temayı somutlaştırır. Ölüm, Yee-jae'yi, cehenneme gönderilmeden önce 12 kez yeniden doğup ölmesi gereken bir oyunla cezalandırır. Bu süreçte, herhangi bir yeniden doğumunda hayatta kalmayı başarırsa yaşamaya devam etme şansı yakalar ve kendi hayatına son verdikten sonra başkalarının hayatlarını yaşayarak gidişatın nasıl farklı olabileceğini düşünmeye başlar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

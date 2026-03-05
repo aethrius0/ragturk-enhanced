@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "londonclassicalplaye_4c23c973",
+    "title": "London Classical Players",
+    "url": "https://tr.wikipedia.org/wiki/London_Classical_Players",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:09.551152",
+    "content": "London Classical Players (LCP), tarihsel olarak bilgilendirilmiş performans (HIP) uygulamaları ve dönemsel çalgılar üzerindeki orkestra performansları üzerine uzmanlaşmış bir İngiliz orkestrasıydı. Sir Roger Norrington, 1978'de LCP'yi kurdu. 1978'den 1992'ye kadar, London Classical Players'ın konser şefi barok kemancı John Holloway'di. LCP, EMI Classics için çeşitli kayıtlar yaptı. LCP'deki çalıcıların çoğu, diğer dört büyük HIP orkestra topluluğu, Academy of Ancient Music, The English Concert, Orchestra of the Age of Enlightenment ve English Baroque Soloists ile ortaktı. Ünlü konser serileri arasında 1987'de \"The Beethoven Experience\", ve 1988'de \"The Berlioz Experience\" vardı. 1996'da LCP, o zamanlar tartışmalı bir karar olan Bedrich Smetana'nın Ma Vlast'ının geleneksel açılış festivali konserinde Prag Bahar Festivali'ni açılışını yapmaya davet edildi. 1997'de LCP resmen feshedildi ve çalışmaları Aydınlanma Çağı Orkestrası'na dahil edildi. == Seçilmiş diskografi == Ludwig van Beethoven : Dokuz Senfoni, Virgin Classics 5619432 (yeniden basım) Ludwig van Beethoven : Beş Piyano Konçertosu, Virgin Classics 5622422 (yeniden basım) Hector Berlioz : Symphonie Fantastique, Les Francs-Juges Uvertürü, Virgin Classics 3632862 (yeniden basım) Johannes Brahms : Ein Deutsches Requiem, Virgin Veritas 5616052 (yeniden basım) Anton Bruckner : Senfoni No. 3, Virgin Veritas 4820912 (yeniden basım) Georg Friedrich Handel : Su Müziği, Kraliyet Havai Fişek Müziği, Virgin Veritas (yeniden basım) Joseph Haydn : Senfoniler No. 99 ve 100 (EMI Classics), 101 ve 102 (EMI Classics), 103 ve 104 (EMI Classics) Felix Mendelssohn : Senfoniler No. 3 ve 4, Virgin Veritas 3499832 (yeniden basım) Wolfgang Amadeus Mozart : Senfoniler No. 38- 41, Virgin Veritas 5620102 (yeniden basım) Die Zauberflöte, Virgin Veritas 4820732 Don Giovanni, Virgin Veritas 5622672 (Die Zauberflöte ile yeniden basım) Piyano Konçertoları No. 20, 23–25, Virgin Veritas 5623432 (yeniden basım) Requiem/Masonik Cenaze Müziği/\"Ave verum corpus\", Virgin Veritas 5615202 Henry Purcell : The Fairy Queen, Virgin Veritas 5619552 Gioacchino Rossini : Uvertürler, EMI Klasikleri Franz Schubert : Senfoniler No. 4-6 ve 8, Virgin Veritas 5622272 (yeniden basım) Robert Schumann : Senfoniler No. 3 ve 4, Virgin Veritas 3499832 (yeniden basım) Bedřich Smetana : Ma Vlast, Virgin Veritas 5453012 Richard Wagner : Tristan und Isolde - Prelude & Liebestod, Rienzi, Die Meistersinger von Nürnberg ve Parsifal, Lohengrin Préludler, Siegfried İdil, Virgin Veritas 4820912 (yeniden ödeme) Carl Maria von Weber : Senfoniler No. 1 ve 2, Konzertstück, EMI Classics == Kaynakça == == Dış bağlantılar == Bernard Holland, \"İnceleme/Müzik; Beethoven'ın Etkileri: Bugün O, Bugün O Üzerine\". New York Times, 8 Ağustos 1989.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 388,
+      "char_count": 2767,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.624751",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 956,
+      "content": "London Classical Players (LCP), tarihsel olarak bilgilendirilmiş performans (HIP) uygulamaları ve dönemsel çalgılar üzerindeki orkestra performansları üzerine uzmanlaşmış bir İngiliz orkestrasıydı. Sir Roger Norrington, 1978'de LCP'yi kurdu. 1978'den 1992'ye kadar, London Classical Players'ın konser şefi barok kemancı John Holloway'di. LCP, EMI Classics için çeşitli kayıtlar yaptı. LCP'deki çalıcıların çoğu, diğer dört büyük HIP orkestra topluluğu, Academy of Ancient Music, The English Concert, Orchestra of the Age of Enlightenment ve English Baroque Soloists ile ortaktı. Ünlü konser serileri arasında 1987'de \"The Beethoven Experience\", ve 1988'de \"The Berlioz Experience\" vardı. 1996'da LCP, o zamanlar tartışmalı bir karar olan Bedrich Smetana'nın Ma Vlast'ının geleneksel açılış festivali konserinde Prag Bahar Festivali'ni açılışını yapmaya davet edildi. 1997'de LCP resmen feshedildi ve çalışmaları Aydınlanma Çağı Orkestrası'na dahil edildi.",
+      "char_count": 955,
+      "token_estimate": 238
+    },
+    {
+      "id": "c0001",
+      "section": "== Seçilmiş diskografi ==",
+      "heading_path": "== Seçilmiş diskografi ==",
+      "start_char": 956,
+      "end_char": 1956,
+      "content": "== Seçilmiş diskografi == Ludwig van Beethoven : Dokuz Senfoni, Virgin Classics 5619432 (yeniden basım) Ludwig van Beethoven : Beş Piyano Konçertosu, Virgin Classics 5622422 (yeniden basım) Hector Berlioz : Symphonie Fantastique, Les Francs-Juges Uvertürü, Virgin Classics 3632862 (yeniden basım) Johannes Brahms : Ein Deutsches Requiem, Virgin Veritas 5616052 (yeniden basım) Anton Bruckner : Senfoni No. 3, Virgin Veritas 4820912 (yeniden basım) Georg Friedrich Handel : Su Müziği, Kraliyet Havai Fişek Müziği, Virgin Veritas (yeniden basım) Joseph Haydn : Senfoniler No. 99 ve 100 (EMI Classics), 101 ve 102 (EMI Classics), 103 ve 104 (EMI Classics) Felix Mendelssohn : Senfoniler No. 3 ve 4, Virgin Veritas 3499832 (yeniden basım) Wolfgang Amadeus Mozart : Senfoniler No. 38- 41, Virgin Veritas 5620102 (yeniden basım) Die Zauberflöte, Virgin Veritas 4820732 Don Giovanni, Virgin Veritas 5622672 (Die Zauberflöte ile yeniden basım) Piyano Konçertoları No. 20, 23–25, Virgin Veritas 5623432 (yenid",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Seçilmiş diskografi ==",
+      "heading_path": "== Seçilmiş diskografi ==",
+      "start_char": 1756,
+      "end_char": 2614,
+      "content": "620102 (yeniden basım) Die Zauberflöte, Virgin Veritas 4820732 Don Giovanni, Virgin Veritas 5622672 (Die Zauberflöte ile yeniden basım) Piyano Konçertoları No. 20, 23–25, Virgin Veritas 5623432 (yeniden basım) Requiem/Masonik Cenaze Müziği/\"Ave verum corpus\", Virgin Veritas 5615202 Henry Purcell : The Fairy Queen, Virgin Veritas 5619552 Gioacchino Rossini : Uvertürler, EMI Klasikleri Franz Schubert : Senfoniler No. 4-6 ve 8, Virgin Veritas 5622272 (yeniden basım) Robert Schumann : Senfoniler No. 3 ve 4, Virgin Veritas 3499832 (yeniden basım) Bedřich Smetana : Ma Vlast, Virgin Veritas 5453012 Richard Wagner : Tristan und Isolde - Prelude & Liebestod, Rienzi, Die Meistersinger von Nürnberg ve Parsifal, Lohengrin Préludler, Siegfried İdil, Virgin Veritas 4820912 (yeniden ödeme) Carl Maria von Weber : Senfoniler No. 1 ve 2, Konzertstück, EMI Classics",
+      "char_count": 858,
+      "token_estimate": 214
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2630,
+      "end_char": 2767,
+      "content": "== Dış bağlantılar == Bernard Holland, \"İnceleme/Müzik; Beethoven'ın Etkileri: Bugün O, Bugün O Üzerine\". New York Times, 8 Ağustos 1989.",
+      "char_count": 137,
+      "token_estimate": 34
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ludwig van Beethoven'ın Dokuz Senfonisi hangi plak şirketi tarafından yeniden basılmıştır?",
+        "answer": "Virgin Classics",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "London Classical Players'ın seçilmiş diskografisi ve genel faaliyetleri göz önüne alındığında, orkestranın hangi ana plak şirketleri için kayıt yaptığı anlaşılmaktadır?",
+        "answer": "London Classical Players'ın seçilmiş diskografisi ve genel faaliyetlerinden, orkestranın Virgin Classics, Virgin Veritas ve EMI Classics plak şirketleri için kayıt yaptığı anlaşılmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

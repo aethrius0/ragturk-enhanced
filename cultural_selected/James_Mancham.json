@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "jamesmancham_0232b5b7",
+    "title": "James Mancham",
+    "url": "https://tr.wikipedia.org/wiki/James_Mancham",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:26.712835",
+    "content": "Sir James Richard Marie Mancham (11 Ağustos 1939 - 8 Ocak 2017), Seyşelli gazeteci, avukat, yazar, iş insanı ve siyasetçi. Mancham, Afrika ada ülkesi Seyşeller'de ülkenin ilk devlet başkanı olarak 1976-1977 yılları arasında devlet başkanlığı makamında bulunmuştur. Londra ve Paris'te hukuk eğitimi alan Mancham, 1964 yılında o dönem Birleşik Krallık koloni bölgesi olan ülkesine döndükten sonra Seyşeller Demokratik Partisi'ni (Seychelles Democratic Party - SDP) kurmuştur. Adada 1967 yılında gerçekleştirilen ilk genel seçimleri kazanan Mancham, Kasım 1970'te yapılan seçimlerden de galibiyetle ayrılarak ülkesinin başbakanı olmuştur. 1975 yılında özerkliğine kavuşan ülkesine bu süreçte başbakan olarak hizmet veren Mancham, ülkesinin ekonomik nedenler nedeniyle bağımsızlığına uzun süre muhaliflik etse de, Seyşeller 1976 yılında bağımsızlığını elde etmiştir. Ülkenin ilk devlet başkanı olarak 29 Temmuz 1976'da bu makama çıkan Mancham, başbakan olarak sosyalist SPUP partisinin genel başkanı France-Albert René'yi atamıştır. 5 Temmuz 1977'de İngiliz Milletler Topluluğu toplantısına katılmak üzere gittiği Londra'da bulunduğu bir sırada başbakan René, Mancham'ı görevden indirerek kendisini devlet başkanı ilan etmiştir. Yaşanan bu olay sonrasında ülkesine dönemeyen Mancham, İngiltere'de sürgünde bulunmuştur. Bu süreçte René'ye karşı muhalif tutumlarını sürdüren Mancham, 25 Kasım 1981'de yaşanan bir darbe girişiminde de desteğinin olup olmadığı bilinmediği halde sorumlu tutulmuştur. Devlet başkanı René'nin 1992 yılında çok partili siyasi hayata geçmesi sonrasında ülkesine geri dönen Mancham, René ile birlikte oluşturulan anayasa komisyonunun üyeleri arasında yer almıştır Mancham dönüşünden sonra gerçekleştirilen iki devlet başkanlığı seçimlerine de katılmasına rağmen başarılı olamamıştır. 1993 yılında gerçekleştirilen seçimlerde %36,72, 1998 seçimlerinde ise %13,8 oy alan Mancham, 2001 seçimlerine katılmama kararı almıştır. Ülke genelinde birçok muhalefet partisinin kurulması ile birlikte Mancham zaman içerisinde önemini yitirmiştir. Mancham siyasetin dışında da üç farklı kitabın yazarı konumundadır. Ülkesinde 1977 yılında kendisine karşı yapılan darbeden sonra yazdığı Paradise Raped, 11 Eylül 2001 saldırılarından sonra yazdığı War on America: Seen from the Indian Ocean ve son olarak kendi anılarını kaleme aldığı Seychelles Global Citizen: The Autobiography of the Founding President Mancham'ın eserleridir. Mancham 2011'de Gusi Barış Ödülü'ne layık görülmüştür. Mancham, 8 Ocak 2017'de 77 yaşında ölmüştür. == Kaynakça == == Dış bağlantılar == Fischer Weltalmanach - Biographien zur Zeitgeschichte seit 1945, Fischer Taschenbuch Verlag 1985",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 344,
+      "char_count": 2667,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.984769",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Sir James Richard Marie Mancham (11 Ağustos 1939 - 8 Ocak 2017), Seyşelli gazeteci, avukat, yazar, iş insanı ve siyasetçi. Mancham, Afrika ada ülkesi Seyşeller'de ülkenin ilk devlet başkanı olarak 1976-1977 yılları arasında devlet başkanlığı makamında bulunmuştur. Londra ve Paris'te hukuk eğitimi alan Mancham, 1964 yılında o dönem Birleşik Krallık koloni bölgesi olan ülkesine döndükten sonra Seyşeller Demokratik Partisi'ni (Seychelles Democratic Party - SDP) kurmuştur. Adada 1967 yılında gerçekleştirilen ilk genel seçimleri kazanan Mancham, Kasım 1970'te yapılan seçimlerden de galibiyetle ayrılarak ülkesinin başbakanı olmuştur. 1975 yılında özerkliğine kavuşan ülkesine bu süreçte başbakan olarak hizmet veren Mancham, ülkesinin ekonomik nedenler nedeniyle bağımsızlığına uzun süre muhaliflik etse de, Seyşeller 1976 yılında bağımsızlığını elde etmiştir. Ülkenin ilk devlet başkanı olarak 29 Temmuz 1976'da bu makama çıkan Mancham, başbakan olarak sosyalist SPUP partisinin genel başkanı Fran",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": " etse de, Seyşeller 1976 yılında bağımsızlığını elde etmiştir. Ülkenin ilk devlet başkanı olarak 29 Temmuz 1976'da bu makama çıkan Mancham, başbakan olarak sosyalist SPUP partisinin genel başkanı France-Albert René'yi atamıştır. 5 Temmuz 1977'de İngiliz Milletler Topluluğu toplantısına katılmak üzere gittiği Londra'da bulunduğu bir sırada başbakan René, Mancham'ı görevden indirerek kendisini devlet başkanı ilan etmiştir. Yaşanan bu olay sonrasında ülkesine dönemeyen Mancham, İngiltere'de sürgünde bulunmuştur. Bu süreçte René'ye karşı muhalif tutumlarını sürdüren Mancham, 25 Kasım 1981'de yaşanan bir darbe girişiminde de desteğinin olup olmadığı bilinmediği halde sorumlu tutulmuştur. Devlet başkanı René'nin 1992 yılında çok partili siyasi hayata geçmesi sonrasında ülkesine geri dönen Mancham, René ile birlikte oluşturulan anayasa komisyonunun üyeleri arasında yer almıştır Mancham dönüşünden sonra gerçekleştirilen iki devlet başkanlığı seçimlerine de katılmasına rağmen başarılı olamamışt",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2533,
+      "content": "m, René ile birlikte oluşturulan anayasa komisyonunun üyeleri arasında yer almıştır Mancham dönüşünden sonra gerçekleştirilen iki devlet başkanlığı seçimlerine de katılmasına rağmen başarılı olamamıştır. 1993 yılında gerçekleştirilen seçimlerde %36,72, 1998 seçimlerinde ise %13,8 oy alan Mancham, 2001 seçimlerine katılmama kararı almıştır. Ülke genelinde birçok muhalefet partisinin kurulması ile birlikte Mancham zaman içerisinde önemini yitirmiştir. Mancham siyasetin dışında da üç farklı kitabın yazarı konumundadır. Ülkesinde 1977 yılında kendisine karşı yapılan darbeden sonra yazdığı Paradise Raped, 11 Eylül 2001 saldırılarından sonra yazdığı War on America: Seen from the Indian Ocean ve son olarak kendi anılarını kaleme aldığı Seychelles Global Citizen: The Autobiography of the Founding President Mancham'ın eserleridir. Mancham 2011'de Gusi Barış Ödülü'ne layık görülmüştür. Mancham, 8 Ocak 2017'de 77 yaşında ölmüştür.",
+      "char_count": 933,
+      "token_estimate": 233
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2549,
+      "end_char": 2667,
+      "content": "== Dış bağlantılar == Fischer Weltalmanach - Biographien zur Zeitgeschichte seit 1945, Fischer Taschenbuch Verlag 1985",
+      "char_count": 118,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sir James Richard Marie Mancham, Seyşeller'in ilk devlet başkanı olarak hangi yıllar arasında görev yapmıştır?",
+        "answer": "1976-1977 yılları arasında.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Seyşeller'in ilk devlet başkanı Sir James Richard Marie Mancham'ın siyasi kariyerinin ve yaşamının 1976'dan 2017'deki ölümüne kadar olan ana dönemlerini ve önemli olaylarını açıklayınız.",
+        "answer": "Sir James Richard Marie Mancham, 1976'da Seyşeller'in ilk devlet başkanı olarak görevine başladı ve başbakan olarak France-Albert René'yi atadı. Ancak, 5 Temmuz 1977'de Londra'dayken başbakan René tarafından bir darbeyle görevden indirilerek sürgüne gönderildi. Sürgündeyken René'ye karşı muhalif tutumunu sürdürdü ve 1981'deki darbe girişiminden sorumlu tutuldu. 1992'de Devlet başkanı René'nin çok partili siyasi hayata geçmesiyle ülkesine geri döndü ve René ile anayasa komisyonunda yer aldı. Ancak, 1993 (%36,72) ve 1998 (%13,8) devlet başkanlığı seçimlerinde başarılı olamadı ve 2001 seçimlerine katılmama kararı alarak zamanla siyasi önemini yitirdi. Siyasetin dışında Paradise Raped, War on America: Seen from the Indian Ocean ve anılarını içeren Seychelles Global Citizen gibi kitaplar yazdı. 2011'de Gusi Barış Ödülü'ne layık görülen Mancham, 8 Ocak 2017'de 77 yaşında vefat etti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "igmpsnooping_4e857fe2",
+    "title": "IGMP snooping",
+    "url": "https://tr.wikipedia.org/wiki/IGMP_snooping",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:39.388107",
+    "content": "IGMP snooping, IGMP ağ trafiğini dinleme protokolüdür. IGMP snooping, isminden de anlaşıldığı gibi 2.katman ve 3.katman arasındaki host ve routerlar arasındaki konuşma iznini veren protokoldür.Bir switche bu protokolden bağlanıldığı zaman bağlı hostlar arasındaki tüm IGMP paketlerini analiz eder. Bir switch yeni bir multicast grubu için host'a IGMP raporu sunar. Bu grup için host multicast listesine yeni bir port numarası ekler. == Amaç == IGMP snooping hostların katılmadığı gruplardan veri alınmasını engellemek amacıyla tasarlanmıştır. Dinleyicisi olmayan ağların veri akışından kendini muaf tutmayı amaçlar. IGMP snoopinge sahip olmayan bir switch varsayılan bir değer alarak her yönden veri alışverişine açıktır diyebiliriz (VLAN'a benzer şekilde).Multicast ağlar host makinalarını gönderdikleri paketlerin işlemleriyle gereksiz yere meşgul edebilirler. Bunun kasten kullanılmasi bir DOS saldırısının bir varyasyonu olarak gösterilebilir. IGMP snooping bu nedenle özellikle ulaştırma gibi birçok noktaya yayın yapan bant genişliği yoğun IP uygulamaları için yararlıdır. IGMP snooping bu yararların yanında ekstra işlem yoğunluğu yapar ve ekstra bellek kullanımı gerektirir.Esasen bu protokol 3. katmanın IGMP protokolleri için 2. katmanın iyileştirilmiş halidir. IGMP snooping switchler üzerinde yer alır ve bu protokol bir özellik değildir. == Uygulamalar == Esasen aktif ve pasif olarak iki tane IGMP snooping varyasyonu vardır. Pasif IGMP snoopin sadece veri akışını dinler, filtreleme yapmaz veya veri akışına herhangi bir müdahalede bulunmaz. Aktif IGMP snooping ise RFC 4541 1 Ağustos 2010 tarihinde Wayback Machine sitesinde arşivlendi. ile proxy'i çağırır. Snooping pasif dinleme gerektirdiginde bazı uygulamar multicast router üzerindeki yükü azaltmak için IGMP paketlerini filtreler. Ayrıca ağa katılan ve ayrılan bilgileride filtreleme yapabilir. Bu sayede sadece verinin minimum gereken kısmı gönderilmiş olur.Grupta kaç aktif dinleyici olduğuna bakılmaksızın gruba bir giriş olup olmadığından emin olmaya çalışır. İki dinleyici varsa ve bir dinleyici ayrılırsa routerin bakış açısına göre grubun durumu etkilenmeyecekse switch routerin bu bilgiye ihtiyacı olmadığına karar verebilir. Ancak bir dahaki sefere routerda switche rutin bir sorgu gönderilir. Bu routerin ağda aktif bir dinleyici olup olmadığının anlanmasını sağlayan bir sorgudur. Bu aktif IGMP snooping'te router genellikle sadece gruba katılan son üyeyi belirler. Çoğu uygulamalarda ağ bir IGMP sorgusu gerektirir. Sorgularla bir snooping tablosu oluşturulmuştur. (Her bir multicast grubu için). Sorgu tabloları oluşturulmadan snooping sorguları çalışmaz. Ayrıca IGMP snoopinge dahil olan olan tüm switchlere genel sorguları mutlaka yollanması gerekir. == Ayrıca bakınız == IGMP - İnternet Grup Yönetim Protokolü MLD 18 Mart 2011 tarihinde Wayback Machine sitesinde arşivlendi.- Multicast Listener Discovery Ağ anahtarı == Kaynakça == RFC 4541 1 Ağustos 2010 tarihinde Wayback Machine sitesinde arşivlendi.- Considerations for Internet Group Management Protocol (IGMP) and Multicast Listener Discovery (MLD) Snooping Switches. M. Christensen, K. Kimball, F. Solensky. May 2006. (Format: TXT=38555 bytes) (Status: INFORMATIONAL) RFC 33762 Nisan 2009 tarihinde Wayback Machine sitesinde arşivlendi.- Internet Group Management Protocol, Version 3. B. Cain, S. Deering, I. Kouvelas, B. Fenner, A. Thyagarajan. October 2002.(Format: TXT=119726 bytes) (Obsoletes RFC2236) (Updated by RFC4604)(Status: PROPOSED STANDARD) IGMP snooping Wiki English 11 Şubat 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 472,
+      "char_count": 3587,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.551693",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 433,
+      "content": "IGMP snooping, IGMP ağ trafiğini dinleme protokolüdür. IGMP snooping, isminden de anlaşıldığı gibi 2.katman ve 3.katman arasındaki host ve routerlar arasındaki konuşma iznini veren protokoldür.Bir switche bu protokolden bağlanıldığı zaman bağlı hostlar arasındaki tüm IGMP paketlerini analiz eder. Bir switch yeni bir multicast grubu için host'a IGMP raporu sunar. Bu grup için host multicast listesine yeni bir port numarası ekler.",
+      "char_count": 432,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0001",
+      "section": "== Amaç ==",
+      "heading_path": "== Amaç ==",
+      "start_char": 433,
+      "end_char": 1351,
+      "content": "== Amaç == IGMP snooping hostların katılmadığı gruplardan veri alınmasını engellemek amacıyla tasarlanmıştır. Dinleyicisi olmayan ağların veri akışından kendini muaf tutmayı amaçlar. IGMP snoopinge sahip olmayan bir switch varsayılan bir değer alarak her yönden veri alışverişine açıktır diyebiliriz (VLAN'a benzer şekilde).Multicast ağlar host makinalarını gönderdikleri paketlerin işlemleriyle gereksiz yere meşgul edebilirler. Bunun kasten kullanılmasi bir DOS saldırısının bir varyasyonu olarak gösterilebilir. IGMP snooping bu nedenle özellikle ulaştırma gibi birçok noktaya yayın yapan bant genişliği yoğun IP uygulamaları için yararlıdır. IGMP snooping bu yararların yanında ekstra işlem yoğunluğu yapar ve ekstra bellek kullanımı gerektirir.Esasen bu protokol 3. katmanın IGMP protokolleri için 2. katmanın iyileştirilmiş halidir. IGMP snooping switchler üzerinde yer alır ve bu protokol bir özellik değildir.",
+      "char_count": 917,
+      "token_estimate": 229
+    },
+    {
+      "id": "c0002",
+      "section": "== Uygulamalar ==",
+      "heading_path": "== Uygulamalar ==",
+      "start_char": 1351,
+      "end_char": 2351,
+      "content": "== Uygulamalar == Esasen aktif ve pasif olarak iki tane IGMP snooping varyasyonu vardır. Pasif IGMP snoopin sadece veri akışını dinler, filtreleme yapmaz veya veri akışına herhangi bir müdahalede bulunmaz. Aktif IGMP snooping ise RFC 4541 1 Ağustos 2010 tarihinde Wayback Machine sitesinde arşivlendi. ile proxy'i çağırır. Snooping pasif dinleme gerektirdiginde bazı uygulamar multicast router üzerindeki yükü azaltmak için IGMP paketlerini filtreler. Ayrıca ağa katılan ve ayrılan bilgileride filtreleme yapabilir. Bu sayede sadece verinin minimum gereken kısmı gönderilmiş olur.Grupta kaç aktif dinleyici olduğuna bakılmaksızın gruba bir giriş olup olmadığından emin olmaya çalışır. İki dinleyici varsa ve bir dinleyici ayrılırsa routerin bakış açısına göre grubun durumu etkilenmeyecekse switch routerin bu bilgiye ihtiyacı olmadığına karar verebilir. Ancak bir dahaki sefere routerda switche rutin bir sorgu gönderilir. Bu routerin ağda aktif bir dinleyici olup olmadığının anlanmasını sağlayan b",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Uygulamalar ==",
+      "heading_path": "== Uygulamalar ==",
+      "start_char": 2151,
+      "end_char": 2737,
+      "content": "uterin bu bilgiye ihtiyacı olmadığına karar verebilir. Ancak bir dahaki sefere routerda switche rutin bir sorgu gönderilir. Bu routerin ağda aktif bir dinleyici olup olmadığının anlanmasını sağlayan bir sorgudur. Bu aktif IGMP snooping'te router genellikle sadece gruba katılan son üyeyi belirler. Çoğu uygulamalarda ağ bir IGMP sorgusu gerektirir. Sorgularla bir snooping tablosu oluşturulmuştur. (Her bir multicast grubu için). Sorgu tabloları oluşturulmadan snooping sorguları çalışmaz. Ayrıca IGMP snoopinge dahil olan olan tüm switchlere genel sorguları mutlaka yollanması gerekir.",
+      "char_count": 586,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2738,
+      "end_char": 2905,
+      "content": "== Ayrıca bakınız == IGMP - İnternet Grup Yönetim Protokolü MLD 18 Mart 2011 tarihinde Wayback Machine sitesinde arşivlendi.- Multicast Listener Discovery Ağ anahtarı",
+      "char_count": 166,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0005",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2905,
+      "end_char": 3587,
+      "content": "== Kaynakça == RFC 4541 1 Ağustos 2010 tarihinde Wayback Machine sitesinde arşivlendi.- Considerations for Internet Group Management Protocol (IGMP) and Multicast Listener Discovery (MLD) Snooping Switches. M. Christensen, K. Kimball, F. Solensky. May 2006. (Format: TXT=38555 bytes) (Status: INFORMATIONAL) RFC 33762 Nisan 2009 tarihinde Wayback Machine sitesinde arşivlendi.- Internet Group Management Protocol, Version 3. B. Cain, S. Deering, I. Kouvelas, B. Fenner, A. Thyagarajan. October 2002.(Format: TXT=119726 bytes) (Obsoletes RFC2236) (Updated by RFC4604)(Status: PROPOSED STANDARD) IGMP snooping Wiki English 11 Şubat 2010 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 682,
+      "token_estimate": 170
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "IGMP snooping'in temel olarak kaç varyasyonu vardır?",
+        "answer": "İki temel varyasyonu vardır: aktif ve pasif.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "IGMP snooping'in tanımlanan amacı olan gereksiz veri akışını engelleme ve ağ performansını optimize etme hedeflerine ulaşmasında aktif ve pasif varyasyonları hangi yollarla katkıda bulunur?",
+        "answer": "IGMP snooping'in gereksiz veri akışını engelleme ve ağ performansını optimize etme amacı, pasif ve aktif varyasyonları aracılığıyla gerçekleştirilir. Pasif IGMP snooping, veri akışını dinleyerek trafik hakkında bilgi toplar ancak doğrudan filtreleme yapmaz veya müdahalede bulunmaz. Bu dinleme özelliği, bir switch'in bağlı host'lar arasındaki tüm IGMP paketlerini analiz etmesi ve yeni bir multicast grubu için host'a IGMP raporu sunması gibi temel snooping işlevlerinin temelini oluşturur. Aktif IGMP snooping ise bu bilginin ötesine geçerek IGMP paketlerini filtreler, multicast yönlendirici üzerindeki yükü azaltır ve ağa katılan/ayrılan bilgileri işleyerek yalnızca minimum gereken verinin gönderilmesini sağlar. Böylece, aktif varyasyon özellikle bant genişliği yoğun IP uygulamaları için yararlı olan, host'ların katılmadığı gruplardan veri almasını engelleme ve potansiyel DOS saldırılarını önleme gibi hedeflere doğrudan hizmet eder.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "richardcorliss_31098304",
+    "title": "Richard Corliss",
+    "url": "https://tr.wikipedia.org/wiki/Richard_Corliss",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:57.255448",
+    "content": "Richard Corliss (d. 6 Mart 1944, Philadelphia - ö. 23 Nisan 2015, New-York) Time Dergisi yazarı. Özellikle filmler üzerine yazdığı eleştirilerle bilinir. == Kişisel Hayatı == Corliss Philadelphia, Pennsylvania'da, Elizabeth Brown (evlilik öncesi soyadı ile McCluskey) ve Paul William Corliss'in çocuğu olarak dünyaya geldi. Corliss New York City'de karısı Mary ile birlikte yaşamaktadır. 31 Ağustos 1969 yılında Pazar günü evlenmişlerdir. == Seçtiği bir numaralı filmleri == 1969: Midnight Cowboy 1980: Mon Oncle d'Amerique (The Elephant Man) 1981: The Mystery of Oberwald (Thief) 1982: E.T. the Extra-Terrestrial 1983: Berlin Alexanderplatz (The Big Chill) 1986: The Fly 1988: The Singing Detective 1989: Distant Voices, Still Lives 1990: L'Atalante (Internal Affairs) 1991: My Father's Glory ve My Mother's Castle (The Simpsons: Lisa's Substitute) 1992: The Simpsons: Black Widower 1993: The Age of Innocence 1994: Pulp Fiction 1995: Persuasion 1997: Ponette (Chasing Amy) 2001: Kandahar (Moulin Rouge!) 2002: Talk to Her (Gangs of New York) 2003: Lord of the Rings: The Return of the King 2004: Hero and House of Flying Daggers (Sideways) 2005: The White Diamond (The Squid and the Whale) 2006: Pan's Labyrinth (Borat) 2007: No Country For Old Men 2008: WALL-E 2009: The Princess and the Frog 2010: Toy Story 3 2011: The Artist == Kaynakça == == Dış bağlantılar == IMDb'de Richard Corliss",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 213,
+      "char_count": 1391,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.394044",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 154,
+      "content": "Richard Corliss (d. 6 Mart 1944, Philadelphia - ö. 23 Nisan 2015, New-York) Time Dergisi yazarı. Özellikle filmler üzerine yazdığı eleştirilerle bilinir.",
+      "char_count": 153,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0001",
+      "section": "== Kişisel Hayatı ==",
+      "heading_path": "== Kişisel Hayatı ==",
+      "start_char": 154,
+      "end_char": 439,
+      "content": "== Kişisel Hayatı == Corliss Philadelphia, Pennsylvania'da, Elizabeth Brown (evlilik öncesi soyadı ile McCluskey) ve Paul William Corliss'in çocuğu olarak dünyaya geldi. Corliss New York City'de karısı Mary ile birlikte yaşamaktadır. 31 Ağustos 1969 yılında Pazar günü evlenmişlerdir.",
+      "char_count": 284,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0002",
+      "section": "== Seçtiği bir numaralı filmleri ==",
+      "heading_path": "== Seçtiği bir numaralı filmleri ==",
+      "start_char": 439,
+      "end_char": 1331,
+      "content": "== Seçtiği bir numaralı filmleri == 1969: Midnight Cowboy 1980: Mon Oncle d'Amerique (The Elephant Man) 1981: The Mystery of Oberwald (Thief) 1982: E.T. the Extra-Terrestrial 1983: Berlin Alexanderplatz (The Big Chill) 1986: The Fly 1988: The Singing Detective 1989: Distant Voices, Still Lives 1990: L'Atalante (Internal Affairs) 1991: My Father's Glory ve My Mother's Castle (The Simpsons: Lisa's Substitute) 1992: The Simpsons: Black Widower 1993: The Age of Innocence 1994: Pulp Fiction 1995: Persuasion 1997: Ponette (Chasing Amy) 2001: Kandahar (Moulin Rouge!) 2002: Talk to Her (Gangs of New York) 2003: Lord of the Rings: The Return of the King 2004: Hero and House of Flying Daggers (Sideways) 2005: The White Diamond (The Squid and the Whale) 2006: Pan's Labyrinth (Borat) 2007: No Country For Old Men 2008: WALL-E 2009: The Princess and the Frog 2010: Toy Story 3 2011: The Artist",
+      "char_count": 891,
+      "token_estimate": 222
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1346,
+      "end_char": 1391,
+      "content": "== Dış bağlantılar == IMDb'de Richard Corliss",
+      "char_count": 45,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1994 yılında seçilen bir numaralı film hangisidir?",
+        "answer": "Pulp Fiction",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Time Dergisi'ndeki film eleştirmenliğiyle tanınan Richard Corliss, ilk bir numaralı film seçimini evlendiği yıl olan 1969'da yaptıktan sonra bu listeleri ne zamana kadar sürdürmüştür?",
+        "answer": "Richard Corliss, ilk bir numaralı film seçimini evlendiği yıl olan 1969'da yaptıktan sonra, bu listeleri 2011 yılına kadar sürdürmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

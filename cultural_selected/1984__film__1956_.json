@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "1984film1956_9d96fc21",
+    "title": "1984 (film, 1956)",
+    "url": "https://tr.wikipedia.org/wiki/1984_%28film%2C_1956%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:19:21.158775",
+    "content": "1984, George Orwell'in Bin Dokuz Yüz Seksen Dört romanını temel alan ve totaliter bir gelecekteki toplumu tasvir eden 1956 İngiliz siyah-beyaz bilimkurgu filmidir. Film, Michael Anderson tarafından yönetilmiştir. Filmde Edmond O'Brien başrol olan Winston Smith'i oynarken Donald Pleasence, Jan Sterling ve Michael Redgravede filmde yer almıştır. 1984 romanının ilk film uyarlamasıdır. Antagonist O'Brien karakteri, aktör Edmond O'Brien ile ortak soyadı taşıması nedeniyle \"O'Connor\" olarak yeniden adlandırıldı. Bunun yanında Emmanuel Goldstein \"Kalador\" olarak değiştirildi. Hayvan Çiftliği'nin daha önceki film uyarlaması gibi, 1984 de CIA tarafından gizlice finanse edildi. == Hikâye == Film, bir seslendirme anlatıcısının, 1950'lerin ortalarında, bir nükleer savaşın ve Dünya'nın tahribatının Dünya'nın üç süper bölgeye ayrılmasına yol açtığını açıklaması ile başlıyor. Bu üç bölge Okyanusya, Avrasya ve Doğu Asya'dır. 1984'e gelindiğinde, Londra, bomba korumalı bakanlığıyla, kukla Big Brother tarafından şekillendirilen, tamamen güçlü bir Parti tarafından kontrol edilen, Okyanusya'nın bir eyaleti olan Airstrip One'ın başkenti olarak belirlenir. 1984 baharında, seçkin Dış Parti üyesi Winston Smith önceleri bir kadın Düşünce Polisi üyesi olabileceğinden şüphelendiği Julia ile karşılaşır ve olaylar serisi başlar. == Oyuncular == Winston Smith rolünde Edmond O'Brien General O'Connor rolünde Michael Redgrave Julia rolünde Jan Sterling Charrington rolünde David Kossoff Jones rolünde Mervyn Johns R. Parsons rolünde Donald Pleasence Selina Parsons rolünde Carol Wolveridge Dış Parti Spikeri rolünde Ernest Clark İç Parti Yetkilisi rolünde Patrick Allen Dış Parti Hatibi rolünde Michael Ripper Dış Parti Hatibi rolünde Ewen Solon Mahkûm rolünde Kenneth Griffith == Kaynakça == == Dış bağlantılar == IMDb'de 1984 Rotten Tomatoes'ta 1984",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 245,
+      "char_count": 1842,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:42.424174",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 677,
+      "content": "1984, George Orwell'in Bin Dokuz Yüz Seksen Dört romanını temel alan ve totaliter bir gelecekteki toplumu tasvir eden 1956 İngiliz siyah-beyaz bilimkurgu filmidir. Film, Michael Anderson tarafından yönetilmiştir. Filmde Edmond O'Brien başrol olan Winston Smith'i oynarken Donald Pleasence, Jan Sterling ve Michael Redgravede filmde yer almıştır. 1984 romanının ilk film uyarlamasıdır. Antagonist O'Brien karakteri, aktör Edmond O'Brien ile ortak soyadı taşıması nedeniyle \"O'Connor\" olarak yeniden adlandırıldı. Bunun yanında Emmanuel Goldstein \"Kalador\" olarak değiştirildi. Hayvan Çiftliği'nin daha önceki film uyarlaması gibi, 1984 de CIA tarafından gizlice finanse edildi.",
+      "char_count": 676,
+      "token_estimate": 169
+    },
+    {
+      "id": "c0001",
+      "section": "== Hikâye ==",
+      "heading_path": "== Hikâye ==",
+      "start_char": 677,
+      "end_char": 1322,
+      "content": "== Hikâye == Film, bir seslendirme anlatıcısının, 1950'lerin ortalarında, bir nükleer savaşın ve Dünya'nın tahribatının Dünya'nın üç süper bölgeye ayrılmasına yol açtığını açıklaması ile başlıyor. Bu üç bölge Okyanusya, Avrasya ve Doğu Asya'dır. 1984'e gelindiğinde, Londra, bomba korumalı bakanlığıyla, kukla Big Brother tarafından şekillendirilen, tamamen güçlü bir Parti tarafından kontrol edilen, Okyanusya'nın bir eyaleti olan Airstrip One'ın başkenti olarak belirlenir. 1984 baharında, seçkin Dış Parti üyesi Winston Smith önceleri bir kadın Düşünce Polisi üyesi olabileceğinden şüphelendiği Julia ile karşılaşır ve olaylar serisi başlar.",
+      "char_count": 644,
+      "token_estimate": 161
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 1322,
+      "end_char": 1769,
+      "content": "== Oyuncular == Winston Smith rolünde Edmond O'Brien General O'Connor rolünde Michael Redgrave Julia rolünde Jan Sterling Charrington rolünde David Kossoff Jones rolünde Mervyn Johns R. Parsons rolünde Donald Pleasence Selina Parsons rolünde Carol Wolveridge Dış Parti Spikeri rolünde Ernest Clark İç Parti Yetkilisi rolünde Patrick Allen Dış Parti Hatibi rolünde Michael Ripper Dış Parti Hatibi rolünde Ewen Solon Mahkûm rolünde Kenneth Griffith",
+      "char_count": 446,
+      "token_estimate": 111
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1784,
+      "end_char": 1842,
+      "content": "== Dış bağlantılar == IMDb'de 1984 Rotten Tomatoes'ta 1984",
+      "char_count": 58,
+      "token_estimate": 14
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1956 yapımı \"1984\" filmini kim yönetmiştir?",
+        "answer": "Michael Anderson",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "George Orwell'in romanından uyarlanan 1956 yapımı 1984 filmi, hikayesine başlarken gelecekteki totaliter toplumu ve dünya düzenini nasıl bir bağlamda sunmaktadır?",
+        "answer": "Film, bir nükleer savaşın ardından Dünya'nın Okyanusya, Avrasya ve Doğu Asya olmak üzere üç süper bölgeye ayrıldığını belirterek başlamaktadır. 1984'e gelindiğinde Londra, kukla Big Brother tarafından şekillendirilen ve tamamen güçlü bir Parti tarafından kontrol edilen Okyanusya'nın bir eyaleti olan Airstrip One'ın başkenti olarak tasvir edilmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

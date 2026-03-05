@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "allhorasan_e9bbc921",
+    "title": "Ağıllı, Horasan",
+    "url": "https://tr.wikipedia.org/wiki/A%C4%9F%C4%B1ll%C4%B1%2C_Horasan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:09.158522",
+    "content": "Ağıllı, Erzurum ilinin Horasan ilçesine bağlı bir kırsal mahalledir. == Tarihçe == Ağıllı adı 1835 tarihli nüfus defterinde Ağulu olarak geçer. 1928 tarihli Osmanlıca köy listesindeyse, Ağullı (آغوللی) şeklinde yazılmıştır. Ağulu köyü, Urartu döneminde Biani şeklinde anılan Basiani bölgesindeki yerleşim yerlerinden biridir. Köydeki megalit yapı kalıntısı da buranın eski bir yerleşim alanı olduğunu göstermektedir. Bu bölge Orta Çağ'da Gürcistan sınırları içinde yer alıyordu. Nitekim 13. yüzyılın başında Gürcüler ile Türkler arasındaki Basiani Savaşı bu bölgede meydana gelmiştir. Osmanlılar bu bölgeyi 1545 yılında Gürcülerden ele geçirmiştir. Ağulu köyü, 1835 Osmanlı nüfus defterine göre Hasan Kala kazasının köylerinden biriydi. Müslim nüfus defterinde 15 erkek kaydedilmiştir. Erkek sayısı kadar kadın eklenince, köyün toplam nüfusun yaklaşık 30 kişiden oluştuğu ortaya çıkar. Bu tarihte köyde Hristiyan nüfus bulunmuyordu. 1928 tarihli Osmanlıca köy listesine göre Ağıllı, Erzurum vilayetinin Hasan Kale kazasının Aras nahiyesine bağlı köylerden biriydi. 1935 genel nüfus sayımında, \"Ağullu\" şeklinde kaydedilmiş olan köy, aynı idari konuma sahipti ve nüfusu 371 kişiden oluşuyordu. 1953 yılında Horasan ilçesi kurulunca, Ağullu köyü bu ilçeye bağlandı. 1965 genel nüfus sayımında Ağıllı köyünün nüfusu 665 kişiye yükselmişti ve bu nüfus içinde sadece 116 kişi okuma yazma biliyordu. 1993 yılında Büyükşehir olan Erzurum'da, 2012 yılında 6360 Sayılı Yasa ile, tüm köylerin tüzel kişiliği kaldırılmıştır. Bu köy de Horasan Belediyesi'nin bir mahallesi olmuştur. Ağıllı'da kuru duvar tekniğiyle inşa edilmiş olan kale, yerleşim yerinin yaklaşık 1,5 kilometre güneybatısında, deniz seviyesinden 2.400 metre yükseklikte, yüksek bir dağın tepesinde yer alır. 2023 yılında kaleyi yerinde ziyaret etmek, belgelemek ve incelemek isteyen Gürcü araştırmacıların bulunduğu sırada köylüler, kalenin varlığını doğrulamakla birlikte, kaleye giden yolu göstermeyi reddetmişlerdir. Mevcut bilgilere dayanarak söz konusu tepede harç kullanılmadan üst üste yığılmış büyük kayalardan inşa edilmiş oval bir yapının bulunduğu söylenebilir. == Coğrafya == Mahalle, Erzurum il merkezine 115 km, Horasan ilçe merkezine 25 km uzaklıktadır. Mahalle, Horasan'ın güneydoğusunda, Ağrı sınırına yakın, D.100/ numaralı Erzurum-Ağrı (Horasan- Eleşkirt) devlet/uluslararası yoluna 3 km'lik bir köy yoluyla bağlıdır. == Nüfus == == Kaynakça == == Dış bağlantılar == Ağıllı, Horasan için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 334,
+      "char_count": 2513,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.506806",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 69,
+      "content": "Ağıllı, Erzurum ilinin Horasan ilçesine bağlı bir kırsal mahalledir.",
+      "char_count": 68,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 69,
+      "end_char": 1069,
+      "content": "== Tarihçe == Ağıllı adı 1835 tarihli nüfus defterinde Ağulu olarak geçer. 1928 tarihli Osmanlıca köy listesindeyse, Ağullı (آغوللی) şeklinde yazılmıştır. Ağulu köyü, Urartu döneminde Biani şeklinde anılan Basiani bölgesindeki yerleşim yerlerinden biridir. Köydeki megalit yapı kalıntısı da buranın eski bir yerleşim alanı olduğunu göstermektedir. Bu bölge Orta Çağ'da Gürcistan sınırları içinde yer alıyordu. Nitekim 13. yüzyılın başında Gürcüler ile Türkler arasındaki Basiani Savaşı bu bölgede meydana gelmiştir. Osmanlılar bu bölgeyi 1545 yılında Gürcülerden ele geçirmiştir. Ağulu köyü, 1835 Osmanlı nüfus defterine göre Hasan Kala kazasının köylerinden biriydi. Müslim nüfus defterinde 15 erkek kaydedilmiştir. Erkek sayısı kadar kadın eklenince, köyün toplam nüfusun yaklaşık 30 kişiden oluştuğu ortaya çıkar. Bu tarihte köyde Hristiyan nüfus bulunmuyordu. 1928 tarihli Osmanlıca köy listesine göre Ağıllı, Erzurum vilayetinin Hasan Kale kazasının Aras nahiyesine bağlı köylerden biriydi. 1935",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 869,
+      "end_char": 1869,
+      "content": "ğu ortaya çıkar. Bu tarihte köyde Hristiyan nüfus bulunmuyordu. 1928 tarihli Osmanlıca köy listesine göre Ağıllı, Erzurum vilayetinin Hasan Kale kazasının Aras nahiyesine bağlı köylerden biriydi. 1935 genel nüfus sayımında, \"Ağullu\" şeklinde kaydedilmiş olan köy, aynı idari konuma sahipti ve nüfusu 371 kişiden oluşuyordu. 1953 yılında Horasan ilçesi kurulunca, Ağullu köyü bu ilçeye bağlandı. 1965 genel nüfus sayımında Ağıllı köyünün nüfusu 665 kişiye yükselmişti ve bu nüfus içinde sadece 116 kişi okuma yazma biliyordu. 1993 yılında Büyükşehir olan Erzurum'da, 2012 yılında 6360 Sayılı Yasa ile, tüm köylerin tüzel kişiliği kaldırılmıştır. Bu köy de Horasan Belediyesi'nin bir mahallesi olmuştur. Ağıllı'da kuru duvar tekniğiyle inşa edilmiş olan kale, yerleşim yerinin yaklaşık 1,5 kilometre güneybatısında, deniz seviyesinden 2.400 metre yükseklikte, yüksek bir dağın tepesinde yer alır. 2023 yılında kaleyi yerinde ziyaret etmek, belgelemek ve incelemek isteyen Gürcü araştırmacıların bulundu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1669,
+      "end_char": 2128,
+      "content": "neybatısında, deniz seviyesinden 2.400 metre yükseklikte, yüksek bir dağın tepesinde yer alır. 2023 yılında kaleyi yerinde ziyaret etmek, belgelemek ve incelemek isteyen Gürcü araştırmacıların bulunduğu sırada köylüler, kalenin varlığını doğrulamakla birlikte, kaleye giden yolu göstermeyi reddetmişlerdir. Mevcut bilgilere dayanarak söz konusu tepede harç kullanılmadan üst üste yığılmış büyük kayalardan inşa edilmiş oval bir yapının bulunduğu söylenebilir.",
+      "char_count": 459,
+      "token_estimate": 114
+    },
+    {
+      "id": "c0004",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 2129,
+      "end_char": 2393,
+      "content": "== Coğrafya == Mahalle, Erzurum il merkezine 115 km, Horasan ilçe merkezine 25 km uzaklıktadır. Mahalle, Horasan'ın güneydoğusunda, Ağrı sınırına yakın, D.100/ numaralı Erzurum-Ağrı (Horasan- Eleşkirt) devlet/uluslararası yoluna 3 km'lik bir köy yoluyla bağlıdır.",
+      "char_count": 263,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2420,
+      "end_char": 2513,
+      "content": "== Dış bağlantılar == Ağıllı, Horasan için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+      "char_count": 93,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1835 Osmanlı nüfus defterine göre Ağulu köyünün toplam nüfusu yaklaşık olarak kaç kişiden oluşuyordu?",
+        "answer": "Yaklaşık 30 kişi",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ağıllı'nın idari konumu ve nüfusu, 1835'ten günümüzdeki kırsal mahalle statüsüne kadar nasıl bir değişim göstermiştir?",
+        "answer": "1835 yılında Ağulu adıyla Hasan Kala kazasının bir köyü olup yaklaşık 30 Müslim nüfusa sahipti. 1928'de Erzurum vilayetinin Hasan Kale kazasına bağlı Aras nahiyesinin bir köyü olarak geçmekteydi. 1935'te nüfusu 371 kişiye ulaşırken, 1953 yılında Horasan ilçesine bağlandı. 1965'te nüfusu 665 kişiye yükseldi. 2012'de 6360 Sayılı Yasa ile tüm köylerin tüzel kişiliği kaldırıldığında, Horasan Belediyesi'nin bir mahallesi haline geldi. Günümüzde, Erzurum ilinin Horasan ilçesine bağlı kırsal bir mahalledir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

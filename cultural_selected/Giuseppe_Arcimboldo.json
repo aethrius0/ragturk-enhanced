@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "giuseppearcimboldo_6b506afb",
+    "title": "Giuseppe Arcimboldo",
+    "url": "https://tr.wikipedia.org/wiki/Giuseppe_Arcimboldo",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:09.585505",
+    "content": "Giuseppe Arcimboldo (1527, Milano - 11 Temmuz 1593, Milano), İtalyan ressam, mimar, sahne tasarımcısı, mühendis ve sanat danışmanı. Resimlerinde meyve, sebze, hayvan, kitap gibi birçok nesneyi, insan portrelerini andıracak şekilde düzenlemiştir. Çift imgeli bu resimler, 20. yüzyılda başta Salvador Dali olmak üzere birçok gerçeküstücü ressam tarafından örnek alınmıştır. == Hayatı == Milano doğumlu sanatçı sanat hayatına babası ile birlikte Milano katedrali vitraylarının tasarım işlerinde çalışarak başlar. Babasının ölümünden sonra da bu işe devam eder. Katedraldeki çoğu vitray onun tasarımıdır. Yaptığı işlerle kısa sürede adını duyuran Guiseppe, Como katedrali için goblen tasarlama işini üstlenerek 1558 yılında Milano'dan ayrılır. Como'da katedrali için birçok goblen tasarımı gerçekleştirir. 1562 yılında kutsal Roma İmparatoru I. Ferdinand Habsburg'un daveti üzerine İtalya'dan ayrılarak Viyana'ya gider ve saray ressamı olarak çalışmaya başlar. Bu dönemde ünlü serisi mevsimlerin birincisini gerçekleştirir. 1564 yılında I. Ferdinand'ın ölümü ile II. Maximilian tahta geçer. Bu durum Arcimboldo Guiseppe'nin pozisyonunda bir değişikliğe neden olmaz, sanatçı saray ressamlığına devam eder. Bu dönemde imparator ve ailesine ait grup portrelerini çizer. Guiseppe'nin saraydaki görevi yalnızca portre ressamlığı değildir; sanatçı mimar, sahne tasarımcısı, mühendis ve sanat uzmanı olarak da hizmet vermektedir. Ayrıca onun danışmanlığında sarayın antika koleksiyonu bir hayli genişletilir. Sanatçı grup portrelerinin dışında bu gün bile bizlere oldukça tuhaf ve komik görünen birçok portre çizmiştir. == Dış bağlantılar == ARCIMBOLDO, Giuseppe 30 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 225,
+      "char_count": 1728,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.210434",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 372,
+      "content": "Giuseppe Arcimboldo (1527, Milano - 11 Temmuz 1593, Milano), İtalyan ressam, mimar, sahne tasarımcısı, mühendis ve sanat danışmanı. Resimlerinde meyve, sebze, hayvan, kitap gibi birçok nesneyi, insan portrelerini andıracak şekilde düzenlemiştir. Çift imgeli bu resimler, 20. yüzyılda başta Salvador Dali olmak üzere birçok gerçeküstücü ressam tarafından örnek alınmıştır.",
+      "char_count": 371,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 372,
+      "end_char": 1372,
+      "content": "== Hayatı == Milano doğumlu sanatçı sanat hayatına babası ile birlikte Milano katedrali vitraylarının tasarım işlerinde çalışarak başlar. Babasının ölümünden sonra da bu işe devam eder. Katedraldeki çoğu vitray onun tasarımıdır. Yaptığı işlerle kısa sürede adını duyuran Guiseppe, Como katedrali için goblen tasarlama işini üstlenerek 1558 yılında Milano'dan ayrılır. Como'da katedrali için birçok goblen tasarımı gerçekleştirir. 1562 yılında kutsal Roma İmparatoru I. Ferdinand Habsburg'un daveti üzerine İtalya'dan ayrılarak Viyana'ya gider ve saray ressamı olarak çalışmaya başlar. Bu dönemde ünlü serisi mevsimlerin birincisini gerçekleştirir. 1564 yılında I. Ferdinand'ın ölümü ile II. Maximilian tahta geçer. Bu durum Arcimboldo Guiseppe'nin pozisyonunda bir değişikliğe neden olmaz, sanatçı saray ressamlığına devam eder. Bu dönemde imparator ve ailesine ait grup portrelerini çizer. Guiseppe'nin saraydaki görevi yalnızca portre ressamlığı değildir; sanatçı mimar, sahne tasarımcısı, mühendis",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1172,
+      "end_char": 1608,
+      "content": "ray ressamlığına devam eder. Bu dönemde imparator ve ailesine ait grup portrelerini çizer. Guiseppe'nin saraydaki görevi yalnızca portre ressamlığı değildir; sanatçı mimar, sahne tasarımcısı, mühendis ve sanat uzmanı olarak da hizmet vermektedir. Ayrıca onun danışmanlığında sarayın antika koleksiyonu bir hayli genişletilir. Sanatçı grup portrelerinin dışında bu gün bile bizlere oldukça tuhaf ve komik görünen birçok portre çizmiştir.",
+      "char_count": 436,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1609,
+      "end_char": 1714,
+      "content": "== Dış bağlantılar == ARCIMBOLDO, Giuseppe 30 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 104,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Guiseppe, Kutsal Roma İmparatoru I. Ferdinand Habsburg'un daveti üzerine hangi yıl Viyana'ya gitti?",
+        "answer": "1562 yılında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Giuseppe Arcimboldo'nun eserlerindeki özgün nesne düzenleme tekniği ve çeşitli mesleki uzmanlıkları, Milano'dan Habsburg sarayına uzanan kariyer yolculuğunu nasıl şekillendirmiştir?",
+        "answer": "Arcimboldo'nun resimlerinde meyve, sebze ve hayvan gibi nesneleri insan portreleri şeklinde düzenleme gibi özgün tekniği, onun dikkat çekmesine yardımcı olmuştur. Ayrıca ressamlık, mimarlık, sahne tasarımcılığı ve mühendislik gibi çeşitli uzmanlık alanları, Milano Katedrali'nde vitray tasarımları ile başlayan kariyerine yön vermiş, Como Katedrali için goblenler tasarlamasını sağlamış ve son olarak 1562'de Kutsal Roma İmparatoru I. Ferdinand'ın daveti üzerine Viyana'da saray ressamı ve aynı zamanda mimar, sahne tasarımcısı ve mühendis olarak görev yapmasına imkan tanımıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

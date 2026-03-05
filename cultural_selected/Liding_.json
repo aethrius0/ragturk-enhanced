@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "liding_ab6ca5e5",
+    "title": "Lidingö",
+    "url": "https://tr.wikipedia.org/wiki/Liding%C3%B6",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:52.718992",
+    "content": "Lidingön ve Lidingölandet olarak da bilinen Lidingö, İsveç'in başkenti Stockholm'ün kuzeydoğusunda, Stockholm Takımadalarının iç kısmında yer alan bir adadır. 2023 yılında adadaki Lidingö kentsel alanının nüfusu 48.162 idi. Stockholm İli'ne bağlı Lidingö Belediyesi'nin yönetim merkezidir. == Tarihçe == Rünlerin oyulmasından yaklaşık 300 ila 400 yıl sonra Lidingö sakinleri küçük çiftlikler kurmuşlardır. Lidingö'den yazılı olarak ilk kez 1328 yılında, Jedvard Filipsson'un vasiyetinde, “Lidingö çiftliği” anlamına gelen curiam in Lydhingø cümlesinde bahsedilmektedir. Bo Jonsson (Grip) (1330'ların başı - 20 Ağustos 1386) 1376 ve 1381 yılları arasında adanın tamamını satın almıştır. Yaklaşık 1480 yılında ada Djursholm'lu Banér ailesi tarafından devralınmıştır. 29 Ağustos 1774 tarihinde, yine Djursholm'den Johan Gabriel Banér (1733-1811) adanın tamamını satmış ve arazi 25 çiftliğe bölünmüştür. Lidingö'nün doğu kesiminde, 125 dönümlük (0,51km²) açık tarım arazisi ve Elfvik'teki orman arazisinin çoğunu içeren Långängen-Elfvik doğa koruma alanı, sınırları içinde korunmuş en büyük eski çiftliklerden biri olan Elfviks çiftliğine sahiptir. Çiftlikte 18. yüzyılın sonundan 19. yüzyılın ortalarına kadar inşa edilmiş olan orijinal evlerin çoğu kurtarılmış ve restore edilmiştir. Sığır, koyun ve at yetiştiriciliği yapılan çiftlik halen aktiftir ve Lidingö Belediyesi tarafından işletilmektedir. İlk kilise 1623 yılında inşa edilmiştir. Kuzey Avrupa için IBM eğitim merkezi, 1960'ların başında Elfvik çiftliğinin yakınına inşa edilmiştir. Merkez daha sonra bir otele dönüştürülmüştür.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 203,
+      "char_count": 1586,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.491496",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 290,
+      "content": "Lidingön ve Lidingölandet olarak da bilinen Lidingö, İsveç'in başkenti Stockholm'ün kuzeydoğusunda, Stockholm Takımadalarının iç kısmında yer alan bir adadır. 2023 yılında adadaki Lidingö kentsel alanının nüfusu 48.162 idi. Stockholm İli'ne bağlı Lidingö Belediyesi'nin yönetim merkezidir.",
+      "char_count": 289,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 290,
+      "end_char": 1290,
+      "content": "== Tarihçe == Rünlerin oyulmasından yaklaşık 300 ila 400 yıl sonra Lidingö sakinleri küçük çiftlikler kurmuşlardır. Lidingö'den yazılı olarak ilk kez 1328 yılında, Jedvard Filipsson'un vasiyetinde, “Lidingö çiftliği” anlamına gelen curiam in Lydhingø cümlesinde bahsedilmektedir. Bo Jonsson (Grip) (1330'ların başı - 20 Ağustos 1386) 1376 ve 1381 yılları arasında adanın tamamını satın almıştır. Yaklaşık 1480 yılında ada Djursholm'lu Banér ailesi tarafından devralınmıştır. 29 Ağustos 1774 tarihinde, yine Djursholm'den Johan Gabriel Banér (1733-1811) adanın tamamını satmış ve arazi 25 çiftliğe bölünmüştür. Lidingö'nün doğu kesiminde, 125 dönümlük (0,51km²) açık tarım arazisi ve Elfvik'teki orman arazisinin çoğunu içeren Långängen-Elfvik doğa koruma alanı, sınırları içinde korunmuş en büyük eski çiftliklerden biri olan Elfviks çiftliğine sahiptir. Çiftlikte 18. yüzyılın sonundan 19. yüzyılın ortalarına kadar inşa edilmiş olan orijinal evlerin çoğu kurtarılmış ve restore edilmiştir. Sığır, k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1090,
+      "end_char": 1586,
+      "content": "i çiftliklerden biri olan Elfviks çiftliğine sahiptir. Çiftlikte 18. yüzyılın sonundan 19. yüzyılın ortalarına kadar inşa edilmiş olan orijinal evlerin çoğu kurtarılmış ve restore edilmiştir. Sığır, koyun ve at yetiştiriciliği yapılan çiftlik halen aktiftir ve Lidingö Belediyesi tarafından işletilmektedir. İlk kilise 1623 yılında inşa edilmiştir. Kuzey Avrupa için IBM eğitim merkezi, 1960'ların başında Elfvik çiftliğinin yakınına inşa edilmiştir. Merkez daha sonra bir otele dönüştürülmüştür.",
+      "char_count": 496,
+      "token_estimate": 124
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Lidingö'den yazılı olarak ilk kez ne zaman bahsedilmiştir?",
+        "answer": "1328 yılında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Günümüzde Stockholm İli'ne bağlı Lidingö Belediyesi'nin yönetim merkezi olan Lidingö adasından yazılı olarak ilk ne zaman bahsedilmiştir ve bu ilk kayıtta ada ne anlama gelen bir ifadeyle tanımlanmıştır?",
+        "answer": "Lidingö'den yazılı olarak ilk kez 1328 yılında bahsedilmiş ve Jedvard Filipsson'un vasiyetinde 'Lidingö çiftliği' anlamına gelen 'curiam in Lydhingø' cümlesiyle tanımlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

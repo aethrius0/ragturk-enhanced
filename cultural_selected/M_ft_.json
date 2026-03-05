@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "mft_c35bd25b",
+    "title": "Müftü",
+    "url": "https://tr.wikipedia.org/wiki/M%C3%BCft%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:24.056286",
+    "content": "Müftü, il ve ilçelerde Müslümanların din işlerine bakan, fetva verebilen görevli. Sadece İlahiyat Fakültesi mezunları müftü olabilir. Müftünün İslami ilimler yönünden kendini geliştirmiş olması gerekir. Kasım 2017 tarihi itibarıyla müftülere resmî nikâh kıyabilme yetkisi verilmiştir. == Kökeni == Arapça kökenli müftü sözcüğünün sözlük anlamı fetva veren, şer'i mes'elelere dair sorulan soruları cevaplandıran kişidir. Mastarı iftâ sözcüğüdür. İftâ, şer'i bir mes'ele hakkında cevap vermek demektir. İstilâhta ise müftî, müctehid demektir. Müctehid, Kur'an'dan ve Hadislerden dini hüküm çıkarabilme kudretine hâiz bulunan kimsedir. Müftü, şeyhülislam tâbirinin yayılmasından önce ilmiye mesleğinde kullanılan üç tabirden biridir. Diğerleri de kadı ve müderristir. Halkın ve devlet dairelerinin dini meseleler hakkında sordukları soruları dini kitaplardan ve daha çok Hanefî mezhebine göre fetvâ veren müftüler, kadılar gibi resmî bir sıfata haiz değillerdi. Sorulan dini meseleler için muteber fıkıh kitaplarından araştırıp gerekli cevabı vermekle mükellef idiler. Müftüler tayin edildikleri zaman hanefi imamlarının içtihatları ile fetvâ vermeleri ve verdikleri fetvâları belirli ölçüde tespit edilen bir kâğıda yazıp altına, falanca yerin müftüsü, falan şeklinde imza etmeleri, tayinle alakalı tezkere ve ifadeler de yer alıyordu. Her ne kadar müftüler Hanefi mezhebine göre fetvâ veriyorlar ise de Osmanlı Devleti sınırlar içinde bulunan diğer üç mezhep mensupları için de müftüler tayin ediliyorlardı. Bunlar da Şafii, Malikî ve Hanbelî mezhebine göre fetvâ verirlerdi. Günümüzde Türkiye'de, 633 sayılı Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı kuruluş ve görevleri hakkında kanun ve bu yönerge ile verilen görevleri yürütmek ve Diyanet İşleri Başkanlığını temsil etmek amacıyla il ve ilçe müftülükleri kurulmuştur. == Kaynakça == Özcan, Mevlüt. Din Görevlisinin El Kitabı. Sabır Yayınları. s. 26. 9759220945.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 254,
+      "char_count": 1918,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.703428",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 285,
+      "content": "Müftü, il ve ilçelerde Müslümanların din işlerine bakan, fetva verebilen görevli. Sadece İlahiyat Fakültesi mezunları müftü olabilir. Müftünün İslami ilimler yönünden kendini geliştirmiş olması gerekir. Kasım 2017 tarihi itibarıyla müftülere resmî nikâh kıyabilme yetkisi verilmiştir.",
+      "char_count": 284,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0001",
+      "section": "== Kökeni ==",
+      "heading_path": "== Kökeni ==",
+      "start_char": 285,
+      "end_char": 1285,
+      "content": "== Kökeni == Arapça kökenli müftü sözcüğünün sözlük anlamı fetva veren, şer'i mes'elelere dair sorulan soruları cevaplandıran kişidir. Mastarı iftâ sözcüğüdür. İftâ, şer'i bir mes'ele hakkında cevap vermek demektir. İstilâhta ise müftî, müctehid demektir. Müctehid, Kur'an'dan ve Hadislerden dini hüküm çıkarabilme kudretine hâiz bulunan kimsedir. Müftü, şeyhülislam tâbirinin yayılmasından önce ilmiye mesleğinde kullanılan üç tabirden biridir. Diğerleri de kadı ve müderristir. Halkın ve devlet dairelerinin dini meseleler hakkında sordukları soruları dini kitaplardan ve daha çok Hanefî mezhebine göre fetvâ veren müftüler, kadılar gibi resmî bir sıfata haiz değillerdi. Sorulan dini meseleler için muteber fıkıh kitaplarından araştırıp gerekli cevabı vermekle mükellef idiler. Müftüler tayin edildikleri zaman hanefi imamlarının içtihatları ile fetvâ vermeleri ve verdikleri fetvâları belirli ölçüde tespit edilen bir kâğıda yazıp altına, falanca yerin müftüsü, falan şeklinde imza etmeleri, tayi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kökeni ==",
+      "heading_path": "== Kökeni ==",
+      "start_char": 1085,
+      "end_char": 1824,
+      "content": "dikleri zaman hanefi imamlarının içtihatları ile fetvâ vermeleri ve verdikleri fetvâları belirli ölçüde tespit edilen bir kâğıda yazıp altına, falanca yerin müftüsü, falan şeklinde imza etmeleri, tayinle alakalı tezkere ve ifadeler de yer alıyordu. Her ne kadar müftüler Hanefi mezhebine göre fetvâ veriyorlar ise de Osmanlı Devleti sınırlar içinde bulunan diğer üç mezhep mensupları için de müftüler tayin ediliyorlardı. Bunlar da Şafii, Malikî ve Hanbelî mezhebine göre fetvâ verirlerdi. Günümüzde Türkiye'de, 633 sayılı Türkiye Cumhuriyeti Diyanet İşleri Başkanlığı kuruluş ve görevleri hakkında kanun ve bu yönerge ile verilen görevleri yürütmek ve Diyanet İşleri Başkanlığını temsil etmek amacıyla il ve ilçe müftülükleri kurulmuştur.",
+      "char_count": 739,
+      "token_estimate": 184
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1825,
+      "end_char": 1918,
+      "content": "== Kaynakça == Özcan, Mevlüt. Din Görevlisinin El Kitabı. Sabır Yayınları. s. 26. 9759220945.",
+      "char_count": 93,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Şeyhülislam tabirinin yayılmasından önce ilmiye mesleğinde kullanılan üç tabir nelerdir?",
+        "answer": "Müftü, kadı ve müderris.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Müftülerin Osmanlı dönemindeki resmi statüsü ve sorumlulukları, günümüz Türkiye'sindeki kurumsal rolleri ve yetkileriyle nasıl farklılaşmaktadır?",
+        "answer": "Osmanlı döneminde müftüler, kadılar gibi resmi bir sıfata sahip olmayıp, daha çok dini meseleler hakkında Hanefi mezhebine veya diğer mezheplere göre fetva vermekle yükümlüydüler. Günümüz Türkiye'sinde ise müftüler, Diyanet İşleri Başkanlığı'nı temsil eden, il ve ilçelerde Müslümanların din işlerine bakan ve fetva verebilen resmi görevlilerdir. Ayrıca, Kasım 2017 itibarıyla resmi nikâh kıyma yetkisine de sahiptirler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

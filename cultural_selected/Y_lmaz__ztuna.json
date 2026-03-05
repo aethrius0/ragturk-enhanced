@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "ylmazztuna_9c65dbf0",
+    "title": "Yılmaz Öztuna",
+    "url": "https://tr.wikipedia.org/wiki/Y%C4%B1lmaz_%C3%96ztuna",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:28.861090",
+    "content": "Tahsin Yılmaz Öztuna (20 Eylül 1930, İstanbul - 9 Şubat 2012, Ankara), Türk tarihçi, siyasetçi, müzikolog, gazeteci ve yazardır. Lise öğreniminin yanı sıra İstanbul Konservatuvarı'na devam etti. 1950 Eylül'ünde Fransa'ya gitti. Paris Üniversitesi Siyasal Bilimler Enstitüsü'nde, Sorbonne Üniversitesi'nin Fransız medeniyeti kısmında, Alliance Française'nin yüksek kısmında okudu. Ayrıca Paris Konservatuvarı'nda ders aldı. 1957 Temmuz'una kadar Paris'teki kütüphanelerde müzik ve tarih üzerine araştırma yaptı. Öztuna'nın, 13 yaşında ilk makalesi, 15 yaşında ilk kitabı basıldı. 1969 yılında Adalet Partisi'den Konya milletvekili seçilerek Türkiye Büyük Millet Meclisine girdi ve Ankara'ya yerleşti. Türkiye Radyo Televizyon Kurumunda denetleme, repertuvar, eğitim kurullarında üye olarak görev yaptı. (Ocak 1966-Kasım 1981) Kültür Bakanlığında başmüşavir (1974-77), İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuvarında kurucu yönetim kurulu üyesi ve Türk Musikisi Korosu'nda kurucu yönetim kurulu üyesi (1975'ten itibaren), YAYKUR'un (Yaygın Yükseköğretim) üniversitesinde Osmanlı siyâsî ve medeniyet tarihi öğretim üyesi (1975-78) sıfatıyla görev yaptı. Millî eğitim ve kültür bakanlıklarında 1969'dan itibaren pek çok ihtisas kurulunda üye ve başkanlık yaptı. 1974-1980 arasında Milli Eğitim Bakanlığı'nca yayınlanan Türk Ansiklopedisi'nin genel yayın müdürü olarak 'K' harfinden 'T' harfine kadar olan ciltleri yayınladı. 1983 Mayıs'ında Milliyetçi Demokrasi Partisinin kurucuları arasında bulunarak, merkez genel yönetim kuruluna seçildi, sonra istifa etti. 1985'te Faysal Finans Kurumu müşaviri oldu. Türk ve Osmanlı tarihi, klasik Türk musikisi ile ilgili eserler veren ve Türkiye gazetesinde köşe yazarı olarak da görev yapan Yılmaz Öztuna, 9 Şubat 2012 tarihinde Ankara'da öldü. Cenazesi, İstanbul'daki Zincirlikuyu Mezarlığı'nda toprağa verildi. == Kaynakça == == Dış bağlantılar == TDV İslâm Ansiklopedisi'nde Yılmaz Öztuna",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 245,
+      "char_count": 1949,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.944521",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Tahsin Yılmaz Öztuna (20 Eylül 1930, İstanbul - 9 Şubat 2012, Ankara), Türk tarihçi, siyasetçi, müzikolog, gazeteci ve yazardır. Lise öğreniminin yanı sıra İstanbul Konservatuvarı'na devam etti. 1950 Eylül'ünde Fransa'ya gitti. Paris Üniversitesi Siyasal Bilimler Enstitüsü'nde, Sorbonne Üniversitesi'nin Fransız medeniyeti kısmında, Alliance Française'nin yüksek kısmında okudu. Ayrıca Paris Konservatuvarı'nda ders aldı. 1957 Temmuz'una kadar Paris'teki kütüphanelerde müzik ve tarih üzerine araştırma yaptı. Öztuna'nın, 13 yaşında ilk makalesi, 15 yaşında ilk kitabı basıldı. 1969 yılında Adalet Partisi'den Konya milletvekili seçilerek Türkiye Büyük Millet Meclisine girdi ve Ankara'ya yerleşti. Türkiye Radyo Televizyon Kurumunda denetleme, repertuvar, eğitim kurullarında üye olarak görev yaptı. (Ocak 1966-Kasım 1981) Kültür Bakanlığında başmüşavir (1974-77), İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuvarında kurucu yönetim kurulu üyesi ve Türk Musikisi Korosu'nda kurucu yö",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": ". (Ocak 1966-Kasım 1981) Kültür Bakanlığında başmüşavir (1974-77), İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuvarında kurucu yönetim kurulu üyesi ve Türk Musikisi Korosu'nda kurucu yönetim kurulu üyesi (1975'ten itibaren), YAYKUR'un (Yaygın Yükseköğretim) üniversitesinde Osmanlı siyâsî ve medeniyet tarihi öğretim üyesi (1975-78) sıfatıyla görev yaptı. Millî eğitim ve kültür bakanlıklarında 1969'dan itibaren pek çok ihtisas kurulunda üye ve başkanlık yaptı. 1974-1980 arasında Milli Eğitim Bakanlığı'nca yayınlanan Türk Ansiklopedisi'nin genel yayın müdürü olarak 'K' harfinden 'T' harfine kadar olan ciltleri yayınladı. 1983 Mayıs'ında Milliyetçi Demokrasi Partisinin kurucuları arasında bulunarak, merkez genel yönetim kuruluna seçildi, sonra istifa etti. 1985'te Faysal Finans Kurumu müşaviri oldu. Türk ve Osmanlı tarihi, klasik Türk musikisi ile ilgili eserler veren ve Türkiye gazetesinde köşe yazarı olarak da görev yapan Yılmaz Öztuna, 9 Şubat 2012 tarihinde Ankara'da öld",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1870,
+      "content": "Kurumu müşaviri oldu. Türk ve Osmanlı tarihi, klasik Türk musikisi ile ilgili eserler veren ve Türkiye gazetesinde köşe yazarı olarak da görev yapan Yılmaz Öztuna, 9 Şubat 2012 tarihinde Ankara'da öldü. Cenazesi, İstanbul'daki Zincirlikuyu Mezarlığı'nda toprağa verildi.",
+      "char_count": 270,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1886,
+      "end_char": 1949,
+      "content": "== Dış bağlantılar == TDV İslâm Ansiklopedisi'nde Yılmaz Öztuna",
+      "char_count": 63,
+      "token_estimate": 15
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tahsin Yılmaz Öztuna hangi tarihte ve nerede doğmuştur?",
+        "answer": "20 Eylül 1930 tarihinde İstanbul'da doğmuştur.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tahsin Yılmaz Öztuna'nın kariyeri boyunca üstlendiği çeşitli kamu hizmeti rollerini, siyasi katılımlarını ve kültürel ile eğitim kurumlarına katkılarını da içerecek şekilde açıklayınız.",
+        "answer": "Tahsin Yılmaz Öztuna, siyasi alanda 1969'da Adalet Partisi'nden Konya milletvekili seçilmiş ve 1983'te Milliyetçi Demokrasi Partisinin kurucuları arasında yer almıştır. Kültürel ve eğitim kurumlarındaki görevleri arasında ise 1966-1981 yılları arasında Türkiye Radyo Televizyon Kurumunda denetleme, repertuvar ve eğitim kurullarında üyelik, 1974-1977 arasında Kültür Bakanlığında başmüşavirlik, İstanbul Teknik Üniversitesi Türk Musikisi Devlet Konservatuvarı ile Türk Musikisi Korosu'nda kurucu yönetim kurulu üyeliği, 1975-1978 yılları arasında YAYKUR'da Osmanlı siyâsî ve medeniyet tarihi öğretim üyeliği ve 1974-1980 yılları arasında Millî Eğitim Bakanlığı'nca yayınlanan Türk Ansiklopedisi'nin genel yayın müdürlüğü bulunmaktadır. Ayrıca, 1969'dan itibaren Millî eğitim ve kültür bakanlıklarında birçok ihtisas kurulunda üye ve başkanlık yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

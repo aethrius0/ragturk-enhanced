@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "veyseldino_14f5e881",
+    "title": "Veysel Dino",
+    "url": "https://tr.wikipedia.org/wiki/Veysel_Dino",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:28.638634",
+    "content": "Veysel Bey Dino, Ahmed Bey Dino'nun en büyük oğlu ve Abidin Paşa'nın ağabeyi Osmanlı siyasetçi. == Hayatı == Osmanlı İmparatorluğu'nun Yanya Vilayeti'nde Preveze'de doğdu. Ünlü Dino ailesinin bir kolunun çocuğudur. 27 Aralık 1876'da yapılan Yanya Vilayeti seçimlerinde Veysel Bey Dino yanında Mustafa Bey ve Ali Naki Bey olmak üzere üç müslüman ile Nikolaki Çanaka Efendi, Algivyadi Lambi Efendi ve Argiri Kantarcı Efendi olmak üzere üç gayrimüslim mebus seçilmiştir. Böylece Veysel Bey Dino, 19 Mart 1877'den 28 Haziran 1877'ye kadar ilk Meclis-i Mebûsan'a katıldı. Kardeşi Abidin Paşa, Fraşirili Abdül Bey (Yanya) ve Mehmed Ali Paşa Viryoni (Yanya) ile birlikte Arnavut Birliği'nin güney kolunun liderlerinden biriydi. Veysel Bey Dino direniş hareketlerinin örgütlenmesinde yer alırken, diğer mebuslar gibi kendisini askıya alınmış da olsa hala Meclis-i Mebûsan'un bir vekili olarak görüyordu. Bu nedenle, hudut meselelerinde Osmanlı ve Yunan müzakerelerinin yeniden başladığını öğrenerek, Yanya'dan iki diğer mebus olan Abdül Bey ve Mehmed Ali Paşa Viryoni ile birlikte 14 Ağustos 1879'da bölgesinden İstanbul'a başkentteki bu müzakerelerde yerel halkın temsilcisi olarak mümkün olan her rolü oynamaya çalışmak için gitti. == Notlar == == Kaynakça == Özel Genel Bilmez, Bülent; Clayer, Nathalie (2016). \"A PROSOPOGRAPHIC STUDY ON SOME 'ALBANIAN' DEPUTIES\". Herzog, Christoph; Sharif, Malek (Ed.). The First Ottoman Experiment in Democracy (PDF) (İngilizce). Würzburg: Orient-Institut Istanbul (Max Weber Stiftung). ISBN 978-3-95650-191-3. ISSN 1863-9461. 10 Kasım 2021 tarihinde kaynağından arşivlendi (PDF). Erişim tarihi: 4 Aralık 2021.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 227,
+      "char_count": 1641,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.426874",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 96,
+      "content": "Veysel Bey Dino, Ahmed Bey Dino'nun en büyük oğlu ve Abidin Paşa'nın ağabeyi Osmanlı siyasetçi.",
+      "char_count": 95,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 96,
+      "end_char": 1096,
+      "content": "== Hayatı == Osmanlı İmparatorluğu'nun Yanya Vilayeti'nde Preveze'de doğdu. Ünlü Dino ailesinin bir kolunun çocuğudur. 27 Aralık 1876'da yapılan Yanya Vilayeti seçimlerinde Veysel Bey Dino yanında Mustafa Bey ve Ali Naki Bey olmak üzere üç müslüman ile Nikolaki Çanaka Efendi, Algivyadi Lambi Efendi ve Argiri Kantarcı Efendi olmak üzere üç gayrimüslim mebus seçilmiştir. Böylece Veysel Bey Dino, 19 Mart 1877'den 28 Haziran 1877'ye kadar ilk Meclis-i Mebûsan'a katıldı. Kardeşi Abidin Paşa, Fraşirili Abdül Bey (Yanya) ve Mehmed Ali Paşa Viryoni (Yanya) ile birlikte Arnavut Birliği'nin güney kolunun liderlerinden biriydi. Veysel Bey Dino direniş hareketlerinin örgütlenmesinde yer alırken, diğer mebuslar gibi kendisini askıya alınmış da olsa hala Meclis-i Mebûsan'un bir vekili olarak görüyordu. Bu nedenle, hudut meselelerinde Osmanlı ve Yunan müzakerelerinin yeniden başladığını öğrenerek, Yanya'dan iki diğer mebus olan Abdül Bey ve Mehmed Ali Paşa Viryoni ile birlikte 14 Ağustos 1879'da bölg",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 896,
+      "end_char": 1225,
+      "content": "Bu nedenle, hudut meselelerinde Osmanlı ve Yunan müzakerelerinin yeniden başladığını öğrenerek, Yanya'dan iki diğer mebus olan Abdül Bey ve Mehmed Ali Paşa Viryoni ile birlikte 14 Ağustos 1879'da bölgesinden İstanbul'a başkentteki bu müzakerelerde yerel halkın temsilcisi olarak mümkün olan her rolü oynamaya çalışmak için gitti.",
+      "char_count": 329,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1239,
+      "end_char": 1641,
+      "content": "== Kaynakça == Özel Genel Bilmez, Bülent; Clayer, Nathalie (2016). \"A PROSOPOGRAPHIC STUDY ON SOME 'ALBANIAN' DEPUTIES\". Herzog, Christoph; Sharif, Malek (Ed.). The First Ottoman Experiment in Democracy (PDF) (İngilizce). Würzburg: Orient-Institut Istanbul (Max Weber Stiftung). ISBN 978-3-95650-191-3. ISSN 1863-9461. 10 Kasım 2021 tarihinde kaynağından arşivlendi (PDF). Erişim tarihi: 4 Aralık 2021.",
+      "char_count": 402,
+      "token_estimate": 100
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Veysel Bey Dino, ilk Meclis-i Mebûsan'a hangi tarihler arasında katılmıştır?",
+        "answer": "19 Mart 1877'den 28 Haziran 1877'ye kadar.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Metinlere göre, Osmanlı siyasetçisi Veysel Bey Dino'nun ailevi ve siyasi kimliği, kardeşi Abidin Paşa'nın siyasi rolüyle birlikte nasıl açıklanmaktadır?",
+        "answer": "Veysel Bey Dino, Ahmed Bey Dino'nun en büyük oğlu ve Abidin Paşa'nın ağabeyi olan bir Osmanlı siyasetçisidir. Kendisi 1876'da Yanya Vilayeti'nden mebus seçilerek Meclis-i Mebûsan'a katılmış ve direniş hareketlerinin örgütlenmesinde yer almıştır. Kardeşi Abidin Paşa ise Arnavut Birliği'nin güney kolunun liderlerinden biriydi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

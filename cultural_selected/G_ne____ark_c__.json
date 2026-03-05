@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "gnearkc_ed2fbc34",
+    "title": "Güneş (şarkıcı)",
+    "url": "https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F_%28%C5%9Fark%C4%B1c%C4%B1%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:13.441061",
+    "content": "Güneş Taşkıran (d. 1 Aralık 1999, İstanbul), Türk şarkıcı, rapçi ve şarkı yazarıdır. == Hayatı == Güneş Taşkıran, 1 Aralık 1999 tarihinde İstanbul, Yenibosna'da doğdu ve büyüdü. 9 yaşında müzikle ilgilenmeye, 12 yaşında şarkı sözü yazmaya ve beste yapmaya başladı. 2014 yılında O Ses Çocuklar yarışmasında sahne aldı. R&B, pop ve Türkçe rap tarzları altında müzik üreten Güneş, \"Suçlarımdan Biri\" ve Uzi ile bir düet olan \"Dua\" adlı parçalarıyla Spotify'da en çok dinlenenler listesine girdi. Güneş, 2023 yılına kadar bir hip hop oluşumu olan M.O.B. Entertainment bünyesi altında şarkılarını yayımladı 2023 yılının Ocak ayında ise Sony Music Türkiye'ye transfer oldu. Uzi ile yaptıkları \"Dua\" şarkısı Youtube'da 50 milyondan fazla kişi tarafından tıklanmıştır. Suçlarımdan Biri spotify’da 160 milyon Nkbi 110 milyon dinlenmeyi geride bırakmıştır. 2020 yılında \"Dua\" şarkısıyla yılın en iyi çıkış yapan sanatçısı ödülünü kazanmıştır. 2021 yılında Apple Music, Yıldızı Parlayanlar programını Türkiye'de Güneş ile başlatmıştır. Güneş, 2022 yılı Number One Müzik Ödülleri'nde en iyi rap şarkıcı, en iyi klip (\"NKBİ\") ve en iyi şarkı dalında aday gösterilmiştir. Aynı yıl Gazete Oksijen yazarı Alper Bahçekapılı Güneş'i Yeni Şeyler Söyleyen 10 Müthiş Genç Müzisyen arasında göstermiştir. Spotify verilerine göre 2022 yılında Türkiye genelinde en çok dinlenen ikinci kadın sanatçı oldu. Spotify 2023 yılında ise en çok dinlenen 3. kadın sanatçı olarak devam etti. 2022 yılında Spotify'ın müzik sektöründe kadın eşitliğini güçlendirmek için tanıttığı EQUAL'ın listesine giren Güneş, New York Times Meydanı’ndaki billboard reklamında yer aldı. 2023 yılında ikinci albümü Pop'u yayımladı. == Diskografi == === Tekliler ===",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 246,
+      "char_count": 1713,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.738623",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 85,
+      "content": "Güneş Taşkıran (d. 1 Aralık 1999, İstanbul), Türk şarkıcı, rapçi ve şarkı yazarıdır.",
+      "char_count": 84,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 85,
+      "end_char": 1085,
+      "content": "== Hayatı == Güneş Taşkıran, 1 Aralık 1999 tarihinde İstanbul, Yenibosna'da doğdu ve büyüdü. 9 yaşında müzikle ilgilenmeye, 12 yaşında şarkı sözü yazmaya ve beste yapmaya başladı. 2014 yılında O Ses Çocuklar yarışmasında sahne aldı. R&B, pop ve Türkçe rap tarzları altında müzik üreten Güneş, \"Suçlarımdan Biri\" ve Uzi ile bir düet olan \"Dua\" adlı parçalarıyla Spotify'da en çok dinlenenler listesine girdi. Güneş, 2023 yılına kadar bir hip hop oluşumu olan M.O.B. Entertainment bünyesi altında şarkılarını yayımladı 2023 yılının Ocak ayında ise Sony Music Türkiye'ye transfer oldu. Uzi ile yaptıkları \"Dua\" şarkısı Youtube'da 50 milyondan fazla kişi tarafından tıklanmıştır. Suçlarımdan Biri spotify’da 160 milyon Nkbi 110 milyon dinlenmeyi geride bırakmıştır. 2020 yılında \"Dua\" şarkısıyla yılın en iyi çıkış yapan sanatçısı ödülünü kazanmıştır. 2021 yılında Apple Music, Yıldızı Parlayanlar programını Türkiye'de Güneş ile başlatmıştır. Güneş, 2022 yılı Number One Müzik Ödülleri'nde en iyi rap şa",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 885,
+      "end_char": 1679,
+      "content": " iyi çıkış yapan sanatçısı ödülünü kazanmıştır. 2021 yılında Apple Music, Yıldızı Parlayanlar programını Türkiye'de Güneş ile başlatmıştır. Güneş, 2022 yılı Number One Müzik Ödülleri'nde en iyi rap şarkıcı, en iyi klip (\"NKBİ\") ve en iyi şarkı dalında aday gösterilmiştir. Aynı yıl Gazete Oksijen yazarı Alper Bahçekapılı Güneş'i Yeni Şeyler Söyleyen 10 Müthiş Genç Müzisyen arasında göstermiştir. Spotify verilerine göre 2022 yılında Türkiye genelinde en çok dinlenen ikinci kadın sanatçı oldu. Spotify 2023 yılında ise en çok dinlenen 3. kadın sanatçı olarak devam etti. 2022 yılında Spotify'ın müzik sektöründe kadın eşitliğini güçlendirmek için tanıttığı EQUAL'ın listesine giren Güneş, New York Times Meydanı’ndaki billboard reklamında yer aldı. 2023 yılında ikinci albümü Pop'u yayımladı.",
+      "char_count": 794,
+      "token_estimate": 198
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Güneş Taşkıran ne zaman ve nerede doğmuştur?",
+        "answer": "Güneş Taşkıran, 1 Aralık 1999 tarihinde İstanbul, Yenibosna'da doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Güneş Taşkıran'ın müzik kariyeri, genç yaşta başlayan ilgisinden uluslararası tanınmışlığa ve önemli başarılara nasıl bir gelişim göstermiştir?",
+        "answer": "Güneş Taşkıran, 1 Aralık 1999'da İstanbul'da doğmuş olup, 9 yaşında müzikle ilgilenmeye ve 12 yaşında şarkı sözü yazmaya başlamıştır. 2014 yılında O Ses Çocuklar yarışmasında sahne almıştır. \"Suçlarımdan Biri\" ve Uzi ile \"Dua\" gibi parçalarıyla Spotify'da en çok dinlenenler listesine girmiş, 2020 yılında \"Dua\" şarkısıyla yılın en iyi çıkış yapan sanatçısı ödülünü kazanmıştır. 2021 yılında Apple Music, Yıldızı Parlayanlar programını Türkiye'de Güneş ile başlatmıştır. 2023 yılına kadar M.O.B. Entertainment bünyesinde şarkılarını yayımlamış, ardından Ocak 2023'te Sony Music Türkiye'ye transfer olmuştur. Kariyeri boyunca 2022'de Number One Müzik Ödülleri'nde en iyi rap şarkıcı, en iyi klip ve en iyi şarkı dallarında aday gösterilmiş, Gazete Oksijen yazarı Alper Bahçekapılı tarafından \"Yeni Şeyler Söyleyen 10 Müthiş Genç Müzisyen\" arasında gösterilmiştir. Spotify verilerine göre 2022'de Türkiye genelinde en çok dinlenen ikinci kadın sanatçı, 2023'te ise üçüncü kadın sanatçı olmuştur. 2022'de Spotify'ın müzik sektöründe kadın eşitliğini güçlendirmek için tanıttığı EQUAL listesine girerek New York Times Meydanı’ndaki billboard reklamında yer almış ve 2023 yılında ikinci albümü \"Pop\"u yayımlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

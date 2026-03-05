@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "dalalesi_b14d4c78",
+    "title": "Dağ lalesi",
+    "url": "https://tr.wikipedia.org/wiki/Da%C4%9F_lalesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:33.556297",
+    "content": "Dağ lalesi veya bilimsel adıyla Tulipa armena, zambakgiller familyasından çok yıllık bir bitki türüdür. Türün bilimsel adı bitkinin yetiştiği Ermeni Yaylası'ndan gelmektedir. Ermenistan, Türkiye, İran ve Güney Kafkasya'ya endemiktir. == Özellikleri == Tulipa armena son derece değişkendir. Bitkinin soğanının çok tüylü olmayan ince bir dış çeperi vardır. Bitkinin gövdesi 8 ila 25 cm uzunluğundadır. Gövdede 3 ila 6 yaprak vardır. Yapraklar geniş, pala şeklinde, tüylü veya pürüzsüzdür ve genellikle dalgalı kenarlara sahiptir. 20 cm uzunluğa erişebilen yapraklar yeşil veya gridir. Çiçekler fincan veya kase şeklindedir ve renk olarak çok değişkendir. Genellikle koyu mor, siyah, kırmızı veya koyu yeşil rengindedir. Tepaller normalde ovaldir. İpçikler siyah veya siyahımsı mor, anterler sarı veya siyahtır. Türkiye'de lycica ve armena alt türleri arasındaki fark, soğanın üzerindeki tüylerden anlaşılır. == Yetişme ortamı == Dağ lalesi Kuzeydoğu Türkiye, Transkafkasya (Ermenistan, Azerbaycan ve Gürcistan) Kuzeybatı İran'a endemiktir. Aynı zamanda Osmanlı döneminde, Türkiye'nin güneybatısındaki Marmaris yarımadasında süs bitkisi olarak yetiştirilmesi için bölgeye getirilmiştir. 1000 ila 2700 metre rakımlı kayalık dağ yamaçlarında yetişir ve Nisan ve Haziran ayları arasında çiçek açar. Yüksek humus içeriğine sahip alkali topraklarda yetişir. == Kullanımları == Dağ lalesi bahçe bitkisi olarak kullanılır. Kuru, sıcak yazlara ihtiyaç duyar ve tam güneşli ortamda yetiştirilmelidir. Egzotik tür olarak yetiştiği İngiltere'de Nisan ayında çiçek açar. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 209,
+      "char_count": 1570,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.171092",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 234,
+      "content": "Dağ lalesi veya bilimsel adıyla Tulipa armena, zambakgiller familyasından çok yıllık bir bitki türüdür. Türün bilimsel adı bitkinin yetiştiği Ermeni Yaylası'ndan gelmektedir. Ermenistan, Türkiye, İran ve Güney Kafkasya'ya endemiktir.",
+      "char_count": 233,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 234,
+      "end_char": 906,
+      "content": "== Özellikleri == Tulipa armena son derece değişkendir. Bitkinin soğanının çok tüylü olmayan ince bir dış çeperi vardır. Bitkinin gövdesi 8 ila 25 cm uzunluğundadır. Gövdede 3 ila 6 yaprak vardır. Yapraklar geniş, pala şeklinde, tüylü veya pürüzsüzdür ve genellikle dalgalı kenarlara sahiptir. 20 cm uzunluğa erişebilen yapraklar yeşil veya gridir. Çiçekler fincan veya kase şeklindedir ve renk olarak çok değişkendir. Genellikle koyu mor, siyah, kırmızı veya koyu yeşil rengindedir. Tepaller normalde ovaldir. İpçikler siyah veya siyahımsı mor, anterler sarı veya siyahtır. Türkiye'de lycica ve armena alt türleri arasındaki fark, soğanın üzerindeki tüylerden anlaşılır.",
+      "char_count": 671,
+      "token_estimate": 167
+    },
+    {
+      "id": "c0002",
+      "section": "== Yetişme ortamı ==",
+      "heading_path": "== Yetişme ortamı ==",
+      "start_char": 906,
+      "end_char": 1350,
+      "content": "== Yetişme ortamı == Dağ lalesi Kuzeydoğu Türkiye, Transkafkasya (Ermenistan, Azerbaycan ve Gürcistan) Kuzeybatı İran'a endemiktir. Aynı zamanda Osmanlı döneminde, Türkiye'nin güneybatısındaki Marmaris yarımadasında süs bitkisi olarak yetiştirilmesi için bölgeye getirilmiştir. 1000 ila 2700 metre rakımlı kayalık dağ yamaçlarında yetişir ve Nisan ve Haziran ayları arasında çiçek açar. Yüksek humus içeriğine sahip alkali topraklarda yetişir.",
+      "char_count": 443,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0003",
+      "section": "== Kullanımları ==",
+      "heading_path": "== Kullanımları ==",
+      "start_char": 1350,
+      "end_char": 1556,
+      "content": "== Kullanımları == Dağ lalesi bahçe bitkisi olarak kullanılır. Kuru, sıcak yazlara ihtiyaç duyar ve tam güneşli ortamda yetiştirilmelidir. Egzotik tür olarak yetiştiği İngiltere'de Nisan ayında çiçek açar.",
+      "char_count": 205,
+      "token_estimate": 51
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tulipa armena bitkisinin gövdesi kaç cm uzunluğundadır?",
+        "answer": "8 ila 25 cm.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tulipa armena'nın Türkiye, Ermenistan, İran ve Güney Kafkasya gibi bölgelere endemik olması ve aynı zamanda son derece değişken bir tür olarak tanımlanması, bu endemik bölgelerdeki alt türlerinin ayırt edilmesinde nasıl bir rol oynar ve buna metinden bir örnek verilebilir mi?",
+        "answer": "Tulipa armena'nın endemik olduğu bölgelerdeki yüksek değişkenliği, farklı alt türlerinin belirli fiziksel özellikler üzerinden ayrılmasına olanak tanır. Örneğin, Türkiye'de lycica ve armena alt türleri arasındaki fark, soğanın üzerindeki tüylerden anlaşılır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

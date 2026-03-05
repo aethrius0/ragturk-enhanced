@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "arunadindane_2ce6b141",
+    "title": "Aruna Dindane",
+    "url": "https://tr.wikipedia.org/wiki/Aruna_Dindane",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:14.066264",
+    "content": "Aruna Dindane (d. 26 Kasım 1980, Abidjan), Fildişi Sahilli eski futbolcudur. == Kariyeri == === Kulüp kariyeri === Kariyerine ülkesi Fildişi Sahili'nin takımlarından ASEC Mimosas'da başladı. Burada bir yıl oynayan Dindane, hemen gözde genç yeteneklerden biri oldu ve 2000 yılında Pro League takımlarından RSC Anderlecht ile anlaştı. Anderlecht'te tam 5 sezon geçirdi ve bu 5 sezon içinde harikalar yarattı. Bu 5 sezonda toplamda oynadığı 132 maçta rakip filelere 50 gol gönderdi ve Anderlecht tarihininde en golcü yabancı oyuncularından oldu. 2005 yılında Fransız ekip RC Lens'e transfer oldu. Burada 4 sezon geçirmesine karşın istenilen verimi veremedi ve 2009 yılında Portsmouth FC takımına kiralık gitti. Dindane, Premier League'de oynadığı 19 maçta 8 gol attı. 2010 yılında bonservisiyle beraber Katar takımlarından Lekhwiya'ya transfer oldu. === Millî takım kariyeri === Dindane, Fildişi Sahili forması altındaki ilk maçına 9 Nisan 2000 tarihinde Ruanda karşısında çıktı. Ayrıca 2006 Afrika Uluslar Kupası, 2006 FIFA Dünya Kupası, 2008 Afrika Uluslar Kupası, 2010 Afrika Uluslar Kupası ve 2010 FIFA Dünya Kupası turnuvalarında da Fildişi Sahili adına mücadele etti. Dindane, şu ana kadar millî formayı 67 kez giydi ve 11 gol attı. == Başarıları == === Kulüp === ASEC Mimosas Fildişi Sahili Premier Ligi (1): 2000 Anderlecht Pro League (2): 2000-01 ve 2003-04 Belgische Supercup (2): 2000 ve 2001 Lens UEFA Intertoto Kupası (1): 2007 Ligue 2 (1): 2009 === Kişisel === Fildişi Sahili Premier Kümesi gol krallığı (1): 1999 Belçika Abanoz Ayakkabı Ödülü (1): 2003 Belçika Altın Ayakkabı Ödülü (1): 2003 == Kaynakça == == Dış bağlantılar == Transfermarkt'ta Aruna Dindane Soccerbase'te Aruna Dindane Aruna Dindane LFP profili lfp.fr sitesindeki bilgiler (Fransızca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 263,
+      "char_count": 1765,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.100765",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 77,
+      "content": "Aruna Dindane (d. 26 Kasım 1980, Abidjan), Fildişi Sahilli eski futbolcudur.",
+      "char_count": 76,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kulüp kariyeri ===",
+      "heading_path": "=== Kulüp kariyeri ===",
+      "start_char": 92,
+      "end_char": 847,
+      "content": "=== Kulüp kariyeri === Kariyerine ülkesi Fildişi Sahili'nin takımlarından ASEC Mimosas'da başladı. Burada bir yıl oynayan Dindane, hemen gözde genç yeteneklerden biri oldu ve 2000 yılında Pro League takımlarından RSC Anderlecht ile anlaştı. Anderlecht'te tam 5 sezon geçirdi ve bu 5 sezon içinde harikalar yarattı. Bu 5 sezonda toplamda oynadığı 132 maçta rakip filelere 50 gol gönderdi ve Anderlecht tarihininde en golcü yabancı oyuncularından oldu. 2005 yılında Fransız ekip RC Lens'e transfer oldu. Burada 4 sezon geçirmesine karşın istenilen verimi veremedi ve 2009 yılında Portsmouth FC takımına kiralık gitti. Dindane, Premier League'de oynadığı 19 maçta 8 gol attı. 2010 yılında bonservisiyle beraber Katar takımlarından Lekhwiya'ya transfer oldu.",
+      "char_count": 754,
+      "token_estimate": 188
+    },
+    {
+      "id": "c0002",
+      "section": "=== Millî takım kariyeri ===",
+      "heading_path": "=== Millî takım kariyeri ===",
+      "start_char": 847,
+      "end_char": 1236,
+      "content": "=== Millî takım kariyeri === Dindane, Fildişi Sahili forması altındaki ilk maçına 9 Nisan 2000 tarihinde Ruanda karşısında çıktı. Ayrıca 2006 Afrika Uluslar Kupası, 2006 FIFA Dünya Kupası, 2008 Afrika Uluslar Kupası, 2010 Afrika Uluslar Kupası ve 2010 FIFA Dünya Kupası turnuvalarında da Fildişi Sahili adına mücadele etti. Dindane, şu ana kadar millî formayı 67 kez giydi ve 11 gol attı.",
+      "char_count": 388,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0003",
+      "section": "=== Kulüp ===",
+      "heading_path": "=== Kulüp ===",
+      "start_char": 1253,
+      "end_char": 1456,
+      "content": "=== Kulüp === ASEC Mimosas Fildişi Sahili Premier Ligi (1): 2000 Anderlecht Pro League (2): 2000-01 ve 2003-04 Belgische Supercup (2): 2000 ve 2001 Lens UEFA Intertoto Kupası (1): 2007 Ligue 2 (1): 2009",
+      "char_count": 202,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0004",
+      "section": "=== Kişisel ===",
+      "heading_path": "=== Kişisel ===",
+      "start_char": 1456,
+      "end_char": 1604,
+      "content": "=== Kişisel === Fildişi Sahili Premier Kümesi gol krallığı (1): 1999 Belçika Abanoz Ayakkabı Ödülü (1): 2003 Belçika Altın Ayakkabı Ödülü (1): 2003",
+      "char_count": 147,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1619,
+      "end_char": 1765,
+      "content": "== Dış bağlantılar == Transfermarkt'ta Aruna Dindane Soccerbase'te Aruna Dindane Aruna Dindane LFP profili lfp.fr sitesindeki bilgiler (Fransızca)",
+      "char_count": 146,
+      "token_estimate": 36
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dindane, Anderlecht'te oynadığı 5 sezonda toplam kaç gol kaydetti?",
+        "answer": "50 gol",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Aruna Dindane'nin doğum yeri neresidir ve kariyerine Fildişi Sahili'nde hangi takımda başlamıştır?",
+        "answer": "Aruna Dindane, Abidjan'da doğmuş ve kariyerine ülkesi Fildişi Sahili'nin takımlarından ASEC Mimosas'da başlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

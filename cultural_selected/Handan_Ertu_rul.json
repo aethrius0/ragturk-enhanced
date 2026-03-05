@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "handanerturul_238f2c3c",
+    "title": "Handan Ertuğrul",
+    "url": "https://tr.wikipedia.org/wiki/Handan_Ertu%C4%9Frul",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:13.378705",
+    "content": "Handan Ertuğrul tam adıyla Handan Uran Ertuğrul (1927, İstanbul - 1 Nisan 2021, İstanbul), Türk oyuncu ve opera sanatçısı. Sahne yaşamına Ankara'da opera sanatçısı olarak başladı. 1949-1992 yılları arasında hem opera, hem tiyatro sanatçısı olarak birçok eserde rol almıştır. == Yaşamı == 1927 yılında İstanbul'un Fatih semtinde doğdu. Ortaokul yıllarında Ankara Radyosu tiyatro kolunda çalıştı. 1942 yılında Ankara Devlet Konservatuvarı'na girdi ve tiyatro ve opera bölümünden 1948'de mezun oldu. 1949 yılında Devlet Tiyatrolarında stajyer olarak göreve başladı; 1950 yılında sanatçı kadrosuna girdi. İlk sahne deneyimi, Mozart'ın Figaro'nun Düğünü'nde Barbarina rolünde opera sanatçısı olarak sahneye çıkarak yaşadı. 1953 yılında Muhsin Ertuğrul'un yönetimindeki Halıcı Kız filminde rol aldı. Geçirdiği bir rahatsızlık sonrasında operaya ara vererek tiyatro oyuncusu olarak sahne yaşamına devam etti. İlk oyunu Alman oyun yazarı Hebbel'in Maria Magdelana adlı oyunu idi. Bir süre hem operalarda, hem tiyatro oyunlarında rol aldı. Goethe, Henrik Ibsen, Montherland, Thornton Wilder gibi yazarların yapıtlarında çeşitli roller canlandırdı. Ayrıca birçok müzikalde de rol aldı. 1960'lı yıllarda Muhsin Ertuğrul ile evlendi. 1974 yılında bu kurumdaki görevinden emekli oldu ve İstanbul'da yaşamaya başladı Eşinin ölümünden sonra İstanbul'da bir meslek okulu yaptırmak için çalıştı, 1989'da İstanbul'da \"Muhsin Ertuğrul Çıraklık Okulu adıyla açılan okulun yapımına emek verdi. 1986'da yeniden İstanbul Devlet Tiyatrosu sanatçısı olarak tiyatro oyunculuğuna başladı. 1992 yılında bu kurumdaki görevinden emekli oldu. 1 Nisan 2021'de İstanbul'da 94 yaşında öldü. 2 Nisan 2021'de Muhsin Ertuğrul Sahnesi'nde düzenlenen anma etkinliğinin ardından Zincirlikuyu Mezarlığı'na defnedildi. == Tiyatro oyunları == 1946 - Faust 1948 - Kadınlar Arasında, Paydos, Figaro'nun Düğünü; 1949 - Paydos, Bir Komiser Geldi; 1950 - Yarasa 1951 - Miras, Eski Şarkı, Pembe Evin Kaderi, Öteye Doğru 1952 - Alın Yazısı, Elektra, Köşe Başı, Gölgeler 1953 - Bir Piyes Yazalım, Çığ, Fatih, Derin Mavi Deniz, Güzel Helena, Ramak Kaldı, Ölü Kraliçe, Batak, Cosi Fan Cutte 1954 - Avanak, Tarıdağ ziyafeti 1955 - Şatoya Davet, Tilki 1956 - Bu Gece Başka Gece, Genç Osman, Korku, Nora 1957 - Üçüncü Selim, Kıraliçe Ve Asiler, Aşk Acısı 1958 - İki Efendi'nin Uşağı, Rehin Sandığı, Oturma Odası 1959 - Ekmek Parası 1960 - Caligula, Ayrı Masalar 1962 - Foto-Finiş, Cengizhan'ın Bisikleti 1963 - Rose Bend 1964 - Hizmetçiler 1965 - Kördüğüm == Ödülleri == 1970 - Sanat Sevenler Derneği - Övgüye Değer Görülenler, \"Damdaki Kemancı\"daki başarısıyla == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 375,
+      "char_count": 2620,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.868341",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 275,
+      "content": "Handan Ertuğrul tam adıyla Handan Uran Ertuğrul (1927, İstanbul - 1 Nisan 2021, İstanbul), Türk oyuncu ve opera sanatçısı. Sahne yaşamına Ankara'da opera sanatçısı olarak başladı. 1949-1992 yılları arasında hem opera, hem tiyatro sanatçısı olarak birçok eserde rol almıştır.",
+      "char_count": 274,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 275,
+      "end_char": 1275,
+      "content": "== Yaşamı == 1927 yılında İstanbul'un Fatih semtinde doğdu. Ortaokul yıllarında Ankara Radyosu tiyatro kolunda çalıştı. 1942 yılında Ankara Devlet Konservatuvarı'na girdi ve tiyatro ve opera bölümünden 1948'de mezun oldu. 1949 yılında Devlet Tiyatrolarında stajyer olarak göreve başladı; 1950 yılında sanatçı kadrosuna girdi. İlk sahne deneyimi, Mozart'ın Figaro'nun Düğünü'nde Barbarina rolünde opera sanatçısı olarak sahneye çıkarak yaşadı. 1953 yılında Muhsin Ertuğrul'un yönetimindeki Halıcı Kız filminde rol aldı. Geçirdiği bir rahatsızlık sonrasında operaya ara vererek tiyatro oyuncusu olarak sahne yaşamına devam etti. İlk oyunu Alman oyun yazarı Hebbel'in Maria Magdelana adlı oyunu idi. Bir süre hem operalarda, hem tiyatro oyunlarında rol aldı. Goethe, Henrik Ibsen, Montherland, Thornton Wilder gibi yazarların yapıtlarında çeşitli roller canlandırdı. Ayrıca birçok müzikalde de rol aldı. 1960'lı yıllarda Muhsin Ertuğrul ile evlendi. 1974 yılında bu kurumdaki görevinden emekli oldu ve İ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1075,
+      "end_char": 1776,
+      "content": "Wilder gibi yazarların yapıtlarında çeşitli roller canlandırdı. Ayrıca birçok müzikalde de rol aldı. 1960'lı yıllarda Muhsin Ertuğrul ile evlendi. 1974 yılında bu kurumdaki görevinden emekli oldu ve İstanbul'da yaşamaya başladı Eşinin ölümünden sonra İstanbul'da bir meslek okulu yaptırmak için çalıştı, 1989'da İstanbul'da \"Muhsin Ertuğrul Çıraklık Okulu adıyla açılan okulun yapımına emek verdi. 1986'da yeniden İstanbul Devlet Tiyatrosu sanatçısı olarak tiyatro oyunculuğuna başladı. 1992 yılında bu kurumdaki görevinden emekli oldu. 1 Nisan 2021'de İstanbul'da 94 yaşında öldü. 2 Nisan 2021'de Muhsin Ertuğrul Sahnesi'nde düzenlenen anma etkinliğinin ardından Zincirlikuyu Mezarlığı'na defnedildi.",
+      "char_count": 701,
+      "token_estimate": 175
+    },
+    {
+      "id": "c0003",
+      "section": "== Tiyatro oyunları ==",
+      "heading_path": "== Tiyatro oyunları ==",
+      "start_char": 1777,
+      "end_char": 2500,
+      "content": "== Tiyatro oyunları == 1946 - Faust 1948 - Kadınlar Arasında, Paydos, Figaro'nun Düğünü; 1949 - Paydos, Bir Komiser Geldi; 1950 - Yarasa 1951 - Miras, Eski Şarkı, Pembe Evin Kaderi, Öteye Doğru 1952 - Alın Yazısı, Elektra, Köşe Başı, Gölgeler 1953 - Bir Piyes Yazalım, Çığ, Fatih, Derin Mavi Deniz, Güzel Helena, Ramak Kaldı, Ölü Kraliçe, Batak, Cosi Fan Cutte 1954 - Avanak, Tarıdağ ziyafeti 1955 - Şatoya Davet, Tilki 1956 - Bu Gece Başka Gece, Genç Osman, Korku, Nora 1957 - Üçüncü Selim, Kıraliçe Ve Asiler, Aşk Acısı 1958 - İki Efendi'nin Uşağı, Rehin Sandığı, Oturma Odası 1959 - Ekmek Parası 1960 - Caligula, Ayrı Masalar 1962 - Foto-Finiş, Cengizhan'ın Bisikleti 1963 - Rose Bend 1964 - Hizmetçiler 1965 - Kördüğüm",
+      "char_count": 722,
+      "token_estimate": 180
+    },
+    {
+      "id": "c0004",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 2500,
+      "end_char": 2606,
+      "content": "== Ödülleri == 1970 - Sanat Sevenler Derneği - Övgüye Değer Görülenler, \"Damdaki Kemancı\"daki başarısıyla",
+      "char_count": 105,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ankara Devlet Konservatuvarı'ndan hangi yıl mezun oldu?",
+        "answer": "1948 yılında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Handan Ertuğrul'un Ankara'da opera sanatçısı olarak başlayan sahne yaşamından son emekliliğine kadar olan kariyerindeki temel aşamalar ve Muhsin Ertuğrul ile olan bağlantıları nelerdi?",
+        "answer": "Handan Ertuğrul, sahne yaşamına Ankara'da opera sanatçısı olarak başladı ve 1948'de Ankara Devlet Konservatuvarı'ndan mezun oldu. 1949'da Devlet Tiyatroları'nda göreve başladıktan sonra bir rahatsızlık nedeniyle operaya ara vererek tiyatro oyunculuğuna yöneldi. 1953'te Muhsin Ertuğrul'un yönettiği Halıcı Kız filminde rol aldı ve 1960'lı yıllarda Muhsin Ertuğrul ile evlendi. Kurumdan ilk emekliliğini 1974'te yaşadı, ancak eşinin vefatından sonra bir meslek okulunun yapımında görev aldı. 1986'da İstanbul Devlet Tiyatrosu'na geri dönerek tekrar sahneye çıktı ve son olarak 1992 yılında emekli oldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

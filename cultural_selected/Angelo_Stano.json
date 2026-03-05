@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "angelostano_b92534d2",
+    "title": "Angelo Stano",
+    "url": "https://tr.wikipedia.org/wiki/Angelo_Stano",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:22.670339",
+    "content": "Angelo Stano (6 Ocak 1953, Santeramo in Colle), İtalyan çizgi romancı ve illüstratör. En çok Dylan Dog dergisinde (1990-2016 yılları arasında) çizer ve kapak sanatçısı olarak yaptığı çalışmalarla tanınmaktadır. == Hayatı == 1971'de liseyi bitirdikten sonra sonra Milano'ya taşındı. 1973 yılında Roberto Catalano'nun senaryosunu yazdığı ve Editrice Sole tarafından bir cep kitapta yayınlanan Jules Verne'in Dalla Terra alla Luna (Ay'a Seyahat) adlı eserinin bir indirgemesini çizerek çizgi romanda ilk çıkışını yaptı. 1975'te Arnoldo Mondadori Editore için Nino Cannata'nın editörlüğünü yaptığı haftalık Audax dergisine bazı kısa öyküleri ve Editoriale Dardo için kısa savaş maceraları çizdi. Sonraki yıllarda Ediperiodici, Edifumetto, Staff of If, Corrier Boy, Universo gibi sektördeki diğer yayınevi ve dergilerle işbirliği yaptı. 1981'den 1999'a kadar Milano'daki Scuola del Fumetto'da ders verdi. 1985 yılında Sergio Bonelli Editore için korku türünde yeni bir çizgi roman serisinin yaratılması üzerinde çalışan yazar ekibine katıldı. Söz konusu serinin kahramanı Dylan Dog, Tiziano Sclavi tarafından yaratılan bir karakterdi. Karakter grafik olarak kapak sanatçısı Claudio Villa tarafından yaratılmış olsa da, serinin ilk albümü olan ve ressam Egon Schiele'den esinlenen bir tarzın kullanıldığı L'Alba dei Morti Viventi (Yaşayan Ölülerin Şafağı) macerasını çizen, Stano oldu. Albüm, Ekim 1986'da gazete bayilerinde yerini aldı. Sonraki yıllarda hem normal seri hem de diğer yayınlar için başka Dylan Dog hikâyeleri çizdi. 1990 yılında, serinin 42. sayısından itibaren Claudio Villa'nın yerine Dylan Dog albümlerinin kapaklarının çizeri oldu. Sonraki yıllarda Tiziano Sclavi ile hem Dylan Dog ile ilgili projelerde hem de harici projelerde çalışmaya devam etti. Aralık 2012'de Dylan Dog'un 315. sayısı La Legione degli Scheletri yayınlandı. Stano, bu albüm ile sadece iç sayfaların ve kapağın çizimi değil, aynı zamanda konu ve senaryoya da imza attı. == Ödülleri == 1992: Premio Bonaventura, Treviso Comix 1993: Premio ANAFI, Jüri Özel Ödülü 2003: Premio U Giancu 2020: Premio Coco 2021: Grouchino d'Oro == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 298,
+      "char_count": 2122,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.679803",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 211,
+      "content": "Angelo Stano (6 Ocak 1953, Santeramo in Colle), İtalyan çizgi romancı ve illüstratör. En çok Dylan Dog dergisinde (1990-2016 yılları arasında) çizer ve kapak sanatçısı olarak yaptığı çalışmalarla tanınmaktadır.",
+      "char_count": 210,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 211,
+      "end_char": 1211,
+      "content": "== Hayatı == 1971'de liseyi bitirdikten sonra sonra Milano'ya taşındı. 1973 yılında Roberto Catalano'nun senaryosunu yazdığı ve Editrice Sole tarafından bir cep kitapta yayınlanan Jules Verne'in Dalla Terra alla Luna (Ay'a Seyahat) adlı eserinin bir indirgemesini çizerek çizgi romanda ilk çıkışını yaptı. 1975'te Arnoldo Mondadori Editore için Nino Cannata'nın editörlüğünü yaptığı haftalık Audax dergisine bazı kısa öyküleri ve Editoriale Dardo için kısa savaş maceraları çizdi. Sonraki yıllarda Ediperiodici, Edifumetto, Staff of If, Corrier Boy, Universo gibi sektördeki diğer yayınevi ve dergilerle işbirliği yaptı. 1981'den 1999'a kadar Milano'daki Scuola del Fumetto'da ders verdi. 1985 yılında Sergio Bonelli Editore için korku türünde yeni bir çizgi roman serisinin yaratılması üzerinde çalışan yazar ekibine katıldı. Söz konusu serinin kahramanı Dylan Dog, Tiziano Sclavi tarafından yaratılan bir karakterdi. Karakter grafik olarak kapak sanatçısı Claudio Villa tarafından yaratılmış olsa d",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1011,
+      "end_char": 1954,
+      "content": "şan yazar ekibine katıldı. Söz konusu serinin kahramanı Dylan Dog, Tiziano Sclavi tarafından yaratılan bir karakterdi. Karakter grafik olarak kapak sanatçısı Claudio Villa tarafından yaratılmış olsa da, serinin ilk albümü olan ve ressam Egon Schiele'den esinlenen bir tarzın kullanıldığı L'Alba dei Morti Viventi (Yaşayan Ölülerin Şafağı) macerasını çizen, Stano oldu. Albüm, Ekim 1986'da gazete bayilerinde yerini aldı. Sonraki yıllarda hem normal seri hem de diğer yayınlar için başka Dylan Dog hikâyeleri çizdi. 1990 yılında, serinin 42. sayısından itibaren Claudio Villa'nın yerine Dylan Dog albümlerinin kapaklarının çizeri oldu. Sonraki yıllarda Tiziano Sclavi ile hem Dylan Dog ile ilgili projelerde hem de harici projelerde çalışmaya devam etti. Aralık 2012'de Dylan Dog'un 315. sayısı La Legione degli Scheletri yayınlandı. Stano, bu albüm ile sadece iç sayfaların ve kapağın çizimi değil, aynı zamanda konu ve senaryoya da imza attı.",
+      "char_count": 943,
+      "token_estimate": 235
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1955,
+      "end_char": 2108,
+      "content": "== Ödülleri == 1992: Premio Bonaventura, Treviso Comix 1993: Premio ANAFI, Jüri Özel Ödülü 2003: Premio U Giancu 2020: Premio Coco 2021: Grouchino d'Oro",
+      "char_count": 152,
+      "token_estimate": 38
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Metinde bahsedilen kişi, Jules Verne'in Dalla Terra alla Luna adlı eserinin bir indirgemesini çizerek çizgi romanda ilk çıkışını ne zaman yaptı?",
+        "answer": "1973 yılında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Angelo Stano'nun Dylan Dog çizgi romanlarının yaratılışındaki ve üretimindeki rolü zaman içinde nasıl gelişti?",
+        "answer": "Angelo Stano, 1985 yılında Dylan Dog serisinin yaratıcı ekibine katıldı ve Ekim 1986'da yayınlanan ilk albümü L'Alba dei Morti Viventi'yi çizdi. 1990'dan itibaren, 42. sayıdan başlayarak, Dylan Dog albümlerinin kapak çizeri oldu. Aralık 2012'de ise 315. sayı olan La Legione degli Scheletri'de sadece iç sayfalar ve kapağın çizimini değil, aynı zamanda konu ve senaryoyu da üstlenerek rolünü daha da genişletti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

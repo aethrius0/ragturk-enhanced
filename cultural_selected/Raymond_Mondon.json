@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "raymondmondon_7fdbd925",
+    "title": "Raymond Mondon",
+    "url": "https://tr.wikipedia.org/wiki/Raymond_Mondon",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:38.789434",
+    "content": "Raymond Mondon (d. 8 Mart 1914, Ancy-sur-Moselle (Moselle) - ö. 31 Aralık 1970, Metz) Fransız siyasetçi. Nancy Hukuk Fakültesi'nde eğitim görmüştür. İkinci Dünya Savaşı sırasında direnişte yer almış, 1940'ta ağır yaralanmış, daha sonra hapse atılmış, aynı yıl serbest bırakılmıştır. Daha sonra sorgu hakimi olmuş, gestapodan kaçmayı başarmış ancak daha sonra tutuklanmış ve işkence edilmiştir. 1946-1969 yıllarında Moselle milletvekili, 1947'den ölünceye dek Metz belediye başkanı, 1955'te İçişleri Devlet Sekreteri, 1969'dan ölünceye dek ise Ulaştırma Bakanı olarak görev yapmıştır. Valéry Giscard d'Estaing ile beraber Bağımsız Cumhuriyetçiler meclis grubunu kurmuş ve bu grubun başkanlığını 1969'a dek sürdürmüştür. 1976'da Metz'e yaptığı ziyarette Giscard, Mondon'dan bahsederken, \"Fransız siyasi yaşamındaki en yakın arkadaşı\" olduğunu dile getirmiştir. 1969 Fransa cumhurbaşkanlığı seçiminde Georges Pompidou'yu desteklemiş ve Jacques Chaban-Delmas Hükûmeti'nde yer almış, Chaban'ın Yeni toplum projesini benimseyerek Paris-Strazburg hızlı demiryolu çalışmalarını başlatmış, daha sonra A4 otoyolu olacak yol çalışmalarının altyapısını başlatarak kendi seçim çevresi de olan Metz'den de bu yolun geçirilmesini sağlamıştır. Kanser sebebiyle 31 Aralık 1970 tarihinde ölmüştür. == Görevleri == Yerel Yönetimler Ekim 1947 - 31 Aralık 1970 : Metz belediye başkanı Mart 1949 - 31 Aralık 1970 : Moselle genel konseyi üyesi Meclis 28 Kasım 1946 - 8 Aralık 1958 : Moselle milletvekili 9 Aralık 1958 - 22 Temmuz 1969 : Moselle 1. seçim çevresi milletvekili Aralık 1962 - Haziran 1969 : Bağımsız Cumhuriyetçiler grup başkanı Hükûmet 20 Ocak 1955 - 23 Şubat 1955 : İçişlerinden sorumlu Devlet Sekreteri 22 Haziran 1969 - 31 Aralık 1970 : Ulaştırma Bakanı == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 246,
+      "char_count": 1762,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.238065",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Raymond Mondon (d. 8 Mart 1914, Ancy-sur-Moselle (Moselle) - ö. 31 Aralık 1970, Metz) Fransız siyasetçi. Nancy Hukuk Fakültesi'nde eğitim görmüştür. İkinci Dünya Savaşı sırasında direnişte yer almış, 1940'ta ağır yaralanmış, daha sonra hapse atılmış, aynı yıl serbest bırakılmıştır. Daha sonra sorgu hakimi olmuş, gestapodan kaçmayı başarmış ancak daha sonra tutuklanmış ve işkence edilmiştir. 1946-1969 yıllarında Moselle milletvekili, 1947'den ölünceye dek Metz belediye başkanı, 1955'te İçişleri Devlet Sekreteri, 1969'dan ölünceye dek ise Ulaştırma Bakanı olarak görev yapmıştır. Valéry Giscard d'Estaing ile beraber Bağımsız Cumhuriyetçiler meclis grubunu kurmuş ve bu grubun başkanlığını 1969'a dek sürdürmüştür. 1976'da Metz'e yaptığı ziyarette Giscard, Mondon'dan bahsederken, \"Fransız siyasi yaşamındaki en yakın arkadaşı\" olduğunu dile getirmiştir. 1969 Fransa cumhurbaşkanlığı seçiminde Georges Pompidou'yu desteklemiş ve Jacques Chaban-Delmas Hükûmeti'nde yer almış, Chaban'ın Yeni toplum",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1279,
+      "content": " yaşamındaki en yakın arkadaşı\" olduğunu dile getirmiştir. 1969 Fransa cumhurbaşkanlığı seçiminde Georges Pompidou'yu desteklemiş ve Jacques Chaban-Delmas Hükûmeti'nde yer almış, Chaban'ın Yeni toplum projesini benimseyerek Paris-Strazburg hızlı demiryolu çalışmalarını başlatmış, daha sonra A4 otoyolu olacak yol çalışmalarının altyapısını başlatarak kendi seçim çevresi de olan Metz'den de bu yolun geçirilmesini sağlamıştır. Kanser sebebiyle 31 Aralık 1970 tarihinde ölmüştür.",
+      "char_count": 479,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0002",
+      "section": "== Görevleri ==",
+      "heading_path": "== Görevleri ==",
+      "start_char": 1280,
+      "end_char": 1748,
+      "content": "== Görevleri == Yerel Yönetimler Ekim 1947 - 31 Aralık 1970 : Metz belediye başkanı Mart 1949 - 31 Aralık 1970 : Moselle genel konseyi üyesi Meclis 28 Kasım 1946 - 8 Aralık 1958 : Moselle milletvekili 9 Aralık 1958 - 22 Temmuz 1969 : Moselle 1. seçim çevresi milletvekili Aralık 1962 - Haziran 1969 : Bağımsız Cumhuriyetçiler grup başkanı Hükûmet 20 Ocak 1955 - 23 Şubat 1955 : İçişlerinden sorumlu Devlet Sekreteri 22 Haziran 1969 - 31 Aralık 1970 : Ulaştırma Bakanı",
+      "char_count": 467,
+      "token_estimate": 116
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Raymond Mondon hangi yıllar arasında Moselle milletvekili olarak görev yapmıştır?",
+        "answer": "1946-1969",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Raymond Mondon, Jacques Chaban-Delmas Hükûmeti'nde Ulaştırma Bakanı olarak görev yaptığı dönemde, kendi seçim çevresiyle ilişkili hangi önemli altyapı projelerini başlatmış ve bu projeler hangi genel siyasi projenin benimsenmesiyle bağlantılıdır?",
+        "answer": "Raymond Mondon, Jacques Chaban-Delmas Hükûmeti'nde Ulaştırma Bakanı olarak Chaban'ın \"Yeni toplum\" projesini benimseyerek Paris-Strazburg hızlı demiryolu çalışmalarını başlatmış ve kendi seçim çevresi de olan Metz'den geçirilmesini sağlayarak A4 otoyolu çalışmalarının altyapısını kurmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

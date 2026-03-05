@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "alaaddindizi1994_13276e5f",
+    "title": "Alaaddin (dizi, 1994)",
+    "url": "https://tr.wikipedia.org/wiki/Alaaddin_%28dizi%2C_1994%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:14.182430",
+    "content": "Alaaddin, ilk gösterimini 5 Şubat 1994'te Disney Channel'de yapmış, 1994-1995 yılları arasında gösterimde kalmıştır. Alaaddin'in Prenses Jasmine, Genie, İago, Abu, sihirli halı ile Agrabah şehrinde olan maceralarını konu alır. Kötülerin saflarında ise Abis Mal, Haroud Hazi Bin gibi kötüler bulunur. Disney'in sinema filmi Alaaddin'in devamı olarak çekilmiştir. 1994'te ilk olarak Alaaddin Cafer'in Dönüşü adlı televizyon filmiyle başlamış,1996'da yine uzun televizyon filmi olan Alaaddin ve Hırsızlar Kralı'yla sona ermiştir. == Karakterler == Alaaddin : En iyi arkadaşları Genie, Lago, Abu, Sihirli Halı'dır. Prenses Jasmine'e aşıktır.Tabii o da Alaaddin'e aşıktır. Alaaddin, Agrabah sokaklarında büyümüştür.16 yaşında Abu'yu bulmuş ve Abu ile birçok hırsızlık yapmışlardır. Ancak artık hırsızlığı bırakmışlardır. Prenses Jasmine (Yasemin) : Agrabah Sultan'ının kızıdır. Alaaddin'e aşıktır. Genie (Cin) : Çok eğlenceli kişilikli bir cin'dir.Herkes ona adı yerine Cin der. Biraz beceriksizdir. Yaptığı büyüleri pek beceremez. İago : Korkak ancak akıllı bir papağandır. Keyfine çok düşkündür. Abu : Alaaddin'in 16 yaşındayken sirkte bulduğu maymundur. Çok zekidir. Esnek ve yeteneklidir. Sihirli Halı : Uçabilen sihirli bir halıdır. Adı da buradan gelmektedir. Alaaddin onu Harikalar Mağarasında bulmuştur. Konuşamaz, sadece hareketlerle kendini ifade eder. == Sezon listesi == == Kaynakça == == Kullanılan kaynaklar == Nussbaum, Emily (2019). I like to watch: arguing my way through the TV revolution (1 bas.). New York. ISBN 978-0525508960. == Dış Bağlantılar == IMDb'de Aladdin",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 215,
+      "char_count": 1580,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.066452",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 527,
+      "content": "Alaaddin, ilk gösterimini 5 Şubat 1994'te Disney Channel'de yapmış, 1994-1995 yılları arasında gösterimde kalmıştır. Alaaddin'in Prenses Jasmine, Genie, İago, Abu, sihirli halı ile Agrabah şehrinde olan maceralarını konu alır. Kötülerin saflarında ise Abis Mal, Haroud Hazi Bin gibi kötüler bulunur. Disney'in sinema filmi Alaaddin'in devamı olarak çekilmiştir. 1994'te ilk olarak Alaaddin Cafer'in Dönüşü adlı televizyon filmiyle başlamış,1996'da yine uzun televizyon filmi olan Alaaddin ve Hırsızlar Kralı'yla sona ermiştir.",
+      "char_count": 526,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0001",
+      "section": "== Karakterler ==",
+      "heading_path": "== Karakterler ==",
+      "start_char": 527,
+      "end_char": 1358,
+      "content": "== Karakterler == Alaaddin : En iyi arkadaşları Genie, Lago, Abu, Sihirli Halı'dır. Prenses Jasmine'e aşıktır.Tabii o da Alaaddin'e aşıktır. Alaaddin, Agrabah sokaklarında büyümüştür.16 yaşında Abu'yu bulmuş ve Abu ile birçok hırsızlık yapmışlardır. Ancak artık hırsızlığı bırakmışlardır. Prenses Jasmine (Yasemin) : Agrabah Sultan'ının kızıdır. Alaaddin'e aşıktır. Genie (Cin) : Çok eğlenceli kişilikli bir cin'dir.Herkes ona adı yerine Cin der. Biraz beceriksizdir. Yaptığı büyüleri pek beceremez. İago : Korkak ancak akıllı bir papağandır. Keyfine çok düşkündür. Abu : Alaaddin'in 16 yaşındayken sirkte bulduğu maymundur. Çok zekidir. Esnek ve yeteneklidir. Sihirli Halı : Uçabilen sihirli bir halıdır. Adı da buradan gelmektedir. Alaaddin onu Harikalar Mağarasında bulmuştur. Konuşamaz, sadece hareketlerle kendini ifade eder.",
+      "char_count": 830,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0002",
+      "section": "== Kullanılan kaynaklar ==",
+      "heading_path": "== Kullanılan kaynaklar ==",
+      "start_char": 1393,
+      "end_char": 1543,
+      "content": "== Kullanılan kaynaklar == Nussbaum, Emily (2019). I like to watch: arguing my way through the TV revolution (1 bas.). New York. ISBN 978-0525508960.",
+      "char_count": 149,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış Bağlantılar ==",
+      "heading_path": "== Dış Bağlantılar ==",
+      "start_char": 1543,
+      "end_char": 1580,
+      "content": "== Dış Bağlantılar == IMDb'de Aladdin",
+      "char_count": 37,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Alaaddin, Abu'yu kaç yaşındayken bulmuştur?",
+        "answer": "16 yaşındayken",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Alaaddin TV dizisinde ana karakterler arasında bahsedilen Alaaddin'in kişisel geçmişi ve yakın çevresiyle olan ilişkileri hakkında hangi önemli bilgiler sunulmaktadır?",
+        "answer": "Alaaddin TV dizisinde, Alaaddin'in Prenses Jasmine, Genie, İago, Abu ve sihirli halı ile Agrabah şehrinde maceraları olduğu belirtilmiştir. Alaaddin'in kişisel geçmişine dair ise Agrabah sokaklarında büyüdüğü, 16 yaşındayken sirkte bulduğu Abu ile hırsızlık yaptığı ancak sonradan bu eylemi bıraktığı bilgisi verilmektedir. Yakın çevresiyle olan ilişkilerinde, Prenses Jasmine'e aşık olduğu ve en iyi arkadaşlarının Genie, İago, Abu ve Sihirli Halı olduğu açıklanmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

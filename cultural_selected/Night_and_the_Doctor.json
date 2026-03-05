@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "nightandthedoctor_14f3907c",
+    "title": "Night and the Doctor",
+    "url": "https://tr.wikipedia.org/wiki/Night_and_the_Doctor",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:18.349416",
+    "content": "Night and the Doctor, Büyük Britanya bilimkurgu dizisi Doctor Who'nun altıncı sezonunun mini bölümüdür. Beş bölüm şeklinde yayınlanmıştır. İlk dört bölümü Steven Moffat, son bölümü ise Tom MacRae tarafından yazılmıştır. Bölümler \"Yol arkadaşları uyurken Doktor ne yapar?\" sorusuna cevap niteliği taşımaktadır. == Bölümler == === \"Bad Night\" === Doktor, gece bir partiye gitmiştir. TARDIS'in içerisinde telefon çalar ve Amy cevap verir. Telefonda bir imparatorluktan birisiyle konuşurken elindeki gazeteyle bir sineği öldürür. O sırada Doktor içeri girer ve telefonu eline alır, yanında da bir balık getirmiştir. Balık, bir balık imparatorluğuna; ölen sinek de bir sinek imparatorluğuna aittir. Amy, Doktor'un River ile bir partiden gelmiş olduğunu tahmin eder. Doktor da Amy ile konuşması için Rory'i çağırır, çünkü Amy ile bu tip zamanlarda konuşmanın hep zor olduğunu düşünmüştür. === \"Good Night\" === Doktor, River ile yine bir gece geçirmiştir ve TARDIS'e geri döner. İçeri girdiğinde Amy'nin ayakta olduğunu fark eder. Sonra onunla Doktor'un geceleri neler yaptığı hakkında bir sohbete başlarlar. Bu sohbet onları Amy'nin bir küçüklük anısına götürür. Amy, kendisine küçükken dondurma veren kızıl bir kadını hatırlar ve aynı zamanda o kadının kendisi olacağına da çok şaşırır; çünkü dakikalar sonra bunu yapmak zorunda kalacağını hisseder. Zamanın her zamanki dengesini yerine getirir. === \"First Night\" === River, hapishanesinde günlüğünü okumaktadır. Doktor da o sırada TARDIS ile birlikte çıkagelir. River içeri girer ve Doktor ona bir elbise gösterir, dışarı çıkacaklarını söyler. River, Doktor'un söylediği cümlelerin çok etkileyeciği olduğunu düşünerek ona gülümser ve giyinmek için dışarı çıkar. Fakat o esnada dışarıdan silah sesleri gelir. Doktor koşarak kapıyı açar ve River kucağına atlar. Bir anda baygın bir biçimde karşısında görünce Doktor panikler. === \"Last Night\" === \"First Night\" bölümünde River'ın kucağına düşmesiyle şaşıran Doktor, sonunda River'ı iyi bir halde karşısında görür. Ama o River biraz önce konuştuğu River değildir. Başka bir zaman dilimindeki River'dır. Bu River içerideki elbiseyi görünce de Doktor'un başka bir kadını TARDIS'e aldığını düşünüp içeriyi dolaşmaya başlar. O sırada içeriye başka bir River girer. (elbiseyi giyinmiş bir River) Bu defa Doktor iyice ne yapacağını şaşırmıştır. İki farklı River ile nasıl baş edeceğini düşünen Doktor, bir süre sonra bir tane daha Doktor ve üçüncü bir River ile karşılaşır. === \"Up All Night\" === Doktor'un eski bir dostu olan Craig, çocuğuna bütün bir haftasonu bakmak zorunda kaldığını öğrenir. Karısı evde olamayacaktır ve bütün sorumluluğu kendisi üstlenecektir. Onlar konuşurlarken evin ışıkları yanıp sönmeye başlar ve sonunda Craig çocuğunu kucağına alır. İkisi de mutfaktan ayrılırlar ve ışıklar tamamen söner. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 404,
+      "char_count": 2820,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.658918",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 310,
+      "content": "Night and the Doctor, Büyük Britanya bilimkurgu dizisi Doctor Who'nun altıncı sezonunun mini bölümüdür. Beş bölüm şeklinde yayınlanmıştır. İlk dört bölümü Steven Moffat, son bölümü ise Tom MacRae tarafından yazılmıştır. Bölümler \"Yol arkadaşları uyurken Doktor ne yapar?\" sorusuna cevap niteliği taşımaktadır.",
+      "char_count": 309,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0001",
+      "section": "=== \"Bad Night\" ===",
+      "heading_path": "=== \"Bad Night\" ===",
+      "start_char": 325,
+      "end_char": 883,
+      "content": "=== \"Bad Night\" === Doktor, gece bir partiye gitmiştir. TARDIS'in içerisinde telefon çalar ve Amy cevap verir. Telefonda bir imparatorluktan birisiyle konuşurken elindeki gazeteyle bir sineği öldürür. O sırada Doktor içeri girer ve telefonu eline alır, yanında da bir balık getirmiştir. Balık, bir balık imparatorluğuna; ölen sinek de bir sinek imparatorluğuna aittir. Amy, Doktor'un River ile bir partiden gelmiş olduğunu tahmin eder. Doktor da Amy ile konuşması için Rory'i çağırır, çünkü Amy ile bu tip zamanlarda konuşmanın hep zor olduğunu düşünmüştür.",
+      "char_count": 557,
+      "token_estimate": 139
+    },
+    {
+      "id": "c0002",
+      "section": "=== \"Good Night\" ===",
+      "heading_path": "=== \"Good Night\" ===",
+      "start_char": 883,
+      "end_char": 1391,
+      "content": "=== \"Good Night\" === Doktor, River ile yine bir gece geçirmiştir ve TARDIS'e geri döner. İçeri girdiğinde Amy'nin ayakta olduğunu fark eder. Sonra onunla Doktor'un geceleri neler yaptığı hakkında bir sohbete başlarlar. Bu sohbet onları Amy'nin bir küçüklük anısına götürür. Amy, kendisine küçükken dondurma veren kızıl bir kadını hatırlar ve aynı zamanda o kadının kendisi olacağına da çok şaşırır; çünkü dakikalar sonra bunu yapmak zorunda kalacağını hisseder. Zamanın her zamanki dengesini yerine getirir.",
+      "char_count": 507,
+      "token_estimate": 126
+    },
+    {
+      "id": "c0003",
+      "section": "=== \"First Night\" ===",
+      "heading_path": "=== \"First Night\" ===",
+      "start_char": 1391,
+      "end_char": 1870,
+      "content": "=== \"First Night\" === River, hapishanesinde günlüğünü okumaktadır. Doktor da o sırada TARDIS ile birlikte çıkagelir. River içeri girer ve Doktor ona bir elbise gösterir, dışarı çıkacaklarını söyler. River, Doktor'un söylediği cümlelerin çok etkileyeciği olduğunu düşünerek ona gülümser ve giyinmek için dışarı çıkar. Fakat o esnada dışarıdan silah sesleri gelir. Doktor koşarak kapıyı açar ve River kucağına atlar. Bir anda baygın bir biçimde karşısında görünce Doktor panikler.",
+      "char_count": 478,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0004",
+      "section": "=== \"Last Night\" ===",
+      "heading_path": "=== \"Last Night\" ===",
+      "start_char": 1870,
+      "end_char": 2461,
+      "content": "=== \"Last Night\" === \"First Night\" bölümünde River'ın kucağına düşmesiyle şaşıran Doktor, sonunda River'ı iyi bir halde karşısında görür. Ama o River biraz önce konuştuğu River değildir. Başka bir zaman dilimindeki River'dır. Bu River içerideki elbiseyi görünce de Doktor'un başka bir kadını TARDIS'e aldığını düşünüp içeriyi dolaşmaya başlar. O sırada içeriye başka bir River girer. (elbiseyi giyinmiş bir River) Bu defa Doktor iyice ne yapacağını şaşırmıştır. İki farklı River ile nasıl baş edeceğini düşünen Doktor, bir süre sonra bir tane daha Doktor ve üçüncü bir River ile karşılaşır.",
+      "char_count": 590,
+      "token_estimate": 147
+    },
+    {
+      "id": "c0005",
+      "section": "=== \"Up All Night\" ===",
+      "heading_path": "=== \"Up All Night\" ===",
+      "start_char": 2461,
+      "end_char": 2806,
+      "content": "=== \"Up All Night\" === Doktor'un eski bir dostu olan Craig, çocuğuna bütün bir haftasonu bakmak zorunda kaldığını öğrenir. Karısı evde olamayacaktır ve bütün sorumluluğu kendisi üstlenecektir. Onlar konuşurlarken evin ışıkları yanıp sönmeye başlar ve sonunda Craig çocuğunu kucağına alır. İkisi de mutfaktan ayrılırlar ve ışıklar tamamen söner.",
+      "char_count": 344,
+      "token_estimate": 86
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Doktor, TARDIS'te ne kadar süre sonra üçüncü bir River ile karşılaşır?",
+        "answer": "İki farklı River ile karşılaştıktan bir süre sonra üçüncü bir River ile karşılaşır.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Night and the Doctor mini dizisinin temel amacı göz önüne alındığında, \"Good Night\" ve \"Bad Night\" bölümleri Doktor'un yol arkadaşları uyurken yaptığı faaliyetler ve Amy ile olan etkileşimleri hakkında ne gibi örnekler sunmaktadır?",
+        "answer": "Night and the Doctor mini dizisi, Doktor'un yol arkadaşları uyurken neler yaptığını anlatmayı amaçlar. \"Bad Night\" bölümü, Doktor'un River ile bir partiden geldiğini, bir sinek ve balık imparatorluğu arasındaki diplomatik bir olayı ele aldığını ve Amy ile zor konuşmalardan kaçındığını gösterir. \"Good Night\" bölümü ise yine River ile bir gece geçirdikten sonra döndüğünü ve Amy ile yaptığı bir sohbetin, Amy'nin küçüklüğünden kızıl saçlı bir kadınla ilgili bir anıyı hatırlamasına ve gelecekte zamanın dengesini sağlaması gerektiği hissine kapılmasına yol açtığını gösterir. Bu bölümler, Doktor'un gecelerini gizemli aktivitelerle, River ile geçirdiği zamanlarla ve yol arkadaşlarıyla beklenmedik, bazen zor, bazen de aydınlatıcı etkileşimlerle doldurduğunu ortaya koymaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

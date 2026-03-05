@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "sviredeenerji_45d287b1",
+    "title": "İsviçre'de enerji",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0svi%C3%A7re%27de_enerji",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:11.033136",
+    "content": "İsviçre'de enerji sektörü Avrupa'nın diğer gelişmiş ülkelerine benzer özelliklere sahiptir. 2017 yılındaki enerji tüketimi 849.790 Terajoule (TJ)'dür. Hidroelektrik ve biyoyakıt enerji kaynakları dışında fazla yakıt kaynakları yoktur. Petrol, gaz ve nükleer yakıtlar ülke dışından ithal edilir. Toplam ihtiyacın sadece % 15'i yerel kaynaklardan karşılanır. == Enerji tüketiminin gelişimi == İsviçre'nin enerji ekonomisi, 1850'ye kadar süren bir gecikme dışında, Avrupa'nın diğer bölgelerine benzer bir gelişim izlemiştir. 3 dönemde bahsedilebilir. 19. yy ortalarına kadar İsviçre bir tarım toplumudur ve kullanılan enerji kaynakları odun ve biyoyakıtlardır. Ayrıca rüzgâr enerjisi, 18. yy'dan itibaren hidrolik enerji ve bölgedeki kömür kaynakları da kullanılmıştır. Endüstri döneminde (1860-1950) ithal kömür temel enerji kaynağı haline gelmiştir. Diğer bir enerji kaynağı olarak su gücü de kullanılmıştır. Günümüzün tüketim toplumunda ise petrol, doğal gaz, az miktarda su türbinleri ve nükleer enerji kullanılmaktadır. Petrol krizi ve çevre kirliliği yenilenebilir enerji kullanımında bir artış yaratmıştır. İsviçre'nin demiryolları ağı tamamen elektrikle çalışır ve önemli bir kısmı hidroelektrik enerji sayesinde üretilir. == 2050 enerji stratejisi == 21 Mayıs 2017'de yapılan bir halk oylamasında yeni bir enerji politikası kabul edilmiştir. Buna göre enerji tüketimi azaltılacak enerji verimliliği artırılacak yenilenebilir enerji kaynakları desteklenecek (su, güneş, jeotermal ve biyolojilk enerjiler) 2006 yılında yapılan bir halk oylamasında ise yeni nükleer enerji santrallerinin yapımı yasaklanmıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 208,
+      "char_count": 1628,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.690991",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 357,
+      "content": "İsviçre'de enerji sektörü Avrupa'nın diğer gelişmiş ülkelerine benzer özelliklere sahiptir. 2017 yılındaki enerji tüketimi 849.790 Terajoule (TJ)'dür. Hidroelektrik ve biyoyakıt enerji kaynakları dışında fazla yakıt kaynakları yoktur. Petrol, gaz ve nükleer yakıtlar ülke dışından ithal edilir. Toplam ihtiyacın sadece % 15'i yerel kaynaklardan karşılanır.",
+      "char_count": 356,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0001",
+      "section": "== Enerji tüketiminin gelişimi ==",
+      "heading_path": "== Enerji tüketiminin gelişimi ==",
+      "start_char": 357,
+      "end_char": 1228,
+      "content": "== Enerji tüketiminin gelişimi == İsviçre'nin enerji ekonomisi, 1850'ye kadar süren bir gecikme dışında, Avrupa'nın diğer bölgelerine benzer bir gelişim izlemiştir. 3 dönemde bahsedilebilir. 19. yy ortalarına kadar İsviçre bir tarım toplumudur ve kullanılan enerji kaynakları odun ve biyoyakıtlardır. Ayrıca rüzgâr enerjisi, 18. yy'dan itibaren hidrolik enerji ve bölgedeki kömür kaynakları da kullanılmıştır. Endüstri döneminde (1860-1950) ithal kömür temel enerji kaynağı haline gelmiştir. Diğer bir enerji kaynağı olarak su gücü de kullanılmıştır. Günümüzün tüketim toplumunda ise petrol, doğal gaz, az miktarda su türbinleri ve nükleer enerji kullanılmaktadır. Petrol krizi ve çevre kirliliği yenilenebilir enerji kullanımında bir artış yaratmıştır. İsviçre'nin demiryolları ağı tamamen elektrikle çalışır ve önemli bir kısmı hidroelektrik enerji sayesinde üretilir.",
+      "char_count": 870,
+      "token_estimate": 217
+    },
+    {
+      "id": "c0002",
+      "section": "== 2050 enerji stratejisi ==",
+      "heading_path": "== 2050 enerji stratejisi ==",
+      "start_char": 1228,
+      "end_char": 1614,
+      "content": "== 2050 enerji stratejisi == 21 Mayıs 2017'de yapılan bir halk oylamasında yeni bir enerji politikası kabul edilmiştir. Buna göre enerji tüketimi azaltılacak enerji verimliliği artırılacak yenilenebilir enerji kaynakları desteklenecek (su, güneş, jeotermal ve biyolojilk enerjiler) 2006 yılında yapılan bir halk oylamasında ise yeni nükleer enerji santrallerinin yapımı yasaklanmıştır.",
+      "char_count": 385,
+      "token_estimate": 96
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Endüstri döneminde (1860-1950) İsviçre'nin temel enerji kaynağı neydi?",
+        "answer": "İthal kömür.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İsviçre'nin enerji ekonomisinin tarihsel gelişimi, ülkenin günümüzde neden sadece %15'ini yerel kaynaklardan karşılayabildiğini ve ithal yakıtlara bağımlılığını nasıl etkilemiştir?",
+        "answer": "İsviçre'nin enerji ekonomisinin Endüstri döneminde (1860-1950) ithal kömürü temel enerji kaynağı olarak benimsemesi ve günümüz tüketim toplumunda petrol, doğal gaz ve nükleer enerji kullanımına geçmesi, ülkenin yerel kaynaklarının (hidroelektrik ve biyoyakıt dışında) yetersiz kalmasına neden olmuştur. Bu tarihsel değişim, petrol, gaz ve nükleer yakıtların ülke dışından ithal edilmesi gerekliliğini artırmış ve toplam enerji ihtiyacının sadece %15'inin yerel kaynaklardan karşılanmasına yol açmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

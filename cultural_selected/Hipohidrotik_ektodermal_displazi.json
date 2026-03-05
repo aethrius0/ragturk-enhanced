@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "hipohidrotikektoderm_cb19cb2c",
+    "title": "Hipohidrotik ektodermal displazi",
+    "url": "https://tr.wikipedia.org/wiki/Hipohidrotik_ektodermal_displazi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:02.086494",
+    "content": "Hipohidrotik ektodermal displazi sendromu (Christ-Siemens-Touraine sendromu), derideki yağ ve ter bezlerinin yokluğu sonucunda ortaya çıkan ”terleme azlığı/yokluğu (hipohidroz)” ile öne çıkan bir ektodermal displazi türüdür; 16 fenotipi vardır. Hipohidroz, çocuk hastalarda vücut ısısında yükselme (hipertermi) ataklarına neden olabilir; santral sinir sistemi etkilenmesine bağlı havale tablosu gelişebilir. Deri bulguları: Deri ince ve kurudur, ekzema türü lezyonlar vardır. Genel kıllanma eksikliği (hipotrikoz) izlenir. Yüz-Çene-Ağız bulguları: Yüz hatlarına bakıldığında, bombeli alın kemiği (frontal kemik) altında belirgin kaş çıkıntıları görülür. Burun sırtı çöküktür, düzleşmiş gibidir. Gözler çevresindeki deri kırışıktır ve koyu renklidir (hiperpigmante). Burundaki atrofik rinit sonucu kötü kokulu burun sekresyonu vardır (ozena). Ses kalın ve pürüzlüdür (disfoni). Dudaklar incedir. Üstçene hipoplazisi izlenir (mikrognati). Damak sığdır. Sürekli diş eksiklikleri (hipodonti, oligodonti) tipik bulgulardan biridir. Ayrıca, dişler küçüktür (mikrodonti) ve ön dişler konik görünümdedir. Azı dişlerinde, diş pulpası anomalisi (taurodontism) olabilir. Çene kemiklerinde (alveol kretleri) hipoplazi saptanır. Ağız mukozasındaki küçük tükürük bezlerinin agenezine bağlı ağız kuruluğu yakınması vardır. Başkaca bulgular: Hastaların bir bölümünde alerji bulguları ve astım atakları izlenir. Meme bezleri ve uçları normalden küçüktür (hipoplazisi) ya da oluşmamıştır (agenezis). === Tedavi === Sendromlarda özgün bir tedavi yöntemi yoktur; çoğu çabalar, hastaların yaşam niteliğini yükseltmeye yöneliktir; bunların başında alerji, astım atakları, deri lezyonları, hipertermi gibi bulguların etkilerini azaltmaya yönelik çalışmalar gelir. Özellikle çocukluk yaşlarından başlayarak yaşam boyu sürecek diş eksikliklerinin giderilmesi yönelik implant uygulamaları giderek yaygınlaşmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 224,
+      "char_count": 1904,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.273139",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Hipohidrotik ektodermal displazi sendromu (Christ-Siemens-Touraine sendromu), derideki yağ ve ter bezlerinin yokluğu sonucunda ortaya çıkan ”terleme azlığı/yokluğu (hipohidroz)” ile öne çıkan bir ektodermal displazi türüdür; 16 fenotipi vardır. Hipohidroz, çocuk hastalarda vücut ısısında yükselme (hipertermi) ataklarına neden olabilir; santral sinir sistemi etkilenmesine bağlı havale tablosu gelişebilir. Deri bulguları: Deri ince ve kurudur, ekzema türü lezyonlar vardır. Genel kıllanma eksikliği (hipotrikoz) izlenir. Yüz-Çene-Ağız bulguları: Yüz hatlarına bakıldığında, bombeli alın kemiği (frontal kemik) altında belirgin kaş çıkıntıları görülür. Burun sırtı çöküktür, düzleşmiş gibidir. Gözler çevresindeki deri kırışıktır ve koyu renklidir (hiperpigmante). Burundaki atrofik rinit sonucu kötü kokulu burun sekresyonu vardır (ozena). Ses kalın ve pürüzlüdür (disfoni). Dudaklar incedir. Üstçene hipoplazisi izlenir (mikrognati). Damak sığdır. Sürekli diş eksiklikleri (hipodonti, oligodonti) ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1481,
+      "content": "ü kokulu burun sekresyonu vardır (ozena). Ses kalın ve pürüzlüdür (disfoni). Dudaklar incedir. Üstçene hipoplazisi izlenir (mikrognati). Damak sığdır. Sürekli diş eksiklikleri (hipodonti, oligodonti) tipik bulgulardan biridir. Ayrıca, dişler küçüktür (mikrodonti) ve ön dişler konik görünümdedir. Azı dişlerinde, diş pulpası anomalisi (taurodontism) olabilir. Çene kemiklerinde (alveol kretleri) hipoplazi saptanır. Ağız mukozasındaki küçük tükürük bezlerinin agenezine bağlı ağız kuruluğu yakınması vardır. Başkaca bulgular: Hastaların bir bölümünde alerji bulguları ve astım atakları izlenir. Meme bezleri ve uçları normalden küçüktür (hipoplazisi) ya da oluşmamıştır (agenezis).",
+      "char_count": 681,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0002",
+      "section": "=== Tedavi ===",
+      "heading_path": "=== Tedavi ===",
+      "start_char": 1482,
+      "end_char": 1890,
+      "content": "=== Tedavi === Sendromlarda özgün bir tedavi yöntemi yoktur; çoğu çabalar, hastaların yaşam niteliğini yükseltmeye yöneliktir; bunların başında alerji, astım atakları, deri lezyonları, hipertermi gibi bulguların etkilerini azaltmaya yönelik çalışmalar gelir. Özellikle çocukluk yaşlarından başlayarak yaşam boyu sürecek diş eksikliklerinin giderilmesi yönelik implant uygulamaları giderek yaygınlaşmaktadır.",
+      "char_count": 407,
+      "token_estimate": 101
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hipohidrotik ektodermal displazi sendromunun kaç fenotipi vardır?",
+        "answer": "16 fenotipi vardır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hipohidrotik ektodermal displazi sendromu, terleme azlığı dışında vücudun farklı bölgelerini etkileyen ne tür çeşitli belirtiler gösterir?",
+        "answer": "Bu sendrom; bombeli alın kemiği altında belirgin kaş çıkıntıları, çökük burun sırtı, gözler çevresinde kırışık ve koyu renkli deri, kötü kokulu burun sekresyonu (ozena), kalın ve pürüzlü ses (disfoni), ince dudaklar ve üstçene hipoplazisi (mikrognati) gibi yüz bulguları sergiler. Ağızda sığ damak, sürekli diş eksiklikleri (hipodonti, oligodonti), küçük (mikrodonti) ve konik görünümlü ön dişler, azı dişlerinde diş pulpası anomalisi (taurodontism), çene kemiklerinde hipoplazi ve tükürük bezlerinin agenezine bağlı ağız kuruluğu görülür. Ayrıca, hastaların bir bölümünde alerji bulguları, astım atakları ve meme bezleri ile uçlarında hipoplazi ya da agenezis gibi diğer vücut bulguları da izlenir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

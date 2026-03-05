@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "sisalyucatn_97cb96d0",
+    "title": "Sisal, Yucatán",
+    "url": "https://tr.wikipedia.org/wiki/Sisal%2C_Yucat%C3%A1n",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:45.345668",
+    "content": "Sisal, Meksika'nın Yucatán eyaletindeki Hunucmá Belediyesi'ne bağlı bir liman kasabasıdır. Bu liman Henequen patlaması sırasında Yucatán'ın ana limanıydı, daha sonra doğuda daha modern Progreso limanı inşa edildiğinde gölgede kaldı. Kasabanın adını bu limandan nakledilen agav türevi sisal lifi vermiştir. Kasaba, eyaletin başkenti Mérida'nın yaklaşık 53 km kuzey-kuzeybatısındadır. Yucatán'ın Yeni İspanya'nın bir parçası olduğu kanuna göre, tüm ticaret Campeche limanı üzerinden yapılıyordu. Mérida sakinleri başkente daha yakın bir liman için dilekçe verdiler ve bu, 13 Şubat 1810'daki İspanyol kraliyet kararnamesi ile kabul edildi. Yeni Sisal limanı 1811'de kurulmuştur ve geç sömürge döneminden kalma bir kaleye, \"Fuerte de Santiago\"ya ve eski bir deniz fenerine sahiptir. Yucatán'ın İspanya'dan bağımsızlığını kazanmasının ardından limandaki ticaret hızla büyüdü ve 1845'te daha önce Campeche'den geçenin iki katı değerde kargolar naklediyordu. Progreso'nun gelişmesinden sonra Sisal'ın önemi azaldı ve bugün bazılarının plajı için ziyaret ettiği küçük bir balıkçı köyü halini aldı. 2010 Meksika nüfus sayımına göre Sisal'ın resmi nüfusu 1.837 kişiydi. Aralık 2006'dan itibaren eyalet hükûmeti, dönemin valisi Patricio Patron Laviada'nın ilan ettiği gibi, turizm odaklı projeler geliştirerek bu limanı geçmiş yüzyıllardaki ihtişamına döndürmek için çalışıyor. Planlaması ABD'li bir şirket tarafından yapılan ve gelecek yönetim döneminde geliştirilecek olan limanın, bir turizm destinasyonu olmasının yanı sıra balıkçılar ve turist tekneleri için de bir sığınak haline gelmesi planlanıyor. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 210,
+      "char_count": 1610,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.046794",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Sisal, Meksika'nın Yucatán eyaletindeki Hunucmá Belediyesi'ne bağlı bir liman kasabasıdır. Bu liman Henequen patlaması sırasında Yucatán'ın ana limanıydı, daha sonra doğuda daha modern Progreso limanı inşa edildiğinde gölgede kaldı. Kasabanın adını bu limandan nakledilen agav türevi sisal lifi vermiştir. Kasaba, eyaletin başkenti Mérida'nın yaklaşık 53 km kuzey-kuzeybatısındadır. Yucatán'ın Yeni İspanya'nın bir parçası olduğu kanuna göre, tüm ticaret Campeche limanı üzerinden yapılıyordu. Mérida sakinleri başkente daha yakın bir liman için dilekçe verdiler ve bu, 13 Şubat 1810'daki İspanyol kraliyet kararnamesi ile kabul edildi. Yeni Sisal limanı 1811'de kurulmuştur ve geç sömürge döneminden kalma bir kaleye, \"Fuerte de Santiago\"ya ve eski bir deniz fenerine sahiptir. Yucatán'ın İspanya'dan bağımsızlığını kazanmasının ardından limandaki ticaret hızla büyüdü ve 1845'te daha önce Campeche'den geçenin iki katı değerde kargolar naklediyordu. Progreso'nun gelişmesinden sonra Sisal'ın önemi ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1595,
+      "content": "n bağımsızlığını kazanmasının ardından limandaki ticaret hızla büyüdü ve 1845'te daha önce Campeche'den geçenin iki katı değerde kargolar naklediyordu. Progreso'nun gelişmesinden sonra Sisal'ın önemi azaldı ve bugün bazılarının plajı için ziyaret ettiği küçük bir balıkçı köyü halini aldı. 2010 Meksika nüfus sayımına göre Sisal'ın resmi nüfusu 1.837 kişiydi. Aralık 2006'dan itibaren eyalet hükûmeti, dönemin valisi Patricio Patron Laviada'nın ilan ettiği gibi, turizm odaklı projeler geliştirerek bu limanı geçmiş yüzyıllardaki ihtişamına döndürmek için çalışıyor. Planlaması ABD'li bir şirket tarafından yapılan ve gelecek yönetim döneminde geliştirilecek olan limanın, bir turizm destinasyonu olmasının yanı sıra balıkçılar ve turist tekneleri için de bir sığınak haline gelmesi planlanıyor.",
+      "char_count": 795,
+      "token_estimate": 198
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sisal limanı ne zaman kurulmuştur?",
+        "answer": "1811 yılında.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sisal limanının ticari önemi tarihsel olarak nasıl değişmiş ve günümüzde bu değişikliklerle nasıl başa çıkılmaktadır?",
+        "answer": "Sisal limanı, 1811'de kurulduktan ve Yucatán'ın İspanya'dan bağımsızlığını kazanmasının ardından ticarette hızla büyüyerek Henequen patlaması sırasında bölgenin ana limanı haline gelmiştir. Ancak, daha modern Progreso limanının inşa edilmesi ve gelişmesiyle ticari önemi azalarak küçük bir balıkçı köyüne dönüşmüştür. Günümüzde ise, Aralık 2006'dan itibaren eyalet hükûmeti, limanı turizm odaklı projelerle canlandırarak ve onu balıkçılar ile turist tekneleri için bir sığınak haline getirerek eski ihtişamına kavuşturmaya çalışmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

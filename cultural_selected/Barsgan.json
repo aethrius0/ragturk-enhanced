@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "barsgan_327876aa",
+    "title": "Barsgan",
+    "url": "https://tr.wikipedia.org/wiki/Barsgan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:39.104436",
+    "content": "Barskon, Barskoon veya Barskaun, eski adı Barsgan, Barskhan ya da Barsqan (Arapça: يرسغان; Rusça: Барскон; Kırgızca: Барскоон) bugünkü Kırgızistan'nın Issık-Göl ili sınırları içinde Issık Gölünün güney kıyısında küçük bir kasabadır. == İsim kökeni == Divân-ı Lügati't-Türk'te; \"يرسغان Barsgan\" \"Afrasyab’ın oğlunun adıdır. Barsgan şehrini bu yaptırmıştır. Bu şehir Mahmud'un babasının şehridir. Bir takımları şöyle söylerler: Uygur Hakanının Barsgan adında bir at bakıcısı varmış. Havası güzel olduğu için atları burada yetiştirirmiş. Sonra Barsgan adı buraya ad olarak verilmiş.\" şeklinde tanımlanır. == Konumu == Barsgan kasabası, denizden 1753 metre yükseklikte konumlanır. Eski kervan yolu üzerinde bulunan Barsgan'da, kervanların buradan doğuya (Çin'e) ve güneye (Hindistan'a) geçtikleri bölgede bulunan harabe bir kervansaraydan anlaşılmaktadır. Barsgan'ın güneyinden, Barsgan vadisinden geçen (A364) karayolu -İpek yolu güzergahlarından birisi olan bu tarihi yol- Bedel Geçiti (Divân-ı Lügati't-Türk'te; Badal art: Uç ile Barsgan arasında sarp bir yer şeklinde tanımladığı) üzerinden (4284 m) Çine ulaşır. == Tarih == Diğer verilen isimler: Barskoon, Barskon ve Barskaun. Kaşgarlı Mahmud'un babası, Hüseyin Čaghrī Téğin 1056 - 1057 yıllarından önce Barsgan emiri Arslan ilig idi. Ayrıca Kaşgarlı, bu dörtlükte; Kuş yawuzı sagzıgan, yıgaç yawuzı azgan, Yer yawuzı kazgan, budun yawuzı Barsgan \"Kuşun kötüsü saksağan, ağacın kötüsü kuşburnu (yaban gülü), Yerin kötüsü bataklıklı olan yer, halkın kötüsü Barsgan'lılardır.\" Barsganı böyle tanımlar. Tamim bin Bahr al-Muttawwi; \"Kervanla yukarı Nūshajān (Baskhan) ve al-Shash (Taşkent) arasında Tarāz üzeri mesafe kırk (marhala) uzaklıktadır, fakat at sırtında ('alā dābba) yolculuk bir ay sürer.\" 30 Temmuz 1916 yılında Urkun isyanında söylendiğine göre Rus güçlerinden kaçıp Bedel Geçiti üzerinden Çin'e geçmek isteyen 100,000 Kırgız ölmüştür. Rus kaynakları ise isyanda, 3,000 insanın yaşamlarını yitirdiklerini iddia ederler. == Doğal yapısı == === Dağlar === It-Tiş dağı (27.9 km) Maydadır dağları (11.5 km) Uzun-Gır dağları(16 km) === Akarsular === Barskaun (5.5 km) Çon-Dzhargılçak (5.9 km) Tayralçan (6.1 km) Sarı-Bulak (9.2 km) Dzhargılçak (10.1 km) Çegedek (11.5 km) Kırga (15.6 km) === Geçitler === Dağ geçitleri Barskon (34.4 km) Dungrume (34.8 km) Tosor (35.9 km) Rodnik Al'ça-Bulak (25.3 km) == Notlar == == Kaynakça == == Dış bağlantılar == Barsgan için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 339,
+      "char_count": 2471,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.012482",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 233,
+      "content": "Barskon, Barskoon veya Barskaun, eski adı Barsgan, Barskhan ya da Barsqan (Arapça: يرسغان; Rusça: Барскон; Kırgızca: Барскоон) bugünkü Kırgızistan'nın Issık-Göl ili sınırları içinde Issık Gölünün güney kıyısında küçük bir kasabadır.",
+      "char_count": 232,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0001",
+      "section": "== İsim kökeni ==",
+      "heading_path": "== İsim kökeni ==",
+      "start_char": 233,
+      "end_char": 602,
+      "content": "== İsim kökeni == Divân-ı Lügati't-Türk'te; \"يرسغان Barsgan\" \"Afrasyab’ın oğlunun adıdır. Barsgan şehrini bu yaptırmıştır. Bu şehir Mahmud'un babasının şehridir. Bir takımları şöyle söylerler: Uygur Hakanının Barsgan adında bir at bakıcısı varmış. Havası güzel olduğu için atları burada yetiştirirmiş. Sonra Barsgan adı buraya ad olarak verilmiş.\" şeklinde tanımlanır.",
+      "char_count": 368,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0002",
+      "section": "== Konumu ==",
+      "heading_path": "== Konumu ==",
+      "start_char": 602,
+      "end_char": 1113,
+      "content": "== Konumu == Barsgan kasabası, denizden 1753 metre yükseklikte konumlanır. Eski kervan yolu üzerinde bulunan Barsgan'da, kervanların buradan doğuya (Çin'e) ve güneye (Hindistan'a) geçtikleri bölgede bulunan harabe bir kervansaraydan anlaşılmaktadır. Barsgan'ın güneyinden, Barsgan vadisinden geçen (A364) karayolu -İpek yolu güzergahlarından birisi olan bu tarihi yol- Bedel Geçiti (Divân-ı Lügati't-Türk'te; Badal art: Uç ile Barsgan arasında sarp bir yer şeklinde tanımladığı) üzerinden (4284 m) Çine ulaşır.",
+      "char_count": 510,
+      "token_estimate": 127
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1113,
+      "end_char": 1982,
+      "content": "== Tarih == Diğer verilen isimler: Barskoon, Barskon ve Barskaun. Kaşgarlı Mahmud'un babası, Hüseyin Čaghrī Téğin 1056 - 1057 yıllarından önce Barsgan emiri Arslan ilig idi. Ayrıca Kaşgarlı, bu dörtlükte; Kuş yawuzı sagzıgan, yıgaç yawuzı azgan, Yer yawuzı kazgan, budun yawuzı Barsgan \"Kuşun kötüsü saksağan, ağacın kötüsü kuşburnu (yaban gülü), Yerin kötüsü bataklıklı olan yer, halkın kötüsü Barsgan'lılardır.\" Barsganı böyle tanımlar. Tamim bin Bahr al-Muttawwi; \"Kervanla yukarı Nūshajān (Baskhan) ve al-Shash (Taşkent) arasında Tarāz üzeri mesafe kırk (marhala) uzaklıktadır, fakat at sırtında ('alā dābba) yolculuk bir ay sürer.\" 30 Temmuz 1916 yılında Urkun isyanında söylendiğine göre Rus güçlerinden kaçıp Bedel Geçiti üzerinden Çin'e geçmek isteyen 100,000 Kırgız ölmüştür. Rus kaynakları ise isyanda, 3,000 insanın yaşamlarını yitirdiklerini iddia ederler.",
+      "char_count": 868,
+      "token_estimate": 217
+    },
+    {
+      "id": "c0004",
+      "section": "=== Dağlar ===",
+      "heading_path": "=== Dağlar ===",
+      "start_char": 2001,
+      "end_char": 2089,
+      "content": "=== Dağlar === It-Tiş dağı (27.9 km) Maydadır dağları (11.5 km) Uzun-Gır dağları(16 km)",
+      "char_count": 87,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0005",
+      "section": "=== Akarsular ===",
+      "heading_path": "=== Akarsular ===",
+      "start_char": 2089,
+      "end_char": 2245,
+      "content": "=== Akarsular === Barskaun (5.5 km) Çon-Dzhargılçak (5.9 km) Tayralçan (6.1 km) Sarı-Bulak (9.2 km) Dzhargılçak (10.1 km) Çegedek (11.5 km) Kırga (15.6 km)",
+      "char_count": 155,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0006",
+      "section": "=== Geçitler ===",
+      "heading_path": "=== Geçitler ===",
+      "start_char": 2245,
+      "end_char": 2358,
+      "content": "=== Geçitler === Dağ geçitleri Barskon (34.4 km) Dungrume (34.8 km) Tosor (35.9 km) Rodnik Al'ça-Bulak (25.3 km)",
+      "char_count": 112,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2386,
+      "end_char": 2471,
+      "content": "== Dış bağlantılar == Barsgan için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+      "char_count": 85,
+      "token_estimate": 21
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kaşgarlı Mahmud'un babasının adı nedir?",
+        "answer": "Hüseyin Čaghrī Téğin",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Divân-ı Lügati't-Türk metninde Barsgan'a ilişkin verilen bilgiler (isim kökeni ve coğrafi özellikler) günümüz Kırgızistan'ında Issık Gölünün güney kıyısında yer alan bu küçük kasabanın İpek Yolu üzerindeki tarihsel önemini nasıl açıklamaktadır?",
+        "answer": "Divân-ı Lügati't-Türk, Barsgan'ın isim kökeni için Afrasyab'ın oğlu veya Uygur Hakanının at bakıcısı Barsgan gibi iki farklı açıklama sunarak kasabanın derin bir geçmişe sahip olduğunu göstermektedir. Ayrıca, metinde bahsedilen sarp Bedel Geçiti ile Barsgan'ın eski kervan yolu üzerinde Çin ve Hindistan'a geçiş noktası olduğu bilgisi, kasabanın İpek Yolu üzerinde stratejik bir konuma sahip olduğunu ve yüzyıllardır önemli bir geçiş merkezi olarak hizmet ettiğini ortaya koymaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

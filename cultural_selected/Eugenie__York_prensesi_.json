@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "eugenieyorkprensesi_8592f68a",
+    "title": "Eugenie (York prensesi)",
+    "url": "https://tr.wikipedia.org/wiki/Eugenie_%28York_prensesi%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:27.951366",
+    "content": "Prenses Eugenie, Bayan Jack Brooksbank (Eugenie Victoria Helena; d. 23 Mart 1990) İngiliz kraliyet ailesinin bir üyesi. Andrew Mountbatten-Windsor ve Sarah Ferguson'ın küçük kızıdır. Yeğeni Sienna Mapelli Mozzi'den sonra İngiliz tahtına çıkma sırasında on birincidir. 2018'de bir marka yüzü olan Jack Brooksbank ile evlenmiştir. == Hayatı == Prenses Eugenie 23 Mart 1990 yılında Londra'daki Portland Hastanesi'de dünyaya geldi. İsim annesi Britanya Prensesi ve sonradan İspanya Kraliçesi olan Victoria Eugenie von Battenberg'dir. 23 Aralık 1990'da Sandringham Piskoposu von Norwich tarafından vaftiz edildi. Vaftiz anne/babası olarak James Ogilvy, Kaptan Alastair Ross, Sue Ferguson (üvey büyükannesi), Julia Dodd-Noble ve Louise Blacker hazır bulundular. Prenses Eugenie, iki farklı kreşi denedikten sonra, 1995'ten 2001'e kadar Surrey'deki Cowort Park School'a gitti. Akabinde 2001'den 2003'e kadar Windsor'daki St.George's School'u gündüzlü öğrenci olarak okudu. 2003 ile 2008 yılları arasında Marlborough College'de yatılı olarak okudu. 2007 yazında AS-Level'ini başarılı bir şekilde üç tane A notu ve bir tane B notu ile politika, sanat ve İngilizce dallarında vererek mezun oldu. Kendini zekiden ziyade çalışkan (more of a worker than a clever person) olarak tanımlıyor. 2008 yazında lise diplomasına denk gelen A-Level'leri bitirdi; sanat ve İngiliz edebiyatından A notunu ve sanat tarihinden B notunu aldı (yani AAB). Mezun olduktan sonra, birçok şeyin yanı sıra, özellikle İspanyolca öğrenmek için 1 yıl mola verecek. 2002 yılında skolyoz rahatsızlığı sebebiyle bir ameliyat geçirdi. Babasıyla beraber Windsor Sarayı arazisindeki Royal Lodge'de yaşıyor. Annesi ise komşu binada yaşıyor. Kraliyet Ailesi'ne ait Trooping the Colour (askeri kortej) gibi resmi törenlere iştirak etmektedir. Ebeveynleri ile beraber yardım projelerini desteklemektedir. Özel hayatı hakkında çok az şey biliniyor. Çok çekingen olduğu söyleniyor. Prenses sporla çok ilgilidir; at biner ve kayak yapar. Bir diğer ilgi alanı ise müziktir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 280,
+      "char_count": 2036,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.931314",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 329,
+      "content": "Prenses Eugenie, Bayan Jack Brooksbank (Eugenie Victoria Helena; d. 23 Mart 1990) İngiliz kraliyet ailesinin bir üyesi. Andrew Mountbatten-Windsor ve Sarah Ferguson'ın küçük kızıdır. Yeğeni Sienna Mapelli Mozzi'den sonra İngiliz tahtına çıkma sırasında on birincidir. 2018'de bir marka yüzü olan Jack Brooksbank ile evlenmiştir.",
+      "char_count": 328,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 329,
+      "end_char": 1329,
+      "content": "== Hayatı == Prenses Eugenie 23 Mart 1990 yılında Londra'daki Portland Hastanesi'de dünyaya geldi. İsim annesi Britanya Prensesi ve sonradan İspanya Kraliçesi olan Victoria Eugenie von Battenberg'dir. 23 Aralık 1990'da Sandringham Piskoposu von Norwich tarafından vaftiz edildi. Vaftiz anne/babası olarak James Ogilvy, Kaptan Alastair Ross, Sue Ferguson (üvey büyükannesi), Julia Dodd-Noble ve Louise Blacker hazır bulundular. Prenses Eugenie, iki farklı kreşi denedikten sonra, 1995'ten 2001'e kadar Surrey'deki Cowort Park School'a gitti. Akabinde 2001'den 2003'e kadar Windsor'daki St.George's School'u gündüzlü öğrenci olarak okudu. 2003 ile 2008 yılları arasında Marlborough College'de yatılı olarak okudu. 2007 yazında AS-Level'ini başarılı bir şekilde üç tane A notu ve bir tane B notu ile politika, sanat ve İngilizce dallarında vererek mezun oldu. Kendini zekiden ziyade çalışkan (more of a worker than a clever person) olarak tanımlıyor. 2008 yazında lise diplomasına denk gelen A-Level'ler",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1129,
+      "end_char": 2021,
+      "content": "itika, sanat ve İngilizce dallarında vererek mezun oldu. Kendini zekiden ziyade çalışkan (more of a worker than a clever person) olarak tanımlıyor. 2008 yazında lise diplomasına denk gelen A-Level'leri bitirdi; sanat ve İngiliz edebiyatından A notunu ve sanat tarihinden B notunu aldı (yani AAB). Mezun olduktan sonra, birçok şeyin yanı sıra, özellikle İspanyolca öğrenmek için 1 yıl mola verecek. 2002 yılında skolyoz rahatsızlığı sebebiyle bir ameliyat geçirdi. Babasıyla beraber Windsor Sarayı arazisindeki Royal Lodge'de yaşıyor. Annesi ise komşu binada yaşıyor. Kraliyet Ailesi'ne ait Trooping the Colour (askeri kortej) gibi resmi törenlere iştirak etmektedir. Ebeveynleri ile beraber yardım projelerini desteklemektedir. Özel hayatı hakkında çok az şey biliniyor. Çok çekingen olduğu söyleniyor. Prenses sporla çok ilgilidir; at biner ve kayak yapar. Bir diğer ilgi alanı ise müziktir.",
+      "char_count": 892,
+      "token_estimate": 223
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Prenses Eugenie hangi tarihte ve nerede doğmuştur?",
+        "answer": "Prenses Eugenie, 23 Mart 1990 tarihinde Londra'daki Portland Hastanesi'nde dünyaya gelmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Prenses Eugenie'nin hayatındaki önemli dönüm noktaları ve kişiliğini yansıtan unsurlar nelerdir?",
+        "answer": "Prenses Eugenie, 23 Mart 1990'da Londra'daki Portland Hastanesi'nde dünyaya geldi. Cowort Park School, St. George's School ve Marlborough College gibi okullara gitmiştir. Kendisini 'zekiden ziyade çalışkan' olarak tanımlar ve 2007'de politika, sanat ve İngilizce dallarında AS-Level'ini, 2008'de ise sanat, İngiliz edebiyatı ve sanat tarihinde A-Level'lerini başarılı bir şekilde tamamlamıştır. 2002 yılında skolyoz rahatsızlığı sebebiyle ameliyat geçirmiş ve 2018'de Jack Brooksbank ile evlenmiştir. Özel hayatı hakkında çok az şey bilinmekle birlikte, çok çekingen olduğu, spor (at binme, kayak) ve müzikle ilgilendiği, babasıyla Windsor Sarayı arazisindeki Royal Lodge'de yaşadığı ve ebeveynleriyle yardım projelerini desteklediği belirtilmiştir. Ayrıca Trooping the Colour gibi resmi törenlere iştirak etmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

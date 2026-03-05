@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "ucsampdoria_7825d1d5",
+    "title": "UC Sampdoria",
+    "url": "https://tr.wikipedia.org/wiki/UC_Sampdoria",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:36.450798",
+    "content": "U.C. Sampdoria ya da bilinen kısa adıyla Sampdoria, Cenova merkezli İtalyan futbol kulübü. == Tarihçe == 1891 yılında kurulan Sampierdarenese ile 1895 yılında kurulan Andrea Doria adlı iki takımın 12 Ağustos 1946 tarihinde Cenova'da birleşmesiyle oluşmuş ve tam adını \"Unione Calcio Sampdoria\" olarak belirlemiştir. Asıl renkleri mavi-beyaz ve kırmızı-siyahtır. Bunun nedeni de bu renklerin birleşen iki kulübün renkleri olmasıdır. Cenova şehrinin takımlarından biri olan Sampdoria, maçlarını 41,917 kişilik Luigi Ferraris Stadyumu'nda oynar. Mavi-beyazlı ekip altın çağlarını yaşadığı 1990-91 sezonunda Serie A şampiyonu olmuş, ertesi yılda UEFA Şampiyonlar Ligi'nde final oynamıştır. Fakat normal süresi 0-0 biten maçta uzatmalarda gol yiyerek Barcelona'ya kaybetmiştir. 2010-11 sezonunda ise Serie A'yı 18. tamamlayarak Serie B'ye düşmüştür. Ertesi sezon ise tekrar Serie A'ya yükselmeyi başarmıştır. == Güncel kadro == 11 Ocak 2021 itibarıyla Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler. == Başarıları == === Ulusal Başarıları === Serie A Şampiyon (1): 1990-91 Serie B Şampiyon (1): 1966-67 Coppa Italia Şampiyon (4): 1984-85, 1987-88, 1988-89, 1993-94 Finalist (3): 1985-86, 1990-91, 2008-09 Supercoppa Italiana Şampiyon (1): 1991 Finalist (3): 1988, 1989, 1994 === Avrupa Başarıları === Kupa Galipleri Kupası Şampiyon (1): 1989-90 Finalist (1): 1988-89 Intertoto Kupası Şampiyon (1): 2007 Şampiyonlar Ligi Finalist (1): 1991-92 == Ayrıca bakınız == Derby della Lanterna == Kaynakça == == Dış bağlantılar == Resmî site17 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 232,
+      "char_count": 1699,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.934681",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 91,
+      "content": "U.C. Sampdoria ya da bilinen kısa adıyla Sampdoria, Cenova merkezli İtalyan futbol kulübü.",
+      "char_count": 90,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 91,
+      "end_char": 904,
+      "content": "== Tarihçe == 1891 yılında kurulan Sampierdarenese ile 1895 yılında kurulan Andrea Doria adlı iki takımın 12 Ağustos 1946 tarihinde Cenova'da birleşmesiyle oluşmuş ve tam adını \"Unione Calcio Sampdoria\" olarak belirlemiştir. Asıl renkleri mavi-beyaz ve kırmızı-siyahtır. Bunun nedeni de bu renklerin birleşen iki kulübün renkleri olmasıdır. Cenova şehrinin takımlarından biri olan Sampdoria, maçlarını 41,917 kişilik Luigi Ferraris Stadyumu'nda oynar. Mavi-beyazlı ekip altın çağlarını yaşadığı 1990-91 sezonunda Serie A şampiyonu olmuş, ertesi yılda UEFA Şampiyonlar Ligi'nde final oynamıştır. Fakat normal süresi 0-0 biten maçta uzatmalarda gol yiyerek Barcelona'ya kaybetmiştir. 2010-11 sezonunda ise Serie A'yı 18. tamamlayarak Serie B'ye düşmüştür. Ertesi sezon ise tekrar Serie A'ya yükselmeyi başarmıştır.",
+      "char_count": 812,
+      "token_estimate": 203
+    },
+    {
+      "id": "c0002",
+      "section": "== Güncel kadro ==",
+      "heading_path": "== Güncel kadro ==",
+      "start_char": 904,
+      "end_char": 1107,
+      "content": "== Güncel kadro == 11 Ocak 2021 itibarıyla Not: Uyruk bilgisi futbolcuların FIFA uygunluk kurallarınca oynayabileceği millî takımı gösterir. FIFA kuralları haricinde başkaca uyruğa da sahip olabilirler.",
+      "char_count": 202,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0003",
+      "section": "=== Ulusal Başarıları ===",
+      "heading_path": "=== Ulusal Başarıları ===",
+      "start_char": 1124,
+      "end_char": 1382,
+      "content": "=== Ulusal Başarıları === Serie A Şampiyon (1): 1990-91 Serie B Şampiyon (1): 1966-67 Coppa Italia Şampiyon (4): 1984-85, 1987-88, 1988-89, 1993-94 Finalist (3): 1985-86, 1990-91, 2008-09 Supercoppa Italiana Şampiyon (1): 1991 Finalist (3): 1988, 1989, 1994",
+      "char_count": 257,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0004",
+      "section": "=== Avrupa Başarıları ===",
+      "heading_path": "=== Avrupa Başarıları ===",
+      "start_char": 1382,
+      "end_char": 1549,
+      "content": "=== Avrupa Başarıları === Kupa Galipleri Kupası Şampiyon (1): 1989-90 Finalist (1): 1988-89 Intertoto Kupası Şampiyon (1): 2007 Şampiyonlar Ligi Finalist (1): 1991-92",
+      "char_count": 166,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1549,
+      "end_char": 1591,
+      "content": "== Ayrıca bakınız == Derby della Lanterna",
+      "char_count": 41,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1606,
+      "end_char": 1699,
+      "content": "== Dış bağlantılar == Resmî site17 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 93,
+      "token_estimate": 23
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sampdoria maçlarını hangi stadyumda oynamaktadır?",
+        "answer": "Luigi Ferraris Stadyumu",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "U.C. Sampdoria'nın tam adı ve asıl renkleri, Cenova merkezli bir İtalyan futbol kulübü olarak kuruluş geçmişiyle nasıl ilişkilidir?",
+        "answer": "U.C. Sampdoria, 1891'de kurulan Sampierdarenese ile 1895'te kurulan Andrea Doria adlı iki takımın 12 Ağustos 1946'da Cenova'da birleşmesiyle oluşmuştur. Tam adını \"Unione Calcio Sampdoria\" olarak belirlemesinin nedeni bu birleşmedir. Asıl renkleri olan mavi-beyaz ve kırmızı-siyah da birleşen bu iki kulübün renklerinden gelmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

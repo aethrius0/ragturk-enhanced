@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "enginaya_dddcfff8",
+    "title": "Engin Ayça",
+    "url": "https://tr.wikipedia.org/wiki/Engin_Ay%C3%A7a",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:52.936872",
+    "content": "Engin Ayça (d. 24 Şubat 1941, Balıkesir) Türk film yönetmeni ve senaristtir. == Hayatı == Galatasaray Lisesi’ni bitirdi. Roma’da Instituto Superiore Dell Opinione Publica ve Centro Sperimentale Di Cinematografia okullarında sinema yönetmenliği alanında eğitim gördü. 1970'ten 1974'e kadar İstanbul Üniversitesi Foto Film Merkezi’nde çalıştı. 1973–1975 yılları arasında Atilla Dorsay ve Nezih Coş ile Yedinci Sanat isimli sinema dergisini çıkardı. Dergi 24 sayı yayımlandı. Ve Sinema dergisinde de yazıları yayımlandı. 1974'ten 1986'ya kadar TRT İstanbul Televizyonu’nda yönetmen olarak çeşitli belgesel filmler ve kültür programları gerçekleştirdi. \"Tuh Sana\" ve \"Süleymaniye, Zeyrek ve Karatepe\" adlı belgesel filmleri yönetti. 1974'te Yılmaz Güney’in Arkadaş filminde asistanlık yaptı. 1987 yılında TRT’den ayrıldıktan sonra Bez Bebek isimli ilk sinema filmini yazdı, yönetti. 1990'da Soğuktu ve Yağmur Çiseliyordu isimli filmini yazdı, yönetti. Senaryosunu yazıp yönettiği üçüncü filmi Suna'yı 2007 yılında çekti. Çeşitli dergi ve gazetelerde sinema üstüne yazılar yazdı, röportajlar ve çeviriler yaptı. İki çeviri kitabı var: Sergey Ayzenştayn'ın Sinema Dersleri ve Giorgio Vincenti'nin Sinemanın 100 Yılı. 2016'da sinema yazılarını topladığı Şu Sinema Dedikleri kitabı yayımlandı. Marmara Üniversitesi Sinema-Televizyon Sanat Dalı'nda öğretim görevlisi olarak çalıştı. Oyuncu Gülsen Tuncer'le evlidir. == Ödülleri == 1988, 1. Ankara Film Festivali, En İyi 2. Film, \"Bez Bebek\" 1988, 1. Ankara Film Festivali, En İyi Senaryo Ödülü, \"Bez Bebek\" 1991, 28. Antalya Film Festivali, En İyi 3. Film, \"Soğuktu ve Yağmur Çiseliyordu == Filmografisi == Bez Bebek, 1987 (Gülsen Tuncer ile birlikte) Soğuktu ve Yağmur Çiseliyordu, 1990 Bergama Der Ki: Ölüler Altın Takmaz, 1999 (Belgesel Film) Suna, 2007 Kilim: Köklere Yolculuk, 2010 (Belgesel Film) == Dış bağlantılar == Suna: Türkan Şoray İçin Oluşturulan Proje, Söyleşi: Koray Karaermiş, Cinemascope dergisi, Sayı: 9, Mayıs 2007 Engin Ayça: ''Her Şey Geçer, Küllenir. Düşler Kalır. Aşk Kalır'', Söyleşi: Mesut Kara, Cinemascope dergisi, Sayı: 12, Kasım 2007 Engin Ayça’nın kamerasıyla Bergama mücadelesi, NTV Engin Ayça – Yeni Sinema, Genç Sinema, Yedinci Sanat (1968-1975) 25 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi., Sinematek, Söyleşi Engin Ayça 27 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi., Oktay Aras Kitaplığı Engin Ayça 18 Temmuz 2016 tarihinde Wayback Machine sitesinde arşivlendi., ekşi sözlük Engin Ayça, Facebook == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 346,
+      "char_count": 2518,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.590656",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 77,
+      "content": "Engin Ayça (d. 24 Şubat 1941, Balıkesir) Türk film yönetmeni ve senaristtir.",
+      "char_count": 76,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 77,
+      "end_char": 1077,
+      "content": "== Hayatı == Galatasaray Lisesi’ni bitirdi. Roma’da Instituto Superiore Dell Opinione Publica ve Centro Sperimentale Di Cinematografia okullarında sinema yönetmenliği alanında eğitim gördü. 1970'ten 1974'e kadar İstanbul Üniversitesi Foto Film Merkezi’nde çalıştı. 1973–1975 yılları arasında Atilla Dorsay ve Nezih Coş ile Yedinci Sanat isimli sinema dergisini çıkardı. Dergi 24 sayı yayımlandı. Ve Sinema dergisinde de yazıları yayımlandı. 1974'ten 1986'ya kadar TRT İstanbul Televizyonu’nda yönetmen olarak çeşitli belgesel filmler ve kültür programları gerçekleştirdi. \"Tuh Sana\" ve \"Süleymaniye, Zeyrek ve Karatepe\" adlı belgesel filmleri yönetti. 1974'te Yılmaz Güney’in Arkadaş filminde asistanlık yaptı. 1987 yılında TRT’den ayrıldıktan sonra Bez Bebek isimli ilk sinema filmini yazdı, yönetti. 1990'da Soğuktu ve Yağmur Çiseliyordu isimli filmini yazdı, yönetti. Senaryosunu yazıp yönettiği üçüncü filmi Suna'yı 2007 yılında çekti. Çeşitli dergi ve gazetelerde sinema üstüne yazılar yazdı, rö",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 877,
+      "end_char": 1406,
+      "content": ". 1990'da Soğuktu ve Yağmur Çiseliyordu isimli filmini yazdı, yönetti. Senaryosunu yazıp yönettiği üçüncü filmi Suna'yı 2007 yılında çekti. Çeşitli dergi ve gazetelerde sinema üstüne yazılar yazdı, röportajlar ve çeviriler yaptı. İki çeviri kitabı var: Sergey Ayzenştayn'ın Sinema Dersleri ve Giorgio Vincenti'nin Sinemanın 100 Yılı. 2016'da sinema yazılarını topladığı Şu Sinema Dedikleri kitabı yayımlandı. Marmara Üniversitesi Sinema-Televizyon Sanat Dalı'nda öğretim görevlisi olarak çalıştı. Oyuncu Gülsen Tuncer'le evlidir.",
+      "char_count": 529,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1407,
+      "end_char": 1629,
+      "content": "== Ödülleri == 1988, 1. Ankara Film Festivali, En İyi 2. Film, \"Bez Bebek\" 1988, 1. Ankara Film Festivali, En İyi Senaryo Ödülü, \"Bez Bebek\" 1991, 28. Antalya Film Festivali, En İyi 3. Film, \"Soğuktu ve Yağmur Çiseliyordu",
+      "char_count": 221,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0004",
+      "section": "== Filmografisi ==",
+      "heading_path": "== Filmografisi ==",
+      "start_char": 1629,
+      "end_char": 1844,
+      "content": "== Filmografisi == Bez Bebek, 1987 (Gülsen Tuncer ile birlikte) Soğuktu ve Yağmur Çiseliyordu, 1990 Bergama Der Ki: Ölüler Altın Takmaz, 1999 (Belgesel Film) Suna, 2007 Kilim: Köklere Yolculuk, 2010 (Belgesel Film)",
+      "char_count": 214,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1844,
+      "end_char": 2504,
+      "content": "== Dış bağlantılar == Suna: Türkan Şoray İçin Oluşturulan Proje, Söyleşi: Koray Karaermiş, Cinemascope dergisi, Sayı: 9, Mayıs 2007 Engin Ayça: ''Her Şey Geçer, Küllenir. Düşler Kalır. Aşk Kalır'', Söyleşi: Mesut Kara, Cinemascope dergisi, Sayı: 12, Kasım 2007 Engin Ayça’nın kamerasıyla Bergama mücadelesi, NTV Engin Ayça – Yeni Sinema, Genç Sinema, Yedinci Sanat (1968-1975) 25 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi., Sinematek, Söyleşi Engin Ayça 27 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi., Oktay Aras Kitaplığı Engin Ayça 18 Temmuz 2016 tarihinde Wayback Machine sitesinde arşivlendi., ekşi sözlük Engin Ayça, Facebook",
+      "char_count": 659,
+      "token_estimate": 164
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sinema yönetmenliği alanında eğitim almak için hangi okullara gitmiştir?",
+        "answer": "Roma'da Instituto Superiore Dell Opinione Publica ve Centro Sperimentale Di Cinematografia okullarına gitmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Engin Ayça'nın metinlerde belirtilen kariyeri boyunca üstlendiği farklı mesleki roller nelerdir?",
+        "answer": "Engin Ayça, bir Türk film yönetmeni ve senarist olmasının yanı sıra, İstanbul Üniversitesi Foto Film Merkezi'nde çalışmış, Yedinci Sanat ve Ve Sinema gibi sinema dergilerinde yazarlık ve yayıncılık yapmıştır. Ayrıca TRT İstanbul Televizyonu'nda belgesel filmler ve kültür programları yönetmiş, Yılmaz Güney'in Arkadaş filminde asistanlık görevini üstlenmiştir. Daha sonra senaryosunu yazıp yönettiği sinema filmleri çekmiş, çeşitli dergi ve gazetelerde sinema üzerine yazılar yazmış, röportajlar ve çeviriler yapmış, iki sinema kitabı çevirmiş ve kendi sinema yazılarını bir kitapta toplamıştır. Son olarak, Marmara Üniversitesi Sinema-Televizyon Sanat Dalı'nda öğretim görevlisi olarak da görev almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

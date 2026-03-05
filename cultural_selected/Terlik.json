@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "terlik_78fe4aa2",
+    "title": "Terlik",
+    "url": "https://tr.wikipedia.org/wiki/Terlik",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:25.323078",
+    "content": "Terlik, farklı biçimlerde olabilen, özellikle evde giyilen, arkası açık ayakkabı çeşididir. Kumaş, yün, ipek, ahşap, deri, lastik veya sentetik malzemelerden yapılır. Modern dünyamızda bildiğimiz haliyle terlikler Florence Melton veya Alvin Slipper tarafından icat edilmiş olabilir. Erken Kantabria mağara resimleri en eski terlikleri gösterir. Vietnam terlikleri 12. yüzyıla kadar uzanır. Orta Doğu, İran, Arabistan ve İtalya da yumuşak terlikler geliştirdi. Bazı bilgiler, 1940'larda II. Dünya Savaşı sırasında icat edildiğini beyan ediyor. Florence Melton o sırada askerlerin giydiği kaskları iyileştirmek için uygun malzemeler üzerinde çalışıyordu. Proje üzerinde çalışırken, köpüğün dayanıklılığı, yumuşaklığı ve yıkanmasının kolaylığı nedeniyle sadece askerlerin başları için değil, aynı zamanda ayakları için de mükemmel bir konfor malzemesi olduğunu keşfetti! Keşfi, bugün hala mevcut olan popüler bir marka altında ilk köpük tabanlı ve yıkanabilir terliğin icat edilmesine yol açtı. Diğer anekdotsal kanıtlar, Alvin Slipper'ın terlik, salon ve kapalı alan ayakkabısı fikrini sadece soğuk ayaklardan bıktığı için bulduğunu gösteriyor! Bu açıklamayı sevsek de, bunun sadece bir şehir efsanesi olması da mümkün. İlk terlikler 1400′lerde Avrupa'da giyilmeye başlanan topuksuz ve yanları açık ayakkabılardı. 1900′lü yıllarda ise Osmanlı saray mensupları da uzun topuklu terlikler giymeye başlamıştı. Yaz aylarında ayağın rahat etmesi için daha fazla giyilir. Türkiye'de bazı yörelerde başa giyilen kıyafetlere de terlik denmektedir. == Ayrıca bakınız == Parmak arası terlik Slayt terlik Zōri == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 213,
+      "char_count": 1610,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.356159",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Terlik, farklı biçimlerde olabilen, özellikle evde giyilen, arkası açık ayakkabı çeşididir. Kumaş, yün, ipek, ahşap, deri, lastik veya sentetik malzemelerden yapılır. Modern dünyamızda bildiğimiz haliyle terlikler Florence Melton veya Alvin Slipper tarafından icat edilmiş olabilir. Erken Kantabria mağara resimleri en eski terlikleri gösterir. Vietnam terlikleri 12. yüzyıla kadar uzanır. Orta Doğu, İran, Arabistan ve İtalya da yumuşak terlikler geliştirdi. Bazı bilgiler, 1940'larda II. Dünya Savaşı sırasında icat edildiğini beyan ediyor. Florence Melton o sırada askerlerin giydiği kaskları iyileştirmek için uygun malzemeler üzerinde çalışıyordu. Proje üzerinde çalışırken, köpüğün dayanıklılığı, yumuşaklığı ve yıkanmasının kolaylığı nedeniyle sadece askerlerin başları için değil, aynı zamanda ayakları için de mükemmel bir konfor malzemesi olduğunu keşfetti! Keşfi, bugün hala mevcut olan popüler bir marka altında ilk köpük tabanlı ve yıkanabilir terliğin icat edilmesine yol açtı. Diğer an",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1536,
+      "content": "a ayakları için de mükemmel bir konfor malzemesi olduğunu keşfetti! Keşfi, bugün hala mevcut olan popüler bir marka altında ilk köpük tabanlı ve yıkanabilir terliğin icat edilmesine yol açtı. Diğer anekdotsal kanıtlar, Alvin Slipper'ın terlik, salon ve kapalı alan ayakkabısı fikrini sadece soğuk ayaklardan bıktığı için bulduğunu gösteriyor! Bu açıklamayı sevsek de, bunun sadece bir şehir efsanesi olması da mümkün. İlk terlikler 1400′lerde Avrupa'da giyilmeye başlanan topuksuz ve yanları açık ayakkabılardı. 1900′lü yıllarda ise Osmanlı saray mensupları da uzun topuklu terlikler giymeye başlamıştı. Yaz aylarında ayağın rahat etmesi için daha fazla giyilir. Türkiye'de bazı yörelerde başa giyilen kıyafetlere de terlik denmektedir.",
+      "char_count": 736,
+      "token_estimate": 184
+    },
+    {
+      "id": "c0002",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1537,
+      "end_char": 1596,
+      "content": "== Ayrıca bakınız == Parmak arası terlik Slayt terlik Zōri",
+      "char_count": 58,
+      "token_estimate": 14
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Florence Melton, köpüğün hangi özelliklerini keşfetti?",
+        "answer": "Florence Melton, köpüğün dayanıklılığını, yumuşaklığını ve yıkanmasının kolaylığını keşfetti.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Terliklerin modern dünyadaki icatlarına dair Florence Melton ve Alvin Slipper'a atfedilen açıklamalar ile metinde bahsedilen erken dönem terlik kullanımları arasındaki ilişki nedir?",
+        "answer": "Metin, terliklerin modern dünyada Florence Melton'ın 1940'larda köpük tabanlı ve yıkanabilir terlikleri keşfetmesiyle veya Alvin Slipper'ın soğuk ayaklardan sıkılmasıyla icat edilmiş olabileceğini belirtirken, aynı zamanda çok daha eski tarihsel kanıtlara da değinmektedir. Bu kanıtlar arasında en eski terlikleri gösteren erken Kantabria mağara resimleri, 12. yüzyıla uzanan Vietnam terlikleri, Orta Doğu, İran, Arabistan ve İtalya'da geliştirilen yumuşak terlikler ve 1400'lerde Avrupa'da giyilen topuksuz ayakkabılar bulunmaktadır. Bu durum, terliğin modern bir icattan ziyade, farklı coğrafyalarda ve zamanlarda gelişen çok eski bir ayakkabı türü olduğunu, modern açıklamaların ise belirli bir terlik türünün veya kullanımının yakın zamandaki gelişimini işaret ettiğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "eitimkltrsporbilimve_d6b61f77",
+    "title": "Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığı",
+    "url": "https://tr.wikipedia.org/wiki/E%C4%9Fitim%2C_K%C3%BClt%C3%BCr%2C_Spor%2C_Bilim_ve_Teknoloji_Bakanl%C4%B1%C4%9F%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:00.143442",
+    "content": "Japonya Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığı (Japonca: 文部科学省 Monbu-kagaku-shō) veya kısaca MEXT, Japonya'da eğitim, kültür, spor, bilim ve teknolojiden sorumlu bakanlıktır. İlk olarak 1871'de Meiji dönemi sırasında kurulmuş olup günümüz bakanlık Ocak 2001 tarihinde Eğitim Bakanlığı ile Bilim ve Teknoloji Ajansı'nın birleşmesiyle kurulmuştur. Bakanlık Tokyo'nun Chiyoda semtine bağlı Kasumigaseki semtinde yer almaktadır. Mevcut bakan Youhei Matsumoto'dur. == Tarihi == Meiji hükûmeti 1871'de ilk Eğitim Bakanlığı'nı kurdu. Ocak 2001'de, eski Eğitim, Bilim, Spor ve Kültür Bakanlığı (文部省, Monbu-shō) ve eski Bilim ve Teknoloji Ajansı (科学 技術 庁, Kagaku-gijutsu-chō), mevcut MEXT olmak üzere birleşti. == Organizasyonlar == Eğitim, Kültür, Spor, Bilim Ve Teknoloji Bakanlığı şu anda Eğitim, Kültür, Spor, Bilim Ve Teknoloji Bakanı tarafından yönetilmektedir. Bu görevde iki Devlet Bakanı, iki Parlamento Bakan Yardımcısı, idari Bakan Yardımcısı ve iki Bakan Yardımcısı bulunmaktadır. Ayrıca, organizasyon aşağıdaki gibi bölünmüştür. === Bakan sekreterliği === Bakan Sekreterliği, Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığını bir bütün olarak etkileyen genel politikaları yöneten bölümdür. Bu işlevler, denetleme politikaları, toplum ilişkileri ve hem iç hem de uluslararası ilişkiler için genel insan kaynakları yönetimi gibi birçok idari işi içerir. === Uluslararası İlişkiler Genel Müdürü === Eğitim, Kültür, Spor, Bilim Ve Teknoloji Bakanlığı'nın sitesine göre Uluslararası İlişkiler Genel Müdürü, Japonya Ulusal Komisyonu ile Birleşmiş Milletler Eğitim Bilim ve UNESCO arasındaki ana temas noktasıdır. İki örgütün ortak amacı eğitim, bilim ve kültür yoluyla karşılıklı, sürdürülebilir kalkınma yaratmaktır. === Tesis Planlama ve Afet Önleme Bölümü === Tesis Planlama ve Afet Önleme Bölümü, okul tesislerinin deprem gibi afetlerin neden olduğu hasarı azaltma becerisine odaklanmakla görevlidir. Bunun da ötesinde, Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığı'nın sitesi, görevlerinin bir kısmını üniversitelerin eğitim ve araştırma faaliyetlerindeki çabalarını teşvik etmek olarak tanımlamaktadır. == Kaynakça == == Dış bağlantılar == Resmî site (Japonca) (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 288,
+      "char_count": 2196,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.879414",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 472,
+      "content": "Japonya Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığı (Japonca: 文部科学省 Monbu-kagaku-shō) veya kısaca MEXT, Japonya'da eğitim, kültür, spor, bilim ve teknolojiden sorumlu bakanlıktır. İlk olarak 1871'de Meiji dönemi sırasında kurulmuş olup günümüz bakanlık Ocak 2001 tarihinde Eğitim Bakanlığı ile Bilim ve Teknoloji Ajansı'nın birleşmesiyle kurulmuştur. Bakanlık Tokyo'nun Chiyoda semtine bağlı Kasumigaseki semtinde yer almaktadır. Mevcut bakan Youhei Matsumoto'dur.",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 472,
+      "end_char": 714,
+      "content": "== Tarihi == Meiji hükûmeti 1871'de ilk Eğitim Bakanlığı'nı kurdu. Ocak 2001'de, eski Eğitim, Bilim, Spor ve Kültür Bakanlığı (文部省, Monbu-shō) ve eski Bilim ve Teknoloji Ajansı (科学 技術 庁, Kagaku-gijutsu-chō), mevcut MEXT olmak üzere birleşti.",
+      "char_count": 241,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0002",
+      "section": "== Organizasyonlar ==",
+      "heading_path": "== Organizasyonlar ==",
+      "start_char": 714,
+      "end_char": 1045,
+      "content": "== Organizasyonlar == Eğitim, Kültür, Spor, Bilim Ve Teknoloji Bakanlığı şu anda Eğitim, Kültür, Spor, Bilim Ve Teknoloji Bakanı tarafından yönetilmektedir. Bu görevde iki Devlet Bakanı, iki Parlamento Bakan Yardımcısı, idari Bakan Yardımcısı ve iki Bakan Yardımcısı bulunmaktadır. Ayrıca, organizasyon aşağıdaki gibi bölünmüştür.",
+      "char_count": 330,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0003",
+      "section": "=== Bakan sekreterliği ===",
+      "heading_path": "=== Bakan sekreterliği ===",
+      "start_char": 1045,
+      "end_char": 1371,
+      "content": "=== Bakan sekreterliği === Bakan Sekreterliği, Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığını bir bütün olarak etkileyen genel politikaları yöneten bölümdür. Bu işlevler, denetleme politikaları, toplum ilişkileri ve hem iç hem de uluslararası ilişkiler için genel insan kaynakları yönetimi gibi birçok idari işi içerir.",
+      "char_count": 325,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0004",
+      "section": "=== Uluslararası İlişkiler Genel Müdürü ===",
+      "heading_path": "=== Uluslararası İlişkiler Genel Müdürü ===",
+      "start_char": 1371,
+      "end_char": 1731,
+      "content": "=== Uluslararası İlişkiler Genel Müdürü === Eğitim, Kültür, Spor, Bilim Ve Teknoloji Bakanlığı'nın sitesine göre Uluslararası İlişkiler Genel Müdürü, Japonya Ulusal Komisyonu ile Birleşmiş Milletler Eğitim Bilim ve UNESCO arasındaki ana temas noktasıdır. İki örgütün ortak amacı eğitim, bilim ve kültür yoluyla karşılıklı, sürdürülebilir kalkınma yaratmaktır.",
+      "char_count": 359,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0005",
+      "section": "=== Tesis Planlama ve Afet Önleme Bölümü ===",
+      "heading_path": "=== Tesis Planlama ve Afet Önleme Bölümü ===",
+      "start_char": 1731,
+      "end_char": 2127,
+      "content": "=== Tesis Planlama ve Afet Önleme Bölümü === Tesis Planlama ve Afet Önleme Bölümü, okul tesislerinin deprem gibi afetlerin neden olduğu hasarı azaltma becerisine odaklanmakla görevlidir. Bunun da ötesinde, Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığı'nın sitesi, görevlerinin bir kısmını üniversitelerin eğitim ve araştırma faaliyetlerindeki çabalarını teşvik etmek olarak tanımlamaktadır.",
+      "char_count": 395,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2142,
+      "end_char": 2196,
+      "content": "== Dış bağlantılar == Resmî site (Japonca) (İngilizce)",
+      "char_count": 54,
+      "token_estimate": 13
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "MEXT'in tam adı nedir?",
+        "answer": "Japonya Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığı.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Japonya Eğitim, Kültür, Spor, Bilim ve Teknoloji Bakanlığı (MEXT) nasıl birleşme ve yeniden yapılandırma süreçleriyle mevcut haline ulaşmıştır?",
+        "answer": "MEXT'in kökenleri 1871'de Meiji hükûmeti tarafından kurulan ilk Eğitim Bakanlığı'na dayanmaktadır. Ocak 2001'de ise eski Eğitim, Bilim, Spor ve Kültür Bakanlığı ile eski Bilim ve Teknoloji Ajansı'nın birleşmesiyle günümüzdeki bakanlık olarak kurulmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

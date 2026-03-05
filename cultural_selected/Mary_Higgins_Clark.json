@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "maryhigginsclark_dea196f2",
+    "title": "Mary Higgins Clark",
+    "url": "https://tr.wikipedia.org/wiki/Mary_Higgins_Clark",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:24.556971",
+    "content": "Mary Theresa Eleanor Higgins Clark Conheeney, bilinen adıyla: Mary Higgins Clark, (24 Aralık 1927; Bronx, New York-31 Ocak 2020), Amerikalı hikâye yazarı ve romancı. == Yaşamı ve kariyeri == Higgins Clark İngiliz ve İrlanda kökenli bir ailenin kızı olarak 27 Aralık 1927'de Bronx, New York'ta doğdu. 1975'ten itibaren roman tarzında eserler yazmaya başlayan Higgins Clark'ın yazmış olduğu gizem ve romantik türde 48 klasik eseri sinemaya aktarılmıştır. Yaşamı boyunca kaleme aldığı 50'nin üzerinde romanından her biri Amerika Birleşik Devletleri ve çeşitli Avrupa ülkelerinde en çok satan kitaplar listelerinde rafların üst sıralarında yer aldı. Romantik ve gizem türünde roman çalışmalarından sonra 2015'te kaleme aldığı gerilim türünde ilk romanı olan Where Are The Children yetmiş beşinci baskıya ulaşarak yazarın başarı çıtasını daha da yükseltmiştir. == Özel yaşamı ve ölümü == Higgins Clark yaşamı boyunca üç evlilik geçirmiş 5'i evlatlık birisi kendi kızı olmak üzere 6 çocuk sahibi olmuştur. Amerikalı kadın roman yazarı Mary Higgins Clark yaşamının son yıllarını geçirdiği Naples, Florida'da 31 Ocak 2020'de 92 yaşında ölmüştür. == Eserleri == Aspire to the Heaven (1968) Reeditada en 2002 Where are the children?, 1975) A stranger is watching, 1978) The cradle will fall, 1980) A cry in the night, 1982) Stillwatch, 1984) Weep no more my lady, 1987) While my pretty one sleeps, 1989) The Anastasia syndrome, 1989) Loves music, loves to dance, 1991) All around the town, 1992) I'll Be Seeing You, 1993) Remember me, 1994) The Lottery Winner: Alvirah & Willy Stories, 1994) Let me call you sweetheart, 1995) Death on the Cape, 1995) Silent night, 1995) Moonlight Becomes You, 1996) My gal Sunday, 1996) Pretend You Don't See Her, (1997) All through the night, 1998) You Belong to me, 1998) We'll Meet Again, 1999) Before I Say Good-bye, 2000) Deck the Halls, con su hija Carol Higgins Clark, 2000) Daddy's Little Girl, 2002) Private Kitchen, 2000) On the Street Where You Live, 2001) He Sees You When You're Sleeping, con su hija Carol Higgins Clark, 2001) Mount Vernon Love Story, 2002) Reedición de Aspire to the Heaven, 1968 The Second Time Around, 2004) The Christmas Thief, con su hija Carol Higgins Clark, 2004) Nightime Is My Time, 2005) No Place Like Home, 2005) Two Little Girls in Blue, 2006) I Heard That Song Before, 2007) Where Are You Now?, 2008) Santa Cruise, con su hija Carol Higgins Clark, 2008) Dashing Through the Snow, con su hija Carol Higgins Clark, 2008) Just Take My Heart, 2009) The Shadow of your Smile, 2010) I´ll walk alone, 2011) The Lost Years, 2012) Daddy's Gone A Hunting, 2013) I've got you under my skin, 2014) The Cinderella murder, 2014) coautora con Alafair Burke The melody lingers on, 2015 All Dresde in white (2015) coautora con Alafair Burke == Çevrilmiş çalışmaları == \"Ghost Ship\", 2007 (çerviri Wendell Minor) \"The Magical Christmas Horse\", 2011 (içeviri Wendell Minor) == Oto biyografileri == \"Kitchen Privileges\", 2002 == Kaynakça == == Dış bağlantılar == Resmî site Mary Higgins Clark at Fantastic Fiction 28 Ocak 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 500,
+      "char_count": 3122,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.237929",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 166,
+      "content": "Mary Theresa Eleanor Higgins Clark Conheeney, bilinen adıyla: Mary Higgins Clark, (24 Aralık 1927; Bronx, New York-31 Ocak 2020), Amerikalı hikâye yazarı ve romancı.",
+      "char_count": 165,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 166,
+      "end_char": 856,
+      "content": "== Yaşamı ve kariyeri == Higgins Clark İngiliz ve İrlanda kökenli bir ailenin kızı olarak 27 Aralık 1927'de Bronx, New York'ta doğdu. 1975'ten itibaren roman tarzında eserler yazmaya başlayan Higgins Clark'ın yazmış olduğu gizem ve romantik türde 48 klasik eseri sinemaya aktarılmıştır. Yaşamı boyunca kaleme aldığı 50'nin üzerinde romanından her biri Amerika Birleşik Devletleri ve çeşitli Avrupa ülkelerinde en çok satan kitaplar listelerinde rafların üst sıralarında yer aldı. Romantik ve gizem türünde roman çalışmalarından sonra 2015'te kaleme aldığı gerilim türünde ilk romanı olan Where Are The Children yetmiş beşinci baskıya ulaşarak yazarın başarı çıtasını daha da yükseltmiştir.",
+      "char_count": 689,
+      "token_estimate": 172
+    },
+    {
+      "id": "c0002",
+      "section": "== Özel yaşamı ve ölümü ==",
+      "heading_path": "== Özel yaşamı ve ölümü ==",
+      "start_char": 856,
+      "end_char": 1138,
+      "content": "== Özel yaşamı ve ölümü == Higgins Clark yaşamı boyunca üç evlilik geçirmiş 5'i evlatlık birisi kendi kızı olmak üzere 6 çocuk sahibi olmuştur. Amerikalı kadın roman yazarı Mary Higgins Clark yaşamının son yıllarını geçirdiği Naples, Florida'da 31 Ocak 2020'de 92 yaşında ölmüştür.",
+      "char_count": 281,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0003",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1138,
+      "end_char": 2138,
+      "content": "== Eserleri == Aspire to the Heaven (1968) Reeditada en 2002 Where are the children?, 1975) A stranger is watching, 1978) The cradle will fall, 1980) A cry in the night, 1982) Stillwatch, 1984) Weep no more my lady, 1987) While my pretty one sleeps, 1989) The Anastasia syndrome, 1989) Loves music, loves to dance, 1991) All around the town, 1992) I'll Be Seeing You, 1993) Remember me, 1994) The Lottery Winner: Alvirah & Willy Stories, 1994) Let me call you sweetheart, 1995) Death on the Cape, 1995) Silent night, 1995) Moonlight Becomes You, 1996) My gal Sunday, 1996) Pretend You Don't See Her, (1997) All through the night, 1998) You Belong to me, 1998) We'll Meet Again, 1999) Before I Say Good-bye, 2000) Deck the Halls, con su hija Carol Higgins Clark, 2000) Daddy's Little Girl, 2002) Private Kitchen, 2000) On the Street Where You Live, 2001) He Sees You When You're Sleeping, con su hija Carol Higgins Clark, 2001) Mount Vernon Love Story, 2002) Reedición de Aspire to the Heaven, 1968 Th",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1938,
+      "end_char": 2791,
+      "content": "te Kitchen, 2000) On the Street Where You Live, 2001) He Sees You When You're Sleeping, con su hija Carol Higgins Clark, 2001) Mount Vernon Love Story, 2002) Reedición de Aspire to the Heaven, 1968 The Second Time Around, 2004) The Christmas Thief, con su hija Carol Higgins Clark, 2004) Nightime Is My Time, 2005) No Place Like Home, 2005) Two Little Girls in Blue, 2006) I Heard That Song Before, 2007) Where Are You Now?, 2008) Santa Cruise, con su hija Carol Higgins Clark, 2008) Dashing Through the Snow, con su hija Carol Higgins Clark, 2008) Just Take My Heart, 2009) The Shadow of your Smile, 2010) I´ll walk alone, 2011) The Lost Years, 2012) Daddy's Gone A Hunting, 2013) I've got you under my skin, 2014) The Cinderella murder, 2014) coautora con Alafair Burke The melody lingers on, 2015 All Dresde in white (2015) coautora con Alafair Burke",
+      "char_count": 853,
+      "token_estimate": 213
+    },
+    {
+      "id": "c0005",
+      "section": "== Çevrilmiş çalışmaları ==",
+      "heading_path": "== Çevrilmiş çalışmaları ==",
+      "start_char": 2792,
+      "end_char": 2923,
+      "content": "== Çevrilmiş çalışmaları == \"Ghost Ship\", 2007 (çerviri Wendell Minor) \"The Magical Christmas Horse\", 2011 (içeviri Wendell Minor)",
+      "char_count": 130,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0006",
+      "section": "== Oto biyografileri ==",
+      "heading_path": "== Oto biyografileri ==",
+      "start_char": 2923,
+      "end_char": 2974,
+      "content": "== Oto biyografileri == \"Kitchen Privileges\", 2002",
+      "char_count": 50,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2989,
+      "end_char": 3122,
+      "content": "== Dış bağlantılar == Resmî site Mary Higgins Clark at Fantastic Fiction 28 Ocak 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 133,
+      "token_estimate": 33
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Aspire to the Heaven adlı eserin ilk yayınlanma yılı kaçtı?",
+        "answer": "1968",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mary Higgins Clark'ın doğum tarihi hakkında sağlanan parçalar arasında bir tutarsızlık var mıdır?",
+        "answer": "Evet, bir parça doğum tarihini 24 Aralık 1927 olarak belirtirken, diğer parça 27 Aralık 1927 olarak belirtmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

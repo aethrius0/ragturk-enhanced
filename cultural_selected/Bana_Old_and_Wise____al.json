@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "banaoldandwiseal_66df23fd",
+    "title": "Bana Old and Wise'ı Çal",
+    "url": "https://tr.wikipedia.org/wiki/Bana_Old_and_Wise%27%C4%B1_%C3%87al",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:29.543226",
+    "content": "Bana Old and Wise'ı Çal, Çağan Irmak'ın 1998 yılında çektiği kısa film. Film, televizyonlarda yayımlanmamış, gösterimi festivallerle sınırlı kalmıştır. Ancak, Çağan Irmak'ın izniyle, bir internet sitesinden indirilebilir durumdadır. Başrollerinde Derya Alabora ile Erkan Can'ın oynadığı film, Irmak'ın sonradan senaryosunu yazacağı gerilim serisi Kabuslar Evi'nin ilk ipuçlarını vermektedir. İlk olarak sekiz yıl sonra yayınlanacak Kabuslar Evi'nin ilk bölümü olarak düşünülmüştür. == Konusu == Oğuz, gece saatlerinde program yapan bir radyo programcısıdır. Bir gece, Onur adında bir adam, kendisinden Eda adında bir kadın için The Alan Parsons Project'ten Old and Wise adlı şarkıyı çalmasını ister. Ertesi gün programı dinleyen arkadaşı Zuhal bunu kendisine anlattığında, Eda çok şaşıracaktır. Çünkü, bu kendisiyle Onur için özel bir parçadır; fakat, Onur bir süre önce ölmüştür. == Oyuncular ve karakterler == Derya Alabora - Eda Erkan Can - Oğuz Tomris İncer - Oğuz'un annesi Nedim Doğan - Çaycı Naz Önel - Zuhal == Filmin müzikleri == Oğuz'un radyoda çaldığı parçalar sırayla aşağıdaki gibidir. Ten Sharp - Lonely Heart Dire Straits - Brothers in Arms Oleta Adams - New York State of Mind Cher - The Way of Love Alan Parsons Project - Old and Wise Kate Bush - The Fog Bee Gees - Wish You Were Here == Notlar == Çağan Irmak, bu filmi çekmeden önce Şaşıfelek Çıkmazı dizisinde yönetmen Mahinur Ergun'un asistanlığını yapmıştır. Bu dizinin de başrol oyuncusu Derya Alabora'dır. Irmak, filmi daha önce Kabuslar Evi projesinin bölümlerinden biri olarak tasarlamıştır. == Ödül == İFSAK Kısa Film Festivali Birincilik Ödülü, 1998 BenimSinemalarim.com En iyi Seyirci ödülü 2006 == Kaynakça == == Dış bağlantılar == kameraarkasi.org10 Ekim 2018 tarihinde Wayback Machine sitesinde arşivlendi. - Filmle ilgili bilgi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 270,
+      "char_count": 1809,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.919918",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 482,
+      "content": "Bana Old and Wise'ı Çal, Çağan Irmak'ın 1998 yılında çektiği kısa film. Film, televizyonlarda yayımlanmamış, gösterimi festivallerle sınırlı kalmıştır. Ancak, Çağan Irmak'ın izniyle, bir internet sitesinden indirilebilir durumdadır. Başrollerinde Derya Alabora ile Erkan Can'ın oynadığı film, Irmak'ın sonradan senaryosunu yazacağı gerilim serisi Kabuslar Evi'nin ilk ipuçlarını vermektedir. İlk olarak sekiz yıl sonra yayınlanacak Kabuslar Evi'nin ilk bölümü olarak düşünülmüştür.",
+      "char_count": 481,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 482,
+      "end_char": 881,
+      "content": "== Konusu == Oğuz, gece saatlerinde program yapan bir radyo programcısıdır. Bir gece, Onur adında bir adam, kendisinden Eda adında bir kadın için The Alan Parsons Project'ten Old and Wise adlı şarkıyı çalmasını ister. Ertesi gün programı dinleyen arkadaşı Zuhal bunu kendisine anlattığında, Eda çok şaşıracaktır. Çünkü, bu kendisiyle Onur için özel bir parçadır; fakat, Onur bir süre önce ölmüştür.",
+      "char_count": 398,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyuncular ve karakterler ==",
+      "heading_path": "== Oyuncular ve karakterler ==",
+      "start_char": 881,
+      "end_char": 1016,
+      "content": "== Oyuncular ve karakterler == Derya Alabora - Eda Erkan Can - Oğuz Tomris İncer - Oğuz'un annesi Nedim Doğan - Çaycı Naz Önel - Zuhal",
+      "char_count": 134,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0003",
+      "section": "== Filmin müzikleri ==",
+      "heading_path": "== Filmin müzikleri ==",
+      "start_char": 1016,
+      "end_char": 1302,
+      "content": "== Filmin müzikleri == Oğuz'un radyoda çaldığı parçalar sırayla aşağıdaki gibidir. Ten Sharp - Lonely Heart Dire Straits - Brothers in Arms Oleta Adams - New York State of Mind Cher - The Way of Love Alan Parsons Project - Old and Wise Kate Bush - The Fog Bee Gees - Wish You Were Here",
+      "char_count": 285,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0004",
+      "section": "== Notlar ==",
+      "heading_path": "== Notlar ==",
+      "start_char": 1302,
+      "end_char": 1567,
+      "content": "== Notlar == Çağan Irmak, bu filmi çekmeden önce Şaşıfelek Çıkmazı dizisinde yönetmen Mahinur Ergun'un asistanlığını yapmıştır. Bu dizinin de başrol oyuncusu Derya Alabora'dır. Irmak, filmi daha önce Kabuslar Evi projesinin bölümlerinden biri olarak tasarlamıştır.",
+      "char_count": 264,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0005",
+      "section": "== Ödül ==",
+      "heading_path": "== Ödül ==",
+      "start_char": 1567,
+      "end_char": 1674,
+      "content": "== Ödül == İFSAK Kısa Film Festivali Birincilik Ödülü, 1998 BenimSinemalarim.com En iyi Seyirci ödülü 2006",
+      "char_count": 106,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1689,
+      "end_char": 1809,
+      "content": "== Dış bağlantılar == kameraarkasi.org10 Ekim 2018 tarihinde Wayback Machine sitesinde arşivlendi. - Filmle ilgili bilgi",
+      "char_count": 120,
+      "token_estimate": 30
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Çağan Irmak'ın 1998 yılında çektiği kısa film 'Bana Old and Wise'ı Çal'ın başrollerinde kimler oynamıştır?",
+        "answer": "Derya Alabora ile Erkan Can",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bana Old and Wise'ı Çal\" filminin adı, filmdeki hangi merkezi olaydan türemiştir ve bu olay filmin ana temasını nasıl yansıtır?",
+        "answer": "Filmin adı, Onur'un bir radyo programcısı olan Oğuz'dan Eda için The Alan Parsons Project'ten \"Old and Wise\" adlı şarkıyı çalmasını istemesi olayından türemiştir. Bu olay, Onur'un yakın zamanda ölmüş olması ve şarkının kendisiyle Eda için özel bir anlam taşıması nedeniyle, filmdeki kayıp, anma ve özel bağların önemine dair ana temayı yansıtır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

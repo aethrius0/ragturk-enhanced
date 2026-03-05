@@ -1,0 +1,153 @@
+{
+  "article": {
+    "id": "robotletimsistemi_ead22677",
+    "title": "Robot İşletim Sistemi",
+    "url": "https://tr.wikipedia.org/wiki/Robot_%C4%B0%C5%9Fletim_Sistemi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:18.206221",
+    "content": "Robot İşletim Sistemi (RİS) robot yazılımı geliştiricileri için işletim sistemi sağlayan bir yazılım iskeletidir. RİS HAL gibi standart bir işletim sistemi temin eder (Düşük seviyede cihaz kontrolü, çoğunlukla kullanılan işlevler, veri paylaşımı ve paket yönetimi). RİS tabanlı çalışan işlemler mimari grafikle gösterilir. Bu mimari grafiklerde çok kısımlı sensörlerin, kontrol mekanizmalarının, konumun, çalıştırıcının ve diğer işlemlerin verileri gösterilir. Robot kontrolünde düşük zamanlı gecikme olduğundan gerçek zamanlı işletim sistemi değildir. Fakat RİS eşzamanlı kodlarla entegre edilebilir. RİS ekosistemi nde yazılımlar üç başlık altında incelenebilir: Dil ve platform (RİS tabanlı yazılımları kurmak ve dağıtmak için kullanılan bağımsız araçlar); roscpp, ve roslisp gibi kütüphane uygulamaları; Kodlarla alakalı uygulama içeren paketler (bu kodlar bir veya birden fazla RİS kullanıcı kütüphanelerini kullanırlar). Bu diller ve kütüphaneler (C++, Python and LISP) BSD lisansı şartları altında açık kaynaklı yazılım olarak yayınlandı. Böylelikle ticari ve araştırma amaçlı kullanım ücretsiz oldu. Diğer paketlerin çoğunluğu açık kaynak lisansı aldı. Bu diğer paketler birçok işlevde; donanım sürücüleri, robot modelleri, veri tipleri, planlama, algılama, eş zamanlı olarak yerini belirleme, simülasyon araçları gibi birçok uygulamada kullanıldı. Ana RİS kullanıcı kütüphaneleri C++, Python, LISP dillerinde yazılmıştır ve Unix gibi sistemlerde çalışır. Bu kullanıcı kütüphaneleri Ubuntu Linux sisteminde desteklenirken diğer işletim sistemlerinde için deneysel durumdaydı. Yerel Java RİS kütüphanesi (rosjava) işletim sisteminden bağımsızdır ve Android İşletim Sistemi'nde yazılım geliştirmeyi destekler. Aynı zamanda rosjava; Linux, Mac OS X ve Microsoft Windows'ta bulunan MATLAB araç kutusuyla entegre edilebilir. Bir JavaScript kullanıcı kütüphanesi(roslibjs), yazılımı uyumlu internet tarayıcılarıyla RİS sistemine entegre edebilir. == Tarihçe == RİS ilk olarak Stanford Yapay Zeka Laboratuvarı'nda Stanford AI Robot STAIR (STanford AI Robot) projesi desteğiyle 2007 yılında geliştirildi. Çalışmalar 2008 ve 2013 yılları arasında Willow Garage adlı robotik araştırma enstitüsünde devam etti. Bu süre zarfında Willow Garage'daki mühendisler 20'den fazla kurumla işbirliği içerisinde bulundular. Şubat 2013'te RİS yönetimi OSR Vakfına geçti. Ağustos 2013'te Willow Garage'ın \"Suitable Technologies\" adlı bir şirkete devredilebileceği bir blog üzerinden açıklandı. Willow Garage tarafından oluşturulan PR2'nin destek sorumlulukları da sonradan Clearpath Robotics tarafından ele alındı. == Uygulamalar == RİS şunları içerir: Ana koordinat bağlantı noktası Veri akışına resim, lazer, stereo, kontrol, aktive edici gibi şeyler yayınlama veya alma Çoklu bilgi Bağlantı noktası oluşturma ve yok etme Çoklu işlemciler, ekran kartları ve depolama birimleri Günlük tutmak Parametre sunucusu Test sistemi RİS Paket Uygulamaları şunları içerecektir: İdrak Nesne Algılama Segmentasyon ve tanıma Yüz tanıma Jest ve mimik tanıma Hareket tanıma Egomotion Uzaklık ölçümü tespiti Stereo görme Hareket Kontrol Planlama == Sürüm geçmişi == RİS sürümleri diğer sürümleriyle uyumsuz olabilir ve her sürüm numaralandırmak yerine kod isimlerini almışlardır. Başlıca sürümler şunlardır: 23 Mayıs 2015 - Jade Turtle 22 Temmuz 2014 - Indigo Igloo (Nisan 2019'a kadar LTS sürümlü) 4 Eylül 2013 – Hydro Medusa 31 Kasım 2012 – Groovy Galapagos 23 Nisan 2012 – Fuerte 30 Ağustos 2011 – Electric Emys 2 Mart 2011 – Diamondback 3 Ağustos 2010 – C Turtle 1 Mart 2010 – Box Turtle 22 Ocak 2010 – ROS 1.0 == Bağlantı noktaları ve devre kartları == ABB, Adept, Motoman, and Universal Robots RİS desteklidir. Baxter - Rethink Robotics BeagleBoard - Leuven Katolik Üniversitesi, Belçika: Robot Laboratuvarı BeagleBoard'da RİS kullandı. HERB - Carniege Mellon Üniversitesi'nde İntel'in kendi robot programı olarak üretildi. Husky A200 - Clearpath Robotics tarafından üretilen robot PR1 - Ken Salisbury'nin laboratuvarında oluşturduğu kişisel robot PR2 - Willow Garage'da üretilen kişisel robot Raven II Cerrahi Robotik Araştırma Platformu rosbridge - protokol ve sunucu - Brown Üniversitesi JSON tabanlı mesajlaşma sistemlerini RİS ile entegre edebilmek için bu protokolü geliştirdi Shadow Robot Hand - Oldukça hünerli insansı bir el STAIR I ve II - Andrew Ng'nin laboratuvarında üretilmiştir. SummitXL - Robotnik tarafından üretilmiş bir mobil robottur. Nao humanoid - Freiburg Üniversitesi İnsansı Robot Laboratuvarı'nda geliştirilmiştir UBR1 - Unbounded Robotics tarafından geliştirilmiştir. == RİS paketleri == Roscopter, Mavlink 1.0 arayüzü kullanan ArduCopter için bir RİS arayüzüdür. Roscopter IMU üzerinden veriler ve bilgiler verir. Şu anda Hydro ve RİS alt sürümü için kullanılabilir. == Ayrıca bakınız == Açık Kaynak Donanım == Dış bağlantılar == Resmi internet sitesi8 Ekim 2015 tarihinde Wayback Machine sitesinde arşivlendi. Resmi wiki sitesi11 Ekim 2015 tarihinde Wayback Machine sitesinde arşivlendi. RİS hakkında sorular24 Temmuz 2012 tarihinde Wayback Machine sitesinde arşivlendi. RİS'le çalışan robotlar15 Ekim 2015 tarihinde Wayback Machine sitesinde arşivlendi. RİS endüstriyel internet sitesi7 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 707,
+      "char_count": 5266,
+      "num_chunks": 10,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.524908",
+    "total_chunks": 10,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Robot İşletim Sistemi (RİS) robot yazılımı geliştiricileri için işletim sistemi sağlayan bir yazılım iskeletidir. RİS HAL gibi standart bir işletim sistemi temin eder (Düşük seviyede cihaz kontrolü, çoğunlukla kullanılan işlevler, veri paylaşımı ve paket yönetimi). RİS tabanlı çalışan işlemler mimari grafikle gösterilir. Bu mimari grafiklerde çok kısımlı sensörlerin, kontrol mekanizmalarının, konumun, çalıştırıcının ve diğer işlemlerin verileri gösterilir. Robot kontrolünde düşük zamanlı gecikme olduğundan gerçek zamanlı işletim sistemi değildir. Fakat RİS eşzamanlı kodlarla entegre edilebilir. RİS ekosistemi nde yazılımlar üç başlık altında incelenebilir: Dil ve platform (RİS tabanlı yazılımları kurmak ve dağıtmak için kullanılan bağımsız araçlar); roscpp, ve roslisp gibi kütüphane uygulamaları; Kodlarla alakalı uygulama içeren paketler (bu kodlar bir veya birden fazla RİS kullanıcı kütüphanelerini kullanırlar). Bu diller ve kütüphaneler (C++, Python and LISP) BSD lisansı şartları alt",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "maları; Kodlarla alakalı uygulama içeren paketler (bu kodlar bir veya birden fazla RİS kullanıcı kütüphanelerini kullanırlar). Bu diller ve kütüphaneler (C++, Python and LISP) BSD lisansı şartları altında açık kaynaklı yazılım olarak yayınlandı. Böylelikle ticari ve araştırma amaçlı kullanım ücretsiz oldu. Diğer paketlerin çoğunluğu açık kaynak lisansı aldı. Bu diğer paketler birçok işlevde; donanım sürücüleri, robot modelleri, veri tipleri, planlama, algılama, eş zamanlı olarak yerini belirleme, simülasyon araçları gibi birçok uygulamada kullanıldı. Ana RİS kullanıcı kütüphaneleri C++, Python, LISP dillerinde yazılmıştır ve Unix gibi sistemlerde çalışır. Bu kullanıcı kütüphaneleri Ubuntu Linux sisteminde desteklenirken diğer işletim sistemlerinde için deneysel durumdaydı. Yerel Java RİS kütüphanesi (rosjava) işletim sisteminden bağımsızdır ve Android İşletim Sistemi'nde yazılım geliştirmeyi destekler. Aynı zamanda rosjava; Linux, Mac OS X ve Microsoft Windows'ta bulunan MATLAB araç ku",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1948,
+      "content": "ütüphanesi (rosjava) işletim sisteminden bağımsızdır ve Android İşletim Sistemi'nde yazılım geliştirmeyi destekler. Aynı zamanda rosjava; Linux, Mac OS X ve Microsoft Windows'ta bulunan MATLAB araç kutusuyla entegre edilebilir. Bir JavaScript kullanıcı kütüphanesi(roslibjs), yazılımı uyumlu internet tarayıcılarıyla RİS sistemine entegre edebilir.",
+      "char_count": 348,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1949,
+      "end_char": 2599,
+      "content": "== Tarihçe == RİS ilk olarak Stanford Yapay Zeka Laboratuvarı'nda Stanford AI Robot STAIR (STanford AI Robot) projesi desteğiyle 2007 yılında geliştirildi. Çalışmalar 2008 ve 2013 yılları arasında Willow Garage adlı robotik araştırma enstitüsünde devam etti. Bu süre zarfında Willow Garage'daki mühendisler 20'den fazla kurumla işbirliği içerisinde bulundular. Şubat 2013'te RİS yönetimi OSR Vakfına geçti. Ağustos 2013'te Willow Garage'ın \"Suitable Technologies\" adlı bir şirkete devredilebileceği bir blog üzerinden açıklandı. Willow Garage tarafından oluşturulan PR2'nin destek sorumlulukları da sonradan Clearpath Robotics tarafından ele alındı.",
+      "char_count": 649,
+      "token_estimate": 162
+    },
+    {
+      "id": "c0004",
+      "section": "== Uygulamalar ==",
+      "heading_path": "== Uygulamalar ==",
+      "start_char": 2599,
+      "end_char": 3115,
+      "content": "== Uygulamalar == RİS şunları içerir: Ana koordinat bağlantı noktası Veri akışına resim, lazer, stereo, kontrol, aktive edici gibi şeyler yayınlama veya alma Çoklu bilgi Bağlantı noktası oluşturma ve yok etme Çoklu işlemciler, ekran kartları ve depolama birimleri Günlük tutmak Parametre sunucusu Test sistemi RİS Paket Uygulamaları şunları içerecektir: İdrak Nesne Algılama Segmentasyon ve tanıma Yüz tanıma Jest ve mimik tanıma Hareket tanıma Egomotion Uzaklık ölçümü tespiti Stereo görme Hareket Kontrol Planlama",
+      "char_count": 515,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0005",
+      "section": "== Sürüm geçmişi ==",
+      "heading_path": "== Sürüm geçmişi ==",
+      "start_char": 3115,
+      "end_char": 3584,
+      "content": "== Sürüm geçmişi == RİS sürümleri diğer sürümleriyle uyumsuz olabilir ve her sürüm numaralandırmak yerine kod isimlerini almışlardır. Başlıca sürümler şunlardır: 23 Mayıs 2015 - Jade Turtle 22 Temmuz 2014 - Indigo Igloo (Nisan 2019'a kadar LTS sürümlü) 4 Eylül 2013 – Hydro Medusa 31 Kasım 2012 – Groovy Galapagos 23 Nisan 2012 – Fuerte 30 Ağustos 2011 – Electric Emys 2 Mart 2011 – Diamondback 3 Ağustos 2010 – C Turtle 1 Mart 2010 – Box Turtle 22 Ocak 2010 – ROS 1.0",
+      "char_count": 468,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0006",
+      "section": "== Bağlantı noktaları ve devre kartları ==",
+      "heading_path": "== Bağlantı noktaları ve devre kartları ==",
+      "start_char": 3584,
+      "end_char": 4570,
+      "content": "== Bağlantı noktaları ve devre kartları == ABB, Adept, Motoman, and Universal Robots RİS desteklidir. Baxter - Rethink Robotics BeagleBoard - Leuven Katolik Üniversitesi, Belçika: Robot Laboratuvarı BeagleBoard'da RİS kullandı. HERB - Carniege Mellon Üniversitesi'nde İntel'in kendi robot programı olarak üretildi. Husky A200 - Clearpath Robotics tarafından üretilen robot PR1 - Ken Salisbury'nin laboratuvarında oluşturduğu kişisel robot PR2 - Willow Garage'da üretilen kişisel robot Raven II Cerrahi Robotik Araştırma Platformu rosbridge - protokol ve sunucu - Brown Üniversitesi JSON tabanlı mesajlaşma sistemlerini RİS ile entegre edebilmek için bu protokolü geliştirdi Shadow Robot Hand - Oldukça hünerli insansı bir el STAIR I ve II - Andrew Ng'nin laboratuvarında üretilmiştir. SummitXL - Robotnik tarafından üretilmiş bir mobil robottur. Nao humanoid - Freiburg Üniversitesi İnsansı Robot Laboratuvarı'nda geliştirilmiştir UBR1 - Unbounded Robotics tarafından geliştirilmiştir.",
+      "char_count": 985,
+      "token_estimate": 246
+    },
+    {
+      "id": "c0007",
+      "section": "== RİS paketleri ==",
+      "heading_path": "== RİS paketleri ==",
+      "start_char": 4570,
+      "end_char": 4770,
+      "content": "== RİS paketleri == Roscopter, Mavlink 1.0 arayüzü kullanan ArduCopter için bir RİS arayüzüdür. Roscopter IMU üzerinden veriler ve bilgiler verir. Şu anda Hydro ve RİS alt sürümü için kullanılabilir.",
+      "char_count": 199,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0008",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 4770,
+      "end_char": 4811,
+      "content": "== Ayrıca bakınız == Açık Kaynak Donanım",
+      "char_count": 40,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0009",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 4811,
+      "end_char": 5252,
+      "content": "== Dış bağlantılar == Resmi internet sitesi8 Ekim 2015 tarihinde Wayback Machine sitesinde arşivlendi. Resmi wiki sitesi11 Ekim 2015 tarihinde Wayback Machine sitesinde arşivlendi. RİS hakkında sorular24 Temmuz 2012 tarihinde Wayback Machine sitesinde arşivlendi. RİS'le çalışan robotlar15 Ekim 2015 tarihinde Wayback Machine sitesinde arşivlendi. RİS endüstriyel internet sitesi7 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 440,
+      "token_estimate": 110
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Robot İşletim Sistemi (RİS) ne amaçla kullanılır?",
+        "answer": "Robot İşletim Sistemi (RİS), robot yazılımı geliştiricileri için işletim sistemi sağlayan bir yazılım iskeletidir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Robot İşletim Sistemi (RİS) ekosistemindeki ana kullanıcı kütüphaneleri (C++, Python ve LISP tabanlı) ile rosjava kütüphanesi arasındaki temel işletim sistemi uyumluluğu farklılıkları nelerdir ve bu kütüphanelerin lisanslama yaklaşımı nasıldır?",
+        "answer": "Ana RİS kullanıcı kütüphaneleri (C++, Python ve LISP dillerinde yazılmış olanlar) Unix benzeri sistemlerde çalışır, Ubuntu Linux'ta desteklenir ve diğer işletim sistemlerinde deneysel durumdadır. Buna karşılık, yerel Java RİS kütüphanesi (rosjava) işletim sisteminden bağımsızdır ve Android İşletim Sistemi'nde yazılım geliştirmeyi destekler; ayrıca Linux, Mac OS X ve Microsoft Windows'ta da mevcuttur. Her iki kütüphane grubu da (C++, Python ve LISP tabanlılar ile genel olarak RİS paketleri) açık kaynaklı olup, çoğu BSD lisansı altında ticari ve araştırma amaçlı kullanımı ücretsiz kılar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "kvintauri_1a8899a1",
+    "title": "Kvintauri",
+    "url": "https://tr.wikipedia.org/wiki/Kvintauri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:17.771865",
+    "content": "Kvintauri (Gürcüce: კვინტაური), Artvin ilinde bugünkü Borçka sınırları içinde eski bir yerleşimdir. Günümüzde \"Çifteler\" adıyla Balcı köyünün (eski adı Bagini) bir mahallesidir. == Tarihçe == Kvintauri, tarihsel Gürcistan'ın güneybatı bölümünü oluşturan bölgelerden biri olan Klarceti'de yer alır. Nitekim Osmanlılar bu bölgeyi 16. yüzyılın ilk yarısından itibaren Gürcülerden ele geçirmiştir. Gürcüce bir yer adı olan Kvintaruri (კვინტაური), “çifte, tekme” anlamına gelen “kvinti / kvinta” (კვინტი / კვინტა) kelimesinden türemiştir. Bu yer adı Türkçeye Kvintavul (قونطاوول) biçiminde girmiştir. Kvintarui, tarihsel olarak Deviskeli Vadisi'nin köylerinden biridir. Ancak birlikte eski Osmanlı kayıtlarında adı geçmemektedir. Bununla birlikte köy 19. yüzyılın ikinci yarısında Trabzon vilayetinin Lazistan sancağının Livana kazasının sınırları içinde kalıyordu. Kvintauri, 1877-1878 Osmanlı-Rus Savaşı'nın ardından imzalanan Berlin Antlaşması uyarınca Osmanlı Devleti tarafından Rusya'ya bırakıldı. Rus idaresinde Kvintauri, Batum sancağının Gonio kazasına bağlı köylerden biriydi. Rus idaresinde Kvintauri (Квинтаури) olarak kaydedilen köyde 1886 yılında 13 hanede, 55'i erkek ve 46'sı kadın olmak üzere 101 kişi yaşıyordu. Söz konusu nüfus Müslüman Gürcü anlamında \"Acaralar\" (Аджарцьт) olarak kaydedilmiştir. Kvintauri aynı zamanda bu kazadaki bir nahiyenin adıydı ve Kvintauri nahiyesi (сельское общество: kırsal topluluk) Deviskeli, Bagini ve Kvintauri köylerinden oluşuyordu. Kvintauri bu nahiyenin idari merkeziydi. Bu nahiyenin sınırları içinde, tamamı Gürcü olan 895 kişi yaşıyordu. Kvintauri köyü, Birinci Dünya Savaşı'nın sonunda Rusların bölgeden çekilmesinin ardından bir süre Gürcistan'ın sınırları içinde kaldı. Bu durum, 7 Mayıs 1920 tarihinde imzalanan Moskova Antlaşması'yla da Sovyet Rusya tarafından kabul edildi. Ancak Kızıl Ordu'nun Gürcistan'ı işgali sırasında, 16 Mart 1921'de imzalanan Moskova Antlaşması uyarınca Kvintauri Türkiye'ye bırakıldı. Kvintaruri veya Kvintavul, Türkçe olmadığı için köyün adı 1925 yılında Gürcüce adına uygun biçimde Çifteler olarak değiştirildi. 1926 tarihli nüfus tespitinde Çifteler (Kvintauri) köyü 14 haneden oluşuyordu. Bu sırada köyde, 34'ü erkek ve 31'i kadın olmak üzere 65 kişi yaşıyordu. Kvintauri köyü, 1928 tarihli Osmanlıca köy listesinde \"Çifteler\" (چفتەلر) adıyla bir köy olarak geçer. Ancak 1935 genel nüfus sayımında köy olarak yer almamış olması, Kvintauri'nni bu iki tarih arasında Balcı köyüne bir mahalle olarak bağlandığını göstermektedir. Kvintauri, günümüzde de \"Çifteler\" adıyla bu köyün bir mahallesidir. Kvintauri köyünde tek kemerli eski bir taş köprü bulunuyordu. Köprü yıkılmış, sadece ayakları kalmıştır. Bu ayaklar üzerinde sonradan beton köprü yapılmıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 353,
+      "char_count": 2757,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.256511",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 178,
+      "content": "Kvintauri (Gürcüce: კვინტაური), Artvin ilinde bugünkü Borçka sınırları içinde eski bir yerleşimdir. Günümüzde \"Çifteler\" adıyla Balcı köyünün (eski adı Bagini) bir mahallesidir.",
+      "char_count": 177,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 178,
+      "end_char": 1178,
+      "content": "== Tarihçe == Kvintauri, tarihsel Gürcistan'ın güneybatı bölümünü oluşturan bölgelerden biri olan Klarceti'de yer alır. Nitekim Osmanlılar bu bölgeyi 16. yüzyılın ilk yarısından itibaren Gürcülerden ele geçirmiştir. Gürcüce bir yer adı olan Kvintaruri (კვინტაური), “çifte, tekme” anlamına gelen “kvinti / kvinta” (კვინტი / კვინტა) kelimesinden türemiştir. Bu yer adı Türkçeye Kvintavul (قونطاوول) biçiminde girmiştir. Kvintarui, tarihsel olarak Deviskeli Vadisi'nin köylerinden biridir. Ancak birlikte eski Osmanlı kayıtlarında adı geçmemektedir. Bununla birlikte köy 19. yüzyılın ikinci yarısında Trabzon vilayetinin Lazistan sancağının Livana kazasının sınırları içinde kalıyordu. Kvintauri, 1877-1878 Osmanlı-Rus Savaşı'nın ardından imzalanan Berlin Antlaşması uyarınca Osmanlı Devleti tarafından Rusya'ya bırakıldı. Rus idaresinde Kvintauri, Batum sancağının Gonio kazasına bağlı köylerden biriydi. Rus idaresinde Kvintauri (Квинтаури) olarak kaydedilen köyde 1886 yılında 13 hanede, 55'i erkek v",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 978,
+      "end_char": 1978,
+      "content": "Rusya'ya bırakıldı. Rus idaresinde Kvintauri, Batum sancağının Gonio kazasına bağlı köylerden biriydi. Rus idaresinde Kvintauri (Квинтаури) olarak kaydedilen köyde 1886 yılında 13 hanede, 55'i erkek ve 46'sı kadın olmak üzere 101 kişi yaşıyordu. Söz konusu nüfus Müslüman Gürcü anlamında \"Acaralar\" (Аджарцьт) olarak kaydedilmiştir. Kvintauri aynı zamanda bu kazadaki bir nahiyenin adıydı ve Kvintauri nahiyesi (сельское общество: kırsal topluluk) Deviskeli, Bagini ve Kvintauri köylerinden oluşuyordu. Kvintauri bu nahiyenin idari merkeziydi. Bu nahiyenin sınırları içinde, tamamı Gürcü olan 895 kişi yaşıyordu. Kvintauri köyü, Birinci Dünya Savaşı'nın sonunda Rusların bölgeden çekilmesinin ardından bir süre Gürcistan'ın sınırları içinde kaldı. Bu durum, 7 Mayıs 1920 tarihinde imzalanan Moskova Antlaşması'yla da Sovyet Rusya tarafından kabul edildi. Ancak Kızıl Ordu'nun Gürcistan'ı işgali sırasında, 16 Mart 1921'de imzalanan Moskova Antlaşması uyarınca Kvintauri Türkiye'ye bırakıldı. Kvintaru",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1778,
+      "end_char": 2742,
+      "content": "ntlaşması'yla da Sovyet Rusya tarafından kabul edildi. Ancak Kızıl Ordu'nun Gürcistan'ı işgali sırasında, 16 Mart 1921'de imzalanan Moskova Antlaşması uyarınca Kvintauri Türkiye'ye bırakıldı. Kvintaruri veya Kvintavul, Türkçe olmadığı için köyün adı 1925 yılında Gürcüce adına uygun biçimde Çifteler olarak değiştirildi. 1926 tarihli nüfus tespitinde Çifteler (Kvintauri) köyü 14 haneden oluşuyordu. Bu sırada köyde, 34'ü erkek ve 31'i kadın olmak üzere 65 kişi yaşıyordu. Kvintauri köyü, 1928 tarihli Osmanlıca köy listesinde \"Çifteler\" (چفتەلر) adıyla bir köy olarak geçer. Ancak 1935 genel nüfus sayımında köy olarak yer almamış olması, Kvintauri'nni bu iki tarih arasında Balcı köyüne bir mahalle olarak bağlandığını göstermektedir. Kvintauri, günümüzde de \"Çifteler\" adıyla bu köyün bir mahallesidir. Kvintauri köyünde tek kemerli eski bir taş köprü bulunuyordu. Köprü yıkılmış, sadece ayakları kalmıştır. Bu ayaklar üzerinde sonradan beton köprü yapılmıştır.",
+      "char_count": 964,
+      "token_estimate": 241
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kvintauri, hangi antlaşma uyarınca Osmanlı Devleti tarafından Rusya'ya bırakılmıştır?",
+        "answer": "Berlin Antlaşması",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kvintauri'nin tarih boyunca geçirdiği idari ve ulusal statü değişiklikleri nelerdir ve bu değişiklikler hangi antlaşmalar veya olaylar sonucunda gerçekleşmiştir?",
+        "answer": "Kvintauri, tarihsel olarak Gürcistan'ın Klarceti bölgesinde bir yerleşimken, 16. yüzyılın ilk yarısında Osmanlı İmparatorluğu'nun egemenliğine geçmiştir. 1877-1878 Osmanlı-Rus Savaşı'nın ardından imzalanan Berlin Antlaşması uyarınca Osmanlı Devleti tarafından Rusya'ya bırakılmıştır. Rus idaresinde Batum sancağının Gonio kazasına bağlı bir köy ve nahiyenin idari merkezi olmuştur. Birinci Dünya Savaşı'nın sonunda Rusların bölgeden çekilmesiyle bir süre Gürcistan sınırları içinde kalmış, bu durum 7 Mayıs 1920 tarihli Moskova Antlaşması ile Sovyet Rusya tarafından kabul edilmiştir. Ancak, 16 Mart 1921'de Kızıl Ordu'nun Gürcistan'ı işgali sırasında imzalanan başka bir Moskova Antlaşması ile Türkiye'ye bırakılmıştır. Günümüzde ise Artvin ilinde, Borçka sınırları içinde, Balcı köyünün 'Çifteler' adlı bir mahallesidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

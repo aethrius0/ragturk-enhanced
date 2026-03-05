@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "huridyenign_b1b23727",
+    "title": "Hurşid Yenigün",
+    "url": "https://tr.wikipedia.org/wiki/Hur%C5%9Fid_Yenig%C3%BCn",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:22.260727",
+    "content": "Hurşid Yenigün (d. 1951, Ankara), Türk müzisyendir. == Kariyeri == Hurşid Yenigün, müzisyen bir aileden gelmektedir. Babası Türk Sanat Müziği korolarının kurulmasına emeği geçmiş olan bestekâr Hayri Yenigün'dür. İlkokul döneminde mandolin ile müziğe başlayan Hurşid Yenigün, daha sonra gitarın popüler olmasıyla birlikte gitar çalmaya başladı. Orta okul yıllarında grup kurarak müziğini profesyonel bir hale getirdi ve gece kulüpleri, çayhane gibi yerlerde çalıştı. “Şanar ve Onlar” adlı orkestrada çaldı. Ankara Devlet Konservatuvarı'nda bir sene şan eğitimi gören ve daha sonra şancı olmadığını anlayarak bırakan Yenigün, Dün Bugün Yarın orkestrası ile İzmir, Ankara ve İstanbul'da o dönemin en iyi gece kulüplerinde çalışmaya başladı. 75'li yıllarda Türk Pop müzik tarihinde önemli bir yere sahip olan Şat yapım prodüksiyon firmasında aranjörlük ve müzisyen organizasyonları yaptı. O dönemde birkaç sanatçı dışında hemen hemen hepsiyle çalıştı. Sezen Aksu, Esmeray, Yeliz, Yeşim, İlhan İrem, Nilüfer, Melike Demirağ, Nil Burak bu isimlerden bazıları. Firma kapandıktan sonra Sezen Aksu ile birlikte Kaybolan Yıllar ile Türkiye'de ilk defa yapılan double albüm Serçe 'yi yaptı. Daha sonra çalışmalarına tek başına devam eden Yenigün, kendi projesi Pop Alaturka'yı hayata geçirdi. O yıllara kadar radyoda ciddi bir şekilde söylenen fasıllar, alkışlı ve eğlenceli söylenmeye başladı. Daha sonra da eğlenceli albümlere yöneldi. 1981 yılında kendi plak şirketini kurarak Gırgıriye serisine başladı. O yıllarda ünlenen Kibariye'den etkilenerek Gırgıriye ismini bulan Yenigün, Türker İnanoğlu'nun çektiği Gırgıriye ve serisinin özel olarak jenerik müziklerini hazırladı. Hurşid Yenigün, yıllardır sürdürdüğü kişisel çalışmaları yanı sıra bir dönemin en popüler isimlerini bir araya getirdiği Eski Dostlar grubuyla bir ilke imza atmış oldu.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 251,
+      "char_count": 1835,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.420510",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 52,
+      "content": "Hurşid Yenigün (d. 1951, Ankara), Türk müzisyendir.",
+      "char_count": 51,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 52,
+      "end_char": 1052,
+      "content": "== Kariyeri == Hurşid Yenigün, müzisyen bir aileden gelmektedir. Babası Türk Sanat Müziği korolarının kurulmasına emeği geçmiş olan bestekâr Hayri Yenigün'dür. İlkokul döneminde mandolin ile müziğe başlayan Hurşid Yenigün, daha sonra gitarın popüler olmasıyla birlikte gitar çalmaya başladı. Orta okul yıllarında grup kurarak müziğini profesyonel bir hale getirdi ve gece kulüpleri, çayhane gibi yerlerde çalıştı. “Şanar ve Onlar” adlı orkestrada çaldı. Ankara Devlet Konservatuvarı'nda bir sene şan eğitimi gören ve daha sonra şancı olmadığını anlayarak bırakan Yenigün, Dün Bugün Yarın orkestrası ile İzmir, Ankara ve İstanbul'da o dönemin en iyi gece kulüplerinde çalışmaya başladı. 75'li yıllarda Türk Pop müzik tarihinde önemli bir yere sahip olan Şat yapım prodüksiyon firmasında aranjörlük ve müzisyen organizasyonları yaptı. O dönemde birkaç sanatçı dışında hemen hemen hepsiyle çalıştı. Sezen Aksu, Esmeray, Yeliz, Yeşim, İlhan İrem, Nilüfer, Melike Demirağ, Nil Burak bu isimlerden bazıları",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 852,
+      "end_char": 1835,
+      "content": "müzisyen organizasyonları yaptı. O dönemde birkaç sanatçı dışında hemen hemen hepsiyle çalıştı. Sezen Aksu, Esmeray, Yeliz, Yeşim, İlhan İrem, Nilüfer, Melike Demirağ, Nil Burak bu isimlerden bazıları. Firma kapandıktan sonra Sezen Aksu ile birlikte Kaybolan Yıllar ile Türkiye'de ilk defa yapılan double albüm Serçe 'yi yaptı. Daha sonra çalışmalarına tek başına devam eden Yenigün, kendi projesi Pop Alaturka'yı hayata geçirdi. O yıllara kadar radyoda ciddi bir şekilde söylenen fasıllar, alkışlı ve eğlenceli söylenmeye başladı. Daha sonra da eğlenceli albümlere yöneldi. 1981 yılında kendi plak şirketini kurarak Gırgıriye serisine başladı. O yıllarda ünlenen Kibariye'den etkilenerek Gırgıriye ismini bulan Yenigün, Türker İnanoğlu'nun çektiği Gırgıriye ve serisinin özel olarak jenerik müziklerini hazırladı. Hurşid Yenigün, yıllardır sürdürdüğü kişisel çalışmaları yanı sıra bir dönemin en popüler isimlerini bir araya getirdiği Eski Dostlar grubuyla bir ilke imza atmış oldu.",
+      "char_count": 983,
+      "token_estimate": 245
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hurşid Yenigün'ün babasının adı nedir ve hangi alanda faaliyet göstermiştir?",
+        "answer": "Hurşid Yenigün'ün babası bestekâr Hayri Yenigün'dür ve Türk Sanat Müziği korolarının kurulmasına katkıda bulunmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hurşid Yenigün, müzik kariyerinin farklı dönemlerinde hangi çeşitli rollerde ve projelerde yer almıştır ve bu süreçte öne çıkan bazı iş birlikleri nelerdir?",
+        "answer": "Hurşid Yenigün, müzik kariyerine mandolin ve gitarla başlamış, orta okul yıllarında bir grup kurarak gece kulüpleri ve çayhanelerde çalışmıştır. Ayrıca \"Şanar ve Onlar\" ve \"Dün Bugün Yarın\" orkestralarında da yer almıştır. 70'li yıllarda Şat yapım firmasında aranjörlük ve müzisyen organizasyonları yaparak Sezen Aksu, Esmeray, Yeliz, Yeşim, İlhan İrem, Nilüfer, Melike Demirağ ve Nil Burak gibi birçok sanatçıyla çalışmıştır. Şat yapım kapandıktan sonra Sezen Aksu ile \"Kaybolan Yıllar\" ve Türkiye'nin ilk double albümü olan \"Serçe\"yi yapmıştır. Daha sonra tek başına Pop Alaturka projesini hayata geçirmiş, 1981 yılında kendi plak şirketini kurarak \"Gırgıriye\" serisine başlamış ve bu serinin filmleri için jenerik müziklerini hazırlamıştır. Ayrıca, bir dönemin en popüler isimlerini bir araya getirdiği Eski Dostlar grubunu da kurmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

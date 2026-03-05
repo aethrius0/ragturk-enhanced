@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "aylaoktay_b93d7e95",
+    "title": "Ayla Oktay",
+    "url": "https://tr.wikipedia.org/wiki/Ayla_Oktay",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:52.272035",
+    "content": "Ayla Oktay (1942, Malatya - 28 Ekim 2022), Türk eğitimci ve akademisyen. Türkiye'nin okul öncesi eğitim alanındaki ilk kadın profesörüdür. Oktay, Milli Eğitim Bakanlığı'nın 2002 ve 2006 da gerçekleştirdiği okul öncesi eğitim program geliştirme çalışmalarında komisyon başkanı olarak görev aldı ve 2001-2003 yılları arasında Milli Eğitim Bakanlığı Okul Öncesi Eğitim Genel Müdürlüğünün danışmanlığı görevini yürüttü. == Hayatı == Ayla Oktay 16 Haziran 1942 tarihinde Malatya'da doğdu. İstanbul Üniversitesi Pedagoji Bölümünü 1965'te tamamladı. Anaokulu öğretmenliği ve müdürlük yaptıktan sonra Pedagoji Kürsüsünde asistan olarak göreve başladı. Aynı bölümde lisans üstü eğitimine devam ederek \"Piaget'ye Göre İlkokul Çocuklarında Mekan Kavramının İncelenmesi\" adlı teziyle yüksek lisansını tamamladı. 1971 yılında İstanbul Üniversitesi'nde Eğitim Psikolojisi alanında \"İstanbul ve Konya İllerinin Orta Dereceli Okullarında Verilen Disiplin Cezalarının Karşılaştırılmalı Olarak İncelenmesi\" adlı teziyle doktora eğitimini tamamladı. 1979'da ise \"Okul Olgunluğu\" başlıklı teziyle doçent unvanını, 1988 yılında ise eğitimde psikolojik hizmetler alanında profesör unvanını aldı. 1965-1988 yılları arasında İstanbul Üniversitesi'nde, 1988-2009 yılları arasında Marmara Üniversitesi'nde görev aldı. 1992 yılında Marmara Üniversitesi Eğitim Bilimleri Enstitüsünü kurdu ve 2005 yılına kadar kurucu müdürlüğünü yaptı. 50'den fazla doktora tezinde danışmanlık yaptı. 2005-2009 tarihleri arasında Marmara Üniversitesi Atatürk Eğitim Fakültesi'nde dekanlık yaptı. Ayla Oktay'ın katkıları neticesinde okul öncesi dönem 5 yaş çocukların zorunlu eğitime alınması ile ilgili madde Milli Eğitim Şura kararlarına da ilave edildi. Ayla Oktay, Yaşamın Sihirli Yılları: Okul Öncesi Dönem kitabının yazarı; Eğitime Giriş ve Dünya Ülkelerinde Eğitim Sistemleri ve Okul Öncesi Eğitim adlı kitapların editörüdür. Oktay 28 Ekim 2022'de 80 yaşında hayatını kaybetti. 31 Ekim'de Marmara İlahiyat Camii'nde kılınan cenaze namazının ardından Merdivenköy Mezarlığı'na defnedildi. == Kitap ve makaleleri == Oktay, A. (1999). Yaşamın Sihirli Yılları: Okul Öncesi Dönem, (1. Basım). İstanbul: Epsilon Yayınları. Oktay, A. (Ed.) (2007). Eğitime Giriş. Ankara: Pegem Akademi. Oktay, A. & Polat, Ö. (Ed.) (2021). Dünya Ülkelerinde Eğitim Sistemleri ve Okul Öncesi Eğitim. Ankara: Pegem Akademi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 305,
+      "char_count": 2371,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.541057",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 416,
+      "content": "Ayla Oktay (1942, Malatya - 28 Ekim 2022), Türk eğitimci ve akademisyen. Türkiye'nin okul öncesi eğitim alanındaki ilk kadın profesörüdür. Oktay, Milli Eğitim Bakanlığı'nın 2002 ve 2006 da gerçekleştirdiği okul öncesi eğitim program geliştirme çalışmalarında komisyon başkanı olarak görev aldı ve 2001-2003 yılları arasında Milli Eğitim Bakanlığı Okul Öncesi Eğitim Genel Müdürlüğünün danışmanlığı görevini yürüttü.",
+      "char_count": 415,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 416,
+      "end_char": 1416,
+      "content": "== Hayatı == Ayla Oktay 16 Haziran 1942 tarihinde Malatya'da doğdu. İstanbul Üniversitesi Pedagoji Bölümünü 1965'te tamamladı. Anaokulu öğretmenliği ve müdürlük yaptıktan sonra Pedagoji Kürsüsünde asistan olarak göreve başladı. Aynı bölümde lisans üstü eğitimine devam ederek \"Piaget'ye Göre İlkokul Çocuklarında Mekan Kavramının İncelenmesi\" adlı teziyle yüksek lisansını tamamladı. 1971 yılında İstanbul Üniversitesi'nde Eğitim Psikolojisi alanında \"İstanbul ve Konya İllerinin Orta Dereceli Okullarında Verilen Disiplin Cezalarının Karşılaştırılmalı Olarak İncelenmesi\" adlı teziyle doktora eğitimini tamamladı. 1979'da ise \"Okul Olgunluğu\" başlıklı teziyle doçent unvanını, 1988 yılında ise eğitimde psikolojik hizmetler alanında profesör unvanını aldı. 1965-1988 yılları arasında İstanbul Üniversitesi'nde, 1988-2009 yılları arasında Marmara Üniversitesi'nde görev aldı. 1992 yılında Marmara Üniversitesi Eğitim Bilimleri Enstitüsünü kurdu ve 2005 yılına kadar kurucu müdürlüğünü yaptı. 50'den f",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1216,
+      "end_char": 2047,
+      "content": "sitesi'nde, 1988-2009 yılları arasında Marmara Üniversitesi'nde görev aldı. 1992 yılında Marmara Üniversitesi Eğitim Bilimleri Enstitüsünü kurdu ve 2005 yılına kadar kurucu müdürlüğünü yaptı. 50'den fazla doktora tezinde danışmanlık yaptı. 2005-2009 tarihleri arasında Marmara Üniversitesi Atatürk Eğitim Fakültesi'nde dekanlık yaptı. Ayla Oktay'ın katkıları neticesinde okul öncesi dönem 5 yaş çocukların zorunlu eğitime alınması ile ilgili madde Milli Eğitim Şura kararlarına da ilave edildi. Ayla Oktay, Yaşamın Sihirli Yılları: Okul Öncesi Dönem kitabının yazarı; Eğitime Giriş ve Dünya Ülkelerinde Eğitim Sistemleri ve Okul Öncesi Eğitim adlı kitapların editörüdür. Oktay 28 Ekim 2022'de 80 yaşında hayatını kaybetti. 31 Ekim'de Marmara İlahiyat Camii'nde kılınan cenaze namazının ardından Merdivenköy Mezarlığı'na defnedildi.",
+      "char_count": 831,
+      "token_estimate": 207
+    },
+    {
+      "id": "c0003",
+      "section": "== Kitap ve makaleleri ==",
+      "heading_path": "== Kitap ve makaleleri ==",
+      "start_char": 2048,
+      "end_char": 2357,
+      "content": "== Kitap ve makaleleri == Oktay, A. (1999). Yaşamın Sihirli Yılları: Okul Öncesi Dönem, (1. Basım). İstanbul: Epsilon Yayınları. Oktay, A. (Ed.) (2007). Eğitime Giriş. Ankara: Pegem Akademi. Oktay, A. & Polat, Ö. (Ed.) (2021). Dünya Ülkelerinde Eğitim Sistemleri ve Okul Öncesi Eğitim. Ankara: Pegem Akademi.",
+      "char_count": 308,
+      "token_estimate": 77
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ayla Oktay ne zaman ve nerede doğmuştur?",
+        "answer": "Ayla Oktay 16 Haziran 1942 tarihinde Malatya'da doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ayla Oktay'ın Türkiye'deki okul öncesi eğitim alanındaki öncü rolü ve önemli katkıları nelerdi ve bu başarıları akademik kariyeri boyunca nasıl şekillendi?",
+        "answer": "Ayla Oktay, Türkiye'nin okul öncesi eğitim alanındaki ilk kadın profesörüdür. Milli Eğitim Bakanlığı'nın okul öncesi eğitim program geliştirme çalışmalarında komisyon başkanı ve Okul Öncesi Eğitim Genel Müdürlüğü'nün danışmanı olarak görev almıştır. Akademik kariyeri, 1965'te İstanbul Üniversitesi Pedagoji Bölümü'nü tamamlamasıyla başlayıp, Eğitim Psikolojisi alanında doktora yaparak ve 1988'de profesör unvanını alarak ilerlemiştir. Marmara Üniversitesi Eğitim Bilimleri Enstitüsü'nü kurucu müdürlüğünü üstlenmiş, dekanlık yapmış ve 50'den fazla doktora tezinde danışmanlık yapmıştır. Katkıları sayesinde okul öncesi dönem 5 yaş çocukların zorunlu eğitime alınması kararı Milli Eğitim Şura kararlarına eklenmiştir ve \"Yaşamın Sihirli Yılları: Okul Öncesi Dönem\" kitabının yazarıdır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

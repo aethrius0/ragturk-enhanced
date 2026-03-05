@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "markion_bcfae26b",
+    "title": "Markion",
+    "url": "https://tr.wikipedia.org/wiki/Markion",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:16.401080",
+    "content": "Sinoplu Markion (Yunanca: Μαρκίων d. MS 85, ö 160), erken dönem Hristiyan teoloğu. Roma Kilisesi'nin öğretilerine alternatif farklı görüşler öne süren ve MS 2. yüzyıl sonlarında etkili olan Markion Roma'daki kilisesi tarafından Sapkın (Heretik) kabul edilmiştir. == Hayatı == Markion Sinop'ta doğmuştur. Romalı Hippolytus, Markion'un Sinope (günümüzde Sinop) piskoposunun oğlu olduğunu aktarır. Ailesi yüksek sosyo-ekonomik sınıftandı. Markion'un kendisi de gemi sahibi olarak bir servet kazanmıştır. 140 yılında Roma'ya gitmiş ve inananlar topluluğuna katılmıştır. Kısa süre sonra da inancı anlayış şekli keskin bir ayrışmaya neden olmuştur. Kendisini açıklama şansı sunulmuş ancak 144 yılında aforoz edilmiştir. Aforozundan sonra Markion takipçileri ile birlikte kendi kilisesini, piskoposlarını, rahiplerini ve Roma'nın litürjisine benzer kendi litürjisini kurmuştur. Bu başlattığı hareketi başarılı olmuştur. Tertullianus (y. 150-223/225) kendi zamanında Markionculuğun “bütün dünyayı kapladığından” söz etmektedir. == Düşünceleri == Markion'un iddiasının Eski Anlaşma’daki Tanrı’nın İsa Mesih’in babası olmadığını, Lyon'lu İreneus'un Adversus Heresies (\"Sapkınlıklara karşı\" diye çevrilebilir) eserinden okuruz. Eski Anlaşma'nın tanrısının, yahudilerin Tanrı dediklerinin aslında kötü, savaşları seven, yargısında tutarsız olduğunu ama İsa'nın Baba Tanrı'nın insan formuna bürünmüş, Peygamberlerin Yasası'nı ve Eski Anlaşma Tanrı'sının işlerini temizlemek için geldiğini düşünmektedir. Markion, Gnostikler gibi, iki tanrının ya da prensibin olduğunu düşünmektedir. Biri dünyanın yaratıcısı, hakim güçtür ve kötüdür. Diğeri ise Baba'dır ve Mesih'in haçta ölümünde ruhu kurtarır, bedeni ise hakim olan yaratıcısının eseri olarak yok edilir. Markion, dünyayı yaratan tanrıyı, diğer tanrılara özenen kıskanç bir ilah olarak düşünmüştür. == Eserleri == Antitez temel eseridir ancak günümüze ulaşmamıştır. Roma Kilisesi'nin yetkililerine karşı verdiği savunma da kaybolmuştur. Kendi kilisesinde okunmak üzere içinde Luka İncili ve 10 farklı Pavlus mektubu'ndan oluşan bir kanon oluşturmuştur. Eski Ahit'i neredeyse tümüyle reddeden Markion, kendi oluşturduğu kanonun ve Kilise tarafından reddedilen bu düşüncelerin Adolf von Harnack'a göre günümüzde yerleşik olan Hristiyan kanonunun oluşmasında etkisi büyüktür. == Ayrıca bakınız == Gnostisizm == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 295,
+      "char_count": 2358,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.160301",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 263,
+      "content": "Sinoplu Markion (Yunanca: Μαρκίων d. MS 85, ö 160), erken dönem Hristiyan teoloğu. Roma Kilisesi'nin öğretilerine alternatif farklı görüşler öne süren ve MS 2. yüzyıl sonlarında etkili olan Markion Roma'daki kilisesi tarafından Sapkın (Heretik) kabul edilmiştir.",
+      "char_count": 262,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 263,
+      "end_char": 1020,
+      "content": "== Hayatı == Markion Sinop'ta doğmuştur. Romalı Hippolytus, Markion'un Sinope (günümüzde Sinop) piskoposunun oğlu olduğunu aktarır. Ailesi yüksek sosyo-ekonomik sınıftandı. Markion'un kendisi de gemi sahibi olarak bir servet kazanmıştır. 140 yılında Roma'ya gitmiş ve inananlar topluluğuna katılmıştır. Kısa süre sonra da inancı anlayış şekli keskin bir ayrışmaya neden olmuştur. Kendisini açıklama şansı sunulmuş ancak 144 yılında aforoz edilmiştir. Aforozundan sonra Markion takipçileri ile birlikte kendi kilisesini, piskoposlarını, rahiplerini ve Roma'nın litürjisine benzer kendi litürjisini kurmuştur. Bu başlattığı hareketi başarılı olmuştur. Tertullianus (y. 150-223/225) kendi zamanında Markionculuğun “bütün dünyayı kapladığından” söz etmektedir.",
+      "char_count": 756,
+      "token_estimate": 189
+    },
+    {
+      "id": "c0002",
+      "section": "== Düşünceleri ==",
+      "heading_path": "== Düşünceleri ==",
+      "start_char": 1020,
+      "end_char": 1838,
+      "content": "== Düşünceleri == Markion'un iddiasının Eski Anlaşma’daki Tanrı’nın İsa Mesih’in babası olmadığını, Lyon'lu İreneus'un Adversus Heresies (\"Sapkınlıklara karşı\" diye çevrilebilir) eserinden okuruz. Eski Anlaşma'nın tanrısının, yahudilerin Tanrı dediklerinin aslında kötü, savaşları seven, yargısında tutarsız olduğunu ama İsa'nın Baba Tanrı'nın insan formuna bürünmüş, Peygamberlerin Yasası'nı ve Eski Anlaşma Tanrı'sının işlerini temizlemek için geldiğini düşünmektedir. Markion, Gnostikler gibi, iki tanrının ya da prensibin olduğunu düşünmektedir. Biri dünyanın yaratıcısı, hakim güçtür ve kötüdür. Diğeri ise Baba'dır ve Mesih'in haçta ölümünde ruhu kurtarır, bedeni ise hakim olan yaratıcısının eseri olarak yok edilir. Markion, dünyayı yaratan tanrıyı, diğer tanrılara özenen kıskanç bir ilah olarak düşünmüştür.",
+      "char_count": 817,
+      "token_estimate": 204
+    },
+    {
+      "id": "c0003",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1838,
+      "end_char": 2312,
+      "content": "== Eserleri == Antitez temel eseridir ancak günümüze ulaşmamıştır. Roma Kilisesi'nin yetkililerine karşı verdiği savunma da kaybolmuştur. Kendi kilisesinde okunmak üzere içinde Luka İncili ve 10 farklı Pavlus mektubu'ndan oluşan bir kanon oluşturmuştur. Eski Ahit'i neredeyse tümüyle reddeden Markion, kendi oluşturduğu kanonun ve Kilise tarafından reddedilen bu düşüncelerin Adolf von Harnack'a göre günümüzde yerleşik olan Hristiyan kanonunun oluşmasında etkisi büyüktür.",
+      "char_count": 473,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2312,
+      "end_char": 2344,
+      "content": "== Ayrıca bakınız == Gnostisizm",
+      "char_count": 31,
+      "token_estimate": 7
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Markion'un Eski Anlaşma'daki Tanrı'nın İsa Mesih'in babası olmadığı iddiası hangi eserden okunmaktadır?",
+        "answer": "Lyon'lu İreneus'un Adversus Heresies (\"Sapkınlıklara karşı\") eserinden.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Markion'un Eski Anlaşma Tanrısı ile İsa Mesih'in Baba Tanrısı hakkındaki temel teolojik düşünceleri, Roma Kilisesi'nden aforoz edilmesine ve ardından kendi başarılı hareketini kurmasına nasıl yol açmıştır?",
+        "answer": "Markion, Roma Kilisesi'nin öğretilerine alternatif görüşler öne sürmüş ve Eski Anlaşma'daki Tanrı'nın İsa Mesih'in babası olmadığını, aksine kötü, savaşları seven ve yargısında tutarsız olduğunu iddia etmiştir. Ona göre, İsa'nın Baba Tanrı'sı insan formuna bürünerek Peygamberlerin Yasası'nı ve Eski Anlaşma Tanrı'sının işlerini temizlemek için gelmiştir. İnancı anlayış şekli Roma'daki inananlar topluluğu içinde keskin bir ayrışmaya neden olmuş, bu durum 144 yılında aforoz edilmesine yol açmıştır. Aforozundan sonra Markion, takipçileriyle birlikte kendi kilisesini, piskoposlarını, rahiplerini ve litürjisini kurmuş, bu hareketi büyük başarı elde ederek Tertullianus'a göre kendi zamanında \"bütün dünyayı kaplamıştır.\"",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

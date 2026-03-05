@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "carlstamitz_3275b53f",
+    "title": "Carl Stamitz",
+    "url": "https://tr.wikipedia.org/wiki/Carl_Stamitz",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:57.596674",
+    "content": "Carl Stamitz (Almanca:Karl Phillip Stamitz, Çekçe: Karel Stamic) (d. 7 Mayıs 1745, Mannheim, Almanya- o. 9 Kasım 1801, Jena). Çek kökenli Alman besteci, keman, viyola ve viola d'amore (aşk viyolası) virtüözü. Mannheim Okulu'nun ikinci nesil bestecilerden en belirgin olanıdır. == Yaşamı == Kesin doğum tarihi resmi kayıtlarda bulunmamaktadır. Ancak kilise kayıtlarında vaftiz edildiği tarih 8 Mayıs olarak geçmekte ve buna bağlı olarak doğum gününün 7 Mayıs olduğu anlaşılmaktadır (hristiyanlıkta kişi, doğumundan bir gün sonra vaftiz edilir). İlk müzik eğitimini babası ve Mannheim Okulu'nun kurucusu olan Johann Stamitz'den aldı. 1762 yılında Mannheim orkestrasında çalmaya başladı. 1770'te Paris'e taşındı ve burada Noailles Dükü'nün saray bestecisi ve orkestra şefi oldu. Kendisi gibi besteci ve kemancı olan kardeşi Anton'la beraber Concert Spirituel'de performanslar sergilediler. 1779-1780 yıllarında Hague'a taşındı ve prens V. William'ın sarayında kemancı olarak çalışmaya başladı. 1788-1790 yılları arasında kendini konser turnelerine verdi. Hayatının son yıllarını Jena'da Kapellmeister olarak ve üniversitede dersler vererek geçirdi. Tam tarihi bilinmemekle beraber 1789'dan önce Maria Josepha Pilz ile evlendi. Bu evlilikten olan dört çocuğuda doğum sırasında öldü. == Eserleri == Stamitz, ellinin üstünde senfoni ve çeşitli enstürmanlar için birçok konçerto ve bunun gibi çok sayıda oda müziği vardır. Erken dönem senfonileri, Mannheim orkastrasındayken çalıştığı dönemden gelir; bilinen son senfonisini ise Mozart'ın öldüğü 1791 yılında yazmıştır. Viyola konçertosu ve ilk yaylı dörtlüleri ilk olarak 1774 yılında yayımlandı. Ayrıca 1787 yılında \"Der verliebte Vormond\" ve 1780 yılında Dardanus isimli iki opera yazmıştır ancak bu iki opera günümüze ulaşamamıştır. == Kaynakça == == Dış bağlantılar == IMSLP projesi \"Stamitz,_Carl_Philipp\" maddesinde eserlerinin notaları6 Aralık 2011 tarihinde Wayback Machine sitesinde arşivlendi. Carl Philipp Stamitz - Hayati ve eserleri3 Şubat 2006 tarihinde Wayback Machine sitesinde arşivlendi. (Almanca) Carl Stamitz11 Mart 2007 tarihinde Wayback Machine sitesinde arşivlendi. Kısa biyografi ve diskografi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 287,
+      "char_count": 2162,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.282858",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 277,
+      "content": "Carl Stamitz (Almanca:Karl Phillip Stamitz, Çekçe: Karel Stamic) (d. 7 Mayıs 1745, Mannheim, Almanya- o. 9 Kasım 1801, Jena). Çek kökenli Alman besteci, keman, viyola ve viola d'amore (aşk viyolası) virtüözü. Mannheim Okulu'nun ikinci nesil bestecilerden en belirgin olanıdır.",
+      "char_count": 276,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 277,
+      "end_char": 1277,
+      "content": "== Yaşamı == Kesin doğum tarihi resmi kayıtlarda bulunmamaktadır. Ancak kilise kayıtlarında vaftiz edildiği tarih 8 Mayıs olarak geçmekte ve buna bağlı olarak doğum gününün 7 Mayıs olduğu anlaşılmaktadır (hristiyanlıkta kişi, doğumundan bir gün sonra vaftiz edilir). İlk müzik eğitimini babası ve Mannheim Okulu'nun kurucusu olan Johann Stamitz'den aldı. 1762 yılında Mannheim orkestrasında çalmaya başladı. 1770'te Paris'e taşındı ve burada Noailles Dükü'nün saray bestecisi ve orkestra şefi oldu. Kendisi gibi besteci ve kemancı olan kardeşi Anton'la beraber Concert Spirituel'de performanslar sergilediler. 1779-1780 yıllarında Hague'a taşındı ve prens V. William'ın sarayında kemancı olarak çalışmaya başladı. 1788-1790 yılları arasında kendini konser turnelerine verdi. Hayatının son yıllarını Jena'da Kapellmeister olarak ve üniversitede dersler vererek geçirdi. Tam tarihi bilinmemekle beraber 1789'dan önce Maria Josepha Pilz ile evlendi. Bu evlilikten olan dört çocuğuda doğum sırasında öldü",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1077,
+      "end_char": 1278,
+      "content": "ena'da Kapellmeister olarak ve üniversitede dersler vererek geçirdi. Tam tarihi bilinmemekle beraber 1789'dan önce Maria Josepha Pilz ile evlendi. Bu evlilikten olan dört çocuğuda doğum sırasında öldü.",
+      "char_count": 201,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0003",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1279,
+      "end_char": 1780,
+      "content": "== Eserleri == Stamitz, ellinin üstünde senfoni ve çeşitli enstürmanlar için birçok konçerto ve bunun gibi çok sayıda oda müziği vardır. Erken dönem senfonileri, Mannheim orkastrasındayken çalıştığı dönemden gelir; bilinen son senfonisini ise Mozart'ın öldüğü 1791 yılında yazmıştır. Viyola konçertosu ve ilk yaylı dörtlüleri ilk olarak 1774 yılında yayımlandı. Ayrıca 1787 yılında \"Der verliebte Vormond\" ve 1780 yılında Dardanus isimli iki opera yazmıştır ancak bu iki opera günümüze ulaşamamıştır.",
+      "char_count": 500,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1795,
+      "end_char": 2162,
+      "content": "== Dış bağlantılar == IMSLP projesi \"Stamitz,_Carl_Philipp\" maddesinde eserlerinin notaları6 Aralık 2011 tarihinde Wayback Machine sitesinde arşivlendi. Carl Philipp Stamitz - Hayati ve eserleri3 Şubat 2006 tarihinde Wayback Machine sitesinde arşivlendi. (Almanca) Carl Stamitz11 Mart 2007 tarihinde Wayback Machine sitesinde arşivlendi. Kısa biyografi ve diskografi.",
+      "char_count": 367,
+      "token_estimate": 91
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İlk müzik eğitimini kimden aldı?",
+        "answer": "Babası ve Mannheim Okulu'nun kurucusu olan Johann Stamitz'den aldı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Carl Stamitz'in Mannheim Okulu'ndaki belirgin konumu ile ilk müzik eğitimini aldığı kişi arasındaki ilişki nedir?",
+        "answer": "Carl Stamitz, Mannheim Okulu'nun ikinci nesil bestecilerinden en belirgin olanıdır. İlk müzik eğitimini ise Mannheim Okulu'nun kurucusu olan babası Johann Stamitz'den almıştır, bu da okulun kurucusu ile ikinci neslin önemli bir temsilcisi arasında doğrudan bir bağlantı kurar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "kzlmeydan_360de6c1",
+    "title": "Kızıl Meydan",
+    "url": "https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l_Meydan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:40.884728",
+    "content": "Kızıl Meydan (Rusça; Красная площадь, Krasnaya ploşçad), Moskova'da yer alan meydandır. Hem Rusya, hem de eski SSCB'nin toplumsal ve siyasi tarihinde önemli bir yeri vardır. == İsmi == Meydana çeşitli adlar verilmiştir; bugünkü adı ise 17. yüzyılın ikinci yarısından beri sürekli olarak kullanılmaktadır. Ancak, Rusçada \"kızıl\"ın karşılığı olan krasnaya sözcüğü (eskiden) \"güzel\" anlamına da gelirdi. == Özellikleri ve geçmişi == 15. yüzyılda Kremlin'in duvarları tamamlandıktan hemen sonra yapılan Kızıl Meydan, tarih boyunca idamlara, gösterilere, geçit törenlerine ve mitinglere sahne olmuştur. Eskiden, kentin merkezindeki en büyük pazar alanı olan meydan, Moskova'yı Rusya'nın belli başlı kentlerine bağlayan yolların kavşağıydı. Meydan, değişik zamanlarda konutlar, kiliseler, bir halk tiyatrosu ve bir basımevi yer almış. Moskova'nın ilk halk kütüphanesi ile üniversitesi de burada kurulmuştur. XVI. yüzyıl'da meydan, Kurtarıcı ve Svyatoy Nikolay kapıları önünde, üzerinde köprülen kurulan bir hendekle Kremlin'den ayrılıyordu. Meydanın güneyinde, bir demir parmaklıkla çevrili taştan bir tribün (Lobnoye Mesto) yükseliyor, çarın ukazları buradan ilan ediliyor ve ölüm cezaları burada yerine getiriliyordu. Meydanı Kremlin'den ayıran hendek 1812'de kapatılmıştır. 1924'te Kızıl Meydan'da Sovyetler Birliği'nin kurucusu Vladimir Lenin için mozole inşa edildi. İlk olarak ahşap yapılan Lenin Mozolesi 1930'da granit mermerden yapılarak ziyarete açıldı. 1930'da Kızıl Meydan'ın taşları yenilendi ve 1818'de Minin ve Pojarski için meydanın ortasına dikilmiş olan anıt, geçit törenlerini ve gösterileri engellememesi için Vasili Blajenni Katedrali'nin önüne taşındı. Sovyetler Birliği döneminde her yıl 1 Mayıs ve 7 Kasım'da (Ekim Devrimi) düzenlenen geçit törenleri, Kızıl Meydan'daki en önemli kutlamalardı. Kremlin ve Kızıl Meydan 1990 yılında 13. yüzyıl'dan beri Rusya tarihiyle olan güçlü bağları nedeniyle UNESCO Dünya Mirasları Listesi'ne girdi. 2008 yılında, Sovyetler Birliği'nin (SSCB) yıkılışından beri ilk kez, SSCB'nin II. Dünya Savaşı'nda Nazi Almanyası'na karşı kazandığı tarihi zaferin yıldönümü olan Zafer Günü törenlerinde ağır askeri araçlar geçit törenlerine katıldı. 2010 yılındaki törenlerde Rus ve Bağımsız Devletler Topluluğu (BDT) üyesi ülkelerin yanı sıra ilk defa NATO'dan Amerikan, İngiliz ve Fransız askerleri de Kızıl Meydan'daki kutlamalara katıldı. Kremlin'in hemen doğusunda, Moskova Nehri'nin kuzeyinde yaklaşık 73,000 m²'lik bir alanı kaplar. 1875-81 arasında yapılan Devlet Tarih Müzesi meydanın kuzey ucunda bulunmaktadır. Güney uçta ise, 1554-60 arasında yapılmış Vasili Blajenni Katedrali yer alır. Doğu yakasında, Rusların Riyadıy adıyla anlandırdıkları ticaret galerileri vardı. 1953'te, bu galerilerin yeniden düzenlenmesinden sonra Devlet Satış Mağazaları (GUM) açılmıştır. Lenin'in 1930'da tamamlanan anıtmezarı ise batısında, hemen Kremlin'in duvarı önündedir. Lenin'in anıtmezarının yakınındaki öbür mezarlar da Kremlin duvarı boyunca uzanır. == Ayrıca bakınız == Kremlin Kremlin Duvarı Mezarlığı Lenin'in Mozolesi Aziz Vasil Katedrali Devlet Tarih Müzesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 403,
+      "char_count": 3118,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.731839",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 174,
+      "content": "Kızıl Meydan (Rusça; Красная площадь, Krasnaya ploşçad), Moskova'da yer alan meydandır. Hem Rusya, hem de eski SSCB'nin toplumsal ve siyasi tarihinde önemli bir yeri vardır.",
+      "char_count": 173,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0001",
+      "section": "== İsmi ==",
+      "heading_path": "== İsmi ==",
+      "start_char": 174,
+      "end_char": 401,
+      "content": "== İsmi == Meydana çeşitli adlar verilmiştir; bugünkü adı ise 17. yüzyılın ikinci yarısından beri sürekli olarak kullanılmaktadır. Ancak, Rusçada \"kızıl\"ın karşılığı olan krasnaya sözcüğü (eskiden) \"güzel\" anlamına da gelirdi.",
+      "char_count": 226,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0002",
+      "section": "== Özellikleri ve geçmişi ==",
+      "heading_path": "== Özellikleri ve geçmişi ==",
+      "start_char": 401,
+      "end_char": 1401,
+      "content": "== Özellikleri ve geçmişi == 15. yüzyılda Kremlin'in duvarları tamamlandıktan hemen sonra yapılan Kızıl Meydan, tarih boyunca idamlara, gösterilere, geçit törenlerine ve mitinglere sahne olmuştur. Eskiden, kentin merkezindeki en büyük pazar alanı olan meydan, Moskova'yı Rusya'nın belli başlı kentlerine bağlayan yolların kavşağıydı. Meydan, değişik zamanlarda konutlar, kiliseler, bir halk tiyatrosu ve bir basımevi yer almış. Moskova'nın ilk halk kütüphanesi ile üniversitesi de burada kurulmuştur. XVI. yüzyıl'da meydan, Kurtarıcı ve Svyatoy Nikolay kapıları önünde, üzerinde köprülen kurulan bir hendekle Kremlin'den ayrılıyordu. Meydanın güneyinde, bir demir parmaklıkla çevrili taştan bir tribün (Lobnoye Mesto) yükseliyor, çarın ukazları buradan ilan ediliyor ve ölüm cezaları burada yerine getiriliyordu. Meydanı Kremlin'den ayıran hendek 1812'de kapatılmıştır. 1924'te Kızıl Meydan'da Sovyetler Birliği'nin kurucusu Vladimir Lenin için mozole inşa edildi. İlk olarak ahşap yapılan Lenin Mozo",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Özellikleri ve geçmişi ==",
+      "heading_path": "== Özellikleri ve geçmişi ==",
+      "start_char": 1201,
+      "end_char": 2201,
+      "content": "tiriliyordu. Meydanı Kremlin'den ayıran hendek 1812'de kapatılmıştır. 1924'te Kızıl Meydan'da Sovyetler Birliği'nin kurucusu Vladimir Lenin için mozole inşa edildi. İlk olarak ahşap yapılan Lenin Mozolesi 1930'da granit mermerden yapılarak ziyarete açıldı. 1930'da Kızıl Meydan'ın taşları yenilendi ve 1818'de Minin ve Pojarski için meydanın ortasına dikilmiş olan anıt, geçit törenlerini ve gösterileri engellememesi için Vasili Blajenni Katedrali'nin önüne taşındı. Sovyetler Birliği döneminde her yıl 1 Mayıs ve 7 Kasım'da (Ekim Devrimi) düzenlenen geçit törenleri, Kızıl Meydan'daki en önemli kutlamalardı. Kremlin ve Kızıl Meydan 1990 yılında 13. yüzyıl'dan beri Rusya tarihiyle olan güçlü bağları nedeniyle UNESCO Dünya Mirasları Listesi'ne girdi. 2008 yılında, Sovyetler Birliği'nin (SSCB) yıkılışından beri ilk kez, SSCB'nin II. Dünya Savaşı'nda Nazi Almanyası'na karşı kazandığı tarihi zaferin yıldönümü olan Zafer Günü törenlerinde ağır askeri araçlar geçit törenlerine katıldı. 2010 yılınd",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Özellikleri ve geçmişi ==",
+      "heading_path": "== Özellikleri ve geçmişi ==",
+      "start_char": 2001,
+      "end_char": 2990,
+      "content": "ılışından beri ilk kez, SSCB'nin II. Dünya Savaşı'nda Nazi Almanyası'na karşı kazandığı tarihi zaferin yıldönümü olan Zafer Günü törenlerinde ağır askeri araçlar geçit törenlerine katıldı. 2010 yılındaki törenlerde Rus ve Bağımsız Devletler Topluluğu (BDT) üyesi ülkelerin yanı sıra ilk defa NATO'dan Amerikan, İngiliz ve Fransız askerleri de Kızıl Meydan'daki kutlamalara katıldı. Kremlin'in hemen doğusunda, Moskova Nehri'nin kuzeyinde yaklaşık 73,000 m²'lik bir alanı kaplar. 1875-81 arasında yapılan Devlet Tarih Müzesi meydanın kuzey ucunda bulunmaktadır. Güney uçta ise, 1554-60 arasında yapılmış Vasili Blajenni Katedrali yer alır. Doğu yakasında, Rusların Riyadıy adıyla anlandırdıkları ticaret galerileri vardı. 1953'te, bu galerilerin yeniden düzenlenmesinden sonra Devlet Satış Mağazaları (GUM) açılmıştır. Lenin'in 1930'da tamamlanan anıtmezarı ise batısında, hemen Kremlin'in duvarı önündedir. Lenin'in anıtmezarının yakınındaki öbür mezarlar da Kremlin duvarı boyunca uzanır.",
+      "char_count": 989,
+      "token_estimate": 247
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2991,
+      "end_char": 3104,
+      "content": "== Ayrıca bakınız == Kremlin Kremlin Duvarı Mezarlığı Lenin'in Mozolesi Aziz Vasil Katedrali Devlet Tarih Müzesi",
+      "char_count": 112,
+      "token_estimate": 28
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kızıl Meydan'ı Kremlin'den ayıran hendek hangi yıl kapatılmıştır?",
+        "answer": "1812",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kızıl Meydan isminin kökenindeki 'krasnaya' kelimesinin eski anlamının, meydanın Moskova'nın toplumsal ve siyasi tarihindeki çok yönlü rolüyle nasıl bir ilişkisi vardır?",
+        "answer": "Kızıl Meydan isminin kökenindeki 'krasnaya' kelimesinin eski anlamı olan 'güzel' ile meydanın Moskova tarihindeki merkezi ve çok yönlü rolü arasında bir ilişki vardır. Meydan, 15. yüzyıldan itibaren önemli siyasi olaylara (idamlar, gösteriler, geçit törenleri, mitingler) ve sosyal fonksiyonlara (büyük pazar alanı, önemli yolların kavşağı, ilk halk kütüphanesi ve üniversitesi gibi kurumların yeri) ev sahipliği yaparak Rusya'nın ve SSCB'nin toplumsal ve siyasi tarihinde kritik bir yer edinmiştir. Bu geniş ve çeşitli kullanım alanı, meydanın 'güzel' olarak nitelendirilebilecek önemini ve çekiciliğini yansıtmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

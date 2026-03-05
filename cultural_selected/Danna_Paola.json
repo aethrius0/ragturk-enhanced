@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "dannapaola_d48c23d1",
+    "title": "Danna Paola",
+    "url": "https://tr.wikipedia.org/wiki/Danna_Paola",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:36.053520",
+    "content": "Danna Paola Rivera Munguía (d. 23 Haziran 1995), Meksikalı oyuncu, şarkıcı ve manken. Çocukluk döneminde çok sayıda televizyon projesinde yer alarak ve şarkıcılık yaparak popüler olmuştur. == Erken dönemi == 23 Haziran 1995 tarihinde Meksika'nın Meksiko şehrinde, Patricia Munguía ve eski şarkıcı Juan José Rivera Arellano'nun ikinci kızları olarak doğdu. Henüz çocuk yaşlarındayken anne ve babası boşandı. Vania adında bir ablası bulunmaktadır. == Diskografi == === Stüdyo albümleri === 2001: Mi globo azul 2004: Océano 2005: Chiquita pero picosa 2012: Danna Paola 2019: SIE7E + 2021: K.O 2024: CHILDSTAR === EP albümler === 2007: Danna Paola 2019: SIE7E === Derlemeler === 2004: Lo mejor de Amy, la niña de la mochila azul 2009: Atrévete a soñar 1.5 === Canlı albümler === 2010: Atrévete a soñar: El concierto === Film müzikleri === 2003: Regina: Un Musical Para Una Nación Que Despierta (müzikal) 2004: Amy, la niña de la mochila azul – Vol. 1 and 2 (telenovela soundtrack) 2004: Anita la Huerfanita – El Musical (müzikal) 2005: Mensajero de Paz 2006: Pablo y Andrea (telenovela soundtrack) 2009: Atrévete a soñar / Atrévete a soñar 2 (telenovela soundtrack) 2010: Tangled (film soundtrack) === Konuk performansları === 2014: Take A Chance On Me (Dancing Queens: Un Tributo A Abba) 2015: \"Mientras Me Enamoras\" (Lalo Brito featuring Danna Paola) == Kaynakça == == Dış bağlantılar == IMDb'de Danna Paola Resmî site",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 226,
+      "char_count": 1416,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.190435",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 189,
+      "content": "Danna Paola Rivera Munguía (d. 23 Haziran 1995), Meksikalı oyuncu, şarkıcı ve manken. Çocukluk döneminde çok sayıda televizyon projesinde yer alarak ve şarkıcılık yaparak popüler olmuştur.",
+      "char_count": 188,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0001",
+      "section": "== Erken dönemi ==",
+      "heading_path": "== Erken dönemi ==",
+      "start_char": 189,
+      "end_char": 446,
+      "content": "== Erken dönemi == 23 Haziran 1995 tarihinde Meksika'nın Meksiko şehrinde, Patricia Munguía ve eski şarkıcı Juan José Rivera Arellano'nun ikinci kızları olarak doğdu. Henüz çocuk yaşlarındayken anne ve babası boşandı. Vania adında bir ablası bulunmaktadır.",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0002",
+      "section": "=== Stüdyo albümleri ===",
+      "heading_path": "=== Stüdyo albümleri ===",
+      "start_char": 463,
+      "end_char": 606,
+      "content": "=== Stüdyo albümleri === 2001: Mi globo azul 2004: Océano 2005: Chiquita pero picosa 2012: Danna Paola 2019: SIE7E + 2021: K.O 2024: CHILDSTAR",
+      "char_count": 142,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0003",
+      "section": "=== EP albümler ===",
+      "heading_path": "=== EP albümler ===",
+      "start_char": 606,
+      "end_char": 656,
+      "content": "=== EP albümler === 2007: Danna Paola 2019: SIE7E",
+      "char_count": 49,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0004",
+      "section": "=== Derlemeler ===",
+      "heading_path": "=== Derlemeler ===",
+      "start_char": 656,
+      "end_char": 752,
+      "content": "=== Derlemeler === 2004: Lo mejor de Amy, la niña de la mochila azul 2009: Atrévete a soñar 1.5",
+      "char_count": 95,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0005",
+      "section": "=== Canlı albümler ===",
+      "heading_path": "=== Canlı albümler ===",
+      "start_char": 752,
+      "end_char": 812,
+      "content": "=== Canlı albümler === 2010: Atrévete a soñar: El concierto",
+      "char_count": 59,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0006",
+      "section": "=== Film müzikleri ===",
+      "heading_path": "=== Film müzikleri ===",
+      "start_char": 812,
+      "end_char": 1194,
+      "content": "=== Film müzikleri === 2003: Regina: Un Musical Para Una Nación Que Despierta (müzikal) 2004: Amy, la niña de la mochila azul – Vol. 1 and 2 (telenovela soundtrack) 2004: Anita la Huerfanita – El Musical (müzikal) 2005: Mensajero de Paz 2006: Pablo y Andrea (telenovela soundtrack) 2009: Atrévete a soñar / Atrévete a soñar 2 (telenovela soundtrack) 2010: Tangled (film soundtrack)",
+      "char_count": 381,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0007",
+      "section": "=== Konuk performansları ===",
+      "heading_path": "=== Konuk performansları ===",
+      "start_char": 1194,
+      "end_char": 1349,
+      "content": "=== Konuk performansları === 2014: Take A Chance On Me (Dancing Queens: Un Tributo A Abba) 2015: \"Mientras Me Enamoras\" (Lalo Brito featuring Danna Paola)",
+      "char_count": 154,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1364,
+      "end_char": 1416,
+      "content": "== Dış bağlantılar == IMDb'de Danna Paola Resmî site",
+      "char_count": 52,
+      "token_estimate": 13
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2010 yılında hangi film müziği yayınlanmıştır?",
+        "answer": "Tangled",
+        "related_chunk_ids": [
+          "c0006"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Danna Paola'nın doğum tarihi ve yerinin yanı sıra, çocukluk döneminde popüler olmasını sağlayan kariyer başlangıcı hakkında hangi bilgiler verilmektedir?",
+        "answer": "Danna Paola, 23 Haziran 1995 tarihinde Meksika'nın Meksiko şehrinde doğdu. Çocukluk döneminde çok sayıda televizyon projesinde yer alarak ve şarkıcılık yaparak popüler olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

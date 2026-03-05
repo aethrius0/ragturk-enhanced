@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "turksomaskereitimss_6b005e0e",
+    "title": "TURKSOM Askerî Eğitim Üssü",
+    "url": "https://tr.wikipedia.org/wiki/TURKSOM_Asker%C3%AE_E%C4%9Fitim_%C3%9Css%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:36.333980",
+    "content": "TURKSOM Askerî Eğitim Üssü (Somalice: Xerada TURKSOM), Somali'nin başkenti Mogadişu'da bulunan bir askerî eğitim üssüdür. Üs, Eylül 2017 tarihinde açılmış olup Türkiye'nin Somali Silahlı Kuvvetleri subay ve astsubaylarını Somali Silahlı Kuvvetleri'nin kendini sürdürebilecek bir orduya dönüştürmek için eğitmeye ve hazırlamaya çalıştığı \"Afrika Kartalı\" olarak adlandırılan hükûmetler arası görev gücünün ana merkezi olarak hizmet vermektedir. Bu üs, Türkiye'nin en büyük denizaşırı askeri tesisi olarak hizmet vermektedir. == Tarihçe == TURKSOM Askerî Eğitim Üssü, Türk Silahlı Kuvvetleri genelkurmay başkanı Hulusi Akar ve Somali başbakanı Hasan Ali Haire başkanlığında düzenlenen törenle 30 Eylül 2017'de resmen açıldı. Üssün inşaatı iki yıl sürdü ve yaklaşık 50 milyon Amerikan dolarına mal oldu. 18 Nisan 2019'da taburun tamamı 1. Piyade Taburu olarak bilinen askeri akademiden mezun olmuştu. == Faaliyetleri == Üs, yaklaşık dört kilometrekare büyüklüğündedir bir seferde yaklaşık 1,000 asker yetiştirebilir ve barındırabilmektedir. Türk askerî yetkililere göre, 10.000'den fazla Somali askerinin üste eğitilmesi beklenmektedir. Somali Silahlı Kuvvetleri'nin tüm branşlarından subaylar ve astsubaylar, subay kursu ve eğitimi 2 yıl ve astsubay kursu ve eğitimi bir yıl sürdüğü için rutin olarak mezun olurlar ve subay adayları teğmen ve astsubay adayları üstçavuş rütbesi ile mezun olmaları beklenmektedir. Üniversite içi ve üniversite alanlar, derslikler, konferans salonu, yerinde eğitim alanları, futbol sahaları, basketbol sahaları, simülasyon deniz odaları, dil sınıfları, berberler ve diğer olanaklara sahiptir. Üste 200'den fazla Türk askerî personeli de yerleştirilecektir. Milli Savunma Üniversitesi'nin 1. Piyade Taburu olarak tanınacak adaylar ve mezunları, Türk Silahlı Kuvvetleri'nin amblemi ile birlikte gök mavisi bere ve TURKSOM amblemi ile tanınacaktır. Somali BM ambargosu altında olduğundan avcı uçakları ve diğer uçakları alamadığı için, hava kuvvetleri adayları bunun yerine Türkiye'de eğitilmektedir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 267,
+      "char_count": 2041,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.961216",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 524,
+      "content": "TURKSOM Askerî Eğitim Üssü (Somalice: Xerada TURKSOM), Somali'nin başkenti Mogadişu'da bulunan bir askerî eğitim üssüdür. Üs, Eylül 2017 tarihinde açılmış olup Türkiye'nin Somali Silahlı Kuvvetleri subay ve astsubaylarını Somali Silahlı Kuvvetleri'nin kendini sürdürebilecek bir orduya dönüştürmek için eğitmeye ve hazırlamaya çalıştığı \"Afrika Kartalı\" olarak adlandırılan hükûmetler arası görev gücünün ana merkezi olarak hizmet vermektedir. Bu üs, Türkiye'nin en büyük denizaşırı askeri tesisi olarak hizmet vermektedir.",
+      "char_count": 523,
+      "token_estimate": 130
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 524,
+      "end_char": 898,
+      "content": "== Tarihçe == TURKSOM Askerî Eğitim Üssü, Türk Silahlı Kuvvetleri genelkurmay başkanı Hulusi Akar ve Somali başbakanı Hasan Ali Haire başkanlığında düzenlenen törenle 30 Eylül 2017'de resmen açıldı. Üssün inşaatı iki yıl sürdü ve yaklaşık 50 milyon Amerikan dolarına mal oldu. 18 Nisan 2019'da taburun tamamı 1. Piyade Taburu olarak bilinen askeri akademiden mezun olmuştu.",
+      "char_count": 373,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0002",
+      "section": "== Faaliyetleri ==",
+      "heading_path": "== Faaliyetleri ==",
+      "start_char": 898,
+      "end_char": 1898,
+      "content": "== Faaliyetleri == Üs, yaklaşık dört kilometrekare büyüklüğündedir bir seferde yaklaşık 1,000 asker yetiştirebilir ve barındırabilmektedir. Türk askerî yetkililere göre, 10.000'den fazla Somali askerinin üste eğitilmesi beklenmektedir. Somali Silahlı Kuvvetleri'nin tüm branşlarından subaylar ve astsubaylar, subay kursu ve eğitimi 2 yıl ve astsubay kursu ve eğitimi bir yıl sürdüğü için rutin olarak mezun olurlar ve subay adayları teğmen ve astsubay adayları üstçavuş rütbesi ile mezun olmaları beklenmektedir. Üniversite içi ve üniversite alanlar, derslikler, konferans salonu, yerinde eğitim alanları, futbol sahaları, basketbol sahaları, simülasyon deniz odaları, dil sınıfları, berberler ve diğer olanaklara sahiptir. Üste 200'den fazla Türk askerî personeli de yerleştirilecektir. Milli Savunma Üniversitesi'nin 1. Piyade Taburu olarak tanınacak adaylar ve mezunları, Türk Silahlı Kuvvetleri'nin amblemi ile birlikte gök mavisi bere ve TURKSOM amblemi ile tanınacaktır. Somali BM ambargosu alt",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Faaliyetleri ==",
+      "heading_path": "== Faaliyetleri ==",
+      "start_char": 1698,
+      "end_char": 2026,
+      "content": "a Üniversitesi'nin 1. Piyade Taburu olarak tanınacak adaylar ve mezunları, Türk Silahlı Kuvvetleri'nin amblemi ile birlikte gök mavisi bere ve TURKSOM amblemi ile tanınacaktır. Somali BM ambargosu altında olduğundan avcı uçakları ve diğer uçakları alamadığı için, hava kuvvetleri adayları bunun yerine Türkiye'de eğitilmektedir.",
+      "char_count": 328,
+      "token_estimate": 82
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Türk askeri yetkililere göre, üste kaç Somali askerinin eğitilmesi beklenmektedir?",
+        "answer": "10.000'den fazla Somali askeri.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "TURKSOM Askerî Eğitim Üssü'nün 50 milyon dolarlık maliyeti, Türkiye'nin en büyük denizaşırı askerî tesisi olması ve 10.000'den fazla Somali askerini eğitme hedefi bir araya geldiğinde, Türkiye'nin Somali Silahlı Kuvvetleri'ni kendini sürdürebilen bir orduya dönüştürme misyonunun ölçeği ve önemi nasıl ortaya çıkmaktadır?",
+        "answer": "TURKSOM Askerî Eğitim Üssü'nün 50 milyon dolarlık yatırım maliyeti, Türkiye'nin en büyük denizaşırı askerî tesisi olması ve 10.000'den fazla Somali askerini eğitme kapasitesi, Türkiye'nin Somali Silahlı Kuvvetleri'ni bağımsız ve kendini sürdürebilen bir orduya dönüştürme konusundaki önemli ve uzun vadeli taahhüdünü ve bu misyonun büyük ölçeğini açıkça göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "yamanevlerstanbulmet_edb39ee8",
+    "title": "Yamanevler (İstanbul Metrosu)",
+    "url": "https://tr.wikipedia.org/wiki/Yamanevler_%28%C4%B0stanbul_Metrosu%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:46.969712",
+    "content": "Yamanevler Metro İstasyonu, İstanbul Metrosu'nun M5 (Üsküdar – Samandıra Merkez) Metro Hattı'nda yer alan ve 15 Aralık 2017'de hizmete giren yer altı metro istasyonudur. Ümraniye'nin Yamanevler Mahallesi'nde yer alan istasyonun 1 nolu İŞKUR ve 2 nolu AVM olmak üzere toplam 2 adet girişi bulunmaktadır. İstasyonda 8 adet yürüyen merdiven ve 2 adet asansör bulunmaktadır. CanPark AVM'ye erişim sağlanan 2 nolu giriş engelli erişimine uygun değildir. İstasyonun platform katı tünel; turnike katı, teknik katları ve girişleri aç-kapa yöntemi ile inşa edilmiştir. İstasyon, 15 Aralık 2017'den 21 Ekim 2018'e kadar M5 hattının doğu aksındaki son istasyonu olmuştur. == Hatlar == (Üsküdar – Samandıra Merkez) == Hizmetler == === İstasyon yapısı === === Peron yapısı === === Güzergâh === === Gece metrosu === M5 hattında gece metrosu seferleri kapsamında Cumartesi ve Pazar günleri 00.00 – 06.00 saatleri arasında 30 dakikada bir sefer düzenlenmektedir. Bu şekilde Cuma ile Pazar arasında 66 saat kesintisiz sefer düzenlenmektedir. Bu saatler arasında ücretlendirme çift bilet olarak tahsil edilmektedir. Bu işletmede istasyondaki 1 ve 2 nolu girişler açıktır. == Çevre alanı == İBB Şehir Tiyatroları Ümraniye İlçe Milli Eğitim Müdürlüğü Ümraniye İlçe Emniyet Müdürlüğü Canpark AVM İBB Haldun Alagaş Spor Kompleksi Atlas Hastanesi Nermin İmamoğlu Cami 75. Yıl Cumhuriyet Mesleki ve Teknik Andadolu Lisesi Ümraniye Mesleki ve Teknik Andadolu Lisesi == Görseller == == Kaynakça == == Dış bağlantılar == Metro İstanbul resmî sitesi 24 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 233,
+      "char_count": 1582,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.050676",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 661,
+      "content": "Yamanevler Metro İstasyonu, İstanbul Metrosu'nun M5 (Üsküdar – Samandıra Merkez) Metro Hattı'nda yer alan ve 15 Aralık 2017'de hizmete giren yer altı metro istasyonudur. Ümraniye'nin Yamanevler Mahallesi'nde yer alan istasyonun 1 nolu İŞKUR ve 2 nolu AVM olmak üzere toplam 2 adet girişi bulunmaktadır. İstasyonda 8 adet yürüyen merdiven ve 2 adet asansör bulunmaktadır. CanPark AVM'ye erişim sağlanan 2 nolu giriş engelli erişimine uygun değildir. İstasyonun platform katı tünel; turnike katı, teknik katları ve girişleri aç-kapa yöntemi ile inşa edilmiştir. İstasyon, 15 Aralık 2017'den 21 Ekim 2018'e kadar M5 hattının doğu aksındaki son istasyonu olmuştur.",
+      "char_count": 660,
+      "token_estimate": 165
+    },
+    {
+      "id": "c0001",
+      "section": "== Hatlar ==",
+      "heading_path": "== Hatlar ==",
+      "start_char": 661,
+      "end_char": 703,
+      "content": "== Hatlar == (Üsküdar – Samandıra Merkez)",
+      "char_count": 41,
+      "token_estimate": 10
+    },
+    {
+      "id": "c0002",
+      "section": "=== Gece metrosu ===",
+      "heading_path": "=== Gece metrosu ===",
+      "start_char": 781,
+      "end_char": 1154,
+      "content": "=== Gece metrosu === M5 hattında gece metrosu seferleri kapsamında Cumartesi ve Pazar günleri 00.00 – 06.00 saatleri arasında 30 dakikada bir sefer düzenlenmektedir. Bu şekilde Cuma ile Pazar arasında 66 saat kesintisiz sefer düzenlenmektedir. Bu saatler arasında ücretlendirme çift bilet olarak tahsil edilmektedir. Bu işletmede istasyondaki 1 ve 2 nolu girişler açıktır.",
+      "char_count": 372,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0003",
+      "section": "== Çevre alanı ==",
+      "heading_path": "== Çevre alanı ==",
+      "start_char": 1154,
+      "end_char": 1441,
+      "content": "== Çevre alanı == İBB Şehir Tiyatroları Ümraniye İlçe Milli Eğitim Müdürlüğü Ümraniye İlçe Emniyet Müdürlüğü Canpark AVM İBB Haldun Alagaş Spor Kompleksi Atlas Hastanesi Nermin İmamoğlu Cami 75. Yıl Cumhuriyet Mesleki ve Teknik Andadolu Lisesi Ümraniye Mesleki ve Teknik Andadolu Lisesi",
+      "char_count": 286,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1472,
+      "end_char": 1582,
+      "content": "== Dış bağlantılar == Metro İstanbul resmî sitesi 24 Ocak 2023 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 110,
+      "token_estimate": 27
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yamanevler Metro İstasyonu ne zaman hizmete girmiştir?",
+        "answer": "15 Aralık 2017.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "== Hatlar == başlığı altında listelenen '(Üsküdar – Samandıra Merkez)' hattı üzerinde yer alan bir metro istasyonunun adı nedir ve bu istasyon ne zaman hizmete girmiştir?",
+        "answer": "== Hatlar == başlığı altında belirtilen (Üsküdar – Samandıra Merkez) hattı üzerinde Yamanevler Metro İstasyonu bulunmaktadır ve bu istasyon 15 Aralık 2017 tarihinde hizmete girmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

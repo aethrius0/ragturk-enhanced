@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "2024raananasaldrs_229932e9",
+    "title": "2024 Ra'anana saldırısı",
+    "url": "https://tr.wikipedia.org/wiki/2024_Ra%27anana_sald%C4%B1r%C4%B1s%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:20:41.454438",
+    "content": "15 Ocak 2024'te, Hamas-İsrail Savaşı sırasında, Ra'anana'nın sanayi bölgesinde kombine araçla çarpma ve bıçaklama saldırısı gerçekleşti. Bir sivil öldü, on sekiz kişi de yaralandı. El Halil bölgesindeki Bani Na'im'in Filistinli sakinleri olan iki saldırgan tutuklandı. == Saldırı == Saldırı, saat 13:30 civarında iki Filistinli'nin Bani Na'im'den Ra'anana'daki Ahuza Caddesi'ne yasadışı olarak girmesiyle başladı. İçlerinden biri sürücünün arabasının kontrolünü ele geçirdi, araca girdi ve onu bıçakladı. Daha sonra şehirde dolaştı, üç arabayı değiştirdi ve çok sayıda sivilin üzerinden geçti. Başka bir aracın kontrolünü ele geçirerek Haroşet Caddesi'ne doğru ilerledi ve sivillere çarptıktan sonra Weizmann Caddesi'ne ulaştı ve burada birkaç kişinin üzerinden geçerek olay yerini terk etti. Acil durum merkezlerine olayla ilgili ihbarın alınmasının ardından güvenlik güçleri teröristin takibine başladı. Hızlı bir polis takibi ve ek özel birimler, saldırıda kendisine yardım ettiği anlaşılan biriyle birlikte yakalanmasına yol açtı. Çok kısa sürede, Polis Komiseri Kobi Şabtai ve Bölge Komutanı Avraham Biton da dahil olmak üzere büyük bir polis gücü olay yerine geldi. Kurbanlar, doğrudan hastaneye nakledildi ve 70'li yaşlarında bir kadın canlandırma çabalarına rağmen öldü. Ayrıca, 16 yaşında bir oğlan çocuğu da dahil olmak üzere üç kişi ciddi şekilde yaralandı. Aralarında çocukların da bulunduğu 9 kişi orta, 6 kişi ise hafif yaralandı. İsrail Savunma Kuvvetleri saldırının ardından iki saldırganın yaşadığı yer olan El Halil bölgesindeki Bani Na'im köyüne girdi ve tutuklamalar gerçekleştirdi. == Saldırganlar == Saldırganlar, El Halil bölgesindeki Bani Na'im'den gelip İsrail'de yasa dışı olarak kalan ve şehirdeki bir araba yıkama yerinde çalışan kardeşler Mahmud Zidat (44) ve Ahmed Zidat (25) idi. İkisi de İsrail'de yasadışı olarak kalmak suçundan daha önce birkaç kez yakalanmıştı. Saldırıdan önceki mayıs ayında Mahmud Zidat yasa dışı kalmaktan dolayı yakalanmış ve daha önce aldığı 6 mahkûmiyete rağmen, kısmen kişisel ve ailevi durumunun dikkate alınması nedeniyle şartlı hapis cezasına ek olarak 20 günlük fiili hapis gibi nispeten kısa bir cezaya çarptırılmıştı. == Tepkiler == === Hamas === Hamas, yaptığı açıklamada: \"Filistinli kahramanlarımız El-Murabitun'un gerçekleştirdiği 'Ra'anana' gerilla operasyonunun, Nazi işgalinin katliam eylemlerine doğal bir tepki olduğunu teyit ediyoruz... Devrimci gençliğimizi Batı Şeria ve Kudüs genelinde seferber ediyoruz, Nazi işgali yıkılıncaya kadar mücadeleyi ve devrimi yükseltmeye, topraklarımızı ve kutsallığımızı özgürleştirmeye, Allah'ın izniyle başkenti Kudüs olan Filistin devletimizi kurmaya çağırıyoruz.\" dedi. == Kaynaklar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 363,
+      "char_count": 2699,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.247926",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 269,
+      "content": "15 Ocak 2024'te, Hamas-İsrail Savaşı sırasında, Ra'anana'nın sanayi bölgesinde kombine araçla çarpma ve bıçaklama saldırısı gerçekleşti. Bir sivil öldü, on sekiz kişi de yaralandı. El Halil bölgesindeki Bani Na'im'in Filistinli sakinleri olan iki saldırgan tutuklandı.",
+      "char_count": 268,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0001",
+      "section": "== Saldırı ==",
+      "heading_path": "== Saldırı ==",
+      "start_char": 269,
+      "end_char": 1269,
+      "content": "== Saldırı == Saldırı, saat 13:30 civarında iki Filistinli'nin Bani Na'im'den Ra'anana'daki Ahuza Caddesi'ne yasadışı olarak girmesiyle başladı. İçlerinden biri sürücünün arabasının kontrolünü ele geçirdi, araca girdi ve onu bıçakladı. Daha sonra şehirde dolaştı, üç arabayı değiştirdi ve çok sayıda sivilin üzerinden geçti. Başka bir aracın kontrolünü ele geçirerek Haroşet Caddesi'ne doğru ilerledi ve sivillere çarptıktan sonra Weizmann Caddesi'ne ulaştı ve burada birkaç kişinin üzerinden geçerek olay yerini terk etti. Acil durum merkezlerine olayla ilgili ihbarın alınmasının ardından güvenlik güçleri teröristin takibine başladı. Hızlı bir polis takibi ve ek özel birimler, saldırıda kendisine yardım ettiği anlaşılan biriyle birlikte yakalanmasına yol açtı. Çok kısa sürede, Polis Komiseri Kobi Şabtai ve Bölge Komutanı Avraham Biton da dahil olmak üzere büyük bir polis gücü olay yerine geldi. Kurbanlar, doğrudan hastaneye nakledildi ve 70'li yaşlarında bir kadın canlandırma çabalarına rağ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Saldırı ==",
+      "heading_path": "== Saldırı ==",
+      "start_char": 1069,
+      "end_char": 1602,
+      "content": "bi Şabtai ve Bölge Komutanı Avraham Biton da dahil olmak üzere büyük bir polis gücü olay yerine geldi. Kurbanlar, doğrudan hastaneye nakledildi ve 70'li yaşlarında bir kadın canlandırma çabalarına rağmen öldü. Ayrıca, 16 yaşında bir oğlan çocuğu da dahil olmak üzere üç kişi ciddi şekilde yaralandı. Aralarında çocukların da bulunduğu 9 kişi orta, 6 kişi ise hafif yaralandı. İsrail Savunma Kuvvetleri saldırının ardından iki saldırganın yaşadığı yer olan El Halil bölgesindeki Bani Na'im köyüne girdi ve tutuklamalar gerçekleştirdi.",
+      "char_count": 533,
+      "token_estimate": 133
+    },
+    {
+      "id": "c0003",
+      "section": "== Saldırganlar ==",
+      "heading_path": "== Saldırganlar ==",
+      "start_char": 1603,
+      "end_char": 2183,
+      "content": "== Saldırganlar == Saldırganlar, El Halil bölgesindeki Bani Na'im'den gelip İsrail'de yasa dışı olarak kalan ve şehirdeki bir araba yıkama yerinde çalışan kardeşler Mahmud Zidat (44) ve Ahmed Zidat (25) idi. İkisi de İsrail'de yasadışı olarak kalmak suçundan daha önce birkaç kez yakalanmıştı. Saldırıdan önceki mayıs ayında Mahmud Zidat yasa dışı kalmaktan dolayı yakalanmış ve daha önce aldığı 6 mahkûmiyete rağmen, kısmen kişisel ve ailevi durumunun dikkate alınması nedeniyle şartlı hapis cezasına ek olarak 20 günlük fiili hapis gibi nispeten kısa bir cezaya çarptırılmıştı.",
+      "char_count": 579,
+      "token_estimate": 144
+    },
+    {
+      "id": "c0004",
+      "section": "=== Hamas ===",
+      "heading_path": "=== Hamas ===",
+      "start_char": 2198,
+      "end_char": 2684,
+      "content": "=== Hamas === Hamas, yaptığı açıklamada: \"Filistinli kahramanlarımız El-Murabitun'un gerçekleştirdiği 'Ra'anana' gerilla operasyonunun, Nazi işgalinin katliam eylemlerine doğal bir tepki olduğunu teyit ediyoruz... Devrimci gençliğimizi Batı Şeria ve Kudüs genelinde seferber ediyoruz, Nazi işgali yıkılıncaya kadar mücadeleyi ve devrimi yükseltmeye, topraklarımızı ve kutsallığımızı özgürleştirmeye, Allah'ın izniyle başkenti Kudüs olan Filistin devletimizi kurmaya çağırıyoruz.\" dedi.",
+      "char_count": 485,
+      "token_estimate": 121
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Saldırı yaklaşık saat kaçta başladı?",
+        "answer": "Saldırı saat 13:30 civarında başladı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "15 Ocak 2024'te Ra'anana'da gerçekleşen saldırının genel doğası, saldırganların kökenleri, saldırının gidişatı ve sonuçları açısından nasıl bir olaydı?",
+        "answer": "15 Ocak 2024'te Ra'anana'da, El Halil bölgesindeki Bani Na'im'den gelen iki Filistinli saldırgan tarafından kombine bir araçla çarpma ve bıçaklama saldırısı gerçekleşti. Saldırganlar yasadışı olarak şehre girip bir aracı ele geçirip sürücüyü bıçakladıktan sonra, şehir içinde üç araba değiştirerek sivillerin üzerinden geçtiler. Olay sonucunda 70'li yaşlarında bir kadın hayatını kaybetti; 16 yaşında bir oğlan çocuğu dahil üç kişi ciddi, çocuklar dahil dokuz kişi orta ve altı kişi hafif olmak üzere toplam on sekiz kişi yaralandı. Saldırganlar hızlı bir polis takibi sonucu yakalandı ve İsrail Savunma Kuvvetleri, saldırının ardından saldırganların köyü Bani Na'im'e girerek tutuklamalar gerçekleştirdi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

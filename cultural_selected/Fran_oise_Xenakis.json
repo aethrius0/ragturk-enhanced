@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "franoisexenakis_49c0ab6b",
+    "title": "Françoise Xenakis",
+    "url": "https://tr.wikipedia.org/wiki/Fran%C3%A7oise_Xenakis",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:39.442434",
+    "content": "Françoise Xenakis (evlilik öncesi soyadı: Gargouïl; 27 Eylül 1930, Blois - 12 Şubat 2018, Courbevoie), Fransız gazeteci, senarist ve roman yazarıdır. == Yaşamı ve kariyeri == 27 Eylül 1930'da Blois, Loir-et-Cher'de doğdu. 1960'lı yılların başında kariyerine başlayan Xenakis, 1980'lerde günlük yayınlanan bir gazete olan \"The Morning of Paris\" 'te yazmış ayrıca televizyonda yayınlanan sabah haber kuşağı programı \"Télématin\" ile ekranlara gelmiştir. Kendisi ödüllü bir edebiyat yarışması olan \"30 Milion Friends\" 'te yarışma paneline başkanlık etmiştir. == Özel yaşamı ve ölümü == Françoise Xenakis 1953'te savaş sonrası avangardın en önemli klasik bestecilerinden birisi olan Iannis Xenakis ile evlendi. Bu evlilikten 1956 doğumlu ressam ve heykeltıraş kızları Makhi Xenakis doğdu. == Seçme eserleri == Le Petit Caillou (1963) Des dimanches et des dimanches (1965) Aux lèvres pour que j'aie moins soif (1970) Écoute (1971) Et alors les morts pleureront (1972) Moi, j'aime pas la mer (1974) L'écrivain ou La sixième roue du carrosse (1975) Elle lui dirait dans l'île (1978) La Natte coupée (1982) Zut! on a encore oublié Madame Freud (1984) La Vie exemplaire de Rita Capuchon (1988) Le Temps usé (1992) Attends-moi (1993; won the Prix des libraires the same year) Désolée, mais ça ne se fait pas (1995) Chéri, tu viens pour la photo (1999) Mouche-toi, Cléopâtre (1999) Maman, je veux pas être empereur (2001) Regarde, nos chemins se sont fermés (2002) Danielle Mitterrand : la petite fille qui voulait être Antigone (2006) == Kaynakça == Bosquet, Alain. 1985. Les épouses de Françoise Xenakis, Figaro No. 12584 (15 Feb 1985), 36. Xenakis, Françoise, and Waldburg-Wolfegg, Andreas; Sarah Green; Maro Elliott. \"Mme Xenakis in Conversation\". International Contemporary Ensemble. 11 Haziran 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 20 Eylül 2009. KB1 bakım: Birden fazla ad: yazar listesi (link)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 287,
+      "char_count": 1905,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.486976",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 150,
+      "content": "Françoise Xenakis (evlilik öncesi soyadı: Gargouïl; 27 Eylül 1930, Blois - 12 Şubat 2018, Courbevoie), Fransız gazeteci, senarist ve roman yazarıdır.",
+      "char_count": 149,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 150,
+      "end_char": 555,
+      "content": "== Yaşamı ve kariyeri == 27 Eylül 1930'da Blois, Loir-et-Cher'de doğdu. 1960'lı yılların başında kariyerine başlayan Xenakis, 1980'lerde günlük yayınlanan bir gazete olan \"The Morning of Paris\" 'te yazmış ayrıca televizyonda yayınlanan sabah haber kuşağı programı \"Télématin\" ile ekranlara gelmiştir. Kendisi ödüllü bir edebiyat yarışması olan \"30 Milion Friends\" 'te yarışma paneline başkanlık etmiştir.",
+      "char_count": 404,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0002",
+      "section": "== Özel yaşamı ve ölümü ==",
+      "heading_path": "== Özel yaşamı ve ölümü ==",
+      "start_char": 555,
+      "end_char": 784,
+      "content": "== Özel yaşamı ve ölümü == Françoise Xenakis 1953'te savaş sonrası avangardın en önemli klasik bestecilerinden birisi olan Iannis Xenakis ile evlendi. Bu evlilikten 1956 doğumlu ressam ve heykeltıraş kızları Makhi Xenakis doğdu.",
+      "char_count": 228,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0003",
+      "section": "== Seçme eserleri ==",
+      "heading_path": "== Seçme eserleri ==",
+      "start_char": 784,
+      "end_char": 1524,
+      "content": "== Seçme eserleri == Le Petit Caillou (1963) Des dimanches et des dimanches (1965) Aux lèvres pour que j'aie moins soif (1970) Écoute (1971) Et alors les morts pleureront (1972) Moi, j'aime pas la mer (1974) L'écrivain ou La sixième roue du carrosse (1975) Elle lui dirait dans l'île (1978) La Natte coupée (1982) Zut! on a encore oublié Madame Freud (1984) La Vie exemplaire de Rita Capuchon (1988) Le Temps usé (1992) Attends-moi (1993; won the Prix des libraires the same year) Désolée, mais ça ne se fait pas (1995) Chéri, tu viens pour la photo (1999) Mouche-toi, Cléopâtre (1999) Maman, je veux pas être empereur (2001) Regarde, nos chemins se sont fermés (2002) Danielle Mitterrand : la petite fille qui voulait être Antigone (2006)",
+      "char_count": 739,
+      "token_estimate": 184
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1524,
+      "end_char": 1905,
+      "content": "== Kaynakça == Bosquet, Alain. 1985. Les épouses de Françoise Xenakis, Figaro No. 12584 (15 Feb 1985), 36. Xenakis, Françoise, and Waldburg-Wolfegg, Andreas; Sarah Green; Maro Elliott. \"Mme Xenakis in Conversation\". International Contemporary Ensemble. 11 Haziran 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 20 Eylül 2009. KB1 bakım: Birden fazla ad: yazar listesi (link)",
+      "char_count": 381,
+      "token_estimate": 95
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Le Petit Caillou adlı eser hangi yıl yayınlandı?",
+        "answer": "1963",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Françoise Xenakis'in kariyerinin geniş kapsamı ve çeşitli faaliyetleri sağlanan metinlerde nasıl bir bütün olarak tanımlanabilir?",
+        "answer": "Françoise Xenakis'in kariyeri, gazeteci, senarist ve roman yazarı kimliklerini bir araya getirerek geniş bir yelpazeyi kapsamaktadır. Bu kariyer yolculuğu, 1960'lı yılların başında başlamış; 1980'lerde günlük bir gazete olan \"The Morning of Paris\"te yazarlık, \"Télématin\" sabah haber kuşağında ekran deneyimi ve \"30 Milion Friends\" edebiyat yarışmasının panel başkanlığı gibi çeşitli görevlerle zenginleşmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

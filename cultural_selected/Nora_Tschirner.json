@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "noratschirner_5a8e9a54",
+    "title": "Nora Tschirner",
+    "url": "https://tr.wikipedia.org/wiki/Nora_Tschirner",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:33.920375",
+    "content": "Nora Marie Tschirner (12 Haziran 1981), Alman oyuncu, müzisyen, sunucu, dublaj sanatçısı ve radyocu. == Yaşamı ve kariyeri == Nora Tschirner, belgesel film yönetmeni Joachim Tschirner ve radyocu Waltraud Tschirner'in kızı olarak Doğu Berlin, Doğu Almanya'da doğdu. Doğu Berlin banliyösü Pankow'da iki ağabeyi ile beraber yetişti. Arkadaşı olan sanatçı Sarah Kuttner ile Berlin'de John-Lennon-Gymnasium'a gitti. Yüksek öğrenimini Pankow'daki Rosa-Luxemburg-Oberschule'de tamamladı. Oyunculuğa 1997'de ZDF kanalı yapımı çocuk dizisi Achterbahn ile başladı. Yer aldığı yapımlar arasında sinema filmleri; Kebab Connection (2004), Rabbit Without Ears (2007) ve The Crocodiles: All for One (2011) ile televizyon dizileri; Tatort (1970), Kulturjournal (1999) ve Ponyhof (2015) sayılabilir. Oyunculuk dışında 2001-2007 yılları arasında MTV Müzik Kanalı'nda sunucu olarak çalıştı. Ayrıca Stephan Michme ile birlikte Radyo Fritz'de (RBB) \"Blue Moon\" adlı radyo programını sundu. 2004'te yine MTV Müzik Kanalı'nda Christian Ulmen ile birlikte \"Ulmens Auftrag\" adlı programla ekranlara geldi. 2007 yılında First Steps Ödülleri'ni sundu. Ayrıca OneRepublic'in Secrets adlı müzik klibinde görüldü. Çalışmalarıyla Alman Televizyon Ödülü'nü kazandı ve Grammy Ödülü'ne aday gösterildi. 2013'te piyasaya çıkan Tomb Raider oyununun Almanya versiyonunda ana karakter Lara Croft'u seslendirdi. == Filmografi == === Sinema === 2003: Soloalbum 2004: Kebab Connection 2006: FC Venus 2007: Rabbit Without Ears 2009: Killing Is My Business, Honey 2010: Bon appétit 2010: Hier kommt Lola 2011: The Crocodiles: All for One 2012: Offroad 2012: Das Pferd auf dem Balkon 2012: Waiting Area 2013: Girl on a Bicycle 2013: Everyone's Going to Die 2016: SMS für Dich Gut gegen Nordwind === Televizyon dizileri === 1970: Tatort 1999: Kulturjournal 2002: Sternenfänger 2004: Ulmens Auftrag 2005: VIVA Live! 2007: Ijon Tichy: Raumpilot 2015: Paare 2015: Ponyhof 2016: Schulz & Böhmermann === Televizyon filmleri === 2004: Die Kurt Krömer Gala 2007: Das letzte Stück Himmel 2008: Ulmen, Zimmer 104 - Eine Hommage an Christian Ulmen === Video filmler === 2008: Der frühe Ulmen - Versunkene Werke der Periode MTV, Vol. 1 2009: OneRepublic: Secrets == Kaynakça == == Dış bağlantılar == IMDb'de Nora Tschirner Twitter'da Nora Tschirner Facebook'ta Nora Tschirner Instagram'da Nora Tschirner",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 332,
+      "char_count": 2347,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.759028",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 101,
+      "content": "Nora Marie Tschirner (12 Haziran 1981), Alman oyuncu, müzisyen, sunucu, dublaj sanatçısı ve radyocu.",
+      "char_count": 100,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 101,
+      "end_char": 1101,
+      "content": "== Yaşamı ve kariyeri == Nora Tschirner, belgesel film yönetmeni Joachim Tschirner ve radyocu Waltraud Tschirner'in kızı olarak Doğu Berlin, Doğu Almanya'da doğdu. Doğu Berlin banliyösü Pankow'da iki ağabeyi ile beraber yetişti. Arkadaşı olan sanatçı Sarah Kuttner ile Berlin'de John-Lennon-Gymnasium'a gitti. Yüksek öğrenimini Pankow'daki Rosa-Luxemburg-Oberschule'de tamamladı. Oyunculuğa 1997'de ZDF kanalı yapımı çocuk dizisi Achterbahn ile başladı. Yer aldığı yapımlar arasında sinema filmleri; Kebab Connection (2004), Rabbit Without Ears (2007) ve The Crocodiles: All for One (2011) ile televizyon dizileri; Tatort (1970), Kulturjournal (1999) ve Ponyhof (2015) sayılabilir. Oyunculuk dışında 2001-2007 yılları arasında MTV Müzik Kanalı'nda sunucu olarak çalıştı. Ayrıca Stephan Michme ile birlikte Radyo Fritz'de (RBB) \"Blue Moon\" adlı radyo programını sundu. 2004'te yine MTV Müzik Kanalı'nda Christian Ulmen ile birlikte \"Ulmens Auftrag\" adlı programla ekranlara geldi. 2007 yılında First S",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 901,
+      "end_char": 1372,
+      "content": "likte Radyo Fritz'de (RBB) \"Blue Moon\" adlı radyo programını sundu. 2004'te yine MTV Müzik Kanalı'nda Christian Ulmen ile birlikte \"Ulmens Auftrag\" adlı programla ekranlara geldi. 2007 yılında First Steps Ödülleri'ni sundu. Ayrıca OneRepublic'in Secrets adlı müzik klibinde görüldü. Çalışmalarıyla Alman Televizyon Ödülü'nü kazandı ve Grammy Ödülü'ne aday gösterildi. 2013'te piyasaya çıkan Tomb Raider oyununun Almanya versiyonunda ana karakter Lara Croft'u seslendirdi.",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0003",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 1390,
+      "end_char": 1751,
+      "content": "=== Sinema === 2003: Soloalbum 2004: Kebab Connection 2006: FC Venus 2007: Rabbit Without Ears 2009: Killing Is My Business, Honey 2010: Bon appétit 2010: Hier kommt Lola 2011: The Crocodiles: All for One 2012: Offroad 2012: Das Pferd auf dem Balkon 2012: Waiting Area 2013: Girl on a Bicycle 2013: Everyone's Going to Die 2016: SMS für Dich Gut gegen Nordwind",
+      "char_count": 360,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0004",
+      "section": "=== Televizyon dizileri ===",
+      "heading_path": "=== Televizyon dizileri ===",
+      "start_char": 1751,
+      "end_char": 1950,
+      "content": "=== Televizyon dizileri === 1970: Tatort 1999: Kulturjournal 2002: Sternenfänger 2004: Ulmens Auftrag 2005: VIVA Live! 2007: Ijon Tichy: Raumpilot 2015: Paare 2015: Ponyhof 2016: Schulz & Böhmermann",
+      "char_count": 198,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0005",
+      "section": "=== Televizyon filmleri ===",
+      "heading_path": "=== Televizyon filmleri ===",
+      "start_char": 1950,
+      "end_char": 2093,
+      "content": "=== Televizyon filmleri === 2004: Die Kurt Krömer Gala 2007: Das letzte Stück Himmel 2008: Ulmen, Zimmer 104 - Eine Hommage an Christian Ulmen",
+      "char_count": 142,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0006",
+      "section": "=== Video filmler ===",
+      "heading_path": "=== Video filmler ===",
+      "start_char": 2093,
+      "end_char": 2207,
+      "content": "=== Video filmler === 2008: Der frühe Ulmen - Versunkene Werke der Periode MTV, Vol. 1 2009: OneRepublic: Secrets",
+      "char_count": 113,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2222,
+      "end_char": 2347,
+      "content": "== Dış bağlantılar == IMDb'de Nora Tschirner Twitter'da Nora Tschirner Facebook'ta Nora Tschirner Instagram'da Nora Tschirner",
+      "char_count": 125,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Nora Tschirner oyunculuk kariyerine hangi yıl ve hangi yapımla başlamıştır?",
+        "answer": "Nora Tschirner, oyunculuğa 1997 yılında ZDF kanalı yapımı çocuk dizisi Achterbahn ile başlamıştır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Nora Tschirner'in metinlerde bahsedilen çok yönlü kariyeri (oyuncu, sunucu ve radyocu olarak) hangi spesifik roller ve çalışmalarla örneklendirilmektedir?",
+        "answer": "Oyunculuk kariyerine 1997'de ZDF'nin Achterbahn dizisiyle başlamış; Kebab Connection, Rabbit Without Ears gibi sinema filmlerinde ve Tatort, Kulturjournal gibi televizyon dizilerinde rol almıştır. Sunucu olarak 2001-2007 yılları arasında MTV Müzik Kanalı'nda çalışmış, ayrıca Christian Ulmen ile \"Ulmens Auftrag\" programını sunmuştur. Radyocu kimliği ise Radyo Fritz'de Stephan Michme ile sunduğu \"Blue Moon\" programı ile gösterilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

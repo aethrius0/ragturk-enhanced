@@ -1,0 +1,143 @@
+{
+  "article": {
+    "id": "lasvegas_8ba1e9f8",
+    "title": "Las Vegas",
+    "url": "https://tr.wikipedia.org/wiki/Las_Vegas",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:27.706895",
+    "content": "Las Vegas veya kısaca Vegas, ABD'nin Nevada eyaletinde bulunan Mojave Çölü üzerinde kurulu, kumar ve eğlence yerleriyle ünlü bir kent. == Tarihçe == Las Vegas, ABD'nin kurulduğu dönemlerde bir demiryolu geçiş istasyonu olması sebebiyle mafya ve organize çetelerin bulunduğu, denetimden yoksun bir kent idi. Bu durum, 1900'lerin başına kadar sürdü. 1931 yılında kumarhanelerin ABD'de legal statü kazanmasının ardından, eski bir gangster olan Bugsy Siegel burayı bir kumarhane merkezi şeklinde tasarladı ve bunu hayata geçirdi. 1940'lardan sonra artan ilgi ile birlikte şehrin nüfusu ve ekonomisi bugüne dek katlanarak artmıştır. == İklim == Yaz ayları oldukça sıcak geçmekle birlikte, sıcaklığın yer yer 45 dereceyi geçtiği gözlenmekte ancak nem oranının düşük olması hissedilen ısının fazla etkili olmamasını sağlamaktadır. Bu nedenle Las Vegas'ı en iyi ziyaret etme zamanı eylül ayı ile mayıs ayı arasındaki aylardır. == Oteller == Las Vegas otel ve kumarhaneleri genellikle dünyanın ünlü mimari eserlerinden esinlenerek tasarlanmıştır. İtalyan tarzı dekore edilmiş Bellagio Oteli'nin hemen önündeki büyük havuz şovu ünlüdür. Otelin çok sayıdaki restoranlarında dünyanın en ünlü aşçıları görev yapmakta, sanat müzesinde Monet'in orijinal eserleri ziyaretçilere açık olarak sergilenmektedir. Bellagio'nun bir başka özelliği ise içindeki çiçek bahçesidir, bu görkemli bahçedeki çiçekler her ay yenilenmekte ve sezonuna göre değiştirilmektedir. Bu otel yakın zamanlarda çekilen Ocean's Eleven ve Ocean's Twelve adlı macera filmlerine de mekân olmuştur. Bu filmlerde otelin gösterişli kumarhanesinin nasıl soyulduğu anlatılmaktadır. Mimari olarak Atakule'ye benzeyen ve Atakule'den yaklaşık 2 kat daha yuksek olan Stratosphere Otel & Casino'sunun üstünde 4 eğlence makinesi yer alır. Newyork Newyork, New York'un ünlü binalarına benzer olarak inşa edilmiştir ve üzerindeki roller coaster'i meşhurdur. == Nüfusu == Küçük bir çöl kasabası olan Las Vegas'ın nüfusu, 2.000'lerden 550.000'lere gelmiştir. Nüfus'un %69,86 sı beyaz, geri kalanı ise siyah ve sarı ırktandır. Ekonomisi büyük bir hızla gelişen şehrin nüfusu da aynı oranda artmaktadır. == Kumarhaneler == Las Vegas en çok dünyaca ünlü kumarhaneleri ile bilinmektedir. Uzun süre kalmaya yerlisi olmayanların tahammül edemeyeceği bir atmosferi vardır. Nevada eyaleti tüm Amerikan Birleşik Devletleri'nde kumarın ve fuhuşun yasal olduğu tek eyalettir. Ayrıca Amerika Birleşik Devletleri'nde mevcut olan en katı uyuşturucu yasalarına sahip olan eyaletlerden biridir. Las Vegas kumarhaneleriyle ünlü bir eyalet olmasına rağmen ayrıca birçok teknoloji şirketine de ev sahipliği yapmaktadır. Bazı teknoloji şirketleri burada kurulmaktadır, bazıları ise Las Vegas'a taşınmaktadır. Şehrin en büyük atraksiyonu olan kumarhaneler çoğunlukla şehrin downtown adıyla hitap edilen bölgesinde bulunmaktadır. Online oyun sektörüyle ilgili konferanslara ev sahipliği yapan şehir ışıltısı ve lüks otelleriyle de ünlüdür. Las Vegas Kumarhaneleri: == Kardeş şehirler == Las Vegas'ın 5 tane kardeş şehri vardır: == Resimler == === Panoramalar === == Ayrıca bakınız == Las Vegas'taki en yüksek binalar listesi == Dış bağlantılar == Las Vegas Sehri resmi websitesi 16 Aralık 2003 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Vegas Wikivoyage \"Las Vegas\" maddesi 16 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Vegas/ DMOZ Open Directory projesi \"Las Vegas\" maddesi (İngilizce) Las Vegas - turistler için bir rehber 14 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 483,
+      "char_count": 3548,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.316746",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 135,
+      "content": "Las Vegas veya kısaca Vegas, ABD'nin Nevada eyaletinde bulunan Mojave Çölü üzerinde kurulu, kumar ve eğlence yerleriyle ünlü bir kent.",
+      "char_count": 134,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 135,
+      "end_char": 628,
+      "content": "== Tarihçe == Las Vegas, ABD'nin kurulduğu dönemlerde bir demiryolu geçiş istasyonu olması sebebiyle mafya ve organize çetelerin bulunduğu, denetimden yoksun bir kent idi. Bu durum, 1900'lerin başına kadar sürdü. 1931 yılında kumarhanelerin ABD'de legal statü kazanmasının ardından, eski bir gangster olan Bugsy Siegel burayı bir kumarhane merkezi şeklinde tasarladı ve bunu hayata geçirdi. 1940'lardan sonra artan ilgi ile birlikte şehrin nüfusu ve ekonomisi bugüne dek katlanarak artmıştır.",
+      "char_count": 492,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0002",
+      "section": "== İklim ==",
+      "heading_path": "== İklim ==",
+      "start_char": 628,
+      "end_char": 919,
+      "content": "== İklim == Yaz ayları oldukça sıcak geçmekle birlikte, sıcaklığın yer yer 45 dereceyi geçtiği gözlenmekte ancak nem oranının düşük olması hissedilen ısının fazla etkili olmamasını sağlamaktadır. Bu nedenle Las Vegas'ı en iyi ziyaret etme zamanı eylül ayı ile mayıs ayı arasındaki aylardır.",
+      "char_count": 290,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0003",
+      "section": "== Oteller ==",
+      "heading_path": "== Oteller ==",
+      "start_char": 919,
+      "end_char": 1898,
+      "content": "== Oteller == Las Vegas otel ve kumarhaneleri genellikle dünyanın ünlü mimari eserlerinden esinlenerek tasarlanmıştır. İtalyan tarzı dekore edilmiş Bellagio Oteli'nin hemen önündeki büyük havuz şovu ünlüdür. Otelin çok sayıdaki restoranlarında dünyanın en ünlü aşçıları görev yapmakta, sanat müzesinde Monet'in orijinal eserleri ziyaretçilere açık olarak sergilenmektedir. Bellagio'nun bir başka özelliği ise içindeki çiçek bahçesidir, bu görkemli bahçedeki çiçekler her ay yenilenmekte ve sezonuna göre değiştirilmektedir. Bu otel yakın zamanlarda çekilen Ocean's Eleven ve Ocean's Twelve adlı macera filmlerine de mekân olmuştur. Bu filmlerde otelin gösterişli kumarhanesinin nasıl soyulduğu anlatılmaktadır. Mimari olarak Atakule'ye benzeyen ve Atakule'den yaklaşık 2 kat daha yuksek olan Stratosphere Otel & Casino'sunun üstünde 4 eğlence makinesi yer alır. Newyork Newyork, New York'un ünlü binalarına benzer olarak inşa edilmiştir ve üzerindeki roller coaster'i meşhurdur.",
+      "char_count": 978,
+      "token_estimate": 244
+    },
+    {
+      "id": "c0004",
+      "section": "== Nüfusu ==",
+      "heading_path": "== Nüfusu ==",
+      "start_char": 1898,
+      "end_char": 2140,
+      "content": "== Nüfusu == Küçük bir çöl kasabası olan Las Vegas'ın nüfusu, 2.000'lerden 550.000'lere gelmiştir. Nüfus'un %69,86 sı beyaz, geri kalanı ise siyah ve sarı ırktandır. Ekonomisi büyük bir hızla gelişen şehrin nüfusu da aynı oranda artmaktadır.",
+      "char_count": 241,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0005",
+      "section": "== Kumarhaneler ==",
+      "heading_path": "== Kumarhaneler ==",
+      "start_char": 2140,
+      "end_char": 2981,
+      "content": "== Kumarhaneler == Las Vegas en çok dünyaca ünlü kumarhaneleri ile bilinmektedir. Uzun süre kalmaya yerlisi olmayanların tahammül edemeyeceği bir atmosferi vardır. Nevada eyaleti tüm Amerikan Birleşik Devletleri'nde kumarın ve fuhuşun yasal olduğu tek eyalettir. Ayrıca Amerika Birleşik Devletleri'nde mevcut olan en katı uyuşturucu yasalarına sahip olan eyaletlerden biridir. Las Vegas kumarhaneleriyle ünlü bir eyalet olmasına rağmen ayrıca birçok teknoloji şirketine de ev sahipliği yapmaktadır. Bazı teknoloji şirketleri burada kurulmaktadır, bazıları ise Las Vegas'a taşınmaktadır. Şehrin en büyük atraksiyonu olan kumarhaneler çoğunlukla şehrin downtown adıyla hitap edilen bölgesinde bulunmaktadır. Online oyun sektörüyle ilgili konferanslara ev sahipliği yapan şehir ışıltısı ve lüks otelleriyle de ünlüdür. Las Vegas Kumarhaneleri:",
+      "char_count": 840,
+      "token_estimate": 210
+    },
+    {
+      "id": "c0006",
+      "section": "== Kardeş şehirler ==",
+      "heading_path": "== Kardeş şehirler ==",
+      "start_char": 2981,
+      "end_char": 3044,
+      "content": "== Kardeş şehirler == Las Vegas'ın 5 tane kardeş şehri vardır:",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0007",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 3079,
+      "end_char": 3141,
+      "content": "== Ayrıca bakınız == Las Vegas'taki en yüksek binalar listesi",
+      "char_count": 61,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3141,
+      "end_char": 3548,
+      "content": "== Dış bağlantılar == Las Vegas Sehri resmi websitesi 16 Aralık 2003 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Vegas Wikivoyage \"Las Vegas\" maddesi 16 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Vegas/ DMOZ Open Directory projesi \"Las Vegas\" maddesi (İngilizce) Las Vegas - turistler için bir rehber 14 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 407,
+      "token_estimate": 101
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bellagio Oteli'nin sanat müzesinde hangi sanatçının orijinal eserleri sergilenmektedir?",
+        "answer": "Monet",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Las Vegas'ın günümüzde kumar ve eğlence merkezleri ile ünlü bir kent haline gelmesinde etkili olan tarihi ve yasal gelişmeler nelerdir?",
+        "answer": "Las Vegas, başlangıçta mafya ve organize çetelerin kontrolünde denetimden yoksun bir demiryolu geçiş istasyonuyken, 1931'de kumarhanelerin ABD'de yasal hale gelmesi ve eski gangster Bugsy Siegel'in burayı bir kumarhane merkezi olarak tasarlayıp hayata geçirmesiyle bugünkü eğlence ve kumar merkezi kimliğine kavuşmuştur. Bu gelişmelerin ardından 1940'lardan itibaren artan ilgiyle şehrin nüfusu ve ekonomisi büyük ölçüde büyümüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

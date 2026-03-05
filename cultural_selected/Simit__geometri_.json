@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "simitgeometri_5682f7ea",
+    "title": "Simit (geometri)",
+    "url": "https://tr.wikipedia.org/wiki/Simit_%28geometri%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:38.721051",
+    "content": "Topolojide ve geometride simit (torus) bir yüzeydir. Üç boyutlu uzayda bir çemberin, aynı düzlemde yatan ve çembere değmeyen bir doğru etrafında döndürülmesiyle elde edilir. Yiyecek simidin ya da yüzmek için kullanılan şişirilmiş iç lastiğin yüzeyi matematiksel olarak birer simittir. Simit topolojik olarak bir çemberle (S1) kendisinin çarpımı (S1 × S1) olarak tanımlanır. (İki boyutlu) Simit genelde T2 olarak gösterilir. Bu çarpım aracılığıyla üzerinde çarpım topolojisi kurulmuştur. Bir yüzey olarak kapalıdır (tıkız ve kenarsız). Böyle tanımlanmış topolojik simit doğal olarak karmaşık 2 boyutlu (gerçel 4 boyutlu) karmaşık vektör uzayı C2'de bulunabilir. C 'de S1 birim çemberini düşünelim. C2'nin her bir C kopyasında bulunan birim çemberlerin çarpımı C2'de bir simit tanımlayacaktır. Bu simide Clifford simidi denir. Bu simidin her noktası C2'de başnoktadan (orijin) 2 {\\displaystyle {\\sqrt {2}}} kadar uzaktadır. Dolayısıyla Clifford simidi C2'de üç boyutlu küre (S3) içinde yatar. Bir simidi topolojik olarak tanımlamanın birçok yolu vardır. Örneğin düzlemde K=[0,1] × [0,1] birim karesi üzerinde şöyle bir denklik bağıntısı tanımlayalım. Her nokta kendisine; sol kenardaki her bir nokta, sağ kenarda karşısındaki noktaya; alt kenardaki her bir nokta, üst kenarda karşısındaki noktaya denk olsun: (x,y) ~ (x,y); (0,y) ~ (1,y); (x,0) ~ (x,1). K topolojik uzayı bu denklik bağıntısına bölündüğünde ortaya çıkan bölüm uzayı yukarıda tarif edilen simide homeomorfiktir; yani topolojik olarak eştirler. Bu işlem aslında şöyle hayal edilebilir: kare bir kağıdın önce alt ve üst kenarları, sonra sol ve sağ kenarları yapıştırılıyor. Elde edilen yüzey bir simittir. Yukarıdaki inşaya benzer bir biçimde, a ve b sıfırdan farklı iki gerçel sayı olmak üzere, R2 düzlemi, üzerinde tanımlanan (x,y) ~ (x+a,y) ~ (x,y+b) denklik bağıntısına bölündüğünde çıkan bölüm uzayı da simide homeomorfiktir. == Dış bağlantılar == Creation of a torus19 Nisan 2006 tarihinde Wayback Machine sitesinde arşivlendi. \"4D torus\" 14 Nisan 2012 tarihinde Wayback Machine sitesinde arşivlendi. \"Relational Perspective Map\" 28 Şubat 2021 tarihinde Wayback Machine sitesinde arşivlendi. \"Torus Games\" 2 Haziran 2012 tarihinde Wayback Machine sitesinde arşivlendi. Polydos",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 315,
+      "char_count": 2244,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.993865",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Topolojide ve geometride simit (torus) bir yüzeydir. Üç boyutlu uzayda bir çemberin, aynı düzlemde yatan ve çembere değmeyen bir doğru etrafında döndürülmesiyle elde edilir. Yiyecek simidin ya da yüzmek için kullanılan şişirilmiş iç lastiğin yüzeyi matematiksel olarak birer simittir. Simit topolojik olarak bir çemberle (S1) kendisinin çarpımı (S1 × S1) olarak tanımlanır. (İki boyutlu) Simit genelde T2 olarak gösterilir. Bu çarpım aracılığıyla üzerinde çarpım topolojisi kurulmuştur. Bir yüzey olarak kapalıdır (tıkız ve kenarsız). Böyle tanımlanmış topolojik simit doğal olarak karmaşık 2 boyutlu (gerçel 4 boyutlu) karmaşık vektör uzayı C2'de bulunabilir. C 'de S1 birim çemberini düşünelim. C2'nin her bir C kopyasında bulunan birim çemberlerin çarpımı C2'de bir simit tanımlayacaktır. Bu simide Clifford simidi denir. Bu simidin her noktası C2'de başnoktadan (orijin) 2 {\\displaystyle {\\sqrt {2}}} kadar uzaktadır. Dolayısıyla Clifford simidi C2'de üç boyutlu küre (S3) içinde yatar. Bir simid",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1070,
+      "content": "e Clifford simidi denir. Bu simidin her noktası C2'de başnoktadan (orijin) 2 {\\displaystyle {\\sqrt {2}}} kadar uzaktadır. Dolayısıyla Clifford simidi C2'de üç boyutlu küre (S3) içinde yatar. Bir simidi topolojik olarak tanımlamanın birçok yolu vardır. Örneğin düzlemde K",
+      "char_count": 270,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0002",
+      "section": "= [0,1] × [0,1] birim karesi üzerinde şöyle bir denklik bağıntısı tanımlayalım. Her nokta kendisine; sol kenardaki her bir nokta, sağ kenarda karşısındaki noktaya; alt kenardaki her bir nokta, üst kenarda karşısındaki noktaya denk olsun: (x,y) ~ (x,y); (0,y) ~ (1,y); (x,0) ~ (x,1). K topolojik uzayı bu denklik bağıntısına bölündüğünde ortaya çıkan bölüm uzayı yukarıda tarif edilen simide homeomorfiktir; yani topolojik olarak eştirler. Bu işlem aslında şöyle hayal edilebilir: kare bir kağıdın önce alt ve üst kenarları, sonra sol ve sağ kenarları yapıştırılıyor. Elde edilen yüzey bir simittir. Yukarıdaki inşaya benzer bir biçimde, a ve b sıfırdan farklı iki gerçel sayı olmak üzere, R2 düzlemi, üzerinde tanımlanan (x,y) ~ (x+a,y) ~ (x,y+b) denklik bağıntısına bölündüğünde çıkan bölüm uzayı da simide homeomorfiktir. = =",
+      "heading_path": "= [0,1] × [0,1] birim karesi üzerinde şöyle bir denklik bağıntısı tanımlayalım. Her nokta kendisine; sol kenardaki her bir nokta, sağ kenarda karşısındaki noktaya; alt kenardaki her bir nokta, üst kenarda karşısındaki noktaya denk olsun: (x,y) ~ (x,y); (0,y) ~ (1,y); (x,0) ~ (x,1). K topolojik uzayı bu denklik bağıntısına bölündüğünde ortaya çıkan bölüm uzayı yukarıda tarif edilen simide homeomorfiktir; yani topolojik olarak eştirler. Bu işlem aslında şöyle hayal edilebilir: kare bir kağıdın önce alt ve üst kenarları, sonra sol ve sağ kenarları yapıştırılıyor. Elde edilen yüzey bir simittir. Yukarıdaki inşaya benzer bir biçimde, a ve b sıfırdan farklı iki gerçel sayı olmak üzere, R2 düzlemi, üzerinde tanımlanan (x,y) ~ (x+a,y) ~ (x,y+b) denklik bağıntısına bölündüğünde çıkan bölüm uzayı da simide homeomorfiktir. = =",
+      "start_char": 1070,
+      "end_char": 2070,
+      "content": "=[0,1] × [0,1] birim karesi üzerinde şöyle bir denklik bağıntısı tanımlayalım. Her nokta kendisine; sol kenardaki her bir nokta, sağ kenarda karşısındaki noktaya; alt kenardaki her bir nokta, üst kenarda karşısındaki noktaya denk olsun: (x,y) ~ (x,y); (0,y) ~ (1,y); (x,0) ~ (x,1). K topolojik uzayı bu denklik bağıntısına bölündüğünde ortaya çıkan bölüm uzayı yukarıda tarif edilen simide homeomorfiktir; yani topolojik olarak eştirler. Bu işlem aslında şöyle hayal edilebilir: kare bir kağıdın önce alt ve üst kenarları, sonra sol ve sağ kenarları yapıştırılıyor. Elde edilen yüzey bir simittir. Yukarıdaki inşaya benzer bir biçimde, a ve b sıfırdan farklı iki gerçel sayı olmak üzere, R2 düzlemi, üzerinde tanımlanan (x,y) ~ (x+a,y) ~ (x,y+b) denklik bağıntısına bölündüğünde çıkan bölüm uzayı da simide homeomorfiktir. == Dış bağlantılar == Creation of a torus19 Nisan 2006 tarihinde Wayback Machine sitesinde arşivlendi. \"4D torus\" 14 Nisan 2012 tarihinde Wayback Machine sitesinde arşivlendi. \"",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "= [0,1] × [0,1] birim karesi üzerinde şöyle bir denklik bağıntısı tanımlayalım. Her nokta kendisine; sol kenardaki her bir nokta, sağ kenarda karşısındaki noktaya; alt kenardaki her bir nokta, üst kenarda karşısındaki noktaya denk olsun: (x,y) ~ (x,y); (0,y) ~ (1,y); (x,0) ~ (x,1). K topolojik uzayı bu denklik bağıntısına bölündüğünde ortaya çıkan bölüm uzayı yukarıda tarif edilen simide homeomorfiktir; yani topolojik olarak eştirler. Bu işlem aslında şöyle hayal edilebilir: kare bir kağıdın önce alt ve üst kenarları, sonra sol ve sağ kenarları yapıştırılıyor. Elde edilen yüzey bir simittir. Yukarıdaki inşaya benzer bir biçimde, a ve b sıfırdan farklı iki gerçel sayı olmak üzere, R2 düzlemi, üzerinde tanımlanan (x,y) ~ (x+a,y) ~ (x,y+b) denklik bağıntısına bölündüğünde çıkan bölüm uzayı da simide homeomorfiktir. = =",
+      "heading_path": "= [0,1] × [0,1] birim karesi üzerinde şöyle bir denklik bağıntısı tanımlayalım. Her nokta kendisine; sol kenardaki her bir nokta, sağ kenarda karşısındaki noktaya; alt kenardaki her bir nokta, üst kenarda karşısındaki noktaya denk olsun: (x,y) ~ (x,y); (0,y) ~ (1,y); (x,0) ~ (x,1). K topolojik uzayı bu denklik bağıntısına bölündüğünde ortaya çıkan bölüm uzayı yukarıda tarif edilen simide homeomorfiktir; yani topolojik olarak eştirler. Bu işlem aslında şöyle hayal edilebilir: kare bir kağıdın önce alt ve üst kenarları, sonra sol ve sağ kenarları yapıştırılıyor. Elde edilen yüzey bir simittir. Yukarıdaki inşaya benzer bir biçimde, a ve b sıfırdan farklı iki gerçel sayı olmak üzere, R2 düzlemi, üzerinde tanımlanan (x,y) ~ (x+a,y) ~ (x,y+b) denklik bağıntısına bölündüğünde çıkan bölüm uzayı da simide homeomorfiktir. = =",
+      "start_char": 1870,
+      "end_char": 2244,
+      "content": "simide homeomorfiktir. == Dış bağlantılar == Creation of a torus19 Nisan 2006 tarihinde Wayback Machine sitesinde arşivlendi. \"4D torus\" 14 Nisan 2012 tarihinde Wayback Machine sitesinde arşivlendi. \"Relational Perspective Map\" 28 Şubat 2021 tarihinde Wayback Machine sitesinde arşivlendi. \"Torus Games\" 2 Haziran 2012 tarihinde Wayback Machine sitesinde arşivlendi. Polydos",
+      "char_count": 374,
+      "token_estimate": 93
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İki boyutlu simit (torus) genellikle nasıl gösterilir?",
+        "answer": "T2 olarak",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Verilen metin parçalarına göre, topolojik bir simidi tanımlamanın veya elde etmenin başlıca farklı yolları nelerdir?",
+        "answer": "Topolojik bir simit, bir çemberin (S1) kendisiyle çarpımı (S1 × S1) olarak tanımlanabilir. Ayrıca, [0,1] × [0,1] birim karesinin sol ve sağ kenarlarını ile alt ve üst kenarlarını karşılıklı olarak yapıştırarak (denklik bağıntıları (0,y) ~ (1,y) ve (x,0) ~ (x,1) ile) veya R2 düzlemini (x,y) ~ (x+a,y) ~ (x,y+b) denklik bağıntısına bölerek elde edilebilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

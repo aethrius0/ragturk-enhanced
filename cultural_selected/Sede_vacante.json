@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "sedevacante_0958b953",
+    "title": "Sede vacante",
+    "url": "https://tr.wikipedia.org/wiki/Sede_vacante",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:52.765581",
+    "content": "Sede vacante, Katolik Kilisesi'nde bir piskoposluk veya başpiskoposluğun, görevde bulunan bir piskopos olmadan kaldığı ve piskoposluğun makamının katedral olduğu durumdur. Terim, papanın ölümü veya istifası üzerine meydana gelen bir papalık ara dönemine atıfta bulunmak için sıklıkla kullanılır. == Tarihçe == Kilise tarihinin erken dönemlerinde, papalık erkanındaki başrahip, başdiyakoz ve \"noterlerin primicerius'u\" sede vacante dönemini yöneten bir naiplik konseyi oluşturuyordu. Papa'nın ölümünü resmen tespit etmek, Apostolik Kamera'nın başı olan Camerarius'un (papalık nazırı) göreviydi. Bu durum, yavaş yavaş, Camerarius'un Roman Curia'sının şefi olarak, papanın ölümünden sonra bile normal işlerini yürütmesi ve ayrıca cenaze törenini ve yeni seçim için hazırlıkları yönetmesi gerektiği teorisine yol açtı. Bu süreç Camerarius Boso Breakspeare'de belirgindi. 1268'den 1271'e kadar süren uzun sede vacante sırasında, Camerarius'un önemi o kadar açıktı ki, Kardinaller, Camerarius ölürse yenisini seçmeye hazırlanıyorlardı. Papalık son olarak Papa Francis'in vefatının ardından 21 Nisan - 8 Mayıs 2025 tarihleri arasında boş bırakıldı. == Uzun sede vacante dönemleri == Konklavlar ve papalık seçimleri genellikle kısa sürede tamamlanır, ancak papalığın aylarca hatta yıllarca boş kaldığı birkaç dönem olmuştur. Aşağıdaki tabloda bir yıldan uzun süren \"sede vacante\" dönemler ayrıntılı olarak gösterilmektedir: == 1799'dan bu yana sede vacante dönemleri == == Ayrıca bakınız == Papalık feragatı == Notlar == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1527,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.648157",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 296,
+      "content": "Sede vacante, Katolik Kilisesi'nde bir piskoposluk veya başpiskoposluğun, görevde bulunan bir piskopos olmadan kaldığı ve piskoposluğun makamının katedral olduğu durumdur. Terim, papanın ölümü veya istifası üzerine meydana gelen bir papalık ara dönemine atıfta bulunmak için sıklıkla kullanılır.",
+      "char_count": 295,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 296,
+      "end_char": 1142,
+      "content": "== Tarihçe == Kilise tarihinin erken dönemlerinde, papalık erkanındaki başrahip, başdiyakoz ve \"noterlerin primicerius'u\" sede vacante dönemini yöneten bir naiplik konseyi oluşturuyordu. Papa'nın ölümünü resmen tespit etmek, Apostolik Kamera'nın başı olan Camerarius'un (papalık nazırı) göreviydi. Bu durum, yavaş yavaş, Camerarius'un Roman Curia'sının şefi olarak, papanın ölümünden sonra bile normal işlerini yürütmesi ve ayrıca cenaze törenini ve yeni seçim için hazırlıkları yönetmesi gerektiği teorisine yol açtı. Bu süreç Camerarius Boso Breakspeare'de belirgindi. 1268'den 1271'e kadar süren uzun sede vacante sırasında, Camerarius'un önemi o kadar açıktı ki, Kardinaller, Camerarius ölürse yenisini seçmeye hazırlanıyorlardı. Papalık son olarak Papa Francis'in vefatının ardından 21 Nisan - 8 Mayıs 2025 tarihleri arasında boş bırakıldı.",
+      "char_count": 845,
+      "token_estimate": 211
+    },
+    {
+      "id": "c0002",
+      "section": "== Uzun sede vacante dönemleri ==",
+      "heading_path": "== Uzun sede vacante dönemleri ==",
+      "start_char": 1142,
+      "end_char": 1416,
+      "content": "== Uzun sede vacante dönemleri == Konklavlar ve papalık seçimleri genellikle kısa sürede tamamlanır, ancak papalığın aylarca hatta yıllarca boş kaldığı birkaç dönem olmuştur. Aşağıdaki tabloda bir yıldan uzun süren \"sede vacante\" dönemler ayrıntılı olarak gösterilmektedir:",
+      "char_count": 273,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1462,
+      "end_char": 1500,
+      "content": "== Ayrıca bakınız == Papalık feragatı",
+      "char_count": 37,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Papa'nın ölümünü resmen tespit etmekle görevli olan kişi kimdi?",
+        "answer": "Apostolik Kamera'nın başı olan Camerarius (papalık nazırı).",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Katolik Kilisesi'ndeki papalık sede vacante döneminin yönetimi, Kilise'nin erken dönemlerinden itibaren nasıl bir evrim geçirmiştir ve bu süreçte Camerarius'un rolü nasıl değişmiştir?",
+        "answer": "Kilise tarihinin erken dönemlerinde, papalık sede vacante dönemi başrahip, başdiyakoz ve \"noterlerin primicerius'u\"ndan oluşan bir naiplik konseyi tarafından yönetiliyordu. Zamanla, papanın ölümü veya istifası üzerine meydana gelen bu papalık ara döneminde, Apostolik Kamera'nın başı olan Camerarius'un rolü genişledi. Camerarius, papanın ölümünü resmen tespit etme, Roman Curia'nın normal işlerini yürütme, cenaze törenini ve yeni seçim için hazırlıkları yönetme sorumluluklarını üstlendi. Bu görevler, 1268'den 1271'e kadar süren uzun bir sede vacante sırasında Camerarius'un öneminin artmasına yol açtı; öyle ki, kardinaller onun ölmesi durumunda yenisini seçmeyi bile düşündüler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

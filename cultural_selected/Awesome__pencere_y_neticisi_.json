@@ -1,0 +1,184 @@
+{
+  "article": {
+    "id": "awesomepencereynetic_d7c44181",
+    "title": "Awesome (pencere yöneticisi)",
+    "url": "https://tr.wikipedia.org/wiki/Awesome_%28pencere_y%C3%B6neticisi%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:44.202442",
+    "content": "AwesomeWM, C ve Lua programlama dillerinde geliştirilmiş X Pencere Sistemi için tasarlanmış dinamik bir pencere yöneticisidir . Lua, pencere yöneticisini yapılandırmak ve genişletmek için de kullanılır. Gelişimi bir dwm çatalı olarak başladı. Son derece küçük ve hızlı olmayı, ancak kapsamlı bir şekilde özelleştirilebilir olmayı hedefliyor. Kullanıcının klavyeyi kullanarak pencereleri yönetmesini mümkün kılar. Çatal başlangıçta jdwm lakaplıydı, burada \"jd\" ana programcının baş harflerini ve dwm çatallandığı yazılım projesini ifade ediyordu. awesome'in ilk git deposu Eylül 2007'de kuruldu. jdwm, How I Met Your Mother karakteri Barney Stinson tarafından kullanılan aynı ifadeden sonra awesome (harika) olarak yeniden adlandırıldı. awesome, 20 Eylül 2007'de dwm e-posta listesinde resmen ilan edildi. == Projenin amacı == Awesome, harici yapılandırma dosyaları aracılığıyla özelleştirme özelliğine sahip bir dwm çatalı olarak ortaya çıktı (aşağıdaki Yapılandırma ve özelleştirme bölümüne bakın). Oldukça genişletilebilir olmasına rağmen, pencere yöneticisinin varsayılan kurulumu kasıtlı olarak basitleştirilmiştir. Bunu yaparken, yazar, kullanıcıların kendi ihtiyaçlarına göre genişletmeleri ve uyarlamaları için bir çerçeve penceresi yöneticisi dediği şeyi yarattı. == Özellikler == Lua yapılandırma dosyası aracılığıyla yapılandırılır. dwm ve wmii gibi, awesome da çalışma alanları yerine etiketler kullanır. Pencereler birkaç etikete atanabilir ve aynı anda birden çok etiket seçilebilir. Bir dinamik pencere yöneticisi olarak, awesome her etiket için kayan, çeşitli dinamik döşeme düzenleri, büyütülmüş ve büyüteç dahil farklı düzenler arasında geçiş yapabilir. Çeşitli widget'lar (metin ve simge kutuları, grafikler, ilerleme çubukları vb.) dahil olmak üzere çoklu ve ekran başına durum çubukları. Her şey klavye ile yapılabilir, bu nedenle fare kullanımı isteğe bağlıdır. Çoklu baş desteği (XRandR, Xinerama veya Zaphod modu). EWMH, XDG Base Directory, XEmbed, Desktop Notification ve System Tray dahil olmak üzere freedesktop.org standartlarını uygular. xcompmgr gibi harici bir oluşturucu aracılığıyla birleştirme ve gerçek şeffaflık desteği. D-Bus (awesome-client) üzerinden uzaktan kumanda. Pango biçimlendirme dilini destekler. == Yapılandırma ve özelleştirme == En başından beri awesome, harici bir yapılandırma dosyasına sahip bir dwm çatalı olarak tasarlandı. Bu nedenle, yapılandırma dosyası formatı ve yapılandırma sürecinin kendisi, yazarın özel ilgisine tabi tutulmuştur. === Erken yapılandırma dosya biçimleri === Üçüncü büyük sürümden önce, awesome'nin özelliklerinden biri Danjou'nun 'karmaşık olmayan bir yapılandırma' olarak adlandırdığı şeydi. awesome (1.x)'in ilk sürümleri, libconfig kullanan düz dosya yapılandırmasıyla dwm'nin basit modifikasyonuydu. 2.x dalında, Danjou, yapılandırma kitaplığını libconfig'den libconfuse'a değiştirdi, farklı bir düz dosya yapılandırma kitaplığı, biraz libconfig'e benziyor. 2.x sürümlerinin geliştirilmesi sırasında, başlık çubukları ve simge çizimi gibi awesome pencere yöneticisine birçok özelleştirme özelliği eklendi. === Yeni yapılandırma dosyası === 20 Mayıs 2008'de Danjou, awesome posta listesine gönderdiği bir e-postada, 3.0 sürümünde yapılandırma dosyası için yeni bir formatın kullanılacağını duyurdu. Yeni biçim ~/.awesomerc.lua dosyasına yerleştirildi ve daha sonra ~/.config/awesome/rc.lua'ya taşındı. Uzantının önerdiği gibi, yapılandırma dosyası Lua programlama dilinde yazılmıştır. Danjou, yeni formatın ve Lua entegrasyonunun awesome kullanıcıların daha önce imkansız olduğunu düşündüğü şekillerde awesome'i özelleştirmesine olanak sağlayacağını savundu: yapılandırma için bir programlama dili kullanmak, yapılandırma seçeneklerini dinamik olarak belirlemeyi mümkün kıldı. awesome Lua API'si artık awesome'in ana sayfasında barındırılıyor ve awesome Wiki'de harikaları yapılandırma hakkında öğretici tarzı bir makale yayınlanıyor. === Temalar ve widget'lar === Pencere yöneticisinin Beautiful kitaplığını kullanarak awesome'i bir tema (veya kaplama) yapmak mümkündür. rc.lua yapılandırma dosyasına uygun olarak, Lua'da temalama da yapılır ve dinamik temaların oluşturulmasına izin verilir. 3.2.1 sürümünden itibaren varsayılan harika yapılandırmanın herhangi bir durum göstergesi olmamasına rağmen (kablosuz ağ durumu, pil göstergeleri vb.), kullanıcılar bu öğeleri widget'ları kullanarak ekleyebilir. Widget'lar ana yapılandırma dosyasında tanımlandığından, widget'lar için veriler rastgele Lua kodu kullanılarak sağlanır. == XCB'ye Geçiş == 18 Eylül 2008'de yayınlanan 3.0 sürümü, X sunucusuyla iletişim kurmak için XCB kitaplığını kullanır, bu kitaplığı Xlib yerine kullanan ilk pencere yöneticisini awesome yapar. XCB portu üzerindeki çalışmalar, şu anki Awesome geliştiricilerinden biri olan Arnaud Fontaine tarafından Ocak 2008'de başlatıldı. Arnaud Fontaine, 9 Nisan 2008'de XCB posta listesinde XCB'ye taşındığını duyurdu. Listeye gönderdiği mesajda, XCB kullanmanın başlıca avantajları olarak şunları vurguladı: \"modüler mimari; protokollere doğrudan erişim; multithreading; asenkron istekler/cevaplar;\". XCB limanı ertesi ay tamamlandı ve Danjou, XCB'ye dayalı yeni bir şube oluşturdu. == Lua entegrasyonu == awesome'in 3.0 öncesi sürümünde genişlemeyi ve özelleştirmeyi sınırlayan algılanan sorunlar nedeniyle, yazar Lua tabanlı konfigürasyonu awesome ile entegre etmeye karar verdi. Yeni Lua kodlu uygulamanın rc1'i Ağustos 2008'de duyuruldu. Eylül 2008'de, harika Lua API ile ilk sürümü, XCB uygulamasına paralel olarak tamamlandı. == Dağıtım paketi kullanılabilirliği == awesome, Arch Linux, Debian, Fedora Linux, Gentoo, Ubuntu, Source Mage, openSUSE, Mageia, NixOS, FreeBSD, NetBSD ve OpenBSD dahil olmak üzere çok çeşitli Unix benzeri işletim sistemlerinde dağıtılır., == Adlandırılmış sürümler == AwesomeWM 1.0'dan 1.3'e kadar olan sürümler (Eylül-Ekim 2007) adlandırılmadı. İlk 2.0 sürüm adayıyla (Kasım 2007) başlayarak, awesome adlandırılmış sürümleri kullandı. Sürüm adları müzikle ilgilidir. AwesomeWM v4.x, Daft Punk'tan şarkı adını kullanır. == Ayrıca bakınız == X pencere yöneticileri karşılaştırması dwm wmii i3 (pencere yöneticisi) Ion (pencere yöneticisi) İstiflenebilir pencere yöneticisi StumpWM Döşemeli Pencere Yöneticisi xmonad == Kaynakça == == Dış bağlantılar == Resmî site Wiki 10 Temmuz 2016 tarihinde Wayback Machine sitesinde arşivlendi. My first awesome 21 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi. - tutorial Screenshots 17 Şubat 2009 tarihinde Wayback Machine sitesinde arşivlendi. Falko Benthin (1 Aralık 2008). \"Herr der Fenster. Schlanker Windowmanager Awesome\" [Lord of the window. Slim Awesome Window Manager]. Linux User (Almanca) (12/2008). ISSN 1615-4444. 18 Aralık 2008 tarihinde kaynağından arşivlendi16 Mart 2010. Awesome Window Manager: How Can Your Environment Work For You? 31 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. - wiki review article (in progress) Awesome window manager - brief blog review Comparison of extensible window managers 7 Ocak 2019 tarihinde Wayback Machine sitesinde arşivlendi. - Comparison of Sawfish, Awesome, Xmonad, StumpWM, and Qtile.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 898,
+      "char_count": 7139,
+      "num_chunks": 13,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.393999",
+    "total_chunks": 13,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 805,
+      "content": "AwesomeWM, C ve Lua programlama dillerinde geliştirilmiş X Pencere Sistemi için tasarlanmış dinamik bir pencere yöneticisidir . Lua, pencere yöneticisini yapılandırmak ve genişletmek için de kullanılır. Gelişimi bir dwm çatalı olarak başladı. Son derece küçük ve hızlı olmayı, ancak kapsamlı bir şekilde özelleştirilebilir olmayı hedefliyor. Kullanıcının klavyeyi kullanarak pencereleri yönetmesini mümkün kılar. Çatal başlangıçta jdwm lakaplıydı, burada \"jd\" ana programcının baş harflerini ve dwm çatallandığı yazılım projesini ifade ediyordu. awesome'in ilk git deposu Eylül 2007'de kuruldu. jdwm, How I Met Your Mother karakteri Barney Stinson tarafından kullanılan aynı ifadeden sonra awesome (harika) olarak yeniden adlandırıldı. awesome, 20 Eylül 2007'de dwm e-posta listesinde resmen ilan edildi.",
+      "char_count": 804,
+      "token_estimate": 201
+    },
+    {
+      "id": "c0001",
+      "section": "== Projenin amacı ==",
+      "heading_path": "== Projenin amacı ==",
+      "start_char": 805,
+      "end_char": 1272,
+      "content": "== Projenin amacı == Awesome, harici yapılandırma dosyaları aracılığıyla özelleştirme özelliğine sahip bir dwm çatalı olarak ortaya çıktı (aşağıdaki Yapılandırma ve özelleştirme bölümüne bakın). Oldukça genişletilebilir olmasına rağmen, pencere yöneticisinin varsayılan kurulumu kasıtlı olarak basitleştirilmiştir. Bunu yaparken, yazar, kullanıcıların kendi ihtiyaçlarına göre genişletmeleri ve uyarlamaları için bir çerçeve penceresi yöneticisi dediği şeyi yarattı.",
+      "char_count": 466,
+      "token_estimate": 116
+    },
+    {
+      "id": "c0002",
+      "section": "== Özellikler ==",
+      "heading_path": "== Özellikler ==",
+      "start_char": 1272,
+      "end_char": 2244,
+      "content": "== Özellikler == Lua yapılandırma dosyası aracılığıyla yapılandırılır. dwm ve wmii gibi, awesome da çalışma alanları yerine etiketler kullanır. Pencereler birkaç etikete atanabilir ve aynı anda birden çok etiket seçilebilir. Bir dinamik pencere yöneticisi olarak, awesome her etiket için kayan, çeşitli dinamik döşeme düzenleri, büyütülmüş ve büyüteç dahil farklı düzenler arasında geçiş yapabilir. Çeşitli widget'lar (metin ve simge kutuları, grafikler, ilerleme çubukları vb.) dahil olmak üzere çoklu ve ekran başına durum çubukları. Her şey klavye ile yapılabilir, bu nedenle fare kullanımı isteğe bağlıdır. Çoklu baş desteği (XRandR, Xinerama veya Zaphod modu). EWMH, XDG Base Directory, XEmbed, Desktop Notification ve System Tray dahil olmak üzere freedesktop.org standartlarını uygular. xcompmgr gibi harici bir oluşturucu aracılığıyla birleştirme ve gerçek şeffaflık desteği. D-Bus (awesome-client) üzerinden uzaktan kumanda. Pango biçimlendirme dilini destekler.",
+      "char_count": 971,
+      "token_estimate": 242
+    },
+    {
+      "id": "c0003",
+      "section": "== Yapılandırma ve özelleştirme ==",
+      "heading_path": "== Yapılandırma ve özelleştirme ==",
+      "start_char": 2244,
+      "end_char": 2495,
+      "content": "== Yapılandırma ve özelleştirme == En başından beri awesome, harici bir yapılandırma dosyasına sahip bir dwm çatalı olarak tasarlandı. Bu nedenle, yapılandırma dosyası formatı ve yapılandırma sürecinin kendisi, yazarın özel ilgisine tabi tutulmuştur.",
+      "char_count": 250,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0004",
+      "section": "=== Erken yapılandırma dosya biçimleri ===",
+      "heading_path": "=== Erken yapılandırma dosya biçimleri ===",
+      "start_char": 2495,
+      "end_char": 3090,
+      "content": "=== Erken yapılandırma dosya biçimleri === Üçüncü büyük sürümden önce, awesome'nin özelliklerinden biri Danjou'nun 'karmaşık olmayan bir yapılandırma' olarak adlandırdığı şeydi. awesome (1.x)'in ilk sürümleri, libconfig kullanan düz dosya yapılandırmasıyla dwm'nin basit modifikasyonuydu. 2.x dalında, Danjou, yapılandırma kitaplığını libconfig'den libconfuse'a değiştirdi, farklı bir düz dosya yapılandırma kitaplığı, biraz libconfig'e benziyor. 2.x sürümlerinin geliştirilmesi sırasında, başlık çubukları ve simge çizimi gibi awesome pencere yöneticisine birçok özelleştirme özelliği eklendi.",
+      "char_count": 594,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0005",
+      "section": "=== Yeni yapılandırma dosyası ===",
+      "heading_path": "=== Yeni yapılandırma dosyası ===",
+      "start_char": 3090,
+      "end_char": 3918,
+      "content": "=== Yeni yapılandırma dosyası === 20 Mayıs 2008'de Danjou, awesome posta listesine gönderdiği bir e-postada, 3.0 sürümünde yapılandırma dosyası için yeni bir formatın kullanılacağını duyurdu. Yeni biçim ~/.awesomerc.lua dosyasına yerleştirildi ve daha sonra ~/.config/awesome/rc.lua'ya taşındı. Uzantının önerdiği gibi, yapılandırma dosyası Lua programlama dilinde yazılmıştır. Danjou, yeni formatın ve Lua entegrasyonunun awesome kullanıcıların daha önce imkansız olduğunu düşündüğü şekillerde awesome'i özelleştirmesine olanak sağlayacağını savundu: yapılandırma için bir programlama dili kullanmak, yapılandırma seçeneklerini dinamik olarak belirlemeyi mümkün kıldı. awesome Lua API'si artık awesome'in ana sayfasında barındırılıyor ve awesome Wiki'de harikaları yapılandırma hakkında öğretici tarzı bir makale yayınlanıyor.",
+      "char_count": 827,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0006",
+      "section": "=== Temalar ve widget'lar ===",
+      "heading_path": "=== Temalar ve widget'lar ===",
+      "start_char": 3918,
+      "end_char": 4511,
+      "content": "=== Temalar ve widget'lar === Pencere yöneticisinin Beautiful kitaplığını kullanarak awesome'i bir tema (veya kaplama) yapmak mümkündür. rc.lua yapılandırma dosyasına uygun olarak, Lua'da temalama da yapılır ve dinamik temaların oluşturulmasına izin verilir. 3.2.1 sürümünden itibaren varsayılan harika yapılandırmanın herhangi bir durum göstergesi olmamasına rağmen (kablosuz ağ durumu, pil göstergeleri vb.), kullanıcılar bu öğeleri widget'ları kullanarak ekleyebilir. Widget'lar ana yapılandırma dosyasında tanımlandığından, widget'lar için veriler rastgele Lua kodu kullanılarak sağlanır.",
+      "char_count": 592,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0007",
+      "section": "== XCB'ye Geçiş ==",
+      "heading_path": "== XCB'ye Geçiş ==",
+      "start_char": 4511,
+      "end_char": 5183,
+      "content": "== XCB'ye Geçiş == 18 Eylül 2008'de yayınlanan 3.0 sürümü, X sunucusuyla iletişim kurmak için XCB kitaplığını kullanır, bu kitaplığı Xlib yerine kullanan ilk pencere yöneticisini awesome yapar. XCB portu üzerindeki çalışmalar, şu anki Awesome geliştiricilerinden biri olan Arnaud Fontaine tarafından Ocak 2008'de başlatıldı. Arnaud Fontaine, 9 Nisan 2008'de XCB posta listesinde XCB'ye taşındığını duyurdu. Listeye gönderdiği mesajda, XCB kullanmanın başlıca avantajları olarak şunları vurguladı: \"modüler mimari; protokollere doğrudan erişim; multithreading; asenkron istekler/cevaplar;\". XCB limanı ertesi ay tamamlandı ve Danjou, XCB'ye dayalı yeni bir şube oluşturdu.",
+      "char_count": 671,
+      "token_estimate": 167
+    },
+    {
+      "id": "c0008",
+      "section": "== Lua entegrasyonu ==",
+      "heading_path": "== Lua entegrasyonu ==",
+      "start_char": 5183,
+      "end_char": 5532,
+      "content": "== Lua entegrasyonu == awesome'in 3.0 öncesi sürümünde genişlemeyi ve özelleştirmeyi sınırlayan algılanan sorunlar nedeniyle, yazar Lua tabanlı konfigürasyonu awesome ile entegre etmeye karar verdi. Yeni Lua kodlu uygulamanın rc1'i Ağustos 2008'de duyuruldu. Eylül 2008'de, harika Lua API ile ilk sürümü, XCB uygulamasına paralel olarak tamamlandı.",
+      "char_count": 348,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0009",
+      "section": "== Dağıtım paketi kullanılabilirliği ==",
+      "heading_path": "== Dağıtım paketi kullanılabilirliği ==",
+      "start_char": 5532,
+      "end_char": 5773,
+      "content": "== Dağıtım paketi kullanılabilirliği == awesome, Arch Linux, Debian, Fedora Linux, Gentoo, Ubuntu, Source Mage, openSUSE, Mageia, NixOS, FreeBSD, NetBSD ve OpenBSD dahil olmak üzere çok çeşitli Unix benzeri işletim sistemlerinde dağıtılır.,",
+      "char_count": 240,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0010",
+      "section": "== Adlandırılmış sürümler ==",
+      "heading_path": "== Adlandırılmış sürümler ==",
+      "start_char": 5773,
+      "end_char": 6054,
+      "content": "== Adlandırılmış sürümler == AwesomeWM 1.0'dan 1.3'e kadar olan sürümler (Eylül-Ekim 2007) adlandırılmadı. İlk 2.0 sürüm adayıyla (Kasım 2007) başlayarak, awesome adlandırılmış sürümleri kullandı. Sürüm adları müzikle ilgilidir. AwesomeWM v4.x, Daft Punk'tan şarkı adını kullanır.",
+      "char_count": 280,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0011",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 6054,
+      "end_char": 6249,
+      "content": "== Ayrıca bakınız == X pencere yöneticileri karşılaştırması dwm wmii i3 (pencere yöneticisi) Ion (pencere yöneticisi) İstiflenebilir pencere yöneticisi StumpWM Döşemeli Pencere Yöneticisi xmonad",
+      "char_count": 194,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0012",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 6264,
+      "end_char": 7139,
+      "content": "== Dış bağlantılar == Resmî site Wiki 10 Temmuz 2016 tarihinde Wayback Machine sitesinde arşivlendi. My first awesome 21 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi. - tutorial Screenshots 17 Şubat 2009 tarihinde Wayback Machine sitesinde arşivlendi. Falko Benthin (1 Aralık 2008). \"Herr der Fenster. Schlanker Windowmanager Awesome\" [Lord of the window. Slim Awesome Window Manager]. Linux User (Almanca) (12/2008). ISSN 1615-4444. 18 Aralık 2008 tarihinde kaynağından arşivlendi16 Mart 2010. Awesome Window Manager: How Can Your Environment Work For You? 31 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. - wiki review article (in progress) Awesome window manager - brief blog review Comparison of extensible window managers 7 Ocak 2019 tarihinde Wayback Machine sitesinde arşivlendi. - Comparison of Sawfish, Awesome, Xmonad, StumpWM, and Qtile.",
+      "char_count": 875,
+      "token_estimate": 218
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Awesome pencere yöneticisi ne aracılığıyla yapılandırılır?",
+        "answer": "Lua yapılandırma dosyası aracılığıyla.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "AwesomeWM'nin dwm çatalı olarak ortaya çıkışı ve projenin amacı, kullanıcıların pencere yöneticisini kendi gereksinimlerine göre genişletebileceği ve uyarlayabileceği bir çerçeve oluşturmasında nasıl bir rol oynamıştır?",
+        "answer": "AwesomeWM, dwm'den bir çatal olarak gelişmeye başlamış ve kapsamlı bir şekilde özelleştirilebilir olmayı hedeflemiştir. Projenin temel amacı, harici yapılandırma dosyaları aracılığıyla özelleştirme sunarak, varsayılan kurulumu kasıtlı olarak basitleştirmek ve böylece kullanıcıların kendi ihtiyaçlarına göre genişletebilecekleri ve uyarlayabilecekleri bir çerçeve pencere yöneticisi oluşturmaktı. Bu özelleştirme yeteneği, özellikle C ve Lua programlama dilleri kullanılarak sağlanır; Lua, pencere yöneticisini yapılandırmak ve genişletmek için kritik bir araçtır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

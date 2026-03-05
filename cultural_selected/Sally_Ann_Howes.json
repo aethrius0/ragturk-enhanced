@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "sallyannhowes_12725bda",
+    "title": "Sally Ann Howes",
+    "url": "https://tr.wikipedia.org/wiki/Sally_Ann_Howes",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:19.082312",
+    "content": "Sally Ann Howes (d. 20 Temmuz 1930, Londra, İngiltere –ö. 19 Aralık 2021, Florida), İngiliz aktris, dublaj sanatçısı ve şarkıcı. == Yaşamı ve kariyeri == Howes, 20 Temmuz 1930'da Londra, İngiltere'de doğdu. 1943'te başladığı sahne ve oyunculuk kariyerini 2021 yılındaki ölümüne kadar sürdürdü. En çok; Truly Scrumptious rolünde olduğu 1968 yapımı müzikal türde sinema filmi Chitty Chitty Bang Bang ile dikkat çekti. Ayrıca yer aldığı 1963 yapımı Brigadoon adlı yapım ile Tony Ödülü'ne aday gösterildi. == Ölümü == Howes, 19 Aralık 2021'de yaşamını sürdürdüğü Palm Beach, Florida, ABD'de doğal nedenlerden 91 yaşında öldü. == Filmografi == === Sinema === 1943: Thursday's Child 1945: Dead of Night 1947: The Life and Adventures of Nicholas Nickleby 1948: Anna Karenina 1948: My Sister and I 1949: Fools Rush In 1949: The History of Mr. Polly 1949: Stop Press Girl 1951: Due mogli sono troppe 1957: Paradise Lagoon 1968: Chitty Chitty Bang Bang 1980: Death Ship === Televizyon dizileri === 1959: Kraft Music Hall Presents: The Dave King Show 1966: Journey Into Fear === Televizyon filmleri === 1950: Cinderella 1951: The Golden Year 1952: Bet Your Life 1954: Paint Your Wagon 1955: Romance in Candlelight 1958: The Gift of the Magi 1960: The Fifth Column 1961: Jane Eyre 1961: Sally Ann Howes Variety Show 1966: Brigadoon 1970: Prudence and the Chief 1973: Female Artillery 2000: Hollywood Musicals of the 60's == Kaynaklar == == Dış bağlantılar == IMDb'de Sally Ann Howes",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 237,
+      "char_count": 1470,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.341418",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 129,
+      "content": "Sally Ann Howes (d. 20 Temmuz 1930, Londra, İngiltere –ö. 19 Aralık 2021, Florida), İngiliz aktris, dublaj sanatçısı ve şarkıcı.",
+      "char_count": 128,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 129,
+      "end_char": 502,
+      "content": "== Yaşamı ve kariyeri == Howes, 20 Temmuz 1930'da Londra, İngiltere'de doğdu. 1943'te başladığı sahne ve oyunculuk kariyerini 2021 yılındaki ölümüne kadar sürdürdü. En çok; Truly Scrumptious rolünde olduğu 1968 yapımı müzikal türde sinema filmi Chitty Chitty Bang Bang ile dikkat çekti. Ayrıca yer aldığı 1963 yapımı Brigadoon adlı yapım ile Tony Ödülü'ne aday gösterildi.",
+      "char_count": 372,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 502,
+      "end_char": 622,
+      "content": "== Ölümü == Howes, 19 Aralık 2021'de yaşamını sürdürdüğü Palm Beach, Florida, ABD'de doğal nedenlerden 91 yaşında öldü.",
+      "char_count": 119,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0003",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 639,
+      "end_char": 960,
+      "content": "=== Sinema === 1943: Thursday's Child 1945: Dead of Night 1947: The Life and Adventures of Nicholas Nickleby 1948: Anna Karenina 1948: My Sister and I 1949: Fools Rush In 1949: The History of Mr. Polly 1949: Stop Press Girl 1951: Due mogli sono troppe 1957: Paradise Lagoon 1968: Chitty Chitty Bang Bang 1980: Death Ship",
+      "char_count": 320,
+      "token_estimate": 80
+    },
+    {
+      "id": "c0004",
+      "section": "=== Televizyon dizileri ===",
+      "heading_path": "=== Televizyon dizileri ===",
+      "start_char": 960,
+      "end_char": 1064,
+      "content": "=== Televizyon dizileri === 1959: Kraft Music Hall Presents: The Dave King Show 1966: Journey Into Fear",
+      "char_count": 103,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0005",
+      "section": "=== Televizyon filmleri ===",
+      "heading_path": "=== Televizyon filmleri ===",
+      "start_char": 1064,
+      "end_char": 1409,
+      "content": "=== Televizyon filmleri === 1950: Cinderella 1951: The Golden Year 1952: Bet Your Life 1954: Paint Your Wagon 1955: Romance in Candlelight 1958: The Gift of the Magi 1960: The Fifth Column 1961: Jane Eyre 1961: Sally Ann Howes Variety Show 1966: Brigadoon 1970: Prudence and the Chief 1973: Female Artillery 2000: Hollywood Musicals of the 60's",
+      "char_count": 344,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1425,
+      "end_char": 1470,
+      "content": "== Dış bağlantılar == IMDb'de Sally Ann Howes",
+      "char_count": 45,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Howes, en çok hangi filmdeki rolüyle dikkat çekti?",
+        "answer": "1968 yapımı müzikal türde sinema filmi Chitty Chitty Bang Bang'deki Truly Scrumptious rolüyle.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sally Ann Howes'un doğum ve ölüm tarihleri ile kariyerinin başlangıç ve bitiş yıllarını göz önünde bulundurarak, sahne ve oyunculuk kariyerindeki en belirgin iki başarısını belirtiniz.",
+        "answer": "Sally Ann Howes 20 Temmuz 1930'da doğup 19 Aralık 2021'de vefat etmiştir. Kariyerine 1943 yılında başlayıp 2021 yılındaki ölümüne kadar devam etmiştir. Kariyerindeki en belirgin başarıları arasında 1968 yapımı Chitty Chitty Bang Bang filmindeki Truly Scrumptious rolü ve 1963 yapımı Brigadoon ile Tony Ödülü'ne aday gösterilmesi yer almaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

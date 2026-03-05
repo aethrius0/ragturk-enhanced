@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "agentizgiroman_e2454040",
+    "title": "Agent (çizgi roman)",
+    "url": "https://tr.wikipedia.org/wiki/Agent_%28%C3%A7izgi_roman%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:52.114893",
+    "content": "Agent (Rick Mason), Marvel Comics tarafından yaratılan kurgusal karakterdir. James Hudnall ve John Ridgway tarafından yaratılmıştır. İlk kez Rick Mason, The Agent (1989) romanında görülmüştür. S.H.I.E.L.D. istihbarat teşkilatına bağlıdır. Marvel Sinematik Evreni'nde O-T Fagbenle tarafından canlandırılmaktadır. == Biyografi == Tinkerer olarak bilinen silah tasarımcısı Phineas Mason'ın oğludur. Çok yetenekli bir gizli operasyon uzmanıdır. Amerika Birleşik Devletleri, İsrail, Japonya ve Birleşik Krallık dahil olmak üzere birçok ulusun hükûmetleri için görevler yapmıştır. New York'a gelmesi, babasının mesleği nedeniyle onu birçok suçluyla temasa geçirdi. Suç işlemek yerine başka bir yaşam yolu aradı. Paralı asker olarak S.H.I.E.L.D. istihbarat teşkilatına girdi. Nick Fury tarafından Costa Brava'da Amerikan destekli isyancıların bulunduğu bir görev üstlenmesi istendi. Eski öğretmenlerinden biri olan Teng Yun-Suan'ın olaylardan sorumlu olduğunu keşfetti. Yun-Suan'ı öldürdü. Oğlu, İç Savaş'ın ortaya çıkmasına sebep olan patlamada Stamford, Connecticut'ta yok oldu. Vitamin kod adlı birini öldürme görevi aldı. Görev sırasında Michael Rossi tarafından bulundu ancak Tinkerer'ın cihazlarını kullanarak kaçtı. Daha sonra; Carol Danvers ile takım kurdu. Vitamin'in Micheal Rossi olduğu ortaya çıktıktan sonra, neredeyse bir bomba nedeniyle ölüyordu ancak zamanında kurtuldu. Rossi'yi Brezilya'ya kadar takip etti ve buldu. == Diğer medyada == Marvel Sinematik Evreni filmi Black Widow (2021)'de O-T Fagbenle tarafından canlandırılmıştır. Spider-Man: Miles Morales oyununda yer almaktadır. Todd Williams tarafından seslendirilmiştir. == Kaynakça == == Dış bağlantılar == Agent Marvel.com profili 14 Temmuz 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 223,
+      "char_count": 1762,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.883675",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 312,
+      "content": "Agent (Rick Mason), Marvel Comics tarafından yaratılan kurgusal karakterdir. James Hudnall ve John Ridgway tarafından yaratılmıştır. İlk kez Rick Mason, The Agent (1989) romanında görülmüştür. S.H.I.E.L.D. istihbarat teşkilatına bağlıdır. Marvel Sinematik Evreni'nde O-T Fagbenle tarafından canlandırılmaktadır.",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 312,
+      "end_char": 1312,
+      "content": "== Biyografi == Tinkerer olarak bilinen silah tasarımcısı Phineas Mason'ın oğludur. Çok yetenekli bir gizli operasyon uzmanıdır. Amerika Birleşik Devletleri, İsrail, Japonya ve Birleşik Krallık dahil olmak üzere birçok ulusun hükûmetleri için görevler yapmıştır. New York'a gelmesi, babasının mesleği nedeniyle onu birçok suçluyla temasa geçirdi. Suç işlemek yerine başka bir yaşam yolu aradı. Paralı asker olarak S.H.I.E.L.D. istihbarat teşkilatına girdi. Nick Fury tarafından Costa Brava'da Amerikan destekli isyancıların bulunduğu bir görev üstlenmesi istendi. Eski öğretmenlerinden biri olan Teng Yun-Suan'ın olaylardan sorumlu olduğunu keşfetti. Yun-Suan'ı öldürdü. Oğlu, İç Savaş'ın ortaya çıkmasına sebep olan patlamada Stamford, Connecticut'ta yok oldu. Vitamin kod adlı birini öldürme görevi aldı. Görev sırasında Michael Rossi tarafından bulundu ancak Tinkerer'ın cihazlarını kullanarak kaçtı. Daha sonra; Carol Danvers ile takım kurdu. Vitamin'in Micheal Rossi olduğu ortaya çıktıktan sonr",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 1112,
+      "end_char": 1427,
+      "content": " aldı. Görev sırasında Michael Rossi tarafından bulundu ancak Tinkerer'ın cihazlarını kullanarak kaçtı. Daha sonra; Carol Danvers ile takım kurdu. Vitamin'in Micheal Rossi olduğu ortaya çıktıktan sonra, neredeyse bir bomba nedeniyle ölüyordu ancak zamanında kurtuldu. Rossi'yi Brezilya'ya kadar takip etti ve buldu.",
+      "char_count": 315,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0003",
+      "section": "== Diğer medyada ==",
+      "heading_path": "== Diğer medyada ==",
+      "start_char": 1428,
+      "end_char": 1638,
+      "content": "== Diğer medyada == Marvel Sinematik Evreni filmi Black Widow (2021)'de O-T Fagbenle tarafından canlandırılmıştır. Spider-Man: Miles Morales oyununda yer almaktadır. Todd Williams tarafından seslendirilmiştir.",
+      "char_count": 209,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1653,
+      "end_char": 1762,
+      "content": "== Dış bağlantılar == Agent Marvel.com profili 14 Temmuz 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 109,
+      "token_estimate": 27
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kahraman hangi istihbarat teşkilatına paralı asker olarak katılmıştır?",
+        "answer": "S.H.I.E.L.D.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Agent (Rick Mason) hangi istihbarat teşkilatına bağlıdır ve babasının mesleği onu suçlularla temasa geçirdikten sonra bu kuruma paralı asker olarak katılmasının nedeni nedir?",
+        "answer": "Agent (Rick Mason), S.H.I.E.L.D. istihbarat teşkilatına bağlıdır. Babasının mesleği olan silah tasarımcılığı nedeniyle birçok suçluyla temasa geçmesiyle, suç işlemek yerine farklı bir yaşam yolu arayışıyla S.H.I.E.L.D.'e paralı asker olarak katılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

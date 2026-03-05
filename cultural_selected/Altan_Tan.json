@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "altantan_2d07346a",
+    "title": "Altan Tan",
+    "url": "https://tr.wikipedia.org/wiki/Altan_Tan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:57.413380",
+    "content": "Altan Tan (11 Eylül 1958, Batman), Kürt asıllı Türk yazar ve siyasetçidir. == Hayatı ve kariyeri == Aslen Mardinli olan Altan Tan, 11 Eylül 1958 tarihinde Batman'da doğdu. Ailesi Midyat'ın Narlı köyünden kan davası nedeniyle 1840'lı yıllarda Midyat-Estel'e göç etti. Dedesi Hacı Yusuf Tan 1948 yılında Estel'den ayrıldı. Ailenin bir kısmı Diyarbakır'a bir kısmı ise İstanbul'a yerleşti. Annesi Türk olan Tan'ın Kürt olan babası Bedii Tan 12 Eylül Darbesi sırasında Diyarbakır Askeri Cezaevi'nde işkence görerek öldü. Altan Tan 1969 yılında Diyarbakır Mehmetçik İlkokulu'ndan, 1976 yılında Diyarbakır Maarif Koleji'nden, 1981 yılında Ankara Devlet Mühendislik Mimarlık Akademisi İnşaat Fakültesi'nden mezun oldu. Askerliğini 1982-1984 yılları arasında İstanbul Tuzla Piyade Okulu, Manisa ve Ankara'da tamamladı. 1984-1985 yılları arasında yaklaşık 1 yıl Ankara Keçiören Belediyesi'nde Başkan yardımcılığı görevinde bulundu. 1990-1991 yıllarında Refah Partisi MKY'da görev yaptı. Aydın Menderes'in liderliğinde 1993 yılında kurulan Büyük Değişim Partisi'nin kurucu üyesi olan Tan, bu partinin Genel İdare Kurulu Üyeliğine seçildi. BDP'nin kendini feshetmesinden sonra Menderes'le birlikte Demokrat Parti'ye geçen Altan Tan 16 Ocak 1994 tarihinde Demokrat Parti Genel İdare Kurulu üyeliğine seçildi. 29 Temmuz 1995 tarihinde yapılan kongreyle yeniden GİK Üyeliğine seçilen Tan, Menderes'in Refah Partisi'ne katılımından sonra siyasete ara verdi. 2000 yılında siyasete yeniden dönen Altan Tan 2000-2002 yıllarında HADEP Parti Meclisinde görev yaptı. 12 Haziran 2011 tarihinde yapılan 24. Dönem Milletvekili Genel Seçimlerinde Emek, Demokrasi ve Özgürlük Bloğu Diyarbakır milletvekili adayı olmuş ve seçilmiştir. Türkiye-Angola Parlamentolararası Dostluk Grubu üyesidir. 25. Dönem Milletvekili Genel Seçimlerinde Halkların Demokratik Partisi'den Diyarbakır milletvekili adayı olmuş ve seçilmiştir. 26. Dönem Milletvekili Genel Seçimlerinde yine aynı partiden Diyarbakır milletvekili adayı olmuş ve seçilmiştir. 2018 yılında Halkların Demokratik Partisi'nden istifa etmiştir. 2018 genel seçimlerinde Saadet Partisi'nden İstanbul 3. bölge adayı oldu, ancak seçilemedi. Yeni Zemin, Sözleşme dergileri ile Demokrasi, Yeni Gündem, Yeni Şafak, Zaman, Özgür Politika, Özgün Duruş, Star gazetesinde yazıları yayınlandı. Kürt Sorunu Ya Tam Kardeşlik Ya Hep Birlikte Kölelik adlı kitabı 2009'da Timaş Yayınlarından çıktı. Kürtçe, Türkçe, İngilizce ve Arapça bilen Altan Tan evli ve 6 çocuk babasıdır. == Eserleri == Kürt Sorunu (Ocak 2009, Timaş Yayınları) Değişen Ortadoğu'da Kürtler (2011, Çıra Yayınları) Turabiddin'den Beriyé'ye: Aşiretler, Dinler, Diller, Kültürler (2011, Nûbihar Yayınları) == Kaynakça == == Dış bağlantılar == Altan Tan: 'Diyarbakır zaferi felaket olabilir' 17 Mayıs 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 371,
+      "char_count": 2828,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.440889",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 75,
+      "content": "Altan Tan (11 Eylül 1958, Batman), Kürt asıllı Türk yazar ve siyasetçidir.",
+      "char_count": 74,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ve kariyeri ==",
+      "heading_path": "== Hayatı ve kariyeri ==",
+      "start_char": 75,
+      "end_char": 1075,
+      "content": "== Hayatı ve kariyeri == Aslen Mardinli olan Altan Tan, 11 Eylül 1958 tarihinde Batman'da doğdu. Ailesi Midyat'ın Narlı köyünden kan davası nedeniyle 1840'lı yıllarda Midyat-Estel'e göç etti. Dedesi Hacı Yusuf Tan 1948 yılında Estel'den ayrıldı. Ailenin bir kısmı Diyarbakır'a bir kısmı ise İstanbul'a yerleşti. Annesi Türk olan Tan'ın Kürt olan babası Bedii Tan 12 Eylül Darbesi sırasında Diyarbakır Askeri Cezaevi'nde işkence görerek öldü. Altan Tan 1969 yılında Diyarbakır Mehmetçik İlkokulu'ndan, 1976 yılında Diyarbakır Maarif Koleji'nden, 1981 yılında Ankara Devlet Mühendislik Mimarlık Akademisi İnşaat Fakültesi'nden mezun oldu. Askerliğini 1982-1984 yılları arasında İstanbul Tuzla Piyade Okulu, Manisa ve Ankara'da tamamladı. 1984-1985 yılları arasında yaklaşık 1 yıl Ankara Keçiören Belediyesi'nde Başkan yardımcılığı görevinde bulundu. 1990-1991 yıllarında Refah Partisi MKY'da görev yaptı. Aydın Menderes'in liderliğinde 1993 yılında kurulan Büyük Değişim Partisi'nin kurucu üyesi olan T",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ve kariyeri ==",
+      "heading_path": "== Hayatı ve kariyeri ==",
+      "start_char": 875,
+      "end_char": 1875,
+      "content": "yesi'nde Başkan yardımcılığı görevinde bulundu. 1990-1991 yıllarında Refah Partisi MKY'da görev yaptı. Aydın Menderes'in liderliğinde 1993 yılında kurulan Büyük Değişim Partisi'nin kurucu üyesi olan Tan, bu partinin Genel İdare Kurulu Üyeliğine seçildi. BDP'nin kendini feshetmesinden sonra Menderes'le birlikte Demokrat Parti'ye geçen Altan Tan 16 Ocak 1994 tarihinde Demokrat Parti Genel İdare Kurulu üyeliğine seçildi. 29 Temmuz 1995 tarihinde yapılan kongreyle yeniden GİK Üyeliğine seçilen Tan, Menderes'in Refah Partisi'ne katılımından sonra siyasete ara verdi. 2000 yılında siyasete yeniden dönen Altan Tan 2000-2002 yıllarında HADEP Parti Meclisinde görev yaptı. 12 Haziran 2011 tarihinde yapılan 24. Dönem Milletvekili Genel Seçimlerinde Emek, Demokrasi ve Özgürlük Bloğu Diyarbakır milletvekili adayı olmuş ve seçilmiştir. Türkiye-Angola Parlamentolararası Dostluk Grubu üyesidir. 25. Dönem Milletvekili Genel Seçimlerinde Halkların Demokratik Partisi'den Diyarbakır milletvekili adayı olmu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ve kariyeri ==",
+      "heading_path": "== Hayatı ve kariyeri ==",
+      "start_char": 1675,
+      "end_char": 2485,
+      "content": "kili adayı olmuş ve seçilmiştir. Türkiye-Angola Parlamentolararası Dostluk Grubu üyesidir. 25. Dönem Milletvekili Genel Seçimlerinde Halkların Demokratik Partisi'den Diyarbakır milletvekili adayı olmuş ve seçilmiştir. 26. Dönem Milletvekili Genel Seçimlerinde yine aynı partiden Diyarbakır milletvekili adayı olmuş ve seçilmiştir. 2018 yılında Halkların Demokratik Partisi'nden istifa etmiştir. 2018 genel seçimlerinde Saadet Partisi'nden İstanbul 3. bölge adayı oldu, ancak seçilemedi. Yeni Zemin, Sözleşme dergileri ile Demokrasi, Yeni Gündem, Yeni Şafak, Zaman, Özgür Politika, Özgün Duruş, Star gazetesinde yazıları yayınlandı. Kürt Sorunu Ya Tam Kardeşlik Ya Hep Birlikte Kölelik adlı kitabı 2009'da Timaş Yayınlarından çıktı. Kürtçe, Türkçe, İngilizce ve Arapça bilen Altan Tan evli ve 6 çocuk babasıdır.",
+      "char_count": 810,
+      "token_estimate": 202
+    },
+    {
+      "id": "c0004",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 2486,
+      "end_char": 2682,
+      "content": "== Eserleri == Kürt Sorunu (Ocak 2009, Timaş Yayınları) Değişen Ortadoğu'da Kürtler (2011, Çıra Yayınları) Turabiddin'den Beriyé'ye: Aşiretler, Dinler, Diller, Kültürler (2011, Nûbihar Yayınları)",
+      "char_count": 195,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2697,
+      "end_char": 2828,
+      "content": "== Dış bağlantılar == Altan Tan: 'Diyarbakır zaferi felaket olabilir' 17 Mayıs 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 131,
+      "token_estimate": 32
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Altan Tan hangi tarihte ve nerede doğmuştur?",
+        "answer": "11 Eylül 1958 tarihinde Batman'da doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Altan Tan'ın Kürt kökenli ailesinin geçmişi ve babasının 12 Eylül Darbesi sırasında yaşadığı trajik ölüm, onun siyasi kariyerinde hangi yönde bir eğilim göstermesine ve hangi partilerde aktif rol almasına neden olmuştur?",
+        "answer": "Altan Tan'ın Kürt kökeni ve babası Bedii Tan'ın 12 Eylül Darbesi sırasında Diyarbakır Askeri Cezaevi'nde işkence görerek ölmesi, onun siyasi kariyerinde HADEP Parti Meclisi'nde görev almasına ve sonrasında Emek, Demokrasi ve Özgürlük Bloğu ile Halkların Demokratik Partisi'nden Diyarbakır milletvekili olarak seçilmesine neden olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

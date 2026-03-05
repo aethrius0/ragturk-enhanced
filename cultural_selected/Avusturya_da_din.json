@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "avusturyadadin_406a870e",
+    "title": "Avusturya'da din",
+    "url": "https://tr.wikipedia.org/wiki/Avusturya%27da_din",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:43.840579",
+    "content": "Avusturya'da Hristiyanlık egemen dindir. 2021 nüfus sayımında, ülke nüfusunun %67,2'si Hristiyan'dır. Katolik Kilisesi'nin kendisine göre, 2021 yılı itibarıyla, Katoliklerin sayısı nüfusun %55,2'sine düştü. Buna karşılık, göç nedeniyle Avusturya'da Müslümanların sayısı son yıllarda arttı; 2001 yılında nüfusun %4.2'si kendisini Müslüman olarak tanımlıyordu; 2010'da yaklaşık %5 ila %6.2'ye, 2021'de ise %8'1'e yükseldi. Doğu Ortodoks kiliseleri de son yıllarda, eski Yugoslavya ülkelerinden (Sırbistan, Bosna Hersek, Hırvatistan) Sırpların ve Romanya'dan gelen göçe bağlı olarak (nüfusun %5'ine kadar) hızla büyüdü. Avusturya'da Hindular, Sihler, Budistler ve Yahudilerin küçük toplulukları ve diğer dinler de vardır. == Dinler == === İslam === Özellikle Balkanlar ve Türkiye'den gelen göç nedeniyle, Avusturya'daki Müslümanların sayısı son on yıllarda katlanarak artmıştır. === Budizm === Budizm, Avusturya'da yasal olarak tanınan bir dindir ve onu binlerce kişi tarafından takip edilmektedir. Mutlak sayı olarak hala küçük olmasına rağmen (2001 nüfus sayımında 10.402), Budizm, Avusturya'da yaygın bir şekilde kabul görmektedir. Ülkedeki Budistlerin çoğunluğu Avusturya vatandaşıdır (bazıları Asya'dan, özellikle Çin ve Vietnam'dan göç ettikten sonra vatandaşlığa kabul edilmiştir), önemli bir kısmı ise yabancı uyrukludur. === Hinduizm === Hinduizm, Avusturya'da bir azınlık dinidir ve 2001 nüfus sayımına göre 3629 kişinin diniydi. Hinduların Avusturya'daki resmi temsilcisi olan 'Avusturya'daki Hindu Topluluğu' (HRÖ), 1998'den bu yana kendisini \"Resmi kayıtlı günah çıkarma topluluğu\" olarak adlandırabilmekte, ancak devlet tarafından tam olarak yasal olarak tanınmamaktadır. === Paganizm === Avusturya'da, son yıllarda Pagan hareketlerinde bir artış görüldü. Bu artış özellikle Druidizm, Cermen neopaganizmi, Vika ve Cadılık grupları arasındaydı. 2010 yılı itibarıyla Avusturya otoyol yetkilileri, Avusturya otoyollarının en kötü kısımlarındaki kazaların sayısını azaltmayı amaçlayan jeomantik çalışmalar için Druidleri işe almaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 257,
+      "char_count": 2058,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.390608",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 719,
+      "content": "Avusturya'da Hristiyanlık egemen dindir. 2021 nüfus sayımında, ülke nüfusunun %67,2'si Hristiyan'dır. Katolik Kilisesi'nin kendisine göre, 2021 yılı itibarıyla, Katoliklerin sayısı nüfusun %55,2'sine düştü. Buna karşılık, göç nedeniyle Avusturya'da Müslümanların sayısı son yıllarda arttı; 2001 yılında nüfusun %4.2'si kendisini Müslüman olarak tanımlıyordu; 2010'da yaklaşık %5 ila %6.2'ye, 2021'de ise %8'1'e yükseldi. Doğu Ortodoks kiliseleri de son yıllarda, eski Yugoslavya ülkelerinden (Sırbistan, Bosna Hersek, Hırvatistan) Sırpların ve Romanya'dan gelen göçe bağlı olarak (nüfusun %5'ine kadar) hızla büyüdü. Avusturya'da Hindular, Sihler, Budistler ve Yahudilerin küçük toplulukları ve diğer dinler de vardır.",
+      "char_count": 718,
+      "token_estimate": 179
+    },
+    {
+      "id": "c0001",
+      "section": "=== İslam ===",
+      "heading_path": "=== İslam ===",
+      "start_char": 732,
+      "end_char": 876,
+      "content": "=== İslam === Özellikle Balkanlar ve Türkiye'den gelen göç nedeniyle, Avusturya'daki Müslümanların sayısı son on yıllarda katlanarak artmıştır.",
+      "char_count": 143,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0002",
+      "section": "=== Budizm ===",
+      "heading_path": "=== Budizm ===",
+      "start_char": 876,
+      "end_char": 1327,
+      "content": "=== Budizm === Budizm, Avusturya'da yasal olarak tanınan bir dindir ve onu binlerce kişi tarafından takip edilmektedir. Mutlak sayı olarak hala küçük olmasına rağmen (2001 nüfus sayımında 10.402), Budizm, Avusturya'da yaygın bir şekilde kabul görmektedir. Ülkedeki Budistlerin çoğunluğu Avusturya vatandaşıdır (bazıları Asya'dan, özellikle Çin ve Vietnam'dan göç ettikten sonra vatandaşlığa kabul edilmiştir), önemli bir kısmı ise yabancı uyrukludur.",
+      "char_count": 450,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0003",
+      "section": "=== Hinduizm ===",
+      "heading_path": "=== Hinduizm ===",
+      "start_char": 1327,
+      "end_char": 1683,
+      "content": "=== Hinduizm === Hinduizm, Avusturya'da bir azınlık dinidir ve 2001 nüfus sayımına göre 3629 kişinin diniydi. Hinduların Avusturya'daki resmi temsilcisi olan 'Avusturya'daki Hindu Topluluğu' (HRÖ), 1998'den bu yana kendisini \"Resmi kayıtlı günah çıkarma topluluğu\" olarak adlandırabilmekte, ancak devlet tarafından tam olarak yasal olarak tanınmamaktadır.",
+      "char_count": 355,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0004",
+      "section": "=== Paganizm ===",
+      "heading_path": "=== Paganizm ===",
+      "start_char": 1683,
+      "end_char": 2044,
+      "content": "=== Paganizm === Avusturya'da, son yıllarda Pagan hareketlerinde bir artış görüldü. Bu artış özellikle Druidizm, Cermen neopaganizmi, Vika ve Cadılık grupları arasındaydı. 2010 yılı itibarıyla Avusturya otoyol yetkilileri, Avusturya otoyollarının en kötü kısımlarındaki kazaların sayısını azaltmayı amaçlayan jeomantik çalışmalar için Druidleri işe almaktadır.",
+      "char_count": 360,
+      "token_estimate": 90
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2021 nüfus sayımına göre Avusturya nüfusunun yüzde kaçı Hristiyan'dır?",
+        "answer": "%67,2",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Avusturya'daki Müslüman nüfusunun artışının temel nedenleri nelerdir ve bu artışın boyutu zaman içinde nasıl bir değişim göstermiştir?",
+        "answer": "Avusturya'daki Müslüman nüfusunun artışının temel nedeni göçtür; özellikle Balkanlar ve Türkiye'den gelen göç bu artışta etkili olmuştur. Bu artış son yıllarda katlanarak büyümüştür; 2001'de nüfusun %4.2'sinden 2010'da yaklaşık %5 ila %6.2'ye ve 2021'de %8.1'e yükselmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

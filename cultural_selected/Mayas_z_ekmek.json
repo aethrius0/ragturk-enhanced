@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "mayaszekmek_ae35ff19",
+    "title": "Mayasız ekmek",
+    "url": "https://tr.wikipedia.org/wiki/Mayas%C4%B1z_ekmek",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:42.326692",
+    "content": "Mayasız ekmek, maya gibi kabartıcı maddeler kullanılmadan hazırlanan çok çeşitli ekmeklerden biridir. Mayasız ekmekler genellikle yassı ekmeklerdir, ancak tüm yassı ekmekler mayasız değildir. Tortilla ve roti gibi mayasız ekmekler sırasıyla Orta Amerika ve Güney Asya'da temel gıdalardır . Mayasız sakramental ekmek, Hristiyan ayini ve Efkaristiya teolojisinde önemli bir rol oynar. == Dini önemi == Mayasız ekmek Yahudilik ve Hristiyanlıkta önemli bir yere sahiptir. Yahudiler ve Hristiyanlar Mısır'dan Çıkış 12:18'de emredildiği gibi sırasıyla Fısıh ve Efkaristiya sırasında Matsa gibi mayasız ekmekler tüketirler. Tevrat'ta böyle talimat verilir: 15“Yedi gün mayasız ekmek yiyeceksiniz. İlk gün evlerinizden mayayı kaldıracaksınız. Kim bu yedi gün içinde mayalı bir şey yerse, İsrail'den atılacaktır. 16Birinci ve yedinci günler kutsal toplantı yapacaksınız. O günler hiçbir iş yapılmayacak. Herkes yalnız kendi yiyeceğini hazırlayacak. 17Mayasız Ekmek Bayramı'nı kutlayacaksınız, çünkü sizi ordular halinde o gün Mısır'dan çıkardım. Bu günü kalıcı bir kural olarak kuşaklarınız boyunca kutlayacaksınız. 18Birinci ayın on dördüncü gününün akşamından yirmi birinci gününün akşamına kadar mayasız ekmek yiyeceksiniz. 19Evlerinizde yedi gün maya bulunmayacak. Mayalı bir şey yiyen yerli yabancı herkes İsrail topluluğundan atılacaktır. 20Mayalı bir şey yemeyeceksiniz. Yaşadığınız her yerde mayasız ekmek yiyeceksiniz.” Katolik Kilise içindeki Latin Kilisesinin Kanon Yasası, Ev sahibi ve birlik ekmeği için maya kullanılmamasını zorunlu kılar. Bazı Protestan kiliseleri Latin Katolik uygulamasını takip etme eğilimindeyken diğerleri kendi mezheplerinin geleneklerine veya yerel kullanımlarına bağlı olarak mayasız ekmek veya sıradan (mayalı) ekmek kullanırlar. Öte yandan, çoğu Doğu Kilisesi Efkaristiya'da mayasız ekmek (Yunanca : azymos artos) kullanımını açıkça yasaklıyor. Doğu Hristiyanları mayasız ekmeği Eski Ahit'le ilişkilendirir ve Mesih'in kanındaki Yeni Antlaşma'nın sembolü olarak yalnızca mayalı ekmeğe izin verirler. Aslında bu kullanım, Doğu ve Batı kiliseleri arasındaki 1054 Büyük Bölünmesinin geleneksel olarak (Petrus'un önceliği ve İznik İnancındaki filioque meseleleri ile birlikte) nedenleri olarak kabul edilen üç çekişme noktasından biridir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 292,
+      "char_count": 2282,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.448646",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 383,
+      "content": "Mayasız ekmek, maya gibi kabartıcı maddeler kullanılmadan hazırlanan çok çeşitli ekmeklerden biridir. Mayasız ekmekler genellikle yassı ekmeklerdir, ancak tüm yassı ekmekler mayasız değildir. Tortilla ve roti gibi mayasız ekmekler sırasıyla Orta Amerika ve Güney Asya'da temel gıdalardır . Mayasız sakramental ekmek, Hristiyan ayini ve Efkaristiya teolojisinde önemli bir rol oynar.",
+      "char_count": 382,
+      "token_estimate": 95
+    },
+    {
+      "id": "c0001",
+      "section": "== Dini önemi ==",
+      "heading_path": "== Dini önemi ==",
+      "start_char": 383,
+      "end_char": 1383,
+      "content": "== Dini önemi == Mayasız ekmek Yahudilik ve Hristiyanlıkta önemli bir yere sahiptir. Yahudiler ve Hristiyanlar Mısır'dan Çıkış 12:18'de emredildiği gibi sırasıyla Fısıh ve Efkaristiya sırasında Matsa gibi mayasız ekmekler tüketirler. Tevrat'ta böyle talimat verilir: 15“Yedi gün mayasız ekmek yiyeceksiniz. İlk gün evlerinizden mayayı kaldıracaksınız. Kim bu yedi gün içinde mayalı bir şey yerse, İsrail'den atılacaktır. 16Birinci ve yedinci günler kutsal toplantı yapacaksınız. O günler hiçbir iş yapılmayacak. Herkes yalnız kendi yiyeceğini hazırlayacak. 17Mayasız Ekmek Bayramı'nı kutlayacaksınız, çünkü sizi ordular halinde o gün Mısır'dan çıkardım. Bu günü kalıcı bir kural olarak kuşaklarınız boyunca kutlayacaksınız. 18Birinci ayın on dördüncü gününün akşamından yirmi birinci gününün akşamına kadar mayasız ekmek yiyeceksiniz. 19Evlerinizde yedi gün maya bulunmayacak. Mayalı bir şey yiyen yerli yabancı herkes İsrail topluluğundan atılacaktır. 20Mayalı bir şey yemeyeceksiniz. Yaşadığınız he",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Dini önemi ==",
+      "heading_path": "== Dini önemi ==",
+      "start_char": 1183,
+      "end_char": 2183,
+      "content": " kadar mayasız ekmek yiyeceksiniz. 19Evlerinizde yedi gün maya bulunmayacak. Mayalı bir şey yiyen yerli yabancı herkes İsrail topluluğundan atılacaktır. 20Mayalı bir şey yemeyeceksiniz. Yaşadığınız her yerde mayasız ekmek yiyeceksiniz.” Katolik Kilise içindeki Latin Kilisesinin Kanon Yasası, Ev sahibi ve birlik ekmeği için maya kullanılmamasını zorunlu kılar. Bazı Protestan kiliseleri Latin Katolik uygulamasını takip etme eğilimindeyken diğerleri kendi mezheplerinin geleneklerine veya yerel kullanımlarına bağlı olarak mayasız ekmek veya sıradan (mayalı) ekmek kullanırlar. Öte yandan, çoğu Doğu Kilisesi Efkaristiya'da mayasız ekmek (Yunanca : azymos artos) kullanımını açıkça yasaklıyor. Doğu Hristiyanları mayasız ekmeği Eski Ahit'le ilişkilendirir ve Mesih'in kanındaki Yeni Antlaşma'nın sembolü olarak yalnızca mayalı ekmeğe izin verirler. Aslında bu kullanım, Doğu ve Batı kiliseleri arasındaki 1054 Büyük Bölünmesinin geleneksel olarak (Petrus'un önceliği ve İznik İnancındaki filioque me",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Dini önemi ==",
+      "heading_path": "== Dini önemi ==",
+      "start_char": 1983,
+      "end_char": 2267,
+      "content": "bolü olarak yalnızca mayalı ekmeğe izin verirler. Aslında bu kullanım, Doğu ve Batı kiliseleri arasındaki 1054 Büyük Bölünmesinin geleneksel olarak (Petrus'un önceliği ve İznik İnancındaki filioque meseleleri ile birlikte) nedenleri olarak kabul edilen üç çekişme noktasından biridir.",
+      "char_count": 284,
+      "token_estimate": 71
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tevrat'taki talimatlara göre, mayasız ekmek kaç gün boyunca tüketilmelidir?",
+        "answer": "Yedi gün.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mayasız ekmeğin Hristiyan ayinlerindeki kullanımı, özellikle Latin ve Doğu Kiliseleri arasında nasıl farklılık gösterir ve bu farklılığın nedenleri nelerdir?",
+        "answer": "Mayasız ekmek Hristiyan ayinlerinde önemli bir yere sahip olsa da, Latin Kilisesi Kanon Yasası ev sahibi ve birlik ekmeği için maya kullanılmamasını zorunlu kılarken, çoğu Doğu Kilisesi Efkaristiya'da mayasız ekmek kullanımını açıkça yasaklar. Doğu Hristiyanları, mayasız ekmeği Eski Ahit ile ilişkilendirir ve Mesih'in kanındaki Yeni Antlaşma'nın sembolü olarak yalnızca mayalı ekmeğe izin verirler. Bu kullanım farklılığı, 1054'teki Doğu ve Batı kiliseleri arasındaki Büyük Bölünmenin geleneksel olarak nedenlerinden biri olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

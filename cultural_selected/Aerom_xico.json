@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "aeromxico_9b8ea9df",
+    "title": "Aeroméxico",
+    "url": "https://tr.wikipedia.org/wiki/Aerom%C3%A9xico",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:47.207536",
+    "content": "Aerovías de México, S.A. de C.V. ya da kısaca AeroMéxico Meksika'nın ulusal ve bayrak taşıyıcı havayolu şirketi. SkyTeam'in kurucu üyelerinden olan AeroMéxico, Mart 2015 itibarı ile 45 ülkede 78 farklı noktaya uçuş gerçekleştirmektedir.. Aeroméxico, Amerikan taşıyıcı Delta Air Lines ile sıkı bir işbirliği içinde olan ve Aeroméxico'nun bir parçasına sahip olan ve 2015 yılında en fazla %49 hisse almayı planladığını duyuran şirketlerdendir. 8 Mayıs 2017 tarihinde yürürlüğe giren Ortak Ticari Anlaşma (JCA) uyarınca, havayolları ABD ve Meksika arasındaki tüm uçuşlarında bilgileri, masrafları ve gelirleri paylaşmaktadır. 2016 yılında şirket, bir önceki yıla göre %5,0 daha fazla olan 19,703 milyon yolcu taşımıştır. Bu yolcuların 13,047 milyonu iç hatlar (+3,7%) ve 6,656 milyonu uluslararası (+7,6%) idi. 34,776 milyon yolcu-kilometre gelir (RPK) ve 43,362 milyon boş yolcu-kilometre (ASKs) elde etmiş ve doluluk oranı %80,3 olmuştur. 2023 yılında Aeromexico, 15.000'den fazla uçuş gerçekleştirildiğinde, ocak ayında punctuality oranının %90,66'ya ulaştığı gözlemlenmiştir ve güvenilirlik önemli ölçüde arttı. == Kurumsal İşler == === Merkezi Ofis === Şirketin merkezi, Cuauhtémoc mahalle ve Cancún bölgesinde bulunmaktadır. === İletişim Platformu === Eylül 2016'da Aeromexico, Kuzey ve Güney Amerika'da ilk defa, Facebook Messenger'da sanal bir asistan ile etkileşim kurarak, müşterilerine uçuşları arama, takip etme ve rezervasyon yaptırma olanağı sunan bir chatbot başlatan havayolu oldu. Nisan 2017'deki Facebook F8 konferansında, havayolu Facebook'dan, dünyadaki ilk şirketlerden biri olarak grup sohbeti sırasında Aerobot'u çağırma özelliğini başlatan havayolu oldu. Ayrıca, bir soruyu yanıtlamak için yapay zeka ve doğal dil işleme yöntemlerini kullanarak herhangi bir soruyu sorma özelliğini başlattı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 245,
+      "char_count": 1827,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.846220",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Aerovías de México, S.A. de C.V. ya da kısaca AeroMéxico Meksika'nın ulusal ve bayrak taşıyıcı havayolu şirketi. SkyTeam'in kurucu üyelerinden olan AeroMéxico, Mart 2015 itibarı ile 45 ülkede 78 farklı noktaya uçuş gerçekleştirmektedir.. Aeroméxico, Amerikan taşıyıcı Delta Air Lines ile sıkı bir işbirliği içinde olan ve Aeroméxico'nun bir parçasına sahip olan ve 2015 yılında en fazla %49 hisse almayı planladığını duyuran şirketlerdendir. 8 Mayıs 2017 tarihinde yürürlüğe giren Ortak Ticari Anlaşma (JCA) uyarınca, havayolları ABD ve Meksika arasındaki tüm uçuşlarında bilgileri, masrafları ve gelirleri paylaşmaktadır. 2016 yılında şirket, bir önceki yıla göre %5,0 daha fazla olan 19,703 milyon yolcu taşımıştır. Bu yolcuların 13,047 milyonu iç hatlar (+3,7%) ve 6,656 milyonu uluslararası (+7,6%) idi. 34,776 milyon yolcu-kilometre gelir (RPK) ve 43,362 milyon boş yolcu-kilometre (ASKs) elde etmiş ve doluluk oranı %80,3 olmuştur. 2023 yılında Aeromexico, 15.000'den fazla uçuş gerçekleştirild",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1112,
+      "content": "%) idi. 34,776 milyon yolcu-kilometre gelir (RPK) ve 43,362 milyon boş yolcu-kilometre (ASKs) elde etmiş ve doluluk oranı %80,3 olmuştur. 2023 yılında Aeromexico, 15.000'den fazla uçuş gerçekleştirildiğinde, ocak ayında punctuality oranının %90,66'ya ulaştığı gözlemlenmiştir ve güvenilirlik önemli ölçüde arttı.",
+      "char_count": 312,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0002",
+      "section": "=== Merkezi Ofis ===",
+      "heading_path": "=== Merkezi Ofis ===",
+      "start_char": 1134,
+      "end_char": 1228,
+      "content": "=== Merkezi Ofis === Şirketin merkezi, Cuauhtémoc mahalle ve Cancún bölgesinde bulunmaktadır.",
+      "char_count": 93,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0003",
+      "section": "=== İletişim Platformu ===",
+      "heading_path": "=== İletişim Platformu ===",
+      "start_char": 1228,
+      "end_char": 1813,
+      "content": "=== İletişim Platformu === Eylül 2016'da Aeromexico, Kuzey ve Güney Amerika'da ilk defa, Facebook Messenger'da sanal bir asistan ile etkileşim kurarak, müşterilerine uçuşları arama, takip etme ve rezervasyon yaptırma olanağı sunan bir chatbot başlatan havayolu oldu. Nisan 2017'deki Facebook F8 konferansında, havayolu Facebook'dan, dünyadaki ilk şirketlerden biri olarak grup sohbeti sırasında Aerobot'u çağırma özelliğini başlatan havayolu oldu. Ayrıca, bir soruyu yanıtlamak için yapay zeka ve doğal dil işleme yöntemlerini kullanarak herhangi bir soruyu sorma özelliğini başlattı.",
+      "char_count": 584,
+      "token_estimate": 146
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Aeroméxico, Mart 2015 itibarıyla kaç farklı ülkedeki kaç noktaya uçuş gerçekleştirmekteydi?",
+        "answer": "Mart 2015 itibarıyla 45 ülkede 78 farklı noktaya uçuş gerçekleştirmekteydi.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "AeroMéxico'nun 2016 yılındaki yolcu taşımacılığı ve verimlilik ölçütleri ile 2023 yılındaki dakiklik ve güvenilirlik başarıları arasında nasıl bir ilişki veya gelişim gözlemlenmiştir?",
+        "answer": "2016 yılında AeroMéxico, 19.703 milyon yolcu taşıyarak 34.776 milyon yolcu-kilometre gelir (RPK) ve 43.362 milyon boş yolcu-kilometre (ASKs) elde etmiş, doluluk oranı %80,3 olmuştur. 2023 yılına gelindiğinde ise, 15.000'den fazla uçuş gerçekleştirildiği bir dönemde, ocak ayında dakiklik oranı %90,66'ya ulaşmış ve güvenilirlik önemli ölçüde artmıştır. Bu durum, şirketin yolcu hacmini korurken operasyonel kalite ve verimlilikte belirgin bir gelişim gösterdiğini ortaya koymaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

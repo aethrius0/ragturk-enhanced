@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "merarslan_d36b5b61",
+    "title": "Ömer Arslan",
+    "url": "https://tr.wikipedia.org/wiki/%C3%96mer_Arslan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:48.408796",
+    "content": "Ömer Arslan (d. 15 Temmuz 1993, Tokat), Türk futbolcudur. 3. Lig ekiplerinden Altay'da forma giymektedir. == Kulüp kariyeri == === Altyapı === Ömer Arslan futbola 12 yaşında Feriköy SK'da başladı. 2008 yılında Beşiktaş altyapısına transfer oldu. 2010 yılında U-18 takımında forma giymeye başladı. 2011 yılından itibaren ise Beşiktaş A2 takımında forma giymeye başladı. 2,5 sezon boyunca Beşiktaş altyapısının en önemli futbolcularından oldu. === Beşiktaş JK === 2012-13 sezonunda Samet Aybaba'nın devre arası kampına kattığı gençlerden biri oldu. Devre arasında tuttur.com turnuvasında Trabzonspor ile oynanan hazırlık maçında forma şansı buldu. Şubat 2013'te Beşiktaş ile profesyonel sözleşme imzaladı. === Antalyaspor === Ağustos 2013'te Aybaba'nın yeni takımı Antalyaspor'a kiralandı. 30 Ekim 2013'te Turgutluspor ile oynanan Türkiye Kupası üçüncü tur maçında sahaya ilk 11'de çıkarak, profesyonel kariyerinin ilk maçına çıktı. 29 Aralık 2013'te Trabzonspor ile oynanan lig maçında Musa Nizam'ın yerine 84. dakikada dahil olarak kariyerinin ilk lig maçına çıktı. === Altay SK === 31 Temmuz 2014 tarihinde Ömer Altay ile sözleşme imzaladı. == Millî takım kariyeri == 27 Haziran 2012'de Meksika ile oynanan maç için U-19 millî takımına çağrıldı. Ömer, iki maçta da forma şansı buldu. Mart 2013'te Uluslararası Dörtlü Turnuva'da Türkiye A2 millî futbol takımı forması giydi. == Dış bağlantılar == Transfermarkt'ta Ömer Arslan TFF.org'da Ömer Arslan Mackolik'te Ömer Arslan",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 208,
+      "char_count": 1472,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.927705",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 106,
+      "content": "Ömer Arslan (d. 15 Temmuz 1993, Tokat), Türk futbolcudur. 3. Lig ekiplerinden Altay'da forma giymektedir.",
+      "char_count": 105,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0001",
+      "section": "=== Altyapı ===",
+      "heading_path": "=== Altyapı ===",
+      "start_char": 127,
+      "end_char": 442,
+      "content": "=== Altyapı === Ömer Arslan futbola 12 yaşında Feriköy SK'da başladı. 2008 yılında Beşiktaş altyapısına transfer oldu. 2010 yılında U-18 takımında forma giymeye başladı. 2011 yılından itibaren ise Beşiktaş A2 takımında forma giymeye başladı. 2,5 sezon boyunca Beşiktaş altyapısının en önemli futbolcularından oldu.",
+      "char_count": 314,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0002",
+      "section": "=== Beşiktaş JK ===",
+      "heading_path": "=== Beşiktaş JK ===",
+      "start_char": 442,
+      "end_char": 704,
+      "content": "=== Beşiktaş JK === 2012-13 sezonunda Samet Aybaba'nın devre arası kampına kattığı gençlerden biri oldu. Devre arasında tuttur.com turnuvasında Trabzonspor ile oynanan hazırlık maçında forma şansı buldu. Şubat 2013'te Beşiktaş ile profesyonel sözleşme imzaladı.",
+      "char_count": 261,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0003",
+      "section": "=== Antalyaspor ===",
+      "heading_path": "=== Antalyaspor ===",
+      "start_char": 704,
+      "end_char": 1066,
+      "content": "=== Antalyaspor === Ağustos 2013'te Aybaba'nın yeni takımı Antalyaspor'a kiralandı. 30 Ekim 2013'te Turgutluspor ile oynanan Türkiye Kupası üçüncü tur maçında sahaya ilk 11'de çıkarak, profesyonel kariyerinin ilk maçına çıktı. 29 Aralık 2013'te Trabzonspor ile oynanan lig maçında Musa Nizam'ın yerine 84. dakikada dahil olarak kariyerinin ilk lig maçına çıktı.",
+      "char_count": 361,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0004",
+      "section": "=== Altay SK ===",
+      "heading_path": "=== Altay SK ===",
+      "start_char": 1066,
+      "end_char": 1142,
+      "content": "=== Altay SK === 31 Temmuz 2014 tarihinde Ömer Altay ile sözleşme imzaladı.",
+      "char_count": 75,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0005",
+      "section": "== Millî takım kariyeri ==",
+      "heading_path": "== Millî takım kariyeri ==",
+      "start_char": 1142,
+      "end_char": 1375,
+      "content": "== Millî takım kariyeri == 27 Haziran 2012'de Meksika ile oynanan maç için U-19 millî takımına çağrıldı. Ömer, iki maçta da forma şansı buldu. Mart 2013'te Uluslararası Dörtlü Turnuva'da Türkiye A2 millî futbol takımı forması giydi.",
+      "char_count": 232,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1375,
+      "end_char": 1472,
+      "content": "== Dış bağlantılar == Transfermarkt'ta Ömer Arslan TFF.org'da Ömer Arslan Mackolik'te Ömer Arslan",
+      "char_count": 97,
+      "token_estimate": 24
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Profesyonel kariyerinin ilk maçına hangi tarihte çıktı?",
+        "answer": "30 Ekim 2013",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ömer Arslan'ın futbola başlangıcından mevcut kulübüne kadar olan kariyer yolu nasıl özetlenebilir?",
+        "answer": "Ömer Arslan, futbola 12 yaşında Feriköy SK'da başlamış, 2008 yılında Beşiktaş altyapısına transfer olmuş ve U-18 ile Beşiktaş A2 takımlarında 2,5 sezon boyunca önemli bir futbolcu olarak forma giymiştir. Şu anda ise 3. Lig ekiplerinden Altay'da oynamaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

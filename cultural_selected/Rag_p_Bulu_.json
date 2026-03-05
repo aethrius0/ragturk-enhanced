@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "ragpbulu_d5f41dae",
+    "title": "Ragıp Buluç",
+    "url": "https://tr.wikipedia.org/wiki/Rag%C4%B1p_Bulu%C3%A7",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:30.141339",
+    "content": "Ragıp Buluç (1940, Ankara - 23 Ekim 2020, Ankara), Türk mimardır. Ankara'nın simgelerinden Atakule'yi tasarlamıştır. Türkiye'yi uluslararası alanda temsil etmiş, yurt içi ve yurt dışında birçok ödül almıştır. == Hayatı == 1940 yılında Ankara'da dünyaya gelen Ragıp Buluç, 1964 yılında mimar olarak mezun olduğu Orta Doğu Teknik Üniversitesinde 1964 ile 1967 yılları arasında yüksek lisansını tamamlamıştır. 1972 yılına kadar Devlet Planlama Teşkilatında çalışmış, 1972 yılından sonra da mesleki hayatına serbest mimar olarak devam etmiştir. 23 Ekim 2020'de Ankara'da hayatını kaybetti. == Aldığı ödüller == 1970: Expo '70 Dünya Fuarı Türk Pavyonu, Osaka, Japonya, 1.'lik Ödülü (Ressam Orhan Peker ile birlikte) 1983: Anayasa Mahkemesi, Ankara, 1.'lik Ödülü (Ziya Tanalı ve Ercan Yener ile) 1985: Expo '85 Dünya Fuarı Türk Pavyonu, Tsukuba, Japonya, 1.'lik Ödülü 1989: Abdi İpekçi Spor Salonu, İstanbul, 1.'lik Ödülü (Z. Tanalı ve E. Yener ile) 1989: Atakule Alışveriş Merkezi, Ankara, 1.'lik Ödülü (davetli yarışma) 1990: Türkiye Prefabrik Birliği Ödülü (Abdi İpekçi Spor Salonu ile) 1990: Ulusal Mimarlık Ödülleri, Yapı Dalı Başarı Ödülü, (Atakule ile) 2013: ODTÜ Takdir Ödülü 2013: Türk Yapısal Çelik Derneği Sektör Ödülleri, Türkiye Çelik Yapı Tasarımı Ödülü (Çelik Radar Kuleleri ile) 2013: Avrupa Çelik Tasarım Ödülleri, ECCS - Avrupa Yapısal Çelik Birliği, Ödül (Çelik Radar Kuleleri ile) == Projelerinden seçmeler == 1969-1970: Expo '70 Dünya Fuarı Türk Pavyonu, Osaka, Japonya (Ressam Orhan Peker ile birlikte) 1975-1989: Abdi İpekçi Arena, İstanbul (Ziya Tanalı ve Ercan Yener ile) 1985: Expo '85 Dünya Fuarı Türk Pavyonu, Tsukuba, Japonya 1986-1989: Atakule, Ankara 1989: İslam Kültür Merkezi, Kopenhag, Danimarka 1993: Eryaman IV. Etap Toplu Konut Sosyal ve Ticaret Merkezleri, Ankara 1997: M.E.B Özel Erken Başarı Okulları, İncek, Ankara 1998: Expo '98 Dünya Fuarı Türk Pavyonu, Lizbon, Portekiz 1998-1999: Gemi Trafik Gözetleme İstasyonu Radar Kuleleri ve Kontrol Merkezleri, İstanbul ve Çanakkale 2002: Atatürk Cumhuriyet Kulesi, Keçiören, Ankara 2004-2007: Marmara Adası, Bozcaada ve Armutlu Trafik Gözetleme İstasyonları, İstanbul == Kaynakça == == Dış bağlantılar == Ragıp Buluç Mimarlık web sitesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 318,
+      "char_count": 2215,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.171936",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 209,
+      "content": "Ragıp Buluç (1940, Ankara - 23 Ekim 2020, Ankara), Türk mimardır. Ankara'nın simgelerinden Atakule'yi tasarlamıştır. Türkiye'yi uluslararası alanda temsil etmiş, yurt içi ve yurt dışında birçok ödül almıştır.",
+      "char_count": 208,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 209,
+      "end_char": 586,
+      "content": "== Hayatı == 1940 yılında Ankara'da dünyaya gelen Ragıp Buluç, 1964 yılında mimar olarak mezun olduğu Orta Doğu Teknik Üniversitesinde 1964 ile 1967 yılları arasında yüksek lisansını tamamlamıştır. 1972 yılına kadar Devlet Planlama Teşkilatında çalışmış, 1972 yılından sonra da mesleki hayatına serbest mimar olarak devam etmiştir. 23 Ekim 2020'de Ankara'da hayatını kaybetti.",
+      "char_count": 376,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0002",
+      "section": "== Aldığı ödüller ==",
+      "heading_path": "== Aldığı ödüller ==",
+      "start_char": 586,
+      "end_char": 1395,
+      "content": "== Aldığı ödüller == 1970: Expo '70 Dünya Fuarı Türk Pavyonu, Osaka, Japonya, 1.'lik Ödülü (Ressam Orhan Peker ile birlikte) 1983: Anayasa Mahkemesi, Ankara, 1.'lik Ödülü (Ziya Tanalı ve Ercan Yener ile) 1985: Expo '85 Dünya Fuarı Türk Pavyonu, Tsukuba, Japonya, 1.'lik Ödülü 1989: Abdi İpekçi Spor Salonu, İstanbul, 1.'lik Ödülü (Z. Tanalı ve E. Yener ile) 1989: Atakule Alışveriş Merkezi, Ankara, 1.'lik Ödülü (davetli yarışma) 1990: Türkiye Prefabrik Birliği Ödülü (Abdi İpekçi Spor Salonu ile) 1990: Ulusal Mimarlık Ödülleri, Yapı Dalı Başarı Ödülü, (Atakule ile) 2013: ODTÜ Takdir Ödülü 2013: Türk Yapısal Çelik Derneği Sektör Ödülleri, Türkiye Çelik Yapı Tasarımı Ödülü (Çelik Radar Kuleleri ile) 2013: Avrupa Çelik Tasarım Ödülleri, ECCS - Avrupa Yapısal Çelik Birliği, Ödül (Çelik Radar Kuleleri ile)",
+      "char_count": 808,
+      "token_estimate": 202
+    },
+    {
+      "id": "c0003",
+      "section": "== Projelerinden seçmeler ==",
+      "heading_path": "== Projelerinden seçmeler ==",
+      "start_char": 1395,
+      "end_char": 2147,
+      "content": "== Projelerinden seçmeler == 1969-1970: Expo '70 Dünya Fuarı Türk Pavyonu, Osaka, Japonya (Ressam Orhan Peker ile birlikte) 1975-1989: Abdi İpekçi Arena, İstanbul (Ziya Tanalı ve Ercan Yener ile) 1985: Expo '85 Dünya Fuarı Türk Pavyonu, Tsukuba, Japonya 1986-1989: Atakule, Ankara 1989: İslam Kültür Merkezi, Kopenhag, Danimarka 1993: Eryaman IV. Etap Toplu Konut Sosyal ve Ticaret Merkezleri, Ankara 1997: M.E.B Özel Erken Başarı Okulları, İncek, Ankara 1998: Expo '98 Dünya Fuarı Türk Pavyonu, Lizbon, Portekiz 1998-1999: Gemi Trafik Gözetleme İstasyonu Radar Kuleleri ve Kontrol Merkezleri, İstanbul ve Çanakkale 2002: Atatürk Cumhuriyet Kulesi, Keçiören, Ankara 2004-2007: Marmara Adası, Bozcaada ve Armutlu Trafik Gözetleme İstasyonları, İstanbul",
+      "char_count": 751,
+      "token_estimate": 187
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2162,
+      "end_char": 2215,
+      "content": "== Dış bağlantılar == Ragıp Buluç Mimarlık web sitesi",
+      "char_count": 53,
+      "token_estimate": 13
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Anayasa Mahkemesi projesiyle 1983 yılında hangi ödül kazanılmıştır?",
+        "answer": "1.'lik Ödülü",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ragıp Buluç'un Orta Doğu Teknik Üniversitesi'ndeki eğitim hayatından, uluslararası başarılarına uzanan kariyerinin, mezun olduğu üniversite tarafından tanınması ne şekilde olmuştur ve bu tanıma hangi yılda gerçekleşmiştir?",
+        "answer": "Ragıp Buluç, mezun olduğu Orta Doğu Teknik Üniversitesi tarafından 2013 yılında Takdir Ödülü ile onurlandırılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

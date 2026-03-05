@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "ekiali_3eaa2550",
+    "title": "Çekiç Ali",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87eki%C3%A7_Ali",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:25.663518",
+    "content": "Çekiç Ali (asıl adı: Ali Ersan; 1932, Kaman - 13 Eylül 1973, Ankara), Türk bağlamacı ve sanatçı, Anadolu halk müziği ozanıdır. Kırşehir yöresi türkü ve bozlaklarının en önemli yorumcularından biridir. == Hakkında == 1932 yılında Kırşehir'in Kaman ilçesine bağlı Meşeköy'de dünyaya gelmiştir. Saz çalışındaki kıvraklığı ve atikliği sebebiyle kendisine \"Çekiç\" lakabı takılmıştır. Hacı Taşan ve Neşet Ertaş'ın da ustası olan Muharrem Ertaş'ın çırağı olup, kendi imkânlarıyla müziğini geliştirmiş ve ismini duyurmuştur. Çok sayıda plak (45'lik) ve kaseti vardır. Ankara Yüksek İhtisas Hastanesi'nde kalbinden ameliyat oldu. Bu ameliyattan iki yıl sonra 13 Eylül 1973 tarihinde 40-41 yaşlarındayken geçirdiği beyin felci sonucu ölmüştür. == Türküleri == Acem Kızı Anam Ağlar İçin İçin Aziziye Aziziye Bir Vakit Keyfini Yetiremedim Biter Kırşehir'in Gülleri Biter Çorabın Enine Bak Çubuğuna Lüleyim Çubuk Uzun Bağlama Doğar Yaz Ayları Çiçekler Açar Dostlarınan Bozuk Gitti Aramız Everek Dağı Geleli Gülmedim Bu Cihana İrafa Koydum Narı Irast Geldim Bir Kaşları Kemana Kazım'ın Ağıdı Kekillerin Neşte Neşte Nerde Kaldı Vatanımız Elimiz Şad Olup Gülmüyor Kalbi Yaslıdır Sarı Yazma Yakışmaz Mı Güzele Toklumenli Zeynep Gelinin Ağıdı Topak Daşın Kenarı (Hey Nari) Yarin Yaylasına Seyrana Vardım Yoruldum Yol Üstüne Oturdum == Dış bağlantılar == Biyografisi (turkuler.com)18 Kasım 2006 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 200,
+      "char_count": 1423,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.745976",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 201,
+      "content": "Çekiç Ali (asıl adı: Ali Ersan; 1932, Kaman - 13 Eylül 1973, Ankara), Türk bağlamacı ve sanatçı, Anadolu halk müziği ozanıdır. Kırşehir yöresi türkü ve bozlaklarının en önemli yorumcularından biridir.",
+      "char_count": 200,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0001",
+      "section": "== Hakkında ==",
+      "heading_path": "== Hakkında ==",
+      "start_char": 201,
+      "end_char": 734,
+      "content": "== Hakkında == 1932 yılında Kırşehir'in Kaman ilçesine bağlı Meşeköy'de dünyaya gelmiştir. Saz çalışındaki kıvraklığı ve atikliği sebebiyle kendisine \"Çekiç\" lakabı takılmıştır. Hacı Taşan ve Neşet Ertaş'ın da ustası olan Muharrem Ertaş'ın çırağı olup, kendi imkânlarıyla müziğini geliştirmiş ve ismini duyurmuştur. Çok sayıda plak (45'lik) ve kaseti vardır. Ankara Yüksek İhtisas Hastanesi'nde kalbinden ameliyat oldu. Bu ameliyattan iki yıl sonra 13 Eylül 1973 tarihinde 40-41 yaşlarındayken geçirdiği beyin felci sonucu ölmüştür.",
+      "char_count": 532,
+      "token_estimate": 133
+    },
+    {
+      "id": "c0002",
+      "section": "== Türküleri ==",
+      "heading_path": "== Türküleri ==",
+      "start_char": 734,
+      "end_char": 1314,
+      "content": "== Türküleri == Acem Kızı Anam Ağlar İçin İçin Aziziye Aziziye Bir Vakit Keyfini Yetiremedim Biter Kırşehir'in Gülleri Biter Çorabın Enine Bak Çubuğuna Lüleyim Çubuk Uzun Bağlama Doğar Yaz Ayları Çiçekler Açar Dostlarınan Bozuk Gitti Aramız Everek Dağı Geleli Gülmedim Bu Cihana İrafa Koydum Narı Irast Geldim Bir Kaşları Kemana Kazım'ın Ağıdı Kekillerin Neşte Neşte Nerde Kaldı Vatanımız Elimiz Şad Olup Gülmüyor Kalbi Yaslıdır Sarı Yazma Yakışmaz Mı Güzele Toklumenli Zeynep Gelinin Ağıdı Topak Daşın Kenarı (Hey Nari) Yarin Yaylasına Seyrana Vardım Yoruldum Yol Üstüne Oturdum",
+      "char_count": 579,
+      "token_estimate": 144
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1314,
+      "end_char": 1423,
+      "content": "== Dış bağlantılar == Biyografisi (turkuler.com)18 Kasım 2006 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 109,
+      "token_estimate": 27
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Metinde bahsedilen türkülerden biri nedir?",
+        "answer": "Acem Kızı",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Çekiç Ali'nin Kırşehir yöresi halk müziği geleneğindeki önemi ve müzikal kimliğinin oluşumunda etkili olan unsurlar nelerdir, ayrıca onun bilinen bazı türkülerinden örnekler verebilir misiniz?",
+        "answer": "Çekiç Ali, Kırşehir yöresi türkü ve bozlaklarının en önemli yorumcularından biri olarak Anadolu halk müziğinde yerini almıştır. Müzikal kimliğinin oluşumunda Kırşehir'in Kaman ilçesindeki doğumu, saz çalışındaki kıvraklığı nedeniyle 'Çekiç' lakabını alması, Hacı Taşan ve Neşet Ertaş'ın da ustası olan Muharrem Ertaş'ın çırağı olması ve kendi imkânlarıyla müziğini geliştirmesi gibi unsurlar etkili olmuştur. İcra ettiği türkülere örnek olarak Acem Kızı, Anam Ağlar İçin İçin, Aziziye ve Biter Kırşehir'in Gülleri verilebilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "satis_c0ecf28e",
+    "title": "Satis",
+    "url": "https://tr.wikipedia.org/wiki/Satis",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:37.498065",
+    "content": "Satet (Satit veya Satjet, Satjit), Khnum ve Anuket ile birlikte Fil Üçlüsü'nün bir parçasını oluşturan bir Yukarı Mısır tanrıçasıydı. Mısır'ın Nübye ile güney sınırının koruyucu tanrısı olarak, Nil'in eski yıllık selini kişileştirirdi ve bir savaş, avlanma ve doğurganlık tanrıçası olarak hizmet ederdi. == İsimler == Mısır dilinin tam telaffuzu, ünlüler çok geç bir döneme kadar kaydedilmediğinden genellikle belirsizdir. Transkripsiyonda tanrıçanın adı ayrıca Setis, Sati, Setet, Satet, Satit ve Sathit olarak da görünür. Mısırca: sṯ türetilmiştir yani \"ateş etmek\", \"dökmek\" veya \"fırlatmak\" anlamına gelen adı, hangi rolün vurgulandığına bağlı olarak \"Ateş Eden\" veya \"Dökülen\" olarak çeşitli şekillerde tercüme edilebilir. == Tarih == Yukarı Mısırlıların bir tanrıçası olan kültü ilk olarak Sakkara Basamaklı Piramidi'nin (III . Hanedan) altındaki kavanozlarda tasdik edilir. Piramit Metinlerinde (Hanedan VI) ölmüş bir firavunun vücudunu Elefantin'den dört kavanoz suyla arındırırken görünür. Ana ibadet merkezi, Mısır'ın güney ucunda, Aswan yakınlarındaki bir ada olan Abu'dur (Elefantin) . == Efsaneler == Bir savaş tanrıçası olan Satis, keskin oklarıyla firavunun düşmanlarını öldürerek Mısır'ın güney Nübye sınırını korumuştur. Bereket tanrıçası olarak, aşkı arayanların dileklerini yerine getirdiği düşünülüyordu. Khnum, Anuket ve Satis birlikte Fil Üçlüsü'nü kurdu. == Temsil == Satis genellikle Yukarı Mısır'ın antilop boynuzlu konik tacı olan hedjet giyen kılıflı bir kadın olarak resmedildi. Bazen yay ve oklarla tasvir edilirdi. Aynı zamanda bir antilop şeklinde de görünür. Sembolleri ok ve akan nehirdi. == Ayrıca bakınız == Mısır panteonu Elefantin, Asvan ve Sehel Adası == Not listesi == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 237,
+      "char_count": 1722,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.525165",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 304,
+      "content": "Satet (Satit veya Satjet, Satjit), Khnum ve Anuket ile birlikte Fil Üçlüsü'nün bir parçasını oluşturan bir Yukarı Mısır tanrıçasıydı. Mısır'ın Nübye ile güney sınırının koruyucu tanrısı olarak, Nil'in eski yıllık selini kişileştirirdi ve bir savaş, avlanma ve doğurganlık tanrıçası olarak hizmet ederdi.",
+      "char_count": 303,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0001",
+      "section": "== İsimler ==",
+      "heading_path": "== İsimler ==",
+      "start_char": 304,
+      "end_char": 728,
+      "content": "== İsimler == Mısır dilinin tam telaffuzu, ünlüler çok geç bir döneme kadar kaydedilmediğinden genellikle belirsizdir. Transkripsiyonda tanrıçanın adı ayrıca Setis, Sati, Setet, Satet, Satit ve Sathit olarak da görünür. Mısırca: sṯ türetilmiştir yani \"ateş etmek\", \"dökmek\" veya \"fırlatmak\" anlamına gelen adı, hangi rolün vurgulandığına bağlı olarak \"Ateş Eden\" veya \"Dökülen\" olarak çeşitli şekillerde tercüme edilebilir.",
+      "char_count": 423,
+      "token_estimate": 105
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 728,
+      "end_char": 1098,
+      "content": "== Tarih == Yukarı Mısırlıların bir tanrıçası olan kültü ilk olarak Sakkara Basamaklı Piramidi'nin (III . Hanedan) altındaki kavanozlarda tasdik edilir. Piramit Metinlerinde (Hanedan VI) ölmüş bir firavunun vücudunu Elefantin'den dört kavanoz suyla arındırırken görünür. Ana ibadet merkezi, Mısır'ın güney ucunda, Aswan yakınlarındaki bir ada olan Abu'dur (Elefantin) .",
+      "char_count": 369,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0003",
+      "section": "== Efsaneler ==",
+      "heading_path": "== Efsaneler ==",
+      "start_char": 1098,
+      "end_char": 1378,
+      "content": "== Efsaneler == Bir savaş tanrıçası olan Satis, keskin oklarıyla firavunun düşmanlarını öldürerek Mısır'ın güney Nübye sınırını korumuştur. Bereket tanrıçası olarak, aşkı arayanların dileklerini yerine getirdiği düşünülüyordu. Khnum, Anuket ve Satis birlikte Fil Üçlüsü'nü kurdu.",
+      "char_count": 279,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0004",
+      "section": "== Temsil ==",
+      "heading_path": "== Temsil ==",
+      "start_char": 1378,
+      "end_char": 1622,
+      "content": "== Temsil == Satis genellikle Yukarı Mısır'ın antilop boynuzlu konik tacı olan hedjet giyen kılıflı bir kadın olarak resmedildi. Bazen yay ve oklarla tasvir edilirdi. Aynı zamanda bir antilop şeklinde de görünür. Sembolleri ok ve akan nehirdi.",
+      "char_count": 243,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1622,
+      "end_char": 1690,
+      "content": "== Ayrıca bakınız == Mısır panteonu Elefantin, Asvan ve Sehel Adası",
+      "char_count": 67,
+      "token_estimate": 16
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mısırca sṯ kelimesi ne anlama gelir?",
+        "answer": "\"Ateş etmek\", \"dökmek\" veya \"fırlatmak\".",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Satet'in adının farklı çevirileri olan 'Ateş Eden' ve 'Dökülen' tanımları, metinde belirtilen rolleriyle nasıl ilişkilidir?",
+        "answer": "Satet'in 'Ateş Eden' adı, savaş ve avlanma tanrıçası rolüyle ilişkilidir. 'Dökülen' adı ise Nil'in yıllık selinin kişileştirilmesi ve doğurganlık tanrıçası rolüyle bağlantılıdır, zira adının kökeni 'dökmek' anlamına gelir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

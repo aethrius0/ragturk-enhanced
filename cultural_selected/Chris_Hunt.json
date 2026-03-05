@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "chrishunt_3aae274e",
+    "title": "Chris Hunt",
+    "url": "https://tr.wikipedia.org/wiki/Chris_Hunt",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:28:35.084259",
+    "content": "Chris Hunt dergi editörü, gazeteci ve yazar. 20 yıldan fazla süredir gazetecilik yapan Hunt, futbol ve rock müzik hakkında yazdığı kitaplarıyla tanınmaktadır. 1993 ile 2001 yılları arasında Match'ın editörlüğünü yaptı. Bu süre zarfında dergi, Britanya'nın en çok satılan spor dergisi oldu. 2001 ile 2006 yılları arasında Mojo, Q, Uncut ve New Musical Express dergilerinin editörlüğünü yaptı. The Beatles, U2, Kurt Cobain, Oasis, punk rock ve mod temalı dergiler yayımladı. Üç seri halinde yayımlanan, The Beatles'ın konu alındığı Mojo dergisinin özel sayılarını editörlüğünü yaptı. Daha sonra bu üç dergi, 2004'te, The Beatles: 10 Years That Shook The World adıyla Dorling Kindersley tarafından yayımlandı. World Cup Stories: The History Of The FIFA World Cup adındaki kitabı, Nisan 2006'da BBC'de yayımlanan bir diziyle aynı isimle yayımlandı. Kitabın güncellenmiş ikinci baskısı ise Kasım 2006'da görücüye çıktı. İkinci kitabı ise The Compact Book Of The World Cup adıyla 2010'da Birleşik Krallık ve ABD'de yayımlandı. == Seçme bibliyografi == The Compact Book Of The World Cup (Hayden Media, 2010) 1. Baskı ISBN 978-0-9564976-0-4 World Cup Of Soccer (Firefly Books, 2010) 1. Baskı (ABD) ISBN 978-1-55407-606-2 World Cup Stories: The History Of The FIFA World Cup (Interact, 2006) 1st Baskı ISBN 0-9549819-2-8 World Cup Stories: The History Of The World Cup (Interact, 2006) Güncellenmiş 2. Baskı ISBN 0-9549819-6-0 The Beatles: 10 Years That Shook The World (Editör) (Dorling Kindersley, 2004) ISBN 1-4053-0691-2 (UK); ISBN 0-7566-0670-5 (US) The Complete Book Of Soccer (Firefly Books, 2006) 2. Baskı (ABD) ISBN 978-1-55407-161-6 The Complete Book Of Football (Hayden Publishing, 2003) 1. Baskı ISBN 0-903635-16-0 == Dış bağlantılar == Resmî sitesi6 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Ely Online ile yapılan Chris Hunt röportajı7 Aralık 2006 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 283,
+      "char_count": 1942,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.609260",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Chris Hunt dergi editörü, gazeteci ve yazar. 20 yıldan fazla süredir gazetecilik yapan Hunt, futbol ve rock müzik hakkında yazdığı kitaplarıyla tanınmaktadır. 1993 ile 2001 yılları arasında Match'ın editörlüğünü yaptı. Bu süre zarfında dergi, Britanya'nın en çok satılan spor dergisi oldu. 2001 ile 2006 yılları arasında Mojo, Q, Uncut ve New Musical Express dergilerinin editörlüğünü yaptı. The Beatles, U2, Kurt Cobain, Oasis, punk rock ve mod temalı dergiler yayımladı. Üç seri halinde yayımlanan, The Beatles'ın konu alındığı Mojo dergisinin özel sayılarını editörlüğünü yaptı. Daha sonra bu üç dergi, 2004'te, The Beatles: 10 Years That Shook The World adıyla Dorling Kindersley tarafından yayımlandı. World Cup Stories: The History Of The FIFA World Cup adındaki kitabı, Nisan 2006'da BBC'de yayımlanan bir diziyle aynı isimle yayımlandı. Kitabın güncellenmiş ikinci baskısı ise Kasım 2006'da görücüye çıktı. İkinci kitabı ise The Compact Book Of The World Cup adıyla 2010'da Birleşik Krallık v",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1020,
+      "content": "yımlanan bir diziyle aynı isimle yayımlandı. Kitabın güncellenmiş ikinci baskısı ise Kasım 2006'da görücüye çıktı. İkinci kitabı ise The Compact Book Of The World Cup adıyla 2010'da Birleşik Krallık ve ABD'de yayımlandı.",
+      "char_count": 220,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0002",
+      "section": "== Seçme bibliyografi ==",
+      "heading_path": "== Seçme bibliyografi ==",
+      "start_char": 1021,
+      "end_char": 1718,
+      "content": "== Seçme bibliyografi == The Compact Book Of The World Cup (Hayden Media, 2010) 1. Baskı ISBN 978-0-9564976-0-4 World Cup Of Soccer (Firefly Books, 2010) 1. Baskı (ABD) ISBN 978-1-55407-606-2 World Cup Stories: The History Of The FIFA World Cup (Interact, 2006) 1st Baskı ISBN 0-9549819-2-8 World Cup Stories: The History Of The World Cup (Interact, 2006) Güncellenmiş 2. Baskı ISBN 0-9549819-6-0 The Beatles: 10 Years That Shook The World (Editör) (Dorling Kindersley, 2004) ISBN 1-4053-0691-2 (UK); ISBN 0-7566-0670-5 (US) The Complete Book Of Soccer (Firefly Books, 2006) 2. Baskı (ABD) ISBN 978-1-55407-161-6 The Complete Book Of Football (Hayden Publishing, 2003) 1. Baskı ISBN 0-903635-16-0",
+      "char_count": 696,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1718,
+      "end_char": 1942,
+      "content": "== Dış bağlantılar == Resmî sitesi6 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Ely Online ile yapılan Chris Hunt röportajı7 Aralık 2006 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+      "char_count": 224,
+      "token_estimate": 56
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Chris Hunt'ın editörlüğü sırasında Match dergisi ne gibi bir başarı elde etti?",
+        "answer": "Britanya'nın en çok satılan spor dergisi oldu.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Chris Hunt'ın futbol dünya kupası temalı kitaplarından 'World Cup Stories' ve 'The Compact Book Of The World Cup' başlıkları altında yayımlanan eserlerin baskıları ve yayınevleri hakkında metinlerde verilen bilgiler nelerdir?",
+        "answer": "Chris Hunt'ın 'World Cup Stories: The History Of The FIFA World Cup' adlı kitabının ilk baskısı Nisan 2006'da BBC'de yayımlanan bir diziyle aynı isimde çıkmış, güncellenmiş ikinci baskısı ise Kasım 2006'da görülmüştür. Bibliyografiye göre, 'World Cup Stories: The History Of The FIFA World Cup'ın ilk baskısı (2006) ve 'World Cup Stories: The History Of The World Cup'ın güncellenmiş ikinci baskısı (2006) Interact tarafından yayımlanmıştır. İkinci kitabı 'The Compact Book Of The World Cup' ise 2010'da Birleşik Krallık ve ABD'de yayımlanmıştır. Bu kitabın bibliyografide 'The Compact Book Of The World Cup' (Hayden Media, 2010) ve ABD baskısı olarak 'World Cup Of Soccer' (Firefly Books, 2010) şeklinde listelenmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

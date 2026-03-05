@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "mengwu_a9d7c0f8",
+    "title": "Meng Wu",
+    "url": "https://tr.wikipedia.org/wiki/Meng_Wu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:45:02.344047",
+    "content": "Meng Wu (Çince: 蒙武, MÖ 3. yüzyıl) Savaşan Devletler döneminde Qin devletinde Chu'nun fethinde önemli rol oynayan bir generaldi. Meng Ao'nun oğlu ve hepsi Qin generalleri olan Meng Tian ve Meng Yi'nin babasıydı. == Biyografi == Meng Ao'nun oğlu olan Meng Wu, babasının MÖ 285 yılında Qi devletine karşı düzenlediği seferde yer almıştır. MÖ 224 yılında, kısa bir süre önce Wei'yi fetheden Qin kralı Ying Zheng, Li Xin ve Meng Tian'ı (bazı kayıtlara göre oğlu Meng Tian değil, Meng Wu'nun kendisiydi) Chu'ya karşı iki yönlü bir saldırıda 200.000 kişiye liderlik etmekle görevlendirdi. Meng Wu/Meng Tian'ın ordusu Qigui'yi aldı ama Li Xin'in ordusu Xiang Yan ve Lord Changping komutasındaki Chu birlikleri tarafından fiilen yok edildi. Bu gerilemenin ardından Ying Zheng, Wang Jian'ı bu kez 600.000 kişiyle Chu'ya karşı ordunun genel komutanı olarak atadı. Meng Wu korgeneral (baijiang 裨將) olarak atandı. M.Ö. 224 yılında Chu'nun fethi sırasında Wang Jian'ın altında korgeneral olarak görev yaptı ve Chu Kralı Lord Changping'i öldürerek Chu devletine son verdi. Birleşmeden sonra Meng Wu güneyin işgaline devam etti, Yüz Yue kabilelerini bastırdı ve Kuaiji komutanlığını kurdu. == Popüler Kültür Eserleri == \"Kingdom\" anime ve mangasında \"Mou Bu\" adıyla anılır, \"Ryo'nun Dört Sütunu \"nun eski üyesi ve yeni atanan \"Qin Altı Büyük General \"in ilk büyüğüdür, savaş alanında dövüş gücünü sergileyerek tüm Çin'in en güçlüsü olmayı hedefleyen amansız bir savaşçıdır, aynı zamanda \"Mou Gou \"nun oğlu ve \"Mou Ten\" ile \"Mou Ki \"nin babasıdır. Hara Yasuhisa'nın Kingdom'ın serileştirilmesinden önce yayınladığı bir one-shot'ta, Lord Changping'in (Shou Hei Kun) çocukluk arkadaşı olarak ve Qin'i anavatanı Chu için terk ettiğinde arkadaşına karşı çelişkili duyguları olarak tasvir edilir. == Kaynaklar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 268,
+      "char_count": 1790,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.555306",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 211,
+      "content": "Meng Wu (Çince: 蒙武, MÖ 3. yüzyıl) Savaşan Devletler döneminde Qin devletinde Chu'nun fethinde önemli rol oynayan bir generaldi. Meng Ao'nun oğlu ve hepsi Qin generalleri olan Meng Tian ve Meng Yi'nin babasıydı.",
+      "char_count": 210,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 211,
+      "end_char": 1174,
+      "content": "== Biyografi == Meng Ao'nun oğlu olan Meng Wu, babasının MÖ 285 yılında Qi devletine karşı düzenlediği seferde yer almıştır. MÖ 224 yılında, kısa bir süre önce Wei'yi fetheden Qin kralı Ying Zheng, Li Xin ve Meng Tian'ı (bazı kayıtlara göre oğlu Meng Tian değil, Meng Wu'nun kendisiydi) Chu'ya karşı iki yönlü bir saldırıda 200.000 kişiye liderlik etmekle görevlendirdi. Meng Wu/Meng Tian'ın ordusu Qigui'yi aldı ama Li Xin'in ordusu Xiang Yan ve Lord Changping komutasındaki Chu birlikleri tarafından fiilen yok edildi. Bu gerilemenin ardından Ying Zheng, Wang Jian'ı bu kez 600.000 kişiyle Chu'ya karşı ordunun genel komutanı olarak atadı. Meng Wu korgeneral (baijiang 裨將) olarak atandı. M.Ö. 224 yılında Chu'nun fethi sırasında Wang Jian'ın altında korgeneral olarak görev yaptı ve Chu Kralı Lord Changping'i öldürerek Chu devletine son verdi. Birleşmeden sonra Meng Wu güneyin işgaline devam etti, Yüz Yue kabilelerini bastırdı ve Kuaiji komutanlığını kurdu.",
+      "char_count": 962,
+      "token_estimate": 240
+    },
+    {
+      "id": "c0002",
+      "section": "== Popüler Kültür Eserleri ==",
+      "heading_path": "== Popüler Kültür Eserleri ==",
+      "start_char": 1174,
+      "end_char": 1775,
+      "content": "== Popüler Kültür Eserleri == \"Kingdom\" anime ve mangasında \"Mou Bu\" adıyla anılır, \"Ryo'nun Dört Sütunu \"nun eski üyesi ve yeni atanan \"Qin Altı Büyük General \"in ilk büyüğüdür, savaş alanında dövüş gücünü sergileyerek tüm Çin'in en güçlüsü olmayı hedefleyen amansız bir savaşçıdır, aynı zamanda \"Mou Gou \"nun oğlu ve \"Mou Ten\" ile \"Mou Ki \"nin babasıdır. Hara Yasuhisa'nın Kingdom'ın serileştirilmesinden önce yayınladığı bir one-shot'ta, Lord Changping'in (Shou Hei Kun) çocukluk arkadaşı olarak ve Qin'i anavatanı Chu için terk ettiğinde arkadaşına karşı çelişkili duyguları olarak tasvir edilir.",
+      "char_count": 600,
+      "token_estimate": 150
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Meng Wu, MÖ 224 yılında Chu'nun fethi sırasında Wang Jian'ın altında hangi rütbede görev yapmıştır?",
+        "answer": "Korgeneral (baijiang 裨將).",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Popüler kültür eserlerinde Meng Wu'nun Lord Changping ile olan ilişkisi nasıl tasvir edilirken, tarihi kayıtlara göre Chu'nun fethindeki rolü bu tasvirden nasıl farklılaşmaktadır?",
+        "answer": "Tarihi kayıtlara göre Meng Wu, Chu'nun fethinde önemli bir rol oynayarak korgeneral olarak görev yapmış ve Chu Kralı Lord Changping'i öldürerek Chu devletine son vermiştir. Popüler kültür eserlerinde ise Lord Changping'in çocukluk arkadaşı olarak tasvir edilir ve Qin'i anavatanı Chu için terk ettiğinde arkadaşına karşı çelişkili duygular besler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

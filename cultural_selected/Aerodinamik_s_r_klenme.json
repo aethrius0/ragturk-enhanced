@@ -1,0 +1,184 @@
+{
+  "article": {
+    "id": "aerodinamiksrklenme_1f1c96a8",
+    "title": "Aerodinamik sürüklenme",
+    "url": "https://tr.wikipedia.org/wiki/Aerodinamik_s%C3%BCr%C3%BCklenme",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:49.992387",
+    "content": "Aerodinamik bölümünde bahsedilen aerodinamik sürüklenim, bir akışkan yönünde hareket halinde olan herhangi bir katı cisme etki eden akışkan sürüklenim kuvvetine denir. Cisim baz (yakın hesap) alındığında bu kuvvet cismin yüzeyine etki eden basınç dağılımlarından(Dp) ve cisme etki eden kayma kuvvetlerinden(akışkanlığın sonucu [Df]) meydana gelir. Akışın özelliklerine göre hesaplama yapıldığında (uzak hesap) sürüklenim kuvveti 3 temel birime bağlıdır: şok dalgaları, girdaplar ve akışkanlık. == Giriş == Cismin üzerindeki basınç dağılımı cismin yüzeyinde normal kuvvetler oluşturur ki bu kuvvetler akış yönüne göre hesaplanır ve basınç Dp den kaynaklanan sürüklenim kuvvetini ifade eder. Bu normal kuvvetlerin yapısında şok dalgaları, girdaplar ve akışkan mekanizmalar bulunur. Bir cisme akışkanlık etki ettiğinde üzerindeki basınçlar ayrı olarak hesaplanır ve geriye kalan sürüklenim kuvvetlerine basınç sürüklenimi denir. Akışkanlığın olmadığı zamanlarda ise cisme etki eden basınç kuvvetleri birbirlerini götürürler bu sebeple sürüklenim sıfır olur. Ayrı akış alanlarına sahip araçlarda basınç sürüklenimi baskın olan birimdir ki bu durumlarda basınç geri kazanımı oldukça etkisizdir. Sürtünme sürüklenim kuvveti uçakların yüzeylerine teğet olarak etki eden ve çoğunlukla sınır tabakalarının yapılanmasına ve akışkanlığa (sıvılığa) bağlı olan bir kuvvettir. Hesaplanan sürtünme direnci (Df), cismin bölünmüş yüzeylerinde x-projeksiyonunda hesaplanmış olan akışkan gerilim kuvvetlerinin geri kazanılmasını sağlar. Sürtünme direnci ve basınç dirençlerinin toplamı akışkan direncine eşittir. Bu sürüklenim birimi akışkanlığın etkisizliğini ele alır. Termodinamik boyutta düşünüldüğünde akışkan etkisi geri döndürülemez bir olgu oluşturur ve bu sebeple entropi oluşturur. Hesaplanan akışkan direnci (Dv), tutarlı sürüklenim kuvveti tahminleri için entropi değişimlerini kullanır. Uçaklar yükseklik kazanırken bir sürüklenim kuvveti daha ortaya çıkar: ürünlenmiş sürüklenim (Di). Bu kuvvetin oluşma nedeni yükselirkenki meydana gelen girdap oluşumlarının yüzey üzerine etki eden basınç dağılımını bozmasıdır. Ürünlenmiş sürüklenim uçaklarda kalkış ve inişlerdeki en önemli bileşendir. Bir diğer sürüklenim bileşeni dalga sürüklenimidir (Dw). Bu sürüklenimin ortaya çıkma nedeni jetlerin süpersonik ve transonik hızlarda ilerlerken şok dalgaları yaratmasıdır. Şok dalgaları yüzey sınırında ve yüzey basınç dağılımda değişimlere neden olur. Şunu belirtmek gerekir ki akışkan etkenlerin yanı sıra şok dalgalarıda geri dönülemez olgular oluşturur ve bu değişimler entropi dikkate alındığında bulunabilir. == Uzak ve yakın hesaplamaların teorik yaklaşımı == Sürüklenim kuvveti akış yönüne göre kuvvet dengesinin integralinden hesaplanabilir. ∫ S = S ∞ + S D + S A [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S = 0 {\\displaystyle \\int _{S=S_{\\infty }+S_{D}+S_{A}}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right].{\\vec {n}}dS\\,=\\,0} S = S A ⏟ A i r c r a f t S u r f . + S D + S ∞ ⏟ F a r S u r f . {\\displaystyle S=\\underbrace {S_{A}} _{Aircraft\\,Surf.}\\;+\\;\\underbrace {S_{D}+S_{\\infty }} _{Far\\,Surf.}} S A {\\displaystyle S_{A}} = uçağın yüzeyi S D {\\displaystyle S_{D}} = dış yüzey sınırı S ∞ {\\displaystyle S_{\\infty }} = yanal ve dikey yüzeyler Genellikle, uzak hesaplama örneklerinde hacmin sınırları kişiye özgü ayarlanabilir. ∫ S A [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S = − ∫ S D + S ∞ [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S {\\displaystyle \\int _{S_{A}}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right]\\,.\\,{\\vec {n}}\\,dS=-\\int _{S_{D}+S_{\\infty }}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right]\\,.\\,{\\vec {n}}\\,dS} Sağdaki denklem uçağın üzerindeki kuvvetleri ifade ederken soldaki denklem sıvı tarafından uygulanan toplam kuvveti ifade eder. Matematiksel olarak bu iki tümlev birbirlerine eşittir. Ancak kesin hesaplama yapıldığında bu iki denklem sadece yaklaşık değerler alındığında eşit olur. Hesaplamalı Sıvı Dinamiği'nin terminolojisi baz alındığında soldaki denklem çözülürken yakın hesap metodu, sağdaki denklem için uzak hesap metodu kullanılır. Sürüklenim kuvvetini matematiksel olarak hesaplamak için; D f + D p r ⏟ n e a r − f i e l d = D i + D w + D v ⏟ f a r − f i e l d {\\displaystyle \\underbrace {D_{f}+D_{pr}} _{near-field}=\\underbrace {D_{i}+D_{w}+D_{v}} _{far-field}} formülü kullanılır. == Tarihçe == Katı bir cismin bir akışkan içerisinde hareket ederken bir dirence maruz kaldığı Aristotle zamanından beri biliniyordu. Louis Charles Breguet’in 1922 yılında yayınladığı kâğıtlarında aerodinamik şekillerden yararlanarak cisimlere etki eden sürüklenimi azaltmayı hedefledi. Bu fikrini gerçekleştirmek üzere çalışmaya başlayan Breguet, 1920 ve 1930 yıllarında dünya rekoru kırmış uçaklar geliştirdi. Ludwig Prandtl’in 1920 yılında elde ettiği sınır çizgisi teorisi, yüzey sürtünmesini minimuma indirmenin temel taşlarını oluşturdu. Sir Melvill Jones’un aerodinamik dizayn konusundaki görüşlerinin ciddiye alınması bu konunun önemli bir hal almasını sağladı. 1929 yılında hazırladığı ‘Aerodinamik Uçak’ isimli kağıdında uçakların daha rahat hareket etmeleri için sürüklenim kuvvetini azaltmalarını gerektiğini söylemiştir. Bu fikrini uluslararası bir seminerde dile getiren Jones, birçok mühendisin takdirini kazanmıştır. Seminer sonunda fikirleri mühendisler tarafından, termodinamikteki Carnot Döngüsü kadar önemli olduğu kanısına varılmıştır. == Kaynakça == Anderson, John D. Jr. (2000); Introduction to Flight, Fourth Edition, McGraw Hill Higher Education, Boston, Massachusetts, USA.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 791,
+      "char_count": 5653,
+      "num_chunks": 13,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.861991",
+    "total_chunks": 13,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 494,
+      "content": "Aerodinamik bölümünde bahsedilen aerodinamik sürüklenim, bir akışkan yönünde hareket halinde olan herhangi bir katı cisme etki eden akışkan sürüklenim kuvvetine denir. Cisim baz (yakın hesap) alındığında bu kuvvet cismin yüzeyine etki eden basınç dağılımlarından(Dp) ve cisme etki eden kayma kuvvetlerinden(akışkanlığın sonucu [Df]) meydana gelir. Akışın özelliklerine göre hesaplama yapıldığında (uzak hesap) sürüklenim kuvveti 3 temel birime bağlıdır: şok dalgaları, girdaplar ve akışkanlık.",
+      "char_count": 493,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0001",
+      "section": "== Giriş ==",
+      "heading_path": "== Giriş ==",
+      "start_char": 494,
+      "end_char": 1494,
+      "content": "== Giriş == Cismin üzerindeki basınç dağılımı cismin yüzeyinde normal kuvvetler oluşturur ki bu kuvvetler akış yönüne göre hesaplanır ve basınç Dp den kaynaklanan sürüklenim kuvvetini ifade eder. Bu normal kuvvetlerin yapısında şok dalgaları, girdaplar ve akışkan mekanizmalar bulunur. Bir cisme akışkanlık etki ettiğinde üzerindeki basınçlar ayrı olarak hesaplanır ve geriye kalan sürüklenim kuvvetlerine basınç sürüklenimi denir. Akışkanlığın olmadığı zamanlarda ise cisme etki eden basınç kuvvetleri birbirlerini götürürler bu sebeple sürüklenim sıfır olur. Ayrı akış alanlarına sahip araçlarda basınç sürüklenimi baskın olan birimdir ki bu durumlarda basınç geri kazanımı oldukça etkisizdir. Sürtünme sürüklenim kuvveti uçakların yüzeylerine teğet olarak etki eden ve çoğunlukla sınır tabakalarının yapılanmasına ve akışkanlığa (sıvılığa) bağlı olan bir kuvvettir. Hesaplanan sürtünme direnci (Df), cismin bölünmüş yüzeylerinde x-projeksiyonunda hesaplanmış olan akışkan gerilim kuvvetlerinin ger",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Giriş ==",
+      "heading_path": "== Giriş ==",
+      "start_char": 1294,
+      "end_char": 2294,
+      "content": "ın yapılanmasına ve akışkanlığa (sıvılığa) bağlı olan bir kuvvettir. Hesaplanan sürtünme direnci (Df), cismin bölünmüş yüzeylerinde x-projeksiyonunda hesaplanmış olan akışkan gerilim kuvvetlerinin geri kazanılmasını sağlar. Sürtünme direnci ve basınç dirençlerinin toplamı akışkan direncine eşittir. Bu sürüklenim birimi akışkanlığın etkisizliğini ele alır. Termodinamik boyutta düşünüldüğünde akışkan etkisi geri döndürülemez bir olgu oluşturur ve bu sebeple entropi oluşturur. Hesaplanan akışkan direnci (Dv), tutarlı sürüklenim kuvveti tahminleri için entropi değişimlerini kullanır. Uçaklar yükseklik kazanırken bir sürüklenim kuvveti daha ortaya çıkar: ürünlenmiş sürüklenim (Di). Bu kuvvetin oluşma nedeni yükselirkenki meydana gelen girdap oluşumlarının yüzey üzerine etki eden basınç dağılımını bozmasıdır. Ürünlenmiş sürüklenim uçaklarda kalkış ve inişlerdeki en önemli bileşendir. Bir diğer sürüklenim bileşeni dalga sürüklenimidir (Dw). Bu sürüklenimin ortaya çıkma nedeni jetlerin süperso",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Giriş ==",
+      "heading_path": "== Giriş ==",
+      "start_char": 2094,
+      "end_char": 2600,
+      "content": "nı bozmasıdır. Ürünlenmiş sürüklenim uçaklarda kalkış ve inişlerdeki en önemli bileşendir. Bir diğer sürüklenim bileşeni dalga sürüklenimidir (Dw). Bu sürüklenimin ortaya çıkma nedeni jetlerin süpersonik ve transonik hızlarda ilerlerken şok dalgaları yaratmasıdır. Şok dalgaları yüzey sınırında ve yüzey basınç dağılımda değişimlere neden olur. Şunu belirtmek gerekir ki akışkan etkenlerin yanı sıra şok dalgalarıda geri dönülemez olgular oluşturur ve bu değişimler entropi dikkate alındığında bulunabilir.",
+      "char_count": 506,
+      "token_estimate": 126
+    },
+    {
+      "id": "c0004",
+      "section": "== Uzak ve yakın hesaplamaların teorik yaklaşımı ==",
+      "heading_path": "== Uzak ve yakın hesaplamaların teorik yaklaşımı ==",
+      "start_char": 2601,
+      "end_char": 2741,
+      "content": "== Uzak ve yakın hesaplamaların teorik yaklaşımı == Sürüklenim kuvveti akış yönüne göre kuvvet dengesinin integralinden hesaplanabilir. ∫ S",
+      "char_count": 139,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0005",
+      "section": "= S ∞ + S D + S A [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S =",
+      "heading_path": "= S ∞ + S D + S A [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S =",
+      "start_char": 2741,
+      "end_char": 2834,
+      "content": "= S ∞ + S D + S A [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S = 0 {\\displaystyle \\int _{S",
+      "char_count": 93,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0006",
+      "section": "= S_{\\infty }+S_{D}+S_{A}}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right].{\\vec {n}}dS\\,=\\,0} S =",
+      "heading_path": "= S_{\\infty }+S_{D}+S_{A}}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right].{\\vec {n}}dS\\,=\\,0} S =",
+      "start_char": 2834,
+      "end_char": 3051,
+      "content": "=S_{\\infty }+S_{D}+S_{A}}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right].{\\vec {n}}dS\\,=\\,0} S = S A ⏟ A i r c r a f t S u r f . + S D + S ∞ ⏟ F a r S u r f . {\\displaystyle S",
+      "char_count": 217,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0007",
+      "section": "= \\underbrace {S_{A}} _{Aircraft\\,Surf.}\\;+\\;\\underbrace {S_{D}+S_{\\infty }} _{Far\\,Surf.}} S A {\\displaystyle S_{A}} =",
+      "heading_path": "= \\underbrace {S_{A}} _{Aircraft\\,Surf.}\\;+\\;\\underbrace {S_{D}+S_{\\infty }} _{Far\\,Surf.}} S A {\\displaystyle S_{A}} =",
+      "start_char": 3051,
+      "end_char": 3210,
+      "content": "=\\underbrace {S_{A}} _{Aircraft\\,Surf.}\\;+\\;\\underbrace {S_{D}+S_{\\infty }} _{Far\\,Surf.}} S A {\\displaystyle S_{A}} = uçağın yüzeyi S D {\\displaystyle S_{D}}",
+      "char_count": 158,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0008",
+      "section": "= dış yüzey sınırı S ∞ {\\displaystyle S_{\\infty }} =",
+      "heading_path": "= dış yüzey sınırı S ∞ {\\displaystyle S_{\\infty }} =",
+      "start_char": 3210,
+      "end_char": 3425,
+      "content": "= dış yüzey sınırı S ∞ {\\displaystyle S_{\\infty }} = yanal ve dikey yüzeyler Genellikle, uzak hesaplama örneklerinde hacmin sınırları kişiye özgü ayarlanabilir. ∫ S A [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S",
+      "char_count": 214,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0009",
+      "section": "= − ∫ S D + S ∞ [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S {\\displaystyle \\int _{S_{A}}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right]\\,.\\,{\\vec {n}}\\,dS=-\\int _{S_{D}+S_{\\infty }}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right]\\,.\\,{\\vec {n}}\\,dS} Sağdaki denklem uçağın üzerindeki kuvvetleri ifade ederken soldaki denklem sıvı tarafından uygulanan toplam kuvveti ifade eder. Matematiksel olarak bu iki tümlev birbirlerine eşittir. Ancak kesin hesaplama yapıldığında bu iki denklem sadece yaklaşık değerler alındığında eşit olur. Hesaplamalı Sıvı Dinamiği'nin terminolojisi baz alındığında soldaki denklem çözülürken yakın hesap metodu, sağdaki denklem için uzak hesap metodu kullanılır. Sürüklenim kuvvetini matematiksel olarak hesaplamak için; D f + D p r ⏟ n e a r − f i e l d =",
+      "heading_path": "= − ∫ S D + S ∞ [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S {\\displaystyle \\int _{S_{A}}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right]\\,.\\,{\\vec {n}}\\,dS=-\\int _{S_{D}+S_{\\infty }}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right]\\,.\\,{\\vec {n}}\\,dS} Sağdaki denklem uçağın üzerindeki kuvvetleri ifade ederken soldaki denklem sıvı tarafından uygulanan toplam kuvveti ifade eder. Matematiksel olarak bu iki tümlev birbirlerine eşittir. Ancak kesin hesaplama yapıldığında bu iki denklem sadece yaklaşık değerler alındığında eşit olur. Hesaplamalı Sıvı Dinamiği'nin terminolojisi baz alındığında soldaki denklem çözülürken yakın hesap metodu, sağdaki denklem için uzak hesap metodu kullanılır. Sürüklenim kuvvetini matematiksel olarak hesaplamak için; D f + D p r ⏟ n e a r − f i e l d =",
+      "start_char": 3425,
+      "end_char": 4387,
+      "content": "= − ∫ S D + S ∞ [ ρ u q → + ( p − p ∞ ) i → − τ → x ] . n → d S {\\displaystyle \\int _{S_{A}}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right]\\,.\\,{\\vec {n}}\\,dS=-\\int _{S_{D}+S_{\\infty }}\\left[\\rho \\,u\\,{\\vec {q}}+\\left(p-p_{\\infty }\\right){\\vec {i}}-{\\vec {\\tau }}_{x}\\right]\\,.\\,{\\vec {n}}\\,dS} Sağdaki denklem uçağın üzerindeki kuvvetleri ifade ederken soldaki denklem sıvı tarafından uygulanan toplam kuvveti ifade eder. Matematiksel olarak bu iki tümlev birbirlerine eşittir. Ancak kesin hesaplama yapıldığında bu iki denklem sadece yaklaşık değerler alındığında eşit olur. Hesaplamalı Sıvı Dinamiği'nin terminolojisi baz alındığında soldaki denklem çözülürken yakın hesap metodu, sağdaki denklem için uzak hesap metodu kullanılır. Sürüklenim kuvvetini matematiksel olarak hesaplamak için; D f + D p r ⏟ n e a r − f i e l d = D i + D w + D v ⏟ f a r − f i e l d {\\displaystyle \\underbrace {D_{f}+D_{pr}} _{near-field}",
+      "char_count": 962,
+      "token_estimate": 240
+    },
+    {
+      "id": "c0010",
+      "section": "= \\underbrace {D_{i}+D_{w}+D_{v}} _{far-field}} formülü kullanılır. = =",
+      "heading_path": "= \\underbrace {D_{i}+D_{w}+D_{v}} _{far-field}} formülü kullanılır. = =",
+      "start_char": 4387,
+      "end_char": 4465,
+      "content": "=\\underbrace {D_{i}+D_{w}+D_{v}} _{far-field}} formülü kullanılır. == Tarihçe",
+      "char_count": 77,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0011",
+      "section": "== Katı bir cismin bir akışkan içerisinde hareket ederken bir dirence maruz kaldığı Aristotle zamanından beri biliniyordu. Louis Charles Breguet’in 1922 yılında yayınladığı kâğıtlarında aerodinamik şekillerden yararlanarak cisimlere etki eden sürüklenimi azaltmayı hedefledi. Bu fikrini gerçekleştirmek üzere çalışmaya başlayan Breguet, 1920 ve 1930 yıllarında dünya rekoru kırmış uçaklar geliştirdi. Ludwig Prandtl’in 1920 yılında elde ettiği sınır çizgisi teorisi, yüzey sürtünmesini minimuma indirmenin temel taşlarını oluşturdu. Sir Melvill Jones’un aerodinamik dizayn konusundaki görüşlerinin ciddiye alınması bu konunun önemli bir hal almasını sağladı. 1929 yılında hazırladığı ‘Aerodinamik Uçak’ isimli kağıdında uçakların daha rahat hareket etmeleri için sürüklenim kuvvetini azaltmalarını gerektiğini söylemiştir. Bu fikrini uluslararası bir seminerde dile getiren Jones, birçok mühendisin takdirini kazanmıştır. Seminer sonunda fikirleri mühendisler tarafından, termodinamikteki Carnot Döngüsü kadar önemli olduğu kanısına varılmıştır. ==",
+      "heading_path": "== Katı bir cismin bir akışkan içerisinde hareket ederken bir dirence maruz kaldığı Aristotle zamanından beri biliniyordu. Louis Charles Breguet’in 1922 yılında yayınladığı kâğıtlarında aerodinamik şekillerden yararlanarak cisimlere etki eden sürüklenimi azaltmayı hedefledi. Bu fikrini gerçekleştirmek üzere çalışmaya başlayan Breguet, 1920 ve 1930 yıllarında dünya rekoru kırmış uçaklar geliştirdi. Ludwig Prandtl’in 1920 yılında elde ettiği sınır çizgisi teorisi, yüzey sürtünmesini minimuma indirmenin temel taşlarını oluşturdu. Sir Melvill Jones’un aerodinamik dizayn konusundaki görüşlerinin ciddiye alınması bu konunun önemli bir hal almasını sağladı. 1929 yılında hazırladığı ‘Aerodinamik Uçak’ isimli kağıdında uçakların daha rahat hareket etmeleri için sürüklenim kuvvetini azaltmalarını gerektiğini söylemiştir. Bu fikrini uluslararası bir seminerde dile getiren Jones, birçok mühendisin takdirini kazanmıştır. Seminer sonunda fikirleri mühendisler tarafından, termodinamikteki Carnot Döngüsü kadar önemli olduğu kanısına varılmıştır. ==",
+      "start_char": 4465,
+      "end_char": 5465,
+      "content": "== Katı bir cismin bir akışkan içerisinde hareket ederken bir dirence maruz kaldığı Aristotle zamanından beri biliniyordu. Louis Charles Breguet’in 1922 yılında yayınladığı kâğıtlarında aerodinamik şekillerden yararlanarak cisimlere etki eden sürüklenimi azaltmayı hedefledi. Bu fikrini gerçekleştirmek üzere çalışmaya başlayan Breguet, 1920 ve 1930 yıllarında dünya rekoru kırmış uçaklar geliştirdi. Ludwig Prandtl’in 1920 yılında elde ettiği sınır çizgisi teorisi, yüzey sürtünmesini minimuma indirmenin temel taşlarını oluşturdu. Sir Melvill Jones’un aerodinamik dizayn konusundaki görüşlerinin ciddiye alınması bu konunun önemli bir hal almasını sağladı. 1929 yılında hazırladığı ‘Aerodinamik Uçak’ isimli kağıdında uçakların daha rahat hareket etmeleri için sürüklenim kuvvetini azaltmalarını gerektiğini söylemiştir. Bu fikrini uluslararası bir seminerde dile getiren Jones, birçok mühendisin takdirini kazanmıştır. Seminer sonunda fikirleri mühendisler tarafından, termodinamikteki Carnot Döng",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0012",
+      "section": "== Katı bir cismin bir akışkan içerisinde hareket ederken bir dirence maruz kaldığı Aristotle zamanından beri biliniyordu. Louis Charles Breguet’in 1922 yılında yayınladığı kâğıtlarında aerodinamik şekillerden yararlanarak cisimlere etki eden sürüklenimi azaltmayı hedefledi. Bu fikrini gerçekleştirmek üzere çalışmaya başlayan Breguet, 1920 ve 1930 yıllarında dünya rekoru kırmış uçaklar geliştirdi. Ludwig Prandtl’in 1920 yılında elde ettiği sınır çizgisi teorisi, yüzey sürtünmesini minimuma indirmenin temel taşlarını oluşturdu. Sir Melvill Jones’un aerodinamik dizayn konusundaki görüşlerinin ciddiye alınması bu konunun önemli bir hal almasını sağladı. 1929 yılında hazırladığı ‘Aerodinamik Uçak’ isimli kağıdında uçakların daha rahat hareket etmeleri için sürüklenim kuvvetini azaltmalarını gerektiğini söylemiştir. Bu fikrini uluslararası bir seminerde dile getiren Jones, birçok mühendisin takdirini kazanmıştır. Seminer sonunda fikirleri mühendisler tarafından, termodinamikteki Carnot Döngüsü kadar önemli olduğu kanısına varılmıştır. ==",
+      "heading_path": "== Katı bir cismin bir akışkan içerisinde hareket ederken bir dirence maruz kaldığı Aristotle zamanından beri biliniyordu. Louis Charles Breguet’in 1922 yılında yayınladığı kâğıtlarında aerodinamik şekillerden yararlanarak cisimlere etki eden sürüklenimi azaltmayı hedefledi. Bu fikrini gerçekleştirmek üzere çalışmaya başlayan Breguet, 1920 ve 1930 yıllarında dünya rekoru kırmış uçaklar geliştirdi. Ludwig Prandtl’in 1920 yılında elde ettiği sınır çizgisi teorisi, yüzey sürtünmesini minimuma indirmenin temel taşlarını oluşturdu. Sir Melvill Jones’un aerodinamik dizayn konusundaki görüşlerinin ciddiye alınması bu konunun önemli bir hal almasını sağladı. 1929 yılında hazırladığı ‘Aerodinamik Uçak’ isimli kağıdında uçakların daha rahat hareket etmeleri için sürüklenim kuvvetini azaltmalarını gerektiğini söylemiştir. Bu fikrini uluslararası bir seminerde dile getiren Jones, birçok mühendisin takdirini kazanmıştır. Seminer sonunda fikirleri mühendisler tarafından, termodinamikteki Carnot Döngüsü kadar önemli olduğu kanısına varılmıştır. ==",
+      "start_char": 5265,
+      "end_char": 5653,
+      "content": "rektiğini söylemiştir. Bu fikrini uluslararası bir seminerde dile getiren Jones, birçok mühendisin takdirini kazanmıştır. Seminer sonunda fikirleri mühendisler tarafından, termodinamikteki Carnot Döngüsü kadar önemli olduğu kanısına varılmıştır. == Kaynakça == Anderson, John D. Jr. (2000); Introduction to Flight, Fourth Edition, McGraw Hill Higher Education, Boston, Massachusetts, USA.",
+      "char_count": 388,
+      "token_estimate": 97
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bir cisme akışkanlık etki ettiğinde üzerindeki basınçlar ayrı olarak hesaplandığında geriye kalan sürüklenim kuvvetlerine ne ad verilir?",
+        "answer": "Basınç sürüklenimi.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Aerodinamik sürüklenim, cismin yüzeyindeki temel kuvvetler ve akışkan özelliklerine göre hangi ana bileşenlerden oluşur ve bu bileşenler birbirleriyle nasıl ilişkilidir?",
+        "answer": "Aerodinamik sürüklenim, cismin yüzeyindeki basınç dağılımlarından kaynaklanan basınç sürüklenimi (Dp) ve cisme etki eden kayma kuvvetlerinden kaynaklanan sürtünme sürüklenimi (Df) olmak üzere iki temel bileşenden oluşur. Basınç sürüklenimi, cismin yüzeyinde normal kuvvetler oluştururken, sürtünme sürüklenimi yüzeylere teğet etki eden ve sınır tabakalarına bağlı olan bir kuvvettir; bu iki kuvvetin toplamı akışkan direncini verir. Akışın özelliklerine göre (şok dalgaları, girdaplar ve akışkanlık), bu ana sürüklenim türlerinin yanı sıra uçaklarda yükselirkenki girdap oluşumlarından kaynaklanan ürünlenmiş sürüklenim ve jetlerde süpersonik hızlarda oluşan dalga sürüklenimi gibi özel sürüklenim birimleri de bulunur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

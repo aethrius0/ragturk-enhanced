@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "krklarcemi_79c66e9d",
+    "title": "Kırklar Cemi",
+    "url": "https://tr.wikipedia.org/wiki/K%C4%B1rklar_Cemi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:37.927825",
+    "content": "Kırklar Cemi, Alevilik ve Bektaşilik'te önemsenen Muhammed'in, Mirac'a çıktığı gün yaptığı söylenilen toplu ibadettir . Buyruk'ta anlatılana göre: Muhammed bineği Burak ile Mirac'a çıktığı gün Allah ile doksan bin kelam konuşur. Bunun otuz bini hakikatli sır olarak Ali'de kalır. Muhammed'e Mirac'da bal, elma ve süt verilir. Bal aşkı, sevgiyi, elma ise dostluğu temsil eder. Muhammed'in önüne bir aslan çıkar. Muhammed gaipten bir ses duyar: \"Parmağındaki yüzüğü aslanın ağzına atması\" istenir. Böylece Muhammed aslanı atlatır ve Allah ile görüşür. Şehre dönerken yolda bir dergaha rastlar. Kapıyı çalar içeriden: \"Kimsiniz*\" diye sorarlar. Muhammed: \"Ben peygamberim içeriye girmek istiyorum\" der. İçeriden: \"Peygamberliğini git ümmetine yap. Bizim aramıza peygamber sığmaz\" diye cevap gelir. Muhammed ayrılırken yine gaipten bir ses ayrılmamasını kapıyı tekrar çalıp yeniden farklı bir şekilde yanıtlamasını söyler. Bu sefer Muhammed: \"Ben de sizden biriyim. Bir insanım. Sizi görmek istedim\" der. Bu sefer kapı açılır. \"Hoş geldin sefa getirdin, uğur getirdin\" diye karşılanır. İçeride 17'si kadın 22'si erkek tam 39 kişi vardır. Muhammed'e yer gösterilir. O da gösterilen yere oturur. Ali de meclistedir. Muhammed tesadüfen Ali'nin yanına oturur. Muhammed sorar. \"Size kimler denir?\" der. \"Bize Kırklar denir\" diye yanıt alır. \"Ama burada 39 kişi saydım\" der. \"Selman-ı Pak Can Parstadır\"denir. \"Peki sizin ulunuz, büyüğünüz, küçüğünüz kim\" diye sorar Muhammed. Gelen yanıt şöyle olur: \"Bizim küçüğümüz, büyüğümüz yoktur. Küçüğümüz de uludur, büyüğümüz de uludur. Birimiz kırkımız, kırkımız birimizdir\" denir. Bunun üstüne Muhammed meclisten bunu kendilerine kanıtlamalarını söyler. O sırada Ali kolunu uzatır ve gömleğini sıyırır. İçlerinden biri \"destur\" diyerek bıçağın ucu ile kolunu hafif kanatır. Kolundan bir damla kan akar. Onu, her can'ın kolundan birer damla kanın gelmesi izler. 40. canın bir damla kanı da pencereden içeri gelir. Bu ise Selman-ı Pak'ın kanıdır. Sonra Ali kolunu bağlar, hepsinin kanaması durur. Büyük bir coşku ile vecd halinde semah dönülürken Muhammed'in başından sarığı (imamesi) düşer. Kırk parçaya bölünür. Kırklar parçaları bellerine bağlarlar, kemerbest olurlar. Muhammet, Kırklar Meclisine pirlerini sorar. \"Pirimiz Ali'dir\" derler.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 316,
+      "char_count": 2274,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.707187",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Kırklar Cemi, Alevilik ve Bektaşilik'te önemsenen Muhammed'in, Mirac'a çıktığı gün yaptığı söylenilen toplu ibadettir . Buyruk'ta anlatılana göre: Muhammed bineği Burak ile Mirac'a çıktığı gün Allah ile doksan bin kelam konuşur. Bunun otuz bini hakikatli sır olarak Ali'de kalır. Muhammed'e Mirac'da bal, elma ve süt verilir. Bal aşkı, sevgiyi, elma ise dostluğu temsil eder. Muhammed'in önüne bir aslan çıkar. Muhammed gaipten bir ses duyar: \"Parmağındaki yüzüğü aslanın ağzına atması\" istenir. Böylece Muhammed aslanı atlatır ve Allah ile görüşür. Şehre dönerken yolda bir dergaha rastlar. Kapıyı çalar içeriden: \"Kimsiniz*\" diye sorarlar. Muhammed: \"Ben peygamberim içeriye girmek istiyorum\" der. İçeriden: \"Peygamberliğini git ümmetine yap. Bizim aramıza peygamber sığmaz\" diye cevap gelir. Muhammed ayrılırken yine gaipten bir ses ayrılmamasını kapıyı tekrar çalıp yeniden farklı bir şekilde yanıtlamasını söyler. Bu sefer Muhammed: \"Ben de sizden biriyim. Bir insanım. Sizi görmek istedim\" der.",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "med ayrılırken yine gaipten bir ses ayrılmamasını kapıyı tekrar çalıp yeniden farklı bir şekilde yanıtlamasını söyler. Bu sefer Muhammed: \"Ben de sizden biriyim. Bir insanım. Sizi görmek istedim\" der. Bu sefer kapı açılır. \"Hoş geldin sefa getirdin, uğur getirdin\" diye karşılanır. İçeride 17'si kadın 22'si erkek tam 39 kişi vardır. Muhammed'e yer gösterilir. O da gösterilen yere oturur. Ali de meclistedir. Muhammed tesadüfen Ali'nin yanına oturur. Muhammed sorar. \"Size kimler denir?\" der. \"Bize Kırklar denir\" diye yanıt alır. \"Ama burada 39 kişi saydım\" der. \"Selman-ı Pak Can Parstadır\"denir. \"Peki sizin ulunuz, büyüğünüz, küçüğünüz kim\" diye sorar Muhammed. Gelen yanıt şöyle olur: \"Bizim küçüğümüz, büyüğümüz yoktur. Küçüğümüz de uludur, büyüğümüz de uludur. Birimiz kırkımız, kırkımız birimizdir\" denir. Bunun üstüne Muhammed meclisten bunu kendilerine kanıtlamalarını söyler. O sırada Ali kolunu uzatır ve gömleğini sıyırır. İçlerinden biri \"destur\" diyerek bıçağın ucu ile kolunu hafif k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 2274,
+      "content": "mizdir\" denir. Bunun üstüne Muhammed meclisten bunu kendilerine kanıtlamalarını söyler. O sırada Ali kolunu uzatır ve gömleğini sıyırır. İçlerinden biri \"destur\" diyerek bıçağın ucu ile kolunu hafif kanatır. Kolundan bir damla kan akar. Onu, her can'ın kolundan birer damla kanın gelmesi izler. 40. canın bir damla kanı da pencereden içeri gelir. Bu ise Selman-ı Pak'ın kanıdır. Sonra Ali kolunu bağlar, hepsinin kanaması durur. Büyük bir coşku ile vecd halinde semah dönülürken Muhammed'in başından sarığı (imamesi) düşer. Kırk parçaya bölünür. Kırklar parçaları bellerine bağlarlar, kemerbest olurlar. Muhammet, Kırklar Meclisine pirlerini sorar. \"Pirimiz Ali'dir\" derler.",
+      "char_count": 674,
+      "token_estimate": 168
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mirac'da Muhammed'e verilen bal neyi temsil etmektedir?",
+        "answer": "Aşkı ve sevgiyi.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Muhammed'in Kırklar Cemi'ne kabul edilme süreci ve bu kabulün ardından mecliste birliğin ve liderliğin hangi olaylarla pekiştirildiği açıklayınız.",
+        "answer": "Muhammed, Kırklar Cemi'ne peygamber olarak girmeye çalıştığında reddedilmiş, ancak \"Ben de sizden biriyim. Bir insanım.\" demesi üzerine içeri alınmıştır. Bu durum, meclisin peygamberlik makamından ziyade insanlık ve eşitliği önemsediğini gösterir. Meclisin birliği, Ali'nin kolundan bir damla kan akıtmasıyla başlar ve bunu diğer canların kolundan birer damla kanın gelmesi, hatta pencereden Selman-ı Pak'ın kanının içeri girmesi takip eder. Ali'nin kolunu bağlamasıyla kanamaların durması bu birliği pekiştirir. Ayrıca semah sırasında Muhammed'in başından düşen sarığın kırk parçaya bölünmesi ve Kırklar'ın bunları bellerine bağlaması da birliğin simgesidir. Meclisin liderliği ise, Muhammed'in pirlerini sorması üzerine \"Pirimiz Ali'dir\" yanıtını vermeleriyle netleşmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

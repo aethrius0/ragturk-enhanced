@@ -1,0 +1,163 @@
+{
+  "article": {
+    "id": "340lar_c00eb482",
+    "title": "340'lar",
+    "url": "https://tr.wikipedia.org/wiki/340%27lar",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:20:48.596304",
+    "content": "340'lar, 1 Ocak 340 günü başlayıp 31 Aralık 349 günü sona eren onyıldır. == Olaylar == === 340 === === 341 === Encaenia Konsili Antakya'da yapıldı. I. Paulus Konstantinopolis Patriği olarak göreve başladı. === 342 === Julianus ve üvey kardeşi Gallus Kapadokya'ya sürgüne gönderildi. === 343 === ==== Yerine göre ==== ====== Roma İmparatorluğu ====== Batı Roma İmparatoru Konstans, Britanya'da; muhtemelen Piktler ve Galyalılar'a karşı askeri eylemde. Meşru bir imparatorun Britanya'ya yaptığı son ziyaret. ==== Konusuna göre ==== ====== Din ====== Papa I. Julius, papanın mutlak yetkisini kabul eden ve ona Episkopos makamının yasal sahiplik olayları da dahil olmak üzere hüküm verme yetkisini tanıyan Serdica Konsili'ni de davet ederek Batı piskoposlarını Ariusçuluk'a karşı bir araya getirmeye çalıştı ancak yalnızca Batılı ve Mısırlı piskoposlar katıldı, Ariusçuluk gücünü korudu. === 344 === Singara Kuşatması, Roma ile Sasaniler arasında yaşanan savaş === 345 === === 346 === Koguryo, Kore'deki Buyeo Krallığı'na son verdi. === 347 === Illyricum praetoria idaresi kuruldu. === 348 === Sasani İmparatorluğu'nda kadınlar askerliğe alınmaya başladı. === 349 === == Doğumlar == 340 Milano'lu Ambrosius, Milano piskoposu, teolog ve 4. yy'ın Kilise'ye ait en etkili figürlerinden birisidir - Kilise Babası - Kilise Doktoru (ö. 397) 345 Pontuslu Evagrius, Hristiyan bir keşiş ve mistik teolog (ö. 399) 347 11 Ocak - I. Theodosius, Roma imparatoru (ö. 395) tarihi bilinmeyen Aziz Porphyrius, Pagan bir inanca sahip olan Gazze şehrini (395 - 420 arasında) Hristiyanlaştırma çabası ile tanınan aziz (ö. 420) Hieronymus, rahip, günah çıkarıcı, teolog ve tarihçi (ö. 420) 349 İoannis Hrisostomos, Konstantinopolis Başpiskoposu ve önemli bir Kilise Babası (ö. 407) == Ölümler == 340 II. Constantinus, Roma İmparatoru (d. 316) 341 İzmitli Eusebius, Konstantinopolis Patriği Ge Hong ('Ko Hung'), Çinli Taoist düşünür 343 6 Aralık - Nikolaos (veya Aya Nikola), Yunan Hristiyan aziz ve piskopos (d. 270) 345 Afrahat, Süryani keşiş 346 Pachomios, Mısırlı keşiş ve aziz (d. 292/298) 348 Spiridon, Ortodoks aziz (d. y. 270) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 318,
+      "char_count": 2123,
+      "num_chunks": 11,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.311257",
+    "total_chunks": 11,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 73,
+      "content": "340'lar, 1 Ocak 340 günü başlayıp 31 Aralık 349 günü sona eren onyıldır.",
+      "char_count": 72,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0001",
+      "section": "=== 341 ===",
+      "heading_path": "=== 341 ===",
+      "start_char": 99,
+      "end_char": 206,
+      "content": "=== 341 === Encaenia Konsili Antakya'da yapıldı. I. Paulus Konstantinopolis Patriği olarak göreve başladı.",
+      "char_count": 106,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0002",
+      "section": "=== 342 ===",
+      "heading_path": "=== 342 ===",
+      "start_char": 206,
+      "end_char": 283,
+      "content": "=== 342 === Julianus ve üvey kardeşi Gallus Kapadokya'ya sürgüne gönderildi.",
+      "char_count": 76,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0003",
+      "section": "====== Roma İmparatorluğu ======",
+      "heading_path": "====== Roma İmparatorluğu ======",
+      "start_char": 317,
+      "end_char": 506,
+      "content": "====== Roma İmparatorluğu ====== Batı Roma İmparatoru Konstans, Britanya'da; muhtemelen Piktler ve Galyalılar'a karşı askeri eylemde. Meşru bir imparatorun Britanya'ya yaptığı son ziyaret.",
+      "char_count": 188,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0004",
+      "section": "====== Din ======",
+      "heading_path": "====== Din ======",
+      "start_char": 530,
+      "end_char": 884,
+      "content": "====== Din ====== Papa I. Julius, papanın mutlak yetkisini kabul eden ve ona Episkopos makamının yasal sahiplik olayları da dahil olmak üzere hüküm verme yetkisini tanıyan Serdica Konsili'ni de davet ederek Batı piskoposlarını Ariusçuluk'a karşı bir araya getirmeye çalıştı ancak yalnızca Batılı ve Mısırlı piskoposlar katıldı, Ariusçuluk gücünü korudu.",
+      "char_count": 353,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0005",
+      "section": "=== 344 ===",
+      "heading_path": "=== 344 ===",
+      "start_char": 884,
+      "end_char": 957,
+      "content": "=== 344 === Singara Kuşatması, Roma ile Sasaniler arasında yaşanan savaş",
+      "char_count": 72,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0006",
+      "section": "=== 346 ===",
+      "heading_path": "=== 346 ===",
+      "start_char": 969,
+      "end_char": 1029,
+      "content": "=== 346 === Koguryo, Kore'deki Buyeo Krallığı'na son verdi.",
+      "char_count": 59,
+      "token_estimate": 14
+    },
+    {
+      "id": "c0007",
+      "section": "=== 347 ===",
+      "heading_path": "=== 347 ===",
+      "start_char": 1029,
+      "end_char": 1078,
+      "content": "=== 347 === Illyricum praetoria idaresi kuruldu.",
+      "char_count": 48,
+      "token_estimate": 12
+    },
+    {
+      "id": "c0008",
+      "section": "=== 348 ===",
+      "heading_path": "=== 348 ===",
+      "start_char": 1078,
+      "end_char": 1152,
+      "content": "=== 348 === Sasani İmparatorluğu'nda kadınlar askerliğe alınmaya başladı.",
+      "char_count": 73,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0009",
+      "section": "== Doğumlar ==",
+      "heading_path": "== Doğumlar ==",
+      "start_char": 1164,
+      "end_char": 1757,
+      "content": "== Doğumlar == 340 Milano'lu Ambrosius, Milano piskoposu, teolog ve 4. yy'ın Kilise'ye ait en etkili figürlerinden birisidir - Kilise Babası - Kilise Doktoru (ö. 397) 345 Pontuslu Evagrius, Hristiyan bir keşiş ve mistik teolog (ö. 399) 347 11 Ocak - I. Theodosius, Roma imparatoru (ö. 395) tarihi bilinmeyen Aziz Porphyrius, Pagan bir inanca sahip olan Gazze şehrini (395 - 420 arasında) Hristiyanlaştırma çabası ile tanınan aziz (ö. 420) Hieronymus, rahip, günah çıkarıcı, teolog ve tarihçi (ö. 420) 349 İoannis Hrisostomos, Konstantinopolis Başpiskoposu ve önemli bir Kilise Babası (ö. 407)",
+      "char_count": 592,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0010",
+      "section": "== Ölümler ==",
+      "heading_path": "== Ölümler ==",
+      "start_char": 1757,
+      "end_char": 2109,
+      "content": "== Ölümler == 340 II. Constantinus, Roma İmparatoru (d. 316) 341 İzmitli Eusebius, Konstantinopolis Patriği Ge Hong ('Ko Hung'), Çinli Taoist düşünür 343 6 Aralık - Nikolaos (veya Aya Nikola), Yunan Hristiyan aziz ve piskopos (d. 270) 345 Afrahat, Süryani keşiş 346 Pachomios, Mısırlı keşiş ve aziz (d. 292/298) 348 Spiridon, Ortodoks aziz (d. y. 270)",
+      "char_count": 351,
+      "token_estimate": 87
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Konstantinopolis Başpiskoposu olan önemli Kilise Babası kimdir?",
+        "answer": "İoannis Hrisostomos",
+        "related_chunk_ids": [
+          "c0009"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "340'lar onyılı içinde Antakya'da hangi önemli konsil yapıldı ve Konstantinopolis'te kim patrik olarak göreve başladı?",
+        "answer": "Encaenia Konsili Antakya'da yapıldı ve I. Paulus Konstantinopolis Patriği olarak göreve başladı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

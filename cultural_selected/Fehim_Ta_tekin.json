@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "fehimtatekin_89d002ff",
+    "title": "Fehim Taştekin",
+    "url": "https://tr.wikipedia.org/wiki/Fehim_Ta%C5%9Ftekin",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:04.380568",
+    "content": "Fehim Taştekin (6 Şubat 1972, Erzurum), Türk gazeteci köşe yazarı. Türk dış politikası, Kafkasya, Orta Doğu ve Avrupa Birliği konularında uzmanlaşmıştır. Al-Monitor ve BBC Türkçe platformlarında ve Evrensel gazetesinde köşe yazıları yazmaktadır. == Yaşamı == 1972 yılında Erzurum’un Oltu ilçesinde doğdu. İstanbul Üniversitesi Siyasal Bilgiler Fakültesi’nden mezun oldu. Marmara Üniversitesi Ortadoğu ve İslam Ülkeleri Enstitüsü’nde yüksek lisans programına katıldı, ama tamamlayamadı. Southampton’da \"Lewis School of English\"te ve Londra’da \"Evendine College\"da İngilizce eğitimi gördü. == Gazetecilik kariyeri == Gazeteciliğe 1994’te Yeni Şafak'ta muhabir olarak başladı. Daha sonra Son Çağrı, Yeni Ufuk, Tercüman, Radikal ve Hürriyet gazetelerinde çalıştı. 2000 yılında kurduğu Ajans Kafkas’ta Kafkasya üzerine çalışmalar yürüttü. 2003’te çalışmaya başladığı Radikal Gazetesi Dış Haberler Servisi’nde editör, müdür ve yazar olarak görev yaptı. Hürriyet gazetesinde analiz yazarı olarak çalıştı. 2016'da kapatılan İMC TV’de dört yıl boyunca \"Doğu Divanı\" başlıklı haftalık dış politika programları yaptı. Radikal gazetesinin Mart 2016'da kapanmasının ardından yazılarına Gazete Duvar'da devam etti. Fakat Ekim 2021'de, Duvar'ın sahibi Vedat Zencir'le yaşadığı anlaşmazlık sonucunda istifa eden Genel Yayın Yönetmeni Ali Duran Topuz'un ardından Taştekin de Duvar'dan ayrıldı. 15 Mayıs 2022'de Duvar'a geri döndü. Halen Al-Monitor ve BBC Türkçe platformlarında köşe yazılarını sürdürmektedir. == Kişisel yaşamı == Evli olan Taştekin'in iki çocuğu vardır. == Eserleri == \"Suriye: Yıkıl Git, Diren Kal!\", Ocak 2016, İletişim Yayınları \"Rojava: Kürtlerin Zamanı\", Eylül 2016, İletişim Yayınları \"Karanlık Çöktüğünde: IŞİD: Din Adına Şiddetin Dünü Bugünü\", Şubat 2017, Doğan Kitap == Kaynakça == == Dış bağlantılar == Twitter'da Fehim Taştekin \"Gazeteci Fehim Taştekin'e Rusya'dan yasak\", 29 Eylül 2013, Hürriyet. 7 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 258,
+      "char_count": 1971,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.179336",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 246,
+      "content": "Fehim Taştekin (6 Şubat 1972, Erzurum), Türk gazeteci köşe yazarı. Türk dış politikası, Kafkasya, Orta Doğu ve Avrupa Birliği konularında uzmanlaşmıştır. Al-Monitor ve BBC Türkçe platformlarında ve Evrensel gazetesinde köşe yazıları yazmaktadır.",
+      "char_count": 245,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 246,
+      "end_char": 588,
+      "content": "== Yaşamı == 1972 yılında Erzurum’un Oltu ilçesinde doğdu. İstanbul Üniversitesi Siyasal Bilgiler Fakültesi’nden mezun oldu. Marmara Üniversitesi Ortadoğu ve İslam Ülkeleri Enstitüsü’nde yüksek lisans programına katıldı, ama tamamlayamadı. Southampton’da \"Lewis School of English\"te ve Londra’da \"Evendine College\"da İngilizce eğitimi gördü.",
+      "char_count": 341,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0002",
+      "section": "== Gazetecilik kariyeri ==",
+      "heading_path": "== Gazetecilik kariyeri ==",
+      "start_char": 588,
+      "end_char": 1493,
+      "content": "== Gazetecilik kariyeri == Gazeteciliğe 1994’te Yeni Şafak'ta muhabir olarak başladı. Daha sonra Son Çağrı, Yeni Ufuk, Tercüman, Radikal ve Hürriyet gazetelerinde çalıştı. 2000 yılında kurduğu Ajans Kafkas’ta Kafkasya üzerine çalışmalar yürüttü. 2003’te çalışmaya başladığı Radikal Gazetesi Dış Haberler Servisi’nde editör, müdür ve yazar olarak görev yaptı. Hürriyet gazetesinde analiz yazarı olarak çalıştı. 2016'da kapatılan İMC TV’de dört yıl boyunca \"Doğu Divanı\" başlıklı haftalık dış politika programları yaptı. Radikal gazetesinin Mart 2016'da kapanmasının ardından yazılarına Gazete Duvar'da devam etti. Fakat Ekim 2021'de, Duvar'ın sahibi Vedat Zencir'le yaşadığı anlaşmazlık sonucunda istifa eden Genel Yayın Yönetmeni Ali Duran Topuz'un ardından Taştekin de Duvar'dan ayrıldı. 15 Mayıs 2022'de Duvar'a geri döndü. Halen Al-Monitor ve BBC Türkçe platformlarında köşe yazılarını sürdürmektedir.",
+      "char_count": 904,
+      "token_estimate": 226
+    },
+    {
+      "id": "c0003",
+      "section": "== Kişisel yaşamı ==",
+      "heading_path": "== Kişisel yaşamı ==",
+      "start_char": 1493,
+      "end_char": 1555,
+      "content": "== Kişisel yaşamı == Evli olan Taştekin'in iki çocuğu vardır.",
+      "char_count": 61,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0004",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 1555,
+      "end_char": 1777,
+      "content": "== Eserleri == \"Suriye: Yıkıl Git, Diren Kal!\", Ocak 2016, İletişim Yayınları \"Rojava: Kürtlerin Zamanı\", Eylül 2016, İletişim Yayınları \"Karanlık Çöktüğünde: IŞİD: Din Adına Şiddetin Dünü Bugünü\", Şubat 2017, Doğan Kitap",
+      "char_count": 221,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1792,
+      "end_char": 1971,
+      "content": "== Dış bağlantılar == Twitter'da Fehim Taştekin \"Gazeteci Fehim Taştekin'e Rusya'dan yasak\", 29 Eylül 2013, Hürriyet. 7 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 179,
+      "token_estimate": 44
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gazeteciliğe hangi yıl başlamıştır?",
+        "answer": "1994 yılında Yeni Şafak'ta muhabir olarak başlamıştır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fehim Taştekin'in akademik geçmişi ve gazetecilik kariyerindeki önemli adımları, uzmanlaştığı dış politika alanları ve bölgelerle nasıl bir ilişki içindedir?",
+        "answer": "Fehim Taştekin'in İstanbul Üniversitesi Siyasal Bilgiler Fakültesi'nden mezuniyeti ve Marmara Üniversitesi Ortadoğu ve İslam Ülkeleri Enstitüsü'ndeki yüksek lisans programına katılımı, Orta Doğu ve dış politika konularına olan akademik ilgisinin temelini oluşturmuştur. Gazetecilik kariyerinde 2000 yılında Kafkasya üzerine çalışmalar yaptığı Ajans Kafkas'ı kurması ve Radikal Gazetesi Dış Haberler Servisi'nde editörlükten yazarlığa çeşitli görevler üstlenmesi, bu bölgelerdeki pratik uzmanlığını pekiştirmiştir. Bu eğitim ve kariyer yörüngesi, onun Türk dış politikası, Kafkasya ve Orta Doğu konularındaki uzmanlığıyla doğrudan ilişkilidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

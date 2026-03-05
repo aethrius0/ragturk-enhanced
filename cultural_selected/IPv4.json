@@ -1,0 +1,473 @@
+{
+  "article": {
+    "id": "ipv4_b32ee2ec",
+    "title": "IPv4",
+    "url": "https://tr.wikipedia.org/wiki/IPv4",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:50.527518",
+    "content": "İnternet Protokol Versiyon 4 (IPv4), İnternet Protokolü'nün (IP) dördüncü versiyonudur. IPv4, 32-bitlik adreslerden oluşmaktadır ve (232) tekil adres sağlamaktadır. == Tarihçe == IPv4, RFC 791'de tanımlanmıştır (Eylül 1981). Bir önceki versiyonu olan RFC 760'ın (Ocak 1980) yerini almıştır. == Tanım == IPv4 paket anahtarlamalı bağlantı katman (internet layer) ağları üzerinde kullanım için bir bağlantısız protokoldür. En iyi çabayla dağıtım (best effort delivery) modeli üzerinde çalışır. Bilgi bütünlüğü içeren bu yönleri bir üst katman taşıma protokolü tarafından adreslenirler. (Örn.: TCP) == Adresleme == IPv4 adresleri 32 bittir. 32 bit ile en fazla 4,294,967,296 (232) IPv4 adreslemesi yapmak mümkündür. Bazı IPv4 adresleri; özel ağlar (private network) (~18 milyon adres ) ya da çok yöne yayın (multicast) adresleri (~270 milyon adres ) gibi özel amaçlarla ayrılmıştır. Bu, genel internet üzerinde yönlendirme için muhtemelen ayrılacak olan adres sayısını azaltır. Ağ adresleme mimarisinin sınıflı ağ (classful network) dizaynı aracılığıyla yeniden düzenlenmesine, sınıfsız alanlar arası yönlendirme (Classless Inter Domain Routing) ve ağ adres çevirisinin (NAT) kaçınılmaz tüketimi büyük oranda ertelemesine rağmen adresler artarak son kullanıcılara verildikçe bir IPv4 adres eksikliği ortaya çıkmaktadır. IPv4 uzayının sınırlı olması, 6 Haziran 2012 tarihi itibarıyla yaygın olarak kullanılmaya başlanan ve bu konuda şu an için uzun vadeli tek çözüm olan IPv6'nın gelişimini teşvik etmektedir. === Adres Gösterimleri === IPv4 adresleri, genellikle noktalarla ayrılan ve onluklar şeklinde ifade edilen, 4 oktetli notasyonda yazılırlar. IPv4 yazım formatları aşağıdaki tabloda gösterilmiştir: === Adres Atamaları === ==== Sınıflı IP Adresleme ==== Bir IPv4 adresi iki kısımdan oluşur: Ağ adresi ve host adresi. Sınıflı IP adresleme, IP adreslerinin belirli aralıklarla sabit ağ ve host bölümlerine ayrılarak sınıflara (Class A, B, C, D ve E) göre tanımlandığı eski bir IP adresleme yöntemidir. Bu yapı, 1980'li yıllarda internetin ilk yaygınlaştığı dönemlerde, IP adreslerinin yönetimini ve dağıtımını kolaylaştırmak amacıyla geliştirilmiştir. Her sınıf, belirli bir IP adresi aralığına ve belirli sayıda ağ/host kombinasyonuna sahiptir. A sınıfında, ilk 8 bit (bir oktet) ağ adresi olarak kullanılırken, kalan 24 bit hostlar için ayrılmıştır. B sınıfında ilk 16 bit ağ adresi olarak kullanır. B sınıfı, orta büyüklükteki ağlara yöneliktir. C sınıfı ise küçük ağlar için tasarlanmıştır. C sınıfında ilk 24 bit ağ adresi olarak kullanılır. D sınıfı adresler multicast adreslemeleri için ayrılırken, E sınıfı adresler deneysel uygulamalar için ayrılmıştır. Bu sınıflandırma yöntemi başlangıçta kullanışlı görünse de zamanla ciddi bir verimsizlik sorununa yol açmıştır. Özellikle A ve B sınıfı bloklarının gereğinden fazla IP içeriyor olması, birçok adresin atıl kalmasına neden oldu. Aynı zamanda küçük ağlara yeterli IP verilmemesi, esnek yapıların kurulmasını engelledi. Bu durum, IPv4 adreslerinin hızla tükenmesine sebep oldu. Mevcut Classful adreslerin alt ağlara () bölünmesi 1985 yılında RFC 950 ile başlamıştır. Bu adres bölünmesi, oldukça esnek bir yöntem olan 'değişken uzunluklu alt ağ maskeleme' (variable-length subnet mask (VLSM)) adı altında tanımlanmıştır. Eylül 1993'te yayınlanan RFC 1519 ile birlikte sınıfsız alanlar arası yönlendirme (CIDR) resmi olarak tanıtıldı ve bu sistem, sınıflı adreslendirme (classful addressing) yerine kullanılmaya başlandı. CIDR, IP adres alanlarının ihtiyaçlara göre daha küçük veya daha büyük bloklara bölünebilmesini sağlamak amacıyla tasarlanmıştır. CIDR ile oluşturulan hiyerarşik adresleme yapısı, IANA ve RIR’ler tarafından yönetilmektedir Her bir RIR, IP adresi atamalarıyla ilgili bilgileri içeren ve kamuya açık şekilde sorgulanabilen bir WHOIS veritabanına sahiptir. ==== Sınıfsız IP Adresleme ==== ===== Alt Ağ Oluşturma (Subnetting) ===== Alt ağlandırma (subnetting), bir IP adres uzayının daha küçük ve yönetilebilir parçalara bölünmesi işlemidir. Bu işlem, özellikle büyük ölçekli ağlarda ağ yönetimini kolaylaştırmak, performansı artırmak ve güvenliği sağlamak amacıyla yaygın olarak kullanılır. Alt ağlara ayrılan yapılar, her biri kendi yayın alanına (broadcast domain) sahip olan bağımsız alt ağlar oluşturur. Alt ağlandırma, birçok teknik ve yapısal avantaj sağlar: 1. Ağ performansını artırma: Alt ağlar sayesinde yayın trafiği (broadcasting) sınırlı alanlarda kalır. Bu, her alt ağın sadece kendi cihazlarına yayın yapmasına olanak tanır ve genel ağ trafiğini azaltarak ağ performansını performansı artırır. 2. Ağ tıkanıklığını azaltma: Ağ trafiğinin küçük ve bağımsız alt ağlara bölünmesi, veri iletiminde çakışmaları ve gecikmeleri azaltır. Bu durum, özellikle yoğun trafikli ağlarda önemli bir avantaj sağlar. 3. Yönetim kolaylığı: Alt ağlar, daha sade ve modüler bir yapı sunduklarından dolayı, ağ yöneticileri için arıza tespiti daha kolay hale gelir. Sorunların kaynağı daha hızlı belirlenebilir. 4. Güvenlik: Alt ağlar arasında erişim kontrolleri uygulanabilir. Bu, yetkisiz erişimlerin engellenmesine yardımcı olur ve daha güvenli bir ağ ortamı oluşturulmasını sağlar. Subnetting İşlemi Bir ağı alt ağlara bölerken sıklıkla kullanacağımız iki formül vardır. Birincisi alt ağda yer alacak host sayısı, ikincisi ise kaç adet alt ağ olacağını bulmamıza yarar: 2^n -2 >= bir alt ağdaki host sayısı 2^m >= alt ağ sayısı Örnek: 192.168.0.0 255.255.255.0 ağını 2 alt ağa ayıralım. Alt ağların sayısını bildiğim için “2^m >= alt ağ sayısı” formülünü kullanacağım. 2^m >= 2 ifadesinde m değeri için 1 vermek yeterlidir. 1 değeri yeni ağların yeni alt ağ maskesini hesaplarken kullanılacaktır. Bu host bitlerinden 1 bitin kullanılacağı anlamına gelmektedir. Host biti alt ağ maskesindeki 0'lar ile gösterilen alandir. Ağ biti ise 1'ler ile gösterilen alandır. Örnekte verilen maske bilgisi 255.255.255.0 11111111.11111111.11111111.00000000: 255.255.255.0 (Şu anki subnet mask) 11111111.11111111.11111111.10000000: 255.255.255.128 (Yeni subnet mask) Yeni durumda host bitlerinin sayısı 7 oldu. Bu durumda her ağda kullanılacak IP sayısı ise 2^7-2= 126 olacaktır. Burada sayıyı 2 eksiltmemizin sebebi bir tane IP'nin alt ağ kimliği için, bir tanesinin de yayın adresi için kullanılacağıdır. Alt ağ kimliği ve yayın adresleri bu amaçlarla özel olarak ayrılmış adresler olduğundan bu adresleri bir hosta vermek mümkün değildir. Peki alt ağ kimliği ve yayın adresi nasıl bulacağız? Alt ağlandırma alt ağ kimliği ve yayın adresini bulmak için alt ağ kimliği, ilk IP, son IP, yayın adresi sıralamasını kullanınız. Subnet ID+1 = İlk IP Son IP + 1 = Broadcast Adresi Subnet ID -1 = Broadcast Adresi Ilk networkun Subnet ID' si ile ikinci networkun Subnet ID' si arasındaki fark 2^n kadardır. Bu bilgiler doğrultusunda rahatlıkla Subnet ID ve Broadcast adresi bulabilirsiniz. Son durumda 2 alt networkum aşağıdaki gibi olacaktır: ===== VLSM (Variable Length Subnet Mask) ===== VLSM, Aralık 1995'te RFC 1878 ile yayımlanmıştır. Değişken uzunluklu alt ağ maskesi, ([[Sınıfsız alanlar arası yönlendirme |Variable Length Subnet Mask (VLSM)]]) farklı boyutlardaki alt ağları tanımlamak için kullanılır. ===== CIDR ve Üst ağ oluşturma (Supernetting) ===== 1993 yılında adres sınıfından bağımsız yönlendirme (CIDR) (İngilizce: Classless Inter-Domain Routing) tanıtıldı. CIDR üst ağ oluşturma (İngilizce: Supernetting)yı gerçekleştirmek için kullanılır. Üst ağ oluşturma yön kümeleme (İngilizce: Route Aggregation ) ye olanak sağlar. CIDR, CIDR notasyonu olarak da bilinen önek notasyonunu tanıttı. Önek/CIDR notasyonu sınıfsız IP adreslemenin 3 şeklinde kullanılıyor: Alt ağ oluşturma, VLSM/farklı boyutların alt ağları, CIDR / Üst ağ oluşturma. IP adres sınıflarının orijinal sistemi CIDR ile yer değiştirdi ve sınıf-tabanlı şema karşılaştırma amacıyla sınıflı (classful) olarak adlandırıldı. CIDR'ın en temel avantajı; herhangi bir adres alanının, daha küçük ya da daha büyük adres blokları kullanıcılara ayrılabilmesi amacıyla yeniden bölümlendirilmesine izin vermesidir. CIDR tarafından oluşturulan, IANA (Internet Assigned Numbers Authority ) ve RIRs (Regional Internet registry) tarafından denetlenen hiyerarşik yapı, internet adreslerinin dünya çapında uygulamasını yönetir. Her RIR, IP adresi uygulamaları hakkında bilgi sunan genel araştırılabilen WHOIS veritabanını muhafaza eder. Bu veritabanlarından gelen bilgi IP adreslerini coğrafik olarak konumlandırmaya çabalayan çok sayıda araçta merkezi bir rol oynar. === Özel Kullanım Adresleri === === Özel Ağlar === IPv4'te yer alan adreslerin üç bloku özel ağlarda (Private networks) için kullanılmak üzere ayrılmıştır. Bu IP adres blokları özel ağların dışında yönlendirilmezler. Özel ağ IP adreslerine sahip olan bilgisayarlar ancak ağ adresi dönüştürme (NAT) yapılarak internete erişim sağlayabilirler. Aşağıdaki tabloda özel ağlar için ayrılmış olan adres blokları gösterilmiştir: === Yerel Bağlantı Adresleme (Link-Local Addressing) === 169.254.0.0/16 adres bloğu, RFC 3927 ile IPv4 yerel bağlantı (Link-local address) adresleme amacıyla ayrılmıştır. Bu adresler, yalnızca aynı fiziksel bağlantıda bulunan cihazlar arasında iletişim kurmak için kullanılır. Bu adres bloğu yönlendirilebilir değildir (non-routable). Dolayısıyla farklı ağ segmentlerine veri gönderimi için kullanılamaz. (Yerel bağlantı adresleri,, bir bilgisayarın DHCP sunucusundan ya da başka bir yapılandırma yönteminden IP adresi alamadığı durumlarda, otomatik olarak sistem tarafından atanır. Bu tür otomatik IP atama sistemlerine örnek olarak Microsoft'un geliştirdiği APIPA (Automatic Private IP Addressing) mekanizması verilebilir. APIPA sayesinde birçok Windows sistemi, bir DHCP sunucusu bulunmasa bile kendi kendine geçici bir IP adresi atayarak yerel ağda sınırlı iletişim kurabilir. Başlangıçta bu adresleme sistemine dair bir standart bulunmamaktaydı. Ancak Microsoft’un bu teknolojiyi yaygın olarak kullanmasıyla, APIPA de facto bir endüstri standardı hâline geldi. Daha sonra, bu ihtiyaca karşılık olarak İnternet Mühendisliği Görev Gücü tarafından RFC 3927 yayınlandı ve IPv4 yerel bağlantı adreslerinin dinamik yapılandırılmasına yönelik standartlaştırılmış bir yöntem tanımlanmış oldu. === Localhost === Localhost, bir bilgisayarın kendi kendisiyle ağ üzerinden iletişim kurmasını sağlayan özel bir adresleme sistemidir. 127.0.0.0 – 127.255.255.255 aralığı (CIDR notasyonunda 127.0.0.0/8) bu amaçla ayrılmıştır. Bu adres bloğundaki IP adresleri, yalnızca yerel makine üzerinde geçerlidir ve dış ağa yönlendirilmez. En yaygın kullanılan adres 127.0.0.1 olup genellikle \"localhost\" olarak adlandırılır. Bu adreslere gönderilen IP paketleri, fiziksel bir ağ arayüzüne ulaşmadan işletim sistemi tarafından geri döngü mekanizması aracılığıyla doğrudan aynı makineye iletilir. Yani, bu adreslere gönderilen veriler, bilgisayarın kendi sanal ağ arayüzü üzerinden kendisine ulaştırılır. Loopback adresleri, genellikle yazılım testi, hizmet doğrulaması ve yerel sunucu uygulamalarının çalışıp çalışmadığını kontrol etmek için kullanılır. Bu adresler hiçbir zaman yerel bilgisayar dışındaki bir cihaza yönlendirilmemeli ve yönlendirici cihazlar tarafından ağlar arası geçiş için kullanılmamalıdır. === 0 ya da 255 ile Biten Adresler === 0 veya 255 ile biten IP adreslerinin hiçbir zaman hostlara atanamayacağı bilgisi, yaygın fakat duruma bağlı bir yanlış anlamadır. Bu durum, genellikle /24 subnet maskesi kullanılan ağlarda veya eski sınıflı adresleme sistemindeki (Classful addressing) C sınıfı ağlar için geçerlidir. Modern ağlarda kullanılan CIDR (Classless Inter-Domain Routing) yapısıyla birlikte, ağlar farklı uzunlukta alt ağ maskeleriyle tanımlanabilmektedir. Bu nedenle, bir IP adresinin son oktetinde 0 veya 255 bulunması, tek başına onun atanamaz olduğu anlamına gelmez. Bu adreslerin kullanılabilirliği, ait oldukları alt ağın boyutuna ve subnet maskesine bağlı olarak değişir. ==== Sınıflı Adresleme ve Alt Ağ Tanımlayıcıları ==== CIDR'dan önceki sınıflı adresleme sisteminde (günümüzde artık kullanılmamaktadır), ağlar yalnızca üç sabit alt ağ maskesiyle tanımlanıyordu: Sınıf A: 255.0.0.0 Sınıf B: 255.255.0.0 Sınıf C: 255.255.255.0 Örneğin, 192.168.5.0/24 (ya da 255.255.255.0) ağına sahip bir yapılandırmada: 192.168.5.0 adresi, alt ağın kendisini (network ID) temsil eder. 192.168.5.255 adresi ise, ağdaki tüm hostlara gönderilen yayın (broadcast) adresidir. Bu nedenle bu iki adres, aynı ağ içinde bireysel bir cihaza atanamaz. Ancak farklı alt ağ maskeleri kullanıldığında (örneğin /25, /26 gibi), 0 veya 255 ile biten adreslerin durumu değişebilir. Bu adreslerin atanabilir olup olmadığını belirlemek için ağın alt sınırı (network ID) ve üst sınırı (broadcast adresi) dikkatle hesaplanmalıdır. == Paket yapısı == IP paketleri başlık kısmı ve veri kısmı olmak üzere iki kısımdan oluşur. IP paketlerinde, bazı veri bağlantısı katmanı protokollerinde olduğu gibi veri sağlama sayısı veya başka herhangi bir altlık içermez. Genellikle veri bağlantısı katmanı tarafından IP paketlerinin sarmalandığı paketlerin döngüsel artıklık denetimi altlıkları tarafından birçok hata tespit edilir. Ayrıca uçtan uca TCP katmanı sağlama toplamı birçok diğer hatayı tespit etmektedir. === Başlık === IPv4 paket başlığı 14 alandan oluşur. Başlıktaki alanlar yüksek basamaklı bayt başta olacak şekilde sıralanır ve yüksek basamaklı bitler önce yazılır. En yüksek basamaklı bit 0 numaralı olandır. Dolayısıyla \"Sürüm alanı ilk baytın dört en yüksek basamaklı bitinde bulunur.\" demek doğru bir ifadedir. Sürüm (Version) IP paket başlıklarındaki ilk alan dört bit uzunluğundaki sürüm alanıdır. IPv4 için bu alana konacak değer 4'tür. (IPv4 adındaki v4 versiyon 4'ü temsil eder) İnternet Başlık Uzunluğu (IHL) 4 bit uzunluğundaki bu ikinci alan başlıkta bulunan 32 bitlik (word) sayısıdır. Yani bu alandaki değer başlığın kaç adet 32 bitten oluşabileceğini göstermektedir. Başlıkta uzunluğu değişebilen tek alan seçenekler alanı olduğundan başlığın uzunluğunu bu alana belirler. Uzunluğun 32 bitin katı olmaması durumunda en yakın katına yuvarlanacak şekilde doldurma bitleri eklenir. Bu alanın alabileceği en düşük değer 5'tir (RFC 791). Bu da 5×32 = 160 bit = 20 bayta karşılık gelir. Bu alan 4 bitlik uzunlukta olduğundan gelebilecek en büyük değer 15'tir (yani 15×32 bit = 480 bits = 60 bayt). Sınıflandırılmış Hizmetler Kod Noktası (DSCP) Aslında ilk olarak Hizmet Türü (ToS veya Type of Service) alanı olarak tanımlanmıştır. Ancak RFC 2474'ten itibaren Sınıflandırılmış Hizmetler (DiffServ veya Differentiated Services) alanı olarak tanımlanmıştır. Gitgide gerçek zamanlı veri akışı gerektiren ve dolayısıyla DSCP alanını kullanan yeni teknolojiler kullanıma girmektedir. Etkileşimli ses verisi takasını sağlayan Voice over IP (VoIP) buna bir örnek olarak gösterilebilir. Açık Tıkanıklık Bildirimi (Explicit Congestion Notification, ECN) RFC 3168 ile tanımlanan bu alan, paketleri düşürmeden uçtan uca ağ tıkanıklığı bildiriminin yapılmasını sağlar. İsteğe bağlı olarak kullanılan ECN yalnızca iki üç noktanın da bu özelliği desteklemesi ve kullanmak istemesi durumunda uygulanabilir. Yalnızca üzerinde olunan ağ tarafından desteklenmesi durumunda etkilidir. Toplam Uzunluk Paketteki başlık ve verinin birlikte toplam uzunluğunu belirten bu 16 bitlik alanın alabileceği en küçük değer 20 (20 bayt başlık + 0 bayt veri), en büyük değer ise 65.535 bayttır (16 bitlik bir sayının alabileceği en büyük değer). IP paketlerinin mümkün olan en büyük uzunluğu 65.535 olsa da bu paketleri çerçeve adı verilen iletim birimlerine sarmalayıp taşıyan alt katman protokollerinin taşıyabileceği maksimum çerçeve uzunluğu değişkenlik göstermektedir. Standartlara göre tüm hostlar 576 bayta kadar olan tüm veri bloklarını kabul edebilmelidir. Günümüzde birçok host çok daha büyük paketleri taşıyabilmektedir. Ancak bazen bazı alt ağlar maksimum paket büyüklüğü üzerine kısıtlama koymaktadır. Bu durumda bu sınırı aşan veri bloklarının parçalara ayrılarak taşınması gerekmektedir. Bu işleme parçalandırma (fragmentation) denmektedir. Desteklenen maksimum paket büyüklüğünün 576 bayttan az olamayacağı standartla sabitlendiği için 576 bayta kadar olan tüm paketlerin parçalandırılmaya gerek kalmadan taşınabileceği kesindir. IPv4 protokolünde parçalandırma işlemi hostlarda veya yönlendiricilerde gerçekleştirilebilir. Kimlik Tanımlama alanı olarak adlandırılan bu alan parçalandırılmış paketlerin hangi IP paketine ait olduğunu anlamak için her pakete eklenen ve aynı paketin parçaları olan paketlerde aynı olan sayının bulunduğu alandır. Bazı deneysel çalışmalar tanımlama alanının başka amaçlar için de kullanılmasını önermiştir. Örneğin bu alanın kaynak adresi alanında sahte bilgi içeren veri bloklarının takip edilmesini kolaylaştırma amacıyla kullanılabileceği önerisi yapılmış, ancak RFC 6864 tarafından bu tür kullanımlar yasaklanmıştır. Bayraklar Üç bitlik bu alan paket parçalarının kontrol edilmesi ve tanımlanabilmesi amacıyla kullanılmaktadır. Yüksek basamaktan düşüğe doğru sıralı olmak üzere bayrak bitleri su şekildedir: bit 0: Ayrılmış; sıfır olmalıdır. bit 1: Parçalandırmama işareti (DF, Don't Fragment) bit 2: Daha Parça Var işareti (MF, More Fragments) Eğer DF bayrağı ayarlanmışsa ama paketin aktarımı esnasında yönlendirilebilmesi için parçalandırılması gerekiyorsa, paket düşürülür ve hata iletisi gönderilir. Bu ayar parçalandırma işlemleriyle ilgilenecek miktarda kaynağı bulunmayan bir hosta paket gönderirken kullanılabilir. Bir diğer kullanım alanı da paketin aktarım yolunun desteklediği maksimum paket boyutunu ölçmektir. Bu ölçme IP yazılımı tarafından kendiliğinden veya ping veya traceroute gibi bazı ağ tanılama araçlarıyla kullanıcı tarafından gerçekleştirilebilir. MF biti, kendisinden sonra gelecek başka parçaların olduğu paketlerde 1 olarak, son paketlerde ise 0 olarak işaretlidir. Parçalandırılmamış paketler de kendilerinin ilk ve son parçası olarak düşünülebileceğinden bu paketlerde MF biti 0'dır. Parçalandırılmış paketlerin de son parçaları hariç tüm parçalarında bu bit 1 olarak ayarlıdır. MF biti 0 olan bir paketin tek başına bir paket mi yoksa bir paketin parçası mı olduğu Parçanın Başlangıç Konumu alanından anlaşılır. Zira o alan tek parçadan oluşan paketlerde 0 olacaktır. Parçanın Bağıl Konumu (Fragment Offset) Orijinal paketin başlangıcına göre parçanın bağıl konumunu belirten bu alandaki 13 bit uzunluğunda olan sayının birimi sekiz bayttır (64 bit). Yani parçanın, orijinal paketin kaçıncı 64 bitlik kısmından itibaren olan kısmını içerdiğini belirtir. Bu alanla en fazla (213 – 1) × 8 = 65.528 bayt uzunluğunda konum belirtilebilir ancak bu başlık da dahil edildiğinde maksimum IP paket boyutunu (65.535) aşmaktadır (65.528 + 20 = 65.548 bayt). Yaşam süresi (Time To Live) (TTL) Sekiz bitten oluşan yaşam süresi paketlerin internet üzerinde döngülere takılarak sonsuza kadar kalmasını engeller. Teorik olarak bu alan paketin kalan ömrünü saniye türünden belirtir ve yol üzerinde paketin üzerinden geçtiği her düğüm yaşam süresi alanından paketin işlenmesi sırasında geçen süreyi düşer. 1 saniyeden kısa geçen süreler 1 saniyeye yuvarlanır. Günümüzde paketler yönlendiriciler üzerinden 1 saniyeden çok daha küçük sürelerde aktarıldığından uygulamada bu alan atlama sayısının ölçüsü olarak kullanılır. Yönlendiriciler paketi teslim aldığında TTL alanını bir azaltır. Sayı sıfır olduğunda paket düşer ve göndericiye ICMP Zaman Aşımı (ICMP Time Exceeded) iletisi gönderilir. Traceroute yazılımı da paketin kaynaktan hedefe giderken üzerinden geçtiği yönlendiricilerin listesini oluştururken yönlendiricilerden gelen ICMP Zaman Aşımı iletilerini kullanır. Protokol Bu alan IP paketlerinin veri kısmında hangi protokolün kullanıldığını tanımlar. İnternet Tahsisli Sayılar ve İsimler Kurumuna bağlı çalışan İnternet Tahsisli Sayılar Otoritesi, RFC 790 ile belirenmiş IP protokol numaralarının bir listesini tutmakktadır. Başlık Sağlama Toplamı 16 bit uzunluğundaki sağlama toplamı alanı başlıkta hata denetimi yapmak amacıyla kullanılır. Yönlendiriciye bir paket vardığında, yönlendirici paket başlığının sağlama toplamını hesaplar ve başlıkta yazan sağlamayla karşılaştırır. Eğer değerler bağdaşmıyorsa yönlendirici paketi yok sayar. Veri kısmındaki hatalarla veriyi sarmalayan protokol ilgilenmelidir. Hem UDP'nin hem TCP'nin sağlama toplamı vardır. Yönlendiriciye bir paket vardığında yönlendirici paketin TTL alanını bir azaltır. Sonra da yeni sağlama toplamını hesaplar. RFC 1071 sağlama toplamının hesaplanmasını şöyle tarif etmektedir: Sağlama toplamı alanı, başlıktaki 16 bitlik tüm sözcüklerin bire tümleyen toplamının bire tümleyeninin alınmasıyla elde edilen 16 bitlik sayıdır. Sağlama toplamı hesaplanırken başlıktaki sağlama toplamı bölümü sıfır olarak alınır. Örneğin on altılık gösterimi şu şekilde olan başlık verisini ele alalım: 4500003044224000800600008c7c19acae241e2b. Bu veri toplamda 20 bayt uzunluğundaki bir IP paketi başlığıdır. Standart ikinin tümleyeni artimetiğini uygulayan bir makinede: 1. Adım) 4500 + 0030 + 4422 + 4000 + 8006 + 0000 + 8c7c + 19ac + ae24 + 1e2b = 0002BBCF (32-bit toplam) 2. Adım) 0002 + BBCF = BBD1 = 1011101111010001 (16 bitlik bire tümleyen toplamı, bu toplam 32 bitlik ikiye tümleyen toplamını 16 biti aşan basamakların başa taşınıp toplama eklenmesiyle hesaplanır. Toplamın basamak sayısı 16 biti aştıkça bu işlem tekrarlanır) 3. Adım) ~BBD1 = 0100010000101110 = 442E (16-bitlik bire tümleyeni toplamının bire tümleyeni) Başlığın sağlama toplamını doğrulamak için aynı algoritma kullanılabilir – doğru bir sağlama toplamı bulunduran bir başlığın sağlama toplamı hesaplandığında tamamen 0'dan oluşan bir sözcük elde edilir: 2BBCF + 442E = 2FFFD. 2 + FFFD = FFFF. FFFF'nin bire tümleyeni = 0. Kaynak adresi Bu alan paketi gönderenin IPv4 adresidir. Ulaştırma esnasında bu adresin ağ adresi çözümleme aygıtı tarafından değiştirilebileceğine dikkat edin. Hedef adresi Bu alan paketin alıcısının IPv4 adresidir. Kaynak adresi gibi bu adres de bir ağ adresi çözümleme aygıtı tarafından ulaştırma esnasında değiştirilebilir. Seçenekler Seçenekler alanı çok sık kullanılmaz. IHL başlğında bulunan 32 bitlik sözcüklerin uzunluğunun tüm seçenekleri kapsayacak kadar büyük olması gerektiğine dikkat ediniz, toplam uzunluğun 32 bitin katı olmaması durumunda başlık gereken miktarda dolgu verisiyle doldurulmalıdır. Seçenekler listesi EOL (Seçenekler Listesi Bitimi, 0x00) seçeneği ile bitirilebilir ancak bu yalnızca seçeneklerin sonu başka türlü başlığın sonuyla denk gelmiyorsa gereklidir. Başlığa konulabilecek seçeneklerin listesi şöyledir: Not: Eğer başlık uzunluğu 5'ten büyükse, yani 6'dan 15'e kadarsa seçenekler alanı kullanılmış demektir dolayısıyla dikkate alınır. Not: Kopyalandı, Seçenek Sınıfı ve Seçenek Numarasından bazen \"Seçenek Türü\" adlı sekiz bitlik tek bir alan olarak söz edilir. Loose Source and Record Route (LSRR) ve Strict Source and Record Route (SSRR) seçeneklerinin kullanılması güvelik kaygıları nedeniyle önerilmemektedir. Bu seçenekleri barındıran paketleri birçok yönlendirici engellemektedir. == Ayrıca bakınız == IP adresi == Notlar == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 3085,
+      "char_count": 23065,
+      "num_chunks": 42,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.720258",
+    "total_chunks": 42,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 165,
+      "content": "İnternet Protokol Versiyon 4 (IPv4), İnternet Protokolü'nün (IP) dördüncü versiyonudur. IPv4, 32-bitlik adreslerden oluşmaktadır ve (232) tekil adres sağlamaktadır.",
+      "char_count": 164,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 165,
+      "end_char": 291,
+      "content": "== Tarihçe == IPv4, RFC 791'de tanımlanmıştır (Eylül 1981). Bir önceki versiyonu olan RFC 760'ın (Ocak 1980) yerini almıştır.",
+      "char_count": 125,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0002",
+      "section": "== Tanım ==",
+      "heading_path": "== Tanım ==",
+      "start_char": 291,
+      "end_char": 595,
+      "content": "== Tanım == IPv4 paket anahtarlamalı bağlantı katman (internet layer) ağları üzerinde kullanım için bir bağlantısız protokoldür. En iyi çabayla dağıtım (best effort delivery) modeli üzerinde çalışır. Bilgi bütünlüğü içeren bu yönleri bir üst katman taşıma protokolü tarafından adreslenirler. (Örn.: TCP)",
+      "char_count": 303,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0003",
+      "section": "== Adresleme ==",
+      "heading_path": "== Adresleme ==",
+      "start_char": 595,
+      "end_char": 1505,
+      "content": "== Adresleme == IPv4 adresleri 32 bittir. 32 bit ile en fazla 4,294,967,296 (232) IPv4 adreslemesi yapmak mümkündür. Bazı IPv4 adresleri; özel ağlar (private network) (~18 milyon adres ) ya da çok yöne yayın (multicast) adresleri (~270 milyon adres ) gibi özel amaçlarla ayrılmıştır. Bu, genel internet üzerinde yönlendirme için muhtemelen ayrılacak olan adres sayısını azaltır. Ağ adresleme mimarisinin sınıflı ağ (classful network) dizaynı aracılığıyla yeniden düzenlenmesine, sınıfsız alanlar arası yönlendirme (Classless Inter Domain Routing) ve ağ adres çevirisinin (NAT) kaçınılmaz tüketimi büyük oranda ertelemesine rağmen adresler artarak son kullanıcılara verildikçe bir IPv4 adres eksikliği ortaya çıkmaktadır. IPv4 uzayının sınırlı olması, 6 Haziran 2012 tarihi itibarıyla yaygın olarak kullanılmaya başlanan ve bu konuda şu an için uzun vadeli tek çözüm olan IPv6'nın gelişimini teşvik etmektedir.",
+      "char_count": 909,
+      "token_estimate": 227
+    },
+    {
+      "id": "c0004",
+      "section": "=== Adres Gösterimleri ===",
+      "heading_path": "=== Adres Gösterimleri ===",
+      "start_char": 1505,
+      "end_char": 1702,
+      "content": "=== Adres Gösterimleri === IPv4 adresleri, genellikle noktalarla ayrılan ve onluklar şeklinde ifade edilen, 4 oktetli notasyonda yazılırlar. IPv4 yazım formatları aşağıdaki tabloda gösterilmiştir:",
+      "char_count": 196,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0005",
+      "section": "==== Sınıflı IP Adresleme ====",
+      "heading_path": "==== Sınıflı IP Adresleme ====",
+      "start_char": 1726,
+      "end_char": 2726,
+      "content": "==== Sınıflı IP Adresleme ==== Bir IPv4 adresi iki kısımdan oluşur: Ağ adresi ve host adresi. Sınıflı IP adresleme, IP adreslerinin belirli aralıklarla sabit ağ ve host bölümlerine ayrılarak sınıflara (Class A, B, C, D ve E) göre tanımlandığı eski bir IP adresleme yöntemidir. Bu yapı, 1980'li yıllarda internetin ilk yaygınlaştığı dönemlerde, IP adreslerinin yönetimini ve dağıtımını kolaylaştırmak amacıyla geliştirilmiştir. Her sınıf, belirli bir IP adresi aralığına ve belirli sayıda ağ/host kombinasyonuna sahiptir. A sınıfında, ilk 8 bit (bir oktet) ağ adresi olarak kullanılırken, kalan 24 bit hostlar için ayrılmıştır. B sınıfında ilk 16 bit ağ adresi olarak kullanır. B sınıfı, orta büyüklükteki ağlara yöneliktir. C sınıfı ise küçük ağlar için tasarlanmıştır. C sınıfında ilk 24 bit ağ adresi olarak kullanılır. D sınıfı adresler multicast adreslemeleri için ayrılırken, E sınıfı adresler deneysel uygulamalar için ayrılmıştır. Bu sınıflandırma yöntemi başlangıçta kullanışlı görünse de zam",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "==== Sınıflı IP Adresleme ====",
+      "heading_path": "==== Sınıflı IP Adresleme ====",
+      "start_char": 2526,
+      "end_char": 3526,
+      "content": "si olarak kullanılır. D sınıfı adresler multicast adreslemeleri için ayrılırken, E sınıfı adresler deneysel uygulamalar için ayrılmıştır. Bu sınıflandırma yöntemi başlangıçta kullanışlı görünse de zamanla ciddi bir verimsizlik sorununa yol açmıştır. Özellikle A ve B sınıfı bloklarının gereğinden fazla IP içeriyor olması, birçok adresin atıl kalmasına neden oldu. Aynı zamanda küçük ağlara yeterli IP verilmemesi, esnek yapıların kurulmasını engelledi. Bu durum, IPv4 adreslerinin hızla tükenmesine sebep oldu. Mevcut Classful adreslerin alt ağlara () bölünmesi 1985 yılında RFC 950 ile başlamıştır. Bu adres bölünmesi, oldukça esnek bir yöntem olan 'değişken uzunluklu alt ağ maskeleme' (variable-length subnet mask (VLSM)) adı altında tanımlanmıştır. Eylül 1993'te yayınlanan RFC 1519 ile birlikte sınıfsız alanlar arası yönlendirme (CIDR) resmi olarak tanıtıldı ve bu sistem, sınıflı adreslendirme (classful addressing) yerine kullanılmaya başlandı. CIDR, IP adres alanlarının ihtiyaçlara göre da",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "==== Sınıflı IP Adresleme ====",
+      "heading_path": "==== Sınıflı IP Adresleme ====",
+      "start_char": 3326,
+      "end_char": 3833,
+      "content": " sınıfsız alanlar arası yönlendirme (CIDR) resmi olarak tanıtıldı ve bu sistem, sınıflı adreslendirme (classful addressing) yerine kullanılmaya başlandı. CIDR, IP adres alanlarının ihtiyaçlara göre daha küçük veya daha büyük bloklara bölünebilmesini sağlamak amacıyla tasarlanmıştır. CIDR ile oluşturulan hiyerarşik adresleme yapısı, IANA ve RIR’ler tarafından yönetilmektedir Her bir RIR, IP adresi atamalarıyla ilgili bilgileri içeren ve kamuya açık şekilde sorgulanabilen bir WHOIS veritabanına sahiptir.",
+      "char_count": 507,
+      "token_estimate": 126
+    },
+    {
+      "id": "c0008",
+      "section": "===== Alt Ağ Oluşturma (Subnetting) =====",
+      "heading_path": "===== Alt Ağ Oluşturma (Subnetting) =====",
+      "start_char": 3866,
+      "end_char": 4866,
+      "content": "===== Alt Ağ Oluşturma (Subnetting) ===== Alt ağlandırma (subnetting), bir IP adres uzayının daha küçük ve yönetilebilir parçalara bölünmesi işlemidir. Bu işlem, özellikle büyük ölçekli ağlarda ağ yönetimini kolaylaştırmak, performansı artırmak ve güvenliği sağlamak amacıyla yaygın olarak kullanılır. Alt ağlara ayrılan yapılar, her biri kendi yayın alanına (broadcast domain) sahip olan bağımsız alt ağlar oluşturur. Alt ağlandırma, birçok teknik ve yapısal avantaj sağlar: 1. Ağ performansını artırma: Alt ağlar sayesinde yayın trafiği (broadcasting) sınırlı alanlarda kalır. Bu, her alt ağın sadece kendi cihazlarına yayın yapmasına olanak tanır ve genel ağ trafiğini azaltarak ağ performansını performansı artırır. 2. Ağ tıkanıklığını azaltma: Ağ trafiğinin küçük ve bağımsız alt ağlara bölünmesi, veri iletiminde çakışmaları ve gecikmeleri azaltır. Bu durum, özellikle yoğun trafikli ağlarda önemli bir avantaj sağlar. 3. Yönetim kolaylığı: Alt ağlar, daha sade ve modüler bir yapı sunduklarınd",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0009",
+      "section": "===== Alt Ağ Oluşturma (Subnetting) =====",
+      "heading_path": "===== Alt Ağ Oluşturma (Subnetting) =====",
+      "start_char": 4666,
+      "end_char": 5351,
+      "content": "i, veri iletiminde çakışmaları ve gecikmeleri azaltır. Bu durum, özellikle yoğun trafikli ağlarda önemli bir avantaj sağlar. 3. Yönetim kolaylığı: Alt ağlar, daha sade ve modüler bir yapı sunduklarından dolayı, ağ yöneticileri için arıza tespiti daha kolay hale gelir. Sorunların kaynağı daha hızlı belirlenebilir. 4. Güvenlik: Alt ağlar arasında erişim kontrolleri uygulanabilir. Bu, yetkisiz erişimlerin engellenmesine yardımcı olur ve daha güvenli bir ağ ortamı oluşturulmasını sağlar. Subnetting İşlemi Bir ağı alt ağlara bölerken sıklıkla kullanacağımız iki formül vardır. Birincisi alt ağda yer alacak host sayısı, ikincisi ise kaç adet alt ağ olacağını bulmamıza yarar: 2^n -2 >",
+      "char_count": 685,
+      "token_estimate": 171
+    },
+    {
+      "id": "c0010",
+      "section": "= bir alt ağdaki host sayısı 2^m > =",
+      "heading_path": "= bir alt ağdaki host sayısı 2^m > =",
+      "start_char": 5351,
+      "end_char": 5501,
+      "content": "= bir alt ağdaki host sayısı 2^m >= alt ağ sayısı Örnek: 192.168.0.0 255.255.255.0 ağını 2 alt ağa ayıralım. Alt ağların sayısını bildiğim için “2^m >",
+      "char_count": 150,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0011",
+      "section": "= alt ağ sayısı” formülünü kullanacağım. 2^m > =",
+      "heading_path": "= alt ağ sayısı” formülünü kullanacağım. 2^m > =",
+      "start_char": 5501,
+      "end_char": 6121,
+      "content": "= alt ağ sayısı” formülünü kullanacağım. 2^m >= 2 ifadesinde m değeri için 1 vermek yeterlidir. 1 değeri yeni ağların yeni alt ağ maskesini hesaplarken kullanılacaktır. Bu host bitlerinden 1 bitin kullanılacağı anlamına gelmektedir. Host biti alt ağ maskesindeki 0'lar ile gösterilen alandir. Ağ biti ise 1'ler ile gösterilen alandır. Örnekte verilen maske bilgisi 255.255.255.0 11111111.11111111.11111111.00000000: 255.255.255.0 (Şu anki subnet mask) 11111111.11111111.11111111.10000000: 255.255.255.128 (Yeni subnet mask) Yeni durumda host bitlerinin sayısı 7 oldu. Bu durumda her ağda kullanılacak IP sayısı ise 2^7-2",
+      "char_count": 620,
+      "token_estimate": 155
+    },
+    {
+      "id": "c0012",
+      "section": "= 126 olacaktır. Burada sayıyı 2 eksiltmemizin sebebi bir tane IP'nin alt ağ kimliği için, bir tanesinin de yayın adresi için kullanılacağıdır. Alt ağ kimliği ve yayın adresleri bu amaçlarla özel olarak ayrılmış adresler olduğundan bu adresleri bir hosta vermek mümkün değildir. Peki alt ağ kimliği ve yayın adresi nasıl bulacağız? Alt ağlandırma alt ağ kimliği ve yayın adresini bulmak için alt ağ kimliği, ilk IP, son IP, yayın adresi sıralamasını kullanınız. Subnet ID+1 =",
+      "heading_path": "= 126 olacaktır. Burada sayıyı 2 eksiltmemizin sebebi bir tane IP'nin alt ağ kimliği için, bir tanesinin de yayın adresi için kullanılacağıdır. Alt ağ kimliği ve yayın adresleri bu amaçlarla özel olarak ayrılmış adresler olduğundan bu adresleri bir hosta vermek mümkün değildir. Peki alt ağ kimliği ve yayın adresi nasıl bulacağız? Alt ağlandırma alt ağ kimliği ve yayın adresini bulmak için alt ağ kimliği, ilk IP, son IP, yayın adresi sıralamasını kullanınız. Subnet ID+1 =",
+      "start_char": 6121,
+      "end_char": 6615,
+      "content": "= 126 olacaktır. Burada sayıyı 2 eksiltmemizin sebebi bir tane IP'nin alt ağ kimliği için, bir tanesinin de yayın adresi için kullanılacağıdır. Alt ağ kimliği ve yayın adresleri bu amaçlarla özel olarak ayrılmış adresler olduğundan bu adresleri bir hosta vermek mümkün değildir. Peki alt ağ kimliği ve yayın adresi nasıl bulacağız? Alt ağlandırma alt ağ kimliği ve yayın adresini bulmak için alt ağ kimliği, ilk IP, son IP, yayın adresi sıralamasını kullanınız. Subnet ID+1 = İlk IP Son IP + 1",
+      "char_count": 493,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0013",
+      "section": "= Broadcast Adresi Subnet ID -1 =",
+      "heading_path": "= Broadcast Adresi Subnet ID -1 =",
+      "start_char": 6615,
+      "end_char": 6896,
+      "content": "= Broadcast Adresi Subnet ID -1 = Broadcast Adresi Ilk networkun Subnet ID' si ile ikinci networkun Subnet ID' si arasındaki fark 2^n kadardır. Bu bilgiler doğrultusunda rahatlıkla Subnet ID ve Broadcast adresi bulabilirsiniz. Son durumda 2 alt networkum aşağıdaki gibi olacaktır:",
+      "char_count": 280,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0014",
+      "section": "===== VLSM (Variable Length Subnet Mask) =====",
+      "heading_path": "===== VLSM (Variable Length Subnet Mask) =====",
+      "start_char": 6896,
+      "end_char": 7164,
+      "content": "===== VLSM (Variable Length Subnet Mask) ===== VLSM, Aralık 1995'te RFC 1878 ile yayımlanmıştır. Değişken uzunluklu alt ağ maskesi, ([[Sınıfsız alanlar arası yönlendirme |Variable Length Subnet Mask (VLSM)]]) farklı boyutlardaki alt ağları tanımlamak için kullanılır.",
+      "char_count": 267,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0015",
+      "section": "===== CIDR ve Üst ağ oluşturma (Supernetting) =====",
+      "heading_path": "===== CIDR ve Üst ağ oluşturma (Supernetting) =====",
+      "start_char": 7164,
+      "end_char": 8164,
+      "content": "===== CIDR ve Üst ağ oluşturma (Supernetting) ===== 1993 yılında adres sınıfından bağımsız yönlendirme (CIDR) (İngilizce: Classless Inter-Domain Routing) tanıtıldı. CIDR üst ağ oluşturma (İngilizce: Supernetting)yı gerçekleştirmek için kullanılır. Üst ağ oluşturma yön kümeleme (İngilizce: Route Aggregation ) ye olanak sağlar. CIDR, CIDR notasyonu olarak da bilinen önek notasyonunu tanıttı. Önek/CIDR notasyonu sınıfsız IP adreslemenin 3 şeklinde kullanılıyor: Alt ağ oluşturma, VLSM/farklı boyutların alt ağları, CIDR / Üst ağ oluşturma. IP adres sınıflarının orijinal sistemi CIDR ile yer değiştirdi ve sınıf-tabanlı şema karşılaştırma amacıyla sınıflı (classful) olarak adlandırıldı. CIDR'ın en temel avantajı; herhangi bir adres alanının, daha küçük ya da daha büyük adres blokları kullanıcılara ayrılabilmesi amacıyla yeniden bölümlendirilmesine izin vermesidir. CIDR tarafından oluşturulan, IANA (Internet Assigned Numbers Authority ) ve RIRs (Regional Internet registry) tarafından denetlene",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0016",
+      "section": "===== CIDR ve Üst ağ oluşturma (Supernetting) =====",
+      "heading_path": "===== CIDR ve Üst ağ oluşturma (Supernetting) =====",
+      "start_char": 7964,
+      "end_char": 8480,
+      "content": "a ayrılabilmesi amacıyla yeniden bölümlendirilmesine izin vermesidir. CIDR tarafından oluşturulan, IANA (Internet Assigned Numbers Authority ) ve RIRs (Regional Internet registry) tarafından denetlenen hiyerarşik yapı, internet adreslerinin dünya çapında uygulamasını yönetir. Her RIR, IP adresi uygulamaları hakkında bilgi sunan genel araştırılabilen WHOIS veritabanını muhafaza eder. Bu veritabanlarından gelen bilgi IP adreslerini coğrafik olarak konumlandırmaya çabalayan çok sayıda araçta merkezi bir rol oynar.",
+      "char_count": 516,
+      "token_estimate": 129
+    },
+    {
+      "id": "c0017",
+      "section": "=== Özel Ağlar ===",
+      "heading_path": "=== Özel Ağlar ===",
+      "start_char": 8513,
+      "end_char": 8902,
+      "content": "=== Özel Ağlar === IPv4'te yer alan adreslerin üç bloku özel ağlarda (Private networks) için kullanılmak üzere ayrılmıştır. Bu IP adres blokları özel ağların dışında yönlendirilmezler. Özel ağ IP adreslerine sahip olan bilgisayarlar ancak ağ adresi dönüştürme (NAT) yapılarak internete erişim sağlayabilirler. Aşağıdaki tabloda özel ağlar için ayrılmış olan adres blokları gösterilmiştir:",
+      "char_count": 388,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0018",
+      "section": "=== Yerel Bağlantı Adresleme (Link-Local Addressing) ===",
+      "heading_path": "=== Yerel Bağlantı Adresleme (Link-Local Addressing) ===",
+      "start_char": 8902,
+      "end_char": 9902,
+      "content": "=== Yerel Bağlantı Adresleme (Link-Local Addressing) === 169.254.0.0/16 adres bloğu, RFC 3927 ile IPv4 yerel bağlantı (Link-local address) adresleme amacıyla ayrılmıştır. Bu adresler, yalnızca aynı fiziksel bağlantıda bulunan cihazlar arasında iletişim kurmak için kullanılır. Bu adres bloğu yönlendirilebilir değildir (non-routable). Dolayısıyla farklı ağ segmentlerine veri gönderimi için kullanılamaz. (Yerel bağlantı adresleri,, bir bilgisayarın DHCP sunucusundan ya da başka bir yapılandırma yönteminden IP adresi alamadığı durumlarda, otomatik olarak sistem tarafından atanır. Bu tür otomatik IP atama sistemlerine örnek olarak Microsoft'un geliştirdiği APIPA (Automatic Private IP Addressing) mekanizması verilebilir. APIPA sayesinde birçok Windows sistemi, bir DHCP sunucusu bulunmasa bile kendi kendine geçici bir IP adresi atayarak yerel ağda sınırlı iletişim kurabilir. Başlangıçta bu adresleme sistemine dair bir standart bulunmamaktaydı. Ancak Microsoft’un bu teknolojiyi yaygın olarak k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0019",
+      "section": "=== Yerel Bağlantı Adresleme (Link-Local Addressing) ===",
+      "heading_path": "=== Yerel Bağlantı Adresleme (Link-Local Addressing) ===",
+      "start_char": 9702,
+      "end_char": 10191,
+      "content": "ndi kendine geçici bir IP adresi atayarak yerel ağda sınırlı iletişim kurabilir. Başlangıçta bu adresleme sistemine dair bir standart bulunmamaktaydı. Ancak Microsoft’un bu teknolojiyi yaygın olarak kullanmasıyla, APIPA de facto bir endüstri standardı hâline geldi. Daha sonra, bu ihtiyaca karşılık olarak İnternet Mühendisliği Görev Gücü tarafından RFC 3927 yayınlandı ve IPv4 yerel bağlantı adreslerinin dinamik yapılandırılmasına yönelik standartlaştırılmış bir yöntem tanımlanmış oldu.",
+      "char_count": 489,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0020",
+      "section": "=== Localhost ===",
+      "heading_path": "=== Localhost ===",
+      "start_char": 10192,
+      "end_char": 11192,
+      "content": "=== Localhost === Localhost, bir bilgisayarın kendi kendisiyle ağ üzerinden iletişim kurmasını sağlayan özel bir adresleme sistemidir. 127.0.0.0 – 127.255.255.255 aralığı (CIDR notasyonunda 127.0.0.0/8) bu amaçla ayrılmıştır. Bu adres bloğundaki IP adresleri, yalnızca yerel makine üzerinde geçerlidir ve dış ağa yönlendirilmez. En yaygın kullanılan adres 127.0.0.1 olup genellikle \"localhost\" olarak adlandırılır. Bu adreslere gönderilen IP paketleri, fiziksel bir ağ arayüzüne ulaşmadan işletim sistemi tarafından geri döngü mekanizması aracılığıyla doğrudan aynı makineye iletilir. Yani, bu adreslere gönderilen veriler, bilgisayarın kendi sanal ağ arayüzü üzerinden kendisine ulaştırılır. Loopback adresleri, genellikle yazılım testi, hizmet doğrulaması ve yerel sunucu uygulamalarının çalışıp çalışmadığını kontrol etmek için kullanılır. Bu adresler hiçbir zaman yerel bilgisayar dışındaki bir cihaza yönlendirilmemeli ve yönlendirici cihazlar tarafından ağlar arası geçiş için kullanılmamalıdır",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0021",
+      "section": "=== Localhost ===",
+      "heading_path": "=== Localhost ===",
+      "start_char": 10992,
+      "end_char": 11193,
+      "content": "lışmadığını kontrol etmek için kullanılır. Bu adresler hiçbir zaman yerel bilgisayar dışındaki bir cihaza yönlendirilmemeli ve yönlendirici cihazlar tarafından ağlar arası geçiş için kullanılmamalıdır.",
+      "char_count": 201,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0022",
+      "section": "=== 0 ya da 255 ile Biten Adresler ===",
+      "heading_path": "=== 0 ya da 255 ile Biten Adresler ===",
+      "start_char": 11194,
+      "end_char": 11888,
+      "content": "=== 0 ya da 255 ile Biten Adresler === 0 veya 255 ile biten IP adreslerinin hiçbir zaman hostlara atanamayacağı bilgisi, yaygın fakat duruma bağlı bir yanlış anlamadır. Bu durum, genellikle /24 subnet maskesi kullanılan ağlarda veya eski sınıflı adresleme sistemindeki (Classful addressing) C sınıfı ağlar için geçerlidir. Modern ağlarda kullanılan CIDR (Classless Inter-Domain Routing) yapısıyla birlikte, ağlar farklı uzunlukta alt ağ maskeleriyle tanımlanabilmektedir. Bu nedenle, bir IP adresinin son oktetinde 0 veya 255 bulunması, tek başına onun atanamaz olduğu anlamına gelmez. Bu adreslerin kullanılabilirliği, ait oldukları alt ağın boyutuna ve subnet maskesine bağlı olarak değişir.",
+      "char_count": 693,
+      "token_estimate": 173
+    },
+    {
+      "id": "c0023",
+      "section": "==== Sınıflı Adresleme ve Alt Ağ Tanımlayıcıları ====",
+      "heading_path": "==== Sınıflı Adresleme ve Alt Ağ Tanımlayıcıları ====",
+      "start_char": 11888,
+      "end_char": 12713,
+      "content": "==== Sınıflı Adresleme ve Alt Ağ Tanımlayıcıları ==== CIDR'dan önceki sınıflı adresleme sisteminde (günümüzde artık kullanılmamaktadır), ağlar yalnızca üç sabit alt ağ maskesiyle tanımlanıyordu: Sınıf A: 255.0.0.0 Sınıf B: 255.255.0.0 Sınıf C: 255.255.255.0 Örneğin, 192.168.5.0/24 (ya da 255.255.255.0) ağına sahip bir yapılandırmada: 192.168.5.0 adresi, alt ağın kendisini (network ID) temsil eder. 192.168.5.255 adresi ise, ağdaki tüm hostlara gönderilen yayın (broadcast) adresidir. Bu nedenle bu iki adres, aynı ağ içinde bireysel bir cihaza atanamaz. Ancak farklı alt ağ maskeleri kullanıldığında (örneğin /25, /26 gibi), 0 veya 255 ile biten adreslerin durumu değişebilir. Bu adreslerin atanabilir olup olmadığını belirlemek için ağın alt sınırı (network ID) ve üst sınırı (broadcast adresi) dikkatle hesaplanmalıdır.",
+      "char_count": 824,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0024",
+      "section": "== Paket yapısı ==",
+      "heading_path": "== Paket yapısı ==",
+      "start_char": 12713,
+      "end_char": 13185,
+      "content": "== Paket yapısı == IP paketleri başlık kısmı ve veri kısmı olmak üzere iki kısımdan oluşur. IP paketlerinde, bazı veri bağlantısı katmanı protokollerinde olduğu gibi veri sağlama sayısı veya başka herhangi bir altlık içermez. Genellikle veri bağlantısı katmanı tarafından IP paketlerinin sarmalandığı paketlerin döngüsel artıklık denetimi altlıkları tarafından birçok hata tespit edilir. Ayrıca uçtan uca TCP katmanı sağlama toplamı birçok diğer hatayı tespit etmektedir.",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0025",
+      "section": "=== Başlık ===",
+      "heading_path": "=== Başlık ===",
+      "start_char": 13185,
+      "end_char": 14144,
+      "content": "=== Başlık === IPv4 paket başlığı 14 alandan oluşur. Başlıktaki alanlar yüksek basamaklı bayt başta olacak şekilde sıralanır ve yüksek basamaklı bitler önce yazılır. En yüksek basamaklı bit 0 numaralı olandır. Dolayısıyla \"Sürüm alanı ilk baytın dört en yüksek basamaklı bitinde bulunur.\" demek doğru bir ifadedir. Sürüm (Version) IP paket başlıklarındaki ilk alan dört bit uzunluğundaki sürüm alanıdır. IPv4 için bu alana konacak değer 4'tür. (IPv4 adındaki v4 versiyon 4'ü temsil eder) İnternet Başlık Uzunluğu (IHL) 4 bit uzunluğundaki bu ikinci alan başlıkta bulunan 32 bitlik (word) sayısıdır. Yani bu alandaki değer başlığın kaç adet 32 bitten oluşabileceğini göstermektedir. Başlıkta uzunluğu değişebilen tek alan seçenekler alanı olduğundan başlığın uzunluğunu bu alana belirler. Uzunluğun 32 bitin katı olmaması durumunda en yakın katına yuvarlanacak şekilde doldurma bitleri eklenir. Bu alanın alabileceği en düşük değer 5'tir (RFC 791). Bu da 5×32",
+      "char_count": 958,
+      "token_estimate": 239
+    },
+    {
+      "id": "c0026",
+      "section": "= 160 bit =",
+      "heading_path": "= 160 bit =",
+      "start_char": 14144,
+      "end_char": 14269,
+      "content": "= 160 bit = 20 bayta karşılık gelir. Bu alan 4 bitlik uzunlukta olduğundan gelebilecek en büyük değer 15'tir (yani 15×32 bit",
+      "char_count": 124,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0027",
+      "section": "= 480 bits =",
+      "heading_path": "= 480 bits =",
+      "start_char": 14269,
+      "end_char": 15269,
+      "content": "= 480 bits = 60 bayt). Sınıflandırılmış Hizmetler Kod Noktası (DSCP) Aslında ilk olarak Hizmet Türü (ToS veya Type of Service) alanı olarak tanımlanmıştır. Ancak RFC 2474'ten itibaren Sınıflandırılmış Hizmetler (DiffServ veya Differentiated Services) alanı olarak tanımlanmıştır. Gitgide gerçek zamanlı veri akışı gerektiren ve dolayısıyla DSCP alanını kullanan yeni teknolojiler kullanıma girmektedir. Etkileşimli ses verisi takasını sağlayan Voice over IP (VoIP) buna bir örnek olarak gösterilebilir. Açık Tıkanıklık Bildirimi (Explicit Congestion Notification, ECN) RFC 3168 ile tanımlanan bu alan, paketleri düşürmeden uçtan uca ağ tıkanıklığı bildiriminin yapılmasını sağlar. İsteğe bağlı olarak kullanılan ECN yalnızca iki üç noktanın da bu özelliği desteklemesi ve kullanmak istemesi durumunda uygulanabilir. Yalnızca üzerinde olunan ağ tarafından desteklenmesi durumunda etkilidir. Toplam Uzunluk Paketteki başlık ve verinin birlikte toplam uzunluğunu belirten bu 16 bitlik alanın alabileceği",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0028",
+      "section": "= 480 bits =",
+      "heading_path": "= 480 bits =",
+      "start_char": 15069,
+      "end_char": 16069,
+      "content": " uygulanabilir. Yalnızca üzerinde olunan ağ tarafından desteklenmesi durumunda etkilidir. Toplam Uzunluk Paketteki başlık ve verinin birlikte toplam uzunluğunu belirten bu 16 bitlik alanın alabileceği en küçük değer 20 (20 bayt başlık + 0 bayt veri), en büyük değer ise 65.535 bayttır (16 bitlik bir sayının alabileceği en büyük değer). IP paketlerinin mümkün olan en büyük uzunluğu 65.535 olsa da bu paketleri çerçeve adı verilen iletim birimlerine sarmalayıp taşıyan alt katman protokollerinin taşıyabileceği maksimum çerçeve uzunluğu değişkenlik göstermektedir. Standartlara göre tüm hostlar 576 bayta kadar olan tüm veri bloklarını kabul edebilmelidir. Günümüzde birçok host çok daha büyük paketleri taşıyabilmektedir. Ancak bazen bazı alt ağlar maksimum paket büyüklüğü üzerine kısıtlama koymaktadır. Bu durumda bu sınırı aşan veri bloklarının parçalara ayrılarak taşınması gerekmektedir. Bu işleme parçalandırma (fragmentation) denmektedir. Desteklenen maksimum paket büyüklüğünün 576 bayttan a",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0029",
+      "section": "= 480 bits =",
+      "heading_path": "= 480 bits =",
+      "start_char": 15869,
+      "end_char": 16869,
+      "content": "adır. Bu durumda bu sınırı aşan veri bloklarının parçalara ayrılarak taşınması gerekmektedir. Bu işleme parçalandırma (fragmentation) denmektedir. Desteklenen maksimum paket büyüklüğünün 576 bayttan az olamayacağı standartla sabitlendiği için 576 bayta kadar olan tüm paketlerin parçalandırılmaya gerek kalmadan taşınabileceği kesindir. IPv4 protokolünde parçalandırma işlemi hostlarda veya yönlendiricilerde gerçekleştirilebilir. Kimlik Tanımlama alanı olarak adlandırılan bu alan parçalandırılmış paketlerin hangi IP paketine ait olduğunu anlamak için her pakete eklenen ve aynı paketin parçaları olan paketlerde aynı olan sayının bulunduğu alandır. Bazı deneysel çalışmalar tanımlama alanının başka amaçlar için de kullanılmasını önermiştir. Örneğin bu alanın kaynak adresi alanında sahte bilgi içeren veri bloklarının takip edilmesini kolaylaştırma amacıyla kullanılabileceği önerisi yapılmış, ancak RFC 6864 tarafından bu tür kullanımlar yasaklanmıştır. Bayraklar Üç bitlik bu alan paket parçala",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0030",
+      "section": "= 480 bits =",
+      "heading_path": "= 480 bits =",
+      "start_char": 16669,
+      "end_char": 17669,
+      "content": "eren veri bloklarının takip edilmesini kolaylaştırma amacıyla kullanılabileceği önerisi yapılmış, ancak RFC 6864 tarafından bu tür kullanımlar yasaklanmıştır. Bayraklar Üç bitlik bu alan paket parçalarının kontrol edilmesi ve tanımlanabilmesi amacıyla kullanılmaktadır. Yüksek basamaktan düşüğe doğru sıralı olmak üzere bayrak bitleri su şekildedir: bit 0: Ayrılmış; sıfır olmalıdır. bit 1: Parçalandırmama işareti (DF, Don't Fragment) bit 2: Daha Parça Var işareti (MF, More Fragments) Eğer DF bayrağı ayarlanmışsa ama paketin aktarımı esnasında yönlendirilebilmesi için parçalandırılması gerekiyorsa, paket düşürülür ve hata iletisi gönderilir. Bu ayar parçalandırma işlemleriyle ilgilenecek miktarda kaynağı bulunmayan bir hosta paket gönderirken kullanılabilir. Bir diğer kullanım alanı da paketin aktarım yolunun desteklediği maksimum paket boyutunu ölçmektir. Bu ölçme IP yazılımı tarafından kendiliğinden veya ping veya traceroute gibi bazı ağ tanılama araçlarıyla kullanıcı tarafından gerçekl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0031",
+      "section": "= 480 bits =",
+      "heading_path": "= 480 bits =",
+      "start_char": 17469,
+      "end_char": 18469,
+      "content": "n aktarım yolunun desteklediği maksimum paket boyutunu ölçmektir. Bu ölçme IP yazılımı tarafından kendiliğinden veya ping veya traceroute gibi bazı ağ tanılama araçlarıyla kullanıcı tarafından gerçekleştirilebilir. MF biti, kendisinden sonra gelecek başka parçaların olduğu paketlerde 1 olarak, son paketlerde ise 0 olarak işaretlidir. Parçalandırılmamış paketler de kendilerinin ilk ve son parçası olarak düşünülebileceğinden bu paketlerde MF biti 0'dır. Parçalandırılmış paketlerin de son parçaları hariç tüm parçalarında bu bit 1 olarak ayarlıdır. MF biti 0 olan bir paketin tek başına bir paket mi yoksa bir paketin parçası mı olduğu Parçanın Başlangıç Konumu alanından anlaşılır. Zira o alan tek parçadan oluşan paketlerde 0 olacaktır. Parçanın Bağıl Konumu (Fragment Offset) Orijinal paketin başlangıcına göre parçanın bağıl konumunu belirten bu alandaki 13 bit uzunluğunda olan sayının birimi sekiz bayttır (64 bit). Yani parçanın, orijinal paketin kaçıncı 64 bitlik kısmından itibaren olan kı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0032",
+      "section": "= 480 bits =",
+      "heading_path": "= 480 bits =",
+      "start_char": 18269,
+      "end_char": 18528,
+      "content": "şlangıcına göre parçanın bağıl konumunu belirten bu alandaki 13 bit uzunluğunda olan sayının birimi sekiz bayttır (64 bit). Yani parçanın, orijinal paketin kaçıncı 64 bitlik kısmından itibaren olan kısmını içerdiğini belirtir. Bu alanla en fazla (213 – 1) × 8",
+      "char_count": 259,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0033",
+      "section": "= 65.528 bayt uzunluğunda konum belirtilebilir ancak bu başlık da dahil edildiğinde maksimum IP paket boyutunu (65.535) aşmaktadır (65.528 + 20 =",
+      "heading_path": "= 65.528 bayt uzunluğunda konum belirtilebilir ancak bu başlık da dahil edildiğinde maksimum IP paket boyutunu (65.535) aşmaktadır (65.528 + 20 =",
+      "start_char": 18529,
+      "end_char": 19529,
+      "content": "= 65.528 bayt uzunluğunda konum belirtilebilir ancak bu başlık da dahil edildiğinde maksimum IP paket boyutunu (65.535) aşmaktadır (65.528 + 20 = 65.548 bayt). Yaşam süresi (Time To Live) (TTL) Sekiz bitten oluşan yaşam süresi paketlerin internet üzerinde döngülere takılarak sonsuza kadar kalmasını engeller. Teorik olarak bu alan paketin kalan ömrünü saniye türünden belirtir ve yol üzerinde paketin üzerinden geçtiği her düğüm yaşam süresi alanından paketin işlenmesi sırasında geçen süreyi düşer. 1 saniyeden kısa geçen süreler 1 saniyeye yuvarlanır. Günümüzde paketler yönlendiriciler üzerinden 1 saniyeden çok daha küçük sürelerde aktarıldığından uygulamada bu alan atlama sayısının ölçüsü olarak kullanılır. Yönlendiriciler paketi teslim aldığında TTL alanını bir azaltır. Sayı sıfır olduğunda paket düşer ve göndericiye ICMP Zaman Aşımı (ICMP Time Exceeded) iletisi gönderilir. Traceroute yazılımı da paketin kaynaktan hedefe giderken üzerinden geçtiği yönlendiricilerin listesini oluştururke",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0034",
+      "section": "= 65.528 bayt uzunluğunda konum belirtilebilir ancak bu başlık da dahil edildiğinde maksimum IP paket boyutunu (65.535) aşmaktadır (65.528 + 20 =",
+      "heading_path": "= 65.528 bayt uzunluğunda konum belirtilebilir ancak bu başlık da dahil edildiğinde maksimum IP paket boyutunu (65.535) aşmaktadır (65.528 + 20 =",
+      "start_char": 19329,
+      "end_char": 20329,
+      "content": " paket düşer ve göndericiye ICMP Zaman Aşımı (ICMP Time Exceeded) iletisi gönderilir. Traceroute yazılımı da paketin kaynaktan hedefe giderken üzerinden geçtiği yönlendiricilerin listesini oluştururken yönlendiricilerden gelen ICMP Zaman Aşımı iletilerini kullanır. Protokol Bu alan IP paketlerinin veri kısmında hangi protokolün kullanıldığını tanımlar. İnternet Tahsisli Sayılar ve İsimler Kurumuna bağlı çalışan İnternet Tahsisli Sayılar Otoritesi, RFC 790 ile belirenmiş IP protokol numaralarının bir listesini tutmakktadır. Başlık Sağlama Toplamı 16 bit uzunluğundaki sağlama toplamı alanı başlıkta hata denetimi yapmak amacıyla kullanılır. Yönlendiriciye bir paket vardığında, yönlendirici paket başlığının sağlama toplamını hesaplar ve başlıkta yazan sağlamayla karşılaştırır. Eğer değerler bağdaşmıyorsa yönlendirici paketi yok sayar. Veri kısmındaki hatalarla veriyi sarmalayan protokol ilgilenmelidir. Hem UDP'nin hem TCP'nin sağlama toplamı vardır. Yönlendiriciye bir paket vardığında yönl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0035",
+      "section": "= 65.528 bayt uzunluğunda konum belirtilebilir ancak bu başlık da dahil edildiğinde maksimum IP paket boyutunu (65.535) aşmaktadır (65.528 + 20 =",
+      "heading_path": "= 65.528 bayt uzunluğunda konum belirtilebilir ancak bu başlık da dahil edildiğinde maksimum IP paket boyutunu (65.535) aşmaktadır (65.528 + 20 =",
+      "start_char": 20129,
+      "end_char": 21030,
+      "content": "ğdaşmıyorsa yönlendirici paketi yok sayar. Veri kısmındaki hatalarla veriyi sarmalayan protokol ilgilenmelidir. Hem UDP'nin hem TCP'nin sağlama toplamı vardır. Yönlendiriciye bir paket vardığında yönlendirici paketin TTL alanını bir azaltır. Sonra da yeni sağlama toplamını hesaplar. RFC 1071 sağlama toplamının hesaplanmasını şöyle tarif etmektedir: Sağlama toplamı alanı, başlıktaki 16 bitlik tüm sözcüklerin bire tümleyen toplamının bire tümleyeninin alınmasıyla elde edilen 16 bitlik sayıdır. Sağlama toplamı hesaplanırken başlıktaki sağlama toplamı bölümü sıfır olarak alınır. Örneğin on altılık gösterimi şu şekilde olan başlık verisini ele alalım: 4500003044224000800600008c7c19acae241e2b. Bu veri toplamda 20 bayt uzunluğundaki bir IP paketi başlığıdır. Standart ikinin tümleyeni artimetiğini uygulayan bir makinede: 1. Adım) 4500 + 0030 + 4422 + 4000 + 8006 + 0000 + 8c7c + 19ac + ae24 + 1e2b",
+      "char_count": 901,
+      "token_estimate": 225
+    },
+    {
+      "id": "c0036",
+      "section": "= 0002BBCF (32-bit toplam) 2. Adım) 0002 + BBCF =",
+      "heading_path": "= 0002BBCF (32-bit toplam) 2. Adım) 0002 + BBCF =",
+      "start_char": 21031,
+      "end_char": 21086,
+      "content": "= 0002BBCF (32-bit toplam) 2. Adım) 0002 + BBCF = BBD1",
+      "char_count": 54,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0037",
+      "section": "= 1011101111010001 (16 bitlik bire tümleyen toplamı, bu toplam 32 bitlik ikiye tümleyen toplamını 16 biti aşan basamakların başa taşınıp toplama eklenmesiyle hesaplanır. Toplamın basamak sayısı 16 biti aştıkça bu işlem tekrarlanır) 3. Adım) ~BBD1 =",
+      "heading_path": "= 1011101111010001 (16 bitlik bire tümleyen toplamı, bu toplam 32 bitlik ikiye tümleyen toplamını 16 biti aşan basamakların başa taşınıp toplama eklenmesiyle hesaplanır. Toplamın basamak sayısı 16 biti aştıkça bu işlem tekrarlanır) 3. Adım) ~BBD1 =",
+      "start_char": 21086,
+      "end_char": 21352,
+      "content": "= 1011101111010001 (16 bitlik bire tümleyen toplamı, bu toplam 32 bitlik ikiye tümleyen toplamını 16 biti aşan basamakların başa taşınıp toplama eklenmesiyle hesaplanır. Toplamın basamak sayısı 16 biti aştıkça bu işlem tekrarlanır) 3. Adım) ~BBD1 = 0100010000101110",
+      "char_count": 265,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0038",
+      "section": "= 442E (16-bitlik bire tümleyeni toplamının bire tümleyeni) Başlığın sağlama toplamını doğrulamak için aynı algoritma kullanılabilir – doğru bir sağlama toplamı bulunduran bir başlığın sağlama toplamı hesaplandığında tamamen 0'dan oluşan bir sözcük elde edilir: 2BBCF + 442E =",
+      "heading_path": "= 442E (16-bitlik bire tümleyeni toplamının bire tümleyeni) Başlığın sağlama toplamını doğrulamak için aynı algoritma kullanılabilir – doğru bir sağlama toplamı bulunduran bir başlığın sağlama toplamı hesaplandığında tamamen 0'dan oluşan bir sözcük elde edilir: 2BBCF + 442E =",
+      "start_char": 21352,
+      "end_char": 21645,
+      "content": "= 442E (16-bitlik bire tümleyeni toplamının bire tümleyeni) Başlığın sağlama toplamını doğrulamak için aynı algoritma kullanılabilir – doğru bir sağlama toplamı bulunduran bir başlığın sağlama toplamı hesaplandığında tamamen 0'dan oluşan bir sözcük elde edilir: 2BBCF + 442E = 2FFFD. 2 + FFFD",
+      "char_count": 292,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0039",
+      "section": "= FFFF. FFFF'nin bire tümleyeni =",
+      "heading_path": "= FFFF. FFFF'nin bire tümleyeni =",
+      "start_char": 21645,
+      "end_char": 22645,
+      "content": "= FFFF. FFFF'nin bire tümleyeni = 0. Kaynak adresi Bu alan paketi gönderenin IPv4 adresidir. Ulaştırma esnasında bu adresin ağ adresi çözümleme aygıtı tarafından değiştirilebileceğine dikkat edin. Hedef adresi Bu alan paketin alıcısının IPv4 adresidir. Kaynak adresi gibi bu adres de bir ağ adresi çözümleme aygıtı tarafından ulaştırma esnasında değiştirilebilir. Seçenekler Seçenekler alanı çok sık kullanılmaz. IHL başlğında bulunan 32 bitlik sözcüklerin uzunluğunun tüm seçenekleri kapsayacak kadar büyük olması gerektiğine dikkat ediniz, toplam uzunluğun 32 bitin katı olmaması durumunda başlık gereken miktarda dolgu verisiyle doldurulmalıdır. Seçenekler listesi EOL (Seçenekler Listesi Bitimi, 0x00) seçeneği ile bitirilebilir ancak bu yalnızca seçeneklerin sonu başka türlü başlığın sonuyla denk gelmiyorsa gereklidir. Başlığa konulabilecek seçeneklerin listesi şöyledir: Not: Eğer başlık uzunluğu 5'ten büyükse, yani 6'dan 15'e kadarsa seçenekler alanı kullanılmış demektir dolayısıyla dikkat",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0040",
+      "section": "= FFFF. FFFF'nin bire tümleyeni =",
+      "heading_path": "= FFFF. FFFF'nin bire tümleyeni =",
+      "start_char": 22445,
+      "end_char": 23006,
+      "content": "nk gelmiyorsa gereklidir. Başlığa konulabilecek seçeneklerin listesi şöyledir: Not: Eğer başlık uzunluğu 5'ten büyükse, yani 6'dan 15'e kadarsa seçenekler alanı kullanılmış demektir dolayısıyla dikkate alınır. Not: Kopyalandı, Seçenek Sınıfı ve Seçenek Numarasından bazen \"Seçenek Türü\" adlı sekiz bitlik tek bir alan olarak söz edilir. Loose Source and Record Route (LSRR) ve Strict Source and Record Route (SSRR) seçeneklerinin kullanılması güvelik kaygıları nedeniyle önerilmemektedir. Bu seçenekleri barındıran paketleri birçok yönlendirici engellemektedir.",
+      "char_count": 561,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0041",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 23007,
+      "end_char": 23038,
+      "content": "== Ayrıca bakınız == IP adresi",
+      "char_count": 30,
+      "token_estimate": 7
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "A sınıfı IP adreslemesinde ağ adresi için kaç bit kullanılır?",
+        "answer": "A sınıfında, ilk 8 bit (bir oktet) ağ adresi olarak kullanılır.",
+        "related_chunk_ids": [
+          "c0005"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İnternet Protokolü'nün dördüncü versiyonu olan IPv4'ün, 32-bit adresleme kapasitesi ve tanımlanma tarihi göz önüne alındığında, önceki bir versiyonun yerini alarak protokolün gelişimindeki rolü nedir?",
+        "answer": "IPv4, 32-bitlik adreslerden oluşan ve (2^32) tekil adres sağlayan İnternet Protokolü'nün dördüncü versiyonudur. Eylül 1981'de RFC 791'de tanımlanarak, Ocak 1980'deki RFC 760'da tanımlanmış olan önceki versiyonun yerini almış ve böylece İnternet Protokolü'nün sürekli evriminde önemli bir adım olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

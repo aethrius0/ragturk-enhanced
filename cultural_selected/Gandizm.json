@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "gandizm_da65623a",
+    "title": "Gandizm",
+    "url": "https://tr.wikipedia.org/wiki/Gandizm",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:33.533507",
+    "content": "Gandizm, adını Mahatma Gandi'den alan, onun dünya görüşlerini tanımlamak için kullanılan ve olaylar karşısında pasifizm, pasif direniş ve sivil itaatsizlik yöntemlerinin kullanılması esasına dayanan politik akım. Büyük ölçüde Satyagraha felsefesini içerir. Mahatma Gandi, yeni bir fikir veya doktrin ortaya atmadığını belirtmiş ve fikirlerinin \"Gandizm\" olarak tarif edilmesini tasvip etmediğini açıklamıştır. Çünkü Gandi'ye göre ortaya attığı görüşler nihai değildir ve gelecekte bunlar değişebilir. == Satyagraha == Satyagraha, yalnızca doğruyla (satya) yetinmeye ve kötülüğe salt kendi gücüyle ve bir sevgi anlayışıyla direnmeye dayanan tutumu belirten sanskritçe bir kavramdır. Gandizmin temelini oluşturan bu tutum, şiddetsizcilik (ahimsa) kavramına sıkı sıkıya bağlıdır. Gandhi satyagraha kavramını geliştirirken, Lev Tolstoy ve Henry David Thoreau'nun yazılarından, Kitabı Mukaddes'ten ve Bhagavadgita ile öteki Hindu metinlerinden yararlanmıştır. Satyagraha aynı zamanda Hinduizmin ahimsa (şiddetsizcilik) kavramına da dayanmaktadır. == Eleştiriler == Gandizm, Marksist-Leninist politikacılar tarafından, kapsadığı uygulama nedeniyle eleştirilmiştir. 1928 Komünist Enternasyonal programında Gandizm şiddetle eleştirilmiş ve mücadele edilmesi gereken politik akımlar arasında yer almıştır. Kabul edilen programda Gandizm şu ifadelerle tanımlanır; \"Hindistan'daki Gandizm gibi baştan sona dini kavramlarla dolu olan, en geri ve iktisadi bakımdan gerici yaşam biçimlerini idealize eden ve kurtuluşu proleter sosyalizmde değil, bu geri biçimlere geri dönüşte gören, pasif sabır örgütleyip sınıf mücadelesini yadsıyan akımları, devrimin gelişme süreci içinde açıkça gerici güçlere dönüşüyorlar. Gandizm her geçen gün daha çok, halk kitlelerin devrimine karşı yönelen bir ideoloji haline geliyor. Komünizm bu ideolojiyle amansızca mücadele etmelidir\" == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 229,
+      "char_count": 1867,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.963420",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 501,
+      "content": "Gandizm, adını Mahatma Gandi'den alan, onun dünya görüşlerini tanımlamak için kullanılan ve olaylar karşısında pasifizm, pasif direniş ve sivil itaatsizlik yöntemlerinin kullanılması esasına dayanan politik akım. Büyük ölçüde Satyagraha felsefesini içerir. Mahatma Gandi, yeni bir fikir veya doktrin ortaya atmadığını belirtmiş ve fikirlerinin \"Gandizm\" olarak tarif edilmesini tasvip etmediğini açıklamıştır. Çünkü Gandi'ye göre ortaya attığı görüşler nihai değildir ve gelecekte bunlar değişebilir.",
+      "char_count": 500,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0001",
+      "section": "== Satyagraha ==",
+      "heading_path": "== Satyagraha ==",
+      "start_char": 501,
+      "end_char": 1042,
+      "content": "== Satyagraha == Satyagraha, yalnızca doğruyla (satya) yetinmeye ve kötülüğe salt kendi gücüyle ve bir sevgi anlayışıyla direnmeye dayanan tutumu belirten sanskritçe bir kavramdır. Gandizmin temelini oluşturan bu tutum, şiddetsizcilik (ahimsa) kavramına sıkı sıkıya bağlıdır. Gandhi satyagraha kavramını geliştirirken, Lev Tolstoy ve Henry David Thoreau'nun yazılarından, Kitabı Mukaddes'ten ve Bhagavadgita ile öteki Hindu metinlerinden yararlanmıştır. Satyagraha aynı zamanda Hinduizmin ahimsa (şiddetsizcilik) kavramına da dayanmaktadır.",
+      "char_count": 540,
+      "token_estimate": 135
+    },
+    {
+      "id": "c0002",
+      "section": "== Eleştiriler ==",
+      "heading_path": "== Eleştiriler ==",
+      "start_char": 1042,
+      "end_char": 1853,
+      "content": "== Eleştiriler == Gandizm, Marksist-Leninist politikacılar tarafından, kapsadığı uygulama nedeniyle eleştirilmiştir. 1928 Komünist Enternasyonal programında Gandizm şiddetle eleştirilmiş ve mücadele edilmesi gereken politik akımlar arasında yer almıştır. Kabul edilen programda Gandizm şu ifadelerle tanımlanır; \"Hindistan'daki Gandizm gibi baştan sona dini kavramlarla dolu olan, en geri ve iktisadi bakımdan gerici yaşam biçimlerini idealize eden ve kurtuluşu proleter sosyalizmde değil, bu geri biçimlere geri dönüşte gören, pasif sabır örgütleyip sınıf mücadelesini yadsıyan akımları, devrimin gelişme süreci içinde açıkça gerici güçlere dönüşüyorlar. Gandizm her geçen gün daha çok, halk kitlelerin devrimine karşı yönelen bir ideoloji haline geliyor. Komünizm bu ideolojiyle amansızca mücadele etmelidir\"",
+      "char_count": 810,
+      "token_estimate": 202
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Komünist Enternasyonal programı Gandizm'i hangi yıl şiddetle eleştirmiştir?",
+        "answer": "1928",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gandizm'in temelini oluşturan Satyagraha felsefesinin şiddetsizcilik ve pasif direniş gibi özellikleri, Marksist-Leninist politikacılar tarafından neden eleştirilmiştir?",
+        "answer": "Gandizm'in temelini oluşturan ve şiddetsizcilik ile pasif direnişe dayanan Satyagraha felsefesi, Marksist-Leninist politikacılar tarafından eleştirilmiştir. Bu eleştirilerde, Gandizm'in baştan sona dini kavramlarla dolu olması, en geri ve iktisadi bakımdan gerici yaşam biçimlerini idealize etmesi ve kurtuluşu proleter sosyalizmde değil, bu geri biçimlere geri dönüşte görmesi belirtilmiştir. Ayrıca, pasif sabır örgütleyip sınıf mücadelesini yadsıdığı için halk kitlelerinin devrimine karşı yönelen gerici bir güce dönüştüğü iddia edilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

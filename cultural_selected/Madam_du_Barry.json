@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "madamdubarry_e0bc7a12",
+    "title": "Madam du Barry",
+    "url": "https://tr.wikipedia.org/wiki/Madam_du_Barry",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:46.231549",
+    "content": "Jeanne Bécu, Contesse (Kontes) du Barry veya tam adı ile Madam Cecilia Louise du Barry (17 Ağustos 1743 - 8 Aralık 1793), Kral XV. Louis'in son metresi ve Fransız Devrimi sırasında gerçekleşen Terör Dönemi'nin kurbanlarından biridir. == Hayatı == Madam du Barry aslında sıradan bir Fransızdır. Ancak XV. Louis onu saraydan bir soyluyla evlendirip saraya aldırır. Daha sonra du Barry ile evlendirdiği kişiyi ülkenin uzak bir yere tayin edip, du Barry'i metresi yapmıştır. Madam du Barry sokaktan, basit bir kadın olduğundan çok görgüsüz ve kabaydı. Kendini kraliçe olarak görürdü. Sarayda kral hariç kimse onu sevmezdi. O da kendisine hakaret eden veya kötülük yapan herkesi krala söyler ve bu sayede onları saraydan attırırdı. İnanışlarına göre her kralın bir metresi olabilirdi. Ancak ölüm döşeğine geldiğinde İncil üzerine yemin etmesi ve metresini saraydan uzaklaştırması gerekirdi. Kralın ilk metresi bir İngilizdi, ikincisi ve üçüncüsü ise Fransızdı. Aralarından kralı en çok memnun eden Madam du Barry'dir. Kral ilk iki metresini, çiçek hastalığına yakalandığı için kaybetmiştir. Üçüncüsü de çiçek hastalığına yakalanarak, 10 Mayıs 1774 günü öğleden sonra kaybeder. Kral öldüğü an saraydaki kimse du Barry'yi sevmediği için, saraydan atılarak kocasının yanına yollarlar. XVI. Louis hiç çiçek hastalığına yakalanmamıştı, o ve bütün soylular hiç vakit kaybetmeden sarayı terk ettiler ve saraydan beş mil uzaklıktaki başka bir saraya taşındılar. === Popüler kültürde Madame du Barry === Londra'daki ünlü bal mumu müzesi Madame Tussauds'da sergilenmekte olan en eski figüre, Uyuyan Güzel'e ilham kaynağı oldu. Cellada söylediği son sözleri (\"Encore un moment! Bir dakika daha!) Dostoyevski'ni 1869 tarihli Budala isimli romanında kullanıldı. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 255,
+      "char_count": 1758,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.908124",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 234,
+      "content": "Jeanne Bécu, Contesse (Kontes) du Barry veya tam adı ile Madam Cecilia Louise du Barry (17 Ağustos 1743 - 8 Aralık 1793), Kral XV. Louis'in son metresi ve Fransız Devrimi sırasında gerçekleşen Terör Dönemi'nin kurbanlarından biridir.",
+      "char_count": 233,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 234,
+      "end_char": 1234,
+      "content": "== Hayatı == Madam du Barry aslında sıradan bir Fransızdır. Ancak XV. Louis onu saraydan bir soyluyla evlendirip saraya aldırır. Daha sonra du Barry ile evlendirdiği kişiyi ülkenin uzak bir yere tayin edip, du Barry'i metresi yapmıştır. Madam du Barry sokaktan, basit bir kadın olduğundan çok görgüsüz ve kabaydı. Kendini kraliçe olarak görürdü. Sarayda kral hariç kimse onu sevmezdi. O da kendisine hakaret eden veya kötülük yapan herkesi krala söyler ve bu sayede onları saraydan attırırdı. İnanışlarına göre her kralın bir metresi olabilirdi. Ancak ölüm döşeğine geldiğinde İncil üzerine yemin etmesi ve metresini saraydan uzaklaştırması gerekirdi. Kralın ilk metresi bir İngilizdi, ikincisi ve üçüncüsü ise Fransızdı. Aralarından kralı en çok memnun eden Madam du Barry'dir. Kral ilk iki metresini, çiçek hastalığına yakalandığı için kaybetmiştir. Üçüncüsü de çiçek hastalığına yakalanarak, 10 Mayıs 1774 günü öğleden sonra kaybeder. Kral öldüğü an saraydaki kimse du Barry'yi sevmediği için, sar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1034,
+      "end_char": 1448,
+      "content": "i, çiçek hastalığına yakalandığı için kaybetmiştir. Üçüncüsü de çiçek hastalığına yakalanarak, 10 Mayıs 1774 günü öğleden sonra kaybeder. Kral öldüğü an saraydaki kimse du Barry'yi sevmediği için, saraydan atılarak kocasının yanına yollarlar. XVI. Louis hiç çiçek hastalığına yakalanmamıştı, o ve bütün soylular hiç vakit kaybetmeden sarayı terk ettiler ve saraydan beş mil uzaklıktaki başka bir saraya taşındılar.",
+      "char_count": 414,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0003",
+      "section": "=== Popüler kültürde Madame du Barry ===",
+      "heading_path": "=== Popüler kültürde Madame du Barry ===",
+      "start_char": 1449,
+      "end_char": 1744,
+      "content": "=== Popüler kültürde Madame du Barry === Londra'daki ünlü bal mumu müzesi Madame Tussauds'da sergilenmekte olan en eski figüre, Uyuyan Güzel'e ilham kaynağı oldu. Cellada söylediği son sözleri (\"Encore un moment! Bir dakika daha!) Dostoyevski'ni 1869 tarihli Budala isimli romanında kullanıldı.",
+      "char_count": 294,
+      "token_estimate": 73
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kral, ilk iki metresini hangi hastalık yüzünden kaybetmiştir?",
+        "answer": "Çiçek hastalığı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kral XV. Louis'nin son metresi Madam du Barry'nin, soylu olmayan geçmişine ve saraydaki genel hoşnutsuzluğa rağmen bu mevkiye nasıl ulaştığını açıklayın.",
+        "answer": "Madam du Barry sıradan bir Fransız kadın olmasına rağmen, Kral XV. Louis onu bir soyluyla evlendirip saraya aldırmış, ardından kocası ülkenin uzak bir yerine tayin edildikten sonra onu metresi yapmıştır. Saraydaki kraliçevari tavırları ve görgüsüzlüğüne karşın kralı en çok memnun eden metresi olması ve kendisine hakaret edenleri krala söyletip attırma gücü sayesinde bu konumunu korumuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

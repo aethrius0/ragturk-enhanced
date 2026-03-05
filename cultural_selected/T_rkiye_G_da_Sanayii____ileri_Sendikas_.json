@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "trkiyegdasanayiiiler_f0459be2",
+    "title": "Türkiye Gıda Sanayii İşçileri Sendikası",
+    "url": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye_G%C4%B1da_Sanayii_%C4%B0%C5%9F%C3%A7ileri_Sendikas%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:21.103641",
+    "content": "Türkiye Gıda Sanayii İşçileri Sendikası (ya da kısaca GIDA-İŞ), 1947'de kurulmuş, şu anda Türkiye Devrimci İşçi Sendikaları Konfederasyonu'na (DİSK) bağlı olarak gıda sanayi iş kolunda faaliyet göstermek üzere örgütlenen sendikadır. Merkezi İstanbul'dadır. == Tarihçe == === Kuruluş ve günümüz === 1947'de kuruldu. 1967'de Kemal Nebioğlu'nun genel başkanlığı döneminde DİSK'i kuran sendikalardan biri olmuştur. Son genel kurulunu 12-13 Nisan 2014 tarihleri arasında gerçekleşmiştir. === Kurucular === Şaban Akdoğan Zühtü Tetey İbrahim Atlas Hüseyin Arslan İrsan Uyum Mehmet Perçin Cemal Barlas İbrahim Güler Sabri Kumkala Hasan Başaka Hüseyin Altay Galip Erkal === Uluslararası üyelik === IUF (Uluslararası Gıda İşçileri Federasyonu) üyesidir. === Üye sayısı === 2005-2014 yılları arasındaki üye sayısındaki değişim şöyledir: 2015 yılı itibarıyla üye sayısı 1.949'dur. == Yönetim == Merkez Yönetim Kurulu şu üyelerden oluşmaktadır: Olcay Özak (Genel Başkan) Seyit Aslan (Genel Sekreter) Kasım Tosun (Yönetim Kurulu üyesi) Selahattin Sertkaya (Yönetim Kurulu üyesi) Sinan Ceviz (Yönetim Kurulu üyesi) Denetim Kurulu şu üyelerden oluşmaktadır: Adem Ovat Dilek Aslan Murat Şimşek Disiplin Kurulu şu üyelerden oluşmaktadır: Erhan İçli (Başkan) Zehra Ovat Hızır Aksu Nuray Yula Mustafa Durukan == Organları == Sendikanın yönetim organları tüzüğüne göre şöyledir: Merkezi düzeyde: Genel Kurul Genel Yönetim Kurulu Genel Denetim Kurulu Genel Disiplin Kurulu Şube düzeyinde: Şube Genel Kurulu Şube Yönetim Kurulu Şube Denetim Kurulu Şube Disiplin Kurulu Danışma organları: Başkanlar Kurulu Baştemsilciler Kurulu Şube Temsilciler Kurulu Sendikanın 16 temsilciliği bulunmaktadır: İstanbul, Ankara, İzmir, Bursa, Antalya, Lüleburgaz, Gaziantep, Batman, Bandırma, Rize, Rize-Pazar == Dış bağlantılar == GIDA-İŞ Yayınları 10 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi. GIDA-İŞ fotoğraf albümü 10 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 263,
+      "char_count": 1971,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.818807",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 257,
+      "content": "Türkiye Gıda Sanayii İşçileri Sendikası (ya da kısaca GIDA-İŞ), 1947'de kurulmuş, şu anda Türkiye Devrimci İşçi Sendikaları Konfederasyonu'na (DİSK) bağlı olarak gıda sanayi iş kolunda faaliyet göstermek üzere örgütlenen sendikadır. Merkezi İstanbul'dadır.",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kuruluş ve günümüz ===",
+      "heading_path": "=== Kuruluş ve günümüz ===",
+      "start_char": 271,
+      "end_char": 483,
+      "content": "=== Kuruluş ve günümüz === 1947'de kuruldu. 1967'de Kemal Nebioğlu'nun genel başkanlığı döneminde DİSK'i kuran sendikalardan biri olmuştur. Son genel kurulunu 12-13 Nisan 2014 tarihleri arasında gerçekleşmiştir.",
+      "char_count": 211,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0002",
+      "section": "=== Kurucular ===",
+      "heading_path": "=== Kurucular ===",
+      "start_char": 483,
+      "end_char": 661,
+      "content": "=== Kurucular === Şaban Akdoğan Zühtü Tetey İbrahim Atlas Hüseyin Arslan İrsan Uyum Mehmet Perçin Cemal Barlas İbrahim Güler Sabri Kumkala Hasan Başaka Hüseyin Altay Galip Erkal",
+      "char_count": 177,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0003",
+      "section": "=== Uluslararası üyelik ===",
+      "heading_path": "=== Uluslararası üyelik ===",
+      "start_char": 661,
+      "end_char": 744,
+      "content": "=== Uluslararası üyelik === IUF (Uluslararası Gıda İşçileri Federasyonu) üyesidir.",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0004",
+      "section": "=== Üye sayısı ===",
+      "heading_path": "=== Üye sayısı ===",
+      "start_char": 744,
+      "end_char": 869,
+      "content": "=== Üye sayısı === 2005-2014 yılları arasındaki üye sayısındaki değişim şöyledir: 2015 yılı itibarıyla üye sayısı 1.949'dur.",
+      "char_count": 124,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0005",
+      "section": "== Yönetim ==",
+      "heading_path": "== Yönetim ==",
+      "start_char": 869,
+      "end_char": 1289,
+      "content": "== Yönetim == Merkez Yönetim Kurulu şu üyelerden oluşmaktadır: Olcay Özak (Genel Başkan) Seyit Aslan (Genel Sekreter) Kasım Tosun (Yönetim Kurulu üyesi) Selahattin Sertkaya (Yönetim Kurulu üyesi) Sinan Ceviz (Yönetim Kurulu üyesi) Denetim Kurulu şu üyelerden oluşmaktadır: Adem Ovat Dilek Aslan Murat Şimşek Disiplin Kurulu şu üyelerden oluşmaktadır: Erhan İçli (Başkan) Zehra Ovat Hızır Aksu Nuray Yula Mustafa Durukan",
+      "char_count": 419,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0006",
+      "section": "== Organları ==",
+      "heading_path": "== Organları ==",
+      "start_char": 1289,
+      "end_char": 1769,
+      "content": "== Organları == Sendikanın yönetim organları tüzüğüne göre şöyledir: Merkezi düzeyde: Genel Kurul Genel Yönetim Kurulu Genel Denetim Kurulu Genel Disiplin Kurulu Şube düzeyinde: Şube Genel Kurulu Şube Yönetim Kurulu Şube Denetim Kurulu Şube Disiplin Kurulu Danışma organları: Başkanlar Kurulu Baştemsilciler Kurulu Şube Temsilciler Kurulu Sendikanın 16 temsilciliği bulunmaktadır: İstanbul, Ankara, İzmir, Bursa, Antalya, Lüleburgaz, Gaziantep, Batman, Bandırma, Rize, Rize-Pazar",
+      "char_count": 479,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1769,
+      "end_char": 1957,
+      "content": "== Dış bağlantılar == GIDA-İŞ Yayınları 10 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi. GIDA-İŞ fotoğraf albümü 10 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 187,
+      "token_estimate": 46
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sendikanın toplam kaç temsilciliği bulunmaktadır?",
+        "answer": "Sendikanın 16 temsilciliği bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0006"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "GIDA-İŞ'in DİSK ile olan ilişkisinin tarihi gelişimi ve mevcut durumu nedir?",
+        "answer": "Türkiye Gıda Sanayii İşçileri Sendikası (GIDA-İŞ), 1947'de kurulmuştur. 1967'de Kemal Nebioğlu'nun genel başkanlığı döneminde DİSK'i kuran sendikalardan biri olmuş ve şu anda Türkiye Devrimci İşçi Sendikaları Konfederasyonu'na (DİSK) bağlı olarak gıda sanayi iş kolunda faaliyet göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "olukkonyaalt_ed5643ec",
+    "title": "Üçoluk, Konyaaltı",
+    "url": "https://tr.wikipedia.org/wiki/%C3%9C%C3%A7oluk%2C_Konyaalt%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:05.290624",
+    "content": "Üçoluk, Antalya ilinin Konyaaltı ilçesine bağlı bir mahalledir. == Tarihçe == Mahallenin adı merkezde bulunan üçoluklu çeşmeden almaktadır. Bu çeşmenin yanı sıra Ulupınar diye çok büyük bir su kaynağı vardır. Köy, daha önce Hisarçandır mahallesine bağlı bir mahalle iken 1991 yılında bağımsız köy haline gelmiştir. Daha önce Antalya Merkez İlçesi Çakırlar Bucağı'na bağlı iken 5747 Sayılı Büyükşehir Belediyesi Sınırları İçerisinde İlçe Kurulması Ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile 2008 yılında yeni kurulan Konyaaltı ilçesi Merkez Bucağına bağlanmıştır. Üçoluk Köyü; Havutönü, Soğanlık, Tülek, Ulupınar, Kırtepe ve Örencik mahallelerinden oluşmaktadır. 6 Aralık 2012 tarihli Resmi Gazete'de yayınlanan \"13 ilde Büyükşehir Belediyesi ve 26 ilçe Kurulması İle Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun\" ile Antalya il sınırıları büyükşehir kapsamına alınarak mevcut köyler ilçelere mahalle olarak katılmıştır. 2014 Mahalli İdareler Seçimlerinden sonra Konyaaltı Belediyesi'ne bağlı Üçoluk Mahalle Muhtarlığı tüzel kişiliği haline gelmiştir. == Coğrafya == Antalya merkezine 40 km uzaklıktadır. == Üçoluk Yaylası == Köy yerleşim olarak batı Torosların eteklerinde yer almaktadır. Serin olması nedeniyle yaz döneminde okulların kapanmasıyla birlikte Kemer, Göynük, Beldibi, Konyaltı ve Antalya merkezde oturan kişiler mahallede geçici olarak konaklama yapmaktadırlar. Okulların açıldığı eylül ayının ortalarına kadar mahallede kalmaktadırlar. Yaz dönemi boyunca mahallenin ekonomisi ve sosyal hayatı gözle görülür şekilde canlılık göstermektedir. == Ulaşım == Kemer'den çam ağaçları arasından geçen 37 km. stabilize yolla ulaşılmaktadır. Ayrıca Antalya-Kemer yolunun liman bölgesinde Altınyaka yolunu takip ederek yaklaşık 30 km sonra köye ulaşmak mümkündür. Yol Karayolları Genel Müdürlüğü sorumluluğunda olup asfalt yol olarak hizmete devam etmektedir. Köy tüzel kişiliği mahalle olarak büyükşehir kapsamına alındıktan sonra 2014 yılından itibaren düzenli olarak halk otobüsü seferleri başlamıştır. Otobüsler Gürsu Mahallesinde bulunan hareket noktasından kalkış yapmaktadır. == Özellikleri == Antalya'nın güneybatısında, yaklaşık 1.500 m yükseklikte bulunan yayla zengin flora ve faunaya sahiptir. Elektrik ve PTT gibi alt yapı hizmetleri olmayan yayladaki basit yayla evleri, sedir, çam, çınar ağaçları ile bütünleşmiş gibidir. Antalya ve Kemer halkının kullandığı yaylaya, seyahat acenteleri tarafından kamp ve trekking programları düzenlenmektedir. == Konaklama-yeme-içme == Çadır ve temel ihtiyaç malzemeleri getirilmelidir. == Nüfus == == Kaynakça == == Dış bağlantılar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 342,
+      "char_count": 2637,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.114248",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 64,
+      "content": "Üçoluk, Antalya ilinin Konyaaltı ilçesine bağlı bir mahalledir.",
+      "char_count": 63,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 64,
+      "end_char": 1064,
+      "content": "== Tarihçe == Mahallenin adı merkezde bulunan üçoluklu çeşmeden almaktadır. Bu çeşmenin yanı sıra Ulupınar diye çok büyük bir su kaynağı vardır. Köy, daha önce Hisarçandır mahallesine bağlı bir mahalle iken 1991 yılında bağımsız köy haline gelmiştir. Daha önce Antalya Merkez İlçesi Çakırlar Bucağı'na bağlı iken 5747 Sayılı Büyükşehir Belediyesi Sınırları İçerisinde İlçe Kurulması Ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile 2008 yılında yeni kurulan Konyaaltı ilçesi Merkez Bucağına bağlanmıştır. Üçoluk Köyü; Havutönü, Soğanlık, Tülek, Ulupınar, Kırtepe ve Örencik mahallelerinden oluşmaktadır. 6 Aralık 2012 tarihli Resmi Gazete'de yayınlanan \"13 ilde Büyükşehir Belediyesi ve 26 ilçe Kurulması İle Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun\" ile Antalya il sınırıları büyükşehir kapsamına alınarak mevcut köyler ilçelere mahalle olarak katılmıştır. 2014 Mahalli İdareler Seçimlerinden sonra Konyaaltı Belediyesi'ne bağlı Üçoluk Mahalle Muhtarlı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 864,
+      "end_char": 1099,
+      "content": "e Antalya il sınırıları büyükşehir kapsamına alınarak mevcut köyler ilçelere mahalle olarak katılmıştır. 2014 Mahalli İdareler Seçimlerinden sonra Konyaaltı Belediyesi'ne bağlı Üçoluk Mahalle Muhtarlığı tüzel kişiliği haline gelmiştir.",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0003",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 1100,
+      "end_char": 1153,
+      "content": "== Coğrafya == Antalya merkezine 40 km uzaklıktadır.",
+      "char_count": 52,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0004",
+      "section": "== Üçoluk Yaylası ==",
+      "heading_path": "== Üçoluk Yaylası ==",
+      "start_char": 1153,
+      "end_char": 1604,
+      "content": "== Üçoluk Yaylası == Köy yerleşim olarak batı Torosların eteklerinde yer almaktadır. Serin olması nedeniyle yaz döneminde okulların kapanmasıyla birlikte Kemer, Göynük, Beldibi, Konyaltı ve Antalya merkezde oturan kişiler mahallede geçici olarak konaklama yapmaktadırlar. Okulların açıldığı eylül ayının ortalarına kadar mahallede kalmaktadırlar. Yaz dönemi boyunca mahallenin ekonomisi ve sosyal hayatı gözle görülür şekilde canlılık göstermektedir.",
+      "char_count": 450,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0005",
+      "section": "== Ulaşım ==",
+      "heading_path": "== Ulaşım ==",
+      "start_char": 1604,
+      "end_char": 2135,
+      "content": "== Ulaşım == Kemer'den çam ağaçları arasından geçen 37 km. stabilize yolla ulaşılmaktadır. Ayrıca Antalya-Kemer yolunun liman bölgesinde Altınyaka yolunu takip ederek yaklaşık 30 km sonra köye ulaşmak mümkündür. Yol Karayolları Genel Müdürlüğü sorumluluğunda olup asfalt yol olarak hizmete devam etmektedir. Köy tüzel kişiliği mahalle olarak büyükşehir kapsamına alındıktan sonra 2014 yılından itibaren düzenli olarak halk otobüsü seferleri başlamıştır. Otobüsler Gürsu Mahallesinde bulunan hareket noktasından kalkış yapmaktadır.",
+      "char_count": 530,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0006",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 2135,
+      "end_char": 2512,
+      "content": "== Özellikleri == Antalya'nın güneybatısında, yaklaşık 1.500 m yükseklikte bulunan yayla zengin flora ve faunaya sahiptir. Elektrik ve PTT gibi alt yapı hizmetleri olmayan yayladaki basit yayla evleri, sedir, çam, çınar ağaçları ile bütünleşmiş gibidir. Antalya ve Kemer halkının kullandığı yaylaya, seyahat acenteleri tarafından kamp ve trekking programları düzenlenmektedir.",
+      "char_count": 376,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0007",
+      "section": "== Konaklama-yeme-içme ==",
+      "heading_path": "== Konaklama-yeme-içme ==",
+      "start_char": 2512,
+      "end_char": 2589,
+      "content": "== Konaklama-yeme-içme == Çadır ve temel ihtiyaç malzemeleri getirilmelidir.",
+      "char_count": 76,
+      "token_estimate": 19
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Üçoluk köyü ne zaman bağımsız bir köy haline gelmiştir?",
+        "answer": "1991 yılında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Üçoluk, bir köy iken Antalya ilinin Konyaaltı ilçesine bağlı bir mahalleye nasıl dönüşmüştür?",
+        "answer": "Üçoluk, 1991 yılında bağımsız bir köy haline gelmiştir. Daha sonra, 2008 yılında 5747 Sayılı Kanun ile yeni kurulan Konyaaltı ilçesinin Merkez Bucağına bağlanmıştır. 6 Aralık 2012 tarihli Resmi Gazete'de yayınlanan Kanun ile Antalya il sınırları büyükşehir kapsamına alınarak mevcut köyler ilçelere mahalle olarak katılmıştır. Bu değişikliklerin ardından, 2014 Mahalli İdareler Seçimlerinden sonra Üçoluk, Konyaaltı Belediyesi'ne bağlı bir mahalle muhtarlığı olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

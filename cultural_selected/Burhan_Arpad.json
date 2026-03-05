@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "burhanarpad_1d8b9bfc",
+    "title": "Burhan Arpad",
+    "url": "https://tr.wikipedia.org/wiki/Burhan_Arpad",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:35.573633",
+    "content": "Burhan Arpad (19 Mayıs 1910, Mudanya, Bursa - 3 Aralık 1994, İstanbul), Türk Basın Şeref Kartı sahibi gazeteci, yazar ve çevirmendir. Erich Maria Remarque, Stefan Zweig, Anna Seghers, Joseph Roth, Odon von Horvath, Thomas Mann, Ingeborg Bachmann, Fritz Habeck, Ignazio Silone, William Saroyan, Henry Wallace, Şalom Aljehem, Dimitir Dimov, Jaroslav Hašek, Frans Eemil Sillanpää ve Panait Istrati'den çeviriler yaptı. 1961 ve 1964 yıllarında Berlin Film Festivali'nde jüri üyeliği yaptı. \"Gezi Günlüğü\" kitabı ile 1963 yılı Türk Dil Kurumu ödülünü aldı. == Eserleri == Gezi Günlüğü, 1966 Alnımdaki Bıçak Yarası, 1968 Yeditepe Olayları, 1974 Hesaplaşma, 1976 Direklerarası Yok Edilen İstanbul, 1983 Bir İstanbul Var İdi..., 2000 Taşı Toprağı Altın, 2006 == Çevirileri == Batı Cephesinde Yeni Bir Şey Yok, Erich Maria Remarque Dönüş Yolu, Erich Maria Remarque İnsanları Seveceksin, Erich Maria Remarque Tedirgin Hayat, Erich Maria Remarque Lizbon'da Bir Gece, Erich Maria Remarque Hayat Kıvılcımı, Erich Maria Remarque Yıldızın Parladığı Anlar, Stefan Zweig Dünün Dünyası, Stefan Zweig Amok Koşucusu, Stefan Zweig Yürek Çöküntüsü, Stefan Zweig Satranç Hikayesi, Stefan Zweig Yalnızlık Kabusu, Stefan Zweig Bir Politikacının Portresi, Stefan Zweig Hikâyeler, Stefan Zweig Acımak, Stefan Zweig Amerika, Stefan Zweig Friderike'ye Mektuplar, Stefan Zweig Buddenbrock Ailesi, Thomas Mann Transit, Anna Seghers Ölüler Genç Kalır, Anna Seghers Tütün, Dimitr Dimov Proleter Devrimci Dimitrof, Kamen Kalçef Sonu gelmeyen yol, H.W. Katz Allahsız Gençlik, Ödön von Horvath İnsanlık Komedisi, William Saroyan Eyub, Joseph Roth Esrarlı Gece, Vicki Baum Parçalanmış Üçgen, Fritz Habeck Gece Yarısı Bir Gemi, Fritz Habeck Kanayan İspanya, Antoine de Saint Exupéry Ekmek Ve Şarap, İgnazio Silone Kiraz Çiçekleri, Yasunari Kawabata Milliyetçi Sosyalizm, Hans Behrend Alman Faşizminin Perde Arkası, Hans Behrend (1945) Köyün Çocuğu, E. Eschenbach Damdaki Kemancı'dan Öyküler, Scholem Alejchem == Ödülleri == Türk Dil Kurumu, 1966 Burhan Felek Basın Hizmet Ödülü, 1985 Federal Almanya Cumhuriyeti (Altın) Birinci Derece Liyakat Madalyası, 1985 Avusturya Cumhuriyeti Bilim ve Sanat İçin Birinci Derece Onur (Altın) Madalyası, 1987 == Dış bağlantılar == Oğlu Ahmet, Burhan Arpad için hazırladığı internet sayfası13 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 329,
+      "char_count": 2347,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.101659",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 552,
+      "content": "Burhan Arpad (19 Mayıs 1910, Mudanya, Bursa - 3 Aralık 1994, İstanbul), Türk Basın Şeref Kartı sahibi gazeteci, yazar ve çevirmendir. Erich Maria Remarque, Stefan Zweig, Anna Seghers, Joseph Roth, Odon von Horvath, Thomas Mann, Ingeborg Bachmann, Fritz Habeck, Ignazio Silone, William Saroyan, Henry Wallace, Şalom Aljehem, Dimitir Dimov, Jaroslav Hašek, Frans Eemil Sillanpää ve Panait Istrati'den çeviriler yaptı. 1961 ve 1964 yıllarında Berlin Film Festivali'nde jüri üyeliği yaptı. \"Gezi Günlüğü\" kitabı ile 1963 yılı Türk Dil Kurumu ödülünü aldı.",
+      "char_count": 551,
+      "token_estimate": 137
+    },
+    {
+      "id": "c0001",
+      "section": "== Eserleri ==",
+      "heading_path": "== Eserleri ==",
+      "start_char": 552,
+      "end_char": 751,
+      "content": "== Eserleri == Gezi Günlüğü, 1966 Alnımdaki Bıçak Yarası, 1968 Yeditepe Olayları, 1974 Hesaplaşma, 1976 Direklerarası Yok Edilen İstanbul, 1983 Bir İstanbul Var İdi..., 2000 Taşı Toprağı Altın, 2006",
+      "char_count": 198,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0002",
+      "section": "== Çevirileri ==",
+      "heading_path": "== Çevirileri ==",
+      "start_char": 751,
+      "end_char": 1751,
+      "content": "== Çevirileri == Batı Cephesinde Yeni Bir Şey Yok, Erich Maria Remarque Dönüş Yolu, Erich Maria Remarque İnsanları Seveceksin, Erich Maria Remarque Tedirgin Hayat, Erich Maria Remarque Lizbon'da Bir Gece, Erich Maria Remarque Hayat Kıvılcımı, Erich Maria Remarque Yıldızın Parladığı Anlar, Stefan Zweig Dünün Dünyası, Stefan Zweig Amok Koşucusu, Stefan Zweig Yürek Çöküntüsü, Stefan Zweig Satranç Hikayesi, Stefan Zweig Yalnızlık Kabusu, Stefan Zweig Bir Politikacının Portresi, Stefan Zweig Hikâyeler, Stefan Zweig Acımak, Stefan Zweig Amerika, Stefan Zweig Friderike'ye Mektuplar, Stefan Zweig Buddenbrock Ailesi, Thomas Mann Transit, Anna Seghers Ölüler Genç Kalır, Anna Seghers Tütün, Dimitr Dimov Proleter Devrimci Dimitrof, Kamen Kalçef Sonu gelmeyen yol, H.W. Katz Allahsız Gençlik, Ödön von Horvath İnsanlık Komedisi, William Saroyan Eyub, Joseph Roth Esrarlı Gece, Vicki Baum Parçalanmış Üçgen, Fritz Habeck Gece Yarısı Bir Gemi, Fritz Habeck Kanayan İspanya, Antoine de Saint Exupéry Ekmek ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Çevirileri ==",
+      "heading_path": "== Çevirileri ==",
+      "start_char": 1551,
+      "end_char": 1970,
+      "content": "orvath İnsanlık Komedisi, William Saroyan Eyub, Joseph Roth Esrarlı Gece, Vicki Baum Parçalanmış Üçgen, Fritz Habeck Gece Yarısı Bir Gemi, Fritz Habeck Kanayan İspanya, Antoine de Saint Exupéry Ekmek Ve Şarap, İgnazio Silone Kiraz Çiçekleri, Yasunari Kawabata Milliyetçi Sosyalizm, Hans Behrend Alman Faşizminin Perde Arkası, Hans Behrend (1945) Köyün Çocuğu, E. Eschenbach Damdaki Kemancı'dan Öyküler, Scholem Alejchem",
+      "char_count": 419,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0004",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1971,
+      "end_char": 2207,
+      "content": "== Ödülleri == Türk Dil Kurumu, 1966 Burhan Felek Basın Hizmet Ödülü, 1985 Federal Almanya Cumhuriyeti (Altın) Birinci Derece Liyakat Madalyası, 1985 Avusturya Cumhuriyeti Bilim ve Sanat İçin Birinci Derece Onur (Altın) Madalyası, 1987",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2207,
+      "end_char": 2347,
+      "content": "== Dış bağlantılar == Oğlu Ahmet, Burhan Arpad için hazırladığı internet sayfası13 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 140,
+      "token_estimate": 35
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Erich Maria Remarque'ın eserleri arasında hangi kitaplar bulunmaktadır?",
+        "answer": "Batı Cephesinde Yeni Bir Şey Yok, Dönüş Yolu, İnsanları Seveceksin, Tedirgin Hayat, Lizbon'da Bir Gece, Hayat Kıvılcımı.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Burhan Arpad'ın hem yazar hem de çevirmen olarak edebiyat dünyasına yaptığı katkılar nelerdir ve bu iki alandaki önemli başarılarından örnekler verilebilir mi?",
+        "answer": "Burhan Arpad, hem kendi özgün eserlerini yazarak hem de çeşitli yabancı yazarların eserlerini Türkçeye çevirerek edebiyat dünyasına önemli katkılarda bulunmuştur. Yazar olarak 'Gezi Günlüğü' adlı eseriyle 1963 yılı Türk Dil Kurumu ödülünü kazanmış ve 'Alnımdaki Bıçak Yarası' gibi başka eserler de kaleme almıştır. Çevirmen olarak ise Erich Maria Remarque'ın 'Batı Cephesinde Yeni Bir Şey Yok' ve Stefan Zweig'ın 'Dünün Dünyası' gibi birçok önemli eseri Türk okuyucusuna sunmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

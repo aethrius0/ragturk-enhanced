@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "ncesuderesi_bc8bf759",
+    "title": "İncesu Deresi",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0ncesu_Deresi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:38.391376",
+    "content": "İncesu Deresi, Ankara'nın Haymana ilçesinden doğan ve şehrin çeşitli bölgelerinden geçerek Ankara Çayı'na katılan bir akarsudur. Tarih boyunca Ankara'nın doğal su kaynaklarından biri olarak önemli bir rol oynamıştır. İncesu Deresi, aynı zamanda Çölova Deresi, Mogan Deresi, Sazlık Deresi ve İmrahor Deresi isimleriyle de anılmaktadır. == Güzergâhı == İncesu Deresi, Haymana’dan doğarak Mogan Gölü ve Eymir Gölü’nü besler. Daha sonra, Ankara şehir merkezine doğru ilerlerken sırasıyla şu yerleşim yerlerinden geçer: Mühye Aşağı İmrahor Yukarı İmrahor Türközü Zafertepe Mimar Sinan Seyranbağları Ahmetler Kolej Sıhhiye Ulus Zübeyde Hanım Bu yerleşim yerlerinden geçtikten sonra İncesu Deresi, Ankara'nın Akköprü semtinde Çubuk Çayı ile birleşerek Ankara Çayı'nı oluşturur. İncesu Deresi’nin bu güzergâhı, Ankara'nın çeşitli semtlerini birleştiren önemli bir su yolu olmuştur. == Tarihi == Cumhuriyetin ilanından sonra Ankara'nın başkent olarak hızlı bir şekilde gelişmesi, İncesu Deresi'nin doğal yapısını derinden etkilemiştir. 1930'lu yıllarda Ankara'nın imarı sırasında dere, yer yer kapatılmaya başlanmıştır. Bu süreçte, Ankara'nın diğer dereleri gibi İncesu Deresi de şehirleşmenin bir parçası olarak yeniden şekillendirilmiştir. 1950'li yıllara gelindiğinde, dere büyük ölçüde yol altına alınmış ve kanalizasyon amacıyla kullanılmaya başlanmıştır. == Günümüzdeki durumu == 1960'lı yıllardan itibaren İncesu Deresi, kanalizasyon aktarımında kullanılmaya başlanmıştır. Günümüzde ise dere büyük oranda yer altına alınmış durumdadır. Bu dönüşüm, İncesu Deresi'ni bir zamanlar Ankara'nın doğal yapısının önemli bir unsuru olan bir akarsudan, neredeyse tamamen görünmez hale gelmiş bir kanalizasyon hattına dönüştürmüştür. == Çevresel ve toplumsal etkiler == İncesu Deresi'nin kapatılması ve kanalizasyon hattına dönüştürülmesi, Ankara'nın doğal çevresi ve toplum sağlığı üzerinde çeşitli etkiler yaratmıştır. Bir zamanlar şehrin içerisinden geçen ve toplumsal hayatın bir parçası olan dere, bu müdahaleler sonucunda eski işlevini kaybetmiştir. Ancak, İncesu Deresi'nin eski haline dönüştürülmesi ve yeniden gün yüzüne çıkarılması için çeşitli çalışmalar ve projeler de gündeme gelmiştir. == Sonuç == İncesu Deresi, Ankara'nın tarihsel ve doğal yapısının önemli bir parçasıdır. Ancak, şehirleşmenin getirdiği baskılar nedeniyle, dere büyük ölçüde kapatılmış ve doğal yapısını kaybetmiştir. Günümüzde İncesu Deresi’nin eski haline dönüştürülmesi için yapılan çalışmalar, bu akarsuyun Ankara'nın doğal kimliğine yeniden kazandırılması açısından önem taşımaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 327,
+      "char_count": 2574,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.384360",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 335,
+      "content": "İncesu Deresi, Ankara'nın Haymana ilçesinden doğan ve şehrin çeşitli bölgelerinden geçerek Ankara Çayı'na katılan bir akarsudur. Tarih boyunca Ankara'nın doğal su kaynaklarından biri olarak önemli bir rol oynamıştır. İncesu Deresi, aynı zamanda Çölova Deresi, Mogan Deresi, Sazlık Deresi ve İmrahor Deresi isimleriyle de anılmaktadır.",
+      "char_count": 334,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0001",
+      "section": "== Güzergâhı ==",
+      "heading_path": "== Güzergâhı ==",
+      "start_char": 335,
+      "end_char": 874,
+      "content": "== Güzergâhı == İncesu Deresi, Haymana’dan doğarak Mogan Gölü ve Eymir Gölü’nü besler. Daha sonra, Ankara şehir merkezine doğru ilerlerken sırasıyla şu yerleşim yerlerinden geçer: Mühye Aşağı İmrahor Yukarı İmrahor Türközü Zafertepe Mimar Sinan Seyranbağları Ahmetler Kolej Sıhhiye Ulus Zübeyde Hanım Bu yerleşim yerlerinden geçtikten sonra İncesu Deresi, Ankara'nın Akköprü semtinde Çubuk Çayı ile birleşerek Ankara Çayı'nı oluşturur. İncesu Deresi’nin bu güzergâhı, Ankara'nın çeşitli semtlerini birleştiren önemli bir su yolu olmuştur.",
+      "char_count": 538,
+      "token_estimate": 134
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 874,
+      "end_char": 1352,
+      "content": "== Tarihi == Cumhuriyetin ilanından sonra Ankara'nın başkent olarak hızlı bir şekilde gelişmesi, İncesu Deresi'nin doğal yapısını derinden etkilemiştir. 1930'lu yıllarda Ankara'nın imarı sırasında dere, yer yer kapatılmaya başlanmıştır. Bu süreçte, Ankara'nın diğer dereleri gibi İncesu Deresi de şehirleşmenin bir parçası olarak yeniden şekillendirilmiştir. 1950'li yıllara gelindiğinde, dere büyük ölçüde yol altına alınmış ve kanalizasyon amacıyla kullanılmaya başlanmıştır.",
+      "char_count": 477,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0003",
+      "section": "== Günümüzdeki durumu ==",
+      "heading_path": "== Günümüzdeki durumu ==",
+      "start_char": 1352,
+      "end_char": 1721,
+      "content": "== Günümüzdeki durumu == 1960'lı yıllardan itibaren İncesu Deresi, kanalizasyon aktarımında kullanılmaya başlanmıştır. Günümüzde ise dere büyük oranda yer altına alınmış durumdadır. Bu dönüşüm, İncesu Deresi'ni bir zamanlar Ankara'nın doğal yapısının önemli bir unsuru olan bir akarsudan, neredeyse tamamen görünmez hale gelmiş bir kanalizasyon hattına dönüştürmüştür.",
+      "char_count": 368,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0004",
+      "section": "== Çevresel ve toplumsal etkiler ==",
+      "heading_path": "== Çevresel ve toplumsal etkiler ==",
+      "start_char": 1721,
+      "end_char": 2187,
+      "content": "== Çevresel ve toplumsal etkiler == İncesu Deresi'nin kapatılması ve kanalizasyon hattına dönüştürülmesi, Ankara'nın doğal çevresi ve toplum sağlığı üzerinde çeşitli etkiler yaratmıştır. Bir zamanlar şehrin içerisinden geçen ve toplumsal hayatın bir parçası olan dere, bu müdahaleler sonucunda eski işlevini kaybetmiştir. Ancak, İncesu Deresi'nin eski haline dönüştürülmesi ve yeniden gün yüzüne çıkarılması için çeşitli çalışmalar ve projeler de gündeme gelmiştir.",
+      "char_count": 465,
+      "token_estimate": 116
+    },
+    {
+      "id": "c0005",
+      "section": "== Sonuç ==",
+      "heading_path": "== Sonuç ==",
+      "start_char": 2187,
+      "end_char": 2560,
+      "content": "== Sonuç == İncesu Deresi, Ankara'nın tarihsel ve doğal yapısının önemli bir parçasıdır. Ancak, şehirleşmenin getirdiği baskılar nedeniyle, dere büyük ölçüde kapatılmış ve doğal yapısını kaybetmiştir. Günümüzde İncesu Deresi’nin eski haline dönüştürülmesi için yapılan çalışmalar, bu akarsuyun Ankara'nın doğal kimliğine yeniden kazandırılması açısından önem taşımaktadır.",
+      "char_count": 372,
+      "token_estimate": 93
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İncesu Deresi, Ankara'nın Akköprü semtinde Çubuk Çayı ile birleşerek neyi oluşturur?",
+        "answer": "Ankara Çayı'nı oluşturur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İncesu Deresi'nin güzergahı, Ankara için tarih boyunca taşıdığı önemi nasıl ortaya koymaktadır?",
+        "answer": "İncesu Deresi, Ankara'nın Haymana ilçesinden doğarak Mogan Gölü ve Eymir Gölü'nü besler. Şehrin tarihi boyunca doğal su kaynaklarından biri olarak önemli bir rol oynamış olup, Mühye, Türközü, Sıhhiye ve Ulus gibi Ankara şehir merkezindeki birçok yerleşim yerinden geçerek çeşitli semtlerini birleştiren önemli bir su yolu haline gelmiş ve sonunda Akköprü semtinde Çubuk Çayı ile birleşerek Ankara Çayı'nı oluşturmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

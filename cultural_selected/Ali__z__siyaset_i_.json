@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "alizsiyaseti_1ab26b34",
+    "title": "Ali Öz (siyasetçi)",
+    "url": "https://tr.wikipedia.org/wiki/Ali_%C3%96z_%28siyaset%C3%A7i%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:38.853601",
+    "content": "Ali Öz (d. 9 Aralık 1968, Tübingen, Almanya), Türk siyasetçidir. Milliyetçi Hareket Partisi Mersin 24. dönem ve 25. dönem milletvekilidir. == İlk yılları ve kariyeri == Dokuz Aralık 1968 tarihinde anne baba işçi bir ailenin çocuğu olarak Almanya Tübingen'de doğdu. Evli ve iki kız çocuk sahibidir. Anne ve babası Mersin Çukurova Tekstil Fabrikasında çalışırken o zamanki Almanya'nın göç politikası sebebiyle Almanya'ya göç etmişler. Çalışma şartları sebebiyle ailem dokuz aylık olduktan sonra Gülnar'daki dedesi ve anneannesinin yanında büyüdü. Almanya'da doğmasına rağmen Alman vatandaşı değildir. İlkokul ve ortaokulu Gülnar'da bitirdi. Liseyi Mersin Merkez'de yer alan Atatürk Lisesinde bitirdi. Daha sonra tıp fakültesini kazandı Çukurova Üniversitesinden mezun oldu. Mezun olduktan sonra Gülnar ilçesinde hekimlik ve başhekimlik yapmasının yanında Gülnar İmam Hatip Lisesin'de matematik derslerine de girerek öğretmenlik de yaptı. TUS(Tıpra Uzmanlık Sınavı) sınavına üç kez girdi. İlk olarak anestezi ve reanimasyon dalını seçti. Bu dal hasta hekim ilişkisi zayıf olması sebebiyle ilerideki hedefleriyle örtüşmediğinden tekrar bölüm değiştirdi ve nöroloji dalını kazandı. Bu dalda da kendisine öğretim üyeliği teklif edilse de yine istifa ederek tekrar TUS'a girdi ve dahiliye uzmanı oldu. == Siyasi kariyeri == 2011 Türkiye genel seçimleri ve Haziran 2015 Türkiye genel seçimleri Milliyetçi Hareket Partisi'nden Mersin milletvekili seçilmiştir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 200,
+      "char_count": 1465,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.287485",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 139,
+      "content": "Ali Öz (d. 9 Aralık 1968, Tübingen, Almanya), Türk siyasetçidir. Milliyetçi Hareket Partisi Mersin 24. dönem ve 25. dönem milletvekilidir.",
+      "char_count": 138,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk yılları ve kariyeri ==",
+      "heading_path": "== İlk yılları ve kariyeri ==",
+      "start_char": 139,
+      "end_char": 1139,
+      "content": "== İlk yılları ve kariyeri == Dokuz Aralık 1968 tarihinde anne baba işçi bir ailenin çocuğu olarak Almanya Tübingen'de doğdu. Evli ve iki kız çocuk sahibidir. Anne ve babası Mersin Çukurova Tekstil Fabrikasında çalışırken o zamanki Almanya'nın göç politikası sebebiyle Almanya'ya göç etmişler. Çalışma şartları sebebiyle ailem dokuz aylık olduktan sonra Gülnar'daki dedesi ve anneannesinin yanında büyüdü. Almanya'da doğmasına rağmen Alman vatandaşı değildir. İlkokul ve ortaokulu Gülnar'da bitirdi. Liseyi Mersin Merkez'de yer alan Atatürk Lisesinde bitirdi. Daha sonra tıp fakültesini kazandı Çukurova Üniversitesinden mezun oldu. Mezun olduktan sonra Gülnar ilçesinde hekimlik ve başhekimlik yapmasının yanında Gülnar İmam Hatip Lisesin'de matematik derslerine de girerek öğretmenlik de yaptı. TUS(Tıpra Uzmanlık Sınavı) sınavına üç kez girdi. İlk olarak anestezi ve reanimasyon dalını seçti. Bu dal hasta hekim ilişkisi zayıf olması sebebiyle ilerideki hedefleriyle örtüşmediğinden tekrar bölüm d",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== İlk yılları ve kariyeri ==",
+      "heading_path": "== İlk yılları ve kariyeri ==",
+      "start_char": 939,
+      "end_char": 1294,
+      "content": "(Tıpra Uzmanlık Sınavı) sınavına üç kez girdi. İlk olarak anestezi ve reanimasyon dalını seçti. Bu dal hasta hekim ilişkisi zayıf olması sebebiyle ilerideki hedefleriyle örtüşmediğinden tekrar bölüm değiştirdi ve nöroloji dalını kazandı. Bu dalda da kendisine öğretim üyeliği teklif edilse de yine istifa ederek tekrar TUS'a girdi ve dahiliye uzmanı oldu.",
+      "char_count": 355,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0003",
+      "section": "== Siyasi kariyeri ==",
+      "heading_path": "== Siyasi kariyeri ==",
+      "start_char": 1295,
+      "end_char": 1451,
+      "content": "== Siyasi kariyeri == 2011 Türkiye genel seçimleri ve Haziran 2015 Türkiye genel seçimleri Milliyetçi Hareket Partisi'nden Mersin milletvekili seçilmiştir.",
+      "char_count": 155,
+      "token_estimate": 38
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bu kişi hangi tarihte ve nerede doğmuştur?",
+        "answer": "Dokuz Aralık 1968 tarihinde Almanya Tübingen'de doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ali Öz'ün Almanya'da doğmasına rağmen Mersin'i temsil eden bir Türk siyasetçi olmasının ardındaki aile geçmişi ve yetiştirilme şekli nasıldır?",
+        "answer": "Ali Öz, anne ve babasının işçi olarak Almanya'ya göç etmesi sebebiyle Almanya Tübingen'de doğmuştur. Ancak, çalışma şartları nedeniyle dokuz aylıkken Türkiye'ye dönerek Gülnar'da dedesi ve anneannesinin yanında büyümüş, ilk ve ortaöğrenimini Gülnar'da tamamlamış, lise ve üniversite eğitimini de Mersin'de almıştır. Alman vatandaşı olmayan Ali Öz, bu sayede Türk kimliğini korumuş ve Mersin'den milletvekili olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

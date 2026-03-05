@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "hugovonpohl_6551ec68",
+    "title": "Hugo von Pohl",
+    "url": "https://tr.wikipedia.org/wiki/Hugo_von_Pohl",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:23.444027",
+    "content": "Hugo von Pohl (Almanca: Hugo von Pohl), 1915 yılından 1916'a dek Alman Filosuna kumandanlık etmiş amiral, I. Dünya Savaşı kumandanlarındandır. == Hayatı == 1855'te Breslau'da doğdu. 6 Aralık 1876 tarihinde Deniz Kuvvetleri'nde teğmen olarak göreve başladı. 1887 Kasım ayından itibaren \"Karola\" gemisinin kaptanlığına gelmiştir. Daha sonra Kaiserliche Marine harbi bölmesine girdi, sonra ise \"Württemberg\" zırhlısının 1. subayı oldu. 1894 temmuzundan Kaiserliche Marine merkezi bölümünün başkanı oldu. 1898 Kasımında önce \"Aerig\" zırhlısına, sonra \"Hansa\" kruvazörüne kumanda etti. 1900 yılında Çin'deki kruvazör filosunun çıkartma bölüğüne komutanlık etti. Pekin'in kuşatılmasında ve ele geçirilmesinde bulundu. 1905 yılında filonun 2. amirali, 1906 yılında Deniz Kuvvetleri'nin istihbarat gemilerinin komutanı oldu. 1908 yılında Kiel garnizonunu kurdu. 1909-1912 yılları arasında Açık Deniz Filonsu'nun 1. bölüğüne komutanlık yaptı. Nisan 1913'te Filo Genelkurmayı'nda çalıştı. I. Dünya Savaşı zamanı imzaladığı yönetmelikte, Baltık Fiosu'na Rus Filosu'nun taarruz planlarına mani olmayı ve Kiel Limanı'nı korumayı emretmişti. Aynı yönetmelikte Rus sahillerini mayınlamak gibi emirler de vardı. Ağustos 1914'te II. Kayzer Wilhelm'in emirlerini uymayarak amiral Alfred von Tirpitz ile birlikte Kayzer'e bilgi vermeden amiral Souchon'a İstanbul'a hareket etme emri verdi. Dogger Bank Muharebesi'nde yenilgiden sonra Amiral Ingenol'un yerine Açık Deniz Filosu kumandanı oldu. Onun komutasındaki Alman Filosu açık savaşları reddetti ve denizaltılarla savaş yoluna girdi. Deniz Kuvvetleri'nin gerçek gücü denizaltı savaşlarına çevrilmişti. 18 Şubat 1915'ten sonra Büyük Britanya ve İrlanda'yı çevreleyen sahiller savaş bölgesi ilan edilmişti, bu bölgelerdeki tüm ticari gemiler yok ediliyordu ve tarafsız ülkelerin gemilerine savaş bölgesine girecekleri zaman dokunulmazlık verilmiyor ve onlara sahillere yaklaşmamak tavsiye ediliyordu. 19 Şubatta ilk denizaltılar savaş ameliyatlarına başladı. 7 Mayısta \"U-20\" denizaltısı RMS Lusitania'yı batırdı ve bu gemide 115 amerikalı öldü. Bu ABD ile Almanya arasındaki ilişkileri zora soktu. 5 Haziranda sivil gemileri batırmak yasaklandı. 18 Eylülde İngilterenin blokadası sona erdi. 1915 yılında Almanya denizaltıları su tutumu 1.6 milyon ton olan ticari gemileri batırdı ve aynız zamanda 20 denizaltı kaybetti (1915 yılında 62 denizaltı üretilmişti). Ama tüm bunlara rağmen denizaltı savaşı iflas etti, Almanya Birleşik Krallık'a giden ticari yolları kontrol edemedi. 23 Ocak 1916-da Hugo von Pohl kumandanlıktan azledildi ve yerine Amiral Reinhard Scheer getirildi. Aynı yıl doğduğu Breslauda öldü. I. Dünya Savaşı'ndan bahseden anıları 1920 yılında neşredildi. == Bibliyografi == Spencer C. Tucker (red.): Naval Warfare. An International Encyclopedia. Santa Barbara, CA: ABC-CLIO, 2002. ISBN 1-57607-740-3 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 373,
+      "char_count": 2864,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.422796",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 143,
+      "content": "Hugo von Pohl (Almanca: Hugo von Pohl), 1915 yılından 1916'a dek Alman Filosuna kumandanlık etmiş amiral, I. Dünya Savaşı kumandanlarındandır.",
+      "char_count": 142,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 143,
+      "end_char": 1143,
+      "content": "== Hayatı == 1855'te Breslau'da doğdu. 6 Aralık 1876 tarihinde Deniz Kuvvetleri'nde teğmen olarak göreve başladı. 1887 Kasım ayından itibaren \"Karola\" gemisinin kaptanlığına gelmiştir. Daha sonra Kaiserliche Marine harbi bölmesine girdi, sonra ise \"Württemberg\" zırhlısının 1. subayı oldu. 1894 temmuzundan Kaiserliche Marine merkezi bölümünün başkanı oldu. 1898 Kasımında önce \"Aerig\" zırhlısına, sonra \"Hansa\" kruvazörüne kumanda etti. 1900 yılında Çin'deki kruvazör filosunun çıkartma bölüğüne komutanlık etti. Pekin'in kuşatılmasında ve ele geçirilmesinde bulundu. 1905 yılında filonun 2. amirali, 1906 yılında Deniz Kuvvetleri'nin istihbarat gemilerinin komutanı oldu. 1908 yılında Kiel garnizonunu kurdu. 1909-1912 yılları arasında Açık Deniz Filonsu'nun 1. bölüğüne komutanlık yaptı. Nisan 1913'te Filo Genelkurmayı'nda çalıştı. I. Dünya Savaşı zamanı imzaladığı yönetmelikte, Baltık Fiosu'na Rus Filosu'nun taarruz planlarına mani olmayı ve Kiel Limanı'nı korumayı emretmişti. Aynı yönetmelik",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 943,
+      "end_char": 1943,
+      "content": "3'te Filo Genelkurmayı'nda çalıştı. I. Dünya Savaşı zamanı imzaladığı yönetmelikte, Baltık Fiosu'na Rus Filosu'nun taarruz planlarına mani olmayı ve Kiel Limanı'nı korumayı emretmişti. Aynı yönetmelikte Rus sahillerini mayınlamak gibi emirler de vardı. Ağustos 1914'te II. Kayzer Wilhelm'in emirlerini uymayarak amiral Alfred von Tirpitz ile birlikte Kayzer'e bilgi vermeden amiral Souchon'a İstanbul'a hareket etme emri verdi. Dogger Bank Muharebesi'nde yenilgiden sonra Amiral Ingenol'un yerine Açık Deniz Filosu kumandanı oldu. Onun komutasındaki Alman Filosu açık savaşları reddetti ve denizaltılarla savaş yoluna girdi. Deniz Kuvvetleri'nin gerçek gücü denizaltı savaşlarına çevrilmişti. 18 Şubat 1915'ten sonra Büyük Britanya ve İrlanda'yı çevreleyen sahiller savaş bölgesi ilan edilmişti, bu bölgelerdeki tüm ticari gemiler yok ediliyordu ve tarafsız ülkelerin gemilerine savaş bölgesine girecekleri zaman dokunulmazlık verilmiyor ve onlara sahillere yaklaşmamak tavsiye ediliyordu. 19 Şubatta",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1743,
+      "end_char": 2704,
+      "content": "ölgelerdeki tüm ticari gemiler yok ediliyordu ve tarafsız ülkelerin gemilerine savaş bölgesine girecekleri zaman dokunulmazlık verilmiyor ve onlara sahillere yaklaşmamak tavsiye ediliyordu. 19 Şubatta ilk denizaltılar savaş ameliyatlarına başladı. 7 Mayısta \"U-20\" denizaltısı RMS Lusitania'yı batırdı ve bu gemide 115 amerikalı öldü. Bu ABD ile Almanya arasındaki ilişkileri zora soktu. 5 Haziranda sivil gemileri batırmak yasaklandı. 18 Eylülde İngilterenin blokadası sona erdi. 1915 yılında Almanya denizaltıları su tutumu 1.6 milyon ton olan ticari gemileri batırdı ve aynız zamanda 20 denizaltı kaybetti (1915 yılında 62 denizaltı üretilmişti). Ama tüm bunlara rağmen denizaltı savaşı iflas etti, Almanya Birleşik Krallık'a giden ticari yolları kontrol edemedi. 23 Ocak 1916-da Hugo von Pohl kumandanlıktan azledildi ve yerine Amiral Reinhard Scheer getirildi. Aynı yıl doğduğu Breslauda öldü. I. Dünya Savaşı'ndan bahseden anıları 1920 yılında neşredildi.",
+      "char_count": 961,
+      "token_estimate": 240
+    },
+    {
+      "id": "c0004",
+      "section": "== Bibliyografi ==",
+      "heading_path": "== Bibliyografi ==",
+      "start_char": 2705,
+      "end_char": 2850,
+      "content": "== Bibliyografi == Spencer C. Tucker (red.): Naval Warfare. An International Encyclopedia. Santa Barbara, CA: ABC-CLIO, 2002. ISBN 1-57607-740-3",
+      "char_count": 144,
+      "token_estimate": 36
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1887 Kasım ayından itibaren hangi geminin kaptanlığına gelmiştir?",
+        "answer": "\"Karola\" gemisinin.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Alman Filosu kumandanı Hugo von Pohl'un I. Dünya Savaşı'ndaki stratejik kararları ve askeri faaliyetleri nelerdi, özellikle de Baltık Filosu için çıkardığı yönetmelik ve daha sonra Açık Deniz Filosu kumandanı olarak benimsediği yaklaşım göz önüne alındığında?",
+        "answer": "Hugo von Pohl, 1915-1916 yılları arasında Alman Filosu'na kumandanlık yapmıştır. I. Dünya Savaşı zamanı imzaladığı yönetmelikte, Baltık Filosu'na Rus Filosu'nun taarruz planlarına mani olmayı, Kiel Limanı'nı korumayı ve Rus sahillerini mayınlamayı emretti. Ayrıca, Ağustos 1914'te Amiral Alfred von Tirpitz ile birlikte II. Kayzer Wilhelm'in emirlerine uymayarak Kayzer'e bilgi vermeden amiral Souchon'a İstanbul'a hareket etme emri verdi. Dogger Bank Muharebesi'ndeki yenilgiden sonra Amiral Ingenol'un yerine Açık Deniz Filosu kumandanı oldu. Onun komutasındaki Alman Filosu açık savaşları reddetti ve denizaltılarla savaş yoluna girdi. 18 Şubat 1915'ten sonra Büyük Britanya ve İrlanda'yı çevreleyen sahilleri savaş bölgesi ilan ederek bu bölgelerdeki tüm ticari gemilerin yok edilmesini emretti ve tarafsız ülkelerin gemilerine savaş bölgesine girecekleri zaman dokunulmazlık verilmeyeceğini ve onlara sahillere yaklaşmamalarının tavsiye edildiğini bildirdi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

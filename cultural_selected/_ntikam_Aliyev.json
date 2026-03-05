@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "ntikamaliyev_e74b7807",
+    "title": "İntikam Aliyev",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0ntikam_Aliyev",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:52.452832",
+    "content": "İntikam Aliyev (d. 30 Kasım 1962), Azeri avukat ve insan hakları savunucusu. Aliyev, diğer insan hakları aktivistleriyle birlikte ülke çapındaki baskının bir parçası olarak 2014 ortasında hapse atıldı. Nisan 2015'te mahkeme tarafından 7,5 yıl hapse mahkûm edildi. Aliyev'in tutuklanmasının siyasi amaçlı olduğu yaygın olarak kabul ediliyor. Aliyev daha önce Azerbaycan makamlarına karşı Avrupa İnsan Hakları Mahkemesi'ne bir dizi dava açmıştı. Aliyev tutuklanmadan önce Hukuk Eğitimi Derneği'ni (LES) yönetiyordu. 22 Nisan 2015'te yedi buçuk yıl hapis cezasına çarptırıldı. Büyük ölçekli zimmete para geçirme ve dolandırıcılıktan, yasadışı ticaretten ve vergi kaçakçılığından suçlu bulundu. Uluslararası Af Örgütü tarafından vicdan mahkûmu olarak kabul edildi. 28 Mart 2016'da Yargıtay serbest bırakılmasına karar verdi ve aynı gün serbest bırakıldı. 28 Mart 2016'da Azerbaycan Yüksek Mahkemesi hapis cezasını yedi yıl altı aydan beş yıl ertelenmiş hapis cezasına çevirdi. == Ödülleri == 2012: İnsan hakları konusundaki çalışmaları nedeniyle Homo Homini Ödülü; 2012'nin en iyi insan hakları savunucusu seçildi. 2014 (Ekim): Norveç Helsinki Komitesi'nin Andrey Saharov Özgürlük Ödülü, Leyla Yunus, Resul Caferov ve Azerbaycan'daki diğer siyasi mahkûmlarla birlikte. Hapishanede olduğu için ödülü çocukları tarafından alındı. 2015 (Ekim): İnsan haklarına üstün katkılarından dolayı Uluslararası Barolar Birliği İnsan Hakları Ödülü. Hapishanede olduğu için ödülü çocukları tarafından alındı. 2016 (Şubat): \"Hayatını Azerbaycan hükümetinin baskıcı sistemine karşı bireylerin haklarını korumaya\" adadığı ve onlarca yıldır \"siyasi zulüm görenlere hukuki yardım ve temsil\" sağladığı için Avrupa Barolar ve Hukuk Dernekleri Konseyi İnsan Hakları Ödülü. Hapishanede olduğu için ödülü çocukları tarafından alındı. 2016: Yılın Sivil Haklar Savunucusu Ödülü, Sivil Haklar Savunucuları. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 248,
+      "char_count": 1888,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.505688",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 973,
+      "content": "İntikam Aliyev (d. 30 Kasım 1962), Azeri avukat ve insan hakları savunucusu. Aliyev, diğer insan hakları aktivistleriyle birlikte ülke çapındaki baskının bir parçası olarak 2014 ortasında hapse atıldı. Nisan 2015'te mahkeme tarafından 7,5 yıl hapse mahkûm edildi. Aliyev'in tutuklanmasının siyasi amaçlı olduğu yaygın olarak kabul ediliyor. Aliyev daha önce Azerbaycan makamlarına karşı Avrupa İnsan Hakları Mahkemesi'ne bir dizi dava açmıştı. Aliyev tutuklanmadan önce Hukuk Eğitimi Derneği'ni (LES) yönetiyordu. 22 Nisan 2015'te yedi buçuk yıl hapis cezasına çarptırıldı. Büyük ölçekli zimmete para geçirme ve dolandırıcılıktan, yasadışı ticaretten ve vergi kaçakçılığından suçlu bulundu. Uluslararası Af Örgütü tarafından vicdan mahkûmu olarak kabul edildi. 28 Mart 2016'da Yargıtay serbest bırakılmasına karar verdi ve aynı gün serbest bırakıldı. 28 Mart 2016'da Azerbaycan Yüksek Mahkemesi hapis cezasını yedi yıl altı aydan beş yıl ertelenmiş hapis cezasına çevirdi.",
+      "char_count": 972,
+      "token_estimate": 243
+    },
+    {
+      "id": "c0001",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 973,
+      "end_char": 1874,
+      "content": "== Ödülleri == 2012: İnsan hakları konusundaki çalışmaları nedeniyle Homo Homini Ödülü; 2012'nin en iyi insan hakları savunucusu seçildi. 2014 (Ekim): Norveç Helsinki Komitesi'nin Andrey Saharov Özgürlük Ödülü, Leyla Yunus, Resul Caferov ve Azerbaycan'daki diğer siyasi mahkûmlarla birlikte. Hapishanede olduğu için ödülü çocukları tarafından alındı. 2015 (Ekim): İnsan haklarına üstün katkılarından dolayı Uluslararası Barolar Birliği İnsan Hakları Ödülü. Hapishanede olduğu için ödülü çocukları tarafından alındı. 2016 (Şubat): \"Hayatını Azerbaycan hükümetinin baskıcı sistemine karşı bireylerin haklarını korumaya\" adadığı ve onlarca yıldır \"siyasi zulüm görenlere hukuki yardım ve temsil\" sağladığı için Avrupa Barolar ve Hukuk Dernekleri Konseyi İnsan Hakları Ödülü. Hapishanede olduğu için ödülü çocukları tarafından alındı. 2016: Yılın Sivil Haklar Savunucusu Ödülü, Sivil Haklar Savunucuları.",
+      "char_count": 900,
+      "token_estimate": 225
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İntikam Aliyev hangi tarihte serbest bırakıldı?",
+        "answer": "28 Mart 2016",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Azerbaycan makamlarına karşı yürüttüğü insan hakları savunuculuğu ve tutukluluğu göz önüne alındığında, İntikam Aliyev uluslararası alanda hangi ödüllerle ve ne zaman takdir edilmiştir?",
+        "answer": "İntikam Aliyev, insan hakları konusundaki çalışmaları ve Azerbaycan hükümetinin baskıcı sistemine karşı bireylerin haklarını koruma çabaları nedeniyle birçok uluslararası ödülle onurlandırılmıştır. Bu ödüller arasında 2012'de Homo Homini Ödülü, 2014'te Andrey Saharov Özgürlük Ödülü, 2015'te Uluslararası Barolar Birliği İnsan Hakları Ödülü ve 2016'da Avrupa Barolar ve Hukuk Dernekleri Konseyi İnsan Hakları Ödülü bulunmaktadır. Özellikle Andrey Saharov Özgürlük Ödülü'nü (2014), Uluslararası Barolar Birliği İnsan Hakları Ödülü'nü (2015) ve Avrupa Barolar ve Hukuk Dernekleri Konseyi İnsan Hakları Ödülü'nü (2016) hapishanede olduğu dönemde almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

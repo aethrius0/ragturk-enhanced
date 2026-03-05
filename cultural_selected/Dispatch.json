@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "dispatch_b0fead3c",
+    "title": "Dispatch",
+    "url": "https://tr.wikipedia.org/wiki/Dispatch",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:30.104377",
+    "content": "Dispatch, AdHoc Studio tarafından geliştirilen bir bölümlü macera oyunudur. Oyun sekiz bölümden oluşmaktadır ve ilk iki bölüm 22 Ekim 2025’te PlayStation 5 ve Windows için yayımlanmıştır. Kalan bölümler haftada iki bölüm halinde yayımlanarak 12 Kasım 2025’te tamamlanmıştır. == Konu == “Süper kahraman temalı bir işyeri komedisi” olarak tanımlanan Dispatch’te oyuncu, imzası niteliğindeki meka zırhı bir savaşta yok edildikten sonra toplama süper kahramanlardan oluşan bir ekip için sevk görevlisi (İngilizce: dispatcher) olarak çalışmak zorunda kalan eski süper kahraman Mecha Man Robert Robertson’ı (Aaron Paul tarafından seslendirilen) canlandırır. == Oynanış == Dispatch, oyuncu seçimlerinin konuşma ağaçları aracılığıyla öyküyü etkilediği bir macera oyunudur. Oynanışın önemli bir kısmı, Superhero Dispatch Network (SDN) haritası üzerinde bir süper kahraman ekibini suç ve olay noktalarına yönlendirmeyi içerir. Oyuncu, kahramanların istatistikleri ve karakter özelliklerini dikkate alarak olay için en uygun kahramanı/ kahramanları stratejik biçimde seçer ve bekleme sürelerini (cooldown) yönetir. Oyun ayrıca, hızlıca güzergah izleme ve quick time event’leri tamamlama esasına dayalı bir hackleme mini oyunu da içerir. == Geliştirme == Oyun, The Walking Dead, The Wolf Among Us ve Tales from the Borderlands üzerinde çalışmış eski Telltale Games geliştiricilerinden oluşan AdHoc Studio tarafından geliştirilmiştir. Proje başlangıçta canlı çekim olarak tasarlanmış ve ESPN’in This Is SportsCenter reklamlarından esinlenmiştir. Ancak COVID-19 pandemisi nedeniyle proje durdurulmuş; stüdyo odağını The Wolf Among Us 2 gibi diğer yapımlara çevirmiştir. Proje daha sonra Dispatch olarak yeniden kurgulanmıştır. Oyun, 12 Aralık 2024’te The Game Awards’da duyurulmuştur. Toplu oyuncu kadrosunda Aaron Paul, Jeffrey Wright, Laura Bailey, Erin Yvette, Seán McLoughlin (Jacksepticeye), Charlie White (Cr1TiKaL), Alanah Pearce, Travis Willingham, Joel Haver, Lance Cantstopolis, Thot Squad, Yung Gravy ve Matthew Mercer yer almaktadır. Oyunun demosu 29 Mayıs 2025’te yayımlanmış, Steam’de büyük çoğunlukla olumlu değerlendirmeler almış ve 2025 Tribeca Festivali’nde yer bulmuştur. 21 Temmuz 2025’te Critical Role Productions, Dispatch ürünleri, masaüstü oyunları ve bir animasyon dizisi için AdHoc Studio ile ortaklığını duyurmuştur. Ortaklık kapsamında AdHoc, Critical Role evreninde geçen yeni bir oyunu da Critical Role Productions ile birlikte geliştirecektir. 16 Eylül 2025’te oyunun 22 Ekim–12 Kasım 2025 arasında haftalık aralıklarla yayımlanacağı açıklanmış ve ana oyuna ek olarak dijital sanat kitabı ile dört dijital çizgi roman içeren bir deluxe sürüm de duyurulmuştur. == Bölümler == Oyun sekiz bölüme ayrılmıştır. == Notlar == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 366,
+      "char_count": 2750,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.602682",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 275,
+      "content": "Dispatch, AdHoc Studio tarafından geliştirilen bir bölümlü macera oyunudur. Oyun sekiz bölümden oluşmaktadır ve ilk iki bölüm 22 Ekim 2025’te PlayStation 5 ve Windows için yayımlanmıştır. Kalan bölümler haftada iki bölüm halinde yayımlanarak 12 Kasım 2025’te tamamlanmıştır.",
+      "char_count": 274,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0001",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 275,
+      "end_char": 652,
+      "content": "== Konu == “Süper kahraman temalı bir işyeri komedisi” olarak tanımlanan Dispatch’te oyuncu, imzası niteliğindeki meka zırhı bir savaşta yok edildikten sonra toplama süper kahramanlardan oluşan bir ekip için sevk görevlisi (İngilizce: dispatcher) olarak çalışmak zorunda kalan eski süper kahraman Mecha Man Robert Robertson’ı (Aaron Paul tarafından seslendirilen) canlandırır.",
+      "char_count": 376,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0002",
+      "section": "== Oynanış ==",
+      "heading_path": "== Oynanış ==",
+      "start_char": 652,
+      "end_char": 1226,
+      "content": "== Oynanış == Dispatch, oyuncu seçimlerinin konuşma ağaçları aracılığıyla öyküyü etkilediği bir macera oyunudur. Oynanışın önemli bir kısmı, Superhero Dispatch Network (SDN) haritası üzerinde bir süper kahraman ekibini suç ve olay noktalarına yönlendirmeyi içerir. Oyuncu, kahramanların istatistikleri ve karakter özelliklerini dikkate alarak olay için en uygun kahramanı/ kahramanları stratejik biçimde seçer ve bekleme sürelerini (cooldown) yönetir. Oyun ayrıca, hızlıca güzergah izleme ve quick time event’leri tamamlama esasına dayalı bir hackleme mini oyunu da içerir.",
+      "char_count": 573,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0003",
+      "section": "== Geliştirme ==",
+      "heading_path": "== Geliştirme ==",
+      "start_char": 1226,
+      "end_char": 2226,
+      "content": "== Geliştirme == Oyun, The Walking Dead, The Wolf Among Us ve Tales from the Borderlands üzerinde çalışmış eski Telltale Games geliştiricilerinden oluşan AdHoc Studio tarafından geliştirilmiştir. Proje başlangıçta canlı çekim olarak tasarlanmış ve ESPN’in This Is SportsCenter reklamlarından esinlenmiştir. Ancak COVID-19 pandemisi nedeniyle proje durdurulmuş; stüdyo odağını The Wolf Among Us 2 gibi diğer yapımlara çevirmiştir. Proje daha sonra Dispatch olarak yeniden kurgulanmıştır. Oyun, 12 Aralık 2024’te The Game Awards’da duyurulmuştur. Toplu oyuncu kadrosunda Aaron Paul, Jeffrey Wright, Laura Bailey, Erin Yvette, Seán McLoughlin (Jacksepticeye), Charlie White (Cr1TiKaL), Alanah Pearce, Travis Willingham, Joel Haver, Lance Cantstopolis, Thot Squad, Yung Gravy ve Matthew Mercer yer almaktadır. Oyunun demosu 29 Mayıs 2025’te yayımlanmış, Steam’de büyük çoğunlukla olumlu değerlendirmeler almış ve 2025 Tribeca Festivali’nde yer bulmuştur. 21 Temmuz 2025’te Critical Role Productions, Disp",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Geliştirme ==",
+      "heading_path": "== Geliştirme ==",
+      "start_char": 2026,
+      "end_char": 2676,
+      "content": "adır. Oyunun demosu 29 Mayıs 2025’te yayımlanmış, Steam’de büyük çoğunlukla olumlu değerlendirmeler almış ve 2025 Tribeca Festivali’nde yer bulmuştur. 21 Temmuz 2025’te Critical Role Productions, Dispatch ürünleri, masaüstü oyunları ve bir animasyon dizisi için AdHoc Studio ile ortaklığını duyurmuştur. Ortaklık kapsamında AdHoc, Critical Role evreninde geçen yeni bir oyunu da Critical Role Productions ile birlikte geliştirecektir. 16 Eylül 2025’te oyunun 22 Ekim–12 Kasım 2025 arasında haftalık aralıklarla yayımlanacağı açıklanmış ve ana oyuna ek olarak dijital sanat kitabı ile dört dijital çizgi roman içeren bir deluxe sürüm de duyurulmuştur.",
+      "char_count": 650,
+      "token_estimate": 162
+    },
+    {
+      "id": "c0005",
+      "section": "== Bölümler ==",
+      "heading_path": "== Bölümler ==",
+      "start_char": 2677,
+      "end_char": 2723,
+      "content": "== Bölümler == Oyun sekiz bölüme ayrılmıştır.",
+      "char_count": 45,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Oyun ne zaman duyurulmuştur?",
+        "answer": "Oyun, 12 Aralık 2024’te The Game Awards’da duyurulmuştur.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "AdHoc Studio tarafından geliştirilen Dispatch oyunu, bölümler halinde sunulan yapısıyla ele alındığında, hem konu hem de oynanış açısından oyunculara ne gibi temel deneyimler sunmaktadır?",
+        "answer": "Dispatch, oyuncunun eski süper kahraman Mecha Man Robert Robertson olarak toplama süper kahramanlardan oluşan bir ekibe sevk görevlisi olduğu, 'süper kahraman temalı bir işyeri komedisi' konusuna sahiptir. Sekiz bölümden oluşan bu macera oyununun oynanışı, oyuncu seçimleriyle öyküyü etkilemeyi, Superhero Dispatch Network (SDN) haritası üzerinde süper kahraman ekiplerini suç ve olay noktalarına yönlendirmeyi, kahramanların istatistik ve özelliklerine göre stratejik seçimler yapmayı, bekleme sürelerini yönetmeyi ve bir hackleme mini oyunu tamamlamayı içerir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

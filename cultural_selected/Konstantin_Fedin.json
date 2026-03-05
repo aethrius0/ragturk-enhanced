@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "konstantinfedin_712c9164",
+    "title": "Konstantin Fedin",
+    "url": "https://tr.wikipedia.org/wiki/Konstantin_Fedin",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:35.897498",
+    "content": "Konstantin Aleksandroviç Fedin (Rusça: Константи́н Алекса́ндрович Фе́дин; 24 Şubat 1892, Saratov - 15 Temmuz 1977, Moskova), Rus roman yazarı, edebiyatçı ve şair. == Hayatı == Fedin, 24 Şubat 1892'de Saratov'da doğdu, Moskova ve Almanya'da eğitim gördü ve I. Dünya Savaşı sırasında Almanya'da staj yaptı ve tutuklandı. Serbest bırakıldıktan sonra Berlin'deki Sovyet büyükelçiliğinde tercüman olarak çalıştı. Rusya'ya döndükten sonra Bolşevikler'e katıldı ve Kızıl Ordu'da görev yaptı; 1921'de Partiden ayrıldıktan sonra Devrimi destekleyen ancak edebiyat ve sanat özgürlüğü isteyen Serapion Kardeşler adlı edebi gruba katıldı. İlk öyküsü \"The Orchard\" 1922'de Bakunin v Drezdene (Dresden'deki Bakunin) adlı eserinde yayınlandı. İlk iki romanı en önemli eserleridir; Goroda i gody (1924; tr. Şehirler ve Yıllar olarak, 1962, \"Sovyet edebiyatındaki ilk büyük romanlardan biri\") ve Bratya (Kardeşler, 1928). Her ikisi de Ekim Devrimi dönemindeki aydınların sorunlarını ele alır ve kendisinin savaş dönemindeki tutukluluğuna dayanarak \"Alman burjuva dünyasına ilişkin izlenimlerini\" içeriyor. Daha sonraki romanları arasında Pokhishchenie Evropy (Avrupa'ya Tecavüz, 1935), Sanatorii Arktur (Arktur Sanatoryumu, 1939) ve tarihi üçlemesi Pervye radosti (İlk sevinçler, 1945), Neobyknovennoe leto (Olağandışı Bir Yaz, 1948) ve Kostyor (Ateş, 1961–67) idi. Ayrıca Gorky sredi nas (Aramızda Gorky, 1943) adında bir anı yazdı. Edward J. Brown onu şöyle özetliyor: \"Fedin, muhtemelen büyük bir yazar olmasa da, belirli bir zaman ve mekanın atmosferini iletme yeteneğine yüksek derecede sahip biriydi. En iyi yazımları, kendi deneyimlerini yeniden hatırlayıp yaratmasıdır ve hafızası, geçmişini zenginleştiren bir deneyim haline getiren uzun geçmiş sahnelerin duyumsal öğelerini seçip tutabilir.\" Fedin, 1959'dan ölümüne kadar Sovyet Yazarlar Birliği'nin başkanlığını yaptı. == Ödülleri == Sosyalist Emek Kahramanı (1967) Dört Lenin Nişanı Kızıl Bayrak İşçi Nişanı, iki kez Ekim Devrimi Nişanı Sovyetler Birliği Devlet Ödülü, 1. sınıf (1949) - \"İlk Sevinç\" romanı için (1945) ve \"Sıradan Yaz Değil\" (1947-1948) == Kaynakça == == Dış bağlantılar == http://www.spartacus-educational.com/RUSfedin.htm 16 Ağustos 2019 tarihinde Wayback Machine sitesinde arşivlendi. http://www.sovlit.net/bios/fedin.html 7 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 307,
+      "char_count": 2348,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.714083",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 163,
+      "content": "Konstantin Aleksandroviç Fedin (Rusça: Константи́н Алекса́ндрович Фе́дин; 24 Şubat 1892, Saratov - 15 Temmuz 1977, Moskova), Rus roman yazarı, edebiyatçı ve şair.",
+      "char_count": 162,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 163,
+      "end_char": 1163,
+      "content": "== Hayatı == Fedin, 24 Şubat 1892'de Saratov'da doğdu, Moskova ve Almanya'da eğitim gördü ve I. Dünya Savaşı sırasında Almanya'da staj yaptı ve tutuklandı. Serbest bırakıldıktan sonra Berlin'deki Sovyet büyükelçiliğinde tercüman olarak çalıştı. Rusya'ya döndükten sonra Bolşevikler'e katıldı ve Kızıl Ordu'da görev yaptı; 1921'de Partiden ayrıldıktan sonra Devrimi destekleyen ancak edebiyat ve sanat özgürlüğü isteyen Serapion Kardeşler adlı edebi gruba katıldı. İlk öyküsü \"The Orchard\" 1922'de Bakunin v Drezdene (Dresden'deki Bakunin) adlı eserinde yayınlandı. İlk iki romanı en önemli eserleridir; Goroda i gody (1924; tr. Şehirler ve Yıllar olarak, 1962, \"Sovyet edebiyatındaki ilk büyük romanlardan biri\") ve Bratya (Kardeşler, 1928). Her ikisi de Ekim Devrimi dönemindeki aydınların sorunlarını ele alır ve kendisinin savaş dönemindeki tutukluluğuna dayanarak \"Alman burjuva dünyasına ilişkin izlenimlerini\" içeriyor. Daha sonraki romanları arasında Pokhishchenie Evropy (Avrupa'ya Tecavüz, 1",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 963,
+      "end_char": 1862,
+      "content": "nı ele alır ve kendisinin savaş dönemindeki tutukluluğuna dayanarak \"Alman burjuva dünyasına ilişkin izlenimlerini\" içeriyor. Daha sonraki romanları arasında Pokhishchenie Evropy (Avrupa'ya Tecavüz, 1935), Sanatorii Arktur (Arktur Sanatoryumu, 1939) ve tarihi üçlemesi Pervye radosti (İlk sevinçler, 1945), Neobyknovennoe leto (Olağandışı Bir Yaz, 1948) ve Kostyor (Ateş, 1961–67) idi. Ayrıca Gorky sredi nas (Aramızda Gorky, 1943) adında bir anı yazdı. Edward J. Brown onu şöyle özetliyor: \"Fedin, muhtemelen büyük bir yazar olmasa da, belirli bir zaman ve mekanın atmosferini iletme yeteneğine yüksek derecede sahip biriydi. En iyi yazımları, kendi deneyimlerini yeniden hatırlayıp yaratmasıdır ve hafızası, geçmişini zenginleştiren bir deneyim haline getiren uzun geçmiş sahnelerin duyumsal öğelerini seçip tutabilir.\" Fedin, 1959'dan ölümüne kadar Sovyet Yazarlar Birliği'nin başkanlığını yaptı.",
+      "char_count": 899,
+      "token_estimate": 224
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1863,
+      "end_char": 2099,
+      "content": "== Ödülleri == Sosyalist Emek Kahramanı (1967) Dört Lenin Nişanı Kızıl Bayrak İşçi Nişanı, iki kez Ekim Devrimi Nişanı Sovyetler Birliği Devlet Ödülü, 1. sınıf (1949) - \"İlk Sevinç\" romanı için (1945) ve \"Sıradan Yaz Değil\" (1947-1948)",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2114,
+      "end_char": 2348,
+      "content": "== Dış bağlantılar == http://www.spartacus-educational.com/RUSfedin.htm 16 Ağustos 2019 tarihinde Wayback Machine sitesinde arşivlendi. http://www.sovlit.net/bios/fedin.html 7 Şubat 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 234,
+      "token_estimate": 58
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Fedin'in ilk öyküsü \"The Orchard\" ne zaman ve hangi eserde yayınlandı?",
+        "answer": "Fedin'in ilk öyküsü \"The Orchard\" 1922'de Bakunin v Drezdene (Dresden'deki Bakunin) adlı eserinde yayınlandı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Konstantin Fedin'in kişisel deneyimleri, özellikle savaş dönemi, edebi eserlerinin temalarını ve tarzını kariyeri boyunca nasıl etkilemiştir ve daha sonra Sovyet edebiyat kurumunda hangi önemli rolü üstlenmiştir?",
+        "answer": "Konstantin Fedin'in savaş döneminde Almanya'da staj yapıp tutuklanması, ilk iki önemli romanı olan 'Goroda i gody' ve 'Bratya'nın Ekim Devrimi dönemindeki aydınların sorunlarını ele almasına ve 'Alman burjuva dünyasına ilişkin izlenimlerini' içermesine neden olmuştur. Edward J. Brown'a göre, Fedin'in en iyi yazımları kendi deneyimlerini yeniden hatırlayıp yaratmasıyla, belirli bir zaman ve mekanın atmosferini aktarma yeteneğine sahip olmasıyla karakterize edilmiştir. Daha sonra, 1959'dan ölümüne kadar Sovyet Yazarlar Birliği'nin başkanlığını yapmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

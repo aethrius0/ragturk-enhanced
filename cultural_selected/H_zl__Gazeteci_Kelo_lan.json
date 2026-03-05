@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "hzlgazetecikelolan_3970719e",
+    "title": "Hızlı Gazeteci Keloğlan",
+    "url": "https://tr.wikipedia.org/wiki/H%C4%B1zl%C4%B1_Gazeteci_Kelo%C4%9Flan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:56.226912",
+    "content": "Hızlı Gazeteci Keloğlan, Anonim halk öykülerindeki saflığı, doğruluğu kadar zekası ve bulduğu pratik çözümlerle de bilinen öykü kahramanıdır. Keza, Necdet Şen'in Hızlı Gazeteci adlı çizgi romanının 1989 yılında Cumhuriyet gazetesinde tefrika edilmiş, 1991 yılında da Remzi Kitabevi tarafından albüm formatında kitap olarak da yayınlanan bir öyküsünün adıdır. == Öykü == Öyküde sosyal demokrat milletvekili genç Doğan Önder, milletvekilliğinin daha ilk döneminde meclis kürsüsünde yaptığı dikkat çekici çıkışı ve ardından parti içi hesaplaşmalarda \"kolay yönetilebilir bir aday\" olarak değerlendirilir ve genel başkanlığa aday gösterilir. Seçimi kazanıp genel başkan olduktan sonra mevcut parti içi çekişmelere ve kaypak siyasi ortama uyum sağlayamayıp, kurulu düzenle ilkeleri arasında bir tercih yapmak zorunda kalır. Doğan Önder'in siyaset hayatı kısa sürür ve gerek parti içi, gerekse de siyaset içi entrikalara uyum sağlayamayacağını anlayarak hem genel başkanlıktan, hem partisinden, hem de siyasetten elinin eteğini çekmek zorunda kalır. Öykü, Oliver Stone'un Talk Radio filminin final sahnesiyle İranlı yazar Samed Behrengi'nin Küçük Kara Balık adlı politik masalına göndermeler yapan yarı karamsar bir panaromayla son bulur. Birkaç gün boyunca neredeyse bütün evlerde Doğan Önder'in sansasyonel istifası üzerine konuşulur; ama yapılan yorumların neredeyse tamamı konunun özüyle ilintisiz, magazin ağırlıklı konuşmalardır. Genç politikacının kendisini kurban edercesine topluma ulaştırmayı denediği mesajı kalabalıklara değil, sadece bir köşede hayatı anlamaya çalışan minik bir çocuğun kulaklarına ulaşabilmiştir. Öykü, aynı zamanda Türkiye'deki rant bölüşümü üzerine kurulu siyaset içi mekanların da çizgi roman yoluyla yapılmış dikkate değer bir eleştirisidir. == Kaynakça == == Dış bağlantılar == Keloğlan - Bir politikacının öyküsü 11 Ekim 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 250,
+      "char_count": 1904,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.685251",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 359,
+      "content": "Hızlı Gazeteci Keloğlan, Anonim halk öykülerindeki saflığı, doğruluğu kadar zekası ve bulduğu pratik çözümlerle de bilinen öykü kahramanıdır. Keza, Necdet Şen'in Hızlı Gazeteci adlı çizgi romanının 1989 yılında Cumhuriyet gazetesinde tefrika edilmiş, 1991 yılında da Remzi Kitabevi tarafından albüm formatında kitap olarak da yayınlanan bir öyküsünün adıdır.",
+      "char_count": 358,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0001",
+      "section": "== Öykü ==",
+      "heading_path": "== Öykü ==",
+      "start_char": 359,
+      "end_char": 1359,
+      "content": "== Öykü == Öyküde sosyal demokrat milletvekili genç Doğan Önder, milletvekilliğinin daha ilk döneminde meclis kürsüsünde yaptığı dikkat çekici çıkışı ve ardından parti içi hesaplaşmalarda \"kolay yönetilebilir bir aday\" olarak değerlendirilir ve genel başkanlığa aday gösterilir. Seçimi kazanıp genel başkan olduktan sonra mevcut parti içi çekişmelere ve kaypak siyasi ortama uyum sağlayamayıp, kurulu düzenle ilkeleri arasında bir tercih yapmak zorunda kalır. Doğan Önder'in siyaset hayatı kısa sürür ve gerek parti içi, gerekse de siyaset içi entrikalara uyum sağlayamayacağını anlayarak hem genel başkanlıktan, hem partisinden, hem de siyasetten elinin eteğini çekmek zorunda kalır. Öykü, Oliver Stone'un Talk Radio filminin final sahnesiyle İranlı yazar Samed Behrengi'nin Küçük Kara Balık adlı politik masalına göndermeler yapan yarı karamsar bir panaromayla son bulur. Birkaç gün boyunca neredeyse bütün evlerde Doğan Önder'in sansasyonel istifası üzerine konuşulur; ama yapılan yorumların nered",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Öykü ==",
+      "heading_path": "== Öykü ==",
+      "start_char": 1159,
+      "end_char": 1770,
+      "content": "litik masalına göndermeler yapan yarı karamsar bir panaromayla son bulur. Birkaç gün boyunca neredeyse bütün evlerde Doğan Önder'in sansasyonel istifası üzerine konuşulur; ama yapılan yorumların neredeyse tamamı konunun özüyle ilintisiz, magazin ağırlıklı konuşmalardır. Genç politikacının kendisini kurban edercesine topluma ulaştırmayı denediği mesajı kalabalıklara değil, sadece bir köşede hayatı anlamaya çalışan minik bir çocuğun kulaklarına ulaşabilmiştir. Öykü, aynı zamanda Türkiye'deki rant bölüşümü üzerine kurulu siyaset içi mekanların da çizgi roman yoluyla yapılmış dikkate değer bir eleştirisidir.",
+      "char_count": 611,
+      "token_estimate": 152
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1786,
+      "end_char": 1904,
+      "content": "== Dış bağlantılar == Keloğlan - Bir politikacının öyküsü 11 Ekim 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 118,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Doğan Önder'in siyaset hayatının kısa sürmesinin temel nedeni nedir?",
+        "answer": "Mevcut parti içi çekişmelere ve kaypak siyasi ortama uyum sağlayamaması, ayrıca kurulu düzenle ilkeleri arasında bir tercih yapmak zorunda kalmasıdır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      },
+      {
+        "question": "Necdet Şen'in 'Hızlı Gazeteci' çizgi romanının Cumhuriyet gazetesinde tefrika edilmesi ve Remzi Kitabevi tarafından albüm olarak yayınlanması ile 'Öykü' bölümünde anlatılan siyasi entrikalar ve karamsar eleştiri arasında nasıl bir bağlantı kurulabilir?",
+        "answer": "1989'da Cumhuriyet gazetesinde tefrika edilen ve 1991'de Remzi Kitabevi tarafından albüm olarak yayımlanan 'Hızlı Gazeteci' çizgi romanı, 'Öykü' bölümünde sosyal demokrat milletvekili Doğan Önder'in siyasi hayattaki hayal kırıklıklarını ve parti içi çekişmeleri aktararak, Türkiye'deki siyaset içi mekanizmalara yönelik dikkate değer bir eleştiri sunar. Bu durum, çizgi romanın yayınlandığı dönemde güncel siyasi ve toplumsal meselelere eleştirel bir bakış açısıyla yaklaştığını, basılı medya ve kitap formatının bu eleştirel mesajı geniş kitlelere ulaştırmak için bir araç olarak kullanıldığını gösterir. Ancak öykü, mesajın yalnızca küçük bir çocuğa ulaşabildiğini belirterek, genel olarak toplumun bu derin eleştirilere karşı ilgisizliğini de ima eder.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

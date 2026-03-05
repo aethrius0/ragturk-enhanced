@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "kazakistandadin_864ebf16",
+    "title": "Kazakistan'da din",
+    "url": "https://tr.wikipedia.org/wiki/Kazakistan%27da_din",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:37.333261",
+    "content": "Kazakistan vatandaşlarının çoğunluğu, geleneksel olarak nüfusun çoğunluğunu oluşturan etnik Kazaklar ile Özbekler, Uygurlar ve Tatarlar genellikle Sünniliğin Hanefi mezhebine bağlıdırlar. % 1'den azı Şafilik ve Şiiliğe tabidir. Toplam 2.300 cami vardır, bunların tamamı bir müftünün başkanlık ettiği devlete bağlı Kazakistan Müslümanları Dini İdaresi'ne bağlıdır. Kurban Bayramı ülkede resmî tatildir. == Dinler == === İslam === İslam, Kazakistan'da en yaygın olarak inanılan dindir. Geleneksel olarak etnik Kazaklar, çoğunlukla Hanefi mezhebini takip eden Müslümanlardır. Ülkenin güney bölgesi, kendini Müslüman olarak tanımlayanların en yoğun olduğu bölgedir. === Bahailik === Kazakistan'da Bahai inancı, Sovyetler Birliği'nde dine yönelik baskı politikası sırasında başlamıştır. O tarihten önce, Rus İmparatorluğu'nun bir parçası olan Kazakistan'ın Bahai Dini ile dolaylı teması 1847 yılına kadar uzanmaktadır. Bahai öncülerinin gelişiyle birlikte Bahai topluluğu, her ne kadar küçük bir yüzdeliği oluştursa da, İslam ve Hristiyanlıktan sonra en büyük dini topluluk haline gelmiştir. 1994 yılında Kazakistan Ulusal Ruhani Meclisi seçilmiş ve topluluk çeşitli ilgi alanlarına yönelik çabalarını çoğaltmaya başlamıştır. Din Veri Arşivleri Derneği (Dünya Hristiyan Ansiklopedisi'ne dayanarak) Kazakistan'da 2010 yılında yaklaşık 7.000 Bahai'nin bulunduğunu tahmin etmektedir. === Budizm === Budizm, Kazakistan'da 17. yüzyıldan beri varlığını sürdürmektedir. Bu, bilim insanlarının kazılar sırasında keşfettiği antik pagodalar ve tapınaklarla kanıtlanmaktadır. Şu anda Kazakistan'da sadece iki adet resmi olarak kayıtlı Budist örgütü bulunmaktadır, biri Kore kökenli Won Budizm'ine, diğeri ise Tibet Budizm'ine dayanmaktadır. == Ayrıca bakınız == Kazakistan'da Katolik Kilisesi Kazakistan'da dinsizlik == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 227,
+      "char_count": 1815,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.224236",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 402,
+      "content": "Kazakistan vatandaşlarının çoğunluğu, geleneksel olarak nüfusun çoğunluğunu oluşturan etnik Kazaklar ile Özbekler, Uygurlar ve Tatarlar genellikle Sünniliğin Hanefi mezhebine bağlıdırlar. % 1'den azı Şafilik ve Şiiliğe tabidir. Toplam 2.300 cami vardır, bunların tamamı bir müftünün başkanlık ettiği devlete bağlı Kazakistan Müslümanları Dini İdaresi'ne bağlıdır. Kurban Bayramı ülkede resmî tatildir.",
+      "char_count": 401,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0001",
+      "section": "=== İslam ===",
+      "heading_path": "=== İslam ===",
+      "start_char": 415,
+      "end_char": 662,
+      "content": "=== İslam === İslam, Kazakistan'da en yaygın olarak inanılan dindir. Geleneksel olarak etnik Kazaklar, çoğunlukla Hanefi mezhebini takip eden Müslümanlardır. Ülkenin güney bölgesi, kendini Müslüman olarak tanımlayanların en yoğun olduğu bölgedir.",
+      "char_count": 246,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0002",
+      "section": "=== Bahailik ===",
+      "heading_path": "=== Bahailik ===",
+      "start_char": 662,
+      "end_char": 1376,
+      "content": "=== Bahailik === Kazakistan'da Bahai inancı, Sovyetler Birliği'nde dine yönelik baskı politikası sırasında başlamıştır. O tarihten önce, Rus İmparatorluğu'nun bir parçası olan Kazakistan'ın Bahai Dini ile dolaylı teması 1847 yılına kadar uzanmaktadır. Bahai öncülerinin gelişiyle birlikte Bahai topluluğu, her ne kadar küçük bir yüzdeliği oluştursa da, İslam ve Hristiyanlıktan sonra en büyük dini topluluk haline gelmiştir. 1994 yılında Kazakistan Ulusal Ruhani Meclisi seçilmiş ve topluluk çeşitli ilgi alanlarına yönelik çabalarını çoğaltmaya başlamıştır. Din Veri Arşivleri Derneği (Dünya Hristiyan Ansiklopedisi'ne dayanarak) Kazakistan'da 2010 yılında yaklaşık 7.000 Bahai'nin bulunduğunu tahmin etmektedir.",
+      "char_count": 713,
+      "token_estimate": 178
+    },
+    {
+      "id": "c0003",
+      "section": "=== Budizm ===",
+      "heading_path": "=== Budizm ===",
+      "start_char": 1376,
+      "end_char": 1725,
+      "content": "=== Budizm === Budizm, Kazakistan'da 17. yüzyıldan beri varlığını sürdürmektedir. Bu, bilim insanlarının kazılar sırasında keşfettiği antik pagodalar ve tapınaklarla kanıtlanmaktadır. Şu anda Kazakistan'da sadece iki adet resmi olarak kayıtlı Budist örgütü bulunmaktadır, biri Kore kökenli Won Budizm'ine, diğeri ise Tibet Budizm'ine dayanmaktadır.",
+      "char_count": 348,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1725,
+      "end_char": 1801,
+      "content": "== Ayrıca bakınız == Kazakistan'da Katolik Kilisesi Kazakistan'da dinsizlik",
+      "char_count": 75,
+      "token_estimate": 18
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Din Veri Arşivleri Derneği'ne göre 2010 yılında Kazakistan'da yaklaşık kaç Bahai bulunmaktaydı?",
+        "answer": "Yaklaşık 7.000 Bahai.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kazakistan'da Bahai inancı, en yaygın din olan İslam'a kıyasla dini topluluklar arasındaki sıralamada hangi konumdadır?",
+        "answer": "Kazakistan'da İslam en yaygın inanılan dinken, Bahai inancı İslam ve Hristiyanlıktan sonra üçüncü en büyük dini topluluktur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

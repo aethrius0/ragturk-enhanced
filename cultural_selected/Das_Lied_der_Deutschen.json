@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "dasliedderdeutschen_4f8d7d92",
+    "title": "Das Lied der Deutschen",
+    "url": "https://tr.wikipedia.org/wiki/Das_Lied_der_Deutschen",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:48.427960",
+    "content": "Das Lied der Deutschen (Deutschlandlied olarak da bilinir), Almanya'nın ulusal marşıdır. Ünlü Alman şair August Heinrich Hoffmann von Fallersleben'in 1841'de besteci Franz Joseph Haydn'in bir melodisinden ilham alarak Helgoland adasında dizdiği şiir, cumhuriyetçi ve liberal geleneği desteklemek amacıyla, şarkı Weimar Cumhuriyeti döneminde, 1922 yılında Almanya'nın millî marşı için seçildi. Nazi Almanyası döneminde (1933-1945) şiirin sadece ilk kıtası okunmuştur. II. Dünya Savaşı'ndan sonra kurulan Almanya Federal Cumhuriyeti'nde Nazi kıtası olarak nitelenen 1. kıta, millî marştan çıkarıldı. Batı Almanya'da 1952 yılında ulusal marş olarak kabul edilen Deutschlandlied'in, sadece üçüncü dörtlük bölümü okundu. 1990 yılında iki Alman devletinin (ADC ve AFC) birleşmesi sonrasında sadece üçüncü dörtlük ulusal marş olarak teyit edilmiştir. Cumhurbaşkanı ve Şansölyenin yazışmalarıyla alınan kararla resmen bütün Almanya'nın tek millî marşı olarak kabul edildi. Önemli devlet seremonilerinde sadece 3. kıta çalınır. == Güfte == Einigkeit und Recht und Freiheit Einigkeit und Recht und Freiheit Für das deutsche Vaterland! Danach lasst uns alle streben Brüderlich mit Herz und Hand! Einigkeit und Recht und Freiheit Sind des Glückes Unterpfand; Blüh' im Glanze dieses Glückes, Blühe, deutsches Vaterland! Blüh' im Glanze dieses Glückes, Blühe, deutsches Vaterland! === Türkçe Çeviri === Birlik ve Adalet ve Özgürlük Birlik ve adalet ve özgürlük Alman vatanı için! Bu yolda hep ileri Kardeşçe el ele, kalp kalbe! Birlik ve adalet ve özgürlük Saadetin güvencesidir; Serpil saadetin parıltısıyla, Serpil, Alman vatanı! Serpil saadetin parıltısıyla, Serpil, Alman vatanı!",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 227,
+      "char_count": 1669,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.251415",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Das Lied der Deutschen (Deutschlandlied olarak da bilinir), Almanya'nın ulusal marşıdır. Ünlü Alman şair August Heinrich Hoffmann von Fallersleben'in 1841'de besteci Franz Joseph Haydn'in bir melodisinden ilham alarak Helgoland adasında dizdiği şiir, cumhuriyetçi ve liberal geleneği desteklemek amacıyla, şarkı Weimar Cumhuriyeti döneminde, 1922 yılında Almanya'nın millî marşı için seçildi. Nazi Almanyası döneminde (1933-1945) şiirin sadece ilk kıtası okunmuştur. II. Dünya Savaşı'ndan sonra kurulan Almanya Federal Cumhuriyeti'nde Nazi kıtası olarak nitelenen 1. kıta, millî marştan çıkarıldı. Batı Almanya'da 1952 yılında ulusal marş olarak kabul edilen Deutschlandlied'in, sadece üçüncü dörtlük bölümü okundu. 1990 yılında iki Alman devletinin (ADC ve AFC) birleşmesi sonrasında sadece üçüncü dörtlük ulusal marş olarak teyit edilmiştir. Cumhurbaşkanı ve Şansölyenin yazışmalarıyla alınan kararla resmen bütün Almanya'nın tek millî marşı olarak kabul edildi. Önemli devlet seremonilerinde sadec",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1018,
+      "content": "örtlük ulusal marş olarak teyit edilmiştir. Cumhurbaşkanı ve Şansölyenin yazışmalarıyla alınan kararla resmen bütün Almanya'nın tek millî marşı olarak kabul edildi. Önemli devlet seremonilerinde sadece 3. kıta çalınır.",
+      "char_count": 218,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0002",
+      "section": "== Güfte ==",
+      "heading_path": "== Güfte ==",
+      "start_char": 1019,
+      "end_char": 1367,
+      "content": "== Güfte == Einigkeit und Recht und Freiheit Einigkeit und Recht und Freiheit Für das deutsche Vaterland! Danach lasst uns alle streben Brüderlich mit Herz und Hand! Einigkeit und Recht und Freiheit Sind des Glückes Unterpfand; Blüh' im Glanze dieses Glückes, Blühe, deutsches Vaterland! Blüh' im Glanze dieses Glückes, Blühe, deutsches Vaterland!",
+      "char_count": 347,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0003",
+      "section": "=== Türkçe Çeviri ===",
+      "heading_path": "=== Türkçe Çeviri ===",
+      "start_char": 1367,
+      "end_char": 1669,
+      "content": "=== Türkçe Çeviri === Birlik ve Adalet ve Özgürlük Birlik ve adalet ve özgürlük Alman vatanı için! Bu yolda hep ileri Kardeşçe el ele, kalp kalbe! Birlik ve adalet ve özgürlük Saadetin güvencesidir; Serpil saadetin parıltısıyla, Serpil, Alman vatanı! Serpil saadetin parıltısıyla, Serpil, Alman vatanı!",
+      "char_count": 302,
+      "token_estimate": 75
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Das Lied der Deutschen, Weimar Cumhuriyeti döneminde hangi yıl Almanya'nın millî marşı olarak seçildi?",
+        "answer": "1922 yılında.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Almanya'nın 1990'daki birleşmesinden sonra Das Lied der Deutschen'in hangi kısmı ulusal marş olarak teyit edildi ve önemli devlet törenlerinde bu bölümün kullanımı nasıldır?",
+        "answer": "Almanya'nın 1990'daki birleşmesinden sonra Das Lied der Deutschen'in sadece üçüncü dörtlüğü ulusal marş olarak teyit edildi. Önemli devlet törenlerinde ise sadece üçüncü kıta çalınır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

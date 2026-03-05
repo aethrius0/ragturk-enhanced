@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "gerdelcevizi_ab60bdda",
+    "title": "Gerdel cevizi",
+    "url": "https://tr.wikipedia.org/wiki/Gerdel_cevizi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:56.629045",
+    "content": "Gerdel cevizi, bir halatın bir ucundaki kolların açılıp birbirlerine bağlanmasıyla elde edilen bir düğüm çeşididir. En önemli cevizler Gerdel cevizi ve Fener cevizi olarak adlandırılır. Bunlarda halatın ucu 15–20 cm açıldıktan sonra daha fazla açılmaması için piyanlanır (gırcala ile bağlanır). Gerdel cevizi (piyan cevizi de denir; İng. wall knot) fener cevizine çok benzer; halat kolları birbirlerinin ilmiklerinden (rodalarından) geçerken uçları \"yukarı\" (halat ucu ile aynı yöne) çevrilmiş olarak düğüm tamamlanır. Uçlar sıkıca çekildikten sonra artan kısımlar kesilebilir veya yukarıda anlatıldığı biçimde, kollar gittikçe inceltilerek halatın bedenindeki diğer kolların arasına sıkıştırılabilir. Fener cevizinde olduğu gibi Gerdel cevizi de halat sonlandırmada tek başına faydalı değildir, ya kolların geriye doğru dikilmesi gerekir veya başka cevizlerle (Arap cevizi, mevlana cevizi, vs.) birlikte kullanılır. Gerdel cevizinin adı, gerdel adı verilen tahta kovalara takılan halatların, kovanın deliğinden çıkmaması için ucuna yapılan düğümden kaynaklanır. Ceviz yapmakta amaç halatı sonlandırmaksa, artan kollar kesilmez, bunlar halat ucundan geriye doğru kolların aralarından kavalye kullanılarak geçirilir. Bu halat dikişi yönteminde her dikişten sonra kolun kalınlığı yarıya indirilerek kolların düzgün şekilde halatın bedeni ile bütünleşmesi sağlanır. Bu şekilde dikilen ipin ucu açılmaz. Dikme yoluyla halat sonlandırmanın avantajı, ilmik yapıp bağlamaktan daha pratik olmasıdır, eğer piyanlama yapmak için gırcala gibi bir malzeme elde yoksa. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1570,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.125988",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Gerdel cevizi, bir halatın bir ucundaki kolların açılıp birbirlerine bağlanmasıyla elde edilen bir düğüm çeşididir. En önemli cevizler Gerdel cevizi ve Fener cevizi olarak adlandırılır. Bunlarda halatın ucu 15–20 cm açıldıktan sonra daha fazla açılmaması için piyanlanır (gırcala ile bağlanır). Gerdel cevizi (piyan cevizi de denir; İng. wall knot) fener cevizine çok benzer; halat kolları birbirlerinin ilmiklerinden (rodalarından) geçerken uçları \"yukarı\" (halat ucu ile aynı yöne) çevrilmiş olarak düğüm tamamlanır. Uçlar sıkıca çekildikten sonra artan kısımlar kesilebilir veya yukarıda anlatıldığı biçimde, kollar gittikçe inceltilerek halatın bedenindeki diğer kolların arasına sıkıştırılabilir. Fener cevizinde olduğu gibi Gerdel cevizi de halat sonlandırmada tek başına faydalı değildir, ya kolların geriye doğru dikilmesi gerekir veya başka cevizlerle (Arap cevizi, mevlana cevizi, vs.) birlikte kullanılır. Gerdel cevizinin adı, gerdel adı verilen tahta kovalara takılan halatların, kovanın",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1555,
+      "content": "olların geriye doğru dikilmesi gerekir veya başka cevizlerle (Arap cevizi, mevlana cevizi, vs.) birlikte kullanılır. Gerdel cevizinin adı, gerdel adı verilen tahta kovalara takılan halatların, kovanın deliğinden çıkmaması için ucuna yapılan düğümden kaynaklanır. Ceviz yapmakta amaç halatı sonlandırmaksa, artan kollar kesilmez, bunlar halat ucundan geriye doğru kolların aralarından kavalye kullanılarak geçirilir. Bu halat dikişi yönteminde her dikişten sonra kolun kalınlığı yarıya indirilerek kolların düzgün şekilde halatın bedeni ile bütünleşmesi sağlanır. Bu şekilde dikilen ipin ucu açılmaz. Dikme yoluyla halat sonlandırmanın avantajı, ilmik yapıp bağlamaktan daha pratik olmasıdır, eğer piyanlama yapmak için gırcala gibi bir malzeme elde yoksa.",
+      "char_count": 755,
+      "token_estimate": 188
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gerdel cevizinin diğer adı nedir?",
+        "answer": "Piyan cevizi.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gerdel cevizi uygulandıktan sonra halat ucunu sonlandırmak için belirtilen farklı yöntemler nelerdir ve bu yöntemlerden birinin, piyanlama malzemesi bulunmadığında sağladığı özel avantaj nedir?",
+        "answer": "Gerdel cevizi uygulandıktan sonra halat ucu, artan kısımların kesilmesi, kolların inceltilerek halatın bedenine sıkıştırılması veya kolların geriye doğru dikilmesi yöntemleriyle sonlandırılabilir. Kolların geriye doğru dikilmesi yöntemi, piyanlama yapmak için gırcala gibi bir malzeme elde olmadığında, ilmik yapıp bağlamaktan daha pratik bir avantaj sağlar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

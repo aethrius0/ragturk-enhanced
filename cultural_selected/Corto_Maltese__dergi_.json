@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "cortomaltesedergi_0ac9f07d",
+    "title": "Corto Maltese (dergi)",
+    "url": "https://tr.wikipedia.org/wiki/Corto_Maltese_%28dergi%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:02.681485",
+    "content": "Corto Maltese, 1983-1993 yılları arasında Rizzoli yayın grubunun bir alt markası olan Milano Libri Edizioni tarafından yayınlanan İtalyan antoloji çizgi roman dergisiydi. Dergi adını Hugo Pratt tarafından yaratılan aynı adlı ünlü karakterden almıştır. Yayın hayatı boyunca İtalya'nın ve dünyanın en iyi çizerlerinin çizgi romanlarını yayınlamıştır. == Yayın geçmişi == Alterlinus dergisinin kapanmasının ardından, linus'un eski yayıncısı Milano Libri kültürlü ve talepkâr bir kitleye yönelik çizgi roman hikâyelerine adanmış bir yayın sunmayı denemek istedi ve uzun bir tanıtım kampanyasının ardından 1983 yılında Corto Maltese dergisini çıkardı. Genel yayın yönetmenliği görevi, derginin yaratıcısı olan ve 1981'den 1995'e kadar tarihi bir İtalyan çizgi roman ve kültür dergisi olan linus'u da yöneten Fulvia Serra'ya verildi. Kuşe kağıda basılan, büyük formatlı, çok sayıda renkli sayfası ve yüksek kaliteli öyküleri olan Corto Maltese, okuyucularına egzotik ve genellikle ilkel halkların gelenek ve alışkanlıklarını anlatan bir dizi kısa öykü ve seyahat raporu (ya da aynı konudaki kitapların incelemelerini) sunuyordu; bunlar da genellikle egzotik ve genellikle ilkel yerlerdeki maceraları anlatan gerçek çizgi romanlarla dönüşümlü olarak yayınlanıyordu. Her sayı, Fulvia Serra'nın kendisini egzotik ve uzak yerlere seyahat eden bir amiral gemisinin \"kaptanı\" olarak tasvir ettiği ve \"yol arkadaşları\" olarak adlandırdığı okuyucularına her seferinde yeni yerler ve geziler önerdiği bir başyazı ile başlıyordu. İlk sayılarda Hugo Pratt, Milo Manara, Guido Crepax, Andrea Pazienza, Sergio Toppi, Attilio Micheluzzi, Dino Battaglia, Vittorio Giardino ve Altan gibi önemli İtalyan yazarların öyküleri yer aldı. Daha sonra Moebius, Frank Miller, Enki Bilal, Dave McKean ve Alan Moore gibi prestijli yabancı yazar ve çizerler de yer aldı. Zaman içinde Man of Steel, V for Vendetta, Watchmen ve Black Orchid'i İtalya'ya getiren çeşitli ekler yaratıldı ve yayınlandı. 1988'den 1993'e kadar derginin birçok sayısında Neil Gaiman ve Alan Moore gibi Amerikalı yazarların öykülerini içeren ekler yer aldı. Derginin büyük formatı, birkaç sayı boyunca seri halinde yayınlanan çizgi romanların en iyi şekilde çoğaltılmasına olanak tanıdı. Dergi, yüksek kaliteli ürünler sunduğu 10 yılın ardından Temmuz 1993'te yayınına son verdi. Dergi, dönemin diğer birçok çizgi roman dergisi gibi, daha düşük kaliteli ve özellikle de daha düşük maliyetli yayınların rekabetine dayanamaması nedeniyle kapanmak zorunda kalmıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 345,
+      "char_count": 2518,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.821174",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 349,
+      "content": "Corto Maltese, 1983-1993 yılları arasında Rizzoli yayın grubunun bir alt markası olan Milano Libri Edizioni tarafından yayınlanan İtalyan antoloji çizgi roman dergisiydi. Dergi adını Hugo Pratt tarafından yaratılan aynı adlı ünlü karakterden almıştır. Yayın hayatı boyunca İtalya'nın ve dünyanın en iyi çizerlerinin çizgi romanlarını yayınlamıştır.",
+      "char_count": 348,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0001",
+      "section": "== Yayın geçmişi ==",
+      "heading_path": "== Yayın geçmişi ==",
+      "start_char": 349,
+      "end_char": 1349,
+      "content": "== Yayın geçmişi == Alterlinus dergisinin kapanmasının ardından, linus'un eski yayıncısı Milano Libri kültürlü ve talepkâr bir kitleye yönelik çizgi roman hikâyelerine adanmış bir yayın sunmayı denemek istedi ve uzun bir tanıtım kampanyasının ardından 1983 yılında Corto Maltese dergisini çıkardı. Genel yayın yönetmenliği görevi, derginin yaratıcısı olan ve 1981'den 1995'e kadar tarihi bir İtalyan çizgi roman ve kültür dergisi olan linus'u da yöneten Fulvia Serra'ya verildi. Kuşe kağıda basılan, büyük formatlı, çok sayıda renkli sayfası ve yüksek kaliteli öyküleri olan Corto Maltese, okuyucularına egzotik ve genellikle ilkel halkların gelenek ve alışkanlıklarını anlatan bir dizi kısa öykü ve seyahat raporu (ya da aynı konudaki kitapların incelemelerini) sunuyordu; bunlar da genellikle egzotik ve genellikle ilkel yerlerdeki maceraları anlatan gerçek çizgi romanlarla dönüşümlü olarak yayınlanıyordu. Her sayı, Fulvia Serra'nın kendisini egzotik ve uzak yerlere seyahat eden bir amiral gemis",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yayın geçmişi ==",
+      "heading_path": "== Yayın geçmişi ==",
+      "start_char": 1149,
+      "end_char": 2149,
+      "content": "ik ve genellikle ilkel yerlerdeki maceraları anlatan gerçek çizgi romanlarla dönüşümlü olarak yayınlanıyordu. Her sayı, Fulvia Serra'nın kendisini egzotik ve uzak yerlere seyahat eden bir amiral gemisinin \"kaptanı\" olarak tasvir ettiği ve \"yol arkadaşları\" olarak adlandırdığı okuyucularına her seferinde yeni yerler ve geziler önerdiği bir başyazı ile başlıyordu. İlk sayılarda Hugo Pratt, Milo Manara, Guido Crepax, Andrea Pazienza, Sergio Toppi, Attilio Micheluzzi, Dino Battaglia, Vittorio Giardino ve Altan gibi önemli İtalyan yazarların öyküleri yer aldı. Daha sonra Moebius, Frank Miller, Enki Bilal, Dave McKean ve Alan Moore gibi prestijli yabancı yazar ve çizerler de yer aldı. Zaman içinde Man of Steel, V for Vendetta, Watchmen ve Black Orchid'i İtalya'ya getiren çeşitli ekler yaratıldı ve yayınlandı. 1988'den 1993'e kadar derginin birçok sayısında Neil Gaiman ve Alan Moore gibi Amerikalı yazarların öykülerini içeren ekler yer aldı. Derginin büyük formatı, birkaç sayı boyunca seri ha",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Yayın geçmişi ==",
+      "heading_path": "== Yayın geçmişi ==",
+      "start_char": 1949,
+      "end_char": 2503,
+      "content": "ve yayınlandı. 1988'den 1993'e kadar derginin birçok sayısında Neil Gaiman ve Alan Moore gibi Amerikalı yazarların öykülerini içeren ekler yer aldı. Derginin büyük formatı, birkaç sayı boyunca seri halinde yayınlanan çizgi romanların en iyi şekilde çoğaltılmasına olanak tanıdı. Dergi, yüksek kaliteli ürünler sunduğu 10 yılın ardından Temmuz 1993'te yayınına son verdi. Dergi, dönemin diğer birçok çizgi roman dergisi gibi, daha düşük kaliteli ve özellikle de daha düşük maliyetli yayınların rekabetine dayanamaması nedeniyle kapanmak zorunda kalmıştır.",
+      "char_count": 554,
+      "token_estimate": 138
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Corto Maltese dergisi hangi yıl piyasaya sürülmüştür?",
+        "answer": "1983",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Corto Maltese dergisini kültürlü ve talepkar bir kitleye yönelik ayırt edici ve yüksek kaliteli bir yayın yapan özellikler nelerdi?",
+        "answer": "Corto Maltese dergisi, Milano Libri tarafından Alterlinus'un kapanmasının ardından kültürlü ve talepkar bir kitleye hitap etmek üzere 1983'te çıkarıldı. Yüksek kaliteli öyküler, kuşe kağıda basılmış büyük formatı ve çok sayıda renkli sayfasıyla öne çıkıyordu. İçeriği, egzotik yerlerdeki maceraları anlatan çizgi romanlarla birlikte egzotik ve ilkel halkların geleneklerini anlatan kısa öyküler ve seyahat raporları sunuyordu. Ayrıca dergi, Hugo Pratt, Milo Manara gibi önemli İtalyan yazarların yanı sıra Moebius, Frank Miller ve Alan Moore gibi prestijli yabancı yazar ve çizerlerin eserlerine yer verdi ve V for Vendetta ile Watchmen gibi tanınmış çizgi romanları İtalya'ya getiren ekler yayınladı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

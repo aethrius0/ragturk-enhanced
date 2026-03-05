@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "laplacednm_e9101a6b",
+    "title": "Laplace dönüşümü",
+    "url": "https://tr.wikipedia.org/wiki/Laplace_d%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:27.033813",
+    "content": "Matematikte, Laplace dönüşümü, zaman tanım kümesinde tanımlı bir fonksiyonu, frekans tanım kümesinde tanımlı bir başka fonksiyona dönüştürmek amacıyla kullanılır. Laplace dönüşümü ile diferansiyel denklemler çözmesi daha kolay polinomlara dönüştüğü için, zamandan bağımsız doğrusal sistemlerin modellenmesinde ve diferansiyel denklemlerin çözülmesinde, başlangıç değer teoremi, son değer teoremi ve sınır değer problemi gibi çeşitli problemlerde, olasılık teorisinde ve ilgili fonksiyonun frekans karakteristiğini net bir şekilde göstermesinden dolayı sinyal işlemede de kullanılır. İsim babası, bu yöntemi geliştiren Pierre-Simon Laplace'tır. Verilen bir f(t) fonksiyonunun (tüm t ≥ 0 reel sayıları için tanımlı) Laplace dönüşümü F(s) matematiksel olarak şöyle gösterilir: F ( s ) = L { f ( t ) } = ∫ 0 − ∞ e − s t f ( t ) d t . {\\displaystyle F(s)={\\mathcal {L}}\\left\\{f(t)\\right\\}=\\int _{0^{-}}^{\\infty }e^{-st}f(t)\\,dt.} == Özellikler ve teoremler == Laplace dönüşümü doğrusal dinamik sistemlerin incelenmesini kolaylaştıran bazı özelliklere sahiptir. En önemli özelliği, türevi s {\\displaystyle s} ile çarpıma, integrali s {\\displaystyle s} ile bölmeye dönüştürmesidir. Yani, diferansiyel denklemleri, çözmesi daha kolay olan polinomlara dönüştürür. Denklem çözüldükten sonra ters Laplace dönüşümü ile zaman tanım kümesine tekrar dönülebilir. Verilen f(t) ve g(t) fonksiyonları ve bunların Laplace dönüşümleri F(s) ve G(s) için f ( t ) = L − 1 { F ( s ) } {\\displaystyle f(t)={\\mathcal {L}}^{-1}\\{F(s)\\}} g ( t ) = L − 1 { G ( s ) } {\\displaystyle g(t)={\\mathcal {L}}^{-1}\\{G(s)\\}} aşağıdaki tablo tek yanlı Laplace dönüşümünün özelliklerinin bir listesidir: Başlangıç değer teoremi: f ( 0 + ) = lim s → ∞ s F ( s ) {\\displaystyle f(0^{+})=\\lim _{s\\to \\infty }{sF(s)}} Son değer teoremi: f ( ∞ ) = lim s → 0 s F ( s ) {\\displaystyle f(\\infty )=\\lim _{s\\to 0}{sF(s)}} , Paydanın kökleri sol taraf düzlemindedir. son değer teoremi bir fonksiyonun uzun dönem davranışını basit kesirlere ayırma veya diğer zorlu cebir işlemler uygulamaksızın verdiği için yararlıdır. Eğer bir fonksiyonun kökleri sağ taraf düzlemindeyse (örn. e t {\\displaystyle e^{t}} or sin ⁡ ( t ) {\\displaystyle \\sin(t)} ) bu formülün davranışı tanımsızdır. == Ayrıca bakınız == Matematiksel fonksiyonların listesi Fourier dönüşümü Z-dönüşümü Hankel dönüşümü == Dış bağlantılar == http://wims.unice.fr/wims/wims.cgi 10 Şubat 2008 tarihinde Wayback Machine sitesinde arşivlendi. (Verilen bir fonksiyonun hem Laplace ve Fourier dönüşümlerini, hem de ters dönüşümlerini hesaplayan bir site) == Kaynakça == == Bibliyografya == Korn, G. A.; Korn, T. M. (1967), Mathematical Handbook for Scientists and Engineers, 2nd, McGraw-Hill Companies, ISBN 978-0-07-035370-1",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 395,
+      "char_count": 2729,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.310979",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 782,
+      "content": "Matematikte, Laplace dönüşümü, zaman tanım kümesinde tanımlı bir fonksiyonu, frekans tanım kümesinde tanımlı bir başka fonksiyona dönüştürmek amacıyla kullanılır. Laplace dönüşümü ile diferansiyel denklemler çözmesi daha kolay polinomlara dönüştüğü için, zamandan bağımsız doğrusal sistemlerin modellenmesinde ve diferansiyel denklemlerin çözülmesinde, başlangıç değer teoremi, son değer teoremi ve sınır değer problemi gibi çeşitli problemlerde, olasılık teorisinde ve ilgili fonksiyonun frekans karakteristiğini net bir şekilde göstermesinden dolayı sinyal işlemede de kullanılır. İsim babası, bu yöntemi geliştiren Pierre-Simon Laplace'tır. Verilen bir f(t) fonksiyonunun (tüm t ≥ 0 reel sayıları için tanımlı) Laplace dönüşümü F(s) matematiksel olarak şöyle gösterilir: F ( s )",
+      "char_count": 781,
+      "token_estimate": 195
+    },
+    {
+      "id": "c0001",
+      "section": "= L { f ( t ) } =",
+      "heading_path": "= L { f ( t ) } =",
+      "start_char": 782,
+      "end_char": 849,
+      "content": "= L { f ( t ) } = ∫ 0 − ∞ e − s t f ( t ) d t . {\\displaystyle F(s)",
+      "char_count": 67,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0002",
+      "section": "= {\\mathcal {L}}\\left\\{f(t)\\right\\}=\\int _{0^{-}}^{\\infty }e^{-st}f(t)\\,dt.} = =",
+      "heading_path": "= {\\mathcal {L}}\\left\\{f(t)\\right\\}=\\int _{0^{-}}^{\\infty }e^{-st}f(t)\\,dt.} = =",
+      "start_char": 849,
+      "end_char": 952,
+      "content": "={\\mathcal {L}}\\left\\{f(t)\\right\\}=\\int _{0^{-}}^{\\infty }e^{-st}f(t)\\,dt.} == Özellikler ve teoremler",
+      "char_count": 102,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0003",
+      "section": "== Laplace dönüşümü doğrusal dinamik sistemlerin incelenmesini kolaylaştıran bazı özelliklere sahiptir. En önemli özelliği, türevi s {\\displaystyle s} ile çarpıma, integrali s {\\displaystyle s} ile bölmeye dönüştürmesidir. Yani, diferansiyel denklemleri, çözmesi daha kolay olan polinomlara dönüştürür. Denklem çözüldükten sonra ters Laplace dönüşümü ile zaman tanım kümesine tekrar dönülebilir. Verilen f(t) ve g(t) fonksiyonları ve bunların Laplace dönüşümleri F(s) ve G(s) için f ( t ) = L − 1 { F ( s ) } {\\displaystyle f(t)={\\mathcal {L}}^{-1}\\{F(s)\\}} g ( t ) = L − 1 { G ( s ) } {\\displaystyle g(t)={\\mathcal {L}}^{-1}\\{G(s)\\}} aşağıdaki tablo tek yanlı Laplace dönüşümünün özelliklerinin bir listesidir: Başlangıç değer teoremi: f ( 0 + ) = lim s → ∞ s F ( s ) {\\displaystyle f(0^{+})=\\lim _{s\\to \\infty }{sF(s)}} Son değer teoremi: f ( ∞ ) = lim s → 0 s F ( s ) {\\displaystyle f(\\infty )=\\lim _{s\\to 0}{sF(s)}} , Paydanın kökleri sol taraf düzlemindedir. son değer teoremi bir fonksiyonun uzun dönem davranışını basit kesirlere ayırma veya diğer zorlu cebir işlemler uygulamaksızın verdiği için yararlıdır. Eğer bir fonksiyonun kökleri sağ taraf düzlemindeyse (örn. e t {\\displaystyle e^{t}} or sin ⁡ ( t ) {\\displaystyle \\sin(t)} ) bu formülün davranışı tanımsızdır. ==",
+      "heading_path": "== Laplace dönüşümü doğrusal dinamik sistemlerin incelenmesini kolaylaştıran bazı özelliklere sahiptir. En önemli özelliği, türevi s {\\displaystyle s} ile çarpıma, integrali s {\\displaystyle s} ile bölmeye dönüştürmesidir. Yani, diferansiyel denklemleri, çözmesi daha kolay olan polinomlara dönüştürür. Denklem çözüldükten sonra ters Laplace dönüşümü ile zaman tanım kümesine tekrar dönülebilir. Verilen f(t) ve g(t) fonksiyonları ve bunların Laplace dönüşümleri F(s) ve G(s) için f ( t ) = L − 1 { F ( s ) } {\\displaystyle f(t)={\\mathcal {L}}^{-1}\\{F(s)\\}} g ( t ) = L − 1 { G ( s ) } {\\displaystyle g(t)={\\mathcal {L}}^{-1}\\{G(s)\\}} aşağıdaki tablo tek yanlı Laplace dönüşümünün özelliklerinin bir listesidir: Başlangıç değer teoremi: f ( 0 + ) = lim s → ∞ s F ( s ) {\\displaystyle f(0^{+})=\\lim _{s\\to \\infty }{sF(s)}} Son değer teoremi: f ( ∞ ) = lim s → 0 s F ( s ) {\\displaystyle f(\\infty )=\\lim _{s\\to 0}{sF(s)}} , Paydanın kökleri sol taraf düzlemindedir. son değer teoremi bir fonksiyonun uzun dönem davranışını basit kesirlere ayırma veya diğer zorlu cebir işlemler uygulamaksızın verdiği için yararlıdır. Eğer bir fonksiyonun kökleri sağ taraf düzlemindeyse (örn. e t {\\displaystyle e^{t}} or sin ⁡ ( t ) {\\displaystyle \\sin(t)} ) bu formülün davranışı tanımsızdır. ==",
+      "start_char": 952,
+      "end_char": 1952,
+      "content": "== Laplace dönüşümü doğrusal dinamik sistemlerin incelenmesini kolaylaştıran bazı özelliklere sahiptir. En önemli özelliği, türevi s {\\displaystyle s} ile çarpıma, integrali s {\\displaystyle s} ile bölmeye dönüştürmesidir. Yani, diferansiyel denklemleri, çözmesi daha kolay olan polinomlara dönüştürür. Denklem çözüldükten sonra ters Laplace dönüşümü ile zaman tanım kümesine tekrar dönülebilir. Verilen f(t) ve g(t) fonksiyonları ve bunların Laplace dönüşümleri F(s) ve G(s) için f ( t ) = L − 1 { F ( s ) } {\\displaystyle f(t)={\\mathcal {L}}^{-1}\\{F(s)\\}} g ( t ) = L − 1 { G ( s ) } {\\displaystyle g(t)={\\mathcal {L}}^{-1}\\{G(s)\\}} aşağıdaki tablo tek yanlı Laplace dönüşümünün özelliklerinin bir listesidir: Başlangıç değer teoremi: f ( 0 + ) = lim s → ∞ s F ( s ) {\\displaystyle f(0^{+})=\\lim _{s\\to \\infty }{sF(s)}} Son değer teoremi: f ( ∞ ) = lim s → 0 s F ( s ) {\\displaystyle f(\\infty )=\\lim _{s\\to 0}{sF(s)}} , Paydanın kökleri sol taraf düzlemindedir. son değer teoremi bir fonksiyonun uz",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Laplace dönüşümü doğrusal dinamik sistemlerin incelenmesini kolaylaştıran bazı özelliklere sahiptir. En önemli özelliği, türevi s {\\displaystyle s} ile çarpıma, integrali s {\\displaystyle s} ile bölmeye dönüştürmesidir. Yani, diferansiyel denklemleri, çözmesi daha kolay olan polinomlara dönüştürür. Denklem çözüldükten sonra ters Laplace dönüşümü ile zaman tanım kümesine tekrar dönülebilir. Verilen f(t) ve g(t) fonksiyonları ve bunların Laplace dönüşümleri F(s) ve G(s) için f ( t ) = L − 1 { F ( s ) } {\\displaystyle f(t)={\\mathcal {L}}^{-1}\\{F(s)\\}} g ( t ) = L − 1 { G ( s ) } {\\displaystyle g(t)={\\mathcal {L}}^{-1}\\{G(s)\\}} aşağıdaki tablo tek yanlı Laplace dönüşümünün özelliklerinin bir listesidir: Başlangıç değer teoremi: f ( 0 + ) = lim s → ∞ s F ( s ) {\\displaystyle f(0^{+})=\\lim _{s\\to \\infty }{sF(s)}} Son değer teoremi: f ( ∞ ) = lim s → 0 s F ( s ) {\\displaystyle f(\\infty )=\\lim _{s\\to 0}{sF(s)}} , Paydanın kökleri sol taraf düzlemindedir. son değer teoremi bir fonksiyonun uzun dönem davranışını basit kesirlere ayırma veya diğer zorlu cebir işlemler uygulamaksızın verdiği için yararlıdır. Eğer bir fonksiyonun kökleri sağ taraf düzlemindeyse (örn. e t {\\displaystyle e^{t}} or sin ⁡ ( t ) {\\displaystyle \\sin(t)} ) bu formülün davranışı tanımsızdır. ==",
+      "heading_path": "== Laplace dönüşümü doğrusal dinamik sistemlerin incelenmesini kolaylaştıran bazı özelliklere sahiptir. En önemli özelliği, türevi s {\\displaystyle s} ile çarpıma, integrali s {\\displaystyle s} ile bölmeye dönüştürmesidir. Yani, diferansiyel denklemleri, çözmesi daha kolay olan polinomlara dönüştürür. Denklem çözüldükten sonra ters Laplace dönüşümü ile zaman tanım kümesine tekrar dönülebilir. Verilen f(t) ve g(t) fonksiyonları ve bunların Laplace dönüşümleri F(s) ve G(s) için f ( t ) = L − 1 { F ( s ) } {\\displaystyle f(t)={\\mathcal {L}}^{-1}\\{F(s)\\}} g ( t ) = L − 1 { G ( s ) } {\\displaystyle g(t)={\\mathcal {L}}^{-1}\\{G(s)\\}} aşağıdaki tablo tek yanlı Laplace dönüşümünün özelliklerinin bir listesidir: Başlangıç değer teoremi: f ( 0 + ) = lim s → ∞ s F ( s ) {\\displaystyle f(0^{+})=\\lim _{s\\to \\infty }{sF(s)}} Son değer teoremi: f ( ∞ ) = lim s → 0 s F ( s ) {\\displaystyle f(\\infty )=\\lim _{s\\to 0}{sF(s)}} , Paydanın kökleri sol taraf düzlemindedir. son değer teoremi bir fonksiyonun uzun dönem davranışını basit kesirlere ayırma veya diğer zorlu cebir işlemler uygulamaksızın verdiği için yararlıdır. Eğer bir fonksiyonun kökleri sağ taraf düzlemindeyse (örn. e t {\\displaystyle e^{t}} or sin ⁡ ( t ) {\\displaystyle \\sin(t)} ) bu formülün davranışı tanımsızdır. ==",
+      "start_char": 1752,
+      "end_char": 2246,
+      "content": "s\\to \\infty }{sF(s)}} Son değer teoremi: f ( ∞ ) = lim s → 0 s F ( s ) {\\displaystyle f(\\infty )=\\lim _{s\\to 0}{sF(s)}} , Paydanın kökleri sol taraf düzlemindedir. son değer teoremi bir fonksiyonun uzun dönem davranışını basit kesirlere ayırma veya diğer zorlu cebir işlemler uygulamaksızın verdiği için yararlıdır. Eğer bir fonksiyonun kökleri sağ taraf düzlemindeyse (örn. e t {\\displaystyle e^{t}} or sin ⁡ ( t ) {\\displaystyle \\sin(t)} ) bu formülün davranışı tanımsızdır. == Ayrıca bakınız",
+      "char_count": 494,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0005",
+      "section": "== Matematiksel fonksiyonların listesi Fourier dönüşümü Z-dönüşümü Hankel dönüşümü ==",
+      "heading_path": "== Matematiksel fonksiyonların listesi Fourier dönüşümü Z-dönüşümü Hankel dönüşümü ==",
+      "start_char": 2247,
+      "end_char": 2349,
+      "content": "== Matematiksel fonksiyonların listesi Fourier dönüşümü Z-dönüşümü Hankel dönüşümü == Dış bağlantılar",
+      "char_count": 101,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0006",
+      "section": "== http://wims.unice.fr/wims/wims.cgi 10 Şubat 2008 tarihinde Wayback Machine sitesinde arşivlendi. (Verilen bir fonksiyonun hem Laplace ve Fourier dönüşümlerini, hem de ters dönüşümlerini hesaplayan bir site) ==",
+      "heading_path": "== http://wims.unice.fr/wims/wims.cgi 10 Şubat 2008 tarihinde Wayback Machine sitesinde arşivlendi. (Verilen bir fonksiyonun hem Laplace ve Fourier dönüşümlerini, hem de ters dönüşümlerini hesaplayan bir site) ==",
+      "start_char": 2349,
+      "end_char": 2571,
+      "content": "== http://wims.unice.fr/wims/wims.cgi 10 Şubat 2008 tarihinde Wayback Machine sitesinde arşivlendi. (Verilen bir fonksiyonun hem Laplace ve Fourier dönüşümlerini, hem de ters dönüşümlerini hesaplayan bir site) == Kaynakça",
+      "char_count": 221,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0007",
+      "section": "== == Bibliyografya ==",
+      "heading_path": "== == Bibliyografya ==",
+      "start_char": 2571,
+      "end_char": 2729,
+      "content": "== == Bibliyografya == Korn, G. A.; Korn, T. M. (1967), Mathematical Handbook for Scientists and Engineers, 2nd, McGraw-Hill Companies, ISBN 978-0-07-035370-1",
+      "char_count": 158,
+      "token_estimate": 39
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Laplace dönüşümü diferansiyel denklemleri nasıl basitleştirir?",
+        "answer": "Türevi 's' ile çarpıma, integrali 's' ile bölmeye dönüştürerek diferansiyel denklemleri çözmesi daha kolay olan polinomlara çevirir.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "INTERPRETATION"
+      },
+      {
+        "question": "Zaman tanım kümesindeki bir fonksiyonu frekans tanım kümesindeki başka bir fonksiyona dönüştürmek amacıyla kullanılan Laplace dönüşümünün matematiksel gösterimi nedir?",
+        "answer": "Verilen bir f(t) fonksiyonunun Laplace dönüşümü F(s), F(s) = L{f(t)} = ∫_0^−∞ e^(-st) f(t) dt şeklinde matematiksel olarak gösterilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

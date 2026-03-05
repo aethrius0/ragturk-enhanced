@@ -1,0 +1,204 @@
+{
+  "article": {
+    "id": "paralelhesaplama_78588398",
+    "title": "Paralel hesaplama",
+    "url": "https://tr.wikipedia.org/wiki/Paralel_hesaplama",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:53.465165",
+    "content": "Paralel hesaplama ya da Koşut hesaplama, aynı görevin (parçalara bölünmüş ve uyarlanmış), sonuçları daha hızlı elde etmek için çoklu işlemcilerde eş zamanlı olarak işletilmesidir. Bu fikir, problemlerin çözümünün ufak görev parçalarına bölünmesi ve bunların eş zamanlı olarak koordine edilmesine dayanır. Paralel hesaplama ile performans artar, büyük sorunlar daha az sürede çözülür ve bilimdeki gelişmeler paralel hesaplamaya gereksinim duyar. == İki sayının toplanması == Seri (1 işlemci) 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 3 + 3 + 4 + 5 + 6 + 7 + 8 6 + 4 + 5 + 6 + 7 + 8 10 + 5 + 6 + 7 + 8 15 + 6 + 7 + 8 21 + 7 + 8 28 + 8 36 Paralel (2 işlemci) 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 3 + 3 + 4 + 5 + 6 + 15 6 + 4 + 5 + 21 10 + 26 36 1,75 kat hızlanma sağlanır. Daha fazla işlem olursa hızlanma 2 kata kadar çıkar. == Paralel Hesaplama Sistemleri == Paralel işlemci terimi bazen paralel işlemeye elverişli birden fazla işlemci içeren bir bilgisayarı tanımlamak için kullanılır. Binlerce işlemci içeren sistemler güçlü paralel (massively parallel) sistemler olarak bilinir. Çok çekirdekli işlemciler de paralel hesaplama sistemleri için uygundur. Kullanılan işlemcilerin büyüklüğüne göre sistemler büyük taneli (large grain) ve küçük taneli (small grain) olarak ikiye ayrılır. PC tabanlı sistemler küçük taneli sistemlere örnek olarak verilebilir. Çok çeşitli paralel bilgisayar (işlemci) yapıları vardır. Bu çeşitler, işlemciler (işleme elemanı olarak adlandırılır-PE) arasındaki veya işlemci ve hafıza arasındaki bağlantıya göre belirlenir. Flynn, tüm işlemcilerin aynı zamanda aynı talimatları işlemelerine göre (tek talimat/çoklu veri-SIMD) veya her bir işlemcinin farklı talimatları (çoklu talimat/çoklu veri-MIMD) işlemesine göre paralel bilgisayarları sınıflandırır. Paralel işlemci makineleri simetrik (tüm işlemcilerin aynı seviyede olması) ve asimetrik (işlemcilerin bazı görevler için ayrılması ve önceliklerinin olması) çoklu işlemciler olarak ikiye ayrılır. == Performans & Fiyat == n adet paralel işlemciden oluşan bir sistem, n kat hızlı tek bir işlemciden daha az verimlidir fakat çok daha ucuzdur. Çok fazla hesaplama gerektiren, bitirilmesinde zaman kısıtları olan ve özellikle n adet thread'e bölünebilen görevler için paralel hesaplama mükemmel bir çözümdür. Aslında geçtiğimiz yıllarda, süperbilgisayar olarak bilinen yüksek performanslı hesaplama sistemleri paralel bir mimariye sahiptir. == Algoritmalar == Bir paralel hesaplamanın, sadece uygun donanımı satın alıp, bağlantılarını yapınca başarılı olacağı asla düşünülmemelidir. Kooperatif problem çözme şu sebepten dolayı zordur: Eğer bir insan bir çukuru bir dakikada kazıyorsa, 60 insanın bir çukuru bir saniyede kazması gerekir. Pratikte lineer hızlanmayı (işlemci sayısıyla orantılı) başarmak çok zordur. Bunun nedeni, doğada birçok algoritma aslında sıralıdır (Amdahl yasası bunu bilimsel olarak açıklamıştır). Ekstra işlemciler eklendikçe, bazı iş yükleri, boruhattı (pipeline) paralellik kullanarak belli bir noktaya kadar fayda sağlar. Bu sistem, bir fabrika montaj hattı yaklaşımı kullanarak işleri parçalar. Eğer iş n aşamaya bölünebiliyorsa ve bir ayrık değişken bir aşamadan diğer birine iletilebiliyorsa, en fazla n adet işlemci kullanılabilir. Bununla birlikte, en yavaş aşama diğer aşamaları da tutacaktır ve n işlemciyi tam performansta kullanmak pek mümkün olmayacaktır. Pek çok algoritma, paralel donanımın kullanımını daha verimli yapmak için tekrar tasarlanmalıdır. Tek işlemcili sistemlerde iyi çalışan programlar, paralel sistemlerde aynı performansı vermeyebilir. Aynı programın çoklu kopyaları, birbirlerini etkileyebilirler (aynı anda aynı hafıza adresine yazma/okuma yapma). Bu yüzden paralel sistemlerde dikkatli programlama yapılması gerekir. == Thread'ler arası iletişim == Paralel bilgisayarlar, teorik olarak, Paralel Rastgele Erişim Makineleri (PRAM) olarak modellenir. PRAM modeli, hesaplama bileşenleri arasındaki bağlantı masraflarını yok sayar fakat bununla beraber pek çok problem için paralel çözülebilirlik desteği sunar. Gerçekte ara bağlantılar çok hayati rol oynar. İşlemciler bir problemi iş birliği ile çözerken birbirleriyle haberleşmek durumundadırlar veya işleri dağıtan ve sonuçları toplayan bir başka işlemcinin kontrolü altında birbirlerinden tamamen bağımsız çalışabilirler. Bir paralel bilgisayardaki işlemciler birbirleriyle pek çok çeşitli yöntemler ile haberleşirler. Bunlar: paylaşılmış hafıza, sürgü (crossbar), paylaşılmış bir veriyolu ya da yıldız, halka, ağaç, hiperküp, şişman hiperküp, n boyutlu ağ (mesh) gibi çok sayıda çeşitli ağ topolojileri vs. olabilir. Paralel bilgisayarlar, birbirleriyle doğrudan bağlantılı olmayan düğümlerde mesajların değişimi için bazı yönlendirme tekniklerine ihtiyaç duyarlar. Büyük ölçekli çoklu işlemci makinelerinde haberleşme ortamı hiyerarşik biçimdedir. Benzer şekilde, hafıza her bir işlemciye özgü, belli sayıdaki işlemciler için paylaşımlı veya tümüyle paylaşımlı olabilir. Paralel bilgisayar yaklaşımları şu şekildedir: Çoklu işleme (multiprocessing) Bilgisayar kümelemesi Paralel süperbilgisayarlar Dağıtık hesaplama NUMA, SMP ve massively paralel sistemler Izgara (grid) hesaplama == Paralel Programlama == Paralel bilgisayarlarda programlama için işletim sistemi seviyesinde ve programlama dili seviyesinde pek çok yazılım sistemi geliştirilmiştir. Bu sistemler, problemin parçalara bölümlenmesini ve işlemcilere atanmasını sağlayan çeşitli mekanizmalar içermelidir. Dolaylı paralellik (implicit parallelism) derleyici ya da diğer programın problemi bölümlemesi ve işlemcilere otomatik olarak atamasıdır. Dolaysız paralellik (explicit parallelism) ise programcının problemin nasıl bölümleneceğini bildirmesidir. Şu an pek çok paralel işleme derleyici uygulamaları tek-katmanlı parallelliği desteklemektedir. Çok-katmanlı paralellik de paralel çalışan thread'ler daha fazla paralellik için daha da bölünürler. Semaphore ve monitor adı verilen senkronizasyon yapıları ile işlemlerin kaynakları paylaşımında bir anlaşmazlık olması durumu engellenmiştir. Yük dengeleme, ağır yük ile çalışan işlemciden bazı görevleri daha hafif yük ile çalışan işlemcilere taşıyarak hepsinin aynı meşguliyette olmasını sağlar. Bazı insanlar paralel programlamayı, eşzamanlı (concurrent) programlama ile eş anlamlı kabul ederler. Bazıları da kesin bir çizgiyle ayrırırlar. Paralel programlama, işlemler arasında iyi tanımlanmış iletişim yapıları kullanan ve verimi artırmaya yönelik işlemlerinin paralel işlenmesini sağlayan bir yapıdır. Eşzamanlı (concurrent) programlama, performanstan ziyade başka nedenlerden dolayı eşzamanlı işlemler arasında yeni iletişim tekniklerine dayanan bir yapıdadır. İşlemler arası iletişim genelde paylaşımlı hafıza veya mesaj geçirme tekniği ile yapılır. === İyi bilinen paralel yazılım problem kümeleri === Cansıkıcı (Embarrassingly) paralel: Bir birinden bağımsız alt görevler içeren, kolay uygulanabilen problemlerdir. Daha çok dağıtık hesaplama için uygundurlar. Mesela büyük bir grafiğin render edilmesi veya seti@home gibi projeler buna örnek verilebilir. Büyük uğraştırıcı (grand challenge) problemler: Genelde çözülmesi çok zor olan problemlerdir. Ör: uygulamalı akışkanlar dinamiği, ekosistem simülasyonları, biyomedikal görüntüleme ve biyomekanik, moleküler biyoloji, kavrama, nükleer güç ve silah simulasyonları vs. == Paralel programlama modelleri == Bir paralel programlama modeli, paralel algoritmaları açıklayan bir yazılım teknolojileri kümesidir. Bu model, uygulamalar, diller, derleyiciler, kütüphaneler, iletişim sistemleri ve paralel giriş/çıkış alanlarını kapsar. Programcılar, kendileri ve uygulamaları için uygun bir model veya karma bir model seçip, uygulamalarını geliştirirler. Paralel modeller çok farklı şekillerde uyarlanırlar: klasik sıralı dillerden çağrılan kütüphaneler şeklinde, dil uzantıları şeklinde ya da tamamen yeni işleme modelleriyle. Bu modeller kabaca ikiye ayrılırlar: paylaşımlı hafıza sistemleri ve dağıtık hafıza sistemleri. Günümüzde bu iki sistem arasındaki çizgi oldukça bulanıklaşmıştır. === Sık kullanılan paralel programlama modelleri === Sık kullanılan paralel programlama modelleri şöyledir: PVM, MPI, OpenMP, Global Arrays, Co-Array Fortran, UPC, HPF, SHMEM, Occam, Linda, Cilk. == Ayrıca bakınız == Dağıtık hesaplama == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 1097,
+      "char_count": 8270,
+      "num_chunks": 15,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.397952",
+    "total_chunks": 15,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 445,
+      "content": "Paralel hesaplama ya da Koşut hesaplama, aynı görevin (parçalara bölünmüş ve uyarlanmış), sonuçları daha hızlı elde etmek için çoklu işlemcilerde eş zamanlı olarak işletilmesidir. Bu fikir, problemlerin çözümünün ufak görev parçalarına bölünmesi ve bunların eş zamanlı olarak koordine edilmesine dayanır. Paralel hesaplama ile performans artar, büyük sorunlar daha az sürede çözülür ve bilimdeki gelişmeler paralel hesaplamaya gereksinim duyar.",
+      "char_count": 444,
+      "token_estimate": 111
+    },
+    {
+      "id": "c0001",
+      "section": "== İki sayının toplanması ==",
+      "heading_path": "== İki sayının toplanması ==",
+      "start_char": 445,
+      "end_char": 804,
+      "content": "== İki sayının toplanması == Seri (1 işlemci) 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 3 + 3 + 4 + 5 + 6 + 7 + 8 6 + 4 + 5 + 6 + 7 + 8 10 + 5 + 6 + 7 + 8 15 + 6 + 7 + 8 21 + 7 + 8 28 + 8 36 Paralel (2 işlemci) 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 3 + 3 + 4 + 5 + 6 + 15 6 + 4 + 5 + 21 10 + 26 36 1,75 kat hızlanma sağlanır. Daha fazla işlem olursa hızlanma 2 kata kadar çıkar.",
+      "char_count": 358,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0002",
+      "section": "== Paralel Hesaplama Sistemleri ==",
+      "heading_path": "== Paralel Hesaplama Sistemleri ==",
+      "start_char": 804,
+      "end_char": 1804,
+      "content": "== Paralel Hesaplama Sistemleri == Paralel işlemci terimi bazen paralel işlemeye elverişli birden fazla işlemci içeren bir bilgisayarı tanımlamak için kullanılır. Binlerce işlemci içeren sistemler güçlü paralel (massively parallel) sistemler olarak bilinir. Çok çekirdekli işlemciler de paralel hesaplama sistemleri için uygundur. Kullanılan işlemcilerin büyüklüğüne göre sistemler büyük taneli (large grain) ve küçük taneli (small grain) olarak ikiye ayrılır. PC tabanlı sistemler küçük taneli sistemlere örnek olarak verilebilir. Çok çeşitli paralel bilgisayar (işlemci) yapıları vardır. Bu çeşitler, işlemciler (işleme elemanı olarak adlandırılır-PE) arasındaki veya işlemci ve hafıza arasındaki bağlantıya göre belirlenir. Flynn, tüm işlemcilerin aynı zamanda aynı talimatları işlemelerine göre (tek talimat/çoklu veri-SIMD) veya her bir işlemcinin farklı talimatları (çoklu talimat/çoklu veri-MIMD) işlemesine göre paralel bilgisayarları sınıflandırır. Paralel işlemci makineleri simetrik (tüm i",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Paralel Hesaplama Sistemleri ==",
+      "heading_path": "== Paralel Hesaplama Sistemleri ==",
+      "start_char": 1604,
+      "end_char": 1958,
+      "content": "tek talimat/çoklu veri-SIMD) veya her bir işlemcinin farklı talimatları (çoklu talimat/çoklu veri-MIMD) işlemesine göre paralel bilgisayarları sınıflandırır. Paralel işlemci makineleri simetrik (tüm işlemcilerin aynı seviyede olması) ve asimetrik (işlemcilerin bazı görevler için ayrılması ve önceliklerinin olması) çoklu işlemciler olarak ikiye ayrılır.",
+      "char_count": 354,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0004",
+      "section": "== Performans & Fiyat ==",
+      "heading_path": "== Performans & Fiyat ==",
+      "start_char": 1959,
+      "end_char": 2399,
+      "content": "== Performans & Fiyat == n adet paralel işlemciden oluşan bir sistem, n kat hızlı tek bir işlemciden daha az verimlidir fakat çok daha ucuzdur. Çok fazla hesaplama gerektiren, bitirilmesinde zaman kısıtları olan ve özellikle n adet thread'e bölünebilen görevler için paralel hesaplama mükemmel bir çözümdür. Aslında geçtiğimiz yıllarda, süperbilgisayar olarak bilinen yüksek performanslı hesaplama sistemleri paralel bir mimariye sahiptir.",
+      "char_count": 439,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0005",
+      "section": "== Algoritmalar ==",
+      "heading_path": "== Algoritmalar ==",
+      "start_char": 2399,
+      "end_char": 3399,
+      "content": "== Algoritmalar == Bir paralel hesaplamanın, sadece uygun donanımı satın alıp, bağlantılarını yapınca başarılı olacağı asla düşünülmemelidir. Kooperatif problem çözme şu sebepten dolayı zordur: Eğer bir insan bir çukuru bir dakikada kazıyorsa, 60 insanın bir çukuru bir saniyede kazması gerekir. Pratikte lineer hızlanmayı (işlemci sayısıyla orantılı) başarmak çok zordur. Bunun nedeni, doğada birçok algoritma aslında sıralıdır (Amdahl yasası bunu bilimsel olarak açıklamıştır). Ekstra işlemciler eklendikçe, bazı iş yükleri, boruhattı (pipeline) paralellik kullanarak belli bir noktaya kadar fayda sağlar. Bu sistem, bir fabrika montaj hattı yaklaşımı kullanarak işleri parçalar. Eğer iş n aşamaya bölünebiliyorsa ve bir ayrık değişken bir aşamadan diğer birine iletilebiliyorsa, en fazla n adet işlemci kullanılabilir. Bununla birlikte, en yavaş aşama diğer aşamaları da tutacaktır ve n işlemciyi tam performansta kullanmak pek mümkün olmayacaktır. Pek çok algoritma, paralel donanımın kullanımını",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "== Algoritmalar ==",
+      "heading_path": "== Algoritmalar ==",
+      "start_char": 3199,
+      "end_char": 3733,
+      "content": "lemci kullanılabilir. Bununla birlikte, en yavaş aşama diğer aşamaları da tutacaktır ve n işlemciyi tam performansta kullanmak pek mümkün olmayacaktır. Pek çok algoritma, paralel donanımın kullanımını daha verimli yapmak için tekrar tasarlanmalıdır. Tek işlemcili sistemlerde iyi çalışan programlar, paralel sistemlerde aynı performansı vermeyebilir. Aynı programın çoklu kopyaları, birbirlerini etkileyebilirler (aynı anda aynı hafıza adresine yazma/okuma yapma). Bu yüzden paralel sistemlerde dikkatli programlama yapılması gerekir.",
+      "char_count": 534,
+      "token_estimate": 133
+    },
+    {
+      "id": "c0007",
+      "section": "== Thread'ler arası iletişim ==",
+      "heading_path": "== Thread'ler arası iletişim ==",
+      "start_char": 3734,
+      "end_char": 4734,
+      "content": "== Thread'ler arası iletişim == Paralel bilgisayarlar, teorik olarak, Paralel Rastgele Erişim Makineleri (PRAM) olarak modellenir. PRAM modeli, hesaplama bileşenleri arasındaki bağlantı masraflarını yok sayar fakat bununla beraber pek çok problem için paralel çözülebilirlik desteği sunar. Gerçekte ara bağlantılar çok hayati rol oynar. İşlemciler bir problemi iş birliği ile çözerken birbirleriyle haberleşmek durumundadırlar veya işleri dağıtan ve sonuçları toplayan bir başka işlemcinin kontrolü altında birbirlerinden tamamen bağımsız çalışabilirler. Bir paralel bilgisayardaki işlemciler birbirleriyle pek çok çeşitli yöntemler ile haberleşirler. Bunlar: paylaşılmış hafıza, sürgü (crossbar), paylaşılmış bir veriyolu ya da yıldız, halka, ağaç, hiperküp, şişman hiperküp, n boyutlu ağ (mesh) gibi çok sayıda çeşitli ağ topolojileri vs. olabilir. Paralel bilgisayarlar, birbirleriyle doğrudan bağlantılı olmayan düğümlerde mesajların değişimi için bazı yönlendirme tekniklerine ihtiyaç duyarlar. ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0008",
+      "section": "== Thread'ler arası iletişim ==",
+      "heading_path": "== Thread'ler arası iletişim ==",
+      "start_char": 4534,
+      "end_char": 5149,
+      "content": "i çok sayıda çeşitli ağ topolojileri vs. olabilir. Paralel bilgisayarlar, birbirleriyle doğrudan bağlantılı olmayan düğümlerde mesajların değişimi için bazı yönlendirme tekniklerine ihtiyaç duyarlar. Büyük ölçekli çoklu işlemci makinelerinde haberleşme ortamı hiyerarşik biçimdedir. Benzer şekilde, hafıza her bir işlemciye özgü, belli sayıdaki işlemciler için paylaşımlı veya tümüyle paylaşımlı olabilir. Paralel bilgisayar yaklaşımları şu şekildedir: Çoklu işleme (multiprocessing) Bilgisayar kümelemesi Paralel süperbilgisayarlar Dağıtık hesaplama NUMA, SMP ve massively paralel sistemler Izgara (grid) hesaplama",
+      "char_count": 615,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0009",
+      "section": "== Paralel Programlama ==",
+      "heading_path": "== Paralel Programlama ==",
+      "start_char": 5150,
+      "end_char": 6150,
+      "content": "== Paralel Programlama == Paralel bilgisayarlarda programlama için işletim sistemi seviyesinde ve programlama dili seviyesinde pek çok yazılım sistemi geliştirilmiştir. Bu sistemler, problemin parçalara bölümlenmesini ve işlemcilere atanmasını sağlayan çeşitli mekanizmalar içermelidir. Dolaylı paralellik (implicit parallelism) derleyici ya da diğer programın problemi bölümlemesi ve işlemcilere otomatik olarak atamasıdır. Dolaysız paralellik (explicit parallelism) ise programcının problemin nasıl bölümleneceğini bildirmesidir. Şu an pek çok paralel işleme derleyici uygulamaları tek-katmanlı parallelliği desteklemektedir. Çok-katmanlı paralellik de paralel çalışan thread'ler daha fazla paralellik için daha da bölünürler. Semaphore ve monitor adı verilen senkronizasyon yapıları ile işlemlerin kaynakları paylaşımında bir anlaşmazlık olması durumu engellenmiştir. Yük dengeleme, ağır yük ile çalışan işlemciden bazı görevleri daha hafif yük ile çalışan işlemcilere taşıyarak hepsinin aynı meşg",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0010",
+      "section": "== Paralel Programlama ==",
+      "heading_path": "== Paralel Programlama ==",
+      "start_char": 5950,
+      "end_char": 6735,
+      "content": " kaynakları paylaşımında bir anlaşmazlık olması durumu engellenmiştir. Yük dengeleme, ağır yük ile çalışan işlemciden bazı görevleri daha hafif yük ile çalışan işlemcilere taşıyarak hepsinin aynı meşguliyette olmasını sağlar. Bazı insanlar paralel programlamayı, eşzamanlı (concurrent) programlama ile eş anlamlı kabul ederler. Bazıları da kesin bir çizgiyle ayrırırlar. Paralel programlama, işlemler arasında iyi tanımlanmış iletişim yapıları kullanan ve verimi artırmaya yönelik işlemlerinin paralel işlenmesini sağlayan bir yapıdır. Eşzamanlı (concurrent) programlama, performanstan ziyade başka nedenlerden dolayı eşzamanlı işlemler arasında yeni iletişim tekniklerine dayanan bir yapıdadır. İşlemler arası iletişim genelde paylaşımlı hafıza veya mesaj geçirme tekniği ile yapılır.",
+      "char_count": 785,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0011",
+      "section": "=== İyi bilinen paralel yazılım problem kümeleri ===",
+      "heading_path": "=== İyi bilinen paralel yazılım problem kümeleri ===",
+      "start_char": 6736,
+      "end_char": 7308,
+      "content": "=== İyi bilinen paralel yazılım problem kümeleri === Cansıkıcı (Embarrassingly) paralel: Bir birinden bağımsız alt görevler içeren, kolay uygulanabilen problemlerdir. Daha çok dağıtık hesaplama için uygundurlar. Mesela büyük bir grafiğin render edilmesi veya seti@home gibi projeler buna örnek verilebilir. Büyük uğraştırıcı (grand challenge) problemler: Genelde çözülmesi çok zor olan problemlerdir. Ör: uygulamalı akışkanlar dinamiği, ekosistem simülasyonları, biyomedikal görüntüleme ve biyomekanik, moleküler biyoloji, kavrama, nükleer güç ve silah simulasyonları vs.",
+      "char_count": 571,
+      "token_estimate": 142
+    },
+    {
+      "id": "c0012",
+      "section": "== Paralel programlama modelleri ==",
+      "heading_path": "== Paralel programlama modelleri ==",
+      "start_char": 7308,
+      "end_char": 8021,
+      "content": "== Paralel programlama modelleri == Bir paralel programlama modeli, paralel algoritmaları açıklayan bir yazılım teknolojileri kümesidir. Bu model, uygulamalar, diller, derleyiciler, kütüphaneler, iletişim sistemleri ve paralel giriş/çıkış alanlarını kapsar. Programcılar, kendileri ve uygulamaları için uygun bir model veya karma bir model seçip, uygulamalarını geliştirirler. Paralel modeller çok farklı şekillerde uyarlanırlar: klasik sıralı dillerden çağrılan kütüphaneler şeklinde, dil uzantıları şeklinde ya da tamamen yeni işleme modelleriyle. Bu modeller kabaca ikiye ayrılırlar: paylaşımlı hafıza sistemleri ve dağıtık hafıza sistemleri. Günümüzde bu iki sistem arasındaki çizgi oldukça bulanıklaşmıştır.",
+      "char_count": 712,
+      "token_estimate": 178
+    },
+    {
+      "id": "c0013",
+      "section": "=== Sık kullanılan paralel programlama modelleri ===",
+      "heading_path": "=== Sık kullanılan paralel programlama modelleri ===",
+      "start_char": 8021,
+      "end_char": 8217,
+      "content": "=== Sık kullanılan paralel programlama modelleri === Sık kullanılan paralel programlama modelleri şöyledir: PVM, MPI, OpenMP, Global Arrays, Co-Array Fortran, UPC, HPF, SHMEM, Occam, Linda, Cilk.",
+      "char_count": 195,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0014",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 8217,
+      "end_char": 8256,
+      "content": "== Ayrıca bakınız == Dağıtık hesaplama",
+      "char_count": 38,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Flynn, paralel bilgisayarları hangi kriterlere göre sınıflandırır?",
+        "answer": "Flynn, paralel bilgisayarları tüm işlemcilerin aynı zamanda aynı talimatları işlemesine (tek talimat/çoklu veri-SIMD) veya her bir işlemcinin farklı talimatları işlemesine (çoklu talimat/çoklu veri-MIMD) göre sınıflandırır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Paralel hesaplamanın temel amacı nedir ve 'İki sayının toplanması' örneğinde gösterilen hızlanma, hangi tür paralel hesaplama sistemleri tarafından desteklenir?",
+        "answer": "Paralel hesaplamanın temel amacı, bir görevi parçalara bölerek çoklu işlemcilerde eş zamanlı çalıştırmak ve böylece daha hızlı sonuçlar elde etmektir. 'İki sayının toplanması' örneğinde 1,75 kat hızlanma gösterilmiştir. Bu hızlanma, birden fazla işlemci içeren bilgisayarlar, çok çekirdekli işlemciler, güçlü paralel sistemler ve Flynn'in sınıflandırmasına göre tek talimat/çoklu veri (SIMD) veya çoklu talimat/çoklu veri (MIMD) yapısına sahip sistemler gibi çeşitli paralel hesaplama sistemleri tarafından desteklenir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

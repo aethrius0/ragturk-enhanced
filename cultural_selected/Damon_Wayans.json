@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "damonwayans_10468581",
+    "title": "Damon Wayans",
+    "url": "https://tr.wikipedia.org/wiki/Damon_Wayans",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:34.084897",
+    "content": "Damon Kyle Wayans Sr (4 Eylül 1960) Amerikalı komedyen, oyuncu, yazar ve yapımcıdır. Wayans, komedi komedi dizisi Saturday Night Live'da bir yıl süren bir oyunculuk da dahil olmak üzere 1980'lerde komedyen ve oyuncu olarak çalıştı. Ancak tam dönüm noktasına FOX'un eskiz komedi şovu In Living Color'da 1990-1992 arasında yazar ve sanatçı olarak katıldığı sürede ulaştı. O zamandan beri, bazıları Last Boy Scout ve Major Payne ve sitcom My Wife and Kids de dahil olmak üzere birlikte ürettiği veya birlikte yazdığı bir dizi film ve televizyon şovunda rol aldı. 2016-2019 yılları arasında Lethal Weapon adlı televizyon dizisinde Roger Murtaugh rolünü oynadı. == In Living Color == === Karakterler === Whiz (Homeboy Shopping Network) Homey D. Clown Blaine Edwards (Men on...) Handi-Man Reverend Ed Cash Anton Jackson Head Detective Tom Brothers (Keenen Ivory Wayans ile birlikte) Oswald Bates === Taklitler === Babyface (Saturday Night Live) Don King (In Living Color) Little Richard (Saturday Night Live and In Living Color) Louis Farrakhan (Saturday Night Live ve In Living Color) Redd Foxx (In Living Color) Richard Pryor (In Living Color) Fab Morvan (In Living Color) Jamie Foxx (In Living Color) == Filmografi == === Film === === Televizyon === == Kaynakça == == Dış bağlantılar == IMDb'de Damon Wayans Twit.tv'nin Üçgenleme Bölüm 175 Damon Wayans12 Kasım 2014 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 218,
+      "char_count": 1410,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.181663",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 657,
+      "content": "Damon Kyle Wayans Sr (4 Eylül 1960) Amerikalı komedyen, oyuncu, yazar ve yapımcıdır. Wayans, komedi komedi dizisi Saturday Night Live'da bir yıl süren bir oyunculuk da dahil olmak üzere 1980'lerde komedyen ve oyuncu olarak çalıştı. Ancak tam dönüm noktasına FOX'un eskiz komedi şovu In Living Color'da 1990-1992 arasında yazar ve sanatçı olarak katıldığı sürede ulaştı. O zamandan beri, bazıları Last Boy Scout ve Major Payne ve sitcom My Wife and Kids de dahil olmak üzere birlikte ürettiği veya birlikte yazdığı bir dizi film ve televizyon şovunda rol aldı. 2016-2019 yılları arasında Lethal Weapon adlı televizyon dizisinde Roger Murtaugh rolünü oynadı.",
+      "char_count": 656,
+      "token_estimate": 164
+    },
+    {
+      "id": "c0001",
+      "section": "=== Karakterler ===",
+      "heading_path": "=== Karakterler ===",
+      "start_char": 679,
+      "end_char": 890,
+      "content": "=== Karakterler === Whiz (Homeboy Shopping Network) Homey D. Clown Blaine Edwards (Men on...) Handi-Man Reverend Ed Cash Anton Jackson Head Detective Tom Brothers (Keenen Ivory Wayans ile birlikte) Oswald Bates",
+      "char_count": 210,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0002",
+      "section": "=== Taklitler ===",
+      "heading_path": "=== Taklitler ===",
+      "start_char": 890,
+      "end_char": 1198,
+      "content": "=== Taklitler === Babyface (Saturday Night Live) Don King (In Living Color) Little Richard (Saturday Night Live and In Living Color) Louis Farrakhan (Saturday Night Live ve In Living Color) Redd Foxx (In Living Color) Richard Pryor (In Living Color) Fab Morvan (In Living Color) Jamie Foxx (In Living Color)",
+      "char_count": 307,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1262,
+      "end_char": 1410,
+      "content": "== Dış bağlantılar == IMDb'de Damon Wayans Twit.tv'nin Üçgenleme Bölüm 175 Damon Wayans12 Kasım 2014 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 148,
+      "token_estimate": 37
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Damon Kyle Wayans Sr'ın 1990-1992 yılları arasında yazar ve sanatçı olarak yer aldığı FOX'un eskiz komedi şovu hangisidir?",
+        "answer": "In Living Color",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Damon Wayans Sr'ın FOX'un eskiz komedi şovu \"In Living Color\"daki yazar ve sanatçı rolü göz önüne alındığında, \"Whiz (Homeboy Shopping Network)\" ve \"Homey D. Clown\" gibi karakterler onun kariyerindeki hangi önemli dönüm noktası çalışmasını temsil etmektedir?",
+        "answer": "\"Whiz (Homeboy Shopping Network)\" ve \"Homey D. Clown\" gibi karakterler, Damon Wayans Sr'ın 1990-1992 yılları arasında \"In Living Color\" adlı programda yazar ve sanatçı olarak üstlendiği ve kariyerinde tam bir dönüm noktasına ulaştığı komedi çalışmalarını temsil etmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

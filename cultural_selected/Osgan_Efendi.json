@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "osganefendi_7ec467c5",
+    "title": "Osgan Efendi",
+    "url": "https://tr.wikipedia.org/wiki/Osgan_Efendi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:17.892952",
+    "content": "Oskan Efendi ya da Yervant Osgan, (1855-1914) Osmanlı-Ermeni heykeltıraş ve müzeci. == Yaşamı == 1855 yılında İstanbul'un Samatya semtinde doğdu. Büyükbabası darphanede döküm ustabaşısı idi. Heykele ilgisinin buradan kaynaklandığı düşünülür. Babası Hagop Oskan Bey'in öğretmenlik, şairlik, tercümanlık yaptığı bilinir. İlköğrenimi için Beşiktaş Makruhyan Ermeni Okulu ve Pera Hayr Ananya adlı cemaat okullarına devam etti. Daha sonra ailesinin desteği ile Venedik'e gitti, orada Murad Rafaelyan okuluna devam etti ve Luigi Qura'nın öğrencisi oldu. Sanat eğitimine Roma'da devam eden Oskan Efendi, Roma İmparatorluk Güzel Sanatlar Akademisi'nde Enrico Bektti ve Cirolana Mazzini'den eğitim aldı. İtalya'da bulunduğu sürede bu ülkenin naturalizminden etkilendi. 1878'de Paris'e gidip sergiler için büyük boyutlu figürler üzerinde çalıştı. Sergiler bitince iki yıl bronz eserler üzerine çalıştı. 1881 yılında ailevi nedenlerle İstanbul'a dönen Oskan Efendi, Osmanlı Devleti'nin ilk Güzel Sanatlar Okulu olan Sanayi Nefise Mektebi'nin kurucusu Osman Hamdi Bey'’in yardımcısı sıfatıyla mektebin kuruluş çalışmalarında görevler üstlendi. 1882 yılında Nemrut Dağı anıtlarını incelemek üzere görevlendirilen ekipte yer aldı ve çalışmalarını Osman Hamdi Bey ile birlikte “Le Tumulus de Nemroud Daghi” adlı Fransızca eserde yayımladı (Eserin tıpkıbasımı, 1987 yılında Arkeoloji ve Sanat Yayınları tarafından yayınlanmıştır). 2 Mart 1883'te öğrenime başlayan Sanayi Nefise'nin müdür yardımcılığı ve Heykel Bölümü öğretmenliğinin yanı sıra Müze-i Humayun Restoratörlüğü görevlerine getirildi. Bu görevleri vefat ettiği 1914 yılına kadar sürdürdü. Türkiye'de heykel sanatına öncülük eden İhsan ve İsa Behzat, Mehmet Bahri ve Mesrur İzzet Bey'ler Osgan Efendi'nin Sanayi Nefise'de yetiştirdiği öğrencilerdendir. 1887'de Osman Hamdi Bey'in gerçekleştirdiği Sayda kazılarında bulunan İskender Lahdi'nin onarımında öğrencisi İhsan Bey ile birlikte çalıştı. Sanatçı, eğiimcliğinin ve müzeciliğinin yanı sıra heykel çalışmalarını sürdürmüştür. Eserlerini 1902-1903'te açılan İstanbul Salon sergilerinde sergiledi. İstanbul’da heykeltıraşlık yapan ve bunları sergileyen ilk kişi olan Oskan Efendi’nin önemli çalışmaları arasında Osman Hamdi'nin eşi Naile Hanım büstü, Muzaffer Venüs, Tavuk satan kadın ve \"Kılıçla danseden zeybek yer alır. Ağırlıklı olarak heykel çalışmışsa da bazı resim çalışmaları da vardır. 1914 yılında hayatını kaybetti. Şişli Ermeni Mezarlığı'na defnedilmiştir. == Ayrıca == Bilindiği kadarıyla Avrupa'da heykel eğitimi alan ilk Osmanlı yurttaşı idi; 1881'de dönüp İstanbul'da heykeltıraşlık yapan ve bunları sergileyen ilk kişi oldu. Natüralist ve klasik tarzda eserler veren bir sanatçıdır. Sanayi-i Nefise Mektebi'nin ilk heykel hocası olan Oskan Efendi; bu kurumda 32 yıl görev yapmış ve ilk Türk heykeltıraş kuşağının yetişmesinde etkili olmuştur. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 371,
+      "char_count": 2871,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.106491",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 84,
+      "content": "Oskan Efendi ya da Yervant Osgan, (1855-1914) Osmanlı-Ermeni heykeltıraş ve müzeci.",
+      "char_count": 83,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 84,
+      "end_char": 1084,
+      "content": "== Yaşamı == 1855 yılında İstanbul'un Samatya semtinde doğdu. Büyükbabası darphanede döküm ustabaşısı idi. Heykele ilgisinin buradan kaynaklandığı düşünülür. Babası Hagop Oskan Bey'in öğretmenlik, şairlik, tercümanlık yaptığı bilinir. İlköğrenimi için Beşiktaş Makruhyan Ermeni Okulu ve Pera Hayr Ananya adlı cemaat okullarına devam etti. Daha sonra ailesinin desteği ile Venedik'e gitti, orada Murad Rafaelyan okuluna devam etti ve Luigi Qura'nın öğrencisi oldu. Sanat eğitimine Roma'da devam eden Oskan Efendi, Roma İmparatorluk Güzel Sanatlar Akademisi'nde Enrico Bektti ve Cirolana Mazzini'den eğitim aldı. İtalya'da bulunduğu sürede bu ülkenin naturalizminden etkilendi. 1878'de Paris'e gidip sergiler için büyük boyutlu figürler üzerinde çalıştı. Sergiler bitince iki yıl bronz eserler üzerine çalıştı. 1881 yılında ailevi nedenlerle İstanbul'a dönen Oskan Efendi, Osmanlı Devleti'nin ilk Güzel Sanatlar Okulu olan Sanayi Nefise Mektebi'nin kurucusu Osman Hamdi Bey'’in yardımcısı sıfatıyla mek",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 884,
+      "end_char": 1884,
+      "content": "çalıştı. 1881 yılında ailevi nedenlerle İstanbul'a dönen Oskan Efendi, Osmanlı Devleti'nin ilk Güzel Sanatlar Okulu olan Sanayi Nefise Mektebi'nin kurucusu Osman Hamdi Bey'’in yardımcısı sıfatıyla mektebin kuruluş çalışmalarında görevler üstlendi. 1882 yılında Nemrut Dağı anıtlarını incelemek üzere görevlendirilen ekipte yer aldı ve çalışmalarını Osman Hamdi Bey ile birlikte “Le Tumulus de Nemroud Daghi” adlı Fransızca eserde yayımladı (Eserin tıpkıbasımı, 1987 yılında Arkeoloji ve Sanat Yayınları tarafından yayınlanmıştır). 2 Mart 1883'te öğrenime başlayan Sanayi Nefise'nin müdür yardımcılığı ve Heykel Bölümü öğretmenliğinin yanı sıra Müze-i Humayun Restoratörlüğü görevlerine getirildi. Bu görevleri vefat ettiği 1914 yılına kadar sürdürdü. Türkiye'de heykel sanatına öncülük eden İhsan ve İsa Behzat, Mehmet Bahri ve Mesrur İzzet Bey'ler Osgan Efendi'nin Sanayi Nefise'de yetiştirdiği öğrencilerdendir. 1887'de Osman Hamdi Bey'in gerçekleştirdiği Sayda kazılarında bulunan İskender Lahdi'n",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1684,
+      "end_char": 2465,
+      "content": "İsa Behzat, Mehmet Bahri ve Mesrur İzzet Bey'ler Osgan Efendi'nin Sanayi Nefise'de yetiştirdiği öğrencilerdendir. 1887'de Osman Hamdi Bey'in gerçekleştirdiği Sayda kazılarında bulunan İskender Lahdi'nin onarımında öğrencisi İhsan Bey ile birlikte çalıştı. Sanatçı, eğiimcliğinin ve müzeciliğinin yanı sıra heykel çalışmalarını sürdürmüştür. Eserlerini 1902-1903'te açılan İstanbul Salon sergilerinde sergiledi. İstanbul’da heykeltıraşlık yapan ve bunları sergileyen ilk kişi olan Oskan Efendi’nin önemli çalışmaları arasında Osman Hamdi'nin eşi Naile Hanım büstü, Muzaffer Venüs, Tavuk satan kadın ve \"Kılıçla danseden zeybek yer alır. Ağırlıklı olarak heykel çalışmışsa da bazı resim çalışmaları da vardır. 1914 yılında hayatını kaybetti. Şişli Ermeni Mezarlığı'na defnedilmiştir.",
+      "char_count": 781,
+      "token_estimate": 195
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca ==",
+      "heading_path": "== Ayrıca ==",
+      "start_char": 2466,
+      "end_char": 2857,
+      "content": "== Ayrıca == Bilindiği kadarıyla Avrupa'da heykel eğitimi alan ilk Osmanlı yurttaşı idi; 1881'de dönüp İstanbul'da heykeltıraşlık yapan ve bunları sergileyen ilk kişi oldu. Natüralist ve klasik tarzda eserler veren bir sanatçıdır. Sanayi-i Nefise Mektebi'nin ilk heykel hocası olan Oskan Efendi; bu kurumda 32 yıl görev yapmış ve ilk Türk heykeltıraş kuşağının yetişmesinde etkili olmuştur.",
+      "char_count": 390,
+      "token_estimate": 97
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Oskan Efendi hangi yıl ve nerede doğmuştur?",
+        "answer": "Oskan Efendi, 1855 yılında İstanbul'un Samatya semtinde doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Oskan Efendi'nin heykeltıraş ve müzeci kimliği, eğitim hayatı ve profesyonel kariyeri boyunca üstlendiği görevlerle nasıl şekillenmiş ve pekişmiştir?",
+        "answer": "Oskan Efendi, heykeltıraş kimliğini Venedik ve Roma'daki sanat eğitimleriyle (Luigi Qura, Enrico Bektti ve Cirolana Mazzini'den dersler alarak ve İtalya'daki naturalizmden etkilenerek) ve Paris'te büyük boyutlu figürler üzerinde çalışarak geliştirdi. Türkiye'ye döndüğünde Sanayi Nefise Mektebi'nin Heykel Bölümü öğretmenliğini üstlendi ve Türkiye'de heykel sanatına öncülük eden İhsan ve İsa Behzat gibi isimleri yetiştirdi. Müzeci kimliği ise, Osman Hamdi Bey'in yardımcısı olarak Sanayi Nefise Mektebi'nin kuruluş çalışmalarında yer alması, Müze-i Humayun Restoratörlüğü görevini üstlenmesi ve Osman Hamdi Bey ile birlikte Nemrut Dağı anıtlarını incelemek ve Sayda kazılarında bulunmak gibi arkeolojik çalışmalar yapmasıyla pekişmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

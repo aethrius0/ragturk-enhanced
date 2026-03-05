@@ -1,0 +1,173 @@
+{
+  "article": {
+    "id": "comiso_96312dea",
+    "title": "Comiso",
+    "url": "https://tr.wikipedia.org/wiki/Comiso",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:00.584099",
+    "content": "Comiso, İtalya Adalar coğrafi bölgesi ve Sicilya Özerk Bölgesi'nde, Ragusa ili'ne bağlı ve Ragusa şehrinin 22 km batısında bulunan bir kasaba ve bir komün. == Coğrafi konumu == Comiso komünü İblei Dağları eteklerinde 209 m rakımlı bir mevkide kuruludur. Kasabanın nüfus itibarıyla Ragusa ili içinde 4. sıradadır. == Nüfus gelişmesi == Comiso kasabasının komün sınırları içindeki nüfusu (1.1.2009 tahminleri itibarıyla) 30.232 kişidir ve nüfus yoğunluğu 452,83 kişi/km² olur. 19. yüzyıl ve 20. yüzyılda Comiso'nin nüfusunun gelişmesi şu gösterimde görülebilir: Kişi == Ekonomi == Kasabada ana üretim sektörü tarım (özellikle şarapçılık ve mevyacılık) ve ticarettir. Kasabada mobilyacılık, mermer yontuculuk ve demircilik el sanaatkarları da bulunur. == Ulaşım == Comiso yakınlarındaki kasabalara otobüs servisleri ile bağlıdır. Kasaba Siraküza-Licata demiryolu hattı üzerinde olup kasabanın bir demiryolu garı vardır. Tren yolculuğu Raguşa'ya 30 dakika, Sırakuza'ya 2,5 saat ve Licata'ya 1 saat 45 dakika alır. Ragusa/Comiso Havaalanı bir müddet yeni yapım için kapalı kalmıştı ve Comiso'ya 9 km uzaklıktadır. Comiso'dan geçen ana karayolları Chiarmonte'ye giden SS.114 ve SS.115 \"Sud Occidentale Sicula (Kuzeybatı Sicula)\" adlı devlet yollarıdır. == Görülecek yerler == Comiso'da görülebilecek turistik yerler şunlardır: Kaplıcalar: İlk defa antik Roma döneminde kaplıca kurulup kullanıldığı ele geçen MÖ tarihli mozayiklardan anlaşılmaktadır. Santa Maria delle Grazie Kilisesi: İlk yapımı 15. yüzyıl 1693'te depremden çok büyük hasar görüp yeniden yapılmıştır. San Filippo Neri Kilisesi: Yapımı 16. yüzyıl. Bir Orataryo eki vardır. San Francesco dell’İmmacolata Kilisesi: Yapımı 13. yüzyıl. 15. yüzyılda yürüyüş için etrafının üstü kapalı bir dikdörtgen avlu eklenmiştir. Kilise kasabada idareci olan Aragonlu \"Naselli Baronları\" aile şapelini ve burada heykelli mezarları da içinde bulundurur. Annunciation Kilisesi: İlk yapımı Neoklasik mimarı stilinde 16. yüzyıl. 1772-1773 döneminde renove edilip cephesi Sicilya Barok mimarı usulde yeniden yapılmıştır. İçindeki sanat eserleri bu renovasyonla değiştirilmemiştir ve eski Neoklasik atmnosferi korumaktadır. Castello Naselli: Asli Bizanslılar tarafından yapılmış sekiz köşeli bir küçük kale idi. 14. yüzyılda renove edilip genişletilmiştir. Barış Pagodası: Comisodaki Nato üssü yanında 1998 yılında bu barışa adanmış bir Budist tapınağı yapılmıştır. == Bağlı semt ve köyler == Comiso komünübe bağlı koyler şunlardır: Pedalino, Quaglio == Komşu komünler == Comiso komünü şu komünlerle sınır komşusudur:Chiaramonte Gulfi, Ragusa, Vittoria == Resimler == == Kaynakça == Italyanca Wikipedia \"Comiso\" maddesi 30 Kasım 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İtalyanca) == Ayrıca bakınız == Ragusa ili Sicilya Özerk Bölgesi == Dış bağlantılar == Comiso belediyesi resmi websitesi 14 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. (İtalyanca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 391,
+      "char_count": 2914,
+      "num_chunks": 12,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.792316",
+    "total_chunks": 12,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 156,
+      "content": "Comiso, İtalya Adalar coğrafi bölgesi ve Sicilya Özerk Bölgesi'nde, Ragusa ili'ne bağlı ve Ragusa şehrinin 22 km batısında bulunan bir kasaba ve bir komün.",
+      "char_count": 155,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafi konumu ==",
+      "heading_path": "== Coğrafi konumu ==",
+      "start_char": 156,
+      "end_char": 313,
+      "content": "== Coğrafi konumu == Comiso komünü İblei Dağları eteklerinde 209 m rakımlı bir mevkide kuruludur. Kasabanın nüfus itibarıyla Ragusa ili içinde 4. sıradadır.",
+      "char_count": 156,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0002",
+      "section": "== Nüfus gelişmesi ==",
+      "heading_path": "== Nüfus gelişmesi ==",
+      "start_char": 313,
+      "end_char": 565,
+      "content": "== Nüfus gelişmesi == Comiso kasabasının komün sınırları içindeki nüfusu (1.1.2009 tahminleri itibarıyla) 30.232 kişidir ve nüfus yoğunluğu 452,83 kişi/km² olur. 19. yüzyıl ve 20. yüzyılda Comiso'nin nüfusunun gelişmesi şu gösterimde görülebilir: Kişi",
+      "char_count": 251,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0003",
+      "section": "== Ekonomi ==",
+      "heading_path": "== Ekonomi ==",
+      "start_char": 565,
+      "end_char": 749,
+      "content": "== Ekonomi == Kasabada ana üretim sektörü tarım (özellikle şarapçılık ve mevyacılık) ve ticarettir. Kasabada mobilyacılık, mermer yontuculuk ve demircilik el sanaatkarları da bulunur.",
+      "char_count": 183,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0004",
+      "section": "== Ulaşım ==",
+      "heading_path": "== Ulaşım ==",
+      "start_char": 749,
+      "end_char": 1247,
+      "content": "== Ulaşım == Comiso yakınlarındaki kasabalara otobüs servisleri ile bağlıdır. Kasaba Siraküza-Licata demiryolu hattı üzerinde olup kasabanın bir demiryolu garı vardır. Tren yolculuğu Raguşa'ya 30 dakika, Sırakuza'ya 2,5 saat ve Licata'ya 1 saat 45 dakika alır. Ragusa/Comiso Havaalanı bir müddet yeni yapım için kapalı kalmıştı ve Comiso'ya 9 km uzaklıktadır. Comiso'dan geçen ana karayolları Chiarmonte'ye giden SS.114 ve SS.115 \"Sud Occidentale Sicula (Kuzeybatı Sicula)\" adlı devlet yollarıdır.",
+      "char_count": 497,
+      "token_estimate": 124
+    },
+    {
+      "id": "c0005",
+      "section": "== Görülecek yerler ==",
+      "heading_path": "== Görülecek yerler ==",
+      "start_char": 1247,
+      "end_char": 2247,
+      "content": "== Görülecek yerler == Comiso'da görülebilecek turistik yerler şunlardır: Kaplıcalar: İlk defa antik Roma döneminde kaplıca kurulup kullanıldığı ele geçen MÖ tarihli mozayiklardan anlaşılmaktadır. Santa Maria delle Grazie Kilisesi: İlk yapımı 15. yüzyıl 1693'te depremden çok büyük hasar görüp yeniden yapılmıştır. San Filippo Neri Kilisesi: Yapımı 16. yüzyıl. Bir Orataryo eki vardır. San Francesco dell’İmmacolata Kilisesi: Yapımı 13. yüzyıl. 15. yüzyılda yürüyüş için etrafının üstü kapalı bir dikdörtgen avlu eklenmiştir. Kilise kasabada idareci olan Aragonlu \"Naselli Baronları\" aile şapelini ve burada heykelli mezarları da içinde bulundurur. Annunciation Kilisesi: İlk yapımı Neoklasik mimarı stilinde 16. yüzyıl. 1772-1773 döneminde renove edilip cephesi Sicilya Barok mimarı usulde yeniden yapılmıştır. İçindeki sanat eserleri bu renovasyonla değiştirilmemiştir ve eski Neoklasik atmnosferi korumaktadır. Castello Naselli: Asli Bizanslılar tarafından yapılmış sekiz köşeli bir küçük kale idi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "== Görülecek yerler ==",
+      "heading_path": "== Görülecek yerler ==",
+      "start_char": 2047,
+      "end_char": 2402,
+      "content": "apılmıştır. İçindeki sanat eserleri bu renovasyonla değiştirilmemiştir ve eski Neoklasik atmnosferi korumaktadır. Castello Naselli: Asli Bizanslılar tarafından yapılmış sekiz köşeli bir küçük kale idi. 14. yüzyılda renove edilip genişletilmiştir. Barış Pagodası: Comisodaki Nato üssü yanında 1998 yılında bu barışa adanmış bir Budist tapınağı yapılmıştır.",
+      "char_count": 355,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0007",
+      "section": "== Bağlı semt ve köyler ==",
+      "heading_path": "== Bağlı semt ve köyler ==",
+      "start_char": 2403,
+      "end_char": 2488,
+      "content": "== Bağlı semt ve köyler == Comiso komünübe bağlı koyler şunlardır: Pedalino, Quaglio",
+      "char_count": 84,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0008",
+      "section": "== Komşu komünler ==",
+      "heading_path": "== Komşu komünler ==",
+      "start_char": 2488,
+      "end_char": 2590,
+      "content": "== Komşu komünler == Comiso komünü şu komünlerle sınır komşusudur:Chiaramonte Gulfi, Ragusa, Vittoria",
+      "char_count": 101,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0009",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2605,
+      "end_char": 2731,
+      "content": "== Kaynakça == Italyanca Wikipedia \"Comiso\" maddesi 30 Kasım 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İtalyanca)",
+      "char_count": 125,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0010",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2731,
+      "end_char": 2785,
+      "content": "== Ayrıca bakınız == Ragusa ili Sicilya Özerk Bölgesi",
+      "char_count": 53,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0011",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2785,
+      "end_char": 2914,
+      "content": "== Dış bağlantılar == Comiso belediyesi resmi websitesi 14 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. (İtalyanca)",
+      "char_count": 129,
+      "token_estimate": 32
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Annunciation Kilisesi'nin cephesi hangi dönemde ve hangi mimari usulde yeniden yapılmıştır?",
+        "answer": "1772-1773 döneminde Sicilya Barok mimarı usulde",
+        "related_chunk_ids": [
+          "c0005"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İtalya'nın Sicilya Özerk Bölgesi'nde bulunan Comiso'nun hem idari yapısı hem de coğrafi özellikleri hakkında metinler ne tür bilgiler sunmaktadır?",
+        "answer": "Comiso, İtalya Adalar coğrafi bölgesi ve Sicilya Özerk Bölgesi'nde, Ragusa ili'ne bağlı bir kasaba ve komündür. Ragusa şehrinin 22 km batısında yer almakta olup, İblei Dağları eteklerinde 209 m rakımlı bir mevkide kuruludur ve nüfus itibarıyla Ragusa ili içinde 4. sıradadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

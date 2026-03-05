@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "ahmetcevdetoran_c9461b4f",
+    "title": "Ahmet Cevdet Oran",
+    "url": "https://tr.wikipedia.org/wiki/Ahmet_Cevdet_Oran",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:06.927545",
+    "content": "Ahmet Cevdet Oran (1862 - 27 Mayıs 1935), Türk yayıncı, yazar ve gazeteci. Osmanlı Devleti'nin ilk yayıncılarından birisi olarak 1894'ten itibaren İkdam gazetesini yayınladığından \"İkdamcı\" diye anılır. Gazetenin kurucusu ve başyazarı idi. Türkçülük akımının basın alanındaki ilk temsilcilerinden birisidir. Rotatif baskı (dairesel klişe ile yapılan) tekniğini ilk defa basında deneyen kişidir. == Yaşamı == 1862'de İstanbul’un Aksaray semtinde doğdu. Babası, Gerede’nin Çoğullu Köyü’nden İstanbul’a göç etmiş bir tütün tüccarı olan Hacı Ahmet Efendi idi. Kaptanpaşa Rüştiyesi’nin ardından Mekteb-i Hukuk ve Mekteb-i Mülkiye’yi tamamladı. Özel öğretmenlerden Arapça, Fransızca, Almanca ve Rumca öğrendi. Gazetecilik hayatına 1883'te Tercüman-ı Hakikat’te başladı; Resmi Gazete niteliğindeki Takvim-i Vakayi’de devam etti. Bir süre Reji ve Osmanlı Bankası'nda ve Hariciye Nezaretinde çalıştıktan sonra gazeteciliğe döndü. Sabah, Tarik ve Saadet gazetelerinde başyazarlık yaptı. Temmuz 1894’te İkdam gazetesini yayınlamaya başladı. “Osmanlı” adını eksik bulduğundan çıkardığı gazeteyi “Siyasi Türk Gazetesi” olarak niteledi. Gazetesi yoluyla dilde sadeleşme akımını ve Türkçülük akımını savundu. İkdam Kütüphanesi adıyla birçok kitap bastı. 1908 yılında, İkinci Meşrutiyet’in ilânından sonra gazetesinin yazar kadrosunu genişletti, teknik imkânlarını geliştirdi. İttihat ve Terakki yönetimine karşı bir tutum alan gazetenin tirajı 40 bine kadar yükseldi. Ahmet Cevdet, 31 Mart Olayı’ndan sonra ülkeyi terk etmek zorunda kaldı. 1923’e kadar Fransa ve İsviçre’de yaşadı. Bern'deki İngiliz Büyükelçisi Sir Horace Rumbold, 5 Aralık 1918'de İngiltere Dışişleri Bakanlığı'na gönderdiği kapalı tel yazısında; Ahmet Cevdet'in ismi \"...sahibi bulunduğu İkdam gazetesini, Türkiye'de İngiliz çıkarlarından yana seferber etmek niyetinde olan Ahmet Cevdet'e ne denli işlem yapılması konusunda kendisine talimat gönderilmesi...\" şeklinde geçiyordu. İkdam gazetesi mütareke yıllarında Yakup Kadri Bey yönetiminde yayımlandı. Ahmet Cevdet, 1923'te Cumhuriyet’in ilânından sonra Türkiye'ye döndü. Sağlık sorunları yüzünden gazetenin yönetimini Mecdi Sadrettin'e bıraktı. 27 Mayıs 1935 tarihinde Ankara'da toplanan Matbuat kongresinde kalp krizi geçirerek öldü. İstanbul'da, Eyüp Mezarlığı'na defnedildi. == Dış bağlantılar == https://web.archive.org/web/20190602102525/https://www.yeniakit.com.tr/kimdir/Ahmet_Cevdet_Oran == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 292,
+      "char_count": 2417,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.015258",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 395,
+      "content": "Ahmet Cevdet Oran (1862 - 27 Mayıs 1935), Türk yayıncı, yazar ve gazeteci. Osmanlı Devleti'nin ilk yayıncılarından birisi olarak 1894'ten itibaren İkdam gazetesini yayınladığından \"İkdamcı\" diye anılır. Gazetenin kurucusu ve başyazarı idi. Türkçülük akımının basın alanındaki ilk temsilcilerinden birisidir. Rotatif baskı (dairesel klişe ile yapılan) tekniğini ilk defa basında deneyen kişidir.",
+      "char_count": 394,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 395,
+      "end_char": 1395,
+      "content": "== Yaşamı == 1862'de İstanbul’un Aksaray semtinde doğdu. Babası, Gerede’nin Çoğullu Köyü’nden İstanbul’a göç etmiş bir tütün tüccarı olan Hacı Ahmet Efendi idi. Kaptanpaşa Rüştiyesi’nin ardından Mekteb-i Hukuk ve Mekteb-i Mülkiye’yi tamamladı. Özel öğretmenlerden Arapça, Fransızca, Almanca ve Rumca öğrendi. Gazetecilik hayatına 1883'te Tercüman-ı Hakikat’te başladı; Resmi Gazete niteliğindeki Takvim-i Vakayi’de devam etti. Bir süre Reji ve Osmanlı Bankası'nda ve Hariciye Nezaretinde çalıştıktan sonra gazeteciliğe döndü. Sabah, Tarik ve Saadet gazetelerinde başyazarlık yaptı. Temmuz 1894’te İkdam gazetesini yayınlamaya başladı. “Osmanlı” adını eksik bulduğundan çıkardığı gazeteyi “Siyasi Türk Gazetesi” olarak niteledi. Gazetesi yoluyla dilde sadeleşme akımını ve Türkçülük akımını savundu. İkdam Kütüphanesi adıyla birçok kitap bastı. 1908 yılında, İkinci Meşrutiyet’in ilânından sonra gazetesinin yazar kadrosunu genişletti, teknik imkânlarını geliştirdi. İttihat ve Terakki yönetimine karş",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1195,
+      "end_char": 2195,
+      "content": "kdam Kütüphanesi adıyla birçok kitap bastı. 1908 yılında, İkinci Meşrutiyet’in ilânından sonra gazetesinin yazar kadrosunu genişletti, teknik imkânlarını geliştirdi. İttihat ve Terakki yönetimine karşı bir tutum alan gazetenin tirajı 40 bine kadar yükseldi. Ahmet Cevdet, 31 Mart Olayı’ndan sonra ülkeyi terk etmek zorunda kaldı. 1923’e kadar Fransa ve İsviçre’de yaşadı. Bern'deki İngiliz Büyükelçisi Sir Horace Rumbold, 5 Aralık 1918'de İngiltere Dışişleri Bakanlığı'na gönderdiği kapalı tel yazısında; Ahmet Cevdet'in ismi \"...sahibi bulunduğu İkdam gazetesini, Türkiye'de İngiliz çıkarlarından yana seferber etmek niyetinde olan Ahmet Cevdet'e ne denli işlem yapılması konusunda kendisine talimat gönderilmesi...\" şeklinde geçiyordu. İkdam gazetesi mütareke yıllarında Yakup Kadri Bey yönetiminde yayımlandı. Ahmet Cevdet, 1923'te Cumhuriyet’in ilânından sonra Türkiye'ye döndü. Sağlık sorunları yüzünden gazetenin yönetimini Mecdi Sadrettin'e bıraktı. 27 Mayıs 1935 tarihinde Ankara'da toplanan ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 1995,
+      "end_char": 2284,
+      "content": " yayımlandı. Ahmet Cevdet, 1923'te Cumhuriyet’in ilânından sonra Türkiye'ye döndü. Sağlık sorunları yüzünden gazetenin yönetimini Mecdi Sadrettin'e bıraktı. 27 Mayıs 1935 tarihinde Ankara'da toplanan Matbuat kongresinde kalp krizi geçirerek öldü. İstanbul'da, Eyüp Mezarlığı'na defnedildi.",
+      "char_count": 289,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2285,
+      "end_char": 2403,
+      "content": "== Dış bağlantılar == https://web.archive.org/web/20190602102525/https://www.yeniakit.com.tr/kimdir/Ahmet_Cevdet_Oran",
+      "char_count": 117,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bu kişi nerede ve hangi yıl doğmuştur?",
+        "answer": "İstanbul'un Aksaray semtinde, 1862'de.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ahmet Cevdet Oran'ın Türkçülük akımına olan katkıları ve İkdam gazetesinin bu akımın yayılmasındaki rolü nasıl özetlenebilir?",
+        "answer": "Ahmet Cevdet Oran, Türkçülük akımının basın alanındaki ilk temsilcilerinden biriydi. Temmuz 1894'te kurduğu İkdam gazetesini \"Osmanlı\" adını eksik bularak \"Siyasi Türk Gazetesi\" olarak niteledi ve Türkçülük kimliğini ön plana çıkardı. Gazetesi aracılığıyla dilde sadeleşme ve Türkçülük akımını savundu. Ayrıca, İkdam Kütüphanesi adıyla birçok kitap basarak bu fikirlerin yayılmasına önemli katkılarda bulundu. Bu bağlamda İkdam, onun Türkçülük ve dilde sadeleşme ideallerini yaydığı merkezi bir platform görevi gördü.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

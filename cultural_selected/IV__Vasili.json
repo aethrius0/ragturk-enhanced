@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "ivvasili_222e22d5",
+    "title": "IV. Vasili",
+    "url": "https://tr.wikipedia.org/wiki/IV._Vasili",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:51.779585",
+    "content": "IV. Vasili Şuyski (22 Eylül 1552, Rusya – 12 Eylül 1612, Lehistan) Rurik Hanedanı'na yakın soylu, Eski Boyar ve 19 Mayıs 1606 – 19 Temmuz 1610 arasında Rus çarı. == Hayatı ve boyarlık dönemi == Boris Godunov'a ve oğluna boyar olarak hizmet etmiştir. Boris Godunov'un emri üzerine I. Fyodor'un üvey kardeşi ve Korkunç İvan'ın oğlu Dmitri İvanoviç'i genç yaşta Ugliç'te öldürtmüştür. Ama 1603'te Ugliç'te ölmediğini ve hayatta olduğunu duyuran I. Dmitri'nin ortaya çıkması ile I. Dmitri isyanı'nda 1605'e kadar Boris Godunov'un yanında yer almıştır. Ansızın tahtta ölen Boris'in yerine tek oğlu II. Fyodor tahta çıktı. I. Dmitri'nin, Moskova'ya ilerleyişi kolaylaştı ve IV. Vasili taraf değiştirip Dmitri'nin yanında yer aldı ve II. Fyodor'u öldürttü. 10 Haziran 1605'te Dmitri tahta çıktı. Ancak IV. Vasili, Dmitri'nin izlediği politikayı beğenmeyen halk ve boyarların öncüsü oldu ve Dmitri'ye darbe yaparak tahta çıktı. == Saltanatı == Saltanatında Lehistan-Litvanya Birliği ile savaşı sürdürdü fakat başarılı olamadı. Kluşino'da gerçekleşen Kluşino Muharebesi'nde ordunun kontrolünü kardeşi Dmitri Şuyski'ye verdi. Ancak Lehistan savaşı kazandı ve Dmitri Şuyski yakalanarak idam edildi. Daha sonraları IV. Władysław Waza'nın Rusya Çarlığı'na ilerlemesi üzerine 19 Temmuz 1610'da tahttan indirildi ve bir manastıra kapatıldı. 12 Eylül 1612'de Lehistan'da öldü. == Ayrıca bakınız == 1605-1618 Lehistan-Rusya Savaşı Karışıklık Dönemi == Kaynakça == The Critical Prose of Alexander Pushkin, edited and translated by Carl R. Proffer. University of Indiana Press, 1969. sayfa 97.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 224,
+      "char_count": 1574,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.748857",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 162,
+      "content": "IV. Vasili Şuyski (22 Eylül 1552, Rusya – 12 Eylül 1612, Lehistan) Rurik Hanedanı'na yakın soylu, Eski Boyar ve 19 Mayıs 1606 – 19 Temmuz 1610 arasında Rus çarı.",
+      "char_count": 161,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ve boyarlık dönemi ==",
+      "heading_path": "== Hayatı ve boyarlık dönemi ==",
+      "start_char": 162,
+      "end_char": 920,
+      "content": "== Hayatı ve boyarlık dönemi == Boris Godunov'a ve oğluna boyar olarak hizmet etmiştir. Boris Godunov'un emri üzerine I. Fyodor'un üvey kardeşi ve Korkunç İvan'ın oğlu Dmitri İvanoviç'i genç yaşta Ugliç'te öldürtmüştür. Ama 1603'te Ugliç'te ölmediğini ve hayatta olduğunu duyuran I. Dmitri'nin ortaya çıkması ile I. Dmitri isyanı'nda 1605'e kadar Boris Godunov'un yanında yer almıştır. Ansızın tahtta ölen Boris'in yerine tek oğlu II. Fyodor tahta çıktı. I. Dmitri'nin, Moskova'ya ilerleyişi kolaylaştı ve IV. Vasili taraf değiştirip Dmitri'nin yanında yer aldı ve II. Fyodor'u öldürttü. 10 Haziran 1605'te Dmitri tahta çıktı. Ancak IV. Vasili, Dmitri'nin izlediği politikayı beğenmeyen halk ve boyarların öncüsü oldu ve Dmitri'ye darbe yaparak tahta çıktı.",
+      "char_count": 757,
+      "token_estimate": 189
+    },
+    {
+      "id": "c0002",
+      "section": "== Saltanatı ==",
+      "heading_path": "== Saltanatı ==",
+      "start_char": 920,
+      "end_char": 1361,
+      "content": "== Saltanatı == Saltanatında Lehistan-Litvanya Birliği ile savaşı sürdürdü fakat başarılı olamadı. Kluşino'da gerçekleşen Kluşino Muharebesi'nde ordunun kontrolünü kardeşi Dmitri Şuyski'ye verdi. Ancak Lehistan savaşı kazandı ve Dmitri Şuyski yakalanarak idam edildi. Daha sonraları IV. Władysław Waza'nın Rusya Çarlığı'na ilerlemesi üzerine 19 Temmuz 1610'da tahttan indirildi ve bir manastıra kapatıldı. 12 Eylül 1612'de Lehistan'da öldü.",
+      "char_count": 440,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1361,
+      "end_char": 1432,
+      "content": "== Ayrıca bakınız == 1605-1618 Lehistan-Rusya Savaşı Karışıklık Dönemi",
+      "char_count": 70,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1432,
+      "end_char": 1574,
+      "content": "== Kaynakça == The Critical Prose of Alexander Pushkin, edited and translated by Carl R. Proffer. University of Indiana Press, 1969. sayfa 97.",
+      "char_count": 142,
+      "token_estimate": 35
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dmitri ne zaman tahta çıktı?",
+        "answer": "10 Haziran 1605'te.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "IV. Vasili Şuyski'nin Rus çarı olma sürecinde ve çarlık dönemine giden yolda hangi önemli olaylar ve siyasi değişiklikler etkili olmuştur?",
+        "answer": "IV. Vasili, ilk olarak Boris Godunov'a ve onun oğluna boyar olarak hizmet etmiştir. Boris Godunov'un emriyle Dmitri İvanoviç'i öldürtmüştür. I. Dmitri isyanı sırasında başlangıçta Boris Godunov'un safında yer alsa da, Boris'in ölümünün ardından taraf değiştirerek I. Dmitri'nin Moskova'ya ilerlemesini kolaylaştırmış ve II. Fyodor'u öldürterek onun tahta geçmesine katkıda bulunmuştur. Ancak I. Dmitri'nin politikalarından memnun kalmayarak halk ve boyarların önderliğini üstlenmiş ve I. Dmitri'ye karşı bir darbe düzenleyerek 19 Mayıs 1606 tarihinde kendisi Rus çarı olmuştur. Çarlığı 19 Temmuz 1610 tarihine kadar sürmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

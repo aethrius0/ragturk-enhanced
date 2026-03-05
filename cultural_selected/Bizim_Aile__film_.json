@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "bizimailefilm_49e9265a",
+    "title": "Bizim Aile (film)",
+    "url": "https://tr.wikipedia.org/wiki/Bizim_Aile_%28film%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:57.734018",
+    "content": "Bizim Aile, yönetmenlik koltuğunda Ergin Orbey'in oturduğu, yapımcılığını Nahit Ataman'ın üstlendiği, senaryosunu ise Sadık Şendil'in yazdığı 1975 yapımı dram-komedi türündeki sinema filmi. Filmin oyuncu kadrosunda Münir Özkul, Adile Naşit, Tarık Akan, Şener Şen, Ayşen Gruda, Itır Esen ve Halit Akçatepe gibi isimler yer aldı. == Konu == Yaşar Usta'nın fabrika arkadaşı Talat Usta ve eşi, Yaşar Usta ile Melek Hanım'ı evlendirmeye çalışmaktadır. Bu çabaları başarılı olur fakat Yaşar Usta'nın dört, Melek Hanım'ın üç çocuğu vardır. Fakat bu çocuklar birbiri ile anlaşamıyor, sürekli kavga ediyorlardı. Melek Hanım'ın oğullarından biri olan Ferit'in kız arkadaşı Alev'in babası, Alev'in Ferit ile sevgili olduğunu öğrenince Yaşar Usta ve ailesini rahat bırakmaz ve ilk Yaşar Usta'yı işinden kovar ardından aileyi evlerinden atar. Yaşar Usta Alev'in babası ile görüşür. Alev'in babası Saim Bey hatasını anlar ve evlerini onlara geri verir. == Oyuncular == == Çekim mekanları == 1976 yılında vizyona giren film İstanbul'da çekildi. Ana çekim mekanı olan, Yaşar Usta'nın çocukları ile birlikte taşındığı Melek Hanım'a ait olan köşk Üsküdar'ın Altunizade semtinde bulunmaktadır. Günümüzde klinik olarak kullanılan yapı birçok Yeşilçam filminin çekim mekanı olarak kullanıldı. Alev ve babası zengin fabrikatör Saim Bey'in ikamet ettiği yapı için ise Yeniköy'de bulunan Said Halim Paşa Yalısı seçildi. Saim Bey'in Yaşar Usta ile klişeleşmiş diyaloğunun geçtiği ofis ise yönetmen ve senarist Ertem Eğilmez'in Beyoğlu'ndaki çalışma ofisidir. == Kaynakça == == Dış bağlantılar == Beyazperde.com'da Bizim Aile IMDb'de Bizim Aile Sinemalar.com'da Bizim Aile SinemaTürk'te Bizim Aile TSA'da Bizim Aile",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 237,
+      "char_count": 1689,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.768060",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 328,
+      "content": "Bizim Aile, yönetmenlik koltuğunda Ergin Orbey'in oturduğu, yapımcılığını Nahit Ataman'ın üstlendiği, senaryosunu ise Sadık Şendil'in yazdığı 1975 yapımı dram-komedi türündeki sinema filmi. Filmin oyuncu kadrosunda Münir Özkul, Adile Naşit, Tarık Akan, Şener Şen, Ayşen Gruda, Itır Esen ve Halit Akçatepe gibi isimler yer aldı.",
+      "char_count": 327,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0001",
+      "section": "== Konu ==",
+      "heading_path": "== Konu ==",
+      "start_char": 328,
+      "end_char": 939,
+      "content": "== Konu == Yaşar Usta'nın fabrika arkadaşı Talat Usta ve eşi, Yaşar Usta ile Melek Hanım'ı evlendirmeye çalışmaktadır. Bu çabaları başarılı olur fakat Yaşar Usta'nın dört, Melek Hanım'ın üç çocuğu vardır. Fakat bu çocuklar birbiri ile anlaşamıyor, sürekli kavga ediyorlardı. Melek Hanım'ın oğullarından biri olan Ferit'in kız arkadaşı Alev'in babası, Alev'in Ferit ile sevgili olduğunu öğrenince Yaşar Usta ve ailesini rahat bırakmaz ve ilk Yaşar Usta'yı işinden kovar ardından aileyi evlerinden atar. Yaşar Usta Alev'in babası ile görüşür. Alev'in babası Saim Bey hatasını anlar ve evlerini onlara geri verir.",
+      "char_count": 610,
+      "token_estimate": 152
+    },
+    {
+      "id": "c0002",
+      "section": "== Çekim mekanları ==",
+      "heading_path": "== Çekim mekanları ==",
+      "start_char": 955,
+      "end_char": 1534,
+      "content": "== Çekim mekanları == 1976 yılında vizyona giren film İstanbul'da çekildi. Ana çekim mekanı olan, Yaşar Usta'nın çocukları ile birlikte taşındığı Melek Hanım'a ait olan köşk Üsküdar'ın Altunizade semtinde bulunmaktadır. Günümüzde klinik olarak kullanılan yapı birçok Yeşilçam filminin çekim mekanı olarak kullanıldı. Alev ve babası zengin fabrikatör Saim Bey'in ikamet ettiği yapı için ise Yeniköy'de bulunan Said Halim Paşa Yalısı seçildi. Saim Bey'in Yaşar Usta ile klişeleşmiş diyaloğunun geçtiği ofis ise yönetmen ve senarist Ertem Eğilmez'in Beyoğlu'ndaki çalışma ofisidir.",
+      "char_count": 578,
+      "token_estimate": 144
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1549,
+      "end_char": 1689,
+      "content": "== Dış bağlantılar == Beyazperde.com'da Bizim Aile IMDb'de Bizim Aile Sinemalar.com'da Bizim Aile SinemaTürk'te Bizim Aile TSA'da Bizim Aile",
+      "char_count": 140,
+      "token_estimate": 35
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Alev'in babasının adı nedir?",
+        "answer": "Alev'in babasının adı Saim Bey'dir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bizim Aile filmi, dram-komedi türündeki yapısını ve geniş oyuncu kadrosunu kullanarak, Yaşar Usta'nın ailesi ile Alev'in babası zengin fabrikatör Saim Bey arasındaki temel çatışmayı İstanbul'un farklı semtlerindeki çekim mekanları aracılığıyla nasıl bir sosyal ve ekonomik kontrastla görselleştirmiştir?",
+        "answer": "Film, dram-komedi türünün ve yetenekli oyuncularının etkisiyle, Yaşar Usta ve Melek Hanım'ın ailesinin yaşadığı Üsküdar Altunizade'deki köşk ile zengin fabrikatör Saim Bey'in ikamet ettiği Yeniköy'deki Said Halim Paşa Yalısı ve Beyoğlu'ndaki ofisi arasında belirgin bir mekansal ayrım yaratarak, iki karakter ve yaşam tarzları arasındaki sosyal ve ekonomik farklılıkları etkili bir şekilde vurgulamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

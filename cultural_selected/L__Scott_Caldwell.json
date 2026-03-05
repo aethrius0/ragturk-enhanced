@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "lscottcaldwell_d916f176",
+    "title": "L. Scott Caldwell",
+    "url": "https://tr.wikipedia.org/wiki/L._Scott_Caldwell",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:21.687288",
+    "content": "Laverne Scott Caldwell (d. 17 Nisan 1950), Tony ödüllü Amerikalı oyuncudur. Lost dizisindeki Rose Henderson rolüyle bilinmektedir. Caldwell, Loyola University Chicago'nun Tiyatro Sanatları ve İletişimi bölümünü dereceyle tamamladı. Bundan sonra çok sayıda filmde rol aldı. Rol aldığı film ve diziller arasında Mystery Alaska, Waiting to Exhale, The Net, The Fugitive, Dutch ve Without a Trace sayılabilir. Judging Amy dizisinde yinelelen bir rolü vardır ve CBS kanalındaki JAG, Chicago Hope, City of Angels ve Promised Land dizilerinde konuk sanatçı olarak rol aldı. Diğer televizyon rolleri ise şunlardır: The Practice, The Division, Any Day Now, Murder One, The Pretender, Grace Under Fire, Melrose Place, Lois and Clark, ER, Nip/Tuck, L.A. Law, Ghost Whisperer, Cold Case, Saving Grace, State of Mind ve The Cosby Show. Çok sayıda Broadway oyununda rol alan Caldwell, 1998'de Joe Turner's Come and Gone oyunundaki performansıyla Tony Ödülü kazandı. Rol aldığı diğer broadway tiyatroları ise şunlardır: Proposals, A Month of Sundays ve Home. Ayrıca bazı Broadway'lerde de kapalı oynadı: About Heaven & Earth, Colored People's Time, Old Phantoms, A Season to Unravel ve The Imprisonment of Obatala. Son olarak rol aldığı Southland ve The Secret Life of the American Teenager dizilerinin yanı sıra, Powder Blue, Like Dandelion Dust ve Gridiron Gang gibi filmlerde oynadı. Caldwell ayrıca Lost dizisinde rol aldı. == Çalışmaları == === Televizyon === == Dış bağlantılar == AllMovie'de L. Scott Caldwell IBDB'de L. Scott Caldwell. IMDb'de L. Scott Caldwell",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 233,
+      "char_count": 1554,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.280688",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Laverne Scott Caldwell (d. 17 Nisan 1950), Tony ödüllü Amerikalı oyuncudur. Lost dizisindeki Rose Henderson rolüyle bilinmektedir. Caldwell, Loyola University Chicago'nun Tiyatro Sanatları ve İletişimi bölümünü dereceyle tamamladı. Bundan sonra çok sayıda filmde rol aldı. Rol aldığı film ve diziller arasında Mystery Alaska, Waiting to Exhale, The Net, The Fugitive, Dutch ve Without a Trace sayılabilir. Judging Amy dizisinde yinelelen bir rolü vardır ve CBS kanalındaki JAG, Chicago Hope, City of Angels ve Promised Land dizilerinde konuk sanatçı olarak rol aldı. Diğer televizyon rolleri ise şunlardır: The Practice, The Division, Any Day Now, Murder One, The Pretender, Grace Under Fire, Melrose Place, Lois and Clark, ER, Nip/Tuck, L.A. Law, Ghost Whisperer, Cold Case, Saving Grace, State of Mind ve The Cosby Show. Çok sayıda Broadway oyununda rol alan Caldwell, 1998'de Joe Turner's Come and Gone oyunundaki performansıyla Tony Ödülü kazandı. Rol aldığı diğer broadway tiyatroları ise şunlar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1412,
+      "content": "ind ve The Cosby Show. Çok sayıda Broadway oyununda rol alan Caldwell, 1998'de Joe Turner's Come and Gone oyunundaki performansıyla Tony Ödülü kazandı. Rol aldığı diğer broadway tiyatroları ise şunlardır: Proposals, A Month of Sundays ve Home. Ayrıca bazı Broadway'lerde de kapalı oynadı: About Heaven & Earth, Colored People's Time, Old Phantoms, A Season to Unravel ve The Imprisonment of Obatala. Son olarak rol aldığı Southland ve The Secret Life of the American Teenager dizilerinin yanı sıra, Powder Blue, Like Dandelion Dust ve Gridiron Gang gibi filmlerde oynadı. Caldwell ayrıca Lost dizisinde rol aldı.",
+      "char_count": 612,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1450,
+      "end_char": 1554,
+      "content": "== Dış bağlantılar == AllMovie'de L. Scott Caldwell IBDB'de L. Scott Caldwell. IMDb'de L. Scott Caldwell",
+      "char_count": 104,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Laverne Scott Caldwell, hangi dizideki Rose Henderson rolüyle tanınmaktadır?",
+        "answer": "Lost",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Laverne Scott Caldwell'ın Tony ödülü kazandığı performansın adı ve rol aldığı diğer Broadway tiyatroları hangileridir?",
+        "answer": "Laverne Scott Caldwell, 1998'de Joe Turner's Come and Gone oyunundaki performansıyla Tony Ödülü kazanmıştır. Rol aldığı diğer Broadway tiyatroları Proposals, A Month of Sundays ve Home iken, About Heaven & Earth, Colored People's Time, Old Phantoms, A Season to Unravel ve The Imprisonment of Obatala gibi yapımlarda da kapalı gişe oynamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

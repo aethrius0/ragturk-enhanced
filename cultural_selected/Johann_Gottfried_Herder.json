@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "johanngottfriedherde_b1ee8054",
+    "title": "Johann Gottfried Herder",
+    "url": "https://tr.wikipedia.org/wiki/Johann_Gottfried_Herder",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:56.428923",
+    "content": "Johann Gottfried von Herder, (25 Ağustos 1744 - 18 Aralık 1803), Alman filozof, dinbilimci, şair ve edebiyatçıdır. Alman romantizmi dönemi ve özellikle de Fırtına ve Coşku ekolünde değerlendirilen ve bu dönemin en önemli ürünlerinden kabul edilen dil felsefesi ve tarih felsefesi alanlarında verdiği eserlerle, bu alanların müşterek kurucularından kabul edilir. == Hayatı == Herder, 25 Ağustos 1744 tarihinde Prusya'nın Mohrungen kasabasında doğdu. Bölgesinin ve çağının en önemli üniversitelerinden olan, Alman filozof Kant'ın da görev yapmakta olduğu Königsberg Üniversitesi'ne 1762 yılında girdi. Bununla birlikte Kant'ın klasik idealist görüşlerinden çok Jakob Böhme ve Johann Georg Hamann gibi fikir insanlarından etkilendi. Üniversitedeki eğitiminin ardından Prusya'nın ve Avrupa'nın çeşitli şehirlerinde öğretmenlik yaptığı gezgin bir hayat sürdü. Bu dönemde hem Goethe ile tanışarak yeni Alman edebiyat akımından etkilendi, hem de aynı dönemde entelektüel faaliyetlerde bulunan Christoph Martin Wieland ve Friedrich Schiller gibi isimlerle beraber Weimar'da kurdukları felsefe topluluğunu yönetti. 18 Aralık 1803 tarihinde bu şehirde öldü. == Fikirleri == Gerçek bir 'tarih felsefesi'nin bir anlamda kurucusu sayılabilecek olan Herder, tarihte, belirleyici ögenin genel olarak insan değil de şu ya da bu türden insanın genel özellikleri olduğunu savunduğu doğal bir evrim görüşü geliştirmiş ve bu iddiasıyla da aynı zamanda antropolojinin babası sayılmıştır. Bu anlayışa göre, doğa da tarih de sürekli olarak dönüşen, yani oluş hali içinde olan alanlardır. Tarih, doğanın bir alanı olmakla birlikte; tarihsel olaylar, doğal olaylar gibi, kesin bir yasalılık ve nedensellik taşımaz. Zira, tarihi belirleyen en önemli öge, genellik değil de, bireyselliktir. Tarihte yasalar aramaktan vazgeçilmelidir, her tarihsel olay bir kez ortaya çıkan bir gerçekliktir. == Kaynakça == Akkaya, M. Şükrü (1951). \"Herder: Şahsiyeti ve Eserleri\". Dil ve Tarih - Coğrafya Fakültesi Dergisi. 9 (1-2). Ankara Üniversitesi. ISSN 2459-015020 Mart 2018.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 278,
+      "char_count": 2037,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.188556",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 362,
+      "content": "Johann Gottfried von Herder, (25 Ağustos 1744 - 18 Aralık 1803), Alman filozof, dinbilimci, şair ve edebiyatçıdır. Alman romantizmi dönemi ve özellikle de Fırtına ve Coşku ekolünde değerlendirilen ve bu dönemin en önemli ürünlerinden kabul edilen dil felsefesi ve tarih felsefesi alanlarında verdiği eserlerle, bu alanların müşterek kurucularından kabul edilir.",
+      "char_count": 361,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 362,
+      "end_char": 1148,
+      "content": "== Hayatı == Herder, 25 Ağustos 1744 tarihinde Prusya'nın Mohrungen kasabasında doğdu. Bölgesinin ve çağının en önemli üniversitelerinden olan, Alman filozof Kant'ın da görev yapmakta olduğu Königsberg Üniversitesi'ne 1762 yılında girdi. Bununla birlikte Kant'ın klasik idealist görüşlerinden çok Jakob Böhme ve Johann Georg Hamann gibi fikir insanlarından etkilendi. Üniversitedeki eğitiminin ardından Prusya'nın ve Avrupa'nın çeşitli şehirlerinde öğretmenlik yaptığı gezgin bir hayat sürdü. Bu dönemde hem Goethe ile tanışarak yeni Alman edebiyat akımından etkilendi, hem de aynı dönemde entelektüel faaliyetlerde bulunan Christoph Martin Wieland ve Friedrich Schiller gibi isimlerle beraber Weimar'da kurdukları felsefe topluluğunu yönetti. 18 Aralık 1803 tarihinde bu şehirde öldü.",
+      "char_count": 785,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0002",
+      "section": "== Fikirleri ==",
+      "heading_path": "== Fikirleri ==",
+      "start_char": 1148,
+      "end_char": 1864,
+      "content": "== Fikirleri == Gerçek bir 'tarih felsefesi'nin bir anlamda kurucusu sayılabilecek olan Herder, tarihte, belirleyici ögenin genel olarak insan değil de şu ya da bu türden insanın genel özellikleri olduğunu savunduğu doğal bir evrim görüşü geliştirmiş ve bu iddiasıyla da aynı zamanda antropolojinin babası sayılmıştır. Bu anlayışa göre, doğa da tarih de sürekli olarak dönüşen, yani oluş hali içinde olan alanlardır. Tarih, doğanın bir alanı olmakla birlikte; tarihsel olaylar, doğal olaylar gibi, kesin bir yasalılık ve nedensellik taşımaz. Zira, tarihi belirleyen en önemli öge, genellik değil de, bireyselliktir. Tarihte yasalar aramaktan vazgeçilmelidir, her tarihsel olay bir kez ortaya çıkan bir gerçekliktir.",
+      "char_count": 715,
+      "token_estimate": 178
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1864,
+      "end_char": 2037,
+      "content": "== Kaynakça == Akkaya, M. Şükrü (1951). \"Herder: Şahsiyeti ve Eserleri\". Dil ve Tarih - Coğrafya Fakültesi Dergisi. 9 (1-2). Ankara Üniversitesi. ISSN 2459-015020 Mart 2018.",
+      "char_count": 173,
+      "token_estimate": 43
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Herder hangi tarihte ve nerede doğmuştur?",
+        "answer": "Herder, 25 Ağustos 1744 tarihinde Prusya'nın Mohrungen kasabasında doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Johann Gottfried von Herder'ın tarih felsefesi alanındaki kurucu katkıları, tarihsel olayların ve insan evriminin doğasına ilişkin geliştirdiği fikirlerde nasıl yansımaktadır?",
+        "answer": "Herder, dil felsefesi ve tarih felsefesi alanlarının müşterek kurucularından kabul edilir. Tarih felsefesi alanında, belirleyici ögenin genel olarak insan değil de şu ya da bu türden insanın genel özellikleri olduğunu savunduğu doğal bir evrim görüşü geliştirmiştir ve bu iddiasıyla da aynı zamanda antropolojinin babası sayılmıştır. Tarihin doğanın bir alanı olmasına rağmen, tarihsel olaylar doğal olaylar gibi kesin bir yasalılık ve nedensellik taşımaz, zira tarihi belirleyen en önemli öge bireyselliktir ve her tarihsel olay bir kez ortaya çıkan bir gerçekliktir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "biritmilah_b7cfce9e",
+    "title": "Birit milah",
+    "url": "https://tr.wikipedia.org/wiki/Birit_milah",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:44.336090",
+    "content": "Birit milah (İbranice: בְּרִית מִילָה‎, lit. \"Sünnet antlaşması\", İbranice telaffuz: [bʁit miˈla]; Yidiş telaffuz: [bʁis ˈmilə]), inançlı Yahudi erkek çocuklarına sekiz günlükken Mohel tarafından yapılan sünnet törenidir. Bu törende mohel, bebeğe bir Yahudi adı verildikten sonra bebeğin sünnet derisini alır ve üreme organından kan akıtır. Yahudi dininin öncüsü olan Avraam, tarihte ilk Brit Mila olan kişi olarak kabul edilir ve kendi kendini 99 yaşındayken Tanrı'yla yaptığı bir antlaşma sonucu sünnet etmiştir. Avraam, kendi soyundan gelenlere büyük bir sadakatla Tanrı'ya hizmet etmelerini öğreteceğine dair yemin etti. Buna karşılık Tanrı, Avraam'ın soyunun hayatta kalacağını garanti edeceğine dair söz verdi. Nitekim, Avraam'ın soyu İshak oğlu Yakup aracılığıyla İsrailoğulları; ve İsmail aracılığıyla Araplar olarak devam etmektedir. Sünnet töreninin diğer Yahudi törenlerinden ayıran bir özelliği, eğer sünnet günü şabat'a denk gelirse diğer törenler gibi ertelenmeyişidir. Sünneti erteletebilecek tek unsur bebeğin sağlığıdır. == Kan == Sünnet'te kan akıtılması esas olduğu için lokal anestezi gibi yollarla yapılan tören geleneklere aykırıdır çünkü bu tip prosedürler kan deveranını yavaşlattığı için kan akımını engeller. Yahudiliğe geçmek isteyen erkek sünnet olmalıdır; eğer erkek halihazırda sünnetliyse penisinin üstüne sembolik olarak bir damla kan akıtılarak sünnet töreni düzenlenir. == Tora'da sünnetle ilgili hükümler == Tora'nın Yaratılış kitabında Avram ile Tanrı'nın antlaşması anlatılır: Ayrıca, sünnet kuralı Tora'nın Levililer kitabında da yinelenir: \"Çocuk sekizinci gün sünnet edilmeli.\" == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 215,
+      "char_count": 1632,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.668001",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Birit milah (İbranice: בְּרִית מִילָה‎, lit. \"Sünnet antlaşması\", İbranice telaffuz: [bʁit miˈla]; Yidiş telaffuz: [bʁis ˈmilə]), inançlı Yahudi erkek çocuklarına sekiz günlükken Mohel tarafından yapılan sünnet törenidir. Bu törende mohel, bebeğe bir Yahudi adı verildikten sonra bebeğin sünnet derisini alır ve üreme organından kan akıtır. Yahudi dininin öncüsü olan Avraam, tarihte ilk Brit Mila olan kişi olarak kabul edilir ve kendi kendini 99 yaşındayken Tanrı'yla yaptığı bir antlaşma sonucu sünnet etmiştir. Avraam, kendi soyundan gelenlere büyük bir sadakatla Tanrı'ya hizmet etmelerini öğreteceğine dair yemin etti. Buna karşılık Tanrı, Avraam'ın soyunun hayatta kalacağını garanti edeceğine dair söz verdi. Nitekim, Avraam'ın soyu İshak oğlu Yakup aracılığıyla İsrailoğulları; ve İsmail aracılığıyla Araplar olarak devam etmektedir. Sünnet töreninin diğer Yahudi törenlerinden ayıran bir özelliği, eğer sünnet günü şabat'a denk gelirse diğer törenler gibi ertelenmeyişidir. Sünneti ertelete",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1037,
+      "content": "cılığıyla Araplar olarak devam etmektedir. Sünnet töreninin diğer Yahudi törenlerinden ayıran bir özelliği, eğer sünnet günü şabat'a denk gelirse diğer törenler gibi ertelenmeyişidir. Sünneti erteletebilecek tek unsur bebeğin sağlığıdır.",
+      "char_count": 237,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0002",
+      "section": "== Kan ==",
+      "heading_path": "== Kan ==",
+      "start_char": 1038,
+      "end_char": 1404,
+      "content": "== Kan == Sünnet'te kan akıtılması esas olduğu için lokal anestezi gibi yollarla yapılan tören geleneklere aykırıdır çünkü bu tip prosedürler kan deveranını yavaşlattığı için kan akımını engeller. Yahudiliğe geçmek isteyen erkek sünnet olmalıdır; eğer erkek halihazırda sünnetliyse penisinin üstüne sembolik olarak bir damla kan akıtılarak sünnet töreni düzenlenir.",
+      "char_count": 365,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0003",
+      "section": "== Tora'da sünnetle ilgili hükümler ==",
+      "heading_path": "== Tora'da sünnetle ilgili hükümler ==",
+      "start_char": 1404,
+      "end_char": 1618,
+      "content": "== Tora'da sünnetle ilgili hükümler == Tora'nın Yaratılış kitabında Avram ile Tanrı'nın antlaşması anlatılır: Ayrıca, sünnet kuralı Tora'nın Levililer kitabında da yinelenir: \"Çocuk sekizinci gün sünnet edilmeli.\"",
+      "char_count": 213,
+      "token_estimate": 53
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yahudi erkek çocuklarına Brit Milah töreni kaç günlükken yapılır?",
+        "answer": "Sekiz günlükken",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Birit Milah törenini diğer Yahudi törenlerinden ayıran ve zamanlamasıyla ilgili özellikleri nelerdir?",
+        "answer": "Birit Milah, diğer Yahudi törenlerinin aksine, eğer sünnet günü Şabat'a denk gelirse ertelenmez. Bu törenin ertelenebileceği tek unsur bebeğin sağlığıdır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

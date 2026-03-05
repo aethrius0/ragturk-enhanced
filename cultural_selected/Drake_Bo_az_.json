@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "drakeboaz_d7155485",
+    "title": "Drake Boğazı",
+    "url": "https://tr.wikipedia.org/wiki/Drake_Bo%C4%9Faz%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:52.944162",
+    "content": "Drake Boğazı, Güney Amerika'da Horn Burnu ile Antarktika Kıta'sı arasında yer alan, dünya denizciliğinin en zorlu ve tehlikeli geçitlerinden biridir. Atlas Okyanusu ile Büyük Okyanus'u birbirine bağlayan doğal bir sınır olarak kabul edilir. Genişliği 1.800 km olan Drake Boğazı (Drake Geçidi de denir), batıda Büyük Okyanus'a, doğuda Atlas Okyanusu'na açılır. 1578'de boğazı bulan İngiliz denizcisi Sir Francis Drake, Hindistan'a ulaşan geçidi bulduğunu sanmıştı. 1513'te Piri Reis'in çizdiği dünya haritasında Drake Boğazında bulunan yeraltı dağları da belirtilmiştir. Drake Boğazı, denizciler için zorlu koşulları ve sert rüzgarları ile bilinir. Boğazın zorluğunun en büyük sebebi, dünya üzerindeki en güçlü deniz akıntılarından birinin burada bulunmasıdır. Drake Boğazı'nda okyanus sularının büyük bir kısmı dar bir alandan geçerken, güçlü batı rüzgarları ve aniden değişen hava koşulları bu bölgeyi son derece tehlikeli hale getirir. Rüzgar hızı sık sık 100 kilometreye kadar ulaşabilir ve ani çıkan fırtınalar, devasa dalgalarla birleşerek gemi geçişlerini son derece zorlaştırır. Bu deniz yolu, çoğu zaman 10 metreyi aşan dev dalgalar ve yoğun sisle kaplıdır. Dalgaların yükseklikleri bazı durumlarda 15 metreyi bile geçebilir. Ayrıca Drake Boğazı'nda deniz sıcaklıkları son derece düşüktür. Kutup soğukları, denizcilerin donma tehlikesiyle yüzleşmesine neden olur ve bu soğuk sulara düşen biri çok kısa sürede hipotermi riskiyle karşı karşıya kalabilir. == Tarih == Boğaz, adını Sir Francis Drake'in yağmalama seferi sırasında aldı. Drake, 1578'de Marigold, Elizabeth ve amiral gemisi Golden Hind ile birlikte Macellan Boğazı'ndan geçtikten sonra Büyük Okyanus'a ulaştı, ancak bir fırtına onu çok daha güneye sürükledi. Marigold kayboldu ve Elizabeth filoyu terk etti. Yalnızca Drake'in Golden Hind'i boğaza girdi. Bu olay, İngilizlere Güney Amerika'nın güneyinde açık deniz olduğunu gösterdi. 1616'da Hollandalı denizci Willem Schouten, Horn Burnu'nun etrafından dolaşıp Drake Boğazı'ndan geçen ilk kişi oldu. == Ayrıca bakınız == Türk Boğazları == Kaynakça == == Dış bağlantılar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 288,
+      "char_count": 2090,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.821807",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Drake Boğazı, Güney Amerika'da Horn Burnu ile Antarktika Kıta'sı arasında yer alan, dünya denizciliğinin en zorlu ve tehlikeli geçitlerinden biridir. Atlas Okyanusu ile Büyük Okyanus'u birbirine bağlayan doğal bir sınır olarak kabul edilir. Genişliği 1.800 km olan Drake Boğazı (Drake Geçidi de denir), batıda Büyük Okyanus'a, doğuda Atlas Okyanusu'na açılır. 1578'de boğazı bulan İngiliz denizcisi Sir Francis Drake, Hindistan'a ulaşan geçidi bulduğunu sanmıştı. 1513'te Piri Reis'in çizdiği dünya haritasında Drake Boğazında bulunan yeraltı dağları da belirtilmiştir. Drake Boğazı, denizciler için zorlu koşulları ve sert rüzgarları ile bilinir. Boğazın zorluğunun en büyük sebebi, dünya üzerindeki en güçlü deniz akıntılarından birinin burada bulunmasıdır. Drake Boğazı'nda okyanus sularının büyük bir kısmı dar bir alandan geçerken, güçlü batı rüzgarları ve aniden değişen hava koşulları bu bölgeyi son derece tehlikeli hale getirir. Rüzgar hızı sık sık 100 kilometreye kadar ulaşabilir ve ani çı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1460,
+      "content": " bir kısmı dar bir alandan geçerken, güçlü batı rüzgarları ve aniden değişen hava koşulları bu bölgeyi son derece tehlikeli hale getirir. Rüzgar hızı sık sık 100 kilometreye kadar ulaşabilir ve ani çıkan fırtınalar, devasa dalgalarla birleşerek gemi geçişlerini son derece zorlaştırır. Bu deniz yolu, çoğu zaman 10 metreyi aşan dev dalgalar ve yoğun sisle kaplıdır. Dalgaların yükseklikleri bazı durumlarda 15 metreyi bile geçebilir. Ayrıca Drake Boğazı'nda deniz sıcaklıkları son derece düşüktür. Kutup soğukları, denizcilerin donma tehlikesiyle yüzleşmesine neden olur ve bu soğuk sulara düşen biri çok kısa sürede hipotermi riskiyle karşı karşıya kalabilir.",
+      "char_count": 660,
+      "token_estimate": 165
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1461,
+      "end_char": 2018,
+      "content": "== Tarih == Boğaz, adını Sir Francis Drake'in yağmalama seferi sırasında aldı. Drake, 1578'de Marigold, Elizabeth ve amiral gemisi Golden Hind ile birlikte Macellan Boğazı'ndan geçtikten sonra Büyük Okyanus'a ulaştı, ancak bir fırtına onu çok daha güneye sürükledi. Marigold kayboldu ve Elizabeth filoyu terk etti. Yalnızca Drake'in Golden Hind'i boğaza girdi. Bu olay, İngilizlere Güney Amerika'nın güneyinde açık deniz olduğunu gösterdi. 1616'da Hollandalı denizci Willem Schouten, Horn Burnu'nun etrafından dolaşıp Drake Boğazı'ndan geçen ilk kişi oldu.",
+      "char_count": 556,
+      "token_estimate": 139
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2018,
+      "end_char": 2054,
+      "content": "== Ayrıca bakınız == Türk Boğazları",
+      "char_count": 35,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Drake Boğazı'nı bulan İngiliz denizcisi kimdir?",
+        "answer": "Sir Francis Drake.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sir Francis Drake'in 1578'deki seferi, Drake Boğazı'nın coğrafi önemi ve zorlu koşulları hakkındaki anlayışa nasıl katkıda bulunmuştur?",
+        "answer": "Sir Francis Drake'in 1578'deki yağmalama seferi sırasında, Macellan Boğazı'ndan geçtikten sonra yaşadığı fırtına onu çok daha güneye sürüklemiş ve bu olay, İngilizlere Güney Amerika'nın güneyinde açık deniz olduğunu göstermiştir. Bu keşif, Atlas Okyanusu ile Büyük Okyanus'u birbirine bağlayan ve dünyanın en güçlü deniz akıntılarından, güçlü batı rüzgarlarından, aniden değişen hava koşullarından, sık sık 100 kilometreye ulaşan rüzgar hızlarından ve 10 metreyi aşan dev dalgalardan dolayı denizciliğin en zorlu ve tehlikeli geçitlerinden biri olarak bilinen Drake Boğazı'nın varlığını ortaya koymuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

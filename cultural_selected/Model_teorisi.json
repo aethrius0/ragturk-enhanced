@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "modelteorisi_ed566cf9",
+    "title": "Model teorisi",
+    "url": "https://tr.wikipedia.org/wiki/Model_teorisi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:45:56.390883",
+    "content": "Modeller kuramı, matematiksel konseptleri küme kuramı temelinde inceleyen ya da başka bir deyişle matematiksel sistemlerin dayandığı modelleri araştıran matematik dalıdır. Modeller kuramı, 'dış dünyada' matematiksel nesnelerin var olduğunu varsayar ve nesneler, nesneler arasında bazı işlemler ya da bağıntılar ve bir aksiyomlar kümesi verildiğinde, nelerin nasıl tanıtlanabileceğine ilişkin sorular sorar. Seçim aksiyomu ve süreklilik hipotezinin küme kuramının diğer aksiyomlarından bağımsız olduğu tespiti modeller kuramından doğan en ünlü sonuçlardır (Paul Cohen ve Kurt Gödel tarafından tanıtlanmıştır). Hem seçim aksiyomunun hem de seçim aksiyomu negasyonunun küme kuramının Zermelo-Fraenkel aksiyomlarıyla uyumlu olduğu tanıtlanmıştır. Bu sonuçlar model teorisinin özel bir uygulaması olan Aksiyomatik küme kuramı dalının bölümleridir. Modeller kuramının pratik bir uygulama örneği reel sayılar kuramıyla verilebilir. Her nesnenin bir reel sayı olduğu bir nesneler kümesi ve {×,+,-,.,0,1} gibi bir bağıntılar ve/ya da fonksiyonlar kümesini ele alalım. Bu dilde kuracağımız örneğin \"∃ x (x × x = 1 + 1)\" önermesinin reel sayılar için doğru olduğu yani belirtilen koşulu sağlan bir x olduğu bellidir; fakat aynı önerme rasyonel sayılar için yanlıştır. Buna karşın \"∃ x (x × x = 0 - 1)\" önermesi reel sayılar için yanlıştır. Önermeyi doğru yapmak için sabit bir simge i ve yeni bir aksiyom \"i × i = 0 - 1\" ekleyerek kompleks sayıları tanımlayabiliriz. Buna göre modeller kuramı matematiksel sistemler içinde nelerin tanıtlanabilir olduğu ve bu sistemlerin kendi aralarındaki ilişkilerle ilgilenir. Özel olarak modeller kuramı bir sisteme yeni aksiyomlar ya da yeni dil yapıları eklendiğinde ne gibi sonuçlar ortaya çıktığını araştırır. == İlgili konular == Tersine Matematik Tanıtlama kuramı",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 250,
+      "char_count": 1795,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.054106",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Modeller kuramı, matematiksel konseptleri küme kuramı temelinde inceleyen ya da başka bir deyişle matematiksel sistemlerin dayandığı modelleri araştıran matematik dalıdır. Modeller kuramı, 'dış dünyada' matematiksel nesnelerin var olduğunu varsayar ve nesneler, nesneler arasında bazı işlemler ya da bağıntılar ve bir aksiyomlar kümesi verildiğinde, nelerin nasıl tanıtlanabileceğine ilişkin sorular sorar. Seçim aksiyomu ve süreklilik hipotezinin küme kuramının diğer aksiyomlarından bağımsız olduğu tespiti modeller kuramından doğan en ünlü sonuçlardır (Paul Cohen ve Kurt Gödel tarafından tanıtlanmıştır). Hem seçim aksiyomunun hem de seçim aksiyomu negasyonunun küme kuramının Zermelo-Fraenkel aksiyomlarıyla uyumlu olduğu tanıtlanmıştır. Bu sonuçlar model teorisinin özel bir uygulaması olan Aksiyomatik küme kuramı dalının bölümleridir. Modeller kuramının pratik bir uygulama örneği reel sayılar kuramıyla verilebilir. Her nesnenin bir reel sayı olduğu bir nesneler kümesi ve {×,+,-,.,0,1} gibi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1099,
+      "content": "iyomatik küme kuramı dalının bölümleridir. Modeller kuramının pratik bir uygulama örneği reel sayılar kuramıyla verilebilir. Her nesnenin bir reel sayı olduğu bir nesneler kümesi ve {×,+,-,.,0,1} gibi bir bağıntılar ve/ya da fonksiyonlar kümesini ele alalım. Bu dilde kuracağımız örneğin \"∃ x (x × x",
+      "char_count": 299,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0002",
+      "section": "= 1 + 1)\" önermesinin reel sayılar için doğru olduğu yani belirtilen koşulu sağlan bir x olduğu bellidir; fakat aynı önerme rasyonel sayılar için yanlıştır. Buna karşın \"∃ x (x × x =",
+      "heading_path": "= 1 + 1)\" önermesinin reel sayılar için doğru olduğu yani belirtilen koşulu sağlan bir x olduğu bellidir; fakat aynı önerme rasyonel sayılar için yanlıştır. Buna karşın \"∃ x (x × x =",
+      "start_char": 1100,
+      "end_char": 1401,
+      "content": "= 1 + 1)\" önermesinin reel sayılar için doğru olduğu yani belirtilen koşulu sağlan bir x olduğu bellidir; fakat aynı önerme rasyonel sayılar için yanlıştır. Buna karşın \"∃ x (x × x = 0 - 1)\" önermesi reel sayılar için yanlıştır. Önermeyi doğru yapmak için sabit bir simge i ve yeni bir aksiyom \"i × i",
+      "char_count": 300,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0003",
+      "section": "= 0 - 1\" ekleyerek kompleks sayıları tanımlayabiliriz. Buna göre modeller kuramı matematiksel sistemler içinde nelerin tanıtlanabilir olduğu ve bu sistemlerin kendi aralarındaki ilişkilerle ilgilenir. Özel olarak modeller kuramı bir sisteme yeni aksiyomlar ya da yeni dil yapıları eklendiğinde ne gibi sonuçlar ortaya çıktığını araştırır. = =",
+      "heading_path": "= 0 - 1\" ekleyerek kompleks sayıları tanımlayabiliriz. Buna göre modeller kuramı matematiksel sistemler içinde nelerin tanıtlanabilir olduğu ve bu sistemlerin kendi aralarındaki ilişkilerle ilgilenir. Özel olarak modeller kuramı bir sisteme yeni aksiyomlar ya da yeni dil yapıları eklendiğinde ne gibi sonuçlar ortaya çıktığını araştırır. = =",
+      "start_char": 1401,
+      "end_char": 1795,
+      "content": "= 0 - 1\" ekleyerek kompleks sayıları tanımlayabiliriz. Buna göre modeller kuramı matematiksel sistemler içinde nelerin tanıtlanabilir olduğu ve bu sistemlerin kendi aralarındaki ilişkilerle ilgilenir. Özel olarak modeller kuramı bir sisteme yeni aksiyomlar ya da yeni dil yapıları eklendiğinde ne gibi sonuçlar ortaya çıktığını araştırır. == İlgili konular == Tersine Matematik Tanıtlama kuramı",
+      "char_count": 394,
+      "token_estimate": 98
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Modeller kuramı hangi matematiksel konseptleri inceler?",
+        "answer": "Matematiksel konseptleri küme kuramı temelinde inceler ya da başka bir deyişle matematiksel sistemlerin dayandığı modelleri araştırır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Modeller kuramının reel sayılar kuramı üzerine pratik uygulaması, genel olarak modeller kuramının prensipleriyle nasıl ilişkilidir?",
+        "answer": "Modeller kuramı, matematiksel sistemlerin dayandığı modelleri inceleyen ve nesneler, işlemler ve aksiyomlar verildiğinde nelerin tanıtlanabileceğine dair sorular soran bir matematik dalıdır. Reel sayılar kuramı örneğinde, her nesnenin bir reel sayı olduğu bir nesneler kümesi ve {×,+,-,.,0,1} gibi belirli bağıntılar ve/ya da fonksiyonlar kümesi ele alınarak, model kuramının belirli bir sistemdeki matematiksel nesneleri ve mantıksal yapıları inceleme prensibi somutlaştırılır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

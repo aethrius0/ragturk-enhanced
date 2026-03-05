@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "juneblair_0ff3db98",
+    "title": "June Blair",
+    "url": "https://tr.wikipedia.org/wiki/June_Blair",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:09.285212",
+    "content": "Margaret June Blair (d. 20 Ekim 1932 - ö. 4 Aralık 2022), Amerikalı model ve oyuncu. == Yaşamı ve kariyeri == Winters, 20 Ekim 1932'de San Francisco, Kaliforniya'da doğdu. 1954'te başladığı oyunculuk ve modellik kariyerini 2022 yılındaki ölümüne kadar sürdürdü. 1950'li yılların ortaları ve 1960'larda Hollywood'da güzelliğiyle oldukça popülerdi. En çok; Ocak 1957'de Playboy Dergisi'nde yayınlanan fotoğraflarıyla \"Ayın Kapak Güzeli\" olarak seçilmesiyle adını duyurmuştur. Rol aldığı The Adventures of Ozzie and Harriet adlı TV dizisindeki oyuncu arkadaşı David Nelson ile üçüncü evliliğini yapmıştır. Yer aldığı diğer bazı yaımlar arasında; Our Miss Brooks, Two Faces West, Lone Texan, The Best of Everything ve Sea Hunt sayılabilir. == Özel yaşamı ve ölümü == Üç evliliğinden iki oğlu bulunan Blair, 4 Aralık 2022'de Sherman Oaks, Kaliforniya'da yaşlılığa bağlı doğal nedenlerden 90 yaşında ölmüştür. == Filmografi == Our Miss Brooks (1956) (uncredited) .... Miss Lonelyhearts Conflict - \"The Money\" (1957) .... Blonde This Could Be the Night (1957) (uncredited) .... Chorus Girl Man of a Thousand Faces (1957) (uncredited) .... Chorine Bachelor Father - \"Bentley Versus the Girl Scouts\" (1957) Hell Bound (1957) .... Paula The Fiend Who Walked the West (1958) Lone Texan (1959) .... Florrie Stuart Island of Lost Women (1959) .... Mercuria Warlock (1959) (uncredited) .... Dance hall girl The Rabbit Trap (1959) .... Judy Colt The Best of Everything (1959) .... Brenda Bat Masterson \"Dead Men Don't Pay Debts\" (1959) \"Death by Decree\" (1960) .... Constance Whitney Hawaiian Eye - \"Three Tickets to Lani\" (1959) .... Anita Callahan Lock-Up \"Music to Murder By\" (1959) \"Court Martial\" (1961) The Texan - \"Town Divided\" (1960) .... Ellen Warren Tombstone Territory (1960) \"Revenge\" ..... Lady Bell Sea Hunt \"Water Nymphs\" (Season 3, Episode 2 1960) \"Cross Current\" (1960) M Squad - \"The Bad Apple\" (1960) .... Patty Conway The Chevy Mystery Show - \"The Inspector Vanishes\" (1960) .... Colette Dufour A Fever in the Blood (1961) .... Paula Thornwall The Aquanauts - \"The Defective Tank Adventure\" (1961) .... June Noreen The Adventures of Ozzie & Harriet (1961-1966) .... June == Ayrıca bakınız == Playboy'un 1953-1959 yılları arasındaki kapak güzelleri 14 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça == == Dış bağlantılar == June Blair Playboy Online IMDb'de June Blair Glamour Girls of the Silver Screen 8 Aralık 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 382,
+      "char_count": 2496,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.305734",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 85,
+      "content": "Margaret June Blair (d. 20 Ekim 1932 - ö. 4 Aralık 2022), Amerikalı model ve oyuncu.",
+      "char_count": 84,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 85,
+      "end_char": 736,
+      "content": "== Yaşamı ve kariyeri == Winters, 20 Ekim 1932'de San Francisco, Kaliforniya'da doğdu. 1954'te başladığı oyunculuk ve modellik kariyerini 2022 yılındaki ölümüne kadar sürdürdü. 1950'li yılların ortaları ve 1960'larda Hollywood'da güzelliğiyle oldukça popülerdi. En çok; Ocak 1957'de Playboy Dergisi'nde yayınlanan fotoğraflarıyla \"Ayın Kapak Güzeli\" olarak seçilmesiyle adını duyurmuştur. Rol aldığı The Adventures of Ozzie and Harriet adlı TV dizisindeki oyuncu arkadaşı David Nelson ile üçüncü evliliğini yapmıştır. Yer aldığı diğer bazı yaımlar arasında; Our Miss Brooks, Two Faces West, Lone Texan, The Best of Everything ve Sea Hunt sayılabilir.",
+      "char_count": 650,
+      "token_estimate": 162
+    },
+    {
+      "id": "c0002",
+      "section": "== Özel yaşamı ve ölümü ==",
+      "heading_path": "== Özel yaşamı ve ölümü ==",
+      "start_char": 736,
+      "end_char": 904,
+      "content": "== Özel yaşamı ve ölümü == Üç evliliğinden iki oğlu bulunan Blair, 4 Aralık 2022'de Sherman Oaks, Kaliforniya'da yaşlılığa bağlı doğal nedenlerden 90 yaşında ölmüştür.",
+      "char_count": 167,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0003",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 904,
+      "end_char": 1904,
+      "content": "== Filmografi == Our Miss Brooks (1956) (uncredited) .... Miss Lonelyhearts Conflict - \"The Money\" (1957) .... Blonde This Could Be the Night (1957) (uncredited) .... Chorus Girl Man of a Thousand Faces (1957) (uncredited) .... Chorine Bachelor Father - \"Bentley Versus the Girl Scouts\" (1957) Hell Bound (1957) .... Paula The Fiend Who Walked the West (1958) Lone Texan (1959) .... Florrie Stuart Island of Lost Women (1959) .... Mercuria Warlock (1959) (uncredited) .... Dance hall girl The Rabbit Trap (1959) .... Judy Colt The Best of Everything (1959) .... Brenda Bat Masterson \"Dead Men Don't Pay Debts\" (1959) \"Death by Decree\" (1960) .... Constance Whitney Hawaiian Eye - \"Three Tickets to Lani\" (1959) .... Anita Callahan Lock-Up \"Music to Murder By\" (1959) \"Court Martial\" (1961) The Texan - \"Town Divided\" (1960) .... Ellen Warren Tombstone Territory (1960) \"Revenge\" ..... Lady Bell Sea Hunt \"Water Nymphs\" (Season 3, Episode 2 1960) \"Cross Current\" (1960) M Squad - \"The Bad Apple\" (1960",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 1704,
+      "end_char": 2176,
+      "content": "- \"Town Divided\" (1960) .... Ellen Warren Tombstone Territory (1960) \"Revenge\" ..... Lady Bell Sea Hunt \"Water Nymphs\" (Season 3, Episode 2 1960) \"Cross Current\" (1960) M Squad - \"The Bad Apple\" (1960) .... Patty Conway The Chevy Mystery Show - \"The Inspector Vanishes\" (1960) .... Colette Dufour A Fever in the Blood (1961) .... Paula Thornwall The Aquanauts - \"The Defective Tank Adventure\" (1961) .... June Noreen The Adventures of Ozzie & Harriet (1961-1966) .... June",
+      "char_count": 472,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2177,
+      "end_char": 2318,
+      "content": "== Ayrıca bakınız == Playboy'un 1953-1959 yılları arasındaki kapak güzelleri 14 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 140,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2333,
+      "end_char": 2496,
+      "content": "== Dış bağlantılar == June Blair Playboy Online IMDb'de June Blair Glamour Girls of the Silver Screen 8 Aralık 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 163,
+      "token_estimate": 40
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Oyuncunun 'Our Miss Brooks' (1956) filmindeki rolü neydi?",
+        "answer": "Miss Lonelyhearts",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Margaret June Blair'in yaşam süresi, modellik ve oyunculuk kariyerinin başlangıç ve bitiş tarihlerine göre nasıl bir zaman dilimini kapsamaktadır?",
+        "answer": "Margaret June Blair, 20 Ekim 1932'de doğmuş ve 4 Aralık 2022'de vefat etmiştir. Modellik ve oyunculuk kariyerine 1954 yılında başlamış ve bu kariyerini 2022 yılındaki vefatına kadar sürdürmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

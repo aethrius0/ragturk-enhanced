@@ -1,0 +1,224 @@
+{
+  "article": {
+    "id": "emekispat_b4db51b7",
+    "title": "Emek ispatı",
+    "url": "https://tr.wikipedia.org/wiki/Emek_ispat%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:42.544306",
+    "content": "Emek ispatı (İngilizce: Proof of Work, PoW), denial-of-service saldırıları ve bir ağ üzerinde bulunan spam mesajlar ile servislerin kötüye kullanımını, istemciden bir miktar iş yapmasını (genellikle bilgisayarın belirli bir süre işlem yapması anlamına gelir.) isteyerek önleme amaçlı ekonomik bir ölçüdür. Bu kavram, Cynthia Dwork ve Moni Naor tarafından 1993 tarihli bir dergi makalesiyle ilk kez ortaya konmuştur. \"Emek İspatı\" terimi ya da POW ilk kez Markus Jakobsson ve Ari Juels tarafından 1999 tarihli bir yayında literatüre kazandırılarak resmîleştirilmiştir. Emek ispatı sisteminin bir para birimine değer kazandırmak amacıyla kullanıldığı ilk örneklerden biri Solomon Adalarında kullanılan shell moneydir. Bu sistemlerin önemli bir özelliği asimetridir: Yapılacak iş istemci tarafında nispeten zor (ama makul derecede); hizmet sağlayıcı için ise kolay denetlenebilir olmalıdır. Bu düşünce, CPU maliyet fonksiyonu, istemci bulmacası, hesaplamalı bulmaca veya CPU fiyatlandırma fonksiyonu olarak da bilinir. CAPTCHA ise bilgisayar yerine insanlara çözdürmeyi amaçlamasıyla bu fikirden ayrılır. Alan ispatı (PoSpace) önerisi ise CPU zamanı yerine belirli bir miktar bellek veya disk kullanımını ispatlayarak aynı prensibi esas alır. Bant genişliği ispatı yaklaşımları, kripto para bağlamında tartışılmıştır. Sahiplik ispatı, belli bir verinin ispatlayanda tutulduğunun kanıtlanmasını amaçlar. == Arka plan == Hashcashte kullanılan popüler bir sistem, işin yapıldığının ispatlanması amacıyla e-posta gönderiminde iyi niyet belirtisi olarak özetin kısmen ters çevrilmesini kullanır. Örneğin, aşağıdaki üstbilgi calvin@comics.net adresine 19 Ocak 2038 tarihinde bir mesaj göndermek için gereken yaklaşık 252 özet hesaplamasını göstermektedir: X-Hashcash: 1:52:380119:calvin@comics.net:::9B760005E92F0DAE Doğrulama, damganın (X-Hashcash: üstbilgi adı, iki nokta ve '1' rakamına kadar olan boşluklar göz ardı edilerek) SHA-1 özetinin ikilik sistemde 52 adet 0 veya onaltılık sistemde 13 adet 0 ile başlayıp başlamadığının kontrol edilmesi ile tek işlemde yapılabilir: 0000000000000756af69e2ffbdb930261873cd71 PoW sistemlerin spam mesaj problemi gibi bir hizmet engelleme sorununu gerçekten çözüp çözmediği tartışma konusudur; sistem, spam gönderen için spam eposta gönderimini verimsiz hale getirmeli ama aynı zamanda kötü niyetli olmayan kullanıcıların mesajlarını göndermelerine engel olmamalıdır. Diğer bir deyişle, gerçek bir kullanıcı eposta gönderirken herhangi bir zorlukla karşılaşmamalı ama bir e-posta spamcısı tek seferde birden fazla eposta gönderebilmek için yeterli miktarda işlem gücü harcamak zorunda olmalıdır. Emek ispatı sistemleri, Hashcash benzeri bir sistem kullanan bitcoin gibi daha karmaşık kriptografik sistemlerde temel olarak kullanılmaktadır. == Türevleri == Emek ispatı protokollerde iki sınıf vardır. Meydan okuma-karşılık verme protokolleri, istekte bulunan (istemci) ve sağlayıcı (sunucu) arasında doğrudan bir etkileşimli bağlantı olduğunu varsayar. Sağlayıcı bir soru seçer, belirli bir özelliğe sahip bir kümenin ögesi diyelim, istekte bulunan taraf kümeden gerekli cevabı gönderir ve bu cevap sağlayıcı tarafından kontrol edilir. Soru, sağlayıcı tarafından o anda seçildiğinden, zorluğu mevcut yüküne göre ayarlanabilir. Meydan okuma-karşılık verme protokolünün bilinen bir çözüme (sağlayıcı tarafından seçilen) sahip olması ya da sınırlı bir arama alanı içinde var olması halinde talep eden taraftaki iş sınırlı olabilir. Çözüm-doğrulama protokolleri böyle bir bağlantıya sahip değildir: Sonuç olarak, talepte bulunan kişi tarafından çözüm aranmadan önce problem bu kişi tarafından ortaya konulmalı ve sağlayıcı hem problem seçimini hem de bulunan çözümü kontrol etmelidir. Bu tür şemaların çoğu Hashcash gibi sınırsız olasılıklı yineleme prosedürleridir. Bilinen çözüm protokolleri, sınırsız olasılıklı protokollerden biraz daha düşük bir varyansa sahip olma eğilimindedir, çünkü dikdörtgen dağılımın varyansı, (aynı ortalamaya sahip) Poisson dağılımının varyansından daha düşüktür. Çeşitliliği azaltmak için genel bir teknik, çok sayıda örneğin ortalaması daha düşük varyansa sahip olacağından birden fazla bağımsız alt-soru(sub-challenge) kullanmaktır.Şablon:Explain Ayrıca, zaman-kilit bulmacası gibi sabit maliyetli fonksiyonlar da vardır. Dahası, bu programlar tarafından kullanılan temel fonksiyonlar aşağıdakilerden biri olabilir: CPU bağımlı: İşlem, yüksek uç sunucudan düşük uçlu taşınabilir aygıtlara kadar işlemcinin hızında (zaman içinde büyük ölçüde değişen) çalışır. Bellek bağımlı: Hesaplama hızı ana bellek erişimiyle (gecikme veya bant genişliği) sınırlıdır. Bu yüzden, performansın donanımdaki gelişmelere daha az duyarlı olması beklenir. Ağ bağımlı: İstemcinin az sayıda hesaplama yapması gerekiyor, ancak son hizmet sağlayıcısını sorgulamadan önce uzak sunuculardan bazı belirteçler toplaması gerekiyorsa kullanılır. Bu anlamda, iş aslında talepte bulunan kişi tarafından gerçekleştirilmez, ancak gerekli belirteçlerin elde edilmesinin gecikmesi nedeniyle gecikmelere neden olur. Son olarak, bazı PoW sistemleri bir gizi, genellikle bir gizli anahtarı, bilen katılımcılara düşük maliyetli PoW'lar üretebilmelerine izin veren kısayol hesaplamalar sunar. Bunun sebebi, eposta listesi sahiplerinin yüksek bir maliyete maruz kalmadan her alıcı için damga üretebilmesidir. Böyle bir özelliğin istenip istenmediği kullanım senaryosuna bağlıdır. == Emek ispatı fonksiyonları listesi == Bilinen emek ispatı fonksiyonlarının bir listesi aşağıda verilmiştir: Tam sayı karekök mod büyük bir asal sayı Fiat–Shamir imzalarının zayıflatılması Pollard tarafından kırılan Ong–Schnorr–Şamir imzası Kısmi özet ters çevirme Bu çalışma, emek ispatı (PoW) fikrini formalize eder ve \"bread pudding protokolünün bağımlı fikrini\", \"yeniden kullanılabilir emek ispatı\" (RPoW) sistemini ortaya koyar. Hashcash gibi. Özet dizileri Bulmacalar Diffie–Hellman tabanlı bulmaca Moderate Mbound Hokkaido Cuckoo Döngüsü Merkle ağacı tabanlı Rehberli tur bulmaca protokolü == E-para olarak yeniden kullanılabilir emek ispatı == Bilgisayar bilimcisi Hal Finney emek ispatı üzerine inşa edilmiş, yeniden kullanılabilir emek ispatı (\"RPoW\") kullanan bir sistem ortaya çıkarmıştır. Bazı pratik amaçlar için yeniden kullanılabilir emek ispatları yapma fikri, 1999 yılında zaten gündeme gelmişti. Finney'in RPoW amacı, nominal değeri madeninden fazla olan para olarak kullanmaktı. Altın bir paranın değerinin, üretimi için gereken ham altının değeriyle desteklendiği düşünüldüğünde, bir RPoW jetonunun değeri, bir PoW jetonunun '' basılması '' için gerekli olan gerçek dünya kaynaklarının değeri ile garanti edilir. Finney'in RPoW sürümünde, PoW jetonu Hashcashin bir parçasıdır. Bir web sitesi hizmet karşılığında bir PoW jetonunu talep edebilir. Kullanıcılardan gelen bir PoW jetonunun kullanılması, hizmetin; İnternet'e yönelik bant genişliği, hesaplama, disk alanı, elektrik ve yönetim yükü gibi temel kaynaklarının kullanımını sınırlandırarak, hizmetin anlamsız veya aşırı kullanımını engeller. Finney'in RPoW sistemi, bir PoW sisteminden jetonları üretmek için gerekli olan işi tekrar etmeden rassal değiş-tokuşlara izin vermesiyle ayrılıyordu. Bir kişi bir web sitesinde bir \"PoW\" jetonu harcadıktan sonra, web sitesinin operatörü yeni harcanmamış bir RPoW jetonu için \"harcanan\" PoW jetonunu değiştirebilirdi, bu da RPoW jetonlarını kabul etmek üzere benzer şekilde donatılmış bir üçüncü parti web sitesinde harcanabilirdi. Bu, bir PoW jetonu '' basmak '' için gerekli olan kaynakları koruyacaktı. RPoW jetonunun sahtecilik karşıtı özelliği, uzaktan onaylama ile garanti edilmişti. Aynı değerde yeni bir adet için kullanılan bir PoW veya RPoW jetonunu değiştiren RPoW sunucusu, ilgili tarafın hangi yazılımın RPoW sunucusunda çalıştığını doğrulamasına izin vermek için uzaktan onaylama kullanır. Finney'in RPoW yazılımı için kaynak kodu (BSD benzeri bir lisans altında) yayınlandığından, yeterince bilgili bir programcı, kodu inceleyerek, yazılımın (ve buna bağlı olarak, RPoW sunucusunun) eşit değerde harcanan bir jeton karşılığı haricinde hiçbir zaman yeni bir jeton vermediğini doğrulayabilir. 2009 yılına kadar, Finney sistemi gerçeklenen tek RPoW sistemiyken asla ekonomik olarak önemli bir kullanım görmedi. RPoW, güvenilen platform modülü (TPM) donanımında saklanan gizli anahtarlar ve TPM gizli anahtarlarına sahip üreticiler tarafından korunmaktadır. Bir TPM üreticisinin anahtarını çalmak ya da TPM yongasının kendisini inceleyerek anahtarı elde etmek, bu garantiyi bozar. == Bitcoin tipi emek ispatı == 2009 yılında, Bitcoin ağı çevrimiçi oldu. Bitcoin, Finney'in RPoW'u gibi Hashcash PoW'a dayanan bir emek ispatı kripto parasıdır. Ancak, Bitcoin'de çift harcama koruması, RPoW tarafından kullanılan donanım güvenilir hesaplama fonksiyonu yerine, para transferlerini izlemek için merkezi olmayan bir P2P protokolü ile sağlanır. Bitcoin, daha iyi güvenilirliğe sahiptir çünkü hesaplama ile korunmaktadır. Bitcoinler, bireysel madenciler tarafından Hashcash emek ispatı fonksiyonu kullanılarak \"çıkarılır\" ve P2P bitcoin ağındaki merkezi olmayan düğümler tarafından doğrulanır. Blok süresini hedeflenen sürenin civarında tutabilmek için zorluk periyodik olarak ayarlanır. . == Kullanışlı emek ispatı == Birçok PoW sistemi, istemcilerin bir özet fonksiyonunu tersine çevirmek gibi işe yaramaz işleri yapmasını gerektirir. Bu, birçok kaynağın (özellikle istemcinin bilgisayarlarına güç veren elektrik) sadece para birimine güven sağlamak için kullanıldığı anlamına gelir. Bu kaynak harcamaları ile daha verimli olmak için, bazı alternatif paralar, gerçekleştirilen işin gerçekten yararlı olduğu bir PoW sistemi kullanır. Örneğin, Primecoin, istemcilerin belirli türlerde bilinmeyen asal sayıları bulmasını gerektirir, bunun da kullanılabileceği yan uygulamalar olabilir (bkz. Primecoin#Proof-of-work system). == Ayrıca bakınız == Bitcoin == Notlar == 1.^Çoğu Unix sistemde tek bir komutla doğrulanabilir: echo -n 1:52:380119:calvin@comics.net:::9B760005E92F0DAE | openssl sha1 == Kaynakça == == Dış bağlantılar == Finney's system at the Wayback Machine (22 Aralık 2007 tarihinde alınmıştır.) bit gold Bit gold21 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi.. Emek ispatı fonksiyonları ve bu fonksiyonların kullanımıyla ortaya çıkan makine mimarisi sorununa dayanan eksiksiz bir para sistemini (üretim, depolama, deneme ve aktarma dahil) açıklar.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 1318,
+      "char_count": 10395,
+      "num_chunks": 17,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.491586",
+    "total_chunks": 17,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Emek ispatı (İngilizce: Proof of Work, PoW), denial-of-service saldırıları ve bir ağ üzerinde bulunan spam mesajlar ile servislerin kötüye kullanımını, istemciden bir miktar iş yapmasını (genellikle bilgisayarın belirli bir süre işlem yapması anlamına gelir.) isteyerek önleme amaçlı ekonomik bir ölçüdür. Bu kavram, Cynthia Dwork ve Moni Naor tarafından 1993 tarihli bir dergi makalesiyle ilk kez ortaya konmuştur. \"Emek İspatı\" terimi ya da POW ilk kez Markus Jakobsson ve Ari Juels tarafından 1999 tarihli bir yayında literatüre kazandırılarak resmîleştirilmiştir. Emek ispatı sisteminin bir para birimine değer kazandırmak amacıyla kullanıldığı ilk örneklerden biri Solomon Adalarında kullanılan shell moneydir. Bu sistemlerin önemli bir özelliği asimetridir: Yapılacak iş istemci tarafında nispeten zor (ama makul derecede); hizmet sağlayıcı için ise kolay denetlenebilir olmalıdır. Bu düşünce, CPU maliyet fonksiyonu, istemci bulmacası, hesaplamalı bulmaca veya CPU fiyatlandırma fonksiyonu ola",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1399,
+      "content": "ten zor (ama makul derecede); hizmet sağlayıcı için ise kolay denetlenebilir olmalıdır. Bu düşünce, CPU maliyet fonksiyonu, istemci bulmacası, hesaplamalı bulmaca veya CPU fiyatlandırma fonksiyonu olarak da bilinir. CAPTCHA ise bilgisayar yerine insanlara çözdürmeyi amaçlamasıyla bu fikirden ayrılır. Alan ispatı (PoSpace) önerisi ise CPU zamanı yerine belirli bir miktar bellek veya disk kullanımını ispatlayarak aynı prensibi esas alır. Bant genişliği ispatı yaklaşımları, kripto para bağlamında tartışılmıştır. Sahiplik ispatı, belli bir verinin ispatlayanda tutulduğunun kanıtlanmasını amaçlar.",
+      "char_count": 599,
+      "token_estimate": 149
+    },
+    {
+      "id": "c0002",
+      "section": "== Arka plan ==",
+      "heading_path": "== Arka plan ==",
+      "start_char": 1400,
+      "end_char": 2400,
+      "content": "== Arka plan == Hashcashte kullanılan popüler bir sistem, işin yapıldığının ispatlanması amacıyla e-posta gönderiminde iyi niyet belirtisi olarak özetin kısmen ters çevrilmesini kullanır. Örneğin, aşağıdaki üstbilgi calvin@comics.net adresine 19 Ocak 2038 tarihinde bir mesaj göndermek için gereken yaklaşık 252 özet hesaplamasını göstermektedir: X-Hashcash: 1:52:380119:calvin@comics.net:::9B760005E92F0DAE Doğrulama, damganın (X-Hashcash: üstbilgi adı, iki nokta ve '1' rakamına kadar olan boşluklar göz ardı edilerek) SHA-1 özetinin ikilik sistemde 52 adet 0 veya onaltılık sistemde 13 adet 0 ile başlayıp başlamadığının kontrol edilmesi ile tek işlemde yapılabilir: 0000000000000756af69e2ffbdb930261873cd71 PoW sistemlerin spam mesaj problemi gibi bir hizmet engelleme sorununu gerçekten çözüp çözmediği tartışma konusudur; sistem, spam gönderen için spam eposta gönderimini verimsiz hale getirmeli ama aynı zamanda kötü niyetli olmayan kullanıcıların mesajlarını göndermelerine engel olmamalıdır",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Arka plan ==",
+      "heading_path": "== Arka plan ==",
+      "start_char": 2200,
+      "end_char": 2773,
+      "content": "zmediği tartışma konusudur; sistem, spam gönderen için spam eposta gönderimini verimsiz hale getirmeli ama aynı zamanda kötü niyetli olmayan kullanıcıların mesajlarını göndermelerine engel olmamalıdır. Diğer bir deyişle, gerçek bir kullanıcı eposta gönderirken herhangi bir zorlukla karşılaşmamalı ama bir e-posta spamcısı tek seferde birden fazla eposta gönderebilmek için yeterli miktarda işlem gücü harcamak zorunda olmalıdır. Emek ispatı sistemleri, Hashcash benzeri bir sistem kullanan bitcoin gibi daha karmaşık kriptografik sistemlerde temel olarak kullanılmaktadır.",
+      "char_count": 573,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0004",
+      "section": "== Türevleri ==",
+      "heading_path": "== Türevleri ==",
+      "start_char": 2774,
+      "end_char": 3774,
+      "content": "== Türevleri == Emek ispatı protokollerde iki sınıf vardır. Meydan okuma-karşılık verme protokolleri, istekte bulunan (istemci) ve sağlayıcı (sunucu) arasında doğrudan bir etkileşimli bağlantı olduğunu varsayar. Sağlayıcı bir soru seçer, belirli bir özelliğe sahip bir kümenin ögesi diyelim, istekte bulunan taraf kümeden gerekli cevabı gönderir ve bu cevap sağlayıcı tarafından kontrol edilir. Soru, sağlayıcı tarafından o anda seçildiğinden, zorluğu mevcut yüküne göre ayarlanabilir. Meydan okuma-karşılık verme protokolünün bilinen bir çözüme (sağlayıcı tarafından seçilen) sahip olması ya da sınırlı bir arama alanı içinde var olması halinde talep eden taraftaki iş sınırlı olabilir. Çözüm-doğrulama protokolleri böyle bir bağlantıya sahip değildir: Sonuç olarak, talepte bulunan kişi tarafından çözüm aranmadan önce problem bu kişi tarafından ortaya konulmalı ve sağlayıcı hem problem seçimini hem de bulunan çözümü kontrol etmelidir. Bu tür şemaların çoğu Hashcash gibi sınırsız olasılıklı yine",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Türevleri ==",
+      "heading_path": "== Türevleri ==",
+      "start_char": 3574,
+      "end_char": 4574,
+      "content": "çözüm aranmadan önce problem bu kişi tarafından ortaya konulmalı ve sağlayıcı hem problem seçimini hem de bulunan çözümü kontrol etmelidir. Bu tür şemaların çoğu Hashcash gibi sınırsız olasılıklı yineleme prosedürleridir. Bilinen çözüm protokolleri, sınırsız olasılıklı protokollerden biraz daha düşük bir varyansa sahip olma eğilimindedir, çünkü dikdörtgen dağılımın varyansı, (aynı ortalamaya sahip) Poisson dağılımının varyansından daha düşüktür. Çeşitliliği azaltmak için genel bir teknik, çok sayıda örneğin ortalaması daha düşük varyansa sahip olacağından birden fazla bağımsız alt-soru(sub-challenge) kullanmaktır.Şablon:Explain Ayrıca, zaman-kilit bulmacası gibi sabit maliyetli fonksiyonlar da vardır. Dahası, bu programlar tarafından kullanılan temel fonksiyonlar aşağıdakilerden biri olabilir: CPU bağımlı: İşlem, yüksek uç sunucudan düşük uçlu taşınabilir aygıtlara kadar işlemcinin hızında (zaman içinde büyük ölçüde değişen) çalışır. Bellek bağımlı: Hesaplama hızı ana bellek erişimiyle",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0006",
+      "section": "== Türevleri ==",
+      "heading_path": "== Türevleri ==",
+      "start_char": 4374,
+      "end_char": 5374,
+      "content": "lir: CPU bağımlı: İşlem, yüksek uç sunucudan düşük uçlu taşınabilir aygıtlara kadar işlemcinin hızında (zaman içinde büyük ölçüde değişen) çalışır. Bellek bağımlı: Hesaplama hızı ana bellek erişimiyle (gecikme veya bant genişliği) sınırlıdır. Bu yüzden, performansın donanımdaki gelişmelere daha az duyarlı olması beklenir. Ağ bağımlı: İstemcinin az sayıda hesaplama yapması gerekiyor, ancak son hizmet sağlayıcısını sorgulamadan önce uzak sunuculardan bazı belirteçler toplaması gerekiyorsa kullanılır. Bu anlamda, iş aslında talepte bulunan kişi tarafından gerçekleştirilmez, ancak gerekli belirteçlerin elde edilmesinin gecikmesi nedeniyle gecikmelere neden olur. Son olarak, bazı PoW sistemleri bir gizi, genellikle bir gizli anahtarı, bilen katılımcılara düşük maliyetli PoW'lar üretebilmelerine izin veren kısayol hesaplamalar sunar. Bunun sebebi, eposta listesi sahiplerinin yüksek bir maliyete maruz kalmadan her alıcı için damga üretebilmesidir. Böyle bir özelliğin istenip istenmediği kulla",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "== Türevleri ==",
+      "heading_path": "== Türevleri ==",
+      "start_char": 5174,
+      "end_char": 5399,
+      "content": " izin veren kısayol hesaplamalar sunar. Bunun sebebi, eposta listesi sahiplerinin yüksek bir maliyete maruz kalmadan her alıcı için damga üretebilmesidir. Böyle bir özelliğin istenip istenmediği kullanım senaryosuna bağlıdır.",
+      "char_count": 225,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0008",
+      "section": "== Emek ispatı fonksiyonları listesi ==",
+      "heading_path": "== Emek ispatı fonksiyonları listesi ==",
+      "start_char": 5400,
+      "end_char": 5999,
+      "content": "== Emek ispatı fonksiyonları listesi == Bilinen emek ispatı fonksiyonlarının bir listesi aşağıda verilmiştir: Tam sayı karekök mod büyük bir asal sayı Fiat–Shamir imzalarının zayıflatılması Pollard tarafından kırılan Ong–Schnorr–Şamir imzası Kısmi özet ters çevirme Bu çalışma, emek ispatı (PoW) fikrini formalize eder ve \"bread pudding protokolünün bağımlı fikrini\", \"yeniden kullanılabilir emek ispatı\" (RPoW) sistemini ortaya koyar. Hashcash gibi. Özet dizileri Bulmacalar Diffie–Hellman tabanlı bulmaca Moderate Mbound Hokkaido Cuckoo Döngüsü Merkle ağacı tabanlı Rehberli tur bulmaca protokolü",
+      "char_count": 598,
+      "token_estimate": 149
+    },
+    {
+      "id": "c0009",
+      "section": "== E-para olarak yeniden kullanılabilir emek ispatı ==",
+      "heading_path": "== E-para olarak yeniden kullanılabilir emek ispatı ==",
+      "start_char": 5999,
+      "end_char": 6999,
+      "content": "== E-para olarak yeniden kullanılabilir emek ispatı == Bilgisayar bilimcisi Hal Finney emek ispatı üzerine inşa edilmiş, yeniden kullanılabilir emek ispatı (\"RPoW\") kullanan bir sistem ortaya çıkarmıştır. Bazı pratik amaçlar için yeniden kullanılabilir emek ispatları yapma fikri, 1999 yılında zaten gündeme gelmişti. Finney'in RPoW amacı, nominal değeri madeninden fazla olan para olarak kullanmaktı. Altın bir paranın değerinin, üretimi için gereken ham altının değeriyle desteklendiği düşünüldüğünde, bir RPoW jetonunun değeri, bir PoW jetonunun '' basılması '' için gerekli olan gerçek dünya kaynaklarının değeri ile garanti edilir. Finney'in RPoW sürümünde, PoW jetonu Hashcashin bir parçasıdır. Bir web sitesi hizmet karşılığında bir PoW jetonunu talep edebilir. Kullanıcılardan gelen bir PoW jetonunun kullanılması, hizmetin; İnternet'e yönelik bant genişliği, hesaplama, disk alanı, elektrik ve yönetim yükü gibi temel kaynaklarının kullanımını sınırlandırarak, hizmetin anlamsız veya aşırı k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0010",
+      "section": "== E-para olarak yeniden kullanılabilir emek ispatı ==",
+      "heading_path": "== E-para olarak yeniden kullanılabilir emek ispatı ==",
+      "start_char": 6799,
+      "end_char": 7799,
+      "content": "etonunun kullanılması, hizmetin; İnternet'e yönelik bant genişliği, hesaplama, disk alanı, elektrik ve yönetim yükü gibi temel kaynaklarının kullanımını sınırlandırarak, hizmetin anlamsız veya aşırı kullanımını engeller. Finney'in RPoW sistemi, bir PoW sisteminden jetonları üretmek için gerekli olan işi tekrar etmeden rassal değiş-tokuşlara izin vermesiyle ayrılıyordu. Bir kişi bir web sitesinde bir \"PoW\" jetonu harcadıktan sonra, web sitesinin operatörü yeni harcanmamış bir RPoW jetonu için \"harcanan\" PoW jetonunu değiştirebilirdi, bu da RPoW jetonlarını kabul etmek üzere benzer şekilde donatılmış bir üçüncü parti web sitesinde harcanabilirdi. Bu, bir PoW jetonu '' basmak '' için gerekli olan kaynakları koruyacaktı. RPoW jetonunun sahtecilik karşıtı özelliği, uzaktan onaylama ile garanti edilmişti. Aynı değerde yeni bir adet için kullanılan bir PoW veya RPoW jetonunu değiştiren RPoW sunucusu, ilgili tarafın hangi yazılımın RPoW sunucusunda çalıştığını doğrulamasına izin vermek için uz",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0011",
+      "section": "== E-para olarak yeniden kullanılabilir emek ispatı ==",
+      "heading_path": "== E-para olarak yeniden kullanılabilir emek ispatı ==",
+      "start_char": 7599,
+      "end_char": 8511,
+      "content": "edilmişti. Aynı değerde yeni bir adet için kullanılan bir PoW veya RPoW jetonunu değiştiren RPoW sunucusu, ilgili tarafın hangi yazılımın RPoW sunucusunda çalıştığını doğrulamasına izin vermek için uzaktan onaylama kullanır. Finney'in RPoW yazılımı için kaynak kodu (BSD benzeri bir lisans altında) yayınlandığından, yeterince bilgili bir programcı, kodu inceleyerek, yazılımın (ve buna bağlı olarak, RPoW sunucusunun) eşit değerde harcanan bir jeton karşılığı haricinde hiçbir zaman yeni bir jeton vermediğini doğrulayabilir. 2009 yılına kadar, Finney sistemi gerçeklenen tek RPoW sistemiyken asla ekonomik olarak önemli bir kullanım görmedi. RPoW, güvenilen platform modülü (TPM) donanımında saklanan gizli anahtarlar ve TPM gizli anahtarlarına sahip üreticiler tarafından korunmaktadır. Bir TPM üreticisinin anahtarını çalmak ya da TPM yongasının kendisini inceleyerek anahtarı elde etmek, bu garantiyi bozar.",
+      "char_count": 912,
+      "token_estimate": 228
+    },
+    {
+      "id": "c0012",
+      "section": "== Bitcoin tipi emek ispatı ==",
+      "heading_path": "== Bitcoin tipi emek ispatı ==",
+      "start_char": 8512,
+      "end_char": 9213,
+      "content": "== Bitcoin tipi emek ispatı == 2009 yılında, Bitcoin ağı çevrimiçi oldu. Bitcoin, Finney'in RPoW'u gibi Hashcash PoW'a dayanan bir emek ispatı kripto parasıdır. Ancak, Bitcoin'de çift harcama koruması, RPoW tarafından kullanılan donanım güvenilir hesaplama fonksiyonu yerine, para transferlerini izlemek için merkezi olmayan bir P2P protokolü ile sağlanır. Bitcoin, daha iyi güvenilirliğe sahiptir çünkü hesaplama ile korunmaktadır. Bitcoinler, bireysel madenciler tarafından Hashcash emek ispatı fonksiyonu kullanılarak \"çıkarılır\" ve P2P bitcoin ağındaki merkezi olmayan düğümler tarafından doğrulanır. Blok süresini hedeflenen sürenin civarında tutabilmek için zorluk periyodik olarak ayarlanır. .",
+      "char_count": 700,
+      "token_estimate": 175
+    },
+    {
+      "id": "c0013",
+      "section": "== Kullanışlı emek ispatı ==",
+      "heading_path": "== Kullanışlı emek ispatı ==",
+      "start_char": 9213,
+      "end_char": 9846,
+      "content": "== Kullanışlı emek ispatı == Birçok PoW sistemi, istemcilerin bir özet fonksiyonunu tersine çevirmek gibi işe yaramaz işleri yapmasını gerektirir. Bu, birçok kaynağın (özellikle istemcinin bilgisayarlarına güç veren elektrik) sadece para birimine güven sağlamak için kullanıldığı anlamına gelir. Bu kaynak harcamaları ile daha verimli olmak için, bazı alternatif paralar, gerçekleştirilen işin gerçekten yararlı olduğu bir PoW sistemi kullanır. Örneğin, Primecoin, istemcilerin belirli türlerde bilinmeyen asal sayıları bulmasını gerektirir, bunun da kullanılabileceği yan uygulamalar olabilir (bkz. Primecoin#Proof-of-work system).",
+      "char_count": 632,
+      "token_estimate": 158
+    },
+    {
+      "id": "c0014",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 9846,
+      "end_char": 9875,
+      "content": "== Ayrıca bakınız == Bitcoin",
+      "char_count": 28,
+      "token_estimate": 7
+    },
+    {
+      "id": "c0015",
+      "section": "== Notlar ==",
+      "heading_path": "== Notlar ==",
+      "start_char": 9875,
+      "end_char": 10014,
+      "content": "== Notlar == 1.^Çoğu Unix sistemde tek bir komutla doğrulanabilir: echo -n 1:52:380119:calvin@comics.net:::9B760005E92F0DAE | openssl sha1",
+      "char_count": 138,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0016",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 10029,
+      "end_char": 10395,
+      "content": "== Dış bağlantılar == Finney's system at the Wayback Machine (22 Aralık 2007 tarihinde alınmıştır.) bit gold Bit gold21 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi.. Emek ispatı fonksiyonları ve bu fonksiyonların kullanımıyla ortaya çıkan makine mimarisi sorununa dayanan eksiksiz bir para sistemini (üretim, depolama, deneme ve aktarma dahil) açıklar.",
+      "char_count": 366,
+      "token_estimate": 91
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Emek ispatı (Proof of Work) kavramı ilk kez kimler tarafından ortaya konmuştur?",
+        "answer": "Cynthia Dwork ve Moni Naor.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Emek İspatı (PoW) sistemlerinin temel amacı nedir ve Hashcash gibi somut bir uygulama ile Alan İspatı (PoSpace) gibi farklı yaklaşımlar, bu temel prensibi nasıl örneklendirir veya ondan ayrılır?",
+        "answer": "Emek İspatı (PoW) sistemlerinin temel amacı, hizmet engelleme saldırılarını, spam mesajları ve servislerin kötüye kullanımını, istemciden makul derecede zor ama hizmet sağlayıcının kolayca denetleyebileceği bir miktar iş yapmasını isteyerek önlemektir. Hashcash, e-posta gönderiminde iyi niyet belirtisi olarak özetin kısmen ters çevrilmesini kullanarak bu prensibi somutlaştırır ve işin yapıldığını kanıtlar. Alan İspatı (PoSpace) ise aynı prensibi (zor iş, kolay doğrulama) esas alırken, CPU zamanı yerine belirli bir miktar bellek veya disk kullanımını kanıtlamayı gerektirerek PoW'dan ayrılır. CAPTCHA ise bilgisayar yerine insanlara çözdürmeyi amaçlamasıyla bu fikirden farklılaşır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

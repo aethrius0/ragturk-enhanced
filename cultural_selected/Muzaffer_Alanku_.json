@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "muzafferalanku_f34f3cc8",
+    "title": "Muzaffer Alankuş",
+    "url": "https://tr.wikipedia.org/wiki/Muzaffer_Alanku%C5%9F",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:32.948825",
+    "content": "Mehmet Muzaffer Alankuş (1898, Erzurum - 17 Aralık 1972, İstanbul), Türk asker ve siyasetçi. == Hayatı == 1914 yılında Kuleli Askerî Lisesinde öğrenci iken orduya katıldı. Muhtelif birliklerde takım ve birlik komutanlığı yaptı. 7. Tümen Harekât mülhakı iken esir düştü. 1 Ekim 1918 – 30 Aralık 1920 tarihleri arasında Mısır'da esir kaldı. 28 Nisan 1921 tarihinde Millî Orduya katıldı. Çeşitli birliklerde görev yaptıktan sonra, Yüzbaşı rütbesi ile 1925-1926 yıllarında Harp Okulu tahsilini tamamladı. 1929 yılında Harp Akademisini bitirdi. 1945 yılında tuğgeneral rütbesine terfi etti. Tuğgeneral rütbesi ile 4. Tümen Komutan Vekilliği yaptı. 1947 yılında Tümgeneral rütbesine terfi etti. Tümgeneral rütbesi ile Piyade Okul Komutanlığı, 1. Yurtiçi Bölge Komutanlığı, 3. Yurtiçi Bölge Komutanlığı, Kara Kuvvetleri Kurmay Yarbaşkanlığı, 6. Tümen Komutanlığı ve 2. Kolordu Komutan Vekilliği yaptı. 11 Ekim 1947 tarihinde 4. Tümen Komutan Vekili iken emekli oldu. 17 Haziran 1948 tarihinde yeniden göreve döndü. 1956 yılında Korgeneral rütbesine terfi etti. Korgeneral rütbesi ile 2. Kolordu Komutanlığı, Genelkurmay Personel Başkanlığı, Kara Kuvvetleri Kurmay Başkanlığı, 1. Ordu ve Sıkıyönetim Komutanlığı yaptı. 1959 yılında Orgeneral rütbesine terfi etti. Orgeneral rütbesinde bu görevde iken 5 Ağustos 1960 tarihinde Kara Kuvvetleri Komutanlığı'na atandı. Kurucu Meclis Bakanlar Kurulu Üyeliği (6 Ocak 1961 - 25 Ekim 1961) yaptı. 5 Ocak 1961 tarihinde atandığı Millî Savunma Bakanlığı görevinden, 3 Temmuz 1961 tarihinde emekli oldu. Emekli olduktan sonra, Cumhurbaşkanı tarafından Cumhuriyet Senatosu üyeliğine (16 Haziran 1964 - 5 Haziran 1966) seçildi. Evli ve 4 çocuk babasıdır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1698,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.302997",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 93,
+      "content": "Mehmet Muzaffer Alankuş (1898, Erzurum - 17 Aralık 1972, İstanbul), Türk asker ve siyasetçi.",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 93,
+      "end_char": 1093,
+      "content": "== Hayatı == 1914 yılında Kuleli Askerî Lisesinde öğrenci iken orduya katıldı. Muhtelif birliklerde takım ve birlik komutanlığı yaptı. 7. Tümen Harekât mülhakı iken esir düştü. 1 Ekim 1918 – 30 Aralık 1920 tarihleri arasında Mısır'da esir kaldı. 28 Nisan 1921 tarihinde Millî Orduya katıldı. Çeşitli birliklerde görev yaptıktan sonra, Yüzbaşı rütbesi ile 1925-1926 yıllarında Harp Okulu tahsilini tamamladı. 1929 yılında Harp Akademisini bitirdi. 1945 yılında tuğgeneral rütbesine terfi etti. Tuğgeneral rütbesi ile 4. Tümen Komutan Vekilliği yaptı. 1947 yılında Tümgeneral rütbesine terfi etti. Tümgeneral rütbesi ile Piyade Okul Komutanlığı, 1. Yurtiçi Bölge Komutanlığı, 3. Yurtiçi Bölge Komutanlığı, Kara Kuvvetleri Kurmay Yarbaşkanlığı, 6. Tümen Komutanlığı ve 2. Kolordu Komutan Vekilliği yaptı. 11 Ekim 1947 tarihinde 4. Tümen Komutan Vekili iken emekli oldu. 17 Haziran 1948 tarihinde yeniden göreve döndü. 1956 yılında Korgeneral rütbesine terfi etti. Korgeneral rütbesi ile 2. Kolordu Komut",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 893,
+      "end_char": 1683,
+      "content": ". 11 Ekim 1947 tarihinde 4. Tümen Komutan Vekili iken emekli oldu. 17 Haziran 1948 tarihinde yeniden göreve döndü. 1956 yılında Korgeneral rütbesine terfi etti. Korgeneral rütbesi ile 2. Kolordu Komutanlığı, Genelkurmay Personel Başkanlığı, Kara Kuvvetleri Kurmay Başkanlığı, 1. Ordu ve Sıkıyönetim Komutanlığı yaptı. 1959 yılında Orgeneral rütbesine terfi etti. Orgeneral rütbesinde bu görevde iken 5 Ağustos 1960 tarihinde Kara Kuvvetleri Komutanlığı'na atandı. Kurucu Meclis Bakanlar Kurulu Üyeliği (6 Ocak 1961 - 25 Ekim 1961) yaptı. 5 Ocak 1961 tarihinde atandığı Millî Savunma Bakanlığı görevinden, 3 Temmuz 1961 tarihinde emekli oldu. Emekli olduktan sonra, Cumhurbaşkanı tarafından Cumhuriyet Senatosu üyeliğine (16 Haziran 1964 - 5 Haziran 1966) seçildi. Evli ve 4 çocuk babasıdır.",
+      "char_count": 790,
+      "token_estimate": 197
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "4. Tümen Komutan Vekili iken hangi tarihte emekli oldu?",
+        "answer": "11 Ekim 1947 tarihinde.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mehmet Muzaffer Alankuş'un kariyerinde orduya katılışından başlayarak siyasi görevlerine kadar hangi önemli geçişler ve görev değişiklikleri yaşanmıştır?",
+        "answer": "Mehmet Muzaffer Alankuş kariyerine 1914 yılında Kuleli Askerî Lisesi öğrencisiyken orduya katılarak başlamış, ardından I. Dünya Savaşı'nda esir düşmüş ve Millî Ordu'ya katılmıştır. Askerî rütbelerde yükselerek 1947'de Tümgeneral rütbesiyle emekli olmuş, ancak 1948'de yeniden göreve dönerek 1959'da Orgeneral rütbesine kadar terfi etmiştir. En üst düzey askeri görevlerden biri olan Kara Kuvvetleri Komutanlığı'na atanmış, daha sonra Kurucu Meclis Bakanlar Kurulu Üyeliği ve Millî Savunma Bakanlığı gibi siyasi görevler üstlenmiştir. Son olarak, emekli olduktan sonra Cumhuriyet Senatosu üyeliğine seçilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

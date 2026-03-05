@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "renklineustadtcumhur_a726cbd4",
+    "title": "Renkli Neustadt Cumhuriyeti",
+    "url": "https://tr.wikipedia.org/wiki/Renkli_Neustadt_Cumhuriyeti",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:54.077246",
+    "content": "Renkli Neustadt Cumhuriyeti (Almanca: \"Bunte Republik Neustad\", İngilizce: \"Colourful Republic of Neustadt\"), 1990 yılından 1993 yılına kadar Almanya'nın Dresden şehrinde ve Dresden-Neustadt semtinin bazı kısımlarında varlığını sürdüren bir mikro ulustur. Günümüzde her yıl Haziran ayında 3 gün boyunca aynı isimle bir kültür festivali düzenlenmektedir. == Sokak festivali == Günümüzde, her yıl düzenlenen festival sırasında bazı sokaklar ve caddeler kapatılarak burada, yiyecek ve içecek satışları, DJ'ler ve canlı müzik grupları ve çeşitli diğer sanatsal performanslar sergilenir. Festivalin fazla ticari hale gelmesini önlemek adına, sadece festival alanında yaşayan mahalle sakinleri, gece kulüpleri ve barlar sokaklarda içecek ve yiyecek satışı yapabilir. Eğlence programları ve etkinlikler belirli bir organizatör bulunmamasına karşın yerel halk tarafından düzenleyici otorite ve kuralları uygulanmaktadır Festival hayatın her kesiminden büyük bir kesimin ilgisini çekiyor. Bu etkinliklere 2006 yılında 150.000'den fazla kişi katıldı ve bu bölgenin sokaklarında ve parklarında 100'den fazla müzik grubu sahne aldı ve toplam 1000'den fazla sanatçı katıldı. Festivalin iki gecesi, büyük bir evde ve sokaklardaki partiler olarak yorumlanabilir. Bu partiler on binlerce insanın katılımıyla birkaç aşamada gerçekleşir. 2001 yılından bu yana, yaşanan kargaşaların gölgelediği birkaç festivalin sonucu olarak, cam şişelerde satılan içecekler yasaklandı. Festival, son yıllarda rahat bir şekilde gerçekleşirken genellikle güçlü bir polis kontrolü altında gerçekleşir. == Kaynakça == == Dış bağlantılar == bunte-republik-neustadt.de 11 Nisan 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 216,
+      "char_count": 1691,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.349101",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 354,
+      "content": "Renkli Neustadt Cumhuriyeti (Almanca: \"Bunte Republik Neustad\", İngilizce: \"Colourful Republic of Neustadt\"), 1990 yılından 1993 yılına kadar Almanya'nın Dresden şehrinde ve Dresden-Neustadt semtinin bazı kısımlarında varlığını sürdüren bir mikro ulustur. Günümüzde her yıl Haziran ayında 3 gün boyunca aynı isimle bir kültür festivali düzenlenmektedir.",
+      "char_count": 353,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0001",
+      "section": "== Sokak festivali ==",
+      "heading_path": "== Sokak festivali ==",
+      "start_char": 354,
+      "end_char": 1354,
+      "content": "== Sokak festivali == Günümüzde, her yıl düzenlenen festival sırasında bazı sokaklar ve caddeler kapatılarak burada, yiyecek ve içecek satışları, DJ'ler ve canlı müzik grupları ve çeşitli diğer sanatsal performanslar sergilenir. Festivalin fazla ticari hale gelmesini önlemek adına, sadece festival alanında yaşayan mahalle sakinleri, gece kulüpleri ve barlar sokaklarda içecek ve yiyecek satışı yapabilir. Eğlence programları ve etkinlikler belirli bir organizatör bulunmamasına karşın yerel halk tarafından düzenleyici otorite ve kuralları uygulanmaktadır Festival hayatın her kesiminden büyük bir kesimin ilgisini çekiyor. Bu etkinliklere 2006 yılında 150.000'den fazla kişi katıldı ve bu bölgenin sokaklarında ve parklarında 100'den fazla müzik grubu sahne aldı ve toplam 1000'den fazla sanatçı katıldı. Festivalin iki gecesi, büyük bir evde ve sokaklardaki partiler olarak yorumlanabilir. Bu partiler on binlerce insanın katılımıyla birkaç aşamada gerçekleşir. 2001 yılından bu yana, yaşanan kar",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Sokak festivali ==",
+      "heading_path": "== Sokak festivali ==",
+      "start_char": 1154,
+      "end_char": 1565,
+      "content": "atıldı. Festivalin iki gecesi, büyük bir evde ve sokaklardaki partiler olarak yorumlanabilir. Bu partiler on binlerce insanın katılımıyla birkaç aşamada gerçekleşir. 2001 yılından bu yana, yaşanan kargaşaların gölgelediği birkaç festivalin sonucu olarak, cam şişelerde satılan içecekler yasaklandı. Festival, son yıllarda rahat bir şekilde gerçekleşirken genellikle güçlü bir polis kontrolü altında gerçekleşir.",
+      "char_count": 411,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1581,
+      "end_char": 1691,
+      "content": "== Dış bağlantılar == bunte-republik-neustadt.de 11 Nisan 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 110,
+      "token_estimate": 27
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2006 yılında sokak festivaline kaçtan fazla kişi katılmıştır?",
+        "answer": "150.000",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Renkli Neustadt Cumhuriyeti mikro ulusunun tarihi geçmişi, günümüzde aynı isimle düzenlenen yıllık sokak festivalinin hangi temel özellikleriyle bağlantılıdır?",
+        "answer": "Renkli Neustadt Cumhuriyeti, 1990'dan 1993'e kadar Almanya'nın Dresden şehrinde varlığını sürdürmüş bir mikro ulustu. Günümüzde bu isimle düzenlenen yıllık kültür festivali, sokakların kapatıldığı, aşırı ticarileşmeyi önlemek amacıyla yiyecek ve içecek satışlarının sadece mahalle sakinleri, gece kulüpleri ve barlar tarafından yapılabildiği, DJ'ler, canlı müzik grupları ve çeşitli sanatsal performansların yerel halk tarafından düzenlendiği büyük ve katılımcı bir şölen olarak onun mirasını sürdürmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

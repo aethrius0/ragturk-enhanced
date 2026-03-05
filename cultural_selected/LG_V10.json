@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "lgv10_7503fd81",
+    "title": "LG V10",
+    "url": "https://tr.wikipedia.org/wiki/LG_V10",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:18.476622",
+    "content": "LG V10, Güney Koreli telefon üreticisi LG Electronics tarafından tasarlanan, geliştirilen ve pazarlanan, LG V serisi'ne ait Android işletim sistemli bir akıllı telefondur. 2015 yılının Eylül ayında duyurulmuş, 1 Ekim 2015 tarihinde de resmi olarak tanıtılmıştır. LG G5 ile akrabadır. LG Vu 3, LG G Pro 2'nin devamı, LG V20'nin öncülüdür. Uzay grisi, lüks beyaz, modern bej, okyanus mavisi ve opal mavi renk seçenekleriyle son kullanıcıya sunulmuştur. == Tasarım == LG V10, LG G serisine benzer bir dış görünüme ve hatlara sahiptir. Cihazın dış yüzeyinde SAE sınıfı 316 L paslanmaz çelik ve \"Dura Skin\" adı verilen dayanıklı cam ve arka kapağında MIL-STD-810G sertifikalı şok emici plastik kullanılmıştır. Ön yüzeyde farklı olarak çift kamera ve ikinci bir ekran bulunmaktadır. İkinci ekran, ana ekran kapalıyken, hava durumu, tarih, saat ve batarya ömrü gibi temel bilgileri veya kişisel imzayı 7/24 görmenizi sağlamaktadır. Arka tarafında ise LG ile özdeşleşen kamera altında konumlandırılan tuşlar bulunmaktadır. Parmak izi okuyucu burada yer almaktadır. == Donanım == LG V10'da temel donanımların haricinde parmak izi okuyucu, 28 dakikada %50'ye ulaşan hızlı şarj, akselometre, jiroskop, yakınlık, pusula ve color spectrum sensörleri, mikrofonda aktif gürültü engelleyici, Hi-Fi DAC destekli 3.5 mm kulaklık girişi, Bluetooth 4.1 gibi donanımlar mevcuttur. Micro USB 2.0 girişi SlimPort 4K destekler. == Yazılım == LG UX arayüzü, Android Lollipop (Android 5.0), Android Marshmallow (Android 6.0), Android Nougat (Android 7.0) sürümlerini aldı. == Kaynakça == == Dış bağlantılar == LG Türkiye Resmi Web Sitesi 7 Haziran 2015 tarihinde Wayback Machine sitesinde arşivlendi. LG V10 Resmi Web Sitesi 1 Ocak 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 257,
+      "char_count": 1758,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.270593",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 451,
+      "content": "LG V10, Güney Koreli telefon üreticisi LG Electronics tarafından tasarlanan, geliştirilen ve pazarlanan, LG V serisi'ne ait Android işletim sistemli bir akıllı telefondur. 2015 yılının Eylül ayında duyurulmuş, 1 Ekim 2015 tarihinde de resmi olarak tanıtılmıştır. LG G5 ile akrabadır. LG Vu 3, LG G Pro 2'nin devamı, LG V20'nin öncülüdür. Uzay grisi, lüks beyaz, modern bej, okyanus mavisi ve opal mavi renk seçenekleriyle son kullanıcıya sunulmuştur.",
+      "char_count": 450,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0001",
+      "section": "== Tasarım ==",
+      "heading_path": "== Tasarım ==",
+      "start_char": 451,
+      "end_char": 1057,
+      "content": "== Tasarım == LG V10, LG G serisine benzer bir dış görünüme ve hatlara sahiptir. Cihazın dış yüzeyinde SAE sınıfı 316 L paslanmaz çelik ve \"Dura Skin\" adı verilen dayanıklı cam ve arka kapağında MIL-STD-810G sertifikalı şok emici plastik kullanılmıştır. Ön yüzeyde farklı olarak çift kamera ve ikinci bir ekran bulunmaktadır. İkinci ekran, ana ekran kapalıyken, hava durumu, tarih, saat ve batarya ömrü gibi temel bilgileri veya kişisel imzayı 7/24 görmenizi sağlamaktadır. Arka tarafında ise LG ile özdeşleşen kamera altında konumlandırılan tuşlar bulunmaktadır. Parmak izi okuyucu burada yer almaktadır.",
+      "char_count": 605,
+      "token_estimate": 151
+    },
+    {
+      "id": "c0002",
+      "section": "== Donanım ==",
+      "heading_path": "== Donanım ==",
+      "start_char": 1057,
+      "end_char": 1404,
+      "content": "== Donanım == LG V10'da temel donanımların haricinde parmak izi okuyucu, 28 dakikada %50'ye ulaşan hızlı şarj, akselometre, jiroskop, yakınlık, pusula ve color spectrum sensörleri, mikrofonda aktif gürültü engelleyici, Hi-Fi DAC destekli 3.5 mm kulaklık girişi, Bluetooth 4.1 gibi donanımlar mevcuttur. Micro USB 2.0 girişi SlimPort 4K destekler.",
+      "char_count": 346,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0003",
+      "section": "== Yazılım ==",
+      "heading_path": "== Yazılım ==",
+      "start_char": 1404,
+      "end_char": 1547,
+      "content": "== Yazılım == LG UX arayüzü, Android Lollipop (Android 5.0), Android Marshmallow (Android 6.0), Android Nougat (Android 7.0) sürümlerini aldı.",
+      "char_count": 142,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1562,
+      "end_char": 1758,
+      "content": "== Dış bağlantılar == LG Türkiye Resmi Web Sitesi 7 Haziran 2015 tarihinde Wayback Machine sitesinde arşivlendi. LG V10 Resmi Web Sitesi 1 Ocak 2016 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 196,
+      "token_estimate": 49
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "LG V10'daki ikinci ekran, ana ekran kapalıyken hangi bilgileri göstermektedir?",
+        "answer": "Hava durumu, tarih, saat ve batarya ömrü gibi temel bilgileri veya kişisel imzayı.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "LG V10'un tasarımı, diğer LG telefon serileriyle olan ilişkisini nasıl yansıtmaktadır?",
+        "answer": "LG V10, dış görünüm ve hatlar açısından LG G serisine benzer bir yapıya sahipken, aynı zamanda LG G5 ile akraba bir model olarak belirtilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

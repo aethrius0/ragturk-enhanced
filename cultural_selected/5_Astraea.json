@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "5astraea_9df52386",
+    "title": "5 Astraea",
+    "url": "https://tr.wikipedia.org/wiki/5_Astraea",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:02.124444",
+    "content": "Astraea (küçük gezegen tanımı : 5 Astraea) asteroid kuşağında yer alan büyük bir asteroittir. Yüzeyi oldukça yansıtıcıdır ve bileşimi muhtemelen nikel-demir ile magnezyum ve demir silikatlarının bir karışımıdır. Tholen sınıflandırma sistemine göre S-tipi bir asteroittir. == Keşif ve isimlendirme == Astraea, 8 Aralık 1845'te Karl Ludwig Hencke tarafından keşfedilen beşinci asteroitti ve adını yıldızlardan alan adalet tanrıçası Astræa'dan aldı. Astraea, Hencke'nin keşfettiği iki asteroitten ilkiydi; Hencke daha sonra 6 Hebe'yi de keşfedecekti. Alman amatör bir gök bilimci ve postane müdürü olan Hencke, Astraea'ya rastladığında 4 Vesta arıyordu. Prusya Kralı, keşif için ona yıllık 1.200 mark maaş bağladı. Fotometri, asteroidin kuzey kutbunun 9 sa 52 dk sağ açıklıkDik açıklık, 73° dik açıklık yönünü (5° belirsizlikle) gösterdiği ters yön dönüşü işaret etmektedir. Bu, yaklaşık 33°'lik bir eksen eğikliği verir. Astraea fiziksel olarak öne çıkan bir özelliğe sahip değildir ancak keşfedilen dördüncü asteroid olan Vesta'nın 1807'deki keşfinden sonra Astraea'nın keşfine dek geçen 38 yılda başka asteroid keşfedilmemişti. Görünür kadiri 15 Şubat 2016'da olumlu şekilde Dünya'ya karşı konumda olması sayesinde 8,7 olan asteroid, en parlak on yedinci ana kuşak asteroididir ve örneğin 192 Nausikaa ve 324 Bamberga'dan nadir günberi yakını karşı konumlarında daha soluktur. Astraea'nın keşfini binlerce başka asteroit takip etmiştir. Astraea'nın keşfine dek, daha önce keşfedilen dört orijinal asteroid gezegen olarak kabul edilmekteydi; Astraea'nın keşfi bu gökcisimlerine benzer daha birçok cisim olduğunu ortaya çıkartarak, asteroidlerin mevcut durumlarına indirgenmesi için bir başlangıç noktası oldu. == Özellikler == 6 Haziran 2008'deki bir örtülme sayesinde gökcisminin silüetinin 115 ± 6 km çapında olduğu ölçüldü. Astraea radarla da incelenmiştir. Arecibo Gözlemevi Mart 2012'de Astraea'yı gözlemlemiştir. == Kaynakça == == Dış bağlantılar == 5 Astraea'nın 2 teleskop görüntüsü 24 Ağustos 2018 tarihinde Wayback Machine sitesinde arşivlendi. MNRAS 7 (1846) 27 25 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Küçük Cisimler Veri Gelincindeki (5) Astraea'nın fiziksel özellikleri 15 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi. Keşif Koşulları: Numaralı Küçük Gezegenler (1) - (5000)22 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. - Küçük Gezegen Merkezi Küçük Gezegen Adları Sözlüğü, Google kitaplar 5 Astraea - AstDyS-2, Asteroitler—Dinamik Site Gök günlüğü · Gözlem tahmini · Yörünge bilgisi · Uygun yörünge öğeleri · Gözlem bilgisi 5 Astraea - JPL Small-Body Database En yakın yaklaşmalar · Keşif · Gök günlüğü · Yörünge grafiği · Yörünge öğeleri · Fiziksel parametreler",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 375,
+      "char_count": 2728,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.436610",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 272,
+      "content": "Astraea (küçük gezegen tanımı : 5 Astraea) asteroid kuşağında yer alan büyük bir asteroittir. Yüzeyi oldukça yansıtıcıdır ve bileşimi muhtemelen nikel-demir ile magnezyum ve demir silikatlarının bir karışımıdır. Tholen sınıflandırma sistemine göre S-tipi bir asteroittir.",
+      "char_count": 271,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0001",
+      "section": "== Keşif ve isimlendirme ==",
+      "heading_path": "== Keşif ve isimlendirme ==",
+      "start_char": 272,
+      "end_char": 1272,
+      "content": "== Keşif ve isimlendirme == Astraea, 8 Aralık 1845'te Karl Ludwig Hencke tarafından keşfedilen beşinci asteroitti ve adını yıldızlardan alan adalet tanrıçası Astræa'dan aldı. Astraea, Hencke'nin keşfettiği iki asteroitten ilkiydi; Hencke daha sonra 6 Hebe'yi de keşfedecekti. Alman amatör bir gök bilimci ve postane müdürü olan Hencke, Astraea'ya rastladığında 4 Vesta arıyordu. Prusya Kralı, keşif için ona yıllık 1.200 mark maaş bağladı. Fotometri, asteroidin kuzey kutbunun 9 sa 52 dk sağ açıklıkDik açıklık, 73° dik açıklık yönünü (5° belirsizlikle) gösterdiği ters yön dönüşü işaret etmektedir. Bu, yaklaşık 33°'lik bir eksen eğikliği verir. Astraea fiziksel olarak öne çıkan bir özelliğe sahip değildir ancak keşfedilen dördüncü asteroid olan Vesta'nın 1807'deki keşfinden sonra Astraea'nın keşfine dek geçen 38 yılda başka asteroid keşfedilmemişti. Görünür kadiri 15 Şubat 2016'da olumlu şekilde Dünya'ya karşı konumda olması sayesinde 8,7 olan asteroid, en parlak on yedinci ana kuşak asteroi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Keşif ve isimlendirme ==",
+      "heading_path": "== Keşif ve isimlendirme ==",
+      "start_char": 1072,
+      "end_char": 1708,
+      "content": "fine dek geçen 38 yılda başka asteroid keşfedilmemişti. Görünür kadiri 15 Şubat 2016'da olumlu şekilde Dünya'ya karşı konumda olması sayesinde 8,7 olan asteroid, en parlak on yedinci ana kuşak asteroididir ve örneğin 192 Nausikaa ve 324 Bamberga'dan nadir günberi yakını karşı konumlarında daha soluktur. Astraea'nın keşfini binlerce başka asteroit takip etmiştir. Astraea'nın keşfine dek, daha önce keşfedilen dört orijinal asteroid gezegen olarak kabul edilmekteydi; Astraea'nın keşfi bu gökcisimlerine benzer daha birçok cisim olduğunu ortaya çıkartarak, asteroidlerin mevcut durumlarına indirgenmesi için bir başlangıç noktası oldu.",
+      "char_count": 636,
+      "token_estimate": 159
+    },
+    {
+      "id": "c0003",
+      "section": "== Özellikler ==",
+      "heading_path": "== Özellikler ==",
+      "start_char": 1709,
+      "end_char": 1918,
+      "content": "== Özellikler == 6 Haziran 2008'deki bir örtülme sayesinde gökcisminin silüetinin 115 ± 6 km çapında olduğu ölçüldü. Astraea radarla da incelenmiştir. Arecibo Gözlemevi Mart 2012'de Astraea'yı gözlemlemiştir.",
+      "char_count": 208,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1933,
+      "end_char": 2728,
+      "content": "== Dış bağlantılar == 5 Astraea'nın 2 teleskop görüntüsü 24 Ağustos 2018 tarihinde Wayback Machine sitesinde arşivlendi. MNRAS 7 (1846) 27 25 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Küçük Cisimler Veri Gelincindeki (5) Astraea'nın fiziksel özellikleri 15 Eylül 2020 tarihinde Wayback Machine sitesinde arşivlendi. Keşif Koşulları: Numaralı Küçük Gezegenler (1) - (5000)22 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. - Küçük Gezegen Merkezi Küçük Gezegen Adları Sözlüğü, Google kitaplar 5 Astraea - AstDyS-2, Asteroitler—Dinamik Site Gök günlüğü · Gözlem tahmini · Yörünge bilgisi · Uygun yörünge öğeleri · Gözlem bilgisi 5 Astraea - JPL Small-Body Database En yakın yaklaşmalar · Keşif · Gök günlüğü · Yörünge grafiği · Yörünge öğeleri · Fiziksel parametreler",
+      "char_count": 795,
+      "token_estimate": 198
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Astraea, hangi tarihte ve kim tarafından keşfedilmiştir?",
+        "answer": "Astraea, 8 Aralık 1845'te Karl Ludwig Hencke tarafından keşfedilmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Astraea'nın keşfi, daha önce gezegen olarak kabul edilen gökcisimlerinin sınıflandırılmasını nasıl değiştirmiştir?",
+        "answer": "Astraea'nın keşfinden önce, daha önce bulunan dört orijinal asteroit gezegen olarak sınıflandırılıyordu. Astraea'nın keşfi, bu tür gökcisimlerinin sayısının çok daha fazla olduğunu ortaya koyarak, bu cisimlerin asteroid statüsüne indirgenmesinin başlangıç noktası oldu ve binlerce başka asteroidin keşfedilmesine yol açtı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

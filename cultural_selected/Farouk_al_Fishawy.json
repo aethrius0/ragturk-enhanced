@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "faroukalfishawy_74f9ccf6",
+    "title": "Farouk al-Fishawy",
+    "url": "https://tr.wikipedia.org/wiki/Farouk_al-Fishawy",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:54.480392",
+    "content": "Farouk al-Fishawy (5 Şubat 1952 - 25 Temmuz 2019), Mısırlı sinema ve televizyon oyuncusudur. Yer aldığı 1981 yapımı sinema filmi The Suspect ile dikkat çekti. == Yaşamı == Oyuncu 5 Şubat 1952'de Sirs El-Layan, Monufia Valiliği'nde Mohamed Farouk el Fishawy adıyla doğdu. 3 erkek kardeşi ve 2 kız kardeşinin yanında ailesinin en küçük çocuklarından biriydi. Babası 11 yaşındayken öldü daha sonra ağabeyi Rashad el Fishawy tarafından yetiştirildi. Eğitimini tıp alanında lisans derecesiyle Ain Shams Üniversitesi'nde tamamladı == Kariyeri == 1970'li yıllarda başladığı oyunculuk kariyerinde 130'un üzerinde tiyatro yapımı, televizyon dizisi ve sinema filminde rol aldı. Yer aldığı yapımlar arasında; al-Qatila (1991), al-Tufan (1985), al-Rasif (1993), Mutarada Fi al-Mamnu (1993), Ghadan Sa'antaqem (1980), Hanafy al-Obaha (1990), La Tasalni Man Ana (1984), Siriyun Lilghaya (1986), Nessa Khalf al-Qodban (1986), Qahwat al-Muaridi (1981), el-Mar'a el-Hadeedeya (1987), Fatat Min Israeel (1999), al-Fadiha (1992) ve Dik al-Barabir (1992) sayılabilir. Ayrıca televizyonda yayınlanan tanıtım filmlerinde oynadı. == Özel yaşamı == al-Fishawy yaşamı boyunca 3 evlilik geçirdi. İlk eşi Nouran hanım dır. İkinci eşi Samia al-Alfi ile 1972'de evlenip 1992'de ayrılmıştır. Son ve üçüncü eşi olan Suhair Ramzi hanımla 1992'de evlenip 1997'de beş yıl süren beraberlikleri sonucunda ayrılmıştır. Evliliklerinden iki oğlu Ömer ve Ahmed El-Fishawy vardır. Hint kadın oyuncu Laila Elwi ile beraberlikleri olmuş ama evlenmemişlerdir. == Son zamanları ve ölümü == 3 Ekim 2018'de oyuncu Farouk el Fishawy, İskenderiye Uluslararası Film Festivali'nde yaptığı bir açıklamada izleyicileri şoke eden kanser olduğu haberini duyurdu. Mısırlı oyuncu Farouk el Fishawy 25 Temmuz 2019'da muzdarip olduğu kanser hastalığına bağlı sebeplerden 67 yaşlarında ölmüştür. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 256,
+      "char_count": 1850,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.120900",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 159,
+      "content": "Farouk al-Fishawy (5 Şubat 1952 - 25 Temmuz 2019), Mısırlı sinema ve televizyon oyuncusudur. Yer aldığı 1981 yapımı sinema filmi The Suspect ile dikkat çekti.",
+      "char_count": 158,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 159,
+      "end_char": 525,
+      "content": "== Yaşamı == Oyuncu 5 Şubat 1952'de Sirs El-Layan, Monufia Valiliği'nde Mohamed Farouk el Fishawy adıyla doğdu. 3 erkek kardeşi ve 2 kız kardeşinin yanında ailesinin en küçük çocuklarından biriydi. Babası 11 yaşındayken öldü daha sonra ağabeyi Rashad el Fishawy tarafından yetiştirildi. Eğitimini tıp alanında lisans derecesiyle Ain Shams Üniversitesi'nde tamamladı",
+      "char_count": 365,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 525,
+      "end_char": 1107,
+      "content": "== Kariyeri == 1970'li yıllarda başladığı oyunculuk kariyerinde 130'un üzerinde tiyatro yapımı, televizyon dizisi ve sinema filminde rol aldı. Yer aldığı yapımlar arasında; al-Qatila (1991), al-Tufan (1985), al-Rasif (1993), Mutarada Fi al-Mamnu (1993), Ghadan Sa'antaqem (1980), Hanafy al-Obaha (1990), La Tasalni Man Ana (1984), Siriyun Lilghaya (1986), Nessa Khalf al-Qodban (1986), Qahwat al-Muaridi (1981), el-Mar'a el-Hadeedeya (1987), Fatat Min Israeel (1999), al-Fadiha (1992) ve Dik al-Barabir (1992) sayılabilir. Ayrıca televizyonda yayınlanan tanıtım filmlerinde oynadı.",
+      "char_count": 581,
+      "token_estimate": 145
+    },
+    {
+      "id": "c0003",
+      "section": "== Özel yaşamı ==",
+      "heading_path": "== Özel yaşamı ==",
+      "start_char": 1107,
+      "end_char": 1516,
+      "content": "== Özel yaşamı == al-Fishawy yaşamı boyunca 3 evlilik geçirdi. İlk eşi Nouran hanım dır. İkinci eşi Samia al-Alfi ile 1972'de evlenip 1992'de ayrılmıştır. Son ve üçüncü eşi olan Suhair Ramzi hanımla 1992'de evlenip 1997'de beş yıl süren beraberlikleri sonucunda ayrılmıştır. Evliliklerinden iki oğlu Ömer ve Ahmed El-Fishawy vardır. Hint kadın oyuncu Laila Elwi ile beraberlikleri olmuş ama evlenmemişlerdir.",
+      "char_count": 408,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0004",
+      "section": "== Son zamanları ve ölümü ==",
+      "heading_path": "== Son zamanları ve ölümü ==",
+      "start_char": 1516,
+      "end_char": 1836,
+      "content": "== Son zamanları ve ölümü == 3 Ekim 2018'de oyuncu Farouk el Fishawy, İskenderiye Uluslararası Film Festivali'nde yaptığı bir açıklamada izleyicileri şoke eden kanser olduğu haberini duyurdu. Mısırlı oyuncu Farouk el Fishawy 25 Temmuz 2019'da muzdarip olduğu kanser hastalığına bağlı sebeplerden 67 yaşlarında ölmüştür.",
+      "char_count": 319,
+      "token_estimate": 79
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Oyunculuk kariyerine ne zaman başlamıştır?",
+        "answer": "1970'li yıllarda.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Farouk al-Fishawy'nin üniversite eğitimine rağmen nasıl bir meslek kariyeri seçimi yaptığı ve bu kariyerin kapsamı hakkında ne söylenebilir?",
+        "answer": "Farouk al-Fishawy, Ain Shams Üniversitesi'nde tıp alanında lisans derecesi almasına rağmen, 1970'li yıllarda oyunculuk kariyerine başlamış ve Mısırlı bir sinema ve televizyon oyuncusu olarak 130'un üzerinde tiyatro yapımı, televizyon dizisi ve sinema filminde rol alarak oldukça üretken bir kariyere sahip olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

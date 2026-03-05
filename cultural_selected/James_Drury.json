@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "jamesdrury_b736bd28",
+    "title": "James Drury",
+    "url": "https://tr.wikipedia.org/wiki/James_Drury",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:21.061239",
+    "content": "James Child Drury Jr. (18 Nisan 1934 – 6 Nisan 2020), Amerikalı aktör ve iş insanı. == Yaşamı ve kariyeri == Drury 18 Nisan 1934'te New York'ta doğdu. Oregon'da yetişti. Amerikan NBC kanalı yapımı 90 bölüm olarak çekilen 1962-1971 yılları arasında yayımlanan The Virginian adlı, başrolde olduğu western tarzı televizyon dizisiyle bilinir. == Özel yaşamı ve ölümü == 1979'da evlendiği eşi Carla Ann Head Drury ile beraberliği kendisinin 2020'de ölümüne kadar devam etti. İki çocuğu vardı. Amerikalı oyuncu ve iş insanı James Drury 6 Nisan 2020'de Houston, Teksas'ta 85 yaşında normal nedenlerden ölmüştür. == Filmografi == === Sinema === 1956: Forbidden Planet 1960: Pollyanna 1960: Ten Who Dared 1962: Third of a Man 1962: The Devil's Children 1962: The Brazen Bell 1967: The Young Warriors 1969: Backtrack! 2005: Hell to Pay === Televizyon dizisi === 1958: Decision 1962: The Virginian 1974: Firehouse 1993: The Adventures of Brisco County Jr. 2009: In the Bunkhouse with Red Steagall 2011: Tales of the Cap Gun Kid === Televizyon filmleri === 1958: Bitter Heritage 1960: The Yank 1970: Breakout 1971: The Devil and Miss Sarah 1971: Mies Shiloh'sta 1985: The All American Cowboy 1994: River Invaders: The Scourge of Zebra Mussels 1995: Sturgeon: Ancient Survivors of the Deep 1996: Way Out West 1997: A Vanishing Melody: The Call of the Piping Plover Billy and the Bandit == Kaynakça == == Dış bağlantılar == James Drury: The Virginian Official Website 19 Kasım 2021 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de James Drury The Virginian Website 9 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. Picture of Drury in Oregon 22 Ocak 2009 tarihinde Wayback Machine sitesinde arşivlendi. Interview with Kirby Jonas and James Drury 8 Mayıs 2016 tarihinde Wayback Machine sitesinde arşivlendi. Actor James Drury tells of next generation Virginian 16 Şubat 2017 tarihinde Wayback Machine sitesinde arşivlendi., newsok.com, June 26, 2014; accessed June 21, 2017.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 309,
+      "char_count": 1977,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.936320",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 84,
+      "content": "James Child Drury Jr. (18 Nisan 1934 – 6 Nisan 2020), Amerikalı aktör ve iş insanı.",
+      "char_count": 83,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 84,
+      "end_char": 339,
+      "content": "== Yaşamı ve kariyeri == Drury 18 Nisan 1934'te New York'ta doğdu. Oregon'da yetişti. Amerikan NBC kanalı yapımı 90 bölüm olarak çekilen 1962-1971 yılları arasında yayımlanan The Virginian adlı, başrolde olduğu western tarzı televizyon dizisiyle bilinir.",
+      "char_count": 254,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0002",
+      "section": "== Özel yaşamı ve ölümü ==",
+      "heading_path": "== Özel yaşamı ve ölümü ==",
+      "start_char": 339,
+      "end_char": 605,
+      "content": "== Özel yaşamı ve ölümü == 1979'da evlendiği eşi Carla Ann Head Drury ile beraberliği kendisinin 2020'de ölümüne kadar devam etti. İki çocuğu vardı. Amerikalı oyuncu ve iş insanı James Drury 6 Nisan 2020'de Houston, Teksas'ta 85 yaşında normal nedenlerden ölmüştür.",
+      "char_count": 265,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0003",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 622,
+      "end_char": 826,
+      "content": "=== Sinema === 1956: Forbidden Planet 1960: Pollyanna 1960: Ten Who Dared 1962: Third of a Man 1962: The Devil's Children 1962: The Brazen Bell 1967: The Young Warriors 1969: Backtrack! 2005: Hell to Pay",
+      "char_count": 203,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0004",
+      "section": "=== Televizyon dizisi ===",
+      "heading_path": "=== Televizyon dizisi ===",
+      "start_char": 826,
+      "end_char": 1017,
+      "content": "=== Televizyon dizisi === 1958: Decision 1962: The Virginian 1974: Firehouse 1993: The Adventures of Brisco County Jr. 2009: In the Bunkhouse with Red Steagall 2011: Tales of the Cap Gun Kid",
+      "char_count": 190,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0005",
+      "section": "=== Televizyon filmleri ===",
+      "heading_path": "=== Televizyon filmleri ===",
+      "start_char": 1017,
+      "end_char": 1373,
+      "content": "=== Televizyon filmleri === 1958: Bitter Heritage 1960: The Yank 1970: Breakout 1971: The Devil and Miss Sarah 1971: Mies Shiloh'sta 1985: The All American Cowboy 1994: River Invaders: The Scourge of Zebra Mussels 1995: Sturgeon: Ancient Survivors of the Deep 1996: Way Out West 1997: A Vanishing Melody: The Call of the Piping Plover Billy and the Bandit",
+      "char_count": 355,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1388,
+      "end_char": 1977,
+      "content": "== Dış bağlantılar == James Drury: The Virginian Official Website 19 Kasım 2021 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de James Drury The Virginian Website 9 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi. Picture of Drury in Oregon 22 Ocak 2009 tarihinde Wayback Machine sitesinde arşivlendi. Interview with Kirby Jonas and James Drury 8 Mayıs 2016 tarihinde Wayback Machine sitesinde arşivlendi. Actor James Drury tells of next generation Virginian 16 Şubat 2017 tarihinde Wayback Machine sitesinde arşivlendi., newsok.com, June 26, 2014; accessed June 21, 2017.",
+      "char_count": 589,
+      "token_estimate": 147
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Aktör James Drury'nin bir sonraki nesil Virginian hakkında konuştuğu makaleye en son ne zaman erişildi?",
+        "answer": "21 Haziran 2017",
+        "related_chunk_ids": [
+          "c0006"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Amerikalı aktör ve iş insanı James Child Drury Jr.'ın en bilinen televizyon rolü neydi ve bu dizi hangi yıllar arasında yayımlandı?",
+        "answer": "James Child Drury Jr.'ın en bilinen rolü The Virginian adlı western tarzı televizyon dizisindeki başrolüdür ve bu dizi 1962-1971 yılları arasında yayımlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

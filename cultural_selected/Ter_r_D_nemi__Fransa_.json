@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "terrdnemifransa_6782071e",
+    "title": "Terör Dönemi (Fransa)",
+    "url": "https://tr.wikipedia.org/wiki/Ter%C3%B6r_D%C3%B6nemi_%28Fransa%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:24.581347",
+    "content": "Terör Dönemi ya da Terör Saltanatı (5 Eylül 1793 - 28 Temmuz 1794), Birinci Fransız Cumhuriyeti'nde, Fransız Devrimi'nin ardından on ay süreyle iktidarı ele geçiren Jakobenlerin yürüttüğü, devrim karşıtlarının yargılandığı ve Paris'te bir dizi idam dalgasının görüldüğü kanlı dönemdir. Önde gelen Jakobenler; Robespierre, Mirabeau, Marat, Saint-Just ve Danton'dur. Cumhuriyet ilan edildikten sonra, geri dönülmesini kesinlikle önlemek için önde gelen bu Jakobenler birlikte 21 Ocak 1793'te kralı (XVI. Louis) \"vatana ihanet suçlaması\" ile giyotinle idam edilmesini sağladı. Ayrıca devrim mahkemelerinde karşı devrimci olarak görülen ve iç düşman etiketi yapıştırılan halk yığınları giyotine yollanmış ve daha sonra da bu durumu yaratanlar kendi başlarını giyotine vermiş, bu dönem boyunca ülkeye paranoya hâkim olmuştur. Her şey tahtı ele geçirmek isteyen soyluların Kilise'nin de yardımıyla harekete geçmesi ve Britanya gibi yabancı ülkelerden yardım istemesiyle başlamıştır. Bundan sonra devrimin karşılaştığı tehlike üzerine, Jakobenler aşırı sert politikalarını yürürlüğe koyar ve kendi içlerinden dahi itiraz edenleri ortadan kaldırır. En sonunda, yaşanılan terörden bıkan ülke, Beyaz Terör'ü devreye sokarak önemli tüm Jakobenleri ortadan kaldırır, ancak Fransa'nın bu kanlı dönemi atlatması ülkeye çok uzun zamana mal olmuştur. Terör Saltanatı döneminde en az 300.000 şüpheli tutuklandı; 17.000 kişi resmî olarak idam edildi ve muhtemelen 10.000 kişi de hapishanede veya yargılanmadan öldü. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 203,
+      "char_count": 1512,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.354125",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Terör Dönemi ya da Terör Saltanatı (5 Eylül 1793 - 28 Temmuz 1794), Birinci Fransız Cumhuriyeti'nde, Fransız Devrimi'nin ardından on ay süreyle iktidarı ele geçiren Jakobenlerin yürüttüğü, devrim karşıtlarının yargılandığı ve Paris'te bir dizi idam dalgasının görüldüğü kanlı dönemdir. Önde gelen Jakobenler; Robespierre, Mirabeau, Marat, Saint-Just ve Danton'dur. Cumhuriyet ilan edildikten sonra, geri dönülmesini kesinlikle önlemek için önde gelen bu Jakobenler birlikte 21 Ocak 1793'te kralı (XVI. Louis) \"vatana ihanet suçlaması\" ile giyotinle idam edilmesini sağladı. Ayrıca devrim mahkemelerinde karşı devrimci olarak görülen ve iç düşman etiketi yapıştırılan halk yığınları giyotine yollanmış ve daha sonra da bu durumu yaratanlar kendi başlarını giyotine vermiş, bu dönem boyunca ülkeye paranoya hâkim olmuştur. Her şey tahtı ele geçirmek isteyen soyluların Kilise'nin de yardımıyla harekete geçmesi ve Britanya gibi yabancı ülkelerden yardım istemesiyle başlamıştır. Bundan sonra devrimin k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1497,
+      "content": "noya hâkim olmuştur. Her şey tahtı ele geçirmek isteyen soyluların Kilise'nin de yardımıyla harekete geçmesi ve Britanya gibi yabancı ülkelerden yardım istemesiyle başlamıştır. Bundan sonra devrimin karşılaştığı tehlike üzerine, Jakobenler aşırı sert politikalarını yürürlüğe koyar ve kendi içlerinden dahi itiraz edenleri ortadan kaldırır. En sonunda, yaşanılan terörden bıkan ülke, Beyaz Terör'ü devreye sokarak önemli tüm Jakobenleri ortadan kaldırır, ancak Fransa'nın bu kanlı dönemi atlatması ülkeye çok uzun zamana mal olmuştur. Terör Saltanatı döneminde en az 300.000 şüpheli tutuklandı; 17.000 kişi resmî olarak idam edildi ve muhtemelen 10.000 kişi de hapishanede veya yargılanmadan öldü.",
+      "char_count": 697,
+      "token_estimate": 174
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Terör Dönemi ya da Terör Saltanatı hangi tarihler arasında gerçekleşmiştir?",
+        "answer": "5 Eylül 1793 - 28 Temmuz 1794",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Terör Dönemi'nde Jakobenlerin aşırı sert politikalarını tetikleyen ilk faktörler nelerdi ve bu politikalar nihayetinde Jakobenlerin kendi sonunu nasıl getirdi?",
+        "answer": "Jakobenlerin aşırı sert politikalarını tetikleyen ilk faktörler, tahtı ele geçirmek isteyen soyluların Kilise'nin de yardımıyla harekete geçmesi ve Britanya gibi yabancı ülkelerden yardım istemesiyle başlayan devrime yönelik tehlikelerdi. Jakobenler bu tehlikeler üzerine kendi içlerinden dahi itiraz edenleri ortadan kaldırdılar ve karşı devrimci olarak görülen halk yığınlarını giyotine yolladılar. Yaşanan bu terörden bıkmış olan ülke, sonunda Beyaz Terör'ü devreye sokarak önemli tüm Jakobenleri ortadan kaldırarak onların kendi sonunu getirdi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "asuncin_9f5604fe",
+    "title": "Asunción",
+    "url": "https://tr.wikipedia.org/wiki/Asunci%C3%B3n",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:25.874166",
+    "content": "Asunción, Paraguay'ın başkentidir. Aynı zamanda en büyük limanı ve endüstri ile kültürel yönden de en önemli kentidir. Kentte özellikle ayakkabı, dokuma ile tütün işleme endüstrileri bulunur. Kentte, 1992 sayımına göre 500.939 kişi yaşasa da, bu sayı birlikte büyükkenti (Gran Asunción, \"Büyük Asuncion\") oluşturduğu çevre yerleşimlerle 1.500.000'i geçer. == Geçmişi == Güney Amerika'nın en eski kentlerinden birisi olan Asuncion; aynı zamanda da, bölgedeki öteki sömürgeci kentlerini kuran Avrupalıların yola çıktıkları yer olduğu için \"kentlerin anası\" olarak da bilinir. Bugünkü kent alanına sömürgeciler daha önce gelmiş olsalar da, Asuncion'da ilk yerleşim 15 Ağustos 1537'de Nuestra Senyora de la Asunción adı altında, Juan de Salazar ile Gonzalo de Mendoza öncüğünde kurulmuştur. İspanyol sömürge yönetimine karşı ilk ayaklanmalardan birisi José de Antequera y Castro önderliğinde 1731'de yapılanıdır. Daha sonraları, 1865-1870 arasındaki Üçlü Birlik Savaşı'ndan sonra, Brezilya ordusu kenti 1876'ya dek elinde tutmuştur. == İklim == == Bugünü == Kentte, Godoi müzesi ile La Encarnacion kilisesinin yanı sıra, Paris'teki Les Invalides'in küçük bir benzeri olan ve Paraguay'ın geçmişteki kahramanlarının yattığı Panteón Nacional bulunur. Öteki görülebilecek yerler arasında, başkanlık sarayı, eski Senato yapısı, Catedral Metropolitana (Büyükkent katedrali) ile kentteki sömürge mimarisinin ender örneklerinden olan Casa de Independencia (\"bağımsızlık evi/sarayı\") sayılabilir. Kentin ana bölgesi (liman yakınları ile Plaza de los Heroes ve Plaza Uruguaya çevresi) 1970'ler ve 1980'lerdeki yapılaşma sonucu sömürge döneminden kalan özelliğini yitirmiştir. Akşamları güvensiz sayılabilecek bu bölgeye oranla, kentin \"iyi bölgeleri\" olarak daha çok durumu iyi olanların yaşadığı Avenida San Martin (\"Ermiş Martin Caddesi\") yönündeki varoşlar sayılabilir. Kentte, devlete bağlı Universidad Nacional 9 Mayıs 2019 tarihinde Wayback Machine sitesinde arşivlendi. (\"Ulusal Üniversite\") ile (Katolik Kilisesince işletilen özel) Universidad Catolica 30 Kasım 2012 tarihinde Wayback Machine sitesinde arşivlendi. üniversitelerinin yanı sıra birkaç küçük özel üniversite de bulunur. Kentin öteki yerlerle ulaşımı, bir ırmak limanı, uluslararası bir havaalanı ve kentlerarası bir otobüs terminali ile sağlanır. 1 Ağustos 2004'te, en az 464 kişinin ölümüne ve yaklaşık 409 kişinin yaralanmasına yol açan süpermarket yangını, Paraguay'ın yakın geçmişindeki en acı olaylardan biridir. Olayda, alışveriş yapanların çoğunluğu yangında kaçış kapıları olmadığı için pencerelerden atlamak zorunda kalmışlardır. Ayrıca güvenlik görevlilerinin alıcılar ödemeden ayrılmasınlar diye kapıları kilitledikleri öne sürülmüştür. Daha da kötüsü, yangına gelen itfaiye görevlilerinin, yangında ölenleri soyduklarını gösterir görüntü kayıtları olduğu duyumları alınmıştır. == Kaynakça == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 369,
+      "char_count": 2876,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.228868",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 356,
+      "content": "Asunción, Paraguay'ın başkentidir. Aynı zamanda en büyük limanı ve endüstri ile kültürel yönden de en önemli kentidir. Kentte özellikle ayakkabı, dokuma ile tütün işleme endüstrileri bulunur. Kentte, 1992 sayımına göre 500.939 kişi yaşasa da, bu sayı birlikte büyükkenti (Gran Asunción, \"Büyük Asuncion\") oluşturduğu çevre yerleşimlerle 1.500.000'i geçer.",
+      "char_count": 355,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0001",
+      "section": "== Geçmişi ==",
+      "heading_path": "== Geçmişi ==",
+      "start_char": 356,
+      "end_char": 1029,
+      "content": "== Geçmişi == Güney Amerika'nın en eski kentlerinden birisi olan Asuncion; aynı zamanda da, bölgedeki öteki sömürgeci kentlerini kuran Avrupalıların yola çıktıkları yer olduğu için \"kentlerin anası\" olarak da bilinir. Bugünkü kent alanına sömürgeciler daha önce gelmiş olsalar da, Asuncion'da ilk yerleşim 15 Ağustos 1537'de Nuestra Senyora de la Asunción adı altında, Juan de Salazar ile Gonzalo de Mendoza öncüğünde kurulmuştur. İspanyol sömürge yönetimine karşı ilk ayaklanmalardan birisi José de Antequera y Castro önderliğinde 1731'de yapılanıdır. Daha sonraları, 1865-1870 arasındaki Üçlü Birlik Savaşı'ndan sonra, Brezilya ordusu kenti 1876'ya dek elinde tutmuştur.",
+      "char_count": 672,
+      "token_estimate": 168
+    },
+    {
+      "id": "c0002",
+      "section": "== Bugünü ==",
+      "heading_path": "== Bugünü ==",
+      "start_char": 1041,
+      "end_char": 2041,
+      "content": "== Bugünü == Kentte, Godoi müzesi ile La Encarnacion kilisesinin yanı sıra, Paris'teki Les Invalides'in küçük bir benzeri olan ve Paraguay'ın geçmişteki kahramanlarının yattığı Panteón Nacional bulunur. Öteki görülebilecek yerler arasında, başkanlık sarayı, eski Senato yapısı, Catedral Metropolitana (Büyükkent katedrali) ile kentteki sömürge mimarisinin ender örneklerinden olan Casa de Independencia (\"bağımsızlık evi/sarayı\") sayılabilir. Kentin ana bölgesi (liman yakınları ile Plaza de los Heroes ve Plaza Uruguaya çevresi) 1970'ler ve 1980'lerdeki yapılaşma sonucu sömürge döneminden kalan özelliğini yitirmiştir. Akşamları güvensiz sayılabilecek bu bölgeye oranla, kentin \"iyi bölgeleri\" olarak daha çok durumu iyi olanların yaşadığı Avenida San Martin (\"Ermiş Martin Caddesi\") yönündeki varoşlar sayılabilir. Kentte, devlete bağlı Universidad Nacional 9 Mayıs 2019 tarihinde Wayback Machine sitesinde arşivlendi. (\"Ulusal Üniversite\") ile (Katolik Kilisesince işletilen özel) Universidad Cat",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Bugünü ==",
+      "heading_path": "== Bugünü ==",
+      "start_char": 1841,
+      "end_char": 2841,
+      "content": "şlar sayılabilir. Kentte, devlete bağlı Universidad Nacional 9 Mayıs 2019 tarihinde Wayback Machine sitesinde arşivlendi. (\"Ulusal Üniversite\") ile (Katolik Kilisesince işletilen özel) Universidad Catolica 30 Kasım 2012 tarihinde Wayback Machine sitesinde arşivlendi. üniversitelerinin yanı sıra birkaç küçük özel üniversite de bulunur. Kentin öteki yerlerle ulaşımı, bir ırmak limanı, uluslararası bir havaalanı ve kentlerarası bir otobüs terminali ile sağlanır. 1 Ağustos 2004'te, en az 464 kişinin ölümüne ve yaklaşık 409 kişinin yaralanmasına yol açan süpermarket yangını, Paraguay'ın yakın geçmişindeki en acı olaylardan biridir. Olayda, alışveriş yapanların çoğunluğu yangında kaçış kapıları olmadığı için pencerelerden atlamak zorunda kalmışlardır. Ayrıca güvenlik görevlilerinin alıcılar ödemeden ayrılmasınlar diye kapıları kilitledikleri öne sürülmüştür. Daha da kötüsü, yangına gelen itfaiye görevlilerinin, yangında ölenleri soyduklarını gösterir görüntü kayıtları olduğu duyumları alınmı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Bugünü ==",
+      "heading_path": "== Bugünü ==",
+      "start_char": 2641,
+      "end_char": 2846,
+      "content": "eden ayrılmasınlar diye kapıları kilitledikleri öne sürülmüştür. Daha da kötüsü, yangına gelen itfaiye görevlilerinin, yangında ölenleri soyduklarını gösterir görüntü kayıtları olduğu duyumları alınmıştır.",
+      "char_count": 205,
+      "token_estimate": 51
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Paraguay'ın geçmişteki kahramanlarının yattığı Panteón Nacional, hangi yapının küçük bir benzeridir?",
+        "answer": "Paris'teki Les Invalides'in küçük bir benzeridir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Güney Amerika'nın 'kentlerin anası' olarak bilinen Asunción'un zengin tarihi, günümüzdeki kentsel dönüşüm ve sosyal ayrışma ile nasıl bir tezat oluşturmaktadır?",
+        "answer": "Güney Amerika'nın en eski kentlerinden biri ve birçok sömürgeci yerleşimin başlangıç noktası olarak büyük tarihi öneme sahip olan Asunción, günümüzde kentin tarihi merkezi olan ana bölgesinin 1970'ler ve 1980'lerdeki yapılaşma ile sömürge döneminden kalan özgünlüğünü yitirip akşamları güvensiz hale gelmesiyle dikkat çekmektedir. Buna karşın, durumu daha iyi olanların yaşadığı ve 'iyi bölgeler' olarak tanımlanan, özellikle Avenida San Martin çevresindeki varoşlar gelişmiştir. Bu durum, başkent ve en büyük liman olma özelliğini sürdürmesine rağmen, şehrin tarihi kökenleriyle günümüzdeki kentsel yapısı ve sosyal coğrafyası arasında belirgin bir farklılaşma ve tezat olduğunu göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "tanrahareketi_40e54010",
+    "title": "Tanrıça hareketi",
+    "url": "https://tr.wikipedia.org/wiki/Tanr%C4%B1%C3%A7a_hareketi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:52.709633",
+    "content": "Tanrıça hareketi, 1960'lı yılların sonunda Amerika Birleşik Devletlerinden başlayarak, 1970'li yıllarda batı dünyasında ağırlıklı olarak Kuzey Amerika, Batı Avrupa, Avustralya ve Yeni Zelanda'da ortaya çıkan ruhani inançları ya da uygulamaları içeren bir Neopagan harekettir. Hareket, hem yalnızca eril gramer öğeleri ve zamirleriyle anılan tanrılara sahip olan İbrahimi dinlere hem de sekülerizme karşı bir tepki olarak gelişmiştir. Tanrıçaya tapınma ve ilahi dişile saygı etrafında şekillenir ve kadınlara ya da bir veya daha fazla toplumsal cinsiyet veya kadınlık anlayışına odaklanmayı içerebilir. Tanrıça hareketi modern Paganizmde yaygın ve merkezi olmayan bir eğilimdir ve bu nedenle merkezi bir inanç ilkesi yoktur. İnançlar ve uygulamaları, tapınılan tanrıçaların adından ve sayısından kullanılan özel ritüellere ve ayinlere kadar büyük farklılıklar göstermektedir. Diyenik Vika gibi bazıları yalnızca dişi tanrılara taparken, diğerlerinde böyle bir durum söz konusu değildir. İnanç sistemleri tek tanrılıdan çok tanrılıya ve panteiste kadar çeşitlilik gösterir. Yaygın inanış, kendini Tanrıça'ya tapan biri olarak tanımlayan birinin teorik olarak dünyanın dört bir yanındaki çeşitli kültür ve dinlerden çok sayıda farklı kadın tanrıya tapabileceği anlamına gelmektedir. Tanrıça hareketi, özelliklerine bağlı olarak, giderek çeşitlenen, coğrafi olarak yaygınlaşan, eklektik ve süreç olarak daha dinamik bir kültürel dindarlık biçimi olarak da anılmaktadır. Hareketin tahmini nüfusu ABD'de 500.000 ve Birleşik Krallık'ta 120.000'dir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 202,
+      "char_count": 1556,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.100644",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Tanrıça hareketi, 1960'lı yılların sonunda Amerika Birleşik Devletlerinden başlayarak, 1970'li yıllarda batı dünyasında ağırlıklı olarak Kuzey Amerika, Batı Avrupa, Avustralya ve Yeni Zelanda'da ortaya çıkan ruhani inançları ya da uygulamaları içeren bir Neopagan harekettir. Hareket, hem yalnızca eril gramer öğeleri ve zamirleriyle anılan tanrılara sahip olan İbrahimi dinlere hem de sekülerizme karşı bir tepki olarak gelişmiştir. Tanrıçaya tapınma ve ilahi dişile saygı etrafında şekillenir ve kadınlara ya da bir veya daha fazla toplumsal cinsiyet veya kadınlık anlayışına odaklanmayı içerebilir. Tanrıça hareketi modern Paganizmde yaygın ve merkezi olmayan bir eğilimdir ve bu nedenle merkezi bir inanç ilkesi yoktur. İnançlar ve uygulamaları, tapınılan tanrıçaların adından ve sayısından kullanılan özel ritüellere ve ayinlere kadar büyük farklılıklar göstermektedir. Diyenik Vika gibi bazıları yalnızca dişi tanrılara taparken, diğerlerinde böyle bir durum söz konusu değildir. İnanç sistemle",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1541,
+      "content": "nılan özel ritüellere ve ayinlere kadar büyük farklılıklar göstermektedir. Diyenik Vika gibi bazıları yalnızca dişi tanrılara taparken, diğerlerinde böyle bir durum söz konusu değildir. İnanç sistemleri tek tanrılıdan çok tanrılıya ve panteiste kadar çeşitlilik gösterir. Yaygın inanış, kendini Tanrıça'ya tapan biri olarak tanımlayan birinin teorik olarak dünyanın dört bir yanındaki çeşitli kültür ve dinlerden çok sayıda farklı kadın tanrıya tapabileceği anlamına gelmektedir. Tanrıça hareketi, özelliklerine bağlı olarak, giderek çeşitlenen, coğrafi olarak yaygınlaşan, eklektik ve süreç olarak daha dinamik bir kültürel dindarlık biçimi olarak da anılmaktadır. Hareketin tahmini nüfusu ABD'de 500.000 ve Birleşik Krallık'ta 120.000'dir.",
+      "char_count": 741,
+      "token_estimate": 185
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tanrıça hareketi ne zaman ve nerede ortaya çıktı?",
+        "answer": "Tanrıça hareketi, 1960'lı yılların sonunda Amerika Birleşik Devletleri'nden başlayarak, 1970'li yıllarda batı dünyasında (Kuzey Amerika, Batı Avrupa, Avustralya ve Yeni Zelanda'da) ortaya çıkmıştır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tanrıça hareketinin merkezi olmayan yapısı, inanç sistemlerinin ve uygulamalarının çeşitliliğini nasıl yansıtmaktadır?",
+        "answer": "Tanrıça hareketi, modern Paganizmde yaygın ve merkezi olmayan bir eğilim olduğundan, merkezi bir inanç ilkesi yoktur. Bu durum, tapınılan tanrıçaların adından ve sayısından özel ritüellere ve ayinlere kadar inançların ve uygulamaların büyük farklılıklar göstermesine neden olur. İnanç sistemleri tek tanrılıdan çok tanrılıya ve panteiste kadar çeşitlilik gösterirken, kendini Tanrıça'ya tapan biri olarak tanımlayan kişiler dünyanın dört bir yanındaki çeşitli kültür ve dinlerden çok sayıda farklı kadın tanrıya tapabilirler. Bu özellikler, hareketi giderek çeşitlenen, coğrafi olarak yaygınlaşan, eklektik ve süreç olarak daha dinamik bir kültürel dindarlık biçimi haline getirir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

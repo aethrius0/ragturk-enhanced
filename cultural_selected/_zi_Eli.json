@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "zieli_8fd4c1d3",
+    "title": "İzi Eli",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0zi_Eli",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:16.922547",
+    "content": "İzi Eli (1 Ağustos 1955, İstanbul), Yahudi asıllı Türk müzisyen ve eğitimcidir. == Yaşamı == İzi Eli 1 Ağustos 1955 tarihinde İstanbul'da dünyaya geldi. Çok başarılı geçen ilkokul ve ortaokul yıllarından sonra lisede gitarla tanıştı. Moreno Barokas'dan birkaç aylık pratik gitar eğitimi aldıktan sonra birkaç yıl tek başına gitara devam etti. Arada amatör sahne deneyimleri geçirdi. Üniversitede İTÜ Makina Mühendisliği Bölümü'nü kazandıktan sonra akademik bir eğitim ihtiyacı hissetti. Antonio Dumeziç'den 4 yıl sürecek jazz gitar eğitimi aldı. Arkasından yine ünlü gitarist Neşet Ruacan'ın jazz harmonisi ve improvisation eğitimine tabi oldu. Bu arada üniversite hayatı boyunca çeşitli şarkıcılara eşlik etti. Birçok plak kayıtlarında gitar çaldı. Üniversiteden mezun olduktan sonra 4 yıllık mühendislik deneyimi geçirdi. Ancak gerçek mesleğinin müzik olması gerektiğine karar vererek mühendisliği bırakıp gitar eğitmenliğine başladı. Rock müziğine karşı daha duyarlı olduğunu hissederek sıkı bir çalışma temposuyla kendi kendini eğitti. Yüksek sayıda öğrenciye ders vererek birçok profesyonel gitarist yetiştirdi. Aralarından bazılarını Bilkent'te ve yurtdışında sonradan burs kazanmalarını sağlayacak düzeye getirdi. 90′lı yıllarda değişik rock gruplarıyla sahneye çıkan İzi Eli 1994 yılında Classic Hard Rock grubu Nautilus'u kurdu. Sonradan birkaç albümün aranjörlüğünü ve yönetmenliğini üstlendi. Halen kendisinin çok sevdiği ve son derece bağlı olduğu Nautilus grubuyla rockseverlerin karşısına çıkmaya devam etmektedir. Özel derslerin yanı sıra Pera'da gitar eğitmenliğine devam etmektedir. == Albümleri == Nurdan İpek - Bizim Sevdamız Nurdan İpek - Vakti Geldi Murat Çelik - Su Düşleri Los Paşaros Sefaradis - Las Puertas Estreyikas d'estambol - Un Kavritiko Opuz - Dağlar Opuz - Senden Yanayım Nautilus - Haydi Söyle",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 249,
+      "char_count": 1827,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.743909",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 80,
+      "content": "İzi Eli (1 Ağustos 1955, İstanbul), Yahudi asıllı Türk müzisyen ve eğitimcidir.",
+      "char_count": 79,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 80,
+      "end_char": 1080,
+      "content": "== Yaşamı == İzi Eli 1 Ağustos 1955 tarihinde İstanbul'da dünyaya geldi. Çok başarılı geçen ilkokul ve ortaokul yıllarından sonra lisede gitarla tanıştı. Moreno Barokas'dan birkaç aylık pratik gitar eğitimi aldıktan sonra birkaç yıl tek başına gitara devam etti. Arada amatör sahne deneyimleri geçirdi. Üniversitede İTÜ Makina Mühendisliği Bölümü'nü kazandıktan sonra akademik bir eğitim ihtiyacı hissetti. Antonio Dumeziç'den 4 yıl sürecek jazz gitar eğitimi aldı. Arkasından yine ünlü gitarist Neşet Ruacan'ın jazz harmonisi ve improvisation eğitimine tabi oldu. Bu arada üniversite hayatı boyunca çeşitli şarkıcılara eşlik etti. Birçok plak kayıtlarında gitar çaldı. Üniversiteden mezun olduktan sonra 4 yıllık mühendislik deneyimi geçirdi. Ancak gerçek mesleğinin müzik olması gerektiğine karar vererek mühendisliği bırakıp gitar eğitmenliğine başladı. Rock müziğine karşı daha duyarlı olduğunu hissederek sıkı bir çalışma temposuyla kendi kendini eğitti. Yüksek sayıda öğrenciye ders vererek bir",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 880,
+      "end_char": 1599,
+      "content": "ererek mühendisliği bırakıp gitar eğitmenliğine başladı. Rock müziğine karşı daha duyarlı olduğunu hissederek sıkı bir çalışma temposuyla kendi kendini eğitti. Yüksek sayıda öğrenciye ders vererek birçok profesyonel gitarist yetiştirdi. Aralarından bazılarını Bilkent'te ve yurtdışında sonradan burs kazanmalarını sağlayacak düzeye getirdi. 90′lı yıllarda değişik rock gruplarıyla sahneye çıkan İzi Eli 1994 yılında Classic Hard Rock grubu Nautilus'u kurdu. Sonradan birkaç albümün aranjörlüğünü ve yönetmenliğini üstlendi. Halen kendisinin çok sevdiği ve son derece bağlı olduğu Nautilus grubuyla rockseverlerin karşısına çıkmaya devam etmektedir. Özel derslerin yanı sıra Pera'da gitar eğitmenliğine devam etmektedir.",
+      "char_count": 719,
+      "token_estimate": 179
+    },
+    {
+      "id": "c0003",
+      "section": "== Albümleri ==",
+      "heading_path": "== Albümleri ==",
+      "start_char": 1600,
+      "end_char": 1827,
+      "content": "== Albümleri == Nurdan İpek - Bizim Sevdamız Nurdan İpek - Vakti Geldi Murat Çelik - Su Düşleri Los Paşaros Sefaradis - Las Puertas Estreyikas d'estambol - Un Kavritiko Opuz - Dağlar Opuz - Senden Yanayım Nautilus - Haydi Söyle",
+      "char_count": 227,
+      "token_estimate": 56
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İzi Eli ne zaman ve nerede dünyaya gelmiştir?",
+        "answer": "İzi Eli, 1 Ağustos 1955 tarihinde İstanbul'da dünyaya gelmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İzi Eli'nin makine mühendisliği eğitimi ve jazz gitar üzerine aldığı dersler de dahil olmak üzere farklı eğitim geçmişi, kendisinin bir rock müzisyeni ve gitar eğitmeni olarak kariyerini nasıl şekillendirmiştir?",
+        "answer": "İzi Eli, İTÜ Makine Mühendisliği Bölümü'nden mezun olup dört yıl mühendislik deneyimi kazanmıştır. Aynı zamanda, Antonio Dumeziç'ten dört yıl süren jazz gitar eğitimi almış ve Neşet Ruacan'dan jazz harmonisi ve improvisation dersleri almıştır. Mühendisliği bırakıp gitar eğitmenliğine başladıktan sonra rock müziğine karşı duyarlı olduğunu hissederek bu alanda kendini geliştirmiş, Nautilus grubunu kurmuş ve çok sayıda profesyonel gitarist yetiştirerek bir müzisyen ve eğitimci olarak kariyerini şekillendirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

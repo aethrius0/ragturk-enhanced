@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "sirenayka_581e9c01",
+    "title": "Sirenayka",
+    "url": "https://tr.wikipedia.org/wiki/Sirenayka",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:45.691683",
+    "content": "Sirenayka (Cyrenaica) veya Kirenayka (Arapça: برقه; Barka, Yunanca: Κυρηναϊκή), Libya'nın doğusunda bulunan bir kıyısal bölge ve ayrıca 1970'lerden önceki idari sistemdeki ülkenin bir vilayetidir. Eski sistemde var olan Sirenayka, bugün birkaç Şabiye denilen yönetim birimlerine ayrılmıştır. Sirenayka'nın başkent Bingazi'dir. Sirenayka, adını eski Yunan kolonisi Kirene'den almıştır. Bölgenin Arapça adı olan Barka veya Berka, son zamanlarda bölgenin merkezi sayılan Bingazi'nin eski isimleri olan Barneek veya Berenice ile ilişkili olabilir. Canlı bir vaha olan Kufra, Sirenayka'nın güneyindeki çöllerden biridir. == Tarih == Trablusgarp'ın doğusunda yer almaktadır. Trablus'un alınmasının ardından Osmanlı İmparatorluğu'na katılmıştır. Sirenayka'nın güneyi ise Osmanlı Devleti'nin sınırları içinde bulunmamaktadır. Osmanlı Devleti içinde Sirenayka Sancağı, Trablusgarp Beylerbeyliği'ne bağlı olarak yönetilmiştir. 1843 yılında yönetimi Sanusi Hanedanı almış ve Sirenayka'yı yönetmeye başlamıştır. Sanusi Hanedanı sırasında ilk defa Sirenayka'nın bayrağı olmuştur. 1912'de İtalyanlar tarafından işgal edilen bölgede sırasıyla birçok işgal olmuştur. Aynı dönemlerde bölgede Sirenayka Savaşı çıkmıştır. 1949 yılında Sirenayka Emirliği kurulmuştur. Bu devletle birlikte yeni bir Sirenayka'nın bayrağı olmuştur. Bu bayrak siyah bir zemin üzerinde beyaz ay yıldızlı bir bayraktır. 1951 yılında Sirenayka, Trablusgarp ve Fizan ile birleşerek Libya'yı oluşturmuştur. === Özerklik ilanı === 5 Mart 2012 tarihinde, Libya İç Savaşı'nda bölgedeki aşiretlerin birleşmesiyle ilan edilmiştir. Resmi olarak Libya genelinde tanınmamaktadır. Bölgenin lideri, Şeyh Ahmed Zübeyr'dir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 205,
+      "char_count": 1681,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.048823",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 616,
+      "content": "Sirenayka (Cyrenaica) veya Kirenayka (Arapça: برقه; Barka, Yunanca: Κυρηναϊκή), Libya'nın doğusunda bulunan bir kıyısal bölge ve ayrıca 1970'lerden önceki idari sistemdeki ülkenin bir vilayetidir. Eski sistemde var olan Sirenayka, bugün birkaç Şabiye denilen yönetim birimlerine ayrılmıştır. Sirenayka'nın başkent Bingazi'dir. Sirenayka, adını eski Yunan kolonisi Kirene'den almıştır. Bölgenin Arapça adı olan Barka veya Berka, son zamanlarda bölgenin merkezi sayılan Bingazi'nin eski isimleri olan Barneek veya Berenice ile ilişkili olabilir. Canlı bir vaha olan Kufra, Sirenayka'nın güneyindeki çöllerden biridir.",
+      "char_count": 615,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 616,
+      "end_char": 1462,
+      "content": "== Tarih == Trablusgarp'ın doğusunda yer almaktadır. Trablus'un alınmasının ardından Osmanlı İmparatorluğu'na katılmıştır. Sirenayka'nın güneyi ise Osmanlı Devleti'nin sınırları içinde bulunmamaktadır. Osmanlı Devleti içinde Sirenayka Sancağı, Trablusgarp Beylerbeyliği'ne bağlı olarak yönetilmiştir. 1843 yılında yönetimi Sanusi Hanedanı almış ve Sirenayka'yı yönetmeye başlamıştır. Sanusi Hanedanı sırasında ilk defa Sirenayka'nın bayrağı olmuştur. 1912'de İtalyanlar tarafından işgal edilen bölgede sırasıyla birçok işgal olmuştur. Aynı dönemlerde bölgede Sirenayka Savaşı çıkmıştır. 1949 yılında Sirenayka Emirliği kurulmuştur. Bu devletle birlikte yeni bir Sirenayka'nın bayrağı olmuştur. Bu bayrak siyah bir zemin üzerinde beyaz ay yıldızlı bir bayraktır. 1951 yılında Sirenayka, Trablusgarp ve Fizan ile birleşerek Libya'yı oluşturmuştur.",
+      "char_count": 845,
+      "token_estimate": 211
+    },
+    {
+      "id": "c0002",
+      "section": "=== Özerklik ilanı ===",
+      "heading_path": "=== Özerklik ilanı ===",
+      "start_char": 1462,
+      "end_char": 1667,
+      "content": "=== Özerklik ilanı === 5 Mart 2012 tarihinde, Libya İç Savaşı'nda bölgedeki aşiretlerin birleşmesiyle ilan edilmiştir. Resmi olarak Libya genelinde tanınmamaktadır. Bölgenin lideri, Şeyh Ahmed Zübeyr'dir.",
+      "char_count": 204,
+      "token_estimate": 51
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sirenayka Emirliği hangi yılda kurulmuştur?",
+        "answer": "1949 yılında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sirenayka'nın idari yapısı, Osmanlı Sancağı olmasından modern Libya'nın kuruluşuna kadar nasıl bir evrim geçirmiş ve bu durum günümüzdeki bölünmüşlüğünü nasıl yansıtmaktadır?",
+        "answer": "Sirenayka, Osmanlı İmparatorluğu döneminde Trablusgarp Beylerbeyliği'ne bağlı bir sancak olarak yönetilmiştir. Ardından 1843'te Sanusi Hanedanı tarafından yönetilmiş ve 1949'da Sirenayka Emirliği kurulmuştur. 1951 yılında Trablusgarp ve Fizan ile birleşerek Libya'yı oluşturmuştur. Eski idari sistemde bir vilayet iken, günümüzde birkaç Şabiye denilen yönetim birimine ayrılması, bu idari evrimin bir sonucudur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "atinalapollodoros_01547c6a",
+    "title": "Atinalı Apollodoros",
+    "url": "https://tr.wikipedia.org/wiki/Atinal%C4%B1_Apollodoros",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:30.732585",
+    "content": "Atinalı Apollodoros (Grekçe: Ἀπολλόδωρος ὁ Ἀθηναῖος, Apollodoros ho Athenaios) y. MÖ 180 - y. MÖ 120 arasında yaşamış bir Yunan bilgini, tarihçisi ve dil bilgisi uzmanı idi. Babası Asklepiades'tir. Çağdaşı Dionysius Thrax ile birlikte, Babilli Diyojen, Stoacı Panaetius ve Semadirekli dil bilimci Aristarkus'un öğrencisiydi. Büyük olasılıkla MÖ 146 civarında Bergama'ya gitmek için İskenderiye'den ayrıldı (belki kaçtı) ve sonunda Atina'ya yerleşti. == Edebi çalışmaları == Khroniká (Χρονικά), MÖ 12. yüzyılda Truva'nın düşüşünden, yaklaşık MÖ 143'e kadar (daha sonra MÖ 109'a kadar uzatılmış olmasına rağmen) ve Kyreneli Eratosthenes'in önceki çalışmalarına dayanan bir Yunan tarihi çalışmasıdır. Tarihleri Atina arkonlarına (Atinalı yargıç) yapılan atıflarla hesaplanmıştır. Arkonların çoğu yalnızca bir yıl görevde kaldığından, bilim adamları Apollodoros'un bahsettiği yılları saptayabildiler. Chronicle şiiri, trimeter ölçüsü ile yazılmıştır ve MÖ 2. yüzyıl Bergama kralı Attalus II Philadelphus'a adanmıştır. Tanrılar Üzerine (Περὶ θεῶν, Peri theon, nesir, 24 kitapta), kayıptır ama günümüze ulaşan alıntılar yoluyla tanrıların isimlerinin ve sıfatlarının etimolojilerini içerdiği bilinmektedir, Romalı Epikürcü Philodemus tarafından alıntılanmıştır; dahası bazı bölümleri Oxyrhynchus papirüsü'nde yer almaktadır. Homeros'un Gemiler Kataloğu hakkında, yine Kyreneli Eratosthenes ve Scepsisli Demetrius'a dayanan, Homeros coğrafyasını ve yüzyıllar boyunca nasıl değiştiğini konu alan on iki kitaplık bir deneme yazmıştır. Strabon, kendi Geographika'sının 8'den 10'a kadar olan kitapları için bu denemeden büyük ölçüde yararlanmıştır. Diğer olası eserler arasında erken bir etimoloji (muhtemelen İskenderiyeli bir yazar yazmıştır) ve Kos Adası'ndan Epikharmos ve Sophron şairlerinin analizleri sayılabilir. Apollodoros, günümüze ulaşmamış çok sayıda başka eleştirel ve gramer yazıları üretmiştir. Bir bilgin olarak saygınlığı, çeşitli taklitlere, sahtekarlıklara ve yanlış atıflara yol açtı. Bibliotheka veya Kütüphane olarak adlandırılan Yunan mitolojisinin ansiklopedisi geleneksel olarak ona atfedilmiştir, ancak onun olamaz; Cicero, kendi çağdaşı olan Annalist Castor'dan Bibliotheka'nın sahibi olarak bahsetmiştir. Aksine, Bibliotheka'nın yazarı bugünlerde Pseudo-Apollodoros olarak belirlenmiştir. == Kaynakça == Hornblower, Simon (1996). \"Apollodorus (6) of Athens\". The Oxford Classical Dictionary. Oxford: Oxford University Press. s. 124. Smith, W. (1861). \"Dictionary of Greek and Roman biography and mythology, ed. By W. Smith\". Dictionary of Greek and Roman Biography and Mythology. 1. Londra: Walton & Maberly. s. 234. Bravo, Benedetto. La Chronique d'Apollodore et le Pseudo-Skymnos: érudition antiquaire et littérature géographique dans la seconde moitié du IIe siècle av. J.-C. (Leuven: Peeters, 2009) (Studia Hellenistica, 46). Μανόλης Παπαθωμόπουλος, ed. Απολλόδωρου Βιβλιοθήκη / Apollodori Bibliotheca, Richardum Wagnerum recognita sonrası. Εισαγωγή - Κείμενο - Πίνακες (Αθήνα: Εκδοσεις Αλήθεια, 2010) (Λόγος Ελληνικός, 4).",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 382,
+      "char_count": 3045,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.256109",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 450,
+      "content": "Atinalı Apollodoros (Grekçe: Ἀπολλόδωρος ὁ Ἀθηναῖος, Apollodoros ho Athenaios) y. MÖ 180 - y. MÖ 120 arasında yaşamış bir Yunan bilgini, tarihçisi ve dil bilgisi uzmanı idi. Babası Asklepiades'tir. Çağdaşı Dionysius Thrax ile birlikte, Babilli Diyojen, Stoacı Panaetius ve Semadirekli dil bilimci Aristarkus'un öğrencisiydi. Büyük olasılıkla MÖ 146 civarında Bergama'ya gitmek için İskenderiye'den ayrıldı (belki kaçtı) ve sonunda Atina'ya yerleşti.",
+      "char_count": 449,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0001",
+      "section": "== Edebi çalışmaları ==",
+      "heading_path": "== Edebi çalışmaları ==",
+      "start_char": 450,
+      "end_char": 1450,
+      "content": "== Edebi çalışmaları == Khroniká (Χρονικά), MÖ 12. yüzyılda Truva'nın düşüşünden, yaklaşık MÖ 143'e kadar (daha sonra MÖ 109'a kadar uzatılmış olmasına rağmen) ve Kyreneli Eratosthenes'in önceki çalışmalarına dayanan bir Yunan tarihi çalışmasıdır. Tarihleri Atina arkonlarına (Atinalı yargıç) yapılan atıflarla hesaplanmıştır. Arkonların çoğu yalnızca bir yıl görevde kaldığından, bilim adamları Apollodoros'un bahsettiği yılları saptayabildiler. Chronicle şiiri, trimeter ölçüsü ile yazılmıştır ve MÖ 2. yüzyıl Bergama kralı Attalus II Philadelphus'a adanmıştır. Tanrılar Üzerine (Περὶ θεῶν, Peri theon, nesir, 24 kitapta), kayıptır ama günümüze ulaşan alıntılar yoluyla tanrıların isimlerinin ve sıfatlarının etimolojilerini içerdiği bilinmektedir, Romalı Epikürcü Philodemus tarafından alıntılanmıştır; dahası bazı bölümleri Oxyrhynchus papirüsü'nde yer almaktadır. Homeros'un Gemiler Kataloğu hakkında, yine Kyreneli Eratosthenes ve Scepsisli Demetrius'a dayanan, Homeros coğrafyasını ve yüzyılla",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Edebi çalışmaları ==",
+      "heading_path": "== Edebi çalışmaları ==",
+      "start_char": 1250,
+      "end_char": 2250,
+      "content": "ştır; dahası bazı bölümleri Oxyrhynchus papirüsü'nde yer almaktadır. Homeros'un Gemiler Kataloğu hakkında, yine Kyreneli Eratosthenes ve Scepsisli Demetrius'a dayanan, Homeros coğrafyasını ve yüzyıllar boyunca nasıl değiştiğini konu alan on iki kitaplık bir deneme yazmıştır. Strabon, kendi Geographika'sının 8'den 10'a kadar olan kitapları için bu denemeden büyük ölçüde yararlanmıştır. Diğer olası eserler arasında erken bir etimoloji (muhtemelen İskenderiyeli bir yazar yazmıştır) ve Kos Adası'ndan Epikharmos ve Sophron şairlerinin analizleri sayılabilir. Apollodoros, günümüze ulaşmamış çok sayıda başka eleştirel ve gramer yazıları üretmiştir. Bir bilgin olarak saygınlığı, çeşitli taklitlere, sahtekarlıklara ve yanlış atıflara yol açtı. Bibliotheka veya Kütüphane olarak adlandırılan Yunan mitolojisinin ansiklopedisi geleneksel olarak ona atfedilmiştir, ancak onun olamaz; Cicero, kendi çağdaşı olan Annalist Castor'dan Bibliotheka'nın sahibi olarak bahsetmiştir. Aksine, Bibliotheka'nın yaz",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Edebi çalışmaları ==",
+      "heading_path": "== Edebi çalışmaları ==",
+      "start_char": 2050,
+      "end_char": 2306,
+      "content": "tolojisinin ansiklopedisi geleneksel olarak ona atfedilmiştir, ancak onun olamaz; Cicero, kendi çağdaşı olan Annalist Castor'dan Bibliotheka'nın sahibi olarak bahsetmiştir. Aksine, Bibliotheka'nın yazarı bugünlerde Pseudo-Apollodoros olarak belirlenmiştir.",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2307,
+      "end_char": 3045,
+      "content": "== Kaynakça == Hornblower, Simon (1996). \"Apollodorus (6) of Athens\". The Oxford Classical Dictionary. Oxford: Oxford University Press. s. 124. Smith, W. (1861). \"Dictionary of Greek and Roman biography and mythology, ed. By W. Smith\". Dictionary of Greek and Roman Biography and Mythology. 1. Londra: Walton & Maberly. s. 234. Bravo, Benedetto. La Chronique d'Apollodore et le Pseudo-Skymnos: érudition antiquaire et littérature géographique dans la seconde moitié du IIe siècle av. J.-C. (Leuven: Peeters, 2009) (Studia Hellenistica, 46). Μανόλης Παπαθωμόπουλος, ed. Απολλόδωρου Βιβλιοθήκη / Apollodori Bibliotheca, Richardum Wagnerum recognita sonrası. Εισαγωγή - Κείμενο - Πίνακες (Αθήνα: Εκδοσεις Αλήθεια, 2010) (Λόγος Ελληνικός, 4).",
+      "char_count": 738,
+      "token_estimate": 184
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Khroniká şiiri hangi ölçüyle yazılmıştır?",
+        "answer": "Trimeter ölçüsüyle yazılmıştır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Atinalı Apollodoros'un bir bilgin olarak saygınlığı, edebi çalışmalarıyla ilgili atıfları nasıl etkilemiştir?",
+        "answer": "Bir Yunan bilgini, tarihçisi ve dil bilgisi uzmanı olarak sahip olduğu saygınlık, çeşitli taklitlere, sahtekarlıklara ve yanlış atıflara yol açmıştır; geleneksel olarak kendisine atfedilen \"Bibliotheka\" ansiklopedisinin ona ait olmaması buna bir örnektir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

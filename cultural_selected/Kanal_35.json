@@ -1,0 +1,193 @@
+{
+  "article": {
+    "id": "kanal35_3e5b42bd",
+    "title": "Kanal 35",
+    "url": "https://tr.wikipedia.org/wiki/Kanal_35",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:55.546169",
+    "content": "Kanal 35, İzmir'den yayın yapan yerel bir televizyon kanalıydı. Türksat 3A, D-Smart ve tivibu'dan izlenebilmekteydi. 16 Temmuz 2007'de yayın hayatına başlayan kanalın sahibi Ahmet Küçükbaydı. Küçükbay, Mart 2015'te kanalın $4 milyon fiyatla satışa çıkarıldığını Twitter üzerinden açıklasa da herhangi bir satış işlemi gerçekleşmedi. Küçükbay'ın FETÖ/PDY soruşturması kapsamında Ağustos 2016'da gözaltına alınmasının ardından, 15 Ağustos günü kanalın yayınları RTÜK tarafından durduruldu. Haziran 2017'de kanalın varlıkları, Tasarruf Mevduatı Sigorta Fonu tarafından açık arttırma ihalesiyle satışa çıkarıldı. == Kanal 35 Ana Haber Sunucuları == Tarık YENEN (Haber Maratonu) Gökhan PAKKANLILAR Özge TEPEKULE == Programları == === Diziler === Bizimkiler (Orijinal yayın: 1989-2002, TRT 1, Star TV, Show TV ve tekrar Star TV) Üvey Baba (Orijinal yayın: 1998-2004, Star TV ve Flash TV) Komşu Komşu (Orijinal yayın: 1997-1998, Star TV === Müzik/Eğlence === Telden Dile Faslı Nazenin Rumeli Keyfi Gencebay ile Mikrofon Sende === Sağlık === Reçete === Gezi === Muratla Gezinti === Haber === Sabah Postası Gündem Özel Gün Ortası Gündem Ege Gece Bülteni === Ekonomi === Ekonomi Masası === Tartışma === Politik Gündem Z Raporu Mercek === Aktüel ve kültür sanat === Yapı Dünyası Ağız Tadıyla Eskimeyen Yüzler Resim Atölyesi Sinemaskop İfade-i Meram Gönül Dünyamız Hobi Fobi Engelsizler Akşam Kahvesi Körfez Sohbetleri === Eğitim === Senin Kariyerin Uzman === Spor === Futbol Yorum Spor Extra Stüdyo 90 Soruyorum Son Periyot === Çevre === Çevre Gündemi === Tarım === Toprağın Teri == Logolar == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 234,
+      "char_count": 1597,
+      "num_chunks": 14,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.859517",
+    "total_chunks": 14,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 609,
+      "content": "Kanal 35, İzmir'den yayın yapan yerel bir televizyon kanalıydı. Türksat 3A, D-Smart ve tivibu'dan izlenebilmekteydi. 16 Temmuz 2007'de yayın hayatına başlayan kanalın sahibi Ahmet Küçükbaydı. Küçükbay, Mart 2015'te kanalın $4 milyon fiyatla satışa çıkarıldığını Twitter üzerinden açıklasa da herhangi bir satış işlemi gerçekleşmedi. Küçükbay'ın FETÖ/PDY soruşturması kapsamında Ağustos 2016'da gözaltına alınmasının ardından, 15 Ağustos günü kanalın yayınları RTÜK tarafından durduruldu. Haziran 2017'de kanalın varlıkları, Tasarruf Mevduatı Sigorta Fonu tarafından açık arttırma ihalesiyle satışa çıkarıldı.",
+      "char_count": 608,
+      "token_estimate": 152
+    },
+    {
+      "id": "c0001",
+      "section": "== Kanal 35 Ana Haber Sunucuları ==",
+      "heading_path": "== Kanal 35 Ana Haber Sunucuları ==",
+      "start_char": 609,
+      "end_char": 707,
+      "content": "== Kanal 35 Ana Haber Sunucuları == Tarık YENEN (Haber Maratonu) Gökhan PAKKANLILAR Özge TEPEKULE",
+      "char_count": 97,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0002",
+      "section": "=== Diziler ===",
+      "heading_path": "=== Diziler ===",
+      "start_char": 725,
+      "end_char": 930,
+      "content": "=== Diziler === Bizimkiler (Orijinal yayın: 1989-2002, TRT 1, Star TV, Show TV ve tekrar Star TV) Üvey Baba (Orijinal yayın: 1998-2004, Star TV ve Flash TV) Komşu Komşu (Orijinal yayın: 1997-1998, Star TV",
+      "char_count": 204,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0003",
+      "section": "=== Müzik/Eğlence ===",
+      "heading_path": "=== Müzik/Eğlence ===",
+      "start_char": 930,
+      "end_char": 1019,
+      "content": "=== Müzik/Eğlence === Telden Dile Faslı Nazenin Rumeli Keyfi Gencebay ile Mikrofon Sende",
+      "char_count": 88,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0004",
+      "section": "=== Sağlık ===",
+      "heading_path": "=== Sağlık ===",
+      "start_char": 1019,
+      "end_char": 1041,
+      "content": "=== Sağlık === Reçete",
+      "char_count": 21,
+      "token_estimate": 5
+    },
+    {
+      "id": "c0005",
+      "section": "=== Gezi ===",
+      "heading_path": "=== Gezi ===",
+      "start_char": 1041,
+      "end_char": 1070,
+      "content": "=== Gezi === Muratla Gezinti",
+      "char_count": 28,
+      "token_estimate": 7
+    },
+    {
+      "id": "c0006",
+      "section": "=== Haber ===",
+      "heading_path": "=== Haber ===",
+      "start_char": 1070,
+      "end_char": 1145,
+      "content": "=== Haber === Sabah Postası Gündem Özel Gün Ortası Gündem Ege Gece Bülteni",
+      "char_count": 74,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0007",
+      "section": "=== Ekonomi ===",
+      "heading_path": "=== Ekonomi ===",
+      "start_char": 1145,
+      "end_char": 1176,
+      "content": "=== Ekonomi === Ekonomi Masası",
+      "char_count": 30,
+      "token_estimate": 7
+    },
+    {
+      "id": "c0008",
+      "section": "=== Tartışma ===",
+      "heading_path": "=== Tartışma ===",
+      "start_char": 1176,
+      "end_char": 1224,
+      "content": "=== Tartışma === Politik Gündem Z Raporu Mercek",
+      "char_count": 47,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0009",
+      "section": "=== Aktüel ve kültür sanat ===",
+      "heading_path": "=== Aktüel ve kültür sanat ===",
+      "start_char": 1224,
+      "end_char": 1407,
+      "content": "=== Aktüel ve kültür sanat === Yapı Dünyası Ağız Tadıyla Eskimeyen Yüzler Resim Atölyesi Sinemaskop İfade-i Meram Gönül Dünyamız Hobi Fobi Engelsizler Akşam Kahvesi Körfez Sohbetleri",
+      "char_count": 182,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0010",
+      "section": "=== Eğitim ===",
+      "heading_path": "=== Eğitim ===",
+      "start_char": 1407,
+      "end_char": 1444,
+      "content": "=== Eğitim === Senin Kariyerin Uzman",
+      "char_count": 36,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0011",
+      "section": "=== Spor ===",
+      "heading_path": "=== Spor ===",
+      "start_char": 1444,
+      "end_char": 1513,
+      "content": "=== Spor === Futbol Yorum Spor Extra Stüdyo 90 Soruyorum Son Periyot",
+      "char_count": 68,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0012",
+      "section": "=== Çevre ===",
+      "heading_path": "=== Çevre ===",
+      "start_char": 1513,
+      "end_char": 1541,
+      "content": "=== Çevre === Çevre Gündemi",
+      "char_count": 27,
+      "token_estimate": 6
+    },
+    {
+      "id": "c0013",
+      "section": "=== Tarım ===",
+      "heading_path": "=== Tarım ===",
+      "start_char": 1541,
+      "end_char": 1569,
+      "content": "=== Tarım === Toprağın Teri",
+      "char_count": 27,
+      "token_estimate": 6
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kanal 35'in yayın hayatına başladığı tarih neydi?",
+        "answer": "16 Temmuz 2007",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kanal 35'in İzmir merkezli yerel bir televizyon kanalı olduğu ve Tarık Yenen, Gökhan Pakkanlılar ile Özge Tepekule gibi isimlerin ana haber sunucusu olarak görev yaptığı bilgisi birlikte değerlendirildiğinde, bu kanalın program yapısında hangi tür içeriğin belirgin bir rol oynadığı ve faaliyetlerinin ne zaman sona erdiği anlaşılmaktadır?",
+        "answer": "Kanal 35'in program yapısında ana haber bültenleri belirgin bir rol oynuyordu, zira Tarık Yenen, Gökhan Pakkanlılar ve Özge Tepekule gibi isimler ana haber sunucusu olarak görev yapmaktaydı. Kanalın yayınları 15 Ağustos 2016'da RTÜK tarafından durdurulmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

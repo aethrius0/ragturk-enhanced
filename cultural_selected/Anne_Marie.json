@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "annemarie_24575388",
+    "title": "Anne-Marie",
+    "url": "https://tr.wikipedia.org/wiki/Anne-Marie",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:33.382895",
+    "content": "Anne-Marie Nicholson (d. 7 Nisan 1991; Essex), İngiliz şarkıcı ve söz yazarı. Kariyerine 2013 yılında başlamış olan Anne-Marie, Essex'te dünyaya gelmiştir. İlk albümü \"SPEAK YOUR MIND\" ile listelerde 3 numaraya kadar ulaşmış ve bu başarısını 2021 yılında çıkan \"THERAPY\" adlı albümü ile 2. sıralara ulaşarak devam ettirmiştir. Çok başarılı albümlerinin yanı sıra birçok başarı sağlamış iş birliği şarkıları ve teklisi de vardır. ALARM, CIAO ADIOS, FRIENDS, BIRTHDAY,OUR SONG, KISS MY bunlardan yalnızca birkaçıdır. == Diskografi == === EP === 2015 - Karate === Album === 2018 - Speak Your Mind\" 2021 - Therapy === Single (Tekliler) === 2015 - Karate 2015 - Gemini 2015 - Boy 2016 - Do It Right 2016 - Alarm 2016 - Peak (Stripped) 2017 - Ciao Adios 2020 - Birthday 2021 - Beautiful === Ortak çalışma (Tekliler) === 2015 - Rumour Mill (Rudimental feat. Anne-Marie & Will Heard) 2015 - Alright with Me (Wretch 32 feat. Anne-Marie & PRGRSHN) 2016 - Catch 22 (Illy feat. Anne-Marie) 2016 - Rockabye (Clean Bandit feat. Anne-Marie & Sean Paul) 2017 \"Remember I told you\" Nick Jonas feat. Anne-Marie & Mike Posner 2018 \"Friends\" Marshmello feat. Anne-Marie 2020 \"To Be Young\" feat. Doja Cat 2021 \"Our Song\" feat. °Niall Horan° 2021 \"Way Too Long\" feat Nathan Dawe, MoStack 2021 Kiss my (uh-oh) with/ Little Mix 2022 I Just Called feat. Latto, Neiked 2022 PSYCHO feat. °Aitch° == Kaynakça == == Dış bağlantılar == Anne-Marie 6 Ekim 2017 tarihinde Wayback Machine sitesinde arşivlendi. Homepage",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 244,
+      "char_count": 1485,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.765459",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 515,
+      "content": "Anne-Marie Nicholson (d. 7 Nisan 1991; Essex), İngiliz şarkıcı ve söz yazarı. Kariyerine 2013 yılında başlamış olan Anne-Marie, Essex'te dünyaya gelmiştir. İlk albümü \"SPEAK YOUR MIND\" ile listelerde 3 numaraya kadar ulaşmış ve bu başarısını 2021 yılında çıkan \"THERAPY\" adlı albümü ile 2. sıralara ulaşarak devam ettirmiştir. Çok başarılı albümlerinin yanı sıra birçok başarı sağlamış iş birliği şarkıları ve teklisi de vardır. ALARM, CIAO ADIOS, FRIENDS, BIRTHDAY,OUR SONG, KISS MY bunlardan yalnızca birkaçıdır.",
+      "char_count": 514,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0001",
+      "section": "=== EP ===",
+      "heading_path": "=== EP ===",
+      "start_char": 532,
+      "end_char": 557,
+      "content": "=== EP === 2015 - Karate",
+      "char_count": 24,
+      "token_estimate": 6
+    },
+    {
+      "id": "c0002",
+      "section": "=== Album ===",
+      "heading_path": "=== Album ===",
+      "start_char": 557,
+      "end_char": 610,
+      "content": "=== Album === 2018 - Speak Your Mind\" 2021 - Therapy",
+      "char_count": 52,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0003",
+      "section": "=== Single (Tekliler) ===",
+      "heading_path": "=== Single (Tekliler) ===",
+      "start_char": 610,
+      "end_char": 781,
+      "content": "=== Single (Tekliler) === 2015 - Karate 2015 - Gemini 2015 - Boy 2016 - Do It Right 2016 - Alarm 2016 - Peak (Stripped) 2017 - Ciao Adios 2020 - Birthday 2021 - Beautiful",
+      "char_count": 170,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0004",
+      "section": "=== Ortak çalışma (Tekliler) ===",
+      "heading_path": "=== Ortak çalışma (Tekliler) ===",
+      "start_char": 781,
+      "end_char": 1369,
+      "content": "=== Ortak çalışma (Tekliler) === 2015 - Rumour Mill (Rudimental feat. Anne-Marie & Will Heard) 2015 - Alright with Me (Wretch 32 feat. Anne-Marie & PRGRSHN) 2016 - Catch 22 (Illy feat. Anne-Marie) 2016 - Rockabye (Clean Bandit feat. Anne-Marie & Sean Paul) 2017 \"Remember I told you\" Nick Jonas feat. Anne-Marie & Mike Posner 2018 \"Friends\" Marshmello feat. Anne-Marie 2020 \"To Be Young\" feat. Doja Cat 2021 \"Our Song\" feat. °Niall Horan° 2021 \"Way Too Long\" feat Nathan Dawe, MoStack 2021 Kiss my (uh-oh) with/ Little Mix 2022 I Just Called feat. Latto, Neiked 2022 PSYCHO feat. °Aitch°",
+      "char_count": 587,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1384,
+      "end_char": 1485,
+      "content": "== Dış bağlantılar == Anne-Marie 6 Ekim 2017 tarihinde Wayback Machine sitesinde arşivlendi. Homepage",
+      "char_count": 101,
+      "token_estimate": 25
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Marshmello, 2018 yılında Anne-Marie ile hangi şarkıda işbirliği yapmıştır?",
+        "answer": "Friends",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Anne-Marie'nin 2013 yılında başlayan kariyerinin ilk yıllarındaki EP'si 'Karate' ne zaman piyasaya sürülmüştür?",
+        "answer": "2015",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

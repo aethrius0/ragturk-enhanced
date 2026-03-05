@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "gabriellecarey_72d9b719",
+    "title": "Gabrielle Carey",
+    "url": "https://tr.wikipedia.org/wiki/Gabrielle_Carey",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:23.737547",
+    "content": "Gabrielle Carey (10 Ocak 1959 - 3 Mayıs 2023), Avustralyalı gazeteci ve yazardır. == Yaşamı ve kariyeri == Carey, 10 Ocak 1959'da Sidney, Yeni Güney Galler, Avustralya'da doğdu. Sidney Üniversitesi'ne öğrenim gördü. Kathy Lette ile beraber yazdıkları Avustralya'da yayınlanan ilk gençlik romanı olma özelliğini taşıyan Puberty Blues ile tanındı. Ardından Sidney Morning Harold ve Sun Herald gazetelerinde köşe yazarlığı yaptı. Carey'nin eski mahkûm Terry Haley ile olan beraberliğini anlatan otobiyografi türündeki Just Us adlı kitabı Ted Robert'sin yazdığı senaryo ve Gordon Glenn'in yönetmenliğinde 1986'da TV filmi olarak hazırlanarak yayınlanmıştır. Aynı zamanda Sidney Teknoloji Üniversitesi Yaratıcı Yazarlık programında kıdemli öğretim görevlisi olduktan sonra James Joyce ile Randolph Stow konulu çalışmalar yürüttü. 2020'de yayınladığı Only Happiness Here adlı kısa hikâye türündeki çalışmasıyla 2021'de Nib Edebiyat Ödülü'nü kazandı. == Özel yaşamı ve ölümü == İki beraberliğinden iki çocuk annesi olan Carey, 3 Mayıs 2023'te doğum yeri Sidney, Yeni Güney Galler Avustralya'da 64 yaşında kalp krizinden ölmüştür. == Eserleri == === Romanlar === Puberty Blues Kathy Lette ile (McPhee Gribble, 1979) 0-86914-010-8 The Borrowed Girl (Picador, 1994) 0-330-35598-8 === Otobiyografi ve anı === Just Us (Pengen Kitapları, 1984) 0-14-007425-2 In My Father's House (Pan Macmillan Yayınları Avustralya, 1992) 0-330-27294-2 Moving among Strangers: Randolph Stow and My Family (Queensland Üniversitesi Yayınları, 2013) 9780702249921 Falling Out of Love with Ivan Southall (Avustralya Akademik Yayıncılık, 2018) 9781925801538 === Kurgusal olmayan === The Penguin Book of Death Rosemary Sorensen ile (Penguen Kitapları, 1997) 0-14-025938-4 So Many Selves (ABC Kitapları, 2006) 978-0-7333-1982-2 Waiting Room (Scribe Yayıncılık, 2009) 978-1-921372-62-9 Only Happiness Here: In Search of Elizabeth von Arnim. St Lucia, Qld.: UnQueensland Üniversitesi Yayınları. 2020. === Carey'nin çalışmaları üzerine eleştirel çalışmalar ve incelemeler === Only Happiness Here Roemhild, Juliane (Ocak–Şubat 2021). \"Writing Happiness: A Lively Look at Elizabeth von Arnim\". Avustralya Kitap İncelemesi. 428: 50. == Kaynakça == == Dış bağlantılar == Resmî site",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 304,
+      "char_count": 2237,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.856480",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 82,
+      "content": "Gabrielle Carey (10 Ocak 1959 - 3 Mayıs 2023), Avustralyalı gazeteci ve yazardır.",
+      "char_count": 81,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 82,
+      "end_char": 944,
+      "content": "== Yaşamı ve kariyeri == Carey, 10 Ocak 1959'da Sidney, Yeni Güney Galler, Avustralya'da doğdu. Sidney Üniversitesi'ne öğrenim gördü. Kathy Lette ile beraber yazdıkları Avustralya'da yayınlanan ilk gençlik romanı olma özelliğini taşıyan Puberty Blues ile tanındı. Ardından Sidney Morning Harold ve Sun Herald gazetelerinde köşe yazarlığı yaptı. Carey'nin eski mahkûm Terry Haley ile olan beraberliğini anlatan otobiyografi türündeki Just Us adlı kitabı Ted Robert'sin yazdığı senaryo ve Gordon Glenn'in yönetmenliğinde 1986'da TV filmi olarak hazırlanarak yayınlanmıştır. Aynı zamanda Sidney Teknoloji Üniversitesi Yaratıcı Yazarlık programında kıdemli öğretim görevlisi olduktan sonra James Joyce ile Randolph Stow konulu çalışmalar yürüttü. 2020'de yayınladığı Only Happiness Here adlı kısa hikâye türündeki çalışmasıyla 2021'de Nib Edebiyat Ödülü'nü kazandı.",
+      "char_count": 861,
+      "token_estimate": 215
+    },
+    {
+      "id": "c0002",
+      "section": "== Özel yaşamı ve ölümü ==",
+      "heading_path": "== Özel yaşamı ve ölümü ==",
+      "start_char": 944,
+      "end_char": 1123,
+      "content": "== Özel yaşamı ve ölümü == İki beraberliğinden iki çocuk annesi olan Carey, 3 Mayıs 2023'te doğum yeri Sidney, Yeni Güney Galler Avustralya'da 64 yaşında kalp krizinden ölmüştür.",
+      "char_count": 178,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0003",
+      "section": "=== Romanlar ===",
+      "heading_path": "=== Romanlar ===",
+      "start_char": 1138,
+      "end_char": 1270,
+      "content": "=== Romanlar === Puberty Blues Kathy Lette ile (McPhee Gribble, 1979) 0-86914-010-8 The Borrowed Girl (Picador, 1994) 0-330-35598-8",
+      "char_count": 131,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0004",
+      "section": "=== Otobiyografi ve anı ===",
+      "heading_path": "=== Otobiyografi ve anı ===",
+      "start_char": 1270,
+      "end_char": 1623,
+      "content": "=== Otobiyografi ve anı === Just Us (Pengen Kitapları, 1984) 0-14-007425-2 In My Father's House (Pan Macmillan Yayınları Avustralya, 1992) 0-330-27294-2 Moving among Strangers: Randolph Stow and My Family (Queensland Üniversitesi Yayınları, 2013) 9780702249921 Falling Out of Love with Ivan Southall (Avustralya Akademik Yayıncılık, 2018) 9781925801538",
+      "char_count": 352,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0005",
+      "section": "=== Kurgusal olmayan ===",
+      "heading_path": "=== Kurgusal olmayan ===",
+      "start_char": 1623,
+      "end_char": 1962,
+      "content": "=== Kurgusal olmayan === The Penguin Book of Death Rosemary Sorensen ile (Penguen Kitapları, 1997) 0-14-025938-4 So Many Selves (ABC Kitapları, 2006) 978-0-7333-1982-2 Waiting Room (Scribe Yayıncılık, 2009) 978-1-921372-62-9 Only Happiness Here: In Search of Elizabeth von Arnim. St Lucia, Qld.: UnQueensland Üniversitesi Yayınları. 2020.",
+      "char_count": 338,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0006",
+      "section": "=== Carey'nin çalışmaları üzerine eleştirel çalışmalar ve incelemeler ===",
+      "heading_path": "=== Carey'nin çalışmaları üzerine eleştirel çalışmalar ve incelemeler ===",
+      "start_char": 1962,
+      "end_char": 2190,
+      "content": "=== Carey'nin çalışmaları üzerine eleştirel çalışmalar ve incelemeler === Only Happiness Here Roemhild, Juliane (Ocak–Şubat 2021). \"Writing Happiness: A Lively Look at Elizabeth von Arnim\". Avustralya Kitap İncelemesi. 428: 50.",
+      "char_count": 227,
+      "token_estimate": 56
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2205,
+      "end_char": 2237,
+      "content": "== Dış bağlantılar == Resmî site",
+      "char_count": 32,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Carey, 2021 yılında Only Happiness Here adlı kısa hikâye çalışmasıyla hangi ödülü kazanmıştır?",
+        "answer": "Nib Edebiyat Ödülü'nü.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Metinlerde Gabrielle Carey'nin yaşamına dair belirtilen önemli tarihler nelerdir ve kariyeri boyunca hangi alanlarda öne çıkan katkılarda bulunmuştur?",
+        "answer": "Gabrielle Carey, 10 Ocak 1959'da doğmuş ve 3 Mayıs 2023'te vefat etmiştir. Kariyeri boyunca Kathy Lette ile birlikte Avustralya'da yayınlanan ilk gençlik romanı Puberty Blues'u yazması, Sidney Morning Harold ve Sun Herald gazetelerinde köşe yazarlığı yapması, Just Us adlı otobiyografisinin TV filmine uyarlanması, Sidney Teknoloji Üniversitesi'nde Yaratıcı Yazarlık programında kıdemli öğretim görevlisi olarak çalışması ve 2021'de Only Happiness Here adlı çalışmasıyla Nib Edebiyat Ödülü'nü kazanması gibi öne çıkan katkılarda bulunmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

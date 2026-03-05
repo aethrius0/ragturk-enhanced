@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "agopkotoyan_8e602df1",
+    "title": "Agop Kotoğyan",
+    "url": "https://tr.wikipedia.org/wiki/Agop_Koto%C4%9Fyan",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:54.360073",
+    "content": "Agop Kotoğyan veya takma adıyla Kolsuz Agop (21 Kasım 1937, İstanbul - 13 Şubat 2018, İstanbul) Ermeni asıllı Türk dermatolog. Türkiye'de yetişmiş en önemli cilt uzmanları arasında gösterilen Agop Kotoğyan, bir kolu olmadığı için Kolsuz Agop lakabıyla tanınmıştır. == Hayatı == 1937 yılında İstanbul'da doğdu. Babası Ermeni Kırımı yetimi olan Yozgat'ın Akdağmadeni ilçesinden Kirkor Bey, annesi Yozgat'ın İğdere Köyü'nden Makruhi Hanım'dır. Ailesi 1938 yılında İstanbul'a göç edip Samatya semtine yerleşti. Ailenin ilk çocuğu olan Agop Kotoğyan, eğitimine Sahakyan Nunyan Ermeni İlkokulu'nda başladı. 1952'de ilkokulu bitirdikten sonra bir gümüş atölyesinde çalışırken makineye elini kaptırdı ve kangrene çevirince doktorlar kolunu omuz hizasından kesmek zorunda kaldı. Bu kazadan sonra hayatta kalmayı başardı ve Bezciyan Ermeni Ortaokulu'nda eğitime geri döndü. Lise öğrenimini Getronagan Ermeni Lisesi'nde tamamladı. Lise yıllarında futbolla ilgilendi. Mahalli bir futbol takımı olan Samatya Gençler Kulübü kadrosunda yer aldı. Futbola üniversitede de devam etti. 1957'de girdiği İstanbul Tıp Fakültesi'nden 1963'te birincilikle mezun oldu. Kadro bulunmaması nedeniyle 1963-1964 yıllarında İstanbul Tıp Fakültesi Deri Hastalıkları ve Frengi Kliniğinde gönüllü olarak çalıştı. 1964'te Cerrahpaşa Hastanesi'nin Deri Hastalıkları ve Frengi Kürsüsünün ilk asistanı olarak kadroya alındı. 1967'de \"Dermatitis Herpetiformis\" adlı uzmanlık teziyle deri ve zührevi hastalıklar uzmanı oldu. 1969'da üniversite tarafından Almanya'ya gönderildi. Dört ayda Almanca öğrendi ve Hamburg Saar Üniversitesi Dermatoloji Kliniği'nde çalışmaya başladı. Bu kilinikteki çalışmalarında malign melanomların klinik ve histopatolojik incelemelerine ağırlık verdi. Aynı üniversitenin alerji ve histoloji bölümlerinde de çalıştı. Kliniklerde gösterdiği başarıdan dolayı, Alman Üniversite Kurulunun talebiyle okulda kalma süresi bir yıl daha uzatıldı. 1972'de İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi'ne döndü. Yurda döndükten sonra 1973'te doçent, 1979'da \"Akne Vulgaris Vakalarında İmmunolojik Araştırmalar\" adlı teziyle profesör unvanını aldı. Almancadan sonra kendi çabasıyla, Fransızca ve İngilizce öğrendi. 2004'te emekli oluncaya kadar Cerrahpaşa Tıp Fakültesi'nde akademisyenlik yaptı. Cilt hastalıklarıyla ilgili iki kitap ve uluslararası dergilerde üç yüzden fazla makale yayınladı. Dünyanın birçok ülkesinde dersler, konferanslar verdi. Çeşitli ülkelerden gelen teklifleri şu sözlerle reddetti: \"Bir ülkeyi sevmek demek, bu topraklarda geçirdiğin güzel ve iyi günleri sevmek demek değildir. İyi günde ve kötü günde burada olmak, vatanın yanında kalmak, hatta vatan uğruna ölmeyi göze almak demektir.\" 2017 yılına kadar özel muayenehanesinde çalışmaya devam etti. Tedavi gördüğü Cerrahpaşa Tıp Fakültesi Hastanesi'nde 13 Şubat 2018'de öldü. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 361,
+      "char_count": 2845,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.892544",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 265,
+      "content": "Agop Kotoğyan veya takma adıyla Kolsuz Agop (21 Kasım 1937, İstanbul - 13 Şubat 2018, İstanbul) Ermeni asıllı Türk dermatolog. Türkiye'de yetişmiş en önemli cilt uzmanları arasında gösterilen Agop Kotoğyan, bir kolu olmadığı için Kolsuz Agop lakabıyla tanınmıştır.",
+      "char_count": 264,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 265,
+      "end_char": 1265,
+      "content": "== Hayatı == 1937 yılında İstanbul'da doğdu. Babası Ermeni Kırımı yetimi olan Yozgat'ın Akdağmadeni ilçesinden Kirkor Bey, annesi Yozgat'ın İğdere Köyü'nden Makruhi Hanım'dır. Ailesi 1938 yılında İstanbul'a göç edip Samatya semtine yerleşti. Ailenin ilk çocuğu olan Agop Kotoğyan, eğitimine Sahakyan Nunyan Ermeni İlkokulu'nda başladı. 1952'de ilkokulu bitirdikten sonra bir gümüş atölyesinde çalışırken makineye elini kaptırdı ve kangrene çevirince doktorlar kolunu omuz hizasından kesmek zorunda kaldı. Bu kazadan sonra hayatta kalmayı başardı ve Bezciyan Ermeni Ortaokulu'nda eğitime geri döndü. Lise öğrenimini Getronagan Ermeni Lisesi'nde tamamladı. Lise yıllarında futbolla ilgilendi. Mahalli bir futbol takımı olan Samatya Gençler Kulübü kadrosunda yer aldı. Futbola üniversitede de devam etti. 1957'de girdiği İstanbul Tıp Fakültesi'nden 1963'te birincilikle mezun oldu. Kadro bulunmaması nedeniyle 1963-1964 yıllarında İstanbul Tıp Fakültesi Deri Hastalıkları ve Frengi Kliniğinde gönüllü ol",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1065,
+      "end_char": 2065,
+      "content": ". 1957'de girdiği İstanbul Tıp Fakültesi'nden 1963'te birincilikle mezun oldu. Kadro bulunmaması nedeniyle 1963-1964 yıllarında İstanbul Tıp Fakültesi Deri Hastalıkları ve Frengi Kliniğinde gönüllü olarak çalıştı. 1964'te Cerrahpaşa Hastanesi'nin Deri Hastalıkları ve Frengi Kürsüsünün ilk asistanı olarak kadroya alındı. 1967'de \"Dermatitis Herpetiformis\" adlı uzmanlık teziyle deri ve zührevi hastalıklar uzmanı oldu. 1969'da üniversite tarafından Almanya'ya gönderildi. Dört ayda Almanca öğrendi ve Hamburg Saar Üniversitesi Dermatoloji Kliniği'nde çalışmaya başladı. Bu kilinikteki çalışmalarında malign melanomların klinik ve histopatolojik incelemelerine ağırlık verdi. Aynı üniversitenin alerji ve histoloji bölümlerinde de çalıştı. Kliniklerde gösterdiği başarıdan dolayı, Alman Üniversite Kurulunun talebiyle okulda kalma süresi bir yıl daha uzatıldı. 1972'de İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi'ne döndü. Yurda döndükten sonra 1973'te doçent, 1979'da \"Akne Vulgaris Vakalarında İ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 1865,
+      "end_char": 2830,
+      "content": "rulunun talebiyle okulda kalma süresi bir yıl daha uzatıldı. 1972'de İstanbul Üniversitesi Cerrahpaşa Tıp Fakültesi'ne döndü. Yurda döndükten sonra 1973'te doçent, 1979'da \"Akne Vulgaris Vakalarında İmmunolojik Araştırmalar\" adlı teziyle profesör unvanını aldı. Almancadan sonra kendi çabasıyla, Fransızca ve İngilizce öğrendi. 2004'te emekli oluncaya kadar Cerrahpaşa Tıp Fakültesi'nde akademisyenlik yaptı. Cilt hastalıklarıyla ilgili iki kitap ve uluslararası dergilerde üç yüzden fazla makale yayınladı. Dünyanın birçok ülkesinde dersler, konferanslar verdi. Çeşitli ülkelerden gelen teklifleri şu sözlerle reddetti: \"Bir ülkeyi sevmek demek, bu topraklarda geçirdiğin güzel ve iyi günleri sevmek demek değildir. İyi günde ve kötü günde burada olmak, vatanın yanında kalmak, hatta vatan uğruna ölmeyi göze almak demektir.\" 2017 yılına kadar özel muayenehanesinde çalışmaya devam etti. Tedavi gördüğü Cerrahpaşa Tıp Fakültesi Hastanesi'nde 13 Şubat 2018'de öldü.",
+      "char_count": 965,
+      "token_estimate": 241
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Agop Kotoğyan hangi yıl ve nerede doğmuştur?",
+        "answer": "Agop Kotoğyan, 1937 yılında İstanbul'da doğmuştur.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kolsuz Agop lakabıyla tanınan Agop Kotoğyan'ın bir kolunu kaybetme olayının detayları nelerdir ve bu talihsizliğe rağmen tıp eğitimine ve kariyerine nasıl devam etmiştir?",
+        "answer": "Agop Kotoğyan, 1952 yılında ilkokulu bitirdikten sonra bir gümüş atölyesinde çalışırken elini makineye kaptırmış ve kangrene dönüşmesi üzerine kolu omuz hizasından kesilmek zorunda kalmıştır. Bu olayın ardından “Kolsuz Agop” lakabıyla anılmıştır. Bu talihsizliğe rağmen eğitimine Bezciyan Ermeni Ortaokulu ve Getronagan Ermeni Lisesi'nde devam etmiş, 1957'de girdiği İstanbul Tıp Fakültesi'nden 1963'te birincilikle mezun olmuştur. Mezuniyet sonrası gönüllü olarak çalışmış, 1964'te Cerrahpaşa Hastanesi'nde deri hastalıkları asistanı olarak kadroya alınmış, 1967'de uzman olmuş ve 1969'da Almanya'ya gönderilerek kariyerine uluslararası alanda da devam etmiştir. Türkiye'ye döndükten sonra 1973'te doçent, 1979'da ise profesör unvanını almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

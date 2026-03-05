@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "roccacalasciokalesi_16024242",
+    "title": "Rocca Calascio Kalesi",
+    "url": "https://tr.wikipedia.org/wiki/Rocca_Calascio_Kalesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:17.346814",
+    "content": "Rocca Calascio Kalesi (İtalyanca: Castello di Rocca Calascio), İtalya'da Abruzzo bölgesel yönetiminde yer alan L'Aquila ilinde bulunan Calascio belediyesindeki bir zirve kalesi veya rocca olarak da tabir edilen tahkimatlı mevkiidir. Deniz seviyesinden yaklaşık 1.460 metre (4.790 ft) yüksekliğinde yer alan kale Apeninler'deki en yüksek kaledir. Taş ve duvar işçiliğiyle yalnızca askeri amaçlarla inşa edilen ve yalnızca birliklerin barınması için tasarlanan ve hiçbir zaman soyluların ikametgâhı olmayan kale, antik Carapelle Baronluğu'nun en yüksek noktalarından birinde bulunan Navelli Ovası'na bakmaktadır. == Tarihi == Kalenin inşaatı onuncu yüzyılda tek bir gözetleme kulesinin yapımıyla başlamıştır. Kalenin temeli, muhtemelen 1140'taki Norman fethinden sonra inşaatını teşvik eden Altavillalı II. Roger'a kadar uzanır; ancak adından söz eden ilk tarihi belge 1239 yılına, varlığını doğrulayan ilk belge ise 1380 yılına aittir. Bazı kaynaklar yapının daha önceden var olan Roma kökenli bir sur kalıntısı üzerine inşa edilmiş olabileceğine inanmaktadır. On üçüncü yüzyılda, daha uzun bir iç kulenin etrafındaki köşelerde dört silindirik kulenin bulunduğu duvarlarla çevrili bir avlu eklenmiştir. Kalenin alt yarısı, üst yarısına göre belirgin şekilde daha büyük taşlarla inşa edilmiştir. Bu özelliğin özellikle temel kısmını işgalcilere karşı aşılmaz kılmak olduğuna inanılıyor. Ancak, kale hiçbir zaman bir savaşta test edilmemiştir. Yüzyıllar boyunca Pagliara, Colonna, Celano, Caldora, Accrocciamuro, Piccolomini Todeschini, Del Pezzo, Cattaneo, Medici ve Borbone aileleri bu alanda birbirini takip etti; özellikle 1463 yılında Napoli Kralı I. Ferdinand'ın imtiyazı üzerine Kale, yapıyı arnavut kaldırımlı duvarlar ve Ghibelline mazgallı dört silindirik kuleyle donatan Piccolomini ailesinden Antonio Todeschini'ye geçti. Kasım 1461'de, Richter Ölçeğine göre büyüklüğü 7 ila 8 arasında tahmin edilen 1461 L'Aquila depreminde ve daha sonra 14 Ocak 1703 L'Aquila depreminde (6,8 büyüklüğünde) ağır hasar gördü. Kalenin altında bulunan Calascio kasabası yeniden inşa edilirken, stratejik işlevi sona eren kale terkedilmiş durumda kaldı. 1980'lerden itibaren, özellikle 1985'teki Ladyhawke adlı film olmak üzere bazı ortamlarda yer almasının ardından, kalede restorasyon ve sağlamlaştırma çalışmaları yapıldı ve Orta Çağ köyündeki bazı evler kurtarıldı. Rocca Calascio Kalesi, Gran Sasso e Monti della Laga Milli Parkı içinde ve yüksek Campo Imperatore ovasının yanında yer almaktadır. == Santa Maria della Pietà == Kalenin yakınlarında, biraz daha alçakta, on yedinci yüzyılda inşa edilmiş sekizgen bir kilise olan Santa Maria della Pietà bulunmaktadır. == Medyada == 1980 yılında İtalyan Posta İşletmesii, \"Castelli d'Italia\" olarak bilinen koleksiyonun bir parçası olarak Rocca Calascio Kalesi'nin tema alan 50 liret valörlü bir pul tahsis etmiştir. Rocca Calascio Kalesi, Richard Donner'ın Ladyhawke filminin birkaç sahnesinde kullanılmıştır. Gülün Adı ve Amerikalı adlı filmlerin bazı sekansları da burada çekilmiştir. == Galeri == == Kaynakça == == Dış bağlantılar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 413,
+      "char_count": 3078,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.513659",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 611,
+      "content": "Rocca Calascio Kalesi (İtalyanca: Castello di Rocca Calascio), İtalya'da Abruzzo bölgesel yönetiminde yer alan L'Aquila ilinde bulunan Calascio belediyesindeki bir zirve kalesi veya rocca olarak da tabir edilen tahkimatlı mevkiidir. Deniz seviyesinden yaklaşık 1.460 metre (4.790 ft) yüksekliğinde yer alan kale Apeninler'deki en yüksek kaledir. Taş ve duvar işçiliğiyle yalnızca askeri amaçlarla inşa edilen ve yalnızca birliklerin barınması için tasarlanan ve hiçbir zaman soyluların ikametgâhı olmayan kale, antik Carapelle Baronluğu'nun en yüksek noktalarından birinde bulunan Navelli Ovası'na bakmaktadır.",
+      "char_count": 610,
+      "token_estimate": 152
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 611,
+      "end_char": 1611,
+      "content": "== Tarihi == Kalenin inşaatı onuncu yüzyılda tek bir gözetleme kulesinin yapımıyla başlamıştır. Kalenin temeli, muhtemelen 1140'taki Norman fethinden sonra inşaatını teşvik eden Altavillalı II. Roger'a kadar uzanır; ancak adından söz eden ilk tarihi belge 1239 yılına, varlığını doğrulayan ilk belge ise 1380 yılına aittir. Bazı kaynaklar yapının daha önceden var olan Roma kökenli bir sur kalıntısı üzerine inşa edilmiş olabileceğine inanmaktadır. On üçüncü yüzyılda, daha uzun bir iç kulenin etrafındaki köşelerde dört silindirik kulenin bulunduğu duvarlarla çevrili bir avlu eklenmiştir. Kalenin alt yarısı, üst yarısına göre belirgin şekilde daha büyük taşlarla inşa edilmiştir. Bu özelliğin özellikle temel kısmını işgalcilere karşı aşılmaz kılmak olduğuna inanılıyor. Ancak, kale hiçbir zaman bir savaşta test edilmemiştir. Yüzyıllar boyunca Pagliara, Colonna, Celano, Caldora, Accrocciamuro, Piccolomini Todeschini, Del Pezzo, Cattaneo, Medici ve Borbone aileleri bu alanda birbirini takip ett",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1411,
+      "end_char": 2411,
+      "content": "ir savaşta test edilmemiştir. Yüzyıllar boyunca Pagliara, Colonna, Celano, Caldora, Accrocciamuro, Piccolomini Todeschini, Del Pezzo, Cattaneo, Medici ve Borbone aileleri bu alanda birbirini takip etti; özellikle 1463 yılında Napoli Kralı I. Ferdinand'ın imtiyazı üzerine Kale, yapıyı arnavut kaldırımlı duvarlar ve Ghibelline mazgallı dört silindirik kuleyle donatan Piccolomini ailesinden Antonio Todeschini'ye geçti. Kasım 1461'de, Richter Ölçeğine göre büyüklüğü 7 ila 8 arasında tahmin edilen 1461 L'Aquila depreminde ve daha sonra 14 Ocak 1703 L'Aquila depreminde (6,8 büyüklüğünde) ağır hasar gördü. Kalenin altında bulunan Calascio kasabası yeniden inşa edilirken, stratejik işlevi sona eren kale terkedilmiş durumda kaldı. 1980'lerden itibaren, özellikle 1985'teki Ladyhawke adlı film olmak üzere bazı ortamlarda yer almasının ardından, kalede restorasyon ve sağlamlaştırma çalışmaları yapıldı ve Orta Çağ köyündeki bazı evler kurtarıldı. Rocca Calascio Kalesi, Gran Sasso e Monti della Laga",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 2211,
+      "end_char": 2490,
+      "content": "üzere bazı ortamlarda yer almasının ardından, kalede restorasyon ve sağlamlaştırma çalışmaları yapıldı ve Orta Çağ köyündeki bazı evler kurtarıldı. Rocca Calascio Kalesi, Gran Sasso e Monti della Laga Milli Parkı içinde ve yüksek Campo Imperatore ovasının yanında yer almaktadır.",
+      "char_count": 279,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0004",
+      "section": "== Santa Maria della Pietà ==",
+      "heading_path": "== Santa Maria della Pietà ==",
+      "start_char": 2491,
+      "end_char": 2660,
+      "content": "== Santa Maria della Pietà == Kalenin yakınlarında, biraz daha alçakta, on yedinci yüzyılda inşa edilmiş sekizgen bir kilise olan Santa Maria della Pietà bulunmaktadır.",
+      "char_count": 168,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0005",
+      "section": "== Medyada ==",
+      "heading_path": "== Medyada ==",
+      "start_char": 2660,
+      "end_char": 3029,
+      "content": "== Medyada == 1980 yılında İtalyan Posta İşletmesii, \"Castelli d'Italia\" olarak bilinen koleksiyonun bir parçası olarak Rocca Calascio Kalesi'nin tema alan 50 liret valörlü bir pul tahsis etmiştir. Rocca Calascio Kalesi, Richard Donner'ın Ladyhawke filminin birkaç sahnesinde kullanılmıştır. Gülün Adı ve Amerikalı adlı filmlerin bazı sekansları da burada çekilmiştir.",
+      "char_count": 368,
+      "token_estimate": 92
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kalenin inşaatı ne zaman başlamıştır?",
+        "answer": "Onuncu yüzyılda tek bir gözetleme kulesinin yapımıyla.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rocca Calascio Kalesi'nin yalnızca askeri amaçlarla inşa edilmesine ve hiçbir zaman bir savaşta test edilmemesine rağmen, terk edilmesine yol açan ana faktörler nelerdi?",
+        "answer": "Kale, askeri amaçlarla inşa edilmiş olmasına ve hiçbir zaman bir savaşta test edilmemiş olmasına rağmen, 1461 ve 1703 yıllarındaki L'Aquila depremlerinde ağır hasar görmesi nedeniyle stratejik işlevini kaybetmiş ve terk edilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

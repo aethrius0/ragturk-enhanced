@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "smarterphone_8a780d83",
+    "title": "Smarterphone",
+    "url": "https://tr.wikipedia.org/wiki/Smarterphone",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:55.872518",
+    "content": "Smarterphone, Norveçli bir şirket olup, 1993 yılında kurulmuş ve cep telefonları için yazılımlar yapıyor. Aralık 2010'da yeniden adlandırılmadan önce Kvaleberg AS olarak biliniyordu. Scheme ve C++ dillerinde yazıldı. Haziran 2007'de, girişim sermayesi yatırımcısı Ferd, şirkete 2 milyon € yatırım yaptı. Ocak 2010 itibarıyla 3.6 milyon avro daha yatırım yapılmıştır. Nokia, Kasım 2011'e kadar Smarterphone'u satın almayı tamamladı. Daha sonra Mayıs 2013 yılında buna dayalı Nokia Asha platform sistemi sunuldu. Merkezi Norveç, Oslo'da olmakla birlikte, ayrıca Tayvan, Güney Kore, Japonya ve ABD'de ofisleri bulunmaktadır. Smarterphone, mobil telefon Orijinal ürün üreti'leri, Orijinal dizayn imalatçı'ları ve müşteri olarak Chipset (yonga seti) satıcılarıyla telefonlar için mobil yazılım geliştiriyor. Şirket yukarıda belirtilen alanlarda da profesyonel hizmetler sunmaktadır. 2008 yılında şirket Kvaleberg olarak Tizen Ortaklığı'na (eski LiMo Vakfı) katıldı ve 2009 Mobile World Congress'de Compal Electronics ile işbirliği sundular. == Smarterphone sistemi == Şirketin ana ürünü Smarterphone OS'dur ve özellikli telefon segmenti için bağımsız bir tam cep telefonu işletim sistemi ve uygulama paketi sunmaktadır. Daha sonra Mimiria adı verilen daha Smarterphone OS, Şubat 2008'de düzenlenen Mobil Dünya Kongresi'nde ilk kez açıldı ve Kyocera C4700, Vibo T588 ve Madrid LiMo gibi telefonlar için kullanıldı. Smarterphone mimarisi, küçük çaba sarfeden varyasyonların uygulanmasını sağlayan çok sıkı bir model izleme denetleyicisi (Model-View-Controller) tasarımına sahiptir. Smarterphone OS'nin kullanıcı arabirimi, nesne yönelimli programlama olan Scheme'in bir varyantı olan bir betik dili ile programlanır. Smarterphone OS, 2G ve 3G özellikli telefonlar için tam bir kullanıcı arabirimi ve ara katmanı uygulayan bir kullanıcı arabirimi (MMI) yazılım yığını içerir. Ayrıca, Oracle'den Java ME JVM, Obigo'dan mobil tarayıcı, Mobile Messaging Factory'den MMS ve SMS yığını, Nuance Communications ve CooTek'ten akıllı metin girişi, Sinovoice'dan el yazısı tanıması gibi bir dizi üçüncü taraf modülü de entegre edilmiştir. == Kaynakça == == Dış bağlantılar == Resmi sitesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 288,
+      "char_count": 2170,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.165150",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Smarterphone, Norveçli bir şirket olup, 1993 yılında kurulmuş ve cep telefonları için yazılımlar yapıyor. Aralık 2010'da yeniden adlandırılmadan önce Kvaleberg AS olarak biliniyordu. Scheme ve C++ dillerinde yazıldı. Haziran 2007'de, girişim sermayesi yatırımcısı Ferd, şirkete 2 milyon € yatırım yaptı. Ocak 2010 itibarıyla 3.6 milyon avro daha yatırım yapılmıştır. Nokia, Kasım 2011'e kadar Smarterphone'u satın almayı tamamladı. Daha sonra Mayıs 2013 yılında buna dayalı Nokia Asha platform sistemi sunuldu. Merkezi Norveç, Oslo'da olmakla birlikte, ayrıca Tayvan, Güney Kore, Japonya ve ABD'de ofisleri bulunmaktadır. Smarterphone, mobil telefon Orijinal ürün üreti'leri, Orijinal dizayn imalatçı'ları ve müşteri olarak Chipset (yonga seti) satıcılarıyla telefonlar için mobil yazılım geliştiriyor. Şirket yukarıda belirtilen alanlarda da profesyonel hizmetler sunmaktadır. 2008 yılında şirket Kvaleberg olarak Tizen Ortaklığı'na (eski LiMo Vakfı) katıldı ve 2009 Mobile World Congress'de Compal ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1035,
+      "content": "r. Şirket yukarıda belirtilen alanlarda da profesyonel hizmetler sunmaktadır. 2008 yılında şirket Kvaleberg olarak Tizen Ortaklığı'na (eski LiMo Vakfı) katıldı ve 2009 Mobile World Congress'de Compal Electronics ile işbirliği sundular.",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0002",
+      "section": "== Smarterphone sistemi ==",
+      "heading_path": "== Smarterphone sistemi ==",
+      "start_char": 1036,
+      "end_char": 2036,
+      "content": "== Smarterphone sistemi == Şirketin ana ürünü Smarterphone OS'dur ve özellikli telefon segmenti için bağımsız bir tam cep telefonu işletim sistemi ve uygulama paketi sunmaktadır. Daha sonra Mimiria adı verilen daha Smarterphone OS, Şubat 2008'de düzenlenen Mobil Dünya Kongresi'nde ilk kez açıldı ve Kyocera C4700, Vibo T588 ve Madrid LiMo gibi telefonlar için kullanıldı. Smarterphone mimarisi, küçük çaba sarfeden varyasyonların uygulanmasını sağlayan çok sıkı bir model izleme denetleyicisi (Model-View-Controller) tasarımına sahiptir. Smarterphone OS'nin kullanıcı arabirimi, nesne yönelimli programlama olan Scheme'in bir varyantı olan bir betik dili ile programlanır. Smarterphone OS, 2G ve 3G özellikli telefonlar için tam bir kullanıcı arabirimi ve ara katmanı uygulayan bir kullanıcı arabirimi (MMI) yazılım yığını içerir. Ayrıca, Oracle'den Java ME JVM, Obigo'dan mobil tarayıcı, Mobile Messaging Factory'den MMS ve SMS yığını, Nuance Communications ve CooTek'ten akıllı metin girişi, Sinov",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Smarterphone sistemi ==",
+      "heading_path": "== Smarterphone sistemi ==",
+      "start_char": 1836,
+      "end_char": 2120,
+      "content": "mi (MMI) yazılım yığını içerir. Ayrıca, Oracle'den Java ME JVM, Obigo'dan mobil tarayıcı, Mobile Messaging Factory'den MMS ve SMS yığını, Nuance Communications ve CooTek'ten akıllı metin girişi, Sinovoice'dan el yazısı tanıması gibi bir dizi üçüncü taraf modülü de entegre edilmiştir.",
+      "char_count": 284,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2136,
+      "end_char": 2170,
+      "content": "== Dış bağlantılar == Resmi sitesi",
+      "char_count": 34,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Smarterphone, Aralık 2010'da yeniden adlandırılmadan önce hangi isimle biliniyordu?",
+        "answer": "Kvaleberg AS",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Smarterphone şirketinin 2008'deki faaliyetleri, Smarterphone OS'un ilk kez piyasaya sürülmesi ve Tizen Ortaklığı'na katılımı açısından nasıl bir bağlantı taşımaktadır?",
+        "answer": "Smarterphone OS, 2008 Şubat'ta Mobil Dünya Kongresi'nde ilk kez tanıtıldı. Aynı yıl içerisinde şirket, Kvaleberg adıyla Tizen Ortaklığı'na (eski LiMo Vakfı) katıldı ve Smarterphone OS, Madrid LiMo gibi telefonlarda kullanıldı. Bu durum, şirketin OS'nin piyasaya sürülüşü ve LiMo ekosistemiyle olan ilişkisinin 2008 yılında eş zamanlı geliştiğini göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

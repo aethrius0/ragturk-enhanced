@@ -1,0 +1,153 @@
+{
+  "article": {
+    "id": "kuzeybrabant_62224848",
+    "title": "Kuzey Brabant",
+    "url": "https://tr.wikipedia.org/wiki/Kuzey_Brabant",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:42:07.751317",
+    "content": "Kuzey Brabant (Felemenkçe: Noord-Brabant), Hollanda'nın güneyindeki, Belçika ile sınırı bulunan illerinden birisidir. İlin başşehri 's-Hertogenbosch'dur. == Coğrafi konum == Kuzey Brabant ili, batıda Zelanda ili, kuzeybatıda Güney Hollanda ili, kuzeydoğuda Gelderland ili, doğuda Limburg ili ve güneyde Belçika ile sınır komşusudur. Kuzey Brabant'ın yüzölçümü 5082 km² olup, yüzölçümü itibarıyla Hollanda'nın Gelderland ilinden sonra ikinci büyük ilidir. Hollanda'nın çoğu bölgesi gibi Kuzey Brabant ili de düz arazilerle kaplıdır; ancak denize yakın yerlerden farklı olarak, Kuzey Brabant'taki tüm arazi yüzeyi deniz seviyesinin üzerindedir. Bu nedenle, daha alçak Hollanda arazilerine kıyasla, Kuzey Brabant'ta çok sayıda kanal bulunmaz. İlin nüfusunun çoğunluğu kentsel alanlarda yaşamaktadırlar. İldeki toprakların çoğu tarım arazisi olarak kullanılmakta olup ilde birçok köy ve çiftlik bulunmaktadır. Bu kırsal alanlarda orman ve korular, tarımsal olarak işletilemeyen bozkırlar ve kumsal alanlar da bulunmaktadır. İlin kuzeyindeki sınır \"Meuse Nehri\"dir. Bu nehrin güneyinde, bir milli doğa parkı olan Biesbosch ve ıslak delta arazisi bulunmaktadır. == Demografi == Kuzey Brabant'ın nüfusu (Kasım 2019 itibarıyla) 2.562.566 kişidir. == Şehirler == İlin başşehri 's-Hertogenbosch olmakla beraber, ilin en büyük şehri Eindhoven'dir. Diğer önemli şehirler ise Tilburg, Breda ve Helmond'dur. == Belediyeler == Kuzey Brabant ili 62 belediyeye (Felemenkçe: gemeente) bölünmüştür: == Ekonomi == Kuzey Brabant için tarım (tahıl ve şeker pancarı), sanayi (otomotif sanayii, tekstil ve elektronik eşya) ve hizmet sektörü en önemli iş sektörleridir. Kuzey Brabant il idaresi ve büyük şehir yerel idarelerinin iş birliğiyle BrabantStad şehirler ağı kurulmuştur. Bu organizasyonun amacı Kuzey Brabant bölgesini Avrupa arenasında önemli bir bilim merkezi olarak ön plana çıkarmaktır. Nitekim özellikle Eindhoven kentinde ve civarında önemli teknoloji şirketleri yer almaktadır. Philips, ASML ve TomTom bunlardan birkaçıdır. 20. yüzyılda turizm Kuzey Brabant ilinin önemli sektörlerinden biri olmuştur. İl, güzellikleriyle bilinen ormanları, koruları ve şehirlerinin turist çeken cazibe merkezleriyle tanınmaktadır. İlin bir diğer turistik cazibe merkezi, Kaatsheuvel'de bulunan ve Benelüks ülkelerindeki en büyük tema parkı olan 'Efteling'dir. == Eğitim == Eindhoven kentinde Einhoven Teknik Üniversitesi, Tilburg'ta ise, en önemlileri hukuk ve iktisadi ve idari bilimler fakülteleri olmak üzere, 5 fakülteli Tilburg Üniversitesi bulunmaktadır. == Kaynakça == == Ayrıca bakınız == 's-Hertogenbosch == Diș bağlantılar == İl'in resmi websitesi7 Nisan 2008 tarihinde Wayback Machine sitesinde arşivlendi. (Felemenkçe) Brabant'a yabancı yatırımcı kılavuzu 4 Mart 2012 tarihinde Wayback Machine sitesinde arşivlendi. Kuzey Brabant ve Delta bölgesinde sellerden koruma için imar ialeri \"Deltaworks Online\" websitesi16 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Kuzey Brabant ile Meierij bolgesi icin turist enformasyonu 3 Mayıs 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 400,
+      "char_count": 3084,
+      "num_chunks": 10,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.168924",
+    "total_chunks": 10,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 154,
+      "content": "Kuzey Brabant (Felemenkçe: Noord-Brabant), Hollanda'nın güneyindeki, Belçika ile sınırı bulunan illerinden birisidir. İlin başşehri 's-Hertogenbosch'dur.",
+      "char_count": 153,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafi konum ==",
+      "heading_path": "== Coğrafi konum ==",
+      "start_char": 154,
+      "end_char": 1154,
+      "content": "== Coğrafi konum == Kuzey Brabant ili, batıda Zelanda ili, kuzeybatıda Güney Hollanda ili, kuzeydoğuda Gelderland ili, doğuda Limburg ili ve güneyde Belçika ile sınır komşusudur. Kuzey Brabant'ın yüzölçümü 5082 km² olup, yüzölçümü itibarıyla Hollanda'nın Gelderland ilinden sonra ikinci büyük ilidir. Hollanda'nın çoğu bölgesi gibi Kuzey Brabant ili de düz arazilerle kaplıdır; ancak denize yakın yerlerden farklı olarak, Kuzey Brabant'taki tüm arazi yüzeyi deniz seviyesinin üzerindedir. Bu nedenle, daha alçak Hollanda arazilerine kıyasla, Kuzey Brabant'ta çok sayıda kanal bulunmaz. İlin nüfusunun çoğunluğu kentsel alanlarda yaşamaktadırlar. İldeki toprakların çoğu tarım arazisi olarak kullanılmakta olup ilde birçok köy ve çiftlik bulunmaktadır. Bu kırsal alanlarda orman ve korular, tarımsal olarak işletilemeyen bozkırlar ve kumsal alanlar da bulunmaktadır. İlin kuzeyindeki sınır \"Meuse Nehri\"dir. Bu nehrin güneyinde, bir milli doğa parkı olan Biesbosch ve ıslak delta arazisi bulunmaktadır",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafi konum ==",
+      "heading_path": "== Coğrafi konum ==",
+      "start_char": 954,
+      "end_char": 1155,
+      "content": "larak işletilemeyen bozkırlar ve kumsal alanlar da bulunmaktadır. İlin kuzeyindeki sınır \"Meuse Nehri\"dir. Bu nehrin güneyinde, bir milli doğa parkı olan Biesbosch ve ıslak delta arazisi bulunmaktadır.",
+      "char_count": 201,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0003",
+      "section": "== Demografi ==",
+      "heading_path": "== Demografi ==",
+      "start_char": 1156,
+      "end_char": 1239,
+      "content": "== Demografi == Kuzey Brabant'ın nüfusu (Kasım 2019 itibarıyla) 2.562.566 kişidir.",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0004",
+      "section": "== Şehirler ==",
+      "heading_path": "== Şehirler ==",
+      "start_char": 1239,
+      "end_char": 1394,
+      "content": "== Şehirler == İlin başşehri 's-Hertogenbosch olmakla beraber, ilin en büyük şehri Eindhoven'dir. Diğer önemli şehirler ise Tilburg, Breda ve Helmond'dur.",
+      "char_count": 154,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0005",
+      "section": "== Belediyeler ==",
+      "heading_path": "== Belediyeler ==",
+      "start_char": 1394,
+      "end_char": 1480,
+      "content": "== Belediyeler == Kuzey Brabant ili 62 belediyeye (Felemenkçe: gemeente) bölünmüştür:",
+      "char_count": 85,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0006",
+      "section": "== Ekonomi ==",
+      "heading_path": "== Ekonomi ==",
+      "start_char": 1480,
+      "end_char": 2336,
+      "content": "== Ekonomi == Kuzey Brabant için tarım (tahıl ve şeker pancarı), sanayi (otomotif sanayii, tekstil ve elektronik eşya) ve hizmet sektörü en önemli iş sektörleridir. Kuzey Brabant il idaresi ve büyük şehir yerel idarelerinin iş birliğiyle BrabantStad şehirler ağı kurulmuştur. Bu organizasyonun amacı Kuzey Brabant bölgesini Avrupa arenasında önemli bir bilim merkezi olarak ön plana çıkarmaktır. Nitekim özellikle Eindhoven kentinde ve civarında önemli teknoloji şirketleri yer almaktadır. Philips, ASML ve TomTom bunlardan birkaçıdır. 20. yüzyılda turizm Kuzey Brabant ilinin önemli sektörlerinden biri olmuştur. İl, güzellikleriyle bilinen ormanları, koruları ve şehirlerinin turist çeken cazibe merkezleriyle tanınmaktadır. İlin bir diğer turistik cazibe merkezi, Kaatsheuvel'de bulunan ve Benelüks ülkelerindeki en büyük tema parkı olan 'Efteling'dir.",
+      "char_count": 855,
+      "token_estimate": 213
+    },
+    {
+      "id": "c0007",
+      "section": "== Eğitim ==",
+      "heading_path": "== Eğitim ==",
+      "start_char": 2336,
+      "end_char": 2537,
+      "content": "== Eğitim == Eindhoven kentinde Einhoven Teknik Üniversitesi, Tilburg'ta ise, en önemlileri hukuk ve iktisadi ve idari bilimler fakülteleri olmak üzere, 5 fakülteli Tilburg Üniversitesi bulunmaktadır.",
+      "char_count": 200,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0008",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2552,
+      "end_char": 2590,
+      "content": "== Ayrıca bakınız == 's-Hertogenbosch",
+      "char_count": 37,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0009",
+      "section": "== Diș bağlantılar ==",
+      "heading_path": "== Diș bağlantılar ==",
+      "start_char": 2590,
+      "end_char": 3084,
+      "content": "== Diș bağlantılar == İl'in resmi websitesi7 Nisan 2008 tarihinde Wayback Machine sitesinde arşivlendi. (Felemenkçe) Brabant'a yabancı yatırımcı kılavuzu 4 Mart 2012 tarihinde Wayback Machine sitesinde arşivlendi. Kuzey Brabant ve Delta bölgesinde sellerden koruma için imar ialeri \"Deltaworks Online\" websitesi16 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi. Kuzey Brabant ile Meierij bolgesi icin turist enformasyonu 3 Mayıs 2012 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 494,
+      "token_estimate": 123
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kuzey Brabant ili kaç kilometrekare yüzölçümüne sahiptir?",
+        "answer": "5082 km²",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kuzey Brabant ilinin Hollanda'daki coğrafi konumu, komşu olduğu ülke ve diğer Hollanda illeri ile olan sınırları ve yüzölçümü itibarıyla Hollanda içindeki sıralaması nedir?",
+        "answer": "Kuzey Brabant, Hollanda'nın güneyinde yer alır ve batıda Zelanda, kuzeybatıda Güney Hollanda, kuzeydoğuda Gelderland, doğuda Limburg illeri ile ve güneyde Belçika ile sınır komşusudur. Yüzölçümü 5082 km² olup, Hollanda'nın Gelderland ilinden sonra ikinci büyük ilidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

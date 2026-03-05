@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "womeninred_8d63c846",
+    "title": "Women in Red",
+    "url": "https://tr.wikipedia.org/wiki/Women_in_Red",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:15.609763",
+    "content": "Kırmızılı Kadınlar, cinsiyet konusunda Vikipedi içeriklerinde görülen taraflılığı ele alan bir VikiProjesidir. Proje, kadın biyografileri, kadın çalışmaları ve kadın sorunları ile ilgili içerik oluşturmaya odaklanıyor. Proje, adını Vikipedi'deki henüz oluşturulmayan maddelerin hyperlinklerinin kırmızı olarak işaretlenmesinden almıştır. == Tarih == Kırmızılı Kadınlar, 2015 yılında gönüllü Vikipedi editörü Roger Bamkin tarafından tasarlandı ve gönüllü editör Rosie Stephenson-Goodknight kısa bir süre sonra ona katıldı. Bamkin başlangıçta proje için \"Project XX\" adını düşünmüştü, ancak bu isim hızla WikiProject Women in Red lehine rafa kaldırıldı. Proje çalışmaya başladıktan sonra gönüllü editör Emily Temple-Wood projeye katıldı. Projedeki özelliği, birileri gönüllü düzenleme çabaları hakkında onu her taciz ettiğinde farklı bir kadın bilim insanı hakkında bir Vikipedi makalesi oluşturması. İtalya, Esino Lario'da düzenlenen Wikimania 2016'da, 2001'de Vikipedi'yi kuranlardan Jimmy Wales, Stephenson-Goodknight ve Temple-Wood'u önceki 12 ay boyunca cinsiyet uçurumunu kapatma çabalarının sonucunda Yılın Vikipedistleri olarak adlandırdı. == Yöntemler == Kırmızılı Kadınlar, dünyanın dört bir yanındaki şehirlerde Vikimaraton'larını düzenler ve sürekli olarak sanal bir Vikimaraton'a ev sahipliği yapar. Tüm gün süren bire bir düzenleme etkinlikleri, Vikipedi'deki cinsiyet farkının azalması ve Vikipedi'deki kayda değerlik kriterine uyan kadınlar hakkında daha fazla içerik içermesi için yeni katkıda bulunanları eğitmek için yürütülen etkinliklerdir. Projenin bir diğer hedefi ise kadın editör sayısını artırmak, çünkü Vikipedi'nin \"herkesin düzenleyebileceği özgür ansiklopedi\" iddiasına rağmen, 2015 itibarıyla editörlerin sadece yüzde 10'u kadındı. Kırmızılı Kadınlar katılımcıları, kırmızı bağlantılı makalelerden oluşan 150 çalışma listesinin derlenmesine öncülük ederek eksik makalelerin bulunmasını ve oluşturulmasını sağlarlar. 22 Aralık 2016 itibarıyla, Kırmızılı Kadınlar gönüllü editörleri 45.000'den fazla makale eklediler. Eklenen makalelerin sayısı hesaplandığında İngilizce biyografilerin yüzdesinin Temmuz 2015'teki yüzde 15'ten az bir artış göstererek 16,8'e yükseldiği görülüyor. == Ödüller ve onurlar == 2016, kısa listeye alındı, ITU/UN Women's GEM-TECH Award (kategori: Apply Technology for Women's Powerment and Digital Inclusion) == Ayrıca bakınız == Sanat+Feminizm == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 293,
+      "char_count": 2412,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.852171",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 338,
+      "content": "Kırmızılı Kadınlar, cinsiyet konusunda Vikipedi içeriklerinde görülen taraflılığı ele alan bir VikiProjesidir. Proje, kadın biyografileri, kadın çalışmaları ve kadın sorunları ile ilgili içerik oluşturmaya odaklanıyor. Proje, adını Vikipedi'deki henüz oluşturulmayan maddelerin hyperlinklerinin kırmızı olarak işaretlenmesinden almıştır.",
+      "char_count": 337,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 338,
+      "end_char": 1146,
+      "content": "== Tarih == Kırmızılı Kadınlar, 2015 yılında gönüllü Vikipedi editörü Roger Bamkin tarafından tasarlandı ve gönüllü editör Rosie Stephenson-Goodknight kısa bir süre sonra ona katıldı. Bamkin başlangıçta proje için \"Project XX\" adını düşünmüştü, ancak bu isim hızla WikiProject Women in Red lehine rafa kaldırıldı. Proje çalışmaya başladıktan sonra gönüllü editör Emily Temple-Wood projeye katıldı. Projedeki özelliği, birileri gönüllü düzenleme çabaları hakkında onu her taciz ettiğinde farklı bir kadın bilim insanı hakkında bir Vikipedi makalesi oluşturması. İtalya, Esino Lario'da düzenlenen Wikimania 2016'da, 2001'de Vikipedi'yi kuranlardan Jimmy Wales, Stephenson-Goodknight ve Temple-Wood'u önceki 12 ay boyunca cinsiyet uçurumunu kapatma çabalarının sonucunda Yılın Vikipedistleri olarak adlandırdı.",
+      "char_count": 807,
+      "token_estimate": 201
+    },
+    {
+      "id": "c0002",
+      "section": "== Yöntemler ==",
+      "heading_path": "== Yöntemler ==",
+      "start_char": 1146,
+      "end_char": 2146,
+      "content": "== Yöntemler == Kırmızılı Kadınlar, dünyanın dört bir yanındaki şehirlerde Vikimaraton'larını düzenler ve sürekli olarak sanal bir Vikimaraton'a ev sahipliği yapar. Tüm gün süren bire bir düzenleme etkinlikleri, Vikipedi'deki cinsiyet farkının azalması ve Vikipedi'deki kayda değerlik kriterine uyan kadınlar hakkında daha fazla içerik içermesi için yeni katkıda bulunanları eğitmek için yürütülen etkinliklerdir. Projenin bir diğer hedefi ise kadın editör sayısını artırmak, çünkü Vikipedi'nin \"herkesin düzenleyebileceği özgür ansiklopedi\" iddiasına rağmen, 2015 itibarıyla editörlerin sadece yüzde 10'u kadındı. Kırmızılı Kadınlar katılımcıları, kırmızı bağlantılı makalelerden oluşan 150 çalışma listesinin derlenmesine öncülük ederek eksik makalelerin bulunmasını ve oluşturulmasını sağlarlar. 22 Aralık 2016 itibarıyla, Kırmızılı Kadınlar gönüllü editörleri 45.000'den fazla makale eklediler. Eklenen makalelerin sayısı hesaplandığında İngilizce biyografilerin yüzdesinin Temmuz 2015'teki yüzde",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Yöntemler ==",
+      "heading_path": "== Yöntemler ==",
+      "start_char": 1946,
+      "end_char": 2206,
+      "content": "2 Aralık 2016 itibarıyla, Kırmızılı Kadınlar gönüllü editörleri 45.000'den fazla makale eklediler. Eklenen makalelerin sayısı hesaplandığında İngilizce biyografilerin yüzdesinin Temmuz 2015'teki yüzde 15'ten az bir artış göstererek 16,8'e yükseldiği görülüyor.",
+      "char_count": 260,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0004",
+      "section": "== Ödüller ve onurlar ==",
+      "heading_path": "== Ödüller ve onurlar ==",
+      "start_char": 2207,
+      "end_char": 2362,
+      "content": "== Ödüller ve onurlar == 2016, kısa listeye alındı, ITU/UN Women's GEM-TECH Award (kategori: Apply Technology for Women's Powerment and Digital Inclusion)",
+      "char_count": 154,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2362,
+      "end_char": 2398,
+      "content": "== Ayrıca bakınız == Sanat+Feminizm",
+      "char_count": 35,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2015 itibarıyla Vikipedi editörlerinin yüzde kaçı kadındı?",
+        "answer": "Yüzde 10'u.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kırmızılı Kadınlar projesi, Vikipedi'deki cinsiyet yanlılığını giderme hedefini gerçekleştirmek için hangi temel yöntemleri uygular ve bu çabalar hangi önemli sonuçları doğurmuştur?",
+        "answer": "Kırmızılı Kadınlar projesi, Vikipedi'deki cinsiyet yanlılığını ele almak ve kadın biyografileri, kadın çalışmaları ve kadın sorunları ile ilgili içerik oluşturmak amacıyla Vikimaratonlar düzenleyerek yeni katkıda bulunanları eğitir. Ayrıca, kadın editör sayısını artırmayı ve kırmızı bağlantılı eksik makalelerin bulunup oluşturulmasını sağlayan çalışma listeleri derlemeyi hedefler. Bu çabaların sonucu olarak, 2016 yılı sonu itibarıyla 45.000'den fazla makale eklenmiş ve projenin kurucu ortaklarından Rosie Stephenson-Goodknight ile Emily Temple-Wood, cinsiyet uçurumunu kapatma konusundaki başarılarından dolayı Yılın Vikipedistleri olarak tanınmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

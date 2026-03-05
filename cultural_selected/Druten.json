@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "druten_fdddc09d",
+    "title": "Druten",
+    "url": "https://tr.wikipedia.org/wiki/Druten",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:51.761128",
+    "content": "Druten, Hollanda'nın Gelderland ilinde yer alan bir belediye ve kasabadır. Ülkenin doğusunda, Waal Nehri yakınlarında konumlanmıştır. Druten, özellikle kırsal yapısı, doğal güzellikleri ve tarihi yapıları ile tanınır. == Coğrafya ve yerleşim == Bölge, tarım arazileri ve nehir manzaralarıyla dikkat çeker. Nijmegen şehrine yakınlığı sayesinde, şehirle kırsal arasında bir geçiş noktası görevi görür. === Yerleşimler === == Nüfusu == Druten'in nüfusu yaklaşık olarak 19.748 civarındadır (2025 verilerine göre). Kasaba, huzurlu yaşam tarzı ve aile dostu ortamıyla tanınır. == Tarihçe == Druten, Orta Çağ'dan bu yana yerleşim yeri olarak kullanılmaktadır. Bölgedeki bazı kilise ve yapılar, tarihi 14. yüzyıla kadar uzanan mimari özellikler taşır. Belediye, modernleşme sürecine rağmen tarihi dokusunu korumayı başarmıştır. == Ekonomisi == Druten'in ekonomisi tarım, küçük ölçekli işletmeler ve hizmet sektörüne dayanır. Seracılık, meyvecilik ve yerel ticaret önemli yer tutar. Ayrıca çevredeki büyük şehirlere olan ulaşım kolaylığı, bölge halkının şehir dışı istihdama yönelmesini sağlar. Turizm ve sürdürülebilir yerel girişimler de ekonomiye katkı sunar. == Kültür ve etkinlikler == Kasaba, yıl boyunca çeşitli kültürel etkinlikler ve festivallere ev sahipliği yapar. Yerel pazarlarda organik ürünler ve el işleri sıkça bulunur. Ayrıca, çevredeki doğal alanlar yürüyüş ve bisiklet turları için uygundur. == Gezilecek yerler == Sint-Andreas Kilisesi (Sint-Andreas Kerk): Druten'in merkezinde yer alan bu tarihi kilise, 14. yüzyıla uzanan geçmişi ve gotik mimarisi ile dikkat çeker. Waalbandijk (Waal Nehir Kıyısı): Waal Nehri boyunca uzanan bu kıyı yolu, yürüyüş ve bisiklet sürüşü için idealdir. Nehir manzarası ile huzurlu bir atmosfer sunar. Doddendael Kalesi (Kasteel Doddendael): Druten'e yakın Ewijk köyünde yer alan bu 14. yüzyıl şatosu, hem tarihi hem de gastronomik bir deneyim sunar. Deest Seramik Müzesi (Keramiekmuseum Deest): Yakın köy Deest'te bulunan bu müze, bölgenin geleneksel seramik sanatına dair örnekler sunar. Drutens Bos (Druten Ormanı): Doğa yürüyüşü, piknik ve kuş gözlemi için ideal bir alandır. Özellikle yaz aylarında yoğun ilgi görür. == Ulaşım == Druten, demiryolu hattı bulunmayan bir kasaba olmasına rağmen güçlü bir kara yolu ve otobüs ağına sahiptir. Toplu taşıma ile Nijmegen, Tiel, Oss ve çevre yerleşimlerle düzenli otobüs seferleri sağlanmaktadır. Bisiklet kullanımı oldukça yaygındır ve kapsamlı bisiklet yolları mevcuttur. Şehre özel araçlarla ulaşım da kolaydır; A15 ve A50 otobanlarına yakınlığı sayesinde bölgesel erişim avantajına sahiptir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 357,
+      "char_count": 2598,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.817725",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 218,
+      "content": "Druten, Hollanda'nın Gelderland ilinde yer alan bir belediye ve kasabadır. Ülkenin doğusunda, Waal Nehri yakınlarında konumlanmıştır. Druten, özellikle kırsal yapısı, doğal güzellikleri ve tarihi yapıları ile tanınır.",
+      "char_count": 217,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ve yerleşim ==",
+      "heading_path": "== Coğrafya ve yerleşim ==",
+      "start_char": 218,
+      "end_char": 400,
+      "content": "== Coğrafya ve yerleşim == Bölge, tarım arazileri ve nehir manzaralarıyla dikkat çeker. Nijmegen şehrine yakınlığı sayesinde, şehirle kırsal arasında bir geçiş noktası görevi görür.",
+      "char_count": 181,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0002",
+      "section": "== Nüfusu ==",
+      "heading_path": "== Nüfusu ==",
+      "start_char": 420,
+      "end_char": 571,
+      "content": "== Nüfusu == Druten'in nüfusu yaklaşık olarak 19.748 civarındadır (2025 verilerine göre). Kasaba, huzurlu yaşam tarzı ve aile dostu ortamıyla tanınır.",
+      "char_count": 150,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 571,
+      "end_char": 820,
+      "content": "== Tarihçe == Druten, Orta Çağ'dan bu yana yerleşim yeri olarak kullanılmaktadır. Bölgedeki bazı kilise ve yapılar, tarihi 14. yüzyıla kadar uzanan mimari özellikler taşır. Belediye, modernleşme sürecine rağmen tarihi dokusunu korumayı başarmıştır.",
+      "char_count": 248,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0004",
+      "section": "== Ekonomisi ==",
+      "heading_path": "== Ekonomisi ==",
+      "start_char": 820,
+      "end_char": 1154,
+      "content": "== Ekonomisi == Druten'in ekonomisi tarım, küçük ölçekli işletmeler ve hizmet sektörüne dayanır. Seracılık, meyvecilik ve yerel ticaret önemli yer tutar. Ayrıca çevredeki büyük şehirlere olan ulaşım kolaylığı, bölge halkının şehir dışı istihdama yönelmesini sağlar. Turizm ve sürdürülebilir yerel girişimler de ekonomiye katkı sunar.",
+      "char_count": 333,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0005",
+      "section": "== Kültür ve etkinlikler ==",
+      "heading_path": "== Kültür ve etkinlikler ==",
+      "start_char": 1154,
+      "end_char": 1403,
+      "content": "== Kültür ve etkinlikler == Kasaba, yıl boyunca çeşitli kültürel etkinlikler ve festivallere ev sahipliği yapar. Yerel pazarlarda organik ürünler ve el işleri sıkça bulunur. Ayrıca, çevredeki doğal alanlar yürüyüş ve bisiklet turları için uygundur.",
+      "char_count": 248,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0006",
+      "section": "== Gezilecek yerler ==",
+      "heading_path": "== Gezilecek yerler ==",
+      "start_char": 1403,
+      "end_char": 2163,
+      "content": "== Gezilecek yerler == Sint-Andreas Kilisesi (Sint-Andreas Kerk): Druten'in merkezinde yer alan bu tarihi kilise, 14. yüzyıla uzanan geçmişi ve gotik mimarisi ile dikkat çeker. Waalbandijk (Waal Nehir Kıyısı): Waal Nehri boyunca uzanan bu kıyı yolu, yürüyüş ve bisiklet sürüşü için idealdir. Nehir manzarası ile huzurlu bir atmosfer sunar. Doddendael Kalesi (Kasteel Doddendael): Druten'e yakın Ewijk köyünde yer alan bu 14. yüzyıl şatosu, hem tarihi hem de gastronomik bir deneyim sunar. Deest Seramik Müzesi (Keramiekmuseum Deest): Yakın köy Deest'te bulunan bu müze, bölgenin geleneksel seramik sanatına dair örnekler sunar. Drutens Bos (Druten Ormanı): Doğa yürüyüşü, piknik ve kuş gözlemi için ideal bir alandır. Özellikle yaz aylarında yoğun ilgi görür.",
+      "char_count": 759,
+      "token_estimate": 189
+    },
+    {
+      "id": "c0007",
+      "section": "== Ulaşım ==",
+      "heading_path": "== Ulaşım ==",
+      "start_char": 2163,
+      "end_char": 2584,
+      "content": "== Ulaşım == Druten, demiryolu hattı bulunmayan bir kasaba olmasına rağmen güçlü bir kara yolu ve otobüs ağına sahiptir. Toplu taşıma ile Nijmegen, Tiel, Oss ve çevre yerleşimlerle düzenli otobüs seferleri sağlanmaktadır. Bisiklet kullanımı oldukça yaygındır ve kapsamlı bisiklet yolları mevcuttur. Şehre özel araçlarla ulaşım da kolaydır; A15 ve A50 otobanlarına yakınlığı sayesinde bölgesel erişim avantajına sahiptir.",
+      "char_count": 420,
+      "token_estimate": 105
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sint-Andreas Kilisesi hangi yüzyıla uzanan bir geçmişe sahiptir?",
+        "answer": "14. yüzyıla",
+        "related_chunk_ids": [
+          "c0006"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hollanda'nın doğusunda, Waal Nehri yakınlarındaki konumu ve coğrafi özellikleri Druten bölgesinin yapısını ve işlevini nasıl etkilemektedir?",
+        "answer": "Druten'in Waal Nehri yakınlarındaki doğu Hollanda'daki konumu ve coğrafi özellikleri, bölgenin kırsal yapısını, doğal güzelliklerini, tarım arazilerini ve nehir manzaralarını şekillendirir. Ayrıca, Nijmegen şehrine yakınlığı sayesinde şehirle kırsal arasında bir geçiş noktası işlevi görür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

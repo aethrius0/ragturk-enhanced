@@ -1,0 +1,204 @@
+{
+  "article": {
+    "id": "gnuclibrary_c6f8a4b5",
+    "title": "GNU C Library",
+    "url": "https://tr.wikipedia.org/wiki/GNU_C_Library",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:23.833496",
+    "content": "GNU C Library (Türkçe: GNU C Kütüphanesi), bilinen adıyla glibc, GNU Tasarısı'nın C standart kütüphanesi uyarlamasıdır. Adına rağmen artık doğrudan C++ (ve dolaylı olarak diğer programlama dilleri) desteği bulunur. 1990'ların başında Özgür Yazılım Vakfı tarafından GNU işletim sistemi için geliştirilmeye başlanmıştır. GNU Kısıtlı Genel Kamu Lisansı altında dağıtılmıştır, glibc bir özgür yazılımdır. == Tarihçe == Glibc tasarısı ilkin daha çok Roland McGrath tarafından yazıldı, 1980'lerde Özgür Yazılım Vakfı için çalışmaktaydı. Şubat 1988'de Özgür Yazılım Vakfı ANSI C'nin gereksindiği işlevselliğe neredeyse ulaştığını açıklamıştır. 1992'de ANSI C-1989 ve POSIX.1-1990 işlevleri yerine getirilmiş, çalışma POSIX.2 yoluna girmiştir. Eylül 1995'te Ulrich Drepper glibc tasarısına ilk katkısını yaptı ve gitgide glibc'nin 1990'lardaki ana katkıcısı ve bakımcısı oldu. Drepper uzun yıllar bakımcılık mevkiinde tutuldu ve 2012'ye kadar tasarıya yapılan katkıların toplam %63'ünü kendisine aittir. === \"Linux libc\" çatalı === 1990 başlarında Linux çekirdeği geliştiricileri glibc'yi çatalladılar. Çatallamalarını \"Linux libc\" olarak adlandırdılar, yıllarca ayrı olarak geliştirildi ve sürüm 2'den 5'e kadar dağıtıldı. Özgür Yazılım Vakfı Ocak 1997'de glibc 2.0'ı dağıttığında POSIX ölçünlerine uygunluğu daha fazlaydı, daha iyi yerelleştirmeye ve çoklu dil işlevine, IPv6 yeterliliğine, 64-bit veri erişimine, çok iş parçacıklı uygulamalar için olanaklara, gelecek sürüm uyumluluğuna ve kodun daha fazla taşınabilirliğine sahipti. Bu noktada, Linux çekirdeği geliştiricileri çatallamalarını durdurdular ve Özgür Yazılım Vakfı'nın glibc'sine döndüler. Linux libc'nin kullanılan son sürümü libc.so.5 iç adını (soname) kullanmıştır. Bundan hareketle Linux üzerinde glibc 2.x sürümleri libc.so.6 iç adını kullanmıştır (Alfa ve IA-64 mimarileri şimdi libc.so.6.1 adını kullanmaktadır). Kütüphaneler için sıradan teammülleri takiben *.so dosya ismi bazen libc6 olarak kısaltılmıştır (örneğin Debian'daki paket ismi). Richard Stallman'a göre Linux libc'de yapılan değişiklikler glibc'yle birleştirilemezdi çünkü kodun yazarlık durumu açık değildi ve GNU tasarısı telif ve yazarların kaydedilmesi hakkında katı davranışlıdır. === Yönlendirme kurulu kurulması === 2001'den başlayarak kütüphanenin gelişimi bir kurul tarafından denetlenmiştir, Ulrich Drepper ana katkıcı ve bakımcı olarak kaldı. Ulrich Drepper'in açıkça belirttiği gibi yönlendirme kurulu kurulması toplum karşıtlığıyla çevrilmiştir, ona göre bu kurul RMS'nin başarısız yönetimi devralma girişimidir. === Git'e geçiş === Önceleri CVS deposunda olan glibc 2009'da Sourceware'deki Git deposuna geçirilmiştir. === Debian EGLIBC'ye geçiyor ve dönüyor === Drepper'in liderlik şekli ve dış katkı kabulu üzerinde süren uzun tartışmalar etrafında Debian 2009'da resmen glibc'nin çatalı EGLIBC'ye geçmiştir. Nisan 2015'te Debian 8.0 (Jessie) ile birlikte geri dönmüştür. === Yönlendirme kurulunun dağılması === Mart 2012'de yönlendirme kurulu oylamayla kendini dağıtmış ve topluluk odaklı geliştirme süreci adına Drepper'i görevden almış, Ryan Arnold, Maxim Kuvyrkov, Joseph Myers, Carlos O'Donnel ve Alexandre Oliva GNU bakımcılığıyla görevlendirilmiştir (ama ilave karar alıcı güçleri olmadan). glibc bakımcılığında yaşanan değişikliklerden sonra Debian ve diğer tasarılar glibc'ye geri döndüler. Ayrıca, 2014 başından beri glibc çatalı EGLIBC artık geliştirilmemektedir, bunun sebebi \"hedeflere artık doğrudan GLIBC'nin içinde ulaşılmış\" olmasıdır. == İşlevsellik == glibc Single UNIX Specification (Türkçe: Tek UNIX Tarifnamesi) ve POSIX'in (1c, 1d ve 1j) gerektirdiği işlevselliği karşılamaktadır. ISO C11, ISO C99, Berkeley Unix (BSD) arayüzlerinin, System V Interface Definition'un (Türkçe: System V Arayüz Tanımı) ve X/Open System Interface (Türkçe: X/Open Düzen Arayüzü) uyumlu düzenlerin yanında tüm X/Open UNIX eklentilerine ortak tüm eklentilerle X/Open Portability Guide Issue 4.2'nin (Türkçe: X/Open Taşınabilirlik Kılavuzu Sayı 4.2) gerektirdiği bazı işlevsellikleri karşılamaktadır. Ek olarak, glibc ayrıca GNU ile geliştirme yapılırken kullanışlı ya da gerekli addedilmiş eklentileri de karşılamaktadır. === Desteklenen donanım ve çekirdekler === Glibc değişik çekirdeklerin ve değişik donanım mimarilerin çalıştırdığı birçok düzende kullanılmıştır. En yaygın kullanımı x86 donanım üzerinde Linux çekirdeğiyle birliktedir, yine de resmi olarak desteklenen donanımlar şunlardır: 32-bit ARM ve yeni 64-bit ISA (AArch64), DEC Alpha, PA-RISC, IA-64, Motorola m68k, MicroBlaze, MIPS, Nios II, PowerPC, s390, SPARC, TILE, x86. Resmi olarak Hurd ve Linux çekirdeklerini destekler. Ek olarak FreeBSD ve NetBSD (Debian GNU/kFreeBSD ve Debian GNU/NetBSD düzenlerinin kurulu olduğu) çekirdeklerde, OpenSolaris'in çatal sürümünde çalışan yüksek miktarda yama içeren sürümleri de vardır. Ayrıca BeOS ve Haiku'da libroot.so olarak adlandırılmış ve (düzenlenmiş biçimde) kullanılmıştır. === Küçük aygıtlarda kullanım === Geçmişte Linus Torvalds ve gömülü Linux yazılımcıları glibc'nin diğer kütüphanelerden yavaş ve \"şişirilmiş\" olduğu yönünde eleştirmiştir. Bu sebeple çeşitli farklı, daha küçük izdüşüme sahip C standart kütüphaneleri oluşturuldu. Farklı libc'ler şunlardır: Bionic (çoğunlukla BSD'deki libc'yi taban aldı ve Android'de kullanıldı), dietlibc, uClibc, Newlib, Klibc ve musl. Yine de çoğu küçük aygıt tasarısı diğerlerine karşılık GNU libc'yi kullandı. Bunun sebebi uygulama desteği, standartlara uyumu ve eksiksiz olduğu içindir. Bu küçük aygıt tasarılarına örnek olarak Openmoko ve (GPE görüntü yazılımı kullanılırken) iPaq el bilgisayarı için Familiar Linux verilebilir. == Farklı seçenekler == GNU C Library'den farklı diğer C standart kütüphaneler şunlardır: Bionic libc, dietlibc, EGLIBC, klibc, musl, Newlib ve uClibc. == Uyumluluk katmanları == Google'ın Android'i ve Microsoft'un Windows'u gibi diğer çevre-dizgeler için yazılacak programların glibc üzerinde çalışmalarını sağlayan uyumluluk katmanları (\"shim'ler\") vardır. libhybris Android'in Bionic'i için bir uyumluluk katmanıdır. Wine da Win32 API/ABI'den glibc'ye uyumluluk katmanı olarak görülebilir. == Ayrıca bakınız == Gnulib Linux kernel API == Kaynakça == == Dış bağlantılar == GNU libc ana sayfası22 Nisan 2016 tarihinde Wayback Machine sitesinde arşivlendi. GNU libc geliştiriciler sayfası3 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 812,
+      "char_count": 6387,
+      "num_chunks": 15,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.860558",
+    "total_chunks": 15,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 401,
+      "content": "GNU C Library (Türkçe: GNU C Kütüphanesi), bilinen adıyla glibc, GNU Tasarısı'nın C standart kütüphanesi uyarlamasıdır. Adına rağmen artık doğrudan C++ (ve dolaylı olarak diğer programlama dilleri) desteği bulunur. 1990'ların başında Özgür Yazılım Vakfı tarafından GNU işletim sistemi için geliştirilmeye başlanmıştır. GNU Kısıtlı Genel Kamu Lisansı altında dağıtılmıştır, glibc bir özgür yazılımdır.",
+      "char_count": 400,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 401,
+      "end_char": 996,
+      "content": "== Tarihçe == Glibc tasarısı ilkin daha çok Roland McGrath tarafından yazıldı, 1980'lerde Özgür Yazılım Vakfı için çalışmaktaydı. Şubat 1988'de Özgür Yazılım Vakfı ANSI C'nin gereksindiği işlevselliğe neredeyse ulaştığını açıklamıştır. 1992'de ANSI C-1989 ve POSIX.1-1990 işlevleri yerine getirilmiş, çalışma POSIX.2 yoluna girmiştir. Eylül 1995'te Ulrich Drepper glibc tasarısına ilk katkısını yaptı ve gitgide glibc'nin 1990'lardaki ana katkıcısı ve bakımcısı oldu. Drepper uzun yıllar bakımcılık mevkiinde tutuldu ve 2012'ye kadar tasarıya yapılan katkıların toplam %63'ünü kendisine aittir.",
+      "char_count": 594,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0002",
+      "section": "=== \"Linux libc\" çatalı ===",
+      "heading_path": "=== \"Linux libc\" çatalı ===",
+      "start_char": 996,
+      "end_char": 1996,
+      "content": "=== \"Linux libc\" çatalı === 1990 başlarında Linux çekirdeği geliştiricileri glibc'yi çatalladılar. Çatallamalarını \"Linux libc\" olarak adlandırdılar, yıllarca ayrı olarak geliştirildi ve sürüm 2'den 5'e kadar dağıtıldı. Özgür Yazılım Vakfı Ocak 1997'de glibc 2.0'ı dağıttığında POSIX ölçünlerine uygunluğu daha fazlaydı, daha iyi yerelleştirmeye ve çoklu dil işlevine, IPv6 yeterliliğine, 64-bit veri erişimine, çok iş parçacıklı uygulamalar için olanaklara, gelecek sürüm uyumluluğuna ve kodun daha fazla taşınabilirliğine sahipti. Bu noktada, Linux çekirdeği geliştiricileri çatallamalarını durdurdular ve Özgür Yazılım Vakfı'nın glibc'sine döndüler. Linux libc'nin kullanılan son sürümü libc.so.5 iç adını (soname) kullanmıştır. Bundan hareketle Linux üzerinde glibc 2.x sürümleri libc.so.6 iç adını kullanmıştır (Alfa ve IA-64 mimarileri şimdi libc.so.6.1 adını kullanmaktadır). Kütüphaneler için sıradan teammülleri takiben *.so dosya ismi bazen libc6 olarak kısaltılmıştır (örneğin Debian'daki ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== \"Linux libc\" çatalı ===",
+      "heading_path": "=== \"Linux libc\" çatalı ===",
+      "start_char": 1796,
+      "end_char": 2215,
+      "content": "nı kullanmıştır (Alfa ve IA-64 mimarileri şimdi libc.so.6.1 adını kullanmaktadır). Kütüphaneler için sıradan teammülleri takiben *.so dosya ismi bazen libc6 olarak kısaltılmıştır (örneğin Debian'daki paket ismi). Richard Stallman'a göre Linux libc'de yapılan değişiklikler glibc'yle birleştirilemezdi çünkü kodun yazarlık durumu açık değildi ve GNU tasarısı telif ve yazarların kaydedilmesi hakkında katı davranışlıdır.",
+      "char_count": 419,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0004",
+      "section": "=== Yönlendirme kurulu kurulması ===",
+      "heading_path": "=== Yönlendirme kurulu kurulması ===",
+      "start_char": 2216,
+      "end_char": 2556,
+      "content": "=== Yönlendirme kurulu kurulması === 2001'den başlayarak kütüphanenin gelişimi bir kurul tarafından denetlenmiştir, Ulrich Drepper ana katkıcı ve bakımcı olarak kaldı. Ulrich Drepper'in açıkça belirttiği gibi yönlendirme kurulu kurulması toplum karşıtlığıyla çevrilmiştir, ona göre bu kurul RMS'nin başarısız yönetimi devralma girişimidir.",
+      "char_count": 339,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0005",
+      "section": "=== Git'e geçiş ===",
+      "heading_path": "=== Git'e geçiş ===",
+      "start_char": 2556,
+      "end_char": 2662,
+      "content": "=== Git'e geçiş === Önceleri CVS deposunda olan glibc 2009'da Sourceware'deki Git deposuna geçirilmiştir.",
+      "char_count": 105,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0006",
+      "section": "=== Debian EGLIBC'ye geçiyor ve dönüyor ===",
+      "heading_path": "=== Debian EGLIBC'ye geçiyor ve dönüyor ===",
+      "start_char": 2662,
+      "end_char": 2917,
+      "content": "=== Debian EGLIBC'ye geçiyor ve dönüyor === Drepper'in liderlik şekli ve dış katkı kabulu üzerinde süren uzun tartışmalar etrafında Debian 2009'da resmen glibc'nin çatalı EGLIBC'ye geçmiştir. Nisan 2015'te Debian 8.0 (Jessie) ile birlikte geri dönmüştür.",
+      "char_count": 254,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0007",
+      "section": "=== Yönlendirme kurulunun dağılması ===",
+      "heading_path": "=== Yönlendirme kurulunun dağılması ===",
+      "start_char": 2917,
+      "end_char": 3498,
+      "content": "=== Yönlendirme kurulunun dağılması === Mart 2012'de yönlendirme kurulu oylamayla kendini dağıtmış ve topluluk odaklı geliştirme süreci adına Drepper'i görevden almış, Ryan Arnold, Maxim Kuvyrkov, Joseph Myers, Carlos O'Donnel ve Alexandre Oliva GNU bakımcılığıyla görevlendirilmiştir (ama ilave karar alıcı güçleri olmadan). glibc bakımcılığında yaşanan değişikliklerden sonra Debian ve diğer tasarılar glibc'ye geri döndüler. Ayrıca, 2014 başından beri glibc çatalı EGLIBC artık geliştirilmemektedir, bunun sebebi \"hedeflere artık doğrudan GLIBC'nin içinde ulaşılmış\" olmasıdır.",
+      "char_count": 580,
+      "token_estimate": 145
+    },
+    {
+      "id": "c0008",
+      "section": "== İşlevsellik ==",
+      "heading_path": "== İşlevsellik ==",
+      "start_char": 3498,
+      "end_char": 4167,
+      "content": "== İşlevsellik == glibc Single UNIX Specification (Türkçe: Tek UNIX Tarifnamesi) ve POSIX'in (1c, 1d ve 1j) gerektirdiği işlevselliği karşılamaktadır. ISO C11, ISO C99, Berkeley Unix (BSD) arayüzlerinin, System V Interface Definition'un (Türkçe: System V Arayüz Tanımı) ve X/Open System Interface (Türkçe: X/Open Düzen Arayüzü) uyumlu düzenlerin yanında tüm X/Open UNIX eklentilerine ortak tüm eklentilerle X/Open Portability Guide Issue 4.2'nin (Türkçe: X/Open Taşınabilirlik Kılavuzu Sayı 4.2) gerektirdiği bazı işlevsellikleri karşılamaktadır. Ek olarak, glibc ayrıca GNU ile geliştirme yapılırken kullanışlı ya da gerekli addedilmiş eklentileri de karşılamaktadır.",
+      "char_count": 668,
+      "token_estimate": 167
+    },
+    {
+      "id": "c0009",
+      "section": "=== Desteklenen donanım ve çekirdekler ===",
+      "heading_path": "=== Desteklenen donanım ve çekirdekler ===",
+      "start_char": 4167,
+      "end_char": 4935,
+      "content": "=== Desteklenen donanım ve çekirdekler === Glibc değişik çekirdeklerin ve değişik donanım mimarilerin çalıştırdığı birçok düzende kullanılmıştır. En yaygın kullanımı x86 donanım üzerinde Linux çekirdeğiyle birliktedir, yine de resmi olarak desteklenen donanımlar şunlardır: 32-bit ARM ve yeni 64-bit ISA (AArch64), DEC Alpha, PA-RISC, IA-64, Motorola m68k, MicroBlaze, MIPS, Nios II, PowerPC, s390, SPARC, TILE, x86. Resmi olarak Hurd ve Linux çekirdeklerini destekler. Ek olarak FreeBSD ve NetBSD (Debian GNU/kFreeBSD ve Debian GNU/NetBSD düzenlerinin kurulu olduğu) çekirdeklerde, OpenSolaris'in çatal sürümünde çalışan yüksek miktarda yama içeren sürümleri de vardır. Ayrıca BeOS ve Haiku'da libroot.so olarak adlandırılmış ve (düzenlenmiş biçimde) kullanılmıştır.",
+      "char_count": 767,
+      "token_estimate": 191
+    },
+    {
+      "id": "c0010",
+      "section": "=== Küçük aygıtlarda kullanım ===",
+      "heading_path": "=== Küçük aygıtlarda kullanım ===",
+      "start_char": 4935,
+      "end_char": 5638,
+      "content": "=== Küçük aygıtlarda kullanım === Geçmişte Linus Torvalds ve gömülü Linux yazılımcıları glibc'nin diğer kütüphanelerden yavaş ve \"şişirilmiş\" olduğu yönünde eleştirmiştir. Bu sebeple çeşitli farklı, daha küçük izdüşüme sahip C standart kütüphaneleri oluşturuldu. Farklı libc'ler şunlardır: Bionic (çoğunlukla BSD'deki libc'yi taban aldı ve Android'de kullanıldı), dietlibc, uClibc, Newlib, Klibc ve musl. Yine de çoğu küçük aygıt tasarısı diğerlerine karşılık GNU libc'yi kullandı. Bunun sebebi uygulama desteği, standartlara uyumu ve eksiksiz olduğu içindir. Bu küçük aygıt tasarılarına örnek olarak Openmoko ve (GPE görüntü yazılımı kullanılırken) iPaq el bilgisayarı için Familiar Linux verilebilir.",
+      "char_count": 702,
+      "token_estimate": 175
+    },
+    {
+      "id": "c0011",
+      "section": "== Farklı seçenekler ==",
+      "heading_path": "== Farklı seçenekler ==",
+      "start_char": 5638,
+      "end_char": 5790,
+      "content": "== Farklı seçenekler == GNU C Library'den farklı diğer C standart kütüphaneler şunlardır: Bionic libc, dietlibc, EGLIBC, klibc, musl, Newlib ve uClibc.",
+      "char_count": 151,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0012",
+      "section": "== Uyumluluk katmanları ==",
+      "heading_path": "== Uyumluluk katmanları ==",
+      "start_char": 5790,
+      "end_char": 6131,
+      "content": "== Uyumluluk katmanları == Google'ın Android'i ve Microsoft'un Windows'u gibi diğer çevre-dizgeler için yazılacak programların glibc üzerinde çalışmalarını sağlayan uyumluluk katmanları (\"shim'ler\") vardır. libhybris Android'in Bionic'i için bir uyumluluk katmanıdır. Wine da Win32 API/ABI'den glibc'ye uyumluluk katmanı olarak görülebilir.",
+      "char_count": 340,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0013",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 6131,
+      "end_char": 6176,
+      "content": "== Ayrıca bakınız == Gnulib Linux kernel API",
+      "char_count": 44,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0014",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 6191,
+      "end_char": 6387,
+      "content": "== Dış bağlantılar == GNU libc ana sayfası22 Nisan 2016 tarihinde Wayback Machine sitesinde arşivlendi. GNU libc geliştiriciler sayfası3 Aralık 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 196,
+      "token_estimate": 49
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Linux çekirdeği geliştiricileri glibc'yi ne zaman çatalladılar?",
+        "answer": "1990 başlarında",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Özgür Yazılım Vakfı'nın (ÖYV) 1990'ların başındaki GNU C Kütüphanesi (glibc) geliştirme çalışmaları, \"Linux libc\" olarak bilinen çatalın oluşmasına ve sonunda bu çataldan vazgeçilerek orijinal glibc'ye geri dönülmesine nasıl yol açtı?",
+        "answer": "Özgür Yazılım Vakfı'nın 1990'ların başında glibc'yi geliştirmeye başlamasına rağmen, Linux çekirdeği geliştiricileri aynı yılların başında glibc'yi çatallayarak \"Linux libc\" adını verdikleri ayrı bir sürüm oluşturdular. Bu çatal, FSF'nin Ocak 1997'de glibc 2.0'ı piyasaya sürmesiyle sona erdi. Glibc 2.0, daha fazla POSIX uyumluluğu, daha iyi yerelleştirme ve çoklu dil işlevi, IPv6 yeteneği, 64 bit veri erişimi, çok iş parçacıklı uygulamalar için olanaklar, gelecek sürüm uyumluluğu ve kodun daha fazla taşınabilirliği gibi önemli gelişmeler sunuyordu. Bu iyileştirmeler üzerine Linux çekirdeği geliştiricileri çatallarını durdurup Özgür Yazılım Vakfı'nın glibc'sine geri döndüler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

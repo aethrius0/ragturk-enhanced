@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "sanalstdarkweb_bb49d293",
+    "title": "Sanalüstü: Dark Web",
+    "url": "https://tr.wikipedia.org/wiki/Sanal%C3%BCst%C3%BC%3A_Dark_Web",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:39.461284",
+    "content": "Sanalüstü: Dark Web (özgün ad: Unfriended: Dark Web), Stephen Susco tarafından ilk yönetmenlik denemesinde yazılıp yönetilen 2018 Amerikan bilgisayar ekranlı doğaüstü korku filmidir. Bir bilgisayar ekranı filmi olarak çekilen filmin başrollerinde Colin Woodell, Rebecca Rittenhouse, Betty Gabriel, Connor Del Rio, Andrew Lees, Stephanie Nogueras ve Savira Windyani yer alıyor. Film, 2014 yapımı Sanalüstü filminin devamı niteliğindedir ve karanlık ağa erişimi olan bir dizüstü bilgisayar bulan bir grup arkadaşın, yalnızca orijinal sahipleri, bir grup siber suçlu hacker tarafından izlendiklerini fark etmelerini konu ediyor. Filmin dünya prömiyeri 9 Mart 2018'de South by Southwest festivalinde yapıldı ve 20 Temmuz 2018'de Universal Pictures' OTL Releasing ve Blumhouse Productions' BH Tilt tarafından Amerika Birleşik Devletleri'nde sinemalarda gösterime girdi. Film eleştirmenlerden karışık eleştiriler aldı ve 1 milyon dolarlık bir yapım bütçesine karşılık dünya çapında 16 milyon dolar hasılat elde etti. == Oyuncular == Colin Woodell - Matias O'Brien Rebecca Rittenhouse - Serena Lange Betty Gabriel - Nari Jemisin Andrew Lees - Damon Horton Connor Del Rio - Alistair \"AJ\" Jeffcock Stephanie Nogueras - Amaya DeSoto Savira Windyani - Lexx Putri Alexa Mansour - Erica Dunne Chelsea Alden - Kelly Bryan Adrian - Charon III Douglas Tait - Charon IV Rob Welsh - Charon V Kiara Beltran - Charon VI == Kaynakça == == Dış Bağlantılar == Resmi site 6 Mayıs 2019 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de Sanalüstü 2: Karanlık Web",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 225,
+      "char_count": 1542,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.539643",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Sanalüstü: Dark Web (özgün ad: Unfriended: Dark Web), Stephen Susco tarafından ilk yönetmenlik denemesinde yazılıp yönetilen 2018 Amerikan bilgisayar ekranlı doğaüstü korku filmidir. Bir bilgisayar ekranı filmi olarak çekilen filmin başrollerinde Colin Woodell, Rebecca Rittenhouse, Betty Gabriel, Connor Del Rio, Andrew Lees, Stephanie Nogueras ve Savira Windyani yer alıyor. Film, 2014 yapımı Sanalüstü filminin devamı niteliğindedir ve karanlık ağa erişimi olan bir dizüstü bilgisayar bulan bir grup arkadaşın, yalnızca orijinal sahipleri, bir grup siber suçlu hacker tarafından izlendiklerini fark etmelerini konu ediyor. Filmin dünya prömiyeri 9 Mart 2018'de South by Southwest festivalinde yapıldı ve 20 Temmuz 2018'de Universal Pictures' OTL Releasing ve Blumhouse Productions' BH Tilt tarafından Amerika Birleşik Devletleri'nde sinemalarda gösterime girdi. Film eleştirmenlerden karışık eleştiriler aldı ve 1 milyon dolarlık bir yapım bütçesine karşılık dünya çapında 16 milyon dolar hasılat ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1010,
+      "content": "dan Amerika Birleşik Devletleri'nde sinemalarda gösterime girdi. Film eleştirmenlerden karışık eleştiriler aldı ve 1 milyon dolarlık bir yapım bütçesine karşılık dünya çapında 16 milyon dolar hasılat elde etti.",
+      "char_count": 210,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0002",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 1011,
+      "end_char": 1400,
+      "content": "== Oyuncular == Colin Woodell - Matias O'Brien Rebecca Rittenhouse - Serena Lange Betty Gabriel - Nari Jemisin Andrew Lees - Damon Horton Connor Del Rio - Alistair \"AJ\" Jeffcock Stephanie Nogueras - Amaya DeSoto Savira Windyani - Lexx Putri Alexa Mansour - Erica Dunne Chelsea Alden - Kelly Bryan Adrian - Charon III Douglas Tait - Charon IV Rob Welsh - Charon V Kiara Beltran - Charon VI",
+      "char_count": 388,
+      "token_estimate": 97
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış Bağlantılar ==",
+      "heading_path": "== Dış Bağlantılar ==",
+      "start_char": 1415,
+      "end_char": 1542,
+      "content": "== Dış Bağlantılar == Resmi site 6 Mayıs 2019 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de Sanalüstü 2: Karanlık Web",
+      "char_count": 127,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "2018 yapımı Sanalüstü: Dark Web filminin yazarı ve yönetmeni kimdir?",
+        "answer": "Stephen Susco",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sanalüstü: Dark Web filmi, 2018'deki prömiyeri ve genel gösterimi göz önüne alındığında, eleştirel ve finansal olarak nasıl bir performans sergilemiştir?",
+        "answer": "Film eleştirmenlerden karışık eleştiriler almış ve 1 milyon dolarlık bir yapım bütçesine karşılık dünya çapında 16 milyon dolar hasılat elde etmiştir. Prömiyeri 9 Mart 2018'de South by Southwest festivalinde, genel gösterimi ise 20 Temmuz 2018'de Amerika Birleşik Devletleri'nde yapılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

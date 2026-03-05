@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "paulleduc_33d89882",
+    "title": "Paul Leduc",
+    "url": "https://tr.wikipedia.org/wiki/Paul_Leduc",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:08.510190",
+    "content": "Paul Leduc (11 Mart 1942, Meksiko - 21 Ekim 2020, Meksiko, Meksika), Meksikalı film yönetmenidir. == Yaşamı == Leduc 11 Mart 1942'de Meksiko, Meksika'da doğdu. Meksika Ulusal Özerk Üniversitesini bitirdi. 1968'de başladığı yönetmenlik kariyerini 2020'de ölümüne kadar sürdürdü. Yönetmenliğini yaptığı bazı filmler arasında; Reed: Insurgent Mexico (1973) ve Frida Still Life (1983) sayılabilir. Sinemaya katkılarından dolayı 2013'te Ulusal Bilim ve Sanat Ödülü'nü aldı. == Ölümü == Leduc 21 Ekim 2020'de doğum yeri Meksiko, Meksika'de 78 yaşında kronik obstrüktif akciğer hastalığı (KOAH)'ın neden olduğu sağlık sorunları nedeniyle öldü. == Belgesel == Leduc'un yönettiği belgesel filmler: Parto psicoprofiláctico (1969) Bach y sus intérpretes (1975) Etnocidio: notas sobre el Mezquital ; Estudios para un retrato (Francis Bacon) (1978) Puebla hoy (1978) Monjas coronadas (1978) ABC del etnocidio: notas sobre el Mezquital (1976) Puebla hoy (1979). == Filmler == Leduc'un yönettiği sinema ve diğer filmler: Comunicados del comité nacional de huelga (1968) Reed: Insurgent Mexico (1973) Sur, sureste 2604; El mar (1974) Historias prohibidas de Pulgarcito (1979) Complót petróleo: la cabeza de la hidra (1981) ¿Cómo ves? (Whaddya Think?) (1982) Frida: Naturaleza viva (Frida) (1984) Barroco (Baroque) (1989) Dólar mambo (1993) Latino Bar (1995) Los Animales 1850-1950 (1995) == Ayrıca bakınız == \"Film Reference.\" Paul Leduc. N.p., n.d. Web. 08 Nov. 2015. Pick, Zuzana (1993). The New Latin America Cinema, Austin: University of Texas Press, p. 36 Schwartz, Ronald (1997), Latin American Film, 1932-1994, Jefferson, North Carolina: McFarlad & Company, Inc.,p. 102 == Kaynakça == == Dış bağlantılar == IMDb'de Paul Leduc",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 248,
+      "char_count": 1716,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.569078",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 98,
+      "content": "Paul Leduc (11 Mart 1942, Meksiko - 21 Ekim 2020, Meksiko, Meksika), Meksikalı film yönetmenidir.",
+      "char_count": 97,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 98,
+      "end_char": 469,
+      "content": "== Yaşamı == Leduc 11 Mart 1942'de Meksiko, Meksika'da doğdu. Meksika Ulusal Özerk Üniversitesini bitirdi. 1968'de başladığı yönetmenlik kariyerini 2020'de ölümüne kadar sürdürdü. Yönetmenliğini yaptığı bazı filmler arasında; Reed: Insurgent Mexico (1973) ve Frida Still Life (1983) sayılabilir. Sinemaya katkılarından dolayı 2013'te Ulusal Bilim ve Sanat Ödülü'nü aldı.",
+      "char_count": 370,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 469,
+      "end_char": 637,
+      "content": "== Ölümü == Leduc 21 Ekim 2020'de doğum yeri Meksiko, Meksika'de 78 yaşında kronik obstrüktif akciğer hastalığı (KOAH)'ın neden olduğu sağlık sorunları nedeniyle öldü.",
+      "char_count": 167,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0003",
+      "section": "== Belgesel ==",
+      "heading_path": "== Belgesel ==",
+      "start_char": 637,
+      "end_char": 948,
+      "content": "== Belgesel == Leduc'un yönettiği belgesel filmler: Parto psicoprofiláctico (1969) Bach y sus intérpretes (1975) Etnocidio: notas sobre el Mezquital ; Estudios para un retrato (Francis Bacon) (1978) Puebla hoy (1978) Monjas coronadas (1978) ABC del etnocidio: notas sobre el Mezquital (1976) Puebla hoy (1979).",
+      "char_count": 310,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0004",
+      "section": "== Filmler ==",
+      "heading_path": "== Filmler ==",
+      "start_char": 948,
+      "end_char": 1372,
+      "content": "== Filmler == Leduc'un yönettiği sinema ve diğer filmler: Comunicados del comité nacional de huelga (1968) Reed: Insurgent Mexico (1973) Sur, sureste 2604; El mar (1974) Historias prohibidas de Pulgarcito (1979) Complót petróleo: la cabeza de la hidra (1981) ¿Cómo ves? (Whaddya Think?) (1982) Frida: Naturaleza viva (Frida) (1984) Barroco (Baroque) (1989) Dólar mambo (1993) Latino Bar (1995) Los Animales 1850-1950 (1995)",
+      "char_count": 423,
+      "token_estimate": 105
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1372,
+      "end_char": 1661,
+      "content": "== Ayrıca bakınız == \"Film Reference.\" Paul Leduc. N.p., n.d. Web. 08 Nov. 2015. Pick, Zuzana (1993). The New Latin America Cinema, Austin: University of Texas Press, p. 36 Schwartz, Ronald (1997), Latin American Film, 1932-1994, Jefferson, North Carolina: McFarlad & Company, Inc.,p. 102",
+      "char_count": 288,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1676,
+      "end_char": 1716,
+      "content": "== Dış bağlantılar == IMDb'de Paul Leduc",
+      "char_count": 40,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Leduc'un yönettiği 1973 yapımı filmin adı nedir?",
+        "answer": "Reed: Insurgent Mexico",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Paul Leduc'un yönetmenlik kariyeri ne kadar sürdü ve sinemaya katkılarından dolayı hangi ödülü aldı?",
+        "answer": "Leduc'un yönetmenlik kariyeri 1968'den 2020'deki ölümüne kadar sürdü ve sinemaya katkılarından dolayı 2013'te Ulusal Bilim ve Sanat Ödülü'nü aldı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

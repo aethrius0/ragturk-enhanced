@@ -1,0 +1,163 @@
+{
+  "article": {
+    "id": "ardour_b84b9163",
+    "title": "Ardour",
+    "url": "https://tr.wikipedia.org/wiki/Ardour",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:58.204617",
+    "content": "Ardour; GNU/Linux, macOS, FreeBSD ve Microsoft Windows üzerinde çalışan dijital ses işleme istasyonu yazılımıdır. Baş yazarı, JACK Ses Bağlantı Kiti'nden de sorumlu olan Paul Davis'tir. Ardour, profesyonel kullanıma uygun olacak bir yazılım olarak tasarlanmıştır. GNU Genel Kamu Lisansı v2+ lisansı altında yayınlanan Ardour özgür bir yazılımdır. Yeni sekmeli arayüzü, Lua betik desteği, VCA'lar, eklenti yönetimi ve daha birçok yeni özellik ve iyileştirmelerle birlikte Ardour'un 5.0 sürümü, Ağustos 2016'da yayınlandı. == Özellikleri == === Kayıt === Ardour'un kendi içerisinde herhangi bir kısıtlaması yoktur, kayıt yetenekleri sadece üzerinde çalıştığı donanım ile sınırlıdır. Mevcut materyalin üzerine kayıt yaparken Ardour, kaydedilen materyali kaydederken olması gerektiği yere konumlandırarak gecikme telafisi yapabilir. Kendi kendini izleme, harici donanım veya özel ürün kullanımı (Ör: JACK) gibi farklı izleme yöntemleri vardır. Kendi kendine izleme, gerçek zamanlı kayıt yaparken sinyale eklenti efektleri uygulanmasını mümkün kılar. Ardour, JACK'i kullanarak hem ses kartından hem de uyumlu bir yazılımdan eş zamanlı olarak kayıt yapabilir. === Miksleme === Ardour, \"herhangi bir şeyi herhangi bir yere\" sistemi sayesinde istenilen sayıda parça ve kanal kullanımını destekler. Tüm \"gain\" ve eklenti parametreleri otomatikleştirilebilir. Tüm örneklemler mikslenir ve dahili olarak 32 bit \"floating point\" biçiminde tutulur. === Düzenleme === Ardour, taşınmasını, kırpılmasını, bölünmesini ve uzatılmasını destekler ve bölgeleri katmanlama (layering) özelliğine sahiptir. Ardour, sınırsız geri alma ve mevcut bir oturumun geçerli durumunu bir dosyaya kaydetmek için imaj alma özelliğine sahiptir. === Mastering === Ardour bir ses mastering ortamı olarak da kullanılabilir. JACK Audio Connection Kit ile entegrasyonu, ses verilerini işlemek için JAMin gibi mastering araçlarının kullanılmasını mümkün kılar. Ardour'un mikserinin çıkışı JAMin'e ve/veya diğer ses işleme yazılımlarına yönlendirilebilir. Ayrıca ses CD'lerinin oluşturulması için kullanılan TOC ve CUE biçimlerinde de dışa aktarma yapabilir. == Uyumluluk == Ardour, SMPTE / MTC, Yayın Dalgası Formatı, MIDI ve XML gibi endüstri standartlarına uymaya çalışır. Ardour; GNU/Linux, Solaris, macOS, Windows ve FreeBSD işletim sistemleri üzerinde test edilmiştir. Ancak, GNU/Linux ve macOS dışındaki işletim sistemlerine sınırlı olarak destek vermektedir. Ardour, 4.0 sürümünde Windows XP ve üzeri işletim sistemleri için gayriresmî destek sunmaya başlamıştır. Ağustos 2016 itibarıyla Ardour 5.0, resmi Windows desteği ile yayınlanmıştır. === Eklentiler === Ardor, ses efektleri işlemeden dinamik kontrole kadar birçok özelliği eklentiler üzerinden sağlamaktadır. GNU/Linux'ta LADSPA ve LV2 eklenti mimarilerini ve ayrıca macOS'ta Ses Birimlerini destekler. Ardour'un VST desteği içerecek şekilde derlenmesi durumunda, Steinberg'in VST eklentilerini kullanmak mümkündür. 2.8 sürümünden itibaren, VST desteği artık Steinberg'in VST SDK'in kullanılmasını gerektirmemektedir. === İçeri ve dışarı aktarma === Ardour, tüm oturumları veya oturum parçalarını istenen formatta dışarı aktarmayı ve 30'dan fazla farklı ses dosyası biçimini oturumlara eklemeyi desteklemektedir. == Ayrıca bakınız == JACK Ses Bağlantı Kiti Dijital ses işleme istasyonu == Kaynakça == == Makaleler == \"Ardour et al., or Free and Easy Laptop Pro Audio: An Essay Perspective from a desperate working mother composer\". eContact! 11.3 — Open Source for Audio Application. Canadian Electroacoustic Community. Eylül 2009. 4 Haziran 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 16 Şubat 2020. \"Ardour and Ambisonics: A FLOSS approach to the next generation of sound spatialisation\". eContact! 11.3 - Jörn Nettingsmeier - Ardour and Ambisonics. Canadian Electroacoustic Community. Eylül 2009. 2 Şubat 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 16 Şubat 2020. == Dış bağlantılar == Resmî site",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 520,
+      "char_count": 3941,
+      "num_chunks": 11,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.945675",
+    "total_chunks": 11,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 521,
+      "content": "Ardour; GNU/Linux, macOS, FreeBSD ve Microsoft Windows üzerinde çalışan dijital ses işleme istasyonu yazılımıdır. Baş yazarı, JACK Ses Bağlantı Kiti'nden de sorumlu olan Paul Davis'tir. Ardour, profesyonel kullanıma uygun olacak bir yazılım olarak tasarlanmıştır. GNU Genel Kamu Lisansı v2+ lisansı altında yayınlanan Ardour özgür bir yazılımdır. Yeni sekmeli arayüzü, Lua betik desteği, VCA'lar, eklenti yönetimi ve daha birçok yeni özellik ve iyileştirmelerle birlikte Ardour'un 5.0 sürümü, Ağustos 2016'da yayınlandı.",
+      "char_count": 520,
+      "token_estimate": 130
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kayıt ===",
+      "heading_path": "=== Kayıt ===",
+      "start_char": 539,
+      "end_char": 1154,
+      "content": "=== Kayıt === Ardour'un kendi içerisinde herhangi bir kısıtlaması yoktur, kayıt yetenekleri sadece üzerinde çalıştığı donanım ile sınırlıdır. Mevcut materyalin üzerine kayıt yaparken Ardour, kaydedilen materyali kaydederken olması gerektiği yere konumlandırarak gecikme telafisi yapabilir. Kendi kendini izleme, harici donanım veya özel ürün kullanımı (Ör: JACK) gibi farklı izleme yöntemleri vardır. Kendi kendine izleme, gerçek zamanlı kayıt yaparken sinyale eklenti efektleri uygulanmasını mümkün kılar. Ardour, JACK'i kullanarak hem ses kartından hem de uyumlu bir yazılımdan eş zamanlı olarak kayıt yapabilir.",
+      "char_count": 614,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0002",
+      "section": "=== Miksleme ===",
+      "heading_path": "=== Miksleme ===",
+      "start_char": 1154,
+      "end_char": 1436,
+      "content": "=== Miksleme === Ardour, \"herhangi bir şeyi herhangi bir yere\" sistemi sayesinde istenilen sayıda parça ve kanal kullanımını destekler. Tüm \"gain\" ve eklenti parametreleri otomatikleştirilebilir. Tüm örneklemler mikslenir ve dahili olarak 32 bit \"floating point\" biçiminde tutulur.",
+      "char_count": 281,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0003",
+      "section": "=== Düzenleme ===",
+      "heading_path": "=== Düzenleme ===",
+      "start_char": 1436,
+      "end_char": 1708,
+      "content": "=== Düzenleme === Ardour, taşınmasını, kırpılmasını, bölünmesini ve uzatılmasını destekler ve bölgeleri katmanlama (layering) özelliğine sahiptir. Ardour, sınırsız geri alma ve mevcut bir oturumun geçerli durumunu bir dosyaya kaydetmek için imaj alma özelliğine sahiptir.",
+      "char_count": 271,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0004",
+      "section": "=== Mastering ===",
+      "heading_path": "=== Mastering ===",
+      "start_char": 1708,
+      "end_char": 2115,
+      "content": "=== Mastering === Ardour bir ses mastering ortamı olarak da kullanılabilir. JACK Audio Connection Kit ile entegrasyonu, ses verilerini işlemek için JAMin gibi mastering araçlarının kullanılmasını mümkün kılar. Ardour'un mikserinin çıkışı JAMin'e ve/veya diğer ses işleme yazılımlarına yönlendirilebilir. Ayrıca ses CD'lerinin oluşturulması için kullanılan TOC ve CUE biçimlerinde de dışa aktarma yapabilir.",
+      "char_count": 406,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0005",
+      "section": "== Uyumluluk ==",
+      "heading_path": "== Uyumluluk ==",
+      "start_char": 2115,
+      "end_char": 2606,
+      "content": "== Uyumluluk == Ardour, SMPTE / MTC, Yayın Dalgası Formatı, MIDI ve XML gibi endüstri standartlarına uymaya çalışır. Ardour; GNU/Linux, Solaris, macOS, Windows ve FreeBSD işletim sistemleri üzerinde test edilmiştir. Ancak, GNU/Linux ve macOS dışındaki işletim sistemlerine sınırlı olarak destek vermektedir. Ardour, 4.0 sürümünde Windows XP ve üzeri işletim sistemleri için gayriresmî destek sunmaya başlamıştır. Ağustos 2016 itibarıyla Ardour 5.0, resmi Windows desteği ile yayınlanmıştır.",
+      "char_count": 490,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0006",
+      "section": "=== Eklentiler ===",
+      "heading_path": "=== Eklentiler ===",
+      "start_char": 2606,
+      "end_char": 3040,
+      "content": "=== Eklentiler === Ardor, ses efektleri işlemeden dinamik kontrole kadar birçok özelliği eklentiler üzerinden sağlamaktadır. GNU/Linux'ta LADSPA ve LV2 eklenti mimarilerini ve ayrıca macOS'ta Ses Birimlerini destekler. Ardour'un VST desteği içerecek şekilde derlenmesi durumunda, Steinberg'in VST eklentilerini kullanmak mümkündür. 2.8 sürümünden itibaren, VST desteği artık Steinberg'in VST SDK'in kullanılmasını gerektirmemektedir.",
+      "char_count": 433,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0007",
+      "section": "=== İçeri ve dışarı aktarma ===",
+      "heading_path": "=== İçeri ve dışarı aktarma ===",
+      "start_char": 3040,
+      "end_char": 3235,
+      "content": "=== İçeri ve dışarı aktarma === Ardour, tüm oturumları veya oturum parçalarını istenen formatta dışarı aktarmayı ve 30'dan fazla farklı ses dosyası biçimini oturumlara eklemeyi desteklemektedir.",
+      "char_count": 194,
+      "token_estimate": 48
+    },
+    {
+      "id": "c0008",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 3235,
+      "end_char": 3308,
+      "content": "== Ayrıca bakınız == JACK Ses Bağlantı Kiti Dijital ses işleme istasyonu",
+      "char_count": 72,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0009",
+      "section": "== Makaleler ==",
+      "heading_path": "== Makaleler ==",
+      "start_char": 3323,
+      "end_char": 3909,
+      "content": "== Makaleler == \"Ardour et al., or Free and Easy Laptop Pro Audio: An Essay Perspective from a desperate working mother composer\". eContact! 11.3 — Open Source for Audio Application. Canadian Electroacoustic Community. Eylül 2009. 4 Haziran 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 16 Şubat 2020. \"Ardour and Ambisonics: A FLOSS approach to the next generation of sound spatialisation\". eContact! 11.3 - Jörn Nettingsmeier - Ardour and Ambisonics. Canadian Electroacoustic Community. Eylül 2009. 2 Şubat 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 16 Şubat 2020.",
+      "char_count": 585,
+      "token_estimate": 146
+    },
+    {
+      "id": "c0010",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3909,
+      "end_char": 3941,
+      "content": "== Dış bağlantılar == Resmî site",
+      "char_count": 32,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ardour'un kayıt yeteneklerini ne sınırlar?",
+        "answer": "Ardour'un kayıt yetenekleri sadece üzerinde çalıştığı donanım ile sınırlıdır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ardour, başyazarı Paul Davis'in de sorumlu olduğu JACK Ses Bağlantı Kiti'ni kayıt yeteneklerinde nasıl kullanmaktadır?",
+        "answer": "Ardour, JACK Ses Bağlantı Kiti'ni farklı izleme yöntemlerinden biri olarak kullanır ve JACK'i kullanarak hem ses kartından hem de uyumlu bir yazılımdan eş zamanlı olarak kayıt yapabilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

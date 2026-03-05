@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "megrelya_16641c53",
+    "title": "Megrelya",
+    "url": "https://tr.wikipedia.org/wiki/Megrelya",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:54.143101",
+    "content": "Megrelya (Megrelce: სამარგალო- (Samargalo), Gürcüce: სამეგრელო- (Samegrelo), Lazca: მარგალონა- (Margalona)), Gürcistan'ın batısında, tarihsel bölgelerden biridir. Eskiden Odişi olarak adlandırılıyordu. Bölgenin yerli halkı Megreller, Güney Kafkasya halklarından biridir ve Megrelce konuşurlar; ama yazı dili Gürcüce'dir. Yönetim bölgesi olarak Megrelya, kuzeyindeki Svaneti bölgesiyle birlikte Samegrelo-Zemo Svaneti bölgesini oluşturur ve bu bölgenin yönetsel merkezi Zugdidi kentidir. == Coğrafya ve iklim == Megrelya, kuzeybatıda ayrılıkçı Abhazya bölgesi, kuzeyde Svaneti, doğuda İmereti, güneyde Guria ve batıda Karadeniz ile sınırlanmıştır. İdari olarak, tarihi Megrelya bölgesi, komşu dağlık Svaneti bölgesinin kuzey kesimiyle birlikte başkenti Megrelya'nın ana şehri Zugdidi olan Samegrelo-Zemo Svaneti bölgesini oluşturur. Gürcistan'ın çoğu Karadeniz kıyı bölgesinde olduğu gibi, Megrelya'nın iklimi subtropikal ve yağmurludur. Kıyı bölgelerinde, Sovyet Gürcü yetkililerinin onları kurutmaya yönelik çabalarına rağmen birçok bataklık vardır. Bu bataklıklar, ülkenin diğer bölgelerinde bulunmayan birçok nadir kuş ve hayvanı içerir. Bu nedenle, bölgelerin önemli bir kısmı, Kolhis Doğa Koruma Alanı'nın bir parçası olarak Gürcistan yasaları tarafından korunmaktadır. == Tarih == Eski çağlarda Samegrelo, Kolha veya Kolhis'in (MÖ 9 - 6. yüzyıllarda) ve Egrisi'nin (MÖ 4. – MS 6. yüzyıl) bir parçasıydı. 11 - 16. yüzyıllar arasında birleşik Gürcistan Krallığı'nın içinde yer aldı. 16. yüzyıl ile 1857 arasında Megrelya Prensliği olarak varlığını sürdürdü ve bu prensliğin yöneticileri Dadiani ailesiydi. Prenslik, Osmanlı İmparatorluğu koruması altında bulunuyordu. 1803 yılında, Çar ve Megrel prensi Grigol Dadiani arasında yapılan bir anlaşmayla prenslik Çarlık Rusya'nın koruması altına girdi. 1857'de Çarlık yönetimi prensliğin varlığına son verdi. 1918-1921 arasında Samegrelo, Gürcistan Demokratik Cumhuriyeti'nin bir parçasıydı. 1921'de Gürcistan Sovyet yönetimine katıldı. 9 Nisan 1991'de bağımsızlığını ilan eden Gürcistan'ın ilk devlet başkanı Zviad Gamsahurdia bir Megrel idi. Gamsahurdia'nın bir darbeyle devrildiği Kasım 1991'den Ocak 1992 tarihine kadar Samegrelo iç savaşa sahne oldu. Savaş, Gamsahurdia'nın yenilgisiyle sonuçlandı ve Eduard Şevardnadze (1992-2003) devlet başkanı oldu. Abhazya'daki savaşta etnik temizlik uygulanarak yerlerinden edilen Gürcülerin (çoğunluğu Megreller) göçü sırasında Samegrelo istikrarsız bir bölge haline geldi. 2004'te devlet başkanı seçilen Miheil Saakaşvili, Abhaz yönetimine karşı mücadele eden Megrel grupları silahsızlandırdı ve bölgedeki sorunun çözümü için barışçıl girişimler başlattı. == Ayrıca bakınız == Megreller Megrelce Megrelya Prensliği Kolhis == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 338,
+      "char_count": 2732,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.508419",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 487,
+      "content": "Megrelya (Megrelce: სამარგალო- (Samargalo), Gürcüce: სამეგრელო- (Samegrelo), Lazca: მარგალონა- (Margalona)), Gürcistan'ın batısında, tarihsel bölgelerden biridir. Eskiden Odişi olarak adlandırılıyordu. Bölgenin yerli halkı Megreller, Güney Kafkasya halklarından biridir ve Megrelce konuşurlar; ama yazı dili Gürcüce'dir. Yönetim bölgesi olarak Megrelya, kuzeyindeki Svaneti bölgesiyle birlikte Samegrelo-Zemo Svaneti bölgesini oluşturur ve bu bölgenin yönetsel merkezi Zugdidi kentidir.",
+      "char_count": 486,
+      "token_estimate": 121
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ve iklim ==",
+      "heading_path": "== Coğrafya ve iklim ==",
+      "start_char": 487,
+      "end_char": 1275,
+      "content": "== Coğrafya ve iklim == Megrelya, kuzeybatıda ayrılıkçı Abhazya bölgesi, kuzeyde Svaneti, doğuda İmereti, güneyde Guria ve batıda Karadeniz ile sınırlanmıştır. İdari olarak, tarihi Megrelya bölgesi, komşu dağlık Svaneti bölgesinin kuzey kesimiyle birlikte başkenti Megrelya'nın ana şehri Zugdidi olan Samegrelo-Zemo Svaneti bölgesini oluşturur. Gürcistan'ın çoğu Karadeniz kıyı bölgesinde olduğu gibi, Megrelya'nın iklimi subtropikal ve yağmurludur. Kıyı bölgelerinde, Sovyet Gürcü yetkililerinin onları kurutmaya yönelik çabalarına rağmen birçok bataklık vardır. Bu bataklıklar, ülkenin diğer bölgelerinde bulunmayan birçok nadir kuş ve hayvanı içerir. Bu nedenle, bölgelerin önemli bir kısmı, Kolhis Doğa Koruma Alanı'nın bir parçası olarak Gürcistan yasaları tarafından korunmaktadır.",
+      "char_count": 787,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 1275,
+      "end_char": 2275,
+      "content": "== Tarih == Eski çağlarda Samegrelo, Kolha veya Kolhis'in (MÖ 9 - 6. yüzyıllarda) ve Egrisi'nin (MÖ 4. – MS 6. yüzyıl) bir parçasıydı. 11 - 16. yüzyıllar arasında birleşik Gürcistan Krallığı'nın içinde yer aldı. 16. yüzyıl ile 1857 arasında Megrelya Prensliği olarak varlığını sürdürdü ve bu prensliğin yöneticileri Dadiani ailesiydi. Prenslik, Osmanlı İmparatorluğu koruması altında bulunuyordu. 1803 yılında, Çar ve Megrel prensi Grigol Dadiani arasında yapılan bir anlaşmayla prenslik Çarlık Rusya'nın koruması altına girdi. 1857'de Çarlık yönetimi prensliğin varlığına son verdi. 1918-1921 arasında Samegrelo, Gürcistan Demokratik Cumhuriyeti'nin bir parçasıydı. 1921'de Gürcistan Sovyet yönetimine katıldı. 9 Nisan 1991'de bağımsızlığını ilan eden Gürcistan'ın ilk devlet başkanı Zviad Gamsahurdia bir Megrel idi. Gamsahurdia'nın bir darbeyle devrildiği Kasım 1991'den Ocak 1992 tarihine kadar Samegrelo iç savaşa sahne oldu. Savaş, Gamsahurdia'nın yenilgisiyle sonuçlandı ve Eduard Şevardnadze ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 2075,
+      "end_char": 2651,
+      "content": "ia bir Megrel idi. Gamsahurdia'nın bir darbeyle devrildiği Kasım 1991'den Ocak 1992 tarihine kadar Samegrelo iç savaşa sahne oldu. Savaş, Gamsahurdia'nın yenilgisiyle sonuçlandı ve Eduard Şevardnadze (1992-2003) devlet başkanı oldu. Abhazya'daki savaşta etnik temizlik uygulanarak yerlerinden edilen Gürcülerin (çoğunluğu Megreller) göçü sırasında Samegrelo istikrarsız bir bölge haline geldi. 2004'te devlet başkanı seçilen Miheil Saakaşvili, Abhaz yönetimine karşı mücadele eden Megrel grupları silahsızlandırdı ve bölgedeki sorunun çözümü için barışçıl girişimler başlattı.",
+      "char_count": 576,
+      "token_estimate": 144
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2652,
+      "end_char": 2718,
+      "content": "== Ayrıca bakınız == Megreller Megrelce Megrelya Prensliği Kolhis",
+      "char_count": 65,
+      "token_estimate": 16
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "16. yüzyıl ile 1857 yılları arasında Megrelya Prensliği'nin yöneticileri kimlerdi?",
+        "answer": "Dadiani ailesi",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Megrelya'nın coğrafi konumu, iklimi ve kültürel kimliği, bölgenin tarih boyunca farklı siyasi güçlerle olan ilişkilerini ve idari yapısının şekillenmesini nasıl etkilemiştir?",
+        "answer": "Megrelya'nın Karadeniz'e olan kıyısı ve stratejik konumu, onu eski Kolha/Kolhis gibi devletlerin ve daha sonra Osmanlı ile Çarlık Rusya'sının ilgi odağı yapmış, siyasi egemenlik altında kalmasına yol açmıştır. Bölgenin subtropikal iklimi ve kendine has bataklıkları doğal yapısını belirlerken; Megrelce konuşan yerli halkı gibi kültürel kimliği, Dadiani ailesi yönetimindeki Megrelya Prensliği gibi özerk yapılar kurmasına olanak sağlamış ve hatta bağımsız Gürcistan'ın ilk başkanının Megrel olmasıyla siyasi tarihte etkinliğini göstermiştir. Günümüzde ise kuzeydeki Svaneti bölgesiyle idari olarak birleşerek Samegrelo-Zemo Svaneti bölgesini oluşturmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

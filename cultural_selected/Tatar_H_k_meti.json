@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "tatarhkmeti_f13d5582",
+    "title": "Tatar Hükûmeti",
+    "url": "https://tr.wikipedia.org/wiki/Tatar_H%C3%BCk%C3%BBmeti",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:08.138053",
+    "content": "23. Kuzey Kıbrıs Türk Cumhuriyeti Hükûmeti veya Tatar Hükûmeti, Kuzey Kıbrıs Türk Cumhuriyeti'nde Ulusal Birlik Partisi Genel Başkanı Ersin Tatar'ın başbakanlığında; Halkın Partisi ile 22 Mayıs 2019 tarihinde kurulan hükûmettir. Cumhurbaşkanı Mustafa Akıncı'nın 2018 erken genel seçimlerinin ardından oluşan dörtlü koalisyonun istifasının ardından görevlendirdiği Ersin Tatar tarafından oluşturulmuştur. == Oluşumu == Demokrat Parti Genel Başkanı ve Maliye Bakanı Serdar Denktaş'ın bakanlık görevinden istifası ve Halkın Partisinin hükûmetten çekilme kararı almasının ardından Tufan Erhürman hükûmetin istifasını Cumhurbaşkanı Mustafa Akıncı'ya sundu. Yeni hükûmeti oluşturma görevini alan Ersin Tatar ise Halkın Partisi Genel Başkanı Kudret Özersay ile imzaladığı koalisyon protokolüne müteakiben yeni kabineyi onaylanmak üzere 22 Mayıs'ta Cumhurbaşkanı'na sundu. Cumhurbaşkanı Mustafa Akıncı aynı gün yeni hükûmeti göreve atadığını Cumhuriyet Meclisine bildirdi. == Düşmesi == 6 Ekim 2020'de, cumhurbaşkanlığı seçimi öncesindeki haftada, Başbakan Ersin Tatar'ın Halkın Partisi kanadıyla görüşmeden Türkiye'de Recep Tayyip Erdoğan'la birlikte Maraş'ın sahil şeridinin açılacağını açıklaması üzerine, Halkın Partisi hükûmetten çekilme kararı aldı. Bu karardan sonra hükûmetin düştüğü bildirildi. Başbakan Yardımcısı ve Dışişleri Bakanı Kudret Özersay, ilk açıklamasında açılım kararından Tatar'ı araması üzerine \"birkaç saat önce\" haberi olduğunu, bunun koalisyonun tek bir kanadının attığı bir adım olduğunu, Maraş'ın açılması projesinin hayata geçmesi için Bakanlar Kurulu kararı gerekip bunun yalnızca bir açıklama olduğunu söyledi. Bunun ardından toplanan Halkın Partisinin Parti Meclisi, Maraş'ın \"seçim malzemesi\" edilmiş olması ve \"Kudret Özersay'ın devre dışı bırakılmış olması\" nedeniyle hükûmetten çekilme kararı aldı, Parti Başkanı Yenal Senin, kararın müsebbibi olarak Ersin Tatar'ı gösterdi. Hükûmetten çekilme kararının ardından Özersay, \"Cumhurbaşkanı adayları, nasıl devletin kurumunu yok sayar? Nasıl bir koalisyon ortağının iradesi yok sayılır? Kıbrıs Türk halkının iradesi nasıl yok sayılır?\" açıklamasında bulundu. Tatar ise yaptığı açıklamada çekilme kararını doğru bulmadığını, Maraş kararını kesinleştirdiğinde Özersay'ı arayıp ilettiğini ve devre dışı bırakma iddiasının gerçeği yansıtmadığını ifade etti. == Hükûmet == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 293,
+      "char_count": 2358,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.249419",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 404,
+      "content": "23. Kuzey Kıbrıs Türk Cumhuriyeti Hükûmeti veya Tatar Hükûmeti, Kuzey Kıbrıs Türk Cumhuriyeti'nde Ulusal Birlik Partisi Genel Başkanı Ersin Tatar'ın başbakanlığında; Halkın Partisi ile 22 Mayıs 2019 tarihinde kurulan hükûmettir. Cumhurbaşkanı Mustafa Akıncı'nın 2018 erken genel seçimlerinin ardından oluşan dörtlü koalisyonun istifasının ardından görevlendirdiği Ersin Tatar tarafından oluşturulmuştur.",
+      "char_count": 403,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0001",
+      "section": "== Oluşumu ==",
+      "heading_path": "== Oluşumu ==",
+      "start_char": 404,
+      "end_char": 965,
+      "content": "== Oluşumu == Demokrat Parti Genel Başkanı ve Maliye Bakanı Serdar Denktaş'ın bakanlık görevinden istifası ve Halkın Partisinin hükûmetten çekilme kararı almasının ardından Tufan Erhürman hükûmetin istifasını Cumhurbaşkanı Mustafa Akıncı'ya sundu. Yeni hükûmeti oluşturma görevini alan Ersin Tatar ise Halkın Partisi Genel Başkanı Kudret Özersay ile imzaladığı koalisyon protokolüne müteakiben yeni kabineyi onaylanmak üzere 22 Mayıs'ta Cumhurbaşkanı'na sundu. Cumhurbaşkanı Mustafa Akıncı aynı gün yeni hükûmeti göreve atadığını Cumhuriyet Meclisine bildirdi.",
+      "char_count": 560,
+      "token_estimate": 140
+    },
+    {
+      "id": "c0002",
+      "section": "== Düşmesi ==",
+      "heading_path": "== Düşmesi ==",
+      "start_char": 965,
+      "end_char": 1965,
+      "content": "== Düşmesi == 6 Ekim 2020'de, cumhurbaşkanlığı seçimi öncesindeki haftada, Başbakan Ersin Tatar'ın Halkın Partisi kanadıyla görüşmeden Türkiye'de Recep Tayyip Erdoğan'la birlikte Maraş'ın sahil şeridinin açılacağını açıklaması üzerine, Halkın Partisi hükûmetten çekilme kararı aldı. Bu karardan sonra hükûmetin düştüğü bildirildi. Başbakan Yardımcısı ve Dışişleri Bakanı Kudret Özersay, ilk açıklamasında açılım kararından Tatar'ı araması üzerine \"birkaç saat önce\" haberi olduğunu, bunun koalisyonun tek bir kanadının attığı bir adım olduğunu, Maraş'ın açılması projesinin hayata geçmesi için Bakanlar Kurulu kararı gerekip bunun yalnızca bir açıklama olduğunu söyledi. Bunun ardından toplanan Halkın Partisinin Parti Meclisi, Maraş'ın \"seçim malzemesi\" edilmiş olması ve \"Kudret Özersay'ın devre dışı bırakılmış olması\" nedeniyle hükûmetten çekilme kararı aldı, Parti Başkanı Yenal Senin, kararın müsebbibi olarak Ersin Tatar'ı gösterdi. Hükûmetten çekilme kararının ardından Özersay, \"Cumhurbaşkan",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Düşmesi ==",
+      "heading_path": "== Düşmesi ==",
+      "start_char": 1765,
+      "end_char": 2329,
+      "content": "şı bırakılmış olması\" nedeniyle hükûmetten çekilme kararı aldı, Parti Başkanı Yenal Senin, kararın müsebbibi olarak Ersin Tatar'ı gösterdi. Hükûmetten çekilme kararının ardından Özersay, \"Cumhurbaşkanı adayları, nasıl devletin kurumunu yok sayar? Nasıl bir koalisyon ortağının iradesi yok sayılır? Kıbrıs Türk halkının iradesi nasıl yok sayılır?\" açıklamasında bulundu. Tatar ise yaptığı açıklamada çekilme kararını doğru bulmadığını, Maraş kararını kesinleştirdiğinde Özersay'ı arayıp ilettiğini ve devre dışı bırakma iddiasının gerçeği yansıtmadığını ifade etti.",
+      "char_count": 564,
+      "token_estimate": 141
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Halkın Partisi hangi gelişme üzerine hükûmetten çekilme kararı almıştır?",
+        "answer": "Başbakan Ersin Tatar'ın Halkın Partisi kanadıyla görüşmeden Türkiye'de Recep Tayyip Erdoğan'la birlikte Maraş'ın sahil şeridinin açılacağını açıklaması üzerine.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tatar Hükûmeti'nin kurulmasına yol açan koşullar nelerdi ve bu hükûmetin düşmesine neden olan özel olay neydi?",
+        "answer": "Tatar Hükûmeti'nin kurulması, Cumhurbaşkanı Mustafa Akıncı'nın 2018 erken genel seçimlerinin ardından oluşan dörtlü koalisyonun istifasını takiben Ersin Tatar'ı görevlendirmesiyle gerçekleşti. Bu istifa, Demokrat Parti Genel Başkanı ve Maliye Bakanı Serdar Denktaş'ın bakanlık görevinden istifası ve Halkın Partisi'nin önceki hükûmetten çekilme kararı almasının ardından Tufan Erhürman hükûmetinin düşmesiyle meydana geldi. Ersin Tatar, Halkın Partisi Genel Başkanı Kudret Özersay ile imzaladığı koalisyon protokolüyle Halkın Partisi ile birlikte yeni kabineyi 22 Mayıs 2019'da oluşturdu. Hükûmetin düşmesine neden olan özel olay ise, Başbakan Ersin Tatar'ın 6 Ekim 2020'de, Halkın Partisi kanadıyla görüşmeden Türkiye'de Recep Tayyip Erdoğan'la birlikte Maraş'ın sahil şeridinin açılacağını açıklamasıydı. Bu durum üzerine Halkın Partisi, Maraş'ın 'seçim malzemesi' yapıldığını ve kendi liderleri Kudret Özersay'ın devre dışı bırakıldığını belirterek hükûmetten çekilme kararı aldı ve hükûmet düştü.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

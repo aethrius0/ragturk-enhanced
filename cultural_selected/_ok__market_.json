@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "okmarket_4caf8476",
+    "title": "Şok (market)",
+    "url": "https://tr.wikipedia.org/wiki/%C5%9Eok_%28market%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:37.123512",
+    "content": "ŞOK Marketler Ticaret A.Ş., Türkiye merkezli bir indirim marketleri zinciridir. Şirket, 1995 yılında Migros tarafından kurulmuş olup Ağustos 2011 tarihinde Yıldız Holding şirketlerinden Gözde Girişim liderliğinde bir konsorsiyum tarafından satın alındı. Şirketin merkezi İstanbul'un Üsküdar ilçesinde yer almaktadır. Şok, benzer Türk indirim marketleri zincirleri olan BİM ve A101'in baş rakibidir. == Tarihçe == ŞOK Marketler Ticaret A.Ş., 1995 yılında 13 mağaza açarak faaliyetine başladı. Amaç ucuz ve az masraflı ufak boyutlu yaygın bir mağaza ağı kurmak ve raf sistemindeki özelliklerle az personel çalıştırmak ve maliyeti düşürmekti. Migros Ticaret A.Ş. döneminde sırasıyla 2000 yılında 291, 2005 yılında 311, 2009 yılında 980, 2010 yılında 1254 mağaza sayısına ulaşmıştır. 2024 yıl sonu itibarıyla toplam mağaza sayısı 10.981 olmuştur. 2011'in Ağustos ayında Yıldız Holding şirketlerinden Gözde Girişim liderliğinde bir konsorsiyum tarafından satın alındı. Satışla birlikte konseptini tamamen yenileyen Şok Market, mağazalarını baştan sona yeniledi. Şirket 2015 yılı itibarıyla tekrar büyüme kararı alarak, 30 Aralık 2016 tarihli verilere göre 4.000 şube sayısına ulaşmıştır. 2021 yılında internet sektörüne girerek Şok Net'i kurmuştur. == Şok markaları == === Migros dönemi markalar === Badi Dinçol ŞOK Ada Çiftliği Sakura Döktüm Maldiv Yuka Dikmen === Ülker dönemi markalar === == Kaynakça == == Dış bağlantılar == Resmî site Şok Net",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1442,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.939496",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 399,
+      "content": "ŞOK Marketler Ticaret A.Ş., Türkiye merkezli bir indirim marketleri zinciridir. Şirket, 1995 yılında Migros tarafından kurulmuş olup Ağustos 2011 tarihinde Yıldız Holding şirketlerinden Gözde Girişim liderliğinde bir konsorsiyum tarafından satın alındı. Şirketin merkezi İstanbul'un Üsküdar ilçesinde yer almaktadır. Şok, benzer Türk indirim marketleri zincirleri olan BİM ve A101'in baş rakibidir.",
+      "char_count": 398,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 399,
+      "end_char": 1244,
+      "content": "== Tarihçe == ŞOK Marketler Ticaret A.Ş., 1995 yılında 13 mağaza açarak faaliyetine başladı. Amaç ucuz ve az masraflı ufak boyutlu yaygın bir mağaza ağı kurmak ve raf sistemindeki özelliklerle az personel çalıştırmak ve maliyeti düşürmekti. Migros Ticaret A.Ş. döneminde sırasıyla 2000 yılında 291, 2005 yılında 311, 2009 yılında 980, 2010 yılında 1254 mağaza sayısına ulaşmıştır. 2024 yıl sonu itibarıyla toplam mağaza sayısı 10.981 olmuştur. 2011'in Ağustos ayında Yıldız Holding şirketlerinden Gözde Girişim liderliğinde bir konsorsiyum tarafından satın alındı. Satışla birlikte konseptini tamamen yenileyen Şok Market, mağazalarını baştan sona yeniledi. Şirket 2015 yılı itibarıyla tekrar büyüme kararı alarak, 30 Aralık 2016 tarihli verilere göre 4.000 şube sayısına ulaşmıştır. 2021 yılında internet sektörüne girerek Şok Net'i kurmuştur.",
+      "char_count": 844,
+      "token_estimate": 211
+    },
+    {
+      "id": "c0002",
+      "section": "=== Migros dönemi markalar ===",
+      "heading_path": "=== Migros dönemi markalar ===",
+      "start_char": 1264,
+      "end_char": 1357,
+      "content": "=== Migros dönemi markalar === Badi Dinçol ŞOK Ada Çiftliği Sakura Döktüm Maldiv Yuka Dikmen",
+      "char_count": 92,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1402,
+      "end_char": 1442,
+      "content": "== Dış bağlantılar == Resmî site Şok Net",
+      "char_count": 40,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "ŞOK Marketler Ticaret A.Ş. kaç yılında ve kaç mağaza ile faaliyetine başlamıştır?",
+        "answer": "ŞOK Marketler Ticaret A.Ş., 1995 yılında 13 mağaza ile faaliyetine başlamıştır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "ŞOK Marketler'in 2011 yılında Yıldız Holding şirketlerinden Gözde Girişim liderliğindeki bir konsorsiyum tarafından satın alınmasının ardından şirketin konsepti ve büyüme stratejisi nasıl bir değişim geçirmiştir?",
+        "answer": "ŞOK Marketler, 1995 yılında Migros tarafından kurulduğunda ucuz ve az masraflı ufak boyutlu yaygın bir mağaza ağı kurmayı hedeflemişken, 2011'deki satın almanın ardından konseptini tamamen yenilemiş, mağazalarını baştan sona yenilemiş ve 2015 yılından itibaren tekrar hızlı bir büyüme kararı alarak mağaza sayısını önemli ölçüde artırmıştır. Ayrıca 2021 yılında internet sektörüne Şok Net ile girerek faaliyet alanını genişletmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

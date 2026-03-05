@@ -1,0 +1,144 @@
+{
+  "article": {
+    "id": "jeremybrett_ac204062",
+    "title": "Jeremy Brett",
+    "url": "https://tr.wikipedia.org/wiki/Jeremy_Brett",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:42.425963",
+    "content": "Jeremy Brett (3 Kasım 1933 – 12 Eylül 1995), gerçek adı Peter Jeremy William Huggins olan ünlü İngiliz aktör, özellikle canlandırdığı Sherlock Holmes karakteriyle tanınır. === Gençliği === Warwickshire, İngiltere'de dünyaya geldi. Eton Koleji'nde eğitimini sürdürdü. Brett buradaki eğitimini akademik bir facia olarak anlatır. Buradaki başarısızlığı okuma güçlüğüne bağlanır. Ancak Brett müzik derslerinde başarılı olmuş ve okul korosuna seçilmiştir. === Oyunculuk Geçmişi === Londra'da drama eğitimini tamamladıktan sonra ilk profesyonel deneyimi 1954 yılında Manchester'de olur.1956 yılında Londra'da ve Broadway'de sahneye çıkar. Richard II adlı eserde Aumerle Dükünü canlandırır. Özellikle klasik eserleri tercih edecek ve William Shakespeare eserlerini yorumlar. İlk televizyon deneyimi 1954 yılındadır, ilk filmi ise 1955'tedir.Sean Connery 1967 yılında James Bond filmlerinde oynamayacağını açıkladıktan sonra Bond rolü için düşünüldüyse de rol George Lazenby'ye verilmiştir. Daha sonra ise bu rol Roger Moore'a verilecektir.1960'lı yılların başında Brett İngiliz televizyon ekranlarında sık sık rol alır. 1966 uyarlaması olan Üç Silahşörler filminde D'Artagnan rolünü oynar. 1973 yılında Shakespeare'in Venedik Taciri adlı eserinde Bassanio'yu canlandırdı. Bu televizyon filminde Shylock karakterini Laurence Olivier canlandırdı.Sinema filmlerinde seyrek olarak rol alsa da 1964 yılında ünlü My Fair Lady müzikal filminde Freddie Eynsford-Hill karakterini oynamıştır. Brett'in sesi eğitimli olmasına rağmen rol gereği söylediği şarkılara dublaj yapılmıştır. === Sherlock Holmes === Uzun yıllar süren sanatçı geçmişinde canlandırdığı çeşitli rollerden en çok bilineni 1984-1994 yılları arasında ITV Granada Televizyonu filmlerindeki Sherlock Holmes karakteridir. Sir Arthur Conan Doyle'un ölümsüz eseri John Hawkesworth tarafından adapte edilmişti. Brett 41 bölümde oynamıştır. Bu zor rolü hakkıyla icra ettikten sonra eleştirmenler tarafından çağımızın en başarılı Holmes tiplemesi olarak gösterilmektedir. Bu rolde ona Dr. Watson rolüyle iki ayrı aktör; David Burke ve Edward Hardwicke eşlik etmiştir. === Son Zamanları === Brett'in bipolar rahatsızlığı ikinci eşi Joan Wilson'un 1985 yılında ölümüyle daha da kötüleşti. Holmes çekimlerine bir süre ara veren Brett, geri döndüğünde oldukça kötülemiş durumdaydı. Hayatının son zamanlarında hastalık manik-depresif bir hal aldı ve Brett hastanede birçok kez tedavi edildi. Ömrünün son yıllarında hastalık hakkında daha rahat konuşuyor ve insanları bu hastalığa karşı uyarıyor, tedavi olmaları gerektiğine inandırmaya çalışıyordu. Holmes maceralarının tamamını Brett ile çekme planı sanatçının Londra'da kalp krizi sonucu ölmesiyle iptal edildi. Sanatçının sağlığının bozulmasında en önemli etkenlerden birisi de çok yoğun sigara içmesiydi. === Ailesi === 1958 yılında Brett aktris Anna Massey ile evlendi ama çift 1962 yılında ayrıldı. Oğulları David Huggins 1959 yılında doğmuştur, halen başarılı bir karikatürist ve yazardır. 1977 yılında Brett Amerikalı PBS yapımcısı Joan Wilson ile evlendi. Eşi 1985 yılında kanserden öldü. === Filmleri === Svengali (1954) War and Peace (1956)...Nikolay Rostov rolünde The Very Edge (1962) The Wild and the Willing (1962) Girl in the Headlines (1963) Act of Reprisal (1964) My Fair Lady (1964)...Freddy Eynsford-Hill rolünde Nicholas and Alexandra (1971) The Medusa Touch (1978) Mad Dogs and Englishmen (1995) Moll Flanders (1996) == Kaynakça == == Dış bağlantılar == IMDb'de Jeremy Brett 16 Eylül 2008 tarihinde Wayback Machine sitesinde arşivlendi.:Jeremy Brett hayranlarının kurduğu internet sitesi (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 479,
+      "char_count": 3609,
+      "num_chunks": 9,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.085141",
+    "total_chunks": 9,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 172,
+      "content": "Jeremy Brett (3 Kasım 1933 – 12 Eylül 1995), gerçek adı Peter Jeremy William Huggins olan ünlü İngiliz aktör, özellikle canlandırdığı Sherlock Holmes karakteriyle tanınır.",
+      "char_count": 171,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0001",
+      "section": "=== Gençliği ===",
+      "heading_path": "=== Gençliği ===",
+      "start_char": 172,
+      "end_char": 451,
+      "content": "=== Gençliği === Warwickshire, İngiltere'de dünyaya geldi. Eton Koleji'nde eğitimini sürdürdü. Brett buradaki eğitimini akademik bir facia olarak anlatır. Buradaki başarısızlığı okuma güçlüğüne bağlanır. Ancak Brett müzik derslerinde başarılı olmuş ve okul korosuna seçilmiştir.",
+      "char_count": 278,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0002",
+      "section": "=== Oyunculuk Geçmişi ===",
+      "heading_path": "=== Oyunculuk Geçmişi ===",
+      "start_char": 451,
+      "end_char": 1451,
+      "content": "=== Oyunculuk Geçmişi === Londra'da drama eğitimini tamamladıktan sonra ilk profesyonel deneyimi 1954 yılında Manchester'de olur.1956 yılında Londra'da ve Broadway'de sahneye çıkar. Richard II adlı eserde Aumerle Dükünü canlandırır. Özellikle klasik eserleri tercih edecek ve William Shakespeare eserlerini yorumlar. İlk televizyon deneyimi 1954 yılındadır, ilk filmi ise 1955'tedir.Sean Connery 1967 yılında James Bond filmlerinde oynamayacağını açıkladıktan sonra Bond rolü için düşünüldüyse de rol George Lazenby'ye verilmiştir. Daha sonra ise bu rol Roger Moore'a verilecektir.1960'lı yılların başında Brett İngiliz televizyon ekranlarında sık sık rol alır. 1966 uyarlaması olan Üç Silahşörler filminde D'Artagnan rolünü oynar. 1973 yılında Shakespeare'in Venedik Taciri adlı eserinde Bassanio'yu canlandırdı. Bu televizyon filminde Shylock karakterini Laurence Olivier canlandırdı.Sinema filmlerinde seyrek olarak rol alsa da 1964 yılında ünlü My Fair Lady müzikal filminde Freddie Eynsford-Hill",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Oyunculuk Geçmişi ===",
+      "heading_path": "=== Oyunculuk Geçmişi ===",
+      "start_char": 1251,
+      "end_char": 1565,
+      "content": " canlandırdı. Bu televizyon filminde Shylock karakterini Laurence Olivier canlandırdı.Sinema filmlerinde seyrek olarak rol alsa da 1964 yılında ünlü My Fair Lady müzikal filminde Freddie Eynsford-Hill karakterini oynamıştır. Brett'in sesi eğitimli olmasına rağmen rol gereği söylediği şarkılara dublaj yapılmıştır.",
+      "char_count": 314,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0004",
+      "section": "=== Sherlock Holmes ===",
+      "heading_path": "=== Sherlock Holmes ===",
+      "start_char": 1566,
+      "end_char": 2111,
+      "content": "=== Sherlock Holmes === Uzun yıllar süren sanatçı geçmişinde canlandırdığı çeşitli rollerden en çok bilineni 1984-1994 yılları arasında ITV Granada Televizyonu filmlerindeki Sherlock Holmes karakteridir. Sir Arthur Conan Doyle'un ölümsüz eseri John Hawkesworth tarafından adapte edilmişti. Brett 41 bölümde oynamıştır. Bu zor rolü hakkıyla icra ettikten sonra eleştirmenler tarafından çağımızın en başarılı Holmes tiplemesi olarak gösterilmektedir. Bu rolde ona Dr. Watson rolüyle iki ayrı aktör; David Burke ve Edward Hardwicke eşlik etmiştir.",
+      "char_count": 544,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0005",
+      "section": "=== Son Zamanları ===",
+      "heading_path": "=== Son Zamanları ===",
+      "start_char": 2111,
+      "end_char": 2797,
+      "content": "=== Son Zamanları === Brett'in bipolar rahatsızlığı ikinci eşi Joan Wilson'un 1985 yılında ölümüyle daha da kötüleşti. Holmes çekimlerine bir süre ara veren Brett, geri döndüğünde oldukça kötülemiş durumdaydı. Hayatının son zamanlarında hastalık manik-depresif bir hal aldı ve Brett hastanede birçok kez tedavi edildi. Ömrünün son yıllarında hastalık hakkında daha rahat konuşuyor ve insanları bu hastalığa karşı uyarıyor, tedavi olmaları gerektiğine inandırmaya çalışıyordu. Holmes maceralarının tamamını Brett ile çekme planı sanatçının Londra'da kalp krizi sonucu ölmesiyle iptal edildi. Sanatçının sağlığının bozulmasında en önemli etkenlerden birisi de çok yoğun sigara içmesiydi.",
+      "char_count": 685,
+      "token_estimate": 171
+    },
+    {
+      "id": "c0006",
+      "section": "=== Ailesi ===",
+      "heading_path": "=== Ailesi ===",
+      "start_char": 2797,
+      "end_char": 3086,
+      "content": "=== Ailesi === 1958 yılında Brett aktris Anna Massey ile evlendi ama çift 1962 yılında ayrıldı. Oğulları David Huggins 1959 yılında doğmuştur, halen başarılı bir karikatürist ve yazardır. 1977 yılında Brett Amerikalı PBS yapımcısı Joan Wilson ile evlendi. Eşi 1985 yılında kanserden öldü.",
+      "char_count": 288,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0007",
+      "section": "=== Filmleri ===",
+      "heading_path": "=== Filmleri ===",
+      "start_char": 3086,
+      "end_char": 3427,
+      "content": "=== Filmleri === Svengali (1954) War and Peace (1956)...Nikolay Rostov rolünde The Very Edge (1962) The Wild and the Willing (1962) Girl in the Headlines (1963) Act of Reprisal (1964) My Fair Lady (1964)...Freddy Eynsford-Hill rolünde Nicholas and Alexandra (1971) The Medusa Touch (1978) Mad Dogs and Englishmen (1995) Moll Flanders (1996)",
+      "char_count": 340,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0008",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3442,
+      "end_char": 3609,
+      "content": "== Dış bağlantılar == IMDb'de Jeremy Brett 16 Eylül 2008 tarihinde Wayback Machine sitesinde arşivlendi.:Jeremy Brett hayranlarının kurduğu internet sitesi (İngilizce)",
+      "char_count": 167,
+      "token_estimate": 41
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Londra'da drama eğitimini tamamladıktan sonra ilk profesyonel deneyimini ne zaman ve nerede yaşadı?",
+        "answer": "1954 yılında Manchester'da.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jeremy Brett'in Eton Koleji'ndeki akademik zorlukları, oyunculuk kariyerinde özellikle tercih ettiği klasik eserler ve tanındığı rollerle nasıl bir tezat oluşturmaktadır?",
+        "answer": "Jeremy Brett, Eton Koleji'nde eğitimini okuma güçlüğü nedeniyle \"akademik bir facia\" olarak tanımlamışken, oyunculuk kariyerinde William Shakespeare'in eserleri gibi klasik yapımları yorumlamayı tercih ederek (örneğin Richard II ve Venedik Taciri'nde rol alarak) ve özellikle Sherlock Holmes karakteriyle tanınarak, erken dönemdeki akademik zorluklarına rağmen karmaşık ve entelektüel rollerde üstün bir başarı ve ifade yeteneği sergilemiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

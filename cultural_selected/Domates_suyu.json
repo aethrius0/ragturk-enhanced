@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "domatessuyu_9a452357",
+    "title": "Domates suyu",
+    "url": "https://tr.wikipedia.org/wiki/Domates_suyu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:46.337829",
+    "content": "Domates suyu, domatesten yapılan bir meyve suyudur ve genellikle sade veya Bloody Mary, Ceasar veya Michelada gibi kokteyllerde içecek olarak kullanılır. == Tarihi == Domates suyu ilk olarak 1917'de Louis Perrin tarafından güney Indiana'daki French Lick Springs Hotel'de portakal suyu bittiğinde ve hızlı bir ikame ihtiyacı olduğunda içecek olarak sunuldu. Sıkıştırılmış domates, şeker ve özel sostan oluşan kombinasyonu, Chicago işadamlarının domates suyu kokteylini yaymasıyla anında başarıya ulaştı. == Üretim == Birçok ticari domates suyu üreticisi de tuz ekler. Soğan tozu, sarımsak tozu ve diğer baharatlar gibi diğer bileşenler de sıklıkla eklenir. Amerika Birleşik Devletleri'nde seri üretilen domates suyu 1920'lerin ortalarında pazarlanmaya başlandı ve birkaç yıl sonra popüler bir kahvaltı içeceği haline geldi. Amerika Birleşik Devletleri'nde çoğu domates suyu salçadan yapılır, ancak preslenmesine de izin verilir. Domateslerin olgun (bitmiş üründe bir renk standardı kullanılarak), çoğunlukla lekesiz ve çoğunlukla çekirdeksiz olması gerekir. Toplam katı içeriği %5.0'dan fazladır ve su ilave edilmesine izin verilmez. Ek tuz ve organik asit düzenleyicilere izin verilir, ancak tatlandırıcılara izin verilmez. Kanada'da domates suyu konsantre edilmemiş ve pastörize edilmiştir. İzin verilen katkı maddelerinin bir tatlandırıcı ajan, sitrik asit ve tuz olması dışında, diğer gereksinimler büyük ölçüde benzerdir. Sulandırılmış meyve sularının genel olarak açık bir şekilde etiketlenmesi gerekir. == Kullanımı == Bloody Mary karışımında bulunan diğer malzemelerle birlikte domates suyu Kanada ve Meksika'da domates suyu genellikle bira ile karıştırılır. Karışım Kanada'da Calgary Red-Eye ve Meksika'da \"Cerveza preparada\" olarak bilinir. Domates suyu, Bloody Mary ve Bloody Caesar kokteyllerinin ve kokteyl mikseri Clamato'nun temelidir. Birleşik Krallık'ta domates suyu genellikle Worcestershire sosuyla birleştirilir. Almanya'da, domates suyu, Mexikaner karışık \"shot\"ının temel bileşenidir. Soğutulmuş domates suyu eskiden Amerika Birleşik Devletleri'ndeki restoranlarda meze olarak popüler olmuştu. Domates suyu sıklıkla konserve domatesler için bir ambalaj sıvısı olarak kullanılır. Ancak sebzelere karşı soslara ilişkin tarife sorunları nedeniyle bazen uluslararası ticaret için domates püresi ile değiştirilir. Cook's Illustrated dergisine göre, püre yerine meyve suyuyla paketlenmiş domatesler tat testlerini kazanma eğilimindedir ve tadı daha taze olarak algılanır. Domates suyu, çeşitli Lactobacillus türlerini kültürlemek için kullanılan domates suyu agarının hazırlanmasında kullanılır. Domates suyu, uçak yolcuları arasında popüler bir içecektir. Yan ve Dando tarafından yapılan küçük bir çalışma, bunun, kabinin gürültülü ve basınçlı ortamındayken artan umami aroması algısından kaynaklandığını ima etmektedir. Alternatif bir açıklama, sinemada patlamış mısır yemeye benzer bir gelenek haline gelmesidir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 375,
+      "char_count": 2945,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.764570",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 154,
+      "content": "Domates suyu, domatesten yapılan bir meyve suyudur ve genellikle sade veya Bloody Mary, Ceasar veya Michelada gibi kokteyllerde içecek olarak kullanılır.",
+      "char_count": 153,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 154,
+      "end_char": 503,
+      "content": "== Tarihi == Domates suyu ilk olarak 1917'de Louis Perrin tarafından güney Indiana'daki French Lick Springs Hotel'de portakal suyu bittiğinde ve hızlı bir ikame ihtiyacı olduğunda içecek olarak sunuldu. Sıkıştırılmış domates, şeker ve özel sostan oluşan kombinasyonu, Chicago işadamlarının domates suyu kokteylini yaymasıyla anında başarıya ulaştı.",
+      "char_count": 348,
+      "token_estimate": 87
+    },
+    {
+      "id": "c0002",
+      "section": "== Üretim ==",
+      "heading_path": "== Üretim ==",
+      "start_char": 503,
+      "end_char": 1503,
+      "content": "== Üretim == Birçok ticari domates suyu üreticisi de tuz ekler. Soğan tozu, sarımsak tozu ve diğer baharatlar gibi diğer bileşenler de sıklıkla eklenir. Amerika Birleşik Devletleri'nde seri üretilen domates suyu 1920'lerin ortalarında pazarlanmaya başlandı ve birkaç yıl sonra popüler bir kahvaltı içeceği haline geldi. Amerika Birleşik Devletleri'nde çoğu domates suyu salçadan yapılır, ancak preslenmesine de izin verilir. Domateslerin olgun (bitmiş üründe bir renk standardı kullanılarak), çoğunlukla lekesiz ve çoğunlukla çekirdeksiz olması gerekir. Toplam katı içeriği %5.0'dan fazladır ve su ilave edilmesine izin verilmez. Ek tuz ve organik asit düzenleyicilere izin verilir, ancak tatlandırıcılara izin verilmez. Kanada'da domates suyu konsantre edilmemiş ve pastörize edilmiştir. İzin verilen katkı maddelerinin bir tatlandırıcı ajan, sitrik asit ve tuz olması dışında, diğer gereksinimler büyük ölçüde benzerdir. Sulandırılmış meyve sularının genel olarak açık bir şekilde etiketlenmesi ger",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Üretim ==",
+      "heading_path": "== Üretim ==",
+      "start_char": 1303,
+      "end_char": 1508,
+      "content": "n katkı maddelerinin bir tatlandırıcı ajan, sitrik asit ve tuz olması dışında, diğer gereksinimler büyük ölçüde benzerdir. Sulandırılmış meyve sularının genel olarak açık bir şekilde etiketlenmesi gerekir.",
+      "char_count": 205,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0004",
+      "section": "== Kullanımı ==",
+      "heading_path": "== Kullanımı ==",
+      "start_char": 1509,
+      "end_char": 2509,
+      "content": "== Kullanımı == Bloody Mary karışımında bulunan diğer malzemelerle birlikte domates suyu Kanada ve Meksika'da domates suyu genellikle bira ile karıştırılır. Karışım Kanada'da Calgary Red-Eye ve Meksika'da \"Cerveza preparada\" olarak bilinir. Domates suyu, Bloody Mary ve Bloody Caesar kokteyllerinin ve kokteyl mikseri Clamato'nun temelidir. Birleşik Krallık'ta domates suyu genellikle Worcestershire sosuyla birleştirilir. Almanya'da, domates suyu, Mexikaner karışık \"shot\"ının temel bileşenidir. Soğutulmuş domates suyu eskiden Amerika Birleşik Devletleri'ndeki restoranlarda meze olarak popüler olmuştu. Domates suyu sıklıkla konserve domatesler için bir ambalaj sıvısı olarak kullanılır. Ancak sebzelere karşı soslara ilişkin tarife sorunları nedeniyle bazen uluslararası ticaret için domates püresi ile değiştirilir. Cook's Illustrated dergisine göre, püre yerine meyve suyuyla paketlenmiş domatesler tat testlerini kazanma eğilimindedir ve tadı daha taze olarak algılanır. Domates suyu, çeşitli ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Kullanımı ==",
+      "heading_path": "== Kullanımı ==",
+      "start_char": 2309,
+      "end_char": 2930,
+      "content": "si ile değiştirilir. Cook's Illustrated dergisine göre, püre yerine meyve suyuyla paketlenmiş domatesler tat testlerini kazanma eğilimindedir ve tadı daha taze olarak algılanır. Domates suyu, çeşitli Lactobacillus türlerini kültürlemek için kullanılan domates suyu agarının hazırlanmasında kullanılır. Domates suyu, uçak yolcuları arasında popüler bir içecektir. Yan ve Dando tarafından yapılan küçük bir çalışma, bunun, kabinin gürültülü ve basınçlı ortamındayken artan umami aroması algısından kaynaklandığını ima etmektedir. Alternatif bir açıklama, sinemada patlamış mısır yemeye benzer bir gelenek haline gelmesidir.",
+      "char_count": 621,
+      "token_estimate": 155
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Amerika Birleşik Devletleri'nde seri üretilen domates suyu ne zaman pazarlanmaya başlandı?",
+        "answer": "1920'lerin ortalarında.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Domates suyu ilk olarak ne zaman ve kim tarafından bir içecek olarak tanıtıldı ve ticari üreticilerin pazara girmesiyle bileşiminde ne gibi değişiklikler oldu?",
+        "answer": "Domates suyu, 1917'de Louis Perrin tarafından güney Indiana'daki French Lick Springs Hotel'de, portakal suyu yerine sıkıştırılmış domates, şeker ve özel sostan oluşan bir kombinasyon olarak bir içecek olarak tanıtıldı. Ticari üreticiler Amerika Birleşik Devletleri'nde 1920'lerin ortalarında pazara girmeye başladığında, genellikle tuz, soğan tozu, sarımsak tozu ve diğer baharatları eklemeye başladılar. ABD'de tatlandırıcılara izin verilmezken, Kanada'da tatlandırıcı ajanlar ve sitrik asit gibi katkı maddelerine izin verildi, bu da başlangıçtaki bileşime göre bir evrimi işaret etmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

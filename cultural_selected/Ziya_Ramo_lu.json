@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "ziyaramolu_ba40f122",
+    "title": "Ziya Ramoğlu",
+    "url": "https://tr.wikipedia.org/wiki/Ziya_Ramo%C4%9Flu",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:44.332194",
+    "content": "Ziya Ramoğlu (1932, Of, Trabzon - 11 Kasım 2007, Adana), Türk karikatürist, ressam ve fotoğrafçıdır. Barış temalı karikatürleri ile tanınmaktadır. == Hayatı == Ramoğlu 1932'de Of'ta doğdu. 1951 yılında amatör olarak karikatür ile uğraşmaya başladı. 1950'li yıllarda konuk öğrenci olarak İstanbul Devlet Güzel Sanatlar Akademisi'ndeki derslere katılarak sanatçı kariyerine başladı. İlk karikatürleri 1956'da Dolmuş dergisinde, ilk desenleri ise Varlık dergisinde yayımlandı. Aynı yıl Trabzon'da Karikatür Denemeleri sergisini açtı. 3 yıl sonra aldığı eğitim bursu ile Paris'teki Ecole ABC de Desin sanat okulunda eğitim almaya başladı. 1960'ta Paris'te çalışması için davet aldıysa da, abisi Salih Zeki Ramoğlu'nun 27 Mayıs Darbesinde tutuklanmasıyla yurtdışına çıkış yasağı aldı. 1960'lı yıllarda yaptığı karikatürler Hayat dergisinde yayımlandı. Türk Basın Kulübü'nün 1971'de düzenlediği ve Akdeniz'deki limanları gezen Ankara gemisinde Yüzen Sergi isimli sergisini açtı. Tanınırlığı arttıktan sonra karikatürleri The New York Times, The Washington Post, The Guardian ve The Times gibi gazetelerde yayımlandı. 1975'te Parola Aşk isimli pembe mizah kitabını çıkardı. 11 Kasım 2007'de Adana'daki bir özel hastanede hayatını kaybetti. == Mirası == Yazar Atilla Aşut, Of'tan dünyaya karikatür köprüsü kuran adam: Ziya Ramoğlu isimli köşe yazısında Ramoğlu'nu konu aldı. Ramoğlu'nun adı Of Belediyesi Ressam Ziya Ramoğlu Kültür ve Sanat Evi'ne verildi. Bülent Sümer ve Adnan Taç Ramoğlu'nun hayatını konu alan Karikatürde Bir Ziya isimli kitabı yazdı. 2013'te Alman karikatürist Lutz Backes, Ramoğlu'nun adına Trabzon'da karikatür sergisi açtı. 2021 yılında Van'daki 9. Karikatür Yarışması Ödül Töreni'nde Ramoğlu'nun adına özel ödül verildi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 237,
+      "char_count": 1753,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.441699",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 147,
+      "content": "Ziya Ramoğlu (1932, Of, Trabzon - 11 Kasım 2007, Adana), Türk karikatürist, ressam ve fotoğrafçıdır. Barış temalı karikatürleri ile tanınmaktadır.",
+      "char_count": 146,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 147,
+      "end_char": 1147,
+      "content": "== Hayatı == Ramoğlu 1932'de Of'ta doğdu. 1951 yılında amatör olarak karikatür ile uğraşmaya başladı. 1950'li yıllarda konuk öğrenci olarak İstanbul Devlet Güzel Sanatlar Akademisi'ndeki derslere katılarak sanatçı kariyerine başladı. İlk karikatürleri 1956'da Dolmuş dergisinde, ilk desenleri ise Varlık dergisinde yayımlandı. Aynı yıl Trabzon'da Karikatür Denemeleri sergisini açtı. 3 yıl sonra aldığı eğitim bursu ile Paris'teki Ecole ABC de Desin sanat okulunda eğitim almaya başladı. 1960'ta Paris'te çalışması için davet aldıysa da, abisi Salih Zeki Ramoğlu'nun 27 Mayıs Darbesinde tutuklanmasıyla yurtdışına çıkış yasağı aldı. 1960'lı yıllarda yaptığı karikatürler Hayat dergisinde yayımlandı. Türk Basın Kulübü'nün 1971'de düzenlediği ve Akdeniz'deki limanları gezen Ankara gemisinde Yüzen Sergi isimli sergisini açtı. Tanınırlığı arttıktan sonra karikatürleri The New York Times, The Washington Post, The Guardian ve The Times gibi gazetelerde yayımlandı. 1975'te Parola Aşk isimli pembe miza",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 947,
+      "end_char": 1232,
+      "content": "gi isimli sergisini açtı. Tanınırlığı arttıktan sonra karikatürleri The New York Times, The Washington Post, The Guardian ve The Times gibi gazetelerde yayımlandı. 1975'te Parola Aşk isimli pembe mizah kitabını çıkardı. 11 Kasım 2007'de Adana'daki bir özel hastanede hayatını kaybetti.",
+      "char_count": 285,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0003",
+      "section": "== Mirası ==",
+      "heading_path": "== Mirası ==",
+      "start_char": 1233,
+      "end_char": 1739,
+      "content": "== Mirası == Yazar Atilla Aşut, Of'tan dünyaya karikatür köprüsü kuran adam: Ziya Ramoğlu isimli köşe yazısında Ramoğlu'nu konu aldı. Ramoğlu'nun adı Of Belediyesi Ressam Ziya Ramoğlu Kültür ve Sanat Evi'ne verildi. Bülent Sümer ve Adnan Taç Ramoğlu'nun hayatını konu alan Karikatürde Bir Ziya isimli kitabı yazdı. 2013'te Alman karikatürist Lutz Backes, Ramoğlu'nun adına Trabzon'da karikatür sergisi açtı. 2021 yılında Van'daki 9. Karikatür Yarışması Ödül Töreni'nde Ramoğlu'nun adına özel ödül verildi.",
+      "char_count": 505,
+      "token_estimate": 126
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ramoğlu'nun ilk karikatürleri hangi dergide yayımlanmıştır?",
+        "answer": "Ramoğlu'nun ilk karikatürleri 1956'da Dolmuş dergisinde yayımlanmıştır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ziya Ramoğlu'nun sanatçı kariyerindeki gelişimi ve uluslararası tanınırlığı, kendisinin barış temalı karikatürleriyle tanınmasında nasıl bir rol oynamıştır?",
+        "answer": "Ziya Ramoğlu'nun 1950'li yıllarda amatör olarak karikatürle uğraşmaya başlaması, ilk karikatür ve desenlerinin çeşitli dergilerde yayımlanması, sergiler açması ve aldığı eğitim bursu gibi kariyer gelişimleri; tanınırlığı arttıktan sonra karikatürlerinin The New York Times, The Washington Post, The Guardian ve The Times gibi uluslararası gazetelerde yayımlanmasıyla birlikte, onun barış temalı karikatürleriyle bilinirliğini pekiştirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

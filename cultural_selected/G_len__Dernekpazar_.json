@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "glendernekpazar_2cea5125",
+    "title": "Gülen, Dernekpazarı",
+    "url": "https://tr.wikipedia.org/wiki/G%C3%BClen%2C_Dernekpazar%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:12.123638",
+    "content": "Gülen, Trabzon ilinin Dernekpazarı ilçesine bağlı bir mahalledir. == Tarihçe == Yerleşimin eski adı Visir'dir. Of civarı 1461 yılında Osmanlı egemenliğine girdikten sonra \"Oflare\" adıyla o dönemki Of kazasına bağlı köyler arasında yerleşimden bahsedilmektedir. 1486 yılı tahririne göre köyde; 232 hane, 9 bive (dul kadın), 9 mücerred (yetişkin bekar erkek) ile 1 baştina hanesi bulunmaktadır. 15. yüzyıl kayıtlarına göre köyde Hristiyanlar çoğunlukta olmakla birlikte o dönemde askeri ve devlet görevlisi harici Müslüman nüfus da bulunmaktadır. 1515 yılı tahririne göre köyde; 198 hane, 18 bive (dul kadın), 10 mücerred (yetişkin bekar erkek), 68 baştina hanesi ile 1 müsellem mücerred bulunmaktadır. 1554 yılı kayıtlarında Oflara adıyla yer alan köyde; 162 normal hane, 116 baştina hane, 18 mücerred ile 1 müsellem hane bulunmaktadır. 1583 yılı kayıtlarında Oflare köyü; \"Oflare namı diğer (diğer adıyla) Visir\" ve \"Oflare namı diğer (diğer adıyla) Cemal, Kıranta, Harsingo\" iki ayrı köye bölünmüş olarak yer almaktadır. Visir olarak adlandırılmaya başlayan köyde erkek nüfus; 70 ispenç ve 28 bennak ile 11 mücerred olarak kaydedilmiştir. Buradan yola çıkıldığında köyde Hristiyan ağırlıklı olmak üzere Müslüman-Hristiyan nüfusun bir arada yaşadığı anlaşılmaktadır. 1681 yılı Avarız Defterinde Visir adıyla görülen yerleşimde tamamı Müslüman 16 avarız neferi kaydedilmiştir. Bu neferlerden birisi Osmanlı sarayına doğan yetiştirmekle görevli bir doğancıdır. 1923 Mübadelesi sırasında Bölümlü doğumlu Papaz Yorgos Papadopulos tuttuğu gezi notlarında yerleşimde yaşayanları Türk olarak tanımlarken, Rumca konuştuklarını belirtmiştir. Yine notlarında köylülerin sepetçilik, kömür, balcılık ve ziraatçılık yaptığından bahsetmiştir. Türkiye Cumhuriyetinin kurulmasından sonra Visir adıyla o dönemki Of kazasının Dernekpazarı bucağına bağlı görülen yerleşimin adı 1959 yılında, \"yabancı kökten geldiği ve iltibasa yol açtığı\" gerekçesiyle 7267 sayılı kanunla Gülen olarak değiştirilmiş ve 1960 yılı nüfus sayımından itibaren yeni adıyla kayıtlarda yer almaya başlamıştır. Dernekpazarı'nın 1991 yılında ilçe olmasıyla da bu ilçenin köyü olmuştur. == Coğrafya == Trabzon il merkezine 75 km, Dernekpazarı ilçesine 8 km uzaklıktadır. == Nüfus == == Kaynakça == == Dış bağlantılar == Yerelnet Gülen, Dernekpazarı için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 318,
+      "char_count": 2358,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.714201",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 66,
+      "content": "Gülen, Trabzon ilinin Dernekpazarı ilçesine bağlı bir mahalledir.",
+      "char_count": 65,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 66,
+      "end_char": 1066,
+      "content": "== Tarihçe == Yerleşimin eski adı Visir'dir. Of civarı 1461 yılında Osmanlı egemenliğine girdikten sonra \"Oflare\" adıyla o dönemki Of kazasına bağlı köyler arasında yerleşimden bahsedilmektedir. 1486 yılı tahririne göre köyde; 232 hane, 9 bive (dul kadın), 9 mücerred (yetişkin bekar erkek) ile 1 baştina hanesi bulunmaktadır. 15. yüzyıl kayıtlarına göre köyde Hristiyanlar çoğunlukta olmakla birlikte o dönemde askeri ve devlet görevlisi harici Müslüman nüfus da bulunmaktadır. 1515 yılı tahririne göre köyde; 198 hane, 18 bive (dul kadın), 10 mücerred (yetişkin bekar erkek), 68 baştina hanesi ile 1 müsellem mücerred bulunmaktadır. 1554 yılı kayıtlarında Oflara adıyla yer alan köyde; 162 normal hane, 116 baştina hane, 18 mücerred ile 1 müsellem hane bulunmaktadır. 1583 yılı kayıtlarında Oflare köyü; \"Oflare namı diğer (diğer adıyla) Visir\" ve \"Oflare namı diğer (diğer adıyla) Cemal, Kıranta, Harsingo\" iki ayrı köye bölünmüş olarak yer almaktadır. Visir olarak adlandırılmaya başlayan köyde e",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 866,
+      "end_char": 1866,
+      "content": "köyü; \"Oflare namı diğer (diğer adıyla) Visir\" ve \"Oflare namı diğer (diğer adıyla) Cemal, Kıranta, Harsingo\" iki ayrı köye bölünmüş olarak yer almaktadır. Visir olarak adlandırılmaya başlayan köyde erkek nüfus; 70 ispenç ve 28 bennak ile 11 mücerred olarak kaydedilmiştir. Buradan yola çıkıldığında köyde Hristiyan ağırlıklı olmak üzere Müslüman-Hristiyan nüfusun bir arada yaşadığı anlaşılmaktadır. 1681 yılı Avarız Defterinde Visir adıyla görülen yerleşimde tamamı Müslüman 16 avarız neferi kaydedilmiştir. Bu neferlerden birisi Osmanlı sarayına doğan yetiştirmekle görevli bir doğancıdır. 1923 Mübadelesi sırasında Bölümlü doğumlu Papaz Yorgos Papadopulos tuttuğu gezi notlarında yerleşimde yaşayanları Türk olarak tanımlarken, Rumca konuştuklarını belirtmiştir. Yine notlarında köylülerin sepetçilik, kömür, balcılık ve ziraatçılık yaptığından bahsetmiştir. Türkiye Cumhuriyetinin kurulmasından sonra Visir adıyla o dönemki Of kazasının Dernekpazarı bucağına bağlı görülen yerleşimin adı 1959 yı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1666,
+      "end_char": 2140,
+      "content": "ilik, kömür, balcılık ve ziraatçılık yaptığından bahsetmiştir. Türkiye Cumhuriyetinin kurulmasından sonra Visir adıyla o dönemki Of kazasının Dernekpazarı bucağına bağlı görülen yerleşimin adı 1959 yılında, \"yabancı kökten geldiği ve iltibasa yol açtığı\" gerekçesiyle 7267 sayılı kanunla Gülen olarak değiştirilmiş ve 1960 yılı nüfus sayımından itibaren yeni adıyla kayıtlarda yer almaya başlamıştır. Dernekpazarı'nın 1991 yılında ilçe olmasıyla da bu ilçenin köyü olmuştur.",
+      "char_count": 474,
+      "token_estimate": 118
+    },
+    {
+      "id": "c0004",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 2141,
+      "end_char": 2225,
+      "content": "== Coğrafya == Trabzon il merkezine 75 km, Dernekpazarı ilçesine 8 km uzaklıktadır.",
+      "char_count": 83,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2252,
+      "end_char": 2358,
+      "content": "== Dış bağlantılar == Yerelnet Gülen, Dernekpazarı için uzaydan görüntü siteleri: Google, Yahoo, Microsoft",
+      "char_count": 106,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yerleşimin eski adı nedir?",
+        "answer": "Visir",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Günümüzde Trabzon'un Dernekpazarı ilçesine bağlı olan Gülen mahallesinin tarih boyunca kullandığı isimler ve idari bağlılıklarındaki ana değişimler nelerdir?",
+        "answer": "Günümüzde Gülen olarak bilinen yerleşim, tarihte \"Visir\" ve \"Oflare\" gibi isimler almıştır. 1461 yılında Osmanlı egemenliğine girdikten sonra \"Oflare\" adıyla o dönemki Of kazasına bağlı köyler arasında yer almıştır. Daha sonra, 1583 yılı kayıtlarında \"Oflare namı diğer Visir\" olarak adlandırılmıştır. Türkiye Cumhuriyeti'nin kurulmasından sonra \"Visir\" adıyla o dönemki Of kazasının Dernekpazarı bucağına bağlı kalmış ve yerleşimin adı 1959 yılında değiştirilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

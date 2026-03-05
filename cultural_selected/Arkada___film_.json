@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "arkadafilm_02a40ae7",
+    "title": "Arkadaş (film)",
+    "url": "https://tr.wikipedia.org/wiki/Arkada%C5%9F_%28film%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:03.843276",
+    "content": "Arkadaş, yönetmenliğini, yapımcılığını, senaristliğini ve başrol oyunculuğunu Yılmaz Güney'in yaptığı 1974 yapımı Türk filmidir. Büyük bölümü Şanlıurfa'nın Siverek ilçesinde çekilmiştir. Selçuk Orhan'ın 100 Soruda Oğuz Atay adlı kitabında senaryonun bir bölümünü Oğuz Atay'ın kaleme aldığı belirtilmektedir. Başrol oyuncularından Melike Demirağ, filmde kullanılan Şanar Yurdatapan bestesi Arkadaş şarkısıyla büyük başarı kazanmıştır. == Konusu == Filmde öğrencilik yıllarından tanışan iki arkadaşın yıllar sonra karşılaşması anlatılıyor. Cemil (Kerim Afşar) zengin olmuş, bir kıyı kentinde bir kadınla evlenmiştir. Âzem (Yılmaz Güney) ise arkadaşının çarpık yaşantısını anlatmaya çalışır. Bu sırada Cemil'in eşinin kardeşi Melike (Melike Demirağ) Âzem'e âşık olur. Filmin sonunda Cemil gerçekle yüzleşmek zorunda kalır. Filmin sonunda Cemil'in kime ateş ettiği ise gösterilmemektedir. Hikâyede Yılmaz Güney arkadaşıyla gönderme yaptığı konu yozlaşmış toplumsal yapıdır. Toplumsal yapıyı sadece eleştirmez, alternatifini de Âzem'in yaşam tarzı ile anlatır. == Ödüller == 1975 yılında Antalya Altın Portakal Film Festivali'nde Yılmaz Güney'in filmleri Endişe, Arkadaş ve Zavallılar \"En İyi Film\" dalında ilk 3 sırayı paylaştı 1975 yılında Türk Sinematek Derneği’nin 11 sinema yazarıyla düzenlediği “Yılın En İyi Türk ve Yabancı Filmleri” anketinde “En İyi Türk Filmi” seçildi == Oyuncular == Yılmaz Güney - Âzem Melike Demirağ - Melike Kerim Afşar - Cemil Ahu Tuğbay - Ahu Azra Balkan - Necibe Semra Özdamar Civan Canova - Halil Nizam Ergüden - Muhittin Yusuf Tunaoğlu Özden Yüce == Kaynakça == == Dış bağlantılar == SinemaTürk'te Arkadaş 27 Temmuz 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 231,
+      "char_count": 1699,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.982375",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 434,
+      "content": "Arkadaş, yönetmenliğini, yapımcılığını, senaristliğini ve başrol oyunculuğunu Yılmaz Güney'in yaptığı 1974 yapımı Türk filmidir. Büyük bölümü Şanlıurfa'nın Siverek ilçesinde çekilmiştir. Selçuk Orhan'ın 100 Soruda Oğuz Atay adlı kitabında senaryonun bir bölümünü Oğuz Atay'ın kaleme aldığı belirtilmektedir. Başrol oyuncularından Melike Demirağ, filmde kullanılan Şanar Yurdatapan bestesi Arkadaş şarkısıyla büyük başarı kazanmıştır.",
+      "char_count": 433,
+      "token_estimate": 108
+    },
+    {
+      "id": "c0001",
+      "section": "== Konusu ==",
+      "heading_path": "== Konusu ==",
+      "start_char": 434,
+      "end_char": 1056,
+      "content": "== Konusu == Filmde öğrencilik yıllarından tanışan iki arkadaşın yıllar sonra karşılaşması anlatılıyor. Cemil (Kerim Afşar) zengin olmuş, bir kıyı kentinde bir kadınla evlenmiştir. Âzem (Yılmaz Güney) ise arkadaşının çarpık yaşantısını anlatmaya çalışır. Bu sırada Cemil'in eşinin kardeşi Melike (Melike Demirağ) Âzem'e âşık olur. Filmin sonunda Cemil gerçekle yüzleşmek zorunda kalır. Filmin sonunda Cemil'in kime ateş ettiği ise gösterilmemektedir. Hikâyede Yılmaz Güney arkadaşıyla gönderme yaptığı konu yozlaşmış toplumsal yapıdır. Toplumsal yapıyı sadece eleştirmez, alternatifini de Âzem'in yaşam tarzı ile anlatır.",
+      "char_count": 621,
+      "token_estimate": 155
+    },
+    {
+      "id": "c0002",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 1056,
+      "end_char": 1374,
+      "content": "== Ödüller == 1975 yılında Antalya Altın Portakal Film Festivali'nde Yılmaz Güney'in filmleri Endişe, Arkadaş ve Zavallılar \"En İyi Film\" dalında ilk 3 sırayı paylaştı 1975 yılında Türk Sinematek Derneği’nin 11 sinema yazarıyla düzenlediği “Yılın En İyi Türk ve Yabancı Filmleri” anketinde “En İyi Türk Filmi” seçildi",
+      "char_count": 317,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0003",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 1374,
+      "end_char": 1578,
+      "content": "== Oyuncular == Yılmaz Güney - Âzem Melike Demirağ - Melike Kerim Afşar - Cemil Ahu Tuğbay - Ahu Azra Balkan - Necibe Semra Özdamar Civan Canova - Halil Nizam Ergüden - Muhittin Yusuf Tunaoğlu Özden Yüce",
+      "char_count": 203,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1593,
+      "end_char": 1699,
+      "content": "== Dış bağlantılar == SinemaTürk'te Arkadaş 27 Temmuz 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 106,
+      "token_estimate": 26
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yılmaz Güney, filmde hangi toplumsal konuya gönderme yapmakta ve bu konunun alternatifini nasıl sunmaktadır?",
+        "answer": "Yılmaz Güney, filmde yozlaşmış toplumsal yapıya gönderme yapmakta ve toplumsal yapının alternatifini Âzem'in yaşam tarzı ile anlatmaktadır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      },
+      {
+        "question": "Yılmaz Güney'in \"Arkadaş\" filmindeki çok yönlü rolleri, filmin ele aldığı yozlaşmış toplumsal yapı eleştirisi ve alternatif yaşam tarzı sunumuyla nasıl bir bağlantı kurmaktadır?",
+        "answer": "Yılmaz Güney, \"Arkadaş\" filminin hem yönetmenliğini, yapımcılığını, senaristliğini üstlenip hem de başrolünde Âzem karakterini canlandırarak, filmde gönderme yapılan yozlaşmış toplumsal yapıyı eleştirme ve Âzem'in yaşam tarzıyla alternatif sunma amacını doğrudan şekillendirmiş ve somutlaştırmıştır. Bu birden fazla rolü sayesinde, filmin tematik mesajını bütünüyle kendi vizyonuyla aktarabilmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "renzobarbieri_946febe7",
+    "title": "Renzo Barbieri",
+    "url": "https://tr.wikipedia.org/wiki/Renzo_Barbieri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:53.054890",
+    "content": "Renzo Barbieri (3 Ekim 1930, Milano - 23 Eylül 2007, Milano), İtalyan yazar, senarist ve yayıncı olmasının yanı sıra ünlü bir erotik çizgi roman yazarıdır. == Hayatı == Renzo Barbieri, 1959'da Edizioni del Vascello yayınevini birlikte kurduğu Giorgio Casarotti ile tek başına yayınladığı western çizgi roman serisi Timbergek'in senaryosunu yazdı. Ertesi yıl James Dyan serisini (1960) kaleme aldığı Dardo Yayınevi ve Edizioni Alpe için çalışmaya başladı, aynı dönemde La Notte gazetesi için muhabirlik ve editörlük yaptı. 1960'ların ortalarında, şiddet içeren Fransızca bir çizgi roman dergisini okuduktan sonra Milano'da bir yayınevi açmaya karar verdi ve \"cep çizgi romanları\" fikrini geliştirdi. Bu, grafik şiddet unsurları ve kadın erotizmini içeren Diabolik, Kriminal ve Satanik gibi dergilerle İtalyan Fumetto Nero çizgi roman akımının patladığı bir dönemdir. Başlangıçta içerik açısından hafif erotik olan yayınlar, 1970'lerin sonuna doğru giderek daha pornografik hale geldi ve o dönemde İtalya'da gerçekleşen cinsel devrimi ve basında ve filmlerde artan müsamahayı yansıttı. Çıplak göğüs gibi 1960'ların ortalarında skandal yaratabilecek görüntüler birdenbire neredeyse iffetli ve masum görünmeye başladı. === Erotik yayınevleri dönemi === 1967 yılında Barbieri, Giorgio Cavedon ile ortaklaşa ErreGi Yayınevi'ni kurdu. İkili birlikte Jacula, Lucrezia, Messalina, Hessa, De Sade, Lucifera, Jolanda, Vartan, Walalla, Yra, Jungle ve Bonnie gibi pek çok seksi kadın kahramanı yarattılar. 1972 yılında, yaratıcı farklılıklar ve erotik çizgi romanlarda artan rekabetle başa çıkmak için Barbieri ve Cavedon ayrılarak kendi şirketlerini kurdular. Cavedon mevcut tüm popüler serileri elinde tuttu ve ErreGi Ediperiodici olarak yeniden adlandırdı. Barbieri ise Edifumetto'yu kurdu. Edifumetto markası altında Barbieri, Zora la Vampira, Rolando del Fico, Cimiteria, Vampiro, Scheletro, Sukia Belzeba, Playcolt, Mafia, Poppea, Necron ve düzinelerce başka karakter de dahil olmak üzere korku ve soft porno çizgi roman türünün en önemli serilerinden bazılarını yarattı. Bu serilerin başarısı büyük ölçüde Alessandro Biffignandi, Emanuele Taglietti, Roberto Molino, Pino Dangelico, Enzo Sciotti ve Carlo Jacono gibi klasik eğitim almış sanatçılar tarafından çizilen kapaklardan kaynaklanıyordu. Birkaç yıl içinde Edifumetto neredeyse her gün yeni bir erotik çizgi roman yayınlıyordu ve yaz aylarında özel eklerle yayınların sayısı iki katına çıkıyordu. Barbieri erotik yayın pazarını çeşitlendirmek için Edizioni GEIS, SEGI, Il Vascello, Centroedizioni, Squalo Comics, Renzo Barbieri Editore gibi başka yayıncılık girişimleri kurdu ve çeşitli erotik çizgi roman serilerini üretti. Barbieri'nin son şirketi Edifumetto 3000, 2000'lerin başında kapandı. Renzo Barbieri, Magnus, Ferdinando Tacconi ve Leone Frollo gibi büyük sanatçıların erotik nitelikte olması gerekmeyen bazı çizgi roman başyapıtlarının yayınlanmasını mümkün kılmıştır. Bu bağlamda Magnus'un erotik çizgi romanı Necron, seksi kısa hikâyeleri Mezzanotte di Morte ve hepsinden önemlisi I Briganti, La Compagnia della Forca ve Lo Sconosciuto gibi eserleri örnek gösterilebilir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 421,
+      "char_count": 3148,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.345732",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 156,
+      "content": "Renzo Barbieri (3 Ekim 1930, Milano - 23 Eylül 2007, Milano), İtalyan yazar, senarist ve yayıncı olmasının yanı sıra ünlü bir erotik çizgi roman yazarıdır.",
+      "char_count": 155,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 156,
+      "end_char": 1156,
+      "content": "== Hayatı == Renzo Barbieri, 1959'da Edizioni del Vascello yayınevini birlikte kurduğu Giorgio Casarotti ile tek başına yayınladığı western çizgi roman serisi Timbergek'in senaryosunu yazdı. Ertesi yıl James Dyan serisini (1960) kaleme aldığı Dardo Yayınevi ve Edizioni Alpe için çalışmaya başladı, aynı dönemde La Notte gazetesi için muhabirlik ve editörlük yaptı. 1960'ların ortalarında, şiddet içeren Fransızca bir çizgi roman dergisini okuduktan sonra Milano'da bir yayınevi açmaya karar verdi ve \"cep çizgi romanları\" fikrini geliştirdi. Bu, grafik şiddet unsurları ve kadın erotizmini içeren Diabolik, Kriminal ve Satanik gibi dergilerle İtalyan Fumetto Nero çizgi roman akımının patladığı bir dönemdir. Başlangıçta içerik açısından hafif erotik olan yayınlar, 1970'lerin sonuna doğru giderek daha pornografik hale geldi ve o dönemde İtalya'da gerçekleşen cinsel devrimi ve basında ve filmlerde artan müsamahayı yansıttı. Çıplak göğüs gibi 1960'ların ortalarında skandal yaratabilecek görüntüle",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 956,
+      "end_char": 1214,
+      "content": "aha pornografik hale geldi ve o dönemde İtalya'da gerçekleşen cinsel devrimi ve basında ve filmlerde artan müsamahayı yansıttı. Çıplak göğüs gibi 1960'ların ortalarında skandal yaratabilecek görüntüler birdenbire neredeyse iffetli ve masum görünmeye başladı.",
+      "char_count": 258,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0003",
+      "section": "=== Erotik yayınevleri dönemi ===",
+      "heading_path": "=== Erotik yayınevleri dönemi ===",
+      "start_char": 1215,
+      "end_char": 2215,
+      "content": "=== Erotik yayınevleri dönemi === 1967 yılında Barbieri, Giorgio Cavedon ile ortaklaşa ErreGi Yayınevi'ni kurdu. İkili birlikte Jacula, Lucrezia, Messalina, Hessa, De Sade, Lucifera, Jolanda, Vartan, Walalla, Yra, Jungle ve Bonnie gibi pek çok seksi kadın kahramanı yarattılar. 1972 yılında, yaratıcı farklılıklar ve erotik çizgi romanlarda artan rekabetle başa çıkmak için Barbieri ve Cavedon ayrılarak kendi şirketlerini kurdular. Cavedon mevcut tüm popüler serileri elinde tuttu ve ErreGi Ediperiodici olarak yeniden adlandırdı. Barbieri ise Edifumetto'yu kurdu. Edifumetto markası altında Barbieri, Zora la Vampira, Rolando del Fico, Cimiteria, Vampiro, Scheletro, Sukia Belzeba, Playcolt, Mafia, Poppea, Necron ve düzinelerce başka karakter de dahil olmak üzere korku ve soft porno çizgi roman türünün en önemli serilerinden bazılarını yarattı. Bu serilerin başarısı büyük ölçüde Alessandro Biffignandi, Emanuele Taglietti, Roberto Molino, Pino Dangelico, Enzo Sciotti ve Carlo Jacono gibi klasi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "=== Erotik yayınevleri dönemi ===",
+      "heading_path": "=== Erotik yayınevleri dönemi ===",
+      "start_char": 2015,
+      "end_char": 3015,
+      "content": "ürünün en önemli serilerinden bazılarını yarattı. Bu serilerin başarısı büyük ölçüde Alessandro Biffignandi, Emanuele Taglietti, Roberto Molino, Pino Dangelico, Enzo Sciotti ve Carlo Jacono gibi klasik eğitim almış sanatçılar tarafından çizilen kapaklardan kaynaklanıyordu. Birkaç yıl içinde Edifumetto neredeyse her gün yeni bir erotik çizgi roman yayınlıyordu ve yaz aylarında özel eklerle yayınların sayısı iki katına çıkıyordu. Barbieri erotik yayın pazarını çeşitlendirmek için Edizioni GEIS, SEGI, Il Vascello, Centroedizioni, Squalo Comics, Renzo Barbieri Editore gibi başka yayıncılık girişimleri kurdu ve çeşitli erotik çizgi roman serilerini üretti. Barbieri'nin son şirketi Edifumetto 3000, 2000'lerin başında kapandı. Renzo Barbieri, Magnus, Ferdinando Tacconi ve Leone Frollo gibi büyük sanatçıların erotik nitelikte olması gerekmeyen bazı çizgi roman başyapıtlarının yayınlanmasını mümkün kılmıştır. Bu bağlamda Magnus'un erotik çizgi romanı Necron, seksi kısa hikâyeleri Mezzanotte di ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "=== Erotik yayınevleri dönemi ===",
+      "heading_path": "=== Erotik yayınevleri dönemi ===",
+      "start_char": 2815,
+      "end_char": 3133,
+      "content": "sanatçıların erotik nitelikte olması gerekmeyen bazı çizgi roman başyapıtlarının yayınlanmasını mümkün kılmıştır. Bu bağlamda Magnus'un erotik çizgi romanı Necron, seksi kısa hikâyeleri Mezzanotte di Morte ve hepsinden önemlisi I Briganti, La Compagnia della Forca ve Lo Sconosciuto gibi eserleri örnek gösterilebilir.",
+      "char_count": 318,
+      "token_estimate": 79
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Renzo Barbieri, Giorgio Casarotti ile birlikte Edizioni del Vascello yayınevini hangi yıl kurdu?",
+        "answer": "1959",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Renzo Barbieri'nin bir yazar ve yayıncı olarak kariyeri, özellikle erotik çizgi roman alanındaki ününü nasıl şekillendirdi?",
+        "answer": "Renzo Barbieri, 1959'da Edizioni del Vascello yayınevini birlikte kurduktan ve La Notte gazetesi için muhabirlik yaptıktan sonra, 1960'ların ortalarında Milano'da kendi yayınevini açarak \"cep çizgi romanları\" fikrini geliştirdi. Bu, Diabolik, Kriminal ve Satanik gibi hem grafik şiddet hem de kadın erotizmi içeren İtalyan Fumetto Nero akımının yükselişiyle aynı döneme denk geldi. Başlangıçta hafif erotik olan yayınları, 1970'lerin sonuna doğru İtalya'daki cinsel devrimi ve basında artan müsamahayı yansıtarak giderek daha pornografik hale geldi ve bu süreç onu ünlü bir erotik çizgi roman yazarı olarak konumlandırdı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

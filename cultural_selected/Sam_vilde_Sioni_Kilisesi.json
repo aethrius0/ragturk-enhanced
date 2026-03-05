@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "samvildesionikilises_cedbd0c6",
+    "title": "Samşvilde Sioni Kilisesi",
+    "url": "https://tr.wikipedia.org/wiki/Sam%C5%9Fvilde_Sioni_Kilisesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:27.520527",
+    "content": "Samşvilde Sioni Kilisesi, (Gürcüce: სამშვილდის სიონი), Gürcistan'ın güneyinde Kvemo Kartli bölgesindeki Samşvilde tarihî koruma alanında bulunan bir harabe, Orta Çağ Ortodoks katedrali kalıntılarıdır. Apsisli sığınağı ve pastoforiumlu merkezi kubbesi olan kilise, 759 ve 777 yılları arasında inşa edilmiştir. Günümüzde harabe durumunda olan kiliseden geriye sadece doğu duvarının parçaları kalmıştır. Kilise, Gürcistan'ın Ulusal Öneme Sahip Taşınmaz Kültür Anıtları listesine eklenmiştir. == Tarihi == Sioni kilisesi, doğal olarak müstahkem bir konumda bulunan Samşvilde tarihi bölgesinin bir parçasıdır. Kilise, Hrami ve Çivçavi nehirlerinin birleştiği yerde, Ağbulak kentinin 4 km güneyinde konumlanmıştır. Orta Çağ Gürcü kiliseleri adlandırılırken Kutsal Topraklar'daki belirli yerlerin adı kullanılır. Bu gelenekle beraber kilise, Kudüs'teki Sion Dağının adını almıştır. Erken Orta Çağ'da yazılmış Kartlis Tshovreba, Samşvilde'deki Sioni kilisesinin, Kartli'nin (Klasik kaynaklarda İberya) 5. yüzyıl Kraliçesi Sagduht tarafından kurulduğunu yazmaktadır; arkeologlar bu kilisenin yerini tespit edememiştir. Sioni kilisesinin mevcut parçaları, daha iyi korunmuş doğu cephesinde bulunan, Orta Çağ Gürcü alfabesi asomtavruli ile yazılmış bir yazıtta yazdığı gibi 759-777 dönemine aittir. Yazıtta, çağdaş Bizans imparatorları V. Konstantinos ve IV. Leon'a atıfta bulunulmaktadır. == Planı == Sioni kilisesi özenle yontulmuş sarı kumtaşı bloklardan inşa edilmiştir ve 24 × 24 metre ölçülerindedir. Kilise, boyu eninden uzun olan bir dikdörtgen zemin planına sahip, merkezi kubbeli ve üç nefli bir yapıdır. Samşvilde kilisesi, plan ve konsept olarak Şida Kartli'deki Tsromi Kilisesi ile benzerlikler taşımaktadır, fakat Tsromi'den farklı olarak, doğudaki ayrı şapellerde (eukterion) sona eren, kuzey ve güneye doğu uzayan iki uzun çevredalız galerisine sahiptir. Dikine ve yatay eksenlerin kesişim noktasında konumlanmış olan kubbe, dört bağımsız sütun tarafından desteklenmektedir. Kare bölmeden kubbe dairesine geçiş, tonoz bingi aracılığıyla gerçekleşmektedir. Yan apsisler, ayrı odalar oluşturmak yerine, sığınak ve merkez dikme ile açık bir şekilde bağlantılıdır. 8. yüzyıldan kalma Gürcüce yazıt dışında, güney cephesinde ağır hasar görmüş, neredeyse okunaksız başka bir Gürcüce yazıt ve yazıtın yanında Ermeni Katolikosu Loretsili III. Gevorg'u (r. 1069-1072) tanımlayan bir parça bulunmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 309,
+      "char_count": 2414,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.435187",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 489,
+      "content": "Samşvilde Sioni Kilisesi, (Gürcüce: სამშვილდის სიონი), Gürcistan'ın güneyinde Kvemo Kartli bölgesindeki Samşvilde tarihî koruma alanında bulunan bir harabe, Orta Çağ Ortodoks katedrali kalıntılarıdır. Apsisli sığınağı ve pastoforiumlu merkezi kubbesi olan kilise, 759 ve 777 yılları arasında inşa edilmiştir. Günümüzde harabe durumunda olan kiliseden geriye sadece doğu duvarının parçaları kalmıştır. Kilise, Gürcistan'ın Ulusal Öneme Sahip Taşınmaz Kültür Anıtları listesine eklenmiştir.",
+      "char_count": 488,
+      "token_estimate": 122
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 489,
+      "end_char": 1379,
+      "content": "== Tarihi == Sioni kilisesi, doğal olarak müstahkem bir konumda bulunan Samşvilde tarihi bölgesinin bir parçasıdır. Kilise, Hrami ve Çivçavi nehirlerinin birleştiği yerde, Ağbulak kentinin 4 km güneyinde konumlanmıştır. Orta Çağ Gürcü kiliseleri adlandırılırken Kutsal Topraklar'daki belirli yerlerin adı kullanılır. Bu gelenekle beraber kilise, Kudüs'teki Sion Dağının adını almıştır. Erken Orta Çağ'da yazılmış Kartlis Tshovreba, Samşvilde'deki Sioni kilisesinin, Kartli'nin (Klasik kaynaklarda İberya) 5. yüzyıl Kraliçesi Sagduht tarafından kurulduğunu yazmaktadır; arkeologlar bu kilisenin yerini tespit edememiştir. Sioni kilisesinin mevcut parçaları, daha iyi korunmuş doğu cephesinde bulunan, Orta Çağ Gürcü alfabesi asomtavruli ile yazılmış bir yazıtta yazdığı gibi 759-777 dönemine aittir. Yazıtta, çağdaş Bizans imparatorları V. Konstantinos ve IV. Leon'a atıfta bulunulmaktadır.",
+      "char_count": 889,
+      "token_estimate": 222
+    },
+    {
+      "id": "c0002",
+      "section": "== Planı ==",
+      "heading_path": "== Planı ==",
+      "start_char": 1379,
+      "end_char": 2379,
+      "content": "== Planı == Sioni kilisesi özenle yontulmuş sarı kumtaşı bloklardan inşa edilmiştir ve 24 × 24 metre ölçülerindedir. Kilise, boyu eninden uzun olan bir dikdörtgen zemin planına sahip, merkezi kubbeli ve üç nefli bir yapıdır. Samşvilde kilisesi, plan ve konsept olarak Şida Kartli'deki Tsromi Kilisesi ile benzerlikler taşımaktadır, fakat Tsromi'den farklı olarak, doğudaki ayrı şapellerde (eukterion) sona eren, kuzey ve güneye doğu uzayan iki uzun çevredalız galerisine sahiptir. Dikine ve yatay eksenlerin kesişim noktasında konumlanmış olan kubbe, dört bağımsız sütun tarafından desteklenmektedir. Kare bölmeden kubbe dairesine geçiş, tonoz bingi aracılığıyla gerçekleşmektedir. Yan apsisler, ayrı odalar oluşturmak yerine, sığınak ve merkez dikme ile açık bir şekilde bağlantılıdır. 8. yüzyıldan kalma Gürcüce yazıt dışında, güney cephesinde ağır hasar görmüş, neredeyse okunaksız başka bir Gürcüce yazıt ve yazıtın yanında Ermeni Katolikosu Loretsili III. Gevorg'u (r. 1069-1072) tanımlayan bir ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Planı ==",
+      "heading_path": "== Planı ==",
+      "start_char": 2179,
+      "end_char": 2399,
+      "content": "kalma Gürcüce yazıt dışında, güney cephesinde ağır hasar görmüş, neredeyse okunaksız başka bir Gürcüce yazıt ve yazıtın yanında Ermeni Katolikosu Loretsili III. Gevorg'u (r. 1069-1072) tanımlayan bir parça bulunmaktadır.",
+      "char_count": 220,
+      "token_estimate": 55
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sioni Kilisesi'nin kubbesi ne tarafından desteklenmektedir?",
+        "answer": "Dört bağımsız sütun tarafından.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Samşvilde Sioni Kilisesi'nin temel mimari ve tarihi özellikleri nelerdir ve bu özellikler kiliseyi Orta Çağ Gürcü mimarisi bağlamında nasıl konumlandırır?",
+        "answer": "Samşvilde Sioni Kilisesi, 759-777 yılları arasında inşa edilmiş, özenle yontulmuş sarı kumtaşı bloklardan yapılmış, 24x24 metre ölçülerinde, merkezi kubbeli ve üç nefli, dikdörtgen zemin planına sahip bir yapıdır. Mimarisi, Şida Kartli'deki Tsromi Kilisesi ile benzerlikler taşırken, doğudaki ayrı şapellerde sona eren kuzey ve güneye uzanan iki uzun çevredalız galerisine sahip olmasıyla farklılaşır. Kubbesi dört bağımsız sütun tarafından desteklenir ve kare bölmeden daireye geçiş tonoz bingi aracılığıyla gerçekleşir. İsmini Kudüs'teki Sion Dağı'ndan almıştır ve mevcut yapının inşa tarihi, çağdaş Bizans imparatorları V. Konstantinos ve IV. Leon'a yapılan atıflarla desteklenir. Kilise, Hrami ve Çivçavi nehirlerinin birleştiği stratejik bir konumda yer alır ve şu anda harabe durumunda olmasına rağmen Gürcistan'ın Ulusal Öneme Sahip Taşınmaz Kültür Anıtları listesindedir. Ayrıca güney cephesinde Ermeni Katolikosu Loretsili III. Gevorg'u tanımlayan bir yazıta da sahiptir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

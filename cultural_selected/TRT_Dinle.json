@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "trtdinle_f5ad7a39",
+    "title": "TRT Dinle",
+    "url": "https://tr.wikipedia.org/wiki/TRT_Dinle",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:34.016805",
+    "content": "TRT Dinle, Türkiye Radyo Televizyon Kurumu tarafından oluşturulmuş, TRT'nin arşivinde bulunan müzik, şarkı, radyo tiyatrosu, podcast veya radyo kanallarının canlı dinlenebildiği bir dijital müzik servisidir. TRT'nin uzun yıllara dayanan zengin arşivini tek bir platformda toplamayı amaçlayan TRT Dinle, içerisinde Türk Sanat Müziği ve Türk Halk Müziğinden özgün eserlerin yanı sıra özel kayıtlar, radyo tiyatroları, TRT konserleri ve çeşitli TRT'ye ait yapımların podcast uyarlamaları ve daha fazlasını ücretsiz olarak sunmaktadır. == Erişim == Uygulama sanal marketlerden ücretsiz olarak indirilebilmektedir. Ayrıca web sürümü üzerinden de erişilebilmektedir. Uygulamayı kullanabilmek için bir TRT hesabı oluşturmak gerekmektedir. Bu hesap sayesinde istediğiniz şarkı ya da kategoriyi favori seçebilir, son dinlediğiniz içeriklere rahatlıkla ulaşabilirsiniz. == İçerikler == === Türler === Şarkı Müzik Radyo Tiyatrosu Sesli kitap Podcast === Kategoriler === Türk Sanat Müziği Türk Halk Müziği Türkçe Pop Yabancı Pop Dünya müzikleri Klasik müzik Caz, Rock, Blues, Soul, Country İlahi Çocuk ve Aile Romantik Çalışırken Uyku Yemek Zamanı Mevsim: Kış Programlar Dizi & Film === Canlı === TRT Radyo 1, TRT Radyo 3, TRT FM, TRT Nağme, TRT Türkü, TRT Radyo Haber, TRT Memleketim FM, Türkiye'nin Sesi Radyosu ve TRT'nin bölgesel radyoları TRT Dinle'den canlı olarak dinlenebilir. Ayrıca TRT 1, TRT 2, TRT Müzik, TRT Kurdî, TRT Arabi, TRT World kanalları canlı yayınla eşzamanlı olarak ses formatında dinlenebilmektedir. == Kaynakça == == Ayrıca bakınız == Tabii",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 219,
+      "char_count": 1554,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.946932",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 532,
+      "content": "TRT Dinle, Türkiye Radyo Televizyon Kurumu tarafından oluşturulmuş, TRT'nin arşivinde bulunan müzik, şarkı, radyo tiyatrosu, podcast veya radyo kanallarının canlı dinlenebildiği bir dijital müzik servisidir. TRT'nin uzun yıllara dayanan zengin arşivini tek bir platformda toplamayı amaçlayan TRT Dinle, içerisinde Türk Sanat Müziği ve Türk Halk Müziğinden özgün eserlerin yanı sıra özel kayıtlar, radyo tiyatroları, TRT konserleri ve çeşitli TRT'ye ait yapımların podcast uyarlamaları ve daha fazlasını ücretsiz olarak sunmaktadır.",
+      "char_count": 531,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0001",
+      "section": "== Erişim ==",
+      "heading_path": "== Erişim ==",
+      "start_char": 532,
+      "end_char": 860,
+      "content": "== Erişim == Uygulama sanal marketlerden ücretsiz olarak indirilebilmektedir. Ayrıca web sürümü üzerinden de erişilebilmektedir. Uygulamayı kullanabilmek için bir TRT hesabı oluşturmak gerekmektedir. Bu hesap sayesinde istediğiniz şarkı ya da kategoriyi favori seçebilir, son dinlediğiniz içeriklere rahatlıkla ulaşabilirsiniz.",
+      "char_count": 327,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0002",
+      "section": "=== Türler ===",
+      "heading_path": "=== Türler ===",
+      "start_char": 876,
+      "end_char": 939,
+      "content": "=== Türler === Şarkı Müzik Radyo Tiyatrosu Sesli kitap Podcast",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0003",
+      "section": "=== Kategoriler ===",
+      "heading_path": "=== Kategoriler ===",
+      "start_char": 939,
+      "end_char": 1171,
+      "content": "=== Kategoriler === Türk Sanat Müziği Türk Halk Müziği Türkçe Pop Yabancı Pop Dünya müzikleri Klasik müzik Caz, Rock, Blues, Soul, Country İlahi Çocuk ve Aile Romantik Çalışırken Uyku Yemek Zamanı Mevsim: Kış Programlar Dizi & Film",
+      "char_count": 231,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0004",
+      "section": "=== Canlı ===",
+      "heading_path": "=== Canlı ===",
+      "start_char": 1171,
+      "end_char": 1513,
+      "content": "=== Canlı === TRT Radyo 1, TRT Radyo 3, TRT FM, TRT Nağme, TRT Türkü, TRT Radyo Haber, TRT Memleketim FM, Türkiye'nin Sesi Radyosu ve TRT'nin bölgesel radyoları TRT Dinle'den canlı olarak dinlenebilir. Ayrıca TRT 1, TRT 2, TRT Müzik, TRT Kurdî, TRT Arabi, TRT World kanalları canlı yayınla eşzamanlı olarak ses formatında dinlenebilmektedir.",
+      "char_count": 341,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1528,
+      "end_char": 1554,
+      "content": "== Ayrıca bakınız == Tabii",
+      "char_count": 26,
+      "token_estimate": 6
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "TRT Dinle nedir ve hangi kurum tarafından oluşturulmuştur?",
+        "answer": "TRT Dinle, Türkiye Radyo Televizyon Kurumu tarafından oluşturulmuş, TRT'nin arşivinde bulunan müzik, şarkı, radyo tiyatrosu, podcast veya radyo kanallarının canlı dinlenebildiği bir dijital müzik servisidir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "TRT Dinle'nin sunduğu geniş arşive erişim yöntemleri ve kişiselleştirilmiş bir dinleme deneyimi için kullanıcıların hangi adımları tamamlaması gerekmektedir?",
+        "answer": "Kullanıcılar, TRT Dinle'ye mobil uygulama veya web sürümü üzerinden ücretsiz olarak erişebilirler. Platformun zengin müzik, radyo tiyatrosu ve podcast arşivinden faydalanmak ve favori içeriklerini belirleyip son dinlediklerine kolayca ulaşarak kişiselleştirilmiş bir deneyim yaşamak için bir TRT hesabı oluşturmaları gerekmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

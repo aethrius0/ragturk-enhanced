@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "dnyamzikdlleri_c624ccaa",
+    "title": "Dünya Müzik Ödülleri",
+    "url": "https://tr.wikipedia.org/wiki/D%C3%BCnya_M%C3%BCzik_%C3%96d%C3%BClleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:24.011247",
+    "content": "Dünya Müzik Ödülleri (İngilizce: World Music Awards; kuruluş: 1989), çok yüksek satış rakamlara sahip olan müzik sanatçılarını ödüllendiren uluslararası ödül törenidir. Satış rakamlar, International Federation of the Phonographic Industry tarafından mevcuttur. Ödül töreni, H.S.H. II. Albert, Monako Prensi tarafından sunulmaktadır. 2003'e kadar tören Monte Carlo'da yer aldı. 2004'teki tören, 15 Eylül'de Amerika Birleşik Devletleri'nin Las Vegas şehrinde yer aldı. 2005 töreni, Los Angeles'taki Kodak Tiyatrosu'nda sunuldu. 2006'daki tören, Londra'nın Earls Court Sergi Merkezi'nde sunuldu ve Michael Jackson törene katıldı. Bu tören Kuzey ve Güney Amerika, Avrupa, Orta Doğu, Japonya, Güneydoğu Asya, Çin, Asya'nın diğer bölgeleri, Avustralya, Yeni Zelanda ve Afrika'ya yayımlanıp, yaklaşık bir milyar kişi, 160 ülkeden fazla töreni izliyor. === Efsane Ödülleri === Efsane Ödülü en büyük sanatçılara verilmektedir: === Elmas Ödülü === Diamond Award, kariyeri boyunca 100.000.000'dan fazla albüm sattığı onaylanan sanatçılara verilmektedir. 2002: Rod Stewart 2003: Mariah Carey 2004: Celine Dion 2005: Bon Jovi 2006: Michael Jackson 2008: Beatles === Milenyum Ödülleri === 2000 yılında en çok satan plak sanatçılarını onurlandırmak için iki özel ödül verildi. Ödüller, erkek ve kadın sanatçı ödül kategorilerinde Michael Jackson ve Mariah Carey 'e verildi. == Kaynakça == == Dış bağlantılar == WorldMusicAwards resmî web sitesi16 Aralık 2012 tarihinde Archive.is sitesinde arşivlendi (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1497,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.077963",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 845,
+      "content": "Dünya Müzik Ödülleri (İngilizce: World Music Awards; kuruluş: 1989), çok yüksek satış rakamlara sahip olan müzik sanatçılarını ödüllendiren uluslararası ödül törenidir. Satış rakamlar, International Federation of the Phonographic Industry tarafından mevcuttur. Ödül töreni, H.S.H. II. Albert, Monako Prensi tarafından sunulmaktadır. 2003'e kadar tören Monte Carlo'da yer aldı. 2004'teki tören, 15 Eylül'de Amerika Birleşik Devletleri'nin Las Vegas şehrinde yer aldı. 2005 töreni, Los Angeles'taki Kodak Tiyatrosu'nda sunuldu. 2006'daki tören, Londra'nın Earls Court Sergi Merkezi'nde sunuldu ve Michael Jackson törene katıldı. Bu tören Kuzey ve Güney Amerika, Avrupa, Orta Doğu, Japonya, Güneydoğu Asya, Çin, Asya'nın diğer bölgeleri, Avustralya, Yeni Zelanda ve Afrika'ya yayımlanıp, yaklaşık bir milyar kişi, 160 ülkeden fazla töreni izliyor.",
+      "char_count": 844,
+      "token_estimate": 211
+    },
+    {
+      "id": "c0001",
+      "section": "=== Efsane Ödülleri ===",
+      "heading_path": "=== Efsane Ödülleri ===",
+      "start_char": 845,
+      "end_char": 918,
+      "content": "=== Efsane Ödülleri === Efsane Ödülü en büyük sanatçılara verilmektedir:",
+      "char_count": 72,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0002",
+      "section": "=== Elmas Ödülü ===",
+      "heading_path": "=== Elmas Ödülü ===",
+      "start_char": 918,
+      "end_char": 1149,
+      "content": "=== Elmas Ödülü === Diamond Award, kariyeri boyunca 100.000.000'dan fazla albüm sattığı onaylanan sanatçılara verilmektedir. 2002: Rod Stewart 2003: Mariah Carey 2004: Celine Dion 2005: Bon Jovi 2006: Michael Jackson 2008: Beatles",
+      "char_count": 230,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0003",
+      "section": "=== Milenyum Ödülleri ===",
+      "heading_path": "=== Milenyum Ödülleri ===",
+      "start_char": 1149,
+      "end_char": 1359,
+      "content": "=== Milenyum Ödülleri === 2000 yılında en çok satan plak sanatçılarını onurlandırmak için iki özel ödül verildi. Ödüller, erkek ve kadın sanatçı ödül kategorilerinde Michael Jackson ve Mariah Carey 'e verildi.",
+      "char_count": 209,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1374,
+      "end_char": 1497,
+      "content": "== Dış bağlantılar == WorldMusicAwards resmî web sitesi16 Aralık 2012 tarihinde Archive.is sitesinde arşivlendi (İngilizce)",
+      "char_count": 123,
+      "token_estimate": 30
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dünya Müzik Ödülleri hangi yıl kurulmuştur?",
+        "answer": "1989",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dünya Müzik Ödülleri'nin bir parçası olan \"Efsane Ödülü\"nün genel ödüllerden farkı nedir?",
+        "answer": "Dünya Müzik Ödülleri, çok yüksek satış rakamlarına sahip müzik sanatçılarını ödüllendirirken, \"Efsane Ödülü\" özellikle en büyük sanatçılara verilmektedir. Bu, Efsane Ödülü'nün genel satış başarısının ötesinde sanatsal büyüklüğü takdir eden özel bir kategori olduğunu göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

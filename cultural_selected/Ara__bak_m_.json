@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "arabakm_e449bf4c",
+    "title": "Araç bakımı",
+    "url": "https://tr.wikipedia.org/wiki/Ara%C3%A7_bak%C4%B1m%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:52.435309",
+    "content": "Bir otomobil bakımı belirli bir zaman aralığında veya araç belirli bir mesafe gittikten sonra gerçekleştirilen bir dizi bakım prosedürüdür. Servis aralıkları, araç üreticisi tarafından bir servis programında belirtilir. Bazı modern araçlar, elektronik olarak gösterge panelinde bir sonraki servisin son tarihini görüntüler. Oto bakımın esas yapıldığı yerler tamirciler oto tamir atölyesi, araba satış bayiliği ve oto yedek parça mağazalarıdır. == Temel bakımlar == Bir motorlu taşıt servisi sırasında genellikle gerçekleştirilen bakım görevleri şunları içerir: Motor bakımı. Motor yağını değiştirme. Yağ filtresini değiştirme. Hava filtresini değiştirme. Yakıt filtresini değiştirme. Kabini veya a / c filtresini değiştirme. Bujileri değiştirme. Seviyeyi kontrol etme, fren hidroliği / debriyaj sıvısını yeniden doldurma. Fren balatalarını, astarları, disk fren ve kampanalı fren'i kontrol etme ve aşınmışsa değiştirme. Soğutucu Hortumlarını Kontrol etme. Şarj sistemlerini kontrol etme. Pili kontrol etme. Seviyeyi kontrol etme ve hidrolik sıvısını yeniden doldurma Seviyeyi kontrol etme ve Otomatik / Manuel Şanzıman Sıvısını doldurma. Bileşenleri gresleme ve yağlama. Triger kayışını veya gerekirse zamanlama zincirini inceleme ve değiştirme. Otomobil lastiği, jant ve tekerlekin durumunu kontrol etme. Tüm ışıkların, sileceklerin vb. düzgün çalışıp çalışmadığını kontrol etme. Egzoz susturucusu, otomobil dinamosu, ön cam bakımı. Parlatma ve enstrüman paneli hizmetleri. ECU'daki herhangi bir hata kodunu kontrol etme ve düzeltici eylemi gerçekleştirme. Sorun kodunu okumak için bir tarama aleti kullanma. == Kaynakça == == Ayrıca bakınız == Car Talk Oto tamirci Makine mühendisliği",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 222,
+      "char_count": 1686,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.894217",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 444,
+      "content": "Bir otomobil bakımı belirli bir zaman aralığında veya araç belirli bir mesafe gittikten sonra gerçekleştirilen bir dizi bakım prosedürüdür. Servis aralıkları, araç üreticisi tarafından bir servis programında belirtilir. Bazı modern araçlar, elektronik olarak gösterge panelinde bir sonraki servisin son tarihini görüntüler. Oto bakımın esas yapıldığı yerler tamirciler oto tamir atölyesi, araba satış bayiliği ve oto yedek parça mağazalarıdır.",
+      "char_count": 443,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0001",
+      "section": "== Temel bakımlar ==",
+      "heading_path": "== Temel bakımlar ==",
+      "start_char": 444,
+      "end_char": 1444,
+      "content": "== Temel bakımlar == Bir motorlu taşıt servisi sırasında genellikle gerçekleştirilen bakım görevleri şunları içerir: Motor bakımı. Motor yağını değiştirme. Yağ filtresini değiştirme. Hava filtresini değiştirme. Yakıt filtresini değiştirme. Kabini veya a / c filtresini değiştirme. Bujileri değiştirme. Seviyeyi kontrol etme, fren hidroliği / debriyaj sıvısını yeniden doldurma. Fren balatalarını, astarları, disk fren ve kampanalı fren'i kontrol etme ve aşınmışsa değiştirme. Soğutucu Hortumlarını Kontrol etme. Şarj sistemlerini kontrol etme. Pili kontrol etme. Seviyeyi kontrol etme ve hidrolik sıvısını yeniden doldurma Seviyeyi kontrol etme ve Otomatik / Manuel Şanzıman Sıvısını doldurma. Bileşenleri gresleme ve yağlama. Triger kayışını veya gerekirse zamanlama zincirini inceleme ve değiştirme. Otomobil lastiği, jant ve tekerlekin durumunu kontrol etme. Tüm ışıkların, sileceklerin vb. düzgün çalışıp çalışmadığını kontrol etme. Egzoz susturucusu, otomobil dinamosu, ön cam bakımı. Parlatma v",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Temel bakımlar ==",
+      "heading_path": "== Temel bakımlar ==",
+      "start_char": 1244,
+      "end_char": 1609,
+      "content": ". Otomobil lastiği, jant ve tekerlekin durumunu kontrol etme. Tüm ışıkların, sileceklerin vb. düzgün çalışıp çalışmadığını kontrol etme. Egzoz susturucusu, otomobil dinamosu, ön cam bakımı. Parlatma ve enstrüman paneli hizmetleri. ECU'daki herhangi bir hata kodunu kontrol etme ve düzeltici eylemi gerçekleştirme. Sorun kodunu okumak için bir tarama aleti kullanma.",
+      "char_count": 365,
+      "token_estimate": 91
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1625,
+      "end_char": 1686,
+      "content": "== Ayrıca bakınız == Car Talk Oto tamirci Makine mühendisliği",
+      "char_count": 61,
+      "token_estimate": 15
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Motorlu taşıt servisleri sırasında genellikle hangi filtreler değiştirilir?",
+        "answer": "Motor yağı filtresi, hava filtresi, yakıt filtresi ve kabin veya a/c filtresi.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Otomobil bakımı ne zaman ve hangi koşullar altında gerçekleştirilir ve bu süreçte tipik olarak hangi temel görevler yerine getirilir?",
+        "answer": "Otomobil bakımı, belirli bir zaman aralığında veya araç belirli bir mesafe gittikten sonra gerçekleştirilir; servis aralıkları araç üreticisi tarafından bir servis programında belirtilir ve bazı modern araçlar bu tarihi gösterge panelinde elektronik olarak görüntüler. Bu bakım sırasında genellikle motor yağı ve çeşitli filtrelerin (yağ, hava, yakıt, kabin/a/c) değiştirilmesi, bujilerin değiştirilmesi, fren hidroliği/debriyaj sıvısı ve diğer sıvı seviyelerinin kontrol edilip doldurulması, fren balataları, hortumlar, şarj sistemleri, pil, triger kayışı veya zamanlama zinciri, lastikler, ışıklar ve silecekler gibi birçok bileşenin kontrol ve bakımı yapılır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

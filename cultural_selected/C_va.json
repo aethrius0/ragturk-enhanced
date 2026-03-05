@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "cva_c2a42a01",
+    "title": "Cıva",
+    "url": "https://tr.wikipedia.org/wiki/C%C4%B1va",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:42.938644",
+    "content": "Cıva sembolü \"Hg\" ve atom numarası 80 olan kimyasal element. \"Hg\" sembolü, Latincedeki hydrargyrum (sulu/sıvı gümüş) sözcüğünden gelir. Oda sıcaklığında sıvı hâlde bulunan Cıva için İngilizcede iki sözcük kullanılır: \"mercury\" ve \"quicksilver\" (akıcı gümüş). Cıva, hava, su ve toprakta birkaç şekilde bulunur. Bunlar, elemental cıva, inorganik ve organik cıva bileşikleri şeklindedir. == Tarihçesi == Milattan önce 1500'lü yıllarda keşfedilen cıva, oda sıcaklığında sıvı olan tek metaldir. Çok zehirli olması sebebiyle kullanım alanlarında alternatif elementler kullanılmaya çalışılmıştır. == Özellikleri == Gümüş renkli, yüksek yoğunluklu ve ağır bir metal olan cıva, standart oda sıcaklığında (25oC) Galyum, Brom, Sezyum, Rubidyum ve Fransiyum ile sıvı halde bulunan 6 elementten birisidir. Metil esterlerinin yüksek toksisite ve inhibitör özelliğe sahip olduğu Cıva, değerli ve pahalı bir maddedir. == Etimoloji == Türkçedeki cıva kelimesi Farsçadaki جیوه (jive) kelimesinden gelmektedir. Hg sembolü Latincedeki \"Hydrargyrum\"un kısaltmasıdır. == Kullanıldığı Alanlar == Termometre (sıcaklık ölçer) ve barometre (basınç ölçen alet) gibi bilimsel aygıtlarda kullanılır. Ancak bu uygulamadan günümüzde vazgeçilmektedir. Cıva, platin ve demir hariç diğer metallerle \"amalgam\" adı verilen alaşımlar yapar. Gümüş, kalay, bakır, çinko ve cıva kullanılarak üretilen amalgam alaşımı dişleri doldurmakta kullanılır. Bu alaşım hazırlandığında elle şekil verilir bir durumdayken zamana bağlı olarak kısa zamanda sertleşmektedir. Kırmızı cıva (II) sülfür (HgS) vermilion adı altında kırmızı boya olarak kullanılır. Gemi teknelerinin su altındaki kısmı, bu boyayla boyanarak midye ve istiridyelerin tekneye yapışarak toplanmaları önlenir. Cıva buharlı lambalarda kullanılır. Cıva buharlı lambalar, beyaz parlak bir ışık verir. Cıva buharı çok zehirlidir. Solunması tehlikelidir. Ayrıca, aynaların sırlanmasında, altın ve gümüş üretiminde, tıpta tedavi maddesi olarak cıvadan faydalanılır. Bazı elektrik devre anahtarlarının yapımında da cıva kullanılır. == Canlılar üzerine etkileri == Cıva, doğada mevcut olan bir elementtir. İnsanlar cıvayı; yiyeceklerden, çevresel ve endüstriyel ortamlarda ve amalgam bileşiklerinden alırlar. Bazı mikroorganizmalar cıvayı daha zehirli bir hali olan metil cıvaya dönüştürür. Bu bileşik, çevrede en çok karşılaşılan organik cıva bileşiğidir ve besin zincirinde birikir. Ayrıca birinci derece cıvaya maruz kalınan besin maddesi, metilcıva içeren balık etidir. Metil cıva, mikroorganizmalarla birlikte, besin zincirinin daha üst organizmalarında birikir. Cıvanın buharını solumak, insanlarda gelişmekte olan sinir sistemlerine zarar verir. Çoğu insan çevrede dağılmış bulunan cıva nedeniyle, dokularında eser miktarda cıva taşır. Cıvaya maruz kalan insanın zarar görüp görmeyeceği birçok faktöre bağlı olmakla birlikte genelde zehirleyicidir. == Kaynakça == == Dış bağlantılar == NLM - Cıva7 Mart 2010 tarihinde Wayback Machine sitesinde arşivlendi. UNIDO/UNDP/GEM Global MerCıva Projesi WebElements.com – Cıva11 Kasım 2007 tarihinde Wayback Machine sitesinde arşivlendi. Wikimedia Commons'ta cıva ile ilgili çoklu ortam belgeleri bulunur",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 407,
+      "char_count": 3161,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:47.155347",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 385,
+      "content": "Cıva sembolü \"Hg\" ve atom numarası 80 olan kimyasal element. \"Hg\" sembolü, Latincedeki hydrargyrum (sulu/sıvı gümüş) sözcüğünden gelir. Oda sıcaklığında sıvı hâlde bulunan Cıva için İngilizcede iki sözcük kullanılır: \"mercury\" ve \"quicksilver\" (akıcı gümüş). Cıva, hava, su ve toprakta birkaç şekilde bulunur. Bunlar, elemental cıva, inorganik ve organik cıva bileşikleri şeklindedir.",
+      "char_count": 384,
+      "token_estimate": 96
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçesi ==",
+      "heading_path": "== Tarihçesi ==",
+      "start_char": 385,
+      "end_char": 590,
+      "content": "== Tarihçesi == Milattan önce 1500'lü yıllarda keşfedilen cıva, oda sıcaklığında sıvı olan tek metaldir. Çok zehirli olması sebebiyle kullanım alanlarında alternatif elementler kullanılmaya çalışılmıştır.",
+      "char_count": 204,
+      "token_estimate": 51
+    },
+    {
+      "id": "c0002",
+      "section": "== Özellikleri ==",
+      "heading_path": "== Özellikleri ==",
+      "start_char": 590,
+      "end_char": 902,
+      "content": "== Özellikleri == Gümüş renkli, yüksek yoğunluklu ve ağır bir metal olan cıva, standart oda sıcaklığında (25oC) Galyum, Brom, Sezyum, Rubidyum ve Fransiyum ile sıvı halde bulunan 6 elementten birisidir. Metil esterlerinin yüksek toksisite ve inhibitör özelliğe sahip olduğu Cıva, değerli ve pahalı bir maddedir.",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0003",
+      "section": "== Etimoloji ==",
+      "heading_path": "== Etimoloji ==",
+      "start_char": 902,
+      "end_char": 1046,
+      "content": "== Etimoloji == Türkçedeki cıva kelimesi Farsçadaki جیوه (jive) kelimesinden gelmektedir. Hg sembolü Latincedeki \"Hydrargyrum\"un kısaltmasıdır.",
+      "char_count": 143,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0004",
+      "section": "== Kullanıldığı Alanlar ==",
+      "heading_path": "== Kullanıldığı Alanlar ==",
+      "start_char": 1046,
+      "end_char": 2043,
+      "content": "== Kullanıldığı Alanlar == Termometre (sıcaklık ölçer) ve barometre (basınç ölçen alet) gibi bilimsel aygıtlarda kullanılır. Ancak bu uygulamadan günümüzde vazgeçilmektedir. Cıva, platin ve demir hariç diğer metallerle \"amalgam\" adı verilen alaşımlar yapar. Gümüş, kalay, bakır, çinko ve cıva kullanılarak üretilen amalgam alaşımı dişleri doldurmakta kullanılır. Bu alaşım hazırlandığında elle şekil verilir bir durumdayken zamana bağlı olarak kısa zamanda sertleşmektedir. Kırmızı cıva (II) sülfür (HgS) vermilion adı altında kırmızı boya olarak kullanılır. Gemi teknelerinin su altındaki kısmı, bu boyayla boyanarak midye ve istiridyelerin tekneye yapışarak toplanmaları önlenir. Cıva buharlı lambalarda kullanılır. Cıva buharlı lambalar, beyaz parlak bir ışık verir. Cıva buharı çok zehirlidir. Solunması tehlikelidir. Ayrıca, aynaların sırlanmasında, altın ve gümüş üretiminde, tıpta tedavi maddesi olarak cıvadan faydalanılır. Bazı elektrik devre anahtarlarının yapımında da cıva kullanılır.",
+      "char_count": 996,
+      "token_estimate": 249
+    },
+    {
+      "id": "c0005",
+      "section": "== Canlılar üzerine etkileri ==",
+      "heading_path": "== Canlılar üzerine etkileri ==",
+      "start_char": 2043,
+      "end_char": 2866,
+      "content": "== Canlılar üzerine etkileri == Cıva, doğada mevcut olan bir elementtir. İnsanlar cıvayı; yiyeceklerden, çevresel ve endüstriyel ortamlarda ve amalgam bileşiklerinden alırlar. Bazı mikroorganizmalar cıvayı daha zehirli bir hali olan metil cıvaya dönüştürür. Bu bileşik, çevrede en çok karşılaşılan organik cıva bileşiğidir ve besin zincirinde birikir. Ayrıca birinci derece cıvaya maruz kalınan besin maddesi, metilcıva içeren balık etidir. Metil cıva, mikroorganizmalarla birlikte, besin zincirinin daha üst organizmalarında birikir. Cıvanın buharını solumak, insanlarda gelişmekte olan sinir sistemlerine zarar verir. Çoğu insan çevrede dağılmış bulunan cıva nedeniyle, dokularında eser miktarda cıva taşır. Cıvaya maruz kalan insanın zarar görüp görmeyeceği birçok faktöre bağlı olmakla birlikte genelde zehirleyicidir.",
+      "char_count": 822,
+      "token_estimate": 205
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2881,
+      "end_char": 3161,
+      "content": "== Dış bağlantılar == NLM - Cıva7 Mart 2010 tarihinde Wayback Machine sitesinde arşivlendi. UNIDO/UNDP/GEM Global MerCıva Projesi WebElements.com – Cıva11 Kasım 2007 tarihinde Wayback Machine sitesinde arşivlendi. Wikimedia Commons'ta cıva ile ilgili çoklu ortam belgeleri bulunur",
+      "char_count": 280,
+      "token_estimate": 70
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dişleri doldurmakta kullanılan amalgam alaşımı hangi maddeler kullanılarak üretilir?",
+        "answer": "Gümüş, kalay, bakır, çinko ve cıva kullanılarak üretilir.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Oda sıcaklığında sıvı halde bulunan tek metal olmasına rağmen Cıva için kullanım alanlarında neden alternatif elementler aranmıştır?",
+        "answer": "Cıva'nın çok zehirli olması sebebiyle, kullanım alanlarında alternatif elementler kullanılmaya çalışılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

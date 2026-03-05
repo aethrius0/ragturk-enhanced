@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "tomatkins_6a1d52ae",
+    "title": "Tom Atkins",
+    "url": "https://tr.wikipedia.org/wiki/Tom_Atkins",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:04.731810",
+    "content": "Tom Atkins (13 Kasım 1935, Pittsburgh, Pensilvanya), Amerikalı oyuncudur. Filmlerde genellikle polis karakterini canlandırmıştır. == Kişisel yaşamı == Tom Atkins, Pensilvanya'ya bağlı Pittsburgh'da doğmuştur. Dorothy E. (née Williams) ve George C. Atkins'in oğludur. Janis Lee Rodgers ve Garn Stephens ile evlenmiş ikisinden de boşanmıştır. Janis Lee Rodgers'tan bir çocuğu vardır. Pensilvanya'ya bağlı McMurray'da yaşamını sürdürmektedir. == Kariyeri == Tom Atkins, John Carpenter'ın yönettiği iki filmde oynamıştır; 1980 tarihli hayalet hikâyesinin anlatıldığı Sis'te Nick Castle rolünü, 1981 tarihli bilimkurgu filmi New York'tan Kaçış'da Rehme rolünü canlandırmıştır. Ayrıca yapımcılığını John Carpenter'ın üstlenip, yönetmenliğini Tommy Lee Wallace'nin üstlendiği Cadılar Bayramı III: Cadının Mevsimi'nde Dr. Dan Challis rolünü canlandırmıştır. 1986 tarihli kült korku filmi Night of the Creeps'te Detektif Ray Cameron rolünü canlandırmıştır. Bu rol onun favorisidir. 1987 tarihli bir hit film olan Cehennem Silahı filminde Michael Hunsaker rolünü canlandırmıştır. 1970'lerin televizyon dizisi The Rockford Files'te Teğmen Alex Diehl rolünü canlandırmıştır. 1996 yılında The Rockford Files: If the Frame Fits... için bu sefer Komutan Diehl rolünü oynamıştır. Atkins; M*A*S*H, Baretta, The Fall Guy, Zeyna: Savaşçı Prenses, Walker, Texas Ranger ve Law & Order: Criminal Intent gibi birçok popüler televizyon gösterisinde konuk oyuncu olarak rol almıştır. Pittsburgh Halk Tiyatrosu'nda sıklıkla oynamıştır. En iyisi tek kişilik gösteri olan The Chief 'dir. Broadway'de David Storey'nin The Changing Room adlı oyununda oynamıştır. == Filmleri == Sevgililer Günü Katliamı 3D (2009) Trapped (2008) Out of the Black (2001) Turn of Faith (2001) Ölümün Maskesi (2001) Vuruş Mesafesi (1993) Sworn to Vengeance (1993) (TV) Başkan Bob Roberts (1992) The Heist (1989) (TV) Manyak Aranıyor (1988) Cehennem Silahı (1987) Night of the Creeps (1986) The New Kids (1985) Murder Me, Murder You (1983) Korku Şovu (1982) Cadılar Bayramı III: Cadının Mevsimi (1982) Desperate Lives (1982) (TV) New York'tan Kaçış (1981) Sis (1980) Vahşi Hakikat (1968) == Kaynakça == == Dış bağlantılar == SinemaTürk sayfası Sinemalar sayfası 1 Kasım 2008 tarihinde Wayback Machine sitesinde arşivlendi. IMDb sayfası5 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi. Tom Atkins Online 2 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 333,
+      "char_count": 2423,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.678925",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 130,
+      "content": "Tom Atkins (13 Kasım 1935, Pittsburgh, Pensilvanya), Amerikalı oyuncudur. Filmlerde genellikle polis karakterini canlandırmıştır.",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0001",
+      "section": "== Kişisel yaşamı ==",
+      "heading_path": "== Kişisel yaşamı ==",
+      "start_char": 130,
+      "end_char": 440,
+      "content": "== Kişisel yaşamı == Tom Atkins, Pensilvanya'ya bağlı Pittsburgh'da doğmuştur. Dorothy E. (née Williams) ve George C. Atkins'in oğludur. Janis Lee Rodgers ve Garn Stephens ile evlenmiş ikisinden de boşanmıştır. Janis Lee Rodgers'tan bir çocuğu vardır. Pensilvanya'ya bağlı McMurray'da yaşamını sürdürmektedir.",
+      "char_count": 309,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 440,
+      "end_char": 1440,
+      "content": "== Kariyeri == Tom Atkins, John Carpenter'ın yönettiği iki filmde oynamıştır; 1980 tarihli hayalet hikâyesinin anlatıldığı Sis'te Nick Castle rolünü, 1981 tarihli bilimkurgu filmi New York'tan Kaçış'da Rehme rolünü canlandırmıştır. Ayrıca yapımcılığını John Carpenter'ın üstlenip, yönetmenliğini Tommy Lee Wallace'nin üstlendiği Cadılar Bayramı III: Cadının Mevsimi'nde Dr. Dan Challis rolünü canlandırmıştır. 1986 tarihli kült korku filmi Night of the Creeps'te Detektif Ray Cameron rolünü canlandırmıştır. Bu rol onun favorisidir. 1987 tarihli bir hit film olan Cehennem Silahı filminde Michael Hunsaker rolünü canlandırmıştır. 1970'lerin televizyon dizisi The Rockford Files'te Teğmen Alex Diehl rolünü canlandırmıştır. 1996 yılında The Rockford Files: If the Frame Fits... için bu sefer Komutan Diehl rolünü oynamıştır. Atkins; M*A*S*H, Baretta, The Fall Guy, Zeyna: Savaşçı Prenses, Walker, Texas Ranger ve Law & Order: Criminal Intent gibi birçok popüler televizyon gösterisinde konuk oyuncu ol",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 1240,
+      "end_char": 1632,
+      "content": "iehl rolünü oynamıştır. Atkins; M*A*S*H, Baretta, The Fall Guy, Zeyna: Savaşçı Prenses, Walker, Texas Ranger ve Law & Order: Criminal Intent gibi birçok popüler televizyon gösterisinde konuk oyuncu olarak rol almıştır. Pittsburgh Halk Tiyatrosu'nda sıklıkla oynamıştır. En iyisi tek kişilik gösteri olan The Chief 'dir. Broadway'de David Storey'nin The Changing Room adlı oyununda oynamıştır.",
+      "char_count": 392,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0004",
+      "section": "== Filmleri ==",
+      "heading_path": "== Filmleri ==",
+      "start_char": 1633,
+      "end_char": 2136,
+      "content": "== Filmleri == Sevgililer Günü Katliamı 3D (2009) Trapped (2008) Out of the Black (2001) Turn of Faith (2001) Ölümün Maskesi (2001) Vuruş Mesafesi (1993) Sworn to Vengeance (1993) (TV) Başkan Bob Roberts (1992) The Heist (1989) (TV) Manyak Aranıyor (1988) Cehennem Silahı (1987) Night of the Creeps (1986) The New Kids (1985) Murder Me, Murder You (1983) Korku Şovu (1982) Cadılar Bayramı III: Cadının Mevsimi (1982) Desperate Lives (1982) (TV) New York'tan Kaçış (1981) Sis (1980) Vahşi Hakikat (1968)",
+      "char_count": 502,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2151,
+      "end_char": 2423,
+      "content": "== Dış bağlantılar == SinemaTürk sayfası Sinemalar sayfası 1 Kasım 2008 tarihinde Wayback Machine sitesinde arşivlendi. IMDb sayfası5 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi. Tom Atkins Online 2 Aralık 2008 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 272,
+      "token_estimate": 68
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tom Atkins'in favori rolü hangisiydi?",
+        "answer": "Detektif Ray Cameron.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tom Atkins'in Pensilvanya'daki doğum yeri ve mevcut ikamet adresi ile kariyerinde sıklıkla canlandırdığı polis karakterleri arasında ne tür bir bağlantı kurulabilir?",
+        "answer": "Tom Atkins, Pensilvanya'ya bağlı Pittsburgh'da dünyaya gelmiş ve yaşamını McMurray, Pensilvanya'da sürdüren Amerikalı bir oyuncudur. Kariyeri boyunca genellikle filmlerde polis karakterlerini canlandırmış, örneğin Night of the Creeps filminde Detektif Ray Cameron ve The Rockford Files dizisinde Teğmen Alex Diehl gibi rolleri üstlenmiştir. Bu durum, onun kişisel coğrafi kökenlerinin ve yaşamının, kariyerindeki belirgin polis tiplemesiyle bir süreklilik veya uyum içinde olduğunu göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

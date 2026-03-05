@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "bruceramsay_5e8db494",
+    "title": "Bruce Ramsay",
+    "url": "https://tr.wikipedia.org/wiki/Bruce_Ramsay",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:20.019694",
+    "content": "Bruce Ramsay (31 Aralık 1966), Kanadalı tiyatro, sinema ve dizi oyuncusu. == Yaşamı == Ramsay Orphans adlı tiyatro oyunuyla ilk kez 1997'de sahne aldı. Arts Kulüp Tiyatro Okulu mezunudur. == Kariyeri == Daha sonra ekranlardada boy gösteren Ramsey, CBS kanalında 9 televizyon filminde oynamış asıl şöhreti ise HBO kanalı televizyon dizileri Nash Bridges karakterini canlandırdığı The Hitchhiker ve The Hunger adlı dizilerde gösterdiği başarılı performansla sağladı. Sinema filmlerindede rol alan oyuncu oyuncu Dana Delany ile başrolü paylaştığı Baby for Sale oyuncu James Caan ile beraber rol aldığı Jericho Mansions ve yine Avusturya asıllı Amerikalı oyuncu Arnold Schwarzenegger ile birlikte yer aldığı Collateral adlı yapımlarda güçlü bir performans sergiledi. == Filmografi == First Offender (1987) Pin: A Plastic Nightmare (1988) Malarek (1989) Jacknife (1989) The Reckoning (1991) Street Legal (1991) Urban Angel (1991) To Catch a Killer (1992) Alive (1993) Dead Beat (1994) Killing Zoe (1994) The New Age (1994) Blah, Blah, Blah... (1995) Fallen Angels (1995) Hellraiser: Bloodline (1996) Curdled (1996) Hit Me (1996) Starstruck (1998) C-16: FBI (1998) Bonanno: A Godfather's Story (1999) Island of the Dead (2000) Shot in the Face (2001) Exploding Oedipus (2001) Collateral Damage (2002) Looking for Jimmy (2002) Holes (2003) Jericho Mansions (2003) Timeline (2003) Mob Princess (2003) Da Vinci's Inquest (2003) Baby for Sale (2004) Amnésie: L'Énigme James Brighton (2005) Indian Summer: The Oka Crisis (2006) One Dead Indian (2006) Babylon 5: The Lost Tales: Voices in the Dark (2007) Si j'etais Toi (2007) The Quality of Life (2008) G-Spot (2005–2009) Riverworld (2010) Supernatural (2010) Behind the Candelabra (2013) Brick Mansions (2014) == Dış bağlantılar == IMDb'de Bruce Ramsay",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 266,
+      "char_count": 1792,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.965902",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 74,
+      "content": "Bruce Ramsay (31 Aralık 1966), Kanadalı tiyatro, sinema ve dizi oyuncusu.",
+      "char_count": 73,
+      "token_estimate": 18
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 74,
+      "end_char": 188,
+      "content": "== Yaşamı == Ramsay Orphans adlı tiyatro oyunuyla ilk kez 1997'de sahne aldı. Arts Kulüp Tiyatro Okulu mezunudur.",
+      "char_count": 113,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 188,
+      "end_char": 763,
+      "content": "== Kariyeri == Daha sonra ekranlardada boy gösteren Ramsey, CBS kanalında 9 televizyon filminde oynamış asıl şöhreti ise HBO kanalı televizyon dizileri Nash Bridges karakterini canlandırdığı The Hitchhiker ve The Hunger adlı dizilerde gösterdiği başarılı performansla sağladı. Sinema filmlerindede rol alan oyuncu oyuncu Dana Delany ile başrolü paylaştığı Baby for Sale oyuncu James Caan ile beraber rol aldığı Jericho Mansions ve yine Avusturya asıllı Amerikalı oyuncu Arnold Schwarzenegger ile birlikte yer aldığı Collateral adlı yapımlarda güçlü bir performans sergiledi.",
+      "char_count": 574,
+      "token_estimate": 143
+    },
+    {
+      "id": "c0003",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 763,
+      "end_char": 1750,
+      "content": "== Filmografi == First Offender (1987) Pin: A Plastic Nightmare (1988) Malarek (1989) Jacknife (1989) The Reckoning (1991) Street Legal (1991) Urban Angel (1991) To Catch a Killer (1992) Alive (1993) Dead Beat (1994) Killing Zoe (1994) The New Age (1994) Blah, Blah, Blah... (1995) Fallen Angels (1995) Hellraiser: Bloodline (1996) Curdled (1996) Hit Me (1996) Starstruck (1998) C-16: FBI (1998) Bonanno: A Godfather's Story (1999) Island of the Dead (2000) Shot in the Face (2001) Exploding Oedipus (2001) Collateral Damage (2002) Looking for Jimmy (2002) Holes (2003) Jericho Mansions (2003) Timeline (2003) Mob Princess (2003) Da Vinci's Inquest (2003) Baby for Sale (2004) Amnésie: L'Énigme James Brighton (2005) Indian Summer: The Oka Crisis (2006) One Dead Indian (2006) Babylon 5: The Lost Tales: Voices in the Dark (2007) Si j'etais Toi (2007) The Quality of Life (2008) G-Spot (2005–2009) Riverworld (2010) Supernatural (2010) Behind the Candelabra (2013) Brick Mansions (2014)",
+      "char_count": 986,
+      "token_estimate": 246
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1750,
+      "end_char": 1792,
+      "content": "== Dış bağlantılar == IMDb'de Bruce Ramsay",
+      "char_count": 42,
+      "token_estimate": 10
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1994 yılında hangi filmler yayınlanmıştır?",
+        "answer": "Dead Beat, Killing Zoe ve The New Age.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kanadalı oyuncu Bruce Ramsay'in tiyatroya adım atmasından televizyon ve sinema kariyerindeki önemli başarılarına kadar mesleki gelişimini açıklayınız.",
+        "answer": "31 Aralık 1966 doğumlu Kanadalı tiyatro, sinema ve dizi oyuncusu Bruce Ramsay, Arts Kulüp Tiyatro Okulu mezunudur. Sahneye ilk kez 1997 yılında Ramsay Orphans adlı tiyatro oyunuyla çıkmıştır. Daha sonra ekranlara geçerek, özellikle HBO kanalında yayımlanan The Hitchhiker ve The Hunger dizilerindeki performanslarıyla şöhret kazanmıştır. Ayrıca CBS kanalında 9 televizyon filminde ve Dana Delany ile Baby for Sale, James Caan ile Jericho Mansions, Arnold Schwarzenegger ile Collateral gibi sinema filmlerinde rol almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

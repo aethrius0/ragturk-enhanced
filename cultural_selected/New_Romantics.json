@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "newromantics_5b815a4d",
+    "title": "New Romantics",
+    "url": "https://tr.wikipedia.org/wiki/New_Romantics",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:12.672434",
+    "content": "''New Romantics'' Amerikalı şarkıcı-söz yazarı Taylor Swift tarafından kendisinin 5. stüdyo albümü 1989 (2014) için kaydedilmiş bir şarkıdır. Albümün deluxe halinin son, yani 16. şarkısı ''New Romantics'', 3 Mart 2015'te iTunes Store'da albümün beşinci promosyon single'ı olarak yayımlandı ve Billboard Hot 100 listesinde dijital satışlarda 71. sıraya ulaştı. 23 Şubat 2016'da ise Big Machine Records ve Repuclic Records tarafından ''New Romantics'', Amerika'da contemporary hit radio'ya albümün resmi 7. single'ı olarak verildi. Ayrıca şarkı, Stockholm, İsveç'te, MXM Stüdyoları'nda kaydedildi. == Eleştiriler == Rolling Stone dergisinin editörü Rob Sheffield, ''New Romantics''i 2014'ün en iyi ikinci şarkısı olarak değerlendirdi ve şöyle belirtti: ''Swift neden böyle önemli ve parlak bir şarkıyı albümün dışında bıraktı bilmiyorum (bu bonus bir şarkı), ama dahiler tuhaf.'' == Müzik Videosu == New Romantics'in müzik videosu ilk olarak 6 Nisan'da Apple Music'e özel olarak, ardından 13 Nisan 2016'da Swift'in VEVO ve Youtube kanalından yayımlandı. Video, Swift'in 5.stüdyo albümü 1989 için hazırlanan ve 4.dünya turu olan The 1989 World Tour'daki performanslarından ve kamera arkası görüntülerinden oluşturuldu. == Liste Performansı == Şarkı 21 Mart 2015'te Billboard Hot 100 listesinde dijital satışlarda 71. sıraya ulaştı, ancak sonraki hafta listeye girmeyi başaramadı. Şubat 2016'da single olarak yayımlandıktan sonra ise Mainstream Top 40 listesinde 28, Adult Top 40 listesinde ise 26 numaraya ulaştı. Avustralya'da ARIA Singles Chart'a ilk sunulduğunda 47 numaraya ulaştı, sonrasında ise 35 numaraya yükseldi. == Personel == Taylor Swift – ana vokal, söz yazarı, geri vokal Max Martin – yapımcı, söz yazarı, klavye, piyano, programlama Shellback – yapımcı, söz yazarı, geri vokal, gitar, klavye, davul, programlama, bas Sam Holland – kayıt Cory Bice – kayıt Serban Ghenea – ses miksajı John Hanes – miksaj mühendisi Tom Coyne – mastering === Listeler === === Kaynakça ===",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 283,
+      "char_count": 1981,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.630112",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 596,
+      "content": "''New Romantics'' Amerikalı şarkıcı-söz yazarı Taylor Swift tarafından kendisinin 5. stüdyo albümü 1989 (2014) için kaydedilmiş bir şarkıdır. Albümün deluxe halinin son, yani 16. şarkısı ''New Romantics'', 3 Mart 2015'te iTunes Store'da albümün beşinci promosyon single'ı olarak yayımlandı ve Billboard Hot 100 listesinde dijital satışlarda 71. sıraya ulaştı. 23 Şubat 2016'da ise Big Machine Records ve Repuclic Records tarafından ''New Romantics'', Amerika'da contemporary hit radio'ya albümün resmi 7. single'ı olarak verildi. Ayrıca şarkı, Stockholm, İsveç'te, MXM Stüdyoları'nda kaydedildi.",
+      "char_count": 595,
+      "token_estimate": 148
+    },
+    {
+      "id": "c0001",
+      "section": "== Eleştiriler ==",
+      "heading_path": "== Eleştiriler ==",
+      "start_char": 596,
+      "end_char": 878,
+      "content": "== Eleştiriler == Rolling Stone dergisinin editörü Rob Sheffield, ''New Romantics''i 2014'ün en iyi ikinci şarkısı olarak değerlendirdi ve şöyle belirtti: ''Swift neden böyle önemli ve parlak bir şarkıyı albümün dışında bıraktı bilmiyorum (bu bonus bir şarkı), ama dahiler tuhaf.''",
+      "char_count": 281,
+      "token_estimate": 70
+    },
+    {
+      "id": "c0002",
+      "section": "== Müzik Videosu ==",
+      "heading_path": "== Müzik Videosu ==",
+      "start_char": 878,
+      "end_char": 1216,
+      "content": "== Müzik Videosu == New Romantics'in müzik videosu ilk olarak 6 Nisan'da Apple Music'e özel olarak, ardından 13 Nisan 2016'da Swift'in VEVO ve Youtube kanalından yayımlandı. Video, Swift'in 5.stüdyo albümü 1989 için hazırlanan ve 4.dünya turu olan The 1989 World Tour'daki performanslarından ve kamera arkası görüntülerinden oluşturuldu.",
+      "char_count": 337,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0003",
+      "section": "== Liste Performansı ==",
+      "heading_path": "== Liste Performansı ==",
+      "start_char": 1216,
+      "end_char": 1620,
+      "content": "== Liste Performansı == Şarkı 21 Mart 2015'te Billboard Hot 100 listesinde dijital satışlarda 71. sıraya ulaştı, ancak sonraki hafta listeye girmeyi başaramadı. Şubat 2016'da single olarak yayımlandıktan sonra ise Mainstream Top 40 listesinde 28, Adult Top 40 listesinde ise 26 numaraya ulaştı. Avustralya'da ARIA Singles Chart'a ilk sunulduğunda 47 numaraya ulaştı, sonrasında ise 35 numaraya yükseldi.",
+      "char_count": 403,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0004",
+      "section": "== Personel ==",
+      "heading_path": "== Personel ==",
+      "start_char": 1620,
+      "end_char": 1948,
+      "content": "== Personel == Taylor Swift – ana vokal, söz yazarı, geri vokal Max Martin – yapımcı, söz yazarı, klavye, piyano, programlama Shellback – yapımcı, söz yazarı, geri vokal, gitar, klavye, davul, programlama, bas Sam Holland – kayıt Cory Bice – kayıt Serban Ghenea – ses miksajı John Hanes – miksaj mühendisi Tom Coyne – mastering",
+      "char_count": 327,
+      "token_estimate": 81
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Taylor Swift'in ''New Romantics'' şarkısı hangi albümde kaydedilmiştir?",
+        "answer": "1989 (2014) adlı 5. stüdyo albümünde kaydedilmiştir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Taylor Swift'in ''New Romantics'' şarkısı için Rob Sheffield'ın yüksek değerlendirmesi göz önüne alındığında, şarkının albümdeki başlangıçtaki konumu ve bu durum hakkındaki yorumu neydi?",
+        "answer": "Rob Sheffield, ''New Romantics''i 2014'ün en iyi ikinci şarkısı olarak değerlendirmesine rağmen, şarkı başlangıçta 1989 albümünün deluxe halinin 16. ve son bonus şarkısıydı. Sheffield, bu kadar önemli ve parlak bir şarkının albüm dışında bırakılmasına şaşırdığını belirtti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

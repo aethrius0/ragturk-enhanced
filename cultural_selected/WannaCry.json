@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "wannacry_db6dc299",
+    "title": "WannaCry",
+    "url": "https://tr.wikipedia.org/wiki/WannaCry",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:58:55.557225",
+    "content": "WannaCry, WannaCrypt, WanaCrypt0r 2.0, Wanna Decryptor, Microsoft Windows'u hedef alan bir fidye virüsü. Mayıs 2017'de 99 ülkedeki 230.000 bilgisayara bulaşarak 28 dilde fidye talep eden geniş çaplı bir siber saldırı başlattı. WannaCry, enfekte olduğu bilgisayardaki dosyaları şifreleyip yeniden erişime açılabilmesi için fidye talep etmektedir. Saldırı, Europol tarafından \"eşi benzeri görülmemiş\" şeklinde nitelendirildi. Saldırının 150 ülkede 300.000'den fazla bilgisayarı etkilediği tahmin ediliyor. Saldırı, İspanya'daki telekom şirketi Telefónica, enerji şirketi Iberdrola ve kamu hizmeti şirketi Gas Natural'ın da aralarında bulunduğu büyük kuruluşların yanı sıra İngiltere Ulusal Sağlık Servisi (NHS), FedEx ve Deutsche Bahn'i de etkiledi. En az 99 ülkedeki diğer hedeflerin de aynı zamanda saldırıya uğradığı bildirildi.. Rusya İçişleri Bakanlığı, Rusya Acil Durum Bakanlığı ve Rusya telekomünikasyon şirketi MegaFon da virüsün binden fazla bilgisayara enfekte olduğunu bildirdi. WannaCry'ın ABD Ulusal Güvenlik Ajansı tarafından Microsoft Windows işletim sistemlerini kullanan bilgisayarlara saldırmak üzere geliştirilen EternalBlue'yu kötüye kullandığı düşünülmektedir. Temel güvenlik açığını gidermeye yönelik bir düzeltme yaması 14 Mart 2017'de yayımlanmış olmasına rağmen, güvenlik güncelleştirmelerinin uygulanmasının gecikmesi bazı kullanıcılar ve kuruluşları savunmasız bıraktı. Yeni bulaşmaları önleyebilecek bir öldürme anahtarı bulundu. Araştırmacılar tarafından aktif hâle getirilek WannaCry'ın yayılımının yavaşlaması ya da durdurulması hedeflendi. Ancak fidye yazılımın farklı sürümleri yayınlanabilir ve güvenlik açığı bulunan sistemlerin güncellenmesi gerekmektedir. == Arka plan == Sözde bulaşma taşıyıcısı EternalBlue, 14 Nisan 2017'de düzenlenen The Shadow Brokers hacker grubu tarafından ve Amerika Birleşik Devletleri Ulusal Güvenlik Ajansı'nın bir parçası olduğu düşünülen Equation Group'tan sızdırılmış diğer araçlarla birlikte salıverildi. EternalBlue, Microsoft'un Sunucu Mesaj Bloğu (SMB) protokolünü uygulamasındaki MS17-010 güvenlik açığından yararlanmaktadır. Microsoft, 14 Mart 2017'de güvenlik açığından etkilenen bir düzeltme yaması ile birlikte \"Kritik\" bir öneri yayımladı. 12 Mayıs 2017'de WannaCry, dünyadaki bilgisayarları etkilemeye başladı. Fidye virüsü, bilgisayarlara eriştikten sonra bilgisayarın sabit disk sürücüsünü şifrelemekte ve ardından SMB'nin güvenlik açığından yararlanarak internetteki rastgele bilgisayarlara ve LAN'da aynı LAN üzerindeki bilgisayarlar arasında yayılmaya çalışmaktadır. Windows güvenlik açığı bir sıfır gün açığı değil ancak Microsoft'un 14 Mart 2017'de (neredeyse olaydan tam iki ay önce) bir güvenlik yaması hazırladığı bir güvenlik açığıdır. Düzeltme yaması, Windows tarafından kullanılan Sunucu Mesaj Bloğu (SMB) protokolüne yönelikti. Microsoft ayrıca kullanıcıları eski SMB1 protokolünü kullanmayı bırakmaya ve daha yeni, daha güvenli SMB3 protokolünü kullanmaya teşvik etmektedir. Kuruluşların virüsten etkilenme sebebi bu güvenlik yamasından yoksun olmaları ve bugüne kadar herhangi birinin fidye yazılımı geliştiricileri tarafından hedef alındığına dair hiçbir kanıt olmamasıydı. Ömrünü tamamlamış olan Windows XP kullanan herhangi bir kuruluş 13 Mayıs tarihine kadar yüksek risk altındaydı. XP için bu tarihten önce Nisan 2014'ten beri herhangi bir güvenlik yaması çıkarılmadı. == Etkisi == Zararlı yazılım, İngiltere ve İskoçya'da Ulusal Sağlık Sistemi'nin (NHS) çökmesine neden oldu. 12 Mayıs'ta bazı NHS hizmetleri, acil durumlar dışında hasta kabul etmedi ve ambulanslar bekletildi. 2016'da İngiltere'deki 42 ayrı NHS tröstünde binlerce bilgisayarın hâlâ Windows XP çalıştırıldığı bildirildi. Rusya İçişleri Bakanlığı, Rusya Acil Durum Bakanlığı ve Rusya telekomünikasyon şirketi MegaFon da virüsün binden fazla bilgisayara enfekte olduğunu bildirdi. == Etkilenen kuruluşlar == == Yapılanlar == Kötü amaçlı yazılım içine sabitlenmiş bir \"öldürme anahtarı\", ilk bulaşmanın durdurulmasını sağladı, ancak öldürme anahtarı olmayan varyantların oluşturulması bekleniyor. 13 Mayıs 2017'de, Microsoft'un güncelleme desteği vermeyi çoktandır bıraktığı Windows XP, Windows 7, Windows 8 ve Windows Server 2003 için bir güvenlik güncelleştirmesi oluşturmak için olağan dışı bir adım attığı bildirildi. == Tepkiler == İngiltere Başbakanı Theresa May konuyla ilgili yaptığı açıklamada Ulusal Siber Güvenlik Merkezi'nin (NCSC) NHS ile \"yakın çalışma\" içinde olduğunu söyledi. May, ayrıca şu ana kadar kişilerin sağlık bilgilerinin ele geçirilmiş olabileceğine dair herhangi bir bulguya rastlanmadığını da ifade etti. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 572,
+      "char_count": 4611,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.687131",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "WannaCry, WannaCrypt, WanaCrypt0r 2.0, Wanna Decryptor, Microsoft Windows'u hedef alan bir fidye virüsü. Mayıs 2017'de 99 ülkedeki 230.000 bilgisayara bulaşarak 28 dilde fidye talep eden geniş çaplı bir siber saldırı başlattı. WannaCry, enfekte olduğu bilgisayardaki dosyaları şifreleyip yeniden erişime açılabilmesi için fidye talep etmektedir. Saldırı, Europol tarafından \"eşi benzeri görülmemiş\" şeklinde nitelendirildi. Saldırının 150 ülkede 300.000'den fazla bilgisayarı etkilediği tahmin ediliyor. Saldırı, İspanya'daki telekom şirketi Telefónica, enerji şirketi Iberdrola ve kamu hizmeti şirketi Gas Natural'ın da aralarında bulunduğu büyük kuruluşların yanı sıra İngiltere Ulusal Sağlık Servisi (NHS), FedEx ve Deutsche Bahn'i de etkiledi. En az 99 ülkedeki diğer hedeflerin de aynı zamanda saldırıya uğradığı bildirildi.. Rusya İçişleri Bakanlığı, Rusya Acil Durum Bakanlığı ve Rusya telekomünikasyon şirketi MegaFon da virüsün binden fazla bilgisayara enfekte olduğunu bildirdi. WannaCry'ın",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1691,
+      "content": "aldırıya uğradığı bildirildi.. Rusya İçişleri Bakanlığı, Rusya Acil Durum Bakanlığı ve Rusya telekomünikasyon şirketi MegaFon da virüsün binden fazla bilgisayara enfekte olduğunu bildirdi. WannaCry'ın ABD Ulusal Güvenlik Ajansı tarafından Microsoft Windows işletim sistemlerini kullanan bilgisayarlara saldırmak üzere geliştirilen EternalBlue'yu kötüye kullandığı düşünülmektedir. Temel güvenlik açığını gidermeye yönelik bir düzeltme yaması 14 Mart 2017'de yayımlanmış olmasına rağmen, güvenlik güncelleştirmelerinin uygulanmasının gecikmesi bazı kullanıcılar ve kuruluşları savunmasız bıraktı. Yeni bulaşmaları önleyebilecek bir öldürme anahtarı bulundu. Araştırmacılar tarafından aktif hâle getirilek WannaCry'ın yayılımının yavaşlaması ya da durdurulması hedeflendi. Ancak fidye yazılımın farklı sürümleri yayınlanabilir ve güvenlik açığı bulunan sistemlerin güncellenmesi gerekmektedir.",
+      "char_count": 891,
+      "token_estimate": 222
+    },
+    {
+      "id": "c0002",
+      "section": "== Arka plan ==",
+      "heading_path": "== Arka plan ==",
+      "start_char": 1692,
+      "end_char": 2692,
+      "content": "== Arka plan == Sözde bulaşma taşıyıcısı EternalBlue, 14 Nisan 2017'de düzenlenen The Shadow Brokers hacker grubu tarafından ve Amerika Birleşik Devletleri Ulusal Güvenlik Ajansı'nın bir parçası olduğu düşünülen Equation Group'tan sızdırılmış diğer araçlarla birlikte salıverildi. EternalBlue, Microsoft'un Sunucu Mesaj Bloğu (SMB) protokolünü uygulamasındaki MS17-010 güvenlik açığından yararlanmaktadır. Microsoft, 14 Mart 2017'de güvenlik açığından etkilenen bir düzeltme yaması ile birlikte \"Kritik\" bir öneri yayımladı. 12 Mayıs 2017'de WannaCry, dünyadaki bilgisayarları etkilemeye başladı. Fidye virüsü, bilgisayarlara eriştikten sonra bilgisayarın sabit disk sürücüsünü şifrelemekte ve ardından SMB'nin güvenlik açığından yararlanarak internetteki rastgele bilgisayarlara ve LAN'da aynı LAN üzerindeki bilgisayarlar arasında yayılmaya çalışmaktadır. Windows güvenlik açığı bir sıfır gün açığı değil ancak Microsoft'un 14 Mart 2017'de (neredeyse olaydan tam iki ay önce) bir güvenlik yaması ha",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Arka plan ==",
+      "heading_path": "== Arka plan ==",
+      "start_char": 2492,
+      "end_char": 3367,
+      "content": "zerindeki bilgisayarlar arasında yayılmaya çalışmaktadır. Windows güvenlik açığı bir sıfır gün açığı değil ancak Microsoft'un 14 Mart 2017'de (neredeyse olaydan tam iki ay önce) bir güvenlik yaması hazırladığı bir güvenlik açığıdır. Düzeltme yaması, Windows tarafından kullanılan Sunucu Mesaj Bloğu (SMB) protokolüne yönelikti. Microsoft ayrıca kullanıcıları eski SMB1 protokolünü kullanmayı bırakmaya ve daha yeni, daha güvenli SMB3 protokolünü kullanmaya teşvik etmektedir. Kuruluşların virüsten etkilenme sebebi bu güvenlik yamasından yoksun olmaları ve bugüne kadar herhangi birinin fidye yazılımı geliştiricileri tarafından hedef alındığına dair hiçbir kanıt olmamasıydı. Ömrünü tamamlamış olan Windows XP kullanan herhangi bir kuruluş 13 Mayıs tarihine kadar yüksek risk altındaydı. XP için bu tarihten önce Nisan 2014'ten beri herhangi bir güvenlik yaması çıkarılmadı.",
+      "char_count": 875,
+      "token_estimate": 218
+    },
+    {
+      "id": "c0004",
+      "section": "== Etkisi ==",
+      "heading_path": "== Etkisi ==",
+      "start_char": 3368,
+      "end_char": 3845,
+      "content": "== Etkisi == Zararlı yazılım, İngiltere ve İskoçya'da Ulusal Sağlık Sistemi'nin (NHS) çökmesine neden oldu. 12 Mayıs'ta bazı NHS hizmetleri, acil durumlar dışında hasta kabul etmedi ve ambulanslar bekletildi. 2016'da İngiltere'deki 42 ayrı NHS tröstünde binlerce bilgisayarın hâlâ Windows XP çalıştırıldığı bildirildi. Rusya İçişleri Bakanlığı, Rusya Acil Durum Bakanlığı ve Rusya telekomünikasyon şirketi MegaFon da virüsün binden fazla bilgisayara enfekte olduğunu bildirdi.",
+      "char_count": 476,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0005",
+      "section": "== Yapılanlar ==",
+      "heading_path": "== Yapılanlar ==",
+      "start_char": 3872,
+      "end_char": 4285,
+      "content": "== Yapılanlar == Kötü amaçlı yazılım içine sabitlenmiş bir \"öldürme anahtarı\", ilk bulaşmanın durdurulmasını sağladı, ancak öldürme anahtarı olmayan varyantların oluşturulması bekleniyor. 13 Mayıs 2017'de, Microsoft'un güncelleme desteği vermeyi çoktandır bıraktığı Windows XP, Windows 7, Windows 8 ve Windows Server 2003 için bir güvenlik güncelleştirmesi oluşturmak için olağan dışı bir adım attığı bildirildi.",
+      "char_count": 412,
+      "token_estimate": 103
+    },
+    {
+      "id": "c0006",
+      "section": "== Tepkiler ==",
+      "heading_path": "== Tepkiler ==",
+      "start_char": 4285,
+      "end_char": 4597,
+      "content": "== Tepkiler == İngiltere Başbakanı Theresa May konuyla ilgili yaptığı açıklamada Ulusal Siber Güvenlik Merkezi'nin (NCSC) NHS ile \"yakın çalışma\" içinde olduğunu söyledi. May, ayrıca şu ana kadar kişilerin sağlık bilgilerinin ele geçirilmiş olabileceğine dair herhangi bir bulguya rastlanmadığını da ifade etti.",
+      "char_count": 311,
+      "token_estimate": 77
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "WannaCry ne tür bir siber tehdittir?",
+        "answer": "Microsoft Windows'u hedef alan bir fidye virüsüdür.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "WannaCry saldırısının Mayıs 2017'de dünya genelinde yaygınlaşmasının ana nedeni neydi, saldırıda kullanılan güvenlik açığı için bir yama saldırıdan aylar önce yayımlanmış olmasına rağmen?",
+        "answer": "WannaCry saldırısı, ABD Ulusal Güvenlik Ajansı tarafından geliştirildiği düşünülen ve Shadow Brokers tarafından sızdırılan EternalBlue istismarını kullanarak Microsoft'un Sunucu Mesaj Bloğu (SMB) protokolündeki MS17-010 güvenlik açığından yararlandı. Microsoft, bu kritik güvenlik açığı için düzeltme yamasını WannaCry'ın bilgisayarları etkilemeye başlamasından yaklaşık iki ay önce, 14 Mart 2017'de yayımlamıştı. Ancak, güvenlik güncelleştirmelerinin uygulanmasındaki gecikme, birçok kullanıcının ve kuruluşun sistemlerini savunmasız bırakarak Mayıs 2017'deki saldırının geniş çapta yayılmasına neden oldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

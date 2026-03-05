@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "andreastakov_a16e8183",
+    "title": "Andrea Stašková",
+    "url": "https://tr.wikipedia.org/wiki/Andrea_Sta%C5%A1kov%C3%A1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:19.231696",
+    "content": "Andrea Stašková (d. 12 Mayıs 2000), Kadınlar Süper Ligi takımlarından Fenerbahçe ve Çekya kadın millî takımında forvet pozisyonunda oynayan Çek kadın futbolcudur. == Kulüp kariyeri == Stašková, 2017 ve 2018 Yılın Çek Futbolcusu ödüllerinde yılın yeteneği seçildi. Uluslararası salon futbolu turnuvası Turbine Hallencup 2018'de en çok gol atan futbolcu oldu ve en iyi oyuncu seçildi. 2018-19 sezonunda Stašková, 32 golle Çek Kadınlar Birinci Ligi'nde gol kraliçesi oldu. 2021 ve 2022 yıllarında Yılın Çek Futbolcusu ödülüne layık görüldü. === Atletico Madrid === 28 Haziran 2022 tarihinde Atlético Madrid'e transfer oldu. === AC Milan === 1 Temmuz 2023'te AC Milan ile sözleşme imzaladı. === Galatasaray === 23 Ağustos 2024'te Stašková, Kadınlar Süper Ligi takımlarından Galatasaray ile bir yıllık sözleşme imzaladı. == Millî takım golleri == == Başarıları == Sparta Prag Ulusal Şampiyon: 2018, 2019 Çek Kadınlar Kupası: 2017, 2018, 2019 Türbin Hallencup: 2019 Juventus Serie A: 2019-20, 2020-21, 2021-22 İtalya Kupası: 2021-22 Supercoppa Italiana: 2019, 2020-21, 2021-22 == Kişisel yaşamı == 27 Aralık 2023'te Stašková, kız arkadaşı Tereza Bendová'ya Paris'te Eyfel Kulesi'nin önünde evlenme teklifi etti. == Kaynakça == == Dış bağlantılar == Andrea Stašková UEFA (İngilizce) Andrea Stašková Çek Cumhuriyeti Futbol Federasyonu (İngilizce) Andrea Stašková FootballDatabase.eu (İngilizce) Andrea Stašková Soccerway.com (İngilizce) Andrea Stašková WorldFootball.net (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1474,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.658795",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 163,
+      "content": "Andrea Stašková (d. 12 Mayıs 2000), Kadınlar Süper Ligi takımlarından Fenerbahçe ve Çekya kadın millî takımında forvet pozisyonunda oynayan Çek kadın futbolcudur.",
+      "char_count": 162,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0001",
+      "section": "== Kulüp kariyeri ==",
+      "heading_path": "== Kulüp kariyeri ==",
+      "start_char": 163,
+      "end_char": 538,
+      "content": "== Kulüp kariyeri == Stašková, 2017 ve 2018 Yılın Çek Futbolcusu ödüllerinde yılın yeteneği seçildi. Uluslararası salon futbolu turnuvası Turbine Hallencup 2018'de en çok gol atan futbolcu oldu ve en iyi oyuncu seçildi. 2018-19 sezonunda Stašková, 32 golle Çek Kadınlar Birinci Ligi'nde gol kraliçesi oldu. 2021 ve 2022 yıllarında Yılın Çek Futbolcusu ödülüne layık görüldü.",
+      "char_count": 374,
+      "token_estimate": 93
+    },
+    {
+      "id": "c0002",
+      "section": "=== Atletico Madrid ===",
+      "heading_path": "=== Atletico Madrid ===",
+      "start_char": 538,
+      "end_char": 621,
+      "content": "=== Atletico Madrid === 28 Haziran 2022 tarihinde Atlético Madrid'e transfer oldu.",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0003",
+      "section": "=== AC Milan ===",
+      "heading_path": "=== AC Milan ===",
+      "start_char": 621,
+      "end_char": 687,
+      "content": "=== AC Milan === 1 Temmuz 2023'te AC Milan ile sözleşme imzaladı.",
+      "char_count": 65,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0004",
+      "section": "=== Galatasaray ===",
+      "heading_path": "=== Galatasaray ===",
+      "start_char": 687,
+      "end_char": 816,
+      "content": "=== Galatasaray === 23 Ağustos 2024'te Stašková, Kadınlar Süper Ligi takımlarından Galatasaray ile bir yıllık sözleşme imzaladı.",
+      "char_count": 128,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0005",
+      "section": "== Başarıları ==",
+      "heading_path": "== Başarıları ==",
+      "start_char": 842,
+      "end_char": 1071,
+      "content": "== Başarıları == Sparta Prag Ulusal Şampiyon: 2018, 2019 Çek Kadınlar Kupası: 2017, 2018, 2019 Türbin Hallencup: 2019 Juventus Serie A: 2019-20, 2020-21, 2021-22 İtalya Kupası: 2021-22 Supercoppa Italiana: 2019, 2020-21, 2021-22",
+      "char_count": 228,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0006",
+      "section": "== Kişisel yaşamı ==",
+      "heading_path": "== Kişisel yaşamı ==",
+      "start_char": 1071,
+      "end_char": 1206,
+      "content": "== Kişisel yaşamı == 27 Aralık 2023'te Stašková, kız arkadaşı Tereza Bendová'ya Paris'te Eyfel Kulesi'nin önünde evlenme teklifi etti.",
+      "char_count": 134,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1221,
+      "end_char": 1474,
+      "content": "== Dış bağlantılar == Andrea Stašková UEFA (İngilizce) Andrea Stašková Çek Cumhuriyeti Futbol Federasyonu (İngilizce) Andrea Stašková FootballDatabase.eu (İngilizce) Andrea Stašková Soccerway.com (İngilizce) Andrea Stašková WorldFootball.net (İngilizce)",
+      "char_count": 253,
+      "token_estimate": 63
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Stašková, 2018-19 sezonunda Çek Kadınlar Birinci Ligi'nde kaç golle gol kraliçesi oldu?",
+        "answer": "32 gol",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fenerbahçe'de forvet olarak oynayan Andrea Stašková'nın kariyer profili, genç yetenek ödülleri ve uluslararası/ligdeki golcülük başarıları ışığında nasıl özetlenebilir?",
+        "answer": "Andrea Stašková, 2017 ve 2018 yıllarında yılın yeteneği seçilmiş, 2018 Turbine Hallencup'ta en çok gol atan futbolcu ve en iyi oyuncu olmuş, 2018-19 sezonunda 32 golle Çek Kadınlar Birinci Ligi'nde gol kraliçesi unvanını kazanmıştır. Ayrıca 2021 ve 2022 yıllarında da Yılın Çek Futbolcusu ödülüne layık görülmüştür ve şu anda Fenerbahçe ile Çekya kadın millî takımında forvet pozisyonunda oynamaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

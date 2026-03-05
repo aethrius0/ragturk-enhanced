@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "destikapama_e2ba5780",
+    "title": "Desti kapama",
+    "url": "https://tr.wikipedia.org/wiki/Desti_kapama",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:08.463821",
+    "content": "Desti kapama bir çeşit yemektir. == Yörelere göre çeşitleri == === Ankara Kızılcahamam Desti Kapama === Desti kapama, yöresel olarak kapama testisi diye anılan, kendisine özel dibinde bir altılık çivi geçecek kadar deliği olan küpü ve yine kendine has kapama tavası diye adlandırılan, her iki tarafı kulplu kalaylı bakır pişirme kabı ile hazırlanan Ankara Kızılcahamam çevresine özgü yemektir. Bunun için ateş yakılır, saca (saç ayağı) adı verilen demir ateşin üzerine konur ve bu saca üzerine bakır tava adı verilen derinliği on cm çapı otuz santim olan tava yeterli miktar su konup oturtulur. kapama testisi diye anılan küp içerisine bir el yumruğunu geçmiyecek biçiminde tercihen dana veya koyun kuzu eti bütün olarak soyulmuş soğan konur ve küp ters çevrilerek ocakta kaynayan su üzerine oturtulur. Böylece suyu görmeden kaynayan suyun buharı ile pişen etler bu suya yağ ve suyunu salar. Pişmesine yakın bu suya pirinç salınır suyu çekip pilav bu suda pişince kulplu kapama tavası ile sofraya alınır. Küp içerisinde etler bu pilav üzerine boşaltılır. Küpün pilavdan çıkarılması ile oluşan, pilav ortasındaki boşluğa, yine ayaklı sahan adı verilen, görünüm olarak kadehi andıran içi ayran dolu sahan oturtulur. Yiyen kimseler hem et hem pilav hem ayranı tüketebilir. Soğanlar dahi küp içerisinde muhteşem lezzet kazanır, et pamuk gibi kendine has bir lezzeti ile özellikle düğün ya da cenaze sonrası geleni ağırlamada ya da diğer herhangi gün beher tava sekiz on kişi doyurur. Günümüz kent yaşamı odun ateşi yerine tüp ateşinde pişirme zorunda bırakıyor. === Sandıklı Kapama Yemeği === Afyonkarahisar Sandıklı Kapama Yemeği 17.12.2021 tarihinde Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır. === Uruş Kapama === Ankara'da Uruş, Beypazarı ve çevresinde yapılır. Malzemeleri kuzu kuşbaşı, sarımsak, soğan veya arpacık soğan, salça, domates, pul biber, sivri biber, nohut, biber salçası, pirinçtir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 292,
+      "char_count": 1946,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.409120",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 33,
+      "content": "Desti kapama bir çeşit yemektir.",
+      "char_count": 32,
+      "token_estimate": 8
+    },
+    {
+      "id": "c0001",
+      "section": "=== Ankara Kızılcahamam Desti Kapama ===",
+      "heading_path": "=== Ankara Kızılcahamam Desti Kapama ===",
+      "start_char": 63,
+      "end_char": 1063,
+      "content": "=== Ankara Kızılcahamam Desti Kapama === Desti kapama, yöresel olarak kapama testisi diye anılan, kendisine özel dibinde bir altılık çivi geçecek kadar deliği olan küpü ve yine kendine has kapama tavası diye adlandırılan, her iki tarafı kulplu kalaylı bakır pişirme kabı ile hazırlanan Ankara Kızılcahamam çevresine özgü yemektir. Bunun için ateş yakılır, saca (saç ayağı) adı verilen demir ateşin üzerine konur ve bu saca üzerine bakır tava adı verilen derinliği on cm çapı otuz santim olan tava yeterli miktar su konup oturtulur. kapama testisi diye anılan küp içerisine bir el yumruğunu geçmiyecek biçiminde tercihen dana veya koyun kuzu eti bütün olarak soyulmuş soğan konur ve küp ters çevrilerek ocakta kaynayan su üzerine oturtulur. Böylece suyu görmeden kaynayan suyun buharı ile pişen etler bu suya yağ ve suyunu salar. Pişmesine yakın bu suya pirinç salınır suyu çekip pilav bu suda pişince kulplu kapama tavası ile sofraya alınır. Küp içerisinde etler bu pilav üzerine boşaltılır. Küpün pi",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "=== Ankara Kızılcahamam Desti Kapama ===",
+      "heading_path": "=== Ankara Kızılcahamam Desti Kapama ===",
+      "start_char": 863,
+      "end_char": 1557,
+      "content": "bu suya yağ ve suyunu salar. Pişmesine yakın bu suya pirinç salınır suyu çekip pilav bu suda pişince kulplu kapama tavası ile sofraya alınır. Küp içerisinde etler bu pilav üzerine boşaltılır. Küpün pilavdan çıkarılması ile oluşan, pilav ortasındaki boşluğa, yine ayaklı sahan adı verilen, görünüm olarak kadehi andıran içi ayran dolu sahan oturtulur. Yiyen kimseler hem et hem pilav hem ayranı tüketebilir. Soğanlar dahi küp içerisinde muhteşem lezzet kazanır, et pamuk gibi kendine has bir lezzeti ile özellikle düğün ya da cenaze sonrası geleni ağırlamada ya da diğer herhangi gün beher tava sekiz on kişi doyurur. Günümüz kent yaşamı odun ateşi yerine tüp ateşinde pişirme zorunda bırakıyor.",
+      "char_count": 694,
+      "token_estimate": 173
+    },
+    {
+      "id": "c0003",
+      "section": "=== Sandıklı Kapama Yemeği ===",
+      "heading_path": "=== Sandıklı Kapama Yemeği ===",
+      "start_char": 1558,
+      "end_char": 1728,
+      "content": "=== Sandıklı Kapama Yemeği === Afyonkarahisar Sandıklı Kapama Yemeği 17.12.2021 tarihinde Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır.",
+      "char_count": 169,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0004",
+      "section": "=== Uruş Kapama ===",
+      "heading_path": "=== Uruş Kapama ===",
+      "start_char": 1728,
+      "end_char": 1932,
+      "content": "=== Uruş Kapama === Ankara'da Uruş, Beypazarı ve çevresinde yapılır. Malzemeleri kuzu kuşbaşı, sarımsak, soğan veya arpacık soğan, salça, domates, pul biber, sivri biber, nohut, biber salçası, pirinçtir.",
+      "char_count": 203,
+      "token_estimate": 50
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ankara Kızılcahamam Desti Kapama yemeğinin hazırlanmasında kullanılan bakır tavanın derinliği ve çapı nedir?",
+        "answer": "Bakır tavanın derinliği on cm, çapı ise otuz santimdir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Desti kapama genel tanımından yola çıkarak, Ankara Kızılcahamam'da bu yemeğin hazırlanışındaki temel adımlar ve servis özellikleri nelerdir?",
+        "answer": "Desti kapama genel olarak bir yemek çeşididir ve Ankara'nın Kızılcahamam bölgesine özgüdür. Hazırlanışı, kendine özel \"kapama testisi\" adı verilen dibi delikli bir küp ile \"kapama tavası\" denilen kalaylı bakır pişirme kabını içerir. Küpün içine et (tercihen dana veya koyun/kuzu) ve bütün soyulmuş soğan konulduktan sonra, küp ters çevrilerek ocakta kaynayan su dolu bakır tava üzerine oturtulur. Etler, suyu görmeden kaynayan suyun buharıyla pişerken yağını ve suyunu alt suya salar. Pişmeye yakın bu suya pirinç eklenir ve pilav bu suda pişirilir. Yemek, etler pilav üzerine boşaltılarak servis edilir ve pilavın ortasındaki boşluğa ayran dolu ayaklı bir sahan konulur. Soğanlar dahi küp içerisinde muhteşem lezzet kazanır ve yemek, özellikle düğün ya da cenaze sonrası gibi kalabalık buluşmalarda sekiz ila on kişiyi doyuracak şekilde sunulur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "gzleme_668ee04b",
+    "title": "Gözleme",
+    "url": "https://tr.wikipedia.org/wiki/G%C3%B6zleme",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:05.169728",
+    "content": "Gözleme, ince olarak açılmış yufkanın çeşitli iç malzemelerle doldurulduktan sonra, sac üzerinde odun ateşinde pişirilmesiyle hazırlanan bir çeşit aperatif Türk böreğidir. Abhaz mutfağında velibah olan çeşidi vardır. Gjomleze olan bir çeşidi Kuzey Makedonya'da yapılmaktadır. Zuraced ve chudu çeşidi Osmanlı mutfağında ve Dağıstan mutfağında yapılmaktadır. Kırım Tatar mutfağında cantık çeşidi, Azerbaycan mutfağında ise qutab yapılmaktadır. == Türleri == Peynirli gözleme Kıymalı gözleme Ispanaklı gözleme Közlenmiş patlıcanlı gözleme Sucuklu gözleme Salamlı gözleme Kaşarlı gözleme Pırasalı gözleme Otlu gözleme Pazılı gözleme Patatesli gözleme Kavurmalı gözleme Ballı gözleme Tahinli gözleme Tarhanalı gözleme Pastırmalı gözleme == Yörelere göre çeşitleri == === Bolu kabaklı gözlemesi === Bolu Kabaklı Gözlemesi; Bolu ilinde üretilen Latince tür adı Cucurbita pepo L. olan kara kabak kullanılarak yapılan Bolu'ya özgü, şekerli bir gözleme çeşididir. Yufka olarak açılan iki kat hamurun arasına rendelenmiş ve kavrulmuş kara kabaktan hazırlanan iç harcı konulur. Bolu Kabaklı Gözlemesi Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır. === Mudurnu bal kabaklı gözlemesi === Mudurnu Bal Kabaklı Gözlemesi 12.04.2021 Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır. === Bartın gözlemesi === Bartın Gözlemesi 10.03.2022 Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır. === Uluborlu kuyruğu sulu böreği === Uluborlu Kuyruğu Sulu Böreği 28.10.2022 Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır. === Amasya yanuç === Amasya yanuç 22 Kasım 2023 tarihinde Türk Patent ve Marka Kurumu tarafından tescillenmiş ve Amasya için coğrafi işaret almıştır. === Alaca yanıç böreği === Amasya yanuç 22 Kasım 2023 tarihinde Türk Patent ve Marka Kurumu tarafından tescillenmiş ve Çorum için coğrafi işaret almıştır. == Fotoğraflar == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 268,
+      "char_count": 1955,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.680114",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 442,
+      "content": "Gözleme, ince olarak açılmış yufkanın çeşitli iç malzemelerle doldurulduktan sonra, sac üzerinde odun ateşinde pişirilmesiyle hazırlanan bir çeşit aperatif Türk böreğidir. Abhaz mutfağında velibah olan çeşidi vardır. Gjomleze olan bir çeşidi Kuzey Makedonya'da yapılmaktadır. Zuraced ve chudu çeşidi Osmanlı mutfağında ve Dağıstan mutfağında yapılmaktadır. Kırım Tatar mutfağında cantık çeşidi, Azerbaycan mutfağında ise qutab yapılmaktadır.",
+      "char_count": 441,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0001",
+      "section": "== Türleri ==",
+      "heading_path": "== Türleri ==",
+      "start_char": 442,
+      "end_char": 732,
+      "content": "== Türleri == Peynirli gözleme Kıymalı gözleme Ispanaklı gözleme Közlenmiş patlıcanlı gözleme Sucuklu gözleme Salamlı gözleme Kaşarlı gözleme Pırasalı gözleme Otlu gözleme Pazılı gözleme Patatesli gözleme Kavurmalı gözleme Ballı gözleme Tahinli gözleme Tarhanalı gözleme Pastırmalı gözleme",
+      "char_count": 289,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0002",
+      "section": "=== Bolu kabaklı gözlemesi ===",
+      "heading_path": "=== Bolu kabaklı gözlemesi ===",
+      "start_char": 762,
+      "end_char": 1169,
+      "content": "=== Bolu kabaklı gözlemesi === Bolu Kabaklı Gözlemesi; Bolu ilinde üretilen Latince tür adı Cucurbita pepo L. olan kara kabak kullanılarak yapılan Bolu'ya özgü, şekerli bir gözleme çeşididir. Yufka olarak açılan iki kat hamurun arasına rendelenmiş ve kavrulmuş kara kabaktan hazırlanan iç harcı konulur. Bolu Kabaklı Gözlemesi Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır.",
+      "char_count": 406,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0003",
+      "section": "=== Mudurnu bal kabaklı gözlemesi ===",
+      "heading_path": "=== Mudurnu bal kabaklı gözlemesi ===",
+      "start_char": 1169,
+      "end_char": 1328,
+      "content": "=== Mudurnu bal kabaklı gözlemesi === Mudurnu Bal Kabaklı Gözlemesi 12.04.2021 Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır.",
+      "char_count": 158,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0004",
+      "section": "=== Bartın gözlemesi ===",
+      "heading_path": "=== Bartın gözlemesi ===",
+      "start_char": 1328,
+      "end_char": 1461,
+      "content": "=== Bartın gözlemesi === Bartın Gözlemesi 10.03.2022 Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır.",
+      "char_count": 132,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0005",
+      "section": "=== Uluborlu kuyruğu sulu böreği ===",
+      "heading_path": "=== Uluborlu kuyruğu sulu böreği ===",
+      "start_char": 1461,
+      "end_char": 1618,
+      "content": "=== Uluborlu kuyruğu sulu böreği === Uluborlu Kuyruğu Sulu Böreği 28.10.2022 Türk Patent ve Marka Kurumu tarafından tescillenmiş ve coğrafi işaret almıştır.",
+      "char_count": 156,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0006",
+      "section": "=== Amasya yanuç ===",
+      "heading_path": "=== Amasya yanuç ===",
+      "start_char": 1618,
+      "end_char": 1768,
+      "content": "=== Amasya yanuç === Amasya yanuç 22 Kasım 2023 tarihinde Türk Patent ve Marka Kurumu tarafından tescillenmiş ve Amasya için coğrafi işaret almıştır.",
+      "char_count": 149,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0007",
+      "section": "=== Alaca yanıç böreği ===",
+      "heading_path": "=== Alaca yanıç böreği ===",
+      "start_char": 1768,
+      "end_char": 1923,
+      "content": "=== Alaca yanıç böreği === Amasya yanuç 22 Kasım 2023 tarihinde Türk Patent ve Marka Kurumu tarafından tescillenmiş ve Çorum için coğrafi işaret almıştır.",
+      "char_count": 154,
+      "token_estimate": 38
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gözleme nasıl hazırlanır ve hangi mutfak türüne aittir?",
+        "answer": "Gözleme, ince olarak açılmış yufkanın çeşitli iç malzemelerle doldurulduktan sonra, sac üzerinde odun ateşinde pişirilmesiyle hazırlanan bir çeşit aperatif Türk böreğidir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gözleme, hem uluslararası mutfaklarda farklı isimler altında bulunan çeşitleri hem de yaygın olarak kullanılan iç malzemeleri açısından nasıl bir çeşitliliğe sahiptir?",
+        "answer": "Gözleme, Abhaz mutfağında velibah, Kuzey Makedonya'da gjomleze, Osmanlı ve Dağıstan mutfaklarında zuraced ve chudu, Kırım Tatar mutfağında cantık ve Azerbaycan mutfağında qutab gibi farklı isimler altında çeşitli bölgesel türlere sahiptir. İç malzeme açısından ise peynirli, kıymalı, ıspanaklı, közlenmiş patlıcanlı, sucuklu, salamlı, kaşarlı, pırasalı, otlu, pazılı, patatesli, kavurmalı, ballı, tahinli, tarhanalı ve pastırmalı gibi birçok farklı seçeneğe sahiptir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "meraa_98ec6b06",
+    "title": "Ömer Ağa",
+    "url": "https://tr.wikipedia.org/wiki/%C3%96mer_A%C4%9Fa",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:56.082636",
+    "content": "Ömer Ağa, sadece 17 gün görevde kalan selefi Muhammed Haznaci'nin 7 Nisan 1815'te öldürülmesinden sonra, Nisan 1815'ten Eylül 1817'ye kadar Cezayir Dayısıdır. == Erken dönem == Midilli adasında doğmuştur. Adı Ömer bin Muhammed'dir. Bilinmeyen bir tarihte Cezayir'e gitti ve önce korsan, sonra yeniçeri oldu. Kısa süre sonra Garp ocakları ağası oldu. == Kural == Tunus'a karşı bir savaş başlattı ve Berberi korsanlarının Amerikan gemilerine saldırılarına öncülük etti. Dokuz gemilik bir filonun komutasındaki Commodore Stephen Decatur liderliğindeki ABD Donanması'nın bir seferi, 1815'te Cezayir Naipliği'ne karşı gerçekleştirildi. Bölüm, İkinci Berberi Savaşı olarak bilinir. Operasyon, Ömer Ağa'yı korsanlık saldırılarına son veren bir anlaşma imzalamaya zorladı, Ömer Ağa bu anlaşmayı kısa bir süre sonra geçersiz saydı. Berberi korsanlığından gelen Hristiyan köleler sorununu ele alan Viyana Kongresi, Birleşik Krallık ve Hollanda'yı Cezayir Dayı'sı ve Tunus ve Trablus Beyleri ile müzakere etmekle görevlendirdi. Son ikisi uygun olsa da Ömer Ağa değildi. Dayı'yı Hristiyan köleliğini ortadan kaldırmaya zorlamak için İngiliz Amiral Lord Exmouth komutasındaki bir İngiliz-Hollanda deniz kuvveti tarafından 27 Ağustos 1816'da 9 saatlik Cezayir Bombardımanına (1816) tutuldu. Ancak Cezayir'in bombardımanı Berberi gücünü yok etmedi. Anlaşmanın imzalanmasına ve 3.000 Hristiyan kölenin serbest bırakılmasına rağmen, Dayı Ömer şehrin savunmasını yeniden inşa etmeye başladı ve Yahudi sakinlerini Hristiyan kölelerin yerine zorunlu çalışmaya zorladı. Üstelik sorun, Aix-la-Chapelle Kongresi'nde (1818) ana çekişme alanlarından biri olacak şekilde kaldı. == Ölümü == Avrupalıların elindeki bir dizi yenilgi sayesinde 8 Eylül 1817'de boğuldu ve bir saat içinde gömüldü. Halefi Ali bin Ahmed idi. == Kaynakça == Raïs Hamidou: Le dernier corsaire barbaresque d'Alger  Par Paul Desprès La piraterie barbaresque en Méditerranée: XVI-XIXe siècle  Par Roland Courtinat",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 262,
+      "char_count": 1958,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.013548",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 159,
+      "content": "Ömer Ağa, sadece 17 gün görevde kalan selefi Muhammed Haznaci'nin 7 Nisan 1815'te öldürülmesinden sonra, Nisan 1815'ten Eylül 1817'ye kadar Cezayir Dayısıdır.",
+      "char_count": 158,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0001",
+      "section": "== Erken dönem ==",
+      "heading_path": "== Erken dönem ==",
+      "start_char": 159,
+      "end_char": 350,
+      "content": "== Erken dönem == Midilli adasında doğmuştur. Adı Ömer bin Muhammed'dir. Bilinmeyen bir tarihte Cezayir'e gitti ve önce korsan, sonra yeniçeri oldu. Kısa süre sonra Garp ocakları ağası oldu.",
+      "char_count": 190,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0002",
+      "section": "== Kural ==",
+      "heading_path": "== Kural ==",
+      "start_char": 350,
+      "end_char": 1350,
+      "content": "== Kural == Tunus'a karşı bir savaş başlattı ve Berberi korsanlarının Amerikan gemilerine saldırılarına öncülük etti. Dokuz gemilik bir filonun komutasındaki Commodore Stephen Decatur liderliğindeki ABD Donanması'nın bir seferi, 1815'te Cezayir Naipliği'ne karşı gerçekleştirildi. Bölüm, İkinci Berberi Savaşı olarak bilinir. Operasyon, Ömer Ağa'yı korsanlık saldırılarına son veren bir anlaşma imzalamaya zorladı, Ömer Ağa bu anlaşmayı kısa bir süre sonra geçersiz saydı. Berberi korsanlığından gelen Hristiyan köleler sorununu ele alan Viyana Kongresi, Birleşik Krallık ve Hollanda'yı Cezayir Dayı'sı ve Tunus ve Trablus Beyleri ile müzakere etmekle görevlendirdi. Son ikisi uygun olsa da Ömer Ağa değildi. Dayı'yı Hristiyan köleliğini ortadan kaldırmaya zorlamak için İngiliz Amiral Lord Exmouth komutasındaki bir İngiliz-Hollanda deniz kuvveti tarafından 27 Ağustos 1816'da 9 saatlik Cezayir Bombardımanına (1816) tutuldu. Ancak Cezayir'in bombardımanı Berberi gücünü yok etmedi. Anlaşmanın imzal",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Kural ==",
+      "heading_path": "== Kural ==",
+      "start_char": 1150,
+      "end_char": 1651,
+      "content": "omutasındaki bir İngiliz-Hollanda deniz kuvveti tarafından 27 Ağustos 1816'da 9 saatlik Cezayir Bombardımanına (1816) tutuldu. Ancak Cezayir'in bombardımanı Berberi gücünü yok etmedi. Anlaşmanın imzalanmasına ve 3.000 Hristiyan kölenin serbest bırakılmasına rağmen, Dayı Ömer şehrin savunmasını yeniden inşa etmeye başladı ve Yahudi sakinlerini Hristiyan kölelerin yerine zorunlu çalışmaya zorladı. Üstelik sorun, Aix-la-Chapelle Kongresi'nde (1818) ana çekişme alanlarından biri olacak şekilde kaldı.",
+      "char_count": 501,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0004",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 1652,
+      "end_char": 1792,
+      "content": "== Ölümü == Avrupalıların elindeki bir dizi yenilgi sayesinde 8 Eylül 1817'de boğuldu ve bir saat içinde gömüldü. Halefi Ali bin Ahmed idi.",
+      "char_count": 139,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0005",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1792,
+      "end_char": 1958,
+      "content": "== Kaynakça == Raïs Hamidou: Le dernier corsaire barbaresque d'Alger  Par Paul Desprès La piraterie barbaresque en Méditerranée: XVI-XIXe siècle  Par Roland Courtinat",
+      "char_count": 166,
+      "token_estimate": 41
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Cezayir Bombardımanı ne zaman gerçekleşti ve kaç saat sürdü?",
+        "answer": "Cezayir Bombardımanı 27 Ağustos 1816'da gerçekleşti ve 9 saat sürdü.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ömer Ağa, Midilli'de doğup Cezayir'e gelerek korsan ve yeniçeri olduktan sonra Cezayir Dayısı pozisyonuna nasıl yükseldi ve bu görev süresince Berberi korsanlığıyla ilgili hangi uluslararası baskılar ve askeri çatışmalarla karşılaştı?",
+        "answer": "Ömer Ağa, Midilli adasında doğup Cezayir'e geldi ve önce korsan, ardından yeniçeri oldu. Kısa süre sonra Garp ocakları ağası olan Ömer Ağa, Nisan 1815'te selefi Muhammed Haznaci'nin öldürülmesinden sonra Cezayir Dayısı görevine geldi. Eylül 1817'ye kadar süren bu görev süresince, Berberi korsanlarının Amerikan gemilerine saldırıları nedeniyle 1815'te Commodore Stephen Decatur liderliğindeki ABD Donanması'nın İkinci Berberi Savaşı'na maruz kaldı ve korsanlık saldırılarına son veren bir anlaşma imzalamak zorunda kaldı, ancak bu anlaşmayı kısa bir süre sonra geçersiz saydı. Ayrıca, Hristiyan köleleri sorunuyla ilgilenen Viyana Kongresi'nin ardından, dayının Hristiyan köleliğini ortadan kaldırmaya zorlanması için 1816'da İngiliz Amiral Lord Exmouth komutasındaki İngiliz-Hollanda deniz kuvvetleri tarafından Cezayir Bombardımanına tutuldu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "johnfrankenheimer_23c8bb81",
+    "title": "John Frankenheimer",
+    "url": "https://tr.wikipedia.org/wiki/John_Frankenheimer",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:02.365101",
+    "content": "John Frankenheimer, (d. 19 Şubat 1930 - ö. 6 Haziran 2002), Amerikalı film yapımcısı ve yönetmeni. == Kariyeri == Toplumsal koşulların baskısından bunalan ve çoğu kez özsaygısını yitirmek zorunda kalan bireylerin serüvenini ele alan yönetmen, The Young Stranger (Genç Yabancı, 1957) ile The Young Savages (Genç Serseriler, 1961) asi gençlerin sorunlarına ruhbilimsel bir bakışla yaklaştı. Birdman of Alcatraz (Alcatraz Kuşçusu, 1962) ise ömür boyu hapis cezasına çarptırılan bir suçlunun (Burt Lancaster) cezaevinde kuşlara merak sarmasını konu edindi. Richard Condon'dan uyarlanan The Manchurian Candidate (Casuslara Karşı, 1962) Komünist devletlerin ABD başkanlık seçimine müdahale etmelerini, Seconds (Saniyeler, 1966) bilimkurgu ortamında yüzünün görünüşünü değiştirten bir ressamı, The Gypsy Moths (Cesur Paraşütçüler, 1969) ölümle burun buruna gelmekten kaçınmayan paraşüt göstericisini, I Walk The Line (Sevgilimin Oyunu, 1970) yasak aşkı uğruna sevgilisiyle birlikte kasabasından kaçan bir şerifin öyküsünü, The Fixer (Kiev'deki Adam, 1968) devrim öncesi Rusya'sında Yahudilere yapılan baskıyı, Joseph Kessel'dan uyarlanan The Horsemen (Vahşi Atlılar, 1971) Afganistan'ı, 99 and 44/100% Dead (Yüzde Doksan Dokuz Ölüm, 1974) iki gangster çetesinin çekişmesini, The Challenge (Büyük Düello, 1982) ise Japonya'yı ve geleneklerinii ve Path To War (Savaş Yılları, 2002) ise Vietnam Savaşı yıllarını konu edindi. == Filmografi == The Young Stranger (1957) The Young Savages (1961) All Fall Down (1962) Alkatraz Kuşçusu (1962) The Manchurian Candidate (1962) Seven Days in May (1964) The Train (1965) Seconds (1966) Grand Prix (1966) The Fixer (1968) The Extraordinary Seaman (1969) The Gypsy Moths (1969) I Walk the Line (1970) The Horseman (1971) The Iceman Cometh (1973) Impossible Object (1973) 99 and 44/100% Dead (1974) French Connection II (1975) Black Sunday (1977) Prophecy (1979) The Rainmaker (HBO 1982) The Challenge (1982) The Holcroft Covenant (1985) 52 Pick-Up (1986) Dead Bang (1989) The Fourth War (1990) Year of the Gun (1991) Against the Wall (HBO 1994) The Burning Season (HBO 1994) Andersonville (TNT 1996) The Island of Dr. Moreau (1996) George Wallace (TNT 1997) Ronin (1998) Reindeer Games (2000) The Hire (BMW Short Movie) - Ambush (2002) Path to War (HBO 2002) == Kaynaklar == == Dış bağlantılar == IMDb'de John Frankenheimer John Frankenheimer OpsRoom.org John Frankenheimer 2 Haziran 2013 tarihinde Wayback Machine sitesinde arşivlendi., Senses of Cinema, Issue 41 \"Great Directors Series\" Şablon:EmmyTVLegends name Literature on John Frankenheimer 13 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 375,
+      "char_count": 2639,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.253413",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 99,
+      "content": "John Frankenheimer, (d. 19 Şubat 1930 - ö. 6 Haziran 2002), Amerikalı film yapımcısı ve yönetmeni.",
+      "char_count": 98,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 99,
+      "end_char": 1099,
+      "content": "== Kariyeri == Toplumsal koşulların baskısından bunalan ve çoğu kez özsaygısını yitirmek zorunda kalan bireylerin serüvenini ele alan yönetmen, The Young Stranger (Genç Yabancı, 1957) ile The Young Savages (Genç Serseriler, 1961) asi gençlerin sorunlarına ruhbilimsel bir bakışla yaklaştı. Birdman of Alcatraz (Alcatraz Kuşçusu, 1962) ise ömür boyu hapis cezasına çarptırılan bir suçlunun (Burt Lancaster) cezaevinde kuşlara merak sarmasını konu edindi. Richard Condon'dan uyarlanan The Manchurian Candidate (Casuslara Karşı, 1962) Komünist devletlerin ABD başkanlık seçimine müdahale etmelerini, Seconds (Saniyeler, 1966) bilimkurgu ortamında yüzünün görünüşünü değiştirten bir ressamı, The Gypsy Moths (Cesur Paraşütçüler, 1969) ölümle burun buruna gelmekten kaçınmayan paraşüt göstericisini, I Walk The Line (Sevgilimin Oyunu, 1970) yasak aşkı uğruna sevgilisiyle birlikte kasabasından kaçan bir şerifin öyküsünü, The Fixer (Kiev'deki Adam, 1968) devrim öncesi Rusya'sında Yahudilere yapılan baskı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 899,
+      "end_char": 1414,
+      "content": "k The Line (Sevgilimin Oyunu, 1970) yasak aşkı uğruna sevgilisiyle birlikte kasabasından kaçan bir şerifin öyküsünü, The Fixer (Kiev'deki Adam, 1968) devrim öncesi Rusya'sında Yahudilere yapılan baskıyı, Joseph Kessel'dan uyarlanan The Horsemen (Vahşi Atlılar, 1971) Afganistan'ı, 99 and 44/100% Dead (Yüzde Doksan Dokuz Ölüm, 1974) iki gangster çetesinin çekişmesini, The Challenge (Büyük Düello, 1982) ise Japonya'yı ve geleneklerinii ve Path To War (Savaş Yılları, 2002) ise Vietnam Savaşı yıllarını konu edindi.",
+      "char_count": 515,
+      "token_estimate": 128
+    },
+    {
+      "id": "c0003",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 1415,
+      "end_char": 2288,
+      "content": "== Filmografi == The Young Stranger (1957) The Young Savages (1961) All Fall Down (1962) Alkatraz Kuşçusu (1962) The Manchurian Candidate (1962) Seven Days in May (1964) The Train (1965) Seconds (1966) Grand Prix (1966) The Fixer (1968) The Extraordinary Seaman (1969) The Gypsy Moths (1969) I Walk the Line (1970) The Horseman (1971) The Iceman Cometh (1973) Impossible Object (1973) 99 and 44/100% Dead (1974) French Connection II (1975) Black Sunday (1977) Prophecy (1979) The Rainmaker (HBO 1982) The Challenge (1982) The Holcroft Covenant (1985) 52 Pick-Up (1986) Dead Bang (1989) The Fourth War (1990) Year of the Gun (1991) Against the Wall (HBO 1994) The Burning Season (HBO 1994) Andersonville (TNT 1996) The Island of Dr. Moreau (1996) George Wallace (TNT 1997) Ronin (1998) Reindeer Games (2000) The Hire (BMW Short Movie) - Ambush (2002) Path to War (HBO 2002)",
+      "char_count": 872,
+      "token_estimate": 218
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2304,
+      "end_char": 2639,
+      "content": "== Dış bağlantılar == IMDb'de John Frankenheimer John Frankenheimer OpsRoom.org John Frankenheimer 2 Haziran 2013 tarihinde Wayback Machine sitesinde arşivlendi., Senses of Cinema, Issue 41 \"Great Directors Series\" Şablon:EmmyTVLegends name Literature on John Frankenheimer 13 Nisan 2015 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 335,
+      "token_estimate": 83
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "The Manchurian Candidate (1962) filmi hangi konuyu ele almaktadır?",
+        "answer": "Film, Komünist devletlerin ABD başkanlık seçimine müdahale etmelerini ele almaktadır.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "John Frankenheimer'ın filmlerinde sıklıkla ele aldığı \"toplumsal koşulların baskısından bunalan ve çoğu kez özsaygısını yitirmek zorunda kalan bireylerin serüveni\" temasını hangi film örnekleri aracılığıyla gözlemlemek mümkündür?",
+        "answer": "John Frankenheimer'ın filmlerinde, toplumsal koşulların baskısından bunalan ve özsaygısını yitiren bireylerin serüveni teması sıklıkla görülür. Bu tema, asi gençlerin sorunlarına ruhbilimsel bir bakış açısıyla yaklaşılan The Young Stranger ve The Young Savages filmlerinde, ömür boyu hapse mahkum bir suçlunun cezaevindeki yaşam mücadelesini konu alan Birdman of Alcatraz'da, yüzünün görünüşünü değiştiren bir ressamın hikayesini anlatan Seconds'da, yasak aşkı uğruna kasabasından kaçan bir şerifi konu edinen I Walk The Line'da ve devrim öncesi Rusya'da Yahudilere yapılan baskıyı ele alan The Fixer gibi yapımlarında gözlemlenebilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

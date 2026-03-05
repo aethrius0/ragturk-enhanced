@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "zbekistanndilleri_6eef282e",
+    "title": "Özbekistan'ın dilleri",
+    "url": "https://tr.wikipedia.org/wiki/%C3%96zbekistan%27%C4%B1n_dilleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:58.522052",
+    "content": "Özbekistan'da konuşulan dillerin büyük kısmı Türk dilleridir . Bununla birlikte, hükûmetin iki dili bulunmaktadır; birinci ve devlet dili olarak Özbekçe ve etnik gruplar ve kamu kurumlarının dili olarak ise Rusça. == Türk dilleri == Özbek dili, Türk dilleri ailesine mensuptur ve kendisine en yakın dil olan Uygurca ile birlikte Karluk grubunda yer almaktadır. Özbek dili, ülkenin tek resmi devlet dilidir ve 1992'den beri resmi olarak Latin alfabesiyle yazılmıştır. Karakalpakça, Özbekistan içerisinde özerk bir bölge olan Karakalpakstan Cumhuriyeti'nin resmi dillerinden biridir ve Kazakça ile yakındır. Bu dili yarım milyon kişi konuşmaktadır. 800.000'den fazla insan da Kazakça konuşmaktadır. 1920'lerden önce, Özbeklerin yazı dili Türkî (Batılı bilginler tarafından Çağatay olarak bilinir) olarak adlandırılıyordu ve Nestâlik yazısını kullanılıyordu. 1926'da Latin alfabesi tanıtıldı ve 1930'lar boyunca çeşitli revizyonlardan geçti. Son olarak, 1940 yılında, Kiril alfabesi Sovyet yetkilileri tarafından tanıtıldı ve Sovyetler Birliği'nin çöküşüne kadar kullanıldı. 1993'te Özbekistan, 1996'da değiştirilen ve 2000'den beri okullarda öğretilen Latin alfabesine (Özbek Latin alfabesi) geri döndü. Okullar, kolejler ve üniversiteler yalnızca Latin alfabesiyle eğitim vermektedir. Kiril, bu alfabeyle büyüyen eski nesil Özbekler arasında popülerdir. == Hint-Avrupa dilleri == Rusça ülkede resmi olarak resmi dil olarak ilan edilmese de resmi belgeler dahil her alanda yaygın olarak kullanılmaktadır. Özbekçe ile birlikte noter kurumlarının ve sicil dairelerinin izin verdiği dillerden birisidir. Başka bir ifadeyle, Rus dili Özbekistan'da fiili ikinci resmi dil konumundadır. Rusça, özellikle şehirlerde günlük teknik, bilimsel, hükûmet ve iş kullanımı dahil olmak üzere etnik gruplar arası iletişim için önemli bir dildir. Ülke ayrıca ana dili Rusça olan yaklaşık bir milyon kişiye ev sahipliği yapıyor. Tacikçe (Farsça'nın Tacikistan'da konuşulan biçimi), nispeten büyük etnik Tacik nüfusu (resmi 1,5 milyon) nedeniyle Buhara ve Semerkant şehirlerinde yaygındır. Tacikler, Özbekistan nüfusunun yaklaşık %10-15'ini oluşturmaktadır. == Hukuk == Özbekistan vatandaşlığı için dil şartı aranmaz. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 290,
+      "char_count": 2210,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.040704",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 214,
+      "content": "Özbekistan'da konuşulan dillerin büyük kısmı Türk dilleridir . Bununla birlikte, hükûmetin iki dili bulunmaktadır; birinci ve devlet dili olarak Özbekçe ve etnik gruplar ve kamu kurumlarının dili olarak ise Rusça.",
+      "char_count": 213,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0001",
+      "section": "== Türk dilleri ==",
+      "heading_path": "== Türk dilleri ==",
+      "start_char": 214,
+      "end_char": 1214,
+      "content": "== Türk dilleri == Özbek dili, Türk dilleri ailesine mensuptur ve kendisine en yakın dil olan Uygurca ile birlikte Karluk grubunda yer almaktadır. Özbek dili, ülkenin tek resmi devlet dilidir ve 1992'den beri resmi olarak Latin alfabesiyle yazılmıştır. Karakalpakça, Özbekistan içerisinde özerk bir bölge olan Karakalpakstan Cumhuriyeti'nin resmi dillerinden biridir ve Kazakça ile yakındır. Bu dili yarım milyon kişi konuşmaktadır. 800.000'den fazla insan da Kazakça konuşmaktadır. 1920'lerden önce, Özbeklerin yazı dili Türkî (Batılı bilginler tarafından Çağatay olarak bilinir) olarak adlandırılıyordu ve Nestâlik yazısını kullanılıyordu. 1926'da Latin alfabesi tanıtıldı ve 1930'lar boyunca çeşitli revizyonlardan geçti. Son olarak, 1940 yılında, Kiril alfabesi Sovyet yetkilileri tarafından tanıtıldı ve Sovyetler Birliği'nin çöküşüne kadar kullanıldı. 1993'te Özbekistan, 1996'da değiştirilen ve 2000'den beri okullarda öğretilen Latin alfabesine (Özbek Latin alfabesi) geri döndü. Okullar, kol",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Türk dilleri ==",
+      "heading_path": "== Türk dilleri ==",
+      "start_char": 1014,
+      "end_char": 1352,
+      "content": "tıldı ve Sovyetler Birliği'nin çöküşüne kadar kullanıldı. 1993'te Özbekistan, 1996'da değiştirilen ve 2000'den beri okullarda öğretilen Latin alfabesine (Özbek Latin alfabesi) geri döndü. Okullar, kolejler ve üniversiteler yalnızca Latin alfabesiyle eğitim vermektedir. Kiril, bu alfabeyle büyüyen eski nesil Özbekler arasında popülerdir.",
+      "char_count": 338,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0003",
+      "section": "== Hint-Avrupa dilleri ==",
+      "heading_path": "== Hint-Avrupa dilleri ==",
+      "start_char": 1353,
+      "end_char": 2136,
+      "content": "== Hint-Avrupa dilleri == Rusça ülkede resmi olarak resmi dil olarak ilan edilmese de resmi belgeler dahil her alanda yaygın olarak kullanılmaktadır. Özbekçe ile birlikte noter kurumlarının ve sicil dairelerinin izin verdiği dillerden birisidir. Başka bir ifadeyle, Rus dili Özbekistan'da fiili ikinci resmi dil konumundadır. Rusça, özellikle şehirlerde günlük teknik, bilimsel, hükûmet ve iş kullanımı dahil olmak üzere etnik gruplar arası iletişim için önemli bir dildir. Ülke ayrıca ana dili Rusça olan yaklaşık bir milyon kişiye ev sahipliği yapıyor. Tacikçe (Farsça'nın Tacikistan'da konuşulan biçimi), nispeten büyük etnik Tacik nüfusu (resmi 1,5 milyon) nedeniyle Buhara ve Semerkant şehirlerinde yaygındır. Tacikler, Özbekistan nüfusunun yaklaşık %10-15'ini oluşturmaktadır.",
+      "char_count": 782,
+      "token_estimate": 195
+    },
+    {
+      "id": "c0004",
+      "section": "== Hukuk ==",
+      "heading_path": "== Hukuk ==",
+      "start_char": 2136,
+      "end_char": 2196,
+      "content": "== Hukuk == Özbekistan vatandaşlığı için dil şartı aranmaz.",
+      "char_count": 59,
+      "token_estimate": 14
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Özbekistan'ın tek resmi devlet dili olan Özbek dili, hangi yıldan itibaren resmi olarak Latin alfabesiyle yazılmaktadır?",
+        "answer": "1992'den beri.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Özbekistan'da Özbekçenin resmi devlet dilindeki konumu nedir ve Rusça hükûmet tarafından hangi amaçlarla kullanılmaktadır? Ayrıca, Özbek dili için günümüzde resmi olarak hangi alfabe kullanılmaktadır?",
+        "answer": "Özbek dili, ülkenin tek resmi devlet dilidir. Rusça ise etnik grupların ve kamu kurumlarının dili olarak hükûmet tarafından kullanılmaktadır. Özbek dili için 1992'den beri resmi olarak Latin alfabesi kullanılmakta olup, bu alfabe 2000'den itibaren okullarda öğretilmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

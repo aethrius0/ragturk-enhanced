@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "hondacbf150_2c276893",
+    "title": "Honda CBF150",
+    "url": "https://tr.wikipedia.org/wiki/Honda_CBF150",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:11.857582",
+    "content": "Honda CBF150, Honda'nın çıplak motosiklet kategorisindeki en küçük hacimli olanıdır. İlk olarak 2006 yılı sonunda trafiğe çıkmıştır. 149 cm3 hacmindeki tek silindirli motoru 7000 devirde 11,28 beygir güç, 5250 devirde 12,7 Nm tork üretir. 5 vites, elektronik ateşlemeli olan ve 130 kg ağırlığındaki motosiklet Türkiye ve benzer ekonomiye sahip ülkelerde ucuz Uzakdoğu üretimlerine bir alternatiftir. == CBF150 tanıtım == Honda CBF 150 doğru şanzıman oranları sayesinde 150cc hacminde olmasına rağmen 100cc hacmindeki motosikletlerle benzer yakıt tüketimi değerlerine sahip. Yeni teknoloji ürünü motoru, düşük devir seviyelerinde dahi yeterli güç üretebiliyor. Stabil krank bağlantıları ve balans mili sayesinde CBF150 beklenenin çok üzerinde yumuşak ve sessiz kullanım özelliklerine de sahip. Büyük boy, hafif ve kolay kontrol edilebilen bir şasesi var. Merkezden uzak konumlanan metal parçalar hafif alüminyumdan imal edilmiş ve prolink süspansiyon uygulanarak ağırlık merkezde toplanmış. İleri teknoloji 4 zamanlı bir motor kullanıyor. Bu motor özellikle ani ve güçlü hızlanma ihtiyacına, hızlı ve başarılı şekilde cevap verebiliyor. Bu performansın böyle bir hacimden sağlanabilmesi ancak yüksek teknoloji ile mümkün olabiliyor. Ara süratlerde ise yüksek torku ve gücü, motosiklete her an hızlanma kabiliyeti veriyor. Ancak bu işlemler esnasında motor ve egzoz sesi 3 parçalı susturucu sayesinde bir hayli düşük. CBF 150'nin yeni ve hafif pistonlarıyla ağırlık mümkün olduğunca merkeze toplanarak motorun çabuk devir arttırabilme kabiliyeti geliştirilmiştir. Soğutma yağlama jeti ile yapılıyor.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 216,
+      "char_count": 1597,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.334913",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 400,
+      "content": "Honda CBF150, Honda'nın çıplak motosiklet kategorisindeki en küçük hacimli olanıdır. İlk olarak 2006 yılı sonunda trafiğe çıkmıştır. 149 cm3 hacmindeki tek silindirli motoru 7000 devirde 11,28 beygir güç, 5250 devirde 12,7 Nm tork üretir. 5 vites, elektronik ateşlemeli olan ve 130 kg ağırlığındaki motosiklet Türkiye ve benzer ekonomiye sahip ülkelerde ucuz Uzakdoğu üretimlerine bir alternatiftir.",
+      "char_count": 399,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0001",
+      "section": "== CBF150 tanıtım ==",
+      "heading_path": "== CBF150 tanıtım ==",
+      "start_char": 400,
+      "end_char": 1400,
+      "content": "== CBF150 tanıtım == Honda CBF 150 doğru şanzıman oranları sayesinde 150cc hacminde olmasına rağmen 100cc hacmindeki motosikletlerle benzer yakıt tüketimi değerlerine sahip. Yeni teknoloji ürünü motoru, düşük devir seviyelerinde dahi yeterli güç üretebiliyor. Stabil krank bağlantıları ve balans mili sayesinde CBF150 beklenenin çok üzerinde yumuşak ve sessiz kullanım özelliklerine de sahip. Büyük boy, hafif ve kolay kontrol edilebilen bir şasesi var. Merkezden uzak konumlanan metal parçalar hafif alüminyumdan imal edilmiş ve prolink süspansiyon uygulanarak ağırlık merkezde toplanmış. İleri teknoloji 4 zamanlı bir motor kullanıyor. Bu motor özellikle ani ve güçlü hızlanma ihtiyacına, hızlı ve başarılı şekilde cevap verebiliyor. Bu performansın böyle bir hacimden sağlanabilmesi ancak yüksek teknoloji ile mümkün olabiliyor. Ara süratlerde ise yüksek torku ve gücü, motosiklete her an hızlanma kabiliyeti veriyor. Ancak bu işlemler esnasında motor ve egzoz sesi 3 parçalı susturucu sayesinde b",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== CBF150 tanıtım ==",
+      "heading_path": "== CBF150 tanıtım ==",
+      "start_char": 1200,
+      "end_char": 1597,
+      "content": "eknoloji ile mümkün olabiliyor. Ara süratlerde ise yüksek torku ve gücü, motosiklete her an hızlanma kabiliyeti veriyor. Ancak bu işlemler esnasında motor ve egzoz sesi 3 parçalı susturucu sayesinde bir hayli düşük. CBF 150'nin yeni ve hafif pistonlarıyla ağırlık mümkün olduğunca merkeze toplanarak motorun çabuk devir arttırabilme kabiliyeti geliştirilmiştir. Soğutma yağlama jeti ile yapılıyor.",
+      "char_count": 397,
+      "token_estimate": 99
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Honda CBF150'nin yumuşak ve sessiz kullanım özelliklerine sahip olmasını sağlayan faktörler nelerdir?",
+        "answer": "Stabil krank bağlantıları ve balans mili.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Honda CBF150, 149 cm3'lük motor hacmine rağmen hem performansta hem de yakıt tüketiminde beklenenin üzerinde özellikler sergilemesini sağlayan teknolojik avantajlar nelerdir?",
+        "answer": "Honda CBF150'nin 149 cm3'lük tek silindirli motoru, doğru şanzıman oranları sayesinde 150cc hacminde olmasına rağmen 100cc motosikletlerle benzer yakıt tüketimi değerlerine sahiptir. Ayrıca, yeni teknoloji ürünü 4 zamanlı motoru düşük devirlerde dahi yeterli güç üretebilmekte, ani ve güçlü hızlanma ihtiyaçlarına hızlıca cevap verebilmektedir. Yüksek torku ve gücü sayesinde ara süratlerde her an hızlanma kabiliyeti sunarken, stabil krank bağlantıları ve balans mili sayesinde yumuşak ve sessiz bir kullanım sağlar. Bu performans ve verimlilik, büyük boy hafif şasi ve prolink süspansiyon gibi ileri teknolojik uygulamalarla desteklenmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

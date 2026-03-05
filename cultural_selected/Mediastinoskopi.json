@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "mediastinoskopi_2052194f",
+    "title": "Mediastinoskopi",
+    "url": "https://tr.wikipedia.org/wiki/Mediastinoskopi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:42.059204",
+    "content": "Mediastinoskopi, toraks hastalıklarında, mediastinal tümörlerin tanısında kullanılan (biyopsi almak yoluyla) kullanılan bir yöntemdir. Daha sade bir deyişle, akciğer kanserlerinin ve tüberküloz, lenfoma, sarkoidoz, mediastinal tümörler gibi hastalıklarda evrelemesinde uygulanan bir işlem olarak anlatılabilinir. Mediatinoskopide, kalp ile akciğer arasında bulunan, mediastinum adındaki boş alana, özel bir aygıt ile hastanın boyun kısmından girilerek nefes borusu dışından ve önünde ilerletilip ulaşılması ve biyopsi işlemidir. Mediastinoskopi, bilgisayarlı tomografi ve nükleer tıp gibi yöntemlerin yanında kesin sonuç alınan güvenilir bir yöntemdir. Bu işlem genel anestezi altında yapılmaktadır. == Mediastende Kitke Yapan Lezyonlar == Mediasten boşluğundaki dokulardan kökenli oluşumlar ve bu bölgedeki lenfatik sisteme gelen metastazların yaptığı kitlelerdir: Superior (üst) mediasten: Lenfoma, Timoma, Tiroid kitleleri, Metastatik karsinomlar, Sarkoidoz, Paratiroid tümörleri Orta mediasten: Bronş kistleri, Perikard kistleri, Lenfoma, Sarkoidoz Posterior (arka) mediasten: Nörojen tümörler (schwannoma, nörofibroma), Lenfoma, Sarkoidoz, Gastroenterik herni Ön mediasten: Timoma, Teratoma, Lenfoma, Tiroid kitleleri, Sarkoidoz, Paratiroid tümörleri == Uygulama türleri == Standart servikal mediastinoskopi Anterior mediastinoskopi Ekstended servikal mediastinoskopi Subksifoidal mediastinoskopi == Uygulama == En sık uygulandığı yer akciğer kanserinin ameliyat öncesindeki evrelemesidir. Eğer buradan alınan lenf bezi biyopsisinde kanser hücresi görülürse hastaya ameliyat önerilmez. Büyük riskler taşımamasına karşın, damardan zengin ve hayatsal bölgeye yapılan işlemde bazı sorunlarla karşılaşmak olasıdır. Bu işlem sırasında ölüm yok denecek kadar azdır (%0.08). == Yan etkiler == Kanama Nefes borusu yaralanmaları İnme Yemek borusu yaralanmaları Ses kısıklığı Yara yeri infeksiyonu Hematom Kardiak aritmi == Ayrıca bakınız == Akciğer kanseri Mediasten == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 235,
+      "char_count": 1977,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.445339",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 700,
+      "content": "Mediastinoskopi, toraks hastalıklarında, mediastinal tümörlerin tanısında kullanılan (biyopsi almak yoluyla) kullanılan bir yöntemdir. Daha sade bir deyişle, akciğer kanserlerinin ve tüberküloz, lenfoma, sarkoidoz, mediastinal tümörler gibi hastalıklarda evrelemesinde uygulanan bir işlem olarak anlatılabilinir. Mediatinoskopide, kalp ile akciğer arasında bulunan, mediastinum adındaki boş alana, özel bir aygıt ile hastanın boyun kısmından girilerek nefes borusu dışından ve önünde ilerletilip ulaşılması ve biyopsi işlemidir. Mediastinoskopi, bilgisayarlı tomografi ve nükleer tıp gibi yöntemlerin yanında kesin sonuç alınan güvenilir bir yöntemdir. Bu işlem genel anestezi altında yapılmaktadır.",
+      "char_count": 699,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0001",
+      "section": "== Mediastende Kitke Yapan Lezyonlar ==",
+      "heading_path": "== Mediastende Kitke Yapan Lezyonlar ==",
+      "start_char": 700,
+      "end_char": 1256,
+      "content": "== Mediastende Kitke Yapan Lezyonlar == Mediasten boşluğundaki dokulardan kökenli oluşumlar ve bu bölgedeki lenfatik sisteme gelen metastazların yaptığı kitlelerdir: Superior (üst) mediasten: Lenfoma, Timoma, Tiroid kitleleri, Metastatik karsinomlar, Sarkoidoz, Paratiroid tümörleri Orta mediasten: Bronş kistleri, Perikard kistleri, Lenfoma, Sarkoidoz Posterior (arka) mediasten: Nörojen tümörler (schwannoma, nörofibroma), Lenfoma, Sarkoidoz, Gastroenterik herni Ön mediasten: Timoma, Teratoma, Lenfoma, Tiroid kitleleri, Sarkoidoz, Paratiroid tümörleri",
+      "char_count": 555,
+      "token_estimate": 138
+    },
+    {
+      "id": "c0002",
+      "section": "== Uygulama türleri ==",
+      "heading_path": "== Uygulama türleri ==",
+      "start_char": 1256,
+      "end_char": 1402,
+      "content": "== Uygulama türleri == Standart servikal mediastinoskopi Anterior mediastinoskopi Ekstended servikal mediastinoskopi Subksifoidal mediastinoskopi",
+      "char_count": 145,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0003",
+      "section": "== Uygulama ==",
+      "heading_path": "== Uygulama ==",
+      "start_char": 1402,
+      "end_char": 1773,
+      "content": "== Uygulama == En sık uygulandığı yer akciğer kanserinin ameliyat öncesindeki evrelemesidir. Eğer buradan alınan lenf bezi biyopsisinde kanser hücresi görülürse hastaya ameliyat önerilmez. Büyük riskler taşımamasına karşın, damardan zengin ve hayatsal bölgeye yapılan işlemde bazı sorunlarla karşılaşmak olasıdır. Bu işlem sırasında ölüm yok denecek kadar azdır (%0.08).",
+      "char_count": 370,
+      "token_estimate": 92
+    },
+    {
+      "id": "c0004",
+      "section": "== Yan etkiler ==",
+      "heading_path": "== Yan etkiler ==",
+      "start_char": 1773,
+      "end_char": 1916,
+      "content": "== Yan etkiler == Kanama Nefes borusu yaralanmaları İnme Yemek borusu yaralanmaları Ses kısıklığı Yara yeri infeksiyonu Hematom Kardiak aritmi",
+      "char_count": 142,
+      "token_estimate": 35
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1916,
+      "end_char": 1963,
+      "content": "== Ayrıca bakınız == Akciğer kanseri Mediasten",
+      "char_count": 46,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Mediastinoskopi hangi tür hastalıkların tanısında veya evrelemesinde uygulanan bir yöntemdir?",
+        "answer": "Mediastinoskopi, mediastinal tümörlerin tanısında ve akciğer kanserleri, tüberküloz, lenfoma, sarkoidoz gibi hastalıkların evrelemesinde uygulanan bir yöntemdir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mediastinoskopi ile tanısı veya evrelemesi yapılabilen bazı mediastinal kitleler nelerdir ve bu kitleler mediastenin hangi bölgelerinde görülebilir?",
+        "answer": "Mediastinoskopi ile tanısı veya evrelemesi yapılabilen kitleler arasında lenfoma, sarkoidoz ve diğer mediastinal tümörler bulunur. Lenfoma ve sarkoidoz süperior, orta, posterior ve ön mediastende görülebilirken; timoma ve tiroid kitleleri süperior ve ön mediastende, nörojen tümörler ise posterior mediastende yer alır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

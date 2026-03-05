@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "emirgazi_6a0c8c20",
+    "title": "Emirgazi",
+    "url": "https://tr.wikipedia.org/wiki/Emirgazi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:44.980705",
+    "content": "Emirgazi, Konya ilinin bir ilçesidir. == Tarihçe == Yöredeki ilk yerleşimin Hititler döneminde başladığı, Eski Kışla (Dikilitaş - Yukarıkışla) ile Arısama (Belkaya)'da yapılan kazılarda ele geçen çivi yazılı tabletlerden anlaşılmaktadır. İlçenin kuzeyindeki Kötü Dağ (Arısama Dağı), tarihi öneme sahip kale, kaya oyması, kilise ve büyük yeraltı şehirleri barındırmaktadır. Dağın batı yamaçlarında bulunan Eskikışla yerleşkesinde, dağın tarihî değerini Hitit hiyerogliflerine benzerlik gösteren fakat değişik bir hiyeroglif yazısı ile yazılmış 2 adet sunak ve 3 adet kitabe bulunmuştur. Yazıtların tercümesi tartışmalıdır. Sunak ve kitabeler İstanbul Arkeoloji Müzesi'nde sergilenmektedir. Hitit dönemine ait olduğu sanılan ve Eski Kışla olarak isimlendirilen yerleşim merkezi üzerindeki kale ve yer altı şehrini Roma ve Bizanslılar da kullanmışlardır. Anadolu'ya Türk boylarının yerleşmesinden sonra bu kaleye ve bugünkü Emirgazi'nin bulunduğu yerler Anadolu Selçukluları'nın egemenliğine girmiştir. Osmanlı salnamelerinde isminden söz edilmeyen Emirgazi, Cumhuriyet dönemiyle birlikte köy konumunda olup 1990 yılında ilçe olmuştur. İlçeden günümüze gelebilen eserler arasında Arısama Dağı'ndaki kale kalıntısı, ilçenin 2 km güneydoğusundaki, ilçeye ismini veren Emrullah Gazi Türbesi bulunmaktadır. İlçenin yaklaşık 10–12 km kuzeyinde yer alan ve Kolak Yaylası diye anılan bölge en eski yerleşim yerleri arasında yer alır yapılan kazılarda tarihi; Hitit dönemine kadar uzanan eserler çıkarılmıştır. == Coğrafi konum ve iklim == İç Anadolu Bölgesi'nde, Konya iline bağlı bir ilçe olan Emirgazi; doğusunda Niğde ili, güneyinde Ereğli ilçesi, batısında Karapınar ilçesi ve kuzeyinde Aksaray ili ile çevrilidir. İlçe toprakları bazı bölümleri engebeli olmasına rağmen genellikle ovalık ve bozkır görünümündedir. İlçenin güneyindeki Karacadağ'da ormanlık alanlar bulunmaktadır. İlçe içerisinde akarsu veya gölet gibi su kaynakları bulunmamaktadır. İl merkezine 140 km uzaklıktaki ilçe, deniz seviyesinden 962 m yüksekliktedir. İlçenin yüzölçümü 798 km²’dir. Toplam nüfusu ise 10.500'dür. İlçede karasal iklim hüküm sürmekte olup, kışlar soğuk ve sert, yazlar da sıcak ve kuraktır. Emirgazi ilçesi İç Anadolu'nun en az yağış alan bölgesidir. == Nüfus == Not: Büyükşehir yasası nedeniyle köyler mahalle statüsüne geçtiğinden 2013'ten itibaren kır nüfusu tabloda yer almamıştır. == Ekonomi == İlçenin ekonomisi tarım ve hayvancılığa dayalıdır. İlçede belli başlı akarsu olmadığından kuru tarım yapılmaktadır. Hayvancılıkta ise sığır, koyun ve keçi yetiştirilmektedir. === Gezilecek yerler === Kolak Kabartmaları Çomakhacı Köyü, Gölören ve Elmayokuşu mesirelik alanları. Çomakhacı Barajı Kolak Yaylası Koyunkıran dağları Tepesidelik Tepesi Kolak Kabartması Toluca Anıtı Kötü Kale Şarışlı Kalesi (Kayasaray) Kaya Saray Şeytan Mağaraları == Kaynakça == == Dış bağlantılar == Emigazi Kaymakamlığı 4 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Emigazi Belediyesi 15 Ekim 2007 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 394,
+      "char_count": 3026,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.515800",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 38,
+      "content": "Emirgazi, Konya ilinin bir ilçesidir.",
+      "char_count": 37,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 38,
+      "end_char": 1038,
+      "content": "== Tarihçe == Yöredeki ilk yerleşimin Hititler döneminde başladığı, Eski Kışla (Dikilitaş - Yukarıkışla) ile Arısama (Belkaya)'da yapılan kazılarda ele geçen çivi yazılı tabletlerden anlaşılmaktadır. İlçenin kuzeyindeki Kötü Dağ (Arısama Dağı), tarihi öneme sahip kale, kaya oyması, kilise ve büyük yeraltı şehirleri barındırmaktadır. Dağın batı yamaçlarında bulunan Eskikışla yerleşkesinde, dağın tarihî değerini Hitit hiyerogliflerine benzerlik gösteren fakat değişik bir hiyeroglif yazısı ile yazılmış 2 adet sunak ve 3 adet kitabe bulunmuştur. Yazıtların tercümesi tartışmalıdır. Sunak ve kitabeler İstanbul Arkeoloji Müzesi'nde sergilenmektedir. Hitit dönemine ait olduğu sanılan ve Eski Kışla olarak isimlendirilen yerleşim merkezi üzerindeki kale ve yer altı şehrini Roma ve Bizanslılar da kullanmışlardır. Anadolu'ya Türk boylarının yerleşmesinden sonra bu kaleye ve bugünkü Emirgazi'nin bulunduğu yerler Anadolu Selçukluları'nın egemenliğine girmiştir. Osmanlı salnamelerinde isminden söz ed",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 838,
+      "end_char": 1499,
+      "content": "lanmışlardır. Anadolu'ya Türk boylarının yerleşmesinden sonra bu kaleye ve bugünkü Emirgazi'nin bulunduğu yerler Anadolu Selçukluları'nın egemenliğine girmiştir. Osmanlı salnamelerinde isminden söz edilmeyen Emirgazi, Cumhuriyet dönemiyle birlikte köy konumunda olup 1990 yılında ilçe olmuştur. İlçeden günümüze gelebilen eserler arasında Arısama Dağı'ndaki kale kalıntısı, ilçenin 2 km güneydoğusundaki, ilçeye ismini veren Emrullah Gazi Türbesi bulunmaktadır. İlçenin yaklaşık 10–12 km kuzeyinde yer alan ve Kolak Yaylası diye anılan bölge en eski yerleşim yerleri arasında yer alır yapılan kazılarda tarihi; Hitit dönemine kadar uzanan eserler çıkarılmıştır.",
+      "char_count": 661,
+      "token_estimate": 165
+    },
+    {
+      "id": "c0003",
+      "section": "== Coğrafi konum ve iklim ==",
+      "heading_path": "== Coğrafi konum ve iklim ==",
+      "start_char": 1500,
+      "end_char": 2237,
+      "content": "== Coğrafi konum ve iklim == İç Anadolu Bölgesi'nde, Konya iline bağlı bir ilçe olan Emirgazi; doğusunda Niğde ili, güneyinde Ereğli ilçesi, batısında Karapınar ilçesi ve kuzeyinde Aksaray ili ile çevrilidir. İlçe toprakları bazı bölümleri engebeli olmasına rağmen genellikle ovalık ve bozkır görünümündedir. İlçenin güneyindeki Karacadağ'da ormanlık alanlar bulunmaktadır. İlçe içerisinde akarsu veya gölet gibi su kaynakları bulunmamaktadır. İl merkezine 140 km uzaklıktaki ilçe, deniz seviyesinden 962 m yüksekliktedir. İlçenin yüzölçümü 798 km²’dir. Toplam nüfusu ise 10.500'dür. İlçede karasal iklim hüküm sürmekte olup, kışlar soğuk ve sert, yazlar da sıcak ve kuraktır. Emirgazi ilçesi İç Anadolu'nun en az yağış alan bölgesidir.",
+      "char_count": 736,
+      "token_estimate": 184
+    },
+    {
+      "id": "c0004",
+      "section": "== Nüfus ==",
+      "heading_path": "== Nüfus ==",
+      "start_char": 2237,
+      "end_char": 2372,
+      "content": "== Nüfus == Not: Büyükşehir yasası nedeniyle köyler mahalle statüsüne geçtiğinden 2013'ten itibaren kır nüfusu tabloda yer almamıştır.",
+      "char_count": 134,
+      "token_estimate": 33
+    },
+    {
+      "id": "c0005",
+      "section": "== Ekonomi ==",
+      "heading_path": "== Ekonomi ==",
+      "start_char": 2372,
+      "end_char": 2561,
+      "content": "== Ekonomi == İlçenin ekonomisi tarım ve hayvancılığa dayalıdır. İlçede belli başlı akarsu olmadığından kuru tarım yapılmaktadır. Hayvancılıkta ise sığır, koyun ve keçi yetiştirilmektedir.",
+      "char_count": 188,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0006",
+      "section": "=== Gezilecek yerler ===",
+      "heading_path": "=== Gezilecek yerler ===",
+      "start_char": 2561,
+      "end_char": 2828,
+      "content": "=== Gezilecek yerler === Kolak Kabartmaları Çomakhacı Köyü, Gölören ve Elmayokuşu mesirelik alanları. Çomakhacı Barajı Kolak Yaylası Koyunkıran dağları Tepesidelik Tepesi Kolak Kabartması Toluca Anıtı Kötü Kale Şarışlı Kalesi (Kayasaray) Kaya Saray Şeytan Mağaraları",
+      "char_count": 266,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2843,
+      "end_char": 3026,
+      "content": "== Dış bağlantılar == Emigazi Kaymakamlığı 4 Şubat 2007 tarihinde Wayback Machine sitesinde arşivlendi. Emigazi Belediyesi 15 Ekim 2007 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 183,
+      "token_estimate": 45
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Eskikışla yerleşkesinde bulunan sunaklar ve kitabeler nerede sergilenmektedir?",
+        "answer": "İstanbul Arkeoloji Müzesi'nde.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Emirgazi'nin bilinen ilk yerleşim döneminden günümüzdeki idari statüsüne kadar olan gelişim sürecinde hangi önemli kültürel ve idari değişimler yaşanmıştır?",
+        "answer": "Emirgazi yöresindeki ilk yerleşim Hititler döneminde başlamış, Eski Kışla ve Arısama gibi bölgelerde çivi yazılı tabletler ve sunaklar bulunmuştur. Hitit dönemine ait yerleşim merkezleri, Roma ve Bizanslılar tarafından da kullanılmıştır. Anadolu'ya Türk boylarının yerleşmesinden sonra Anadolu Selçukluları'nın egemenliğine giren bölge, Osmanlı salnamelerinde isminden söz edilmemiştir. Cumhuriyet dönemiyle birlikte bir köy konumunda olup, 1990 yılında Konya ilinin bir ilçesi olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

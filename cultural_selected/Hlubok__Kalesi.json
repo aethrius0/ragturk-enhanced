@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "hlubokkalesi_d2f3ec68",
+    "title": "Hluboká Kalesi",
+    "url": "https://tr.wikipedia.org/wiki/Hlubok%C3%A1_Kalesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:05.894122",
+    "content": "Hluboká (German: Frauenberg) Hluboká nad Vltavou'da yer alan tarihi bir şatodur. Çekya'nın en güzel kalelerinden biri olarak kabul edilir. == Turizm == Hluboká, Çek Cumhuriyeti'nin en ünlü ve en çok ziyaret edilen kalelerinden biridir. 2019 yılı itibarıyla 293.000 ziyaretçi ile en çok ziyaret edilen 3. kale oldu. == Tarih == 13. yüzyılın ikinci yarısında, siteye Gotik bir kale inşa edildi. Tarihi boyunca kale birkaç kez yeniden inşa edildi. İlk olarak Rönesans döneminde genişletildi, daha sonra 18.yüzyılın başında Adam Franz von Schwarzenberg'in emriyle Barok bir kale olarak yeniden inşa edildi. Johann Adolf II von Schwarzenberg'in İngiltere'nin Windsor Kalesi'nin romantik tarzında kalenin yeniden inşasını emrettiği 19. yüzyılda bugünkü görünümüne ulaştı. Schwarzenbergs, kaleyi 1661'de Schwarzenberg Prensi Johann Adolf'un Baltasar Marradas'ın mirasçılarından satın almasıyla elde etti. Son sahibi (Adolph Schwarzenberg) Nazilerden kaçmak için denizaşırı göç ettiğinde, 1939'un sonuna kadar Hluboká'da yaşadılar. Schwarzenberg'ler, 1947'de özel bir yasama Yasası olan Lex Schwarzenberg aracılığıyla tüm Çek mülklerini kaybetti. Hluboká Kalesi, Çek Cumhuriyeti'nin Ulusal Kültür Anıtıdır. == Popüler kültürde == Kale, Şangay Şövalyeleri filminin bir sahnesinde kullanılmıştır. Kale ayrıca Underworld: Blood Wars filminde Eastern Coven için bir yer olarak kullanılmıştır. 2019'da K-pop solisti Park Jihoon, L.O.V.E. şarkısını yayınladı. ve müzik videosu kalede çekildi. == Kaynakça == == Dış Bağlantılar == Wikimedia Commons'ta Hluboká Castle ile ilgili çoklu ortam belgeleri bulunur Resmî site 4 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. (in English) Resmi web sitesi 22 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. (in Czech) Town of Hluboká nad Vltavou 12 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 250,
+      "char_count": 1856,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.292425",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 139,
+      "content": "Hluboká (German: Frauenberg) Hluboká nad Vltavou'da yer alan tarihi bir şatodur. Çekya'nın en güzel kalelerinden biri olarak kabul edilir.",
+      "char_count": 138,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0001",
+      "section": "== Turizm ==",
+      "heading_path": "== Turizm ==",
+      "start_char": 139,
+      "end_char": 315,
+      "content": "== Turizm == Hluboká, Çek Cumhuriyeti'nin en ünlü ve en çok ziyaret edilen kalelerinden biridir. 2019 yılı itibarıyla 293.000 ziyaretçi ile en çok ziyaret edilen 3. kale oldu.",
+      "char_count": 175,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarih ==",
+      "heading_path": "== Tarih ==",
+      "start_char": 315,
+      "end_char": 1199,
+      "content": "== Tarih == 13. yüzyılın ikinci yarısında, siteye Gotik bir kale inşa edildi. Tarihi boyunca kale birkaç kez yeniden inşa edildi. İlk olarak Rönesans döneminde genişletildi, daha sonra 18.yüzyılın başında Adam Franz von Schwarzenberg'in emriyle Barok bir kale olarak yeniden inşa edildi. Johann Adolf II von Schwarzenberg'in İngiltere'nin Windsor Kalesi'nin romantik tarzında kalenin yeniden inşasını emrettiği 19. yüzyılda bugünkü görünümüne ulaştı. Schwarzenbergs, kaleyi 1661'de Schwarzenberg Prensi Johann Adolf'un Baltasar Marradas'ın mirasçılarından satın almasıyla elde etti. Son sahibi (Adolph Schwarzenberg) Nazilerden kaçmak için denizaşırı göç ettiğinde, 1939'un sonuna kadar Hluboká'da yaşadılar. Schwarzenberg'ler, 1947'de özel bir yasama Yasası olan Lex Schwarzenberg aracılığıyla tüm Çek mülklerini kaybetti. Hluboká Kalesi, Çek Cumhuriyeti'nin Ulusal Kültür Anıtıdır.",
+      "char_count": 883,
+      "token_estimate": 220
+    },
+    {
+      "id": "c0003",
+      "section": "== Popüler kültürde ==",
+      "heading_path": "== Popüler kültürde ==",
+      "start_char": 1199,
+      "end_char": 1479,
+      "content": "== Popüler kültürde == Kale, Şangay Şövalyeleri filminin bir sahnesinde kullanılmıştır. Kale ayrıca Underworld: Blood Wars filminde Eastern Coven için bir yer olarak kullanılmıştır. 2019'da K-pop solisti Park Jihoon, L.O.V.E. şarkısını yayınladı. ve müzik videosu kalede çekildi.",
+      "char_count": 279,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış Bağlantılar ==",
+      "heading_path": "== Dış Bağlantılar ==",
+      "start_char": 1494,
+      "end_char": 1856,
+      "content": "== Dış Bağlantılar == Wikimedia Commons'ta Hluboká Castle ile ilgili çoklu ortam belgeleri bulunur Resmî site 4 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. (in English) Resmi web sitesi 22 Ekim 2020 tarihinde Wayback Machine sitesinde arşivlendi. (in Czech) Town of Hluboká nad Vltavou 12 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 362,
+      "token_estimate": 90
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Schwarzenberg ailesi Hluboká Kalesi'ni ne zaman elde etti?",
+        "answer": "Schwarzenberg ailesi Hluboká Kalesi'ni 1661 yılında elde etti.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hluboká Kalesi'nin zengin tarihi ve yapısal evrimi, Çek Cumhuriyeti'nin en çok ziyaret edilen turistik yerlerinden biri olma statüsüne nasıl katkıda bulunmuştur?",
+        "answer": "13. yüzyılda Gotik bir kale olarak inşa edilen ve Rönesans, Barok ve İngiltere'nin Windsor Kalesi tarzında romantik yeniden inşa gibi çeşitli dönemlerde birçok kez yeniden yapılanan Hluboká Kalesi, zengin bir tarihi evrim geçirmiştir. Schwarzenberg ailesinin 1661'den 1939'a kadar kaleye sahip olması bu tarihi derinliği artırmıştır. Bugün Çekya'nın en güzel kalelerinden biri ve Ulusal Kültür Anıtı olarak kabul edilen bu kale, zengin tarihi ve mimari güzelliği sayesinde 2019'da 293.000 ziyaretçiyle ülkenin en çok ziyaret edilen üçüncü kalesi haline gelmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

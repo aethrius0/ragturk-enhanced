@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "smoothie_32661d1c",
+    "title": "Smoothie",
+    "url": "https://tr.wikipedia.org/wiki/Smoothie",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:02.995454",
+    "content": "Smoothie, taze meyve ya da meyve suyu, süt, yoğurt, dondurma ilave edilerek yapılan milkshake tarzı bir içecektir. Malzemelerin bir blenderde püre haline getirilmesiyle yapılır. Milk shake'e ve ice slush'a benzer. Sporcuların özellikle protein tozu ekleyerek kullandığı görülmüştür. Sebzeler, bitkisel süt, kesmik, lor, buz küpü, peynir altı suyu tozu veya besin takviyesi ve başka bileşenler de eklenebilir. == Tarihi == Smoothie'ler 1930'larda Kaliforniya'da satılmaya başlansa da 1960ların sonlarında Amerika Birleşik Devletleri'nin Batı Kıyısı'ndaki sağlıklı gıda mağazası türleri, elektrikli blenderin icadıyla smoothie satışına başladı. Gerçek \"smoothie\" terimi 1980'lerin ortalarında tariflerde ve ticari markalarda kullanılıyordu. == Beslenme == Bir smoothie'nin beslenmesi, içindeki malzemelere ve oranlarına bağlıdır. Birçok smoothie, sağlıklı bir beslenmede önerilen ve öğün yerine geçmesi amaçlanan büyük veya birden fazla porsiyon meyve ve sebzeyi içerir. Ancak yüksek miktarda şeker içeren meyve suları kalori alımını artırabilir ve kilo almanı teşvik edebilir. Protein tozları, tatlandırıcılar veya dondurma gibi malzemeler kullanılabilir. Bir çalışma, karıştırılmamış gıdalarla aynı miktarda enerji sağlamasına rağmen smoothielerin daha az doyurucu olduğunu buldu. == Türleri == Yeşil bir smoothie tipik olarak %40-50 yeşil sebzelerden, genellikle ıspanak, lahana, pazı, kara lahana, kereviz, maydanoz veya brokoli gibi ot ve yeşillik sebzelerden oluşur; geri kalan bileşenler çoğunlukla veya tamamen meyvedir. Yeşil yapraklı sebzelerin çoğu, çiğ olarak servis edildiğinde acı bir tada sahiptir, ancak bu, daha az acı olan bazı sebzelerin (örneğin bebek ıspanak) seçilmesi veya meyveler veya diğer tatlı malzemelerle birleştirilmesiyle iyileştirilebilir. Protein smoothie, su veya bir çeşit süt ürünü, protein tozu, meyve ve sebzelerin birleşimidir. Günün her saatinde tüketilebilir ve protein alımını artırmak isteyenler için protein takviyesi olarak kullanılır. Protein tozu tek başına süt veya su ile karıştırıldığında kireçli bir tada sahip olabilir. Protein smoothie, meyvelerin veya diğer tatlandırıcıların eklenmesiyle protein tozunun tadını iyileştirir. Yoğurtlu smoothie, protein kaynağı olarak yoğurt içeren ve içeceğe kremsi bir doku katan bir smoothie'dir. Süzme yoğurt özellikle koyulaştırıcı olarak dahil edilmiştir. == Galeri == == Kaynakça == == Ayrıca bakınız == Meyve konservesi Kokteyl Mus",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 316,
+      "char_count": 2424,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.193808",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 409,
+      "content": "Smoothie, taze meyve ya da meyve suyu, süt, yoğurt, dondurma ilave edilerek yapılan milkshake tarzı bir içecektir. Malzemelerin bir blenderde püre haline getirilmesiyle yapılır. Milk shake'e ve ice slush'a benzer. Sporcuların özellikle protein tozu ekleyerek kullandığı görülmüştür. Sebzeler, bitkisel süt, kesmik, lor, buz küpü, peynir altı suyu tozu veya besin takviyesi ve başka bileşenler de eklenebilir.",
+      "char_count": 408,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 409,
+      "end_char": 739,
+      "content": "== Tarihi == Smoothie'ler 1930'larda Kaliforniya'da satılmaya başlansa da 1960ların sonlarında Amerika Birleşik Devletleri'nin Batı Kıyısı'ndaki sağlıklı gıda mağazası türleri, elektrikli blenderin icadıyla smoothie satışına başladı. Gerçek \"smoothie\" terimi 1980'lerin ortalarında tariflerde ve ticari markalarda kullanılıyordu.",
+      "char_count": 329,
+      "token_estimate": 82
+    },
+    {
+      "id": "c0002",
+      "section": "== Beslenme ==",
+      "heading_path": "== Beslenme ==",
+      "start_char": 739,
+      "end_char": 1281,
+      "content": "== Beslenme == Bir smoothie'nin beslenmesi, içindeki malzemelere ve oranlarına bağlıdır. Birçok smoothie, sağlıklı bir beslenmede önerilen ve öğün yerine geçmesi amaçlanan büyük veya birden fazla porsiyon meyve ve sebzeyi içerir. Ancak yüksek miktarda şeker içeren meyve suları kalori alımını artırabilir ve kilo almanı teşvik edebilir. Protein tozları, tatlandırıcılar veya dondurma gibi malzemeler kullanılabilir. Bir çalışma, karıştırılmamış gıdalarla aynı miktarda enerji sağlamasına rağmen smoothielerin daha az doyurucu olduğunu buldu.",
+      "char_count": 541,
+      "token_estimate": 135
+    },
+    {
+      "id": "c0003",
+      "section": "== Türleri ==",
+      "heading_path": "== Türleri ==",
+      "start_char": 1281,
+      "end_char": 2281,
+      "content": "== Türleri == Yeşil bir smoothie tipik olarak %40-50 yeşil sebzelerden, genellikle ıspanak, lahana, pazı, kara lahana, kereviz, maydanoz veya brokoli gibi ot ve yeşillik sebzelerden oluşur; geri kalan bileşenler çoğunlukla veya tamamen meyvedir. Yeşil yapraklı sebzelerin çoğu, çiğ olarak servis edildiğinde acı bir tada sahiptir, ancak bu, daha az acı olan bazı sebzelerin (örneğin bebek ıspanak) seçilmesi veya meyveler veya diğer tatlı malzemelerle birleştirilmesiyle iyileştirilebilir. Protein smoothie, su veya bir çeşit süt ürünü, protein tozu, meyve ve sebzelerin birleşimidir. Günün her saatinde tüketilebilir ve protein alımını artırmak isteyenler için protein takviyesi olarak kullanılır. Protein tozu tek başına süt veya su ile karıştırıldığında kireçli bir tada sahip olabilir. Protein smoothie, meyvelerin veya diğer tatlandırıcıların eklenmesiyle protein tozunun tadını iyileştirir. Yoğurtlu smoothie, protein kaynağı olarak yoğurt içeren ve içeceğe kremsi bir doku katan bir smoothie'd",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Türleri ==",
+      "heading_path": "== Türleri ==",
+      "start_char": 2081,
+      "end_char": 2346,
+      "content": "oothie, meyvelerin veya diğer tatlandırıcıların eklenmesiyle protein tozunun tadını iyileştirir. Yoğurtlu smoothie, protein kaynağı olarak yoğurt içeren ve içeceğe kremsi bir doku katan bir smoothie'dir. Süzme yoğurt özellikle koyulaştırıcı olarak dahil edilmiştir.",
+      "char_count": 265,
+      "token_estimate": 66
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2375,
+      "end_char": 2424,
+      "content": "== Ayrıca bakınız == Meyve konservesi Kokteyl Mus",
+      "char_count": 49,
+      "token_estimate": 12
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yeşil bir smoothie'nin tipik olarak yüzde kaçı yeşil sebzelerden oluşur?",
+        "answer": "Yeşil bir smoothie tipik olarak %40-50 yeşil sebzelerden oluşur.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Smoothielerin tarihsel gelişimini ve temel bileşenlerini göz önünde bulundurarak, bu içeceklerin beslenme açısından taşıdığı potansiyel faydalar ve riskler nelerdir?",
+        "answer": "Smoothieler, içerdiği meyve ve sebzeler sayesinde sağlıklı bir beslenmede önerilen büyük porsiyonları içerebilir ve öğün yerine geçebilir; özellikle sporcular tarafından protein tozu eklenerek de kullanılabilir. Ancak, yüksek miktarda şeker içeren meyve suları kalori alımını artırarak kilo alımını teşvik edebilir. Ayrıca protein tozları, tatlandırıcılar veya dondurma gibi ek malzemeler de kalori yoğunluğunu artırabilir ve bir çalışma, smoothielerin karıştırılmamış gıdalara göre daha az doyurucu olduğunu göstermiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

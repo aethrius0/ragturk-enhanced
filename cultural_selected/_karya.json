@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "karya_acea63e7",
+    "title": "İkarya",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0karya",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:26.316628",
+    "content": "İkarya veya Nikarya (Yunanca: Ικαρία, romanize: İkaria), Yunanistan'da Ege Denizi'nde yer alan alan Sisam adasının 10 deniz mili (19 km) güneybatısında bulunan bir adadır. Adaya mitolojik İkarus'un ismi verilmiştir. İdari olarak İkarya, Kuzey Ege bölgesinin bir parçası olan İkarya bölgesel birimi içinde ayrı bir belediye oluşturur. Adanın başlıca kenti ve belediyenin merkezi Agios Kirykos'tur. Adanın tarihi başkentleri arasında Oenoe ve Evdilos bulunmaktadır. == Adanın ismi == Ada Türkçe kaynaklarda Ahikerya, Kerye, Ahikerye veya Karyot gibi adlarla adlandırılmıştır. Geleneğe göre, adını Yunan mitolojisinde Daedalus'un oğlu olan ve yakınlarda denize düştüğüne inanılan İkarus'tan almaktadır. == Tarihi == İkarya, antik Yunanlar tarafından Yunan bölgesinde yaşayan tüm Helen öncesi halklara atıfta bulunmak için kullanılan genel bir terim olan Neolitik Pelasglar tarafından doldurulduğu en az MÖ 7000'den beri iskân edilmiştir. MÖ 750 civarında Miletos'tan gelen Yunanlar Icaria'yı kolonileştirerek bugünkü Campos bölgesinde daha sonra antik başkent Oenoe olacak bir yerleşim kurmuşlardır. Antik dönemde ada, günümüzde olduğu gibi Icaria veya Ikaria (Antik Yunanca: Ἰκαρία); ve ayrıca Icarus veya Ikaros (Ἴκαρος) olarak adlandırılmıştır. == Galeri == == Dış bağlantılar == \"The Island Where People Forget to Die\" 5 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi. by Dan Buettner, The New York Times, October 24, 2012 \"Island of Youth\" \"Ikaria Island: Explore and Experience\" 28 Kasım 2018 tarihinde Wayback Machine sitesinde arşivlendi. by Charlene Caprio and Lefteris Tsouris (Wooden Hull Press, 2015) \"THE EGG - Venue for Workshops, Retreats, Seminars\" 30 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 242,
+      "char_count": 1749,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.285011",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 464,
+      "content": "İkarya veya Nikarya (Yunanca: Ικαρία, romanize: İkaria), Yunanistan'da Ege Denizi'nde yer alan alan Sisam adasının 10 deniz mili (19 km) güneybatısında bulunan bir adadır. Adaya mitolojik İkarus'un ismi verilmiştir. İdari olarak İkarya, Kuzey Ege bölgesinin bir parçası olan İkarya bölgesel birimi içinde ayrı bir belediye oluşturur. Adanın başlıca kenti ve belediyenin merkezi Agios Kirykos'tur. Adanın tarihi başkentleri arasında Oenoe ve Evdilos bulunmaktadır.",
+      "char_count": 463,
+      "token_estimate": 115
+    },
+    {
+      "id": "c0001",
+      "section": "== Adanın ismi ==",
+      "heading_path": "== Adanın ismi ==",
+      "start_char": 464,
+      "end_char": 700,
+      "content": "== Adanın ismi == Ada Türkçe kaynaklarda Ahikerya, Kerye, Ahikerye veya Karyot gibi adlarla adlandırılmıştır. Geleneğe göre, adını Yunan mitolojisinde Daedalus'un oğlu olan ve yakınlarda denize düştüğüne inanılan İkarus'tan almaktadır.",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 700,
+      "end_char": 1245,
+      "content": "== Tarihi == İkarya, antik Yunanlar tarafından Yunan bölgesinde yaşayan tüm Helen öncesi halklara atıfta bulunmak için kullanılan genel bir terim olan Neolitik Pelasglar tarafından doldurulduğu en az MÖ 7000'den beri iskân edilmiştir. MÖ 750 civarında Miletos'tan gelen Yunanlar Icaria'yı kolonileştirerek bugünkü Campos bölgesinde daha sonra antik başkent Oenoe olacak bir yerleşim kurmuşlardır. Antik dönemde ada, günümüzde olduğu gibi Icaria veya Ikaria (Antik Yunanca: Ἰκαρία); ve ayrıca Icarus veya Ikaros (Ἴκαρος) olarak adlandırılmıştır.",
+      "char_count": 544,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1258,
+      "end_char": 1735,
+      "content": "== Dış bağlantılar == \"The Island Where People Forget to Die\" 5 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi. by Dan Buettner, The New York Times, October 24, 2012 \"Island of Youth\" \"Ikaria Island: Explore and Experience\" 28 Kasım 2018 tarihinde Wayback Machine sitesinde arşivlendi. by Charlene Caprio and Lefteris Tsouris (Wooden Hull Press, 2015) \"THE EGG - Venue for Workshops, Retreats, Seminars\" 30 Kasım 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 476,
+      "token_estimate": 119
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İkarya adası en az ne zamandan beri iskan edilmiştir ve ilk sakinleri kimlerdir?",
+        "answer": "İkarya adası en az MÖ 7000'den beri Neolitik Pelasglar tarafından iskan edilmiştir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İkarya adasının adı, Yunan mitolojisindeki İkarus'tan gelmesine rağmen, adanın bilinen ilk yerleşimcileri kimlerdi ve antik çağlarda adı başka hangi şekillerde kullanılmıştır?",
+        "answer": "İkarya adasının adı, Yunan mitolojisinde Daedalus'un oğlu olan ve yakınlarda denize düştüğüne inanılan İkarus'tan gelmektedir. Adanın bilinen en eski yerleşimcileri, MÖ 7000'den itibaren adayı dolduran Neolitik Pelasglardır. Antik dönemde ada, günümüzdeki Icaria veya Ikaria adının yanı sıra Icarus veya Ikaros olarak da adlandırılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

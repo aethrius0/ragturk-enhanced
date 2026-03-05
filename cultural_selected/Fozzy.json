@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "fozzy_bff05ec4",
+    "title": "Fozzy",
+    "url": "https://tr.wikipedia.org/wiki/Fozzy",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:36.188990",
+    "content": "Fozzy, Amerikalı heavy metal grubu. 1999 yılında Atlanta, Georgia merkezli kurulan grubun kurucuları, solist Chris Jericho ve gitarist Rich Ward'dur. Grup, Century Media Records anlaşması altında iki stüdyo albümü çıkarmıştır. Grubun mevcut üyeleri Chris Jericho, Rich Ward, Frank Fontsere, Billy Gray ve Paul Di Leo'dur. Jericho, grup hakkında şunları söylemiştir: \"Eğer Metallica ve Journey'nin piç bir çocuğu olsaydı, o Fozzy olurdu.\" Temmuz 2014'e kadar altı stüdyo albümü ve bir canlı albüm çıkarmışlardır. İlk iki albümleri orijinal materyal ve cover şarkılardan oluşurken, sonraki albümler Black Sabbath'ın \"Fairies Wear Boots\" ve ABBA'nın \"SOS\" cover'ları ile beraber Sin and Bones ve Do You Wanna Start A War hariç orijinal materyal şarkılardan oluşmuştur. == Üyeleri == Mevcut üyeler Chris Jericho – solist, piyano (1999-günümüz) Rich Ward – gitar, vokalist (1999-günümüz) Frank Fontsere – bateri, perküsyon (1999-2005, 2009-günümüz) Billy Grey – gitar, vokalist (2010-günümüz) Paul Di Leo – bas gitar, vokalist (2011-2014; 2017-günümüz) Eski üyeler Randy Drake – bas gitar, vokalist (2015-2017) Jeff Rouse – bas gitar, vokalist (2014-2015) Mike Martin – solo gitar (2004-2010) Sean Delson – bas gitar (2004-2011) Eric Sanders – bateri, perküsyon (2005-2009) Keith Watson – bas gitar (2002-2004) Ryan Mallam – ritim gitar (1999-2004) Dan Dryden – bas gitar, vokalist (1999-2002) == Diskografi == Fozzy (2000) Happenstance (2002) All That Remains (2005) Reloaded (2008) Chasing the Grail (2010) Sin and Bones (2012) Do You Wanna Start a War (2014) == Ödülleri == Loudwire Müzik Ödülleri == Kaynakça == == Konuyla ilgili yayınlar == Keith, Scott (2004). Wrestling's One Ring Circus: The Death of the World Wrestling Federation. Citadel Press. ISBN 0-8065-2619-X. Schaefer, A.R. (2002). Y2J: Pro Wrestler Chris Jericho (Pro Wrestlers). Capstone High-Interest Books. ISBN 978-0-7368-1313-6. Jericho, Chris; Fornatale, Peter Thomas (2007). A Lion's Tale: Around the World in Spandex. New York, New York: Grand Central Publishing. 432pp. ISBN 978-0-446-58006-9. Jericho, Chris; Fornatale, Peter Thomas (2011). Undisputed: How to Become the World Champion in 1,372 Easy Steps. New York, New York: Grand Central Publishing. 448pp. ISBN 978-0-446-53815-2. == Dış bağlantılar == Resmî site",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 333,
+      "char_count": 2289,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.471711",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 766,
+      "content": "Fozzy, Amerikalı heavy metal grubu. 1999 yılında Atlanta, Georgia merkezli kurulan grubun kurucuları, solist Chris Jericho ve gitarist Rich Ward'dur. Grup, Century Media Records anlaşması altında iki stüdyo albümü çıkarmıştır. Grubun mevcut üyeleri Chris Jericho, Rich Ward, Frank Fontsere, Billy Gray ve Paul Di Leo'dur. Jericho, grup hakkında şunları söylemiştir: \"Eğer Metallica ve Journey'nin piç bir çocuğu olsaydı, o Fozzy olurdu.\" Temmuz 2014'e kadar altı stüdyo albümü ve bir canlı albüm çıkarmışlardır. İlk iki albümleri orijinal materyal ve cover şarkılardan oluşurken, sonraki albümler Black Sabbath'ın \"Fairies Wear Boots\" ve ABBA'nın \"SOS\" cover'ları ile beraber Sin and Bones ve Do You Wanna Start A War hariç orijinal materyal şarkılardan oluşmuştur.",
+      "char_count": 765,
+      "token_estimate": 191
+    },
+    {
+      "id": "c0001",
+      "section": "== Üyeleri ==",
+      "heading_path": "== Üyeleri ==",
+      "start_char": 766,
+      "end_char": 1389,
+      "content": "== Üyeleri == Mevcut üyeler Chris Jericho – solist, piyano (1999-günümüz) Rich Ward – gitar, vokalist (1999-günümüz) Frank Fontsere – bateri, perküsyon (1999-2005, 2009-günümüz) Billy Grey – gitar, vokalist (2010-günümüz) Paul Di Leo – bas gitar, vokalist (2011-2014; 2017-günümüz) Eski üyeler Randy Drake – bas gitar, vokalist (2015-2017) Jeff Rouse – bas gitar, vokalist (2014-2015) Mike Martin – solo gitar (2004-2010) Sean Delson – bas gitar (2004-2011) Eric Sanders – bateri, perküsyon (2005-2009) Keith Watson – bas gitar (2002-2004) Ryan Mallam – ritim gitar (1999-2004) Dan Dryden – bas gitar, vokalist (1999-2002)",
+      "char_count": 622,
+      "token_estimate": 155
+    },
+    {
+      "id": "c0002",
+      "section": "== Diskografi ==",
+      "heading_path": "== Diskografi ==",
+      "start_char": 1389,
+      "end_char": 1557,
+      "content": "== Diskografi == Fozzy (2000) Happenstance (2002) All That Remains (2005) Reloaded (2008) Chasing the Grail (2010) Sin and Bones (2012) Do You Wanna Start a War (2014)",
+      "char_count": 167,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0003",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1557,
+      "end_char": 1596,
+      "content": "== Ödülleri == Loudwire Müzik Ödülleri",
+      "char_count": 38,
+      "token_estimate": 9
+    },
+    {
+      "id": "c0004",
+      "section": "== Konuyla ilgili yayınlar ==",
+      "heading_path": "== Konuyla ilgili yayınlar ==",
+      "start_char": 1611,
+      "end_char": 2257,
+      "content": "== Konuyla ilgili yayınlar == Keith, Scott (2004). Wrestling's One Ring Circus: The Death of the World Wrestling Federation. Citadel Press. ISBN 0-8065-2619-X. Schaefer, A.R. (2002). Y2J: Pro Wrestler Chris Jericho (Pro Wrestlers). Capstone High-Interest Books. ISBN 978-0-7368-1313-6. Jericho, Chris; Fornatale, Peter Thomas (2007). A Lion's Tale: Around the World in Spandex. New York, New York: Grand Central Publishing. 432pp. ISBN 978-0-446-58006-9. Jericho, Chris; Fornatale, Peter Thomas (2011). Undisputed: How to Become the World Champion in 1,372 Easy Steps. New York, New York: Grand Central Publishing. 448pp. ISBN 978-0-446-53815-2.",
+      "char_count": 645,
+      "token_estimate": 161
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2257,
+      "end_char": 2289,
+      "content": "== Dış bağlantılar == Resmî site",
+      "char_count": 32,
+      "token_estimate": 8
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Fozzy grubu hangi yıl kurulmuştur?",
+        "answer": "1999 yılında.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fozzy'nin kurucu üyeleri ile mevcut üyeleri arasındaki devamlılık ve değişimler nasıl açıklanabilir?",
+        "answer": "Fozzy'nin kurucu üyeleri olan Chris Jericho ve Rich Ward, 1999'dan beri grubun ana çekirdeğini oluşturarak sırasıyla solist ve gitarist rollerini sürdürmektedirler. Mevcut kadroda yer alan baterist Frank Fontsere de kuruluşundan beri (kısa bir ara dışında) gruptadır. Ancak Billy Gray ve Paul Di Leo gibi diğer mevcut üyeler, grubun kuruluşundan çok sonra katılmışlardır; bu da grubun temel üyelerinin devamlılığını korurken zaman içinde kadroda eklemeler ve bazı değişiklikler yaşandığını göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

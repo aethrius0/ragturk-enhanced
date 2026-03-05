@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "phylissnewman_ac306e2d",
+    "title": "Phyliss Newman",
+    "url": "https://tr.wikipedia.org/wiki/Phyliss_Newman",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:33.237794",
+    "content": "Phyllis Newman (d. 19 Mart 1933 - ö. 15 Eylül 2019), Amerikalı oyuncu ve şarkıcı. Broadway yapımı müzikal Subways Are for Sleeping 'de canlandırdığı Martha Vail rolüyle \"En İyi Kadın Müzikal\" oyuncusu dalında 1962'de Tony Ödülü kazanmış ayrıca iki defa \"Drama Desk Ödülü\" 'ne aday gösterilmiştir. == Yaşamı ve kariyeri == Newman 19 Mart 1933'te Jersey City, New Jersey'de Rachael ve Arthur Newman çiftinin kızı olarak doğdu. Eğitim gördüğü Lincoln Yüksek Okulu'nda \"Future Hollywood Star.\" (Geleceğin Hollywood Yıldızları) arasında gösterildi. 1952'de genç yaşta oyunculuğa başladı. Yer aldığı yapımlar arasında sinema filmleri; Mannequin (1987), It Had to Be You (2000) ve The Human Stain (2003) ile televizyon dizileri; One Life to Live (1968) ve Murder She Wrote (1991) vb. sayılabilir. == Yaşamı ve kariyeri == 19 Mart 1933'te Jersey City, New Jersey'de doğan Amerikalı kadın oyuncu ve şarkıcı Phyliss Newman 15 Eylül 2019'da New York Şehri'nde 86 yaşında ölmüştür. == Filmografi == === Sinema === 1958: Let's Rock 1972: To Find a Man 1987: Mannequin 1991: Saying Kaddish 2000: It Had to Be You 2000: Just for the Time Being 2003: The Human Stain === Televizyon dizisi === 1957: Decoy 1960: Diagnosis: Unknown 1964: That Was the Week That Was 1966: The Face Is Familiar 1967: Snap Judgment 1968: One Life to Live 1968: What's My Line? 1968: Not for Women Only 1988: Coming of Age 2001: 100 Centre Street == Kaynakça == == Dış bağlantılar == Phyllis Newman's Website12 Eylül 2017 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de Phyliss Newman IBDB'de Phyliss Newman. TonyAwards.com Interview with Phyllis Newman",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 257,
+      "char_count": 1622,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.737350",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 297,
+      "content": "Phyllis Newman (d. 19 Mart 1933 - ö. 15 Eylül 2019), Amerikalı oyuncu ve şarkıcı. Broadway yapımı müzikal Subways Are for Sleeping 'de canlandırdığı Martha Vail rolüyle \"En İyi Kadın Müzikal\" oyuncusu dalında 1962'de Tony Ödülü kazanmış ayrıca iki defa \"Drama Desk Ödülü\" 'ne aday gösterilmiştir.",
+      "char_count": 296,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 297,
+      "end_char": 790,
+      "content": "== Yaşamı ve kariyeri == Newman 19 Mart 1933'te Jersey City, New Jersey'de Rachael ve Arthur Newman çiftinin kızı olarak doğdu. Eğitim gördüğü Lincoln Yüksek Okulu'nda \"Future Hollywood Star.\" (Geleceğin Hollywood Yıldızları) arasında gösterildi. 1952'de genç yaşta oyunculuğa başladı. Yer aldığı yapımlar arasında sinema filmleri; Mannequin (1987), It Had to Be You (2000) ve The Human Stain (2003) ile televizyon dizileri; One Life to Live (1968) ve Murder She Wrote (1991) vb. sayılabilir.",
+      "char_count": 492,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 790,
+      "end_char": 970,
+      "content": "== Yaşamı ve kariyeri == 19 Mart 1933'te Jersey City, New Jersey'de doğan Amerikalı kadın oyuncu ve şarkıcı Phyliss Newman 15 Eylül 2019'da New York Şehri'nde 86 yaşında ölmüştür.",
+      "char_count": 179,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0003",
+      "section": "=== Sinema ===",
+      "heading_path": "=== Sinema ===",
+      "start_char": 987,
+      "end_char": 1151,
+      "content": "=== Sinema === 1958: Let's Rock 1972: To Find a Man 1987: Mannequin 1991: Saying Kaddish 2000: It Had to Be You 2000: Just for the Time Being 2003: The Human Stain",
+      "char_count": 163,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0004",
+      "section": "=== Televizyon dizisi ===",
+      "heading_path": "=== Televizyon dizisi ===",
+      "start_char": 1151,
+      "end_char": 1408,
+      "content": "=== Televizyon dizisi === 1957: Decoy 1960: Diagnosis: Unknown 1964: That Was the Week That Was 1966: The Face Is Familiar 1967: Snap Judgment 1968: One Life to Live 1968: What's My Line? 1968: Not for Women Only 1988: Coming of Age 2001: 100 Centre Street",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1423,
+      "end_char": 1622,
+      "content": "== Dış bağlantılar == Phyllis Newman's Website12 Eylül 2017 tarihinde Wayback Machine sitesinde arşivlendi. IMDb'de Phyliss Newman IBDB'de Phyliss Newman. TonyAwards.com Interview with Phyllis Newman",
+      "char_count": 199,
+      "token_estimate": 49
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Newman ne zaman doğmuştur?",
+        "answer": "19 Mart 1933",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Phyllis Newman'ın erken dönemdeki potansiyelini ve eğlence sektöründeki çok yönlü kariyer başarısını gösteren temel noktalar nelerdir?",
+        "answer": "Phyllis Newman, Lincoln Yüksek Okulu'nda \"Future Hollywood Star.\" olarak tanınmış ve 1952'de genç yaşta oyunculuğa başlamıştır. Kariyeri boyunca Broadway'deki Subways Are for Sleeping müzikalindeki Martha Vail rolüyle 1962'de Tony Ödülü kazanmış, iki defa Drama Desk Ödülü'ne aday gösterilmiş ve Mannequin, It Had to Be You, The Human Stain gibi sinema filmleri ile One Life to Live ve Murder She Wrote gibi televizyon dizilerinde rol alarak tiyatro, sinema ve televizyon alanlarında geniş kapsamlı başarı göstermiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

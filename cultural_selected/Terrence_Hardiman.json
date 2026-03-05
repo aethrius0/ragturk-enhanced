@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "terrencehardiman_6fe06e94",
+    "title": "Terrence Hardiman",
+    "url": "https://tr.wikipedia.org/wiki/Terrence_Hardiman",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:30.087150",
+    "content": "Terrence Hardiman (6 Nisan 1937 – 8 Mayıs 2023), İngiliz aktördür. Sık sık otorite figürlerini, örneğin Nazi dönemi personelini (Gizli Ordu, Colditz, Bana Şans Dile ve Kapıdaki Düşman) ve bir İngiliz subayı (Tekne Geldiğinde) rollerinde oynamıştır. Diğer rolleri arasında bir polis müfettişi (Baş Şüpheli, Juliet Bravo ve Softly, Softly); bir doktor (Home to Roost ve The Royal); bir avukat (Crown Court ve The Brittas Empire); bir yargıç (Tasarı ve Mahkeme Salonu); bir on ikinci yüzyıl başrahibi (Cadfael); ve bir çocuk televizyon dizisi olan Şeytan Okul Müdürü'nde kötü bir müdür olarak yer almıştır. Ayrıca Richard Attenborough'nun yönettiği Gandhi'de başbakan Ramsay MacDonald'ı canlandırmıştır. Hardiman, Colin Dexter, Anne Perry ve Ruth Rendell'in dizileri de dahil olmak üzere yüzlerce sesli kitabı anlatmıştır. Hardiman'ın kâr amacı gütmeyen Calibre Audio Library için yaptığı gönüllü anlatım çalışması, ona 2013'te Gümüş Centurion hizmet ödülü kazandırmıştır. == Kişisel hayatı ve ölümü == Hardiman, Rowena Cooper ile evli ve iki çocuk babasıydı. Hardiman 8 Mayıs 2023'te 86 yaşında öldü. == Seçilmiş filmografisi == Running Scared (1972) Doktor rolünde Papa Joan (1972) Kardinal Anastasius olarak Boşluk Deliği (1981) David rolünde Sığınak (1981) Hermann Fegelein rolünde Gandhi (1982) Ramsay MacDonald rolünde Sahra (1983) Browne rolünde Mask of Murder (1985) Dr. Paul Crossland rolünde God's Outlaw (1986) Thomas Cromwell rolünde Baş Şüpheli (1993) Komutan Chiswick rolünde Şeytan Okul Müdürü (1996-1998) Şeytan Okul Müdürü olarak Uzak Gölge (2000) Svit olarak Balık Masalları (2007) Profesör Ratcher rolünde Doctor Who (2010) Hawthorne rolünde Bay Turner (2014) Galeri Ziyaretçileri olarak Şeytan Okul Müdürü (2019) Şeytan Okul Müdürü olarak == Kaynakça == == Dış bağlantılar == IMDb'de Terrence Hardiman AllMovie'de Terrence Hardiman",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 264,
+      "char_count": 1848,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.422998",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 970,
+      "content": "Terrence Hardiman (6 Nisan 1937 – 8 Mayıs 2023), İngiliz aktördür. Sık sık otorite figürlerini, örneğin Nazi dönemi personelini (Gizli Ordu, Colditz, Bana Şans Dile ve Kapıdaki Düşman) ve bir İngiliz subayı (Tekne Geldiğinde) rollerinde oynamıştır. Diğer rolleri arasında bir polis müfettişi (Baş Şüpheli, Juliet Bravo ve Softly, Softly); bir doktor (Home to Roost ve The Royal); bir avukat (Crown Court ve The Brittas Empire); bir yargıç (Tasarı ve Mahkeme Salonu); bir on ikinci yüzyıl başrahibi (Cadfael); ve bir çocuk televizyon dizisi olan Şeytan Okul Müdürü'nde kötü bir müdür olarak yer almıştır. Ayrıca Richard Attenborough'nun yönettiği Gandhi'de başbakan Ramsay MacDonald'ı canlandırmıştır. Hardiman, Colin Dexter, Anne Perry ve Ruth Rendell'in dizileri de dahil olmak üzere yüzlerce sesli kitabı anlatmıştır. Hardiman'ın kâr amacı gütmeyen Calibre Audio Library için yaptığı gönüllü anlatım çalışması, ona 2013'te Gümüş Centurion hizmet ödülü kazandırmıştır.",
+      "char_count": 969,
+      "token_estimate": 242
+    },
+    {
+      "id": "c0001",
+      "section": "== Kişisel hayatı ve ölümü ==",
+      "heading_path": "== Kişisel hayatı ve ölümü ==",
+      "start_char": 970,
+      "end_char": 1099,
+      "content": "== Kişisel hayatı ve ölümü == Hardiman, Rowena Cooper ile evli ve iki çocuk babasıydı. Hardiman 8 Mayıs 2023'te 86 yaşında öldü.",
+      "char_count": 128,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0002",
+      "section": "== Seçilmiş filmografisi ==",
+      "heading_path": "== Seçilmiş filmografisi ==",
+      "start_char": 1099,
+      "end_char": 1756,
+      "content": "== Seçilmiş filmografisi == Running Scared (1972) Doktor rolünde Papa Joan (1972) Kardinal Anastasius olarak Boşluk Deliği (1981) David rolünde Sığınak (1981) Hermann Fegelein rolünde Gandhi (1982) Ramsay MacDonald rolünde Sahra (1983) Browne rolünde Mask of Murder (1985) Dr. Paul Crossland rolünde God's Outlaw (1986) Thomas Cromwell rolünde Baş Şüpheli (1993) Komutan Chiswick rolünde Şeytan Okul Müdürü (1996-1998) Şeytan Okul Müdürü olarak Uzak Gölge (2000) Svit olarak Balık Masalları (2007) Profesör Ratcher rolünde Doctor Who (2010) Hawthorne rolünde Bay Turner (2014) Galeri Ziyaretçileri olarak Şeytan Okul Müdürü (2019) Şeytan Okul Müdürü olarak",
+      "char_count": 656,
+      "token_estimate": 164
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1771,
+      "end_char": 1848,
+      "content": "== Dış bağlantılar == IMDb'de Terrence Hardiman AllMovie'de Terrence Hardiman",
+      "char_count": 77,
+      "token_estimate": 19
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Terrence Hardiman, Calibre Audio Library için yaptığı gönüllü anlatım çalışmasıyla hangi ödülü kazanmıştır?",
+        "answer": "Gümüş Centurion hizmet ödülü",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Terrence Hardiman'ın \"Şeytan Okul Müdürü\" karakterini canlandırması hangi yılları kapsamıştır ve bu durum onun bu role olan özel bağlantısını nasıl göstermektedir?",
+        "answer": "Terrence Hardiman, \"Şeytan Okul Müdürü\" karakterini 1996-1998 yılları arasında ve tekrar 2019'da canlandırmıştır. Bu uzun süreli ve aralıklı rol, onun kariyerinde bu kötü müdür karakteriyle güçlü bir özdeşleşme veya önemli bir bağlantı kurduğunu göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

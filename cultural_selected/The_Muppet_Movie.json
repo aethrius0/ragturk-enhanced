@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "themuppetmovie_f99ad979",
+    "title": "The Muppet Movie",
+    "url": "https://tr.wikipedia.org/wiki/The_Muppet_Movie",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:37.654034",
+    "content": "The Muppet Movie, Muppet'ların yanı Kermit gibi karakterlerin buluşup ve film yapmasını konu alan 1979 yapımı bir film. Henson Associates ve ITC Entertainment'in yapımcılığını üstlendiği film Muppet'ların ilk buluşmasını ve Hollywood'da film yapmasını anlatıyor. == Film müziği == \"The Rainbow Connection\" (3:14) \"Movin' Right Along\" (2:58) \"Never Before, Never Again!\" (vocal) (3:50) \"Never Before, Never Again!\" (instrumental) (3:58) \"I Hope That Somethin' Better Comes Along!\" (vocal) (3:58) \"Can You Picture That?\" (2:30) \"I Hope That Somethin' Better Comes Along!\" (instrumental) (2:29) \"I'm Going To Go Back There Someday\" (2:52) \"America the Beautiful\" (0:53) \"Animal...Come Back Animal\" (1:30) \"Finale: The Magic Store\" (5:16) == Konuk oyuncular == Charles Durning - Doc Hopper Austin Pendleton - Max Scott Walker - Kurbağa katili H.B. Haggerty - Lumberjack Bruce Kirby - Koruma Tommy Madden - Tek Gözlü Midget. James Frawley - Garson Steve Martin - Garson #2 Bob Hope - Dondurmacı Edgar Bergen - kendisi (Seslendirme-Charlie McCarthy) Milton Berle - Mad Man Mooney Mel Brooks - Profesör Max Krassman James Coburn - El Sleezo müdürü Dom DeLuise - Ajan Bernie Elliott Gould - Güzellik bölümü Madeline Kahn - El Sleezo Patron Carol Kane - Efsane (İsmi geçmiyor) Cloris Leachman - Lord'un serkteteri Richard Pryor - Balloon Vendor Telly Savalas - El Sleezo Tough Orson Welles - Lew Lord Paul Williams - El Sleezo Piyanisti Caroll Spinney - Büyük Kuş (ses) == Not listesi == == Kaynakça == == Dış bağlantılar == Resmî site Disney.com'da IMDb'de The Muppet Movie Muppet Wiki: The Muppet Movie 16 Temmuz 2007 tarihinde Wayback Machine sitesinde arşivlendi. Tough Pigs: The Muppet Movie from Script to Screen 23 Haziran 2007 tarihinde Wayback Machine sitesinde arşivlendi. TCM Movie Database'de The Muppet Movie Box Office Mojo'da The Muppet Movie Rotten Tomatoes'ta The Muppet Movie Metacritic'te The Muppet Movie",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 295,
+      "char_count": 1915,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.482246",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 263,
+      "content": "The Muppet Movie, Muppet'ların yanı Kermit gibi karakterlerin buluşup ve film yapmasını konu alan 1979 yapımı bir film. Henson Associates ve ITC Entertainment'in yapımcılığını üstlendiği film Muppet'ların ilk buluşmasını ve Hollywood'da film yapmasını anlatıyor.",
+      "char_count": 262,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0001",
+      "section": "== Film müziği ==",
+      "heading_path": "== Film müziği ==",
+      "start_char": 263,
+      "end_char": 735,
+      "content": "== Film müziği == \"The Rainbow Connection\" (3:14) \"Movin' Right Along\" (2:58) \"Never Before, Never Again!\" (vocal) (3:50) \"Never Before, Never Again!\" (instrumental) (3:58) \"I Hope That Somethin' Better Comes Along!\" (vocal) (3:58) \"Can You Picture That?\" (2:30) \"I Hope That Somethin' Better Comes Along!\" (instrumental) (2:29) \"I'm Going To Go Back There Someday\" (2:52) \"America the Beautiful\" (0:53) \"Animal...Come Back Animal\" (1:30) \"Finale: The Magic Store\" (5:16)",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0002",
+      "section": "== Konuk oyuncular ==",
+      "heading_path": "== Konuk oyuncular ==",
+      "start_char": 735,
+      "end_char": 1461,
+      "content": "== Konuk oyuncular == Charles Durning - Doc Hopper Austin Pendleton - Max Scott Walker - Kurbağa katili H.B. Haggerty - Lumberjack Bruce Kirby - Koruma Tommy Madden - Tek Gözlü Midget. James Frawley - Garson Steve Martin - Garson #2 Bob Hope - Dondurmacı Edgar Bergen - kendisi (Seslendirme-Charlie McCarthy) Milton Berle - Mad Man Mooney Mel Brooks - Profesör Max Krassman James Coburn - El Sleezo müdürü Dom DeLuise - Ajan Bernie Elliott Gould - Güzellik bölümü Madeline Kahn - El Sleezo Patron Carol Kane - Efsane (İsmi geçmiyor) Cloris Leachman - Lord'un serkteteri Richard Pryor - Balloon Vendor Telly Savalas - El Sleezo Tough Orson Welles - Lew Lord Paul Williams - El Sleezo Piyanisti Caroll Spinney - Büyük Kuş (ses)",
+      "char_count": 725,
+      "token_estimate": 181
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1494,
+      "end_char": 1915,
+      "content": "== Dış bağlantılar == Resmî site Disney.com'da IMDb'de The Muppet Movie Muppet Wiki: The Muppet Movie 16 Temmuz 2007 tarihinde Wayback Machine sitesinde arşivlendi. Tough Pigs: The Muppet Movie from Script to Screen 23 Haziran 2007 tarihinde Wayback Machine sitesinde arşivlendi. TCM Movie Database'de The Muppet Movie Box Office Mojo'da The Muppet Movie Rotten Tomatoes'ta The Muppet Movie Metacritic'te The Muppet Movie",
+      "char_count": 421,
+      "token_estimate": 105
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Doc Hopper rolünü kim canlandırdı?",
+        "answer": "Charles Durning",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "The Muppet Movie'nin prodüksiyonu, filmin ana konusu ve içeriğiyle ilişkili olarak hangi temel yaratıcı unsurları barındırmaktadır?",
+        "answer": "Muppet'ların buluşmasını ve Hollywood'da film yapmasını konu alan 1979 yapımı The Muppet Movie, 'The Rainbow Connection' gibi parçaların bulunduğu bir film müziği ve Charles Durning, Steve Martin, Bob Hope, Edgar Bergen, Milton Berle, Mel Brooks gibi çeşitli konuk oyuncuların performanslarını içermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

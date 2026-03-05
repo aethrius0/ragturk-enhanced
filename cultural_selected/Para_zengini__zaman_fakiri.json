@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "parazenginizamanfaki_83c1786f",
+    "title": "Para zengini, zaman fakiri",
+    "url": "https://tr.wikipedia.org/wiki/Para_zengini%2C_zaman_fakiri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:52.679933",
+    "content": "Para açısından zengin, zaman açısından fakir, iyi ücretli istihdam yoluyla yüksek harcanabilir gelire sahip olmalarına rağmen nispeten az boş zamana sahip olan insan gruplarını tanımlamak için kullanılan bir ifadedir. Zaman yoksulluğu da fenomen için bir isim olarak türetilmiştir. 20. yüzyılın sonunda İngiltere'de ortaya çıktı. Birçok insan zaman yoksulluğunu istihdamın gerekli bir koşulu olarak kabul eder; diğerleri, sorunu vites küçülterek veya esnek çalışma düzenlemelerini benimseyerek çözmeye çalıştı. Sorun, hem tazminatları iyi olsa bile uzun saatler boyunca çalışan maaşlı çalışanları hem de daha fazla para kazanmak için uzun saatler çalışan düşük ücretli saatlik çalışanları etkiliyor. \"Para zengini, zamanı kısıtlı\" fikri , İnsan Hakları Evrensel Beyannamesi'nin 24. Maddesinde yer alan, insanın dinlenme ve boş zaman hakkına yansımaktadır. Pazarlama araştırmacıları Kenhove ve De Wulf, manavdan alışveriş yapanların dört bölüme ayrılabileceğini öne sürmüşlerdir: 'Para açısından fakir, zaman açısından zengin', 'para açısından fakir, zaman açısından fakir', 'para açısından zengin, zaman açısından zengin' ve 'para açısından zengin, zaman açısından fakir'. Analizleri, bu grupların satın alma alışkanlıklarını etkileyen davranış ve tutumlarda önemli farklılıklar olduğunu göstermektedir. == Popüler kültürde == Alman yazar Michael Ende'nin fantastik romanı Momo, bu konuyu zaman ve modern toplumda kullanımı açısından ele aldı. == Ayrıca bakınız == Affluenza sekiz saatlik gün dört günlük hafta altı saatlik gün Yavaş hareket (kültür) İş yaşam dengesi işkolik == Kaynakça == == Dış bağlantılar == GatesNotes 2016 Yıllık Mektubu 14 Mart 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 228,
+      "char_count": 1704,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.381175",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Para açısından zengin, zaman açısından fakir, iyi ücretli istihdam yoluyla yüksek harcanabilir gelire sahip olmalarına rağmen nispeten az boş zamana sahip olan insan gruplarını tanımlamak için kullanılan bir ifadedir. Zaman yoksulluğu da fenomen için bir isim olarak türetilmiştir. 20. yüzyılın sonunda İngiltere'de ortaya çıktı. Birçok insan zaman yoksulluğunu istihdamın gerekli bir koşulu olarak kabul eder; diğerleri, sorunu vites küçülterek veya esnek çalışma düzenlemelerini benimseyerek çözmeye çalıştı. Sorun, hem tazminatları iyi olsa bile uzun saatler boyunca çalışan maaşlı çalışanları hem de daha fazla para kazanmak için uzun saatler çalışan düşük ücretli saatlik çalışanları etkiliyor. \"Para zengini, zamanı kısıtlı\" fikri , İnsan Hakları Evrensel Beyannamesi'nin 24. Maddesinde yer alan, insanın dinlenme ve boş zaman hakkına yansımaktadır. Pazarlama araştırmacıları Kenhove ve De Wulf, manavdan alışveriş yapanların dört bölüme ayrılabileceğini öne sürmüşlerdir: 'Para açısından fakir",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1303,
+      "content": "n, insanın dinlenme ve boş zaman hakkına yansımaktadır. Pazarlama araştırmacıları Kenhove ve De Wulf, manavdan alışveriş yapanların dört bölüme ayrılabileceğini öne sürmüşlerdir: 'Para açısından fakir, zaman açısından zengin', 'para açısından fakir, zaman açısından fakir', 'para açısından zengin, zaman açısından zengin' ve 'para açısından zengin, zaman açısından fakir'. Analizleri, bu grupların satın alma alışkanlıklarını etkileyen davranış ve tutumlarda önemli farklılıklar olduğunu göstermektedir.",
+      "char_count": 503,
+      "token_estimate": 125
+    },
+    {
+      "id": "c0002",
+      "section": "== Popüler kültürde ==",
+      "heading_path": "== Popüler kültürde ==",
+      "start_char": 1304,
+      "end_char": 1444,
+      "content": "== Popüler kültürde == Alman yazar Michael Ende'nin fantastik romanı Momo, bu konuyu zaman ve modern toplumda kullanımı açısından ele aldı.",
+      "char_count": 139,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1444,
+      "end_char": 1576,
+      "content": "== Ayrıca bakınız == Affluenza sekiz saatlik gün dört günlük hafta altı saatlik gün Yavaş hareket (kültür) İş yaşam dengesi işkolik",
+      "char_count": 131,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1591,
+      "end_char": 1704,
+      "content": "== Dış bağlantılar == GatesNotes 2016 Yıllık Mektubu 14 Mart 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 113,
+      "token_estimate": 28
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Para açısından zengin, zaman açısından fakir ifadesi ilk olarak nerede ortaya çıkmıştır?",
+        "answer": "20. yüzyılın sonunda İngiltere'de ortaya çıkmıştır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Pazarlama araştırmacıları Kenhove ve De Wulf, manavdan alışveriş yapanları para ve zaman durumlarına göre hangi dört ana kategoriye ayırmışlardır ve bu gruplar arasındaki farklılıkların sonuçları nelerdir?",
+        "answer": "Kenhove ve De Wulf, manavdan alışveriş yapanları 'para açısından fakir, zaman açısından zengin', 'para açısından fakir, zaman açısından fakir', 'para açısından zengin, zaman açısından zengin' ve 'para açısından zengin, zaman açısından fakir' olmak üzere dört kategoriye ayırmışlardır. Analizleri, bu grupların satın alma alışkanlıklarını etkileyen davranış ve tutumlarında önemli farklılıklar olduğunu göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

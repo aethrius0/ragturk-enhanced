@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "kokurakita_24e930b9",
+    "title": "Kokurakita",
+    "url": "https://tr.wikipedia.org/wiki/Kokurakita",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:41:24.653626",
+    "content": "Kokurakita (Japonca: 小倉北区, romanize: Kokurakita-ku), Japonya'nın Kitakyushu kentinin yedi semtinden biridir. Semt, kentin ortasında yer almaktadır. Yüzölçümü 39,23 km² olan semtin nüfusu 2019 yılı itibarı ile 182.560'tır. == Ekonomi == Kitakyūshū'nun en büyük ticari ve alışveriş alanları, çoğunlukla Uomachi'de (魚 町 \"balık kasabası\"), Kokura İstasyonu çevresinde kümelenmiştir. Buradaki ana mağaza Colet (Kokura İstasyonu'nun yanında) ve Izutsuya'dır (Murasaki Nehri'nin yanında ve Kitakyūshū Nehri'nin karşısında). Tanga Pazarı, taze balık, et ve sebzelerin satış için ana ürün olduğu geleneksel bir açık hava pazarıdır. TOTO Ltd. - Riverwalk'un güneyinde Zenrin - Riverwalk bölgesinde Asahi Shimbun (Batı bölgesi) - Riverwalk'da StarFlyer Inc.'in merkezi önceden Kome-machi'deki Shin Kokura binasındaydı. Havayolu şirketi 2010 yılında genel merkezin Kitakyushu Havalimanı'na taşınacağını duyurdu. == Turizm == Kokura Kalesi (1602'de Hosokawa ailesi tarafından inşa edilmiş) ve Riverwalk Kitakyūshū alışveriş kompleksi (2003'te tamamlandı) JR Kokura İstasyonu'na yaklaşık 10 dakikalık yürüme mesafesindedir. Aynı zamanda bir zamanlar Mori Ōgai'nin Kokura garnizonunun doktorluğunu yaptığı ve Kokura Nikki (\"Kokura Günlüğü\") adlı eserini yazdığı ev de yakınlardadır. Kitakyūshū Monoray terminali Kokura İstasyonundadır ve Kokurakita ve Kokuraminami semtlerinde yaşayan yolcu ve sakinlere hizmet vermektedir. == Suç ve güvenlik == Kudo-kai yakuza karteli merkezi Kokurakita'dadır. Özel bir yakuza grubu olan Kudo-kai, Kitakyushu bölgesindeki en büyük yakuza kartelidir. == Ulaşım == Kyushu Railway Company'nin Kokura İstasyonu, Kitakyushu'nun ana demiryolu merkezidir ve Sanyō Shinkansen de orada durmaktadır. == Galeri == == Kaynakça == == Dış bağlantılar == Resmî site Matsumoto Seicho Anıt Müzesi 2 Ocak 2020 tarihinde Wayback Machine sitesinde arşivlendi. - Kokura Şatosu yakınında Riverwalk Kitakyushu (Japonca) Uomachi Alışveriş Merkezi 2 Ocak 2020 tarihinde Wayback Machine sitesinde arşivlendi. (Japonca, kısmen İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 261,
+      "char_count": 2030,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.587524",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 222,
+      "content": "Kokurakita (Japonca: 小倉北区, romanize: Kokurakita-ku), Japonya'nın Kitakyushu kentinin yedi semtinden biridir. Semt, kentin ortasında yer almaktadır. Yüzölçümü 39,23 km² olan semtin nüfusu 2019 yılı itibarı ile 182.560'tır.",
+      "char_count": 221,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0001",
+      "section": "== Ekonomi ==",
+      "heading_path": "== Ekonomi ==",
+      "start_char": 222,
+      "end_char": 900,
+      "content": "== Ekonomi == Kitakyūshū'nun en büyük ticari ve alışveriş alanları, çoğunlukla Uomachi'de (魚 町 \"balık kasabası\"), Kokura İstasyonu çevresinde kümelenmiştir. Buradaki ana mağaza Colet (Kokura İstasyonu'nun yanında) ve Izutsuya'dır (Murasaki Nehri'nin yanında ve Kitakyūshū Nehri'nin karşısında). Tanga Pazarı, taze balık, et ve sebzelerin satış için ana ürün olduğu geleneksel bir açık hava pazarıdır. TOTO Ltd. - Riverwalk'un güneyinde Zenrin - Riverwalk bölgesinde Asahi Shimbun (Batı bölgesi) - Riverwalk'da StarFlyer Inc.'in merkezi önceden Kome-machi'deki Shin Kokura binasındaydı. Havayolu şirketi 2010 yılında genel merkezin Kitakyushu Havalimanı'na taşınacağını duyurdu.",
+      "char_count": 677,
+      "token_estimate": 169
+    },
+    {
+      "id": "c0002",
+      "section": "== Turizm ==",
+      "heading_path": "== Turizm ==",
+      "start_char": 900,
+      "end_char": 1409,
+      "content": "== Turizm == Kokura Kalesi (1602'de Hosokawa ailesi tarafından inşa edilmiş) ve Riverwalk Kitakyūshū alışveriş kompleksi (2003'te tamamlandı) JR Kokura İstasyonu'na yaklaşık 10 dakikalık yürüme mesafesindedir. Aynı zamanda bir zamanlar Mori Ōgai'nin Kokura garnizonunun doktorluğunu yaptığı ve Kokura Nikki (\"Kokura Günlüğü\") adlı eserini yazdığı ev de yakınlardadır. Kitakyūshū Monoray terminali Kokura İstasyonundadır ve Kokurakita ve Kokuraminami semtlerinde yaşayan yolcu ve sakinlere hizmet vermektedir.",
+      "char_count": 508,
+      "token_estimate": 127
+    },
+    {
+      "id": "c0003",
+      "section": "== Suç ve güvenlik ==",
+      "heading_path": "== Suç ve güvenlik ==",
+      "start_char": 1409,
+      "end_char": 1570,
+      "content": "== Suç ve güvenlik == Kudo-kai yakuza karteli merkezi Kokurakita'dadır. Özel bir yakuza grubu olan Kudo-kai, Kitakyushu bölgesindeki en büyük yakuza kartelidir.",
+      "char_count": 160,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0004",
+      "section": "== Ulaşım ==",
+      "heading_path": "== Ulaşım ==",
+      "start_char": 1570,
+      "end_char": 1710,
+      "content": "== Ulaşım == Kyushu Railway Company'nin Kokura İstasyonu, Kitakyushu'nun ana demiryolu merkezidir ve Sanyō Shinkansen de orada durmaktadır.",
+      "char_count": 139,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1738,
+      "end_char": 2030,
+      "content": "== Dış bağlantılar == Resmî site Matsumoto Seicho Anıt Müzesi 2 Ocak 2020 tarihinde Wayback Machine sitesinde arşivlendi. - Kokura Şatosu yakınında Riverwalk Kitakyushu (Japonca) Uomachi Alışveriş Merkezi 2 Ocak 2020 tarihinde Wayback Machine sitesinde arşivlendi. (Japonca, kısmen İngilizce)",
+      "char_count": 292,
+      "token_estimate": 73
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kitakyūshū'nun en büyük ticari ve alışveriş alanları ağırlıklı olarak nerede bulunmaktadır?",
+        "answer": "Kitakyūshū'nun en büyük ticari ve alışveriş alanları, çoğunlukla Uomachi'de, Kokura İstasyonu çevresinde kümelenmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Kokurakita semtindeki Kokura İstasyonu, hem ticari hem de turizm faaliyetleri açısından nasıl merkezi bir rol oynamaktadır?",
+        "answer": "Kokura İstasyonu, Kitakyūshū'nun en büyük ticari ve alışveriş alanlarının (Uomachi gibi) çevresinde kümelenmesi ve ana mağazaların (Colet gibi) yanında bulunmasıyla ticari bir merkezdir. Turizm açısından ise, Kokura Kalesi ve Riverwalk Kitakyūshū alışveriş kompleksine yaklaşık 10 dakikalık yürüme mesafesinde yer almakta ve Kitakyūshū Monoray terminali olarak Kokurakita ve Kokuraminami semtlerine hizmet vermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

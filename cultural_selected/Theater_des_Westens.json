@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "theaterdeswestens_8a15cd50",
+    "title": "Theater des Westens",
+    "url": "https://tr.wikipedia.org/wiki/Theater_des_Westens",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:56:44.597781",
+    "content": "Theater des Westens Berlin'in en çok tanılan müzikal tiyatrosu ve operet sahnesi. Charlottenburg-Wilmersdorf'un Charlottenburg semtinde (City West) bulunan yapı Kantstraße üzerindedir. Tiyatronun adının Türkçe karşılığı Batı'nın tiyatrosudur. == Tarihi == Tiyatro 1895/1896 arası wilhelmizm historizm stilinde Bernhard Sehring tarafından inşa edildi. İlk başlarda tiyatro'nun işletmecisi Theater des Westens GmbH'ydı, bu işletmecinin sahibler Bernhard Sehring ve Paul Blumenreich idi. Theater des Westens açılışını 1 Ekim 1896'da Holger Drachmann'ın Tausend und eine Nacht (Binbir gece) masal tiyatrosu ile açtı. İstenilen başarı elde edilimiyince yapı 1898'de opera ve 1908'den sonra operet olarak kullanıldı. 25 Ağustos 1912'de çıkan bir yangında bina bir hasar aldı ama bu hasar sonraki seneler giderildi. 1922'den itibaren yine iki sene yapı opera olarak kullanıldı. 1935'te tiyatro Nazi'lerin ideolojik Kraft durch Freude program'ı ile Ludwig van Beethoven'in Fidelio opera eseri ile açıldı. Ondan sonraki seneler yapı Volksoper (Halk operası) veya Ley-Haus olarak da anılmaya başlandı. 1944 yılında opera kapatıldı ve İkinci Dünya Savaşı sırasında atılan bombalar sonucu büyük bir hasar gördü, özellikle fuaye bölümü, çatı ve yönetim bölümü. İzleyici bölümündeki çatı 1945 yılında yeniden yapıldı ve 1950'de fuaye bölümü basit bir şekilde onarıldı. 1945'ten sonra bina yeniden opera olarak kullanılmaya başlandı, bunun nedeni ise Bismarckstraße üzerinde bulunan Deutsche Oper'nın savaş sırasında gördüğü hasarlardan dolayı yıkılmasıydı. Theater des Westens'in yeni adı Deutsches Opernhaus olarak kondu ve 4 Kasım 1945 yılında savaştan sonra Berlin'de ilk defa bir opera galası yapıldı. Aynı 1935'teki gibi bu sefer de açılış Ludwig van Beethoven'in Fidelio opera eseri ile açıldı. 1961'de Bismarckstraße'deki yeni opera evinin açılmasıyla Theater des Westens'deki opera mensupları Bismarckstraße'deki opera evine taşındı. O zamandan sonra Theater des Westens özellikle müzikal tiyatrosu ve operet sahnesi olarak kullanılmaya başlandı. Açılış 1 Ekim 1961'de Frederick Loewes'in My Fair Lady eseri ile açıldı. 1962'de bina modernleştirildi ve bina'nın yapısı değiştirildi, 1978'de izleyici bölümü yeniden gösterişli bir şekilde Sehring'in orijinal planlarındaki gibi onarıldı ve aynı yıl Karl Vibach evin yönetimini aldı. 1980'lerde bina tekrar restore edilip modernleştirildi. 1984'te Götz Friedrich bina'nın müdürü oldu. O dönemlerde en çok yankı bulan müzikal'ler Guys and Dolls ve La Cage aux Folles müzikalleri oldu. 1996 yılında tiyatro'nun yüzüncü kuruluş yıldönümü kutlandı. Sonraki seneler Theater des Westens daha çok maddi anlamda kayıplara uğradı. Berlin senatosu bu yük'den kurtulmak için bina'nın özelleştirilmesine karar verdi. 2002/2003 senesinde böylece Theater des Westens Stage Entertainment'in yönetimine geçti. == Dış bağlantılar == Website des Theaters10 Şubat 2005 tarihinde Wayback Machine sitesinde arşivlendi. Artikel und Fotostrecke auf berlin.de Projektindex Theater des Westens22 Ekim 2013 tarihinde Wayback Machine sitesinde arşivlendi., Architekturmuseum TU-Berlin Privatarchiv zum Theater",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 414,
+      "char_count": 3124,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.535274",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 243,
+      "content": "Theater des Westens Berlin'in en çok tanılan müzikal tiyatrosu ve operet sahnesi. Charlottenburg-Wilmersdorf'un Charlottenburg semtinde (City West) bulunan yapı Kantstraße üzerindedir. Tiyatronun adının Türkçe karşılığı Batı'nın tiyatrosudur.",
+      "char_count": 242,
+      "token_estimate": 60
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 243,
+      "end_char": 1243,
+      "content": "== Tarihi == Tiyatro 1895/1896 arası wilhelmizm historizm stilinde Bernhard Sehring tarafından inşa edildi. İlk başlarda tiyatro'nun işletmecisi Theater des Westens GmbH'ydı, bu işletmecinin sahibler Bernhard Sehring ve Paul Blumenreich idi. Theater des Westens açılışını 1 Ekim 1896'da Holger Drachmann'ın Tausend und eine Nacht (Binbir gece) masal tiyatrosu ile açtı. İstenilen başarı elde edilimiyince yapı 1898'de opera ve 1908'den sonra operet olarak kullanıldı. 25 Ağustos 1912'de çıkan bir yangında bina bir hasar aldı ama bu hasar sonraki seneler giderildi. 1922'den itibaren yine iki sene yapı opera olarak kullanıldı. 1935'te tiyatro Nazi'lerin ideolojik Kraft durch Freude program'ı ile Ludwig van Beethoven'in Fidelio opera eseri ile açıldı. Ondan sonraki seneler yapı Volksoper (Halk operası) veya Ley-Haus olarak da anılmaya başlandı. 1944 yılında opera kapatıldı ve İkinci Dünya Savaşı sırasında atılan bombalar sonucu büyük bir hasar gördü, özellikle fuaye bölümü, çatı ve yönetim böl",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1043,
+      "end_char": 2043,
+      "content": "rası) veya Ley-Haus olarak da anılmaya başlandı. 1944 yılında opera kapatıldı ve İkinci Dünya Savaşı sırasında atılan bombalar sonucu büyük bir hasar gördü, özellikle fuaye bölümü, çatı ve yönetim bölümü. İzleyici bölümündeki çatı 1945 yılında yeniden yapıldı ve 1950'de fuaye bölümü basit bir şekilde onarıldı. 1945'ten sonra bina yeniden opera olarak kullanılmaya başlandı, bunun nedeni ise Bismarckstraße üzerinde bulunan Deutsche Oper'nın savaş sırasında gördüğü hasarlardan dolayı yıkılmasıydı. Theater des Westens'in yeni adı Deutsches Opernhaus olarak kondu ve 4 Kasım 1945 yılında savaştan sonra Berlin'de ilk defa bir opera galası yapıldı. Aynı 1935'teki gibi bu sefer de açılış Ludwig van Beethoven'in Fidelio opera eseri ile açıldı. 1961'de Bismarckstraße'deki yeni opera evinin açılmasıyla Theater des Westens'deki opera mensupları Bismarckstraße'deki opera evine taşındı. O zamandan sonra Theater des Westens özellikle müzikal tiyatrosu ve operet sahnesi olarak kullanılmaya başlandı. Aç",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 1843,
+      "end_char": 2835,
+      "content": "a Theater des Westens'deki opera mensupları Bismarckstraße'deki opera evine taşındı. O zamandan sonra Theater des Westens özellikle müzikal tiyatrosu ve operet sahnesi olarak kullanılmaya başlandı. Açılış 1 Ekim 1961'de Frederick Loewes'in My Fair Lady eseri ile açıldı. 1962'de bina modernleştirildi ve bina'nın yapısı değiştirildi, 1978'de izleyici bölümü yeniden gösterişli bir şekilde Sehring'in orijinal planlarındaki gibi onarıldı ve aynı yıl Karl Vibach evin yönetimini aldı. 1980'lerde bina tekrar restore edilip modernleştirildi. 1984'te Götz Friedrich bina'nın müdürü oldu. O dönemlerde en çok yankı bulan müzikal'ler Guys and Dolls ve La Cage aux Folles müzikalleri oldu. 1996 yılında tiyatro'nun yüzüncü kuruluş yıldönümü kutlandı. Sonraki seneler Theater des Westens daha çok maddi anlamda kayıplara uğradı. Berlin senatosu bu yük'den kurtulmak için bina'nın özelleştirilmesine karar verdi. 2002/2003 senesinde böylece Theater des Westens Stage Entertainment'in yönetimine geçti.",
+      "char_count": 992,
+      "token_estimate": 248
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2836,
+      "end_char": 3124,
+      "content": "== Dış bağlantılar == Website des Theaters10 Şubat 2005 tarihinde Wayback Machine sitesinde arşivlendi. Artikel und Fotostrecke auf berlin.de Projektindex Theater des Westens22 Ekim 2013 tarihinde Wayback Machine sitesinde arşivlendi., Architekturmuseum TU-Berlin Privatarchiv zum Theater",
+      "char_count": 288,
+      "token_estimate": 72
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Theater des Westens, Holger Drachmann'ın hangi masal tiyatrosu ile açılışını yapmıştır?",
+        "answer": "Tausend und eine Nacht (Binbir gece)",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Theater des Westens'ın kullanım amacı ve adı zaman içinde nasıl bir değişim göstermiş ve bu değişimlere hangi önemli olaylar yol açmıştır?",
+        "answer": "Theater des Westens, 1896'da bir masal tiyatrosu olarak açıldıktan sonra istenilen başarı elde edilemeyince 1898'den itibaren opera ve 1908'den sonra operet olarak kullanılmaya başlandı. 1935'te Nazi'lerin \"Kraft durch Freude\" programı ile opera olarak faaliyet gösterdi ve Volksoper veya Ley-Haus gibi isimlerle anıldı. İkinci Dünya Savaşı sırasında 1944'te büyük hasar gördükten sonra, Bismarckstraße'deki Deutsche Oper'ın yıkılması nedeniyle 1945'ten itibaren \"Deutsches Opernhaus\" adıyla Berlin'in ana opera evi olarak yeniden hizmet verdi. Ancak 1961'de yeni opera binasının açılmasıyla opera mensupları buraya taşındı ve o zamandan beri yapı, Berlin'in en tanınan müzikal tiyatrosu ve operet sahnesi olarak özelikle bu alanda kullanılmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

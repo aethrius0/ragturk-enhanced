@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "floridbulekov_5b07160a",
+    "title": "Florid Bulekov",
+    "url": "https://tr.wikipedia.org/wiki/Florid_Bulekov",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:26.683893",
+    "content": "Florid Bulekov (Başkurtça: Флорид Миңлемулла (Миңнулла) улы Бүләков) - Başkurt oyun yazarı. Başkurdistan Cumhuriyeti Halk Yazarı ve Başkurdistan Cumhuriyeti Emektar Sanat İşçisidir. Edebiyat ve sanat alanında Rusya Federasyonu Devlet Ödülü'nü ve Salavat Yulaev Başkurdistan Cumhuriyeti Devlet Ödülü'nü almıştır. == Biyografisi == Ordudan döndükten sonra, 1969-1973 yıllarında \"Erveya\" halk dansları topluluğunun organizatörlüğünü ve müzik direktörlüğünü yapmıştır. Ayrıca Birsk Pedagoji Enstitüsü'nde yazışma yoluyla eğitim görmüştür. 1973'ten 1989'a kadar edebiyat işçisi, bölüm başkanı, Mişkin bölgesel gazetesi \"Drujba\" muhabiri, ardından cumhuriyet gazeteleri olan Leninets ve Sovyet Başkurdistan'da çalışmıştır. Yirmiden fazla oyunun ve ilk Başkurt dizisinin yazarıdır. Onun \"Unutulmuş Dua\" dramı, \"Yaramaz Kız\" trajedisi, \"Büyükanneler evleniyor\" halk komedisi \"Şaimuratov-General\" ve \"Sevginin Kaydı\" oyunları çok popülerdir. İlk Başkurt rock operasının proje yazarıdır. Oyunları Rusya, Ukrayna, Kazakistan, Belarus, Moğolistan, Türkmenistan (Yekaterinburg, Vladimir, Irkutsk, Habarovsk, Kirov, Penza, Kazan, Nijni Novgorod, Mahaçkale, Çerkessk, Yakutsk, Ulan-Ude, Ufa, Almatı, Astana, Brest, Babruysk, Tambov, vb.) gibi ülkelerin tiyatro sahnelerinde oynanmıştır. \"Yıldız olmak istiyorum\", \"Dope\", \"Ötenazi\", \"Paris\" filmlerinin senaristidir. == Bazı dram eserleri == \"Güllelenmiş ilhı\" (trajedi, 1984) \"Büyükanneler evleniyor\" (halk komedisi, 1990) \"Seviyor musun? Sevmiyor musun?\" (dram, 1991) \"Kalk, benim Tulpar'ım!\" (Oyna) \"Sevginin Kaydı\" (dram, 1993) \"Unutulmuş Dua\" (1994) \"Gülden Kadın\" (tragifars, 1995) Şaymuratov-General (Dram, 1998) \"Bibinur, ah, Bibinur!\" (trajikomedi) == Ödülleri == 1994 yılında Sterlitamak Tiyatro Derneği'nde sergilendiği haliyle \"Unutulmuş Dua\" oyunu Salavat Yulaev Cumhuriyet Ödülü'ne (İrina Filippova ve Güldar İlyasova ile birlikte) layık görülmüştür. 1995'te M.M. Gafuri Başkurt Devlet Akademik Drama Tiyatrosu'nun sergilediği haliyle \"Bibinur, ah, Bibinur\" oyunu tiyatro sanatları alanında 1995 yılı Rusya Federasyonu Devlet Ödülü'ne layık görülmüştür. == Kaynakça == == Kaynak == Статья в Башкортостан: краткая энциклопедия Статья в Башкирской энциклопедии 5 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. Некоторые пьесы 16 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 282,
+      "char_count": 2345,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.392336",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 312,
+      "content": "Florid Bulekov (Başkurtça: Флорид Миңлемулла (Миңнулла) улы Бүләков) - Başkurt oyun yazarı. Başkurdistan Cumhuriyeti Halk Yazarı ve Başkurdistan Cumhuriyeti Emektar Sanat İşçisidir. Edebiyat ve sanat alanında Rusya Federasyonu Devlet Ödülü'nü ve Salavat Yulaev Başkurdistan Cumhuriyeti Devlet Ödülü'nü almıştır.",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografisi ==",
+      "heading_path": "== Biyografisi ==",
+      "start_char": 312,
+      "end_char": 1312,
+      "content": "== Biyografisi == Ordudan döndükten sonra, 1969-1973 yıllarında \"Erveya\" halk dansları topluluğunun organizatörlüğünü ve müzik direktörlüğünü yapmıştır. Ayrıca Birsk Pedagoji Enstitüsü'nde yazışma yoluyla eğitim görmüştür. 1973'ten 1989'a kadar edebiyat işçisi, bölüm başkanı, Mişkin bölgesel gazetesi \"Drujba\" muhabiri, ardından cumhuriyet gazeteleri olan Leninets ve Sovyet Başkurdistan'da çalışmıştır. Yirmiden fazla oyunun ve ilk Başkurt dizisinin yazarıdır. Onun \"Unutulmuş Dua\" dramı, \"Yaramaz Kız\" trajedisi, \"Büyükanneler evleniyor\" halk komedisi \"Şaimuratov-General\" ve \"Sevginin Kaydı\" oyunları çok popülerdir. İlk Başkurt rock operasının proje yazarıdır. Oyunları Rusya, Ukrayna, Kazakistan, Belarus, Moğolistan, Türkmenistan (Yekaterinburg, Vladimir, Irkutsk, Habarovsk, Kirov, Penza, Kazan, Nijni Novgorod, Mahaçkale, Çerkessk, Yakutsk, Ulan-Ude, Ufa, Almatı, Astana, Brest, Babruysk, Tambov, vb.) gibi ülkelerin tiyatro sahnelerinde oynanmıştır. \"Yıldız olmak istiyorum\", \"Dope\", \"Ötena",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Biyografisi ==",
+      "heading_path": "== Biyografisi ==",
+      "start_char": 1112,
+      "end_char": 1350,
+      "content": "an, Nijni Novgorod, Mahaçkale, Çerkessk, Yakutsk, Ulan-Ude, Ufa, Almatı, Astana, Brest, Babruysk, Tambov, vb.) gibi ülkelerin tiyatro sahnelerinde oynanmıştır. \"Yıldız olmak istiyorum\", \"Dope\", \"Ötenazi\", \"Paris\" filmlerinin senaristidir.",
+      "char_count": 238,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0003",
+      "section": "== Bazı dram eserleri ==",
+      "heading_path": "== Bazı dram eserleri ==",
+      "start_char": 1351,
+      "end_char": 1692,
+      "content": "== Bazı dram eserleri == \"Güllelenmiş ilhı\" (trajedi, 1984) \"Büyükanneler evleniyor\" (halk komedisi, 1990) \"Seviyor musun? Sevmiyor musun?\" (dram, 1991) \"Kalk, benim Tulpar'ım!\" (Oyna) \"Sevginin Kaydı\" (dram, 1993) \"Unutulmuş Dua\" (1994) \"Gülden Kadın\" (tragifars, 1995) Şaymuratov-General (Dram, 1998) \"Bibinur, ah, Bibinur!\" (trajikomedi)",
+      "char_count": 340,
+      "token_estimate": 85
+    },
+    {
+      "id": "c0004",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1692,
+      "end_char": 2102,
+      "content": "== Ödülleri == 1994 yılında Sterlitamak Tiyatro Derneği'nde sergilendiği haliyle \"Unutulmuş Dua\" oyunu Salavat Yulaev Cumhuriyet Ödülü'ne (İrina Filippova ve Güldar İlyasova ile birlikte) layık görülmüştür. 1995'te M.M. Gafuri Başkurt Devlet Akademik Drama Tiyatrosu'nun sergilediği haliyle \"Bibinur, ah, Bibinur\" oyunu tiyatro sanatları alanında 1995 yılı Rusya Federasyonu Devlet Ödülü'ne layık görülmüştür.",
+      "char_count": 409,
+      "token_estimate": 102
+    },
+    {
+      "id": "c0005",
+      "section": "== Kaynak ==",
+      "heading_path": "== Kaynak ==",
+      "start_char": 2117,
+      "end_char": 2345,
+      "content": "== Kaynak == Статья в Башкортостан: краткая энциклопедия Статья в Башкирской энциклопедии 5 Mart 2016 tarihinde Wayback Machine sitesinde arşivlendi. Некоторые пьесы 16 Temmuz 2021 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 228,
+      "token_estimate": 57
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1969-1973 yılları arasında halk dansları topluluğunun organizatörlüğünü ve müzik direktörlüğünü yaptığı topluluğun adı neydi?",
+        "answer": "\"Erveya\"",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Florid Bulekov'un çok sayıda oyun yazarı olarak kariyeri ve eserlerinin uluslararası tiyatro sahnelerinde oynanması, onun Başkurdistan Cumhuriyeti Halk Yazarı gibi unvanlar almasında ve Rusya Federasyonu Devlet Ödülü'ne layık görülmesinde nasıl bir rol oynamıştır?",
+        "answer": "Ordudan döndükten sonra edebiyat işçisi ve gazeteci olarak çalışması, yirmiden fazla oyun ve ilk Başkurt dizisini yazması, hatta ilk Başkurt rock operasının proje yazarı olması gibi çok yönlü ve üretken kariyeri sayesinde, eserleri Rusya dahil birçok ülkenin tiyatro sahnelerinde sergilenmiş ve bu da onun Başkurdistan Cumhuriyeti Halk Yazarı, Emektar Sanat İşçisi gibi unvanlar ile Rusya Federasyonu Devlet Ödülü ve Salavat Yulaev Başkurdistan Cumhuriyeti Devlet Ödülü gibi prestijli ödüllerle onurlandırılmasını sağlamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "antonovairlines_d1286e19",
+    "title": "Antonov Airlines",
+    "url": "https://tr.wikipedia.org/wiki/Antonov_Airlines",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:23:48.568965",
+    "content": "Antonov Airlines, Ukraynalı havacılık şirketi Antonov'un bir alt firması olarak havayolu kargo taşımacılığı alanında hizmet veren bir firmadır. Hub olarak Kiev'de bulunan Hostomel Havalimanını kullanmakta olup büyük boyutlu kargo pazarında uluslararası hizmet vermektedir. == Tarihçe == Antonov Airlines 1989 Antonov An-124 Ruslan kargo uçaklarının pazarlanmasının yapılması amacıyla Air Foyle ile ortaklaşa kurulmuştur.Bu ortaklık 2006 haziran ayına kadar devam ettikten sonra sonlandırılmıştır. 2006 yılında Rus kargo taşımacılık firması Volga-Dnepr Havayolları ile ortaklaşa Ruslan International firmasını kurmuştur. Kurulan bu firma dünyanın en büyük kargo uçağı olan Antonov An-225'unda bulunduğu toplam 17 adet kargo uçağı ile hizmet vermektedir. 2017 yılında Londra Stansted Havalimanı'nda bir ofis açmış ve buraya ilk uçuşunu aynı yılın şubat ayında Antonov An-124 Ruslan ile gerçekleştirmiştir. === Önemli operasyonlar === Tashtakumska Hidroelektrik Santrali için Kharkiv'den Taşkent'e 88 tonluk bir su türbini; Ermenistan'ın Spitak kentindeki depremin sonrası inşaat araçları; Basra Körfezi krizinde maden temizleme buldozerleri, mobil elektrik istasyonları, özel maden ve petrol temizleme tekneleri, insani yardımları; Düsseldorf'dan Delhi'ye 135,2 tonluk bir Siemens jeneratör, Birleşmiş Milletler öncülüğünde Irak'ın silahsızlandırılması programı kapsamında, Habaniya'dan Yekaterinburg'a özel konteynerlerde nükleer yakıt, Ontario'dan Dublin'e 102 tonluk bir lokomotif; Doncaster Sheffield Airport'tan Lahor kentine 70 tonluk bir jeneratör, Frankfurt'tan Erivan'a 187.6 tonluk bir elektrik santrali jeneratörü, Fukushima I Nükleer Santrali'ne yardımcı olmak için Atlanta Hartsfield Havaalanı'ndan Japonya'ya 95 tonluk bir Putzmeister beton pompası teslimatı, Münih'ten Chengdu'ya iki adet Max Bögl TSB Maglev treninin teslimatı. == Filo == Antonov Havayolları filosuna ait uçaklar aşağıda tabloda listelenmiştir. (Ağustos 2016 itibarıyla): == Kaynakça == == Dış bağlantılar == Antonov Havayolları 11 Aralık 2021 tarihinde Wayback Machine sitesinde arşivlendi. Antonov Airlines İngiltere 4 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 268,
+      "char_count": 2162,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.859784",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 273,
+      "content": "Antonov Airlines, Ukraynalı havacılık şirketi Antonov'un bir alt firması olarak havayolu kargo taşımacılığı alanında hizmet veren bir firmadır. Hub olarak Kiev'de bulunan Hostomel Havalimanını kullanmakta olup büyük boyutlu kargo pazarında uluslararası hizmet vermektedir.",
+      "char_count": 272,
+      "token_estimate": 68
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 273,
+      "end_char": 904,
+      "content": "== Tarihçe == Antonov Airlines 1989 Antonov An-124 Ruslan kargo uçaklarının pazarlanmasının yapılması amacıyla Air Foyle ile ortaklaşa kurulmuştur.Bu ortaklık 2006 haziran ayına kadar devam ettikten sonra sonlandırılmıştır. 2006 yılında Rus kargo taşımacılık firması Volga-Dnepr Havayolları ile ortaklaşa Ruslan International firmasını kurmuştur. Kurulan bu firma dünyanın en büyük kargo uçağı olan Antonov An-225'unda bulunduğu toplam 17 adet kargo uçağı ile hizmet vermektedir. 2017 yılında Londra Stansted Havalimanı'nda bir ofis açmış ve buraya ilk uçuşunu aynı yılın şubat ayında Antonov An-124 Ruslan ile gerçekleştirmiştir.",
+      "char_count": 630,
+      "token_estimate": 157
+    },
+    {
+      "id": "c0002",
+      "section": "=== Önemli operasyonlar ===",
+      "heading_path": "=== Önemli operasyonlar ===",
+      "start_char": 904,
+      "end_char": 1842,
+      "content": "=== Önemli operasyonlar === Tashtakumska Hidroelektrik Santrali için Kharkiv'den Taşkent'e 88 tonluk bir su türbini; Ermenistan'ın Spitak kentindeki depremin sonrası inşaat araçları; Basra Körfezi krizinde maden temizleme buldozerleri, mobil elektrik istasyonları, özel maden ve petrol temizleme tekneleri, insani yardımları; Düsseldorf'dan Delhi'ye 135,2 tonluk bir Siemens jeneratör, Birleşmiş Milletler öncülüğünde Irak'ın silahsızlandırılması programı kapsamında, Habaniya'dan Yekaterinburg'a özel konteynerlerde nükleer yakıt, Ontario'dan Dublin'e 102 tonluk bir lokomotif; Doncaster Sheffield Airport'tan Lahor kentine 70 tonluk bir jeneratör, Frankfurt'tan Erivan'a 187.6 tonluk bir elektrik santrali jeneratörü, Fukushima I Nükleer Santrali'ne yardımcı olmak için Atlanta Hartsfield Havaalanı'ndan Japonya'ya 95 tonluk bir Putzmeister beton pompası teslimatı, Münih'ten Chengdu'ya iki adet Max Bögl TSB Maglev treninin teslimatı.",
+      "char_count": 937,
+      "token_estimate": 234
+    },
+    {
+      "id": "c0003",
+      "section": "== Filo ==",
+      "heading_path": "== Filo ==",
+      "start_char": 1842,
+      "end_char": 1953,
+      "content": "== Filo == Antonov Havayolları filosuna ait uçaklar aşağıda tabloda listelenmiştir. (Ağustos 2016 itibarıyla):",
+      "char_count": 110,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1968,
+      "end_char": 2162,
+      "content": "== Dış bağlantılar == Antonov Havayolları 11 Aralık 2021 tarihinde Wayback Machine sitesinde arşivlendi. Antonov Airlines İngiltere 4 Ağustos 2020 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 194,
+      "token_estimate": 48
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Fukushima I Nükleer Santrali'ne yardımcı olmak amacıyla Japonya'ya Atlanta Hartsfield Havaalanı'ndan kaç tonluk bir Putzmeister beton pompası teslim edilmiştir?",
+        "answer": "95 tonluk bir Putzmeister beton pompası teslim edilmiştir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Antonov Airlines'ın büyük boyutlu kargo taşımacılığındaki uluslararası rolü, kuruluşundan itibaren sahip olduğu ortaklıklar ve gerçekleştirdiği önemli operasyonlarla nasıl desteklenmektedir?",
+        "answer": "Antonov Airlines, Ukraynalı Antonov şirketinin bir alt firması olarak uluslararası büyük boyutlu kargo pazarında hizmet vermektedir. Bu rolü, geçmişte An-124 Ruslan uçaklarının pazarlanması için 1989'da Air Foyle ile başlayan ve 2006'da Rus kargo firması Volga-Dnepr Havayolları ile Ruslan International'ın kurulmasıyla devam eden ortaklıklarla güçlenmiştir. Bu ortaklıklar sayesinde dünyanın en büyük kargo uçağı olan Antonov An-225 dahil toplam 17 uçaklık bir filoyla hizmet vererek, Tashtakumska Hidroelektrik Santrali için 88 tonluk su türbini, Ermenistan'daki deprem sonrası inşaat araçları, Basra Körfezi krizinde insani yardımlar, Düsseldorf'dan Delhi'ye 135,2 tonluk Siemens jeneratör ve Frankfurt'tan Erivan'a 187,6 tonluk elektrik santrali jeneratörü gibi dünya genelindeki birçok kayda değer operasyonu başarıyla gerçekleştirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

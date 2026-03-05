@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "newyorkeyaletindecov_c08fb9bc",
+    "title": "New York eyaletinde COVID-19 pandemisi",
+    "url": "https://tr.wikipedia.org/wiki/New_York_eyaletinde_COVID-19_pandemisi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:14.449308",
+    "content": "New York'taki 2020 koronavirüs salgını, dünya çapında devam eden COVID-19 (Korona Virüsü-2019) salgınının bir parçasıdır. New York'taki ilk COVID-19 vakası 1 Mart 2020'de doğrulandı. (23 Mart 2020 (2020-03-23) itibarıyla), New York eyaletinde 25.665 teşhis edilen vaka olmuştur, ve teşhis edilen vakalardan 157 kişi ölmüştür. New York, Amerika Birleşik Devletleri'nde en büyük vaka sayısına sahiptir ve ikinci en fazla onaylanmış vaka sayısına sahip eyalet olan Washington'dan on kat daha fazla vakaya sahiptir. Eyalette bilinen ulusal vakaların yüzde 50'sinden fazlası ülkedeki toplam vakaların ise yaklaşık yüzde 30'u New York'ta. == Zaman çizelgesi == Şablon:2019–20 coronavirus pandemic data/United States/New York State medical cases chart 1 Mart'ta, Manhattan'da yaşayan 39 yaşında sağlık bakım görevlisi olan bir kadında ilk COVID-19 vakası görüldü. 25 Şubat'ta İran'dan döndü ve o sırada hiçbir semptomu yoktu. Kocasıyla birlikte ev izolasyonuna gitti. 3 Mart'ta, 50'li yaşlarında, New York şehrinin hemen kuzeyindeki Westchester County, New Rochelle'de yaşayan ve Midtown Manhattan'da çalışan bir avukatta ikinci bir dava doğrulandı. Şubat ayında Miami'ye gitti ve düzenli olarak İsrail'i ziyaret etti, ancak koronavirüsün yaygın olarak bulaştığı bilinen alanları ziyaret etmedi. Dört çocuğundan ikisi son zamanlarda İsrail'den döndü. 27 Şubat'ta Westchester'daki bir hastaneye yatırıldı ve zatürre teşhisi kondu ve grip için negatif test ettikten sonra izolasyondan serbest bırakıldı. Bu vaka onaylandıktan sonra New York'ta panik satın alma vakaları bildirildi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 216,
+      "char_count": 1587,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.643156",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 633,
+      "content": "New York'taki 2020 koronavirüs salgını, dünya çapında devam eden COVID-19 (Korona Virüsü-2019) salgınının bir parçasıdır. New York'taki ilk COVID-19 vakası 1 Mart 2020'de doğrulandı. (23 Mart 2020 (2020-03-23) itibarıyla), New York eyaletinde 25.665 teşhis edilen vaka olmuştur, ve teşhis edilen vakalardan 157 kişi ölmüştür. New York, Amerika Birleşik Devletleri'nde en büyük vaka sayısına sahiptir ve ikinci en fazla onaylanmış vaka sayısına sahip eyalet olan Washington'dan on kat daha fazla vakaya sahiptir. Eyalette bilinen ulusal vakaların yüzde 50'sinden fazlası ülkedeki toplam vakaların ise yaklaşık yüzde 30'u New York'ta.",
+      "char_count": 632,
+      "token_estimate": 158
+    },
+    {
+      "id": "c0001",
+      "section": "== Zaman çizelgesi ==",
+      "heading_path": "== Zaman çizelgesi ==",
+      "start_char": 633,
+      "end_char": 1573,
+      "content": "== Zaman çizelgesi == Şablon:2019–20 coronavirus pandemic data/United States/New York State medical cases chart 1 Mart'ta, Manhattan'da yaşayan 39 yaşında sağlık bakım görevlisi olan bir kadında ilk COVID-19 vakası görüldü. 25 Şubat'ta İran'dan döndü ve o sırada hiçbir semptomu yoktu. Kocasıyla birlikte ev izolasyonuna gitti. 3 Mart'ta, 50'li yaşlarında, New York şehrinin hemen kuzeyindeki Westchester County, New Rochelle'de yaşayan ve Midtown Manhattan'da çalışan bir avukatta ikinci bir dava doğrulandı. Şubat ayında Miami'ye gitti ve düzenli olarak İsrail'i ziyaret etti, ancak koronavirüsün yaygın olarak bulaştığı bilinen alanları ziyaret etmedi. Dört çocuğundan ikisi son zamanlarda İsrail'den döndü. 27 Şubat'ta Westchester'daki bir hastaneye yatırıldı ve zatürre teşhisi kondu ve grip için negatif test ettikten sonra izolasyondan serbest bırakıldı. Bu vaka onaylandıktan sonra New York'ta panik satın alma vakaları bildirildi.",
+      "char_count": 939,
+      "token_estimate": 234
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Manhattan'da yaşayan 39 yaşındaki sağlık bakım görevlisinde ilk COVID-19 vakası ne zaman görüldü?",
+        "answer": "1 Mart'ta",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "New York'ta ilk COVID-19 vakalarının uluslararası seyahatle bağlantısı neydi ve bu ilk doğrulamaların ardından halkın tepkisi ne oldu?",
+        "answer": "New York'taki ilk COVID-19 vakası 1 Mart 2020'de doğrulanan ve 25 Şubat'ta İran'dan dönen 39 yaşındaki bir sağlık bakım görevlisiydi. 3 Mart'ta doğrulanan ikinci vaka ise Şubat ayında Miami'ye seyahat eden ve düzenli olarak İsrail'i ziyaret eden 50'li yaşlarında bir avukattı. Bu ikinci vaka onaylandıktan sonra New York'ta panik satın alma vakaları bildirildi.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

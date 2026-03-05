@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "rumerwillis_02dbddf7",
+    "title": "Rumer Willis",
+    "url": "https://tr.wikipedia.org/wiki/Rumer_Willis",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:33.935660",
+    "content": "Rumer Glenn Willis (d. 16 Ağustos 1988) Amerikalı bir oyuncu. Oyuncu Bruce Willis ve oyuncu Demi Moore'un en büyük kızıdır. Hostage (2005), The House Bunny (2008), Sorority Row (2009) ve Once Upon a Time in Hollywood (2019) filmlerinde rol aldı. CBS'nin gençlik dizisi 90210'da (2009–10) Gia Mannetti'yi ve FOX'un müzikal drama dizisi Empire'da (2017–18) Tory Ash'i canlandırdı. Willis, ABC'nin dans yarışması televizyon dizisi Dancing with the Stars'ın 20. sezonunu kazandı. Broadway çıkışını 21 Eylül 2015'te Chicago'da Roxie Hart olarak yaptı == İlk yılları == Rumer Glenn Willis, 16 Ağustos 1988'de Kentucky, Paducah'daki Western Baptist Hastanesinde babası Bruce Willis In Country'yi çekerken dünyaya geldi Adını yazar Rumer Godden'dan almıştır. Annesi aktris Demi Moore, doğumunu videoya kaydetmesi için bir kameraman tuttu. Scout LaRue Willis (1991 doğumlu) ve Tallulah Belle Willis (1994 doğumlu) adında iki küçük kız kardeşi ve babasının model Emma Heming ile olan evliliğinden, Nisan 2012 ve Mayıs 2014 doğumlu iki küçük üvey kız kardeşi vardır. Hailey, Idaho'da büyüyen Willis, Michigan, Interlochen'deki Interlochen Sanat Akademisi'ne birinci sınıf öğrencisi olarak kaydoldu. Ocak 2004'te California, Los Angeles'taki Wildwood Secondary School'a ikinci sınıf öğrencisi olarak kaydoldu. Ayrılmadan önce Güney Kaliforniya Üniversitesi'ne bir dönem devam etti. === Diğer girişimleri === Page Six, Prestige ve Us Weekly gibi birçok derginin kapağında ve Vanity Fair, Harper's Bazaar ve The Sunday Times için resim yazılarında yer aldı. 2008'de Willis, giyim markası Ocean Pacific'in sözcüsü rolünü üstlendi. == Özel hayatı == 2022'den beri Willis, şarkıcı Derek Richard Thomas ile ilişki içindedir. 20 Aralık 2022'de Willis ilk çocuğuna hamile olduğunu açıkladı. 18 Nisan 2023'te bir kız çocuğu dünyaya getirdi. == Filmografi == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 265,
+      "char_count": 1851,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.638341",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 546,
+      "content": "Rumer Glenn Willis (d. 16 Ağustos 1988) Amerikalı bir oyuncu. Oyuncu Bruce Willis ve oyuncu Demi Moore'un en büyük kızıdır. Hostage (2005), The House Bunny (2008), Sorority Row (2009) ve Once Upon a Time in Hollywood (2019) filmlerinde rol aldı. CBS'nin gençlik dizisi 90210'da (2009–10) Gia Mannetti'yi ve FOX'un müzikal drama dizisi Empire'da (2017–18) Tory Ash'i canlandırdı. Willis, ABC'nin dans yarışması televizyon dizisi Dancing with the Stars'ın 20. sezonunu kazandı. Broadway çıkışını 21 Eylül 2015'te Chicago'da Roxie Hart olarak yaptı",
+      "char_count": 545,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0001",
+      "section": "== İlk yılları ==",
+      "heading_path": "== İlk yılları ==",
+      "start_char": 546,
+      "end_char": 1370,
+      "content": "== İlk yılları == Rumer Glenn Willis, 16 Ağustos 1988'de Kentucky, Paducah'daki Western Baptist Hastanesinde babası Bruce Willis In Country'yi çekerken dünyaya geldi Adını yazar Rumer Godden'dan almıştır. Annesi aktris Demi Moore, doğumunu videoya kaydetmesi için bir kameraman tuttu. Scout LaRue Willis (1991 doğumlu) ve Tallulah Belle Willis (1994 doğumlu) adında iki küçük kız kardeşi ve babasının model Emma Heming ile olan evliliğinden, Nisan 2012 ve Mayıs 2014 doğumlu iki küçük üvey kız kardeşi vardır. Hailey, Idaho'da büyüyen Willis, Michigan, Interlochen'deki Interlochen Sanat Akademisi'ne birinci sınıf öğrencisi olarak kaydoldu. Ocak 2004'te California, Los Angeles'taki Wildwood Secondary School'a ikinci sınıf öğrencisi olarak kaydoldu. Ayrılmadan önce Güney Kaliforniya Üniversitesi'ne bir dönem devam etti.",
+      "char_count": 823,
+      "token_estimate": 205
+    },
+    {
+      "id": "c0002",
+      "section": "=== Diğer girişimleri ===",
+      "heading_path": "=== Diğer girişimleri ===",
+      "start_char": 1370,
+      "end_char": 1616,
+      "content": "=== Diğer girişimleri === Page Six, Prestige ve Us Weekly gibi birçok derginin kapağında ve Vanity Fair, Harper's Bazaar ve The Sunday Times için resim yazılarında yer aldı. 2008'de Willis, giyim markası Ocean Pacific'in sözcüsü rolünü üstlendi.",
+      "char_count": 245,
+      "token_estimate": 61
+    },
+    {
+      "id": "c0003",
+      "section": "== Özel hayatı ==",
+      "heading_path": "== Özel hayatı ==",
+      "start_char": 1616,
+      "end_char": 1820,
+      "content": "== Özel hayatı == 2022'den beri Willis, şarkıcı Derek Richard Thomas ile ilişki içindedir. 20 Aralık 2022'de Willis ilk çocuğuna hamile olduğunu açıkladı. 18 Nisan 2023'te bir kız çocuğu dünyaya getirdi.",
+      "char_count": 203,
+      "token_estimate": 50
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rumer Glenn Willis ne zaman doğmuştur?",
+        "answer": "16 Ağustos 1988",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Rumer Glenn Willis'ın aktör olan ebeveynlerinin kim olduğu ve bu durumun onun doğum koşulları ile kariyer yolculuğunu nasıl etkilediği parçalarda nasıl açıklanmaktadır?",
+        "answer": "Rumer Glenn Willis'ın ebeveynleri, her ikisi de oyuncu olan Bruce Willis ve Demi Moore'dur. Doğumu, babası Bruce Willis'in 'In Country' filmini çekerken Kentucky'de gerçekleşmiş, annesi Demi Moore ise doğumu videoya kaydetmesi için bir kameraman tutmuştur. Willis, ebeveynleri gibi Hostage, The House Bunny, Sorority Row ve Once Upon a Time in Hollywood gibi filmlerde rol almış, ayrıca 90210, Empire gibi dizilerde yer almış, Dancing with the Stars'ı kazanmış ve Broadway'de sahne alarak kendi oyunculuk kariyerini geliştirmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

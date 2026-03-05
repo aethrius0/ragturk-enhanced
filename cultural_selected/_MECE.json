@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "mece_da23f78a",
+    "title": "İMECE",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0MECE",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:15.602436",
+    "content": "İMECE , TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü (TÜBİTAK UZAY) tarafından tasarlanıp geliştirilen ve yüksek çözünürlüklü görüntü sağlamak üzere Türkiye'de üretilen bir yer gözlem uydusudur . == Proje == İMECE Uydu Sistemleri Altyapı Projesi, Kalkınma Bakanlığı'nın 2013 yılı yatırım programına alınmıştır. BİLSAT-1, RASAT ve Göktürk-2 deneyimleriyle, yatırım programı destekli \"IMECE Uydu Alt Sistemleri Geliştirme Projesi\" başlatıldı. Bu proje, submetre sınıfı hassas çözünürlüğe sahip elektro-optik uydu kameraları ve haberleşme sistemlerinde kullanılabilen uydu alt sistemlerinin yerli geliştirme altyapısını oluşturmak amacını taşımaktadır. Proje, yüksek çözünürlüklü görüntüleme uydularında yıldız izleyici, güneş sensörü, elektrikli itme sistemi, yük veri kaydı sıkıştırma biçimlendirme ünitesi ve yeni nesil uçuş bilgisayarı geliştirmeyi hedeflemektedir. Ayrıca bunları ekonomik değere dönüştürmeyi amaçlamaktadır. Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) tarafından desteklenen İMECE Uydu Projesi, Ocak 2017'de başlamıştır. Haziran 2020'de uzay aracının termal yapısal verimlilik modülünün montaj entegrasyon faaliyetleri tamamlanmış ve uzay aracında titreşim testleri başlamıştır. Bu testleri uçuş modülünün montaj faaliyetleri izlemiştir. Uydu, Transporter-7 görevinin bir parçası olarak SpaceX'in Falcon 9 Blok 5 roketiyle 15 Nisan 2023'te fırlatılmıştır. == Özellikler == Uzay aracı, TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü (TÜBİTAK UZAY) tarafından üretilmiştir. Türk Havacılık ve Uzay Sanayii (TUSAŞ)'nin Ankara Kahramankazan'daki tesisinde sistem seviyesi testleri gerçekleştirilmiştir. Beş yıl süreli bir görev için planlanan uydu, 800 kg (1.800 lb) ağırlığında olup güneş eşzamanlı yermerkezli yörüngede 680 km (420 mil) yükseklikte bulunacaktır. Tek karede 13,9 km × 16,2 km (8,6 mil × 10,1 mil) görüntü alanına sahip olacak ve Pankromatik (PAN): 0,99 m (3 ft 3 in), Çok Spektral (MSI): 3,96 m (13,0 ft) görüntü çözünürlüğüne sahip olacaktır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 255,
+      "char_count": 2006,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.194923",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 198,
+      "content": "İMECE , TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü (TÜBİTAK UZAY) tarafından tasarlanıp geliştirilen ve yüksek çözünürlüklü görüntü sağlamak üzere Türkiye'de üretilen bir yer gözlem uydusudur .",
+      "char_count": 197,
+      "token_estimate": 49
+    },
+    {
+      "id": "c0001",
+      "section": "== Proje ==",
+      "heading_path": "== Proje ==",
+      "start_char": 198,
+      "end_char": 1198,
+      "content": "== Proje == İMECE Uydu Sistemleri Altyapı Projesi, Kalkınma Bakanlığı'nın 2013 yılı yatırım programına alınmıştır. BİLSAT-1, RASAT ve Göktürk-2 deneyimleriyle, yatırım programı destekli \"IMECE Uydu Alt Sistemleri Geliştirme Projesi\" başlatıldı. Bu proje, submetre sınıfı hassas çözünürlüğe sahip elektro-optik uydu kameraları ve haberleşme sistemlerinde kullanılabilen uydu alt sistemlerinin yerli geliştirme altyapısını oluşturmak amacını taşımaktadır. Proje, yüksek çözünürlüklü görüntüleme uydularında yıldız izleyici, güneş sensörü, elektrikli itme sistemi, yük veri kaydı sıkıştırma biçimlendirme ünitesi ve yeni nesil uçuş bilgisayarı geliştirmeyi hedeflemektedir. Ayrıca bunları ekonomik değere dönüştürmeyi amaçlamaktadır. Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) tarafından desteklenen İMECE Uydu Projesi, Ocak 2017'de başlamıştır. Haziran 2020'de uzay aracının termal yapısal verimlilik modülünün montaj entegrasyon faaliyetleri tamamlanmış ve uzay aracında titreşim testle",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Proje ==",
+      "heading_path": "== Proje ==",
+      "start_char": 998,
+      "end_char": 1390,
+      "content": "desteklenen İMECE Uydu Projesi, Ocak 2017'de başlamıştır. Haziran 2020'de uzay aracının termal yapısal verimlilik modülünün montaj entegrasyon faaliyetleri tamamlanmış ve uzay aracında titreşim testleri başlamıştır. Bu testleri uçuş modülünün montaj faaliyetleri izlemiştir. Uydu, Transporter-7 görevinin bir parçası olarak SpaceX'in Falcon 9 Blok 5 roketiyle 15 Nisan 2023'te fırlatılmıştır.",
+      "char_count": 392,
+      "token_estimate": 98
+    },
+    {
+      "id": "c0003",
+      "section": "== Özellikler ==",
+      "heading_path": "== Özellikler ==",
+      "start_char": 1391,
+      "end_char": 1992,
+      "content": "== Özellikler == Uzay aracı, TÜBİTAK Uzay Teknolojileri Araştırma Enstitüsü (TÜBİTAK UZAY) tarafından üretilmiştir. Türk Havacılık ve Uzay Sanayii (TUSAŞ)'nin Ankara Kahramankazan'daki tesisinde sistem seviyesi testleri gerçekleştirilmiştir. Beş yıl süreli bir görev için planlanan uydu, 800 kg (1.800 lb) ağırlığında olup güneş eşzamanlı yermerkezli yörüngede 680 km (420 mil) yükseklikte bulunacaktır. Tek karede 13,9 km × 16,2 km (8,6 mil × 10,1 mil) görüntü alanına sahip olacak ve Pankromatik (PAN): 0,99 m (3 ft 3 in), Çok Spektral (MSI): 3,96 m (13,0 ft) görüntü çözünürlüğüne sahip olacaktır.",
+      "char_count": 600,
+      "token_estimate": 150
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Türkiye Bilimsel ve Teknolojik Araştırma Kurumu (TÜBİTAK) tarafından desteklenen İMECE Uydu Projesi ne zaman başlamıştır?",
+        "answer": "Ocak 2017'de.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İMECE uydusunun başlıca amacı nedir ve bu uydunun yerli geliştirme altyapısını oluşturmayı hedefleyen proje hangi ana alanlara odaklanmıştır?",
+        "answer": "İMECE uydusu yüksek çözünürlüklü görüntü sağlamak üzere tasarlanmış bir yer gözlem uydusudur. Bu uydunun yerli geliştirme altyapısını oluşturmayı hedefleyen proje, submetre sınıfı hassas çözünürlüğe sahip elektro-optik uydu kameraları ve haberleşme sistemlerinde kullanılabilen uydu alt sistemlerinin yerli geliştirilmesine odaklanmaktadır. Ayrıca yıldız izleyici, güneş sensörü, elektrikli itme sistemi, yük veri kaydı sıkıştırma biçimlendirme ünitesi ve yeni nesil uçuş bilgisayarı gibi yüksek çözünürlüklü görüntüleme uydusu bileşenlerini geliştirmeyi amaçlamaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

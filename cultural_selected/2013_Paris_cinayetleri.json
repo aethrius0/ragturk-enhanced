@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "2013pariscinayetleri_7cecb4c7",
+    "title": "2013 Paris cinayetleri",
+    "url": "https://tr.wikipedia.org/wiki/2013_Paris_cinayetleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:19:55.223603",
+    "content": "2013 Paris cinayetleri, 9 Ocak 2013 tarihinde Fransa'nın başkenti Paris'te, Fidan Doğan, Leyla Söylemez ve Sakine Cansız'ın öldürülmesi olayıdır. == Fidan Doğan == Fidan Doğan (17 Ocak 1982, Kahramanmaraş - 9 Ocak 2013, Paris), Kürdistan Ulusal Kongresi (KNK) Paris Temsilcisi'dir. 9 Ocak 2013'te, Leyla Şaylemez ve Sakine Cansız ile birlikte Paris, Fransa'da Gare du Nord tren istasyonu yakınlarında bulunan örgüte Kürdistan Enformasyon Bürosu'nda susturuculu silahla başından vurularak öldürüldü. Fransız polisi suikast ardından iki zanlıdan biri olan PKK üyesi Ömer Güney'i tutuklayıp mahkemeye göndereceğini açıkladı. Tutuklama ardından KCK Yürütme Konseyi Başkanı Murat Karayılan, Ömer Güney'in PKK üyesi sayılamayacağını, sadece Avrupa'daki Kürt derneklerinden birine üye olduğunu açıklayıp, suikastin arkasında NATO'nun, Türkiye Hükûmeti'nin ve Yeşil Ergenekon'un olduğunu iddia etmiştir. Doğan için Fransa'da ve Türkiye'de herhangi bir adli sicil kaydına rastlanmamıştır, Interpol tarafından da aranmamaktaydı. == Leyla Şaylemez == Leyla Şaylemez (1 Ocak 1988, Mersin - 9 Ocak 2013, Paris), Ronahi kod adlı PKK üyesidir. Türkiye'de Leyla Şaylemez hakkında \"örgüt üyeliği\" suçlamasıyla gıyabi tutuklama kararı vardı ancak Şaylemez sadece Türkiye'de aranıyordu. Hakkında Interpol aracılığıyla kırmızı bülten yoktu. 9 Ocak 2013'te, Fidan Doğan ve Sakine Cansız ile birlikte Paris, Fransa'da Gare du Nord tren istasyonu yakınlarında bulunan örgüte Kürdistan Enformasyon Bürosu'nda susturuculu silahla başından vurularak öldürüldü. Fransız polisi suikast ardından iki zanlıdan biri olan Ömer Güney'i tutuklayıp mahkemeye göndereceğini açıkladı. Tutuklama ardından KCK Yürütme Konseyi Başkanı Murat Karayılan, Ömer Güney'in Avrupa'daki Kürt derneklerinden birine üye olduğunu açıklayıp, suikastin arkasında NATO'nun, Türkiye Hükûmeti'nin ve Yeşil Ergenekon'un olduğunu iddia etmiştir. == Sakine Cansız == 9 Ocak 2013'te, Kürdistan Ulusal Kongresi (KNK) Paris temsilcisi iken Paris, Fransa'da Gare du Nord tren istasyonu yakınlarında bulunan örgüte Kürdistan Enformasyon Bürosu'nda susturuculu silahla başından vurularak öldürüldü. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 278,
+      "char_count": 2147,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:42.758056",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 146,
+      "content": "2013 Paris cinayetleri, 9 Ocak 2013 tarihinde Fransa'nın başkenti Paris'te, Fidan Doğan, Leyla Söylemez ve Sakine Cansız'ın öldürülmesi olayıdır.",
+      "char_count": 145,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0001",
+      "section": "== Fidan Doğan ==",
+      "heading_path": "== Fidan Doğan ==",
+      "start_char": 146,
+      "end_char": 1019,
+      "content": "== Fidan Doğan == Fidan Doğan (17 Ocak 1982, Kahramanmaraş - 9 Ocak 2013, Paris), Kürdistan Ulusal Kongresi (KNK) Paris Temsilcisi'dir. 9 Ocak 2013'te, Leyla Şaylemez ve Sakine Cansız ile birlikte Paris, Fransa'da Gare du Nord tren istasyonu yakınlarında bulunan örgüte Kürdistan Enformasyon Bürosu'nda susturuculu silahla başından vurularak öldürüldü. Fransız polisi suikast ardından iki zanlıdan biri olan PKK üyesi Ömer Güney'i tutuklayıp mahkemeye göndereceğini açıkladı. Tutuklama ardından KCK Yürütme Konseyi Başkanı Murat Karayılan, Ömer Güney'in PKK üyesi sayılamayacağını, sadece Avrupa'daki Kürt derneklerinden birine üye olduğunu açıklayıp, suikastin arkasında NATO'nun, Türkiye Hükûmeti'nin ve Yeşil Ergenekon'un olduğunu iddia etmiştir. Doğan için Fransa'da ve Türkiye'de herhangi bir adli sicil kaydına rastlanmamıştır, Interpol tarafından da aranmamaktaydı.",
+      "char_count": 872,
+      "token_estimate": 218
+    },
+    {
+      "id": "c0002",
+      "section": "== Leyla Şaylemez ==",
+      "heading_path": "== Leyla Şaylemez ==",
+      "start_char": 1019,
+      "end_char": 1887,
+      "content": "== Leyla Şaylemez == Leyla Şaylemez (1 Ocak 1988, Mersin - 9 Ocak 2013, Paris), Ronahi kod adlı PKK üyesidir. Türkiye'de Leyla Şaylemez hakkında \"örgüt üyeliği\" suçlamasıyla gıyabi tutuklama kararı vardı ancak Şaylemez sadece Türkiye'de aranıyordu. Hakkında Interpol aracılığıyla kırmızı bülten yoktu. 9 Ocak 2013'te, Fidan Doğan ve Sakine Cansız ile birlikte Paris, Fransa'da Gare du Nord tren istasyonu yakınlarında bulunan örgüte Kürdistan Enformasyon Bürosu'nda susturuculu silahla başından vurularak öldürüldü. Fransız polisi suikast ardından iki zanlıdan biri olan Ömer Güney'i tutuklayıp mahkemeye göndereceğini açıkladı. Tutuklama ardından KCK Yürütme Konseyi Başkanı Murat Karayılan, Ömer Güney'in Avrupa'daki Kürt derneklerinden birine üye olduğunu açıklayıp, suikastin arkasında NATO'nun, Türkiye Hükûmeti'nin ve Yeşil Ergenekon'un olduğunu iddia etmiştir.",
+      "char_count": 867,
+      "token_estimate": 216
+    },
+    {
+      "id": "c0003",
+      "section": "== Sakine Cansız ==",
+      "heading_path": "== Sakine Cansız ==",
+      "start_char": 1887,
+      "end_char": 2133,
+      "content": "== Sakine Cansız == 9 Ocak 2013'te, Kürdistan Ulusal Kongresi (KNK) Paris temsilcisi iken Paris, Fransa'da Gare du Nord tren istasyonu yakınlarında bulunan örgüte Kürdistan Enformasyon Bürosu'nda susturuculu silahla başından vurularak öldürüldü.",
+      "char_count": 245,
+      "token_estimate": 61
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Fidan Doğan ne zaman ve nerede öldürüldü?",
+        "answer": "Fidan Doğan, 9 Ocak 2013'te Paris, Fransa'da Gare du Nord tren istasyonu yakınlarında bulunan Kürdistan Enformasyon Bürosu'nda öldürüldü.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "2013 Paris cinayetlerinde öldürülen Fidan Doğan ve Leyla Şaylemez'in ölümlerinin gerçekleşme şekli ve cinayetlerin ardından şüpheli Ömer Güney hakkında yapılan açıklamalar açısından hangi ortak noktalar bulunmaktadır?",
+        "answer": "Fidan Doğan ve Leyla Şaylemez, 9 Ocak 2013 tarihinde Paris, Fransa'da, Gare du Nord tren istasyonu yakınlarında bulunan Kürdistan Enformasyon Bürosu'nda susturuculu silahla başlarından vurularak öldürülmüşlerdir. Fransız polisi her iki cinayet için de Ömer Güney'i zanlı olarak tutuklayacağını açıklamıştır. Ayrıca, KCK Yürütme Konseyi Başkanı Murat Karayılan, Ömer Güney'in PKK üyesi sayılamayacağını belirtmiş ve suikastin arkasında NATO'nun, Türkiye Hükûmeti'nin ve Yeşil Ergenekon'un olduğunu iddia etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "bethfowler_dcbd2bc3",
+    "title": "Beth Fowler",
+    "url": "https://tr.wikipedia.org/wiki/Beth_Fowler",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:19.045948",
+    "content": "Elizabeth Fowler ya da Beth Fowler (d. 1 Kasım 1940, Jersey City, New Jersey), Amerikalı oyuncu ve şarkıcı. == Yaşamı ve kariyeri == Fowler, 1 Kasım 1940'ta kökleri çok eski İngiliz asıllı bir ailenin kızı olarak Jersey City, New Jersey'de doğdu. Caldwell Üniversitesi'nde müzik öğretmenliği eğitimi aldı. 1970'te oyunculuğa başladı. En çok; Komedi Dizilerinde \"Toplulukla Beraber Gösterilen En İyi Performans\" dalında Ekran Oyuncuları Derneği Ödülü'nü kazandığı TV dizisi Rahibe Ingalls rolünde olduğu Orange Is the New Black ve sinema filmi Deborah rolünde olduğu yönetmenliğini Keith Boynton'un üstlendiği The Winter House adlı yapımlarla akıllarda kalmıştır. Yer aldığı diğer bazı önemli yapımlar arasında; Gantry, A Little Night Music, 1600 Pennsylvania Avenue, Peter Pan, Baby, Take Me Along, Teddy & Alice, Sweeney Todd, Beauty and the Beast, Bells Are Ringing, The Boy from Oz, Sister Act, Sister Act 2: Back in the Habit, Friends & Family, Did You Hear About the Morgans?, I Don't Know How She Does It, Mulan, Law & Order, Law & Order: Criminal Intent, Ed ve Gossip Girl sayılabilir. Aynı zamanda başarılı oyunculuk kariyeriyle iki defa Tony Ödülü'ne ve bir kezde Drama Desk Ödülü'ne aday gösterildi. == Özel yaşamı == Fowler, 1976 yılından bu yana Jack Witham ile evli ve iki çocuk sahibidir. Günümüzde New Milford, New Jersey'de ikamet etmektedir. == Filmografi == == Kaynakça == == Dış bağlantılar == IMDb'de Beth Fowler IBDB'de Beth Fowler. Internet Off-Broadway Database'de Beth Fowler",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 232,
+      "char_count": 1499,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.368475",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 108,
+      "content": "Elizabeth Fowler ya da Beth Fowler (d. 1 Kasım 1940, Jersey City, New Jersey), Amerikalı oyuncu ve şarkıcı.",
+      "char_count": 107,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 108,
+      "end_char": 1108,
+      "content": "== Yaşamı ve kariyeri == Fowler, 1 Kasım 1940'ta kökleri çok eski İngiliz asıllı bir ailenin kızı olarak Jersey City, New Jersey'de doğdu. Caldwell Üniversitesi'nde müzik öğretmenliği eğitimi aldı. 1970'te oyunculuğa başladı. En çok; Komedi Dizilerinde \"Toplulukla Beraber Gösterilen En İyi Performans\" dalında Ekran Oyuncuları Derneği Ödülü'nü kazandığı TV dizisi Rahibe Ingalls rolünde olduğu Orange Is the New Black ve sinema filmi Deborah rolünde olduğu yönetmenliğini Keith Boynton'un üstlendiği The Winter House adlı yapımlarla akıllarda kalmıştır. Yer aldığı diğer bazı önemli yapımlar arasında; Gantry, A Little Night Music, 1600 Pennsylvania Avenue, Peter Pan, Baby, Take Me Along, Teddy & Alice, Sweeney Todd, Beauty and the Beast, Bells Are Ringing, The Boy from Oz, Sister Act, Sister Act 2: Back in the Habit, Friends & Family, Did You Hear About the Morgans?, I Don't Know How She Does It, Mulan, Law & Order, Law & Order: Criminal Intent, Ed ve Gossip Girl sayılabilir. Aynı zamanda ba",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Yaşamı ve kariyeri ==",
+      "heading_path": "== Yaşamı ve kariyeri ==",
+      "start_char": 908,
+      "end_char": 1209,
+      "content": " 2: Back in the Habit, Friends & Family, Did You Hear About the Morgans?, I Don't Know How She Does It, Mulan, Law & Order, Law & Order: Criminal Intent, Ed ve Gossip Girl sayılabilir. Aynı zamanda başarılı oyunculuk kariyeriyle iki defa Tony Ödülü'ne ve bir kezde Drama Desk Ödülü'ne aday gösterildi.",
+      "char_count": 301,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0003",
+      "section": "== Özel yaşamı ==",
+      "heading_path": "== Özel yaşamı ==",
+      "start_char": 1210,
+      "end_char": 1359,
+      "content": "== Özel yaşamı == Fowler, 1976 yılından bu yana Jack Witham ile evli ve iki çocuk sahibidir. Günümüzde New Milford, New Jersey'de ikamet etmektedir.",
+      "char_count": 148,
+      "token_estimate": 37
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1391,
+      "end_char": 1499,
+      "content": "== Dış bağlantılar == IMDb'de Beth Fowler IBDB'de Beth Fowler. Internet Off-Broadway Database'de Beth Fowler",
+      "char_count": 108,
+      "token_estimate": 27
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Fowler oyunculuğa ne zaman başladı?",
+        "answer": "1970'te.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Beth Fowler'ın hem oyuncu hem de şarkıcı olarak tanımlanması, onun eğitim ve kariyer başlangıcı bilgileriyle nasıl bir ilişki içindedir?",
+        "answer": "Beth Fowler, Caldwell Üniversitesi'nde müzik öğretmenliği eğitimi almış ve 1970 yılında oyunculuğa başlamıştır. Bu durum, onun müzik alanındaki eğitim geçmişinin şarkıcı kimliğine katkıda bulunduğunu ve oyunculuk kariyerini daha sonra başlattığını göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

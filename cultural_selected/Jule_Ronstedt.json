@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "juleronstedt_f81d413f",
+    "title": "Jule Ronstedt",
+    "url": "https://tr.wikipedia.org/wiki/Jule_Ronstedt",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:06.618230",
+    "content": "Jule Ronstedt (d. 21 Nisan 1971, Münih), Alman oyuncu ve senarist. == Yaşamı == Jules Ronstedt, Herrsching am Ammersee'de büyüdü, Gilching'teki bakaloryasını tanıttı ve 1991-1994'te Münih'te dramaturji üzerine çalıştı. 1994 yılında \"Aus heiterem Himmel\" filminde Alicia rolüyle oyunculuğa başladı. Diğer yer aldığı yapımlar arasında; Café Meineid, Polizeiruf 110, Der Bulle von Tölz, Die Rosenheim-Cops ve Der Kaiser von Schexing, Alarm für Cobra 11 – Die Autobahnpolizei sayılabilir. == Tiyatro == Das Gleichgewicht Die Legende vom armen Heinrich Urfaust Herr Puntila und sein Knecht Matti Hekabe, de Euripide Andere Baustelle King Kongs Töchter == Filmografi == 1994–1996: Aus heiterem Himmel 1997: Bandagistenglück 2001: Die grüne Wolke 2001: Geier im Reisrand 2002: Hinterlassenschaften 2003: Großglocknerliebe 2005: Wer früher stirbt ist länger tot 2008: Der Kaiser von Schexing 2008: Hilfe, meine Schwester kommt! 2008: Ossi's Eleven 2009: Genug ist nicht genug 2009: Nichts als Ärger cu den Männern 2009–2010: Franzi 2010: Nanga Parbat 2010: Das Glück kommt unverhofft 2011: Das Beste draus machen 2011: Almanya – Willkommen in Deutschland == Ödülleri == 1997: Max-Ophül Ödülü 1998: Merkur Ödülü (tiyatro) 2001: Bavaria Ödülü (kültür) == Dış bağlantılar == IMDb'de Jule Ronstedt portret despre Jule Ronstedt Jule Ronstedt 26 Temmuz 2010 tarihinde Wayback Machine sitesinde arşivlendi. la Bayerischen Rundfunk",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 204,
+      "char_count": 1415,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.266240",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 67,
+      "content": "Jule Ronstedt (d. 21 Nisan 1971, Münih), Alman oyuncu ve senarist.",
+      "char_count": 66,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 67,
+      "end_char": 485,
+      "content": "== Yaşamı == Jules Ronstedt, Herrsching am Ammersee'de büyüdü, Gilching'teki bakaloryasını tanıttı ve 1991-1994'te Münih'te dramaturji üzerine çalıştı. 1994 yılında \"Aus heiterem Himmel\" filminde Alicia rolüyle oyunculuğa başladı. Diğer yer aldığı yapımlar arasında; Café Meineid, Polizeiruf 110, Der Bulle von Tölz, Die Rosenheim-Cops ve Der Kaiser von Schexing, Alarm für Cobra 11 – Die Autobahnpolizei sayılabilir.",
+      "char_count": 417,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0002",
+      "section": "== Tiyatro ==",
+      "heading_path": "== Tiyatro ==",
+      "start_char": 485,
+      "end_char": 647,
+      "content": "== Tiyatro == Das Gleichgewicht Die Legende vom armen Heinrich Urfaust Herr Puntila und sein Knecht Matti Hekabe, de Euripide Andere Baustelle King Kongs Töchter",
+      "char_count": 161,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0003",
+      "section": "== Filmografi ==",
+      "heading_path": "== Filmografi ==",
+      "start_char": 647,
+      "end_char": 1147,
+      "content": "== Filmografi == 1994–1996: Aus heiterem Himmel 1997: Bandagistenglück 2001: Die grüne Wolke 2001: Geier im Reisrand 2002: Hinterlassenschaften 2003: Großglocknerliebe 2005: Wer früher stirbt ist länger tot 2008: Der Kaiser von Schexing 2008: Hilfe, meine Schwester kommt! 2008: Ossi's Eleven 2009: Genug ist nicht genug 2009: Nichts als Ärger cu den Männern 2009–2010: Franzi 2010: Nanga Parbat 2010: Das Glück kommt unverhofft 2011: Das Beste draus machen 2011: Almanya – Willkommen in Deutschland",
+      "char_count": 499,
+      "token_estimate": 124
+    },
+    {
+      "id": "c0004",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1147,
+      "end_char": 1242,
+      "content": "== Ödülleri == 1997: Max-Ophül Ödülü 1998: Merkur Ödülü (tiyatro) 2001: Bavaria Ödülü (kültür)",
+      "char_count": 94,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1242,
+      "end_char": 1415,
+      "content": "== Dış bağlantılar == IMDb'de Jule Ronstedt portret despre Jule Ronstedt Jule Ronstedt 26 Temmuz 2010 tarihinde Wayback Machine sitesinde arşivlendi. la Bayerischen Rundfunk",
+      "char_count": 173,
+      "token_estimate": 43
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Almanya – Willkommen in Deutschland filmi hangi yıl yayınlanmıştır?",
+        "answer": "2011",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jule Ronstedt'un doğum yeri ile yüksek öğrenim gördüğü yer arasında nasıl bir ilişki bulunmaktadır?",
+        "answer": "Jule Ronstedt Münih'te doğmuş ve 1991-1994 yılları arasında yine Münih'te dramaturji üzerine eğitim almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

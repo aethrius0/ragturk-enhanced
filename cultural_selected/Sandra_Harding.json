@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "sandraharding_73403da9",
+    "title": "Sandra Harding",
+    "url": "https://tr.wikipedia.org/wiki/Sandra_Harding",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:34.411498",
+    "content": "Sandra Harding (29 Mart 1935 - 5 Mart 2025), feminist kuram, sömürge sonrası kuramı, epistemoloji, araştırma yöntem bilimi ve bilim felsefesi üzerine çalışan Amerikalı filozoftur. Duruş teorisi ve bilimin çoklu kültürel çalışmasına katkıda bulunmuştur. Newton hareket yasalarını \"tecavüz kılavuzu\" olarak nitelendirmesiyle ünlüdür (Harding: 1986). Bu konudaki özdeyişinin tümü şöyledir: \"Isaac Newton'un Principia Mathematicası bir 'tecavüz kılavuzu'dur, çünkü 'bilim erkeğin dişi doğaya tecavüzüdür'. \" Halen UCLA Lisansüstü Eğitim ve Bilgi Çalışmaları Okulu'nda Sosyal Bilimler ve Karşılaştırmalı Eğitim profesörü ve UCLA Kadın Çalışmaları Merkezi'nde müdür olarak görev yapmaktadır. Harding daha önce yıllarca Delaware Üniversitesi'nde ders vermiştir. Doktorasını 1973 yılında New York Üniversitesi'nde tamamlamıştır. Harding, bilimsel nesnellik iddiaları konusunda devam eden tartışmanın taraflarından biri olmuştur. Çalışmalarının eleştirisi Paul R. Gross ve Norman Levitt tarafından Higher Superstition adlı eserlerinde yapılmıştır. == Bibliyografya == Harding, Sandra ve Merrill B. Hintikka, ed. Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science. 1983. Harding, Sandra. The Science Question in Feminism. 1986. Harding, Sandra ve Jean F. O'Barr, ed. Sex and Scientific Inquiry. 1987. Harding, Sandra. Whose Science? Whose Knowledge?: Thinking from Women's Lives. 1991. Harding, Sandra. \"Science is 'Good to Think With,'\" Social Text 46-47, (1996): 15-26. == Kaynakça == Gross, P. & Levitt, N.: Higher Superstition: The Academic Left and its Quarrels with Science. Johns Hopkins University Press. 1994. == Dış bağlantılar == Marginalleştirilen Yaşamlardan Başlayarak: Sandra Harding İle Sohbet Sandra Harding Kimdir? Nerede Durmaktadır?",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 232,
+      "char_count": 1803,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.483642",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Sandra Harding (29 Mart 1935 - 5 Mart 2025), feminist kuram, sömürge sonrası kuramı, epistemoloji, araştırma yöntem bilimi ve bilim felsefesi üzerine çalışan Amerikalı filozoftur. Duruş teorisi ve bilimin çoklu kültürel çalışmasına katkıda bulunmuştur. Newton hareket yasalarını \"tecavüz kılavuzu\" olarak nitelendirmesiyle ünlüdür (Harding: 1986). Bu konudaki özdeyişinin tümü şöyledir: \"Isaac Newton'un Principia Mathematicası bir 'tecavüz kılavuzu'dur, çünkü 'bilim erkeğin dişi doğaya tecavüzüdür'. \" Halen UCLA Lisansüstü Eğitim ve Bilgi Çalışmaları Okulu'nda Sosyal Bilimler ve Karşılaştırmalı Eğitim profesörü ve UCLA Kadın Çalışmaları Merkezi'nde müdür olarak görev yapmaktadır. Harding daha önce yıllarca Delaware Üniversitesi'nde ders vermiştir. Doktorasını 1973 yılında New York Üniversitesi'nde tamamlamıştır. Harding, bilimsel nesnellik iddiaları konusunda devam eden tartışmanın taraflarından biri olmuştur. Çalışmalarının eleştirisi Paul R. Gross ve Norman Levitt tarafından Higher Supe",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1038,
+      "content": "i'nde tamamlamıştır. Harding, bilimsel nesnellik iddiaları konusunda devam eden tartışmanın taraflarından biri olmuştur. Çalışmalarının eleştirisi Paul R. Gross ve Norman Levitt tarafından Higher Superstition adlı eserlerinde yapılmıştır.",
+      "char_count": 238,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0002",
+      "section": "== Bibliyografya ==",
+      "heading_path": "== Bibliyografya ==",
+      "start_char": 1039,
+      "end_char": 1523,
+      "content": "== Bibliyografya == Harding, Sandra ve Merrill B. Hintikka, ed. Discovering Reality: Feminist Perspectives on Epistemology, Metaphysics, Methodology, and Philosophy of Science. 1983. Harding, Sandra. The Science Question in Feminism. 1986. Harding, Sandra ve Jean F. O'Barr, ed. Sex and Scientific Inquiry. 1987. Harding, Sandra. Whose Science? Whose Knowledge?: Thinking from Women's Lives. 1991. Harding, Sandra. \"Science is 'Good to Think With,'\" Social Text 46-47, (1996): 15-26.",
+      "char_count": 483,
+      "token_estimate": 120
+    },
+    {
+      "id": "c0003",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1523,
+      "end_char": 1670,
+      "content": "== Kaynakça == Gross, P. & Levitt, N.: Higher Superstition: The Academic Left and its Quarrels with Science. Johns Hopkins University Press. 1994.",
+      "char_count": 146,
+      "token_estimate": 36
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1670,
+      "end_char": 1803,
+      "content": "== Dış bağlantılar == Marginalleştirilen Yaşamlardan Başlayarak: Sandra Harding İle Sohbet Sandra Harding Kimdir? Nerede Durmaktadır?",
+      "char_count": 133,
+      "token_estimate": 33
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sandra Harding, Newton hareket yasalarını ne olarak nitelendirmesiyle ünlüdür?",
+        "answer": "Newton hareket yasalarını \"tecavüz kılavuzu\" olarak nitelendirmesiyle ünlüdür.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sandra Harding'in bilimsel nesnellik iddiaları konusundaki tartışmadaki rolü ve Paul R. Gross ile Norman Levitt'in onun çalışmalarını eleştirdiği eserin tam adı nedir?",
+        "answer": "Harding, bilimsel nesnellik iddiaları konusunda devam eden tartışmanın taraflarından biri olmuştur. Çalışmalarının eleştirisi Paul R. Gross ve Norman Levitt tarafından Higher Superstition adlı eserlerinde yapılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

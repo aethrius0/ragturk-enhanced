@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "patricechreau_247c4958",
+    "title": "Patrice Chéreau",
+    "url": "https://tr.wikipedia.org/wiki/Patrice_Ch%C3%A9reau",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:03.853496",
+    "content": "Patrice Chéreau (2 Kasım 1944, Lézigné, Maine-et-Loire - 7 Ekim 2013, Clichy), Fransız film yönetmeni, senarist ve oyuncudur. == Kariyeri == Nanterre, Fransa'daki Theatre des Amandiers tiyatrosunun yönetmeni olan Chereau'nun 1976 yılında yönettiği The Ring isimli opera, eleştirmenler tarafından beğenilmiş ve modern operayı değiştirdiği söylenmiştir. Patrice Chéreau, Avrupa sinemasına alternatif ve teatral bir yüz kazandırabilen, yaptığı her film ile adından söz ettiren bir yönetmen olarak tarihe geçmiştir. Akciğer kanseri nedeniyle 7 Ekim 2013'te Paris'te ölen Fransızların radikal usta yönetmeninin, son filmlerinden olan Gabrielle festivallerde gösterildi. Kraliçe Margot (La Reine Margot) ve Mahremiyet (Intimacy) gibi başarılı filmleri yönetmiştir. Chereau, sinemanın yanında ayrıca ünlü bir tiyatro ve opera yönetmeniydi. == Filmografi == === Yönetmen ve senarist === La chair de l'orchidée (1975) Judith Therpauve (1978) L'uomo ferito (1983) Hôtel de France (1987) Contre l'oubli (film) (1991) La Reine Margot (1994) Ceux qui m'aiment prendront le train (1998) Intimacy (2001) Son frère (2003) Gabrielle (2005) Persecution (2009) === Oyuncu === Danton (1983) L'ultimo dei Mohicani (1992) Le temps du loup (2003) == Kaynakça == == Dış bağlantılar == IMDb'de Patrice Chéreau AllMovie'de Patrice Chéreau film biography by Jason Buchanan Patrice Chéreau\"Wagner operas\". 1976. 4 Mart 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 6 Nisan 2016.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1458,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.539023",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 126,
+      "content": "Patrice Chéreau (2 Kasım 1944, Lézigné, Maine-et-Loire - 7 Ekim 2013, Clichy), Fransız film yönetmeni, senarist ve oyuncudur.",
+      "char_count": 125,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 126,
+      "end_char": 833,
+      "content": "== Kariyeri == Nanterre, Fransa'daki Theatre des Amandiers tiyatrosunun yönetmeni olan Chereau'nun 1976 yılında yönettiği The Ring isimli opera, eleştirmenler tarafından beğenilmiş ve modern operayı değiştirdiği söylenmiştir. Patrice Chéreau, Avrupa sinemasına alternatif ve teatral bir yüz kazandırabilen, yaptığı her film ile adından söz ettiren bir yönetmen olarak tarihe geçmiştir. Akciğer kanseri nedeniyle 7 Ekim 2013'te Paris'te ölen Fransızların radikal usta yönetmeninin, son filmlerinden olan Gabrielle festivallerde gösterildi. Kraliçe Margot (La Reine Margot) ve Mahremiyet (Intimacy) gibi başarılı filmleri yönetmiştir. Chereau, sinemanın yanında ayrıca ünlü bir tiyatro ve opera yönetmeniydi.",
+      "char_count": 706,
+      "token_estimate": 176
+    },
+    {
+      "id": "c0002",
+      "section": "=== Yönetmen ve senarist ===",
+      "heading_path": "=== Yönetmen ve senarist ===",
+      "start_char": 850,
+      "end_char": 1142,
+      "content": "=== Yönetmen ve senarist === La chair de l'orchidée (1975) Judith Therpauve (1978) L'uomo ferito (1983) Hôtel de France (1987) Contre l'oubli (film) (1991) La Reine Margot (1994) Ceux qui m'aiment prendront le train (1998) Intimacy (2001) Son frère (2003) Gabrielle (2005) Persecution (2009)",
+      "char_count": 291,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0003",
+      "section": "=== Oyuncu ===",
+      "heading_path": "=== Oyuncu ===",
+      "start_char": 1142,
+      "end_char": 1224,
+      "content": "=== Oyuncu === Danton (1983) L'ultimo dei Mohicani (1992) Le temps du loup (2003)",
+      "char_count": 81,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1239,
+      "end_char": 1458,
+      "content": "== Dış bağlantılar == IMDb'de Patrice Chéreau AllMovie'de Patrice Chéreau film biography by Jason Buchanan Patrice Chéreau\"Wagner operas\". 1976. 4 Mart 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 6 Nisan 2016.",
+      "char_count": 219,
+      "token_estimate": 54
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Patrice Chéreau hangi tarihte ve nerede vefat etmiştir?",
+        "answer": "Patrice Chéreau, 7 Ekim 2013'te Paris'te ölmüştür.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fransız kimliğiyle bilinen Patrice Chéreau'nun hem sinema hem de opera alanındaki başlıca katkıları nelerdir ve bu başarıları onu hangi unvanlarla tarihe geçirmiştir?",
+        "answer": "Patrice Chéreau, Fransız film yönetmeni, senarist ve oyuncu kimliğinin yanı sıra ünlü bir tiyatro ve opera yönetmeni olarak Avrupa sinemasına alternatif ve teatral bir yüz kazandırmış, yaptığı her filmle adından söz ettirmiştir. Özellikle 1976'da yönettiği The Ring operası, eleştirmenler tarafından beğenilerek modern operayı değiştirdiği kabul edilmiştir. Bu çok yönlü ve etkili kariyeri sayesinde, Fransızların radikal usta yönetmeni olarak tarihe geçmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

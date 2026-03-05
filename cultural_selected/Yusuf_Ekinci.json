@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "yusufekinci_2936d73e",
+    "title": "Yusuf Ekinci",
+    "url": "https://tr.wikipedia.org/wiki/Yusuf_Ekinci",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:16.229242",
+    "content": "Yusuf Ekinci (21 Mart 1943; Büyükalan, Çavdır, Burdur - 30 Mayıs 2024, Ankara), Türk siyasetçi, eğitimci ve bürokrat. == Eğitimi == Balıkesir Necatibey Eğitim Enstitüsü Edebiyat Bölümü'nden 1965 yılında, Ankara Üniversitesi Eğitim Bilimleri Fakültesi'nden ise 1980 yılında mezun olmuştur. 1981'de Devlet Memurları Yabancı Diller Eğitim Merkezi'nde, 1982'de de Ankara İktisadi ve Ticari İlimler Akademisi İdari Bilimler Enstitüsünde yüksek lisans eğitimini tamamlamıştır. 1987'de Ankara Üniversitesi Türk İnkılap Tarihi Enstitüsü'nde doktora eğitimini tamamlamıştır. == Mesleki Kariyeri == Öğretmenlik yapmış; ayrıca Millî Eğitim Bakanlığı merkez teşkilatında İlköğretim Genel Müdürlüğü şube müdürlüğü (1975-1976), özlük işleri genel müdür yardımcılığı (1976-1978 ve 1979-1981), çıraklık ve yaygın eğitim genel müdür yardımcılığı (1984-1987), hizmet içi eğitim daire başkanlığı (1987-1989), müsteşar yardımcılığı (1989-1992), talim ve terbiye kurulu başkanlığı (1992-1994) ve bakanlık müşavirliği (1994-1995) görevlerinde bulunmuştur. == Siyasi Kariyeri == TBMM 20. dönem ANAP Burdur milletvekili olmuştur. TBMM Millî Eğitim Komisyonu üyeliği ve başkanvekilliği görevlerinde bulunmuştur. Çeşitli sivil toplum kuruluşlarının üyesi ve yöneticisi olmuştur. Çok sayıda kitabı bulunmaktadır. 30 Mayıs 2024 tarihinde öldü. Yusuf Ekinci ilk tören 31 Mayıs 2024 Cuma günü Türkiye Büyük Millet Meclisi'nde düzenlendi. Buradaki törene eski TBMM Başkanları Bülent Arınç, Cemil Çiçek, Köksal Toptan, Hüseyin Yayman, Uğur Bayraktutan, Yusuf Ekinci'nin ailesi, yakınları ve milletvekilleri katıldı. Meclisteki törenin ardından Ekinci'nin cenazesi Ankara Kocatepe Camii'ne getirildi. Burada cuma namazının ardından kılınan cenaze namazından sonra Ekinci'nin cenazesi Ankara Gölbaşı Mezarlığı'nda toprağa verildi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 226,
+      "char_count": 1811,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.233616",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 118,
+      "content": "Yusuf Ekinci (21 Mart 1943; Büyükalan, Çavdır, Burdur - 30 Mayıs 2024, Ankara), Türk siyasetçi, eğitimci ve bürokrat.",
+      "char_count": 117,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0001",
+      "section": "== Eğitimi ==",
+      "heading_path": "== Eğitimi ==",
+      "start_char": 118,
+      "end_char": 566,
+      "content": "== Eğitimi == Balıkesir Necatibey Eğitim Enstitüsü Edebiyat Bölümü'nden 1965 yılında, Ankara Üniversitesi Eğitim Bilimleri Fakültesi'nden ise 1980 yılında mezun olmuştur. 1981'de Devlet Memurları Yabancı Diller Eğitim Merkezi'nde, 1982'de de Ankara İktisadi ve Ticari İlimler Akademisi İdari Bilimler Enstitüsünde yüksek lisans eğitimini tamamlamıştır. 1987'de Ankara Üniversitesi Türk İnkılap Tarihi Enstitüsü'nde doktora eğitimini tamamlamıştır.",
+      "char_count": 447,
+      "token_estimate": 111
+    },
+    {
+      "id": "c0002",
+      "section": "== Mesleki Kariyeri ==",
+      "heading_path": "== Mesleki Kariyeri ==",
+      "start_char": 566,
+      "end_char": 1034,
+      "content": "== Mesleki Kariyeri == Öğretmenlik yapmış; ayrıca Millî Eğitim Bakanlığı merkez teşkilatında İlköğretim Genel Müdürlüğü şube müdürlüğü (1975-1976), özlük işleri genel müdür yardımcılığı (1976-1978 ve 1979-1981), çıraklık ve yaygın eğitim genel müdür yardımcılığı (1984-1987), hizmet içi eğitim daire başkanlığı (1987-1989), müsteşar yardımcılığı (1989-1992), talim ve terbiye kurulu başkanlığı (1992-1994) ve bakanlık müşavirliği (1994-1995) görevlerinde bulunmuştur.",
+      "char_count": 467,
+      "token_estimate": 116
+    },
+    {
+      "id": "c0003",
+      "section": "== Siyasi Kariyeri ==",
+      "heading_path": "== Siyasi Kariyeri ==",
+      "start_char": 1034,
+      "end_char": 1797,
+      "content": "== Siyasi Kariyeri == TBMM 20. dönem ANAP Burdur milletvekili olmuştur. TBMM Millî Eğitim Komisyonu üyeliği ve başkanvekilliği görevlerinde bulunmuştur. Çeşitli sivil toplum kuruluşlarının üyesi ve yöneticisi olmuştur. Çok sayıda kitabı bulunmaktadır. 30 Mayıs 2024 tarihinde öldü. Yusuf Ekinci ilk tören 31 Mayıs 2024 Cuma günü Türkiye Büyük Millet Meclisi'nde düzenlendi. Buradaki törene eski TBMM Başkanları Bülent Arınç, Cemil Çiçek, Köksal Toptan, Hüseyin Yayman, Uğur Bayraktutan, Yusuf Ekinci'nin ailesi, yakınları ve milletvekilleri katıldı. Meclisteki törenin ardından Ekinci'nin cenazesi Ankara Kocatepe Camii'ne getirildi. Burada cuma namazının ardından kılınan cenaze namazından sonra Ekinci'nin cenazesi Ankara Gölbaşı Mezarlığı'nda toprağa verildi.",
+      "char_count": 762,
+      "token_estimate": 190
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yusuf Ekinci hangi tarihte vefat etmiştir?",
+        "answer": "30 Mayıs 2024 tarihinde.",
+        "related_chunk_ids": [
+          "c0003"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yusuf Ekinci'nin eğitimci kimliği, mezun olduğu bölümler ve tamamladığı yükseköğrenimler göz önüne alındığında nasıl desteklenmektedir?",
+        "answer": "Yusuf Ekinci'nin eğitimci kimliği, 1965 yılında Balıkesir Necatibey Eğitim Enstitüsü Edebiyat Bölümü'nden mezun olması ve 1980 yılında Ankara Üniversitesi Eğitim Bilimleri Fakültesi'ni tamamlamasıyla desteklenmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

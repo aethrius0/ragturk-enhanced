@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "baekyerin_4ded0a43",
+    "title": "Baek Ye-rin",
+    "url": "https://tr.wikipedia.org/wiki/Baek_Ye-rin",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:19.698769",
+    "content": "Baek Ye-rin (26 Haziran 1997) ya da Yerin Baek, Güney Koreli şarkıcı. 15& grubunun eski üyesidir. Solo sanatı olarak çıkışını Frank albümü ile 2015 yılında yaptı. == Biyografi == Baek 26 Haziran 1997 tarihinde Jung District, Daejeon'da doğdu. JYP Entertainmentte stajyerken ailesinin şu anda yaşadığı New York'ta iki sene geçirdi. Hanlim Multi Sanat Okulunu Şubat 2016'da 15& üyesi Park Ji-min ve Got7 üyesi Kim Yu-gyeom ile birlikte bitirdi. == Kariyeri == === 2007–2012: Kariyer başlangıcı === 2007 yılında SBS programı Amazing Contest Star King'in bir bölümünde Baek, \"Listen\" (Beyoncé) şarkısında performans sergiledi ve \"R&B dahisi\" olarak anılmaya başladı. Star King'de yer aldıktan sonra JYP Entertainment seçmelerine katıldı. Seçmelerde \"Listen\" şarkısında performans sergiledi, ve 2PM'den Jang Woo-young Dan sonra gelerek ikinci oldu. Eğitimi beş yıl sürdü (2007-2012) Eğitimi boyunca Güney Kore ve Amerika'da eğitim aldı ve \"dahi kız\" olarak anılmaya başladı. Akıcı bir şekilde İngilizce konuşmaktadır ve vokal yeteneklerinin yanında piyano da çalabilmektedir. 27 Eylül 2012 tarihinde JYP Bark'ın Park Ji-min ile birlikte 15& grubunda olacağını açıkladı. 7 Kasım tarihinde ikili \"I Dream\" Şarkıları ile SBS Inkigayo da çıkışlarını gerçekleştirdiler. Grup üç yıl aktif kaldı ve ardından grup arkadaşı Park JYP Entertainment'ten ayrıldı. === 2015–2016: Solo çıkış === Kasım 2015 tarihinde Baek, Frank albümü ve albümün başlık şarkısı \"Across the Universe\" ile solo çıkışını gerçekleştirdi. Albümünün başlığı Amy Winehouse'un çıkış albümü ile aynı isme sahiptir. Başlık şarkısının sözleri ise The Martian filminden esinlenilerek yapılmıştır. Baek ilk dijital şarkısı Bye Bye My Blue'yu 20 Haziran 2016 tarihinde yayınladı. Ardından 7 Aralıkta Love You on Christmas isimli şarkısını yayınladı. === 2018–günümüz: JYP Entertainment'ten ayrılması === Baek birçok ünlü şarkıcı ile duet yapmaya ve şarkı coverlamaya devam etti. 2018 yılında rock grubu Bye Bye Badman tarafından kurulan 'The Volunteers' e katıldı ve İngilizce olan \"Vanity & People\" şarkısını yayınladı İkinci mini albümü Our Love Is Great 18 Mart 2019 tarihinde yayınlandı. Sonraki gün albümün başlık şarkısı \"Maybe It's Not Our Fault\" yayınlandı ve şarkı müzik listelerinde sekiz numarada yer aldı. 13 Eylül 2019 tarihinde Baek'in JYP Entertainment ile olan sözleşmesi sonar erdi ve sözleşmeyi yenilemeyerek kendi plak şirkeyi Blue Vinyl'ı kuracağını açıkladı. Şirket 6 kasımda kuruldu ve 22 Kasımda ile şarkısı \"Popo (How Deep Is Your Love)\"'I yayınladı.. 10 Aralık tarihinde ikili albümü Every letter I sent you'yu yayınladı. Albümde 18 şarkı yer aldı ve bazıları İngilizceydi. Sonraki şarkısı \"Square (2017)\" Baek'in Kore listelerine giren ilk İngilizce şarkısıdır. Şarkı birçok müzik listesinde üst sıralarda yer alarak all-kill yaptı. \"Square (2017)\" şarkısı kadar albümde listelerde üst sıralarda yer aldı. == Konserleri == === Yerin Baek 1st Concert \"Turn on that Blue Vinyl\" (2020) === == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 432,
+      "char_count": 2977,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.849948",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 163,
+      "content": "Baek Ye-rin (26 Haziran 1997) ya da Yerin Baek, Güney Koreli şarkıcı. 15& grubunun eski üyesidir. Solo sanatı olarak çıkışını Frank albümü ile 2015 yılında yaptı.",
+      "char_count": 162,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 163,
+      "end_char": 443,
+      "content": "== Biyografi == Baek 26 Haziran 1997 tarihinde Jung District, Daejeon'da doğdu. JYP Entertainmentte stajyerken ailesinin şu anda yaşadığı New York'ta iki sene geçirdi. Hanlim Multi Sanat Okulunu Şubat 2016'da 15& üyesi Park Ji-min ve Got7 üyesi Kim Yu-gyeom ile birlikte bitirdi.",
+      "char_count": 279,
+      "token_estimate": 69
+    },
+    {
+      "id": "c0002",
+      "section": "=== 2007–2012: Kariyer başlangıcı ===",
+      "heading_path": "=== 2007–2012: Kariyer başlangıcı ===",
+      "start_char": 458,
+      "end_char": 1346,
+      "content": "=== 2007–2012: Kariyer başlangıcı === 2007 yılında SBS programı Amazing Contest Star King'in bir bölümünde Baek, \"Listen\" (Beyoncé) şarkısında performans sergiledi ve \"R&B dahisi\" olarak anılmaya başladı. Star King'de yer aldıktan sonra JYP Entertainment seçmelerine katıldı. Seçmelerde \"Listen\" şarkısında performans sergiledi, ve 2PM'den Jang Woo-young Dan sonra gelerek ikinci oldu. Eğitimi beş yıl sürdü (2007-2012) Eğitimi boyunca Güney Kore ve Amerika'da eğitim aldı ve \"dahi kız\" olarak anılmaya başladı. Akıcı bir şekilde İngilizce konuşmaktadır ve vokal yeteneklerinin yanında piyano da çalabilmektedir. 27 Eylül 2012 tarihinde JYP Bark'ın Park Ji-min ile birlikte 15& grubunda olacağını açıkladı. 7 Kasım tarihinde ikili \"I Dream\" Şarkıları ile SBS Inkigayo da çıkışlarını gerçekleştirdiler. Grup üç yıl aktif kaldı ve ardından grup arkadaşı Park JYP Entertainment'ten ayrıldı.",
+      "char_count": 887,
+      "token_estimate": 221
+    },
+    {
+      "id": "c0003",
+      "section": "=== 2015–2016: Solo çıkış ===",
+      "heading_path": "=== 2015–2016: Solo çıkış ===",
+      "start_char": 1346,
+      "end_char": 1800,
+      "content": "=== 2015–2016: Solo çıkış === Kasım 2015 tarihinde Baek, Frank albümü ve albümün başlık şarkısı \"Across the Universe\" ile solo çıkışını gerçekleştirdi. Albümünün başlığı Amy Winehouse'un çıkış albümü ile aynı isme sahiptir. Başlık şarkısının sözleri ise The Martian filminden esinlenilerek yapılmıştır. Baek ilk dijital şarkısı Bye Bye My Blue'yu 20 Haziran 2016 tarihinde yayınladı. Ardından 7 Aralıkta Love You on Christmas isimli şarkısını yayınladı.",
+      "char_count": 453,
+      "token_estimate": 113
+    },
+    {
+      "id": "c0004",
+      "section": "=== 2018–günümüz: JYP Entertainment'ten ayrılması ===",
+      "heading_path": "=== 2018–günümüz: JYP Entertainment'ten ayrılması ===",
+      "start_char": 1800,
+      "end_char": 2800,
+      "content": "=== 2018–günümüz: JYP Entertainment'ten ayrılması === Baek birçok ünlü şarkıcı ile duet yapmaya ve şarkı coverlamaya devam etti. 2018 yılında rock grubu Bye Bye Badman tarafından kurulan 'The Volunteers' e katıldı ve İngilizce olan \"Vanity & People\" şarkısını yayınladı İkinci mini albümü Our Love Is Great 18 Mart 2019 tarihinde yayınlandı. Sonraki gün albümün başlık şarkısı \"Maybe It's Not Our Fault\" yayınlandı ve şarkı müzik listelerinde sekiz numarada yer aldı. 13 Eylül 2019 tarihinde Baek'in JYP Entertainment ile olan sözleşmesi sonar erdi ve sözleşmeyi yenilemeyerek kendi plak şirkeyi Blue Vinyl'ı kuracağını açıkladı. Şirket 6 kasımda kuruldu ve 22 Kasımda ile şarkısı \"Popo (How Deep Is Your Love)\"'I yayınladı.. 10 Aralık tarihinde ikili albümü Every letter I sent you'yu yayınladı. Albümde 18 şarkı yer aldı ve bazıları İngilizceydi. Sonraki şarkısı \"Square (2017)\" Baek'in Kore listelerine giren ilk İngilizce şarkısıdır. Şarkı birçok müzik listesinde üst sıralarda yer alarak all-kil",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "=== 2018–günümüz: JYP Entertainment'ten ayrılması ===",
+      "heading_path": "=== 2018–günümüz: JYP Entertainment'ten ayrılması ===",
+      "start_char": 2600,
+      "end_char": 2881,
+      "content": "ümde 18 şarkı yer aldı ve bazıları İngilizceydi. Sonraki şarkısı \"Square (2017)\" Baek'in Kore listelerine giren ilk İngilizce şarkısıdır. Şarkı birçok müzik listesinde üst sıralarda yer alarak all-kill yaptı. \"Square (2017)\" şarkısı kadar albümde listelerde üst sıralarda yer aldı.",
+      "char_count": 281,
+      "token_estimate": 70
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Baek'in JYP Entertainment ile olan sözleşmesi hangi tarihte sona erdi?",
+        "answer": "13 Eylül 2019 tarihinde",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Baek Ye-rin'in erken dönemdeki \"R&B dahisi\" olarak tanınmasından 15& grubundaki çıkışına ve ardından solo kariyerine uzanan müzikal yolculuğunu, stajyerlik dönemi ve uluslararası deneyimleri de dahil ederek açıklayın.",
+        "answer": "Baek Ye-rin, 2007'de SBS programı Amazing Contest Star King'de \"Listen\" şarkısını seslendirdikten sonra \"R&B dahisi\" olarak tanındı. JYP Entertainment seçmelerine katıldı ve ikinci oldu. Eğitimi beş yıl sürdü (2007-2012) ve bu dönemde Güney Kore ile birlikte ailesinin yaşadığı New York'ta iki sene geçirerek Amerika'da eğitim aldı. Eğitim sırasında \"dahi kız\" olarak anıldı ve akıcı bir şekilde İngilizce konuşmanın yanı sıra piyano da çalabiliyor. 27 Eylül 2012'de JYP tarafından Park Ji-min ile birlikte 15& grubunda olacağı açıklandı ve ikili 7 Kasım 2012'de \"I Dream\" şarkısıyla çıkış yaptı. Grup üç yıl aktif kaldıktan sonra Park JYP Entertainment'tan ayrıldı ve Baek Ye-rin 2015 yılında Frank albümü ile solo sanatçı olarak çıkış yaptı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

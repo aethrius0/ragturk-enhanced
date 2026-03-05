@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "gucerata_8b181e83",
+    "title": "Guceratça",
+    "url": "https://tr.wikipedia.org/wiki/Gucerat%C3%A7a",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:30.240356",
+    "content": "Guceratça (ગુજરાતી, Gujarātī; Guceratça telaffuz: [ɡudʒˈɾɑːtiː]), Hindistan'ın Gucerât bölgesinde ağırlıklı olarak Guceratlar tarafından konuşulan bir Hint-Aryan dilidir. Hindistan'da resmî ve tanınmış 22 dilden biri olup, Gücerat eyaleti ile birlik toprağı Dadra ve Nagar Haveli ve Daman ve Diu'de resmî statüdedir. 55,5 milyon konuşur ile dil Hindistan'da en çok konuşulan 6. dildir ve bu ülke nüfusunun y. %4,5'ine tekabül etmektedir. Dil, Gücerat diasporası tarafından Güney Asya'nın diğer yerleri ile Kuzey Amerika, Birleşik Krallık ve Güneydoğu Afrika'da da konuşulur. Güceratça ilk olarak yaklaşık 1000 sene önce yazıya geçirilmiştir. == Yazı sistemi == Gücerat abugidası 42 harften oluşmaktadır. Ünlüler: અ ક a ə આ ા કા ā ɑ̈ ઇ િ કિ i i ઈ ી કી ī ઉ ુ કુ u u ઊ ૂ કૂ ū એ ે કે e, ɛ ઐ ૈ કૈ ai əj ઓ ો કો o, ɔ ઔ ૌ કૌ au əʋ અં ં કં ṁ અ: ઃ કઃ ḥ ઋ ૃ કૃ r̥ ɾu ઍ ૅ કૅ â æ ઑ ૉ કૉ ô ɔ Ünsüzler: Diyakritik: == Örnek == Aşağıda Güceratça bir metin örneği yer almaktadır: ગાંધીજીની ઝૂંપડી-કરાડી જગ પ્રસિદ્ધ દાંડી કૂચ પછી ગાંધીજીએ અહીં આંબાના વૃક્ષ નીચે ખજૂરી નાં છટિયાંની એક ઝૂંપડીમાં તા.૧૪-૪-૧૯૩૦ થી તા.૪-૫-૧૯૩૦ સુધી નિવાસ કર્યો હતો. દાંડીમાં છઠ્ઠી એપ્રિલે શરૂ કરેલી નિમક કાનૂન (મીઠાના સત્યાગ્રહ) ભંગની લડતને તેમણે અહીંથી વેગ આપી દેશ વ્યાપી બનાવી હતી. અહીંથી જ તેમણે ધરાસણાના મીઠાના અગરો તરફ કૂચ કરવાનો પોતાનો સંકલ્પ બ્રિટિશ વાઈસરૉયને પત્ર લખીને જણાવ્યો હતો.તા.૪થી મે ૧૯૩૦ની રાતના બાર વાગ્યા પછી આ સ્થળેથી બ્રિટિશ સરકારે તેમની ધરપકડ કરી હતી. Çevirisi Gandhiji'nin kulübesi - Karadi Ünlü Dandi yürüyüşünden sonra, Gandhiji burada bir mango ağacının altında 15-9-190'dan 5-9-190'a kadar bir hurma kulübesinde yaşadı. 6 Nisan'da Dandi'de başlayan ve ülke çapında genişleyen Nimak Kanun'a (Salt Satyagraha) karşı mücadeleyi yoğunlaştırdı. Buradan İngiliz Vali'ye Dharasana'nın tuz dairelerine doğru yürüdüğünü belirten bir mektup yazdı ve 3 Mayıs 1905 gece yarısından sonra İngiliz hükûmeti tarafından bu yerde tutuklandı. == Kaynakça == == Dış bağlantılar ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 321,
+      "char_count": 1947,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.404300",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 642,
+      "content": "Guceratça (ગુજરાતી, Gujarātī; Guceratça telaffuz: [ɡudʒˈɾɑːtiː]), Hindistan'ın Gucerât bölgesinde ağırlıklı olarak Guceratlar tarafından konuşulan bir Hint-Aryan dilidir. Hindistan'da resmî ve tanınmış 22 dilden biri olup, Gücerat eyaleti ile birlik toprağı Dadra ve Nagar Haveli ve Daman ve Diu'de resmî statüdedir. 55,5 milyon konuşur ile dil Hindistan'da en çok konuşulan 6. dildir ve bu ülke nüfusunun y. %4,5'ine tekabül etmektedir. Dil, Gücerat diasporası tarafından Güney Asya'nın diğer yerleri ile Kuzey Amerika, Birleşik Krallık ve Güneydoğu Afrika'da da konuşulur. Güceratça ilk olarak yaklaşık 1000 sene önce yazıya geçirilmiştir.",
+      "char_count": 641,
+      "token_estimate": 160
+    },
+    {
+      "id": "c0001",
+      "section": "== Yazı sistemi ==",
+      "heading_path": "== Yazı sistemi ==",
+      "start_char": 642,
+      "end_char": 900,
+      "content": "== Yazı sistemi == Gücerat abugidası 42 harften oluşmaktadır. Ünlüler: અ ક a ə આ ા કા ā ɑ̈ ઇ િ કિ i i ઈ ી કી ī ઉ ુ કુ u u ઊ ૂ કૂ ū એ ે કે e, ɛ ઐ ૈ કૈ ai əj ઓ ો કો o, ɔ ઔ ૌ કૌ au əʋ અં ં કં ṁ અ: ઃ કઃ ḥ ઋ ૃ કૃ r̥ ɾu ઍ ૅ કૅ â æ ઑ ૉ કૉ ô ɔ Ünsüzler: Diyakritik:",
+      "char_count": 257,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0002",
+      "section": "== Örnek ==",
+      "heading_path": "== Örnek ==",
+      "start_char": 900,
+      "end_char": 1900,
+      "content": "== Örnek == Aşağıda Güceratça bir metin örneği yer almaktadır: ગાંધીજીની ઝૂંપડી-કરાડી જગ પ્રસિદ્ધ દાંડી કૂચ પછી ગાંધીજીએ અહીં આંબાના વૃક્ષ નીચે ખજૂરી નાં છટિયાંની એક ઝૂંપડીમાં તા.૧૪-૪-૧૯૩૦ થી તા.૪-૫-૧૯૩૦ સુધી નિવાસ કર્યો હતો. દાંડીમાં છઠ્ઠી એપ્રિલે શરૂ કરેલી નિમક કાનૂન (મીઠાના સત્યાગ્રહ) ભંગની લડતને તેમણે અહીંથી વેગ આપી દેશ વ્યાપી બનાવી હતી. અહીંથી જ તેમણે ધરાસણાના મીઠાના અગરો તરફ કૂચ કરવાનો પોતાનો સંકલ્પ બ્રિટિશ વાઈસરૉયને પત્ર લખીને જણાવ્યો હતો.તા.૪થી મે ૧૯૩૦ની રાતના બાર વાગ્યા પછી આ સ્થળેથી બ્રિટિશ સરકારે તેમની ધરપકડ કરી હતી. Çevirisi Gandhiji'nin kulübesi - Karadi Ünlü Dandi yürüyüşünden sonra, Gandhiji burada bir mango ağacının altında 15-9-190'dan 5-9-190'a kadar bir hurma kulübesinde yaşadı. 6 Nisan'da Dandi'de başlayan ve ülke çapında genişleyen Nimak Kanun'a (Salt Satyagraha) karşı mücadeleyi yoğunlaştırdı. Buradan İngiliz Vali'ye Dharasana'nın tuz dairelerine doğru yürüdüğünü belirten bir mektup yazdı ve 3 Mayıs 1905 gece yarısından sonra İngiliz hükûmeti tarafından bu yerde t",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Örnek ==",
+      "heading_path": "== Örnek ==",
+      "start_char": 1700,
+      "end_char": 1910,
+      "content": " mücadeleyi yoğunlaştırdı. Buradan İngiliz Vali'ye Dharasana'nın tuz dairelerine doğru yürüdüğünü belirten bir mektup yazdı ve 3 Mayıs 1905 gece yarısından sonra İngiliz hükûmeti tarafından bu yerde tutuklandı.",
+      "char_count": 210,
+      "token_estimate": 52
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gandhiji, bahsedilen yerden hangi mücadeleyi ülke çapında genişleterek yoğunlaştırdı?",
+        "answer": "Dandi'de başlayan Nimak Kanun'a (Tuz Satyagraha) karşı mücadeleyi.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Guceratça'nın yaklaşık 1000 yıl önce yazıya geçirilmiş olması gerçeği, dilin tanımlanan yazı sistemi ve sunulan metin örneğiyle nasıl bir ilişki kurar?",
+        "answer": "Guceratça'nın yaklaşık 1000 yıl önce yazıya geçirilmiş olması, dilin 42 harften oluşan kendi özel abugida yazı sistemine sahip olduğunu ve bu sistem kullanılarak Gandhiji'nin kulübesi gibi konularda somut metinlerin yazılabildiğini gösterir; bu da dilin köklü bir yazılı geçmişe sahip olduğunu ve yazılı geleneğinin günümüzde de devam ettiğini ortaya koyar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

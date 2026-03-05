@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "astraryum_16796f1b",
+    "title": "Astraryum",
+    "url": "https://tr.wikipedia.org/wiki/Astraryum",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:24.901670",
+    "content": "Astraryum, ayrıca diğer adıyla planetaryum, astronomik cisimlerin döngüsel niteliğini mekanik olarak temsil eden astronomik saat. == Tarihi == === Yunan ve Roma Dünyası === İlk astrarya mekanik cihazlardan oluşuyordu. Arşimet, güneş, ay ve gezegenlerin konumlarını tahmin eden ilkel bir versiyon kullandığı söylenmiştir. 17 Mayıs 1902 tarihinde Valerios Stais adlı bir arkeolog, Antikythera yakınlarındaki bir gemi kazasından kurtarılan ve içinde dişli çarklardan oluşan bir mekanizma bulunduran bir miktar oksitlenmiş malzeme keşfetti. Parçaların X ışınları kullanılarak kapsamlı bir şekilde incelenmesi, araştırmacıların orijinal cihazın kısmî kopyalarını oluşturmak için yeterli ayrıntıları (dişliler, çarklar ve kol) ortaya çıkarmıştır. Büyük dişlilere kazınan gezegen isimleri (Venüs gibi); mekanizmanın amacı hakkında şüphe bırakmamıştır. Ancak, Roma İmparatorluğu'nun sonuna gelindiğinde, bu saat parçasının arkasındaki bilgi birikimi ve bilim kayboldu. === Orta Çağ ve Rönesans === Belgelenen ilk modern astraryum saati 1364 yılında astronomi ve zaman ölçme birimi ile ilgilenen Orta Çağ bilim adamlarından Giovanni de' Dondi (1318-1388) tarafından tamamlandı. 1630 yılında Mantua'nın görevden alınması sırasında kaybedildiği tahmin edilen ilk saat 107 teker ve çarktan oluşuyordu. Ancak de' Dondi, saat hakkında kalan ayrıntılı açıklamaları kullanarak saati yeniden yapılandırdı. Saatte ortalama güneş saati, yıldız, zaman, güneş ve ayın hareketleri ile o zamana kadar bilinen beş gezegen Venüs, Mars, Satürn, Merkür ve Jüpiter'in hareketleri gösteriliyordu. Gezegenlerin hareketlerinin görünümü, Batlamyus'un güneş sistemi anlayışına göre tasarlanmıştı. De' Dondi, 1344 yılında babası Piazzi dei Signori, Padua'da astronomik saati tasarlayan Jacopo'dan ilham aldı. İlerleyen dönemlerde daha fazla astrarya yapıldı. Bunun en çok bilinen örneği 1774 yılında Dronrijp, Friesland, Hollanda'da Eise Eisinga tarafından yapılan bir versiyonuydu. Bu versiyonda tüm gezegenler gösteriliyordu ve hâlâ ziyaret edilebilen Franeker'deki bir evde tabana sabitlendi. Modern zamanlarda astraryum, IMAX tiyatrolarında sergilenen, ticari olarak sömürülen bir planetaryum olarak turistik bir cazibe hâline geldi. == Ayrıca bakınız == Planetaryum == Kaynakça == == Dış bağlantılar == Annosphere16 Nisan 2013 tarihinde Wayback Machine sitesinde arşivlendi. Dünya/güneş ilişkisinin elektromekanik modeli. Science and Society 31 Temmuz 2017 tarihinde Wayback Machine sitesinde arşivlendi. sitesinde dünyanın ilk astronomik saati De Dondi'nin \"Astrarium\"un resmi, 1364. de Dondi'nin 14. yüzyıl tarzı Astraryum yüksek teknoloji ürünü Het Eise Eisinga Planetarium 21 Mart 2018 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 345,
+      "char_count": 2708,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.217259",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 130,
+      "content": "Astraryum, ayrıca diğer adıyla planetaryum, astronomik cisimlerin döngüsel niteliğini mekanik olarak temsil eden astronomik saat.",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0001",
+      "section": "=== Yunan ve Roma Dünyası ===",
+      "heading_path": "=== Yunan ve Roma Dünyası ===",
+      "start_char": 143,
+      "end_char": 961,
+      "content": "=== Yunan ve Roma Dünyası === İlk astrarya mekanik cihazlardan oluşuyordu. Arşimet, güneş, ay ve gezegenlerin konumlarını tahmin eden ilkel bir versiyon kullandığı söylenmiştir. 17 Mayıs 1902 tarihinde Valerios Stais adlı bir arkeolog, Antikythera yakınlarındaki bir gemi kazasından kurtarılan ve içinde dişli çarklardan oluşan bir mekanizma bulunduran bir miktar oksitlenmiş malzeme keşfetti. Parçaların X ışınları kullanılarak kapsamlı bir şekilde incelenmesi, araştırmacıların orijinal cihazın kısmî kopyalarını oluşturmak için yeterli ayrıntıları (dişliler, çarklar ve kol) ortaya çıkarmıştır. Büyük dişlilere kazınan gezegen isimleri (Venüs gibi); mekanizmanın amacı hakkında şüphe bırakmamıştır. Ancak, Roma İmparatorluğu'nun sonuna gelindiğinde, bu saat parçasının arkasındaki bilgi birikimi ve bilim kayboldu.",
+      "char_count": 817,
+      "token_estimate": 204
+    },
+    {
+      "id": "c0002",
+      "section": "=== Orta Çağ ve Rönesans ===",
+      "heading_path": "=== Orta Çağ ve Rönesans ===",
+      "start_char": 961,
+      "end_char": 1961,
+      "content": "=== Orta Çağ ve Rönesans === Belgelenen ilk modern astraryum saati 1364 yılında astronomi ve zaman ölçme birimi ile ilgilenen Orta Çağ bilim adamlarından Giovanni de' Dondi (1318-1388) tarafından tamamlandı. 1630 yılında Mantua'nın görevden alınması sırasında kaybedildiği tahmin edilen ilk saat 107 teker ve çarktan oluşuyordu. Ancak de' Dondi, saat hakkında kalan ayrıntılı açıklamaları kullanarak saati yeniden yapılandırdı. Saatte ortalama güneş saati, yıldız, zaman, güneş ve ayın hareketleri ile o zamana kadar bilinen beş gezegen Venüs, Mars, Satürn, Merkür ve Jüpiter'in hareketleri gösteriliyordu. Gezegenlerin hareketlerinin görünümü, Batlamyus'un güneş sistemi anlayışına göre tasarlanmıştı. De' Dondi, 1344 yılında babası Piazzi dei Signori, Padua'da astronomik saati tasarlayan Jacopo'dan ilham aldı. İlerleyen dönemlerde daha fazla astrarya yapıldı. Bunun en çok bilinen örneği 1774 yılında Dronrijp, Friesland, Hollanda'da Eise Eisinga tarafından yapılan bir versiyonuydu. Bu versiyond",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Orta Çağ ve Rönesans ===",
+      "heading_path": "=== Orta Çağ ve Rönesans ===",
+      "start_char": 1761,
+      "end_char": 2203,
+      "content": "n ilham aldı. İlerleyen dönemlerde daha fazla astrarya yapıldı. Bunun en çok bilinen örneği 1774 yılında Dronrijp, Friesland, Hollanda'da Eise Eisinga tarafından yapılan bir versiyonuydu. Bu versiyonda tüm gezegenler gösteriliyordu ve hâlâ ziyaret edilebilen Franeker'deki bir evde tabana sabitlendi. Modern zamanlarda astraryum, IMAX tiyatrolarında sergilenen, ticari olarak sömürülen bir planetaryum olarak turistik bir cazibe hâline geldi.",
+      "char_count": 442,
+      "token_estimate": 110
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2204,
+      "end_char": 2237,
+      "content": "== Ayrıca bakınız == Planetaryum",
+      "char_count": 32,
+      "token_estimate": 8
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2252,
+      "end_char": 2708,
+      "content": "== Dış bağlantılar == Annosphere16 Nisan 2013 tarihinde Wayback Machine sitesinde arşivlendi. Dünya/güneş ilişkisinin elektromekanik modeli. Science and Society 31 Temmuz 2017 tarihinde Wayback Machine sitesinde arşivlendi. sitesinde dünyanın ilk astronomik saati De Dondi'nin \"Astrarium\"un resmi, 1364. de Dondi'nin 14. yüzyıl tarzı Astraryum yüksek teknoloji ürünü Het Eise Eisinga Planetarium 21 Mart 2018 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 456,
+      "token_estimate": 114
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Giovanni de' Dondi tarafından tamamlanan ilk modern astraryum saati hangi yılda tamamlanmıştır?",
+        "answer": "1364",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Astraryumun (planetaryum) astronomik cisimlerin döngüsel niteliğini mekanik olarak temsil etme tanımı, Yunan ve Roma dünyasındaki ilk örneklerde ve Orta Çağ ile Rönesans'taki modern gelişiminde nasıl görüldü ve bu iki dönem arasındaki bilgi aktarımında belirgin fark neydi?",
+        "answer": "Astraryumun astronomik cisimlerin döngüsel niteliğini mekanik olarak temsil etme tanımı, her iki dönemde de bu cihazların temel işlevini yansıtmıştır. Yunan ve Roma dünyasında, Arşimet'in ilkel versiyonu ve Antikythera mekanizması gibi ilk astraryalar, güneş, ay ve gezegenlerin konumlarını tahmin etmek için dişli çarklardan oluşan mekanik cihazlardı. Orta Çağ ve Rönesans'ta ise Giovanni de' Dondi'nin 1364'te tamamladığı modern astraryum, 107 teker ve çarktan oluşarak ortalama güneş saati, yıldız zamanı, güneş, ay ve o zamana kadar bilinen beş gezegenin hareketlerini göstermiştir. Bu iki dönem arasındaki belirgin fark, Yunan ve Roma İmparatorluğu'nun sonunda astrarya yapımına dair bilgi birikimi ve bilimin kaybolmuş olması, Orta Çağ'da de' Dondi gibi bilim adamlarının çabalarıyla bu bilginin yeniden canlandırılıp modern bir formda geliştirilmesidir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

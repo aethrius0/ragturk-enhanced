@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "baluanolak_34b22e90",
+    "title": "Baluan Şolak",
+    "url": "https://tr.wikipedia.org/wiki/Baluan_%C5%9Eolak",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:28.622569",
+    "content": "Baluan Şolak (Kazakça: Baluan Şolaq; 1864-1919), Kazak besteci, şarkıcı, şair, dombra oyuncusu, cigit ve güreşçi. == Hayatı == Baluan Şolak, 11 Aralık 1864'te Rus İmparatorluğu'nun Akmolinsk Oblastı'nın Han Dağları yakınındaki Karaötkel köyünde doğdu. Bir marangozun oğluydu. Genç yaşta sağ elinin yanması sonucu bir kazada parmaklarını kaybetti ve Baluan Şolak, yani \"Parmaksız Savaşçı\" olarak tanınmaya başlandı. 14 yaşında dövüşmeye başladı ve yenilmez bir güreşçi olarak ün kazandı. Ayrıca Kazak şarkılarının şarkıcısı, Bircan Kocagülova ve Açan Seri'nin müziklerini besteleyip seslendiren bir akın olarak ün kazandı. Dombra sanatçıları, şarkıcılar, hikâye anlatıcıları, jokeyler ve güreşçilerden oluşan topluluğuyla birlikte Kökşetav, Karaötkel, Bayan-Avıl, İrtiş ve Sarısu'yu dolaştı ve gösteriler sahneledi. Sevgili Galiya'ya ithaf edilen Galiya ve Sentyabr de dahil olmak üzere bazı şarkıları Kazakistan'da oldukça popüler hale geldi. Şolak aynı zamanda dörtnala giden bir atın sırtında duran veya atın karnının altında binen başarılı bir cigit (becerikli at binicisi) idi. Fuarlarda 816 kg ağırlığı kaldırabiliyordu. Bir keresinde Koyandı Fuarı'nda Karen adında tanınmış bir güreşçiyle güreşti ve birkaç kaburga kemiğini kırdı. Baluan Şolak, halk arasında popülerliğini korudu ve gittiği her yerde saygı ve hürmet gördü. Şarkıları günümüzde hala duyulmaktadır ve adı Almatı'da 1967 yılında inşa edilen ve 5000 kişi kapasiteli Baluan Şolak Kültür ve Spor Sarayı onun onuruna verilmiştir. == Kaynakça == == Dış bağlantılar == Photograph of Baluan Sholak lifting an ox weighing 816 kg",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 218,
+      "char_count": 1590,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.908188",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 114,
+      "content": "Baluan Şolak (Kazakça: Baluan Şolaq; 1864-1919), Kazak besteci, şarkıcı, şair, dombra oyuncusu, cigit ve güreşçi.",
+      "char_count": 113,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 114,
+      "end_char": 1114,
+      "content": "== Hayatı == Baluan Şolak, 11 Aralık 1864'te Rus İmparatorluğu'nun Akmolinsk Oblastı'nın Han Dağları yakınındaki Karaötkel köyünde doğdu. Bir marangozun oğluydu. Genç yaşta sağ elinin yanması sonucu bir kazada parmaklarını kaybetti ve Baluan Şolak, yani \"Parmaksız Savaşçı\" olarak tanınmaya başlandı. 14 yaşında dövüşmeye başladı ve yenilmez bir güreşçi olarak ün kazandı. Ayrıca Kazak şarkılarının şarkıcısı, Bircan Kocagülova ve Açan Seri'nin müziklerini besteleyip seslendiren bir akın olarak ün kazandı. Dombra sanatçıları, şarkıcılar, hikâye anlatıcıları, jokeyler ve güreşçilerden oluşan topluluğuyla birlikte Kökşetav, Karaötkel, Bayan-Avıl, İrtiş ve Sarısu'yu dolaştı ve gösteriler sahneledi. Sevgili Galiya'ya ithaf edilen Galiya ve Sentyabr de dahil olmak üzere bazı şarkıları Kazakistan'da oldukça popüler hale geldi. Şolak aynı zamanda dörtnala giden bir atın sırtında duran veya atın karnının altında binen başarılı bir cigit (becerikli at binicisi) idi. Fuarlarda 816 kg ağırlığı kaldır",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 914,
+      "end_char": 1495,
+      "content": " oldukça popüler hale geldi. Şolak aynı zamanda dörtnala giden bir atın sırtında duran veya atın karnının altında binen başarılı bir cigit (becerikli at binicisi) idi. Fuarlarda 816 kg ağırlığı kaldırabiliyordu. Bir keresinde Koyandı Fuarı'nda Karen adında tanınmış bir güreşçiyle güreşti ve birkaç kaburga kemiğini kırdı. Baluan Şolak, halk arasında popülerliğini korudu ve gittiği her yerde saygı ve hürmet gördü. Şarkıları günümüzde hala duyulmaktadır ve adı Almatı'da 1967 yılında inşa edilen ve 5000 kişi kapasiteli Baluan Şolak Kültür ve Spor Sarayı onun onuruna verilmiştir.",
+      "char_count": 581,
+      "token_estimate": 145
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1511,
+      "end_char": 1590,
+      "content": "== Dış bağlantılar == Photograph of Baluan Sholak lifting an ox weighing 816 kg",
+      "char_count": 79,
+      "token_estimate": 19
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Baluan Şolak'ın \"Parmaksız Savaşçı\" lakabını almasının nedeni neydi?",
+        "answer": "Genç yaşta sağ elinin yanması sonucu bir kazada parmaklarını kaybetmesiydi.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Baluan Şolak'ın çeşitli yetenekleri ve benzersiz deneyimleri, onun geniş çaplı tanınmasına ve Kazak kültüründeki kalıcı mirasına nasıl katkıda bulunmuştur?",
+        "answer": "Baluan Şolak, bir besteci, şarkıcı, şair, dombra oyuncusu, cigit ve yenilmez bir güreşçi olarak sahip olduğu çok yönlü yetenekleriyle tanınmıştır. Çocukken geçirdiği bir kaza sonucu parmaklarını kaybetmesiyle \"Parmaksız Savaşçı\" lakabını alması, fuarlarda 816 kg ağırlığı kaldırması ve tanınmış güreşçilerle dövüşmesi gibi benzersiz deneyimleri de popülaritesini artırmıştır. Galiya ve Sentyabr gibi bestelediği ve seslendirdiği şarkılar oldukça popüler hale gelmiş ve günümüzde hala duyulmaktadır. Halk arasında kazandığı saygı ve hürmet, Almatı'da onuruna inşa edilen Baluan Şolak Kültür ve Spor Sarayı ile kalıcı bir miras bırakmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

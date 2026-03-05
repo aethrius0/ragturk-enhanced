@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "atepare_0cd81f84",
+    "title": "Ateşpare",
+    "url": "https://tr.wikipedia.org/wiki/Ate%C5%9Fpare",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:24:28.583873",
+    "content": "Ateşpare, Muallim Naci'nin 1883 yılında yayımlanan şiir kitabıdır. Tanzimat Dönemi Türk edebiyatının önemli eserlerinden biri olarak kabul edilen bu kitap, Muallim Naci'nin edebi anlayışını ve Divan şiiri geleneğine bağlılığını yansıtan şiirlerden oluşmaktadır. == Eleştiriler ve etkisi == Muallim Naci’nin edebi anlayışı, dönemin önemli isimlerinden Recaizade Mahmut Ekrem ile tartışmalara yol açmıştır. Recaizade Mahmut Ekrem, Muallim Naci’nin Divan şiirine olan bağlılığını eleştirirken, Naci ise edebi geleneğin korunması gerektiğini savunmuştur. Bu bağlamda, Ateşpare eseri de geleneksel şiir anlayışının bir ürünü olarak değerlendirilmiştir. == Yazar ve dönemi == Muallim Naci, Tanzimat dönemi edebiyatının önemli isimlerinden biri olup, özellikle Divan edebiyatını savunan ve bu geleneğe bağlı eserler veren bir şairdir. Ateşpare, onun bu anlayışını yansıtan ilk şiir kitaplarından biridir. == Önemi == Ateşpare, Muallim Naci'nin Divan edebiyatına olan sadakatini ve Ahmet Mithat Efendi gibi Tanzimat Dönemi yenilikçileriyle olan edebi tartışmalarını anlamak açısından önemli bir eserdir. Dönemin edebi atmosferini ve Muallim Naci'nin sanat anlayışını yansıtan eser, onun klasik şiir geleneğine bağlılığını ortaya koymaktadır. == İçeriği == Eserde yer alan şiirler, geleneksel Divan şiiri nazım şekilleriyle kaleme alınmıştır. Şair, şiirlerinde aşk, doğa ve bireysel duygular gibi temalara yer vermiştir. Aynı zamanda, Arapça ve Farsça sözcüklerin yoğun kullanımı dikkat çeker. Eserin dili süslü ve sanatlıdır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1532,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.247253",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 262,
+      "content": "Ateşpare, Muallim Naci'nin 1883 yılında yayımlanan şiir kitabıdır. Tanzimat Dönemi Türk edebiyatının önemli eserlerinden biri olarak kabul edilen bu kitap, Muallim Naci'nin edebi anlayışını ve Divan şiiri geleneğine bağlılığını yansıtan şiirlerden oluşmaktadır.",
+      "char_count": 261,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0001",
+      "section": "== Eleştiriler ve etkisi ==",
+      "heading_path": "== Eleştiriler ve etkisi ==",
+      "start_char": 262,
+      "end_char": 648,
+      "content": "== Eleştiriler ve etkisi == Muallim Naci’nin edebi anlayışı, dönemin önemli isimlerinden Recaizade Mahmut Ekrem ile tartışmalara yol açmıştır. Recaizade Mahmut Ekrem, Muallim Naci’nin Divan şiirine olan bağlılığını eleştirirken, Naci ise edebi geleneğin korunması gerektiğini savunmuştur. Bu bağlamda, Ateşpare eseri de geleneksel şiir anlayışının bir ürünü olarak değerlendirilmiştir.",
+      "char_count": 385,
+      "token_estimate": 96
+    },
+    {
+      "id": "c0002",
+      "section": "== Yazar ve dönemi ==",
+      "heading_path": "== Yazar ve dönemi ==",
+      "start_char": 648,
+      "end_char": 898,
+      "content": "== Yazar ve dönemi == Muallim Naci, Tanzimat dönemi edebiyatının önemli isimlerinden biri olup, özellikle Divan edebiyatını savunan ve bu geleneğe bağlı eserler veren bir şairdir. Ateşpare, onun bu anlayışını yansıtan ilk şiir kitaplarından biridir.",
+      "char_count": 249,
+      "token_estimate": 62
+    },
+    {
+      "id": "c0003",
+      "section": "== Önemi ==",
+      "heading_path": "== Önemi ==",
+      "start_char": 898,
+      "end_char": 1234,
+      "content": "== Önemi == Ateşpare, Muallim Naci'nin Divan edebiyatına olan sadakatini ve Ahmet Mithat Efendi gibi Tanzimat Dönemi yenilikçileriyle olan edebi tartışmalarını anlamak açısından önemli bir eserdir. Dönemin edebi atmosferini ve Muallim Naci'nin sanat anlayışını yansıtan eser, onun klasik şiir geleneğine bağlılığını ortaya koymaktadır.",
+      "char_count": 335,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0004",
+      "section": "== İçeriği ==",
+      "heading_path": "== İçeriği ==",
+      "start_char": 1234,
+      "end_char": 1518,
+      "content": "== İçeriği == Eserde yer alan şiirler, geleneksel Divan şiiri nazım şekilleriyle kaleme alınmıştır. Şair, şiirlerinde aşk, doğa ve bireysel duygular gibi temalara yer vermiştir. Aynı zamanda, Arapça ve Farsça sözcüklerin yoğun kullanımı dikkat çeker. Eserin dili süslü ve sanatlıdır.",
+      "char_count": 283,
+      "token_estimate": 70
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Muallim Naci'nin edebi anlayışı, dönemin önemli isimlerinden kiminle tartışmalara yol açmıştır?",
+        "answer": "Recaizade Mahmut Ekrem",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Muallim Naci'nin Ateşpare adlı eseri hangi edebi anlayışın bir yansıması olarak görülmüş ve bu durum Recaizade Mahmut Ekrem ile nasıl bir tartışmaya neden olmuştur?",
+        "answer": "Ateşpare, Muallim Naci'nin Divan şiiri geleneğine bağlılığını yansıtan ve geleneksel şiir anlayışının bir ürünü olarak değerlendirilen bir eserdir. Bu durum, Recaizade Mahmut Ekrem'in Naci'nin Divan şiirine olan bağlılığını eleştirmesi ve Naci'nin edebi geleneğin korunmasını savunması şeklinde bir tartışmaya yol açmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

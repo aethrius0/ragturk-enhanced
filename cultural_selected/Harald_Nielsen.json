@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "haraldnielsen_e3dc1730",
+    "title": "Harald Nielsen",
+    "url": "https://tr.wikipedia.org/wiki/Harald_Nielsen",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:15.033906",
+    "content": "Harald Ingemann Nielsen (26 Ekim 1941 - 11 Ağustos 2015), forvet pozisyonunda oynayan Danimarkalı bir futbolcuydu. Profesyonel olarak İtalyan kulübü Bologna FC'de oynadı ve Bologna'nın 1964 Serie A şampiyonluk sezonunda ligin en golcü oyuncusu (capocannoniere) oldu. Harald Nielsen, 1959 ve 1960'ta Danimarka millî takımı için 14 maç oynadı ve 15 gol attı ve Guld-Harald (Altın-Harald) olarak tanındı. Hem Danimarka millî takımının hem de ulusal ligin profesyonelleşmesi için sürekli olarak çalışan bir futbol girişimcisiydi. == Futbol dışında == 1970'lerde Nielsen, Danimarka'da futbolu profesyonelleştirmeye girişti ve 1977'de kendisi ve daha sonra Danimarka Bilim Bakanı Helge Sander profesyonel bir Danimarka futbol ligi kurmayı planladı. Bu planların bir sonucu olarak, Danimarka Futbol Federasyonu nihayet 1978'den itibaren Danimarka'da profesyonel futbola izin verdi. Harald Nielsen, Alex Friedman ile birlikte FC København A/S'yi kurdu ve ilk başkanı oldu, daha sonra Parken Sport & Entertainment oldu, ana faaliyeti 1992-1997 yılları arasında Danimarka kulübü FC København'dı, 2007'de yönetim kurulundan istifa etti ve kulübün ilk fahri üyesi oldu. Futbol kariyeri boyunca altı kitap yazdı ve bu kitaplar 1960'larda \"Harald-Books\" olarak tanındı. 75. doğum günü olan 26 Ekim 2016'da, Frederikshavn'daki Arena North'un önündeki meydana onun onuruna Harald Nielsens Plads adı verildi. 9 Temmuz 2018'de, gençliğinde Harald Nielsen'in 8+ fit uzunluğundaki heykeli meydanda açıldı ve bu, Danimarka'daki en büyük futbolcu heykeli oldu. Artık her yıl onun onuruna \"Årets Guld-Harald\" adlı bir ödül veriliyor. == Başarıları == Bologna Mitropa Kupası (Coupe Centrale D'Europe): 1961–62; ikincilik 1962–63 İtalya Serie A Şampiyonası: 1963–64 Danimarka Olimpiyat Gümüş Madalyası: Roma 1960 Bireysel Årets Fund (Danimarka'nın En Eski Spor Ödülü): 1959 Danimarka Şampiyonası – Turnuvanın En Golcü Oyuncusu: 1960 (19 gol) Olimpiyat Futbol Turnuvası'nda En Çok Gol Atan Oyuncu: Roma 1960 (6 gol) İlk Danimarka'da Yılın Futbolcusu: 1961 Mitropa Kupası Turnuvasında En Çok Gol Atan Oyuncu: 1961–62, 1962–63 YouTube'da Caltex Sportsman Dell'Anno: 1963–64 Serie A – Capocannoniere (Turnuvanın en golcü oyuncusu): 1962–63 (21 gol), 1963–64 (19 gol) İtalya Cumhuriyeti Liyakat Nişanı Şövalyesi: 1992 Sportens Ridderkors: 2002 Nettuno d'oro: 2004 Rebild Milli Park Topluluğu Onursal Başkanı: 2007 FC København İlk Onursal Üyesi: 2007 Danish Football Hall of Fame: 2010 Protektor FC Kopenhag Efsaneler Kulübü: 2014 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 349,
+      "char_count": 2515,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.883653",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 526,
+      "content": "Harald Ingemann Nielsen (26 Ekim 1941 - 11 Ağustos 2015), forvet pozisyonunda oynayan Danimarkalı bir futbolcuydu. Profesyonel olarak İtalyan kulübü Bologna FC'de oynadı ve Bologna'nın 1964 Serie A şampiyonluk sezonunda ligin en golcü oyuncusu (capocannoniere) oldu. Harald Nielsen, 1959 ve 1960'ta Danimarka millî takımı için 14 maç oynadı ve 15 gol attı ve Guld-Harald (Altın-Harald) olarak tanındı. Hem Danimarka millî takımının hem de ulusal ligin profesyonelleşmesi için sürekli olarak çalışan bir futbol girişimcisiydi.",
+      "char_count": 525,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0001",
+      "section": "== Futbol dışında ==",
+      "heading_path": "== Futbol dışında ==",
+      "start_char": 526,
+      "end_char": 1526,
+      "content": "== Futbol dışında == 1970'lerde Nielsen, Danimarka'da futbolu profesyonelleştirmeye girişti ve 1977'de kendisi ve daha sonra Danimarka Bilim Bakanı Helge Sander profesyonel bir Danimarka futbol ligi kurmayı planladı. Bu planların bir sonucu olarak, Danimarka Futbol Federasyonu nihayet 1978'den itibaren Danimarka'da profesyonel futbola izin verdi. Harald Nielsen, Alex Friedman ile birlikte FC København A/S'yi kurdu ve ilk başkanı oldu, daha sonra Parken Sport & Entertainment oldu, ana faaliyeti 1992-1997 yılları arasında Danimarka kulübü FC København'dı, 2007'de yönetim kurulundan istifa etti ve kulübün ilk fahri üyesi oldu. Futbol kariyeri boyunca altı kitap yazdı ve bu kitaplar 1960'larda \"Harald-Books\" olarak tanındı. 75. doğum günü olan 26 Ekim 2016'da, Frederikshavn'daki Arena North'un önündeki meydana onun onuruna Harald Nielsens Plads adı verildi. 9 Temmuz 2018'de, gençliğinde Harald Nielsen'in 8+ fit uzunluğundaki heykeli meydanda açıldı ve bu, Danimarka'daki en büyük futbolcu h",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Futbol dışında ==",
+      "heading_path": "== Futbol dışında ==",
+      "start_char": 1326,
+      "end_char": 1610,
+      "content": " önündeki meydana onun onuruna Harald Nielsens Plads adı verildi. 9 Temmuz 2018'de, gençliğinde Harald Nielsen'in 8+ fit uzunluğundaki heykeli meydanda açıldı ve bu, Danimarka'daki en büyük futbolcu heykeli oldu. Artık her yıl onun onuruna \"Årets Guld-Harald\" adlı bir ödül veriliyor.",
+      "char_count": 284,
+      "token_estimate": 71
+    },
+    {
+      "id": "c0003",
+      "section": "== Başarıları ==",
+      "heading_path": "== Başarıları ==",
+      "start_char": 1611,
+      "end_char": 2501,
+      "content": "== Başarıları == Bologna Mitropa Kupası (Coupe Centrale D'Europe): 1961–62; ikincilik 1962–63 İtalya Serie A Şampiyonası: 1963–64 Danimarka Olimpiyat Gümüş Madalyası: Roma 1960 Bireysel Årets Fund (Danimarka'nın En Eski Spor Ödülü): 1959 Danimarka Şampiyonası – Turnuvanın En Golcü Oyuncusu: 1960 (19 gol) Olimpiyat Futbol Turnuvası'nda En Çok Gol Atan Oyuncu: Roma 1960 (6 gol) İlk Danimarka'da Yılın Futbolcusu: 1961 Mitropa Kupası Turnuvasında En Çok Gol Atan Oyuncu: 1961–62, 1962–63 YouTube'da Caltex Sportsman Dell'Anno: 1963–64 Serie A – Capocannoniere (Turnuvanın en golcü oyuncusu): 1962–63 (21 gol), 1963–64 (19 gol) İtalya Cumhuriyeti Liyakat Nişanı Şövalyesi: 1992 Sportens Ridderkors: 2002 Nettuno d'oro: 2004 Rebild Milli Park Topluluğu Onursal Başkanı: 2007 FC København İlk Onursal Üyesi: 2007 Danish Football Hall of Fame: 2010 Protektor FC Kopenhag Efsaneler Kulübü: 2014",
+      "char_count": 889,
+      "token_estimate": 222
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Harald Nielsen, Alex Friedman ile birlikte hangi organizasyonu kurdu?",
+        "answer": "FC København A/S'yi.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Harald Nielsen'in hem futbolcu hem de futbol girişimcisi olarak Danimarka futbolunun profesyonelleşmesine katkıları nelerdi?",
+        "answer": "Harald Nielsen, kariyeri boyunca hem Danimarka millî takımının hem de ulusal ligin profesyonelleşmesi için sürekli çalışan bir futbol girişimcisiydi. 1970'lerde Danimarka'da futbolu profesyonelleştirmeye girişerek, 1977'de Helge Sander ile profesyonel bir Danimarka futbol ligi kurmayı planladı. Bu planların bir sonucu olarak, Danimarka Futbol Federasyonu nihayet 1978'den itibaren profesyonel futbola izin verdi. Ayrıca, Alex Friedman ile birlikte FC København A/S'yi kurdu ve ilk başkanı oldu, bu da Danimarka futbolunda profesyonel kulüp yapısının gelişimine öncülük etti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "rostock_dde74e4e",
+    "title": "Rostock",
+    "url": "https://tr.wikipedia.org/wiki/Rostock",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:51:24.742353",
+    "content": "Rostock, Almanya'nın Mecklenburg-Vorpommern eyaletinde bulunan en büyük şehirdir. Almanya'nın diğer kalabalık şehirlerine karşılık, surlarının büyük bir kısmının ayakta kalabildiği az sayılı büyükşehirlerinden biridir. == Coğrafî konum == Rostock şehri Mecklenburg-Vorpommern eyaletinin Baltık Denizi üzerinde bulunan sahillerinin hemen hemen ortasındadır. Şehrin ortasından Warnow Nehri geçer. Rostock, Warnow Nehri'nin her iki yakasındadır. Rostock şehrinin belediye sınırları Warnow Nehri'nin kıyısında yaklaşık 20 km uzunluğunda olup Baltık Denizi sahiline kadar uzanmaktadır. Şehrin Warnemünde semti şehir merkezinin 12 km kuzeyinde olup Baltık Denizi kıyısındadır. Şehrin en yoğun binalarla dolu bölgesi nehrin batı sahillerinde bulunmaktadır. Şehrin en yoğun nüfuslu bölgeleri şehrin batısı ve güneybatısındadır. Nehrin doğu sahilde bulunan belediye sınırları içindeki bölgeler ise sanayi bölgesidir ve \"Rostock Heide Kırlığı\"nda ormanlık araziyi kapsar. Baltık Denizi kıyıları, tarihî şehir merkezinin 16 km kuzeyinde bulunan Rostock-Warnemünde sayfiye semtindedir. Rostock, bir liman şehri olarak tanınmakta olup uluslararası limanı şehrin doğusundadır. Rostock şehrinin Baltık Denizi kıyısından güneye doğru kuzey-güney uzunluğu 21,6 km'dir ve doğu-batı yönünde en geniş tarafı 19,4 km'dir. Rostock'un nüfusu (2017 sonu itibarıyla) 208.409'tir. == Uluslararası ortaklık == Turku, Finlandiya Szczecin, Polonya Bergen, Norveç, Norveç Varna, Bulgaristan Dunkirk, Fransa Rijeka, Hırvatistan Riga, Letonya Bremen, Almanya Antwerp, Belçika Dalian, Çin Århus, Danimarka Raleigh, North Carolina, Amerika Birleşik Devletleri Gothenburg, İsveç == Resimler == == Kaynakça == == Dış bağlantılar == Resmî site (Almanca) Tarih özeti1 Ekim 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 223,
+      "char_count": 1799,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.572472",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 219,
+      "content": "Rostock, Almanya'nın Mecklenburg-Vorpommern eyaletinde bulunan en büyük şehirdir. Almanya'nın diğer kalabalık şehirlerine karşılık, surlarının büyük bir kısmının ayakta kalabildiği az sayılı büyükşehirlerinden biridir.",
+      "char_count": 218,
+      "token_estimate": 54
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafî konum ==",
+      "heading_path": "== Coğrafî konum ==",
+      "start_char": 219,
+      "end_char": 1219,
+      "content": "== Coğrafî konum == Rostock şehri Mecklenburg-Vorpommern eyaletinin Baltık Denizi üzerinde bulunan sahillerinin hemen hemen ortasındadır. Şehrin ortasından Warnow Nehri geçer. Rostock, Warnow Nehri'nin her iki yakasındadır. Rostock şehrinin belediye sınırları Warnow Nehri'nin kıyısında yaklaşık 20 km uzunluğunda olup Baltık Denizi sahiline kadar uzanmaktadır. Şehrin Warnemünde semti şehir merkezinin 12 km kuzeyinde olup Baltık Denizi kıyısındadır. Şehrin en yoğun binalarla dolu bölgesi nehrin batı sahillerinde bulunmaktadır. Şehrin en yoğun nüfuslu bölgeleri şehrin batısı ve güneybatısındadır. Nehrin doğu sahilde bulunan belediye sınırları içindeki bölgeler ise sanayi bölgesidir ve \"Rostock Heide Kırlığı\"nda ormanlık araziyi kapsar. Baltık Denizi kıyıları, tarihî şehir merkezinin 16 km kuzeyinde bulunan Rostock-Warnemünde sayfiye semtindedir. Rostock, bir liman şehri olarak tanınmakta olup uluslararası limanı şehrin doğusundadır. Rostock şehrinin Baltık Denizi kıyısından güneye doğru k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Coğrafî konum ==",
+      "heading_path": "== Coğrafî konum ==",
+      "start_char": 1019,
+      "end_char": 1354,
+      "content": "eyinde bulunan Rostock-Warnemünde sayfiye semtindedir. Rostock, bir liman şehri olarak tanınmakta olup uluslararası limanı şehrin doğusundadır. Rostock şehrinin Baltık Denizi kıyısından güneye doğru kuzey-güney uzunluğu 21,6 km'dir ve doğu-batı yönünde en geniş tarafı 19,4 km'dir. Rostock'un nüfusu (2017 sonu itibarıyla) 208.409'tir.",
+      "char_count": 335,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0003",
+      "section": "== Uluslararası ortaklık ==",
+      "heading_path": "== Uluslararası ortaklık ==",
+      "start_char": 1355,
+      "end_char": 1644,
+      "content": "== Uluslararası ortaklık == Turku, Finlandiya Szczecin, Polonya Bergen, Norveç, Norveç Varna, Bulgaristan Dunkirk, Fransa Rijeka, Hırvatistan Riga, Letonya Bremen, Almanya Antwerp, Belçika Dalian, Çin Århus, Danimarka Raleigh, North Carolina, Amerika Birleşik Devletleri Gothenburg, İsveç",
+      "char_count": 288,
+      "token_estimate": 72
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1674,
+      "end_char": 1799,
+      "content": "== Dış bağlantılar == Resmî site (Almanca) Tarih özeti1 Ekim 2011 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce)",
+      "char_count": 125,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Rostock şehrinin ortasından hangi nehir geçmektedir?",
+        "answer": "Warnow Nehri",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mecklenburg-Vorpommern eyaletinin en büyük şehri olan Rostock'un coğrafi konumu, şehrin ana kimliğini nasıl şekillendirmektedir?",
+        "answer": "Rostock, Mecklenburg-Vorpommern eyaletinin en büyük şehri olup, Baltık Denizi sahillerinin ortasında yer almakta ve Warnow Nehri tarafından ikiye bölünmektedir. Bu coğrafi konum, şehrin uluslararası bir liman şehri olarak tanınmasını sağlamakta ve kimliğini önemli ölçüde belirlemektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

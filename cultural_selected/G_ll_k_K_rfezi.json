@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "gllkkrfezi_b85c8020",
+    "title": "Güllük Körfezi",
+    "url": "https://tr.wikipedia.org/wiki/G%C3%BCll%C3%BCk_K%C3%B6rfezi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:09.233135",
+    "content": "Güllük Körfezi, Ege Denizi'nde, Muğla ili Milas, Bodrum ile Aydın ili Didim sınırlarında kalan körfez. Kuzeyde Tekağaç Burnu ile güneyde Yalıkavak Yarımadası arası 21 km, genişliği 32 km kadardır. Körfezde, turizm, deniz taşımacılığı, balıkçılık ve diğer kıyısal etkinlikler yapılmaktadır. Milas, Çine ve Bozdağ'dan üretilen felspat madeni körfez içindeki Güllük Limanı'ndan ihraç edilmektedir. Körfez açıklarında Yunanistana ait Bulamaç (Farmakonisi) Adası bulunur. Kıyılarda İassos, Bargylia gibi antik kent kalıntılar vardır. Tekağaç Burnu çevresinde antik şehir Didyma'nın kalıntıları bulunur. Türkiye'nin önemli sulak alanlarından olan Gülük Lagünü ve Tuzla-Boğaziçi Gölü körfez kıyılarında yer alır. Sulak alanlar turizm, balıkçılık ve kültürel açıdan önemlidir. == Kirlilik == Kıyıdaki yerleşimler, sanayi etkinlikleri ve tarımsal faaliyetler körfezin başlıca kirleticileridir. 2000 yılında ilgili bakanlıklarca Su Ürünleri Potansiyel Üretim ve Gelişim Alanı ilan edilmiştir. Karardan sonra bölgeye 124 ağ kafes kurulmuştur. Körfez içinde yapılan kafes balıkçılığı turizmciler ile balıkçıları karşı karşıya getirmiştir. Körfez kıyılarındaki 30 kadar beş yıldızlı otel, 130'dan fazla apart otel ve pansiyon, 30.000 yazlık kirlilikten zarar gördü. Zamanla sayıları 130'a çıkan kafesler, 2007 yılında balık çiftliklerinin koy ve körfezlerde kurulamayacağı ile ilgili tebliğinden sonra açığa taşındı. Milas-Bodrum Havalimanı körfez kıyılarındadır. == Meteoroloji == Yıllık ortalama sıcaklık 18.4, yaz aylarında 27.3'dür.Yıllık ortalama yağış miktarı 578,1 mm/m2, nem oranı ortalama %62,49 dur. Güllük Körfezi'nde rüzgarlar gündüz 11.00 de çıkar ve sertleşir. Gün batımında kalır ve gece karadan eser. == Ayrıca bakınız == Türkiye'deki körfezler listesi == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 229,
+      "char_count": 1770,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.699429",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 769,
+      "content": "Güllük Körfezi, Ege Denizi'nde, Muğla ili Milas, Bodrum ile Aydın ili Didim sınırlarında kalan körfez. Kuzeyde Tekağaç Burnu ile güneyde Yalıkavak Yarımadası arası 21 km, genişliği 32 km kadardır. Körfezde, turizm, deniz taşımacılığı, balıkçılık ve diğer kıyısal etkinlikler yapılmaktadır. Milas, Çine ve Bozdağ'dan üretilen felspat madeni körfez içindeki Güllük Limanı'ndan ihraç edilmektedir. Körfez açıklarında Yunanistana ait Bulamaç (Farmakonisi) Adası bulunur. Kıyılarda İassos, Bargylia gibi antik kent kalıntılar vardır. Tekağaç Burnu çevresinde antik şehir Didyma'nın kalıntıları bulunur. Türkiye'nin önemli sulak alanlarından olan Gülük Lagünü ve Tuzla-Boğaziçi Gölü körfez kıyılarında yer alır. Sulak alanlar turizm, balıkçılık ve kültürel açıdan önemlidir.",
+      "char_count": 768,
+      "token_estimate": 192
+    },
+    {
+      "id": "c0001",
+      "section": "== Kirlilik ==",
+      "heading_path": "== Kirlilik ==",
+      "start_char": 769,
+      "end_char": 1451,
+      "content": "== Kirlilik == Kıyıdaki yerleşimler, sanayi etkinlikleri ve tarımsal faaliyetler körfezin başlıca kirleticileridir. 2000 yılında ilgili bakanlıklarca Su Ürünleri Potansiyel Üretim ve Gelişim Alanı ilan edilmiştir. Karardan sonra bölgeye 124 ağ kafes kurulmuştur. Körfez içinde yapılan kafes balıkçılığı turizmciler ile balıkçıları karşı karşıya getirmiştir. Körfez kıyılarındaki 30 kadar beş yıldızlı otel, 130'dan fazla apart otel ve pansiyon, 30.000 yazlık kirlilikten zarar gördü. Zamanla sayıları 130'a çıkan kafesler, 2007 yılında balık çiftliklerinin koy ve körfezlerde kurulamayacağı ile ilgili tebliğinden sonra açığa taşındı. Milas-Bodrum Havalimanı körfez kıyılarındadır.",
+      "char_count": 681,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0002",
+      "section": "== Meteoroloji ==",
+      "heading_path": "== Meteoroloji ==",
+      "start_char": 1451,
+      "end_char": 1704,
+      "content": "== Meteoroloji == Yıllık ortalama sıcaklık 18.4, yaz aylarında 27.3'dür.Yıllık ortalama yağış miktarı 578,1 mm/m2, nem oranı ortalama %62,49 dur. Güllük Körfezi'nde rüzgarlar gündüz 11.00 de çıkar ve sertleşir. Gün batımında kalır ve gece karadan eser.",
+      "char_count": 252,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0003",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1704,
+      "end_char": 1756,
+      "content": "== Ayrıca bakınız == Türkiye'deki körfezler listesi",
+      "char_count": 51,
+      "token_estimate": 12
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Güllük Limanı'ndan hangi maden ihraç edilmektedir?",
+        "answer": "Felspat madeni.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Güllük Körfezi'ndeki ekonomik ve kıyısal faaliyetler, körfezin kirliliğine nasıl yol açmış ve bu kirliliğin önemli sonuçları neler olmuştur?",
+        "answer": "Körfezdeki kıyı yerleşimleri, sanayi ve tarımsal faaliyetler başlıca kirleticiler arasındadır. Özellikle 2000 yılında ilan edilen 'Su Ürünleri Potansiyel Üretim ve Gelişim Alanı' kararıyla kurulan ağ kafes balıkçılığı, turizmciler ile balıkçıları karşı karşıya getirmiştir. Kirlilik, körfez kıyılarındaki yaklaşık 30 beş yıldızlı otelin, 130'dan fazla apart otelin/pansiyonun ve 30.000 yazlığın zarar görmesine neden olmuş, bu durum 2007 yılında balık çiftliklerinin koy ve körfezlerden açığa taşınması kararıyla sonuçlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

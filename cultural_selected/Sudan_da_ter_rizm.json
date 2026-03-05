@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "sudandaterrizm_9cae086d",
+    "title": "Sudan'da terörizm",
+    "url": "https://tr.wikipedia.org/wiki/Sudan%27da_ter%C3%B6rizm",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:54:57.838058",
+    "content": "Son savaştan beri Sudan'da terörizm yaşanmaktadır. Bununla birlikte Sudan hükûmeti, ülkedeki terörizm ile mücadele etmekte kararlılık göstermektedir Sudan, kendi sınırları içerisindeki terörü durdurmada ilerleme katetmiştir. Sudan'ın terörist bağlantıları yeni değildir ve ülke Ağustos 1993'ten beri ABD'nin terörizmin devlet destekçileri listesinde yer almaktadır. Sudan, 1996'dan beri Birleşmiş Milletler tarafından diplomatik yaptırımlara uğramaktadır. Sudan, Mısır ve Libya ile ve büyük ve yoksul bir Müslüman nüfusuna sahip Etiyopya'yı da içeren altı Afrika ülkesine sınırları dolayısıyla İslami devrimi ihraç etmek için stratejik bir konuma sahiptir. Sudan'da terörizm, 1990'ların başlarında Usame bin Ladin ve takipçilerinin ülkeye gelip bir eğitim kampı altyapısı oluşturmanın yanı sıra bir iş ve finans ağı kurmasıyla başladı. == Sudan'da terörist örgütler == Sudan Halk Kurtuluş Ordusu (SHKO), özerklik savaşında terörist yöntemler kullanması sebebiyle Africa Watch tarafından suçlanmıştır. 2001'de SHKO sivil petrol hedeflerine saldırdı, kayda değer sayıda sivile ve yardım görevlisini öldürdü, bununla birlikte sivillere roketler sattı. == Eğitim kampları == Birçok terörist örgütün, ülkede birkaç eğitim kampı mevcuttur. Sudan, Güney Sudan ile 2011'deki ayrılıktan sonra, Afrika'daki en büyük üçüncü terörist eğitim merkezi saklamak için yaygın bir yer haline gelmiştir. Belirli yerlerin belirli ülkelerdeki belirli grupları veya insanları eğittiği bilinmektedir. Şendi yakınlarındaki el-Maokil Kampı Cezayirlileri ve Tunusluları eğitmek içindi. Mayıs 1990'un başlarında, Kuzey Afrika, Fransa ve Belçika'dan bazı 60 Arap Hartoum'un Şambat bölgesinde eğitime başlamıştır. Hartum'un kuzeyindeki el-Halifiye bölgesinde, Cezayir İslami Kurtuluş Ordusu ve Silahlı İslamı Grup için eğitimler gerçekleştirilmiştir. Hartum'un güneyinde, Mavi Nil kıyısındaki Akhil el-Evliya'da 500'den fazla Filistinli, Suriyeli ve Ürdünlü eğitildi. == Sudan'da terör olayları listesi == Sudan'da 1970'ten beri terör olaylarının listesi: == Kaynakça == == Kaynaklar == http://www.sudantribune.com/spip.php?article30535  https://web.archive.org/web/20091004174556/http://www.sudan.net/news/press/postedr/43.shtml == Dış bağlantılar == http://www2.canada.com/topics/news/story.html?id=1461349 Canadian accused of terrorism in Sudan denied passport http://www.mediamonitors.net/mosaddeq16.html United States Terrorism in the Sudan http://www.survivorsrightsinternational.org/sri_news/SRI-Khar.pdf Eradication of Terrorism Forestalled by Khartoum's Genocidal Policies and Oppressive Rule United States Department of State Strikes on Terrorist-Related Facilities in Afghanistan and Sudan August 20, 1998 Africa and the war on terrorism By John Davis",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 319,
+      "char_count": 2732,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.634411",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 836,
+      "content": "Son savaştan beri Sudan'da terörizm yaşanmaktadır. Bununla birlikte Sudan hükûmeti, ülkedeki terörizm ile mücadele etmekte kararlılık göstermektedir Sudan, kendi sınırları içerisindeki terörü durdurmada ilerleme katetmiştir. Sudan'ın terörist bağlantıları yeni değildir ve ülke Ağustos 1993'ten beri ABD'nin terörizmin devlet destekçileri listesinde yer almaktadır. Sudan, 1996'dan beri Birleşmiş Milletler tarafından diplomatik yaptırımlara uğramaktadır. Sudan, Mısır ve Libya ile ve büyük ve yoksul bir Müslüman nüfusuna sahip Etiyopya'yı da içeren altı Afrika ülkesine sınırları dolayısıyla İslami devrimi ihraç etmek için stratejik bir konuma sahiptir. Sudan'da terörizm, 1990'ların başlarında Usame bin Ladin ve takipçilerinin ülkeye gelip bir eğitim kampı altyapısı oluşturmanın yanı sıra bir iş ve finans ağı kurmasıyla başladı.",
+      "char_count": 835,
+      "token_estimate": 208
+    },
+    {
+      "id": "c0001",
+      "section": "== Sudan'da terörist örgütler ==",
+      "heading_path": "== Sudan'da terörist örgütler ==",
+      "start_char": 836,
+      "end_char": 1149,
+      "content": "== Sudan'da terörist örgütler == Sudan Halk Kurtuluş Ordusu (SHKO), özerklik savaşında terörist yöntemler kullanması sebebiyle Africa Watch tarafından suçlanmıştır. 2001'de SHKO sivil petrol hedeflerine saldırdı, kayda değer sayıda sivile ve yardım görevlisini öldürdü, bununla birlikte sivillere roketler sattı.",
+      "char_count": 312,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0002",
+      "section": "== Eğitim kampları ==",
+      "heading_path": "== Eğitim kampları ==",
+      "start_char": 1149,
+      "end_char": 1938,
+      "content": "== Eğitim kampları == Birçok terörist örgütün, ülkede birkaç eğitim kampı mevcuttur. Sudan, Güney Sudan ile 2011'deki ayrılıktan sonra, Afrika'daki en büyük üçüncü terörist eğitim merkezi saklamak için yaygın bir yer haline gelmiştir. Belirli yerlerin belirli ülkelerdeki belirli grupları veya insanları eğittiği bilinmektedir. Şendi yakınlarındaki el-Maokil Kampı Cezayirlileri ve Tunusluları eğitmek içindi. Mayıs 1990'un başlarında, Kuzey Afrika, Fransa ve Belçika'dan bazı 60 Arap Hartoum'un Şambat bölgesinde eğitime başlamıştır. Hartum'un kuzeyindeki el-Halifiye bölgesinde, Cezayir İslami Kurtuluş Ordusu ve Silahlı İslamı Grup için eğitimler gerçekleştirilmiştir. Hartum'un güneyinde, Mavi Nil kıyısındaki Akhil el-Evliya'da 500'den fazla Filistinli, Suriyeli ve Ürdünlü eğitildi.",
+      "char_count": 788,
+      "token_estimate": 197
+    },
+    {
+      "id": "c0003",
+      "section": "== Sudan'da terör olayları listesi ==",
+      "heading_path": "== Sudan'da terör olayları listesi ==",
+      "start_char": 1938,
+      "end_char": 2026,
+      "content": "== Sudan'da terör olayları listesi == Sudan'da 1970'ten beri terör olaylarının listesi:",
+      "char_count": 87,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynaklar ==",
+      "heading_path": "== Kaynaklar ==",
+      "start_char": 2041,
+      "end_char": 2200,
+      "content": "== Kaynaklar == http://www.sudantribune.com/spip.php?article30535  https://web.archive.org/web/20091004174556/http://www.sudan.net/news/press/postedr/43.shtml",
+      "char_count": 158,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2200,
+      "end_char": 2732,
+      "content": "== Dış bağlantılar == http://www2.canada.com/topics/news/story.html?id=1461349 Canadian accused of terrorism in Sudan denied passport http://www.mediamonitors.net/mosaddeq16.html United States Terrorism in the Sudan http://www.survivorsrightsinternational.org/sri_news/SRI-Khar.pdf Eradication of Terrorism Forestalled by Khartoum's Genocidal Policies and Oppressive Rule United States Department of State Strikes on Terrorist-Related Facilities in Afghanistan and Sudan August 20, 1998 Africa and the war on terrorism By John Davis",
+      "char_count": 532,
+      "token_estimate": 133
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sudan, ABD'nin terörizmin devlet destekçileri listesine ne zamandan beri dahildir?",
+        "answer": "Ağustos 1993'ten beri.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sudan'da terörizmin erken dönemde başlamasında Usame bin Ladin'in eğitim kampı altyapısı kurmasının rolü göz önüne alındığında, ülkenin terörizme devlet desteği geçmişi ve Sudan Halk Kurtuluş Ordusu gibi yerel grupların faaliyetleri, ülkedeki terör ortamının hangi genel özelliklerini yansıtmaktadır?",
+        "answer": "Sudan'daki terör ortamı, Usame bin Ladin ve takipçilerinin 1990'ların başlarında bir eğitim kampı altyapısı kurmasıyla başlamış ve Ağustos 1993'ten beri ABD'nin terörizmin devlet destekçileri listesinde yer alması gibi bir devlet desteği geçmişiyle şekillenmiştir. Bu ortam, yalnızca Şendi yakınlarındaki el-Maokil Kampı ve Hartum'un güneyindeki Akhil el-Evliya gibi yerlerde Cezayirliler, Tunuslular, Filistinliler, Suriyeliler ve Ürdünlüler dahil olmak üzere çeşitli yabancı uyruklardan kişilere ve gruplara eğitim kampları sunmasıyla kalmayıp, aynı zamanda Sudan Halk Kurtuluş Ordusu (SHKO) gibi yerel grupların özerklik savaşında sivil petrol hedeflerine saldırma, kayda değer sayıda sivili ve yardım görevlisini öldürme gibi terörist yöntemler kullanmasıyla da çeşitlilik göstermektedir. Bu durum, Sudan'ın hem uluslararası terörizm için bir üs hem de iç çatışmalarda terörün kullanıldığı bir ülke olma özelliğini yansıtmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

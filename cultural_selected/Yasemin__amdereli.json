@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "yaseminamdereli_9a7ca69e",
+    "title": "Yasemin Şamdereli",
+    "url": "https://tr.wikipedia.org/wiki/Yasemin_%C5%9Eamdereli",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:43.558939",
+    "content": "Yasemin Şamdereli (d. 15 Temmuz 1973, Dortmund, Almanya), Alman yönetmen ve senaristtir. == Hayatı == 1959 yılında Tunceli'den Almanya'ya çalışmak için giden ilk işçi ailelerinden birinin çocuğudur. Temel eğitimini Almanya'nın Münih kentinde tamamladıktan sonra 1990 yılında Münih Televizyon ve Film Yüksek Okuluna (Hochschule für Fernsehen und Film München) kaydoldu. 1993'te okulu bitirdikten sonra 1989 yılından beri serbest olarak çalıştığı Bavaria Film şirketinde yardımcı yönetmen olarak çalışmaya başladı. Kameraman Michael Ballhaus ile birlikte çektiği ilk deneme filmi Das filmende Klassenzimmer başarılı olunca ikinci film denemesini 1997 yılında Jackie Chan'in filmi (Who am I?)'da yardımcı yönetmen olarak yaptı. Daha sonra 1994-2006 yılları arasında yedi film çekti. Alman televizyon kanalı ProSieben için çektiği ve Türkiz Talay'ın başrolünü oynadığı Alles getürkt! (Her şey Türkleştirildi!) filmi ile ismi Almanya çapında duyuldu. == Ödülleri == 2000 Short Tiger (En çok beğenilen film ödülü Kismet) == Filmleri == 1994 Schlüssellöcher 1995 Lieber Gott 1996 Lachnummern 1999 Kısmet 2002 Alles getürkt! 2004 Sextasy 2006 Ich Chefe, du nix! 2011 Almanya - Wilkommen in Deutschland == Kaynaklar == == Dış bağlantılar == Yasemin Şamdereli ile ilgili Wiki'de yazılan yazılar 23 Eylül 2018 tarihinde Wayback Machine sitesinde arşivlendi. == Kaynakça == Bu maddenin çoğu Wikipedia'nın aynı başlıklı Almanca maddeden 23 Eylül 2018 tarihinde Wayback Machine sitesinde arşivlendi. alınmadır.]",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 208,
+      "char_count": 1497,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.032762",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 89,
+      "content": "Yasemin Şamdereli (d. 15 Temmuz 1973, Dortmund, Almanya), Alman yönetmen ve senaristtir.",
+      "char_count": 88,
+      "token_estimate": 22
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 89,
+      "end_char": 946,
+      "content": "== Hayatı == 1959 yılında Tunceli'den Almanya'ya çalışmak için giden ilk işçi ailelerinden birinin çocuğudur. Temel eğitimini Almanya'nın Münih kentinde tamamladıktan sonra 1990 yılında Münih Televizyon ve Film Yüksek Okuluna (Hochschule für Fernsehen und Film München) kaydoldu. 1993'te okulu bitirdikten sonra 1989 yılından beri serbest olarak çalıştığı Bavaria Film şirketinde yardımcı yönetmen olarak çalışmaya başladı. Kameraman Michael Ballhaus ile birlikte çektiği ilk deneme filmi Das filmende Klassenzimmer başarılı olunca ikinci film denemesini 1997 yılında Jackie Chan'in filmi (Who am I?)'da yardımcı yönetmen olarak yaptı. Daha sonra 1994-2006 yılları arasında yedi film çekti. Alman televizyon kanalı ProSieben için çektiği ve Türkiz Talay'ın başrolünü oynadığı Alles getürkt! (Her şey Türkleştirildi!) filmi ile ismi Almanya çapında duyuldu.",
+      "char_count": 856,
+      "token_estimate": 214
+    },
+    {
+      "id": "c0002",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 946,
+      "end_char": 1015,
+      "content": "== Ödülleri == 2000 Short Tiger (En çok beğenilen film ödülü Kismet)",
+      "char_count": 68,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0003",
+      "section": "== Filmleri ==",
+      "heading_path": "== Filmleri ==",
+      "start_char": 1015,
+      "end_char": 1194,
+      "content": "== Filmleri == 1994 Schlüssellöcher 1995 Lieber Gott 1996 Lachnummern 1999 Kısmet 2002 Alles getürkt! 2004 Sextasy 2006 Ich Chefe, du nix! 2011 Almanya - Wilkommen in Deutschland",
+      "char_count": 178,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1210,
+      "end_char": 1347,
+      "content": "== Dış bağlantılar == Yasemin Şamdereli ile ilgili Wiki'de yazılan yazılar 23 Eylül 2018 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 136,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0005",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1347,
+      "end_char": 1497,
+      "content": "== Kaynakça == Bu maddenin çoğu Wikipedia'nın aynı başlıklı Almanca maddeden 23 Eylül 2018 tarihinde Wayback Machine sitesinde arşivlendi. alınmadır.]",
+      "char_count": 150,
+      "token_estimate": 37
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1990 yılında hangi okula kaydoldu?",
+        "answer": "Münih Televizyon ve Film Yüksek Okuluna (Hochschule für Fernsehen und Film München)",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yasemin Şamdereli'nin Almanya'daki doğumu ve ailesinin göçmen geçmişi ile yönetmenlik kariyerindeki bir eserinin adı arasındaki ilişki, onun kimliği hakkında ne gibi bir sentez sunar?",
+        "answer": "Almanya'nın Dortmund kentinde 1973 yılında doğan Yasemin Şamdereli'nin ailesi, 1959'da Tunceli'den Almanya'ya çalışmak için giden ilk işçi ailelerinden biridir. Bu kökenler, onun hem Alman hem de Türk kültürel kimliklerini taşıdığını göstermektedir. Yönetmenliğini yaptığı ve adıyla Almanya çapında duyulduğu 'Alles getürkt!' (Her şey Türkleştirildi!) filmi, bu çift kimliğin ve kültürlerarası etkileşimin eserlerine yansımasını açıkça ortaya koymaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

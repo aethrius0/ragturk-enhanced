@@ -1,0 +1,153 @@
+{
+  "article": {
+    "id": "hemenkmaoran_f78d17fb",
+    "title": "Hemen çıkma oranı",
+    "url": "https://tr.wikipedia.org/wiki/Hemen_%C3%A7%C4%B1kma_oran%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:36:42.695683",
+    "content": "Hemen çıkma oranı veya çıkma oranı ya da daha yoğun şekilde İngilizce olarak kullanılan adıyla bounce rate, web trafik analizinde kullanılan bir internet pazarlama terimidir. Terim web sitesi ziyaretçilerinin aynı site içerisindeki başka sayfalar ile devam etmek (\"bounce\" (Türkçe: \"sıçrama\")) yerine siteyi terk edenlerin, terk ettiği sürenin toplam ziyaretçinin sitede kalma süresine oranını (yüzdesini) temsil eder. Hemen çıkma oranı, ziyaretçi tarafından web sitesine yapılan ziyaretlerdeki etkinliğin bir ölçüsüdür. Bu oran yüzde olarak ölçülür ve ziyaretçinin bir web sitesine girişinden itibaren ziyaretini sonlandırdığı süre içerisinde sitede geçirdiği oranın, bu web sitesine yapılan toplam ziyaret süresine karşı oranını temsil eder. == Amaç == Hemen çıkma oranları web sitesinin etkinliğini belirlemeye yardımcı olabilir veya ziyaretçilerin ilgisini çeken bir giriş sayfasının performansı ölçülebilir. Web sitesindeki düşük hemen çıkma oranının bilinmesi sayesinde, web sitesi sahipleri veya web sitesinin içeriği ilgilenen webmasterlar, hangi sayfanın (içeriğin) daha uzun süre ziyaretçiyi sitede tuttuğunu ve buradaki bağlantılar ile sitenin başka sayfalarına yönlendirdiğini, sayfada kalma sürelerini, bu doğrultuda içeriğin ne şekilde geliştirilmesi gerektiği gibi bilgileri inceleyerek sitelerinin durumunu tespit etmeye çalışırlar. Çoğunlukla tüm web siteleri, ziyaretçilerini mümkün olan en uzun süre sitelerinde tutma eğilimindedirler. Bu bağlamda farklı içeriklere kelime bazlı köprüler oluşturmak ve ziyaretçinin bulunduğu içerikle alakalı olabilecek benzer içerikleri listelemek sıklıkla başvurulan yöntemdir. Ancak hemen çıkma oranının çok düşük veya çok yüksek olması her zaman kötüye yorumlanamaz. Yorumlama web sitesinin sektörüne ve hedef tanımlamasına uygun olmalıdır. Örneğin bir sözlük sitesindeki hemen çıkma oranının düşüklüğü, web sitesinin bir zayıflığı gibi düşünülse de bu defa gelen ziyaretçi yoğun olacağından dolayı hemen çıkma oranının düşüklüğü kötüye yorumlanamaz. == Yapılandırma == Bir web sitesi ziyaretçisi sadece bir web sitesindeki tek bir sayfayı ziyaret ettiğinde hemen çıkma meydana gelir. Yani ziyaretçi belirli bir oturum zamanı süresini aşmadan ve sitedeki başka sayfaları ziyaret etmeden web sitesindeki oturumunu kapatır. Ancak hemen çıkma oranının hesaplanması için analiz yapılması gerekir. R b = T v T e {\\displaystyle R_{b}={\\frac {T_{v}}{T_{e}}}} burada Rb = Hemen çıkma oranı Tv = Yalnızca bir sayfayı inceleyen toplam ziyaretçi sayısı Te = Sayfaya yapılan toplam giriş Bir ziyaretçinin çıkışı şu şartlarda gerçekleşir: Farklı bir web sitesi sayfasına olan bağlantıya tıkladığında Açık ve kapalı pencereler arasında geçiş yaptığında Adres çubuğunu yeni bir URL yazdığında \"Geri\" butonuna tıklayarak önceki ziyaret ettiği siteye dönüş yaptığında Oturum zaman aşımına uğradığında Ayrıca bunların iki istisnası bulunmaktadır: Tek sayfaya sahip web siteleri Ziyaretçilerin ikna edilerek sitenizin tek bir sayfasına yönlendirilmesi veya ziyaretçilerin başka web sitesindeki bağlantılar nedeniyle sitenizi ziyaret etmek zorunda kalması Yukarıdaki formüle ek olarak, hemen çıkma oranının hesaplanmasına web sitesinin (ya da sayfanın) açılış hızının ve güncellenmesinin eklenmesi ile elde edilecek sonuç daha doğru neticeler verebilir: Hemen çıkma oranı = \"Bir sayfayı görüntüleyen ziyaretçi sayısı\" bölü \"toplamdaki daha büyük ziyaretlerin sayısı veya sayfa yükleme hızının ortalaması\". Rb = Hemen çıkma oranı Tv = Yalnızca bir sayfayı inceleyen toplam ziyaretçi sayısı Te = Sayfaya yapılan toplam giriş Ps = Sayfa yükleme hızının ortalama değişkeni R b = T v T e ≤ P s {\\displaystyle R_{b}={\\frac {T_{v}}{T_{e}}}\\leq P_{s}} Yaygın şekilde internet sitelerinde bir oturumun zaman aşım değeri 30 dakika civarında tutulmaktadır. Bir ziyaretçi görüntülediği sayfadan başka bir sayfaya bakmıyorsa, 30 dakikadan daha uzun sayfada kalmalar hemen çıkma oranı olarak kaydedilecektir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 525,
+      "char_count": 3945,
+      "num_chunks": 10,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.120754",
+    "total_chunks": 10,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 744,
+      "content": "Hemen çıkma oranı veya çıkma oranı ya da daha yoğun şekilde İngilizce olarak kullanılan adıyla bounce rate, web trafik analizinde kullanılan bir internet pazarlama terimidir. Terim web sitesi ziyaretçilerinin aynı site içerisindeki başka sayfalar ile devam etmek (\"bounce\" (Türkçe: \"sıçrama\")) yerine siteyi terk edenlerin, terk ettiği sürenin toplam ziyaretçinin sitede kalma süresine oranını (yüzdesini) temsil eder. Hemen çıkma oranı, ziyaretçi tarafından web sitesine yapılan ziyaretlerdeki etkinliğin bir ölçüsüdür. Bu oran yüzde olarak ölçülür ve ziyaretçinin bir web sitesine girişinden itibaren ziyaretini sonlandırdığı süre içerisinde sitede geçirdiği oranın, bu web sitesine yapılan toplam ziyaret süresine karşı oranını temsil eder.",
+      "char_count": 743,
+      "token_estimate": 185
+    },
+    {
+      "id": "c0001",
+      "section": "== Amaç ==",
+      "heading_path": "== Amaç ==",
+      "start_char": 744,
+      "end_char": 1744,
+      "content": "== Amaç == Hemen çıkma oranları web sitesinin etkinliğini belirlemeye yardımcı olabilir veya ziyaretçilerin ilgisini çeken bir giriş sayfasının performansı ölçülebilir. Web sitesindeki düşük hemen çıkma oranının bilinmesi sayesinde, web sitesi sahipleri veya web sitesinin içeriği ilgilenen webmasterlar, hangi sayfanın (içeriğin) daha uzun süre ziyaretçiyi sitede tuttuğunu ve buradaki bağlantılar ile sitenin başka sayfalarına yönlendirdiğini, sayfada kalma sürelerini, bu doğrultuda içeriğin ne şekilde geliştirilmesi gerektiği gibi bilgileri inceleyerek sitelerinin durumunu tespit etmeye çalışırlar. Çoğunlukla tüm web siteleri, ziyaretçilerini mümkün olan en uzun süre sitelerinde tutma eğilimindedirler. Bu bağlamda farklı içeriklere kelime bazlı köprüler oluşturmak ve ziyaretçinin bulunduğu içerikle alakalı olabilecek benzer içerikleri listelemek sıklıkla başvurulan yöntemdir. Ancak hemen çıkma oranının çok düşük veya çok yüksek olması her zaman kötüye yorumlanamaz. Yorumlama web sitesin",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Amaç ==",
+      "heading_path": "== Amaç ==",
+      "start_char": 1544,
+      "end_char": 2006,
+      "content": "içerikle alakalı olabilecek benzer içerikleri listelemek sıklıkla başvurulan yöntemdir. Ancak hemen çıkma oranının çok düşük veya çok yüksek olması her zaman kötüye yorumlanamaz. Yorumlama web sitesinin sektörüne ve hedef tanımlamasına uygun olmalıdır. Örneğin bir sözlük sitesindeki hemen çıkma oranının düşüklüğü, web sitesinin bir zayıflığı gibi düşünülse de bu defa gelen ziyaretçi yoğun olacağından dolayı hemen çıkma oranının düşüklüğü kötüye yorumlanamaz.",
+      "char_count": 462,
+      "token_estimate": 115
+    },
+    {
+      "id": "c0003",
+      "section": "== Yapılandırma ==",
+      "heading_path": "== Yapılandırma ==",
+      "start_char": 2007,
+      "end_char": 2353,
+      "content": "== Yapılandırma == Bir web sitesi ziyaretçisi sadece bir web sitesindeki tek bir sayfayı ziyaret ettiğinde hemen çıkma meydana gelir. Yani ziyaretçi belirli bir oturum zamanı süresini aşmadan ve sitedeki başka sayfaları ziyaret etmeden web sitesindeki oturumunu kapatır. Ancak hemen çıkma oranının hesaplanması için analiz yapılması gerekir. R b",
+      "char_count": 345,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0004",
+      "section": "= T v T e {\\displaystyle R_{b}={\\frac {T_{v}}{T_{e}}}} burada Rb =",
+      "heading_path": "= T v T e {\\displaystyle R_{b}={\\frac {T_{v}}{T_{e}}}} burada Rb =",
+      "start_char": 2353,
+      "end_char": 2441,
+      "content": "= T v T e {\\displaystyle R_{b}={\\frac {T_{v}}{T_{e}}}} burada Rb = Hemen çıkma oranı Tv",
+      "char_count": 87,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0005",
+      "section": "= Yalnızca bir sayfayı inceleyen toplam ziyaretçi sayısı Te =",
+      "heading_path": "= Yalnızca bir sayfayı inceleyen toplam ziyaretçi sayısı Te =",
+      "start_char": 2441,
+      "end_char": 3308,
+      "content": "= Yalnızca bir sayfayı inceleyen toplam ziyaretçi sayısı Te = Sayfaya yapılan toplam giriş Bir ziyaretçinin çıkışı şu şartlarda gerçekleşir: Farklı bir web sitesi sayfasına olan bağlantıya tıkladığında Açık ve kapalı pencereler arasında geçiş yaptığında Adres çubuğunu yeni bir URL yazdığında \"Geri\" butonuna tıklayarak önceki ziyaret ettiği siteye dönüş yaptığında Oturum zaman aşımına uğradığında Ayrıca bunların iki istisnası bulunmaktadır: Tek sayfaya sahip web siteleri Ziyaretçilerin ikna edilerek sitenizin tek bir sayfasına yönlendirilmesi veya ziyaretçilerin başka web sitesindeki bağlantılar nedeniyle sitenizi ziyaret etmek zorunda kalması Yukarıdaki formüle ek olarak, hemen çıkma oranının hesaplanmasına web sitesinin (ya da sayfanın) açılış hızının ve güncellenmesinin eklenmesi ile elde edilecek sonuç daha doğru neticeler verebilir: Hemen çıkma oranı",
+      "char_count": 866,
+      "token_estimate": 216
+    },
+    {
+      "id": "c0006",
+      "section": "= \"Bir sayfayı görüntüleyen ziyaretçi sayısı\" bölü \"toplamdaki daha büyük ziyaretlerin sayısı veya sayfa yükleme hızının ortalaması\". Rb =",
+      "heading_path": "= \"Bir sayfayı görüntüleyen ziyaretçi sayısı\" bölü \"toplamdaki daha büyük ziyaretlerin sayısı veya sayfa yükleme hızının ortalaması\". Rb =",
+      "start_char": 3308,
+      "end_char": 3468,
+      "content": "= \"Bir sayfayı görüntüleyen ziyaretçi sayısı\" bölü \"toplamdaki daha büyük ziyaretlerin sayısı veya sayfa yükleme hızının ortalaması\". Rb = Hemen çıkma oranı Tv",
+      "char_count": 159,
+      "token_estimate": 39
+    },
+    {
+      "id": "c0007",
+      "section": "= Yalnızca bir sayfayı inceleyen toplam ziyaretçi sayısı Te =",
+      "heading_path": "= Yalnızca bir sayfayı inceleyen toplam ziyaretçi sayısı Te =",
+      "start_char": 3468,
+      "end_char": 3562,
+      "content": "= Yalnızca bir sayfayı inceleyen toplam ziyaretçi sayısı Te = Sayfaya yapılan toplam giriş Ps",
+      "char_count": 93,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0008",
+      "section": "= Sayfa yükleme hızının ortalama değişkeni R b =",
+      "heading_path": "= Sayfa yükleme hızının ortalama değişkeni R b =",
+      "start_char": 3562,
+      "end_char": 3645,
+      "content": "= Sayfa yükleme hızının ortalama değişkeni R b = T v T e ≤ P s {\\displaystyle R_{b}",
+      "char_count": 83,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0009",
+      "section": "= {\\frac {T_{v}}{T_{e}}}\\leq P_{s}} Yaygın şekilde internet sitelerinde bir oturumun zaman aşım değeri 30 dakika civarında tutulmaktadır. Bir ziyaretçi görüntülediği sayfadan başka bir sayfaya bakmıyorsa, 30 dakikadan daha uzun sayfada kalmalar hemen çıkma oranı olarak kaydedilecektir. = =",
+      "heading_path": "= {\\frac {T_{v}}{T_{e}}}\\leq P_{s}} Yaygın şekilde internet sitelerinde bir oturumun zaman aşım değeri 30 dakika civarında tutulmaktadır. Bir ziyaretçi görüntülediği sayfadan başka bir sayfaya bakmıyorsa, 30 dakikadan daha uzun sayfada kalmalar hemen çıkma oranı olarak kaydedilecektir. = =",
+      "start_char": 3645,
+      "end_char": 3945,
+      "content": "={\\frac {T_{v}}{T_{e}}}\\leq P_{s}} Yaygın şekilde internet sitelerinde bir oturumun zaman aşım değeri 30 dakika civarında tutulmaktadır. Bir ziyaretçi görüntülediği sayfadan başka bir sayfaya bakmıyorsa, 30 dakikadan daha uzun sayfada kalmalar hemen çıkma oranı olarak kaydedilecektir. == Kaynakça ==",
+      "char_count": 300,
+      "token_estimate": 75
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hemen çıkma oranları, web sitesinin etkinliğini belirlemeye ek olarak neyi ölçmeye yardımcı olabilir?",
+        "answer": "Ziyaretçilerin ilgisini çeken bir giriş sayfasının performansını ölçmeye yardımcı olabilir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Hemen çıkma oranı nedir ve bu oranın bir web sitesinin etkinliğini belirlemedeki amacı ve kullanım şekilleri nelerdir?",
+        "answer": "Hemen çıkma oranı, web sitesi ziyaretçilerinin aynı site içerisindeki başka sayfalarla devam etmek yerine siteyi terk edenlerin, terk ettiği sürenin toplam ziyaretçinin sitede kalma süresine oranını (yüzdesini) temsil eden bir internet pazarlama terimidir. Bu oranın amacı, web sitesinin etkinliğini belirlemeye veya ziyaretçilerin ilgisini çeken bir giriş sayfasının performansını ölçmeye yardımcı olmaktır. Web sitesi sahipleri, düşük hemen çıkma oranları sayesinde ziyaretçiyi daha uzun süre sitede tutan ve sitenin başka sayfalarına yönlendiren içerikleri tespit ederek sitelerinin durumunu inceler ve içeriklerini geliştirmek için kullanırlar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

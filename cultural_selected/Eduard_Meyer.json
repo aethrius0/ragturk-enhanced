@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "eduardmeyer_89322d21",
+    "title": "Eduard Meyer",
+    "url": "https://tr.wikipedia.org/wiki/Eduard_Meyer",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:13.999055",
+    "content": "Eduard Meyer (d. 25 Ocak 1855, Hamburg - ö. 31 Ağustos 1930, Berlin), Alman tarihçisiydi. Akademisyen Kuno Meyer'in (1858-1919) kardeşidir. == Biyografi == Meyer Hamburg'da doğdu ve Gelehrtenschule des Johanneums'da eğitim aldı. Sonrasında ise Bonn Üniversitesi ve Leipzig Üniversitesi'nde eğitimine devam etti. Eğitimini tamamladıktan sonra bir yılını İstanbul'da geçirdi. 1879'da akademisyen olarak Leipzig Üniversitesi'ne gitti. 1885'te Breslau'da, 1889'da Wrocław'da ve 1902'de Berlin'de antik tarih profesörü olarak çalıştı. 1909'da Harvard'da ve 1910'da Urbana-Champaign'daki Illinois Üniversitesi'nde dersler verdi. 1904'te Meyer, Mısır'ın geleneksel kronolojisinin temelini oluşturan Sirius'un Heliacal yükseleninin Sotik döngüsünü ilk kaydeden kişi oldu. === Eserleri === Ana çalışması \"Geschichte des Altertums \"dur (1884-1902; üçüncü baskı, 1913). Ayrıca yayınladığı eserler şunlardır: Forschungen zur alten Geschichte (1892-1899) -Research of ancient history (Eski tarihin araştırılması). Gracchen der Untersuchungen zur Geschichte (1894) -Investigations on the history of the Gracchi. (Gracchus tarihi üzerine soruşturmalar.) Wirtschaftliche Entwicklung des Altertums (1895) -Economic development of the ancient world (Eski dünyanın ekonomik gelişimi.) Die Entstehung des Judentums (1896) -The origins of Judaism.(Yahudiliğin kökenleri.) Zur Theorie und Methodik der Geschichte (1902) -Theory and methodology of history.(Tarihin teorisi ve metodolojisi) Israeliten und ihre Nachbarstämme (1906) -Israelites and their neighboring tribes. (İsrailliler ve komşu kabileleri.) Theopomps Hellenika (1909) -Theopompus' Hellenics. (Theopompus Helenleri). Elephantine Der Papyrosfund (1912) - The papyrus discovery from Elephantine. Ursprung und Geschichte der Mormonen (1912) - Origin and history of the Mormons. (Mormonların kökeni ve tarihi.) Nordamerika und Deutschland (1915) - North America and Germany.(Kuzey Amerika ve Almanya.) == Kaynakça == Özel Genel This article incorporates text from a publication now in the This article incorporates text from a publication now in the Calder, William Musgrave ve Alexander Demandt, ed. (1990). Eduard Meyer: Leben ve Leistung Universalhistoriker'leri yiyor. Leiden: BRILL.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 280,
+      "char_count": 2226,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.007326",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 140,
+      "content": "Eduard Meyer (d. 25 Ocak 1855, Hamburg - ö. 31 Ağustos 1930, Berlin), Alman tarihçisiydi. Akademisyen Kuno Meyer'in (1858-1919) kardeşidir.",
+      "char_count": 139,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 140,
+      "end_char": 764,
+      "content": "== Biyografi == Meyer Hamburg'da doğdu ve Gelehrtenschule des Johanneums'da eğitim aldı. Sonrasında ise Bonn Üniversitesi ve Leipzig Üniversitesi'nde eğitimine devam etti. Eğitimini tamamladıktan sonra bir yılını İstanbul'da geçirdi. 1879'da akademisyen olarak Leipzig Üniversitesi'ne gitti. 1885'te Breslau'da, 1889'da Wrocław'da ve 1902'de Berlin'de antik tarih profesörü olarak çalıştı. 1909'da Harvard'da ve 1910'da Urbana-Champaign'daki Illinois Üniversitesi'nde dersler verdi. 1904'te Meyer, Mısır'ın geleneksel kronolojisinin temelini oluşturan Sirius'un Heliacal yükseleninin Sotik döngüsünü ilk kaydeden kişi oldu.",
+      "char_count": 623,
+      "token_estimate": 155
+    },
+    {
+      "id": "c0002",
+      "section": "=== Eserleri ===",
+      "heading_path": "=== Eserleri ===",
+      "start_char": 764,
+      "end_char": 1764,
+      "content": "=== Eserleri === Ana çalışması \"Geschichte des Altertums \"dur (1884-1902; üçüncü baskı, 1913). Ayrıca yayınladığı eserler şunlardır: Forschungen zur alten Geschichte (1892-1899) -Research of ancient history (Eski tarihin araştırılması). Gracchen der Untersuchungen zur Geschichte (1894) -Investigations on the history of the Gracchi. (Gracchus tarihi üzerine soruşturmalar.) Wirtschaftliche Entwicklung des Altertums (1895) -Economic development of the ancient world (Eski dünyanın ekonomik gelişimi.) Die Entstehung des Judentums (1896) -The origins of Judaism.(Yahudiliğin kökenleri.) Zur Theorie und Methodik der Geschichte (1902) -Theory and methodology of history.(Tarihin teorisi ve metodolojisi) Israeliten und ihre Nachbarstämme (1906) -Israelites and their neighboring tribes. (İsrailliler ve komşu kabileleri.) Theopomps Hellenika (1909) -Theopompus' Hellenics. (Theopompus Helenleri). Elephantine Der Papyrosfund (1912) - The papyrus discovery from Elephantine. Ursprung und Geschichte der",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Eserleri ===",
+      "heading_path": "=== Eserleri ===",
+      "start_char": 1564,
+      "end_char": 1940,
+      "content": "e komşu kabileleri.) Theopomps Hellenika (1909) -Theopompus' Hellenics. (Theopompus Helenleri). Elephantine Der Papyrosfund (1912) - The papyrus discovery from Elephantine. Ursprung und Geschichte der Mormonen (1912) - Origin and history of the Mormons. (Mormonların kökeni ve tarihi.) Nordamerika und Deutschland (1915) - North America and Germany.(Kuzey Amerika ve Almanya.)",
+      "char_count": 376,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0004",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 1941,
+      "end_char": 2226,
+      "content": "== Kaynakça == Özel Genel This article incorporates text from a publication now in the This article incorporates text from a publication now in the Calder, William Musgrave ve Alexander Demandt, ed. (1990). Eduard Meyer: Leben ve Leistung Universalhistoriker'leri yiyor. Leiden: BRILL.",
+      "char_count": 285,
+      "token_estimate": 71
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yazarın ana çalışmasının adı nedir ve ilk ne zaman yayınlanmıştır?",
+        "answer": "Yazarın ana çalışması \"Geschichte des Altertums\" olup, ilk olarak 1884-1902 yılları arasında yayınlanmıştır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Eduard Meyer'in akademik kariyeri ve başlıca eserleri, onun hangi tarihi alanda uzmanlaştığını açıkça göstermektedir?",
+        "answer": "Meyer, Breslau, Wrocław ve Berlin'de antik tarih profesörü olarak görev yapmış, Mısır'ın geleneksel kronolojisinin temelini oluşturan Sirius'un Heliacal yükseleninin Sotik döngüsünü kaydetmiş ve ana eseri 'Geschichte des Altertums' (Eski Çağ Tarihi) ile 'Forschungen zur alten Geschichte' (Eski Tarihin Araştırılması) gibi eserler kaleme almıştır. Bu bilgiler, onun antik tarih konusunda uzmanlaştığını göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

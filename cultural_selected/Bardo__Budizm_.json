@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "bardobudizm_f06b1726",
+    "title": "Bardo (Budizm)",
+    "url": "https://tr.wikipedia.org/wiki/Bardo_%28Budizm%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:34.505700",
+    "content": "Bardo veya antarabhava, bazı Budizm okullarında ölüm ve yeniden doğuş arasında bir ara, geçiş veya eşik halidir. Kavram, Gotama Buda'nın ölümünden kısa bir süre sonra ortaya çıktı. Daha önceki bir dizi Budist okul böyle bir ara durumun varlığını kabul ederken diğer okullar ise bunu reddetti. Ölüm ve yeniden doğuş arasında bir ara durum olan antarabhava kavramı, Vedik-Upanişad felsefi geleneğinden Budizme getirildi. Daha sonra Budizm, bardo kavramını yaşamın ve ölümün her aşamasını kapsayan altı veya daha fazla bilinç durumuna genişletti. Tibet Budizmi'nde bardo, Tibet Ölüler Kitabı Bardo Thödol'ün ana temasıdır, hem yakın zamanda ölen kişiye daha iyi bir yeniden doğuş elde etmek için ölüm bardosunda rehberlik etmeyi hem de sevdiklerine yas sürecinde yardım etmeyi amaçlayan bir metindir. == Kaynakça == == Dış bağlantılar == Public domain PDF and audio versions of the Tibetan Book of the Dead 2 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi. The Eight Bardos 30 Ocak 2021 tarihinde Wayback Machine sitesinde arşivlendi., Khenchen Konchog Gyaltshen, Lion's Roar magazine A modern commentary on Karma Lingpa’s Zhi-khro teachings on the peaceful and wrathful deities The Psychedelic Experience: A manual based on the Tibetan Book of the Dead 19 Ocak 2021 tarihinde Wayback Machine sitesinde arşivlendi., 1967. By Timothy Leary, Ph.D.; Ralph Metzner, Ph.D.; & Richard Alpert, Ph.D. (later known as Ram Das) Tibetan Buddhism and the resolution of grief: The Bardo-Thodol for the dying and the grieving 12 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi., by Robert Goss, Death Studies, Vol. 21 Issue 4 Jul/Aug.1997, pp. 377–395",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 248,
+      "char_count": 1657,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.957800",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 798,
+      "content": "Bardo veya antarabhava, bazı Budizm okullarında ölüm ve yeniden doğuş arasında bir ara, geçiş veya eşik halidir. Kavram, Gotama Buda'nın ölümünden kısa bir süre sonra ortaya çıktı. Daha önceki bir dizi Budist okul böyle bir ara durumun varlığını kabul ederken diğer okullar ise bunu reddetti. Ölüm ve yeniden doğuş arasında bir ara durum olan antarabhava kavramı, Vedik-Upanişad felsefi geleneğinden Budizme getirildi. Daha sonra Budizm, bardo kavramını yaşamın ve ölümün her aşamasını kapsayan altı veya daha fazla bilinç durumuna genişletti. Tibet Budizmi'nde bardo, Tibet Ölüler Kitabı Bardo Thödol'ün ana temasıdır, hem yakın zamanda ölen kişiye daha iyi bir yeniden doğuş elde etmek için ölüm bardosunda rehberlik etmeyi hem de sevdiklerine yas sürecinde yardım etmeyi amaçlayan bir metindir.",
+      "char_count": 797,
+      "token_estimate": 199
+    },
+    {
+      "id": "c0001",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 813,
+      "end_char": 1657,
+      "content": "== Dış bağlantılar == Public domain PDF and audio versions of the Tibetan Book of the Dead 2 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi. The Eight Bardos 30 Ocak 2021 tarihinde Wayback Machine sitesinde arşivlendi., Khenchen Konchog Gyaltshen, Lion's Roar magazine A modern commentary on Karma Lingpa’s Zhi-khro teachings on the peaceful and wrathful deities The Psychedelic Experience: A manual based on the Tibetan Book of the Dead 19 Ocak 2021 tarihinde Wayback Machine sitesinde arşivlendi., 1967. By Timothy Leary, Ph.D.; Ralph Metzner, Ph.D.; & Richard Alpert, Ph.D. (later known as Ram Das) Tibetan Buddhism and the resolution of grief: The Bardo-Thodol for the dying and the grieving 12 Nisan 2021 tarihinde Wayback Machine sitesinde arşivlendi., by Robert Goss, Death Studies, Vol. 21 Issue 4 Jul/Aug.1997, pp. 377–395",
+      "char_count": 844,
+      "token_estimate": 211
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "'The Psychedelic Experience: A manual based on the Tibetan Book of the Dead' adlı eserin yazarları kimlerdir?",
+        "answer": "Timothy Leary, Ph.D.; Ralph Metzner, Ph.D.; ve Richard Alpert, Ph.D. (daha sonra Ram Das olarak bilinen kişi).",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tibet Budizmi'nde Bardo Thödol'ün (Tibet Ölüler Kitabı) hem ölenler hem de yas tutanlar için temel amacı nedir ve bu metin günümüzde ne gibi farklı bağlamlarda incelenmekte veya kullanılmaktadır?",
+        "answer": "Bardo Thödol, yakın zamanda ölen kişiye daha iyi bir yeniden doğuş elde etmesi için ölüm bardosunda rehberlik etmeyi ve sevdiklerine yas sürecinde yardım etmeyi amaçlar. Günümüzde ise, psychedelic deneyimler için bir kılavuz olarak ve yas çözümlemesi konularında incelenmekte ve kullanılmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

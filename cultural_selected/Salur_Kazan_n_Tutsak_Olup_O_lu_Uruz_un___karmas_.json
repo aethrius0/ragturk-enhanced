@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "salurkazanntutsakolu_1f1737be",
+    "title": "Salur Kazanın Tutsak Olup Oğlu Uruz'un Çıkarması",
+    "url": "https://tr.wikipedia.org/wiki/Salur_Kazan%C4%B1n_Tutsak_Olup_O%C4%9Flu_Uruz%27un_%C3%87%C4%B1karmas%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:20.125696",
+    "content": "Salur Kazanın Tutsak Olup Oğlu Uruz'un Çıkarması, Dede Korkut Kitabı'nın bölümlerinden birini oluşturan öyküdür. == Hikâye == Trabzon tekfuru, Kazan Han'a bir şahin hediye eder. Kazan Han, bu şahinle ava çıkar, şahin Toman Kalesi'ne yönelince Kazan Han da peşinden gider. Dağlar, tepeler aşar ve sonunda uykusu gelir, ileride bir kale görür ve yanındaki beylere orada uyumayı önerir. Kazan Han ve yanındaki beylerin uyuduğunu öğrenen düşmanlar hemen bu kaleye saldırırlar ve yirmi beş yiğidi şehit ederler. Kazan Han'ı da tutsak edip Toman Kalesi'nde bir kuyuya atarlar. Bir gün tekfurun karısı Kazan Han'ı merak edip kuyunun başına gelir ve ona nasıl yaşadığını sorar. Kazan Bey de ölülerin yiyeceklerini yediğini söyler. Kadın da bunun üzerine onun oradan çıkarılmasına ve bir domuz damına hapsedilmesine vesile olur. Aradan uzun yıllar geçer ve Kazan Bey'in oğlu Uruz büyüyüp bir delikanlı olur. Ama babasının esir olduğundan haberi yoktur. Gerçeği öğrenince anasına çok kızar ve babasını kurtarmak için hemen yola çıkar. Uruz ve ona yardım eden beyler pek çok düşmanı öldürürler. Bunun üzerine tekfur bir plan yapar ve Kazan Han'ı Uruz'un karşısına birbirleriyle savaştırmak üzere çıkarır. Durumdan habersiz olan Kazan Han ve oğlu savaşmaya başlar; ama Kazan Han karşısındaki kişinin oğlu olduğunu anlar ve baba oğul kucaklaşıp hasret giderirler. Daha sonra hep birlikte düşmanı yenerler ve yedi gün yedi gece eğlence düzenlerler.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 214,
+      "char_count": 1434,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.349171",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 113,
+      "content": "Salur Kazanın Tutsak Olup Oğlu Uruz'un Çıkarması, Dede Korkut Kitabı'nın bölümlerinden birini oluşturan öyküdür.",
+      "char_count": 112,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0001",
+      "section": "== Hikâye ==",
+      "heading_path": "== Hikâye ==",
+      "start_char": 113,
+      "end_char": 1113,
+      "content": "== Hikâye == Trabzon tekfuru, Kazan Han'a bir şahin hediye eder. Kazan Han, bu şahinle ava çıkar, şahin Toman Kalesi'ne yönelince Kazan Han da peşinden gider. Dağlar, tepeler aşar ve sonunda uykusu gelir, ileride bir kale görür ve yanındaki beylere orada uyumayı önerir. Kazan Han ve yanındaki beylerin uyuduğunu öğrenen düşmanlar hemen bu kaleye saldırırlar ve yirmi beş yiğidi şehit ederler. Kazan Han'ı da tutsak edip Toman Kalesi'nde bir kuyuya atarlar. Bir gün tekfurun karısı Kazan Han'ı merak edip kuyunun başına gelir ve ona nasıl yaşadığını sorar. Kazan Bey de ölülerin yiyeceklerini yediğini söyler. Kadın da bunun üzerine onun oradan çıkarılmasına ve bir domuz damına hapsedilmesine vesile olur. Aradan uzun yıllar geçer ve Kazan Bey'in oğlu Uruz büyüyüp bir delikanlı olur. Ama babasının esir olduğundan haberi yoktur. Gerçeği öğrenince anasına çok kızar ve babasını kurtarmak için hemen yola çıkar. Uruz ve ona yardım eden beyler pek çok düşmanı öldürürler. Bunun üzerine tekfur bir plan",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Hikâye ==",
+      "heading_path": "== Hikâye ==",
+      "start_char": 913,
+      "end_char": 1434,
+      "content": "esir olduğundan haberi yoktur. Gerçeği öğrenince anasına çok kızar ve babasını kurtarmak için hemen yola çıkar. Uruz ve ona yardım eden beyler pek çok düşmanı öldürürler. Bunun üzerine tekfur bir plan yapar ve Kazan Han'ı Uruz'un karşısına birbirleriyle savaştırmak üzere çıkarır. Durumdan habersiz olan Kazan Han ve oğlu savaşmaya başlar; ama Kazan Han karşısındaki kişinin oğlu olduğunu anlar ve baba oğul kucaklaşıp hasret giderirler. Daha sonra hep birlikte düşmanı yenerler ve yedi gün yedi gece eğlence düzenlerler.",
+      "char_count": 521,
+      "token_estimate": 130
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Kazan Han tutsak edildiğinde kaç yiğit şehit edilmiştir?",
+        "answer": "Yirmi beş yiğit.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Dede Korkut Kitabı'ndaki 'Salur Kazanın Tutsak Olup Oğlu Uruz'un Çıkarması' başlıklı öykü, adında belirtilen olayları nasıl bir hikaye örgüsüyle ele almaktadır?",
+        "answer": "Öykü, Kazan Han'ın Trabzon tekfurunun hediye ettiği şahinle ava çıktıktan sonra düşmanlar tarafından Toman Kalesi'nde esir alınmasıyla başlar. Yıllar sonra, babasının esir olduğundan habersiz büyüyen oğlu Uruz gerçeği öğrenir. Anasına kızıp babasını kurtarmak için yola çıkar, düşmanları öldürür ve tekfurun bir planıyla babasıyla savaşmaya zorlanır. Kazan Han oğlunu tanır, kucaklaşırlar ve birlikte düşmanı yenerek bu tutsaklık durumunu sona erdirirler.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

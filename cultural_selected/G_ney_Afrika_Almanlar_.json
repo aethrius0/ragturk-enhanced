@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "gneyafrikaalmanlar_fe285367",
+    "title": "Güney Afrika Almanları",
+    "url": "https://tr.wikipedia.org/wiki/G%C3%BCney_Afrika_Almanlar%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:12.225262",
+    "content": "Güney Afrika Almanları, tam veya kısmi Alman mirasına sahip Güney Afrikalıları ifade eder. Önemli sayıda Güney Afrikalı Almanlardan geliyor. Bunların çoğu başlangıçta Cape Kolonisi'ne yerleşti, ancak Afrikaner ve Afrikaans nüfusuna emildi, çünkü Hollandalı ve Fransızlarla dini ve etnik benzerlikleri vardı. == Geçmiş == Hollanda yönetimi sırasında (1652-1806) ve sonraki yüzyıllarda yüzlerce Alman Cape Kolonisi'ne göç etti. 1652'de Hollanda Doğu Hindistan Şirketi, Jan van Riebeeck komutası altında Ümit Burnu'nda bir tedarik istasyonu kurdu. Parti 90 yerleşimciden oluşuyordu, çoğu Hollandalıydı ve çok sayıda insan Almanyalıydı. 1680'lerde Cape Kolonisi'ne daha fazla Alman çiftçi ve kadın geldi. 1691'de nüfus 1000 Avrupalı, özellikle Hollandalı (% 85), Alman (% 5), Huguenots (% 10) ve 400 köle idi. Bu noktadan itibaren beyaz nüfus 1700 yılına kadar 1300'e yükseldi. Yaklaşık 4000 Alman Hollanda döneminde Cape Kolonisi'ne göç etti, neredeyse hepsi erkekti. Avrupa'nın tüm Almanca konuşulan bölgelerinden geldiler. On yedinci yüzyılda Cape Kolonisi'ne gelen Almanlar göçmen değil, belki de başlangıçta Hollanda'da olan Hollanda Doğu Hindistan Şirketi için çalışmış ve daha sonra Cape Kolonisi'ne gönderilmiştir. Benzer şekilde 19. yüzyılda Almanlar misyonerlik amacıyla bölgeye gelmiş ve bölgeye yerleşmiş, ardından İngilizlerin, Almanların Doğu pelerin bölgesine göç etmeleri nüfuslarını daha da artırmıştır. == Natal Alman yerleşimciler: 1848 == Bir grup Alman yerleşimci, Alman Yahudi iş insanı Jonas Bergtheil tarafından düzenlenen özel bir plan kapsamında Mart 1848'de Beta gemisinde Natal'a geldi. Üç yıl sonra Natal Pamuk Şirketi'ni kurdu. Bergtheil, sahil boyunca Avrupa yerleşiminin potansiyelini gördü ve İngiliz göçmen sömürge ofisine yaklaştı. Önce İngilizler, sonra Bavyera hükûmetleri planlarını reddettiğinde, destek için Hanover Krallığı'na döndü. Osnabrück-Bremen bölgesinden otuz beş köylü ailesi (yaklaşık 188 kişi) teklifini kabul etti ve 23 Mart 1848'de Natal'a geldi. Natal Limanı'nın yanına yerleştiler ve yeni evleri Neu-Deutschland (Yeni Almanya) olarak adlandırıldılar. Bergtheil'in pamuk şeması, ilk iki mahsul koza kurdu tarafından tahrip edildikten sonra başarısız oldu. Dahası, İngiltere'den sipariş ettiği çırçır makineleri hiç gelmedi. Yerleşimler kısa süre sonra pazar bahçeciliği lehine pamuğu terk ettiler ve Bergtheil ile beş yıllık sözleşmeleri sona erdiğinde çoğu onları yenilemedi. İlk yıllar yerleşimciler için bir mücadeleydi ama yavaş yavaş, sıkı çalışma ile koşullar iyileşti. Yaklaşık 10 yıl sonra, çoğu zenginleşti ve topraklarının mülkiyetine kavuştu. == Güney Afrika'da Dikkate Değer Almanlar == Rudi Ball (1911-1975), Alman-Güney Afrika Onur Listesi buz hokeyi oyuncusu == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 366,
+      "char_count": 2739,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.717539",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 308,
+      "content": "Güney Afrika Almanları, tam veya kısmi Alman mirasına sahip Güney Afrikalıları ifade eder. Önemli sayıda Güney Afrikalı Almanlardan geliyor. Bunların çoğu başlangıçta Cape Kolonisi'ne yerleşti, ancak Afrikaner ve Afrikaans nüfusuna emildi, çünkü Hollandalı ve Fransızlarla dini ve etnik benzerlikleri vardı.",
+      "char_count": 307,
+      "token_estimate": 76
+    },
+    {
+      "id": "c0001",
+      "section": "== Geçmiş ==",
+      "heading_path": "== Geçmiş ==",
+      "start_char": 308,
+      "end_char": 1308,
+      "content": "== Geçmiş == Hollanda yönetimi sırasında (1652-1806) ve sonraki yüzyıllarda yüzlerce Alman Cape Kolonisi'ne göç etti. 1652'de Hollanda Doğu Hindistan Şirketi, Jan van Riebeeck komutası altında Ümit Burnu'nda bir tedarik istasyonu kurdu. Parti 90 yerleşimciden oluşuyordu, çoğu Hollandalıydı ve çok sayıda insan Almanyalıydı. 1680'lerde Cape Kolonisi'ne daha fazla Alman çiftçi ve kadın geldi. 1691'de nüfus 1000 Avrupalı, özellikle Hollandalı (% 85), Alman (% 5), Huguenots (% 10) ve 400 köle idi. Bu noktadan itibaren beyaz nüfus 1700 yılına kadar 1300'e yükseldi. Yaklaşık 4000 Alman Hollanda döneminde Cape Kolonisi'ne göç etti, neredeyse hepsi erkekti. Avrupa'nın tüm Almanca konuşulan bölgelerinden geldiler. On yedinci yüzyılda Cape Kolonisi'ne gelen Almanlar göçmen değil, belki de başlangıçta Hollanda'da olan Hollanda Doğu Hindistan Şirketi için çalışmış ve daha sonra Cape Kolonisi'ne gönderilmiştir. Benzer şekilde 19. yüzyılda Almanlar misyonerlik amacıyla bölgeye gelmiş ve bölgeye yerle",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Geçmiş ==",
+      "heading_path": "== Geçmiş ==",
+      "start_char": 1108,
+      "end_char": 1416,
+      "content": " Hollanda'da olan Hollanda Doğu Hindistan Şirketi için çalışmış ve daha sonra Cape Kolonisi'ne gönderilmiştir. Benzer şekilde 19. yüzyılda Almanlar misyonerlik amacıyla bölgeye gelmiş ve bölgeye yerleşmiş, ardından İngilizlerin, Almanların Doğu pelerin bölgesine göç etmeleri nüfuslarını daha da artırmıştır.",
+      "char_count": 308,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0003",
+      "section": "== Natal Alman yerleşimciler: 1848 ==",
+      "heading_path": "== Natal Alman yerleşimciler: 1848 ==",
+      "start_char": 1417,
+      "end_char": 2417,
+      "content": "== Natal Alman yerleşimciler: 1848 == Bir grup Alman yerleşimci, Alman Yahudi iş insanı Jonas Bergtheil tarafından düzenlenen özel bir plan kapsamında Mart 1848'de Beta gemisinde Natal'a geldi. Üç yıl sonra Natal Pamuk Şirketi'ni kurdu. Bergtheil, sahil boyunca Avrupa yerleşiminin potansiyelini gördü ve İngiliz göçmen sömürge ofisine yaklaştı. Önce İngilizler, sonra Bavyera hükûmetleri planlarını reddettiğinde, destek için Hanover Krallığı'na döndü. Osnabrück-Bremen bölgesinden otuz beş köylü ailesi (yaklaşık 188 kişi) teklifini kabul etti ve 23 Mart 1848'de Natal'a geldi. Natal Limanı'nın yanına yerleştiler ve yeni evleri Neu-Deutschland (Yeni Almanya) olarak adlandırıldılar. Bergtheil'in pamuk şeması, ilk iki mahsul koza kurdu tarafından tahrip edildikten sonra başarısız oldu. Dahası, İngiltere'den sipariş ettiği çırçır makineleri hiç gelmedi. Yerleşimler kısa süre sonra pazar bahçeciliği lehine pamuğu terk ettiler ve Bergtheil ile beş yıllık sözleşmeleri sona erdiğinde çoğu onları y",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Natal Alman yerleşimciler: 1848 ==",
+      "heading_path": "== Natal Alman yerleşimciler: 1848 ==",
+      "start_char": 2217,
+      "end_char": 2604,
+      "content": "giltere'den sipariş ettiği çırçır makineleri hiç gelmedi. Yerleşimler kısa süre sonra pazar bahçeciliği lehine pamuğu terk ettiler ve Bergtheil ile beş yıllık sözleşmeleri sona erdiğinde çoğu onları yenilemedi. İlk yıllar yerleşimciler için bir mücadeleydi ama yavaş yavaş, sıkı çalışma ile koşullar iyileşti. Yaklaşık 10 yıl sonra, çoğu zenginleşti ve topraklarının mülkiyetine kavuştu.",
+      "char_count": 387,
+      "token_estimate": 96
+    },
+    {
+      "id": "c0005",
+      "section": "== Güney Afrika'da Dikkate Değer Almanlar ==",
+      "heading_path": "== Güney Afrika'da Dikkate Değer Almanlar ==",
+      "start_char": 2605,
+      "end_char": 2725,
+      "content": "== Güney Afrika'da Dikkate Değer Almanlar == Rudi Ball (1911-1975), Alman-Güney Afrika Onur Listesi buz hokeyi oyuncusu",
+      "char_count": 119,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Hollanda Doğu Hindistan Şirketi, Ümit Burnu'nda bir tedarik istasyonunu ne zaman kurdu?",
+        "answer": "1652'de",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Güney Afrika Almanlarının, Hollanda Doğu Hindistan Şirketi aracılığıyla Cape Kolonisi'ne yerleşmeye başlamalarından itibaren Afrikaner ve Afrikaans nüfusuna asimile olmalarını sağlayan temel faktörler nelerdi?",
+        "answer": "Hollanda yönetimi sırasında yaklaşık 4000 Alman Cape Kolonisi'ne göç etmiştir ve bunların birçoğu Hollanda Doğu Hindistan Şirketi için çalışarak mevcut Hollanda yapısına entegre olmuştur. Ayrıca, Hollandalı ve Fransızlarla olan dini ve etnik benzerlikleri de onların Afrikaner ve Afrikaans nüfusuna emilmesinde önemli bir rol oynamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "dbaheleri_9a1d8d43",
+    "title": "Düş Bahçeleri",
+    "url": "https://tr.wikipedia.org/wiki/D%C3%BC%C5%9F_Bah%C3%A7eleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:29:22.245126",
+    "content": "Düş Bahçeleri, Sezen Aksu'nun 14 Temmuz 1996 tarihinde çıkan on üçüncü stüdyo albümüdür. Albüm Sezen Aksu tarafından aranjörü, bestecisi ve yakın dostu Onno Tunç'a ithafen 1995 yılında yapılmıştır. Onno Tunç 14 Ocak 1996 tarihinde Bursa'dan Yalova’ya dönerken, bindiği özel uçağının Selimiye köyü yakınlarına düşmesi sonucu arkadaşı Hasan Kanik ile birlikte ölmüştür. Sezen Aksu, Haziran 2008'de DMC etiketi ile \"Deniz Yıldızı\" adlı albümünü yayınlamış, “Sezen Aksu Kaybolmayan Yıllar Arşiv Serisi” arşivine ise \"Düğün ve Cenaze\" ve \"Düş Bahçeleri\" albümlerini de ilave etmiştir. 1996 yılında yayınlanan \"Düş Bahçeleri\" ve 1997 yılında yayınlanan \"Düğün ve Cenaze\" albümlerini yeniden satışa sunan sanatçı diğer albümlerindeki gibi yeni bir kartonet tasarım ve bilgi kitapçığı ile albümlerini arşivcilere sunmuştur. == Albüm hakkında == Albümde sekizinci sırada yer alan ve albüme de ismini veren \"Düş Bahçeleri\" adlı Onno Tunç ve Sezen Aksu ortak çalışması şarkı Azmi adlı televizyon dizisinin jenerik müziği olmuştur. == Albümdeki şarkılar == \"Seni Yerler\" (Yeni şarkı) (söz - müzik: Sezen Aksu) \"Yarası Saklım\" (söz: Sezen Aksu, Yelda Karataş, müzik: Sezen Aksu) \"Bile Bile\" (söz - müzik: Sezen Aksu) \"Kaçın Kurası\" (söz - müzik: Sezen Aksu) \"Le Le Le\" (söz - müzik: Sezen Aksu) \"Rakkas (Remix 1)\" (söz: Sezen Aksu, Yelda Karataş, müzik: Atilla Özdemiroğlu) \"Yalnızlık Senfonisi\" (söz - müzik: Sezen Aksu) \"Düş Bahçeleri\" (Yeni şarkı) (söz - müzik: Onno Tunç, Sezen Aksu) \"İki Gözüm (Gel Barışalım Artık)\" (söz - müzik: Sezen Aksu) \"Zalim\" (söz: Sezen Aksu, müzik: Eldar Mansurov) \"Yeter ki Onursuz Olmasın Aşk\" (söz: Sezen Aksu, müzik: Uzay Hepari, Sezen Aksu) \"Rakkas (Remix 2)\" (söz: Sezen Aksu, Yelda Karataş, müzik: Atilla Özdemiroğlu) == Ana kadro == == Kaynakça == == Dış bağlantılar == SezenAksu.com.tr",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 271,
+      "char_count": 1813,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.070275",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 816,
+      "content": "Düş Bahçeleri, Sezen Aksu'nun 14 Temmuz 1996 tarihinde çıkan on üçüncü stüdyo albümüdür. Albüm Sezen Aksu tarafından aranjörü, bestecisi ve yakın dostu Onno Tunç'a ithafen 1995 yılında yapılmıştır. Onno Tunç 14 Ocak 1996 tarihinde Bursa'dan Yalova’ya dönerken, bindiği özel uçağının Selimiye köyü yakınlarına düşmesi sonucu arkadaşı Hasan Kanik ile birlikte ölmüştür. Sezen Aksu, Haziran 2008'de DMC etiketi ile \"Deniz Yıldızı\" adlı albümünü yayınlamış, “Sezen Aksu Kaybolmayan Yıllar Arşiv Serisi” arşivine ise \"Düğün ve Cenaze\" ve \"Düş Bahçeleri\" albümlerini de ilave etmiştir. 1996 yılında yayınlanan \"Düş Bahçeleri\" ve 1997 yılında yayınlanan \"Düğün ve Cenaze\" albümlerini yeniden satışa sunan sanatçı diğer albümlerindeki gibi yeni bir kartonet tasarım ve bilgi kitapçığı ile albümlerini arşivcilere sunmuştur.",
+      "char_count": 815,
+      "token_estimate": 203
+    },
+    {
+      "id": "c0001",
+      "section": "== Albüm hakkında ==",
+      "heading_path": "== Albüm hakkında ==",
+      "start_char": 816,
+      "end_char": 1020,
+      "content": "== Albüm hakkında == Albümde sekizinci sırada yer alan ve albüme de ismini veren \"Düş Bahçeleri\" adlı Onno Tunç ve Sezen Aksu ortak çalışması şarkı Azmi adlı televizyon dizisinin jenerik müziği olmuştur.",
+      "char_count": 203,
+      "token_estimate": 50
+    },
+    {
+      "id": "c0002",
+      "section": "== Albümdeki şarkılar ==",
+      "heading_path": "== Albümdeki şarkılar ==",
+      "start_char": 1020,
+      "end_char": 1744,
+      "content": "== Albümdeki şarkılar == \"Seni Yerler\" (Yeni şarkı) (söz - müzik: Sezen Aksu) \"Yarası Saklım\" (söz: Sezen Aksu, Yelda Karataş, müzik: Sezen Aksu) \"Bile Bile\" (söz - müzik: Sezen Aksu) \"Kaçın Kurası\" (söz - müzik: Sezen Aksu) \"Le Le Le\" (söz - müzik: Sezen Aksu) \"Rakkas (Remix 1)\" (söz: Sezen Aksu, Yelda Karataş, müzik: Atilla Özdemiroğlu) \"Yalnızlık Senfonisi\" (söz - müzik: Sezen Aksu) \"Düş Bahçeleri\" (Yeni şarkı) (söz - müzik: Onno Tunç, Sezen Aksu) \"İki Gözüm (Gel Barışalım Artık)\" (söz - müzik: Sezen Aksu) \"Zalim\" (söz: Sezen Aksu, müzik: Eldar Mansurov) \"Yeter ki Onursuz Olmasın Aşk\" (söz: Sezen Aksu, müzik: Uzay Hepari, Sezen Aksu) \"Rakkas (Remix 2)\" (söz: Sezen Aksu, Yelda Karataş, müzik: Atilla Özdemiroğlu)",
+      "char_count": 723,
+      "token_estimate": 180
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1775,
+      "end_char": 1813,
+      "content": "== Dış bağlantılar == SezenAksu.com.tr",
+      "char_count": 38,
+      "token_estimate": 9
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sezen Aksu'nun Düş Bahçeleri adlı on üçüncü stüdyo albümü hangi tarihte piyasaya sürülmüştür?",
+        "answer": "14 Temmuz 1996",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sezen Aksu'nun \"Düş Bahçeleri\" albümü ve albüme adını veren şarkının Onno Tunç ile olan bağlantıları nelerdir?",
+        "answer": "\"Düş Bahçeleri\" albümü, Sezen Aksu tarafından yakın dostu, aranjörü ve bestecisi Onno Tunç'a ithafen yapılmıştır. Albüme adını veren ve sekizinci sırada yer alan \"Düş Bahçeleri\" adlı şarkı ise Onno Tunç ve Sezen Aksu'nun ortak çalışması olup, söz ve müziği birlikte oluşturdukları belirtilmiştir; aynı zamanda bu şarkı \"Azmi\" adlı televizyon dizisinin jenerik müziği olarak da kullanılmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

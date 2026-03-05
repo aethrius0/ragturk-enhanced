@@ -1,0 +1,104 @@
+{
+  "article": {
+    "id": "karabelgeidi_5085ba25",
+    "title": "Karabel Geçidi",
+    "url": "https://tr.wikipedia.org/wiki/Karabel_Ge%C3%A7idi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:07.898709",
+    "content": "Karabel Geçidi, İzmir iliinin Kemalpaşa ve Torbalı ilçeleri arasındaki yol üzerinde ve Bozdağlar sıradağlar kütlesi içinde, bu dağ silsilesinin en batıdaki kısmını oluşturan Nif Dağı ile daha doğuda uzanan kalan kısmı arasında yer alan bir geçittir. İzmir'den yaklaşık 20 km uzaklıktadır. Coğrafi niteliğinin yanı sıra geçitteki kayalar üzerine kazınmış resimsel kabartma Ege Bölgesi'ndeki en eski tarihsel kalıntılardan birdir. == Karabel Kaya Kabartması == Kabartmada sağa yönelmiş, sağ elinde bir yay, sol elinde bir mızrak bulunan bir savaşçı resmedilmiştir. Sol elinin üstünde Luvi hiyeroglifleri ile yazılmış bir yazı bulunur. Görüntü yaklaşık 1,5 mt genişliğinde 2,5 mt yüksekliğindedir. Kabartmada resmedilen kişinin kimliği konusu tarihçiler ve gezginler arasında uzun yıllar tartışılmıştır. İlk kez ondan Halikarnasoslu Herodotos söz eder ve onu Mısır firavunu Sesostris. olarak tanımlar. Kabartma ilk kez 1839 yılında Fransız gezgin Charles Texier tarafından keşfedilir ve 1862'de onun yaptığı resmi yayınlanır. Alman bilgin Heinrich Keipert'in 1843 yılında, kabartmadaki resmin Orta Anadolu'da, Çorum Boğazköy'deki Yazılıkaya'daki kaya kabartmalarıyla benzerliğini belirmesinin ardından zamanla, Kurt Bittel, Helmuth Theodor Bossert, Hans Gustav Güterbock, Ekrem Akurgal, Heinrich Otten ve Annelies Kammenhuber gibi birçok bilim insanı bu tarihsel kalıntının Hitit kültürüyle ilgili olduğunu saptamıştır. Hitit çivi yazılı belgelerin okunması ve Luvi hiyerogliflerinin çözümlenmesiyle artan bilimsel bilgilerin sonucunda İngiliz bilim insanı David Hawkins 1998 yılında, Karabel kabartmasındaki savaşçının sol kolu üzerindeki hiyeroglif yazısının, MÖ 13. yüzyıldan kalma, Luvi dilinde yazışmış olduğunu ve bu yazının anlamını çözdü.Yazıda şunlar yazılıydı: Tarkasnawa, [Mira Ülkesi]'nin Kralı Mira Ülkesi'nin Kralı Allantallis'in [oğlu] Mira Ülkesi'nin Kralı ...... torunu. Kabartmada resmi çizilmiş kişi; İ:Ö.13. yüzyılda Hitit İmparatorluğuna bağlı olarak Batı Anadolu'da var olan Mira Ülkesi'nin Kralı Tarkasnawa idi. Tarkasnawa'nın büyük babasının Kupanta Kurunta olduğu anlaşıldı. Geçitte Tarkasnawa kabartmasına yakın bir mesafede aynı boyda ikinci bir kabartma heykel bulunmaktaydı. Ancak bu ikinci kabartma, düşmüş bir kaya kütlesinin üzerinde 1875'te restore edilemez ölçüde hasarlı durumda keşfedilmiştir. Geçitteki yol üzerinde 1926-1935 döneminde İzmir Valiliği görevini yürütmüş Kazım Dirik tarafından kabartma heykelin yerini belirtmek için yaptırılmış çini süslemeli bir zafer takı bulunmaktaydı, ancak yol genişletme çalışmaları nedeniyle bu zafer takı yıkılmıştır. Şu anda yol üzerinden sadece anıta çıkışı sağlayan merdivenler görünmektedir. == Ayrıca bakınız == Nif Dağı == Dipnotlar == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 352,
+      "char_count": 2731,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.956174",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 429,
+      "content": "Karabel Geçidi, İzmir iliinin Kemalpaşa ve Torbalı ilçeleri arasındaki yol üzerinde ve Bozdağlar sıradağlar kütlesi içinde, bu dağ silsilesinin en batıdaki kısmını oluşturan Nif Dağı ile daha doğuda uzanan kalan kısmı arasında yer alan bir geçittir. İzmir'den yaklaşık 20 km uzaklıktadır. Coğrafi niteliğinin yanı sıra geçitteki kayalar üzerine kazınmış resimsel kabartma Ege Bölgesi'ndeki en eski tarihsel kalıntılardan birdir.",
+      "char_count": 428,
+      "token_estimate": 107
+    },
+    {
+      "id": "c0001",
+      "section": "== Karabel Kaya Kabartması ==",
+      "heading_path": "== Karabel Kaya Kabartması ==",
+      "start_char": 429,
+      "end_char": 1429,
+      "content": "== Karabel Kaya Kabartması == Kabartmada sağa yönelmiş, sağ elinde bir yay, sol elinde bir mızrak bulunan bir savaşçı resmedilmiştir. Sol elinin üstünde Luvi hiyeroglifleri ile yazılmış bir yazı bulunur. Görüntü yaklaşık 1,5 mt genişliğinde 2,5 mt yüksekliğindedir. Kabartmada resmedilen kişinin kimliği konusu tarihçiler ve gezginler arasında uzun yıllar tartışılmıştır. İlk kez ondan Halikarnasoslu Herodotos söz eder ve onu Mısır firavunu Sesostris. olarak tanımlar. Kabartma ilk kez 1839 yılında Fransız gezgin Charles Texier tarafından keşfedilir ve 1862'de onun yaptığı resmi yayınlanır. Alman bilgin Heinrich Keipert'in 1843 yılında, kabartmadaki resmin Orta Anadolu'da, Çorum Boğazköy'deki Yazılıkaya'daki kaya kabartmalarıyla benzerliğini belirmesinin ardından zamanla, Kurt Bittel, Helmuth Theodor Bossert, Hans Gustav Güterbock, Ekrem Akurgal, Heinrich Otten ve Annelies Kammenhuber gibi birçok bilim insanı bu tarihsel kalıntının Hitit kültürüyle ilgili olduğunu saptamıştır. Hitit çivi y",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Karabel Kaya Kabartması ==",
+      "heading_path": "== Karabel Kaya Kabartması ==",
+      "start_char": 1229,
+      "end_char": 2229,
+      "content": "Theodor Bossert, Hans Gustav Güterbock, Ekrem Akurgal, Heinrich Otten ve Annelies Kammenhuber gibi birçok bilim insanı bu tarihsel kalıntının Hitit kültürüyle ilgili olduğunu saptamıştır. Hitit çivi yazılı belgelerin okunması ve Luvi hiyerogliflerinin çözümlenmesiyle artan bilimsel bilgilerin sonucunda İngiliz bilim insanı David Hawkins 1998 yılında, Karabel kabartmasındaki savaşçının sol kolu üzerindeki hiyeroglif yazısının, MÖ 13. yüzyıldan kalma, Luvi dilinde yazışmış olduğunu ve bu yazının anlamını çözdü.Yazıda şunlar yazılıydı: Tarkasnawa, [Mira Ülkesi]'nin Kralı Mira Ülkesi'nin Kralı Allantallis'in [oğlu] Mira Ülkesi'nin Kralı ...... torunu. Kabartmada resmi çizilmiş kişi; İ:Ö.13. yüzyılda Hitit İmparatorluğuna bağlı olarak Batı Anadolu'da var olan Mira Ülkesi'nin Kralı Tarkasnawa idi. Tarkasnawa'nın büyük babasının Kupanta Kurunta olduğu anlaşıldı. Geçitte Tarkasnawa kabartmasına yakın bir mesafede aynı boyda ikinci bir kabartma heykel bulunmaktaydı. Ancak bu ikinci kabartma, dü",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Karabel Kaya Kabartması ==",
+      "heading_path": "== Karabel Kaya Kabartması ==",
+      "start_char": 2029,
+      "end_char": 2670,
+      "content": "i. Tarkasnawa'nın büyük babasının Kupanta Kurunta olduğu anlaşıldı. Geçitte Tarkasnawa kabartmasına yakın bir mesafede aynı boyda ikinci bir kabartma heykel bulunmaktaydı. Ancak bu ikinci kabartma, düşmüş bir kaya kütlesinin üzerinde 1875'te restore edilemez ölçüde hasarlı durumda keşfedilmiştir. Geçitteki yol üzerinde 1926-1935 döneminde İzmir Valiliği görevini yürütmüş Kazım Dirik tarafından kabartma heykelin yerini belirtmek için yaptırılmış çini süslemeli bir zafer takı bulunmaktaydı, ancak yol genişletme çalışmaları nedeniyle bu zafer takı yıkılmıştır. Şu anda yol üzerinden sadece anıta çıkışı sağlayan merdivenler görünmektedir.",
+      "char_count": 641,
+      "token_estimate": 160
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2671,
+      "end_char": 2701,
+      "content": "== Ayrıca bakınız == Nif Dağı",
+      "char_count": 29,
+      "token_estimate": 7
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Karabel Kaya Kabartması ilk kez hangi yılda keşfedilmiştir?",
+        "answer": "1839 yılında",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Karabel Kaya Kabartması'ndaki savaşçının kimliğine ve kültürel bağlılığına dair anlayış, ilk bahsedişinden kesin tanımlanmasına kadar nasıl bir evrim geçirmiştir?",
+        "answer": "Kabartmadaki savaşçıdan ilk kez Halikarnasoslu Herodotos Mısır firavunu Sesostris olarak söz etmiştir. Fransız gezgin Charles Texier tarafından 1839'da keşfedilmesi ve sonrasında Heinrich Keipert gibi bilim insanlarının Orta Anadolu'daki Yazılıkaya'daki kaya kabartmalarıyla benzerliğini belirmesinin ardından zamanla Hitit kültürüyle ilişkili olduğu saptanmıştır. Nihayet 1998'de, Hitit çivi yazılı belgelerin okunması ve Luvi hiyerogliflerinin çözümlenmesi sonucunda İngiliz bilim insanı David Hawkins, sol kolundaki hiyeroglif yazıyı çözümleyerek savaşçının MÖ 13. yüzyılda Hitit İmparatorluğu'na bağlı Mira Ülkesi'nin Kralı Tarkasnawa olduğunu kesin olarak saptamıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

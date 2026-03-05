@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "68berlinuluslararasf_36a46729",
+    "title": "68. Berlin Uluslararası Film Festivali",
+    "url": "https://tr.wikipedia.org/wiki/68._Berlin_Uluslararas%C4%B1_Film_Festivali",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:02.931157",
+    "content": "68. Berlin Uluslararası Film Festivali, 15 - 25 Şubat 2018'de Almanya'nın başkenti Berlin'de düzenlenen bir film festivalidir. Festivalin jüri başkanlığını Alman yönetmen Tom Tykwer gerçekleştirmiştir. Festivalde Altın Ayı ödülünü, Adina Pintilie'nin yönettiği Romanya yapımı Dokunma Bana (Touch Me Not) filmi kazandı. == Jüri == === Ana Yarışma === Ana yarışma bölümü için şu kişiler jüri seçildi: Tom Tykwer (Jüri Başkanı), Alman film yönetmeni Cécile de France, Belçikalı oyuncu Chema Prado, İspanyol fotoğrafçı Adele Romanski, Amerikalı yapımcı Ryuichi Sakamoto, Japon besteci Stephanie Zacharek, Amerikalı film eleştirmeni == Yarışma filmleri == Altın Ayı ve Gümüş Ayı ödüllerini alabilmek için yarışan filmler şunlardır: == Yarışma dışı == Yarışma dışı seçki aşağıdaki filmlerden oluşmakta: == Panorama == Panorama bölümü için aşağıdaki filmler seçildi: === Panorama Dokumente === Panorama Dokumente bölümü için aşağıdaki filmler seçildi: == Ödül kazananlar == Festivalde ödül kazananlar aşağıdadır: Altın Ayı: Dokunma Bana (Touch Me Not) - Adina Pintilie Jüri Grand Prix (Gümüş Ayı): Yüz (Mug) - Małgorzata Szumowska Alfred Bauer Ödülü (Gümüş Ayı): The Heiresses - Marcelo Martinessi Gümüş Ayı En İyi Yönetmen Ödülü: Wes Anderson - Köpek Adası (Isle of Dogs) Gümüş Ayı En İyi Kadın Oyuncu Ödülü: Ana Brun - The Heiresses Gümüş Ayı En İyi Erkek Oyuncu Ödülü: Anthony Bajon - The Prayer Gümüş Ayı En İyi Senaryo Ödülü: Alonso Ruizpalacios ve Manuel Alcalá - Museum Gümüş Ayı Üstün Sanatsal Katkı Ödülü: Elena Okopnaya - Dovlatov Gümüş Ayı En İyi Kısa Film Ödülü: The Men Behind the Wall - Ines Moldavsky GWFF En İyi İlk Uzun Metraj Film Ödülü (50.000 €) - Dokunma Bana (Touch Me Not) - Adina Pintilie == Kaynakça == == Dış bağlantılar == Berlin Uluslararası Film Festivali17 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 281,
+      "char_count": 1838,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.447980",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 319,
+      "content": "68. Berlin Uluslararası Film Festivali, 15 - 25 Şubat 2018'de Almanya'nın başkenti Berlin'de düzenlenen bir film festivalidir. Festivalin jüri başkanlığını Alman yönetmen Tom Tykwer gerçekleştirmiştir. Festivalde Altın Ayı ödülünü, Adina Pintilie'nin yönettiği Romanya yapımı Dokunma Bana (Touch Me Not) filmi kazandı.",
+      "char_count": 318,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0001",
+      "section": "=== Ana Yarışma ===",
+      "heading_path": "=== Ana Yarışma ===",
+      "start_char": 330,
+      "end_char": 628,
+      "content": "=== Ana Yarışma === Ana yarışma bölümü için şu kişiler jüri seçildi: Tom Tykwer (Jüri Başkanı), Alman film yönetmeni Cécile de France, Belçikalı oyuncu Chema Prado, İspanyol fotoğrafçı Adele Romanski, Amerikalı yapımcı Ryuichi Sakamoto, Japon besteci Stephanie Zacharek, Amerikalı film eleştirmeni",
+      "char_count": 297,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0002",
+      "section": "== Yarışma filmleri ==",
+      "heading_path": "== Yarışma filmleri ==",
+      "start_char": 628,
+      "end_char": 727,
+      "content": "== Yarışma filmleri == Altın Ayı ve Gümüş Ayı ödüllerini alabilmek için yarışan filmler şunlardır:",
+      "char_count": 98,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0003",
+      "section": "== Yarışma dışı ==",
+      "heading_path": "== Yarışma dışı ==",
+      "start_char": 727,
+      "end_char": 797,
+      "content": "== Yarışma dışı == Yarışma dışı seçki aşağıdaki filmlerden oluşmakta:",
+      "char_count": 69,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0004",
+      "section": "== Panorama ==",
+      "heading_path": "== Panorama ==",
+      "start_char": 797,
+      "end_char": 860,
+      "content": "== Panorama == Panorama bölümü için aşağıdaki filmler seçildi:",
+      "char_count": 62,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0005",
+      "section": "=== Panorama Dokumente ===",
+      "heading_path": "=== Panorama Dokumente ===",
+      "start_char": 860,
+      "end_char": 945,
+      "content": "=== Panorama Dokumente === Panorama Dokumente bölümü için aşağıdaki filmler seçildi:",
+      "char_count": 84,
+      "token_estimate": 21
+    },
+    {
+      "id": "c0006",
+      "section": "== Ödül kazananlar ==",
+      "heading_path": "== Ödül kazananlar ==",
+      "start_char": 945,
+      "end_char": 1706,
+      "content": "== Ödül kazananlar == Festivalde ödül kazananlar aşağıdadır: Altın Ayı: Dokunma Bana (Touch Me Not) - Adina Pintilie Jüri Grand Prix (Gümüş Ayı): Yüz (Mug) - Małgorzata Szumowska Alfred Bauer Ödülü (Gümüş Ayı): The Heiresses - Marcelo Martinessi Gümüş Ayı En İyi Yönetmen Ödülü: Wes Anderson - Köpek Adası (Isle of Dogs) Gümüş Ayı En İyi Kadın Oyuncu Ödülü: Ana Brun - The Heiresses Gümüş Ayı En İyi Erkek Oyuncu Ödülü: Anthony Bajon - The Prayer Gümüş Ayı En İyi Senaryo Ödülü: Alonso Ruizpalacios ve Manuel Alcalá - Museum Gümüş Ayı Üstün Sanatsal Katkı Ödülü: Elena Okopnaya - Dovlatov Gümüş Ayı En İyi Kısa Film Ödülü: The Men Behind the Wall - Ines Moldavsky GWFF En İyi İlk Uzun Metraj Film Ödülü (50.000 €) - Dokunma Bana (Touch Me Not) - Adina Pintilie",
+      "char_count": 760,
+      "token_estimate": 190
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1721,
+      "end_char": 1838,
+      "content": "== Dış bağlantılar == Berlin Uluslararası Film Festivali17 Şubat 2011 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 117,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Altın Ayı ödülünü kazanan film ve yönetmeni kimdir?",
+        "answer": "Dokunma Bana (Touch Me Not) filmi, Adina Pintilie tarafından yönetilmiştir.",
+        "related_chunk_ids": [
+          "c0006"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "68. Berlin Uluslararası Film Festivali'nin Ana Yarışma jürisine kim başkanlık etmiştir ve bu jürinin diğer üyeleri kimlerdi?",
+        "answer": "68. Berlin Uluslararası Film Festivali'nin Ana Yarışma jürisine Tom Tykwer başkanlık etmiş, diğer üyeler ise Cécile de France, Chema Prado, Adele Romanski, Ryuichi Sakamoto ve Stephanie Zacharek olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

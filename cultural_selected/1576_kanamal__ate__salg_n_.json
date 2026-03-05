@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "1576kanamalatesalgn_b9f80ea2",
+    "title": "1576 kanamalı ateş salgını",
+    "url": "https://tr.wikipedia.org/wiki/1576_kanamal%C4%B1_ate%C5%9F_salg%C4%B1n%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:18:59.514616",
+    "content": "1576 kanamalı ateş salgını günümüz Meksika'sında bulunan, 16. yüzyılda Yeni İspanya diye bilinen bölgede gerçekleşen genel olarak kanamalı salgın denilen bir ya da birden fazla hastalık dolayısıyla gerçekleşen milyonlarca ölüme denmektedir. Salgının nedeni bilinmemektedir ama yerli bir kanamalı ateş türü olabileceği, belki de son 500 yılda o bölgede beliren en kötü kuraklık ve Avrupa istilasının ardından Meksika yerlilerinin yaşam şartları dolayısıyla salgının daha da çok yayılmış olabileceği düşünülmektedir. Bazı tarihçiler salgının sebebinin tifüs, kızamık ya da çiçek hastalığı olduğu teorisinde bulunmuşlardır ama belirtiler uyuşmamıştır. == Tarihi == Kanamalı ateş salgını genellikle büyük bir kuraklığın iki yılı içerisinde gerçekleşirken yağmurlu mevsimin iki yılı içerisinde de \"matlazahuatl\" denen bir hastalık ortaya çıkmıştır. 1576'daki salgın, Venezuela'dan Kanada'ya doğru ilerleyen kuraklıktan sonra gerçekleşmiştir. Kuraklık ile hastalık arasındaki korelasyon ise kuraklıktan sonra gelen yağmurda, kanamalı ateş hastalığını taşıyan Calomys ismindeki fare cinsinin nüfusu, koşullar iyileştikçe artmıştır. Kanamalı ateş olduğundan şüphelenilen toplam 12 tane salgın olmuştur, en büyükleri ise 1545, 1576, 1736 ve 1813 yıllarında gerçekleşmiştir. == Etimoloji == Hastalığın asıl ismi (Cocoliztli) Nahuatl dilindeki \"haşere\" kelimesinden veya illet, hastalıık ya da vebadan gelmiştir. Ama orijinal isim, ilk defa 1545'te belirip Yerli ve İspanyol benzerlerini öldüren isimsiz hastalığa da bu isim verildiğinde asıl taşıdığı anlamı kaybetmiştir. == Belirtileri == 1576'daki salgına tanık olmuş bir hekim olan Francisco Hernandez'e göre, hastalığın belirtileri ateş, şiddetli baş ağrısı, baş dönmesi, siyah dil, koyu renkli idrar, dizanteri, şiddetli karın ve göğüs ağrısı, baş-boyun nodülleri, nörolojik bozukluklar, sarılık ve burundan, gözlerden ve ağızdan aşırı kanamadır; ölüm ise 3 ila 4 gün arasında gerçekleşmektedir. == Kaynakça == == Dış bağlantılar == \"Megadeath in Mexico\". discovermagazine.com. 19 Mart 2017 tarihinde kaynağından arşivlendi. Erişim tarihi: 28 Kasım 2015. \"'Ebola' bug wiped out the Aztecs\". The Guardian. 5 Mart 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 28 Kasım 2015. \"Expert: Native disease killed Aztecs, not outsiders\". chron.com. 13 Aralık 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 5 Aralık 2015.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 312,
+      "char_count": 2370,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:42.184040",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 649,
+      "content": "1576 kanamalı ateş salgını günümüz Meksika'sında bulunan, 16. yüzyılda Yeni İspanya diye bilinen bölgede gerçekleşen genel olarak kanamalı salgın denilen bir ya da birden fazla hastalık dolayısıyla gerçekleşen milyonlarca ölüme denmektedir. Salgının nedeni bilinmemektedir ama yerli bir kanamalı ateş türü olabileceği, belki de son 500 yılda o bölgede beliren en kötü kuraklık ve Avrupa istilasının ardından Meksika yerlilerinin yaşam şartları dolayısıyla salgının daha da çok yayılmış olabileceği düşünülmektedir. Bazı tarihçiler salgının sebebinin tifüs, kızamık ya da çiçek hastalığı olduğu teorisinde bulunmuşlardır ama belirtiler uyuşmamıştır.",
+      "char_count": 648,
+      "token_estimate": 162
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 649,
+      "end_char": 1265,
+      "content": "== Tarihi == Kanamalı ateş salgını genellikle büyük bir kuraklığın iki yılı içerisinde gerçekleşirken yağmurlu mevsimin iki yılı içerisinde de \"matlazahuatl\" denen bir hastalık ortaya çıkmıştır. 1576'daki salgın, Venezuela'dan Kanada'ya doğru ilerleyen kuraklıktan sonra gerçekleşmiştir. Kuraklık ile hastalık arasındaki korelasyon ise kuraklıktan sonra gelen yağmurda, kanamalı ateş hastalığını taşıyan Calomys ismindeki fare cinsinin nüfusu, koşullar iyileştikçe artmıştır. Kanamalı ateş olduğundan şüphelenilen toplam 12 tane salgın olmuştur, en büyükleri ise 1545, 1576, 1736 ve 1813 yıllarında gerçekleşmiştir.",
+      "char_count": 615,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0002",
+      "section": "== Etimoloji ==",
+      "heading_path": "== Etimoloji ==",
+      "start_char": 1265,
+      "end_char": 1562,
+      "content": "== Etimoloji == Hastalığın asıl ismi (Cocoliztli) Nahuatl dilindeki \"haşere\" kelimesinden veya illet, hastalıık ya da vebadan gelmiştir. Ama orijinal isim, ilk defa 1545'te belirip Yerli ve İspanyol benzerlerini öldüren isimsiz hastalığa da bu isim verildiğinde asıl taşıdığı anlamı kaybetmiştir.",
+      "char_count": 296,
+      "token_estimate": 74
+    },
+    {
+      "id": "c0003",
+      "section": "== Belirtileri ==",
+      "heading_path": "== Belirtileri ==",
+      "start_char": 1562,
+      "end_char": 1941,
+      "content": "== Belirtileri == 1576'daki salgına tanık olmuş bir hekim olan Francisco Hernandez'e göre, hastalığın belirtileri ateş, şiddetli baş ağrısı, baş dönmesi, siyah dil, koyu renkli idrar, dizanteri, şiddetli karın ve göğüs ağrısı, baş-boyun nodülleri, nörolojik bozukluklar, sarılık ve burundan, gözlerden ve ağızdan aşırı kanamadır; ölüm ise 3 ila 4 gün arasında gerçekleşmektedir.",
+      "char_count": 378,
+      "token_estimate": 94
+    },
+    {
+      "id": "c0004",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1956,
+      "end_char": 2370,
+      "content": "== Dış bağlantılar == \"Megadeath in Mexico\". discovermagazine.com. 19 Mart 2017 tarihinde kaynağından arşivlendi. Erişim tarihi: 28 Kasım 2015. \"'Ebola' bug wiped out the Aztecs\". The Guardian. 5 Mart 2016 tarihinde kaynağından arşivlendi. Erişim tarihi: 28 Kasım 2015. \"Expert: Native disease killed Aztecs, not outsiders\". chron.com. 13 Aralık 2015 tarihinde kaynağından arşivlendi. Erişim tarihi: 5 Aralık 2015.",
+      "char_count": 414,
+      "token_estimate": 103
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1576 kanamalı ateş salgını günümüzdeki hangi ülkede meydana gelmiştir?",
+        "answer": "Meksika",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "1576 kanamalı ateş salgınının yayılmasında kuraklık ve ardından gelen çevresel değişiklikler nasıl bir rol oynamış olabilir?",
+        "answer": "1576 kanamalı ateş salgınının yayılması, kısmen son 500 yılın en kötü kuraklıklarından birinin ve Avrupa istilasının ardından Meksika yerlilerinin yaşam koşullarının etkisiyle gerçekleşmiştir. Salgın, büyük bir kuraklığın iki yılı içerisinde meydana gelmiş ve bu kuraklığı takip eden yağmurlu dönemde, kanamalı ateş hastalığını taşıyan Calomys fare cinsinin nüfusu artmıştır. Bu durum, kuraklık ve ardından gelen yağmurlu koşulların hastalığın taşıyıcısının popülasyonunu artırarak salgının yayılmasına katkıda bulunduğunu göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "drumsalongthemohawk_428da53e",
+    "title": "Drums Along the Mohawk",
+    "url": "https://tr.wikipedia.org/wiki/Drums_Along_the_Mohawk",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:30:51.333274",
+    "content": "Mohawk Boyunca Davullar, Amerikalı yazar Walter D. Edmonds'un 1936 tarihli aynı adlı romanına dayanan 1939 Amerikan tarihi drama filmidir . Filmin yapımcılığını Darryl F. Zanuck, yönetmenliğini John Ford üstlendi. Henry Fonda ve Claudette Colbert , Amerikan Devrimi sırasında New York sınırındaki yerleşimcileri tasvir eder. Çift, Devrim sona ermeden ve barış yeniden sağlanmadan önce çiftliklerinde İngiliz, Muhafazakar ve Hint saldırılarına maruz kalır. Edmonds, romanı vadide yaşayan bir dizi tarihi şahsiyete dayandırdı. Ford'un ilk Technicolor filmi olan film iyi karşılandı. Bir Akademi Ödülü'ne aday gösterildi ve ilk yılında 1 milyon ABD dolarının üzerinde hasılat elde ederek büyük bir gişe başarısı oldu. Drums Along the Mohawk, 2007 yılında Film Vakfı ile birlikte Akademi Film Arşivi tarafından restore edilmiştir == Oyuncular == Claudette Colbert - Magdalena \"Lana\" Borst Martin Henry Fonda - Gilbert \"Gil\" Martin Edna May Oliver - Sarah McKlennar Eddie Collins - Christian Reall John Carradine - Caldwell Ward Bond - Adam Helmer Roger Imhof - Gen. Nicholas Herkimer Arthur Shields - Rev. Rosenkrantz Chief John Big Tree - Blue Back Francis Ford - Joe Boleo Jessie Ralph - Mrs. Weaver Robert Lowery - John Weaver Kay Linaker - Mrs. Demooth Russell Simpson - Dr. Petry Spencer Charters - Innkeeper Tom Tyler - Capt. Morgan (adı geçmedi) == Kaynaklar == == Dış bağlantılar == Drums Along the Mohawk; Amerikan Film Enstitüsü kataloğu IMDb'de Drums Along the Mohawk AllMovie'de Drums Along the Mohawk",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 230,
+      "char_count": 1509,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:48.804165",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 826,
+      "content": "Mohawk Boyunca Davullar, Amerikalı yazar Walter D. Edmonds'un 1936 tarihli aynı adlı romanına dayanan 1939 Amerikan tarihi drama filmidir . Filmin yapımcılığını Darryl F. Zanuck, yönetmenliğini John Ford üstlendi. Henry Fonda ve Claudette Colbert , Amerikan Devrimi sırasında New York sınırındaki yerleşimcileri tasvir eder. Çift, Devrim sona ermeden ve barış yeniden sağlanmadan önce çiftliklerinde İngiliz, Muhafazakar ve Hint saldırılarına maruz kalır. Edmonds, romanı vadide yaşayan bir dizi tarihi şahsiyete dayandırdı. Ford'un ilk Technicolor filmi olan film iyi karşılandı. Bir Akademi Ödülü'ne aday gösterildi ve ilk yılında 1 milyon ABD dolarının üzerinde hasılat elde ederek büyük bir gişe başarısı oldu. Drums Along the Mohawk, 2007 yılında Film Vakfı ile birlikte Akademi Film Arşivi tarafından restore edilmiştir",
+      "char_count": 825,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0001",
+      "section": "== Oyuncular ==",
+      "heading_path": "== Oyuncular ==",
+      "start_char": 826,
+      "end_char": 1349,
+      "content": "== Oyuncular == Claudette Colbert - Magdalena \"Lana\" Borst Martin Henry Fonda - Gilbert \"Gil\" Martin Edna May Oliver - Sarah McKlennar Eddie Collins - Christian Reall John Carradine - Caldwell Ward Bond - Adam Helmer Roger Imhof - Gen. Nicholas Herkimer Arthur Shields - Rev. Rosenkrantz Chief John Big Tree - Blue Back Francis Ford - Joe Boleo Jessie Ralph - Mrs. Weaver Robert Lowery - John Weaver Kay Linaker - Mrs. Demooth Russell Simpson - Dr. Petry Spencer Charters - Innkeeper Tom Tyler - Capt. Morgan (adı geçmedi)",
+      "char_count": 522,
+      "token_estimate": 130
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1365,
+      "end_char": 1509,
+      "content": "== Dış bağlantılar == Drums Along the Mohawk; Amerikan Film Enstitüsü kataloğu IMDb'de Drums Along the Mohawk AllMovie'de Drums Along the Mohawk",
+      "char_count": 144,
+      "token_estimate": 36
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "1939 yapımı 'Mohawk Boyunca Davullar' filminin yönetmeni kimdir?",
+        "answer": "John Ford",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Drums Along the Mohawk filminde Henry Fonda ve Claudette Colbert hangi karakterleri canlandırmıştır?",
+        "answer": "Henry Fonda, Gilbert \"Gil\" Martin'i ve Claudette Colbert, Magdalena \"Lana\" Borst Martin'i canlandırmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

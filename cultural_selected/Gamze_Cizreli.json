@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "gamzecizreli_51d3d901",
+    "title": "Gamze Cizreli",
+    "url": "https://tr.wikipedia.org/wiki/Gamze_Cizreli",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:34:34.695368",
+    "content": "Gamze Cizreli (d. 1968, Diyarbakır), Türk girişimci ve iş insanıdır. BigChefs'in kurucusudur. == Hayatı == Gamze Cizreli 1968'de doktor bir baba ve ev hanımı annenin 3 çocuğunun en küçüğü olarak Diyarbakır'da dünyaya geldi. Çocukluğu babasının görevi nedeniyle biraz Konya'da biraz Ankara'da geçen Cizreli, 1991'de ODTÜ İşletme Bölümünden mezun oldu. Mezun olduktan sonra Türk-Amerikan ortak savunma sanayi projesinde çalıştı. 1994'te sektör değiştiren Cizreli, ilk eşiyle beraber Arjantin Caddesi'nde Ankara'nın ilk kafelerinden Cafemiz'i kurdu. Daha sonra sırasıyla pastacılık alanında hizmet veren Kuki ve Uzak Doğu yemeklerinin satıldığı Quick China'yı kurdu. 2005'te iflas eden Cizreli, 2007'de kredi çekerek Ankara'da BigChefs'i kurdu. 2010'da Saruhan Tan'ın ortaklığıyla Ankara'da Rafine Restaurant'ı kuran Gamze Cizreli, 2020 itibarıyla halen daha BigChefs'in yöneticiliğini yapmaktadır. Cizreli ayrıca 2016'da Dorom.co adlı dürümcü zincirini kurmuştur. == Popüler kültür == Cizreli'nin hayatını anlatan \"Tarifte Aşk Var\" filminin çekimleri 2018'de başlamıştır. == Kişisel hayatı == Cizreli'nin Oğul ve Ali adında iki oğlu vardır. == Ödülleri == KAGİDER ve Garanti Bankası - Yılın Kadın Girişimcisi (2010) Ekonomist dergisi - Yılın İş insanları Ödül Töreni - Yılın Kadın Girişimcisi Ödülü (2011) Ekonomist dergisi - Yılın İş insanları Ödül Töreni - Yılın Kadın Girişimcisi Ödülü (2013) Ekonomist dergisi - Yılın İş insanları Ödül Töreni - Yılın Kadın Girişimcisi Ödülü (2014) Türkiye Altın Marka Ödülleri - Yılın İş Kadını (2019) == Kitapları == Ateşle Oynayanlar - Bazen Bir Kıvılcım Yeter, Alfa Yayınları, Ekim 2023 == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 229,
+      "char_count": 1640,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.965957",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 94,
+      "content": "Gamze Cizreli (d. 1968, Diyarbakır), Türk girişimci ve iş insanıdır. BigChefs'in kurucusudur.",
+      "char_count": 93,
+      "token_estimate": 23
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 94,
+      "end_char": 962,
+      "content": "== Hayatı == Gamze Cizreli 1968'de doktor bir baba ve ev hanımı annenin 3 çocuğunun en küçüğü olarak Diyarbakır'da dünyaya geldi. Çocukluğu babasının görevi nedeniyle biraz Konya'da biraz Ankara'da geçen Cizreli, 1991'de ODTÜ İşletme Bölümünden mezun oldu. Mezun olduktan sonra Türk-Amerikan ortak savunma sanayi projesinde çalıştı. 1994'te sektör değiştiren Cizreli, ilk eşiyle beraber Arjantin Caddesi'nde Ankara'nın ilk kafelerinden Cafemiz'i kurdu. Daha sonra sırasıyla pastacılık alanında hizmet veren Kuki ve Uzak Doğu yemeklerinin satıldığı Quick China'yı kurdu. 2005'te iflas eden Cizreli, 2007'de kredi çekerek Ankara'da BigChefs'i kurdu. 2010'da Saruhan Tan'ın ortaklığıyla Ankara'da Rafine Restaurant'ı kuran Gamze Cizreli, 2020 itibarıyla halen daha BigChefs'in yöneticiliğini yapmaktadır. Cizreli ayrıca 2016'da Dorom.co adlı dürümcü zincirini kurmuştur.",
+      "char_count": 867,
+      "token_estimate": 216
+    },
+    {
+      "id": "c0002",
+      "section": "== Popüler kültür ==",
+      "heading_path": "== Popüler kültür ==",
+      "start_char": 962,
+      "end_char": 1070,
+      "content": "== Popüler kültür == Cizreli'nin hayatını anlatan \"Tarifte Aşk Var\" filminin çekimleri 2018'de başlamıştır.",
+      "char_count": 107,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0003",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 1070,
+      "end_char": 1139,
+      "content": "== Kişisel hayatı == Cizreli'nin Oğul ve Ali adında iki oğlu vardır.",
+      "char_count": 68,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0004",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 1139,
+      "end_char": 1538,
+      "content": "== Ödülleri == KAGİDER ve Garanti Bankası - Yılın Kadın Girişimcisi (2010) Ekonomist dergisi - Yılın İş insanları Ödül Töreni - Yılın Kadın Girişimcisi Ödülü (2011) Ekonomist dergisi - Yılın İş insanları Ödül Töreni - Yılın Kadın Girişimcisi Ödülü (2013) Ekonomist dergisi - Yılın İş insanları Ödül Töreni - Yılın Kadın Girişimcisi Ödülü (2014) Türkiye Altın Marka Ödülleri - Yılın İş Kadını (2019)",
+      "char_count": 398,
+      "token_estimate": 99
+    },
+    {
+      "id": "c0005",
+      "section": "== Kitapları ==",
+      "heading_path": "== Kitapları ==",
+      "start_char": 1538,
+      "end_char": 1626,
+      "content": "== Kitapları == Ateşle Oynayanlar - Bazen Bir Kıvılcım Yeter, Alfa Yayınları, Ekim 2023",
+      "char_count": 87,
+      "token_estimate": 21
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Gamze Cizreli, BigChefs'i hangi yıl kurmuştur?",
+        "answer": "2007",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Gamze Cizreli'nin BigChefs ile olan ilişkisi, kuruluşundan günümüze kadar kariyerindeki hangi önemli dönüm noktalarıyla açıklanabilir?",
+        "answer": "BigChefs'in kurucusu olan Gamze Cizreli, 2005'te yaşadığı iflasın ardından 2007'de kredi çekerek Ankara'da BigChefs'i kurmuştur. 2020 itibarıyla halen daha BigChefs'in yöneticiliğini sürdürmektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

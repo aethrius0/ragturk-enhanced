@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "olcayneyzi_f31bb17d",
+    "title": "Olcay Neyzi",
+    "url": "https://tr.wikipedia.org/wiki/Olcay_Neyzi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:58.627891",
+    "content": "Remide Olcay Neyzi (d. 27 Temmuz 1927 - ö. 3 Şubat 2022), Türk doktoru ve İstanbul Tıp Fakültesi (çalışma yılları 1979 – 1994) eski Pediatri Anabilim Dalı Başkanıdır. Türkçe hazırlanmış kapsamlı ve bilinen pediatri ders kitabının ilk yazarı olarak, Türkiye'de tıp eğitiminin seviyesinin yükselmesine büyük katkı sağlamıştır. Son dönemde COVID-19 pandemisi nedeniyle gündeme gelen aşı tartışmalarına ilişkin verdiği beyanatta kızamık, difteri gibi hastalıkların aşı sayesinde yok olduğuna dikkat çekerek, “Cahil insanları kandırıyorlar... Hastalıktan koruyan bir şeye nasıl karşı olunabilinir? Ben anlamıyorum” demiştir. == Biyografi == Nemide ve Şükrü Ataman'ın kızı olarak 27 Temmuz 1927'de İstanbul'da doğdu. 1979-94 yılları arasında İstanbul Tıp Fakültesi Çocuk Sağlığı ve Hastalıkları Anabilim Dalı Başkanı ve İstanbul Üniversitesi Çocuk Sağlığı Enstitüsü Müdürü olarak görev yaptı. Bu süre zarfında Olcay Neyzi, İstanbul Tıp Fakültesinde Kadın ve Çocuk Araştırma ve Eğitim Birimi\"'nin kurulmasına önderlik etti. Ayrıca İstanbul Üniversitesi Çocuk Sağlığı Enstitüsü bünyesinde multidisipliner bir ekiple Aile Sağlığı Anabilim Dalı'nın kurulmasında görev aldı. Mehmet Ali Neyzi ve Leyla Neyzi adlarında iki çocuk sahibi olan Neyzi, 3 Şubat 2022'de doğum yeri İstanbul'da yaşlılığa bağlı nedenlerden 94 yaşında öldü. Cenazesi 5 Şubat 2022 Cumartesi günü Teşvikiye Camii'nde kılınan öğlen namazını takiben Edirnekapı Aile Mezarlığında defnedildi. == Ödüller == 2017 Eczacıbaşı Tıp Onur Ödülü == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 205,
+      "char_count": 1507,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.956754",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 620,
+      "content": "Remide Olcay Neyzi (d. 27 Temmuz 1927 - ö. 3 Şubat 2022), Türk doktoru ve İstanbul Tıp Fakültesi (çalışma yılları 1979 – 1994) eski Pediatri Anabilim Dalı Başkanıdır. Türkçe hazırlanmış kapsamlı ve bilinen pediatri ders kitabının ilk yazarı olarak, Türkiye'de tıp eğitiminin seviyesinin yükselmesine büyük katkı sağlamıştır. Son dönemde COVID-19 pandemisi nedeniyle gündeme gelen aşı tartışmalarına ilişkin verdiği beyanatta kızamık, difteri gibi hastalıkların aşı sayesinde yok olduğuna dikkat çekerek, “Cahil insanları kandırıyorlar... Hastalıktan koruyan bir şeye nasıl karşı olunabilinir? Ben anlamıyorum” demiştir.",
+      "char_count": 619,
+      "token_estimate": 154
+    },
+    {
+      "id": "c0001",
+      "section": "== Biyografi ==",
+      "heading_path": "== Biyografi ==",
+      "start_char": 620,
+      "end_char": 1448,
+      "content": "== Biyografi == Nemide ve Şükrü Ataman'ın kızı olarak 27 Temmuz 1927'de İstanbul'da doğdu. 1979-94 yılları arasında İstanbul Tıp Fakültesi Çocuk Sağlığı ve Hastalıkları Anabilim Dalı Başkanı ve İstanbul Üniversitesi Çocuk Sağlığı Enstitüsü Müdürü olarak görev yaptı. Bu süre zarfında Olcay Neyzi, İstanbul Tıp Fakültesinde Kadın ve Çocuk Araştırma ve Eğitim Birimi\"'nin kurulmasına önderlik etti. Ayrıca İstanbul Üniversitesi Çocuk Sağlığı Enstitüsü bünyesinde multidisipliner bir ekiple Aile Sağlığı Anabilim Dalı'nın kurulmasında görev aldı. Mehmet Ali Neyzi ve Leyla Neyzi adlarında iki çocuk sahibi olan Neyzi, 3 Şubat 2022'de doğum yeri İstanbul'da yaşlılığa bağlı nedenlerden 94 yaşında öldü. Cenazesi 5 Şubat 2022 Cumartesi günü Teşvikiye Camii'nde kılınan öğlen namazını takiben Edirnekapı Aile Mezarlığında defnedildi.",
+      "char_count": 827,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0002",
+      "section": "== Ödüller ==",
+      "heading_path": "== Ödüller ==",
+      "start_char": 1448,
+      "end_char": 1493,
+      "content": "== Ödüller == 2017 Eczacıbaşı Tıp Onur Ödülü",
+      "char_count": 44,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Olcay Neyzi ne zaman ve nerede doğdu?",
+        "answer": "27 Temmuz 1927'de İstanbul'da doğdu.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Remide Olcay Neyzi'nin Türkiye'de tıp eğitiminin seviyesini yükseltme konusundaki genel katkısı, kariyeri boyunca üstlendiği hangi spesifik liderlik rolleriyle somutlaşmıştır?",
+        "answer": "Türkiye'de tıp eğitiminin seviyesinin yükselmesine yaptığı katkı, kapsamlı bir pediatri ders kitabının ilk yazarı olmasıyla birlikte, 1979-1994 yılları arasında İstanbul Tıp Fakültesi Çocuk Sağlığı ve Hastalıkları Anabilim Dalı Başkanı ve İstanbul Üniversitesi Çocuk Sağlığı Enstitüsü Müdürü olarak görev yapması, ayrıca İstanbul Tıp Fakültesi'nde Kadın ve Çocuk Araştırma ve Eğitim Birimi'nin kurulmasına önderlik etmesi ve İstanbul Üniversitesi Çocuk Sağlığı Enstitüsü bünyesinde Aile Sağlığı Anabilim Dalı'nın kurulmasında görev alması gibi spesifik liderlik rolleriyle somutlaşmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

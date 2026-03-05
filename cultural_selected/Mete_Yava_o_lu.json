@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "meteyavaolu_5a10c70a",
+    "title": "Mete Yavaşoğlu",
+    "url": "https://tr.wikipedia.org/wiki/Mete_Yava%C5%9Fo%C4%9Flu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:45:11.053935",
+    "content": "Mete Yavaşoğlu (5 Ağustos 1942, Ankara - 13 Aralık 2020, İstanbul), Türk oyuncu ve dublaj sanatçısıdır. == Yaşamı == Yavaşoğlu 5 Ağustos 1942'de Ankara'da doğdu. Üvey Baba adlı TV dizisinde canlandırdığı \"Bakkal Osman\" karakteri ile dikkat çekti. Ayrıca TV dizileri; Üvey Baba, Bizim Sokak, İkinci Bahar, Ruhsar, Arka Sokaklar ve Kurtlar Vadisi ile TV filmleri; İyi Bayramlar (1991) ve Kınalı Kuzular: Nişanlıya Verilen Söz (2006) gibi birçok yapımda rol aldı. == Ölümü == Emektar oyuncu ve dublaj sanatçısı Mete Yavaşoğlu 13 Aralık 2020'de İstanbul'da uzun süredir devam eden sağlık sorunları nedeniyle 78 yaşında öldü. Cenazesi Ankara'ya getirilerek Karşıyaka Mezarlığı'nda toprağa verildi. == Filmografisi == === Filmler === 2007: Sabit Efendi 3 (TV filmi) 2006: Kınalı Kuzular: Nişanlıya Verilen Söz (TV filmi) 2005: Memleket Hikayeleri: Aşan Bilir Karlı Dağın Ardını (TV filmi) 2004: Beni Bekledinse (TV filmi) 1991: İyi Bayramlar (TV filmi) === TV dizileri === 2013: Hayat Dediğin (TV dizisi) 2008: Akasya Durağı (TV dizisi) 2007: Kurtlar Vadisi: Pusu (TV dizisi) 2006: Kara Delik Savaşları (TV dizisi) 2006: Tarık ve Diğerleri (TV dizisi) 2006: Yeşeren Düşler (TV dizisi) 2006: İki Aile (TV dizisi) 2005: Ateşli Topraklar (TV dizisi) 2004: Azize (TV dizisi) 2004: Büyük Buluşma (TV dizisi) 2004: Kalp Gözü (TV dizisi) 2004: Şeytan Ayrıntıda Gizlidir (TV dizisi) 2003: Hayat Bilgisi (TV dizisi) 2003: Kurtlar Vadisi (TV dizisi) 2002 Sırlar Dünyası (TV dizisi) 2000: Ruhsar (TV dizisi) 2000-2004: Üvey Baba (TV dizisi) 1999: Aşkın Dağlarda Gezer (TV dizisi) 1999-2001: Bizim Sokak (TV dizisi) 1999: İkinci Bahar (TV dizisi) 1991: Kara Koyun (TV dizisi) 1991: Kıssadan Hisseler (TV dizisi) 1990: Zühre'nin Kısmeti (TV dizisi) 1988: Kaynanalar (TV dizisi) 1983: Küçük Ağa (TV dizisi) === Video filmler === 2001: Çiçekler Susayınca == Kaynakça == == Dış bağlantılar == IMDb'de Mete Yavaşoğlu",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 289,
+      "char_count": 1893,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.608220",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 104,
+      "content": "Mete Yavaşoğlu (5 Ağustos 1942, Ankara - 13 Aralık 2020, İstanbul), Türk oyuncu ve dublaj sanatçısıdır.",
+      "char_count": 103,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0001",
+      "section": "== Yaşamı ==",
+      "heading_path": "== Yaşamı ==",
+      "start_char": 104,
+      "end_char": 461,
+      "content": "== Yaşamı == Yavaşoğlu 5 Ağustos 1942'de Ankara'da doğdu. Üvey Baba adlı TV dizisinde canlandırdığı \"Bakkal Osman\" karakteri ile dikkat çekti. Ayrıca TV dizileri; Üvey Baba, Bizim Sokak, İkinci Bahar, Ruhsar, Arka Sokaklar ve Kurtlar Vadisi ile TV filmleri; İyi Bayramlar (1991) ve Kınalı Kuzular: Nişanlıya Verilen Söz (2006) gibi birçok yapımda rol aldı.",
+      "char_count": 356,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0002",
+      "section": "== Ölümü ==",
+      "heading_path": "== Ölümü ==",
+      "start_char": 461,
+      "end_char": 693,
+      "content": "== Ölümü == Emektar oyuncu ve dublaj sanatçısı Mete Yavaşoğlu 13 Aralık 2020'de İstanbul'da uzun süredir devam eden sağlık sorunları nedeniyle 78 yaşında öldü. Cenazesi Ankara'ya getirilerek Karşıyaka Mezarlığı'nda toprağa verildi.",
+      "char_count": 231,
+      "token_estimate": 57
+    },
+    {
+      "id": "c0003",
+      "section": "=== Filmler ===",
+      "heading_path": "=== Filmler ===",
+      "start_char": 712,
+      "end_char": 947,
+      "content": "=== Filmler === 2007: Sabit Efendi 3 (TV filmi) 2006: Kınalı Kuzular: Nişanlıya Verilen Söz (TV filmi) 2005: Memleket Hikayeleri: Aşan Bilir Karlı Dağın Ardını (TV filmi) 2004: Beni Bekledinse (TV filmi) 1991: İyi Bayramlar (TV filmi)",
+      "char_count": 234,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0004",
+      "section": "=== TV dizileri ===",
+      "heading_path": "=== TV dizileri ===",
+      "start_char": 947,
+      "end_char": 1787,
+      "content": "=== TV dizileri === 2013: Hayat Dediğin (TV dizisi) 2008: Akasya Durağı (TV dizisi) 2007: Kurtlar Vadisi: Pusu (TV dizisi) 2006: Kara Delik Savaşları (TV dizisi) 2006: Tarık ve Diğerleri (TV dizisi) 2006: Yeşeren Düşler (TV dizisi) 2006: İki Aile (TV dizisi) 2005: Ateşli Topraklar (TV dizisi) 2004: Azize (TV dizisi) 2004: Büyük Buluşma (TV dizisi) 2004: Kalp Gözü (TV dizisi) 2004: Şeytan Ayrıntıda Gizlidir (TV dizisi) 2003: Hayat Bilgisi (TV dizisi) 2003: Kurtlar Vadisi (TV dizisi) 2002 Sırlar Dünyası (TV dizisi) 2000: Ruhsar (TV dizisi) 2000-2004: Üvey Baba (TV dizisi) 1999: Aşkın Dağlarda Gezer (TV dizisi) 1999-2001: Bizim Sokak (TV dizisi) 1999: İkinci Bahar (TV dizisi) 1991: Kara Koyun (TV dizisi) 1991: Kıssadan Hisseler (TV dizisi) 1990: Zühre'nin Kısmeti (TV dizisi) 1988: Kaynanalar (TV dizisi) 1983: Küçük Ağa (TV dizisi)",
+      "char_count": 839,
+      "token_estimate": 209
+    },
+    {
+      "id": "c0005",
+      "section": "=== Video filmler ===",
+      "heading_path": "=== Video filmler ===",
+      "start_char": 1787,
+      "end_char": 1834,
+      "content": "=== Video filmler === 2001: Çiçekler Susayınca",
+      "char_count": 46,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1849,
+      "end_char": 1893,
+      "content": "== Dış bağlantılar == IMDb'de Mete Yavaşoğlu",
+      "char_count": 44,
+      "token_estimate": 11
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "'Kurtlar Vadisi' adlı TV dizisi hangi yılda yayınlanmıştır?",
+        "answer": "2003",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mete Yavaşoğlu'nun mesleki kimliği nedir ve kariyerinde hangi önemli rolleri ve yapımları kapsamaktadır?",
+        "answer": "Mete Yavaşoğlu, Türk oyuncu ve dublaj sanatçısıdır. Kariyerinde özellikle Üvey Baba dizisindeki \"Bakkal Osman\" karakteriyle dikkat çekmiş; ayrıca Bizim Sokak, İkinci Bahar, Ruhsar, Arka Sokaklar ve Kurtlar Vadisi gibi TV dizilerinde, İyi Bayramlar ve Kınalı Kuzular: Nişanlıya Verilen Söz gibi TV filmlerinde rol almıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

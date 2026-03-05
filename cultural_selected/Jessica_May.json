@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "jessicamay_a372ff2c",
+    "title": "Jessica May",
+    "url": "https://tr.wikipedia.org/wiki/Jessica_May",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:38:41.884844",
+    "content": "Jessica May (d. 5 Aralık 1993, Paranacity), Brezilyalı-Türk oyuncu ve model. Yeni Gelin adlı televizyon dizisinde başrol olarak ilk oyunculuk deneyimini sergiledi. Daha sonra Maria ile Mustafa (2020) dizisinde Maria karakterini canlandıran Jessica, Osman Sınav'ın yapımcılığını yaptığı 2022 yılında atv'de yayımlanan Yalnız Kurt dizisinde Meryem karakterini canlandırmıştır. May, Dert Bende filmiyle beyazperde ile tanıştı. 2022 yılında Katakulli film serisinde yer alan Jessica son olarak 2025 yılında \"Ulug Amir ve Donna Maria\" filminde, Donna Maria karakterine İngilizce ve İspanyolca olarak 2 farklı dilde hayat verip, ayrıca 2 farklı karakteri canlandırdı. == Hayatı ve kariyeri == 5 Aralık 1993 tarihinde Brezilya'nın Paranacity şehrinde öğretmen bir anneden ve çiftçi bir babadan dünyaya gelmiştir. Annesi Maria Aparecida May ve babası Rogerio Drociunas'tır. Rogerio adında bir erkek kardeşi vardır. 15 yaşında çiftliğinden ayrılarak Sao Paulo şehrine yerleşmiş ve modellik yapmaya başlamıştır. Dizi sektörüne Türkiye'de Yeni Gelin ile başlayan May, kariyerine 2020 yılında Maria ile Mustafa ve 2022 yılında Yalnız Kurt dizilerini çekerek devam etmiştir. İstanbul'da düzenlenen Mercedes-Benz Fashion Week defilesinde kampanya yüzü olmuş, 2018 yılında da Paris Hilton ve ünlü Türk modellerle Dosso Dossi Fashion Show defilesinde model olarak yer almıştır. == Kişisel hayatı == 30 Haziran 2018'de fotoğrafçı Hüseyin Kara ile Brezilya'da evlendi. 2022 yılında Türkiye Cumhuriyeti vatandaşı olan May, Brezilya ve Türkiye çifte vatandaşıdır. == Hayırseverlik == Jessica May Otizm farkındalık gününde 'Onların Gözünden' projesi kapsamında otizmli çocuklara poz vererek otizm derneklerine destek oldu. Ayrıca 2018'de Denizli'de dikilmek üzere 2000 fidan bağışladı. 2019 yılında Geleceğin Güçlü Kadınları projesinde üniversiteli kız çocuklarına burs toplanması için podyuma çıkan May, 2022 yılında Kim Milyoner Olmak İster? adlı yarışma programında çocuklara bağışlanmak üzere 200.000 TL kazandı. == Filmografisi == == Ödülleri ve adaylıkları == == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 280,
+      "char_count": 2059,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.082483",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 662,
+      "content": "Jessica May (d. 5 Aralık 1993, Paranacity), Brezilyalı-Türk oyuncu ve model. Yeni Gelin adlı televizyon dizisinde başrol olarak ilk oyunculuk deneyimini sergiledi. Daha sonra Maria ile Mustafa (2020) dizisinde Maria karakterini canlandıran Jessica, Osman Sınav'ın yapımcılığını yaptığı 2022 yılında atv'de yayımlanan Yalnız Kurt dizisinde Meryem karakterini canlandırmıştır. May, Dert Bende filmiyle beyazperde ile tanıştı. 2022 yılında Katakulli film serisinde yer alan Jessica son olarak 2025 yılında \"Ulug Amir ve Donna Maria\" filminde, Donna Maria karakterine İngilizce ve İspanyolca olarak 2 farklı dilde hayat verip, ayrıca 2 farklı karakteri canlandırdı.",
+      "char_count": 661,
+      "token_estimate": 165
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ve kariyeri ==",
+      "heading_path": "== Hayatı ve kariyeri ==",
+      "start_char": 662,
+      "end_char": 1362,
+      "content": "== Hayatı ve kariyeri == 5 Aralık 1993 tarihinde Brezilya'nın Paranacity şehrinde öğretmen bir anneden ve çiftçi bir babadan dünyaya gelmiştir. Annesi Maria Aparecida May ve babası Rogerio Drociunas'tır. Rogerio adında bir erkek kardeşi vardır. 15 yaşında çiftliğinden ayrılarak Sao Paulo şehrine yerleşmiş ve modellik yapmaya başlamıştır. Dizi sektörüne Türkiye'de Yeni Gelin ile başlayan May, kariyerine 2020 yılında Maria ile Mustafa ve 2022 yılında Yalnız Kurt dizilerini çekerek devam etmiştir. İstanbul'da düzenlenen Mercedes-Benz Fashion Week defilesinde kampanya yüzü olmuş, 2018 yılında da Paris Hilton ve ünlü Türk modellerle Dosso Dossi Fashion Show defilesinde model olarak yer almıştır.",
+      "char_count": 699,
+      "token_estimate": 174
+    },
+    {
+      "id": "c0002",
+      "section": "== Kişisel hayatı ==",
+      "heading_path": "== Kişisel hayatı ==",
+      "start_char": 1362,
+      "end_char": 1544,
+      "content": "== Kişisel hayatı == 30 Haziran 2018'de fotoğrafçı Hüseyin Kara ile Brezilya'da evlendi. 2022 yılında Türkiye Cumhuriyeti vatandaşı olan May, Brezilya ve Türkiye çifte vatandaşıdır.",
+      "char_count": 181,
+      "token_estimate": 45
+    },
+    {
+      "id": "c0003",
+      "section": "== Hayırseverlik ==",
+      "heading_path": "== Hayırseverlik ==",
+      "start_char": 1544,
+      "end_char": 1996,
+      "content": "== Hayırseverlik == Jessica May Otizm farkındalık gününde 'Onların Gözünden' projesi kapsamında otizmli çocuklara poz vererek otizm derneklerine destek oldu. Ayrıca 2018'de Denizli'de dikilmek üzere 2000 fidan bağışladı. 2019 yılında Geleceğin Güçlü Kadınları projesinde üniversiteli kız çocuklarına burs toplanması için podyuma çıkan May, 2022 yılında Kim Milyoner Olmak İster? adlı yarışma programında çocuklara bağışlanmak üzere 200.000 TL kazandı.",
+      "char_count": 451,
+      "token_estimate": 112
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "May hangi tarihte ve nerede dünyaya gelmiştir?",
+        "answer": "5 Aralık 1993 tarihinde Brezilya'nın Paranacity şehrinde dünyaya gelmiştir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Jessica May'in Brezilya'daki modellik kariyerinin Türkiye'deki oyunculuk kariyerine geçişi nasıl başlamış ve bu geçişin ardından yer aldığı ilk önemli yapımlar hangileridir?",
+        "answer": "Jessica May, 15 yaşında Brezilya'daki çiftliğinden ayrılarak Sao Paulo'da modellik yapmaya başlamıştır. Türkiye'deki dizi sektörüne Yeni Gelin dizisinde başrol oynayarak adım atmış, ardından 2020 yılında Maria ile Mustafa ve 2022 yılında Yalnız Kurt dizilerinde rol almıştır. Beyazperde ile tanışması ise Dert Bende filmiyle olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

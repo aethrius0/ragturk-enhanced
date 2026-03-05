@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "giovannilegrenzi_64d0c783",
+    "title": "Giovanni Legrenzi",
+    "url": "https://tr.wikipedia.org/wiki/Giovanni_Legrenzi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:35:02.877477",
+    "content": "Giovanni Legrenzi (vaftiz 12 Ağustos 1626 – ö. 27 Mayıs 1690) İtalyan besteci ve organist. 17. yüzyılın sonlarında Venedik'in en önemli bestecilerinden biriydi. Birçok opera, enstrümantal ve vokal müzik bestelemiştir. Ancak eserlerinin çoğu bugün kayıptır. En iyi bilinen eserleri enstrümantal sonatlarıdır. Ayrıca Antonio Vivaldi'nin de hocasıdır ve bestecinin ilk eserlerinde Legrenzi etkisi görülür. Vivaldi dışında Tomaso Albinoni ve Antonio Lotti gibi birçok ünlü bestecinin de hocalığını yapmıştır. == Operaları == Nino, il giusto (1662) L'achille in sciro (1663) Zenobio e radamisto (1665) Tiridate (1668) Eteocle e polinice (1675) La divisione del mondo (1675) Adone in cipro (1676) Germanico sul reno (1676) Totila (1677) Creso (1681) Antioco il grande (1681) Pausania (1681) Lisimaco riamato da alexandro (1682) Ottaviano cesare agusto (1682) Giustino (1683) I due cesari (1683) L'anarchia dell'imperio (1683) Publio elio pertinance (1684) Ifianassa e melampo (1685) == Oratoryolar == Oratorio del giuditio (1665) Oratorio della passione (1671) Sedecia (1671) Il creation del mondo (1672) Sisara (1672) Moisè (1672) La vendita del cuor humano (Or il prezzo del cuor humano) (1673) La morte del cor penitente (1673) San giovanni battista (1673) Adamo et eva (1674) Gli sponsali d'ester (1675) Decollatione di s. giovanni (1678) Erodiade (lib. neri) (1687) Erodiade (lib. piccioli) (1687)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 202,
+      "char_count": 1396,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:51.171505",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 505,
+      "content": "Giovanni Legrenzi (vaftiz 12 Ağustos 1626 – ö. 27 Mayıs 1690) İtalyan besteci ve organist. 17. yüzyılın sonlarında Venedik'in en önemli bestecilerinden biriydi. Birçok opera, enstrümantal ve vokal müzik bestelemiştir. Ancak eserlerinin çoğu bugün kayıptır. En iyi bilinen eserleri enstrümantal sonatlarıdır. Ayrıca Antonio Vivaldi'nin de hocasıdır ve bestecinin ilk eserlerinde Legrenzi etkisi görülür. Vivaldi dışında Tomaso Albinoni ve Antonio Lotti gibi birçok ünlü bestecinin de hocalığını yapmıştır.",
+      "char_count": 504,
+      "token_estimate": 126
+    },
+    {
+      "id": "c0001",
+      "section": "== Operaları ==",
+      "heading_path": "== Operaları ==",
+      "start_char": 505,
+      "end_char": 977,
+      "content": "== Operaları == Nino, il giusto (1662) L'achille in sciro (1663) Zenobio e radamisto (1665) Tiridate (1668) Eteocle e polinice (1675) La divisione del mondo (1675) Adone in cipro (1676) Germanico sul reno (1676) Totila (1677) Creso (1681) Antioco il grande (1681) Pausania (1681) Lisimaco riamato da alexandro (1682) Ottaviano cesare agusto (1682) Giustino (1683) I due cesari (1683) L'anarchia dell'imperio (1683) Publio elio pertinance (1684) Ifianassa e melampo (1685)",
+      "char_count": 471,
+      "token_estimate": 117
+    },
+    {
+      "id": "c0002",
+      "section": "== Oratoryolar ==",
+      "heading_path": "== Oratoryolar ==",
+      "start_char": 977,
+      "end_char": 1396,
+      "content": "== Oratoryolar == Oratorio del giuditio (1665) Oratorio della passione (1671) Sedecia (1671) Il creation del mondo (1672) Sisara (1672) Moisè (1672) La vendita del cuor humano (Or il prezzo del cuor humano) (1673) La morte del cor penitente (1673) San giovanni battista (1673) Adamo et eva (1674) Gli sponsali d'ester (1675) Decollatione di s. giovanni (1678) Erodiade (lib. neri) (1687) Erodiade (lib. piccioli) (1687)",
+      "char_count": 419,
+      "token_estimate": 104
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Giovanni Legrenzi'nin hocalığını yaptığı ünlü besteciler kimlerdir?",
+        "answer": "Giovanni Legrenzi, Antonio Vivaldi, Tomaso Albinoni ve Antonio Lotti gibi birçok ünlü bestecinin hocalığını yapmıştır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Giovanni Legrenzi'nin bestelediği müzik türleri nelerdir ve bilinen operalarından bazı örnekler verebilir misiniz?",
+        "answer": "Giovanni Legrenzi; operalar, enstrümantal ve vokal müzikler bestelemiştir. Bilinen operaları arasında \"Nino, il giusto\" (1662), \"L'achille in sciro\" (1663) ve \"Zenobio e radamisto\" (1665) gibi eserler bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

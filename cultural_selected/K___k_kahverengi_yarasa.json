@@ -1,0 +1,73 @@
+{
+  "article": {
+    "id": "kkkahverengiyarasa_4bf8c748",
+    "title": "Küçük kahverengi yarasa",
+    "url": "https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk_kahverengi_yarasa",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:39:22.248006",
+    "content": "Küçük kahverengi yarasa veya küçük kahverengi myotis (Myotis lucifugus) Kuzey Amerika'da bulunan, nesli tükenmekte olan fare kulaklı bir küçük yarasa türüdür. Küçük vücut ölçüsüne ve parlak kahverengi kürke sahiptir. Görünüş olarak, Indiana yarasası, kuzey uzun kulaklı yarasa ve yakından ilişkili olduğu Arizona myotis dahil olmak üzere diğer bazı fare kulaklı yarasalara benzemektedir. Adı benzemesine rağmen, küçük kahverengi yarasa, farklı bir cinse ait olan büyük kahverengi yarasa ile yakından ilişkili değildir. Çiftleşme sistemi çok eşlidir ve dişiler yılda bir yavru doğurur. Yavrular hızla sütten kesilir ve üç haftalıkken yetişkin boyutuna ulaşır. Küçük kahverengi yarasanın ortalama ömrü 6,5 yıldır. Ancak vahşi doğada bir birey 34 yaşına kadar ulaşmıştır. Daha az yaygın tünek türleri arasında geceleri böcek avı için yiyecek arayan ve gün boyunca içi boş ağaçlarda veya binalarda tüneyen gececidirler. Ekolokasyon ile avını bulur ve avlanırlar. == Taksonomi == Küçük kahverengi yarasa, 1831'de Amerikalı doğa bilimci John Eatton Le Conte tarafından yeni bir tür olarak tanımlandı. Myotis cinsine ait olarak yeniden kategorize edilmeden önce Vespertilio lucifugus ismi ile Vespertilio cinsindeydi \" Myotis \", kelimenin tam anlamıyla \"fare kulaklı\" anlamına gelen Yunanca \"muós (\"fare\" anlamına gelir) ve \" oûs \" (kulak anlamına gelir) kelimelerinden oluşan Yeni Latince yapıdır. \"Lucifugus \" Latince \"lux\" (\"ışık\") ve \" fuger \" (\"sakınmak\") kelimesinden türetilmiştir, kelimenin tam anlamıyla \"ışıktan kaçınmak\" demektir. Holotip muhtemelen Georgia'da Riceboro yakınlarındaki Le Conte Plantation'ın yakınında toplanmıştı ancak bu, ilk kayıtta örneğin nerede toplandığı konusunda ayrıntılı bilgi bulunmadığı için tartışılmaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 239,
+      "char_count": 1757,
+      "num_chunks": 2,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:53.411066",
+    "total_chunks": 2,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 959,
+      "content": "Küçük kahverengi yarasa veya küçük kahverengi myotis (Myotis lucifugus) Kuzey Amerika'da bulunan, nesli tükenmekte olan fare kulaklı bir küçük yarasa türüdür. Küçük vücut ölçüsüne ve parlak kahverengi kürke sahiptir. Görünüş olarak, Indiana yarasası, kuzey uzun kulaklı yarasa ve yakından ilişkili olduğu Arizona myotis dahil olmak üzere diğer bazı fare kulaklı yarasalara benzemektedir. Adı benzemesine rağmen, küçük kahverengi yarasa, farklı bir cinse ait olan büyük kahverengi yarasa ile yakından ilişkili değildir. Çiftleşme sistemi çok eşlidir ve dişiler yılda bir yavru doğurur. Yavrular hızla sütten kesilir ve üç haftalıkken yetişkin boyutuna ulaşır. Küçük kahverengi yarasanın ortalama ömrü 6,5 yıldır. Ancak vahşi doğada bir birey 34 yaşına kadar ulaşmıştır. Daha az yaygın tünek türleri arasında geceleri böcek avı için yiyecek arayan ve gün boyunca içi boş ağaçlarda veya binalarda tüneyen gececidirler. Ekolokasyon ile avını bulur ve avlanırlar.",
+      "char_count": 958,
+      "token_estimate": 239
+    },
+    {
+      "id": "c0001",
+      "section": "== Taksonomi ==",
+      "heading_path": "== Taksonomi ==",
+      "start_char": 959,
+      "end_char": 1743,
+      "content": "== Taksonomi == Küçük kahverengi yarasa, 1831'de Amerikalı doğa bilimci John Eatton Le Conte tarafından yeni bir tür olarak tanımlandı. Myotis cinsine ait olarak yeniden kategorize edilmeden önce Vespertilio lucifugus ismi ile Vespertilio cinsindeydi \" Myotis \", kelimenin tam anlamıyla \"fare kulaklı\" anlamına gelen Yunanca \"muós (\"fare\" anlamına gelir) ve \" oûs \" (kulak anlamına gelir) kelimelerinden oluşan Yeni Latince yapıdır. \"Lucifugus \" Latince \"lux\" (\"ışık\") ve \" fuger \" (\"sakınmak\") kelimesinden türetilmiştir, kelimenin tam anlamıyla \"ışıktan kaçınmak\" demektir. Holotip muhtemelen Georgia'da Riceboro yakınlarındaki Le Conte Plantation'ın yakınında toplanmıştı ancak bu, ilk kayıtta örneğin nerede toplandığı konusunda ayrıntılı bilgi bulunmadığı için tartışılmaktadır.",
+      "char_count": 783,
+      "token_estimate": 195
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Küçük kahverengi yarasanın ortalama ömrü ne kadardır?",
+        "answer": "6,5 yıldır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Küçük kahverengi yarasanın bilimsel adı olan Myotis lucifugus'un anlamı, türün metinde belirtilen hangi özellikleri veya davranışlarıyla ilişkilidir?",
+        "answer": "Küçük kahverengi yarasanın bilimsel adı olan 'Myotis', Yunancada 'fare kulaklı' anlamına gelir ve bu türün genel olarak 'fare kulaklı' bir yarasa türü olmasına ve görünüş olarak diğer fare kulaklı yarasalara benzemesine atıfta bulunur. 'Lucifugus' ise Latincede 'ışıktan kaçınmak' anlamına gelir ve bu yarasaların 'gececidirler' ve gün boyunca içi boş ağaçlarda veya binalarda tüneyen bir yaşam tarzına sahip olmalarıyla uyumludur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

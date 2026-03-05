@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "parksensr_bfc7abff",
+    "title": "Park sensörü",
+    "url": "https://tr.wikipedia.org/wiki/Park_sens%C3%B6r%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:48:57.672672",
+    "content": "Park sensörü, kara yolu taşıtlarında, otomatik park veya park etme zamanı aracın etrafındaki engelleri algılayarak araç içerisinde sürücüyü uyarmak için tasarlanmış yakınlık sensörleridir. Bu sistemler elektromanyetik veya ultrasonik sensörler kullanmaktadır. == Ultrasonik sistemler == Bu sistemler, ön ve/veya arka tampon fasiyalarında bulunan veya bitişik ızgaralar veya girintiler içinde görsel olarak minimize edilmiş sensörler aracılığıyla yakındaki nesnelere olan mesafeleri ölçmek için ultrasonik yakınlık dedektörlerine sahiptir. Sensörler, yansıyan her sinyalin dönüş aralığını ölçen ve nesne mesafelerini hesaplayan bir kontrol ünitesi ile akustik darbeler yayar. Sistem sırayla sürücüyü akustik tonlarla uyarır. Ses frekansı nesne mesafesini gösterir, hızlı tonlar yaklaşan mesafeyi ve sürekli ton ise önceden belirlenmiş minimum mesafeyi gösterir. Sistemler ayrıca nesne mesafesini belirtmek için LED veya LCD göstergesi gibi görsel yardımcılar içerebilir. Ya da aracın bilgi eğlence ekranında, yakındaki nesnelerin renkli bloklar olarak gösterildiği bir araç piktogramı yer alabilir. Arka sensörler, araç geri vitese takıldığında otomatik olarak devreye girer ve başka bir vites seçildiğinde yine otomatik olarak devreden çıkar. Ön sensörler manuel olarak etkinleştirilebilir ve araç önceden belirlenmiş bir hıza ulaştığında otomatik olarak devre dışı bırakılabilir (Ses rahatsızlığını önlemek için). == Elektromanyetik sistemler == Elektromanyetik park sensörü (EPS) 1992 yılında Mauro Del Signore tarafından yeniden icat edildi ve patentlendi. Elektromanyetik sensörler, kaçınılması gereken nesneye doğru yavaş ve sorunsuz hareket eden araca güvenir. Engel bir kez algılandığında, araç yaklaşırken anlık olarak durursa, sensör engelin varlığına dair sinyal vermeye devam eder. Araç manevrasını sürdürürse, engel yaklaştıkça alarm sinyali giderek daha yüksek bir uyarı verir. Elektromanyetik park sensörleri genellikle, aracın 'fabrika görünümünü' koruyarak, tamponun iç tarafına gizlice monte edilerek herhangi bir delik açma gereksinimine ihtiyaç duymayan bir tasarım sunmaktadır. == Mucitler == Toyota, 1982 Toyota Corona'da ultrasonik back sonar adını verdiği sistemi tanıttı ve 1988'e kadar sunmaya devam etti. 13 Aralık 1984'te Massimo Ciccarello ve Ruggero Lenci İtalya'da ultrasonik park sensörleri için patent talebine girdiler ve 16 Kasım 1988'de Sanayi Bakanlığı onlara endüstriyel buluş için patent verdi. n. 1196650. == Kaynakça == == Dış bağlantılar == Proxel - Operating principle of Electromagnetic Parking Sensor 8 Temmuz 2019 tarihinde Wayback Machine sitesinde arşivlendi. Parking Sensors patented in Italy \"The danger of blind zones The area behind your vehicle can be a killing zone\". Consumer Reports. Consumers Union. Mart 2012. 4 Eylül 2020 tarihinde kaynağından arşivlendi. Erişim tarihi: 10 Ağustos 2013. == Ayrıca bakınız == Yol bilgisayarı Araç seyir sistemi Buzzer",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 384,
+      "char_count": 2908,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.456292",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 260,
+      "content": "Park sensörü, kara yolu taşıtlarında, otomatik park veya park etme zamanı aracın etrafındaki engelleri algılayarak araç içerisinde sürücüyü uyarmak için tasarlanmış yakınlık sensörleridir. Bu sistemler elektromanyetik veya ultrasonik sensörler kullanmaktadır.",
+      "char_count": 259,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0001",
+      "section": "== Ultrasonik sistemler ==",
+      "heading_path": "== Ultrasonik sistemler ==",
+      "start_char": 260,
+      "end_char": 1260,
+      "content": "== Ultrasonik sistemler == Bu sistemler, ön ve/veya arka tampon fasiyalarında bulunan veya bitişik ızgaralar veya girintiler içinde görsel olarak minimize edilmiş sensörler aracılığıyla yakındaki nesnelere olan mesafeleri ölçmek için ultrasonik yakınlık dedektörlerine sahiptir. Sensörler, yansıyan her sinyalin dönüş aralığını ölçen ve nesne mesafelerini hesaplayan bir kontrol ünitesi ile akustik darbeler yayar. Sistem sırayla sürücüyü akustik tonlarla uyarır. Ses frekansı nesne mesafesini gösterir, hızlı tonlar yaklaşan mesafeyi ve sürekli ton ise önceden belirlenmiş minimum mesafeyi gösterir. Sistemler ayrıca nesne mesafesini belirtmek için LED veya LCD göstergesi gibi görsel yardımcılar içerebilir. Ya da aracın bilgi eğlence ekranında, yakındaki nesnelerin renkli bloklar olarak gösterildiği bir araç piktogramı yer alabilir. Arka sensörler, araç geri vitese takıldığında otomatik olarak devreye girer ve başka bir vites seçildiğinde yine otomatik olarak devreden çıkar. Ön sensörler manu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Ultrasonik sistemler ==",
+      "heading_path": "== Ultrasonik sistemler ==",
+      "start_char": 1060,
+      "end_char": 1414,
+      "content": "iği bir araç piktogramı yer alabilir. Arka sensörler, araç geri vitese takıldığında otomatik olarak devreye girer ve başka bir vites seçildiğinde yine otomatik olarak devreden çıkar. Ön sensörler manuel olarak etkinleştirilebilir ve araç önceden belirlenmiş bir hıza ulaştığında otomatik olarak devre dışı bırakılabilir (Ses rahatsızlığını önlemek için).",
+      "char_count": 354,
+      "token_estimate": 88
+    },
+    {
+      "id": "c0003",
+      "section": "== Elektromanyetik sistemler ==",
+      "heading_path": "== Elektromanyetik sistemler ==",
+      "start_char": 1415,
+      "end_char": 2098,
+      "content": "== Elektromanyetik sistemler == Elektromanyetik park sensörü (EPS) 1992 yılında Mauro Del Signore tarafından yeniden icat edildi ve patentlendi. Elektromanyetik sensörler, kaçınılması gereken nesneye doğru yavaş ve sorunsuz hareket eden araca güvenir. Engel bir kez algılandığında, araç yaklaşırken anlık olarak durursa, sensör engelin varlığına dair sinyal vermeye devam eder. Araç manevrasını sürdürürse, engel yaklaştıkça alarm sinyali giderek daha yüksek bir uyarı verir. Elektromanyetik park sensörleri genellikle, aracın 'fabrika görünümünü' koruyarak, tamponun iç tarafına gizlice monte edilerek herhangi bir delik açma gereksinimine ihtiyaç duymayan bir tasarım sunmaktadır.",
+      "char_count": 682,
+      "token_estimate": 170
+    },
+    {
+      "id": "c0004",
+      "section": "== Mucitler ==",
+      "heading_path": "== Mucitler ==",
+      "start_char": 2098,
+      "end_char": 2445,
+      "content": "== Mucitler == Toyota, 1982 Toyota Corona'da ultrasonik back sonar adını verdiği sistemi tanıttı ve 1988'e kadar sunmaya devam etti. 13 Aralık 1984'te Massimo Ciccarello ve Ruggero Lenci İtalya'da ultrasonik park sensörleri için patent talebine girdiler ve 16 Kasım 1988'de Sanayi Bakanlığı onlara endüstriyel buluş için patent verdi. n. 1196650.",
+      "char_count": 346,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2460,
+      "end_char": 2846,
+      "content": "== Dış bağlantılar == Proxel - Operating principle of Electromagnetic Parking Sensor 8 Temmuz 2019 tarihinde Wayback Machine sitesinde arşivlendi. Parking Sensors patented in Italy \"The danger of blind zones The area behind your vehicle can be a killing zone\". Consumer Reports. Consumers Union. Mart 2012. 4 Eylül 2020 tarihinde kaynağından arşivlendi. Erişim tarihi: 10 Ağustos 2013.",
+      "char_count": 385,
+      "token_estimate": 96
+    },
+    {
+      "id": "c0006",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2846,
+      "end_char": 2908,
+      "content": "== Ayrıca bakınız == Yol bilgisayarı Araç seyir sistemi Buzzer",
+      "char_count": 62,
+      "token_estimate": 15
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ultrasonik sistemler, sürücüyü nesne mesafeleri konusunda hangi yollarla uyarır?",
+        "answer": "Sistem, sürücüyü akustik tonlarla uyarır; ses frekansı nesne mesafesini gösterir, hızlı tonlar yaklaşan mesafeyi ve sürekli ton ise önceden belirlenmiş minimum mesafeyi gösterir. Ayrıca LED veya LCD göstergesi gibi görsel yardımcılar ya da aracın bilgi eğlence ekranında nesnelerin renkli bloklar olarak gösterildiği bir araç piktogramı da içerebilir.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ultrasonik park sensör sistemleri sürücüyü engeller konusunda nasıl uyarır ve bu sistemlerin mesafe algılama mekanizması nedir?",
+        "answer": "Ultrasonik park sensör sistemleri, aracın etrafındaki engelleri algılayarak sürücüyü uyarmak için tasarlanmıştır. Bu sistemler, yakınlık dedektörleri aracılığıyla yakındaki nesnelere olan mesafeleri ölçmek için akustik darbeler yayar. Sensörler, yansıyan her sinyalin dönüş aralığını ölçen ve nesne mesafelerini hesaplayan bir kontrol ünitesi ile çalışır. Sürücüler, nesne mesafesini gösteren akustik tonlar (hızlı tonlar yaklaşan mesafeyi, sürekli ton ise önceden belirlenmiş minimum mesafeyi) ve LED/LCD göstergeleri veya aracın bilgi eğlence ekranındaki bir araç piktogramı gibi görsel yardımcılarla uyarılır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

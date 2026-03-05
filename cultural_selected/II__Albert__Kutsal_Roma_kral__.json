@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "iialbertkutsalromakr_4ca1b0b2",
+    "title": "II. Albert (Kutsal Roma kralı)",
+    "url": "https://tr.wikipedia.org/wiki/II._Albert_%28Kutsal_Roma_kral%C4%B1%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:37:39.551568",
+    "content": "Albert the Magnanimous KG, Romalıların kralı olarak II. Albert (Almanca: Albrecht; 10 Ağustos 1397 – 27 Ekim 1439), Kutsal Roma İmparatorluğu'nun kralı ve Habsburg Hanedanı'nın bir üyesiydi. Miras yoluyla Avusturya Dükü V. Albert oldu. Karısı aracılığıyla aynı zamanda Macaristan, Hırvatistan ve Bohemya Kralı oldu ve Lüksemburg Dükalığı üzerinde hak iddia etti. == Hayatı == === Doğum === Albert, Avusturya dükü IV. Albrecht ve Bavyeralı Johanna Sophie'nin oğlu olarak Viyana'da doğdu. Habsburg Hanedanı'nın Albertinian kolu'na mensuptur. === Avusturya dükü olması ve evlilik === Babası 1404'te ölünce 7 yaşındayken V. Albrecht olarak onun yerini aldı. Naipleri babasının kuzeni Wilhelm'di. Wilhelm, 1406'da ölünce naipleri Wilhelm'in kardeşleri olan IV. Leopold ve Ernst oldu. 1411'de Macaristan kralı Sigismund'un kızı Elisabeth ile nişanlandı. Evlilik 1422'de gerçekleşti. II. Géza'nin yedinci kuşak torunudur. Kayınpederi'nin Hussitlerle mücadelesinde ona yardım etti ve Avusturya dükalığını Hussit savaşları'na soktu. 1423'te kayınpederi ona Moravya Margravlığı'nı verdi. === Macaristan, Bohemya, Almanya kralı oluşu ve Ölüm === Sigismund 1437'de öldüğünde Macaristan ve Hırvatistan kralı oldu. 1438'in Mart ayında Almanya kralı seçildi. I. Albrecht'in ardından Habsburg hanedanı üyesi olup Almanya kralı olan üçüncü kişidir. Aynı yılın mayıs ayında Bohemya soyluları onu IV. Kazimierz'e karşı Bohemya kralı olarak seçti. Osmanlı'ya karşı bir sefer düzenleme kararı almışken hastalandı ve öldü. Enerjik ve savaşçı birisiydi. Ölümünden sonra doğan oğlu Ladislaus onun yerini aldı. === Viyana Geserası === Albrecht, 1421'de Viyana Gesera'nda Viyana'daki Yahudilerin öldürülmesini emretti. == Ailesi == Albrecht ve Elisabeth'in 4 çocuğu oldu. Anna (12 Nisan 1432 - 13 Kasım 1462): Thüringen landkrafı III. Wilhelm ile evlendi. Elisabeth (1436 - 30 Ağustos 1505): Polonya kralı IV. Kazimierz Jagiellon ile evlendi. II. Vladislaus'un, I. John Albert, Alexander Jagiellon ve I. Zygmunt'un annesidir. Georg (16 Şubat 1345) Ladislaus (22 Şubat 1440 – 23 Kasım 1457): Macaristan ve Bohemya kralıdır. == Diğer dillerde adları == Albrecht II (Almanca ve Çekçe), Albert II (Macarca ve Hırvatça), Albreht II (Slovence) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 310,
+      "char_count": 2226,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:52.555135",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 363,
+      "content": "Albert the Magnanimous KG, Romalıların kralı olarak II. Albert (Almanca: Albrecht; 10 Ağustos 1397 – 27 Ekim 1439), Kutsal Roma İmparatorluğu'nun kralı ve Habsburg Hanedanı'nın bir üyesiydi. Miras yoluyla Avusturya Dükü V. Albert oldu. Karısı aracılığıyla aynı zamanda Macaristan, Hırvatistan ve Bohemya Kralı oldu ve Lüksemburg Dükalığı üzerinde hak iddia etti.",
+      "char_count": 362,
+      "token_estimate": 90
+    },
+    {
+      "id": "c0001",
+      "section": "=== Doğum ===",
+      "heading_path": "=== Doğum ===",
+      "start_char": 376,
+      "end_char": 540,
+      "content": "=== Doğum === Albert, Avusturya dükü IV. Albrecht ve Bavyeralı Johanna Sophie'nin oğlu olarak Viyana'da doğdu. Habsburg Hanedanı'nın Albertinian kolu'na mensuptur.",
+      "char_count": 163,
+      "token_estimate": 40
+    },
+    {
+      "id": "c0002",
+      "section": "=== Avusturya dükü olması ve evlilik ===",
+      "heading_path": "=== Avusturya dükü olması ve evlilik ===",
+      "start_char": 540,
+      "end_char": 1078,
+      "content": "=== Avusturya dükü olması ve evlilik === Babası 1404'te ölünce 7 yaşındayken V. Albrecht olarak onun yerini aldı. Naipleri babasının kuzeni Wilhelm'di. Wilhelm, 1406'da ölünce naipleri Wilhelm'in kardeşleri olan IV. Leopold ve Ernst oldu. 1411'de Macaristan kralı Sigismund'un kızı Elisabeth ile nişanlandı. Evlilik 1422'de gerçekleşti. II. Géza'nin yedinci kuşak torunudur. Kayınpederi'nin Hussitlerle mücadelesinde ona yardım etti ve Avusturya dükalığını Hussit savaşları'na soktu. 1423'te kayınpederi ona Moravya Margravlığı'nı verdi.",
+      "char_count": 537,
+      "token_estimate": 134
+    },
+    {
+      "id": "c0003",
+      "section": "=== Macaristan, Bohemya, Almanya kralı oluşu ve Ölüm ===",
+      "heading_path": "=== Macaristan, Bohemya, Almanya kralı oluşu ve Ölüm ===",
+      "start_char": 1078,
+      "end_char": 1586,
+      "content": "=== Macaristan, Bohemya, Almanya kralı oluşu ve Ölüm === Sigismund 1437'de öldüğünde Macaristan ve Hırvatistan kralı oldu. 1438'in Mart ayında Almanya kralı seçildi. I. Albrecht'in ardından Habsburg hanedanı üyesi olup Almanya kralı olan üçüncü kişidir. Aynı yılın mayıs ayında Bohemya soyluları onu IV. Kazimierz'e karşı Bohemya kralı olarak seçti. Osmanlı'ya karşı bir sefer düzenleme kararı almışken hastalandı ve öldü. Enerjik ve savaşçı birisiydi. Ölümünden sonra doğan oğlu Ladislaus onun yerini aldı.",
+      "char_count": 507,
+      "token_estimate": 126
+    },
+    {
+      "id": "c0004",
+      "section": "=== Viyana Geserası ===",
+      "heading_path": "=== Viyana Geserası ===",
+      "start_char": 1586,
+      "end_char": 1693,
+      "content": "=== Viyana Geserası === Albrecht, 1421'de Viyana Gesera'nda Viyana'daki Yahudilerin öldürülmesini emretti.",
+      "char_count": 106,
+      "token_estimate": 26
+    },
+    {
+      "id": "c0005",
+      "section": "== Ailesi ==",
+      "heading_path": "== Ailesi ==",
+      "start_char": 1693,
+      "end_char": 2097,
+      "content": "== Ailesi == Albrecht ve Elisabeth'in 4 çocuğu oldu. Anna (12 Nisan 1432 - 13 Kasım 1462): Thüringen landkrafı III. Wilhelm ile evlendi. Elisabeth (1436 - 30 Ağustos 1505): Polonya kralı IV. Kazimierz Jagiellon ile evlendi. II. Vladislaus'un, I. John Albert, Alexander Jagiellon ve I. Zygmunt'un annesidir. Georg (16 Şubat 1345) Ladislaus (22 Şubat 1440 – 23 Kasım 1457): Macaristan ve Bohemya kralıdır.",
+      "char_count": 403,
+      "token_estimate": 100
+    },
+    {
+      "id": "c0006",
+      "section": "== Diğer dillerde adları ==",
+      "heading_path": "== Diğer dillerde adları ==",
+      "start_char": 2097,
+      "end_char": 2212,
+      "content": "== Diğer dillerde adları == Albrecht II (Almanca ve Çekçe), Albert II (Macarca ve Hırvatça), Albreht II (Slovence)",
+      "char_count": 114,
+      "token_estimate": 28
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "V. Albrecht, Macaristan kralı Sigismund'un kızı Elisabeth ile ne zaman evlendi?",
+        "answer": "1422'de.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Albert the Magnanimous, hem Avusturya Dükü hem de Macaristan, Hırvatistan ve Bohemya Kralı unvanlarını nasıl elde etmiştir?",
+        "answer": "Albert the Magnanimous, Avusturya Dükü unvanını, babası IV. Albrecht'in 1404'teki ölümü üzerine 7 yaşındayken miras yoluyla almıştır. Macaristan, Hırvatistan ve Bohemya Kralı unvanlarını ise 1422'de Macaristan kralı Sigismund'un kızı Elisabeth ile evlenmesi sayesinde elde etmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

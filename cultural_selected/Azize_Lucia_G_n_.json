@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "azizeluciagn_ed094259",
+    "title": "Azize Lucia Günü",
+    "url": "https://tr.wikipedia.org/wiki/Azize_Lucia_G%C3%BCn%C3%BC",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:25:02.963012",
+    "content": "Azize Lucia Günü, 13 Aralık gününde kutlanan bir Hristiyan bayram günüdür. Adını Sicilyalı Azize Lucia'dan alır. İsveç'te ve Norveç ile Finlandiya'nın İsveççe konuşulan bölgelerinde kutlanır. İsveç'e İtalya'dan gelen, zamanla ülkenin Hristiyanlık öncesi gelenekleriyle birleşip İsveçlileşmiş ve 20. yüzyılda ülke çapında yaygınlaşmış bir bayramdır. 13 Aralık gecesi, geçmişte İskandinav ülkelerinde yılın en karanlık gecesi olarak kabul edilmekteydi. Mitolojik halk kültürüne göre bu gece tehlikelerle dolu idi; evin dışında doğaüstü kötü güçlerin dolaştığına, hayvanların konuştuğuna inanılırdı. Azize Lucia Günü, karanlık kış gecesinde ışığı ve umudu kutlamak üzere bir ışık festivali olarak kutlanır ve Noel sezonunun başlangıcına işaret eder. == Azize Lucia == Hristiyanlık tarihinin ilk şehit ve azizelerinden biri olan Azize Lucia'nın Roma İmparatoru Diocletianus döneminde Hristiyanlara yönelik \"Büyük Zulüm\" sırasında Sicilya'da yaşamış bir genç kız olduğuna ve dinî inançları nedeniye 304 yılında öldürüldüğüne inanılır. Zengin bir ailenin kızı olan Lucia'nın yoksul halka ve yardıma muhtaç kişilere geceleri elinde mum ile yardım yaptığı rivayet edilir. İnanışa göre Lucia, gözlerine aşık olan bir putperestin evlenme teklifini reddetmiş ve putperest adam bunun üzerine onun Hristiyan olduğunu ihbar etmiştir. Öykünün bir versiyonuna göre; talibi olan putperest adam Lucia'dan güzel gözlerini istemiş ve bunun üzerine Lucia gözlerini çıkarıp kendi elleriyle ona vermiştir. Bu nedenle Azize Lucia, genellikle bir tepsi üzerinde bir çift göz tutarken tasvir edilir. == Kutlamalar == İsveç'te Azize Lucia günü için kasabalarda, okullarda bir Azize Lucia seçilir; uzun beyaz bir elbise giyen, bekâret simgesi kırmızı kemer takan ve başında mumlardan bir taç olan Lucia 13 Aralık sabahı erken saatlerde okullarda, hastanelerde ve işyerlerinde kendisine eşlik eden nedimeler (tärnor) ve \"yıldız oğlanlar\" (stjärngosse) ile şarkı söyleyerek dolaşır. Evlerde de evin en büyük kızı beyaz elbise giyip mumlardan taç takarak ebeveynlerine çörek, kahve veya sıcak şarap sunar. \"Lussekatter”, “lussekuse” ya da “lussebulle” denilen Azize Lucia gününe özgü safranlı çörekler yenilmesi adettendir. Safranlı çöreğin üzerindeki iki kuru üzüm, St Lucia'nın gözlerini temsil eder. İsveç'teki kutlamalarda sıklıka, bir Sicilya halk şarkısı olan, İsveççe sözlerini Arvid Rosen'in yazdığı \"Natten går tunga fjät\" (Gece ağır adım gidiyor) şarkısı söylenir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 333,
+      "char_count": 2458,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:45.639580",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 747,
+      "content": "Azize Lucia Günü, 13 Aralık gününde kutlanan bir Hristiyan bayram günüdür. Adını Sicilyalı Azize Lucia'dan alır. İsveç'te ve Norveç ile Finlandiya'nın İsveççe konuşulan bölgelerinde kutlanır. İsveç'e İtalya'dan gelen, zamanla ülkenin Hristiyanlık öncesi gelenekleriyle birleşip İsveçlileşmiş ve 20. yüzyılda ülke çapında yaygınlaşmış bir bayramdır. 13 Aralık gecesi, geçmişte İskandinav ülkelerinde yılın en karanlık gecesi olarak kabul edilmekteydi. Mitolojik halk kültürüne göre bu gece tehlikelerle dolu idi; evin dışında doğaüstü kötü güçlerin dolaştığına, hayvanların konuştuğuna inanılırdı. Azize Lucia Günü, karanlık kış gecesinde ışığı ve umudu kutlamak üzere bir ışık festivali olarak kutlanır ve Noel sezonunun başlangıcına işaret eder.",
+      "char_count": 746,
+      "token_estimate": 186
+    },
+    {
+      "id": "c0001",
+      "section": "== Azize Lucia ==",
+      "heading_path": "== Azize Lucia ==",
+      "start_char": 747,
+      "end_char": 1574,
+      "content": "== Azize Lucia == Hristiyanlık tarihinin ilk şehit ve azizelerinden biri olan Azize Lucia'nın Roma İmparatoru Diocletianus döneminde Hristiyanlara yönelik \"Büyük Zulüm\" sırasında Sicilya'da yaşamış bir genç kız olduğuna ve dinî inançları nedeniye 304 yılında öldürüldüğüne inanılır. Zengin bir ailenin kızı olan Lucia'nın yoksul halka ve yardıma muhtaç kişilere geceleri elinde mum ile yardım yaptığı rivayet edilir. İnanışa göre Lucia, gözlerine aşık olan bir putperestin evlenme teklifini reddetmiş ve putperest adam bunun üzerine onun Hristiyan olduğunu ihbar etmiştir. Öykünün bir versiyonuna göre; talibi olan putperest adam Lucia'dan güzel gözlerini istemiş ve bunun üzerine Lucia gözlerini çıkarıp kendi elleriyle ona vermiştir. Bu nedenle Azize Lucia, genellikle bir tepsi üzerinde bir çift göz tutarken tasvir edilir.",
+      "char_count": 826,
+      "token_estimate": 206
+    },
+    {
+      "id": "c0002",
+      "section": "== Kutlamalar ==",
+      "heading_path": "== Kutlamalar ==",
+      "start_char": 1574,
+      "end_char": 2444,
+      "content": "== Kutlamalar == İsveç'te Azize Lucia günü için kasabalarda, okullarda bir Azize Lucia seçilir; uzun beyaz bir elbise giyen, bekâret simgesi kırmızı kemer takan ve başında mumlardan bir taç olan Lucia 13 Aralık sabahı erken saatlerde okullarda, hastanelerde ve işyerlerinde kendisine eşlik eden nedimeler (tärnor) ve \"yıldız oğlanlar\" (stjärngosse) ile şarkı söyleyerek dolaşır. Evlerde de evin en büyük kızı beyaz elbise giyip mumlardan taç takarak ebeveynlerine çörek, kahve veya sıcak şarap sunar. \"Lussekatter”, “lussekuse” ya da “lussebulle” denilen Azize Lucia gününe özgü safranlı çörekler yenilmesi adettendir. Safranlı çöreğin üzerindeki iki kuru üzüm, St Lucia'nın gözlerini temsil eder. İsveç'teki kutlamalarda sıklıka, bir Sicilya halk şarkısı olan, İsveççe sözlerini Arvid Rosen'in yazdığı \"Natten går tunga fjät\" (Gece ağır adım gidiyor) şarkısı söylenir.",
+      "char_count": 869,
+      "token_estimate": 217
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "İsveç'teki Azize Lucia günü kutlamalarında safranlı çöreğin üzerindeki iki kuru üzüm neyi temsil eder?",
+        "answer": "Safranlı çöreğin üzerindeki iki kuru üzüm, St Lucia'nın gözlerini temsil eder.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Azize Lucia Günü'nün İsveç'teki kutlamaları, Azize Lucia'nın hayatındaki önemli olayları ve 13 Aralık gecesinin tarihi inançlarını nasıl yansıtmaktadır?",
+        "answer": "İsveç'teki Azize Lucia Günü kutlamaları, Azize Lucia'nın yoksullara mumla yardım etme hikayesini, günün karanlık kış gecesine ışık getirme amacını ve onun şehitliğini çeşitli sembollerle yansıtır. Kutlamalarda Azize Lucia'yı temsil eden kişi başında mumlardan bir taç taşır; bu, Lucia'nın geceleri yoksullara yardım ederken elinde mum tuttuğu rivayetiyle ve 13 Aralık'ın yılın en karanlık gecesi olarak kabul edilip ışığı ve umudu kutlama geleneğiyle bağlantılıdır. Ayrıca, kutlamalara özgü safranlı çöreklerin (Lussekatter) üzerindeki iki kuru üzüm, Lucia'nın gözlerinin putperest talibine verilmesiyle ilgili efsaneyi temsil eder.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

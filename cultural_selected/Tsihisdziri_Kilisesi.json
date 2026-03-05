@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "tsihisdzirikilisesi_c730fe79",
+    "title": "Tsihisdziri Kilisesi",
+    "url": "https://tr.wikipedia.org/wiki/Tsihisdziri_Kilisesi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:57:25.615796",
+    "content": "Tsihisdziri Kilisesi (Gürcüce: ციხისძირის ეკლესია), Artvin ilinin Şavşat ilçesine bağlı ve eski adı Tsihisdziri olan Kayadibi köyünde Orta Çağ'dan kalma bir Gürcü kilisesidir. == Tarihçe == Eski bir Gürcü yerleşimi olan Tsihisdziri köyü ve kilisesinin bulunduğu Şavşeti, Orta Çağ'da Gürcistan'ı oluşturan bölgelerden biriydi. Nitekim Osmanlılar bu bölgeyi ve köyü 16. yüzyılın ortalarında Gürcülerden ele geçirmiştir. Eskiden Hristiyan nüfusa sahip olan köyün kilisesi olan Tsihisdziri Kilisesi'nin Osmanlı döneminden önce, geç Orta Çağ'da inşa edildiği tahmin edilmektedir. Doğubilimci Nikolay Marr 1904 yılında Tsihisdziri Kilisesi'nden hemen yakınındaki Dabaketili köyünün kilisesi olarak söz etmiş, kilisede herhangi bir yazıtın bulunmadığını belirtmiştir. Yakın döneme ait bazı kaynaklarda da bu kilise Dabaketili Kilisesi olarak anlatılmıştır. == Mimari == Tsihisdziri Kilisesi, Cami mahallesinin 1 km güneyinde, yolun kıyısında yüksekçe bir yerde bulunmaktadır. Tek nefli bir yapı olan kilise (9,5 X 5,50 m), ortadan ikiye ayrılmış gibi büyük ölçüde yıkılmıştır. Apsisin duvarı günümüze ulaşmıştır. Bu duvar 4 metre yükseklikte, 4,5 metre genişlikte ve 2,5 metre uzunluktadır. Nikolay Marr da 1904 yılında yarım dairesel formdaki apsisin ayakta olduğunu, ancak güney tarafta küçük ve gri renkli kaplama taşlarının söküldüğünü belirtmiştir. Kilisenin duvarları zemin seviyesine kadar yıkılmıştır. Nikolay Marr ise, kilisenin duvarlarının dokuz-on sıra sevisinde sağlam kaldığını yazmıştır. Tsihisdziri Kilisesi'nin günümüze ulaşan duvarların uzunluğu 7,9 metredir. Duvar kireç harcı kullanılarak moloz taşlarla inşa edilmiştir. Duvarın doğu tarafında ve apsis duvarının alt kısmında kaba yonu kaplama taşların bir kısmı bugüne ulaşmıştır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 231,
+      "char_count": 1759,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.871856",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 176,
+      "content": "Tsihisdziri Kilisesi (Gürcüce: ციხისძირის ეკლესია), Artvin ilinin Şavşat ilçesine bağlı ve eski adı Tsihisdziri olan Kayadibi köyünde Orta Çağ'dan kalma bir Gürcü kilisesidir.",
+      "char_count": 175,
+      "token_estimate": 43
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 176,
+      "end_char": 850,
+      "content": "== Tarihçe == Eski bir Gürcü yerleşimi olan Tsihisdziri köyü ve kilisesinin bulunduğu Şavşeti, Orta Çağ'da Gürcistan'ı oluşturan bölgelerden biriydi. Nitekim Osmanlılar bu bölgeyi ve köyü 16. yüzyılın ortalarında Gürcülerden ele geçirmiştir. Eskiden Hristiyan nüfusa sahip olan köyün kilisesi olan Tsihisdziri Kilisesi'nin Osmanlı döneminden önce, geç Orta Çağ'da inşa edildiği tahmin edilmektedir. Doğubilimci Nikolay Marr 1904 yılında Tsihisdziri Kilisesi'nden hemen yakınındaki Dabaketili köyünün kilisesi olarak söz etmiş, kilisede herhangi bir yazıtın bulunmadığını belirtmiştir. Yakın döneme ait bazı kaynaklarda da bu kilise Dabaketili Kilisesi olarak anlatılmıştır.",
+      "char_count": 673,
+      "token_estimate": 168
+    },
+    {
+      "id": "c0002",
+      "section": "== Mimari ==",
+      "heading_path": "== Mimari ==",
+      "start_char": 850,
+      "end_char": 1745,
+      "content": "== Mimari == Tsihisdziri Kilisesi, Cami mahallesinin 1 km güneyinde, yolun kıyısında yüksekçe bir yerde bulunmaktadır. Tek nefli bir yapı olan kilise (9,5 X 5,50 m), ortadan ikiye ayrılmış gibi büyük ölçüde yıkılmıştır. Apsisin duvarı günümüze ulaşmıştır. Bu duvar 4 metre yükseklikte, 4,5 metre genişlikte ve 2,5 metre uzunluktadır. Nikolay Marr da 1904 yılında yarım dairesel formdaki apsisin ayakta olduğunu, ancak güney tarafta küçük ve gri renkli kaplama taşlarının söküldüğünü belirtmiştir. Kilisenin duvarları zemin seviyesine kadar yıkılmıştır. Nikolay Marr ise, kilisenin duvarlarının dokuz-on sıra sevisinde sağlam kaldığını yazmıştır. Tsihisdziri Kilisesi'nin günümüze ulaşan duvarların uzunluğu 7,9 metredir. Duvar kireç harcı kullanılarak moloz taşlarla inşa edilmiştir. Duvarın doğu tarafında ve apsis duvarının alt kısmında kaba yonu kaplama taşların bir kısmı bugüne ulaşmıştır.",
+      "char_count": 894,
+      "token_estimate": 223
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Tsihisdziri Kilisesi'nin apsis duvarının yüksekliği kaç metredir?",
+        "answer": "Apsis duvarı 4 metre yüksekliğindedir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Tarihi geçmişi ve mimari detayları göz önüne alındığında, Tsihisdziri Kilisesi'nin orijinal kimliği ve tahmini inşa dönemi nedir, ayrıca Nikolay Marr 1904'teki ziyareti sırasında kilisenin fiziksel durumu ve tanımlanması hakkında hangi önemli gözlemleri yapmıştır?",
+        "answer": "Tsihisdziri Kilisesi, eski bir Gürcü yerleşiminde bulunan Orta Çağ'dan kalma bir Gürcü kilisesidir ve geç Orta Çağ'da, Osmanlı döneminden önce inşa edildiği tahmin edilmektedir. Nikolay Marr, 1904 yılında kiliseden Dabaketili köyünün kilisesi olarak söz etmiş ve herhangi bir yazıt bulunmadığını belirtmiştir. Marr ayrıca, o dönemde yarım dairesel formdaki apsisin ayakta olduğunu ancak güney tarafta küçük ve gri renkli kaplama taşlarının söküldüğünü ve duvarların dokuz-on sıra seviyesinde sağlam kaldığını gözlemlemiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

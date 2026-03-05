@@ -1,0 +1,124 @@
+{
+  "article": {
+    "id": "aliartuner_5981fe13",
+    "title": "Ali Artuner",
+    "url": "https://tr.wikipedia.org/wiki/Ali_Artuner",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:22:44.751800",
+    "content": "Ali Artuner (5 Eylül 1944, İzmir - 14 Şubat 2001, İstanbul), Türk eski millî futbolcudur. Uzun seneler Göztepe'nin ve Türkiye millî futbol takımının kaptanlığını yapmıştır. Tüm aktif futbol kariyerini Göztepe'de geçirmiştir ve Göztepe camiası tarafından kulübün Efsane futbolcuları arasında görülmektedir. Ayrıca kaleci Cenk Gönen'in dayısıdır. Artuner'in lakabı ise Moskova Panteri idi. 14 Şubat 2001'de İstanbul'da beyin tümörü nedeniyle öldü. == Futbolculuk kariyeri == === Kulüp takımları kariyeri === 1944 yılında İzmir'de doğan Ali Artuner, futbola Göztepe'de başladı. Kısa zamanda futbola ve Göz-Göz'e karşı oluşan ilgisi sonucunda 16 yaşında genç millî takıma girdi. Namık Kemal Lisesi 2. sınıftayken millî takım nedeniyle okulu bıraktı. Göztepe'ye bağlılıyla tanınırdı. Bu bağlılığı su sözlerle ifade etmişti: === Millî takım kariyeri === 4 genç, 3 Ümit ve 2 kez de amatör millî olduktan sonra Türkiye millî futbol takımına girdi. 12 yıl Türkiye millî futbol takımında tam 25 kez oynama başarısı gösteren Ali Artuner, 1964-65 yıllarında dünya şampiyonu olan Ordu millî takımın kalesini korudu. 1974 yılında İzmir'de çekilen Uyanık Kardeşler filminde Göztepe antrenman sahnelerinde filmde rol aldı. Millî takımın 16 Ekim 1966 tarihinde Moskova'daki 80.000 kapasiteli Lenin Stadyumu'nda SSCB millî takımı'yla oynadığı hazırlık karşılaşmasında 0-2 galip ayrılmasında sergilediği performansla önemli rol oynadı. Karşılaşma sonrası yazılı medya tarafından Turgay Şeren'e atif'da bulunarak Artuner'e Moskova panteri lakabını uygun görmüştür. Artuner bu karşılaşmadan sonra bu lakapla anılmaya başlanmıştır. 24 Nisan 1968 tarihinde Türkiye millî futbol takımının tarihindeki en farklı mağlubiyetinden biri olan 8-0 şeklinde sonuçlanan, Polonya millî futbol takımı ile oynanan hazırlık maçında millî takımın kalesini korumuştur. === Millî takım istatistikleri === == Futbolcu başarıları == === Göztepe === Türkiye 1. Futbol Ligi Üçüncülüğü (1): 1970-71 Türkiye Kupası Şampiyonluğu (2): 1969, 1970 Türkiye Kupası Finalistliği (1): 1967 Cumhurbaşkanlığı Kupası Şampiyonluğu (1): 1970 İzmir TSYD Kupası (3): 1964-65, 1966-67, 1968-69 Fuar Şehirleri Kupası Yarı finalist (1): 1968-69 UEFA Kupa Galipleri Kupası Çeyrek finalist (1): 1969-70 === Millî takım === RCD Kupası: 1 1967 (Türkiye A millî takımı) == Kaynakça == == Dış bağlantılar == Transfermarkt'ta Ali Artuner National-Football-Teams.com'da Ali Artuner TFF.org'da Ali Artuner Mackolik'te Ali Artuner gozgoz.net İnternet Sitesi - Ali Artuner profili",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 342,
+      "char_count": 2505,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:44.328542",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 446,
+      "content": "Ali Artuner (5 Eylül 1944, İzmir - 14 Şubat 2001, İstanbul), Türk eski millî futbolcudur. Uzun seneler Göztepe'nin ve Türkiye millî futbol takımının kaptanlığını yapmıştır. Tüm aktif futbol kariyerini Göztepe'de geçirmiştir ve Göztepe camiası tarafından kulübün Efsane futbolcuları arasında görülmektedir. Ayrıca kaleci Cenk Gönen'in dayısıdır. Artuner'in lakabı ise Moskova Panteri idi. 14 Şubat 2001'de İstanbul'da beyin tümörü nedeniyle öldü.",
+      "char_count": 445,
+      "token_estimate": 111
+    },
+    {
+      "id": "c0001",
+      "section": "=== Kulüp takımları kariyeri ===",
+      "heading_path": "=== Kulüp takımları kariyeri ===",
+      "start_char": 473,
+      "end_char": 819,
+      "content": "=== Kulüp takımları kariyeri === 1944 yılında İzmir'de doğan Ali Artuner, futbola Göztepe'de başladı. Kısa zamanda futbola ve Göz-Göz'e karşı oluşan ilgisi sonucunda 16 yaşında genç millî takıma girdi. Namık Kemal Lisesi 2. sınıftayken millî takım nedeniyle okulu bıraktı. Göztepe'ye bağlılıyla tanınırdı. Bu bağlılığı su sözlerle ifade etmişti:",
+      "char_count": 345,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0002",
+      "section": "=== Millî takım kariyeri ===",
+      "heading_path": "=== Millî takım kariyeri ===",
+      "start_char": 819,
+      "end_char": 1819,
+      "content": "=== Millî takım kariyeri === 4 genç, 3 Ümit ve 2 kez de amatör millî olduktan sonra Türkiye millî futbol takımına girdi. 12 yıl Türkiye millî futbol takımında tam 25 kez oynama başarısı gösteren Ali Artuner, 1964-65 yıllarında dünya şampiyonu olan Ordu millî takımın kalesini korudu. 1974 yılında İzmir'de çekilen Uyanık Kardeşler filminde Göztepe antrenman sahnelerinde filmde rol aldı. Millî takımın 16 Ekim 1966 tarihinde Moskova'daki 80.000 kapasiteli Lenin Stadyumu'nda SSCB millî takımı'yla oynadığı hazırlık karşılaşmasında 0-2 galip ayrılmasında sergilediği performansla önemli rol oynadı. Karşılaşma sonrası yazılı medya tarafından Turgay Şeren'e atif'da bulunarak Artuner'e Moskova panteri lakabını uygun görmüştür. Artuner bu karşılaşmadan sonra bu lakapla anılmaya başlanmıştır. 24 Nisan 1968 tarihinde Türkiye millî futbol takımının tarihindeki en farklı mağlubiyetinden biri olan 8-0 şeklinde sonuçlanan, Polonya millî futbol takımı ile oynanan hazırlık maçında millî takımın kalesini k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Millî takım kariyeri ===",
+      "heading_path": "=== Millî takım kariyeri ===",
+      "start_char": 1619,
+      "end_char": 1829,
+      "content": "1968 tarihinde Türkiye millî futbol takımının tarihindeki en farklı mağlubiyetinden biri olan 8-0 şeklinde sonuçlanan, Polonya millî futbol takımı ile oynanan hazırlık maçında millî takımın kalesini korumuştur.",
+      "char_count": 210,
+      "token_estimate": 52
+    },
+    {
+      "id": "c0004",
+      "section": "=== Göztepe ===",
+      "heading_path": "=== Göztepe ===",
+      "start_char": 1891,
+      "end_char": 2237,
+      "content": "=== Göztepe === Türkiye 1. Futbol Ligi Üçüncülüğü (1): 1970-71 Türkiye Kupası Şampiyonluğu (2): 1969, 1970 Türkiye Kupası Finalistliği (1): 1967 Cumhurbaşkanlığı Kupası Şampiyonluğu (1): 1970 İzmir TSYD Kupası (3): 1964-65, 1966-67, 1968-69 Fuar Şehirleri Kupası Yarı finalist (1): 1968-69 UEFA Kupa Galipleri Kupası Çeyrek finalist (1): 1969-70",
+      "char_count": 345,
+      "token_estimate": 86
+    },
+    {
+      "id": "c0005",
+      "section": "=== Millî takım ===",
+      "heading_path": "=== Millî takım ===",
+      "start_char": 2237,
+      "end_char": 2301,
+      "content": "=== Millî takım === RCD Kupası: 1 1967 (Türkiye A millî takımı)",
+      "char_count": 63,
+      "token_estimate": 15
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2316,
+      "end_char": 2505,
+      "content": "== Dış bağlantılar == Transfermarkt'ta Ali Artuner National-Football-Teams.com'da Ali Artuner TFF.org'da Ali Artuner Mackolik'te Ali Artuner gozgoz.net İnternet Sitesi - Ali Artuner profili",
+      "char_count": 189,
+      "token_estimate": 47
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Ali Artuner'e \"Moskova panteri\" lakabı hangi maçtaki performansıyla verilmiştir?",
+        "answer": "Ali Artuner'e \"Moskova panteri\" lakabı, 16 Ekim 1966 tarihinde Moskova'daki Lenin Stadyumu'nda SSCB millî takımı'yla oynanan hazırlık karşılaşmasındaki performansıyla verilmiştir.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Ali Artuner'in erken yaşta başlayan futbol kariyerindeki kilometre taşları nelerdir ve bu süreç Göztepe'ye olan bağlılığını nasıl yansıtmıştır?",
+        "answer": "Ali Artuner, İzmir'de doğmuş ve futbola Göztepe'de başlamıştır. Futbola ve Göztepe'ye olan ilgisi sayesinde 16 yaşında genç millî takıma girmiş ve millî takım kariyeri nedeniyle lisedeki eğitimini bırakmıştır. Dört genç, üç ümit ve iki amatör millî olduktan sonra Türkiye millî futbol takımında 12 yıl boyunca 25 kez oynamıştır. Tüm aktif futbol kariyerini Göztepe'de geçirmesi ve Göztepe camiası tarafından kulübün efsane futbolcuları arasında görülmesi, onun Göztepe'ye olan güçlü bağlılığını açıkça göstermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

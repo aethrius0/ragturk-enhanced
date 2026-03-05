@@ -1,0 +1,133 @@
+{
+  "article": {
+    "id": "sayfahatasdenetimi_014fce41",
+    "title": "Sayfa hatası denetimi",
+    "url": "https://tr.wikipedia.org/wiki/Sayfa_hatas%C4%B1_denetimi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:52:44.152237",
+    "content": "Sanal bellekte Sayfa hatası meydana geldiğinde çok yüksek bulamama gecikmesine neden olur. Sanal bellek sistemleri tasarlanırken bu durumun yaratacağı yükü engellemek için Sayfa hatası denetimi sağlanmalıdır. Sayfa hatası meydana geldiğinde, yönetim işletim sistemine bırakılır. Bu devir kural dışı durum (hata) işleyişi (exception mechanism) ile gerçekleştirilir. Yönetim işletim sistemine geçtiğinde, sayfayı bir sonraki sıradüzende (genelde teker) bulmalı ve istenen sayfayı ana bellekte nereye koyacağına karar vermelidir. Sanal adres tek başına sayfanın tekerin neresinde olduğunu belirtmek için yeterli olmadığından, sanal adres uzayında bulunan her sayfanın tekerde izini sürmek gerekir. İşletim sistemi bu işlem için her sanal sayfanın tekerde nerede saklandığını kaydeden veri yapıları yaratır. Bu veri yapısı sayfa tablosunda veya ayrı bir tabloda tutulabilir. İşletim sistemi aynı zamanda her gerçek sayfanın hangi uygulamalar ve hangi sanal sayfalar tarafından kullanıldığını takip etmek üzere ayrı bir veri yapısı daha oluşturur. Ana bellekteki tüm sayfalar kullanımdayken sayfa hatası oluşması durumunda, işletim sistemi bir sayfayı değiştirmek(takas yapmak) üzere seçmelidir. (Bkz: Sayfa değişimi ) Eğer Adres Dönüştürme Önbelleğinde bir sayfa bulamama olayı ((ıska) (miss)) gerçekleşirse bunun nedeninin bir sayfa hatası mı yoksa sadece ADÖ' den kaynaklanan bir sayfa bulamama (miss) mı olduğuna karar verilmelidir. Eğer sayfa bellekte mevcut ise sorunun ADÖ' de bir dönüştürme hatasından ve eksikliğinden kaynaklandığı anlaşılır. Bu durumda işlemci sayfa tablosundaki adres dönüşümlerini Adres Dönüştürme Önbelleğine baştan yükleyerek, başvuruyu (reference) tekrar eder. ADÖ sayfa bulamama durumu donanımla veya yazılım kullanılarak halledilebilir. Eğer sayfa bellekte mevcut değil ise gerçek bir sayfa hatası (page fault) söz konusudur. Bu durumda işlemci, işletim sistemini kural dışı durum (exception) ile uyarır. == Tarihçe == Birçok sistem sanal bellek kullanımından önce de belleğin birden çok izlence arasında paylaşımını sağlayabilecek yeteneğe sahipti. PDP-10 ‘un ilk modellerinde görülen taban ve sınır yazmaçlarını (base and bounds registers) bu duruma örnek olarak gösterebiliriz. Bu yöntem her bir uygulamaya 0'dan başlayan özel bir adres uzayı ve bunun yanında adresin bellekte uygulama için ayrılan kısmında olup olmadığını denetleyen bir sınır yazmacının kullanımını içerir. Eğer yazmaç adresin ilgili kısma ait olduğunu onaylarsa, karşılık gelen taban yazmacı içeriğini de ana bellekteki adresi göstermek üzere işleme dâhil eder. Sanal bellek X86 mimarisine Intel'in I286 (80286) işlemcisinin güvenli biçimi (protected mode) ile tanıtıldı. Önceleri bölüm takası (segment swapping) ile gerçekleştirildi ancak büyük bölümlerde (segment) sorun yaratıyordu. Intel 80386 mevcut bölmelere ayırma katmanının altında işleyen Sayfalama(paging) yöntemini tanıttı. Artık sayfa hatası (page fault) diğer kural dışı durumlarla (exception) birlikte değerlendirilebilmekteydi. == Ayrıca bakınız == Sanal bellek Sayfa hatası Sayfalama Sayfa değişimi == Kaynakça == http://oergin.etu.edu.tr/bil361/sanalbellek.pdf Oğuz ERGİN BİL 361 – Bilgisayar Mimarisi ve Organizasyonu, Sanal Bellek John L. Hennessy, David A. Patterson, Computer Architecture, A Quantitative Approach (ISBN 1-55860-724-2) https://web.archive.org/web/20100806135317/http://computer-refuge.org/bitsavers/pdf/burroughs/B5000_5500_5700/5000-21005_B5000_operChar.pdf Operational Characteristics for the Processors for Burroughs http://www.multicians.org/multics-vm.html18 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi. The Multics Virtual Memory: Concepts and Design == Dış bağlantılar == howstuffworks: virtual memory www.cs.gmu.edu/cne :virual memory courses.cs.vt.edu : virtual memory tutorial belgeler.org: sanal bellek",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 469,
+      "char_count": 3816,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:00.589938",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Sanal bellekte Sayfa hatası meydana geldiğinde çok yüksek bulamama gecikmesine neden olur. Sanal bellek sistemleri tasarlanırken bu durumun yaratacağı yükü engellemek için Sayfa hatası denetimi sağlanmalıdır. Sayfa hatası meydana geldiğinde, yönetim işletim sistemine bırakılır. Bu devir kural dışı durum (hata) işleyişi (exception mechanism) ile gerçekleştirilir. Yönetim işletim sistemine geçtiğinde, sayfayı bir sonraki sıradüzende (genelde teker) bulmalı ve istenen sayfayı ana bellekte nereye koyacağına karar vermelidir. Sanal adres tek başına sayfanın tekerin neresinde olduğunu belirtmek için yeterli olmadığından, sanal adres uzayında bulunan her sayfanın tekerde izini sürmek gerekir. İşletim sistemi bu işlem için her sanal sayfanın tekerde nerede saklandığını kaydeden veri yapıları yaratır. Bu veri yapısı sayfa tablosunda veya ayrı bir tabloda tutulabilir. İşletim sistemi aynı zamanda her gerçek sayfanın hangi uygulamalar ve hangi sanal sayfalar tarafından kullanıldığını takip etmek ",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1800,
+      "content": "ır. Bu veri yapısı sayfa tablosunda veya ayrı bir tabloda tutulabilir. İşletim sistemi aynı zamanda her gerçek sayfanın hangi uygulamalar ve hangi sanal sayfalar tarafından kullanıldığını takip etmek üzere ayrı bir veri yapısı daha oluşturur. Ana bellekteki tüm sayfalar kullanımdayken sayfa hatası oluşması durumunda, işletim sistemi bir sayfayı değiştirmek(takas yapmak) üzere seçmelidir. (Bkz: Sayfa değişimi ) Eğer Adres Dönüştürme Önbelleğinde bir sayfa bulamama olayı ((ıska) (miss)) gerçekleşirse bunun nedeninin bir sayfa hatası mı yoksa sadece ADÖ' den kaynaklanan bir sayfa bulamama (miss) mı olduğuna karar verilmelidir. Eğer sayfa bellekte mevcut ise sorunun ADÖ' de bir dönüştürme hatasından ve eksikliğinden kaynaklandığı anlaşılır. Bu durumda işlemci sayfa tablosundaki adres dönüşümlerini Adres Dönüştürme Önbelleğine baştan yükleyerek, başvuruyu (reference) tekrar eder. ADÖ sayfa bulamama durumu donanımla veya yazılım kullanılarak halledilebilir. Eğer sayfa bellekte mevcut değil i",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 1600,
+      "end_char": 1933,
+      "content": "rini Adres Dönüştürme Önbelleğine baştan yükleyerek, başvuruyu (reference) tekrar eder. ADÖ sayfa bulamama durumu donanımla veya yazılım kullanılarak halledilebilir. Eğer sayfa bellekte mevcut değil ise gerçek bir sayfa hatası (page fault) söz konusudur. Bu durumda işlemci, işletim sistemini kural dışı durum (exception) ile uyarır.",
+      "char_count": 333,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0003",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 1934,
+      "end_char": 2934,
+      "content": "== Tarihçe == Birçok sistem sanal bellek kullanımından önce de belleğin birden çok izlence arasında paylaşımını sağlayabilecek yeteneğe sahipti. PDP-10 ‘un ilk modellerinde görülen taban ve sınır yazmaçlarını (base and bounds registers) bu duruma örnek olarak gösterebiliriz. Bu yöntem her bir uygulamaya 0'dan başlayan özel bir adres uzayı ve bunun yanında adresin bellekte uygulama için ayrılan kısmında olup olmadığını denetleyen bir sınır yazmacının kullanımını içerir. Eğer yazmaç adresin ilgili kısma ait olduğunu onaylarsa, karşılık gelen taban yazmacı içeriğini de ana bellekteki adresi göstermek üzere işleme dâhil eder. Sanal bellek X86 mimarisine Intel'in I286 (80286) işlemcisinin güvenli biçimi (protected mode) ile tanıtıldı. Önceleri bölüm takası (segment swapping) ile gerçekleştirildi ancak büyük bölümlerde (segment) sorun yaratıyordu. Intel 80386 mevcut bölmelere ayırma katmanının altında işleyen Sayfalama(paging) yöntemini tanıttı. Artık sayfa hatası (page fault) diğer kural dı",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 2734,
+      "end_char": 2995,
+      "content": "i ancak büyük bölümlerde (segment) sorun yaratıyordu. Intel 80386 mevcut bölmelere ayırma katmanının altında işleyen Sayfalama(paging) yöntemini tanıttı. Artık sayfa hatası (page fault) diğer kural dışı durumlarla (exception) birlikte değerlendirilebilmekteydi.",
+      "char_count": 261,
+      "token_estimate": 65
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2996,
+      "end_char": 3068,
+      "content": "== Ayrıca bakınız == Sanal bellek Sayfa hatası Sayfalama Sayfa değişimi",
+      "char_count": 71,
+      "token_estimate": 17
+    },
+    {
+      "id": "c0006",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 3068,
+      "end_char": 3660,
+      "content": "== Kaynakça == http://oergin.etu.edu.tr/bil361/sanalbellek.pdf Oğuz ERGİN BİL 361 – Bilgisayar Mimarisi ve Organizasyonu, Sanal Bellek John L. Hennessy, David A. Patterson, Computer Architecture, A Quantitative Approach (ISBN 1-55860-724-2) https://web.archive.org/web/20100806135317/http://computer-refuge.org/bitsavers/pdf/burroughs/B5000_5500_5700/5000-21005_B5000_operChar.pdf Operational Characteristics for the Processors for Burroughs http://www.multicians.org/multics-vm.html18 Ocak 2010 tarihinde Wayback Machine sitesinde arşivlendi. The Multics Virtual Memory: Concepts and Design",
+      "char_count": 591,
+      "token_estimate": 147
+    },
+    {
+      "id": "c0007",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 3660,
+      "end_char": 3816,
+      "content": "== Dış bağlantılar == howstuffworks: virtual memory www.cs.gmu.edu/cne :virual memory courses.cs.vt.edu : virtual memory tutorial belgeler.org: sanal bellek",
+      "char_count": 156,
+      "token_estimate": 39
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Sanal bellekte Sayfa hatası meydana geldiğinde yönetim kime bırakılır?",
+        "answer": "İşletim sistemine.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Sanal bellekte meydana gelen bir sayfa hatası ile Adres Dönüştürme Önbelleği (ADÖ) bulamama durumu arasındaki temel fark ve işletim sisteminin bu iki duruma karşı tepkisi nedir?",
+        "answer": "Bir sayfa hatası meydana geldiğinde, yönetim işletim sistemine devredilir ve işletim sistemi sayfayı sonraki sıradüzende (genellikle tekerde) bulup ana belleğe yerleştirir; ana bellekte yer yoksa bir sayfayı değiştirmek üzere seçer. Ancak, eğer Adres Dönüştürme Önbelleği'nde (ADÖ) bir bulamama (miss) gerçekleşmişse ve istenen sayfa ana bellekte mevcutsa, bu bir sayfa hatası değil, ADÖ'deki bir dönüştürme hatasından kaynaklanır. Bu durumda işlemci, sayfa tablosundaki adres dönüşümlerini ADÖ'ye baştan yükleyerek başvuruyu tekrar eder ve işletim sistemi bir sayfa yükleme veya değiştirme işlemi yapmaz.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

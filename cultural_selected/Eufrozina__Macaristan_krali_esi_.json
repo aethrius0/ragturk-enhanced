@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "eufrozinamacaristank_ef865f5e",
+    "title": "Eufrozina (Macaristan kraliçesi)",
+    "url": "https://tr.wikipedia.org/wiki/Eufrozina_%28Macaristan_krali%C3%A7esi%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:32:26.946752",
+    "content": "Eufrozina (ayrıca Novgorod'lı Euphrosine; y. 1130 – y. 1193) Macaristan Kralı II. Géza ile evlenen Macaristan Konsort kraliçesidir. == Hayatı == Eufrozina, Kiev Büyük Knezi I. Mstislav ve ikinci eşi Liubava Dmitrievna Zavidich'in ilk kızıdır. === Macaristan === 1146'da Eufrozina, kısa bir süre önce reşit olan Macaristan Kralı II. Géza ile evlenmiştir. Kocasının hükümdarlığı sırasında Eufrozina, krallığın siyasetine karışmamıştır. Ancak 31 Mayıs 1162'deki ölümünden sonra oğulları Kral III. István üzerindeki etkisi güçlenmiştir. Genç kral, tahtını kurtarmak için amcaları Ladislaus ve István'a karşı mücadele etmek zorunda kalmış ve Eufrozina bu mücadelelerde aktif rol almıştır. Bohemya Kralı II. Vladislaus'u, İmparator I. Manuil'in işgaline karşı oğluna askeri yardımda bulunmaya ikna etmiştir. Eufrozina'nin en sevdiği oğlu en küçükleri olan Macaristan Dükü Géza'ydı. Kral III. István 4 Mart 1172'de öldüğünde, İmparator I. Manuil'in sarayında yaşayan büyük oğlu Béla'ya karşı onun tahta geçmesini sağlamayı planlıyordu. Ancak Béla geri dönmüş ve 13 Ocak 1173'te taç giymiş, ancak Estergon Başpiskopos'u Lucas taç giyme törenini reddetmiştir. Kısa bir süre sonra Kral III. Béla'nın kardeşini tutuklaması Eufrozina ile oğlu arasındaki gerilimi artırmıştır. Dük Géza kısa süre sonra muhtemelen Eufrozina'nın yardımıyla kaçmayı başarmış, ancak 1177'de tekrar tutuklanmıştır. === Sonra yaşamı === 1186'da Eufrozina küçük oğlunu tekrar serbest bırakmaya çalışmış ama başarısız olmuştur. Kral III. Béla, Euphrosyne'nin tutuklanmasını emretmiş ve Barancs (Sırpça : Braničevo) kalesinde hapsetmiştir. Kısa bir süre sonra Eufrozina serbest bırakılmış, ancak Konstantinopolis'e gitmek üzere krallığı terk etmek zorunda kalmıştır. Konstantinopolis'ten Kudüs'e taşınmış ve burada Hospitalier manastırında ve ardından Aziz Sabbas'ın Basilian manastırında rahibe olarak yaşamıştır. == Çocukları == Aşağıdaki çocukları vardı: Macaristan Kralı III. István (1147 - 4 Mart 1172); birincisi Halych'li Yaroslavna ile evlendi, çocuğu yok; ikinci olarak Avusturyalı Agnes (1154-1182) ile evlenmiş, çocukları olmuştur. Macaristan Kralı III. Béla (1148 - 23 Nisan 1196); evli, ilk olarak Antakyalı Agnes ile çocukları oldu; ikincisi olarak Genç Kral Henry'nin dul eşi Fransız Marguerite ile evlendi, çocukları olmadı. Elisabeth (c. 1149 - 1189'dan sonra); Bohemyalı Friedrich ile evlendi ve çocukları oldu. Géza (c. 1151 - 1210'dan önce). Árpád, bebekken öldü. Odola (c. 1156 – 1199); Bohemyalı Sviatopluk ile evlendi. Helena (c. 1158 - 25 Mayıs 1199); Avusturya Dükü V. Leopold ile evlendi ve çocukları oldu. Margaret (ölümünden sonra, 1162 - 1208 öncesi), ilk olarak Isaac Dukas \"Makrodukas\" ve ikinci olarak Somogy'li Ispán András ile evlendi. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 377,
+      "char_count": 2745,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.918256",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 132,
+      "content": "Eufrozina (ayrıca Novgorod'lı Euphrosine; y. 1130 – y. 1193) Macaristan Kralı II. Géza ile evlenen Macaristan Konsort kraliçesidir.",
+      "char_count": 131,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0001",
+      "section": "== Hayatı ==",
+      "heading_path": "== Hayatı ==",
+      "start_char": 132,
+      "end_char": 243,
+      "content": "== Hayatı == Eufrozina, Kiev Büyük Knezi I. Mstislav ve ikinci eşi Liubava Dmitrievna Zavidich'in ilk kızıdır.",
+      "char_count": 110,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0002",
+      "section": "=== Macaristan ===",
+      "heading_path": "=== Macaristan ===",
+      "start_char": 243,
+      "end_char": 1243,
+      "content": "=== Macaristan === 1146'da Eufrozina, kısa bir süre önce reşit olan Macaristan Kralı II. Géza ile evlenmiştir. Kocasının hükümdarlığı sırasında Eufrozina, krallığın siyasetine karışmamıştır. Ancak 31 Mayıs 1162'deki ölümünden sonra oğulları Kral III. István üzerindeki etkisi güçlenmiştir. Genç kral, tahtını kurtarmak için amcaları Ladislaus ve István'a karşı mücadele etmek zorunda kalmış ve Eufrozina bu mücadelelerde aktif rol almıştır. Bohemya Kralı II. Vladislaus'u, İmparator I. Manuil'in işgaline karşı oğluna askeri yardımda bulunmaya ikna etmiştir. Eufrozina'nin en sevdiği oğlu en küçükleri olan Macaristan Dükü Géza'ydı. Kral III. István 4 Mart 1172'de öldüğünde, İmparator I. Manuil'in sarayında yaşayan büyük oğlu Béla'ya karşı onun tahta geçmesini sağlamayı planlıyordu. Ancak Béla geri dönmüş ve 13 Ocak 1173'te taç giymiş, ancak Estergon Başpiskopos'u Lucas taç giyme törenini reddetmiştir. Kısa bir süre sonra Kral III. Béla'nın kardeşini tutuklaması Eufrozina ile oğlu arasındaki g",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Macaristan ===",
+      "heading_path": "=== Macaristan ===",
+      "start_char": 1043,
+      "end_char": 1379,
+      "content": "i dönmüş ve 13 Ocak 1173'te taç giymiş, ancak Estergon Başpiskopos'u Lucas taç giyme törenini reddetmiştir. Kısa bir süre sonra Kral III. Béla'nın kardeşini tutuklaması Eufrozina ile oğlu arasındaki gerilimi artırmıştır. Dük Géza kısa süre sonra muhtemelen Eufrozina'nın yardımıyla kaçmayı başarmış, ancak 1177'de tekrar tutuklanmıştır.",
+      "char_count": 336,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0004",
+      "section": "=== Sonra yaşamı ===",
+      "heading_path": "=== Sonra yaşamı ===",
+      "start_char": 1380,
+      "end_char": 1876,
+      "content": "=== Sonra yaşamı === 1186'da Eufrozina küçük oğlunu tekrar serbest bırakmaya çalışmış ama başarısız olmuştur. Kral III. Béla, Euphrosyne'nin tutuklanmasını emretmiş ve Barancs (Sırpça : Braničevo) kalesinde hapsetmiştir. Kısa bir süre sonra Eufrozina serbest bırakılmış, ancak Konstantinopolis'e gitmek üzere krallığı terk etmek zorunda kalmıştır. Konstantinopolis'ten Kudüs'e taşınmış ve burada Hospitalier manastırında ve ardından Aziz Sabbas'ın Basilian manastırında rahibe olarak yaşamıştır.",
+      "char_count": 495,
+      "token_estimate": 123
+    },
+    {
+      "id": "c0005",
+      "section": "== Çocukları ==",
+      "heading_path": "== Çocukları ==",
+      "start_char": 1876,
+      "end_char": 2731,
+      "content": "== Çocukları == Aşağıdaki çocukları vardı: Macaristan Kralı III. István (1147 - 4 Mart 1172); birincisi Halych'li Yaroslavna ile evlendi, çocuğu yok; ikinci olarak Avusturyalı Agnes (1154-1182) ile evlenmiş, çocukları olmuştur. Macaristan Kralı III. Béla (1148 - 23 Nisan 1196); evli, ilk olarak Antakyalı Agnes ile çocukları oldu; ikincisi olarak Genç Kral Henry'nin dul eşi Fransız Marguerite ile evlendi, çocukları olmadı. Elisabeth (c. 1149 - 1189'dan sonra); Bohemyalı Friedrich ile evlendi ve çocukları oldu. Géza (c. 1151 - 1210'dan önce). Árpád, bebekken öldü. Odola (c. 1156 – 1199); Bohemyalı Sviatopluk ile evlendi. Helena (c. 1158 - 25 Mayıs 1199); Avusturya Dükü V. Leopold ile evlendi ve çocukları oldu. Margaret (ölümünden sonra, 1162 - 1208 öncesi), ilk olarak Isaac Dukas \"Makrodukas\" ve ikinci olarak Somogy'li Ispán András ile evlendi.",
+      "char_count": 854,
+      "token_estimate": 213
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Eufrozina, Macaristan Kralı II. Géza ile ne zaman evlenmiştir?",
+        "answer": "1146 yılında.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Eufrozina'nın Kiev Büyük Knezi I. Mstislav'ın kızı olarak Macaristan Kralı II. Géza ile evlenmesi ve Konsort Kraliçe olması, Macaristan'daki siyasi etkisini zaman içinde nasıl değiştirmiştir?",
+        "answer": "Kiev Büyük Knezi I. Mstislav'ın kızı Eufrozina, 1146'da Macaristan Kralı II. Géza ile evlenerek Konsort Kraliçe olmuştur. Kocasının hükümdarlığı sırasında krallığın siyasetine karışmamış, ancak 1162'deki ölümünden sonra oğulları Kral III. István ve Dük Géza'nın taht mücadelelerinde aktif rol alarak etkisi güçlenmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

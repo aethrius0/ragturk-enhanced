@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "masayukisuzuki_d100a33b",
+    "title": "Masayuki Suzuki",
+    "url": "https://tr.wikipedia.org/wiki/Masayuki_Suzuki",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:26.674506",
+    "content": "Masayuki Suzuki (鈴木 雅 之, Suzuki Masayuki, d. 22 Eylül 1956'da Ōta, Tokyo), en çok Rats & Star'ın (daha önce Shanels olarak adlandırılıyordu) eski bir üyesi olarak bilinen Japon bir şarkıcıdır. Aynı zamanda Japonya'nın Aşk Şarkıları Kralı olarak da bilinir. == Profil == Suzuki, 22 Eylül 1956'da Tokyo'da doğdu. Kız kardeşi Kiyomi Suzuki de bir müzisyendir. 1975'te faaliyetlerine başlayan Rats & Star (eski adıyla Chanels) grubunun bir üyesi olarak ün kazandı. İlk single'ı \"Runaway\"i 1980'de yayınlandı. 1996'da Rats & Star dağıldıktan sonra solo müzik faaliyetlerine devam etti. 2019'da, Kaguya-sama: Love Is War'un açılış teması \"Love Dramatic\" adlı parçayı seslendirdi. == Diskografi == === Stüdyo albümleri === Mother of Pearl (1986) Radio Days (1988) Dear Tears (1989) Mood (1990) Fair Affair (1992) Perfume (1993) She See Sea (1994) Carnival (1997) Tokyo Junction (2001) Shh... (2004) Ebony & Ivory (2005) Funky Flag (2019) All Time Rock 'n' Roll (2020) === Derlemeler === Martini (1991) Martini II (1995) Medium Slow (2000) Martini Blend (2003) Martini Duet (2008) === Kapak albümleri === Soul Legend (2001) Discover Japan (2011) Discover Japan II (2014) Discover Japan III (2017) == Ayrıca bakınız == Masashi Tashiro Nobuyoshi Kuwano == Kaynakça == == Dış bağlantılar == Masayuki Suzuki Resmi Web Sitesi 3 Mart 2010 tarihinde Wayback Machine sitesinde arşivlendi. (Japonca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 211,
+      "char_count": 1382,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.248955",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 257,
+      "content": "Masayuki Suzuki (鈴木 雅 之, Suzuki Masayuki, d. 22 Eylül 1956'da Ōta, Tokyo), en çok Rats & Star'ın (daha önce Shanels olarak adlandırılıyordu) eski bir üyesi olarak bilinen Japon bir şarkıcıdır. Aynı zamanda Japonya'nın Aşk Şarkıları Kralı olarak da bilinir.",
+      "char_count": 256,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0001",
+      "section": "== Profil ==",
+      "heading_path": "== Profil ==",
+      "start_char": 257,
+      "end_char": 674,
+      "content": "== Profil == Suzuki, 22 Eylül 1956'da Tokyo'da doğdu. Kız kardeşi Kiyomi Suzuki de bir müzisyendir. 1975'te faaliyetlerine başlayan Rats & Star (eski adıyla Chanels) grubunun bir üyesi olarak ün kazandı. İlk single'ı \"Runaway\"i 1980'de yayınlandı. 1996'da Rats & Star dağıldıktan sonra solo müzik faaliyetlerine devam etti. 2019'da, Kaguya-sama: Love Is War'un açılış teması \"Love Dramatic\" adlı parçayı seslendirdi.",
+      "char_count": 416,
+      "token_estimate": 104
+    },
+    {
+      "id": "c0002",
+      "section": "=== Stüdyo albümleri ===",
+      "heading_path": "=== Stüdyo albümleri ===",
+      "start_char": 691,
+      "end_char": 961,
+      "content": "=== Stüdyo albümleri === Mother of Pearl (1986) Radio Days (1988) Dear Tears (1989) Mood (1990) Fair Affair (1992) Perfume (1993) She See Sea (1994) Carnival (1997) Tokyo Junction (2001) Shh... (2004) Ebony & Ivory (2005) Funky Flag (2019) All Time Rock 'n' Roll (2020)",
+      "char_count": 269,
+      "token_estimate": 67
+    },
+    {
+      "id": "c0003",
+      "section": "=== Derlemeler ===",
+      "heading_path": "=== Derlemeler ===",
+      "start_char": 961,
+      "end_char": 1073,
+      "content": "=== Derlemeler === Martini (1991) Martini II (1995) Medium Slow (2000) Martini Blend (2003) Martini Duet (2008)",
+      "char_count": 111,
+      "token_estimate": 27
+    },
+    {
+      "id": "c0004",
+      "section": "=== Kapak albümleri ===",
+      "heading_path": "=== Kapak albümleri ===",
+      "start_char": 1073,
+      "end_char": 1189,
+      "content": "=== Kapak albümleri === Soul Legend (2001) Discover Japan (2011) Discover Japan II (2014) Discover Japan III (2017)",
+      "char_count": 115,
+      "token_estimate": 28
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1189,
+      "end_char": 1243,
+      "content": "== Ayrıca bakınız == Masashi Tashiro Nobuyoshi Kuwano",
+      "char_count": 53,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1258,
+      "end_char": 1382,
+      "content": "== Dış bağlantılar == Masayuki Suzuki Resmi Web Sitesi 3 Mart 2010 tarihinde Wayback Machine sitesinde arşivlendi. (Japonca)",
+      "char_count": 124,
+      "token_estimate": 31
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Suzuki ne zaman doğdu?",
+        "answer": "22 Eylül 1956",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Masayuki Suzuki'nin müzik kariyeri hangi grupla başlamış, solo faaliyetlerine ne zaman geçiş yapmıştır ve kendisi hangi unvanla tanınır?",
+        "answer": "Masayuki Suzuki'nin müzik kariyeri Rats & Star grubuyla başlamış, grup 1996'da dağıldıktan sonra solo faaliyetlerine devam etmiştir. Kendisi ayrıca Japonya'nın Aşk Şarkıları Kralı olarak tanınır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

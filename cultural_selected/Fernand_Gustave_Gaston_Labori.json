@@ -1,0 +1,84 @@
+{
+  "article": {
+    "id": "fernandgustavegaston_05d9eab4",
+    "title": "Fernand-Gustave-Gaston Labori",
+    "url": "https://tr.wikipedia.org/wiki/Fernand-Gustave-Gaston_Labori",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:33:16.339409",
+    "content": "Fernand-Gustave-Gaston Labori (18 Nisan 1860, Reims - 14 Mart 1917, Paris), yüzbaşı Alfred Dreyfus'un savunmasını üstlenen Fransız avukat. == Kariyeri == Reims ve Paris'te öğrenim gördü. Birleşik Krallık ve Almanya'da birkaç yıl kaldıktan sonra 1884'te baroya kabul edildi. Kısa sürede parlak bir hukukçu olarak ün kazandı. Yaklaşık 30 yıl boyunca döneminin önemli siyasi davalarının çoğunda savunma avukatlığı yaptı. Dreyfus Davası'ndaki başarısıyla mesleğinin doruğuna ulaştı. Bu davanın 1898'de birinci ve 1899'da ikinci kez yeniden görülmesi sırasında Dreyfus'u savundu. Savcılık makamının tanıklarını sorgulayacağı günden bir gün önce Rennes'te sırtından kurşunlanarak yaralandı. Hemen yanında olan Georges Picquart saldırıdan yara almadan kurtuldu. Tetiği çeken asla bulunamadı. Dreyfus'un suçsuzluğunu kanıtlama çabalarını 1906'da aklanmasına değin sürdürdü. Katıldığı öbür ünlü davalar arasında Dreyfus'u savunan Emile Zola'nın resmi makamlara hakaret ettiği iddiasıyla (J'Accuse...!) yargılanması (1898) Anarşist Auguste Vaillant Olayı (1894) ve dolandırıcı Thérèse Humbert Davası (1902) sayılabilir. Bir başka ünlü davası Le Figaro gazetesi yayın yönetmeni Gaston Calmette'i 16 Mart 1914'te öldüren, Maliye Bakanı Joseph Caillaux'nun eşinin yargılanmasıydı. Calmette'i, kocasıyla özel yazışmalarını yayımlama tehdidinde bulunduğu için öldüren ve cinayet suçundan yargılanan Madame Caillaux, Labori'nin savunması sonucunda aklandı. Montparnasse Mezarlığı'na gömülüdür. 1899 yılında Labori'nin yaşamı Georges Méliès tarafından canlandırıldı. Bu dünya tarihindeki ilk biyografi filmi özelliği taşımaktadır. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 201,
+      "char_count": 1628,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:50.255150",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 139,
+      "content": "Fernand-Gustave-Gaston Labori (18 Nisan 1860, Reims - 14 Mart 1917, Paris), yüzbaşı Alfred Dreyfus'un savunmasını üstlenen Fransız avukat.",
+      "char_count": 138,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0001",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 139,
+      "end_char": 1139,
+      "content": "== Kariyeri == Reims ve Paris'te öğrenim gördü. Birleşik Krallık ve Almanya'da birkaç yıl kaldıktan sonra 1884'te baroya kabul edildi. Kısa sürede parlak bir hukukçu olarak ün kazandı. Yaklaşık 30 yıl boyunca döneminin önemli siyasi davalarının çoğunda savunma avukatlığı yaptı. Dreyfus Davası'ndaki başarısıyla mesleğinin doruğuna ulaştı. Bu davanın 1898'de birinci ve 1899'da ikinci kez yeniden görülmesi sırasında Dreyfus'u savundu. Savcılık makamının tanıklarını sorgulayacağı günden bir gün önce Rennes'te sırtından kurşunlanarak yaralandı. Hemen yanında olan Georges Picquart saldırıdan yara almadan kurtuldu. Tetiği çeken asla bulunamadı. Dreyfus'un suçsuzluğunu kanıtlama çabalarını 1906'da aklanmasına değin sürdürdü. Katıldığı öbür ünlü davalar arasında Dreyfus'u savunan Emile Zola'nın resmi makamlara hakaret ettiği iddiasıyla (J'Accuse...!) yargılanması (1898) Anarşist Auguste Vaillant Olayı (1894) ve dolandırıcı Thérèse Humbert Davası (1902) sayılabilir. Bir başka ünlü davası Le Figa",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Kariyeri ==",
+      "heading_path": "== Kariyeri ==",
+      "start_char": 939,
+      "end_char": 1613,
+      "content": "mi makamlara hakaret ettiği iddiasıyla (J'Accuse...!) yargılanması (1898) Anarşist Auguste Vaillant Olayı (1894) ve dolandırıcı Thérèse Humbert Davası (1902) sayılabilir. Bir başka ünlü davası Le Figaro gazetesi yayın yönetmeni Gaston Calmette'i 16 Mart 1914'te öldüren, Maliye Bakanı Joseph Caillaux'nun eşinin yargılanmasıydı. Calmette'i, kocasıyla özel yazışmalarını yayımlama tehdidinde bulunduğu için öldüren ve cinayet suçundan yargılanan Madame Caillaux, Labori'nin savunması sonucunda aklandı. Montparnasse Mezarlığı'na gömülüdür. 1899 yılında Labori'nin yaşamı Georges Méliès tarafından canlandırıldı. Bu dünya tarihindeki ilk biyografi filmi özelliği taşımaktadır.",
+      "char_count": 674,
+      "token_estimate": 168
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dreyfus ne zaman aklandı?",
+        "answer": "1906'da.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Fernand-Gustave-Gaston Labori'nin parlak bir hukukçu olarak kariyerini şekillendiren başlıca olaylar ve yüksek profilli davalar nelerdi ve bu önemli savunmalardan birinde karşılaştığı kişisel risk neydi?",
+        "answer": "Fernand-Gustave-Gaston Labori, yaklaşık 30 yıl süren kariyeri boyunca birçok önemli siyasi davada savunma avukatlığı yaparak parlak bir hukukçu olarak ün kazandı. Kariyerini şekillendiren başlıca davalar arasında yüzbaşı Alfred Dreyfus'un savunması (1898 ve 1899), Emile Zola'nın yargılanması (1898), Anarşist Auguste Vaillant Olayı (1894), dolandırıcı Thérèse Humbert Davası (1902) ve Maliye Bakanı Joseph Caillaux'nun eşi Madame Caillaux'nun yargılanması (1914) sayılabilir. Dreyfus Davası'nın 1899'daki ikinci kez yeniden görülmesi sırasında, savcılık makamının tanıklarını sorgulayacağı günden bir gün önce Rennes'te sırtından kurşunlanarak yaralanma tehlikesiyle karşılaştı.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "taktikveriba_780b504e",
+    "title": "Taktik veri bağı",
+    "url": "https://tr.wikipedia.org/wiki/Taktik_veri_ba%C4%9F%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:55:45.152272",
+    "content": "Bir Taktik Veri Bağı (TDL) ABD silahlı kuvvetleri ve NATO ülkelerinin kullandığı radyo dalgaları veya kablo ile iletişimi sağlamak amacıyla bir veri bağlantı standartıdır. Tüm askeri C3 sistemleri, iletilebilir röle ve taktik verileri almak için standardize TDL kullanılabilir. Çoklu TDL Ağı (MTN) birlikte hava, kara, deniz ve ortak taktik resmi ve/veya ortak operasyonel resmi getirmek için ağ geçitleri, çevirmenler ve korelatörler yoluyla bütünleşik benzer ve farklı TDL'ler ağı anlamına gelir. == Terminoloji değişimi == Dönemli Taktik Sayısal Bilgi Bağı (TADIL) eski olarak (DISA rehberlik başına) ve şimdi daha yaygın Taktik Veri Bağı (TDL) olarak görülüyor. == Taktik veri bağlantı karakteri == TDL'ler standart mesaj ve iletim biçimleri ile özellikli edilmektedir. Bu genellikle / olarak yazılır. == NATO TDL standartları == NATO Taktik Veri Bağı Standartları uygun STANAG ile uyumlu Bilgi Sistemleri Alt Komitesinin Veri Bağı Çalışma Grubu (GCAA) (ISSC) tarafından geliştirilmektedir. == TDL bağlantıları içerikli özet == Aşağıdaki gibi NATO'da Taktik Veri Bağı ölçütleri bulunmaktadır: == Ayrıca bakınız == Küresel Bilgi Izgarası Ağ merkezli harp JREAP BACN Çok İşlevli Gelişmiş Veri Bağı Taktik Ortak Veri Bağı Ara/İç Uçuş Veri Bağı (IFDL) MANDRIL SIMPLE == Dış bağlantılar == Amerikan Bilim Adamları Federasyonu TDL bilgi sayfası8 Ağustos 2015 tarihinde Wayback Machine sitesinde arşivlendi. Bu makale, ilk gelen kamu malı metne dayalı Döğüş Bölgesinde Ordu Hava Sahası Komuta Kontrolü13 Mayıs 2006 tarihinde Wayback Machine sitesinde arşivlendi., Genel Merkezi, Ordu Bölümü, Yayın FM 3-52 (FM 100-103), Ağustos 2002",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 234,
+      "char_count": 1629,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:02.014467",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 499,
+      "content": "Bir Taktik Veri Bağı (TDL) ABD silahlı kuvvetleri ve NATO ülkelerinin kullandığı radyo dalgaları veya kablo ile iletişimi sağlamak amacıyla bir veri bağlantı standartıdır. Tüm askeri C3 sistemleri, iletilebilir röle ve taktik verileri almak için standardize TDL kullanılabilir. Çoklu TDL Ağı (MTN) birlikte hava, kara, deniz ve ortak taktik resmi ve/veya ortak operasyonel resmi getirmek için ağ geçitleri, çevirmenler ve korelatörler yoluyla bütünleşik benzer ve farklı TDL'ler ağı anlamına gelir.",
+      "char_count": 498,
+      "token_estimate": 124
+    },
+    {
+      "id": "c0001",
+      "section": "== Terminoloji değişimi ==",
+      "heading_path": "== Terminoloji değişimi ==",
+      "start_char": 499,
+      "end_char": 666,
+      "content": "== Terminoloji değişimi == Dönemli Taktik Sayısal Bilgi Bağı (TADIL) eski olarak (DISA rehberlik başına) ve şimdi daha yaygın Taktik Veri Bağı (TDL) olarak görülüyor.",
+      "char_count": 166,
+      "token_estimate": 41
+    },
+    {
+      "id": "c0002",
+      "section": "== Taktik veri bağlantı karakteri ==",
+      "heading_path": "== Taktik veri bağlantı karakteri ==",
+      "start_char": 666,
+      "end_char": 806,
+      "content": "== Taktik veri bağlantı karakteri == TDL'ler standart mesaj ve iletim biçimleri ile özellikli edilmektedir. Bu genellikle / olarak yazılır.",
+      "char_count": 139,
+      "token_estimate": 34
+    },
+    {
+      "id": "c0003",
+      "section": "== NATO TDL standartları ==",
+      "heading_path": "== NATO TDL standartları ==",
+      "start_char": 806,
+      "end_char": 995,
+      "content": "== NATO TDL standartları == NATO Taktik Veri Bağı Standartları uygun STANAG ile uyumlu Bilgi Sistemleri Alt Komitesinin Veri Bağı Çalışma Grubu (GCAA) (ISSC) tarafından geliştirilmektedir.",
+      "char_count": 188,
+      "token_estimate": 47
+    },
+    {
+      "id": "c0004",
+      "section": "== TDL bağlantıları içerikli özet ==",
+      "heading_path": "== TDL bağlantıları içerikli özet ==",
+      "start_char": 995,
+      "end_char": 1097,
+      "content": "== TDL bağlantıları içerikli özet == Aşağıdaki gibi NATO'da Taktik Veri Bağı ölçütleri bulunmaktadır:",
+      "char_count": 101,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0005",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1097,
+      "end_char": 1267,
+      "content": "== Ayrıca bakınız == Küresel Bilgi Izgarası Ağ merkezli harp JREAP BACN Çok İşlevli Gelişmiş Veri Bağı Taktik Ortak Veri Bağı Ara/İç Uçuş Veri Bağı (IFDL) MANDRIL SIMPLE",
+      "char_count": 169,
+      "token_estimate": 42
+    },
+    {
+      "id": "c0006",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1267,
+      "end_char": 1629,
+      "content": "== Dış bağlantılar == Amerikan Bilim Adamları Federasyonu TDL bilgi sayfası8 Ağustos 2015 tarihinde Wayback Machine sitesinde arşivlendi. Bu makale, ilk gelen kamu malı metne dayalı Döğüş Bölgesinde Ordu Hava Sahası Komuta Kontrolü13 Mayıs 2006 tarihinde Wayback Machine sitesinde arşivlendi., Genel Merkezi, Ordu Bölümü, Yayın FM 3-52 (FM 100-103), Ağustos 2002",
+      "char_count": 362,
+      "token_estimate": 90
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Taktik Veri Bağı (TDL) ne amaçla kullanılan bir standarttır?",
+        "answer": "Taktik Veri Bağı (TDL), ABD silahlı kuvvetleri ve NATO ülkelerinin radyo dalgaları veya kablo ile iletişimi sağlamak amacıyla kullandığı bir veri bağlantı standartıdır.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Taktik Sayısal Bilgi Bağı (TADIL) terimi, günümüzde daha yaygın olarak kullanılan Taktik Veri Bağı (TDL) ile nasıl bir ilişkiye sahiptir ve TDL'nin temel amacı nedir?",
+        "answer": "Taktik Sayısal Bilgi Bağı (TADIL), Taktik Veri Bağı (TDL) olarak bilinen terimin eski versiyonudur. TDL, ABD silahlı kuvvetleri ve NATO ülkelerinin radyo dalgaları veya kablo aracılığıyla iletişimi sağlamak ve askeri C3 sistemlerinde iletilebilir röle ve taktik verileri almak için kullandığı standart bir veri bağlantısıdır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "ngc541_c4a8559b",
+    "title": "NGC 541",
+    "url": "https://tr.wikipedia.org/wiki/NGC_541",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:46:40.428546",
+    "content": "NGC 541, Balina takımyıldızı bölgesinde yaklaşık olarak 227,65 Mly (69,8 Mpc)uzaklıkta bulunan bir merceksi gökadadır. Heinrich Ludwig d'Arrest tarafından 30 Ekim 1864 tarihinde keşfedildi. Halton Arp tarafından görüntülenmiş ve Arp 133 olarak \"Yakınlarında parçalar olan gökadalar\" kategorisi altında Tuhaf Gökadalar Atlası'na dahil edilmiştir. Abell 194 gökada kümesinin bir üyesidir ve 3C 40A olarak da bilinen Fanaroff-Riley sınıf I radyo gökadasıdır (3C 40B daha belirgindir ve yakındaki gökada NGC 547 ile bağlantılıdır). NGC 541, Hubble Uzay Teleskobu tarafından gözlemlendi ve 1\",8 yay-saniye çapında neredeyse karşıdan görülen bir merkezi diske sahip olduğu tespit edildi. Diskin içinde 0\",44 yay-saniye çapındaki bir iç halka, belki de zorlukla görülebilen bir sarmal yapının parçası olabilir. Ayrıca, diskin dışında neredeyse radyo jetiyle aynı eksende bulunan doğrusal bir toz özelliği de vardır. Gökadanın merkezinde, kütlesi (1,9 – 9,2) × 108 M⊙ olduğu tahmin edilen bir süper kütleli kara delik bulunur. NGC 541'in 45 yay-saniye kuzeydoğusunda, Minkowski'nin nesnesi olarak bilinen düzensiz bir cüce gökada vardır. NGC 541'in radyo jetinin yolu üzerindedir ve jetin Minkowski'nin nesnesinde bir yıldız patlamasına neden olduğuna dair güçlü kanıtlar bulunmuştur. == Kaynakça == == Dış bağlantılar == NGC 541 Gözlem bilgisi (In-The-Sky.org) 2 Aralık 2020 tarihinde Wayback Machine sitesinde arşivlendi. WikiSky'da NGC 541: DSS2, SDSS, GALEX, IRAS, Hidrojen α, X-Ray, Astrofoto, Gök Haritası",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 208,
+      "char_count": 1503,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.387598",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "NGC 541, Balina takımyıldızı bölgesinde yaklaşık olarak 227,65 Mly (69,8 Mpc)uzaklıkta bulunan bir merceksi gökadadır. Heinrich Ludwig d'Arrest tarafından 30 Ekim 1864 tarihinde keşfedildi. Halton Arp tarafından görüntülenmiş ve Arp 133 olarak \"Yakınlarında parçalar olan gökadalar\" kategorisi altında Tuhaf Gökadalar Atlası'na dahil edilmiştir. Abell 194 gökada kümesinin bir üyesidir ve 3C 40A olarak da bilinen Fanaroff-Riley sınıf I radyo gökadasıdır (3C 40B daha belirgindir ve yakındaki gökada NGC 547 ile bağlantılıdır). NGC 541, Hubble Uzay Teleskobu tarafından gözlemlendi ve 1\",8 yay-saniye çapında neredeyse karşıdan görülen bir merkezi diske sahip olduğu tespit edildi. Diskin içinde 0\",44 yay-saniye çapındaki bir iç halka, belki de zorlukla görülebilen bir sarmal yapının parçası olabilir. Ayrıca, diskin dışında neredeyse radyo jetiyle aynı eksende bulunan doğrusal bir toz özelliği de vardır. Gökadanın merkezinde, kütlesi (1,9 – 9,2) × 108 M⊙ olduğu tahmin edilen bir süper kütleli k",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1276,
+      "content": "ir. Ayrıca, diskin dışında neredeyse radyo jetiyle aynı eksende bulunan doğrusal bir toz özelliği de vardır. Gökadanın merkezinde, kütlesi (1,9 – 9,2) × 108 M⊙ olduğu tahmin edilen bir süper kütleli kara delik bulunur. NGC 541'in 45 yay-saniye kuzeydoğusunda, Minkowski'nin nesnesi olarak bilinen düzensiz bir cüce gökada vardır. NGC 541'in radyo jetinin yolu üzerindedir ve jetin Minkowski'nin nesnesinde bir yıldız patlamasına neden olduğuna dair güçlü kanıtlar bulunmuştur.",
+      "char_count": 476,
+      "token_estimate": 119
+    },
+    {
+      "id": "c0002",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1292,
+      "end_char": 1503,
+      "content": "== Dış bağlantılar == NGC 541 Gözlem bilgisi (In-The-Sky.org) 2 Aralık 2020 tarihinde Wayback Machine sitesinde arşivlendi. WikiSky'da NGC 541: DSS2, SDSS, GALEX, IRAS, Hidrojen α, X-Ray, Astrofoto, Gök Haritası",
+      "char_count": 211,
+      "token_estimate": 52
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "NGC 541 gökadası kim tarafından ve ne zaman keşfedildi?",
+        "answer": "NGC 541, Heinrich Ludwig d'Arrest tarafından 30 Ekim 1864 tarihinde keşfedildi.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "NGC 541'in radyo jeti, Minkowski'nin nesnesini nasıl etkilemektedir?",
+        "answer": "NGC 541'in radyo jeti, yolu üzerinde bulunan Minkowski'nin nesnesinde bir yıldız patlamasına neden olduğuna dair güçlü kanıtlar bulunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

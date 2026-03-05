@@ -1,0 +1,103 @@
+{
+  "article": {
+    "id": "slovakyanndevletsemb_9b6159ae",
+    "title": "Slovakya'nın devlet sembolleri",
+    "url": "https://tr.wikipedia.org/wiki/Slovakya%27n%C4%B1n_devlet_sembolleri",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:53:52.716218",
+    "content": "Slovakya'nın devlet sembolleri, Slovak devletinin sembolleridir. == Slovakya'nın ulusal bayrağı == Üç uzunlamasına şeritten oluşur - beyaz, mavi ve kırmızı, eşit genişlikte, üst üste düzenlenmiştir. Ulusal amblem, ulusal bayrağın ön yarısına yerleştirilmiştir. Ulusal bayrağın üzerindeki arma ulusal bayrağın üst, ön ve alt kenarlarından eşit uzaklıkta ve yüksekliği ulusal bayrağın yüksekliğinin yarısına eşittir. Kalkanın beyaz dışında bir renkle temas ettiği yerde, ulusal bayrağın yüzde biri uzunluğunda beyaz bir bordür bulunur. Ulusal bayraktaki armada kontur çizgisi kullanılmamaktadır. Ulusal bayrağın en-boy oranı 2:3'tür. == Slovakya devlet amblemi == Kırmızı bir erken Gotik kalkan üzerinde mavi renkte ve ortadaki yükseltilmiş olmak üzere üç tepe üzerine dikilen çift gümüş bir haçtan oluşur. Haçın şaftı ve kolları genişletilmiş ve uçlarda girintili, üstleri yuvarlatılmıştır. == Slovakya devlet mührü == Yuvarlaktır ve ulusal amblem ortada tasvir edilirken, amblemin renkleri arma taraması ile işaretlenmiştir. \"Slovak Cumhuriyeti\" yazısı, devlet ambleminin etrafına bir daire içine yerleştirilmiştir. Devlet mühür sirkülerinin altında bir ıhlamur yaprağı bulunur. Devlet mührünün çapı 45 mm'dir. Devlet mührü, Slovakya Anayasası ve anayasa yasalarının orijinal belgesinde, uluslararası anlaşmalarda, diplomatik temsilcilerin kimlik belgelerinde ve kullanımının olağan olduğu diğer durumlarda kullanılır. Devlet mührünün mührü Slovakya cumhurbaşkanı tarafından tutulmaktadır. == Slovakya milli marşı == Nad Tatrou sa blyska şarkısının melodisi, halk şarkısı Kopala studienku'dan gelmektedir. Marş, 19. yüzyıl'da Štúrovo'da Janko Matuska tarafından bestelenmiştir. Ulusal marş, esas olarak resmi tatiller, anma günleri, yıldönümleri ve diğer önemli günlerde çalınır veya söylenir. Marş şöyledir: 1. \\:Nad Tatrou sa blýska, hromy divo bijú.:\\ (Tatralar'ın üzerinde şimşek var, gök gürültüsü çılgınca atıyor.) \\:Zastavme ich bratia, veď sa ony stratia, Slováci ožijú.:\\ (Kardeşlerini durduralım çünkü kaybolacaklar, Slovaklar canlanacak.) 2. \\:To Slovensko naše posiaľ tvrdo spalo.:\\ (Slovakya'mız şimdiye kadar sağlıklı bir şekilde uyudu.) \\:Ale blesky hromu vzbudzujú ho k tomu, aby sa prebralo.:\\ (Ancak gök gürültüsü onu devralmaya teşvik ediyor.) == Diğer projeler ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 295,
+      "char_count": 2283,
+      "num_chunks": 5,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:01.094056",
+    "total_chunks": 5,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 65,
+      "content": "Slovakya'nın devlet sembolleri, Slovak devletinin sembolleridir.",
+      "char_count": 64,
+      "token_estimate": 16
+    },
+    {
+      "id": "c0001",
+      "section": "== Slovakya'nın ulusal bayrağı ==",
+      "heading_path": "== Slovakya'nın ulusal bayrağı ==",
+      "start_char": 65,
+      "end_char": 632,
+      "content": "== Slovakya'nın ulusal bayrağı == Üç uzunlamasına şeritten oluşur - beyaz, mavi ve kırmızı, eşit genişlikte, üst üste düzenlenmiştir. Ulusal amblem, ulusal bayrağın ön yarısına yerleştirilmiştir. Ulusal bayrağın üzerindeki arma ulusal bayrağın üst, ön ve alt kenarlarından eşit uzaklıkta ve yüksekliği ulusal bayrağın yüksekliğinin yarısına eşittir. Kalkanın beyaz dışında bir renkle temas ettiği yerde, ulusal bayrağın yüzde biri uzunluğunda beyaz bir bordür bulunur. Ulusal bayraktaki armada kontur çizgisi kullanılmamaktadır. Ulusal bayrağın en-boy oranı 2:3'tür.",
+      "char_count": 566,
+      "token_estimate": 141
+    },
+    {
+      "id": "c0002",
+      "section": "== Slovakya devlet amblemi ==",
+      "heading_path": "== Slovakya devlet amblemi ==",
+      "start_char": 632,
+      "end_char": 890,
+      "content": "== Slovakya devlet amblemi == Kırmızı bir erken Gotik kalkan üzerinde mavi renkte ve ortadaki yükseltilmiş olmak üzere üç tepe üzerine dikilen çift gümüş bir haçtan oluşur. Haçın şaftı ve kolları genişletilmiş ve uçlarda girintili, üstleri yuvarlatılmıştır.",
+      "char_count": 257,
+      "token_estimate": 64
+    },
+    {
+      "id": "c0003",
+      "section": "== Slovakya devlet mührü ==",
+      "heading_path": "== Slovakya devlet mührü ==",
+      "start_char": 890,
+      "end_char": 1490,
+      "content": "== Slovakya devlet mührü == Yuvarlaktır ve ulusal amblem ortada tasvir edilirken, amblemin renkleri arma taraması ile işaretlenmiştir. \"Slovak Cumhuriyeti\" yazısı, devlet ambleminin etrafına bir daire içine yerleştirilmiştir. Devlet mühür sirkülerinin altında bir ıhlamur yaprağı bulunur. Devlet mührünün çapı 45 mm'dir. Devlet mührü, Slovakya Anayasası ve anayasa yasalarının orijinal belgesinde, uluslararası anlaşmalarda, diplomatik temsilcilerin kimlik belgelerinde ve kullanımının olağan olduğu diğer durumlarda kullanılır. Devlet mührünün mührü Slovakya cumhurbaşkanı tarafından tutulmaktadır.",
+      "char_count": 599,
+      "token_estimate": 149
+    },
+    {
+      "id": "c0004",
+      "section": "== Slovakya milli marşı ==",
+      "heading_path": "== Slovakya milli marşı ==",
+      "start_char": 1490,
+      "end_char": 2263,
+      "content": "== Slovakya milli marşı == Nad Tatrou sa blyska şarkısının melodisi, halk şarkısı Kopala studienku'dan gelmektedir. Marş, 19. yüzyıl'da Štúrovo'da Janko Matuska tarafından bestelenmiştir. Ulusal marş, esas olarak resmi tatiller, anma günleri, yıldönümleri ve diğer önemli günlerde çalınır veya söylenir. Marş şöyledir: 1. \\:Nad Tatrou sa blýska, hromy divo bijú.:\\ (Tatralar'ın üzerinde şimşek var, gök gürültüsü çılgınca atıyor.) \\:Zastavme ich bratia, veď sa ony stratia, Slováci ožijú.:\\ (Kardeşlerini durduralım çünkü kaybolacaklar, Slovaklar canlanacak.) 2. \\:To Slovensko naše posiaľ tvrdo spalo.:\\ (Slovakya'mız şimdiye kadar sağlıklı bir şekilde uyudu.) \\:Ale blesky hromu vzbudzujú ho k tomu, aby sa prebralo.:\\ (Ancak gök gürültüsü onu devralmaya teşvik ediyor.)",
+      "char_count": 772,
+      "token_estimate": 193
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Slovakya milli marşı Nad Tatrou sa blyska'nın melodisi hangi halk şarkısından gelmektedir?",
+        "answer": "Kopala studienku.",
+        "related_chunk_ids": [
+          "c0004"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Slovakya'nın devlet sembollerinden biri olarak tanımlanan ulusal bayrağı hangi şerit renklerinden oluşur ve ulusal amblem bayrak üzerinde nasıl yerleştirilmiştir?",
+        "answer": "Slovakya'nın ulusal bayrağı, beyaz, mavi ve kırmızı olmak üzere eşit genişlikte ve üst üste düzenlenmiş üç uzunlamasına şeritten oluşur. Ulusal amblem, bayrağın ön yarısına yerleştirilmiştir; üst, ön ve alt kenarlarından eşit uzaklıkta olup yüksekliği bayrağın yüksekliğinin yarısına eşittir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

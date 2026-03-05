@@ -1,0 +1,123 @@
+{
+  "article": {
+    "id": "kardiyoit_433747c1",
+    "title": "Kardiyoit",
+    "url": "https://tr.wikipedia.org/wiki/Kardiyoit",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:14.378142",
+    "content": "Matematikte kardiyoit veya yürek eğrisi, sabit bir çember üzerinde yuvarlanmakta olan aynı yarıçaplı ikinci bir çember üzerindeki herhangi bir noktanın izlediği eğridir. İsmi Yunanca kardia (kalp) ve eidos (şekil) kelimelerinin birleşiminden oluşur. Kalp (♥) şeklini anımsattığı için bu ismi almıştır. Kardiyoit ismini ilk kullanan, 18. yüzyıl İtalyan matematikçisi Johann Castillon olmuştur. Yarıçapı a olan iki çemberin oluşturduğu kardiyoit, Kartezyen koordinat sisteminde şu denklemle ifade edilir: ( x 2 + y 2 + a x ) 2 = a 2 ( x 2 + y 2 ) . {\\displaystyle \\,(x^{2}+y^{2}+ax)^{2}=a^{2}(x^{2}+y^{2}).} Aynı eğri, 0 < t < 2π için şu parametrik denklemlerle de ifade edilebilir: x ( t ) = a cos ⁡ t ( 1 − cos ⁡ t ) , {\\displaystyle \\,x(t)=a\\cos t(1-\\cos t),} y ( t ) = a sin ⁡ t ( 1 − cos ⁡ t ) . {\\displaystyle \\,y(t)=a\\sin t(1-\\cos t).} Kutupsal koordinat sisteminde ise kardiyoidin ifadesi şöyledir: r = a ( 1 − cos ⁡ θ ) . {\\displaystyle \\,r=a(1-\\cos \\theta ).} Trigonometrik fonksiyonların bazı özellikleri sayesinde, bu denklemdeki kosinüs ifadesi sinüs ile değiştirilebilir, eksi yerine de artı yazılabilir. Ortaya çıkan şekiller, aynı kardiyoidin orijin çevresinde döndürülmüş kopyaları olacaktır: Kardiyoit, limaçon eğrisinin özel bir örneğidir. == Alan ve çevre == a yarıçaplı iki çemberin oluşturduğu kardiyoitin çevre uzunluğu ve alanı, kutupsal koordinatlar yardımıyla kolayca hesaplanabilir: C = ∫ 0 2 π r 2 + ( d r d θ ) 2 d θ = ∫ 0 2 π a 2 − 2 cos ⁡ θ d θ = 8 a . {\\displaystyle C=\\int _{0}^{2\\pi \\,}{\\sqrt {r^{2}+\\left({\\frac {dr}{d\\theta }}\\right)^{2}}}\\,d\\theta =\\int _{0}^{2\\pi \\,}a{\\sqrt {2-2\\cos \\theta }}\\,d\\theta =8a.} A = ∫ 0 2 π ∫ 0 a ( 1 − cos ⁡ θ ) r d r d θ = a 2 2 ∫ 0 2 π ( 1 − cos ⁡ θ ) 2 d θ = 3 2 π a 2 . {\\displaystyle A=\\int _{0}^{2\\pi \\,}\\int _{0}^{a(1-\\cos \\theta )}r\\,drd\\theta ={\\frac {a^{2}}{2}}\\int _{0}^{2\\pi }(1-\\cos \\theta )^{2}\\,d\\theta ={\\frac {3}{2}}\\pi a^{2}\\,.} == Kaynakça == == Dış bağlantılar == MacTutor Matematik Tarihi Arşivi'nden Kardiyoit 11 Haziran 2007 tarihinde Wayback Machine sitesinde arşivlendi. sayfası (İngilizce) MathWorld'den Kardiyoit 15 Temmuz 2007 tarihinde Wayback Machine sitesinde arşivlendi. sayfası (İngilizce) yürek egrisi (Cardioid) yürek eğrisi java appleti",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 373,
+      "char_count": 2239,
+      "num_chunks": 7,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.024859",
+    "total_chunks": 7,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 525,
+      "content": "Matematikte kardiyoit veya yürek eğrisi, sabit bir çember üzerinde yuvarlanmakta olan aynı yarıçaplı ikinci bir çember üzerindeki herhangi bir noktanın izlediği eğridir. İsmi Yunanca kardia (kalp) ve eidos (şekil) kelimelerinin birleşiminden oluşur. Kalp (♥) şeklini anımsattığı için bu ismi almıştır. Kardiyoit ismini ilk kullanan, 18. yüzyıl İtalyan matematikçisi Johann Castillon olmuştur. Yarıçapı a olan iki çemberin oluşturduğu kardiyoit, Kartezyen koordinat sisteminde şu denklemle ifade edilir: ( x 2 + y 2 + a x ) 2",
+      "char_count": 524,
+      "token_estimate": 131
+    },
+    {
+      "id": "c0001",
+      "section": "= a 2 ( x 2 + y 2 ) . {\\displaystyle \\,(x^{2}+y^{2}+ax)^{2}=a^{2}(x^{2}+y^{2}).} Aynı eğri, 0 < t < 2π için şu parametrik denklemlerle de ifade edilebilir: x ( t ) =",
+      "heading_path": "= a 2 ( x 2 + y 2 ) . {\\displaystyle \\,(x^{2}+y^{2}+ax)^{2}=a^{2}(x^{2}+y^{2}).} Aynı eğri, 0 < t < 2π için şu parametrik denklemlerle de ifade edilebilir: x ( t ) =",
+      "start_char": 525,
+      "end_char": 740,
+      "content": "= a 2 ( x 2 + y 2 ) . {\\displaystyle \\,(x^{2}+y^{2}+ax)^{2}=a^{2}(x^{2}+y^{2}).} Aynı eğri, 0 < t < 2π için şu parametrik denklemlerle de ifade edilebilir: x ( t ) = a cos ⁡ t ( 1 − cos ⁡ t ) , {\\displaystyle \\,x(t)",
+      "char_count": 215,
+      "token_estimate": 53
+    },
+    {
+      "id": "c0002",
+      "section": "= a\\cos t(1-\\cos t),} y ( t ) =",
+      "heading_path": "= a\\cos t(1-\\cos t),} y ( t ) =",
+      "start_char": 740,
+      "end_char": 820,
+      "content": "=a\\cos t(1-\\cos t),} y ( t ) = a sin ⁡ t ( 1 − cos ⁡ t ) . {\\displaystyle \\,y(t)",
+      "char_count": 80,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0003",
+      "section": "= a\\sin t(1-\\cos t).} Kutupsal koordinat sisteminde ise kardiyoidin ifadesi şöyledir: r =",
+      "heading_path": "= a\\sin t(1-\\cos t).} Kutupsal koordinat sisteminde ise kardiyoidin ifadesi şöyledir: r =",
+      "start_char": 820,
+      "end_char": 947,
+      "content": "=a\\sin t(1-\\cos t).} Kutupsal koordinat sisteminde ise kardiyoidin ifadesi şöyledir: r = a ( 1 − cos ⁡ θ ) . {\\displaystyle \\,r",
+      "char_count": 127,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0004",
+      "section": "= a(1-\\cos \\theta ).} Trigonometrik fonksiyonların bazı özellikleri sayesinde, bu denklemdeki kosinüs ifadesi sinüs ile değiştirilebilir, eksi yerine de artı yazılabilir. Ortaya çıkan şekiller, aynı kardiyoidin orijin çevresinde döndürülmüş kopyaları olacaktır: Kardiyoit, limaçon eğrisinin özel bir örneğidir. = =",
+      "heading_path": "= a(1-\\cos \\theta ).} Trigonometrik fonksiyonların bazı özellikleri sayesinde, bu denklemdeki kosinüs ifadesi sinüs ile değiştirilebilir, eksi yerine de artı yazılabilir. Ortaya çıkan şekiller, aynı kardiyoidin orijin çevresinde döndürülmüş kopyaları olacaktır: Kardiyoit, limaçon eğrisinin özel bir örneğidir. = =",
+      "start_char": 947,
+      "end_char": 1274,
+      "content": "=a(1-\\cos \\theta ).} Trigonometrik fonksiyonların bazı özellikleri sayesinde, bu denklemdeki kosinüs ifadesi sinüs ile değiştirilebilir, eksi yerine de artı yazılabilir. Ortaya çıkan şekiller, aynı kardiyoidin orijin çevresinde döndürülmüş kopyaları olacaktır: Kardiyoit, limaçon eğrisinin özel bir örneğidir. == Alan ve çevre",
+      "char_count": 326,
+      "token_estimate": 81
+    },
+    {
+      "id": "c0005",
+      "section": "== a yarıçaplı iki çemberin oluşturduğu kardiyoitin çevre uzunluğu ve alanı, kutupsal koordinatlar yardımıyla kolayca hesaplanabilir: C = ∫ 0 2 π r 2 + ( d r d θ ) 2 d θ = ∫ 0 2 π a 2 − 2 cos ⁡ θ d θ = 8 a . {\\displaystyle C=\\int _{0}^{2\\pi \\,}{\\sqrt {r^{2}+\\left({\\frac {dr}{d\\theta }}\\right)^{2}}}\\,d\\theta =\\int _{0}^{2\\pi \\,}a{\\sqrt {2-2\\cos \\theta }}\\,d\\theta =8a.} A = ∫ 0 2 π ∫ 0 a ( 1 − cos ⁡ θ ) r d r d θ = a 2 2 ∫ 0 2 π ( 1 − cos ⁡ θ ) 2 d θ = 3 2 π a 2 . {\\displaystyle A=\\int _{0}^{2\\pi \\,}\\int _{0}^{a(1-\\cos \\theta )}r\\,drd\\theta ={\\frac {a^{2}}{2}}\\int _{0}^{2\\pi }(1-\\cos \\theta )^{2}\\,d\\theta ={\\frac {3}{2}}\\pi a^{2}\\,.} ==",
+      "heading_path": "== a yarıçaplı iki çemberin oluşturduğu kardiyoitin çevre uzunluğu ve alanı, kutupsal koordinatlar yardımıyla kolayca hesaplanabilir: C = ∫ 0 2 π r 2 + ( d r d θ ) 2 d θ = ∫ 0 2 π a 2 − 2 cos ⁡ θ d θ = 8 a . {\\displaystyle C=\\int _{0}^{2\\pi \\,}{\\sqrt {r^{2}+\\left({\\frac {dr}{d\\theta }}\\right)^{2}}}\\,d\\theta =\\int _{0}^{2\\pi \\,}a{\\sqrt {2-2\\cos \\theta }}\\,d\\theta =8a.} A = ∫ 0 2 π ∫ 0 a ( 1 − cos ⁡ θ ) r d r d θ = a 2 2 ∫ 0 2 π ( 1 − cos ⁡ θ ) 2 d θ = 3 2 π a 2 . {\\displaystyle A=\\int _{0}^{2\\pi \\,}\\int _{0}^{a(1-\\cos \\theta )}r\\,drd\\theta ={\\frac {a^{2}}{2}}\\int _{0}^{2\\pi }(1-\\cos \\theta )^{2}\\,d\\theta ={\\frac {3}{2}}\\pi a^{2}\\,.} ==",
+      "start_char": 1274,
+      "end_char": 1926,
+      "content": "== a yarıçaplı iki çemberin oluşturduğu kardiyoitin çevre uzunluğu ve alanı, kutupsal koordinatlar yardımıyla kolayca hesaplanabilir: C = ∫ 0 2 π r 2 + ( d r d θ ) 2 d θ = ∫ 0 2 π a 2 − 2 cos ⁡ θ d θ = 8 a . {\\displaystyle C=\\int _{0}^{2\\pi \\,}{\\sqrt {r^{2}+\\left({\\frac {dr}{d\\theta }}\\right)^{2}}}\\,d\\theta =\\int _{0}^{2\\pi \\,}a{\\sqrt {2-2\\cos \\theta }}\\,d\\theta =8a.} A = ∫ 0 2 π ∫ 0 a ( 1 − cos ⁡ θ ) r d r d θ = a 2 2 ∫ 0 2 π ( 1 − cos ⁡ θ ) 2 d θ = 3 2 π a 2 . {\\displaystyle A=\\int _{0}^{2\\pi \\,}\\int _{0}^{a(1-\\cos \\theta )}r\\,drd\\theta ={\\frac {a^{2}}{2}}\\int _{0}^{2\\pi }(1-\\cos \\theta )^{2}\\,d\\theta ={\\frac {3}{2}}\\pi a^{2}\\,.} == Kaynakça",
+      "char_count": 651,
+      "token_estimate": 162
+    },
+    {
+      "id": "c0006",
+      "section": "== == Dış bağlantılar ==",
+      "heading_path": "== == Dış bağlantılar ==",
+      "start_char": 1926,
+      "end_char": 2239,
+      "content": "== == Dış bağlantılar == MacTutor Matematik Tarihi Arşivi'nden Kardiyoit 11 Haziran 2007 tarihinde Wayback Machine sitesinde arşivlendi. sayfası (İngilizce) MathWorld'den Kardiyoit 15 Temmuz 2007 tarihinde Wayback Machine sitesinde arşivlendi. sayfası (İngilizce) yürek egrisi (Cardioid) yürek eğrisi java appleti",
+      "char_count": 313,
+      "token_estimate": 78
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "a yarıçaplı iki çemberin oluşturduğu kardiyoitin alanı kutupsal koordinatlar yardımıyla nasıl hesaplanır?",
+        "answer": "A = (3/2)πa² formülüyle hesaplanır.",
+        "related_chunk_ids": [
+          "c0005"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Yarıçapı 'a' olan bir kardiyoit, metinde hangi iki farklı matematiksel yöntemle temsil edilebilir?",
+        "answer": "Kardiyoit, Kartezyen koordinat sisteminde (x^2 + y^2 + ax)^2 = a^2(x^2 + y^2) denklemiyle ve 0 < t < 2π için x(t) = a cos t (1 - cos t) gibi parametrik denklemlerle temsil edilebilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

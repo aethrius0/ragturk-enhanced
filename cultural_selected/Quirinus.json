@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "quirinus_ccb309df",
+    "title": "Quirinus",
+    "url": "https://tr.wikipedia.org/wiki/Quirinus",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:50:23.741492",
+    "content": "Quirinus, Roma mitolojisindeki büyük tanrılardan biri. Durumu biraz mistiktir. == İsminin etimolojisi ve konumu == İsmi co-viri yani \"birlik(te) adamlar\"dan türemiştir; burada kast edilen onun Roma halkının, devletinin, askeri ve ekonomik gücünün tecessümü, kişileşmiş hali olduğudur. Nitekim Quirinus başlarda sadece Roma devletinin tanrısı olarak bir tür devlet tanrısı olarak gözükmüş daha sonra Roma'nın kurucusu ve ilk kralı Romulus ile karışmış olsa da Roma devletini sembolize eden bir tanrı olarak kalmıştır. Ayrıca Quirinus curia yani \"senato (binası)\" ve comitia curiata yani \"kabile meclisi\"ni korurdu. Zaten bu yerlerin isimleri de, görüldüğü gibi, Quirinus'un ismiyle akrabadır. == Kökeni == Kökeni Sabinlere dayanır; Quirinus aslında bir Sabin tanrısıdır. Hatta Quirinus'a bir tapınak diktikleri bir bölgeyi Collis Quirinalis yani \"Quirinel Tepe\" diye anmışlardır. Bu alan daha sonra Roma'nın yedi tepesinden biri olarak sayılmıştır. Romalıların yükselişiyle, Roma'nın ilk kralı ve kurucusu Romulus'un tanrılaştırılmış hali olarak, Roma mitolojisinde önemli bir yer edinmiştir. Her ne kadar Roma mitolojisinde diğer iki önemli eril tanrı olan Jüpiter ve Mars ile önemli bir yere sahip olsa da, bu iki tanrıya oranla Quirinus hakkında pek az şey bilinir. Quirinus'un eşi Hora'ydı. Bazı kaynaklar Quirinus'un tanrılaştırılmış Aeneas olduğunu iddia etmişlerdir. Aeneas'ın Romalıların atası olduğuna inanılırdı ve Quirinus'a tapınma ata-tapımı ile yakından ilişkilidir. == Kültür == Quirinus'a adanmış olan festival (bayram) 17 Şubat'ta kutlanan Quirinalia, rahibi ise Flamen Quirinalis idi. Roma vatandaşları bazen Quirinus'un isminden türemiş bir isimle, Quirites (tekili: quiris) olarak anılırlardı. Bu unvan bir onur sayılırdı (Livius). Sanatsal açıdan Quirinus genellikle sakallı bir adam olarak, dini veya askeri resmi kıyafetler içinde tasvir edilmiştir.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 251,
+      "char_count": 1871,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:59.134935",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 79,
+      "content": "Quirinus, Roma mitolojisindeki büyük tanrılardan biri. Durumu biraz mistiktir.",
+      "char_count": 78,
+      "token_estimate": 19
+    },
+    {
+      "id": "c0001",
+      "section": "== İsminin etimolojisi ve konumu ==",
+      "heading_path": "== İsminin etimolojisi ve konumu ==",
+      "start_char": 79,
+      "end_char": 692,
+      "content": "== İsminin etimolojisi ve konumu == İsmi co-viri yani \"birlik(te) adamlar\"dan türemiştir; burada kast edilen onun Roma halkının, devletinin, askeri ve ekonomik gücünün tecessümü, kişileşmiş hali olduğudur. Nitekim Quirinus başlarda sadece Roma devletinin tanrısı olarak bir tür devlet tanrısı olarak gözükmüş daha sonra Roma'nın kurucusu ve ilk kralı Romulus ile karışmış olsa da Roma devletini sembolize eden bir tanrı olarak kalmıştır. Ayrıca Quirinus curia yani \"senato (binası)\" ve comitia curiata yani \"kabile meclisi\"ni korurdu. Zaten bu yerlerin isimleri de, görüldüğü gibi, Quirinus'un ismiyle akrabadır.",
+      "char_count": 612,
+      "token_estimate": 153
+    },
+    {
+      "id": "c0002",
+      "section": "== Kökeni ==",
+      "heading_path": "== Kökeni ==",
+      "start_char": 692,
+      "end_char": 1480,
+      "content": "== Kökeni == Kökeni Sabinlere dayanır; Quirinus aslında bir Sabin tanrısıdır. Hatta Quirinus'a bir tapınak diktikleri bir bölgeyi Collis Quirinalis yani \"Quirinel Tepe\" diye anmışlardır. Bu alan daha sonra Roma'nın yedi tepesinden biri olarak sayılmıştır. Romalıların yükselişiyle, Roma'nın ilk kralı ve kurucusu Romulus'un tanrılaştırılmış hali olarak, Roma mitolojisinde önemli bir yer edinmiştir. Her ne kadar Roma mitolojisinde diğer iki önemli eril tanrı olan Jüpiter ve Mars ile önemli bir yere sahip olsa da, bu iki tanrıya oranla Quirinus hakkında pek az şey bilinir. Quirinus'un eşi Hora'ydı. Bazı kaynaklar Quirinus'un tanrılaştırılmış Aeneas olduğunu iddia etmişlerdir. Aeneas'ın Romalıların atası olduğuna inanılırdı ve Quirinus'a tapınma ata-tapımı ile yakından ilişkilidir.",
+      "char_count": 787,
+      "token_estimate": 196
+    },
+    {
+      "id": "c0003",
+      "section": "== Kültür ==",
+      "heading_path": "== Kültür ==",
+      "start_char": 1480,
+      "end_char": 1871,
+      "content": "== Kültür == Quirinus'a adanmış olan festival (bayram) 17 Şubat'ta kutlanan Quirinalia, rahibi ise Flamen Quirinalis idi. Roma vatandaşları bazen Quirinus'un isminden türemiş bir isimle, Quirites (tekili: quiris) olarak anılırlardı. Bu unvan bir onur sayılırdı (Livius). Sanatsal açıdan Quirinus genellikle sakallı bir adam olarak, dini veya askeri resmi kıyafetler içinde tasvir edilmiştir.",
+      "char_count": 391,
+      "token_estimate": 97
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Quirinus'un kökeni hangi halka dayanmaktadır?",
+        "answer": "Sabinlere dayanmaktadır.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Quirinus'un Sabin kökeni ve Roma mitolojisindeki evrimi, onun \"biraz mistik\" durumunu nasıl açıklar?",
+        "answer": "Quirinus'un durumu, kökeninin Sabinlere dayanmasından ve Roma mitolojisinde çeşitli kimliklerle anılmasından dolayı \"biraz mistiktir\". Başlangıçta Roma devletinin ve halkının tecessümü olarak görülmüş, daha sonra Roma'nın kurucusu ve ilk kralı Romulus ile özdeşleşmiştir. Bazı kaynaklar onun ayrıca Romalıların atası Aeneas'ın tanrılaştırılmış hali olduğunu da iddia etmiştir. Bu çoklu ve değişen kimlikler, onun hakkında diğer büyük tanrılara göre daha az şey bilinmesine ve bu nedenle durumunun mistik olarak nitelendirilmesine yol açar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

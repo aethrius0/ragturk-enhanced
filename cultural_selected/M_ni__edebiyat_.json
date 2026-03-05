@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "mniedebiyat_4cd3cd79",
+    "title": "Mâni (edebiyat)",
+    "url": "https://tr.wikipedia.org/wiki/M%C3%A2ni_%28edebiyat%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:43:24.696594",
+    "content": "Mânî, başta aşk olmak üzere hemen her konuda yazılabilen bir halk edebiyatı nazım biçimdir. Arapça kökenli bir kelimedir. Halk kültüründe goşa (koşa) olarak da bilinir. Goşa kelimesi Türkçede çiftlenmiş (ikili) demektir ve mânînin kafiye yapısından dolayı bu ad verilmiştir. Koşa kelimesi \"beyit\" manası da taşır. Anonim halk edebiyatında en küçük nazım biçimidir. Çoğunlukla 7 heceli dört mısralık bir bentten meydana gelir. Ama mısraları 4-5-8-10-14 heceli kalıplarla söylenmiş mânîler de vardır. Birinci, ikinci dördüncü mısralar birbirleriyle kafiyeli, üçüncü mısra serbesttir. Yani kafiye dizilişi aaxadır. aaaxa düzeninde mânîler de var. İlk iki mısra hazırlık dizeleridir. Son iki mısra ile anlam bağlantısı yoktur.Asıl anlatılmak istenen son iki dizede verilir. En çok kullanılanlar düz ya da tam mânî, kesik mânî, cinaslı mânî, yedekli mânî, artık mânîdir. == Mânî türleri == Ayaklı mânî : Dört mısralı olur. Deyiş : İki kişinin karşılıklı söylediği mânîlerdir. Soru yanıt şeklinde düzenlenir. Bir başka kişinin ağzındanmış gibi aktarıldığı şekilleri de vardır. Mânî insanların hoş olarak ve olmayarak söyledikleri şeylerdir. Düz mânî : Yedişer heceli dört dizeden oluşur. Kafiyeleri çokluk cinassızdır. Kesik mânî : Birinci dizesi 7 heceden az, anlamlı ya da anlamsız bir kelime grubu olan mânîler. Bu kesik mısra sadece kafiyeyi hazırlar. Eğer meydan ve kahvehanelerde söylenen ve ilk mısraları \"aman aman\" ünlemi ile doldurulan mânîlerse bunlara İstanbul mânîleri denir. Kirpikli mânî : Kesik mânîlerde eğer kafiye cinaslı ise bunlara cinaslı mânî denir. Yedekli mânî : Düz mânînin sonuna aynı kafiyede iki mısra daha eklenerek söylenen mânîler. Cinaslı kafiye kullanılmaz, birinci mısraları anlamlıdır. Yedekli mânîye artık mânî de denir. Kıstaklı mânî : Yazılışı bakımından düz mânî ile aynıdır ancak okunurken kendine özel ritimler davul, kopuz ve saz ile çalınır.Günümüzde Türkistan ve İran Türkleri arasında yaygındır Ramazan mânisi: Nazım biçimi olarak düz maniye benzer, okunurken basit ritimler ile davul çalınır, amacı insanları sahura uyandırmaktır. == Kaynakça == == Dış bağlantılar == Şarkışla Manileri (Mani Örnekleri, Derleyen: İhsan Öztürk)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 309,
+      "char_count": 2167,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:55.714017",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 866,
+      "content": "Mânî, başta aşk olmak üzere hemen her konuda yazılabilen bir halk edebiyatı nazım biçimdir. Arapça kökenli bir kelimedir. Halk kültüründe goşa (koşa) olarak da bilinir. Goşa kelimesi Türkçede çiftlenmiş (ikili) demektir ve mânînin kafiye yapısından dolayı bu ad verilmiştir. Koşa kelimesi \"beyit\" manası da taşır. Anonim halk edebiyatında en küçük nazım biçimidir. Çoğunlukla 7 heceli dört mısralık bir bentten meydana gelir. Ama mısraları 4-5-8-10-14 heceli kalıplarla söylenmiş mânîler de vardır. Birinci, ikinci dördüncü mısralar birbirleriyle kafiyeli, üçüncü mısra serbesttir. Yani kafiye dizilişi aaxadır. aaaxa düzeninde mânîler de var. İlk iki mısra hazırlık dizeleridir. Son iki mısra ile anlam bağlantısı yoktur.Asıl anlatılmak istenen son iki dizede verilir. En çok kullanılanlar düz ya da tam mânî, kesik mânî, cinaslı mânî, yedekli mânî, artık mânîdir.",
+      "char_count": 865,
+      "token_estimate": 216
+    },
+    {
+      "id": "c0001",
+      "section": "== Mânî türleri ==",
+      "heading_path": "== Mânî türleri ==",
+      "start_char": 866,
+      "end_char": 1866,
+      "content": "== Mânî türleri == Ayaklı mânî : Dört mısralı olur. Deyiş : İki kişinin karşılıklı söylediği mânîlerdir. Soru yanıt şeklinde düzenlenir. Bir başka kişinin ağzındanmış gibi aktarıldığı şekilleri de vardır. Mânî insanların hoş olarak ve olmayarak söyledikleri şeylerdir. Düz mânî : Yedişer heceli dört dizeden oluşur. Kafiyeleri çokluk cinassızdır. Kesik mânî : Birinci dizesi 7 heceden az, anlamlı ya da anlamsız bir kelime grubu olan mânîler. Bu kesik mısra sadece kafiyeyi hazırlar. Eğer meydan ve kahvehanelerde söylenen ve ilk mısraları \"aman aman\" ünlemi ile doldurulan mânîlerse bunlara İstanbul mânîleri denir. Kirpikli mânî : Kesik mânîlerde eğer kafiye cinaslı ise bunlara cinaslı mânî denir. Yedekli mânî : Düz mânînin sonuna aynı kafiyede iki mısra daha eklenerek söylenen mânîler. Cinaslı kafiye kullanılmaz, birinci mısraları anlamlıdır. Yedekli mânîye artık mânî de denir. Kıstaklı mânî : Yazılışı bakımından düz mânî ile aynıdır ancak okunurken kendine özel ritimler davul, kopuz ve saz",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Mânî türleri ==",
+      "heading_path": "== Mânî türleri ==",
+      "start_char": 1666,
+      "end_char": 2071,
+      "content": "kafiye kullanılmaz, birinci mısraları anlamlıdır. Yedekli mânîye artık mânî de denir. Kıstaklı mânî : Yazılışı bakımından düz mânî ile aynıdır ancak okunurken kendine özel ritimler davul, kopuz ve saz ile çalınır.Günümüzde Türkistan ve İran Türkleri arasında yaygındır Ramazan mânisi: Nazım biçimi olarak düz maniye benzer, okunurken basit ritimler ile davul çalınır, amacı insanları sahura uyandırmaktır.",
+      "char_count": 405,
+      "token_estimate": 101
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2087,
+      "end_char": 2167,
+      "content": "== Dış bağlantılar == Şarkışla Manileri (Mani Örnekleri, Derleyen: İhsan Öztürk)",
+      "char_count": 80,
+      "token_estimate": 20
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Yedekli mânî'ye verilen diğer ad nedir?",
+        "answer": "Artık mânî",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Genel mânî yapısının temel özelliklerine göre, 'düz mânî', 'kesik mânî' ve 'yedekli mânî' türleri yapısal olarak nasıl farklılık gösterir?",
+        "answer": "Genel mânîler çoğunlukla 7 heceli dört mısralık, aaxa kafiye düzenine sahip ve ilk iki mısranın hazırlık, son iki mısranın asıl anlamı taşıdığı bir yapıdır. 'Düz mânî', yedişer heceli dört dizeden oluşması ve kafiyelerinin çoğunlukla cinassız olmasıyla bu genel tanıma en uygun türdür. 'Kesik mânî' ise birinci dizesinin 7 heceden az olması ve sadece kafiyeyi hazırlamasıyla genel yapıdan ayrılır. 'Yedekli mânî' ise düz mânînin sonuna aynı kafiyede iki mısra daha eklenerek toplamda altı dizeden oluşur, bu da mısra sayısını artırır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

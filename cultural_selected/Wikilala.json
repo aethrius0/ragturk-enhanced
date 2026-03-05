@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "wikilala_06871b68",
+    "title": "Wikilala",
+    "url": "https://tr.wikipedia.org/wiki/Wikilala",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:59:01.640371",
+    "content": "Wikilala (WikiLala olarak yazılır), Türkiye'de 1928'den önce basılmış matbu metinleri içeren ve içinde Latin harfleriyle arama imkanı sağlayan bir veritabanı. Osmanlı Devleti'nde matbaacılık faaliyetinin başladığı 1729 yılından Türkiye'de Harf Devriminin yapıldığı 1928 yılına kadar olan süreçte üretilmiş basılı dokümanları Optik Karakter Tanımlama (OCR) yöntemiyle dijitalleştirilmiş olarak bir araya getirmeyi ve kolay arama yapabilmeyi amaçlayan bir çalışmadır. 2019-2021 arasında gerçekleştirilen çalışma sonucu, 31 Aralık 2021'de erişime açılmıştır. wikilala.com adresindeki internet sitesi üzerinden yayınlanır. Abonelik lisans modeli ile ücretli olarak hizmet vermektedir. \"Osmanlı'nın Google'ı\" ya da \"Osmanlıca Google\" olarak da anılır. Veritabanında ulusal ve yerel Osmanlı gazeteleri; edebiyat, ekonomi, sosyoloji, spor gibi kategorilerde yer alan dergi sayfaları; hikaye, roman, salname, şiir gibi türlerde kitapları, Şinasi’nin Mukaddime adlı makalesiden itibaren 1930’lara kadar yazılmış gazete ve dergi makaleleri; ferman, berat gibi resmî evrak ve belgeler; kitabe, mezar taşı, kartpostal, hat levhası gibi materyaller yer alır. Osmanlıca bilmeyen bir araştırmacı için geçmiş kaynakları taramayı kolaylaştırmak üzere Latin harfleriyle arama yapma olanağının sağlanması, projeyi benzerlerinden ayırır. == Geçmişi == 2016 yılında ortaya atılan proje fikri, İstanbul merkezli Hiperlink firmasınını bir girişimi olarak proje yöneticisi Sadi Özgür ve proje danışmanı Harun Tuncer tarafından hayata geçirildi. Proje başladıktan sonra Hawai dilinde \"hızlı\" anlamına gelen \"wiki\" ve \"şehzade hocası\" anlamında gelen \"lala\" kelimelerini birleşmesi ile \"Hızlı Rehber\" anlamını vermek üzere WikiLala olarak isimlendirildi. Kütüphanedeki metinler erişime açık ücretsiz kaynaklardan, Osmanlıca materyalleri toplayan ve bunları dijitalleştirip araştırmacılara sunan kitaplıklardan; şahıs kitaplıkları, koleksiyonlar ve birebir irtibat kurulan toplayıcılardan sağlandı. Proje kapsamında fiziki olarak temin edilmiş materyaller sayısallaştırıldı; sayısallaştırılan materyaller, metin-içi aramaya imkan tanımak üzere OCR tekniği ile dijitalleştirildi; dijitalleştirilen materyaller kataloglanıp sisteme yüklendi. Ayrıca üçüncü kişilerin yüklediği materyaller de kendileri tarafından sisteme eklendi. Proje, 2021'de, Cumhurbaşkanlığı ve Kültür ve Turizm Bakanlığı tarafından \"Yılın Yenilikçi Girişimi Ödülü\"ne layık görüldü. Veritabanı, 31 Aralık 2021'de wikilala.com adresinde deneme erişimine açıldı. Erişime açıldıktan bir süre sonra, 1950'ye kadar yayımlanmış, telif süresi dolmuş Latin harfli süre yayınlarla ve el yazması materyallerle genişletilmeye başladı. == Ödülleri == 2021 - Cumhurbaşkanlığı ve Kültür ve Turizm Bakanlığı \"Yılın Yenilikçi Girişimi Ödülü\" == Kaynakça == == Dış bağlantılar == Wikilala.com 29 Eylül 2022 tarihinde Wayback Machine sitesinde arşivlendi. sitesi",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 349,
+      "char_count": 2885,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:03.736385",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Wikilala (WikiLala olarak yazılır), Türkiye'de 1928'den önce basılmış matbu metinleri içeren ve içinde Latin harfleriyle arama imkanı sağlayan bir veritabanı. Osmanlı Devleti'nde matbaacılık faaliyetinin başladığı 1729 yılından Türkiye'de Harf Devriminin yapıldığı 1928 yılına kadar olan süreçte üretilmiş basılı dokümanları Optik Karakter Tanımlama (OCR) yöntemiyle dijitalleştirilmiş olarak bir araya getirmeyi ve kolay arama yapabilmeyi amaçlayan bir çalışmadır. 2019-2021 arasında gerçekleştirilen çalışma sonucu, 31 Aralık 2021'de erişime açılmıştır. wikilala.com adresindeki internet sitesi üzerinden yayınlanır. Abonelik lisans modeli ile ücretli olarak hizmet vermektedir. \"Osmanlı'nın Google'ı\" ya da \"Osmanlıca Google\" olarak da anılır. Veritabanında ulusal ve yerel Osmanlı gazeteleri; edebiyat, ekonomi, sosyoloji, spor gibi kategorilerde yer alan dergi sayfaları; hikaye, roman, salname, şiir gibi türlerde kitapları, Şinasi’nin Mukaddime adlı makalesiden itibaren 1930’lara kadar yazılm",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1317,
+      "content": "biyat, ekonomi, sosyoloji, spor gibi kategorilerde yer alan dergi sayfaları; hikaye, roman, salname, şiir gibi türlerde kitapları, Şinasi’nin Mukaddime adlı makalesiden itibaren 1930’lara kadar yazılmış gazete ve dergi makaleleri; ferman, berat gibi resmî evrak ve belgeler; kitabe, mezar taşı, kartpostal, hat levhası gibi materyaller yer alır. Osmanlıca bilmeyen bir araştırmacı için geçmiş kaynakları taramayı kolaylaştırmak üzere Latin harfleriyle arama yapma olanağının sağlanması, projeyi benzerlerinden ayırır.",
+      "char_count": 517,
+      "token_estimate": 129
+    },
+    {
+      "id": "c0002",
+      "section": "== Geçmişi ==",
+      "heading_path": "== Geçmişi ==",
+      "start_char": 1318,
+      "end_char": 2318,
+      "content": "== Geçmişi == 2016 yılında ortaya atılan proje fikri, İstanbul merkezli Hiperlink firmasınını bir girişimi olarak proje yöneticisi Sadi Özgür ve proje danışmanı Harun Tuncer tarafından hayata geçirildi. Proje başladıktan sonra Hawai dilinde \"hızlı\" anlamına gelen \"wiki\" ve \"şehzade hocası\" anlamında gelen \"lala\" kelimelerini birleşmesi ile \"Hızlı Rehber\" anlamını vermek üzere WikiLala olarak isimlendirildi. Kütüphanedeki metinler erişime açık ücretsiz kaynaklardan, Osmanlıca materyalleri toplayan ve bunları dijitalleştirip araştırmacılara sunan kitaplıklardan; şahıs kitaplıkları, koleksiyonlar ve birebir irtibat kurulan toplayıcılardan sağlandı. Proje kapsamında fiziki olarak temin edilmiş materyaller sayısallaştırıldı; sayısallaştırılan materyaller, metin-içi aramaya imkan tanımak üzere OCR tekniği ile dijitalleştirildi; dijitalleştirilen materyaller kataloglanıp sisteme yüklendi. Ayrıca üçüncü kişilerin yüklediği materyaller de kendileri tarafından sisteme eklendi. Proje, 2021'de, Cu",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Geçmişi ==",
+      "heading_path": "== Geçmişi ==",
+      "start_char": 2118,
+      "end_char": 2664,
+      "content": "CR tekniği ile dijitalleştirildi; dijitalleştirilen materyaller kataloglanıp sisteme yüklendi. Ayrıca üçüncü kişilerin yüklediği materyaller de kendileri tarafından sisteme eklendi. Proje, 2021'de, Cumhurbaşkanlığı ve Kültür ve Turizm Bakanlığı tarafından \"Yılın Yenilikçi Girişimi Ödülü\"ne layık görüldü. Veritabanı, 31 Aralık 2021'de wikilala.com adresinde deneme erişimine açıldı. Erişime açıldıktan bir süre sonra, 1950'ye kadar yayımlanmış, telif süresi dolmuş Latin harfli süre yayınlarla ve el yazması materyallerle genişletilmeye başladı.",
+      "char_count": 546,
+      "token_estimate": 136
+    },
+    {
+      "id": "c0004",
+      "section": "== Ödülleri ==",
+      "heading_path": "== Ödülleri ==",
+      "start_char": 2665,
+      "end_char": 2767,
+      "content": "== Ödülleri == 2021 - Cumhurbaşkanlığı ve Kültür ve Turizm Bakanlığı \"Yılın Yenilikçi Girişimi Ödülü\"",
+      "char_count": 101,
+      "token_estimate": 25
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 2782,
+      "end_char": 2885,
+      "content": "== Dış bağlantılar == Wikilala.com 29 Eylül 2022 tarihinde Wayback Machine sitesinde arşivlendi. sitesi",
+      "char_count": 103,
+      "token_estimate": 25
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Wikilala veritabanı ne zaman erişime açılmıştır?",
+        "answer": "31 Aralık 2021 tarihinde.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Wikilala projesi, Osmanlıca bilmeyen araştırmacılar için eski kaynakları erişilebilir kılma hedefini, materyallerin toplanması ve dijitalleştirilmesi sürecinde hangi ana tekniklerle ve özelliklerle başarmıştır?",
+        "answer": "Wikilala, Osmanlıca bilmeyen araştırmacıların geçmiş kaynakları Latin harfleriyle taramasını kolaylaştırma hedefini, 1729 ile 1928 yılları arasında üretilmiş basılı materyalleri kütüphanelerden, şahıs koleksiyonlarından ve serbest kaynaklardan fiziki olarak temin edip sayısallaştırarak başarmıştır. Bu materyaller, metin-içi arama imkanı sağlamak üzere Optik Karakter Tanımlama (OCR) tekniği ile dijitalleştirilmiş, ardından kataloglanarak sisteme yüklenmiştir. Böylece proje, Latin harfleriyle arama yapabilen bir veritabanı sunmaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

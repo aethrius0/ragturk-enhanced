@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": "mehmetbaydar_ee1c8cb3",
+    "title": "Mehmet Baydar",
+    "url": "https://tr.wikipedia.org/wiki/Mehmet_Baydar",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:44:46.879234",
+    "content": "Mehmet Baydar (1924, İstanbul - 27 Ocak 1973, Los Angeles, ABD), Türkiye Cumhuriyeti Los Angeles eski Başkonsolosu. Ermeni yasa dışı örgüt ASALA tarafından 27 Ocak 1973'te ABD’nin Kaliforniya eyaletindeki Santa Barbara şehrinde öldürüldü. == Yaşamı == === İlk Yılları === 1924 yılında İstanbul'un Üsküdar ilçesinde, ailesinin tek çocuğu olarak dünyaya geldi. Robert Koleji, İstanbul Üniversitesi Hukuk Fakültesi ve Paris Üniversitesi \"Institut d'Etudes Politiques\" bölümünden mezun oldu. === Memurluğu === Meslek memurluğu sınavını kazanarak 27 Ocak 1950 tarihinde Dışişleri Bakanlığı'na girdi. Ticaret, İktisat ve Milletlerarası Ekonomik İşler Dairesinde aday memur olarak göreve başladı. 7 Eylül 1950'de asaleti tasdik edilerek Üçüncü Katip oldu. 1950-1951 yıllarında yedek subay olarak askerlik görevini yaptıktan sonra 30 Ekim 1951'de memurluğa geri döndü. Ekonomik İşler Dairesi Genel Müdürlüğü'nde tekrar Üçüncü Katip olarak işe başladı. 1951'de NATO nezdinde Türkiye Daimi Delegeliğinde Üçüncü Katip, 1955'te İkinci Katip, 1956'da Elçilik Başkatibi, aynı yıl Dışişleri Bakanlığı NATO Dairesi Genel Müdürlüğü'nde Şube Müdür oldu. 1960'ta Vaşington Büyükelçiliği'ne Başkatip olarak atandı. 1962 yılında Orta Elçilik Müsteşarlığına terfi etti. 1966'da merkezde İkinci Daire Genel Müdürlüğü'nde Şube Müdürü, Daire Reis Muavini oldu. Aynı yıl Merkez Antlaşma Teşkilatında (CENTO) Orta Elçilik Müsteşarlığına atandı. 1972 yılında, 22 yıllık bir diplomat olarak Türkiye Cumhuriyeti Los Angeles Başkonsolosluğu'na atandı. == Öldürülmesi == 27 Ocak 1973 tarihinde 78 yaşındaki Amerikan uyruklu Ermeni Gürgen Yanıkyan tarafından Biltmore Oteli'nde Bahadır Demir ile birlikte öldürüldü. Kendisini İran asıllı olarak tanıtan, elinde Osmanlı sarayından kaçırılmış bir tablo ve bir hatıra banknot bulunduğunu ve bunu Türkiye'ye armağan etmek istediğini bildirerek, Baydar ve Demir'i Santa Barbara'daki Baltimore Oteli'ne davet eden Yanıkyan, iki diplomatı ateş ederek öldürdü. Baydar olay yerinde, Demir kaldırıldığı hastanede öldü. Cinayetten sonra tutuklanan ve müebbet hapis cezasına çarptırılan Yanıkyan, 31 Aralık 1983 tarihinde af ile serbest bırakıldı ve iki ay sonra öldü. Türk diplomatlara karşı ilk saldırı olarak nitelenen bu olay, daha sonra bir cinayetler zincirini başlattı. Bahadır Demir ve Mehmet Baydar Zincirlikuyu mezarlığında yan yana yatmaktadırlar. == Hatırası == Konsolos Bahadır Demir ile birlikte Ermeni saldırılarında hayatını kaybeden ilk Türk diplomatlardandır. Öldürüldüğünde evli ve iki çocuk babasıydı. Adı, İstanbul'un Avcılar ilçesindeki \"Mehmet Baydar Anadolu Lisesi\"ne ve Ankara Maltepe'de \"Şehit Mehmet Baydar Sokağı\"na verildi. == Kaynakça == Şimşir, Bilal (2000). Şehit Diplomatlarımız (1973-1994) (2015 bas.). Ankara: Bilgi Yayınevi. ISBN 975-494-924-7. == Ayrıca bakınız == Türk diplomatlara düzenlenen suikastlar listesi Türkiye Cumhuriyeti Dışişleri Bakanlığı",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 380,
+      "char_count": 2894,
+      "num_chunks": 8,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:56.470705",
+    "total_chunks": 8,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 239,
+      "content": "Mehmet Baydar (1924, İstanbul - 27 Ocak 1973, Los Angeles, ABD), Türkiye Cumhuriyeti Los Angeles eski Başkonsolosu. Ermeni yasa dışı örgüt ASALA tarafından 27 Ocak 1973'te ABD’nin Kaliforniya eyaletindeki Santa Barbara şehrinde öldürüldü.",
+      "char_count": 238,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0001",
+      "section": "=== İlk Yılları ===",
+      "heading_path": "=== İlk Yılları ===",
+      "start_char": 252,
+      "end_char": 488,
+      "content": "=== İlk Yılları === 1924 yılında İstanbul'un Üsküdar ilçesinde, ailesinin tek çocuğu olarak dünyaya geldi. Robert Koleji, İstanbul Üniversitesi Hukuk Fakültesi ve Paris Üniversitesi \"Institut d'Etudes Politiques\" bölümünden mezun oldu.",
+      "char_count": 235,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0002",
+      "section": "=== Memurluğu ===",
+      "heading_path": "=== Memurluğu ===",
+      "start_char": 488,
+      "end_char": 1488,
+      "content": "=== Memurluğu === Meslek memurluğu sınavını kazanarak 27 Ocak 1950 tarihinde Dışişleri Bakanlığı'na girdi. Ticaret, İktisat ve Milletlerarası Ekonomik İşler Dairesinde aday memur olarak göreve başladı. 7 Eylül 1950'de asaleti tasdik edilerek Üçüncü Katip oldu. 1950-1951 yıllarında yedek subay olarak askerlik görevini yaptıktan sonra 30 Ekim 1951'de memurluğa geri döndü. Ekonomik İşler Dairesi Genel Müdürlüğü'nde tekrar Üçüncü Katip olarak işe başladı. 1951'de NATO nezdinde Türkiye Daimi Delegeliğinde Üçüncü Katip, 1955'te İkinci Katip, 1956'da Elçilik Başkatibi, aynı yıl Dışişleri Bakanlığı NATO Dairesi Genel Müdürlüğü'nde Şube Müdür oldu. 1960'ta Vaşington Büyükelçiliği'ne Başkatip olarak atandı. 1962 yılında Orta Elçilik Müsteşarlığına terfi etti. 1966'da merkezde İkinci Daire Genel Müdürlüğü'nde Şube Müdürü, Daire Reis Muavini oldu. Aynı yıl Merkez Antlaşma Teşkilatında (CENTO) Orta Elçilik Müsteşarlığına atandı. 1972 yılında, 22 yıllık bir diplomat olarak Türkiye Cumhuriyeti Los An",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "=== Memurluğu ===",
+      "heading_path": "=== Memurluğu ===",
+      "start_char": 1288,
+      "end_char": 1520,
+      "content": "rlüğü'nde Şube Müdürü, Daire Reis Muavini oldu. Aynı yıl Merkez Antlaşma Teşkilatında (CENTO) Orta Elçilik Müsteşarlığına atandı. 1972 yılında, 22 yıllık bir diplomat olarak Türkiye Cumhuriyeti Los Angeles Başkonsolosluğu'na atandı.",
+      "char_count": 232,
+      "token_estimate": 58
+    },
+    {
+      "id": "c0004",
+      "section": "== Öldürülmesi ==",
+      "heading_path": "== Öldürülmesi ==",
+      "start_char": 1521,
+      "end_char": 2364,
+      "content": "== Öldürülmesi == 27 Ocak 1973 tarihinde 78 yaşındaki Amerikan uyruklu Ermeni Gürgen Yanıkyan tarafından Biltmore Oteli'nde Bahadır Demir ile birlikte öldürüldü. Kendisini İran asıllı olarak tanıtan, elinde Osmanlı sarayından kaçırılmış bir tablo ve bir hatıra banknot bulunduğunu ve bunu Türkiye'ye armağan etmek istediğini bildirerek, Baydar ve Demir'i Santa Barbara'daki Baltimore Oteli'ne davet eden Yanıkyan, iki diplomatı ateş ederek öldürdü. Baydar olay yerinde, Demir kaldırıldığı hastanede öldü. Cinayetten sonra tutuklanan ve müebbet hapis cezasına çarptırılan Yanıkyan, 31 Aralık 1983 tarihinde af ile serbest bırakıldı ve iki ay sonra öldü. Türk diplomatlara karşı ilk saldırı olarak nitelenen bu olay, daha sonra bir cinayetler zincirini başlattı. Bahadır Demir ve Mehmet Baydar Zincirlikuyu mezarlığında yan yana yatmaktadırlar.",
+      "char_count": 842,
+      "token_estimate": 210
+    },
+    {
+      "id": "c0005",
+      "section": "== Hatırası ==",
+      "heading_path": "== Hatırası ==",
+      "start_char": 2364,
+      "end_char": 2658,
+      "content": "== Hatırası == Konsolos Bahadır Demir ile birlikte Ermeni saldırılarında hayatını kaybeden ilk Türk diplomatlardandır. Öldürüldüğünde evli ve iki çocuk babasıydı. Adı, İstanbul'un Avcılar ilçesindeki \"Mehmet Baydar Anadolu Lisesi\"ne ve Ankara Maltepe'de \"Şehit Mehmet Baydar Sokağı\"na verildi.",
+      "char_count": 293,
+      "token_estimate": 73
+    },
+    {
+      "id": "c0006",
+      "section": "== Kaynakça ==",
+      "heading_path": "== Kaynakça ==",
+      "start_char": 2658,
+      "end_char": 2786,
+      "content": "== Kaynakça == Şimşir, Bilal (2000). Şehit Diplomatlarımız (1973-1994) (2015 bas.). Ankara: Bilgi Yayınevi. ISBN 975-494-924-7.",
+      "char_count": 127,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0007",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 2786,
+      "end_char": 2894,
+      "content": "== Ayrıca bakınız == Türk diplomatlara düzenlenen suikastlar listesi Türkiye Cumhuriyeti Dışişleri Bakanlığı",
+      "char_count": 108,
+      "token_estimate": 27
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Dışişleri Bakanlığı'na meslek memurluğu sınavını kazanarak ne zaman girdi?",
+        "answer": "27 Ocak 1950 tarihinde",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Mehmet Baydar'ın eğitimi, Dışişleri Bakanlığı'ndaki kariyer gelişimi ve bu kariyerin trajik sonu arasındaki ilişkiyi açıklayın.",
+        "answer": "Mehmet Baydar, 1924 yılında İstanbul'da doğdu ve Robert Koleji, İstanbul Üniversitesi Hukuk Fakültesi ile Paris Üniversitesi \"Institut d'Etudes Politiques\" bölümlerinden mezun olarak kapsamlı bir eğitim aldı. Bu eğitimi takiben, 27 Ocak 1950'de Dışişleri Bakanlığı'na girerek diplomatik kariyerine başladı. Çeşitli görevlerde terfi ederek 22 yıl boyunca diplomat olarak hizmet verdi ve son olarak 1972 yılında Türkiye Cumhuriyeti Los Angeles Başkonsolosu olarak atandı. Ne yazık ki, bu görevdeyken, 27 Ocak 1973'te ASALA adlı yasa dışı örgüt tarafından ABD'nin Kaliforniya eyaletindeki Santa Barbara şehrinde öldürüldü.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

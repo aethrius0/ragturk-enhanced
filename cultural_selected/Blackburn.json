@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "blackburn_11230d8b",
+    "title": "Blackburn",
+    "url": "https://tr.wikipedia.org/wiki/Blackburn",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:26:51.567512",
+    "content": "Blackburn, Birleşik Krallık'ın İngiltere ülkesinin Kuzey Batı bölgesinde bir kentsel yerleşkedir. Törensel Lancashire kontluğuna bağlı olup 2009'dan itibaren yerel idare itibarıyla tek-seviyeli \"Blackburn ile Darwen\" Yerel İdaresi'nin merkezidir. 1974'ten itibaren içinde Darwin küçük kenti de bulunan Blackburn, Lancashire kontluğunun ikinci seviyede bir \"Blackburn\" Bölgesi\" olarak idare edilmiştir. 1998'den itibaren Blackburn kenti ve daha küçük olan Darwen kenti yerel idare bakımdan birleştirilerek \"Blackburn ile Darwen\" adlı tek seviyeli bir yerel idare kurulmuş ve bu tek seviyeli yerel idare merkezi Blackburn kenti olmuştur. == Coğrafi konum == Blackburn kenti \"Batı Penine Kırları\"'nın kuzeyinde Ribble Irmağı vadisinin güney tarafındadır. Preston şehrinin 14,3 km doğusunda, Manchester şehri merkezinin 34 km kuzey-kuzey batısında ve mülga 'Greater Manchester Metropoliten Kontluğu sınırlarından 12,9 km kuzeyde bulunmaktadır. == Tarihçe == == Spor == Blackburn kenti İngiliz futbol kulüplerinden biri olan Blackburn Rovers FC futbol kulübünün iç saha maçlarını oynadığı merkezdir. Bu kulüp 1875'te kurulmuş, 1888'de İngiltere Futbol Ligi'nin kurucu takımlarından bir olmuş ve 1890'dan beridir Blackburn şehrinde bulunan Ewood Park stadını iç saha maçları için kullanmaktadır. == Kardeş şehirler == Blackburn şu kentlerle kardeş şehir bağlantısı kurmuştur: Péronne, Somme, Fransa Altena, Almanya == Resimler == == Kaynakça == == Ayrıca bakınız == Blackburn ile Darwen Lancashire == Dış bağlantılar == \"Blackburn with Darwen\" yerel idaresi resmi websitesi8 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Blackburn günlük yerel gazetesi olan \"Lancashire Telegraph\" websitesi 8 Kasım 2010 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Curlie'de Blackburn (DMOZ tabanlı) (İngilizce) (İngilizce)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 240,
+      "char_count": 1841,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.719477",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 636,
+      "content": "Blackburn, Birleşik Krallık'ın İngiltere ülkesinin Kuzey Batı bölgesinde bir kentsel yerleşkedir. Törensel Lancashire kontluğuna bağlı olup 2009'dan itibaren yerel idare itibarıyla tek-seviyeli \"Blackburn ile Darwen\" Yerel İdaresi'nin merkezidir. 1974'ten itibaren içinde Darwin küçük kenti de bulunan Blackburn, Lancashire kontluğunun ikinci seviyede bir \"Blackburn\" Bölgesi\" olarak idare edilmiştir. 1998'den itibaren Blackburn kenti ve daha küçük olan Darwen kenti yerel idare bakımdan birleştirilerek \"Blackburn ile Darwen\" adlı tek seviyeli bir yerel idare kurulmuş ve bu tek seviyeli yerel idare merkezi Blackburn kenti olmuştur.",
+      "char_count": 635,
+      "token_estimate": 158
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafi konum ==",
+      "heading_path": "== Coğrafi konum ==",
+      "start_char": 636,
+      "end_char": 940,
+      "content": "== Coğrafi konum == Blackburn kenti \"Batı Penine Kırları\"'nın kuzeyinde Ribble Irmağı vadisinin güney tarafındadır. Preston şehrinin 14,3 km doğusunda, Manchester şehri merkezinin 34 km kuzey-kuzey batısında ve mülga 'Greater Manchester Metropoliten Kontluğu sınırlarından 12,9 km kuzeyde bulunmaktadır.",
+      "char_count": 303,
+      "token_estimate": 75
+    },
+    {
+      "id": "c0002",
+      "section": "== Spor ==",
+      "heading_path": "== Spor ==",
+      "start_char": 954,
+      "end_char": 1290,
+      "content": "== Spor == Blackburn kenti İngiliz futbol kulüplerinden biri olan Blackburn Rovers FC futbol kulübünün iç saha maçlarını oynadığı merkezdir. Bu kulüp 1875'te kurulmuş, 1888'de İngiltere Futbol Ligi'nin kurucu takımlarından bir olmuş ve 1890'dan beridir Blackburn şehrinde bulunan Ewood Park stadını iç saha maçları için kullanmaktadır.",
+      "char_count": 335,
+      "token_estimate": 83
+    },
+    {
+      "id": "c0003",
+      "section": "== Kardeş şehirler ==",
+      "heading_path": "== Kardeş şehirler ==",
+      "start_char": 1290,
+      "end_char": 1409,
+      "content": "== Kardeş şehirler == Blackburn şu kentlerle kardeş şehir bağlantısı kurmuştur: Péronne, Somme, Fransa Altena, Almanya",
+      "char_count": 118,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0004",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1439,
+      "end_char": 1492,
+      "content": "== Ayrıca bakınız == Blackburn ile Darwen Lancashire",
+      "char_count": 52,
+      "token_estimate": 13
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1492,
+      "end_char": 1841,
+      "content": "== Dış bağlantılar == \"Blackburn with Darwen\" yerel idaresi resmi websitesi8 Şubat 2012 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Blackburn günlük yerel gazetesi olan \"Lancashire Telegraph\" websitesi 8 Kasım 2010 tarihinde Wayback Machine sitesinde arşivlendi. (İngilizce) Curlie'de Blackburn (DMOZ tabanlı) (İngilizce) (İngilizce)",
+      "char_count": 349,
+      "token_estimate": 87
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Blackburn, Birleşik Krallık'ın hangi ülkesinin hangi bölgesinde yer almaktadır?",
+        "answer": "İngiltere ülkesinin Kuzey Batı bölgesinde.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Blackburn'ün İngiltere'deki genel konumu, hem idari bölgeler hem de coğrafi özellikler dikkate alınarak nasıl tanımlanabilir?",
+        "answer": "Blackburn, Birleşik Krallık'ın İngiltere ülkesinin Kuzey Batı bölgesinde, törensel Lancashire kontluğuna bağlı bir kentsel yerleşkedir ve \"Blackburn ile Darwen\" Yerel İdaresi'nin merkezidir. Coğrafi olarak ise \"Batı Penine Kırları\"nın kuzeyinde, Ribble Irmağı vadisinin güney tarafında yer almaktadır; Preston'ın 14,3 km doğusunda ve Manchester şehrinin 34 km kuzey-kuzey batısında konumlanmıştır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

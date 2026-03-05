@@ -1,0 +1,154 @@
+{
+  "article": {
+    "id": "yonahmikroilemci_5b66aab3",
+    "title": "Yonah (mikroişlemci)",
+    "url": "https://tr.wikipedia.org/wiki/Yonah_%28mikroi%C5%9Flemci%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:10.415446",
+    "content": "Yonah, Intel'in 65 nm üretim işlemini kullanan ilk işlemci neslinin kod adıdır; bu işlemci ailesi, önceki Banias (130 nm) / Dothan (90 nm) Pentium M mikromimarisinden temel alır. Yonah işlemcileri, Intel'in Core Solo ve Core Duo mobil mikroişlemcileri ürünleri olarak piyasaya sürülmüştür. Yonah'ta SSE3 komutları eklenerek ve, SSE ve SSE2 uygulamaları geliştirilerek SIMD performansı geliştirilmiştir; ancak daha yüksek gecikmeye sahip önbellek kullanıldığı için tam sayı performansı biraz azalmıştır. Ayrıca, Yonah'ta NX bit desteği bulunur. == Modeller ve marka adları == Intel Core Duo markası, az güç (25 watt'tan daha az) tüketen çift çekirdekli bir mikro işlemci serisini ifade etmekteydi; bu işlemci serisi, 55 watt güç tüketen AMD Opteron 260 ve 860 HE muadil işlemcilerden daha düşük güç tüketimine sahiptir. Core Duo serisi, Napa platformunun diğer bileşenleriyle birlikte 5 Ocak 2006'da piyasaya sürülmüştür. Bu seri, Apple Macintoch ürünlerinde kullanılan ilk Intel işlemci serisidir (ancak bazı geliştiricilere dağıtılan, seri üretimde olmayan Apple Developer Transition Kit makinelerinde Pentium 4 işlemcileri kullanılmıştır). Yonah'ın iki tane versiyonu ve \"Intel Core\" marka adına sahip olmayan bir türevi vardı: Yonah'ın Sossaman kod adlı çift çekirdekli (server) türevi, Xeon (marka) LV (düşük voltaj) adıyla 14 Mart 2006'da piyasaya sürülmüştür. Sossaman, Yonah'tan farklı olarak çift soket konfigürasyonu desteğine (AMD Quad FX'teki gibi iki işlemci kullanılarak bir anakarta dört çekirdek bağlanmasını sağlar) ve 36 bit bellek adresleme desteğine (PAE modu) sahiptir. Yonah'ın Yonah-1024 kod adlı tek çekirdekli versiyonu, Celeron (marka) M 400 serisi işlemcileri olarak piyasaya sürülmüştür. Bu versiyon, yarı miktarda L2 önbelleğine sahip olması ve, SpeedStep ve Intel VT-x (sanallaştırma) özelliklerini desteklememesi haricinde Core Solo markalı Yonah'la büyük oranda aynıdır. Yonah'ın başka bir çift çekirdekli versiyonu; Intel VT-x desteği bulunan Pentium Dual-Core T2060, T2080 ve T2130 mobil işlemcileri olarak piyasaya sürülmüştür. == Teknik özellikler == Core Duo'da, 2 MB paylaşımlı L2 önbelleğini de içeren 151 milyon transistör bulunur. Yonah'ın yürütüm çekirdeğinde, sonradan 2.33-2.50 GHz en yüksek saat frekansına ulaşacağı tahmin edilmiş 12 aşamalı boru hattı bulunur. L2 önbelleği ile her iki yürütüm çekirdeği arasındaki bağlantı, bir veriyolu birimi kontrolcüsü tarafından ön yüz veriyolu (FSB) üzerinden önbellek uyumluluk trafiğini azaltan ancak bunun karşılığında Dotham Pentium M'de 10 saat döngüsü olan çekirdek - L2 önbelleği arası gecikmenin 14 saat döngüsüne yükselmesine neden olan veriyolu arbitrasyonu yöntemiyle kontrol edilir. Çekirdeğin güç yönetimi bileşenleri, iki çekirdek arasında bağımsız güç ölçeklemeyle birlikte geliştirilmiş taneli termal kontrolü (grained thermal control) içerir; bu sayede güç yönetimi oldukça verimli şekilde gerçekleşir. Core işlemcileri, sistem yongada setiyle en hızlı Pentium M işlemcileri tarafından kullanılan 533 MT/s ön yüz veriyolu (FSB) yerine 667 MT/s olan bir ön yüz veriyolu kullanarak bağlantı kurar. T2050 ve T2250 işlemcileri, bilgisayar üreticileri tarafından satılan sistemlerde daha düşük olan 533 MT/s ön yüz veriyoluyla ve Intel VT-x x86 sanallaştırma desteği olmadan daha ucuz seçenek olarak da kullanılmıştır. Yonah; 945GM, 945PM, 945GT, 965PM ve 965GT sistem yonga setleri tarafından desteklenmektedir. Core Duo ve Core Solo, Socket M soketini kullanır ancak pim düzeninden ve yeni yonga seti işlevlerinden dolayı önceki Pentium M anakartlarının hiçbirisiyle uyumlu değildir. İlk raporların aksine Intel Core Duo; T2300E modeli ve bilgisayar üreticileri tarafından kullanılan özel T2050/T2150/T2250 modelleri haricinde Intel VT-x x86 sanallaştırmayı destekler (cf. the Intel Centrino Duo Mobile Technology Performance Brief 15 Haziran 2006 tarihinde Wayback Machine sitesinde arşivlendi. ve Intel's Processor Number Feature Table 8 Temmuz 2012 tarihinde Wayback Machine sitesinde arşivlendi.). Intel Pentium Dual Core işlemcileri bu özelliğe sahip değildir. Ancak bazı üreticiler (örneğin HP) bu özelliği devre dışı bırakmıştır, diğer üreticiler ise bu özelliği bir BIOS seçeneği olarak sunmuştur. T2300E, sonradan T2300'ün yerini alacak şekilde tanıtılmıştır. Bu işlemcide Intel VT-x desteği kaldırılmıştır. İlk Intel özellikleri, hatalı olarak bu işlemcinin güç tüketiminin (TDP) yarı yarıya azaldığını iddia etmiştir. Intel 64 (Intel'in x86-64 uyarlaması), Yonah tarafından desteklenmez. Ancak Intel 64 desteği, Yonah'ın halefi Core 2'nin Merom kod adlı mobil versiyonuna eklenmiştir. == Avantajlar ve dezavantajlar == Intel Core'un (Yonah) Duo (çift çekirdekli) versiyonu, önceki tek çekirdekli Intel işlemcileriyle watt başına neredeyse aynı performansı sağlayan iki tane sayısal çekirdek içerir. Bu durum, dizüstü bilgisayarlar gibi pille çalışan cihazlarda pil tamamen doluyken aynı miktarda işin yapılmasını sağlar ancak bazı durumlarda tüm bu işler daha hızlı yapılabilir. Intel Core Duo, paralel sayısal işlemlerin ve çoklu işlemlerin her iki çekirdeği de kullanabildiği durumlarda mobil cihazlar için önceden mevcut olan tek çekirdekli işlemcilere kıyasla çok daha iyi en yüksek hız sağlar. Ancak Core'de (Yonah); Dothan'a kıyasla önceden bahsedilen SSE birimi geliştirmeleri haricinde tek iş parçacıklı işlem performansı için herhangi bir geliştirme yapılmamıştır ve, x86-64 (64 bit) işletim sistemleri ve yazılımlar git gide daha yaygın hale geldikçe server odaklı Sossaman türevini sınırlayan 32 bit mimari kullanılmıştır. 2005'teki Mobile Roadmaps'e göre Intel'in Yonah projesinde, ilk başta P6 tabanlı Pentium M işlemcilerinin güç tüketimini azaltmaya odaklanılmış ve Intel Core (Yonah) ile güç tüketimini %50 oranında azaltmak amaçlanmıştır. Intel, Yonah projesinde daha düşük güç tüketimine sahip tasarımdan daha yüksek performans alınabilene kadar yüksek performanslı uygulamalar için NetBurst tabanlı Mobile (mobil) Pentium 4 işlemcilerini güç verimliliği daha az olmasına rağmen sunmaya devam etmiştir. Intel Core Duo'da tek bir çipte iki tane yüksek verimli çekirdek bulunması, çok daha iyi güç verimliliğiyle birlikte bir Mobile Pentium 4 tek çekirdekli işlemciye göre daha iyi performans alınmasını sağlar. 27 Temmuz 2006'da Intel'in x86-64 uyumluluğu sunan ve nihayetinde üretim hattında Yonah'ın yerini alan Core 2 işlemcileri piyasaya sürülmüştür. == Ayrıca bakınız == Intel Core Merom Centrino Intel Core mikroişlemcileri listesi == Kaynakça == == Dış bağlantılar == Intel Core Duo Web page 21 Şubat 2006 tarihinde Wayback Machine sitesinde arşivlendi. Intel Core Solo Web page Processor comparison table 9 Nisan 2006 tarihinde Wayback Machine sitesinde arşivlendi. Intel Core technical specifications techPowerUp! CPU Database 13 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi. Tested 28 Haziran 2006 tarihinde Wayback Machine sitesinde arşivlendi. against AMD's 64 X2 line and Intel's own Pentium M Intel Centrino Duo Mobile Technology papers 15 Eylül 2007 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 960,
+      "char_count": 7053,
+      "num_chunks": 10,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.194023",
+    "total_chunks": 10,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 544,
+      "content": "Yonah, Intel'in 65 nm üretim işlemini kullanan ilk işlemci neslinin kod adıdır; bu işlemci ailesi, önceki Banias (130 nm) / Dothan (90 nm) Pentium M mikromimarisinden temel alır. Yonah işlemcileri, Intel'in Core Solo ve Core Duo mobil mikroişlemcileri ürünleri olarak piyasaya sürülmüştür. Yonah'ta SSE3 komutları eklenerek ve, SSE ve SSE2 uygulamaları geliştirilerek SIMD performansı geliştirilmiştir; ancak daha yüksek gecikmeye sahip önbellek kullanıldığı için tam sayı performansı biraz azalmıştır. Ayrıca, Yonah'ta NX bit desteği bulunur.",
+      "char_count": 543,
+      "token_estimate": 135
+    },
+    {
+      "id": "c0001",
+      "section": "== Modeller ve marka adları ==",
+      "heading_path": "== Modeller ve marka adları ==",
+      "start_char": 544,
+      "end_char": 1544,
+      "content": "== Modeller ve marka adları == Intel Core Duo markası, az güç (25 watt'tan daha az) tüketen çift çekirdekli bir mikro işlemci serisini ifade etmekteydi; bu işlemci serisi, 55 watt güç tüketen AMD Opteron 260 ve 860 HE muadil işlemcilerden daha düşük güç tüketimine sahiptir. Core Duo serisi, Napa platformunun diğer bileşenleriyle birlikte 5 Ocak 2006'da piyasaya sürülmüştür. Bu seri, Apple Macintoch ürünlerinde kullanılan ilk Intel işlemci serisidir (ancak bazı geliştiricilere dağıtılan, seri üretimde olmayan Apple Developer Transition Kit makinelerinde Pentium 4 işlemcileri kullanılmıştır). Yonah'ın iki tane versiyonu ve \"Intel Core\" marka adına sahip olmayan bir türevi vardı: Yonah'ın Sossaman kod adlı çift çekirdekli (server) türevi, Xeon (marka) LV (düşük voltaj) adıyla 14 Mart 2006'da piyasaya sürülmüştür. Sossaman, Yonah'tan farklı olarak çift soket konfigürasyonu desteğine (AMD Quad FX'teki gibi iki işlemci kullanılarak bir anakarta dört çekirdek bağlanmasını sağlar) ve 36 bit be",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Modeller ve marka adları ==",
+      "heading_path": "== Modeller ve marka adları ==",
+      "start_char": 1344,
+      "end_char": 2061,
+      "content": "piyasaya sürülmüştür. Sossaman, Yonah'tan farklı olarak çift soket konfigürasyonu desteğine (AMD Quad FX'teki gibi iki işlemci kullanılarak bir anakarta dört çekirdek bağlanmasını sağlar) ve 36 bit bellek adresleme desteğine (PAE modu) sahiptir. Yonah'ın Yonah-1024 kod adlı tek çekirdekli versiyonu, Celeron (marka) M 400 serisi işlemcileri olarak piyasaya sürülmüştür. Bu versiyon, yarı miktarda L2 önbelleğine sahip olması ve, SpeedStep ve Intel VT-x (sanallaştırma) özelliklerini desteklememesi haricinde Core Solo markalı Yonah'la büyük oranda aynıdır. Yonah'ın başka bir çift çekirdekli versiyonu; Intel VT-x desteği bulunan Pentium Dual-Core T2060, T2080 ve T2130 mobil işlemcileri olarak piyasaya sürülmüştür.",
+      "char_count": 717,
+      "token_estimate": 179
+    },
+    {
+      "id": "c0003",
+      "section": "== Teknik özellikler ==",
+      "heading_path": "== Teknik özellikler ==",
+      "start_char": 2062,
+      "end_char": 3062,
+      "content": "== Teknik özellikler == Core Duo'da, 2 MB paylaşımlı L2 önbelleğini de içeren 151 milyon transistör bulunur. Yonah'ın yürütüm çekirdeğinde, sonradan 2.33-2.50 GHz en yüksek saat frekansına ulaşacağı tahmin edilmiş 12 aşamalı boru hattı bulunur. L2 önbelleği ile her iki yürütüm çekirdeği arasındaki bağlantı, bir veriyolu birimi kontrolcüsü tarafından ön yüz veriyolu (FSB) üzerinden önbellek uyumluluk trafiğini azaltan ancak bunun karşılığında Dotham Pentium M'de 10 saat döngüsü olan çekirdek - L2 önbelleği arası gecikmenin 14 saat döngüsüne yükselmesine neden olan veriyolu arbitrasyonu yöntemiyle kontrol edilir. Çekirdeğin güç yönetimi bileşenleri, iki çekirdek arasında bağımsız güç ölçeklemeyle birlikte geliştirilmiş taneli termal kontrolü (grained thermal control) içerir; bu sayede güç yönetimi oldukça verimli şekilde gerçekleşir. Core işlemcileri, sistem yongada setiyle en hızlı Pentium M işlemcileri tarafından kullanılan 533 MT/s ön yüz veriyolu (FSB) yerine 667 MT/s olan bir ön yüz",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0004",
+      "section": "== Teknik özellikler ==",
+      "heading_path": "== Teknik özellikler ==",
+      "start_char": 2862,
+      "end_char": 3862,
+      "content": "netimi oldukça verimli şekilde gerçekleşir. Core işlemcileri, sistem yongada setiyle en hızlı Pentium M işlemcileri tarafından kullanılan 533 MT/s ön yüz veriyolu (FSB) yerine 667 MT/s olan bir ön yüz veriyolu kullanarak bağlantı kurar. T2050 ve T2250 işlemcileri, bilgisayar üreticileri tarafından satılan sistemlerde daha düşük olan 533 MT/s ön yüz veriyoluyla ve Intel VT-x x86 sanallaştırma desteği olmadan daha ucuz seçenek olarak da kullanılmıştır. Yonah; 945GM, 945PM, 945GT, 965PM ve 965GT sistem yonga setleri tarafından desteklenmektedir. Core Duo ve Core Solo, Socket M soketini kullanır ancak pim düzeninden ve yeni yonga seti işlevlerinden dolayı önceki Pentium M anakartlarının hiçbirisiyle uyumlu değildir. İlk raporların aksine Intel Core Duo; T2300E modeli ve bilgisayar üreticileri tarafından kullanılan özel T2050/T2150/T2250 modelleri haricinde Intel VT-x x86 sanallaştırmayı destekler (cf. the Intel Centrino Duo Mobile Technology Performance Brief 15 Haziran 2006 tarihinde Wayb",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0005",
+      "section": "== Teknik özellikler ==",
+      "heading_path": "== Teknik özellikler ==",
+      "start_char": 3662,
+      "end_char": 4595,
+      "content": "tarafından kullanılan özel T2050/T2150/T2250 modelleri haricinde Intel VT-x x86 sanallaştırmayı destekler (cf. the Intel Centrino Duo Mobile Technology Performance Brief 15 Haziran 2006 tarihinde Wayback Machine sitesinde arşivlendi. ve Intel's Processor Number Feature Table 8 Temmuz 2012 tarihinde Wayback Machine sitesinde arşivlendi.). Intel Pentium Dual Core işlemcileri bu özelliğe sahip değildir. Ancak bazı üreticiler (örneğin HP) bu özelliği devre dışı bırakmıştır, diğer üreticiler ise bu özelliği bir BIOS seçeneği olarak sunmuştur. T2300E, sonradan T2300'ün yerini alacak şekilde tanıtılmıştır. Bu işlemcide Intel VT-x desteği kaldırılmıştır. İlk Intel özellikleri, hatalı olarak bu işlemcinin güç tüketiminin (TDP) yarı yarıya azaldığını iddia etmiştir. Intel 64 (Intel'in x86-64 uyarlaması), Yonah tarafından desteklenmez. Ancak Intel 64 desteği, Yonah'ın halefi Core 2'nin Merom kod adlı mobil versiyonuna eklenmiştir.",
+      "char_count": 933,
+      "token_estimate": 233
+    },
+    {
+      "id": "c0006",
+      "section": "== Avantajlar ve dezavantajlar ==",
+      "heading_path": "== Avantajlar ve dezavantajlar ==",
+      "start_char": 4596,
+      "end_char": 5596,
+      "content": "== Avantajlar ve dezavantajlar == Intel Core'un (Yonah) Duo (çift çekirdekli) versiyonu, önceki tek çekirdekli Intel işlemcileriyle watt başına neredeyse aynı performansı sağlayan iki tane sayısal çekirdek içerir. Bu durum, dizüstü bilgisayarlar gibi pille çalışan cihazlarda pil tamamen doluyken aynı miktarda işin yapılmasını sağlar ancak bazı durumlarda tüm bu işler daha hızlı yapılabilir. Intel Core Duo, paralel sayısal işlemlerin ve çoklu işlemlerin her iki çekirdeği de kullanabildiği durumlarda mobil cihazlar için önceden mevcut olan tek çekirdekli işlemcilere kıyasla çok daha iyi en yüksek hız sağlar. Ancak Core'de (Yonah); Dothan'a kıyasla önceden bahsedilen SSE birimi geliştirmeleri haricinde tek iş parçacıklı işlem performansı için herhangi bir geliştirme yapılmamıştır ve, x86-64 (64 bit) işletim sistemleri ve yazılımlar git gide daha yaygın hale geldikçe server odaklı Sossaman türevini sınırlayan 32 bit mimari kullanılmıştır. 2005'teki Mobile Roadmaps'e göre Intel'in Yonah pro",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0007",
+      "section": "== Avantajlar ve dezavantajlar ==",
+      "heading_path": "== Avantajlar ve dezavantajlar ==",
+      "start_char": 5396,
+      "end_char": 6382,
+      "content": "64 bit) işletim sistemleri ve yazılımlar git gide daha yaygın hale geldikçe server odaklı Sossaman türevini sınırlayan 32 bit mimari kullanılmıştır. 2005'teki Mobile Roadmaps'e göre Intel'in Yonah projesinde, ilk başta P6 tabanlı Pentium M işlemcilerinin güç tüketimini azaltmaya odaklanılmış ve Intel Core (Yonah) ile güç tüketimini %50 oranında azaltmak amaçlanmıştır. Intel, Yonah projesinde daha düşük güç tüketimine sahip tasarımdan daha yüksek performans alınabilene kadar yüksek performanslı uygulamalar için NetBurst tabanlı Mobile (mobil) Pentium 4 işlemcilerini güç verimliliği daha az olmasına rağmen sunmaya devam etmiştir. Intel Core Duo'da tek bir çipte iki tane yüksek verimli çekirdek bulunması, çok daha iyi güç verimliliğiyle birlikte bir Mobile Pentium 4 tek çekirdekli işlemciye göre daha iyi performans alınmasını sağlar. 27 Temmuz 2006'da Intel'in x86-64 uyumluluğu sunan ve nihayetinde üretim hattında Yonah'ın yerini alan Core 2 işlemcileri piyasaya sürülmüştür.",
+      "char_count": 986,
+      "token_estimate": 246
+    },
+    {
+      "id": "c0008",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 6383,
+      "end_char": 6466,
+      "content": "== Ayrıca bakınız == Intel Core Merom Centrino Intel Core mikroişlemcileri listesi",
+      "char_count": 82,
+      "token_estimate": 20
+    },
+    {
+      "id": "c0009",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 6481,
+      "end_char": 7053,
+      "content": "== Dış bağlantılar == Intel Core Duo Web page 21 Şubat 2006 tarihinde Wayback Machine sitesinde arşivlendi. Intel Core Solo Web page Processor comparison table 9 Nisan 2006 tarihinde Wayback Machine sitesinde arşivlendi. Intel Core technical specifications techPowerUp! CPU Database 13 Kasım 2015 tarihinde Wayback Machine sitesinde arşivlendi. Tested 28 Haziran 2006 tarihinde Wayback Machine sitesinde arşivlendi. against AMD's 64 X2 line and Intel's own Pentium M Intel Centrino Duo Mobile Technology papers 15 Eylül 2007 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 572,
+      "token_estimate": 143
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Intel Core Duo serisi, Napa platformunun diğer bileşenleriyle birlikte ne zaman piyasaya sürülmüştür?",
+        "answer": "Intel Core Duo serisi, Napa platformunun diğer bileşenleriyle birlikte 5 Ocak 2006'da piyasaya sürülmüştür.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Başlangıçta Core Solo ve Core Duo olarak piyasaya sürülen Yonah işlemcisi, başka hangi Intel ürün serilerine ayrılmıştır ve bu türevlerin bazı temel farklılaştıran özellikleri nelerdi?",
+        "answer": "Yonah işlemcisi, başlangıçta Intel'in Core Solo ve Core Duo mobil mikroişlemcileri olarak piyasaya sürülmüştür. Daha sonra, Yonah'ın Sossaman kod adlı çift çekirdekli sunucu türevi, Xeon LV markası altında piyasaya sürülmüştür. Sossaman, çift soket konfigürasyonu ve 36 bit bellek adresleme desteği (PAE modu) ile öne çıkmıştır. Ayrıca, Yonah'ın tek çekirdekli versiyonu olan Yonah-1024, Celeron M 400 serisi işlemcileri olarak piyasaya sürülmüştür; bu versiyon, yarı miktarda L2 önbelleğe sahipti ve SpeedStep ile Intel VT-x özelliklerini desteklemiyordu. Yonah'ın başka bir çift çekirdekli versiyonu da Intel VT-x desteği bulunan Pentium Dual-Core T2060, T2080 ve T2130 mobil işlemcileri olarak piyasaya sürülmüştür.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

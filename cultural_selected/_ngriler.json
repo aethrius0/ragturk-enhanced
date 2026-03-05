@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "ngriler_f0793782",
+    "title": "İngriler",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0ngriler",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:17:43.561189",
+    "content": "İngriler (Rusça: Ижо́ра; İngrice: Ižoralaizet), Rusya'nın kuzeybatısında Sankt Petersburg'un güneyinde yer alan İngriya bölgesinde yaşayan Baltık-Fin halkıdır. Narova Nehri ile Neva Nehri arasında hala küçük sayılarda İngir yaşamaktadır. == Tarihçe == İngriler, 11. yüzyıl civarında Karelya'dan Batı'ya doğru göçtüğü tahmin edilmektedir. Novgorod Cumhuriyeti hakimiyeti altına girdikten sonra 1478 yılında Moskova Knezliği'nin Novgorod Cumhuriyeti'ni ele geçirmesiyle İngrilerin bir kısmı Doğu'ya göçtürüldü. 1703 yılında St. Peterburg'un kurulmasında İngrilerin katkıları büyüktü. Asimilasyon ve savaşlarla (Leningrad Kuşatması gibi) birlikte bölgede azınlık durumuna düştüler. P. von Köppen'ın kayıtlarına göre 1848'de 17.800 İngri vardı. 1926 yılında Rusya SFSR'de 26.137 İngri vardı. Ancak 1959 nüfus sayımında Sovyetler Birliği'nde sadece 1.100 İngri kayıtlara geçmişti. 1989 yılında 302'si İngrice konuşabilen 820 İngri kayıtlara geçti. 2002 Rusya Nüfus sayımına göre Leningrad Oblastı'nda 327 İngri vardı. Ayrıca 2001 Ukrayna sayımına göre Ukrayna'da 812 ve Estonya'da 358 İngri vardı. == Dil == Karelceye yakın olan İngirce, esas olarak eski kuşak İngirler tarafından kullanılmakta. Fince, Ludikçe, Karelce ve Vepsçeyle ile birlikte Ural dillerinin Kuzey Baltık-Fin dilleri arasında yer alır. 1932-1937 yılları arasında Soykinski yarımadasındaki okullarda ve Ust-Luga bölgesinde Latin alfabesi temelli İngirce eğitimi vardı. 1936 yılında gramer dahil olmak üzere birçok ders kitabı yayımlandı fakat 1937'de İngir yazı dili kaldırıldı. == Din == İngriler genellikle Doğu Ortadoksu iken, bazı Hristiyanlık öncesi gelenekleri devam ettirenler de bulunmaktadır. == Önemli İngirler == Larin Paraske, sözlü şair == Galeri == == Dipnot == == Kaynakça == == Dış bağlantılar == Izhorians30 Nisan 2020 tarihinde Wayback Machine sitesinde arşivlendi. in the Red Book of the Peoples of the Russian Empire V. Cherniavskij, \"Izoran keel (Ittseopastaja)/Ижорский язык (Самоучитель) 19 Kasım 2017 tarihinde Wayback Machine sitesinde arşivlendi. (Rusça) Estonian National Museum 9 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi. (Estonca) Virtual ingrian 26 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 291,
+      "char_count": 2221,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.425644",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 238,
+      "content": "İngriler (Rusça: Ижо́ра; İngrice: Ižoralaizet), Rusya'nın kuzeybatısında Sankt Petersburg'un güneyinde yer alan İngriya bölgesinde yaşayan Baltık-Fin halkıdır. Narova Nehri ile Neva Nehri arasında hala küçük sayılarda İngir yaşamaktadır.",
+      "char_count": 237,
+      "token_estimate": 59
+    },
+    {
+      "id": "c0001",
+      "section": "== Tarihçe ==",
+      "heading_path": "== Tarihçe ==",
+      "start_char": 238,
+      "end_char": 1093,
+      "content": "== Tarihçe == İngriler, 11. yüzyıl civarında Karelya'dan Batı'ya doğru göçtüğü tahmin edilmektedir. Novgorod Cumhuriyeti hakimiyeti altına girdikten sonra 1478 yılında Moskova Knezliği'nin Novgorod Cumhuriyeti'ni ele geçirmesiyle İngrilerin bir kısmı Doğu'ya göçtürüldü. 1703 yılında St. Peterburg'un kurulmasında İngrilerin katkıları büyüktü. Asimilasyon ve savaşlarla (Leningrad Kuşatması gibi) birlikte bölgede azınlık durumuna düştüler. P. von Köppen'ın kayıtlarına göre 1848'de 17.800 İngri vardı. 1926 yılında Rusya SFSR'de 26.137 İngri vardı. Ancak 1959 nüfus sayımında Sovyetler Birliği'nde sadece 1.100 İngri kayıtlara geçmişti. 1989 yılında 302'si İngrice konuşabilen 820 İngri kayıtlara geçti. 2002 Rusya Nüfus sayımına göre Leningrad Oblastı'nda 327 İngri vardı. Ayrıca 2001 Ukrayna sayımına göre Ukrayna'da 812 ve Estonya'da 358 İngri vardı.",
+      "char_count": 854,
+      "token_estimate": 213
+    },
+    {
+      "id": "c0002",
+      "section": "== Dil ==",
+      "heading_path": "== Dil ==",
+      "start_char": 1093,
+      "end_char": 1543,
+      "content": "== Dil == Karelceye yakın olan İngirce, esas olarak eski kuşak İngirler tarafından kullanılmakta. Fince, Ludikçe, Karelce ve Vepsçeyle ile birlikte Ural dillerinin Kuzey Baltık-Fin dilleri arasında yer alır. 1932-1937 yılları arasında Soykinski yarımadasındaki okullarda ve Ust-Luga bölgesinde Latin alfabesi temelli İngirce eğitimi vardı. 1936 yılında gramer dahil olmak üzere birçok ders kitabı yayımlandı fakat 1937'de İngir yazı dili kaldırıldı.",
+      "char_count": 449,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0003",
+      "section": "== Din ==",
+      "heading_path": "== Din ==",
+      "start_char": 1543,
+      "end_char": 1666,
+      "content": "== Din == İngriler genellikle Doğu Ortadoksu iken, bazı Hristiyanlık öncesi gelenekleri devam ettirenler de bulunmaktadır.",
+      "char_count": 122,
+      "token_estimate": 30
+    },
+    {
+      "id": "c0004",
+      "section": "== Önemli İngirler ==",
+      "heading_path": "== Önemli İngirler ==",
+      "start_char": 1666,
+      "end_char": 1714,
+      "content": "== Önemli İngirler == Larin Paraske, sözlü şair",
+      "char_count": 47,
+      "token_estimate": 11
+    },
+    {
+      "id": "c0005",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1755,
+      "end_char": 2221,
+      "content": "== Dış bağlantılar == Izhorians30 Nisan 2020 tarihinde Wayback Machine sitesinde arşivlendi. in the Red Book of the Peoples of the Russian Empire V. Cherniavskij, \"Izoran keel (Ittseopastaja)/Ижорский язык (Самоучитель) 19 Kasım 2017 tarihinde Wayback Machine sitesinde arşivlendi. (Rusça) Estonian National Museum 9 Temmuz 2011 tarihinde Wayback Machine sitesinde arşivlendi. (Estonca) Virtual ingrian 26 Haziran 2022 tarihinde Wayback Machine sitesinde arşivlendi.",
+      "char_count": 466,
+      "token_estimate": 116
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "St. Peterburg'un kuruluşunda İngrilerin katkıları hangi yılda gerçekleşti?",
+        "answer": "1703 yılında.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "İngrilerin tarih boyunca yaşadığı göçler, asimilasyonlar ve nüfus düşüşleri, günümüzdeki coğrafi dağılımlarını ve küçük sayılarda varlıklarını nasıl açıklıyor?",
+        "answer": "İngriler, 11. yüzyıl civarında Karelya'dan Batı'ya göç etmiş, 1478'de Moskova Knezliği tarafından Novgorod Cumhuriyeti'nin ele geçirilmesiyle bir kısmı Doğu'ya göç ettirilmiştir. Asimilasyon ve Leningrad Kuşatması gibi savaşlarla nüfusları ciddi şekilde azalmış, örneğin 1926'daki 26.137 kişiden 1959'da 1.100 kişiye düşmüştür. Bu tarihi süreçler, onların Rusya'nın kuzeybatısındaki İngriya bölgesinde, Narova ve Neva nehirleri arasında hala küçük sayılarda yaşamalarını ve Ukrayna ile Estonya gibi farklı coğrafyalarda da varlık göstermelerini açıklamaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

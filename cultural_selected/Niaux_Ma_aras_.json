@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "niauxmaaras_eedc743d",
+    "title": "Niaux Mağarası",
+    "url": "https://tr.wikipedia.org/wiki/Niaux_Ma%C4%9Faras%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:47:18.031365",
+    "content": "Niaux Mağarası (Fransızca: Grotte de Niaux) Fransa'nın güneybatısındaki Niaux komününde, Cap de la Lesse de Bialac tepesindeki Sabart Mağarası ve Lombrives Mağarası'nı içeren daha geniş bir jeolojik sistemin parçası olarak Ariège département'ta yer almaktadır. Niaux mağarasının sistemi karmaşıktır ve toplam uzunluğu 14 km'den (8,70 mi) fazla olan yer altı geçitleri ve odacıklarına sahiptir. Paleo-insan varlığının belgelenmiş bir geçmişine sahip bir arkeolojik alan olan Niaux, 17.000 ila 11.000 yıl öncesine ait klasik Magdalen dönemine özgü siyah çerçeveli bir tarzda yapılmış, dikkatlice çizilmiş ve canlı duvar resimlerinden oluşan çok sayıda farklı alan ve galeri içerir. == Coğrafya == Vicdessos vadisindeki Ariège'de, İnek Mağarası'nın Magdalenian habitatına bakan ve Tarascon-sur-Ariège havzasının yakınında yer almaktadır. == Tarihi == Mağara, içinde bulunan birçok yazıttan da anlaşılacağı üzere, 17. yüzyıldan itibaren düzenli olarak ziyaret edilmiştir. Tarihçi ve hidrolog, güney Fransa'daki mağara araştırmalarıyla tanınan, Félix Garrigou 1869'da bölgeyi ziyaret etti. Yerin gerçek kimliği hakkında belgelenmiş bir şüpheye (günlüğündeki notlara) atfedilen ilk kişidir. Ancak Komutan Molard ve oğulları Salon Noir galerisini keşfedip mağaranın planını yayınladıktan sonra Niaux, 1869'da uzmanların dikkatini çekti. Bir yıl sonra Henri Breuil ve Emile Cartailhac tarafından araştırıldı ve tam anlamıyla kabul gördü. 1925'te J. Mandeman siyah resimlerin olduğu başka bir galeri buldu ve ona Cartailhac Galerisi adını verdi.1971'de Jean Clottes ve Robert Simonnet tarafından büyük bir bilimsel inceleme yapıldı ve 1980 ve 1981'de bilim adamlarından oluşan bir ekip mağaradaki tüm resimlerin bir envanterini çıkardı. == Alan == Tarascon havzasındaki Vicdessos komününde dik bir vadide yer alan Niaux Mağarası, istisnai tarih öncesi resimlerin hala halk tarafından görülebildiği birkaç mağara sisteminden biridir. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 258,
+      "char_count": 1938,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:57.656295",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 680,
+      "content": "Niaux Mağarası (Fransızca: Grotte de Niaux) Fransa'nın güneybatısındaki Niaux komününde, Cap de la Lesse de Bialac tepesindeki Sabart Mağarası ve Lombrives Mağarası'nı içeren daha geniş bir jeolojik sistemin parçası olarak Ariège département'ta yer almaktadır. Niaux mağarasının sistemi karmaşıktır ve toplam uzunluğu 14 km'den (8,70 mi) fazla olan yer altı geçitleri ve odacıklarına sahiptir. Paleo-insan varlığının belgelenmiş bir geçmişine sahip bir arkeolojik alan olan Niaux, 17.000 ila 11.000 yıl öncesine ait klasik Magdalen dönemine özgü siyah çerçeveli bir tarzda yapılmış, dikkatlice çizilmiş ve canlı duvar resimlerinden oluşan çok sayıda farklı alan ve galeri içerir.",
+      "char_count": 679,
+      "token_estimate": 169
+    },
+    {
+      "id": "c0001",
+      "section": "== Coğrafya ==",
+      "heading_path": "== Coğrafya ==",
+      "start_char": 680,
+      "end_char": 835,
+      "content": "== Coğrafya == Vicdessos vadisindeki Ariège'de, İnek Mağarası'nın Magdalenian habitatına bakan ve Tarascon-sur-Ariège havzasının yakınında yer almaktadır.",
+      "char_count": 154,
+      "token_estimate": 38
+    },
+    {
+      "id": "c0002",
+      "section": "== Tarihi ==",
+      "heading_path": "== Tarihi ==",
+      "start_char": 835,
+      "end_char": 1728,
+      "content": "== Tarihi == Mağara, içinde bulunan birçok yazıttan da anlaşılacağı üzere, 17. yüzyıldan itibaren düzenli olarak ziyaret edilmiştir. Tarihçi ve hidrolog, güney Fransa'daki mağara araştırmalarıyla tanınan, Félix Garrigou 1869'da bölgeyi ziyaret etti. Yerin gerçek kimliği hakkında belgelenmiş bir şüpheye (günlüğündeki notlara) atfedilen ilk kişidir. Ancak Komutan Molard ve oğulları Salon Noir galerisini keşfedip mağaranın planını yayınladıktan sonra Niaux, 1869'da uzmanların dikkatini çekti. Bir yıl sonra Henri Breuil ve Emile Cartailhac tarafından araştırıldı ve tam anlamıyla kabul gördü. 1925'te J. Mandeman siyah resimlerin olduğu başka bir galeri buldu ve ona Cartailhac Galerisi adını verdi.1971'de Jean Clottes ve Robert Simonnet tarafından büyük bir bilimsel inceleme yapıldı ve 1980 ve 1981'de bilim adamlarından oluşan bir ekip mağaradaki tüm resimlerin bir envanterini çıkardı.",
+      "char_count": 892,
+      "token_estimate": 223
+    },
+    {
+      "id": "c0003",
+      "section": "== Alan ==",
+      "heading_path": "== Alan ==",
+      "start_char": 1728,
+      "end_char": 1924,
+      "content": "== Alan == Tarascon havzasındaki Vicdessos komününde dik bir vadide yer alan Niaux Mağarası, istisnai tarih öncesi resimlerin hala halk tarafından görülebildiği birkaç mağara sisteminden biridir.",
+      "char_count": 195,
+      "token_estimate": 48
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Félix Garrigou bölgeyi ne zaman ziyaret etti?",
+        "answer": "Félix Garrigou, 1869'da bölgeyi ziyaret etti.",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Niaux Mağarası'nın coğrafi konumu ve Paleolitik döneme ait sanat eserleri göz önüne alındığında, mağara modern zamanlarda nasıl bilimsel olarak tanınmış ve ayrıntılı bir şekilde incelenmiştir?",
+        "answer": "Mağara, 17. yüzyıldan itibaren ziyaret edilmiş olsa da, gerçek kimliği hakkında belgeli şüpheler vardı. Komutan Molard ve oğullarının 1869'da Salon Noir galerisini keşfetmesi ve mağaranın planını yayınlamasıyla uzmanların dikkatini çekti. Bir yıl sonra Henri Breuil ve Emile Cartailhac tarafından yapılan araştırmalar tam anlamıyla kabul görmesini sağladı. Daha sonra, 1925'te J. Mandeman tarafından başka bir siyah resimli galeri (Cartailhac Galerisi) keşfedildi. Jean Clottes ve Robert Simonnet 1971'de önemli bir bilimsel inceleme gerçekleştirdi ve 1980-1981 yılları arasında bir bilim ekibi mağaradaki tüm resimlerin envanterini çıkardı. Bu süreç, mağaranın Ariège departmanındaki Vicdessos vadisinde yer alması ve 17.000 ila 11.000 yıl öncesine ait klasik Magdalen dönemi duvar resimlerine ev sahipliği yapması bağlamında gerçekleşti.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

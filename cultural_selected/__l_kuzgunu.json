@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "lkuzgunu_18b65cd0",
+    "title": "Çöl kuzgunu",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6l_kuzgunu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:11.915912",
+    "content": "Çöl kuzgunu (Corvus ruficollis), kargagiller (Corvidae) familyasından kuzguna benzer bir kuş türü. == Fiziksel özellikleri == Çöl kuzgunu, yaklaşık 52–56 cm uzunluğunda, leş kargası kadar iri olmayan bir türdür. Leş kargasıyla benzer dağılım alanlarına sahiptir ancak, gagası onunki kadar büyük değildir ve kanatlar biraz daha sivridir. Baş ve boğaz, belirgin olarak İngilizce adını aldığı, kahvemsi-siyah, tüylerin geri kalanı metalik mor-siyah, mavi ya da morumsu mavidir. Bu türün gerçekte siyah olan tüyleri sık sık solarak tamamıyla kahverengimisi siyaha döner ve kuş tüy dökme zamanında tamamen kahverengi olarak görülür. Ayaklar, bacaklar ve gaga siyah renktedir. == Beslenme == Besin, leşler, yılanlar, çekirgeler ve diğer Böcekler, kıyısal bölgelerdeki balıklar, çuvallardan çalınan tohumlar, hurmalar ve bunun gibi diğer meyveler olabilir. == Üreme == Yuvalar leş kargasınınkine oldukça benzer ve ağaçların üzerinde, uçurumlarda veya eski, harap binaların içinde bulunabilir. Yuvalarında genellikle 4 ya da 5 yumurta bulunur ve 20-22 gün kuluçkaya yatarlar. Genç kuşlar genellikle yuvadan 37-38 gün sonra ayrılırlar, 42-45 günde tam olarak uçarlar. == Ötüşü == Sesleri bayağı kuzguna oldukça benzer, \"karr-karr-karr\" şeklindedir. Uçuş sırasında ise \"kuerk-kuerk\" şeklindedir. == Dağılımı == Kuzey Afrika, Kenya'nın aşağısı, Arabistan yarımadası ve Orta Doğu'nun yukarısı ve güney İran'a kadar olan bölgelerde geniş dağılım alanına sahiptir. Çöl iklimindeki vahalar ve palmiyeler yaşam bölgelerini oluşturur. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 209,
+      "char_count": 1532,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:40.641263",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 99,
+      "content": "Çöl kuzgunu (Corvus ruficollis), kargagiller (Corvidae) familyasından kuzguna benzer bir kuş türü.",
+      "char_count": 98,
+      "token_estimate": 24
+    },
+    {
+      "id": "c0001",
+      "section": "== Fiziksel özellikleri ==",
+      "heading_path": "== Fiziksel özellikleri ==",
+      "start_char": 99,
+      "end_char": 671,
+      "content": "== Fiziksel özellikleri == Çöl kuzgunu, yaklaşık 52–56 cm uzunluğunda, leş kargası kadar iri olmayan bir türdür. Leş kargasıyla benzer dağılım alanlarına sahiptir ancak, gagası onunki kadar büyük değildir ve kanatlar biraz daha sivridir. Baş ve boğaz, belirgin olarak İngilizce adını aldığı, kahvemsi-siyah, tüylerin geri kalanı metalik mor-siyah, mavi ya da morumsu mavidir. Bu türün gerçekte siyah olan tüyleri sık sık solarak tamamıyla kahverengimisi siyaha döner ve kuş tüy dökme zamanında tamamen kahverengi olarak görülür. Ayaklar, bacaklar ve gaga siyah renktedir.",
+      "char_count": 571,
+      "token_estimate": 142
+    },
+    {
+      "id": "c0002",
+      "section": "== Beslenme ==",
+      "heading_path": "== Beslenme ==",
+      "start_char": 671,
+      "end_char": 850,
+      "content": "== Beslenme == Besin, leşler, yılanlar, çekirgeler ve diğer Böcekler, kıyısal bölgelerdeki balıklar, çuvallardan çalınan tohumlar, hurmalar ve bunun gibi diğer meyveler olabilir.",
+      "char_count": 178,
+      "token_estimate": 44
+    },
+    {
+      "id": "c0003",
+      "section": "== Üreme ==",
+      "heading_path": "== Üreme ==",
+      "start_char": 850,
+      "end_char": 1159,
+      "content": "== Üreme == Yuvalar leş kargasınınkine oldukça benzer ve ağaçların üzerinde, uçurumlarda veya eski, harap binaların içinde bulunabilir. Yuvalarında genellikle 4 ya da 5 yumurta bulunur ve 20-22 gün kuluçkaya yatarlar. Genç kuşlar genellikle yuvadan 37-38 gün sonra ayrılırlar, 42-45 günde tam olarak uçarlar.",
+      "char_count": 308,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0004",
+      "section": "== Ötüşü ==",
+      "heading_path": "== Ötüşü ==",
+      "start_char": 1159,
+      "end_char": 1286,
+      "content": "== Ötüşü == Sesleri bayağı kuzguna oldukça benzer, \"karr-karr-karr\" şeklindedir. Uçuş sırasında ise \"kuerk-kuerk\" şeklindedir.",
+      "char_count": 126,
+      "token_estimate": 31
+    },
+    {
+      "id": "c0005",
+      "section": "== Dağılımı ==",
+      "heading_path": "== Dağılımı ==",
+      "start_char": 1286,
+      "end_char": 1518,
+      "content": "== Dağılımı == Kuzey Afrika, Kenya'nın aşağısı, Arabistan yarımadası ve Orta Doğu'nun yukarısı ve güney İran'a kadar olan bölgelerde geniş dağılım alanına sahiptir. Çöl iklimindeki vahalar ve palmiyeler yaşam bölgelerini oluşturur.",
+      "char_count": 231,
+      "token_estimate": 57
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Çöl kuzgununun yaklaşık uzunluğu nedir?",
+        "answer": "Yaklaşık 52–56 cm.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Çöl kuzgunu nedir ve fiziksel özellikleri, özellikle boyutu ve gagası, leş kargasıyla nasıl karşılaştırılır?",
+        "answer": "Çöl kuzgunu (Corvus ruficollis), kargagiller familyasından kuzguna benzer bir kuş türüdür. Yaklaşık 52–56 cm uzunluğundadır, bu da onu leş kargasından daha küçük yapar. Leş kargasıyla benzer dağılım alanlarına sahip olsa da, gagası leş kargasınınki kadar büyük değildir ve kanatları biraz daha sivridir. Baş ve boğazı kahvemsi-siyahtır, tüylerin geri kalanı ise metalik mor-siyah, mavi veya morumsu mavidir, ancak zamanla kahverengimsi siyaha dönebilir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}
