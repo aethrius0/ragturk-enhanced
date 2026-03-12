@@ -1,0 +1,113 @@
+{
+  "article": {
+    "id": "ejderhaccegkadas_a6813365",
+    "title": "Ejderha Cüce Gökadası",
+    "url": "https://tr.wikipedia.org/wiki/Ejderha_C%C3%BCce_G%C3%B6kadas%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:31:17.862063",
+    "content": "Cüce Ejderha Gökadası Ejderha takımyıldızı yönünde yaklaşık olarak 260.000 ışık yılı uzaklıkta bulunan bir cüce küremsi gökadadır. Lowell Gözlemevi'nden Albert Wilson tarafından 1954 yılında keşfedilmiştir. Yerel Grup'un bir parçası ve Samanyolu'nun uydu gökadasıdır. Gökada düzleminin 34.6° yukarısında yer almaktadır. == Özellikler == 1964 yılında Paul W. Hodge, yıldız dağılımını inceledi ve elipsitesini 0,29 ± 0,04 olarak buldu. Son yıllarda yapılan çalışmalar gökadanın potansiyel olarak karanlık maddeyi büyük miktarlarda tutabildiğini göstermiştir. -8.6 mutlak parlaklığa sahip olan gökadanın aydınlatma gücü sadece 2×105 L☉ dir. Gökada içerisinde pek çok kırmızı dev (RGB) yıldız; beş karbon yıldızı ve dört muhtemel asimptotik dev (AGB) yıldız tespit edilmiştir. == RR Lyrae == 1961 yılında, Walter Baade ve Henrietta H. Swope gökada üzerinde çalışmalar yaptılar ve 138 kümenin merkezinde 260'tan fazla değişen yıldız tespit edildi, fakat bunların sadece beş tanesi RR Lyrae yıldızıdır. == Metallik == Gökada içinde öncelikle yaşlı yıldızlar ve önemsiz miktarda yıldızlararası madde vardır. %75 ile %90 oranında yıldızları 10 milyar yıldan fazla bir süre önce oluşmuş ve 2 ile 3 milyar yıl önce küçük bir patlamayla düşük bir oranda devam etmiştir. Tek bir Gauss dağılımı ile ortalama metallik [Fe/H] = −1.74 dex, standart sapma (sigma/σ) ile 0.24 dex ve metal-zengin yıldızların oluşturduğu küçük bir kuyruğu bulunur. == Kaynakça == == Dış bağlantılar == WikiSky'da Cüce Ejderha: DSS2, SDSS, GALEX, IRAS, Hidrojen α, X-Ray, Astrofoto, Gök Haritası",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 223,
+      "char_count": 1558,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:49.049390",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 320,
+      "content": "Cüce Ejderha Gökadası Ejderha takımyıldızı yönünde yaklaşık olarak 260.000 ışık yılı uzaklıkta bulunan bir cüce küremsi gökadadır. Lowell Gözlemevi'nden Albert Wilson tarafından 1954 yılında keşfedilmiştir. Yerel Grup'un bir parçası ve Samanyolu'nun uydu gökadasıdır. Gökada düzleminin 34.6° yukarısında yer almaktadır.",
+      "char_count": 319,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0001",
+      "section": "== Özellikler ==",
+      "heading_path": "== Özellikler ==",
+      "start_char": 320,
+      "end_char": 773,
+      "content": "== Özellikler == 1964 yılında Paul W. Hodge, yıldız dağılımını inceledi ve elipsitesini 0,29 ± 0,04 olarak buldu. Son yıllarda yapılan çalışmalar gökadanın potansiyel olarak karanlık maddeyi büyük miktarlarda tutabildiğini göstermiştir. -8.6 mutlak parlaklığa sahip olan gökadanın aydınlatma gücü sadece 2×105 L☉ dir. Gökada içerisinde pek çok kırmızı dev (RGB) yıldız; beş karbon yıldızı ve dört muhtemel asimptotik dev (AGB) yıldız tespit edilmiştir.",
+      "char_count": 452,
+      "token_estimate": 113
+    },
+    {
+      "id": "c0002",
+      "section": "== RR Lyrae ==",
+      "heading_path": "== RR Lyrae ==",
+      "start_char": 773,
+      "end_char": 997,
+      "content": "== RR Lyrae == 1961 yılında, Walter Baade ve Henrietta H. Swope gökada üzerinde çalışmalar yaptılar ve 138 kümenin merkezinde 260'tan fazla değişen yıldız tespit edildi, fakat bunların sadece beş tanesi RR Lyrae yıldızıdır.",
+      "char_count": 223,
+      "token_estimate": 55
+    },
+    {
+      "id": "c0003",
+      "section": "== Metallik ==",
+      "heading_path": "== Metallik ==",
+      "start_char": 997,
+      "end_char": 1311,
+      "content": "== Metallik == Gökada içinde öncelikle yaşlı yıldızlar ve önemsiz miktarda yıldızlararası madde vardır. %75 ile %90 oranında yıldızları 10 milyar yıldan fazla bir süre önce oluşmuş ve 2 ile 3 milyar yıl önce küçük bir patlamayla düşük bir oranda devam etmiştir. Tek bir Gauss dağılımı ile ortalama metallik [Fe/H]",
+      "char_count": 313,
+      "token_estimate": 78
+    },
+    {
+      "id": "c0004",
+      "section": "= −1.74 dex, standart sapma (sigma/σ) ile 0.24 dex ve metal-zengin yıldızların oluşturduğu küçük bir kuyruğu bulunur. = =",
+      "heading_path": "= −1.74 dex, standart sapma (sigma/σ) ile 0.24 dex ve metal-zengin yıldızların oluşturduğu küçük bir kuyruğu bulunur. = =",
+      "start_char": 1311,
+      "end_char": 1441,
+      "content": "= −1.74 dex, standart sapma (sigma/σ) ile 0.24 dex ve metal-zengin yıldızların oluşturduğu küçük bir kuyruğu bulunur. == Kaynakça",
+      "char_count": 129,
+      "token_estimate": 32
+    },
+    {
+      "id": "c0005",
+      "section": "== == Dış bağlantılar ==",
+      "heading_path": "== == Dış bağlantılar ==",
+      "start_char": 1441,
+      "end_char": 1558,
+      "content": "== == Dış bağlantılar == WikiSky'da Cüce Ejderha: DSS2, SDSS, GALEX, IRAS, Hidrojen α, X-Ray, Astrofoto, Gök Haritası",
+      "char_count": 117,
+      "token_estimate": 29
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Paul W. Hodge, 1964 yılında gökadanın elipsitesini ne olarak tespit etmiştir?",
+        "answer": "0,29 ± 0,04",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Cüce Ejderha Gökadası'nı hem türü hem de gözlemlenen özellikleri açısından dikkat çekici kılan nedir?",
+        "answer": "Cüce Ejderha Gökadası, Samanyolu'nun bir uydu gökadası ve Yerel Grup'un bir parçası olan cüce küremsi bir gökadadır. Düşük aydınlatma gücüne (2×10^5 L☉) sahip olmasına rağmen, önemli miktarda karanlık madde barındırma potansiyeli ve kırmızı dev, karbon yıldızları gibi belirli bir yıldız popülasyonuna sahip olması onu dikkat çekici kılar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

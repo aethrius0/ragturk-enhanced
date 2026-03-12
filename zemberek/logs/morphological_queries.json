@@ -1,0 +1,361 @@
+{
+  "motor": "Zemberek + NLTK NER",
+  "kisa_sorgu_sayisi": 5028,
+  "uzun_morfolojik_sayisi": 544,
+  "en_uzun_token": 57,
+  "en_uzun_dosya": "Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shir.json",
+  "en_uzun_sorgu": "Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai. başlığının \"O Gün Gördüğümüz Çiçeğin Adını Hala Bilmiyoruz.\" anlamına gelmesi ve hikayenin ana konusu olan, ölen bir arkadaşın dileğiyle dağılmış çocukluk arkadaşlarını bir araya getirme çabası göz önüne alındığında, bu eserin genel olarak ne tür bir temayı işlediği söylenebilir ve bu tema hangi duygusal bağlantıları vurgular?",
+  "ort_token_uzun": 29.8,
+  "uzun_sorgular": [
+    {
+      "file": "Ano_Hi_Mita_Hana_no_Namae_o_Bokutachi_wa_Mada_Shir.json",
+      "query_id": "q1",
+      "query": "Ano Hi Mita Hana no Namae o Bokutachi wa Mada Shiranai. başlığının \"O Gün Gördüğümüz Çiçeğin Adını Hala Bilmiyoruz.\" anlamına gelmesi ve hikayenin ana konusu olan, ölen bir arkadaşın dileğiyle dağılmış çocukluk arkadaşlarını bir araya getirme çabası göz önüne alındığında, bu eserin genel olarak ne tür bir temayı işlediği söylenebilir ve bu tema hangi duygusal bağlantıları vurgular?",
+      "token_count": 57,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Bumblebee__film_.json",
+      "query_id": "q1",
+      "query": "Transformers film serisinin altıncı filmi ve Michael Bay tarafından yönetilmeyen ilk yapım olan Bumblebee'de, filmin eleştirmenlerden olumlu yorumlar almasında Hailee Steinfeld'in performansının öne çıkmasıyla birlikte, önceki Transformers filmlerinde John Turturro tarafından canlandırılan Seymour Simmons'ın daha genç bir versiyonunun bu filmde yer alması, filmin genel serideki konumu ve karakter devamlılığı hakkında ne gibi bilgiler sunmaktadır?",
+      "token_count": 54,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Kl_tze.json",
+      "query_id": "q1",
+      "query": "31 Aralık 2023 itibarıyla 9.794 nüfusa sahip bir şehir olan Klötze'nin, hem coğrafi açıdan Güney Sırtları gibi tepelik ve Drömling gibi düz bölgeleri barındırması hem de idari olarak 13 yerleşim birimine ve 24 mahalleye ayrılmış olması, bu yerleşim yerlerinin genel karakteri ve şehrin yapısı hakkında ne gibi çıkarımlar yapılmasına olanak tanır?",
+      "token_count": 51,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Zenobia.json",
+      "query_id": "q1",
+      "query": "Zenobia'nın Iulia Aurelia Zenobia gibi Roma kökenli isimler taşıması, evliliğiyle Septimia unvanını alması, Arapça, Antik Yunanca ve Aramice gibi dillerdeki adlandırmaları, ailesinin Roma vatandaşlığı geçmişi ve Mısır kraliçesi soyuyla olası bağlantısı, Palmira İmparatorluğu'nun geniş coğrafi yayılımını (Suriye, Lübnan, Filistin, Mısır ve Anadolu) ve Roma İmparatorluğu ile olan karmaşık ilişkisini nasıl yansıtmaktadır?",
+      "token_count": 51,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Galois_Saya__Modu.json",
+      "query_id": "q1",
+      "query": "GCM'nin temel çalışma prensibi (blokların sırayla numaralandırılması ve başlatma vektörüyle birleştirilerek şifrelenmesi ve ardından düz metinle XOR'lanması) paralel çalışma ve boru hattından nasıl tam verimle yararlanmasını sağlar ve bu durum, Şifre Bloğu Zincirleme (CBC) çalışma modunun performansını olumsuz etkileyen belirgin boru hattı duraklarıyla nasıl bir tezat oluşturur?",
+      "token_count": 47,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Kanal_35.json",
+      "query_id": "q1",
+      "query": "Kanal 35'in İzmir merkezli yerel bir televizyon kanalı olduğu ve Tarık Yenen, Gökhan Pakkanlılar ile Özge Tepekule gibi isimlerin ana haber sunucusu olarak görev yaptığı bilgisi birlikte değerlendirildiğinde, bu kanalın program yapısında hangi tür içeriğin belirgin bir rol oynadığı ve faaliyetlerinin ne zaman sona erdiği anlaşılmaktadır?",
+      "token_count": 46,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "_Phone_4.json",
+      "query_id": "q1",
+      "query": "iPhone 4, piyasaya sürüldüğünde yeni bir donanım tasarımı ve gelişmiş yazılım özellikleri sunmasına rağmen, nasıl bir genel tepki aldı ve hangi önemli sorunla karşılaştı? Bu sorun, cihazın Apple'ın amiral gemisi modeli olarak rekor sürede kalması ve toplamda en uzun ömürlü iPhone olmasıyla nasıl bir tezat oluşturdu?",
+      "token_count": 46,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Vize_Muafiyet_Program_.json",
+      "query_id": "q1",
+      "query": "Vize Muafiyet Programı'nın (VWP) temel amacı ve programa katılan ülkelerden beklenen genel özellikler nelerdir? Halihazırda 42 ülkenin VWP kapsamında vizesiz giriş hakkına sahip olduğu düşünüldüğünde, 'yol haritası ülkeleri' kategorisi bu katılımcı sayısına ulaşılmasında nasıl bir rol oynamış ve bazı örnek ülkeler bu süreci nasıl tamamlamıştır?",
+      "token_count": 45,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Mary_Mouser.json",
+      "query_id": "q1",
+      "query": "Mary Matilyn Mouser'ın kariyeri ne kadar genç yaşta başladı ve bu erken dönemdeki çok çeşitli seslendirme ve konuk oyuncu rolleri, onu Cobra Kai ve Body of Proof gibi dizilerdeki başrolleriyle tanınan bir oyuncu olmaya nasıl taşıdı? Biyografik bilgilerinde belirtilen önemli bir sağlık durumu nedir?",
+      "token_count": 44,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Ulysses_31.json",
+      "query_id": "q1",
+      "query": "Homeros'un Odysseia destanından esinlenerek yaratılan ve tanrıların lanetine uğramış bir uzay gemisi kaptanı olan Ulysses'in, oğlu Telemachus ve diğer dostlarıyla birlikte kendi gezegenine dönme maceralarının, ABD'den Japonya'ya ve Türkiye'ye kadar geniş bir coğrafyada yayınlanması, serinin küresel çekiciliği hakkında ne gibi çıkarımlar yapılmasına olanak tanır?",
+      "token_count": 44,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Teksas_Testere_Katliam___seri_.json",
+      "query_id": "q1",
+      "query": "Tobe Hooper'ın yönettiği 1974 tarihli \"Teksas Testere Katliamı\" filminin korku türüne katkıları ve küresel bir seri haline gelmesini sağlayan temel unsurlar nelerdir ve aynı yönetmenin devam filmi, \"Teksas Testere Katliamı Bölüm II\", bu seriyi ton ve olay örgüsü açısından nasıl bir yöne taşımıştır?",
+      "token_count": 43,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Genco_Ar_.json",
+      "query_id": "q1",
+      "query": "Genco Arı'nın 9 yaşında piyano bölümüne kabul edilmesi, konservatuvar müfredatını değiştiren bir öğrenci olması ve 2002-2005 yılları arasında Jazz Bölümü başkanlığı yapması gibi erken dönemdeki müzikal yetenekleri ve eğitimi, prodüktör, besteci ve piyanist olarak çok yönlü kariyerine ve çeşitli eserlerine nasıl yansımıştır?",
+      "token_count": 42,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Karaa_a_lar_Alt_nda__film_.json",
+      "query_id": "q1",
+      "query": "Eugene O'Neill'in 19. yüzyıl New England kırsalında geçen, Ephraim Cabot'un toprak hırsı ve aile içi çatışmalarla bezeli Oedipusvari trajedisini konu alan eserinin, ABD'deki sinema uyarlamasının (Karaağaçlar Altında) ve Türkiye'deki tiyatro sahnelemesinin (Dormen Tiyatrosu) genel kabul ve başarıları arasında ne gibi farklar gözlemlenmiştir?",
+      "token_count": 42,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Redmi_K30.json",
+      "query_id": "q1",
+      "query": "Redmi K30 serisi, selefi Redmi K20'ye göre hangi temel donanım ve ekran farklılıklarını sunmakta ve serinin farklı modelleri (K30, K30 5G, POCO X2, K30 5G Racing, K30i 5G) arasında hangi yongada sistem, şarj hızı ve ana kamera çözünürlüğü gibi donanımsal farklılıklar bulunmaktadır?",
+      "token_count": 42,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Susam.json",
+      "query_id": "q1",
+      "query": "Susamın kuraklığa dayanıklılığı ve yüksek yağ içeriği gibi özellikleri, onun insanlık tarihindeki en eski yağlı tohumlardan biri olarak evcilleştirilmesine ve çeşitli antik uygarlıklarda (Mezopotamya ve Mısır gibi) ticari bir ürün ve hatta tıbbi bir ilaç olarak geniş çaplı kullanımına nasıl katkıda bulunmuştur?",
+      "token_count": 42,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "S_rtlangiller.json",
+      "query_id": "q1",
+      "query": "Sırtlanların köpeklere benzeyen dış görünüşlerine rağmen kedimsiler alt takımına dahil olmaları, tırnaklarını kedigiller gibi geriye çekememeleri ve dişilerinin pseudopenis benzeri organlara sahip olması gibi benzersiz biyolojik ve anatomik özellikler, Türkçedeki adlandırmaları ve genel algılanışları ile nasıl bir ilişki veya tezat oluşturmaktadır?",
+      "token_count": 41,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Severus_Snape.json",
+      "query_id": "q1",
+      "query": "J. K. Rowling tarafından yazılmış Harry Potter serisinin kurgusal karakteri Severus Snape'in James Potter ve Sirius Black'e karşı düşmanlığına rağmen James'e hayatını borçlu olması ve Lord Voldemort'un düşüşünden önce taraf değiştirerek Albus Dumbledore için casusluk yapmasının altında yatan temel olaylar nelerdir?",
+      "token_count": 41,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "TURKSOM_Asker__E_itim__ss_.json",
+      "query_id": "q1",
+      "query": "TURKSOM Askerî Eğitim Üssü'nün 50 milyon dolarlık maliyeti, Türkiye'nin en büyük denizaşırı askerî tesisi olması ve 10.000'den fazla Somali askerini eğitme hedefi bir araya geldiğinde, Türkiye'nin Somali Silahlı Kuvvetleri'ni kendini sürdürebilen bir orduya dönüştürme misyonunun ölçeği ve önemi nasıl ortaya çıkmaktadır?",
+      "token_count": 41,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Da__lalesi.json",
+      "query_id": "q1",
+      "query": "Tulipa armena'nın Türkiye, Ermenistan, İran ve Güney Kafkasya gibi bölgelere endemik olması ve aynı zamanda son derece değişken bir tür olarak tanımlanması, bu endemik bölgelerdeki alt türlerinin ayırt edilmesinde nasıl bir rol oynar ve buna metinden bir örnek verilebilir mi?",
+      "token_count": 40,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Dungeon_ni_Deai_o_Motomeru_no_wa_Machigatteiru_Dar.json",
+      "query_id": "q1",
+      "query": "Fujino Ōmori tarafından yazılan 'Dungeon ni Deai o Motomeru no wa Machigatteiru Darō ka' serisi hangi yıl bir light novel olarak başlamış ve bu serinin ana hikayesi nerede geçmektedir? Ayrıca, bu evrenden ortaya çıkan iki önemli yan romanın isimleri nelerdir?",
+      "token_count": 40,
+      "category": "FACTUAL"
+    },
+    {
+      "file": "Feminist_sanat_hareketi.json",
+      "query_id": "q1",
+      "query": "Feminist sanat hareketi, 1960'larda başlayan ve 1970'ler boyunca gelişen genel çerçevede, Yoko Ono'nun \"Cut Piece\" performansları ve Mary Beth Edelson'ın \"Some Living American Women Artists / Last Supper\" eseri gibi erken dönem örnekler aracılığıyla amaçlarını ve gelişimini nasıl ortaya koymuştur?",
+      "token_count": 40,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Kelbecer__rayon_.json",
+      "query_id": "q1",
+      "query": "Kelbecer Rayonu'nun Azerbaycan'da bir rayon olarak tanımlanması ve \"nehir üzerinde kale\" anlamına gelen adının kökeni göz önüne alındığında, rayonun uluslararası bir anlaşmazlığın parçası haline gelmesine neden olan kritik olay neydi ve uluslararası toplum bu duruma nasıl bir ilk tepki gösterdi?",
+      "token_count": 40,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Lockheed_YF_22.json",
+      "query_id": "q1",
+      "query": "Amerika Birleşik Devletleri Hava Kuvvetleri, hangi stratejik ihtiyaçlar ve mevcut tehditler doğrultusunda Gelişmiş Taktik Avcı (ATF) programını başlatmıştır ve bu programın final aşamasına ulaşan iki ana tasarımın geliştiricileri kimlerdi, ayrıca YF-22'nin nihai olarak seçilmesinde hangi temel karşılaştırmalı avantajı etkili olmuştur?",
+      "token_count": 40,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "The_Alan_Parsons_Project.json",
+      "query_id": "q1",
+      "query": "The Alan Parsons Project'ın çekirdek üyeleri Alan Parsons ve Eric Woolfson'ın temel görevleri ve albümlerinde yer alan geniş sanatçı kadrosu göz önüne alındığında, grubun \"Tales of Mystery and Imagination\"dan \"Vulture Culture\"a kadar uzanan çeşitli konsept albümlerini nasıl gerçekleştirdiği açıklanabilir mi?",
+      "token_count": 40,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "_ki_boyutlu_jel_elektroforezi.json",
+      "query_id": "q1",
+      "query": "İki boyutlu jel elektroforezi (2-DE) tek boyutlu elektroforeze kıyasla proteinleri neden daha etkili bir şekilde ayırır ve bu ayrım için hangi iki temel özelliği kullanır, ayrıca protein komplekslerini doğal hallerinde analiz etmek için hangi boyutun kullanıldığına dair bir bağlantı vardır?",
+      "token_count": 40,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Artemis_Tap_na__.json",
+      "query_id": "q1",
+      "query": "Artemis Tapınağı'nın dünyanın yedi harikasından biri olarak sahip olduğu görkemli ünü, tapınağa adını veren Efesli Artemis'in Yunan tanrıçası Artemis'ten farklı olan benzersiz, Anadolu kökenli özellikleriyle nasıl bir ilişki içindedir ve bu durum Efes'teki kültün kültürel önemine dair ne düşündürmektedir?",
+      "token_count": 39,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Henrietta_Swan_Leavitt.json",
+      "query_id": "q1",
+      "query": "Henrietta Swan Leavitt'in üniversite eğitiminin dördüncü yılında gökbilim dersi almasına rağmen, Sefe değişen yıldızlarının parlaklık-periyot ilişkisi keşfinin uzaydaki mesafelerin ölçülmesinde ve Edwin Hubble'ın evrenin genişlediğini belirlemesindeki kritik rolü, onun bilimsel kariyerine ve mirasına dair ne tür bir sentez sunmaktadır?",
+      "token_count": 39,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Kypros_Nicolaides.json",
+      "query_id": "q1",
+      "query": "Kypros Nicolaides'in King's College London'daki eğitimi ve Kadın Hastalıkları ve Doğum Anabilim Dalı'ndaki fetoskopik teknikler üzerine yaptığı erken dönem araştırmaları, onun fetal tıpta öncü olarak tanınmasına ve ABD Ulusal Tıp Akademisi üyeliği gibi uluslararası ödüller almasına nasıl katkıda bulunmuştur?",
+      "token_count": 39,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Martin_Freeman.json",
+      "query_id": "q1",
+      "query": "Londra'daki Central School of Speech and Drama'da aldığı eğitim, Martin Freeman'ın The Office'teki Tim Canterbury gibi komedi rollerinden Charles II: The Power and The Passion'daki Lord Shaftesbury gibi ciddi dramatik rollere kadar uzanan çeşitli kariyerine nasıl bir katkı sağlamıştır?",
+      "token_count": 39,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Nesne_y_nelimli_programlama.json",
+      "query_id": "q1",
+      "query": "Nesne Yönelimli Programlama (NYP) ne gibi bir yazılım sorunu bağlamında ortaya çıkmıştır ve bu soruna çözüm olarak sunduğu temel özellikler ile kavramlar nelerdir? Ayrıca, tüm nesne tabanlı dillerin NYP'nin tüm öğelerine sahip olup olmadığı nasıl bir ayrım ile açıklanmaktadır?",
+      "token_count": 39,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Stan_Marsh.json",
+      "query_id": "q1",
+      "query": "South Park'taki Stan Marsh'ın kişiliğini tanımlayan ilk özellikler (dürüstlük, mantıklılık, normallik) ve dizideki çeşitli eylemleri ve ek özellikleri (hayvanseverliği, kahramanlıkları, empati yeteneği ve kişisel mücadeleleri) bir araya getirildiğinde, onun karakteri nasıl daha derin ve çok yönlü bir portre çizmektedir?",
+      "token_count": 39,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "767_Bondia.json",
+      "query_id": "q1",
+      "query": "767 Bondia'nın kaşifi Joel Hastings Metcalf tarafından belirlenen keşif tarihi ve Themis ailesi içinde sınıflandırılması göz önüne alındığında, bu asteroitin isimlendirildiği William Cranch Bond ve George Phillips Bond'un astronomiye sağladığı hangi temel katkılar, bu onurun verilmesindeki mantığı açıklamaktadır?",
+      "token_count": 38,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "About_Time__G_ney_Kore_dizisi_.json",
+      "query_id": "q1",
+      "query": "About Time dizisinin başrol oyuncuları Lee Sang-yoon ve Lee Sung-kyung tarafından canlandırılan karakterler, yani Lee Do-ha ve Choi Michaela, hem profesyonel hem de kişisel olarak hangi benzersiz yollarla birbirine bağlanmaktadır ve Lee Do-ha'nın MK Grubu içindeki konumu nedir?",
+      "token_count": 38,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Ford_Crown_Victoria_Police_Interceptor.json",
+      "query_id": "q1",
+      "query": "Ford Crown Victoria'nın polis modelleri zaman içinde nasıl hem kimliğini hem de pazar konumunu geliştirerek Amerikan polis departmanları arasında en çok tercih edilen araçlardan biri haline geldi ve bu süreçte hangi tasarım değişiklikleri ve rekabet koşulları rol oynadı?",
+      "token_count": 38,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Otomobildeki_Kad_n.json",
+      "query_id": "q1",
+      "query": "Otomobildeki Kadın filminin 1970 yapımı bir Amerikan-Fransız korku filmi olduğu bilgisi göz önüne alındığında, Michael ve Anita'nın Dany'yi bir cinayet ve intihar senaryosuna dahil etme planının karmaşıklığı ve detayları, filmin gerilimli yapısına ve \"korku\" sınıflandırmasına nasıl katkıda bulunmaktadır?",
+      "token_count": 38,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Rushmore_Da___An_t_.json",
+      "query_id": "q1",
+      "query": "Kızılderililer için önemli bir yer olan Rushmore Dağı'nda, hem heykeltıraş John Gutzon Borglum'un Kızılderili karşıtı görüşleri hem de George Washington'ın Kızılderililere karşı sergilediği sert tutum dikkate alındığında, bu durum anıtın genel mesajı açısından ne tür bir çelişki barındırmaktadır?",
+      "token_count": 38,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Afroamerikan_sivil_haklar_hareketi.json",
+      "query_id": "q1",
+      "query": "ABD sivil haklar hareketinin 19. yüzyılın sonundaki çatışmalardan kökenleri, Plessy v. Ferguson davasının yarattığı yasal ayrımcılık zemini ve hareketin daha sonra Kızılderili ve Chicano mücadeleleri gibi benzer toplumsal hareketlere model olma özelliği arasında nasıl bir ilişki kurulabilir?",
+      "token_count": 37,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Bizim_Aile__film_.json",
+      "query_id": "q1",
+      "query": "Bizim Aile filmi, dram-komedi türündeki yapısını ve geniş oyuncu kadrosunu kullanarak, Yaşar Usta'nın ailesi ile Alev'in babası zengin fabrikatör Saim Bey arasındaki temel çatışmayı İstanbul'un farklı semtlerindeki çekim mekanları aracılığıyla nasıl bir sosyal ve ekonomik kontrastla görselleştirmiştir?",
+      "token_count": 37,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Horace_Wells.json",
+      "query_id": "q1",
+      "query": "Horace Wells' professional journey and initial observations were crucial to his pioneering work with nitrous oxide. How did his career, including his association with William Morton, facilitate his discovery and subsequent efforts to introduce anesthesia in dentistry?",
+      "token_count": 37,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Rus_Aziz_Yuhanna.json",
+      "query_id": "q1",
+      "query": "Rus Aziz Yuhanna'nın Rus Çarlığı'ndaki askeri geçmişinden, köle olarak satıldığı Kapadokya'daki yaşamına kadar olan deneyimleri ve sergilediği erdemler, hem Türk efendisi tarafından saygı görmesine hem de Doğu Ortodoks Kilisesi'nin meşhur azizlerinden biri olarak tanınmasına nasıl katkıda bulunmuştur?",
+      "token_count": 37,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Sudan_da_ter_rizm.json",
+      "query_id": "q1",
+      "query": "Sudan'da terörizmin erken dönemde başlamasında Usame bin Ladin'in eğitim kampı altyapısı kurmasının rolü göz önüne alındığında, ülkenin terörizme devlet desteği geçmişi ve Sudan Halk Kurtuluş Ordusu gibi yerel grupların faaliyetleri, ülkedeki terör ortamının hangi genel özelliklerini yansıtmaktadır?",
+      "token_count": 37,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Vladimir_Korolenko.json",
+      "query_id": "q1",
+      "query": "Vladimir Korolenko'nun çeşitli etnik kökenlere sahip ailesi, çocukluk dönemindeki ulusal kimlik belirsizliği ve hem Rus hem de Ukrayna edebiyatına olan ilgisi, onun \"Rus ve Ukraynalı\" bir yazar ve insan hakları savunucusu olarak tanımlanmasında nasıl bir rol oynamıştır?",
+      "token_count": 37,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Arnavutluk_un_b_l_nmesi.json",
+      "query_id": "q1",
+      "query": "Arnavutluk'un 1912'deki bağımsızlık ilanı ve 1913 Londra Barış Konferansı ile belirlenen sınırlarının, Arnavut ulusal hareketleri tarafından ülkenin bir bölümü olarak algılanmasına yol açan daha önceki olaylar ve antlaşmalar nelerdir ve bu durum ne şekilde devam etmiştir?",
+      "token_count": 36,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Astraryum.json",
+      "query_id": "q1",
+      "query": "Astraryumun (planetaryum) astronomik cisimlerin döngüsel niteliğini mekanik olarak temsil etme tanımı, Yunan ve Roma dünyasındaki ilk örneklerde ve Orta Çağ ile Rönesans'taki modern gelişiminde nasıl görüldü ve bu iki dönem arasındaki bilgi aktarımında belirgin fark neydi?",
+      "token_count": 36,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Blogosfer.json",
+      "query_id": "q1",
+      "query": "Blogosferin birbirine bağlı bir topluluk veya sosyal ağ olarak tanımlanması, Technorati gibi web sitelerinin onu nasıl takip etmesini sağlamış ve bu durum medya kuruluşları tarafından kamuoyunu temsil etme aracı olarak kabul edilmesinde nasıl bir rol oynamıştır?",
+      "token_count": 36,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Damon_Wayans.json",
+      "query_id": "q1",
+      "query": "Damon Wayans Sr'ın FOX'un eskiz komedi şovu \"In Living Color\"daki yazar ve sanatçı rolü göz önüne alındığında, \"Whiz (Homeboy Shopping Network)\" ve \"Homey D. Clown\" gibi karakterler onun kariyerindeki hangi önemli dönüm noktası çalışmasını temsil etmektedir?",
+      "token_count": 36,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Menoitios.json",
+      "query_id": "q1",
+      "query": "Metin, üç farklı Menoetius veya Menoetes figürünü detaylandırır: bir Titan, Hades'in sığır çobanı ve bir Argonot. Verilen kaynakçada belirtilen antik yazarlardan hangileri, bu figürlerle ilgili anlatıların kaynağı olarak metinde doğrudan bahsedilmekte veya genel olarak atıfta bulunulmaktadır?",
+      "token_count": 36,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Plastik_kirlili_i.json",
+      "query_id": "q1",
+      "query": "Plastiklerin ucuz ve dayanıklı olması ile yavaş bozunma süresi birleştiğinde çevrede ve okyanuslarda nasıl bir kirlilik birikimi meydana gelmekte ve bu durumun canlı organizmalar ile insanlar üzerindeki ciddi etkileri, mevcut çözüm çabalarına rağmen neden yeterince engellenememektedir?",
+      "token_count": 36,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Polis_M_zesi.json",
+      "query_id": "q1",
+      "query": "Osmanlı döneminde ilk kez planlanan ancak savaş koşulları nedeniyle tamamlanamayan Polis Müzesi açma çabaları, günümüzdeki Ankara'daki Polis Müzesi'nin kuruluşuyla nasıl bir bağlantı kurmuş ve bu müze Türk Polis Teşkilatı'nın hangi ana yönlerini kapsamlı bir şekilde sergilemektedir?",
+      "token_count": 36,
+      "category": "INTERPRETATION"
+    },
+    {
+      "file": "Sidonlu_Boethus.json",
+      "query_id": "q1",
+      "query": "Peripatetik bir filozof olan Sidonlu Boethus, hocası Rodoslu Andronikos'tan Aristoteles'in eserlerini çalışma sırası konusunda farklı bir görüşe sahip olmasının yanı sıra, tözün doğası ve bireyselliğin 'gerçek gerçeklik' olduğu hakkındaki özgün görüşleriyle felsefi düşünceye nasıl katkıda bulunmuştur?",
+      "token_count": 36,
+      "category": "INTERPRETATION"
+    }
+  ]
+}

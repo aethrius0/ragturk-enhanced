@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "pilotleylailemecnun_9b54160b",
+    "title": "Pilot (Leyla ile Mecnun)",
+    "url": "https://tr.wikipedia.org/wiki/Pilot_%28Leyla_ile_Mecnun%29",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:49:38.130640",
+    "content": "\"Pilot (Leyla ile Mecnun)\", TRT 1'de yayınlanan Leyla ile Mecnun dizisinin 9 Şubat 2011'de yayınlanan ilk bölümüdür. == Özet == Aynı gün aynı hastanede doğan ve fazla yatak olmadığı için aynı yatağa yatırılan biri kız biri erkek iki bebekten erkek olanın babası İskender'in kızın babasına teklifiyle bebeklerin adı Leyla ile Mecnun olur. Aradan yıllar geçtikten sonra bir gün Mecnun'un anne babası Mecnun'u da yanlarına alıp kızı istemeye giderler. Ancak Leyla'nın babası aradan geçen yıllarda zengin olmuştur ve Mecnun'un ailesini evden kovar. Mecnun ise o gün ilk kez gördüğü Leyla'ya aşık olur. Rüyasında aşkından çöllere düşer ve aksakallı bir dedeyle karşılaşır, uyandığında ise Aksakallı dede odasında tam karşısında dikilmektedir. Aksakallı dedeyle kızı etkilemenin yollarını ararken kızı kaçırmaya karar verirler, bu sırada öncesinde İskender'in taksisine binip, İskender'in polise teslim ettiği Hırsız Yavuz'la karşılaşırlar. Yavuz'un önerisiyle yere benzin döküp ateşle Leyla yazmaya karar verirler ama yanlışlıkla sokağı yakarlar. == Bölümdeki karakterler ve canlandıran oyuncular == Mecnun - Ali Atay Leyla - Ezgi Asaroğlu İskender - Ahmet Mümtaz Taylan İsmail Abi - Serkan Keskin Erdal Bakkal - Cengiz Bozkurt Yavuz - Osman Sonant Aksakallı dede - Köksal Engür Pakize - Asuman Dabak Metin - İştar Gökseven Sevim - Ayşe Selen Kaan - Ege Tanman == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 203,
+      "char_count": 1370,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:58.764458",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 117,
+      "content": "\"Pilot (Leyla ile Mecnun)\", TRT 1'de yayınlanan Leyla ile Mecnun dizisinin 9 Şubat 2011'de yayınlanan ilk bölümüdür.",
+      "char_count": 116,
+      "token_estimate": 29
+    },
+    {
+      "id": "c0001",
+      "section": "== Özet ==",
+      "heading_path": "== Özet ==",
+      "start_char": 117,
+      "end_char": 1042,
+      "content": "== Özet == Aynı gün aynı hastanede doğan ve fazla yatak olmadığı için aynı yatağa yatırılan biri kız biri erkek iki bebekten erkek olanın babası İskender'in kızın babasına teklifiyle bebeklerin adı Leyla ile Mecnun olur. Aradan yıllar geçtikten sonra bir gün Mecnun'un anne babası Mecnun'u da yanlarına alıp kızı istemeye giderler. Ancak Leyla'nın babası aradan geçen yıllarda zengin olmuştur ve Mecnun'un ailesini evden kovar. Mecnun ise o gün ilk kez gördüğü Leyla'ya aşık olur. Rüyasında aşkından çöllere düşer ve aksakallı bir dedeyle karşılaşır, uyandığında ise Aksakallı dede odasında tam karşısında dikilmektedir. Aksakallı dedeyle kızı etkilemenin yollarını ararken kızı kaçırmaya karar verirler, bu sırada öncesinde İskender'in taksisine binip, İskender'in polise teslim ettiği Hırsız Yavuz'la karşılaşırlar. Yavuz'un önerisiyle yere benzin döküp ateşle Leyla yazmaya karar verirler ama yanlışlıkla sokağı yakarlar.",
+      "char_count": 924,
+      "token_estimate": 231
+    },
+    {
+      "id": "c0002",
+      "section": "== Bölümdeki karakterler ve canlandıran oyuncular ==",
+      "heading_path": "== Bölümdeki karakterler ve canlandıran oyuncular ==",
+      "start_char": 1042,
+      "end_char": 1356,
+      "content": "== Bölümdeki karakterler ve canlandıran oyuncular == Mecnun - Ali Atay Leyla - Ezgi Asaroğlu İskender - Ahmet Mümtaz Taylan İsmail Abi - Serkan Keskin Erdal Bakkal - Cengiz Bozkurt Yavuz - Osman Sonant Aksakallı dede - Köksal Engür Pakize - Asuman Dabak Metin - İştar Gökseven Sevim - Ayşe Selen Kaan - Ege Tanman",
+      "char_count": 313,
+      "token_estimate": 78
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Aynı gün aynı hastanede doğan ve aynı yatağa yatırılan bebeklere Leyla ile Mecnun adlarının verilmesini kim teklif etmiştir?",
+        "answer": "Erkek olan bebeğin babası İskender.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "TRT 1'de yayınlanan Leyla ile Mecnun dizisinin ilk bölümü olan \"Pilot (Leyla ile Mecnun)\" ne zaman yayınlanmıştır ve bu bölümde Leyla ile Mecnun'un isimlerinin hikayesi nedir?",
+        "answer": "TRT 1'de yayınlanan Leyla ile Mecnun dizisinin ilk bölümü olan \"Pilot (Leyla ile Mecnun)\" 9 Şubat 2011'de yayınlanmıştır. Bu bölümde, aynı gün aynı hastanede doğan ve fazla yatak olmadığı için aynı yatağa yatırılan iki bebekten erkek olanın babası İskender'in kızın babasına teklifiyle bebeklerin adı Leyla ile Mecnun olmuştur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      }
+    ]
+  }
+}

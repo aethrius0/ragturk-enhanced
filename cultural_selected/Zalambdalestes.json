@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "zalambdalestes_523e2413",
+    "title": "Zalambdalestes",
+    "url": "https://tr.wikipedia.org/wiki/Zalambdalestes",
+    "lang": "tr",
+    "created_at": "2025-12-20T13:00:28.972795",
+    "content": "Zalambdalestes, Moğolistan'ın Geç Kretase döneminden yaşamış, en çok bilinen erken eutherian memelilerden biridir. İnce ön ayakları arka ayaklarından daha uzun olan uzun burunlu, dört ayaklı bir memeliydi. Muhtemelen, hareketli burunları olan küçük, uzun bacaklı, her yerde yaşayan bir grup memeli olan yaşayan fil sivri farelerine benziyordu. Avcılardan kaçmak için hızlı koşarlar ve sıçrarlar. Bazı uzmanlar, Zalambdalestes'in fil sivri fareleriyle yakından ilişkili olduğuna inanıyor. Diğer uzmanlar, Zalambdalestes'in tavşanları ve akrabalarını içeren bir grup olan en eski lagomorf olduğunu savunuyorlar. == Morfoloji ve yaşam şekli == Zalambdalestes, yaklaşık 20 santimetre uzunluğunda olan bir bazal eutheriandı. Muhtemelen çalılıklarda ve çöllerde yaşıyor, böcekler ile diğer küçük hayvanlarla besleniyordu. Uzun burnunun altında Zalambdalestes'in uzun kesici dişleri vardı. Kesici dişler ile çenenin arkasındaki dişler arasında bir boşluk vardı ve beyni, yaşayan bir kır sıçanının beyninin yaklaşık dörtte üçü kadardı. Diğer birçok erken eutherian gibi, Zalambdalestes'in kalçalarının yakınında bir keseyi desteklemiş olabilecek veya karın yan duvarını desteklemeye yardımcı olabilecek kemikleri vardı. Daha sonraki plasentalı memelilerin çoğu bu kemikleri kaybederken, keseliler kendi kemiklerini korudu. == Kaynakça == === Notlar === === Bibliyografya === Encyclopedia of dinosaurs & prehistoric life. American Museum of Natural History. New York, N.Y.: DK Publishing in association with the American Museum of Natural History. 2008. ISBN 978-0-7566-3836-8. OCLC 181602635.",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 205,
+      "char_count": 1584,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:29:04.317602",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 610,
+      "content": "Zalambdalestes, Moğolistan'ın Geç Kretase döneminden yaşamış, en çok bilinen erken eutherian memelilerden biridir. İnce ön ayakları arka ayaklarından daha uzun olan uzun burunlu, dört ayaklı bir memeliydi. Muhtemelen, hareketli burunları olan küçük, uzun bacaklı, her yerde yaşayan bir grup memeli olan yaşayan fil sivri farelerine benziyordu. Avcılardan kaçmak için hızlı koşarlar ve sıçrarlar. Bazı uzmanlar, Zalambdalestes'in fil sivri fareleriyle yakından ilişkili olduğuna inanıyor. Diğer uzmanlar, Zalambdalestes'in tavşanları ve akrabalarını içeren bir grup olan en eski lagomorf olduğunu savunuyorlar.",
+      "char_count": 609,
+      "token_estimate": 152
+    },
+    {
+      "id": "c0001",
+      "section": "== Morfoloji ve yaşam şekli ==",
+      "heading_path": "== Morfoloji ve yaşam şekli ==",
+      "start_char": 610,
+      "end_char": 1315,
+      "content": "== Morfoloji ve yaşam şekli == Zalambdalestes, yaklaşık 20 santimetre uzunluğunda olan bir bazal eutheriandı. Muhtemelen çalılıklarda ve çöllerde yaşıyor, böcekler ile diğer küçük hayvanlarla besleniyordu. Uzun burnunun altında Zalambdalestes'in uzun kesici dişleri vardı. Kesici dişler ile çenenin arkasındaki dişler arasında bir boşluk vardı ve beyni, yaşayan bir kır sıçanının beyninin yaklaşık dörtte üçü kadardı. Diğer birçok erken eutherian gibi, Zalambdalestes'in kalçalarının yakınında bir keseyi desteklemiş olabilecek veya karın yan duvarını desteklemeye yardımcı olabilecek kemikleri vardı. Daha sonraki plasentalı memelilerin çoğu bu kemikleri kaybederken, keseliler kendi kemiklerini korudu.",
+      "char_count": 704,
+      "token_estimate": 176
+    },
+    {
+      "id": "c0002",
+      "section": "=== Bibliyografya ===",
+      "heading_path": "=== Bibliyografya ===",
+      "start_char": 1345,
+      "end_char": 1584,
+      "content": "=== Bibliyografya === Encyclopedia of dinosaurs & prehistoric life. American Museum of Natural History. New York, N.Y.: DK Publishing in association with the American Museum of Natural History. 2008. ISBN 978-0-7566-3836-8. OCLC 181602635.",
+      "char_count": 239,
+      "token_estimate": 59
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Zalambdalestes'in yaklaşık uzunluğu ne kadardı?",
+        "answer": "Yaklaşık 20 santimetre.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Zalambdalestes'in fiziksel özellikleri, tahmini yaşam tarzı ve beslenme şekliyle nasıl ilişkilendirilmektedir?",
+        "answer": "Yaklaşık 20 santimetre uzunluğundaki Zalambdalestes, uzun burunlu ve dört ayaklı bir memeliydi; ince ön ayakları arka ayaklarından daha uzundu. Bu özellikler, avcılardan kaçmak için hızlı koşup sıçrama yeteneğini destekliyor ve muhtemelen çalılıklarda ve çöllerdeki yaşam tarzına uyum sağlıyordu. Uzun burnunun altındaki uzun kesici dişleri ise böcekler ve diğer küçük hayvanlarla beslendiği diyetine uygundu.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

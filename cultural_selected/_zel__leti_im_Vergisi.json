@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "zelletiimvergisi_b5874213",
+    "title": "Özel İletişim Vergisi",
+    "url": "https://tr.wikipedia.org/wiki/%C3%96zel_%C4%B0leti%C5%9Fim_Vergisi",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:16:57.638368",
+    "content": "Özel İletişim Vergisi ya da deprem vergisi, 17.000'den fazla kişinin öldüğü yıkıcı 1999 Gölcük depreminden sonra Türkiye hükûmeti tarafından alınmaya başlanan vergidir. Başlangıçta geçici olarak getirilen bu vergi, depreme bağlı hasarın önlenmesini amaçlıyordu, sonra kalıcı hale geldi. Hükûmet, bu vergiden yaklaşık 85 milyar TL topladı. == Uygulanmaya başlaması == Deprem vergisi Kasım 1999'da Bülent Ecevit hükûmeti tarafından kablo TV, mobil aramalar ve mesajlaşmaya uygulanmaya başlandı. 4481 sayılı yasayla gelir, taşıt, emlak, özel haberleşme ve özel işlemler üzerinden de alınmaya başlandı. 2003'te vergi uygulamalarının çoğu kaldırıldı ancak Özel İletişim Vergisi kalıcı hale getirildi. Bu vergi özel haberleşme için %7.5 iken 2021'de kararname ile %10'a yükseltildi. == Amacı ve kullanımı == Vergilerle birlikte telekomünikasyon ve binalar depreme dayanıklı hale getirilecekti. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), afet yönetimi için 25 ilde lojistik merkezler kurdu. Daha sonra 65 ilde afet sonrası kullanılacak mallar için ilave lojistik merkezler kuruldu. 2012 yılında hükûmet, binaları depreme dayanıklı hale getirmek için güçlendirmeyi amaçlayan yeni bir plan duyurdu. 2011 yılında Maliye Bakanı Mehmet Şimşek, vergi parasının çeşitli ulaşım ve tarım projeleri için kullanıldığını söyledi. == Eleştiriler == Ana muhalefet partisi Cumhuriyet Halk Partisi (CHP), vergiyle milyonlarca evin depreme dayanıklı hale getirilebileceğini, ancak hükûmetin parayı inşaat projelerini finanse etmek için kullandığını iddia etti. == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 208,
+      "char_count": 1555,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:41.034340",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 339,
+      "content": "Özel İletişim Vergisi ya da deprem vergisi, 17.000'den fazla kişinin öldüğü yıkıcı 1999 Gölcük depreminden sonra Türkiye hükûmeti tarafından alınmaya başlanan vergidir. Başlangıçta geçici olarak getirilen bu vergi, depreme bağlı hasarın önlenmesini amaçlıyordu, sonra kalıcı hale geldi. Hükûmet, bu vergiden yaklaşık 85 milyar TL topladı.",
+      "char_count": 338,
+      "token_estimate": 84
+    },
+    {
+      "id": "c0001",
+      "section": "== Uygulanmaya başlaması ==",
+      "heading_path": "== Uygulanmaya başlaması ==",
+      "start_char": 339,
+      "end_char": 777,
+      "content": "== Uygulanmaya başlaması == Deprem vergisi Kasım 1999'da Bülent Ecevit hükûmeti tarafından kablo TV, mobil aramalar ve mesajlaşmaya uygulanmaya başlandı. 4481 sayılı yasayla gelir, taşıt, emlak, özel haberleşme ve özel işlemler üzerinden de alınmaya başlandı. 2003'te vergi uygulamalarının çoğu kaldırıldı ancak Özel İletişim Vergisi kalıcı hale getirildi. Bu vergi özel haberleşme için %7.5 iken 2021'de kararname ile %10'a yükseltildi.",
+      "char_count": 437,
+      "token_estimate": 109
+    },
+    {
+      "id": "c0002",
+      "section": "== Amacı ve kullanımı ==",
+      "heading_path": "== Amacı ve kullanımı ==",
+      "start_char": 777,
+      "end_char": 1315,
+      "content": "== Amacı ve kullanımı == Vergilerle birlikte telekomünikasyon ve binalar depreme dayanıklı hale getirilecekti. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), afet yönetimi için 25 ilde lojistik merkezler kurdu. Daha sonra 65 ilde afet sonrası kullanılacak mallar için ilave lojistik merkezler kuruldu. 2012 yılında hükûmet, binaları depreme dayanıklı hale getirmek için güçlendirmeyi amaçlayan yeni bir plan duyurdu. 2011 yılında Maliye Bakanı Mehmet Şimşek, vergi parasının çeşitli ulaşım ve tarım projeleri için kullanıldığını söyledi.",
+      "char_count": 537,
+      "token_estimate": 134
+    },
+    {
+      "id": "c0003",
+      "section": "== Eleştiriler ==",
+      "heading_path": "== Eleştiriler ==",
+      "start_char": 1315,
+      "end_char": 1541,
+      "content": "== Eleştiriler == Ana muhalefet partisi Cumhuriyet Halk Partisi (CHP), vergiyle milyonlarca evin depreme dayanıklı hale getirilebileceğini, ancak hükûmetin parayı inşaat projelerini finanse etmek için kullandığını iddia etti.",
+      "char_count": 225,
+      "token_estimate": 56
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) afet yönetimi için başlangıçta kaç ilde lojistik merkezler kurmuştur?",
+        "answer": "25 ilde",
+        "related_chunk_ids": [
+          "c0002"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Deprem vergisinin başlangıçtaki geçici amacı ve uygulama kapsamı zaman içinde nasıl bir değişime uğramış ve toplanan fonların kullanımına ilişkin hangi farklı açıklamalar yapılmıştır?",
+        "answer": "Deprem vergisi, 1999 Gölcük depreminden sonra depreme bağlı hasarın önlenmesi amacıyla geçici olarak getirilmişti ve başlangıçta kablo TV, mobil aramalar ve mesajlaşma gibi özel haberleşme hizmetlerine uygulanmaya başlandı. 2003 yılında çoğu vergi uygulaması kaldırılmasına rağmen, Özel İletişim Vergisi kalıcı hale getirildi ve özel haberleşme için oranı 2021'de %7.5'ten %10'a yükseltildi. Amaçlanan kullanım telekomünikasyon ve binaları depreme dayanıklı hale getirmek ve afet yönetimi için lojistik merkezler kurmak iken, 2011'de dönemin Maliye Bakanı Mehmet Şimşek, vergi parasının çeşitli ulaşım ve tarım projeleri için kullanıldığını belirtmiştir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

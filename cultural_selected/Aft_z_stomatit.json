@@ -1,0 +1,83 @@
+{
+  "article": {
+    "id": "aftzstomatit_12eece24",
+    "title": "Aftöz stomatit",
+    "url": "https://tr.wikipedia.org/wiki/Aft%C3%B6z_stomatit",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:52.054200",
+    "content": "Aftöz stomatit veya tekrarlayan aftöz stomatit (RAS), sağlıklı bireylerde tekrarlayan iyi huylu ve bulaşıcı olmayan ağız ülserlerinin oluşumu ile karakterize yaygın bir durumdur. Nedeni tam olarak anlaşılamamıştır ancak beslenme yetersizlikleri, bölgesel travma, stres, hormonal etkiler, alerjiler, genetik yatkınlıkAlerji, belirli gıdalar, dehidrasyon, bazı gıda katkı maddeleri veya SDS gibi bazı hijyenik kimyasal katkı maddeleri (diş macununda yaygın olarak bulunur) gibi çeşitli faktörler tarafından tetiklenen bir T hücresi aracılı bağışıklık yanıtı olabilir. Bu ülserler periyodik olarak ortaya çıkar ve ataklar arasında tamamen iyileşir. Vakaların çoğunda, bireysel ülserler yaklaşık 7-10 gün sürer ve ülserasyon atakları yılda 3-6 kez meydana gelir. Çoğu, ağızdaki keratinize olmayan epitel yüzeylerinde –yani yapışık diş eti, sert damak ve dilin dorsumu dışında herhangi bir yerde– görülür, ancak daha az yaygın olan daha şiddetli formlar keratinize epitel yüzeylerini de içerebilir. Semptomlar küçük bir rahatsızlıktan yeme ve içmeye müdahale etmeye kadar değişir. Şiddetli formları zayıflatıcı olabilir, hatta yetersiz beslenme nedeniyle kilo kaybına neden olabilir. Durum çok yaygındır ve genel nüfusun yaklaşık %20'sini bir dereceye kadar etkiler. Başlangıç genellikle çocukluk veya ergenlik dönemindedir ve durum yavaş yavaş kaybolmadan önce genellikle birkaç yıl sürer. Tedavisi yoktur ve kortikosteroidler gibi tedaviler ağrıyı kontrol altına almayı, iyileşme süresini kısaltmayı ve ülserasyon ataklarının sıklığını azaltmayı amaçlar. == Kaynakça == == Ayrıca bakınız == Blister Herpes simpleks Herpes",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 211,
+      "char_count": 1618,
+      "num_chunks": 3,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.881183",
+    "total_chunks": 3,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Aftöz stomatit veya tekrarlayan aftöz stomatit (RAS), sağlıklı bireylerde tekrarlayan iyi huylu ve bulaşıcı olmayan ağız ülserlerinin oluşumu ile karakterize yaygın bir durumdur. Nedeni tam olarak anlaşılamamıştır ancak beslenme yetersizlikleri, bölgesel travma, stres, hormonal etkiler, alerjiler, genetik yatkınlıkAlerji, belirli gıdalar, dehidrasyon, bazı gıda katkı maddeleri veya SDS gibi bazı hijyenik kimyasal katkı maddeleri (diş macununda yaygın olarak bulunur) gibi çeşitli faktörler tarafından tetiklenen bir T hücresi aracılı bağışıklık yanıtı olabilir. Bu ülserler periyodik olarak ortaya çıkar ve ataklar arasında tamamen iyileşir. Vakaların çoğunda, bireysel ülserler yaklaşık 7-10 gün sürer ve ülserasyon atakları yılda 3-6 kez meydana gelir. Çoğu, ağızdaki keratinize olmayan epitel yüzeylerinde –yani yapışık diş eti, sert damak ve dilin dorsumu dışında herhangi bir yerde– görülür, ancak daha az yaygın olan daha şiddetli formlar keratinize epitel yüzeylerini de içerebilir. Sempto",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1551,
+      "content": "yüzeylerinde –yani yapışık diş eti, sert damak ve dilin dorsumu dışında herhangi bir yerde– görülür, ancak daha az yaygın olan daha şiddetli formlar keratinize epitel yüzeylerini de içerebilir. Semptomlar küçük bir rahatsızlıktan yeme ve içmeye müdahale etmeye kadar değişir. Şiddetli formları zayıflatıcı olabilir, hatta yetersiz beslenme nedeniyle kilo kaybına neden olabilir. Durum çok yaygındır ve genel nüfusun yaklaşık %20'sini bir dereceye kadar etkiler. Başlangıç genellikle çocukluk veya ergenlik dönemindedir ve durum yavaş yavaş kaybolmadan önce genellikle birkaç yıl sürer. Tedavisi yoktur ve kortikosteroidler gibi tedaviler ağrıyı kontrol altına almayı, iyileşme süresini kısaltmayı ve ülserasyon ataklarının sıklığını azaltmayı amaçlar.",
+      "char_count": 751,
+      "token_estimate": 187
+    },
+    {
+      "id": "c0002",
+      "section": "== Ayrıca bakınız ==",
+      "heading_path": "== Ayrıca bakınız ==",
+      "start_char": 1567,
+      "end_char": 1618,
+      "content": "== Ayrıca bakınız == Blister Herpes simpleks Herpes",
+      "char_count": 51,
+      "token_estimate": 12
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Aftöz stomatit (RAS) atakları yılda kaç kez meydana gelir?",
+        "answer": "Yılda 3-6 kez meydana gelir.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Aftöz stomatitin tekrarlayan doğası ve çeşitli tetikleyicileri göz önüne alındığında, bu durumun semptomları kişilerin yaşam kalitesini nasıl etkiler ve mevcut tedavi yaklaşımları nelerdir?",
+        "answer": "Aftöz stomatit, sağlıklı bireylerde periyodik olarak ortaya çıkan ve ataklar arasında tamamen iyileşen tekrarlayan ağız ülserleriyle karakterizedir. Beslenme yetersizlikleri, bölgesel travma, stres, alerjiler ve bazı hijyenik kimyasal katkı maddeleri gibi çeşitli faktörler tarafından tetiklenebilir. Bu ülserlerin semptomları küçük bir rahatsızlıktan yeme ve içmeye müdahale etmeye kadar değişir ve şiddetli formları zayıflatıcı olabilir, hatta yetersiz beslenme nedeniyle kilo kaybına yol açabilir. Durumun tedavisi yoktur; kortikosteroidler gibi mevcut tedaviler ağrıyı kontrol altına almayı, iyileşme süresini kısaltmayı ve ülserasyon ataklarının sıklığını azaltmayı amaçlar.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

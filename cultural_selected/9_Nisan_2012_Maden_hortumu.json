@@ -1,0 +1,94 @@
+{
+  "article": {
+    "id": "9nisan2012madenhortu_f58fcf6c",
+    "title": "9 Nisan 2012 Maden hortumu",
+    "url": "https://tr.wikipedia.org/wiki/9_Nisan_2012_Maden_hortumu",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:21:08.399316",
+    "content": "Elazığ'ın Maden İlçesi'nde 9 Nisan 2012 akşamı saat 18:30 sıralarında meydana gelen hortum ve şiddetli fırtına karayolları işçilerinin kaldığı şantiyede, konteyner ve araçları havalarda uçurmuş, şantiyenin harabeye döndüğü faciada yaklaşık 100 metre sürüklenen konteynerde bulunan ve 4'ü bugün işbaşı yapan 6 işçi yaşamını yitirmiş, 7 kişi de yaralanmıştı. == Olayın Fiziksel Arka Planı == Türkiye'nin doğusuda meteorolojik radar ağının bulunmaması ve teknik yetersizlikten dolayı olay öncesinde Meteoroloji Genel Müdürlüğü (MGM) tarafından hortum uyarısı bile yapılmamıştır. Dahası olayın video görüntüleri çeşitli yayın ve kuruluşlarda yer bulana kadar meydana gelen hadisenin bir microburst mu, yoksa bir hortum mu tartışılmıştır. Hortumun Fujita skalasına göre hangi kategoride olduğu net olmasa da, Avrupa Şiddetli Hava Olayları Veritabanı'nda F2 olarak gösterilmiştir. Teorik olarak bir hortumun meydana gelebilmesi için ön koşul serbest konveksiyon seviyesinin (Level of Free Convection - LFC) yere yakın olmasıdır. Hortum oluşabilmesi, LFC'nin yerden en fazla 2000 metre yukarıda bulunması şarttır. Diyarbakır, Elazığ/Maden'e en yakın balon ölçümü yapılan istasyon olması sebebiyle, Diyarbakır'ın balon ölçüm sonuçları çevredeki atmosferik koşullar hakkında bilgi vermektedir. 989 metre rakımlı Diyarbakır'ın 9 Nisan 2012 tarihli balon ölçüm sonuçlarında LFC'nin yer seviyesinden yüksekliği 1381 metre olarak güzükmekte olup 1100 metre rakımlı Maden'de kıyasen 800-900 metre civarında olabilir. Öte yandan sonuçlarda lifted endeksin -7,2 değeri bölgede şiddetli hava olaylarına işaret ediyor. Diyarbakır temp sonucunda hortum oluşumunu çok net destekleyen açık veriler olmasa da, süper hücre oluşumuna ilişkin çok net deliller vardı ve hortumlar genellikle süper hücre fırtına sistemlerinin altında ortaya çıkar. === Süper Hücre Delilleri === BRN – Bulk Richardson Number, genel olarak 10-35 değeri arasında (bazı kaynaklara göre 10-45 değerlerinde) süper hücre fırtınalarının, 50'den büyük değerlerde (yine bazı kaynaklara göre 40'tan büyük) tek hücreli ya da çok hücreleri fırtınaların oluşmakta olduğu ifade edilmiştir. Diyarbakır tempinde, 25 BRN değeri süper hücre açısından uygun bir değerdir. SCP – Supercell Composite Parameter, Diyarbakır'daki 8.9 değeri bölgede zaten süper hücre oluşumu için güçlü bir kanı uyandırıyor. (6′dan büyük olması önemli) EHI – Energy Helicity Index, yine 2.8 değeri süper hücreye bağlı gelişen hortumları destekler nitelikte (barajı 2.5) == Kaynakça ==",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 335,
+      "char_count": 2498,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:43.503781",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 357,
+      "content": "Elazığ'ın Maden İlçesi'nde 9 Nisan 2012 akşamı saat 18:30 sıralarında meydana gelen hortum ve şiddetli fırtına karayolları işçilerinin kaldığı şantiyede, konteyner ve araçları havalarda uçurmuş, şantiyenin harabeye döndüğü faciada yaklaşık 100 metre sürüklenen konteynerde bulunan ve 4'ü bugün işbaşı yapan 6 işçi yaşamını yitirmiş, 7 kişi de yaralanmıştı.",
+      "char_count": 356,
+      "token_estimate": 89
+    },
+    {
+      "id": "c0001",
+      "section": "== Olayın Fiziksel Arka Planı ==",
+      "heading_path": "== Olayın Fiziksel Arka Planı ==",
+      "start_char": 357,
+      "end_char": 1357,
+      "content": "== Olayın Fiziksel Arka Planı == Türkiye'nin doğusuda meteorolojik radar ağının bulunmaması ve teknik yetersizlikten dolayı olay öncesinde Meteoroloji Genel Müdürlüğü (MGM) tarafından hortum uyarısı bile yapılmamıştır. Dahası olayın video görüntüleri çeşitli yayın ve kuruluşlarda yer bulana kadar meydana gelen hadisenin bir microburst mu, yoksa bir hortum mu tartışılmıştır. Hortumun Fujita skalasına göre hangi kategoride olduğu net olmasa da, Avrupa Şiddetli Hava Olayları Veritabanı'nda F2 olarak gösterilmiştir. Teorik olarak bir hortumun meydana gelebilmesi için ön koşul serbest konveksiyon seviyesinin (Level of Free Convection - LFC) yere yakın olmasıdır. Hortum oluşabilmesi, LFC'nin yerden en fazla 2000 metre yukarıda bulunması şarttır. Diyarbakır, Elazığ/Maden'e en yakın balon ölçümü yapılan istasyon olması sebebiyle, Diyarbakır'ın balon ölçüm sonuçları çevredeki atmosferik koşullar hakkında bilgi vermektedir. 989 metre rakımlı Diyarbakır'ın 9 Nisan 2012 tarihli balon ölçüm sonuçla",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0002",
+      "section": "== Olayın Fiziksel Arka Planı ==",
+      "heading_path": "== Olayın Fiziksel Arka Planı ==",
+      "start_char": 1157,
+      "end_char": 1820,
+      "content": "apılan istasyon olması sebebiyle, Diyarbakır'ın balon ölçüm sonuçları çevredeki atmosferik koşullar hakkında bilgi vermektedir. 989 metre rakımlı Diyarbakır'ın 9 Nisan 2012 tarihli balon ölçüm sonuçlarında LFC'nin yer seviyesinden yüksekliği 1381 metre olarak güzükmekte olup 1100 metre rakımlı Maden'de kıyasen 800-900 metre civarında olabilir. Öte yandan sonuçlarda lifted endeksin -7,2 değeri bölgede şiddetli hava olaylarına işaret ediyor. Diyarbakır temp sonucunda hortum oluşumunu çok net destekleyen açık veriler olmasa da, süper hücre oluşumuna ilişkin çok net deliller vardı ve hortumlar genellikle süper hücre fırtına sistemlerinin altında ortaya çıkar.",
+      "char_count": 663,
+      "token_estimate": 165
+    },
+    {
+      "id": "c0003",
+      "section": "=== Süper Hücre Delilleri ===",
+      "heading_path": "=== Süper Hücre Delilleri ===",
+      "start_char": 1821,
+      "end_char": 2484,
+      "content": "=== Süper Hücre Delilleri === BRN – Bulk Richardson Number, genel olarak 10-35 değeri arasında (bazı kaynaklara göre 10-45 değerlerinde) süper hücre fırtınalarının, 50'den büyük değerlerde (yine bazı kaynaklara göre 40'tan büyük) tek hücreli ya da çok hücreleri fırtınaların oluşmakta olduğu ifade edilmiştir. Diyarbakır tempinde, 25 BRN değeri süper hücre açısından uygun bir değerdir. SCP – Supercell Composite Parameter, Diyarbakır'daki 8.9 değeri bölgede zaten süper hücre oluşumu için güçlü bir kanı uyandırıyor. (6′dan büyük olması önemli) EHI – Energy Helicity Index, yine 2.8 değeri süper hücreye bağlı gelişen hortumları destekler nitelikte (barajı 2.5)",
+      "char_count": 662,
+      "token_estimate": 165
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Avrupa Şiddetli Hava Olayları Veritabanı'nda hortumun Fujita skalasına göre hangi kategoride gösterildiği belirtilmiştir?",
+        "answer": "F2.",
+        "related_chunk_ids": [
+          "c0001"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Elazığ'ın Maden İlçesi'nde meydana gelen hortum faciası öncesinde Meteoroloji Genel Müdürlüğü'nün uyarı yapamama durumu ile Diyarbakır'dan alınan atmosferik ölçümler arasındaki bağlantı nedir ve bu ölçümler olayın şiddetine dair hangi bilgileri sunmuştur?",
+        "answer": "Türkiye'nin doğusunda meteorolojik radar ağının eksikliği ve teknik yetersizlik nedeniyle Meteoroloji Genel Müdürlüğü, Maden'deki hortum öncesinde uyarı yapamamıştır. Ancak Maden'e en yakın istasyon olan Diyarbakır'ın 9 Nisan 2012 tarihli balon ölçüm sonuçları, hortum oluşumu için ön koşul olan serbest konveksiyon seviyesinin (LFC) 1381 metre gibi yere yakın bir seviyede olduğunu göstermiştir. Ayrıca, -7,2 değeri ile şiddetli hava olaylarına işaret eden lifted endeks ve süper hücre oluşumuna dair net deliller bulunmaktaydı. Bu veriler, Maden'de karayolları işçilerinin kaldığı şantiyeyi harabeye çeviren, konteynerleri 100 metre sürükleyerek 6 kişinin ölümüne ve 7 kişinin yaralanmasına neden olan şiddetli hortum ve fırtınanın ardındaki potansiyel tehlikeli atmosferik koşulları ortaya koymaktadır.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

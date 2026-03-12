@@ -1,0 +1,148 @@
+{
+  "raw": {
+    "k=1": {
+      "Recall@1": 0.5437842064112588,
+      "Precision@1": 0.8127443315089914,
+      "MRR@1": 0.8127443315089914,
+      "Hit@1": 0.8127443315089914,
+      "num_queries": 2558
+    },
+    "k=3": {
+      "Recall@3": 0.8070758405003909,
+      "Precision@3": 0.4650768829814959,
+      "MRR@3": 0.8682564503518374,
+      "Hit@3": 0.9308053166536356,
+      "num_queries": 2558
+    },
+    "k=5": {
+      "Recall@5": 0.8730127703935365,
+      "Precision@5": 0.31039874902267395,
+      "MRR@5": 0.8736708365910866,
+      "Hit@5": 0.95426114151681,
+      "num_queries": 2558
+    },
+    "k=10": {
+      "Recall@10": 0.9200547302580141,
+      "Precision@10": 0.1659890539483972,
+      "MRR@10": 0.8757357868870769,
+      "Hit@10": 0.9691164972634871,
+      "num_queries": 2558
+    },
+    "k=20": {
+      "Recall@20": 0.9437060203283816,
+      "Precision@20": 0.08565285379202502,
+      "MRR@20": 0.8762571668859719,
+      "Hit@20": 0.9769351055512119,
+      "num_queries": 2558
+    }
+  },
+  "lemma": {
+    "k=1": {
+      "Recall@1": 0.49439666406046395,
+      "Precision@1": 0.746677091477717,
+      "MRR@1": 0.746677091477717,
+      "Hit@1": 0.746677091477717,
+      "num_queries": 2558
+    },
+    "k=3": {
+      "Recall@3": 0.7327990617670055,
+      "Precision@3": 0.41686213187385973,
+      "MRR@3": 0.8103335939536095,
+      "Hit@3": 0.8854573885848319,
+      "num_queries": 2558
+    },
+    "k=5": {
+      "Recall@5": 0.7901355225436538,
+      "Precision@5": 0.27670054730258015,
+      "MRR@5": 0.8155134219442272,
+      "Hit@5": 0.9081313526192337,
+      "num_queries": 2558
+    },
+    "k=10": {
+      "Recall@10": 0.8434975241073757,
+      "Precision@10": 0.15054730258014073,
+      "MRR@10": 0.8181667845663154,
+      "Hit@10": 0.9276778733385458,
+      "num_queries": 2558
+    },
+    "k=20": {
+      "Recall@20": 0.8821344800625489,
+      "Precision@20": 0.0790852228303362,
+      "MRR@20": 0.8196683694305282,
+      "Hit@20": 0.9487881157154027,
+      "num_queries": 2558
+    }
+  },
+  "hybrid": {
+    "k=1": {
+      "Recall@1": 0.5278863695595518,
+      "Precision@1": 0.7775605942142298,
+      "MRR@1": 0.7775605942142298,
+      "Hit@1": 0.7775605942142298,
+      "num_queries": 2558
+    },
+    "k=3": {
+      "Recall@3": 0.766744852749544,
+      "Precision@3": 0.43393275996872555,
+      "MRR@3": 0.8388715142038049,
+      "Hit@3": 0.9108678655199375,
+      "num_queries": 2558
+    },
+    "k=5": {
+      "Recall@5": 0.8339197289549126,
+      "Precision@5": 0.2920250195465207,
+      "MRR@5": 0.8446377378160019,
+      "Hit@5": 0.9358874120406567,
+      "num_queries": 2558
+    },
+    "k=10": {
+      "Recall@10": 0.887412040656763,
+      "Precision@10": 0.15809225957779513,
+      "MRR@10": 0.847759131017536,
+      "Hit@10": 0.9585613760750586,
+      "num_queries": 2558
+    },
+    "k=20": {
+      "Recall@20": 0.9158196507688298,
+      "Precision@20": 0.08232994526974198,
+      "MRR@20": 0.8484287634407183,
+      "Hit@20": 0.9683346364347146,
+      "num_queries": 2558
+    }
+  }
+}
+{}
+Sonuçlar çıktı! 🎉
+
+Index	Recall@5	MRR@5	Hit@5
+RAW	87.30%	0.8737	95.43%
+HYBRID	83.39%	0.8446	93.59%
+LEMMA	79.01%	0.8155	90.81%
+Bulgular:
+
+RAW en iyi performansı gösteriyor - Orijinal metin, lemmatize edilmişten daha iyi çalışıyor
+Lemmatization bu durumda performansı düşürmüş (~8 puan fark)
+Hybrid ortada kalmış
+
+----------------------------
+
+Ne yaptık:
+
+Sorguları embed ettik (2558 sorgu × 768 boyutlu vektör)
+FAISS'te arama yaptık - FAISS zaten cosine similarity ile çalışıyor (normalize_embeddings=True kullandık)
+Top-k chunk bulduk (k=1,3,5,10,20 için)
+Ground truth ile karşılaştırdık (related_chunk_ids)
+Örnek:
+
+Metrikler ne anlama geliyor:
+
+Metrik	Değer	Anlam
+Recall@5	87.30%	Doğru chunk'ların %87.3'ü top-5'te bulundu
+MRR@5	0.8737	Doğru chunk ortalama 1.1. sırada (çok iyi!)
+Hit@5	95.43%	Sorguların %95.4'ünde en az 1 doğru chunk top-5'te
+Yani evet:
+
+✅ Cosine similarity hesaplandı (FAISS içinde)
+✅ Top-k chunk bulundu (k=1,3,5,10,20)
+✅ Ground truth ile karşılaştırıldı
+✅ Metrikler hesaplandı

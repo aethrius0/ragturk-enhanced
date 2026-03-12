@@ -1,0 +1,93 @@
+{
+  "article": {
+    "id": "bourbonsaray_18dd8f40",
+    "title": "Bourbon Sarayı",
+    "url": "https://tr.wikipedia.org/wiki/Bourbon_Saray%C4%B1",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:27:11.986467",
+    "content": "Bourbon Sarayı (Fransızca: Palais Bourbon), Fransız Parlamentosu'nun alt kanadı olan Ulusal Meclis'in toplanma yeridir. Saray, 1728 yılında inşa edilmiş olup Paris'in 7. arrondissementinde yer almaktadır. Orijinal saray, 1722'de Bourbon düşesi Louise Françoise de Bourbon için inşa edilmeye başlandı. Dört ardışık mimar olan Lorenzo Giardini, Pierre Cailleteau, Jean Aubert ve Jacques Gabriel tarafından tasarlanan saray 1728'de tamamladı. Daha sonra Fransız Devrimi sırasında millileştirildi. 1795'ten 1799'a kadar, Direktörlük sırasında, hükûmet liderlerini seçen Beş Yüzler Konseyi'nin toplantı yeriydi. 1806'da, Napolyon'un Fransız İmparatorluğu döneminde, Bernard Poyet'in Neoklasik cephesi, Concorde Meydanı'nın ötesinde Sen Nehri'nin karşısındaki Madeleine Kilisesi'ninkini yansıtacak şekilde eklendi. Saray kompleksi bugün 124.000 m²'lik bir taban alanına sahip olup, 3.000 kişinin çalıştığı 9.500'den fazla odaya sahiptir. Kompleks, Bourbon Sarayı'nın batı tarafında bulunan Ulusal Meclis başkanının resmi ikametgâhı Hôtel de Lassay'yi de içerir. == Bibliyografi == Delpierre, Jean Christophe (1999). Assemblée Nationale. Beaux Arts hors série. Fierro, Alfred (1996). Histoire et dictionnaire de Paris. Robert Laffont. ISBN 2-221--07862-4. Icikovics, Jean-Pierre; Altmayer, Anastasia (2013). L'Assemblée Nationale. Beaux Arts Éditions. ISBN 978-284278-977-0. == Dış bağlantılar == Palais Bourbon – a palace for democracy, Secretariat-General of the National Assembly – Communication and multimedia information department (archived) History of the Palais Bourbon (archived) Connaissance de l'Assemblée: histoire et génie des lieux (Fransızca)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 203,
+      "char_count": 1650,
+      "num_chunks": 4,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:46.879626",
+    "total_chunks": 4,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Bourbon Sarayı (Fransızca: Palais Bourbon), Fransız Parlamentosu'nun alt kanadı olan Ulusal Meclis'in toplanma yeridir. Saray, 1728 yılında inşa edilmiş olup Paris'in 7. arrondissementinde yer almaktadır. Orijinal saray, 1722'de Bourbon düşesi Louise Françoise de Bourbon için inşa edilmeye başlandı. Dört ardışık mimar olan Lorenzo Giardini, Pierre Cailleteau, Jean Aubert ve Jacques Gabriel tarafından tasarlanan saray 1728'de tamamladı. Daha sonra Fransız Devrimi sırasında millileştirildi. 1795'ten 1799'a kadar, Direktörlük sırasında, hükûmet liderlerini seçen Beş Yüzler Konseyi'nin toplantı yeriydi. 1806'da, Napolyon'un Fransız İmparatorluğu döneminde, Bernard Poyet'in Neoklasik cephesi, Concorde Meydanı'nın ötesinde Sen Nehri'nin karşısındaki Madeleine Kilisesi'ninkini yansıtacak şekilde eklendi. Saray kompleksi bugün 124.000 m²'lik bir taban alanına sahip olup, 3.000 kişinin çalıştığı 9.500'den fazla odaya sahiptir. Kompleks, Bourbon Sarayı'nın batı tarafında bulunan Ulusal Meclis ba",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1055,
+      "content": "eklendi. Saray kompleksi bugün 124.000 m²'lik bir taban alanına sahip olup, 3.000 kişinin çalıştığı 9.500'den fazla odaya sahiptir. Kompleks, Bourbon Sarayı'nın batı tarafında bulunan Ulusal Meclis başkanının resmi ikametgâhı Hôtel de Lassay'yi de içerir.",
+      "char_count": 255,
+      "token_estimate": 63
+    },
+    {
+      "id": "c0002",
+      "section": "== Bibliyografi ==",
+      "heading_path": "== Bibliyografi ==",
+      "start_char": 1056,
+      "end_char": 1368,
+      "content": "== Bibliyografi == Delpierre, Jean Christophe (1999). Assemblée Nationale. Beaux Arts hors série. Fierro, Alfred (1996). Histoire et dictionnaire de Paris. Robert Laffont. ISBN 2-221--07862-4. Icikovics, Jean-Pierre; Altmayer, Anastasia (2013). L'Assemblée Nationale. Beaux Arts Éditions. ISBN 978-284278-977-0.",
+      "char_count": 311,
+      "token_estimate": 77
+    },
+    {
+      "id": "c0003",
+      "section": "== Dış bağlantılar ==",
+      "heading_path": "== Dış bağlantılar ==",
+      "start_char": 1368,
+      "end_char": 1650,
+      "content": "== Dış bağlantılar == Palais Bourbon – a palace for democracy, Secretariat-General of the National Assembly – Communication and multimedia information department (archived) History of the Palais Bourbon (archived) Connaissance de l'Assemblée: histoire et génie des lieux (Fransızca)",
+      "char_count": 282,
+      "token_estimate": 70
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Bourbon Sarayı'nın orijinal inşasına kimin için başlanmıştır?",
+        "answer": "Bourbon düşesi Louise Françoise de Bourbon.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Bourbon Sarayı kompleksi, Ulusal Meclis'in toplantı yeri olmasının yanı sıra, günümüzde hangi önemli bileşenleri ve özellikleriyle dikkat çekmektedir?",
+        "answer": "Bourbon Sarayı kompleksi, 124.000 m²'lik bir taban alanına, 9.500'den fazla odaya sahip olup yaklaşık 3.000 kişiye istihdam sağlamaktadır ve aynı zamanda Ulusal Meclis başkanının resmi ikametgahı olan Hôtel de Lassay'yi de içermektedir.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}

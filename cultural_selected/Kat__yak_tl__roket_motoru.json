@@ -1,0 +1,114 @@
+{
+  "article": {
+    "id": "katyaktlroketmotoru_fb43df69",
+    "title": "Katı yakıtlı roket motoru",
+    "url": "https://tr.wikipedia.org/wiki/Kat%C4%B1_yak%C4%B1tl%C4%B1_roket_motoru",
+    "lang": "tr",
+    "created_at": "2025-12-20T12:40:29.652096",
+    "content": "Katı yakıtlı roket motoru yakıt ve oksitleyicisi katı fazda olan bir roket motoru türüdür. Askerî füze sistemlerinde, uydu fırlatma sistemlerinde ve hava yastıklarında kullanılmaktadır. Çinliler tarafından geliştirilmiştir ve 13. yüzyılın başlarından itibaren Çinliler, Persler, Moğollar ve Hintler tarafından savaşlarda kullanılmıştır. 20. yüzyıla kadar yapılan bütün roketler yakıt olarak yanıcı katı, barut ya da toz biçiminde yakıtlar kullanırlardı. Sıvı yakıtlı roketlerin ortaya çıkması, roketlerin daha verimli ve daha kontrol edilebilir olmasını sağladı. Ancak, bazı avantajlara sahip oldukları için katı yakıtlı roketler günümüzde hâlâ askeri alanda, model roketlerde ve ek itici (booster) olarak uzay roketlerinde yaygın olarak kullanılmaktadır. Katı yakıtlı roketler uzun süre bozulmadan depolanabilirler ve istenildiği takdirde hemen hazırlanıp ateşlenebilirler. Bu sebeplerden dolayı askeri endüstride sık sık kullanılırlar. Basit yapıda oldukları için üretimlerinin kolay ve ucuz olması, sıvı yakıtlı roketlere kıyasla boyutlarına göre daha fazla itiş gücü üretmesi, daha güvenilir olması katı yakıtlı roketlerin avantajlarındandır. Bu avantajlar sebebiyle günümüz uzay roketlerinde de sıvı yakıtlı roketler ile birlikte kullanılırlar. == Çalışma Mantığı == Sıvı yakıtlı roketlerde yanıcı madde (yakıt) ve yakıcı madde (oksijen) ayrı tanklarda sıvılaştırılmış hâlde bulunur, bu iki sıvı yanma odasında karıştırılır ve ateşlenir. Bir katı yakıtlı rokette ise adından da anlaşılacağı gibi yakıt ve oksijen katı hâlde bulunur. Bu iki madde birbiriyle çok iyi bir şekilde karıştırılır ve bu haliyle roketin içine yerleştirilir, eğer iyi karışmazsa yanma düzgün olmaz. Ateşleme yapıldığında açığa çıkan yüksek ısı aynı ortamda bulunan oksijen ve yakıtın tepkimeye girip yanmasına sebep olur. Bu yanma sonucu ortaya çıkan sıcak ve genleşmiş gaz egzozdan yüksek hızla dışarı çıkar ve Newton'un yasası (3. Yasa/Etki-Tepki) gereğince roketin ilerlemesini sağlar. Basit bir katı yakıtlı rokette yanma başladıktan sonra yanma hızı kontrol edilemez ve yakıt bitene kadar yanma durdurulamaz. Bu katı yakıtlı roketin en büyük dezavantajıdır. Ancak daha gelişmiş bir katı yakıtlı rokette yanma hızı kontrol edilebilir ya da yanma durdurulup tekrar başlatılabilir. Ayrıca kademeler halinde yanan ve her kademesi istenildiğinde ateşlenen katı yakıtlı roketlerde mevcuttur. == Avantajları (Sıvı Yakıtlı Roketlere Kıyasla) == -Mekanik anlamda çok basit oldukları için üretimleri kolay ve ucuzdur. -Çok fazla parça içermedikleri için boyutları daha küçüktür. -Depolanmaları ve taşınmaları kolaydır, uzun süre bozulmadan bekleyebilirler. -Ateşlemeye hızlı bir şekilde hazırlanabilirler. -Her boyutta üretilmeleri mümkündür, elle rahatlıkla tutulabilecek boyutlarda bile kolay bir şekilde üretilebilirler. -Boyutlarına göre ürettikleri itiş gücü yüksektir. -Daha güvenlidirler, kaza ihtimalleri daha düşüktür. == Dezavantajları (Sıvı Yakıtlı Roketlere Kıyasla) == -Verimlilikleri düşüktür. -Yanma hızlarının kontrol edilmesi çok zordur. Basit yapıda olanlarında hiçbir şekilde yanma hızı kontrol edilemez. -Ateşleme yapıldıktan sonra yakıt bitene kadar yanma durdurulamaz. Eğer kademeli yakıtı olan bir roket ise yanma her kademedeki yakıt bittiğinde durur, yani her istenildiğinde yanma durdurulamaz. (Yanmayı durdurup tekrar başlatabilen katı yakıtlı roketler vardır. Ancak bunlar mekanik anlamda daha karmaşık olduğu için pek tercih edilmez, çünkü o noktadan sonra işe sıvı yakıtlı roketler dahil olur.)",
+    "options": {
+      "chunk_size": 1000,
+      "chunk_overlap": 200,
+      "split_strategy": "header_aware",
+      "total_questions": 2,
+      "llm_model": "gemini-2.5-flash"
+    },
+    "stats": {
+      "word_count": 457,
+      "char_count": 3498,
+      "num_chunks": 6,
+      "num_sections": 0
+    }
+  },
+  "metadata": {
+    "export_date": "2025-12-20T14:28:54.147268",
+    "total_chunks": 6,
+    "description": "Complete article dataset",
+    "content_format": "markdown"
+  },
+  "chunks": [
+    {
+      "id": "c0000",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 0,
+      "end_char": 1000,
+      "content": "Katı yakıtlı roket motoru yakıt ve oksitleyicisi katı fazda olan bir roket motoru türüdür. Askerî füze sistemlerinde, uydu fırlatma sistemlerinde ve hava yastıklarında kullanılmaktadır. Çinliler tarafından geliştirilmiştir ve 13. yüzyılın başlarından itibaren Çinliler, Persler, Moğollar ve Hintler tarafından savaşlarda kullanılmıştır. 20. yüzyıla kadar yapılan bütün roketler yakıt olarak yanıcı katı, barut ya da toz biçiminde yakıtlar kullanırlardı. Sıvı yakıtlı roketlerin ortaya çıkması, roketlerin daha verimli ve daha kontrol edilebilir olmasını sağladı. Ancak, bazı avantajlara sahip oldukları için katı yakıtlı roketler günümüzde hâlâ askeri alanda, model roketlerde ve ek itici (booster) olarak uzay roketlerinde yaygın olarak kullanılmaktadır. Katı yakıtlı roketler uzun süre bozulmadan depolanabilirler ve istenildiği takdirde hemen hazırlanıp ateşlenebilirler. Bu sebeplerden dolayı askeri endüstride sık sık kullanılırlar. Basit yapıda oldukları için üretimlerinin kolay ve ucuz olması",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0001",
+      "section": "Lead",
+      "heading_path": "Lead",
+      "start_char": 800,
+      "end_char": 1249,
+      "content": "epolanabilirler ve istenildiği takdirde hemen hazırlanıp ateşlenebilirler. Bu sebeplerden dolayı askeri endüstride sık sık kullanılırlar. Basit yapıda oldukları için üretimlerinin kolay ve ucuz olması, sıvı yakıtlı roketlere kıyasla boyutlarına göre daha fazla itiş gücü üretmesi, daha güvenilir olması katı yakıtlı roketlerin avantajlarındandır. Bu avantajlar sebebiyle günümüz uzay roketlerinde de sıvı yakıtlı roketler ile birlikte kullanılırlar.",
+      "char_count": 449,
+      "token_estimate": 112
+    },
+    {
+      "id": "c0002",
+      "section": "== Çalışma Mantığı ==",
+      "heading_path": "== Çalışma Mantığı ==",
+      "start_char": 1250,
+      "end_char": 2250,
+      "content": "== Çalışma Mantığı == Sıvı yakıtlı roketlerde yanıcı madde (yakıt) ve yakıcı madde (oksijen) ayrı tanklarda sıvılaştırılmış hâlde bulunur, bu iki sıvı yanma odasında karıştırılır ve ateşlenir. Bir katı yakıtlı rokette ise adından da anlaşılacağı gibi yakıt ve oksijen katı hâlde bulunur. Bu iki madde birbiriyle çok iyi bir şekilde karıştırılır ve bu haliyle roketin içine yerleştirilir, eğer iyi karışmazsa yanma düzgün olmaz. Ateşleme yapıldığında açığa çıkan yüksek ısı aynı ortamda bulunan oksijen ve yakıtın tepkimeye girip yanmasına sebep olur. Bu yanma sonucu ortaya çıkan sıcak ve genleşmiş gaz egzozdan yüksek hızla dışarı çıkar ve Newton'un yasası (3. Yasa/Etki-Tepki) gereğince roketin ilerlemesini sağlar. Basit bir katı yakıtlı rokette yanma başladıktan sonra yanma hızı kontrol edilemez ve yakıt bitene kadar yanma durdurulamaz. Bu katı yakıtlı roketin en büyük dezavantajıdır. Ancak daha gelişmiş bir katı yakıtlı rokette yanma hızı kontrol edilebilir ya da yanma durdurulup tekrar baş",
+      "char_count": 1000,
+      "token_estimate": 250
+    },
+    {
+      "id": "c0003",
+      "section": "== Çalışma Mantığı ==",
+      "heading_path": "== Çalışma Mantığı ==",
+      "start_char": 2050,
+      "end_char": 2369,
+      "content": " ve yakıt bitene kadar yanma durdurulamaz. Bu katı yakıtlı roketin en büyük dezavantajıdır. Ancak daha gelişmiş bir katı yakıtlı rokette yanma hızı kontrol edilebilir ya da yanma durdurulup tekrar başlatılabilir. Ayrıca kademeler halinde yanan ve her kademesi istenildiğinde ateşlenen katı yakıtlı roketlerde mevcuttur.",
+      "char_count": 319,
+      "token_estimate": 79
+    },
+    {
+      "id": "c0004",
+      "section": "== Avantajları (Sıvı Yakıtlı Roketlere Kıyasla) ==",
+      "heading_path": "== Avantajları (Sıvı Yakıtlı Roketlere Kıyasla) ==",
+      "start_char": 2370,
+      "end_char": 2902,
+      "content": "== Avantajları (Sıvı Yakıtlı Roketlere Kıyasla) == -Mekanik anlamda çok basit oldukları için üretimleri kolay ve ucuzdur. -Çok fazla parça içermedikleri için boyutları daha küçüktür. -Depolanmaları ve taşınmaları kolaydır, uzun süre bozulmadan bekleyebilirler. -Ateşlemeye hızlı bir şekilde hazırlanabilirler. -Her boyutta üretilmeleri mümkündür, elle rahatlıkla tutulabilecek boyutlarda bile kolay bir şekilde üretilebilirler. -Boyutlarına göre ürettikleri itiş gücü yüksektir. -Daha güvenlidirler, kaza ihtimalleri daha düşüktür.",
+      "char_count": 531,
+      "token_estimate": 132
+    },
+    {
+      "id": "c0005",
+      "section": "== Dezavantajları (Sıvı Yakıtlı Roketlere Kıyasla) ==",
+      "heading_path": "== Dezavantajları (Sıvı Yakıtlı Roketlere Kıyasla) ==",
+      "start_char": 2902,
+      "end_char": 3498,
+      "content": "== Dezavantajları (Sıvı Yakıtlı Roketlere Kıyasla) == -Verimlilikleri düşüktür. -Yanma hızlarının kontrol edilmesi çok zordur. Basit yapıda olanlarında hiçbir şekilde yanma hızı kontrol edilemez. -Ateşleme yapıldıktan sonra yakıt bitene kadar yanma durdurulamaz. Eğer kademeli yakıtı olan bir roket ise yanma her kademedeki yakıt bittiğinde durur, yani her istenildiğinde yanma durdurulamaz. (Yanmayı durdurup tekrar başlatabilen katı yakıtlı roketler vardır. Ancak bunlar mekanik anlamda daha karmaşık olduğu için pek tercih edilmez, çünkü o noktadan sonra işe sıvı yakıtlı roketler dahil olur.)",
+      "char_count": 596,
+      "token_estimate": 149
+    }
+  ],
+  "questions": {
+    "total_questions": 2,
+    "items": [
+      {
+        "question": "Katı yakıtlı roket motorları kimler tarafından geliştirilmiştir?",
+        "answer": "Çinliler tarafından.",
+        "related_chunk_ids": [
+          "c0000"
+        ],
+        "category": "FACTUAL"
+      },
+      {
+        "question": "Katı yakıtlı roket motorlarının sıvı yakıtlı roketlere göre temel avantajları ve dezavantajları nelerdir?",
+        "answer": "Katı yakıtlı roket motorlarının avantajları arasında uzun süre bozulmadan depolanabilmeleri, istendiğinde hemen hazırlanıp ateşlenebilmeleri, basit yapıları sayesinde üretimlerinin kolay ve ucuz olması, boyutlarına göre sıvı yakıtlı roketlere kıyasla daha fazla itiş gücü üretmeleri ve daha güvenilir olmaları yer alır. Başlıca dezavantajı ise, basit katı yakıtlı roketlerde yanma hızının kontrol edilememesi ve yakıt bitene kadar yanmanın durdurulamamasıdır; bu durum, sıvı yakıtlı roketlerin sunduğu verimlilik ve kontrol edilebilirlik ile karşılaştırıldığında bir sınırlama oluşturur.",
+        "related_chunk_ids": [
+          "c0000",
+          "c0001",
+          "c0002"
+        ],
+        "category": "INTERPRETATION"
+      }
+    ]
+  }
+}
